@@ -118,25 +118,26 @@ behind and someone else can honestly agree or disagree with.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an independent judgment of
-a performance is a claim about the work, backed by evidence in the movement, connected by a
-warrant — and it is "independent" because the learner formed it, not because it ignores the
-tradition.** Teach the claim-evidence-warrant chain explicitly, then let learners write and
-test their own (S-011). Keep "independent" from sliding into "isolated": a defended judgment
-is *more* respectful of living practitioners, because it rests on careful watching rather
-than borrowed opinion.
+The idea to land: **an independent judgment of a performance is a claim about the work,
+backed by evidence in the movement, connected by a warrant — and it is "independent"
+because the learner formed it, not because it ignores the tradition.** Teach the
+claim-evidence-warrant chain explicitly, then let learners write and test their own
+(S-011). Keep "independent" from sliding into "isolated": a defended judgment is *more*
+respectful of living practitioners, because it rests on careful watching rather than
+borrowed opinion.
 
-The **ethics** lens: a judgment I cannot defend with evidence is only a preference wearing a
-judge's robe; defending it honestly means naming what the movement does and does not show.
-The **egalitarianism** lens: anyone can be a critic, because the warrant is public — it
-invites another person to check the evidence and disagree with reasons, not with status. The
-**global** lens: judgment across cultures is only fair when it starts from the performance's
-own context (Lesson 11) and when appreciation — credit, permission, respect for living
-practitioners — replaces appropriation (S-056). The **technology** lens: a recorded
-performance can be judged without the practitioner's context or consent; a defended judgment
-should say when it is judging a recording, not the lived occasion. The **environment** lens: a
-judgment can weigh where and for what the performance happens — the harvest it marks, the sea
-it answers — as part of its evidence. Preview: Lesson 13 turns to design and making.
+The **ethics** lens: a judgment I cannot defend with evidence is only a preference
+wearing a judge's robe; defending it honestly means naming what the movement does and
+does not show. The **egalitarianism** lens: anyone can be a critic, because the warrant
+is public — it invites another person to check the evidence and disagree with reasons,
+not with status. The **global** lens: judgment across cultures is only fair when it
+starts from the performance's own context (Lesson 11) and when appreciation — credit,
+permission, respect for living practitioners — replaces appropriation (S-056). The
+**technology** lens: a recorded performance can be judged without the practitioner's
+context or consent; a defended judgment should say when it is judging a recording, not
+the lived occasion. The **environment** lens: a judgment can weigh where and for what
+the performance happens — the harvest it marks, the sea it answers — as part of its
+evidence. Preview: Lesson 13 turns to design and making.
 
 ## Procedure
 

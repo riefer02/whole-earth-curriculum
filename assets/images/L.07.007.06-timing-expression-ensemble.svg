@@ -48,7 +48,7 @@
   <text x="256" y="374" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Ensemble — everyone fits the scene together</text>
   <!-- stage from above -->
   <rect x="140" y="392" width="232" height="66" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">audience</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">audience</text>
   <!-- three figures on stage -->
   <circle cx="190" cy="416" r="9" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="256" cy="408" r="9" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>

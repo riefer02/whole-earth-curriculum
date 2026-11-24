@@ -111,20 +111,35 @@ they feel and what they need. Today you will practice saying how *you* feel.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **expressing feelings, not
-winning**. Conflict is named as normal and okay — two people wanting different
-things — never as a child "being bad." No child is ever the problem; the conflict is
-the thing we solve together. Keep the conflict gentle (both want the same ball, the
-same swing) and free of blame. "Use your words" means *however a learner expresses
-themselves* — spoken words, sign, a gesture, pointing to a feeling on the board, eye
-gaze, or a communication board; a grown-up or peer can voice what they point to or
-sign. Learners who are deaf or hard of hearing follow the strip by sight and sign;
-learners who are blind or low-vision hear the sentence named and touch a textured
-feeling card; learners with a motor difference can point with a partner's help or
-direct the partner to move the puppets while they show the feeling. Never require
-anyone to speak or perform in front of the group; a learner may always pass. The
-sentence is a scaffold, not a script to obey — wonder together about other words
-that could work. (This lesson's partner, listening, comes next.)
+**Tone.** Calm and steady. This is about expressing a feeling, not winning.
+
+**The facts to land.**
+
+1. Conflict is normal — two people wanting different things. It is never a child "being
+   bad."
+2. No child is the problem; the conflict is what we solve together.
+3. Keep the conflict gentle (both want the same ball, the same swing) and free of blame.
+4. The sentence is a scaffold, not a script — wonder together about other words.
+
+**Don't overshoot.** "Use your words" means *however a learner expresses themselves* —
+speech, sign, a gesture, pointing to a feeling on the board, eye gaze, or a
+communication board; a grown-up or peer can voice what they point to or sign.
+
+**The lenses, briefly.**
+
+- *Ethics:* the feeling is named, not argued away.
+- *Egalitarianism:* every route to the words counts.
+- *Social-emotional:* naming the feeling is the first step to solving it.
+- *Community:* both people stay in the circle.
+- *Global:* feeling words differ by language and culture.
+- *Critical-thinking:* more than one word can fit a feeling.
+
+**The skill.** Say what you want and how you feel, without blaming the other person.
+
+**Access.** Deaf or hard of hearing: follow the strip by sight and sign. Blind or
+low-vision: hear the sentence and touch a textured feeling card. Motor difference: point
+with a partner's help, or direct the puppets while you show the feeling. Never require
+anyone to speak or perform; a learner may pass. (Listening comes next.)
 
 ## Procedure
 

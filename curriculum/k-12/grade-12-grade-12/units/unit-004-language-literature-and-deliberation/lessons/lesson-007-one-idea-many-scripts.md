@@ -127,31 +127,38 @@ has been and whom its speakers met. Reading that map is a kind of literacy all i
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description**:
-words descend from older words (shared roots) or travel between languages (borrowing).
-The "mother" set descends from the reconstructed Proto-Indo-European root \*méh₂tēr —
-an *inference*, marked honestly as such (Fortson, S-103). The tea/chai split is a real,
-mapped isogloss: Sinitic *cha* traveled overland (→ chai), while Min Nan *te* traveled by
-sea (→ tea/thé) (WALS, S-169). Linguistic relativity is held **only in its moderate,
-well-supported form** — languages *sort* the world differently and shape habitual
-thought — not the strong determinism form, which is largely rejected (Sapir & Whorf,
-S-168). Treat "language shapes thought" as a *description to weigh*, and "every language
-is a complete system, a wealth" as a *value*.
+**Tone.** Curious and exact: inferences labeled as inferences, and no language as the
+measure.
 
-The **ethics** lens: describing a language as a "dialect" or "broken" version of another
-is a value claim dressed as a fact; the honest description is that every variety is a
-complete system. The **egalitarianism** lens: whose word for "mother" or "tea" is
-treated as the "real" one is a question of power, not of linguistics. The **global**
-lens: the tea/chai map is a miniature of world trade — overland caravans and sea routes
-— and no single route is the default. The **technology** lens: digital type and Unicode
-let all these scripts share one screen, and machine translation tries (imperfectly) to
-carry the meaning across — both are technologies that shape how languages meet. The
-**environment** lens: the tea plant (*Camellia sinensis*) is itself a botanical story —
-one plant, domesticated in one region, spread by human trade until its name marks two
-hemispheres; language here carries an environmental history. The **critical-thinking**
-lens: "does this similarity show a shared ancestor or a borrowed word?" is a precise
-historical question, not a guess. Preview: Lesson 8 turns from reading to *writing* —
-planning a sustained piece.
+**The facts to land.**
+
+1. Words descend from older words or travel between languages. The "mother" set descends
+   from the reconstructed Proto-Indo-European root **méh₂tēr* — an inference, marked
+   honestly as such (Fortson, S-103).
+2. The tea/chai split is a real, mapped isogloss: Sinitic *cha* travelled overland (→
+   chai), while Min Nan *te* travelled by sea (→ tea, thé) (WALS, S-169).
+3. Linguistic relativity holds **only in its moderate form** — languages sort the world
+   differently and shape habitual thought — not the strong determinism form, largely
+   rejected (Sapir & Whorf, S-168).
+
+**Don't overshoot.** Treat "language shapes thought" as a description to weigh, and
+"every language is a complete system, a wealth" as a value.
+
+**The lenses, briefly.**
+
+- *Ethics:* calling a variety a "dialect" or a "broken" version is a value claim dressed
+  as a fact.
+- *Egalitarianism:* whose word for "tea" is treated as the real one is power, not
+  linguistics.
+- *Global:* the tea/chai map is world trade in miniature — caravans and sea routes.
+- *Technology:* Unicode and machine translation shape how languages now meet.
+- *Environment:* *Camellia sinensis* is one plant, domesticated in one region, spread by
+  trade until its name marks two hemispheres.
+- *Critical-thinking:* shared ancestor, or borrowed word?
+
+**The skill.** Model one word set, then release (S-011): trace one word's route and
+label which steps are evidence and which are inference. Lesson 8 turns to planning a
+sustained piece.
 
 ## Procedure
 

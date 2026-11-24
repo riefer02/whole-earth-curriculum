@@ -108,18 +108,17 @@ day — even without ever writing a sign for it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Adding is a *skill*, so teach it with
-a **worked example** and guided practice before independent work (philosophy §13).
-The one new idea is that two groups joined become one group whose total you can
-count; the written signs (+, =) come *after* the objects, never before. Keep sums
-within 20. Use the "count on" strategy as one tool, not the only one — some learners
-count all, and that is fine; both are correct. The number sentence is a *record* of
-what the hands did, not a rule to memorize. For learners who are Deaf or hard of
-hearing, act out joining in sign or by moving objects; for learners who are blind or
-low-vision, join two bowls of objects and count the total by touch and sound. A
-learner who does not speak can show the total by pointing to a number card or
-holding up that many fingers. Never rank learners by how fast they add; a correct
-total, reached any way, is correct.
+Adding is a *skill*, so teach it with a **worked example** and guided practice before
+independent work (philosophy §13). The one new idea is that two groups joined become one
+group whose total you can count; the written signs (+, =) come *after* the objects,
+never before. Keep sums within 20. Use the "count on" strategy as one tool, not the only
+one — some learners count all, and that is fine; both are correct. The number sentence
+is a *record* of what the hands did, not a rule to memorize. For learners who are Deaf
+or hard of hearing, act out joining in sign or by moving objects; for learners who are
+blind or low-vision, join two bowls of objects and count the total by touch and sound. A
+learner who does not speak can show the total by pointing to a number card or holding up
+that many fingers. Never rank learners by how fast they add; a correct total, reached
+any way, is correct.
 
 ## Procedure
 

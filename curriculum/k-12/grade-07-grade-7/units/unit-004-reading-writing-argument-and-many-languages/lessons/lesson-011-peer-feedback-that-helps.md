@@ -114,15 +114,15 @@ word: you decide which advice to take, and you can say why.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **feedback is a
-gift with three parts — specific, kind, useful — and the writer stays the author**. Model
-the three stems on a sample draft before learners practice (Kirschner, Sweller & Clark,
-2006; Hattie's feedback finding, S-012). Protect writers: feedback comments on the *text*,
-never the person, and every writer chooses what to accept and explains why. The four
-lenses: *ethics* (honest but kind; no fake praise, no cruelty); *egalitarianism* (every
-draft deserves a careful reader, and every reader's view counts — mastery, not ranking);
-*social-emotional* (receiving feedback can sting; name that and keep the focus on the
-work); *critical-thinking* (choosing which advice to take is judgment). See
+The idea to land is that **feedback is a gift with three parts — specific, kind,
+useful — and the writer stays the author**. Model the three stems on a sample draft
+before learners practice (Kirschner, Sweller & Clark, 2006; Hattie's feedback finding,
+S-012). Protect writers: feedback comments on the *text*, never the person, and every
+writer chooses what to accept and explains why. The four lenses: *ethics* (honest but
+kind; no fake praise, no cruelty); *egalitarianism* (every draft deserves a careful
+reader, and every reader's view counts — mastery, not ranking); *social-emotional*
+(receiving feedback can sting; name that and keep the focus on the work);
+*critical-thinking* (choosing which advice to take is judgment). See
 `docs/facilitation.md`.
 
 ## Procedure
@@ -171,3 +171,4 @@ back what you will change and why.
   revision: Graham & Perin (2007), "Writing Next," <https://all4ed.org/reports-factsheets/writing-next/>
 - On modeling before practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- Hattie — Visible Learning (relationships, feedback, class size) (S-012).

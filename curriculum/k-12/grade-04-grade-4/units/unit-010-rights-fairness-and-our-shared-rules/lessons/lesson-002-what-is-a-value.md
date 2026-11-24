@@ -120,20 +120,36 @@ really yours.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson introduces **values** gently — as things a
-person genuinely cares about, not as a list to be graded. Model naming a value yourself
-first ("I value honesty — because I care about people being able to trust my word"),
-then invite learners to name their own. A value is personal, and there is no correct
-answer: a learner may name anything from "my family" to "fairness" to "the river."
-Hold values as *questions and guides*, never as a ranking — no learner's value is
-"better" than another's, and we never shame a value that differs from our own. Some
-values conflict (honesty vs. kindness), and that is worth wondering about later in the
-unit. A learner who does not speak aloud points to a values card or draws their value;
-a learner who is deaf or hard of hearing follows the cards through sign; a learner who
-is blind or low-vision hears each value described and names their own aloud; a learner
-with a motor difference can direct a partner to circle their value. A learner may
-always pass, or name a value privately to a grown-up. The goal is a learner who can
-say, in their own way, "this is something I care about — this is a value of mine."
+**Tone.** Gentle — a value is named, never graded.
+
+**The facts to land.**
+1. A value is something a person genuinely cares about — not an item on a list to be
+   marked.
+2. There is no correct answer: a learner may name "my family", fairness, or the river.
+3. Some values conflict — honesty against kindness — and that is worth wondering about
+   later.
+
+**Don't overshoot.** Do not rank values. No learner's value is "better" than another's,
+and we never shame a value that differs from our own.
+
+**The lenses, briefly.**
+- *Ethics:* a value is a guide, held as a question.
+- *Egalitarianism:* every value gets the same respect.
+- *Social-emotional:* a learner may pass, or name a value privately to a grown-up.
+- *Global:* values come from many homes and traditions.
+- *Community:* naming values aloud builds the group's shared language.
+- *Critical-thinking:* what do I care about?
+
+**The skill.** Say, in your own words: this is something I care about, and this is a
+value of mine.
+
+Model it first: I value honesty, because I care about people being able to trust my
+word.
+
+**Access:** a learner who does not speak points to a values card or draws their value; a
+learner who is deaf or hard of hearing follows the cards through sign; a learner who is
+blind or has low vision hears each value described; a learner with a motor difference
+directs a partner to circle it.
 
 ## Procedure
 

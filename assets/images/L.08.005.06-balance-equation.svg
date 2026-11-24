@@ -51,7 +51,7 @@
   <text x="256" y="282" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">check it</text>
   <text x="40" y="312" font-family="sans-serif" font-size="15" fill="#222222">put x = 4 back in: 2(4) + 3 = 8 + 3 = 11 ✓</text>
   <text x="40" y="342" font-family="sans-serif" font-size="14" fill="#4f6d7a">undo add/subtract first, then multiply/divide</text>
-  <text x="40" y="368" font-family="sans-serif" font-size="12.7" fill="#4f6d7a">an equation is a balance — what you do to one side, do to the other</text>
+  <text x="40" y="368" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">an equation is a balance — what you do to one side, do to the other</text>
 
   <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">isolate the variable by undoing, in reverse order, then check</text>
 </svg>

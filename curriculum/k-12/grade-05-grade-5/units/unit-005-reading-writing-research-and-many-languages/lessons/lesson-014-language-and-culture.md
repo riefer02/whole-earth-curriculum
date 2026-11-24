@@ -114,14 +114,14 @@ a culture cares about: exactly how you are related, or exactly how much respect 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **words carry culture**:
-the distinctions a language makes reveal what its speakers value, and no language's
-distinctions are "better" — they are different and each is meaningful. Use accurate examples
-and check them (Hindi *chacha*/*mama*; Spanish *tú*/*usted*; Japanese honorifics; the two
-routes that spread the word "tea"/"chai"). Invite learners to be the experts on their own home
-languages; treat every contribution as a gift, and never rank or correct a learner's language.
-The linguistic facts are evidence; the claim that all languages are equally worthy is a value
-we hold (`docs/philosophy.md` §4–5).
+The idea to land is that **words carry culture**: the distinctions a language makes
+reveal what its speakers value, and no language's distinctions are "better" — they are
+different and each is meaningful. Use accurate examples and check them (Hindi
+*chacha*/*mama*; Spanish *tú*/*usted*; Japanese honorifics; the two routes that spread
+the word "tea"/"chai"). Invite learners to be the experts on their own home languages;
+treat every contribution as a gift, and never rank or correct a learner's language. The
+linguistic facts are evidence; the claim that all languages are equally worthy is a
+value we hold (`docs/philosophy.md` §4–5).
 
 ## Procedure
 

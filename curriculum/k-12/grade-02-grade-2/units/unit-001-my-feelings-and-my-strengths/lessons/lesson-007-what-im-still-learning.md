@@ -109,12 +109,11 @@ not a failure; it is the exact spot where you are growing. Even grown-ups have
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The heart of this lesson is the
-"not yet" mindset: a skill not yet learned is information, never a verdict. Never let
-the ladder become a ranking — no one is "higher" than anyone else; different people
-are on different rungs for different skills. A learner who shares a "not yet" is
-showing courage; receive it warmly. "With help" and "on my own" are both good places
-to be. Model your own "not yet" first to make it safe.
+The heart of this lesson is the "not yet" mindset: a skill not yet learned is
+information, never a verdict. Never let the ladder become a ranking — no one is "higher"
+than anyone else; different people are on different rungs for different skills. A
+learner who shares a "not yet" is showing courage; receive it warmly. "With help" and
+"on my own" are both good places to be. Model your own "not yet" first to make it safe.
 
 ## Procedure
 

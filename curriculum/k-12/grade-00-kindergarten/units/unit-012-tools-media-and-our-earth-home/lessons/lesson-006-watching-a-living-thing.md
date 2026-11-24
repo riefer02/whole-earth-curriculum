@@ -101,12 +101,11 @@ attention.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, protect the quiet —
-silence is the heart of observation, and young learners may need a little structure to
-settle into it. Guide gentle hands and eyes: we watch without harming, and we never
-hurt a living thing just to look at it. If a bug is observed, remind learners it is a
-guest, not a toy. Whatever living thing is at hand is perfect; there is no "right"
-animal to watch.
+As facilitator, protect the quiet — silence is the heart of observation, and young
+learners may need a little structure to settle into it. Guide gentle hands and eyes: we
+watch without harming, and we never hurt a living thing just to look at it. If a bug is
+observed, remind learners it is a guest, not a toy. Whatever living thing is at hand is
+perfect; there is no "right" animal to watch.
 
 ## Procedure
 

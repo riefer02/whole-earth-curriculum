@@ -110,17 +110,16 @@ material.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the creative side of pattern
-work: the learner makes the pattern and puts its rule into words. Model one example
-— create, then state the rule — as a **worked example** (philosophy §13). The new,
-powerful idea is **translation**: a rule like "red, blue, blue" can be clapped as
-"loud, soft, soft" and stepped as "hop, step, step" — same rule, different material.
-Celebrate every original pattern; there is no pattern too simple or too strange, and
-creativity is never ranked. For learners who are Deaf or hard of hearing, use visual
-and movement patterns and state the rule in sign; for learners who are blind or
-low-vision, create sound and touch patterns and tell the rule aloud. A learner who
-does not speak tells the rule by pointing, arranging cards, or demonstrating it.
-Every learner's pattern is a work of art and reason.
+It is the creative side of pattern work: the learner makes the pattern and puts its rule
+into words. Model one example — create, then state the rule — as a **worked example**
+(philosophy §13). The new, powerful idea is **translation**: a rule like "red, blue,
+blue" can be clapped as "loud, soft, soft" and stepped as "hop, step, step" — same rule,
+different material. Celebrate every original pattern; there is no pattern too simple or
+too strange, and creativity is never ranked. For learners who are Deaf or hard of
+hearing, use visual and movement patterns and state the rule in sign; for learners who
+are blind or low-vision, create sound and touch patterns and tell the rule aloud. A
+learner who does not speak tells the rule by pointing, arranging cards, or demonstrating
+it. Every learner's pattern is a work of art and reason.
 
 ## Procedure
 

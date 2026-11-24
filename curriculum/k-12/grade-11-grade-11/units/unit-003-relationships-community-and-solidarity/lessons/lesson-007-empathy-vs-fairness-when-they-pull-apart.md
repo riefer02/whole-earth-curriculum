@@ -108,11 +108,10 @@ the scale.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **empathy and fairness
-can genuinely conflict, and maturity is naming the trade-off and weighing it — hearing
-each side at its strongest — rather than pretending one value cancels the other.** Teach
-the weighing with a worked example; keep dilemmas hypothetical or lightly structured so
-no learner is cornered.
+The idea to land: **empathy and fairness can genuinely conflict, and maturity is naming
+the trade-off and weighing it — hearing each side at its strongest — rather than
+pretending one value cancels the other.** Teach the weighing with a worked example; keep
+dilemmas hypothetical or lightly structured so no learner is cornered.
 
 The **ethics** lens: this is a live question in moral philosophy — impartiality versus
 partiality, the one versus the many — and learners reason through it rather than receive

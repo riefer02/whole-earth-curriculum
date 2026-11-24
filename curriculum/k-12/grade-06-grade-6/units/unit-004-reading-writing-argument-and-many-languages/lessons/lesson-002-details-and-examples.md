@@ -114,11 +114,11 @@ to check.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **details are general
-and examples are specific** — the difference is *scope*, not importance. Neither is "better";
-each does a job in an argument, and a strong argument usually needs both. Retrieval practice:
-open by having learners recall Lesson 1's trunk/branch/leaf image before refining it. Model
-the two test questions on a close call; do not rush past sentences that feel like both — those
+The idea to land is that **details are general and examples are specific** — the
+difference is *scope*, not importance. Neither is "better"; each does a job in an
+argument, and a strong argument usually needs both. Retrieval practice: open by having
+learners recall Lesson 1's trunk/branch/leaf image before refining it. Model the two
+test questions on a close call; do not rush past sentences that feel like both — those
 are the thinking. Honor every home language: learners sort and argue in their strongest
 language. Keep sorting cooperative and let learners justify choices rather than racing.
 

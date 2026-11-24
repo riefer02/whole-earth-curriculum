@@ -123,17 +123,17 @@ choice** you can make.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The one idea to land is **agency, not
-fear**: a risk is a *chance* of harm, and a safer choice lowers the chance. Keep it
-**non-frightening** — use everyday, manageable situations, never worst-case horror
-stories, and always end on the safer action the learner *can* take. For **online** life,
-land the two basics clearly and without panic: **never share personal information**
-(name, address, school, phone number, passwords, and photos of yourself that reveal where
-you are) with people online, and **tell a trusted adult** if anything online feels wrong,
-scary, or too secret. Reassure learners that telling is not tattling and is never their
-fault. Frame trusted adults broadly — a parent, grandparent, aunt or uncle, teacher,
-coach, or health worker. Model one example from each setting as a **worked example**
-before the card sort. See `docs/facilitation.md` and `docs/contexts.md`.
+The one idea to land is **agency, not fear**: a risk is a *chance* of harm, and a safer
+choice lowers the chance. Keep it **non-frightening** — use everyday, manageable
+situations, never worst-case horror stories, and always end on the safer action the
+learner *can* take. For **online** life, land the two basics clearly and without panic:
+**never share personal information** (name, address, school, phone number, passwords,
+and photos of yourself that reveal where you are) with people online, and **tell a
+trusted adult** if anything online feels wrong, scary, or too secret. Reassure learners
+that telling is not tattling and is never their fault. Frame trusted adults broadly — a
+parent, grandparent, aunt or uncle, teacher, coach, or health worker. Model one example
+from each setting as a **worked example** before the card sort. See
+`docs/facilitation.md` and `docs/contexts.md`.
 
 ## Procedure
 

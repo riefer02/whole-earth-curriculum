@@ -117,29 +117,27 @@ for another.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **interpretation is
-carrying meaning, not words — the interpreter listens for the main idea, renders it
-faithfully, checks back with the speaker, and admits when unsure; accuracy and care,
-not fluency, are the standard.** Interpretation is a real skill of **plurilingual
-competence** — drawing on more than one language to mediate between people (S-237). A
-learner who is not fluent in two languages can still practice the protocol by
-interpreting between two *registers* or *ways of speaking* (child ↔ adult, formal ↔
-informal), which is genuine bridging; the standard says "bridge between speakers of
-different languages," and register-bridging is a faithful, low-threshold version of it
-(egalitarian lens — never gate the skill behind fluency).
+The idea to land: **interpretation is carrying meaning, not words — the interpreter
+listens for the main idea, renders it faithfully, checks back with the speaker, and
+admits when unsure; accuracy and care, not fluency, are the standard.** Interpretation
+is a real skill of **plurilingual competence** — drawing on more than one language to
+mediate between people (S-237). A learner not fluent in two languages can still practice
+the protocol by interpreting between two *registers* (child ↔ adult, formal ↔ informal)
+— genuine bridging, and a faithful, low-threshold version of the standard (egalitarian
+lens — never gate the skill behind fluency).
 
 Model the four moves once, then let trios practice (worked example → guided practice →
-independent work; S-011). The **ethics** lens is the spine: the interpreter's first
-duty is to the *meaning* and the *speaker* — never to add, drop, or "improve" what was
-said; admitting uncertainty is honesty, not failure. The **egalitarian** lens: a good
-bridge treats both speakers as full persons, never as the "fluent" one and the "other"
-one. The **global** lens: interpretation is ancient and worldwide — trade, diplomacy,
-families, and courts have always needed people who carry meaning across. The
-**social-emotional** lens: being interpreted can feel vulnerable; the interpreter
-holds both speakers with care and patience. The **critical-thinking** lens: the
-interpreter *decides* what is the main idea — that is a judgment call, and "check back"
-is how it stays honest. Preview: Lesson 16 is the live bridge — a real setting, a real
-exchange, recorded for the portfolio.
+independent work; S-011). The **ethics** lens is the spine: the interpreter's first duty
+is to the *meaning* and the *speaker* — never to add, drop, or "improve" what was said;
+admitting uncertainty is honesty, not failure. The **egalitarian** lens: a good bridge
+treats both speakers as full persons, never as the "fluent" one and the "other" one. The
+**global** lens: interpretation is ancient and worldwide — trade, diplomacy, families,
+and courts have always needed people who carry meaning across. The **social-emotional**
+lens: being interpreted can feel vulnerable; the interpreter holds both speakers with
+care and patience. The **critical-thinking** lens: the interpreter *decides* what is the
+main idea — that is a judgment call, and "check back" is how it stays honest. Preview:
+Lesson 16 is the live bridge — a real setting, a real exchange, recorded for the
+portfolio.
 
 ## Procedure
 

@@ -116,22 +116,33 @@ that is why we have to look at the steps.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a rule, law, or system
-can treat some groups unfairly even when no one person intends harm** — the unfairness
-lives in the *steps* of the system, not (necessarily) in anyone's intention. Teach the
-tracing routine — *who is affected? who is left out? at which step? did anyone intend
-it?* — as a worked example (Kirschner, Sweller & Clark, 2006). Keep it **non-shaming and
-precise**: the point is *not* to blame designers (often there is no single villain), but
-to see that *outcomes* can be unfair even when *intentions* are not. That is why the
-egalitarian question "who is left out?" matters — we must ask it, because the system will
-not tell us by itself. Distinguish **evidence from values**: *that a rule leaves some
-people out, and at which step* is observable; *that leaving people out is wrong and
-should be fixed* is a value held by this curriculum and its learners. Carry the
-**technology & environment lens** honestly: systems include *built things* (a staircase,
-a door, a screen, a form), and design choices — physical or digital — can include or
-exclude; a small change (a ramp, a translation, a different time, a spoken option) often
-repairs a lot. Attach every example to hope: unfair systems can be, and are, changed.
-See `docs/facilitation.md`.
+**Tone.** Precise, non-shaming. The target is the system's steps, never a villain.
+
+**The facts to land.**
+
+1. **A rule, law, or system can treat some groups unfairly even when no one intends
+   harm** — the unfairness lives in the steps, not necessarily in anyone's intention.
+2. The tracing routine: *who is affected? who is left out? at which step? did anyone
+   intend it?*
+3. **Outcomes can be unfair even when intentions are not**, which is why we must ask
+   "who is left out?" — the system will not tell us by itself.
+
+**Don't overshoot.** Do not hunt for a designer to blame. Often there is no single
+villain, and a learner who feels accused stops thinking.
+
+**The lenses, briefly.**
+
+- *Ethics:* that a rule leaves people out is observable; that this is wrong and should
+  be fixed is a value this curriculum holds and names as one.
+- *Egalitarianism:* the excluded are usually those with least power to object.
+- *Global:* exclusion by design appears under every political system.
+- *Technology:* systems include built things — a staircase, a door, a screen, a form —
+  and design choices, physical or digital, can include or exclude. A small change (a
+  ramp, a translation, a different time, a spoken option) often repairs a lot.
+
+**The skill.** Trace one familiar system through the four questions, then name one
+repair. Model it once (Kirschner, Sweller & Clark, 2006). Attach every example to hope:
+unfair systems can be, and are, changed. See `docs/facilitation.md`.
 
 ## Procedure
 

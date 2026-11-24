@@ -124,26 +124,38 @@ it is taking us.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **opening and retrieval pass**, so
-the goals are modest: **(1) recall four Grade-8 ideas — rational numbers end or repeat while
-irrational numbers never do, a function is a rule that gives one output for each input, rigid
-motions move shapes without changing their size and shape, and a scatter plot shows a possible
-relationship between two quantities; (2) preview the unit's four strands — number & quantity,
-patterns & relationships, geometry & spatial reasoning, and data, measurement & probability — and
-its eight goals; (3) plant the organizing idea: mathematics *models* with functions, *proves* with
-reasons, and *reasons honestly* about data.** Do not try to teach the eight goals today; just name
-and locate them. The critical-thinking lens: a pattern is not a proof, and association is not
-causation — that habit carries into the whole unit. The global lens: these same tools were built in
-Babylon, India, China, Egypt, the Islamic world, and Africa, not one place (S-023, S-024, S-429).
-The egalitarian lens: mathematics is sense-making open to all — "not yet" is information, never a
-verdict (philosophy §8, S-009). The ethics lens: mathematics that "reasons honestly" about data is
-an ethical commitment — a number can be made to lie, and part of this unit is learning not to let
-it, about others or ourselves (philosophy §5). The technology & environment lens: calculators and
-computers do arithmetic and store data, but they do not decide what is honest, meaningful, or fair
-— the human does; and the same tools we will build (models, tables, proofs) are how people measure
-and care for real things like water, land, energy, and climate. Keep everything held as
-sense-making, not creed. Spacing note (S-039): this recall pass is what makes the unit's ideas
-stick later.
+**Tone.** Light and welcoming — an **opening and retrieval pass**, not a teaching day.
+
+**The facts to land.**
+
+1. **Recall four Grade-8 ideas:** rational numbers end or repeat, irrationals never do;
+a function gives one output for each input; rigid motions move shapes without changing
+them; a scatter plot suggests a relationship between two quantities.
+2. **Preview the four strands** — number & quantity, patterns & relationships, geometry
+& spatial reasoning, data, measurement & probability — and name the eight goals. Locate,
+don't teach.
+3. **Plant the organizing idea:** mathematics *models* with functions, *proves* with
+reasons, and *reasons honestly* about data.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* a pattern is not a proof, and association is not causation.
+- *Global:* these tools were built in Babylon, India, China, Egypt, the Islamic world,
+and Africa (S-023, S-024, S-429).
+- *Egalitarianism:* "not yet" is information, never a verdict; mathematics is
+sense-making open to all (philosophy §8, S-009).
+- *Ethics:* reasoning honestly about data is ethical work — a number can be made to
+lie, and this unit is about not letting it (philosophy §5).
+- *Technology:* calculators and computers do arithmetic and store data, but do not
+decide what is honest, meaningful, or fair.
+- *Environment:* models, tables, and proofs are how people measure and care for water,
+land, energy, and climate.
+
+**The skill.** Locate, not master: place the eight goals and say where the unit is
+going.
+
+**Spacing.** This recall pass is what makes the unit's ideas stick later (S-039). Hold
+it all as sense-making, not creed.
 
 ## Procedure
 

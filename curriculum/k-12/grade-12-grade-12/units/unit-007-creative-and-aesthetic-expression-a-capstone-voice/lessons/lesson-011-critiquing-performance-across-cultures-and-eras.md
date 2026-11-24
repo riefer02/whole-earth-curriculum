@@ -119,24 +119,25 @@ from your own, without flattening it into "good" or "bad" by your own habits.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **performance critique is a
-four-step climb — describe, analyze, interpret, evaluate — each step grounded in what is
-actually seen (or faithfully described), and each tradition met as a living one to honor, not
-a specimen to grade.** Teach the ladder explicitly with a worked example, then let learners
-climb it on a second performance (S-011). Name the danger plainly: ranking another culture's
-dance by one's own standards is not critique, it is flattening.
+The idea to land: **performance critique is a four-step climb — describe, analyze,
+interpret, evaluate — each step grounded in what is actually seen (or faithfully
+described), and each tradition met as a living one to honor, not a specimen to grade.**
+Teach the ladder explicitly with a worked example, then let learners climb it on a
+second performance (S-011). Name the danger plainly: ranking another culture's dance by
+one's own standards is not critique, it is flattening.
 
-The **ethics** lens: to critique fairly is to describe before judging and to ask respectful
-questions rather than pronounce. The **egalitarianism** lens: the ladder needs no training —
-only careful watching and honest wording, open to anyone. The **global** lens: the same four
-moves work on capoeira, an Afro-Brazilian art of movement and music (S-325), and on Mexico's
-Day of the Dead festivity, a living ritual that links the living to deceased loved ones and
-the maize harvest (S-448) — each met as a living tradition carried by real people now. The
-**technology** lens: recordings let us watch performances from anywhere, but a recording is
-not the occasion — name that you are seeing a reproduction, and that the living context
-(place, people, event) matters. The **environment** lens: performance answers its space and
-season — a harvest dance, a sea ritual — so "where, when, and for what occasion" is part of
-faithful description. Preview: Lesson 12 sharpens the final rung into a defended judgment.
+The **ethics** lens: to critique fairly is to describe before judging and to ask
+respectful questions rather than pronounce. The **egalitarianism** lens: the ladder
+needs no training — only careful watching and honest wording, open to anyone. The
+**global** lens: the same four moves work on capoeira, an Afro-Brazilian art of movement
+and music (S-325), and on Mexico's Day of the Dead festivity, a living ritual that links
+the living to deceased loved ones and the maize harvest (S-448) — each met as a living
+tradition carried by real people now. The **technology** lens: recordings let us watch
+performances from anywhere, but a recording is not the occasion — name that you are
+seeing a reproduction, and that the living context (place, people, event) matters. The
+**environment** lens: performance answers its space and season — a harvest dance, a sea
+ritual — so "where, when, and for what occasion" is part of faithful description.
+Preview: Lesson 12 sharpens the final rung into a defended judgment.
 
 ## Procedure
 
@@ -204,3 +205,4 @@ best.
 - On the Day of the Dead festivity as a living ritual: UNESCO — Indigenous Festivity
   Dedicated to the Dead (S-448).
 - On performance and ritual as living heritage: UNESCO Intangible Cultural Heritage (S-056).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

@@ -149,21 +149,36 @@ to buy something you want, fairly.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's capstone — a
-celebration, not a test. The goal is that each learner can identify a few coins by
-their value and use them in a real "buying" exchange, while the four strands return
-together. **Honor money as one system among many**: before coins, people traded
-goods directly or used shells, cacao, salt, and beads; even today many exchanges are
-barter, gift, and sharing. Use the learners' actual local currency where possible;
-if using play tokens, keep values simple (1, 5, 10). Never rank currencies or treat
-money as a measure of a person's worth — **having more coins is a fact, not a
-worth.** Keep amounts within 20, and frame buying as fair exchange: the cost is
-agreed, and you pay what is asked. For learners who are blind or low-vision, make
-coins distinguishable by touch — size, edge, or texture — and count by feel and
-sound; for learners who are Deaf or hard of hearing, carry out the exchange in sign
-or with written prices. A learner who does not speak buys by pointing, placing
-coins, or using a communication device. Every learner buys and sells at their own
-pace, and every exchange is honored.
+**Tone.** Celebratory. This is the unit's capstone, not a test.
+
+**The facts to land.**
+
+1. Each learner identifies a few coins by value and uses them in a real buying exchange.
+2. **Money is one system among many**: before coins, people traded goods directly or
+   used shells, cacao, salt, and beads; even today many exchanges are barter, gift, and
+   sharing.
+3. Keep amounts within 20, and frame buying as **fair exchange**: the cost is agreed,
+   and you pay what is asked.
+
+**Don't overshoot.** Never rank currencies, and never treat money as a measure of a
+person's worth. **Having more coins is a fact, not a worth.**
+
+**The lenses, briefly.**
+
+- *Ethics:* paying what is asked is the honesty the exchange rests on.
+- *Egalitarianism:* every exchange is honoured, at every learner's pace.
+- *Global:* use the learners' actual local currency; if you use tokens, keep values
+  simple — 1, 5, 10.
+- *Technology:* coins are an invented tool; newer payment tools do the same job.
+- *Community:* buying happens between people.
+- *Intellectual:* value is a shared agreement, not a property of the metal.
+
+**The skill.** Read a price, count the coins, and complete the exchange.
+
+**Access.** Blind or low-vision: make coins distinguishable by touch — size, edge, or
+texture — and count by feel and sound. Deaf or hard of hearing: carry out the exchange
+in sign or with written prices. Non-speaking: buy by pointing, placing coins, or using a
+communication device.
 
 ## Procedure
 

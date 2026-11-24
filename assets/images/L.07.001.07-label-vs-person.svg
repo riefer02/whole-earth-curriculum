@@ -26,13 +26,21 @@
   <g>
     <rect x="244" y="70" width="244" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="366" y="96" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#7a9e7e">the whole person</text>
-    <!-- head -->
-    <circle cx="366" cy="160" r="30" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="357" cy="155" r="3.5" fill="#2b3a42"/>
-    <circle cx="375" cy="155" r="3.5" fill="#2b3a42"/>
-    <path d="M357 170 Q366 178 375 170" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <!-- body -->
-    <path d="M366 190 q-26 34 0 60 q26 -26 0 -60" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <!-- one whole person, in soft silhouette -->
+    <g fill="#c99567">
+      <circle cx="366" cy="140" r="24"/>
+      <rect x="359" y="160" width="14" height="18" rx="6"/>
+      <rect x="344" y="176" width="44" height="72" rx="18"/>
+      <path d="M 348 186 Q 338 208 342 234" stroke="#c99567" stroke-width="12" stroke-linecap="round" fill="none"/>
+      <path d="M 384 186 Q 394 208 390 234" stroke="#c99567" stroke-width="12" stroke-linecap="round" fill="none"/>
+      <path d="M 356 246 L 353 280" stroke="#c99567" stroke-width="17" stroke-linecap="round" fill="none"/>
+      <path d="M 376 246 L 379 280" stroke="#c99567" stroke-width="17" stroke-linecap="round" fill="none"/>
+      <ellipse cx="351" cy="283" rx="11" ry="6"/>
+      <ellipse cx="381" cy="283" rx="11" ry="6"/>
+    </g>
+    <circle cx="358" cy="135" r="3.2" fill="#2b3a42"/>
+    <circle cx="374" cy="135" r="3.2" fill="#2b3a42"/>
+    <path d="M357 152 Q366 160 375 152" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <!-- facet labels around -->
     <text x="366" y="288" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">sings in the kitchen</text>
     <text x="366" y="312" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">tells the funniest jokes</text>

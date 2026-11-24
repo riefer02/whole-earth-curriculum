@@ -116,30 +116,38 @@ oldest question there is.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a considered position on
-origins has four honest parts — what the evidence supports, what other accounts offer, where
-I stand and why, and what remains open — and it holds evidence and other ways of knowing in
-respectful relation, never as creed.** Model the frame, then let learners compose (S-011).
-This lesson is emotionally and culturally delicate: every learner's tradition is to be held
-with dignity; no position is imposed, ranked, or mocked (philosophy §11). Sharing is always
-optional; use written or anonymous sharing if speaking up is not safe for some learners
-(contexts, cultural power dynamics). Distinguish evidence from values one last time: *what
-the evidence supports* is a factual claim; *where I stand and why* is a value, and each has
-its own kind of honesty.
+**Tone.** Careful and dignifying: every tradition is held with respect, and sharing is
+always optional.
 
-The **ethics** lens: the position is an ethical act — it refuses both dogmatism (pretending a
-model is certain truth) and contempt (pretending another's account is worthless), and chooses
-honesty and respect instead. The **egalitarianism** lens: every learner's position, from
-every tradition and no tradition, stands on equal footing — the exercise is not to find the
-one right answer but to let each person speak their considered mind with dignity (S-202,
-S-203). The **global** lens: origins have been held by every people, in every place — and a
-considered position honors that the scientific account is one among many, standing beside,
-not above (S-002, S-427). The **technology** lens: our knowledge of origins is mediated by
-instruments — telescopes, dating methods, sequencers — which is why the position names
-*what the evidence supports* as distinct from *what I believe*. The **environment** lens: to
-hold a position on origins is also to hold a position on the living world that is here now —
-awe at the cosmos is incomplete without care for the planet it produced (S-361, S-437).
-Preview: the position closes the unit and opens the lifelong question.
+**The facts to land.**
+
+1. A considered position on origins has four honest parts — what the evidence supports,
+   what other accounts offer, where I stand and why, and what remains open.
+2. It holds evidence and other ways of knowing in respectful relation, never as creed.
+3. *What the evidence supports* is a factual claim; *where I stand and why* is a value,
+   and each has its own kind of honesty.
+
+**Don't overshoot.** No position is imposed, ranked, or mocked (philosophy §11); the aim
+is not one right answer.
+
+**The lenses, briefly.**
+
+- *Ethics:* the position refuses both dogmatism and contempt, and chooses honesty and
+  respect instead.
+- *Egalitarianism:* every learner's position, from every tradition and from none, stands
+  on equal footing (S-202, S-203).
+- *Global:* origins have been held by every people, and the scientific account stands
+  beside, not above (S-002, S-427).
+- *Technology:* our knowledge of origins is mediated by instruments — telescopes, dating
+  methods, sequencers — so the position says what evidence supports, not what I believe.
+- *Environment:* awe at the cosmos is incomplete without care for the planet it produced
+  (S-361, S-437).
+
+**Safety floor.** Sharing is optional; use written or anonymous sharing where speaking
+up is not safe for some learners (contexts, cultural power dynamics).
+
+**The skill.** Model the four-part frame, then release (S-011): compose your own
+position, and name one part you are still unsure about.
 
 ## Procedure
 
@@ -203,3 +211,4 @@ where you agree.
   (S-427).
 - On the open first-origin question: NASA Astrobiology (S-499); on our place in the cosmos:
   NASA — Star Lifecycle (S-361); on caring for the living world: IPBES (S-437).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

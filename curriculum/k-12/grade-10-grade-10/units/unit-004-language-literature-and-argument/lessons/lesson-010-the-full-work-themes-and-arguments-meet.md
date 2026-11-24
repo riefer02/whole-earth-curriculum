@@ -119,14 +119,14 @@ difference between having *finished* a book and having *read* it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **synthesis is not a
-summary — it is a *judgment* built from tracked evidence: name the central theme, name
-the central argument, show how they connect, and state a supported overall judgment
-that is honest about nuance.** A synthesis draws on the active, question-driven reading
-the learner has done all along (S-040): the two logs are the raw material, and the
-synthesis is the finished piece. The theme and the argument are not separate — in a
-strong work, the theme is *argued* (shown, proven, tested) and the argument is *about*
-the theme; naming that connection is the heart of the task.
+The idea to land: **synthesis is not a summary — it is a *judgment* built from tracked
+evidence: name the central theme, name the central argument, show how they connect, and
+state a supported overall judgment that is honest about nuance.** A synthesis draws on
+the active, question-driven reading the learner has done all along (S-040): the two logs
+are the raw material, and the synthesis is the finished piece. The theme and the
+argument are not separate — in a strong work, the theme is *argued* (shown, proven,
+tested) and the argument is *about* the theme; naming that connection is the heart of
+the task.
 
 Model the skill once, then let learners practice (worked example → guided practice →
 independent work; S-011). The **intellectual** lens is the spine: this is a small work
@@ -135,8 +135,8 @@ judgment must weigh strengths *and* gaps; a synthesis that only praises or only 
 is not a synthesis. The **ethics** lens: be fair to the author — represent the work's
 strongest version before judging it. The **egalitarian** lens: every learner's chosen
 work, from any tradition and language, earns the same serious treatment; there is no
-"high" and "low" text here. The **global** lens: invite learners to note what their
-work assumes about the world, and how a reader from another culture might read it
+"high" and "low" text here. The **global** lens: invite learners to note what their work
+assumes about the world, and how a reader from another culture might read it
 differently. Preview: Lesson 11 turns from reading to *writing* — crafting prose with
 deliberate style.
 

@@ -121,12 +121,11 @@ at home, in class, and anywhere people are together.
 
 ## Facilitator note
 
-Written to the learner ("you"). This is the unit's capstone: each child authors their
-own small statement of how to be fair and caring. Keep all four boxes optional in
-depth — a word, a mark, or a drawing counts. This is a celebration of what learners
-can *do*, not a test of what they know; there is no "correct" page. Celebrate each
-page as a real contribution. The class job chart stays live after this lesson, so
-the unit's habits continue beyond the page.
+This is the unit's capstone: each child authors their own small statement of how to be
+fair and caring. Keep all four boxes optional in depth — a word, a mark, or a drawing
+counts. This is a celebration of what learners can *do*, not a test of what they know;
+there is no "correct" page. Celebrate each page as a real contribution. The class job
+chart stays live after this lesson, so the unit's habits continue beyond the page.
 
 ## Procedure
 

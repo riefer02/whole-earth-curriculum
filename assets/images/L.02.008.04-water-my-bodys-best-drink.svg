@@ -5,53 +5,70 @@
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Water: My Body's Drink</text>
 
-  <!-- Child -->
+  <!-- Child Drinking -->
   <g>
-    <circle cx="150" cy="180" r="40" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M118 200 q32 -34 64 0 q-12 34 -32 34 q-20 0 -32 -34 Z" fill="#2b3a42"/>
-    <circle cx="138" cy="176" r="3.4" fill="#2b3a42"/>
-    <circle cx="162" cy="176" r="3.4" fill="#2b3a42"/>
-    <path d="M140 194 q10 7 20 0" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M110 150 q40 -30 80 0 l-6 20 q-34 -24 -68 0 Z" fill="#e0a458"/>
-    <path d="M150 240 q-30 60 -40 120 l12 8 q20 -50 30 -80 q10 30 30 80 l12 -8 q-10 -60 -40 -120 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-    <rect x="126" y="238" width="48" height="18" rx="4" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M126 244 l24 12 l24 -12 l0 6 l-24 12 l-24 -12 Z" fill="#4f6d7a"/>
+    <!-- legs and feet -->
+    <path d="M140 244 L136 312" stroke="#4f6d7a" stroke-width="22" stroke-linecap="round" fill="none"/>
+    <path d="M160 244 L164 312" stroke="#4f6d7a" stroke-width="22" stroke-linecap="round" fill="none"/>
+    <ellipse cx="132" cy="318" rx="14" ry="7" fill="#2b3a42"/>
+    <ellipse cx="168" cy="318" rx="14" ry="7" fill="#2b3a42"/>
+    <!-- left arm at the side -->
+    <path d="M130 200 L110 238" stroke="#c99567" stroke-width="14" stroke-linecap="round" fill="none"/>
+    <circle cx="108" cy="243" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="1.6"/>
+    <!-- torso with weight -->
+    <path d="M150 182 C 132 182 122 192 122 208 L122 236 C122 250 128 256 140 256 L160 256 C172 256 178 250 178 236 L178 208 C178 192 168 182 150 182 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- neck and head -->
+    <rect x="144" y="166" width="12" height="18" fill="#c99567"/>
+    <circle cx="150" cy="146" r="30" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M120 146 A30 30 0 0 1 180 146 C180 130 166 116 150 116 C134 116 120 130 120 146 Z" fill="#e0a458"/>
+    <circle cx="140" cy="148" r="3.2" fill="#2b3a42"/>
+    <circle cx="160" cy="148" r="3.2" fill="#2b3a42"/>
+    <path d="M142 161 Q150 167 158 161" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- right arm lifting the cup -->
+    <path d="M172 202 L192 180" stroke="#c99567" stroke-width="13" stroke-linecap="round" fill="none"/>
+    <circle cx="195" cy="177" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="1.6"/>
   </g>
 
-  <!-- Cup in hand -->
+  <!-- Cup at the mouth -->
   <g>
-    <rect x="186" y="214" width="34" height="40" rx="5" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
-    <path d="M192 250 q6 -9 12 -18 q6 9 12 18 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+    <path d="M178 150 L200 150 L196 176 L182 176 Z" fill="#ffffff" stroke="#6b93b6" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M180 160 L198 160 L196 175 L182 175 Z" fill="#bcd3e4"/>
+    <line x1="177" y1="150" x2="201" y2="150" stroke="#6b93b6" stroke-width="2.4" stroke-linecap="round"/>
   </g>
 
-  <!-- Big drop -->
+  <!-- Water drop, big and clear -->
   <g>
-    <path d="M352 150 q30 -44 60 0 q-30 44 -60 0 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-    <text x="382" y="220" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">water every day</text>
+    <path d="M382 116 C 396 140 404 152 404 164 A 22 22 0 0 1 360 164 C 360 152 368 140 382 116 Z" fill="#bcd3e4" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="382" y="214" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">water every day</text>
   </g>
 
-  <!-- Glass -->
+  <!-- Glass of water -->
   <g>
-    <rect x="330" y="260" width="44" height="72" rx="6" fill="#ffffff" stroke="#6b93b6" stroke-width="2"/>
-    <path d="M336 326 q8 -16 16 -32 q8 16 16 32 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M332 256 L376 256 L370 322 L338 322 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M336 284 L372 284 L370 320 L338 320 Z" fill="#bcd3e4"/>
+    <text x="356" y="352" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">drink when thirsty</text>
   </g>
-  <text x="352" y="352" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#2b3a42">drink when thirsty</text>
 
   <!-- Sources of clean water -->
   <g>
     <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">Where clean water comes from:</text>
     <rect x="52" y="428" width="110" height="56" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
-    <path d="M74 476 q-4 -8 -2 -18 q14 -22 30 -22 q16 0 30 22 q2 10 -2 18 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="66" y="436" width="8" height="16" rx="2" fill="#4f6d7a" stroke="#2b3a42" stroke-width="1.6"/>
+    <path d="M74 442 L96 442" stroke="#6b93b6" stroke-width="9" stroke-linecap="round" fill="none"/>
+    <path d="M96 442 L96 452" stroke="#6b93b6" stroke-width="9" stroke-linecap="round" fill="none"/>
+    <path d="M100 458 q6 8 0 13 q-6 4 -6 -4 q0 -5 6 -9 Z" fill="#bcd3e4" stroke="#2b3a42" stroke-width="1.6"/>
     <text x="107" y="500" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">tap</text>
     <rect x="180" y="428" width="110" height="56" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
-    <circle cx="235" cy="468" r="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M235 452 l0 4 m0 8 l0 4" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="235" cy="468" rx="28" ry="9" fill="#e6ddcb" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="235" cy="466" rx="19" ry="6" fill="#bcd3e4" stroke="#2b3a42" stroke-width="1.6"/>
+    <path d="M212 462 L212 450 Q235 438 258 450 L258 462" fill="none" stroke="#8a7c62" stroke-width="4" stroke-linecap="round"/>
     <text x="235" y="500" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">well</text>
     <rect x="308" y="428" width="110" height="56" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
-    <path d="M340 452 q-8 -10 -4 -20 q10 -6 16 0 q10 6 4 20 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M346 452 l6 18 l-6 6 l-6 -6 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M338 456 L388 456 L382 478 Q363 484 344 478 Z" fill="#8a7c62" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M336 456 L390 456" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+    <path d="M350 448 q-5 -7 0 -13 M368 448 q5 -7 0 -13" fill="none" stroke="#6b93b6" stroke-width="2.5" stroke-linecap="round"/>
     <text x="363" y="500" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">boiled</text>
   </g>
 
-  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" visibility="hidden">.</text>
+  
 </svg>

@@ -115,18 +115,19 @@ sharing a sack of grain, people everywhere use "for every" thinking to keep shar
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) a **ratio** compares two
-quantities ("for every A there are B"); (2) the order of a ratio matters — **2 : 3** is not **3 : 2**;
-and (3) a ratio stays equivalent when you **multiply or divide both parts by the same number**.
-Because ratio is a foundational skill, use explicit instruction and worked examples first
-(Kirschner, Sweller & Clark, 2006): model building 2 oranges : 3 apples aloud, then guide a second
-share before independent work. Watch for the common slip of adding instead of multiplying (2:3 → 4:5
-instead of 4:6). Retrieval: ask learners to recall sharing and fractions from earlier grades — a ratio
-is a new, clearer way to hold that same fairness. The fairness lens is central (`docs/philosophy.md` §4):
-ratios are how "equal shares" is made exact. Note the global point: ratio and proportion appear in
-records from ancient Egypt, Mesopotamia, and India (for example, the *Baudhayana* rules for scaling a
-sacrificial altar by proportion) — "for every" thinking is a human universal, not one culture's
-invention.
+The ideas to land: (1) a **ratio** compares two quantities ("for every A there are B");
+(2) the order of a ratio matters — **2 : 3** is not **3 : 2**; and (3) a ratio stays
+equivalent when you **multiply or divide both parts by the same number**. Because ratio
+is a foundational skill, use explicit instruction and worked examples first (Kirschner,
+Sweller & Clark, 2006): model building 2 oranges : 3 apples aloud, then guide a second
+share before independent work. Watch for the common slip of adding instead of
+multiplying (2:3 → 4:5 instead of 4:6). Retrieval: ask learners to recall sharing and
+fractions from earlier grades — a ratio is a new, clearer way to hold that same
+fairness. The fairness lens is central (`docs/philosophy.md` §4): ratios are how "equal
+shares" is made exact. Note the global point: ratio and proportion appear in records
+from ancient Egypt, Mesopotamia, and India (for example, the *Baudhayana* rules for
+scaling a sacrificial altar by proportion) — "for every" thinking is a human universal,
+not one culture's invention.
 
 ## Procedure
 

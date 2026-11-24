@@ -114,20 +114,32 @@ two signs: a constant ratio and a straight line from nothing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) in a **proportional
-relationship**, the ratio *y/x* is the **same** in every row of a table (the **constant of
-proportionality**); (2) its graph is a **straight line through the origin**; and (3) either test
-can classify a relationship, but both tell the same story. Because recognizing proportionality is
-a foundational skill, use explicit instruction, worked examples, and guided practice before
-independent work (Kirschner, Sweller & Clark, 2006). Watch for the slip of calling any straight
-line "proportional" — it must also pass through the origin, and of checking only one row's ratio
-instead of every row. Retrieval: ask learners to recall unit rates (Lesson 1) — the constant of
-proportionality *is* the unit rate. The global lens: the coordinate grid and straight-line
-reasoning build on ideas recorded by many traditions — for example, the Persian scholar Omar
-Khayyam used geometric methods for equations, and graphs grew from coordinate ideas across
-cultures; reading a line through the origin is a shared human tool. The egalitarian lens
-(`docs/philosophy.md` §4): the two tests are simple enough that *anyone* can check a price or a
-rate for fairness — no special status needed.
+**Tone.** Detective-like. Two tests, one story.
+
+**The facts to land.**
+
+1. In a **proportional relationship**, the ratio *y/x* is the **same** in every row —
+   that shared value is the **constant of proportionality**.
+2. Its graph is a **straight line through the origin**.
+3. **Either test can classify** a relationship, and both tell the same story.
+
+**Don't overshoot.** Do not call any straight line "proportional" — it must also pass
+through the origin.
+
+**The lenses, briefly.**
+
+- *Intellectual:* a table and a graph are two views of one rule.
+- *Egalitarianism:* both tests are simple enough that anyone can check a price or a rate
+  for fairness — no special status needed (`docs/philosophy.md` §4).
+- *Global:* straight-line reasoning builds on ideas recorded by many traditions — the
+  Persian scholar Omar Khayyam used geometric methods for equations, and graphs grew
+  from coordinate ideas across cultures.
+- *Critical-thinking:* check every row, not just the first; and check the origin.
+
+**The skill.** Foundational: instruct explicitly, model worked examples, guide practice,
+then release (Kirschner, Sweller & Clark, 2006). Two slips: accepting a line that misses
+the origin, and checking one row's ratio instead of all. Retrieval: the constant of
+proportionality *is* the unit rate from Lesson 1.
 
 ## Procedure
 

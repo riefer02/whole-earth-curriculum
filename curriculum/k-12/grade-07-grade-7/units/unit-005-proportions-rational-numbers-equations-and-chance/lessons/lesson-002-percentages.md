@@ -116,19 +116,32 @@ one's wealth, a percentage used for care, not profit.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) a **percent** is a rate
-"out of 100" with fraction and decimal twins (25% = 25/100 = 1/4 = 0.25); (2) to find a
-percentage of a whole, multiply the decimal form by the whole; and (3) discount subtracts, tax
-and tip add. Because finding a percent of an amount is a foundational skill, use explicit
-instruction and worked examples first (Kirschner, Sweller & Clark, 2006): model the discount,
-then guide tax and tip before independent work. Watch for the slips of moving the decimal point
-wrong (20% = 0.20, not 2.0) and of adding the discount instead of subtracting. Retrieval: ask
-learners to recall unit rates from last lesson — "per cent" is "per 100," a unit rate with a
-fixed denominator. The egalitarian lens (`docs/philosophy.md` §4): knowing percentages protects
-a shopper from being misled by "20% off" that is really no bargain, and it lets a person check a
-bill or a tip honestly. The global lens: percentages appear across traditions — Latin *per
-centum*, the Islamic *zakat* (2.5% of wealth), and Indian and Chinese merchants' proportional
-reckoning — "per hundred" is a human universal.
+**Tone.** Practical and sceptical of bargains. Percentages are for checking, not
+trusting.
+
+**The facts to land.**
+
+1. A **percent** is a rate "out of 100," with fraction and decimal twins: 25% = 25/100 =
+   1/4 = 0.25.
+2. To find a percentage of a whole, multiply the decimal form by the whole.
+3. **Discount subtracts; tax and tip add.**
+
+**Don't overshoot.** Do not let "20% off" read as a good deal on its own. A discount on
+an inflated price is still a price.
+
+**The lenses, briefly.**
+
+- *Intellectual:* "per cent" is a unit rate with a fixed denominator of 100.
+- *Egalitarianism:* knowing percentages protects a shopper from a "20% off" that is no
+  bargain, and lets a person check a bill or a tip honestly (`docs/philosophy.md` §4).
+- *Global:* Latin *per centum*, the Islamic *zakat* (2.5% of wealth), and Indian and
+  Chinese merchants' proportional reckoning — "per hundred" is a human universal.
+- *Critical-thinking:* estimate first, then compute; if they disagree, find the error.
+
+**The skill.** Foundational: model the discount, guide tax and tip, then independent
+work (Kirschner, Sweller & Clark, 2006). Two slips: moving the decimal point wrong (20%
+= 0.20, not 2.0), and adding the discount instead of subtracting it. Retrieval: unit
+rates from last lesson.
 
 ## Procedure
 

@@ -111,16 +111,16 @@ telenovela from Mexico City.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **character is
-shown, not stated — through actions, words, and learning — and the reader supports the
-reading with evidence from the text**. Model one worked example: read the tale aloud,
-then mark the sentence where the character changes and say *why* it shows change
-(Kirschner, Sweller & Clark, 2006; Duke & Pearson, 2002). The tale is a folktale in the
-public tradition; teach it as one culture's story among many, never as "the" way. The
-four lenses: *ethics* (what the character values, and whether it changes); *egalitarianism*
-(every culture's stories carry wisdom — none is the default); *global* (this is a Japanese
-tale; compare with tales learners know); *critical-thinking* (claims about a character
-need text evidence). See `docs/facilitation.md`.
+The idea to land is that **character is shown, not stated — through actions, words, and
+learning — and the reader supports the reading with evidence from the text**. Model one
+worked example: read the tale aloud, then mark the sentence where the character changes
+and say *why* it shows change (Kirschner, Sweller & Clark, 2006; Duke & Pearson, 2002).
+The tale is a folktale in the public tradition; teach it as one culture's story among
+many, never as "the" way. The four lenses: *ethics* (what the character values, and
+whether it changes); *egalitarianism* (every culture's stories carry wisdom — none is
+the default); *global* (this is a Japanese tale; compare with tales learners know);
+*critical-thinking* (claims about a character need text evidence). See
+`docs/facilitation.md`.
 
 ## Procedure
 

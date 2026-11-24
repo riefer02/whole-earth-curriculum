@@ -115,14 +115,14 @@ Grade 7.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It **retrieves** the goal-setting skill from
-earlier in the year (see L.06.001.09) and applies it forward — a spiral, not a repeat. This is a
-foundational self-regulation skill, so **model it as a worked example first** (Kirschner, Sweller
-& Clark, 2006): name a goal, make it specific and small, show a tracking plan, then model
-reflection. Keep the stance **mastery, not ranking** — a goal not yet reached is *information*
-("not yet"), never a verdict. Goals should be the learner's own, realistic, and about growth, not
-comparison. Encourage goals that are doable in a week or a month, and never require any learner
-to disclose anything private. See `docs/facilitation.md`.
+It **retrieves** the goal-setting skill from earlier in the year (see L.06.001.09) and
+applies it forward — a spiral, not a repeat. This is a foundational self-regulation
+skill, so **model it as a worked example first** (Kirschner, Sweller & Clark, 2006):
+name a goal, make it specific and small, show a tracking plan, then model reflection.
+Keep the stance **mastery, not ranking** — a goal not yet reached is *information* ("not
+yet"), never a verdict. Goals should be the learner's own, realistic, and about growth,
+not comparison. Encourage goals that are doable in a week or a month, and never require
+any learner to disclose anything private. See `docs/facilitation.md`.
 
 ## Procedure
 

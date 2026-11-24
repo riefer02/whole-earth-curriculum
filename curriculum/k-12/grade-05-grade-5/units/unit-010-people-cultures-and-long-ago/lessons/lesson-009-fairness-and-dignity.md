@@ -119,13 +119,13 @@ and how to tell them apart in the world.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is the **definitions, made
-concrete**: fairness = equal respect and a fair chance, with rules applying to all; dignity =
-being treated as a person of worth, never less than others. Use everyday, recognizable scenes
-so the concepts stay concrete before any abstraction. Some learners may have experienced
-denied dignity personally; keep the tone calm, name feelings, and connect to what learners can
-*do* (welcome, include, speak up, be fair). Never imply any group "deserves" less. This lesson
-produces the unit's **fairness-and-dignity example** portfolio artifact. See
+The idea to land is the **definitions, made concrete**: fairness = equal respect and a
+fair chance, with rules applying to all; dignity = being treated as a person of worth,
+never less than others. Use everyday, recognizable scenes so the concepts stay concrete
+before any abstraction. Some learners may have experienced denied dignity personally;
+keep the tone calm, name feelings, and connect to what learners can *do* (welcome,
+include, speak up, be fair). Never imply any group "deserves" less. This lesson produces
+the unit's **fairness-and-dignity example** portfolio artifact. See
 `docs/facilitation.md` on holding topics safely.
 
 ## Procedure

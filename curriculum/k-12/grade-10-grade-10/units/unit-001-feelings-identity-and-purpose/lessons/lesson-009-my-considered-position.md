@@ -117,28 +117,39 @@ authors know how to revise. What matters is that it is *yours*.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a considered position
-on what defines me is built from what is mine — my values, my story, my choices — is
-supported by evidence from my own life, and is held as revisable, not final.** The
-three-pillar frame is a teaching structure, not a psychological law; it gathers the
-unit's threads (values, narrative identity, agency) into one writable artifact. Narrative
-identity (S-404) and the exploratory, non-final nature of identity formation (S-403) are
-the descriptive anchors; "you are the author, and you may revise" is the value
-commitment (philosophy §6, §8, §11).
+**Tone.** Patient and dignifying: "I'm still deciding" is a complete and honoured
+answer.
 
-Model a complete worked example, then let learners practice (S-011). The **ethics** lens:
-a considered position is honest — it names real evidence, including the parts still
-undecided, and does not claim a certainty the learner does not yet have. The
-**egalitarian** lens: every learner's position is worth writing and hearing; there is no
-"best" way to be a person, and no position outranks another. The **global** lens: the
-shape of a self is drawn differently in different cultures (recall Lesson 7) — a
-considered position may be told as a story, a list, a song, or a vow, and all are valid
-forms. The **technology & environment** lens: a position built to be *read back and
-revised* resists the feed's demand for an instant, fixed, performable self — it is a
-slow, honest thing in a fast, polished world. The **social-emotional** lens: this is
-deeply personal work; invite, never force, let learners share only what they choose, and
-allow "I'm still deciding" as a complete and dignified answer. This lesson is also the
-unit's **summative** identity artifact — gather it into the portfolio.
+**The facts to land.**
+
+1. A considered position on what defines me is built from what is mine — values, story,
+   choices — and supported by evidence from my own life.
+2. It is held as revisable, not final; the three-pillar frame is a teaching structure,
+   not a psychological law.
+3. The anchors are narrative identity (S-404) and identity's exploratory, non-final
+   character (S-403); "you are the author, and you may revise" is the value commitment
+   (philosophy §6, §8, §11).
+
+**Don't overshoot.** Do not let the frame become a formula every position must fit; a
+position may be told as a story, a list, a song, or a vow.
+
+**The lenses, briefly.**
+
+- *Ethics:* a considered position is honest — it names real evidence, including the
+  parts still undecided.
+- *Egalitarianism:* every position is worth writing and hearing; no position outranks
+  another.
+- *Global:* the shape of a self is drawn differently across cultures (Lesson 7); all
+  forms are valid.
+- *Social-emotional:* this is deeply personal — share only what you choose.
+
+- *Technology:* a position built to be read back and revised resists the feed’s instant,
+  fixed self.
+- *Critical-thinking:* ask which pillar rests on evidence and which on hope.
+
+**The skill.** Model a complete worked example, then release (S-011): gather values,
+story, and choices into one writable, revisable position. It is the unit's **summative**
+artifact — into the portfolio.
 
 ## Procedure
 

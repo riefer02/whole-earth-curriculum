@@ -121,26 +121,40 @@ see only a shortage. Today you name the system and its pillars.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The concept to land: **food security rests
-on four pillars — availability (enough food exists), access (people can get and afford
-it), utilization (the food is safe and nourishing, and bodies can use it), and stability
-(all three hold over time) — and hunger is usually a failure of access and fairness, not a
-shortage of food on Earth.** The evidence: the FAO estimates that roughly 1 in 11 people
-worldwide faced hunger, and that billions more faced moderate or severe food insecurity —
-figures to state accurately and with the caveat that they shift year to year (S-409, S-119).
-Hold the distinction firmly: *evidence* (the numbers, the four pillars) vs. *values* (that
-everyone deserves enough to eat — a widely shared commitment, stated as a commitment, not
-a fact). The egalitarian lens: unequal access is not natural or inevitable — it is made by
-prices, policies, distance, and power, and it can be unmade. The global lens: food
-insecurity looks different everywhere — a drought in one place, an unaffordable market in
-another, a disrupted supply chain in a third — but the pillars are the same worldwide. The
-environment lens: climate shocks (droughts, floods) are now a major driver of food
-insecurity, connecting this lesson to the year's climate work (S-409). The community lens:
-mutual aid, school meals, food banks, and community gardens are real, human-scale answers
-people build together. The ethics lens: ending with *agency, not despair* is essential —
-learners should leave knowing something they could *do* (support a food drive, grow food,
-learn and speak about access), never with nihilism. Avoid any framing that shames poverty,
-blames individuals for their hunger, or moralizes about food.
+**Tone.** Sober and clear-eyed, ending in agency — never despair.
+
+**The facts to land.**
+
+1. **Food security rests on four pillars:** availability (enough food exists), access
+(people can get and afford it), utilization (it is safe and nourishing, and bodies can
+use it), stability (all three hold over time).
+2. **Hunger is usually a failure of access and fairness**, not a shortage of food on
+Earth.
+3. **Scale, with a caveat:** the FAO estimates roughly 1 in 11 people worldwide faced
+hunger, and billions more moderate or severe food insecurity; figures shift year to year
+(S-409, S-119).
+
+**Don't overshoot.** Say "estimates", and keep *evidence* (the numbers, the four
+pillars) apart from *values* (that everyone deserves enough to eat — a shared
+commitment, named as a commitment).
+
+**The lenses, briefly.**
+
+- *Global:* food insecurity looks different everywhere — a drought here, an
+unaffordable market there, a broken supply chain elsewhere — but the pillars are the
+same.
+- *Egalitarianism:* unequal access is not inevitable; prices, policies, distance, and
+power made it, and it can be unmade.
+- *Environment:* climate shocks — droughts, floods — are now a major driver of food
+insecurity (S-409).
+- *Community:* mutual aid, school meals, food banks, and community gardens are real,
+human-scale answers people build together.
+- *Ethics:* end with something learners could *do* — support a food drive, grow food,
+speak about access.
+- *Critical-thinking:* check a hunger claim's source and year before repeating it.
+
+**Safety floor.** Avoid framing that shames poverty or blames individuals for their
+hunger, and never moralise about food.
 
 ## Procedure
 

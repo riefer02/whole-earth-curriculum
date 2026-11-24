@@ -123,12 +123,12 @@ integration is the difference between collecting quotes and understanding.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description**:
-integrating across texts is a teachable comprehension-and-synthesis skill (IES, S-170;
-Duke & Pearson, S-172), and honest integration requires asking where each source comes
-from and what it is *for* (UNESCO MIL, S-217; Center for News Literacy, S-278; Common
-Sense Education, S-063). Hold "weigh evidence from many sources" as a *method*, while
-"every voice deserves to be heard" is a *value* — the two are distinct and both matter.
+The idea to land, held as **description**: integrating across texts is a teachable
+comprehension-and-synthesis skill (IES, S-170; Duke & Pearson, S-172), and honest
+integration requires asking where each source comes from and what it is *for* (UNESCO
+MIL, S-217; Center for News Literacy, S-278; Common Sense Education, S-063). Hold "weigh
+evidence from many sources" as a *method*, while "every voice deserves to be heard" is a
+*value* — the two are distinct and both matter.
 
 The **ethics** lens: fair integration means not letting the loudest or most convenient
 source drown out the others, and naming your own position as *yours*. The

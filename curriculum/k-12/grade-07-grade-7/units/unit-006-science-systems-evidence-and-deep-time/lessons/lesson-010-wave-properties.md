@@ -114,16 +114,17 @@ see is its **wavelength**. One idea explains a whole world of sights and sounds.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) frequency (how many
-waves pass per second) → pitch (high/low); (2) amplitude (wave height) → loudness (loud/quiet);
-(3) wavelength → color of light (longer → redder, shorter → bluer).** Use explicit instruction
-with the twanged-ruler worked example first, then hands-on observation (Kirschner, Sweller &
-Clark, 2006). These are standard physics relationships. The environment lens
-(`docs/philosophy.md` §4): wavelength is why the sky is blue and sunsets are red (shorter blue
-light scatters more); a prism or rainbow shows the same sunlight spread into its wavelengths.
-The global lens: music everywhere — drums, flutes, strings — is humans playing with frequency
-and amplitude; every culture found the same physics in its own instruments. The egalitarian
-lens: a child humming in a field and a concert hall orchestra are using identical wave rules.
+The ideas to land: **(1) frequency (how many waves pass per second) → pitch (high/low);
+(2) amplitude (wave height) → loudness (loud/quiet); (3) wavelength → color of light
+(longer → redder, shorter → bluer).** Use explicit instruction with the twanged-ruler
+worked example first, then hands-on observation (Kirschner, Sweller & Clark, 2006).
+These are standard physics relationships. The environment lens (`docs/philosophy.md`
+§4): wavelength is why the sky is blue and sunsets are red (shorter blue light scatters
+more); a prism or rainbow shows the same sunlight spread into its wavelengths. The
+global lens: music everywhere — drums, flutes, strings — is humans playing with
+frequency and amplitude; every culture found the same physics in its own instruments.
+The egalitarian lens: a child humming in a field and a concert hall orchestra are using
+identical wave rules.
 
 ## Procedure
 

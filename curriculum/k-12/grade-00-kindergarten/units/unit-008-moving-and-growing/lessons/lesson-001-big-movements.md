@@ -109,15 +109,14 @@ Moving big helps you feel strong, warm, and happy.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, keep the space safe and
-the mood joyful. **Honor every body:** a learner who cannot run can pump their arms,
-roll, or glide in a wheelchair; a learner who cannot hop can step high or march;
-galloping can become a seated arm swing. Say this aloud so no one feels left out.
-Emphasize **control** — starting, stopping, and changing speed — over speed or height.
-Add a visual signal beside every sound cue — a raised hand for **stop**, a low hand for
-**slow**, a waving hand for **fast** — so learners who cannot hear the cue can join fully.
-This is a spiral step beyond "My Body Can Move" (U.00.002): now the focus is on
-controlling movement, not just trying it.
+As facilitator, keep the space safe and the mood joyful. **Honor every body:** a learner
+who cannot run can pump their arms, roll, or glide in a wheelchair; a learner who cannot
+hop can step high or march; galloping can become a seated arm swing. Say this aloud so
+no one feels left out. Emphasize **control** — starting, stopping, and changing speed —
+over speed or height. Add a visual signal beside every sound cue — a raised hand for
+**stop**, a low hand for **slow**, a waving hand for **fast** — so learners who cannot
+hear the cue can join fully. This is a spiral step beyond "My Body Can Move" (U.00.002):
+now the focus is on controlling movement, not just trying it.
 
 ## Procedure
 

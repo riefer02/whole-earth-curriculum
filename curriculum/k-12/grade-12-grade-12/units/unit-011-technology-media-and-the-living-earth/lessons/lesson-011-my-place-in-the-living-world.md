@@ -115,25 +115,35 @@ location on a map; it is a web of relationships you are already woven into.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **I am a living being among
-living beings, bound to them by the same air, water, soil, and sun — my place is a web of
-relationships, and I can name the beings I depend on and that depend on me.** Keep the tone of
-belonging and wonder, not guilt. Treat Indigenous and place-based traditions with respect —
-each is a distinct, living tradition, offered here as an example, never reduced to a single
-concept or ranked against science.
+**Tone.** Wonder and belonging, not guilt: the web is a gift before it is a debt.
 
-The **ethics** lens: naming what you depend on is the seed of care — you tend what you know you
-owe your life to. The **egalitarianism** lens: the web includes every being, not only the ones
-useful to humans, and this is a leveling idea — a beetle and a person are both threads, though
-different threads (S-437). The **global** lens: cultures around the world have long named this
-kinship — many Indigenous and place-based traditions treat land, water, and other species as
-relatives owed care, a way of seeing the unit holds alongside science, not beneath it (S-427,
-S-320). The **technology** lens: some traditions and some tools both reveal the web — a
-botanist's lens and an elder's plant-knowledge each name real relationships, and both matter
-(S-427). The **environment** lens: the web is not metaphor but fact — species are declining
-because the threads are being cut, and ecosystem services like pollination and clean water are
-the web doing its work (S-437, S-176). Preview: Lesson 12 turns the web into choices — how
-knowing you are interdependent changes how you live.
+**The facts to land.**
+
+1. I am a living being among living beings, bound to them by the same air, water, soil,
+   and sun — my place is a web of relationships I can name.
+2. The web is fact, not metaphor: species are declining because threads are being cut,
+   and ecosystem services like pollination and clean water are the web doing its work
+   (S-437, S-176).
+3. Every being is a thread, though threads differ (S-437).
+
+**Don't overshoot.** Do not let the kinship idea slide into a claim that all
+relationships are the same; difference is part of the web.
+
+**The lenses, briefly.**
+
+- *Ethics:* naming what you depend on is the seed of care — you tend what you owe your
+  life to.
+- *Egalitarianism:* the web includes every being, not only the ones useful to humans.
+- *Global:* many Indigenous and place-based traditions treat land, water, and other
+  species as relatives owed care — held alongside science, not beneath it (S-427,
+  S-320).
+- *Technology:* a botanist's lens and an elder's plant knowledge each name real
+  relationships (S-427).
+- *Environment:* pollination, clean water, and species loss are the web doing its work,
+  and going thin (S-437, S-176).
+
+**The skill.** Model the naming, then release (S-011): three beings you depend on, and
+one that depends on you. Lesson 12 turns the web into choices.
 
 ## Procedure
 
@@ -189,3 +199,4 @@ minutes noticing what it gives and what it needs. Write one sentence about what 
 - On biodiversity and ecosystem services: IPBES Global Assessment (S-437); on keystone species:
   National Geographic Education (S-176); on biodiversity's value: Convention on Biological
   Diversity (S-279).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

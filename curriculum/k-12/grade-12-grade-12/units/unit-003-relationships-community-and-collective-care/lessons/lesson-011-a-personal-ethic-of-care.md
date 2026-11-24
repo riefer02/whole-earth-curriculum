@@ -122,29 +122,36 @@ asks you to write yours.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a personal ethic is a
-value plus a commitment — what I hold matters, and what I will therefore do — and putting
-it into words is what makes it liveable and examinable.** Mutual aid is a well-documented
-human practice (Kropotkin, S-163), and the care-vs-charity distinction (where the power
-sits) is a real one (Spade, S-345). Hold "care is good" as a value the curriculum
-affirms, distinct from the *fact* that mutual aid traditions are widespread.
+**Tone.** Serious and open: this is a statement to make, not a doctrine to adopt.
 
-The **ethics** lens: this is the lesson where the learner states, rather than only
-analyzes, what they hold right — the capstone of the unit's ethical strand. The
-**egalitarianism** lens: an ethic of care that serves only people who look like me is
-only half an ethic; test yours against the person least like you. The **global** lens:
-ethics of care and reciprocity are not one culture's possession — they appear in
-Indigenous reciprocity, in African harambee, in Indonesian gotong royong, in Andean
-mink'a (S-164) — many names for one recognition. The **environment** lens: a just and
-thriving world includes the living Earth; an ethic of care that stops at humans leaves
-out the world that holds us (Kimmerer, S-427). The **technology** lens: technology is a
-servant of the ethic — the question is whether the tools I use extend care or only
-efficiency; name one tool you will use *for* your ethic, and one you will not let
-override it. Preview: Lesson 12 turns the ethic into practice, distinguishing mutual aid
-from charity.
+**The facts to land.**
 
-**Safeguarding:** the ethic is personal and may be shared only in part; there is no
-single correct ethic, only honesty and the test that it serves others, not only oneself.
+1. A personal ethic is a value plus a commitment — what I hold matters, and what I will
+   therefore do.
+2. Mutual aid is a well-documented human practice (Kropotkin, S-163), and the
+   care-versus-charity distinction, about where the power sits, is a real one (Spade,
+   S-345).
+3. Put it into words: an ethic you can state is one you can examine and live.
+
+**Don't overshoot.** There is no single correct ethic; honesty is the standard, and the
+test is that it serves others, not only oneself.
+
+**The lenses, briefly.**
+
+- *Ethics:* the capstone where the learner states, rather than only analyses, what they
+  hold right.
+- *Egalitarianism:* an ethic that serves only people who look like me is half an ethic.
+- *Global:* Indigenous reciprocity, harambee, gotong royong, mink'a (S-164) — many names
+  for one recognition.
+- *Environment:* an ethic that stops at humans leaves out the world that holds us
+  (Kimmerer, S-427).
+- *Technology:* name one tool you will use *for* your ethic, and one you will not let
+  override it.
+
+**Safety floor.** The ethic is personal and may be shared only in part.
+
+**The skill.** Model one written ethic, then release (S-011): three sentences — what I
+hold, what I will do, how I will know. Lesson 12 turns it into practice.
 
 ## Procedure
 

@@ -114,15 +114,15 @@ the body you have today* — the same way every athlete, dancer, and worker does
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Hold it with care: **growth during puberty is
-normal, uneven, and never shameful — and no learner's body should be singled out or compared.**
-The science to land: during the adolescent growth spurt the long bones lengthen, which shifts
-the body's center of gravity and temporarily changes coordination, while strength catches up
-at its own pace (WHO, 2024; WHO, 2006). Name every pace as normal — growth begins at different
-times and speeds for different people, and a wide range of heights and shapes is normal, not a
-ranking. Frame adaptation as *skill*, never limitation: adapting is what skilled movers do.
-Avoid measuring anyone publicly or commenting on any individual's body; keep all examples
-general. See `docs/facilitation.md` and `docs/development.md`.
+Hold it with care: **growth during puberty is normal, uneven, and never shameful — and
+no learner's body should be singled out or compared.** The science to land: during the
+adolescent growth spurt the long bones lengthen, which shifts the body's center of
+gravity and temporarily changes coordination, while strength catches up at its own pace
+(WHO, 2024; WHO, 2006). Name every pace as normal — growth begins at different times and
+speeds for different people, and a wide range of heights and shapes is normal, not a
+ranking. Frame adaptation as *skill*, never limitation: adapting is what skilled movers
+do. Avoid measuring anyone publicly or commenting on any individual's body; keep all
+examples general. See `docs/facilitation.md` and `docs/development.md`.
 
 ## Procedure
 

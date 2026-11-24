@@ -117,19 +117,18 @@ ones.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Conversion is **counting within a
-system**: teach it concretely — count 100 centimeters in a meter, then generalize the
-metric ladder (10 mm = 1 cm, 100 cm = 1 m, 1,000 m = 1 km) (Van de Walle, Karp &
-Bay-Williams, 2019). Model once as a **worked example** (philosophy §13), then guide
-practice. The metric system is the global default and is egalitarian in spirit — one
-coherent system for everyone, not a patchwork of region-specific units; where
-customary units (inches, feet, miles) are in local use, treat them respectfully as
-one system among several, never ranked. **A learner's pace at memorizing conversion
-facts is not a measure of their worth; a conversion is a fact about units, never
-about a person.** Count in the home language. For learners who are Deaf or hard of
-hearing, sign each conversion; for learners who are blind or have low vision, feel a
-meter stick and count the centimeter marks by touch. Learners with limited movement
-direct a partner to measure. Mastery arrives at its own pace.
+Conversion is **counting within a system**: teach it concretely — count 100 centimeters
+in a meter, then generalize the metric ladder (10 mm = 1 cm, 100 cm = 1 m, 1,000 m = 1
+km) (Van de Walle, Karp & Bay-Williams, 2019). Model once as a **worked example**
+(philosophy §13), then guide practice. The metric system is the global default and is
+egalitarian in spirit — one coherent system for everyone, not a patchwork of
+region-specific units; where customary units (inches, feet, miles) are in local use,
+treat them respectfully as one system among several, never ranked. **A learner's pace at
+memorizing conversion facts is not a measure of their worth; a conversion is a fact
+about units, never about a person.** Count in the home language. For learners who are
+Deaf or hard of hearing, sign each conversion; for learners who are blind or have low
+vision, feel a meter stick and count the centimeter marks by touch. Learners with
+limited movement direct a partner to measure. Mastery arrives at its own pace.
 
 ## Procedure
 

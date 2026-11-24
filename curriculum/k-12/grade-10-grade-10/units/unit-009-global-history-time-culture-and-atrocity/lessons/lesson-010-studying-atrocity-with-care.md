@@ -112,34 +112,38 @@ honest and humane way to look.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **genocide is a
-defined international crime — the attempted destruction of a people — and studying
-it with care means examining causes, centering survivors, and asking how it is
-remembered, while never flattening victims or reducing anyone to a number.** Teach
-the framework explicitly before any case detail (S-011).
+**Tone.** Calm and grave: unhurried, dignified, never graphic.
 
-**Emotional safety (non-negotiable for this section):** (1) **Warning and opt-out:**
-state clearly that these lessons cover genocide — real mass killing and its causes —
-and that any learner may step out, pass, or write privately instead of speaking at
-any time, with no penalty. (2) **Referral:** name a trusted adult, counselor, or
-support line available if feelings rise. (3) **Grounding:** open and close with a
-slow breath or a quiet minute; keep the room calm and unhurried. (4) **No graphic
-images or gratuitous detail:** describe events in brief, dignified summary; do not
-show photographs of bodies or violence. (5) **Agency and hope:** every lesson in this
-section ends by turning to survival, resistance, shelter, and rebuilding — the truth
-is never only the horror. These rules follow the consensus guidance of memorial
-institutions on teaching about genocide (S-495).
+**The facts to land.**
 
-The **ethics** lens is the spine: how we study the worst of humanity is itself an
-ethical act — with dignity or without. The **egalitarian** lens: genocide targets a
-people *as a people*; understanding that requires seeing every person as equal in
-worth. The **global** lens: genocide is not one place's history — the term was coined
-by the lawyer Raphael Lemkin (1944) and defined in the 1948 UN Convention, and it
-applies to cases across eras and continents, including colonial contexts (S-491,
-S-494). The **critical-thinking** lens: the framework (causes, survivors,
-remembrance) is a way to think, not a script to memorize. Preview: Lessons 11–13
-move through survivors, remembrance, and the ordinary people who resisted and
-rebuilt.
+1. Genocide is a defined international crime — the attempted destruction of a people.
+   Studying it with care means examining causes, centring survivors, and asking how it
+   is remembered, never flattening victims into a number.
+2. The term was coined by Raphael Lemkin (1944) and defined in the 1948 UN Convention;
+   it applies across eras and continents, colonial contexts included (S-491, S-494).
+3. Teach this framework explicitly before any case detail (S-011).
+
+**Emotional safety.**
+
+1. **Warning and opt-out:** say plainly that these lessons cover real mass killing, and
+   that any learner may step out, pass, or write privately at any time, with no penalty.
+2. **Referral:** name a trusted adult, counsellor, or support line.
+3. **Grounding:** open and close with a slow breath.
+4. **No graphic images:** brief, dignified summary; never photographs of violence.
+5. **Agency and hope:** end on survival, resistance, shelter, and rebuilding — the truth
+   is never only the horror. These rules follow memorial institutions' consensus
+   guidance (S-495).
+
+**The lenses, briefly.**
+
+- *Ethics:* the spine — how we study the worst is itself an ethical act.
+- *Egalitarianism:* genocide targets a people *as a people*; understanding it means
+  seeing each person as equal in worth.
+- *Global:* this is not one place's history.
+- *Critical-thinking:* the framework is a way to think, not a script to memorise.
+
+**The skill.** Rehearse the framework on a neutral example, then release (S-011).
+Lessons 11–13 cover survivors, remembrance, resistance.
 
 ## Procedure
 
@@ -195,3 +199,5 @@ required to discuss the events themselves outside class.)
 - On teaching about genocide with care: US Holocaust Memorial Museum, "Guidelines
   for Teaching about the Holocaust" (S-495); on why we name individuals, not
   numbers: Paul Slovic, "If I Look at the Mass I Will Never Act" (S-414).
+- Encyclopaedia Britannica — Rwanda genocide of 1994 (S-494).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

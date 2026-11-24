@@ -98,12 +98,11 @@ act of pride — and learning someone else's hello is a small act of friendship.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Home language is honored **first** — each child greets in their
-own language before any other is attempted. There is no "correct" accent; every
-pronunciation is welcomed with warmth. If a learner is shy or does not want to share,
-never force it — they may nod, smile, or gesture instead. A greeting also lives in the
-body (a bow, a wave, a hand on the heart), and those count fully.
+Home language is honored **first** — each child greets in their own language before any
+other is attempted. There is no "correct" accent; every pronunciation is welcomed with
+warmth. If a learner is shy or does not want to share, never force it — they may nod,
+smile, or gesture instead. A greeting also lives in the body (a bow, a wave, a hand on
+the heart), and those count fully.
 
 ## Procedure
 

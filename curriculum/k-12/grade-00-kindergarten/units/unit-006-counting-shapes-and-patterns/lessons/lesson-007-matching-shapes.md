@@ -105,19 +105,31 @@ match shapes all day long, so everything fits together. Today you will be the ma
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Matching is a step toward noticing
-attributes — what makes a triangle a triangle even when it is big, small, or turned
-on its side. Keep the focus on *shape* (sides and corners), not on color or size,
-and include rotated or different-sized shapes so learners learn that a triangle is
-still a triangle when it points down. Match real objects too — a plate with a plate,
-a box with a box — so matching stays grounded in life. Draw on global craft examples
-without ranking: basket-weavers, tile-layers, and cloth-cutters in many cultures
-match and fit shapes every day; none is the model to copy, all are real. Learners who
-are blind or low-vision can match shapes by feel, fitting each shape into its outline
-or finding two shapes with the same number of sides and corners by touch. Learners
-with limited movement match by voice or sign — telling a partner which shapes go
-together, or choosing each pair with eye-gaze or a mouth stick. Never turn
-matching into a race; careful matching is the goal, and every pace is honored.
+**Tone.** Steady and exact. Matching is a looking-closely skill, not a speed test.
+
+**The facts to land.**
+1. Matching works on **attributes** — the sides and corners that make a triangle a
+   triangle.
+2. A shape stays itself when it is big, small, or turned on its side.
+3. Ignore colour and size for now; they are distractors, not the rule.
+
+**Don't overshoot.** Never turn matching into a race. Careful matching is the goal, and
+every pace is honoured.
+
+**The lenses, briefly.**
+- *Ethics:* matching is care with materials, not competition.
+- *Egalitarianism:* no one's pace is ranked.
+- *Global:* basket-weavers, tile-layers, and cloth-cutters in many cultures match and
+  fit shapes every day; none is the model to copy, all are real.
+- *Intellectual:* the step after matching is saying why the match works.
+
+**The skill.** Compare two shapes by sides and corners, then say why they match.
+
+**Access.** Blind or low-vision: match by feel — fit each shape into its outline, or
+find two shapes with the same number of sides and corners by touch. Limited movement:
+match by voice or sign, telling a partner which shapes go together, or choose each pair
+by eye-gaze or mouth stick. Real objects — a plate with a plate, a box with a box —
+keep it grounded in life.
 
 ## Procedure
 

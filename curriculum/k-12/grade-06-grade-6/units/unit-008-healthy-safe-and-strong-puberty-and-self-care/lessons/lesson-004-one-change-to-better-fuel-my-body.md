@@ -120,17 +120,17 @@ the one that will stick.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The one idea to land is that **the best
-change is one small, real change that fits the learner's own life** — never a rule from
-outside. Frame every option as an **addition or a swap, never a restriction**: we never
-tell a learner to cut out a food, restrict eating, or shrink their body. This is
-especially important at ages 11–14, when food and body-image pressures rise; keep the
-message body-positive and food-neutral ("more fuel for your growing body," never "eat
-less" or "get thinner"). Let learners choose only what is genuinely available and
-affordable in their home and culture, and honor that some learners have little control
-over what is on the table — for them, "add water when you can" is a perfectly good
-change. Model the choose-one flow as a **worked example** first. See `docs/facilitation.md`
-and the safety notes on body image in `docs/development.md`.
+The one idea to land is that **the best change is one small, real change that fits the
+learner's own life** — never a rule from outside. Frame every option as an **addition or
+a swap, never a restriction**: we never tell a learner to cut out a food, restrict
+eating, or shrink their body. This is especially important at ages 11–14, when food and
+body-image pressures rise; keep the message body-positive and food-neutral ("more fuel
+for your growing body," never "eat less" or "get thinner"). Let learners choose only
+what is genuinely available and affordable in their home and culture, and honor that
+some learners have little control over what is on the table — for them, "add water when
+you can" is a perfectly good change. Model the choose-one flow as a **worked example**
+first. See `docs/facilitation.md` and the safety notes on body image in
+`docs/development.md`.
 
 ## Procedure
 

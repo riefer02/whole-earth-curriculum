@@ -106,17 +106,16 @@ when it stops, something (your hand, the ground, a wall) stopped it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is a **body-first** lesson: the
-strongest learning here is learners pushing and pulling real things and feeling the
-push/pull in their own muscles. Keep it safe and gentle — no throwing, no rough play;
-a soft push is enough to learn the idea. Honor every body: a learner who uses a
-wheelchair or has limited movement can push or pull with a hand, a foot, a stick, or a
-partner's help — the point is the *idea*, not the strength. A learner who cannot see
-feels the object start and stop; a learner who does not speak shows the movement with
-hands or body. Introduce the word "force" only lightly if learners ask: "a push or a
-pull is a force." The stop matters as much as the start — friction (the ground rubbing
-against the object) is the quiet reason most things stop; save the word for later
-grades, but let the observation land.
+It is a **body-first** lesson: the strongest learning here is learners pushing and
+pulling real things and feeling the push/pull in their own muscles. Keep it safe and
+gentle — no throwing, no rough play; a soft push is enough to learn the idea. Honor
+every body: a learner who uses a wheelchair or has limited movement can push or pull
+with a hand, a foot, a stick, or a partner's help — the point is the *idea*, not the
+strength. A learner who cannot see feels the object start and stop; a learner who does
+not speak shows the movement with hands or body. Introduce the word "force" only lightly
+if learners ask: "a push or a pull is a force." The stop matters as much as the start —
+friction (the ground rubbing against the object) is the quiet reason most things stop;
+save the word for later grades, but let the observation land.
 
 ## Procedure
 

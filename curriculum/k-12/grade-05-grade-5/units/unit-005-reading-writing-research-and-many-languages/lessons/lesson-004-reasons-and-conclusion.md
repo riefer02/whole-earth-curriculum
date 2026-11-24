@@ -114,13 +114,12 @@ a football match.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that a presentation has a
-**shape**: a clear main idea, **supporting reasons that stay on it**, and a **conclusion that
-returns to it**. Model one complete sandwich aloud first. Watch for "drifting" reasons — ones
-that wander to a new topic — and gently bring them back with "does that support your main
-idea?" Let learners deliver to a small, friendly audience; a warm listener makes a nervous
-speaker clearer. Speaking in the home language is welcome; clarity for *this* audience is the
-measure.
+The idea to land is that a presentation has a **shape**: a clear main idea, **supporting
+reasons that stay on it**, and a **conclusion that returns to it**. Model one complete
+sandwich aloud first. Watch for "drifting" reasons — ones that wander to a new topic —
+and gently bring them back with "does that support your main idea?" Let learners deliver
+to a small, friendly audience; a warm listener makes a nervous speaker clearer. Speaking
+in the home language is welcome; clarity for *this* audience is the measure.
 
 ## Procedure
 

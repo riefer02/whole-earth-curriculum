@@ -102,16 +102,14 @@ again.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the line and landing spots, then model hop, jump, and
-the soft landing before learners try. Emphasize control and a soft landing, never
-height or distance. Honor every body: a learner who uses a wheelchair can do seated
-bounces and arm springs; a learner who needs support can hold a friend's hand or a
-wall. Offer adapted versions as real choices so every learner is moving, not
-watching. A visual landing cue (a raised hand or a partner's tap) lets learners who
-are deaf or hard of hearing time their springs. Learners with breathing differences
-may rest and rejoin as often as they need; control and a soft landing matter more than
-repetitions.
+Prepare the line and landing spots, then model hop, jump, and the soft landing before
+learners try. Emphasize control and a soft landing, never height or distance. Honor
+every body: a learner who uses a wheelchair can do seated bounces and arm springs; a
+learner who needs support can hold a friend's hand or a wall. Offer adapted versions as
+real choices so every learner is moving, not watching. A visual landing cue (a raised
+hand or a partner's tap) lets learners who are deaf or hard of hearing time their
+springs. Learners with breathing differences may rest and rejoin as often as they need;
+control and a soft landing matter more than repetitions.
 
 ## Procedure
 

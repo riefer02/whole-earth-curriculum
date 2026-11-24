@@ -112,20 +112,35 @@ order. Today you design one for something you care about.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a collective-action plan is
-concrete — a goal you could verify, allies who share it or can help, and steps you can actually take
-— and it is built from real patterns, not invented from nothing.** Ground the pattern in two
-documented movements: the Green Belt Movement, founded 1977 by Wangari Maathai, which organized
-people — many of them women — to plant trees, countering deforestation and planting over thirty
-million trees (S-059); and the 1930 Salt March, a nonviolent act of civil disobedience led by
-Gandhi against the British salt monopoly, part of India's independence movement (S-390). Let learners
-extract goals, allies, and steps from each rather than being told. The **community** lens is the
-spine: action is done *with* others, not to them. The **egalitarian** lens: ask whose voices are in
-the plan and whose are missing — a plan made only by the powerful is not collective. The **global**
-lens: draw examples from many regions and causes, and let learners choose issues from their own
-context. The **ethics** lens: the means should match the goal — a plan that harms people to help them
-is not a plan worth having. Distinguish evidence (what these movements did) from values (what makes a
-goal worth pursuing) (philosophy §5). Preview: next lesson we evaluate the plan's likely effects.
+**Tone.** Practical and hopeful: plans are built from what people have actually done.
+
+**The facts to land.**
+
+1. A collective-action plan is concrete — a goal you could verify, allies who share it
+   or can help, and steps you can take — and it is built from real patterns, not
+   invented.
+2. The Green Belt Movement, founded in 1977 by Wangari Maathai, organised people, many
+   of them women, to plant trees against deforestation: over thirty million trees
+   (S-059).
+3. The 1930 Salt March was nonviolent civil disobedience led by Gandhi against the
+   British salt monopoly, part of India's independence movement (S-390).
+
+**Don't overshoot.** Do not hand over the analysis; extracting goals, allies, and steps
+from the cases is the learning.
+
+**The lenses, briefly.**
+
+- *Community:* the spine — action is done *with* others, not to them.
+- *Egalitarianism:* ask whose voices are in the plan and whose are missing; a plan made
+  only by the powerful is not collective.
+- *Global:* draw examples from many regions and causes, and let learners choose issues
+  from their own context.
+- *Ethics:* the means should match the goal; a plan that harms people to help them is
+  not worth having.
+
+**The skill.** Model the extraction once, then release (S-011): goals, allies, steps
+from one case, then a draft plan for their own issue. Keep evidence (what these
+movements did) apart from values (what makes a goal worth pursuing) (philosophy §5).
 
 ## Procedure
 
@@ -177,3 +192,4 @@ goal, and who were the allies?
   <https://www.britannica.com/event/Salt-March> (S-390).
 - On cooperative structures helping groups thrive: Johnson & Johnson (1981), social
   interdependence theory (S-233).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

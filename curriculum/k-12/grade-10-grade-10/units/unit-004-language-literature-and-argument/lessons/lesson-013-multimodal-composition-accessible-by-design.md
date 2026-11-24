@@ -122,30 +122,36 @@ message that reaches *some* people and one that reaches *everyone*.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a multimodal text
-combines writing, image, sound, and design into one message, and accessibility — alt
-text, captions, readable contrast, clear structure, and a text version of sound — is a
-design requirement, not a favor.** The international standard is WCAG, organized around
-four principles: content must be **perceivable**, **operable**, **understandable**, and
-**robust** (S-280). At this level, learners meet a practical subset: every image has a
-caption and alt text; color is never the only signal; contrast is readable; headings
-give structure; and any sound has a text version. These are the same skills the
-curriculum's own graphics follow (see `docs/art-style.md`).
+**Tone.** Matter-of-fact about access: accessibility is a requirement, not a kindness.
 
-Model the skill once, then let learners practice (worked example → guided practice →
-independent work; S-011). The **technology** lens is the spine: read the *medium* — how
-an image, a sound, and a layout each carry meaning, and how a design choice includes or
-excludes. The **egalitarian** lens is the heart: accessibility is justice — a text that
-a screen reader, a hard-of-hearing learner, or a low-vision reader cannot use is a text
-that has silently chosen its audience; the digital divide (S-281) also decides who can
-even reach the tool, so keep a paper path open. The **ethics** lens: building for
-everyone, not just the "typical" user, is a moral commitment, and it is also simply
-better craft. The **global** lens: accessibility needs and norms differ across
-languages, scripts, and cultures — right-to-left scripts, tone languages, sign
-languages — so "accessible" is context-dependent, and multilingual learners can extend a
-piece into two languages. The **critical-thinking** lens: test your own piece with the
-checklist, and let a partner *experience* it without one sense to find what you missed.
-Preview: Lesson 14 turns from how we *compose* to who holds *power* in language.
+**The facts to land.**
+
+1. A multimodal text combines writing, image, sound, and design into one message, and
+   accessibility is part of the design, not a favour added at the end.
+2. The international standard is WCAG, built on four principles: content must be
+   **perceivable**, **operable**, **understandable**, and **robust** (S-280).
+3. The practical subset for this level: a caption and alt text for every image; colour
+   never the only signal; readable contrast; headings for structure; a text version of
+   any sound. These are the same moves the curriculum's own graphics follow (see
+   docs/art-style.md).
+
+**Don't overshoot.** Accessible does not mean plain or dull; a text everyone can use can
+still be beautiful.
+
+**The lenses, briefly.**
+
+- *Technology:* read the medium — image, sound, and layout each carry meaning and each
+  include or exclude.
+- *Egalitarianism:* accessibility is justice; a text a screen reader cannot use has
+  silently chosen its audience. Keep a paper path open, since the digital divide decides
+  who can reach the tool at all (S-281).
+- *Ethics:* building for everyone is a moral commitment and also better craft.
+- *Global:* right-to-left scripts, tone languages, and sign languages make "accessible"
+  context-dependent, and multilingual learners can extend a piece into two languages.
+- *Critical-thinking:* test your own piece, and let a partner meet it without one sense.
+
+**The skill.** Model once, then release (S-011): run the five-point checklist on your
+own draft. Lesson 14 turns from composing to power.
 
 ## Procedure
 

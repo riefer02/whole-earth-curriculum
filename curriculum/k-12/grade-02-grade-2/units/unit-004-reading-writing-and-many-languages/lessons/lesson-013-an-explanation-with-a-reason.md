@@ -105,15 +105,13 @@ travel to someone else, in your language, in your script.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. This lesson pairs with yesterday's opinion: an opinion says
-"I think… because…," while an explanation says "this is how/what… because…" — both
-state a topic and give a reason, so both serve the same standard (D04.S3.02.02).
-Model one full explanation before learners write, then guide and release. The topic
-should be something the learner genuinely knows — no research needed at this level,
-just honest know-how. The reason must explain the topic, not decorate it. Work in
-the home language. A learner may speak, sign, dictate, draw a diagram, or write —
-the explaining is the learning.
+This lesson pairs with yesterday's opinion: an opinion says "I think… because…," while
+an explanation says "this is how/what… because…" — both state a topic and give a reason,
+so both serve the same standard (D04.S3.02.02). Model one full explanation before
+learners write, then guide and release. The topic should be something the learner
+genuinely knows — no research needed at this level, just honest know-how. The reason
+must explain the topic, not decorate it. Work in the home language. A learner may speak,
+sign, dictate, draw a diagram, or write — the explaining is the learning.
 
 ## Procedure
 

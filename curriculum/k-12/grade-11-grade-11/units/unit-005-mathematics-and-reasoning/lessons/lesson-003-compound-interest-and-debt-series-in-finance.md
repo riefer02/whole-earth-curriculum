@@ -114,23 +114,22 @@ is "good with numbers."
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **compound interest
-is a geometric sequence with factor (1 + r), so A = P(1 + r)^t; a loan is the same
-factor working against a borrower, and the total repaid is a series, often much
-larger than the principal.** Teach the two faces explicitly — *saver* (the factor
-builds) and *borrower* (the factor compounds against you) — with worked examples and
-guided practice (S-011).
+The ideas to land: **compound interest is a geometric sequence with factor (1 + r), so A
+= P(1 + r)^t; a loan is the same factor working against a borrower, and the total repaid
+is a series, often much larger than the principal.** Teach the two faces explicitly —
+*saver* (the factor builds) and *borrower* (the factor compounds against you) — with
+worked examples and guided practice (S-011).
 
 The **ethics** lens: lenders set rates; borrowers should be able to see the true cost
 plainly — honesty in a loan offer is an ethical question, not just a math one. The
-**egalitarianism** lens: compound interest widens the gap between those who can save
-and those who must borrow; fair-shares financial literacy means everyone learns to
-read a rate, not only those who already have money. The **intellectual** lens: one
-formula (A = P(1 + r)^t) is read forward (saving) and backward (debt). The
-**critical-thinking** lens: learners compare two offers and ask "which total is
-smaller, and why?" — and check every answer by substitution. Distinguish evidence
-(the arithmetic) from values (that everyone deserves clear information about credit).
-Preview: Lesson 4 applies the same series to environmental accumulation.
+**egalitarianism** lens: compound interest widens the gap between those who can save and
+those who must borrow; fair-shares financial literacy means everyone learns to read a
+rate, not only those who already have money. The **intellectual** lens: one formula (A =
+P(1 + r)^t) is read forward (saving) and backward (debt). The **critical-thinking**
+lens: learners compare two offers and ask "which total is smaller, and why?" — and check
+every answer by substitution. Distinguish evidence (the arithmetic) from values (that
+everyone deserves clear information about credit). Preview: Lesson 4 applies the same
+series to environmental accumulation.
 
 ## Procedure
 

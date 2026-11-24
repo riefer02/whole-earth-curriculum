@@ -118,30 +118,36 @@ interview, the skill is the same: read the room, then match it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **register is the
-dimension of language — formality, address, tone — that we vary to fit a setting; it is
-a skill of respect and clarity, and every culture marks it differently.** The Common
-European Framework and its companion volume treat adapting register (formal/informal)
-and forms of address as a core of communicative competence, alongside knowing more than
-one language (S-237). Many languages mark respect *inside the grammar itself* —
-honorifics, polite verb endings, titles — so "register" is not just word choice but
-sometimes grammar. Hold this as description and appreciation: no register is "better";
-the skilled speaker matches the room. Frame code-switching (moving between languages or
-registers) as a resource, not a deficit — a speaker who shifts between home language and
-formal language is doing something *harder*, not something lesser.
+**Tone.** Relaxed about variation: there is no single correct register, only a fit.
 
-Model the skill once, then let learners practice (worked example → guided practice →
-independent work; S-011). The **global** lens is the spine: compare how different
-cultures mark respect in language, and let learners teach the class a form of address
-from their own language. The **egalitarian** lens: the "formal" register of a society is
-often the register of its powerful — and demanding respect for *every* way of speaking
-is a small act of justice. The **social-emotional** lens: anxiety about "getting the
-register right" is real, especially for learners speaking a second language or an
-unfamiliar dialect; normalize the wobble. The **ethics** lens: matching register is a
-way of honoring the other person; misjudging it is usually awkwardness, not insult, and
-can be repaired. The **critical-thinking** lens: ask *why* a setting calls for this
-register — who set the rule, and whom does it include or exclude? Preview: Lesson 5
-turns register into delivery — speaking with confidence to an unfamiliar audience.
+**The facts to land.**
+
+1. Register is the dimension of language — formality, address, tone — that we vary to
+   fit a setting; it is a skill of respect and clarity, marked differently in every
+   culture.
+2. The Common European Framework and its companion volume treat adapting register and
+   forms of address as core communicative competence, alongside knowing more than one
+   language (S-237).
+3. Many languages mark respect inside the grammar — honorifics, polite verb endings,
+   titles — so register is sometimes grammar, not just word choice.
+
+**Don't overshoot.** No register is "better"; code-switching is a resource, not a
+deficit — shifting between home language and formal language is *harder*, not lesser.
+
+**The lenses, briefly.**
+
+- *Global:* the spine — compare how cultures mark respect, and let learners teach their
+  own forms of address.
+- *Egalitarianism:* a society's "formal" register is often its powerful one's;
+  respecting every way of speaking is a small act of justice.
+- *Social-emotional:* anxiety about getting it right is real, especially in a second
+  language — normalise the wobble.
+- *Ethics:* matching register honours the other person; misjudging it is usually
+  awkwardness, not insult, and it can be repaired.
+- *Critical-thinking:* who set this rule, and whom does it include or exclude?
+
+**The skill.** Model once, then release (S-011): rewrite one sentence for two different
+rooms. Lesson 5 takes register into delivery.
 
 ## Procedure
 

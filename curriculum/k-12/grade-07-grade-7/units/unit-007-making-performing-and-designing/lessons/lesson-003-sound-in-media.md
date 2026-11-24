@@ -120,17 +120,18 @@ the mood being built, and to name who is building it and why.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **sound is a
-deliberate, often hidden, meaning-maker**: a learner should be able to name the mood a sound
-builds and connect it to a *choice* (tempo, volume, silence, a recurring theme). Model the
-one-picture-three-sounds worked example fully (explicit instruction for a novice skill —
-Kirschner, Sweller & Clark, 2006). Keep the ethics and egalitarian lenses visible: ads and
-trailers use sound to steer feeling, and the question "who benefits from this feeling?" is
-always fair. Be aware that some learners cannot hear (or hear differently); sound analysis
-must not exclude them — describe every sound in words, and offer visual alternatives such as
-reading a caption or watching a silent scene and imagining its score. Sound traditions differ
-across the world (film scores from Nollywood, Bollywood, Studio Ghibli, and video-game
-composers in Japan and Korea), so keep examples global rather than one industry's default.
+The idea to land is that **sound is a deliberate, often hidden, meaning-maker**: a
+learner should be able to name the mood a sound builds and connect it to a *choice*
+(tempo, volume, silence, a recurring theme). Model the one-picture-three-sounds worked
+example fully (explicit instruction for a novice skill — Kirschner, Sweller & Clark,
+2006). Keep the ethics and egalitarian lenses visible: ads and trailers use sound to
+steer feeling, and the question "who benefits from this feeling?" is always fair. Be
+aware that some learners cannot hear (or hear differently); sound analysis must not
+exclude them — describe every sound in words, and offer visual alternatives such as
+reading a caption or watching a silent scene and imagining its score. Sound traditions
+differ across the world (film scores from Nollywood, Bollywood, Studio Ghibli, and
+video-game composers in Japan and Korea), so keep examples global rather than one
+industry's default.
 
 ## Procedure
 

@@ -113,7 +113,7 @@ help, and then celebrate all the ways you keep your body healthy, safe, and stro
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Read this note fully before teaching.**
+**Read this note fully before teaching.**
 
 - Keep the tone warm and empowering. Asking for help is a strength, and telling is never
   wrong. Never frighten learners with graphic content; stay with "tell a trusted adult."

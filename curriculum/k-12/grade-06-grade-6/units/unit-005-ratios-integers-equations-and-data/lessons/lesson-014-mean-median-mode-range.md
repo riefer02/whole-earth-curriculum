@@ -120,21 +120,34 @@ say what you want.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) the **mean** is the balance point
-(sum ÷ count); the **median** is the middle value in order; the **mode** is the most common value; the
-**range** is the spread (largest − smallest); and (2) choosing the **best measure** depends on the question
-— the median or mode resists outliers, the mean uses every value. Because this is a capstone of foundational
-skills, use explicit instruction and worked examples before independent work (Kirschner, Sweller & Clark,
-2006). The classic slip is finding the mean of a data set with an outlier and reporting it as "typical"
-without noticing the pull. Retrieval: this lesson is a spiral review — have learners recall the unit's
-ratios, signed numbers, one-step equations, tables and graphs, and area/volume, and notice each one hiding
-in the data work (ordering the data uses signed-number order; the mean is a kind of "fair share" ratio;
-spread is range). The egalitarian lens is sharp (`docs/philosophy.md` §4): a single wealthy person can
-distort a country's *average* income, which is why fair summaries often report the median — choosing the
-measure is a question of honesty and fairness, not just arithmetic. Note the global point: "averages" and
-middle values appear in ancient record-keeping from Babylon to India; the modern care with outliers is a
-refinement of that old habit. Distinguish evidence (the computed measures) from values (which measure is
-"fairest" for a purpose).
+**Tone.** Careful and fair-minded. Which measure you choose is an argument.
+
+**The facts to land.**
+
+1. **Mean** = balance point (sum ÷ count); **median** = middle value in order; **mode**
+   = most common value; **range** = spread (largest − smallest).
+2. Choosing the **best measure** depends on the question: median and mode resist
+   outliers; the mean uses every value.
+3. One outlier can move the mean far from "typical."
+
+**Don't overshoot.** Do not report a mean pulled by an outlier as what is typical. Name
+the pull, then put the median beside it.
+
+**The lenses, briefly.**
+
+- *Intellectual:* this capstone revisits the unit — signed-number order for sorting, the
+  mean as fair-share ratio, range as spread.
+- *Egalitarianism:* a single wealthy person can distort a country's *average* income,
+  which is why fair summaries often report the median; choosing the measure is a
+  question of honesty and fairness, not just arithmetic (`docs/philosophy.md` §4).
+- *Global:* averages and middle values appear in ancient record-keeping from Babylon to
+  India; care with outliers refines that old habit.
+- *Critical-thinking:* the computed measures are evidence; which measure is "fairest"
+  for a purpose is a value.
+
+**The skill.** A capstone of foundational skills: instruct explicitly, model each
+measure, then release (Kirschner, Sweller & Clark, 2006). Build in spaced recall of the
+unit's ratios, signed numbers, equations, tables and graphs, and area/volume.
 
 ## Procedure
 

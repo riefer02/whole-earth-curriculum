@@ -97,14 +97,12 @@ others can follow along.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Keep the order concrete and physical — moving the body through
-"first, next, last" helps children hold the idea before they can say it. Some stories
-have more than three parts; at this age, three is plenty, and "middle" can be loose.
-Accept any part a learner names as long as it is genuinely from the story. Acting out,
-pointing to the three cards, or drawing the three parts all count as retelling — a
-learner who does not speak aloud can still tell the story's order with their body, hands,
-or pictures.
+Keep the order concrete and physical — moving the body through "first, next, last" helps
+children hold the idea before they can say it. Some stories have more than three parts;
+at this age, three is plenty, and "middle" can be loose. Accept any part a learner names
+as long as it is genuinely from the story. Acting out, pointing to the three cards, or
+drawing the three parts all count as retelling — a learner who does not speak aloud can
+still tell the story's order with their body, hands, or pictures.
 
 ## Procedure
 

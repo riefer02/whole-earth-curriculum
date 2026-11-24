@@ -116,16 +116,17 @@ this is a richness, not a flaw.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **translation always
-gains and loses**, and this is a *wealth*, not a defect — no language is "better," and no
-language says everything (`docs/philosophy.md` §4). Use accurate examples and check them: the
-Arabic *as-salaamu alaykum* ("peace be upon you") is a blessing; Hebrew *shalom* means peace,
-wholeness, hello, and goodbye, sharing a Semitic root (*s-l-m*) with the Arabic *salaam*. Be
+The idea to land is that **translation always gains and loses**, and this is a *wealth*,
+not a defect — no language is "better," and no language says everything
+(`docs/philosophy.md` §4). Use accurate examples and check them: the Arabic *as-salaamu
+alaykum* ("peace be upon you") is a blessing; Hebrew *shalom* means peace, wholeness,
+hello, and goodbye, sharing a Semitic root (*s-l-m*) with the Arabic *salaam*. Be
 careful and humble with languages you do not speak — prefer examples learners or their
-families actually know, and let those who speak a language be its experts. Invite learners to
-share their own languages as gifts. The linguistic facts are evidence; the claim that all
-languages are equally worthy is a value we hold (`docs/philosophy.md` §4–5). Retrieval: connect
-back to Grade 5's writing-systems and language-and-culture lessons.
+families actually know, and let those who speak a language be its experts. Invite
+learners to share their own languages as gifts. The linguistic facts are evidence; the
+claim that all languages are equally worthy is a value we hold (`docs/philosophy.md`
+§4–5). Retrieval: connect back to Grade 5's writing-systems and language-and-culture
+lessons.
 
 ## Procedure
 

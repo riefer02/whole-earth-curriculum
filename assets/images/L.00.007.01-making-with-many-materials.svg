@@ -67,5 +67,5 @@
   <!-- motion dots -->
   <circle cx="256" cy="332" r="3" fill="#4f6d7a"/>
 
-  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#4f6d7a">There is no wrong way to make — any material is a place to start.</text>
+  <text x="256" y="476" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">There is no wrong way to make — any material is a place to start.</text>
 </svg>

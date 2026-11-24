@@ -125,7 +125,7 @@ anything and not a replacement for medical or mental-health care. State this pla
 CASEL lists self-management — which includes regulating attention and impulses — as a
 core competency (S-001).
 
-**Safety.** Attention practice is generally safe, but some learners may find stillness
+**Safety floor.** Attention practice is generally safe, but some learners may find stillness
 hard or distressing. Always offer movement or eyes-open options and never require a
 long, silent, closed-eyes sit. Learners may opt out entirely.
 

@@ -112,16 +112,16 @@ and fitting pieces**, done in homes, workshops, and markets everywhere.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) **whole ÷ fraction** asks
-"how many of these pieces fit?" (2 ÷ 1/4 = 8, because there are 8 fourths in 2); (2)
-**fraction ÷ whole number** asks "what is each equal share?" (3/4 ÷ 2 = 3/8, because each half
-of 3/4 is 3/8); and (3) **decimal ÷ whole number** works like whole-number division, then
-place the decimal point (4.50 ÷ 3 = 1.50). Model each as a **worked example with bars**, then
-guide a second together (Kirschner, Sweller & Clark, 2006). The key habit is **checking by
-multiplying back** (8 × 1/4 = 2; 2 × 3/8 = 3/4; 3 × 1.50 = 4.50). Retrieval: ask learners to
-recall last lesson's multiplication models and reuse them to check today's division. Division
-here is evidence; dividing **fairly, so each share is equal**, is a fairness value
-(`docs/philosophy.md` §4).
+The ideas to land: (1) **whole ÷ fraction** asks "how many of these pieces fit?" (2 ÷
+1/4 = 8, because there are 8 fourths in 2); (2) **fraction ÷ whole number** asks "what
+is each equal share?" (3/4 ÷ 2 = 3/8, because each half of 3/4 is 3/8); and (3)
+**decimal ÷ whole number** works like whole-number division, then place the decimal
+point (4.50 ÷ 3 = 1.50). Model each as a **worked example with bars**, then guide a
+second together (Kirschner, Sweller & Clark, 2006). The key habit is **checking by
+multiplying back** (8 × 1/4 = 2; 2 × 3/8 = 3/4; 3 × 1.50 = 4.50). Retrieval: ask
+learners to recall last lesson's multiplication models and reuse them to check today's
+division. Division here is evidence; dividing **fairly, so each share is equal**, is a
+fairness value (`docs/philosophy.md` §4).
 
 ## Procedure
 

@@ -106,15 +106,14 @@ every language on Earth.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Model a two-turn exchange first, then let learners practice.
-Stay-on-topic means the ideas connect; a gentle redirect ("let's stay with the
-market story") is help, not scolding. Speaking clearly does not mean speaking in a
-"correct" accent — every accent, dialect, and way of speaking is honored; "clear"
-means the listener can understand, and the learner decides how to get there. A
-learner who is Deaf or hard of hearing takes turns in sign or with a visual turn
-marker; a learner who does not use a speaking voice "speaks" by signing, pointing to
-pictures, or using a communication device — their turn counts exactly the same.
+Model a two-turn exchange first, then let learners practice. Stay-on-topic means the
+ideas connect; a gentle redirect ("let's stay with the market story") is help, not
+scolding. Speaking clearly does not mean speaking in a "correct" accent — every accent,
+dialect, and way of speaking is honored; "clear" means the listener can understand, and
+the learner decides how to get there. A learner who is Deaf or hard of hearing takes
+turns in sign or with a visual turn marker; a learner who does not use a speaking voice
+"speaks" by signing, pointing to pictures, or using a communication device — their turn
+counts exactly the same.
 
 ## Procedure
 

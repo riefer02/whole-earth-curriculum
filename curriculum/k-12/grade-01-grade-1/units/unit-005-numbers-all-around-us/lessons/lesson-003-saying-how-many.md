@@ -110,18 +110,17 @@ on.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The one idea that makes counting
-*meaningful* is **cardinality** — the last number said names the whole group — and
-it is best taught with a worked example, then practiced with real objects. Always
-pair "how many" with a real answer, and treat *estimating* as a respected thinking
-move, not a wrong answer: "I think about 40 — let's count and see." Comparing groups
-teaches that **more and fewer are facts about quantities, never about a person's
-worth.** For learners who are Deaf or hard of hearing, count in sign or by touching
-each object; for learners who are blind or low-vision, move objects one by one into
-a cup so the count grows by feel and sound. A learner who does not speak can show
-the total by holding up a number card, tapping that many times, or pointing. No
-ranking by speed or by how high a learner can count; a correct total is correct
-however it was reached.
+The one idea that makes counting *meaningful* is **cardinality** — the last number said
+names the whole group — and it is best taught with a worked example, then practiced with
+real objects. Always pair "how many" with a real answer, and treat *estimating* as a
+respected thinking move, not a wrong answer: "I think about 40 — let's count and see."
+Comparing groups teaches that **more and fewer are facts about quantities, never about a
+person's worth.** For learners who are Deaf or hard of hearing, count in sign or by
+touching each object; for learners who are blind or low-vision, move objects one by one
+into a cup so the count grows by feel and sound. A learner who does not speak can show
+the total by holding up a number card, tapping that many times, or pointing. No ranking
+by speed or by how high a learner can count; a correct total is correct however it was
+reached.
 
 ## Procedure
 

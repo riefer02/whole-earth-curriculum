@@ -115,30 +115,38 @@ down and ask, quietly: *what is true of me, regardless of what I have been calle
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) labels and
-expectations are external — they say more about who is doing the labeling than about the
-truth of the person labeled; (2) a negative label, made salient, can become a real weight
-(stereotype threat) that shapes performance and self-image, which shows that labels have
-consequences and are not merely "words"; (3) inner worth is not the same as outside
-approval — and a considered position on what defines me stands on what is true of me, not
-on what I have been called.** The stereotype-threat claim is a well-replicated finding
-(S-284), presented as *descriptive*, not as a verdict about any learner; the
-worth-vs-approval distinction is a value commitment (philosophy §4, §8, §11).
+**Tone.** Gentle and dignifying: the point is *freedom from* labels, not a new ranking
+of who has suffered most.
 
-Model the skill once, then let learners practice (S-011). The **egalitarian** lens:
-labels are not handed out equally — some people are labeled more, and more harmfully,
-than others, and the curriculum's job is to name that honestly without ranking any
-learner. The **ethics** lens: we both receive and give labels; the words we use about
-another person can build or confine them, so we bear a small responsibility for the
-labels we pass on. The **global** lens: what counts as a "good" or "bad" label varies
-across cultures — the same trait praised in one place may be belittled in another —
-which shows how little a label tells you about a person's worth. The **technology &
-environment** lens: feeds and platforms sort people into categories and show them
-narrow images of "who someone like me is" (recall Lesson 3) — a digital version of
-labeling that a considered position must see through. The **social-emotional** lens:
-this lesson can touch real wounds; invite, never force, let "pass" stand, and watch for
-learners who may be carrying a heavy label. Keep the tone gentle and dignifying: the
-point is *freedom from* labels, not a new ranking of who has suffered most.
+**The facts to land.**
+
+1. Labels and expectations are external; they say more about who is labelling than about
+   the person labelled.
+2. A negative label made salient can become a real weight — stereotype threat — shaping
+   performance and self-image (S-284).
+3. Inner worth is not outside approval: a considered position stands on what is true of
+   me, not on what I have been called.
+
+**Don't overshoot.** Present stereotype threat as *descriptive*, never as a verdict
+about a learner; the worth-versus-approval distinction is a value commitment (philosophy
+§4, §8, §11).
+
+**The lenses, briefly.**
+
+- *Egalitarianism:* labels are not handed out equally; some are labelled more, and more
+  harmfully — say so without ranking learners.
+- *Ethics:* we receive and give labels; words can build or confine, so we bear a small
+  responsibility.
+- *Global:* the same trait praised in one place may be belittled in another, which shows
+  how little a label says about worth.
+- *Technology and environment:* feeds sort people into categories and show narrow images
+  of "who someone like me is" (Lesson 3).
+- *Social-emotional:* this touches real wounds — invite, never force; let "pass" stand.
+- *Critical-thinking:* a label is a claim, not a measurement; ask who benefits from it
+  sticking.
+
+**The skill.** Model once, then release (S-011): take one label you carry, name its
+source, and write what is true instead.
 
 ## Procedure
 

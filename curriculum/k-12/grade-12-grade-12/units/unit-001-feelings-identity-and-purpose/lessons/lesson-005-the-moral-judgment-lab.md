@@ -121,11 +121,10 @@ decision arrives without warning you already know the route.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **judgment is a
-deliberation with a revision step, and dissent is an asset, not a threat.** Surfacing
-disagreement improves decisions — which is why the frame forces a dissent before the
-final verdict. Emotion sits *in* the deliberation as an input (Lerner et al., S-333;
-Decety & Cowell, S-231), never as the whole verdict.
+The idea to land: **judgment is a deliberation with a revision step, and dissent is an
+asset, not a threat.** Surfacing disagreement improves decisions — which is why the
+frame forces a dissent before the final verdict. Emotion sits *in* the deliberation as
+an input (Lerner et al., S-333; Decety & Cowell, S-231), never as the whole verdict.
 
 The **ethics** lens: the case *is* an ethics question, and the verdict is a claim about
 what is right. The **egalitarianism** lens: require learners to name whose voice is
@@ -135,7 +134,7 @@ inputs differently — and that is data, not a mistake. The **critical-thinking*
 the dissent step is a check on premature certainty; the revision step is a check on
 stubbornness.
 
-**Safeguarding:** use the provided case or an equivalent kept one step removed. Do not
+**Safety floor.** use the provided case or an equivalent kept one step removed. Do not
 require disclosure of personal trauma. If learners grow heated, that is the material —
 name it and return to the frame rather than adjudicating their private disputes.
 

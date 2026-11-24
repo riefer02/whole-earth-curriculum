@@ -117,19 +117,19 @@ stay in relationship without losing themselves.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **assertion is a
-choice, not a personality** — and it is built by rehearsal, not willpower. The three-part
-formula keeps both people's needs on the table, which is the egalitarian heart of the skill.
-Carry forward Lesson 3's caution: how a person states a need "assertively" looks different across
-cultures — in some, indirect speech, deference, or quietness is the respectful way, not passivity.
-Honor each learner's own cultural style; the skill is that needs get honored within the
-relationship, not that everyone must speak in one "direct" register. Model a full worked example,
-then do guided practice before independent rehearsal; this is a
-skill (Kirschner, Sweller & Clark, 2006). Give special care to **refusals**: saying no to a
-friend can feel like betrayal to an 11-year-old, so frame "no" as protecting the friendship,
-not ending it. Use invented situations; never script a real classmate into a scenario. If a
-learner's situation involves real pressure or harm, connect them to a trusted adult. See
-`docs/facilitation.md`.
+The idea to land is that **assertion is a choice, not a personality** — and it is built
+by rehearsal, not willpower. The three-part formula keeps both people's needs on the
+table, which is the egalitarian heart of the skill. Carry forward Lesson 3's caution:
+how a person states a need "assertively" looks different across cultures — in some,
+indirect speech, deference, or quietness is the respectful way, not passivity. Honor
+each learner's own cultural style; the skill is that needs get honored within the
+relationship, not that everyone must speak in one "direct" register. Model a full worked
+example, then do guided practice before independent rehearsal; this is a skill
+(Kirschner, Sweller & Clark, 2006). Give special care to **refusals**: saying no to a
+friend can feel like betrayal to an 11-year-old, so frame "no" as protecting the
+friendship, not ending it. Use invented situations; never script a real classmate into a
+scenario. If a learner's situation involves real pressure or harm, connect them to a
+trusted adult. See `docs/facilitation.md`.
 
 ## Procedure
 

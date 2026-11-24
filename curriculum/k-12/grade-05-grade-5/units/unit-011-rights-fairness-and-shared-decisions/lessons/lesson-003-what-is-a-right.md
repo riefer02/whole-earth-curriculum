@@ -114,15 +114,15 @@ just some — is meant to be protected.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) a **right is a
-shared promise to protect something every child needs**, and (2) some rights are written
-in the **UN Convention on the Rights of the Child**, an agreement many countries made.
-Frame the UNCRC as **a shared human agreement, not a revealed truth or a dogma** — people
-wrote it, people can improve it, and it exists because adults agreed children should be
-protected. Distinguish **evidence from values** (`docs/philosophy.md` §5): *that* the
-Convention exists and what it says are facts we can check; *that* children's needs
-*should* be protected is a value, held widely but still a value. This honors the unit's
-rule: questions are held as questions, not answered as dogma. See `docs/facilitation.md`.
+The ideas to land: (1) a **right is a shared promise to protect something every child
+needs**, and (2) some rights are written in the **UN Convention on the Rights of the
+Child**, an agreement many countries made. Frame the UNCRC as **a shared human
+agreement, not a revealed truth or a dogma** — people wrote it, people can improve it,
+and it exists because adults agreed children should be protected. Distinguish **evidence
+from values** (`docs/philosophy.md` §5): *that* the Convention exists and what it says
+are facts we can check; *that* children's needs *should* be protected is a value, held
+widely but still a value. This honors the unit's rule: questions are held as questions,
+not answered as dogma. See `docs/facilitation.md`.
 
 ## Procedure
 

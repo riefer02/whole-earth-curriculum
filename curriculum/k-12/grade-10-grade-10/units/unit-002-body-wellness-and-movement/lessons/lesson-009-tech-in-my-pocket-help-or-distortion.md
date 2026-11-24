@@ -119,32 +119,36 @@ what your body is for.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a fitness tracker or
-app is a tool that can support or distort a healthy relationship with movement and the
-body — and the learner can evaluate which, feature by feature, against what healthy
-movement actually is.** The anchor for "healthy" is the WHO picture of balanced activity
-(S-341); the cautionary anchor is the well-documented reality that media and technology
-can shape body image and self-worth (S-226 documents the research program on media and
-tech's impact on adolescent development; S-411 documents how media and social messages
-shape body image). Hold the *specific* claims about trackers honestly and with hedging:
-the research on wearables is **real but mixed and maturing** — devices can help some
-people build consistent habits, while their step counts, calorie estimates, and sleep
-scores are only *approximate*, and their streaks and comparisons can feed anxiety and
-negative body image for others. Present these as tendencies to evaluate, not as a
-verdict that "trackers are bad."
+**Tone.** Curious, not scolding: the learner judges the tool, feature by feature, and
+tool-lovers are not the target.
 
-The **technology** lens is the spine: read the tool as a *designed object* — every
-prompt, streak, and score was chosen by someone to shape behavior, sometimes helpfully,
-sometimes for engagement or profit. The **critical-thinking** lens: ask *what does it
-measure, what does it miss, and how accurate is it?* — a step count is not a life, and a
-calorie number is an estimate, not a fact. The **ethics** lens: is the tool nudging me
-toward care or toward shame? Tools that punish with "you're behind" deserve the same
-scrutiny as tools that encourage. The **egalitarian** lens: trackers are not equally
-available or equally fair — they assume a wrist, a phone, a budget, and a body that can
-step — and their "norms" (10,000 steps, closing rings) are not universal truths, just
-targets someone set. The **social-emotional** lens: numbers about our bodies can sting;
-invite, never force, and let learners share only what they choose. Preview: the same
-"claim vs. evidence" eye returns for diets in Lesson 10.
+**The facts to land.**
+
+1. A tracker or app can support or distort a healthy relationship with movement and the
+   body; the learner can tell which.
+2. "Healthy" is anchored in the WHO picture of balanced activity (S-341); media and
+   technology can shape body image and self-worth (S-226, S-411).
+3. Wearable research is **real but mixed and maturing**: counts and scores are
+   approximate, and streaks can feed anxiety for some.
+
+**Don't overshoot.** Devices help plenty of people build habits; present tendencies to
+evaluate, never a verdict that "trackers are bad".
+
+**The lenses, briefly.**
+
+- *Technology:* read the tool as designed: every prompt and streak was chosen by
+  someone, sometimes for profit.
+- *Critical-thinking:* ask what it measures, what it misses, and how accurate it is; a
+  step count is not a life.
+- *Ethics:* is it nudging you toward care or toward shame? "You're behind" deserves the
+  same scrutiny as encouragement.
+- *Egalitarianism:* it assumes a wrist, a phone, a budget, and legs that step; 10,000
+  steps is a target someone set, not a universal truth.
+- *Social-emotional:* numbers about our bodies can sting — invite, never force.
+- *Physical:* movement is the point; the metric is a stand-in.
+
+**The skill.** Model once, then release (S-011): audit one screen of your app and name
+what it measures and what it misses. The same eye returns for diets next lesson.
 
 ## Procedure
 
@@ -201,3 +205,4 @@ you or stress you?* Compare your two columns.
   Association, "Body Image," <https://www.nationaleatingdisorders.org/body-image-0> (S-411).
 - On reading media critically (asking where information comes from and what it is for):
   Common Sense Education, "News & Media Literacy" (S-063).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

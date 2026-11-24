@@ -121,12 +121,12 @@ themselves.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **two defenses resist
-manipulation — a free press and a literate public — and each is a practice, not a
-given (UNESCO Media and Information Literacy, S-217; NAMLE, S-151; Center for Media
-Literacy, S-442).** Press freedom is real, measurable, and uneven across the world
-(V-Dem, S-461) — which is *why* the second defense (a literate, questioning public)
-matters in every context, including places where the press is not free.
+The idea to land: **two defenses resist manipulation — a free press and a literate
+public — and each is a practice, not a given (UNESCO Media and Information Literacy,
+S-217; NAMLE, S-151; Center for Media Literacy, S-442).** Press freedom is real,
+measurable, and uneven across the world (V-Dem, S-461) — which is *why* the second
+defense (a literate, questioning public) matters in every context, including places
+where the press is not free.
 
 The egalitarian turn: who gets to be "media literate" — and whose skepticism is
 encouraged — is itself uneven. The lesson's point is not that individuals must simply
@@ -135,11 +135,10 @@ literacy is a *public* good to be built and shared, alongside a free press. Keep
 defenses as structural, not just personal.
 
 The **ethics** lens: checking a claim before repeating it is a small act of care for
-others. The **egalitarianism** lens: literacy and a free press are distributed
-unevenly, and that matters for who can be misled. The **global** lens: press freedom
-varies by country; the habits travel anywhere. The **technology** lens: the same
-tools that spread manipulation also spread verification. The **critical-thinking**
-lens is the core here.
+others. The **egalitarianism** lens: literacy and a free press are distributed unevenly,
+and that matters for who can be misled. The **global** lens: press freedom varies by
+country; the habits travel anywhere. The **technology** lens: the same tools that spread
+manipulation also spread verification. The **critical-thinking** lens is the core here.
 
 ## Procedure
 

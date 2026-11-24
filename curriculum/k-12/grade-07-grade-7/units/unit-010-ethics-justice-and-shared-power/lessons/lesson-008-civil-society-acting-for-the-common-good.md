@@ -112,25 +112,39 @@ to act. Today you meet this middle layer of shared life.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) civil society is the
-space of voluntary groups between the individual and government — community groups,
-cooperatives, faith communities, unions, and social movements; (2) groups act for the common
-good when government does not — they fill gaps, meet needs, and often press government to
-act; (3) examples: the Green Belt Movement, founded in Kenya in 1977 by Wangari Maathai,
-organized people to plant trees, and grew to plant over thirty million trees — work for
-which Maathai received the Nobel Peace Prize in 2004 (S-059); the Chipko movement in India,
-beginning in the 1970s, saw villagers — especially women — embrace trees to stop them being
-cut, protecting forests their communities depended on; and the Red Cross/Red Crescent
-movement, which gives neutral humanitarian aid in crises.** Cite Maathai/Green Belt Movement
-to S-059; Chipko and the Red Cross/Red Crescent are documented historical facts (Chipko is
-well documented — S-328; the Red Cross/Red Crescent — S-329 — both stated with a "for example"
-hedge). The ethics lens: the common good is the good we share — clean air, water, safety,
-belonging — and acting for it is an ethical act. The egalitarian lens: civil society is often
-how people with less power get a voice — it is the "voice of the many," not a favor from
-above. The environment lens: both movements named are environmental — caring for land and
-forests is a form of caring for people. The community lens: civil society is the curriculum's
-own vision of cooperation over competition, made real in the world. Do not romanticize —
-civil society can also be imperfect — but hold the examples with dignity and hope.
+**Tone.** Hopeful but unsentimental; civil society can also be imperfect.
+
+**The facts to land.**
+
+1. **Civil society** is the space of voluntary groups between the individual and
+   government — community groups, cooperatives, faith communities, unions, and social
+   movements.
+2. Such groups act for the common good when government does not: they fill gaps, meet
+   needs, and often press government to act.
+3. **Green Belt Movement**, founded in Kenya in 1977 by Wangari Maathai, organized
+   people to plant trees and grew to plant over thirty million; Maathai received the
+   Nobel Peace Prize in 2004 (S-059).
+4. **Chipko movement**, India, from the 1970s: villagers, especially women, embraced
+   trees to stop them being cut, protecting forests their communities depended on
+   (S-328).
+5. **Red Cross/Red Crescent** gives neutral humanitarian aid in crises (S-329).
+
+**Don't overshoot.** Do not present these groups as flawless heroes, or as a substitute
+for public systems that should also work.
+
+**The lenses, briefly.**
+
+- *Ethics:* the common good — clean air, water, safety, belonging — is shared, and
+  acting for it is an ethical act.
+- *Egalitarianism:* civil society is often how people with less power get a voice, not a
+  favor from above.
+- *Environment:* caring for land and forests is a form of caring for people.
+- *Community:* cooperation over competition, made real in the world.
+
+**The skill.** Match one gap to one group acting, and name who benefits.
+
+Chipko and the Red Cross/Red Crescent are documented historical facts, stated here with
+a "for example" hedge.
 
 ## Procedure
 

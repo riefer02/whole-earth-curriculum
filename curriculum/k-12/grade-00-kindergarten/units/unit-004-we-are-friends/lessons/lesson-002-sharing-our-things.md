@@ -102,10 +102,9 @@ Sharing is caring made into a habit.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, keep sharing voluntary and warm — never force
-a child to hand over a beloved object; offer an object that is "ours to share." The
-aim is the feeling of fairness and enoughness, not obedience.
+As facilitator, keep sharing voluntary and warm — never force a child to hand over a
+beloved object; offer an object that is "ours to share." The aim is the feeling of
+fairness and enoughness, not obedience.
 
 ## Procedure
 

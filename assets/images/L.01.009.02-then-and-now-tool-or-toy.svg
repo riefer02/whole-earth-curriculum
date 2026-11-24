@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27.8" font-weight="bold" fill="#2b3a42">Then and Now &#183; A Tool or Toy</text>
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Then and Now &#183; A Tool or Toy</text>
 
   <line x1="256" y1="70" x2="256" y2="470" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 6"/>
 
@@ -52,6 +52,6 @@
     <text x="384" y="430" text-anchor="middle" font-family="sans-serif" font-size="20" fill="#222222">store top</text>
   </g>
 
-  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="16.1" fill="#4f6d7a">Both hold water &#183; Both spin &#183; Neither is better</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Both hold water &#183; Both spin &#183; Neither is better</text>
   <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Different ways people solve the same job</text>
 </svg>

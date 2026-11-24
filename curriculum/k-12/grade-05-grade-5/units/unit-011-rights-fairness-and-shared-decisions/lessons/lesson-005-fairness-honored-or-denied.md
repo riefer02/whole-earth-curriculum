@@ -114,16 +114,15 @@ clearly.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is the **two-question
-fairness analysis**: *was fairness honored or denied? who benefited, and who was left
-out?* Model it once as a worked example before independent practice (Kirschner, Sweller
-& Clark, 2006). Choose historical examples that are **true, age-appropriate, and
-non-shaming** — the point is to see the pattern, not to make any group or learner feel
-blamed. Distinguish **evidence from values**: *what happened and who benefited* are facts
-we can investigate; *that fairness should be honored* is a value held by this curriculum
-and by the children it serves. Keep both questions open, and always attach the "denied"
-examples to hope — fairness can be repaired, and people do repair it. See
-`docs/facilitation.md`.
+The skill to land is the **two-question fairness analysis**: *was fairness honored or
+denied? who benefited, and who was left out?* Model it once as a worked example before
+independent practice (Kirschner, Sweller & Clark, 2006). Choose historical examples that
+are **true, age-appropriate, and non-shaming** — the point is to see the pattern, not to
+make any group or learner feel blamed. Distinguish **evidence from values**: *what
+happened and who benefited* are facts we can investigate; *that fairness should be
+honored* is a value held by this curriculum and by the children it serves. Keep both
+questions open, and always attach the "denied" examples to hope — fairness can be
+repaired, and people do repair it. See `docs/facilitation.md`.
 
 ## Procedure
 

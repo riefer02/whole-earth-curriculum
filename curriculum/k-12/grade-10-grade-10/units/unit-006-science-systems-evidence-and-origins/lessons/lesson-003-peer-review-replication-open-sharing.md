@@ -114,13 +114,12 @@ claim can be.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **scientific
-knowledge is trustworthy not because scientists are infallible but because the process
-is public and self-correcting — peer review filters, replication tests, and open
-sharing lets outsiders check; and each of these can fall short (peer review can miss
-fraud, replication is under-rewarded, paywalls and secrecy block open sharing).** Use
-the OPERA story as a concrete, faithful example of the machinery working (S-011 style:
-a worked example of "how a claim gets checked").
+The idea to land: **scientific knowledge is trustworthy not because scientists are
+infallible but because the process is public and self-correcting — peer review filters,
+replication tests, and open sharing lets outsiders check; and each of these can fall
+short (peer review can miss fraud, replication is under-rewarded, paywalls and secrecy
+block open sharing).** Use the OPERA story as a concrete, faithful example of the
+machinery working (S-011 style: a worked example of "how a claim gets checked").
 
 The **critical-thinking** lens: the posture is "trust, but verify" — a finding is more
 trustworthy when it has been checked by others, not when it is asserted loudly. The
@@ -129,8 +128,8 @@ blocks correction. The **egalitarian** lens: open sharing is a justice issue —
 knowledge sits behind paywalls, only the wealthy can check it, and that is a real
 failure of the system, not an accident (the open-access movement exists to fix this).
 The **global** lens: science is a worldwide, cross-cultural conversation; the OPERA
-result was checked by labs on several continents within months. Preview: Lesson 4
-turns to life — how traits pass from parents to offspring.
+result was checked by labs on several continents within months. Preview: Lesson 4 turns
+to life — how traits pass from parents to offspring.
 
 ## Procedure
 

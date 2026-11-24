@@ -113,18 +113,33 @@ Today you learn the small marks and habits that keep your writing honest.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) citing means saying where
-words and ideas came from; (2) three moves — quote (exact words in quotation marks, with
-attribution), paraphrase (the idea in your own words, still attributed), and your own idea (no
-attribution needed) — and the learner must label which is which; (3) copying words or ideas
-without credit is dishonest, whatever the language.** Model all three once (worked example,
-S-011). The ethics lens is this lesson's heart: attribution is honesty toward the people whose
-thinking we build on. The egalitarian lens: the right to be credited belongs to everyone — a
-scholar in a library and a grandparent in a village are both sources worthy of credit. The global
-lens: every culture has its own customs of giving credit and passing knowledge (oral traditions
-name the teller, as griots do); citing is one custom among many, and its purpose — honesty — is
-universal. The critical-thinking lens: a citation lets a reader check the claim — which is how
-knowledge stays honest. Use a low-stakes, real passage so the skill is practiced without fear.
+**Tone.** Matter-of-fact — attribution is craft and honesty, not policing.
+
+**The facts to land.**
+
+1. Citing means saying where words and ideas came from.
+2. Three moves: quote (exact words in quotation marks, attributed), paraphrase (the idea
+   in your own words, still attributed), and your own idea (no attribution) — label
+   which is which.
+3. Copying words or ideas without credit is dishonest, whatever the language.
+
+**Don't overshoot.** Do not turn citation into a gotcha; the point is honesty, not
+perfect formatting.
+
+**The lenses, briefly.**
+
+- *Ethics:* attribution is honesty toward the people whose thinking we build on — this
+  lesson's heart.
+- *Egalitarianism:* the right to be credited belongs to everyone — a scholar in a library
+  and a grandparent in a village.
+- *Global:* every culture has customs of giving credit and passing knowledge (oral
+  traditions name the teller, as griots do); citing is one custom, its purpose
+  universal.
+- *Critical-thinking:* a citation lets a reader check the claim, which keeps knowledge
+  honest.
+
+**The skill.** Model all three once (worked example, S-011), with a low-stakes, real
+passage.
 
 ## Procedure
 

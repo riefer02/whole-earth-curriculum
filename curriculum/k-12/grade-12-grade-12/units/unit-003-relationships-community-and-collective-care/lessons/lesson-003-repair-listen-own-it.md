@@ -122,26 +122,26 @@ the ones we know how to mend.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **repair is not a word
-but a set of actions — own it, hear the harm, make it right — and it restores rather than
-humiliates.** The restorative three-question frame is a well-established practice (IIRP,
-S-022). Hold repair as a description of what works, and hold the value that people can
-change and relationships can mend as a commitment, not a fact.
+The idea to land: **repair is not a word but a set of actions — own it, hear the harm,
+make it right — and it restores rather than humiliates.** The restorative three-question
+frame is a well-established practice (IIRP, S-022). Hold repair as a description of what
+works, and hold the value that people can change and relationships can mend as a
+commitment, not a fact.
 
 The **ethics** lens: what we owe after harm — truth, hearing, and making right — is the
 core of restorative ethics. The **egalitarianism** lens: repair treats both people as
 equals with needs; it neither punishes downward nor lets harm stand unanswered. The
 **global** lens: cultures worldwide practice repair — truth-telling circles, peacemaking
 traditions, and restorative justice rooted in Indigenous practice; the frame is one
-modern form, not the only one. The **technology** lens: digital life complicates repair —
-a public apology can feel performative, an "unsent" message erases no harm, and a private
-repair is often the honest one (Suler, S-343). The **environment** lens: a throwaway
-culture throws away broken things and broken ties alike; the value of *mending* — a
-repaired bowl, a rewoven net, a restored streambank — is the same value that sustains
-relationships (and it echoes the circular-economy ideal of repairing rather than
-discarding). Preview: Lesson 4 turns to the listener we each want to become.
+modern form, not the only one. The **technology** lens: digital life complicates repair
+— a public apology can feel performative, an "unsent" message erases no harm, and a
+private repair is often the honest one (Suler, S-343). The **environment** lens: a
+throwaway culture throws away broken things and broken ties alike; the value of
+*mending* — a repaired bowl, a rewoven net, a restored streambank — is the same value
+that sustains relationships (and it echoes the circular-economy ideal of repairing
+rather than discarding). Preview: Lesson 4 turns to the listener we each want to become.
 
-**Safeguarding:** all scenarios are fictional. No learner is asked to narrate a real
+**Safety floor.** all scenarios are fictional. No learner is asked to narrate a real
 private harm; they may always use a character.
 
 ## Procedure

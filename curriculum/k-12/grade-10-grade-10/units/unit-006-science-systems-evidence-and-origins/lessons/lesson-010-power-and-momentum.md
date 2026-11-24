@@ -113,12 +113,12 @@ the force on the people inside.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **power = work ÷ time
-(P = W/t, in watts) measures how fast work happens; momentum = mass × velocity
-(p = m·v) is conserved in collisions; and stretching a collision over time (impulse)
-reduces the force — which is why airbags and crumple zones save lives.** Teach both
-with worked examples and unit discipline (S-011); the momentum-conservation step is the
-hardest, so model the "total before = total after" setup explicitly.
+The idea to land: **power = work ÷ time (P = W/t, in watts) measures how fast work
+happens; momentum = mass × velocity (p = m·v) is conserved in collisions; and stretching
+a collision over time (impulse) reduces the force — which is why airbags and crumple
+zones save lives.** Teach both with worked examples and unit discipline (S-011); the
+momentum-conservation step is the hardest, so model the "total before = total after"
+setup explicitly.
 
 The **intellectual** lens: conservation of momentum is a deep, testable law — it is why
 collisions are predictable. The **technology** lens: every engine's rating and every

@@ -127,12 +127,12 @@ else's body too.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This capstone is a **celebration of mastery, not
-a ranking** — each learner assembles what *they* learned about *their own* body, and every note
-is complete and valuable as it is. Review the four sections with the poster, then let learners
-work independently and share in pairs. Honor the wide range of bodies: some learners will write
-a seated or adapted movement, a different growth pace, or a signal their own body sends — all
-are correct. Keep the tone warm and proud. See `docs/facilitation.md` on assessing without
+This capstone is a **celebration of mastery, not a ranking** — each learner assembles
+what *they* learned about *their own* body, and every note is complete and valuable as
+it is. Review the four sections with the poster, then let learners work independently
+and share in pairs. Honor the wide range of bodies: some learners will write a seated or
+adapted movement, a different growth pace, or a signal their own body sends — all are
+correct. Keep the tone warm and proud. See `docs/facilitation.md` on assessing without
 ranking.
 
 ## Procedure

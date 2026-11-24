@@ -117,19 +117,19 @@ wrote rules for them in the 7th century. They are a shared human tool, not one c
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) **add a positive** moves up
-the number line; **add a negative** moves down; (2) **subtract** means move the opposite way, so
-subtracting a negative moves up (3 − (−2) = 5); and (3) **multiply/divide** sign rules — same
-signs give positive, different signs give negative. Because integer operations are a foundational
-skill, use explicit instruction, worked examples, and guided practice before independent work
-(Kirschner, Sweller & Clark, 2006). Watch for the slips of subtracting a negative as if it were
-adding, and of mixing up the multiply/divide sign rules. Retrieval: ask learners to recall the
-number line and ordering of integers from Grade 6 — operations are moves on that same line. The
-global lens: negative numbers appear in the Chinese *Nine Chapters on the Mathematical Art*
-(c. 200 BCE, red and black counting rods) and in Brahmagupta's Indian rules (7th century CE); the
-ideas are shared human achievements. The egalitarian lens (`docs/philosophy.md` §4): negative
-numbers let anyone name debt, cold, and depth precisely — they are tools for honest accounting,
-not gatekeeping.
+The ideas to land: (1) **add a positive** moves up the number line; **add a negative**
+moves down; (2) **subtract** means move the opposite way, so subtracting a negative
+moves up (3 − (−2) = 5); and (3) **multiply/divide** sign rules — same signs give
+positive, different signs give negative. Because integer operations are a foundational
+skill, use explicit instruction, worked examples, and guided practice before independent
+work (Kirschner, Sweller & Clark, 2006). Watch for the slips of subtracting a negative
+as if it were adding, and of mixing up the multiply/divide sign rules. Retrieval: ask
+learners to recall the number line and ordering of integers from Grade 6 — operations
+are moves on that same line. The global lens: negative numbers appear in the Chinese
+*Nine Chapters on the Mathematical Art* (c. 200 BCE, red and black counting rods) and in
+Brahmagupta's Indian rules (7th century CE); the ideas are shared human achievements.
+The egalitarian lens (`docs/philosophy.md` §4): negative numbers let anyone name debt,
+cold, and depth precisely — they are tools for honest accounting, not gatekeeping.
 
 ## Procedure
 

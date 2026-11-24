@@ -111,19 +111,31 @@ a skill that works on every message in every language you hear.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a speaker shapes meaning
-with three moves — word choice (the words and their connotations), tone (the speaker's attitude
-carried by the words), and delivery (pace, volume, pitch, pause, gesture, expression); (2) all
-three work together to persuade; (3) analyzing them is a skill of attention, not a ranking of
-speakers.** Model the first pair once (worked example, S-011). The concept of persuasion as
-analyzed craft is ancient — Aristotle named three appeals (ethos, pathos, logos) in the Greek
-tradition (S-346), but it is one tradition among many; many cultures have their own arts of
-speaking. The ethics lens: persuasion can be used to help or to harm; noticing *how* it works is
-how we choose. The egalitarian lens: the same words persuade some people and leave others out —
-ask "who is this speaking to, and who is it leaving out?" The global lens: tone and delivery vary
-across cultures; a loud, fast delivery is respectful in one place and rude in another. The
-social-emotional lens: noticing tone is also noticing feeling — ours and the speaker's. Use a
-low-stakes example so the skill is practiced without fear.
+**Tone.** Attentive and unpressured — this is analysis, not performance.
+
+**The facts to land.**
+
+1. A speaker shapes meaning with three moves: word choice (words and their
+   connotations), tone (the speaker's attitude), and delivery (pace, volume, pitch,
+   pause, gesture, expression).
+2. All three work together to persuade.
+3. Analyzing them is attention, not a ranking of speakers.
+
+**Don't overshoot.** Do not treat one style of delivery as universally "good speaking."
+
+**The lenses, briefly.**
+
+- *Ethics:* persuasion can help or harm; noticing *how* it works is how we choose.
+- *Egalitarianism:* the same words persuade some and leave others out — ask who this speaks
+  to, and who it leaves out.
+- *Global:* tone and delivery vary across cultures; a loud, fast delivery is respectful
+  in one place and rude in another.
+- *Social-emotional:* noticing tone is also noticing feeling — ours and the speaker's.
+- *Critical-thinking:* Aristotle's three appeals (ethos, pathos, logos) are one
+  tradition among many (S-346); many cultures have their own arts of speaking.
+
+**The skill.** Model the first pair once (worked example, S-011), with a low-stakes
+example so practice happens without fear.
 
 ## Procedure
 

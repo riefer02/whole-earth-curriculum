@@ -15,9 +15,7 @@
 
   <!-- arrows between cards -->
   <g stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" fill="none">
-    <line x1="119" y1="207" x2="139" y2="207"/>
-    <line x1="245" y1="207" x2="265" y2="207"/>
-    <line x1="371" y1="207" x2="391" y2="207"/>
+    <path d="M119 207 L139 207 M245 207 L265 207 M371 207 L391 207"/>
   </g>
   <g fill="#4f6d7a">
     <path d="M139 201 L147 207 L139 213 Z"/>
@@ -28,13 +26,7 @@
   <!-- card 1: wake -->
   <g>
     <circle cx="67" cy="158" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <g stroke="#e0a458" stroke-width="2" stroke-linecap="round">
-      <line x1="67" y1="128" x2="67" y2="118"/>
-      <line x1="44" y1="140" x2="36" y2="134"/>
-      <line x1="90" y1="140" x2="98" y2="134"/>
-      <line x1="43" y1="168" x2="35" y2="174"/>
-      <line x1="91" y1="168" x2="99" y2="174"/>
-    </g>
+    <path d="M67 128 L67 118 M44 140 L36 134 M90 140 L98 134 M43 168 L35 174 M91 168 L99 174" fill="none" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
     <!-- child stretching -->
     <circle cx="67" cy="236" r="13" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
     <path d="M54 234 A13 13 0 0 1 80 234 Z" fill="#2b3a42"/>
@@ -42,16 +34,16 @@
     <circle cx="72" cy="236" r="1.6" fill="#2b3a42"/>
     <path d="M62 243 Q67 247 72 243" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <rect x="58" y="250" width="18" height="26" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-    <line x1="60" y1="222" x2="50" y2="210" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
-    <line x1="74" y1="222" x2="84" y2="210" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M60 244 L50 216" stroke="#c99567" stroke-width="7" stroke-linecap="round" fill="none"/>
+    <path d="M74 244 L84 216" stroke="#c99567" stroke-width="7" stroke-linecap="round" fill="none"/>
     <text x="67" y="296" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">wake</text>
   </g>
 
   <!-- card 2: eat -->
   <g>
     <path d="M165 176 Q193 168 221 176 L216 208 L170 208 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-    <line x1="162" y1="170" x2="224" y2="170" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
-    <line x1="178" y1="168" x2="182" y2="150" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+    <path d="M162 170 L224 170" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <path d="M178 168 L182 150" stroke="#2b3a42" stroke-width="5" stroke-linecap="round" fill="none"/>
     <ellipse cx="183" cy="146" rx="7" ry="5" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
     <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round" fill="none">
       <path d="M178 232 Q180 228 182 232"/>
@@ -90,5 +82,5 @@
   <text x="319" y="328" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">then</text>
   <text x="445" y="328" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">last</text>
 
-  <text x="256" y="376" text-anchor="middle" font-family="sans-serif" font-size="14.3" fill="#4f6d7a">before &#183; next &#183; after &#183; the order tells the story</text>
+  <text x="256" y="376" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">before &#183; next &#183; after &#183; the order tells the story</text>
 </svg>

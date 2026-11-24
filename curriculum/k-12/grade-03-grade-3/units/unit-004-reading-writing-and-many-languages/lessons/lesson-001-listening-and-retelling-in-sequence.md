@@ -108,16 +108,14 @@ pass along know-how, one generation to the next.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Retelling honors the speaker's meaning, not their exact words —
-celebrate a learner's own wording, in their own language and their own way of
-speaking; there is no single "correct" accent. Model one retelling in four clear
-moves before partners work, then guide the practice. Oral traditions everywhere carry
-stories by retelling; this is an ancient and universal human skill. A learner who is
-Deaf or hard of hearing retells in sign, in pictures, or with objects moved in order;
-a learner who does not use a speaking voice retells by pointing, signing, drawing, or
-using a communication device — holding the sequence and the key details is what
-counts.
+Retelling honors the speaker's meaning, not their exact words — celebrate a learner's
+own wording, in their own language and their own way of speaking; there is no single
+"correct" accent. Model one retelling in four clear moves before partners work, then
+guide the practice. Oral traditions everywhere carry stories by retelling; this is an
+ancient and universal human skill. A learner who is Deaf or hard of hearing retells in
+sign, in pictures, or with objects moved in order; a learner who does not use a speaking
+voice retells by pointing, signing, drawing, or using a communication device — holding
+the sequence and the key details is what counts.
 
 ## Procedure
 

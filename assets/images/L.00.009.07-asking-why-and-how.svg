@@ -20,23 +20,23 @@
     <text x="344" y="114" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#7a9e7e">How?</text>
   </g>
 
-  <!-- Child -->
+  <!-- Child: one soft silhouette, limbs with weight -->
   <g>
-    <circle cx="256" cy="252" r="30" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M234 244 A28 28 0 0 1 278 244" fill="#2b3a42" stroke="#2b3a42" stroke-width="2"/>
-    <g fill="#2b3a42">
-      <circle cx="246" cy="254" r="3.5"/>
-      <circle cx="266" cy="254" r="3.5"/>
-    </g>
-    <path d="M250 270 Q256 276 262 270" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <rect x="230" y="282" width="52" height="66" rx="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <line x1="240" y1="300" x2="224" y2="372" stroke="#2b3a42" stroke-width="15" stroke-linecap="round"/>
-    <line x1="272" y1="300" x2="288" y2="372" stroke="#2b3a42" stroke-width="15" stroke-linecap="round"/>
-    <line x1="248" y1="346" x2="248" y2="420" stroke="#2b3a42" stroke-width="17" stroke-linecap="round"/>
-    <line x1="264" y1="346" x2="264" y2="420" stroke="#2b3a42" stroke-width="17" stroke-linecap="round"/>
-    <!-- raised arm with raised finger -->
-    <line x1="276" y1="300" x2="308" y2="268" stroke="#2b3a42" stroke-width="15" stroke-linecap="round"/>
-    <circle cx="312" cy="262" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M238 366 L234 438" stroke="#d9e3e9" stroke-width="24" stroke-linecap="round" fill="none"/>
+    <path d="M274 366 L278 438" stroke="#d9e3e9" stroke-width="24" stroke-linecap="round" fill="none"/>
+    <path d="M218 302 L196 366" stroke="#d9e3e9" stroke-width="18" stroke-linecap="round" fill="none"/>
+    <path d="M294 302 L320 256" stroke="#d9e3e9" stroke-width="18" stroke-linecap="round" fill="none"/>
+    <circle cx="193" cy="371" r="9" fill="#d9e3e9"/>
+    <circle cx="323" cy="251" r="9" fill="#d9e3e9"/>
+    <path d="M256 290 C 232 290 218 302 218 320 L218 350 C218 368 228 376 244 376 L268 376 C284 376 294 368 294 350 L294 320 C294 302 280 290 256 290 Z" fill="#e0a458"/>
+    <rect x="249" y="274" width="14" height="20" rx="5" fill="#d9e3e9"/>
+    <circle cx="256" cy="248" r="32" fill="#d9e3e9"/>
+    <path d="M224 248 A32 32 0 0 1 288 248 C288 236 276 222 256 222 C236 222 224 236 224 248 Z" fill="#2b3a42"/>
+    <circle cx="245" cy="254" r="3.4" fill="#2b3a42"/>
+    <circle cx="267" cy="254" r="3.4" fill="#2b3a42"/>
+    <path d="M248 266 Q256 272 264 266" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- raised index finger -->
+    <path d="M324 244 L330 220" stroke="#d9e3e9" stroke-width="7" stroke-linecap="round" fill="none"/>
   </g>
 
   <!-- Table with leaf and seed -->
@@ -45,11 +45,11 @@
     <line x1="164" y1="452" x2="164" y2="478" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
     <line x1="348" y1="452" x2="348" y2="478" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
     <!-- leaf -->
-    <path d="M184 424 Q198 408 212 424 Q198 440 184 424 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-    <line x1="184" y1="424" x2="212" y2="424" stroke="#2b3a42" stroke-width="1.5"/>
+    <path d="M184 430 Q198 414 212 430 Q198 446 184 430 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="184" y1="430" x2="212" y2="430" stroke="#2b3a42" stroke-width="1.5"/>
     <!-- seed -->
-    <ellipse cx="340" cy="428" rx="12" ry="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M334 426 Q340 432 346 426" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
+    <ellipse cx="340" cy="430" rx="12" ry="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M334 428 Q340 434 346 428" fill="none" stroke="#2b3a42" stroke-width="1.5" stroke-linecap="round"/>
   </g>
 
   <!-- Wonder box -->
@@ -70,5 +70,5 @@
   </g>
 
   <!-- Footer -->
-  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#4f6d7a">There are no silly questions. Ask, then share your own idea.</text>
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">There are no silly questions. Ask, then share your own idea.</text>
 </svg>

@@ -119,14 +119,13 @@ together, not just measure.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to build is **reasoning about
-fairness with a simple, shared test — while distinguishing evidence from values**. The test
-(does it serve everyone? who speaks? can it be challenged?) is a *tool for judgment*, not a
-rule that decides everything; help learners see that "fair" and "unfair" are partly values
-people hold, not only facts to measure. Use examples from many societies and from the
-learner's own life. Guard against reducing fairness to "majority rule": a majority can still
-treat a minority unfairly. This lesson prepares the next, on a movement for rights. See
-`docs/facilitation.md`.
+The skill to build is **reasoning about fairness with a simple, shared test — while
+distinguishing evidence from values**. The test (does it serve everyone? who speaks? can
+it be challenged?) is a *tool for judgment*, not a rule that decides everything; help
+learners see that "fair" and "unfair" are partly values people hold, not only facts to
+measure. Use examples from many societies and from the learner's own life. Guard against
+reducing fairness to "majority rule": a majority can still treat a minority unfairly.
+This lesson prepares the next, on a movement for rights. See `docs/facilitation.md`.
 
 ## Procedure
 

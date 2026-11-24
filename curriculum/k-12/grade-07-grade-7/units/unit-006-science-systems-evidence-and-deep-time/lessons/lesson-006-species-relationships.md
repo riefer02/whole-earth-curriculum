@@ -118,21 +118,36 @@ through the rest.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) predation — one
-species eats another; (2) competition — two species use the same limited resource; (3)
-symbiosis — two species live closely together, and in mutualism both benefit; and (4) these
-relationships, together, structure a community.** Use explicit instruction with the
-grass–rabbit–fox worked example first, then the string-web for embodied practice (Kirschner,
-Sweller & Clark, 2006). These are standard concepts in ecology; classic examples are real:
-lichens (a fungus and algae living together), clownfish and sea anemones, oxpeckers and large
-mammals, nitrogen-fixing bacteria in legume roots. The environment lens (`docs/philosophy.md`
-   §4): removing one species can cascade — wolves were wiped out of Yellowstone by the 1920s, and
-   their return in 1995–1996 reduced elk numbers and browsing, helping some willows and aspen
-   recover (a real, well-studied — though complex and still-contested — trophic cascade; the
-   simplified "wolves changed the rivers" story overstates it). The egalitarian and global lens:
-   cooperation is as real in nature as competition; symbiosis shows
-that "nature red in tooth and claw" is only half the story — living things also depend on
-each other. This counters the misuse of "competition" as a social rule.
+**Tone.** Curious. Competition and cooperation are both real, and neither is a social
+programme.
+
+**The facts to land.**
+
+1. **Predation**: one species eats another.
+2. **Competition**: two species use the same limited resource.
+3. **Symbiosis**: two species live closely together — in **mutualism**, both benefit.
+4. Together these relationships **structure a community**.
+
+**Don't overshoot.** Do not repeat the simplified "wolves changed the rivers" story.
+Wolves were wiped out of Yellowstone by the 1920s; their return in 1995–1996 reduced elk
+numbers and browsing, helping some willows and aspen recover — a real, well-studied but
+complex and still-contested trophic cascade. The tidy version overstates it.
+
+**The lenses, briefly.**
+
+- *Intellectual:* a food web is these relationships drawn as lines.
+- *Egalitarianism:* cooperation is as real in nature as competition; "nature red in
+  tooth and claw" is only half the story, which counters the misuse of "competition" as
+  a social rule.
+- *Global:* the same three relationships appear in every ecosystem on Earth.
+- *Environment:* removing one species can cascade (`docs/philosophy.md` §4).
+- *Community:* a food web is a community — the relationships hold it together, not just the
+  members.
+
+**The skill.** Instruct explicitly with the grass–rabbit–fox worked example, then build
+the string web for embodied practice (Kirschner, Sweller & Clark, 2006). Classic
+mutualisms: lichens (a fungus and algae), clownfish and sea anemones, oxpeckers and
+large mammals, nitrogen-fixing bacteria in legume roots.
 
 ## Procedure
 

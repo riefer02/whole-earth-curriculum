@@ -122,25 +122,37 @@ with one other place on Earth.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson introduces **ways of deciding and choosing
-leaders** — and it must **never rank one political system above another**. Present
-several real ways side by side (consensus, majority vote, elders' council, drawing
-lots) as different traditions that all aim at fairness, each with strengths and limits.
-The Haudenosaunee example is accurate and useful: leaders (called royaner, or
-chiefs) are chosen by clan mothers, and councils work by consensus under the Great Law
-of Peace — a real tradition that also influenced later ideas about confederation. Keep
-the learner's own community open and undetermined: some learners live under monarchies,
-some in elected republics, some in communities governed by councils or elders — all are
-welcomed and described *descriptively*, never as "better" or "worse." The fair test we
-teach is not "which system" but "does every voice count, and is anyone left out?" —
-hold that as a question. A learner who does not speak aloud points to a way on the
-chart; a learner who is deaf or hard of hearing follows the chart through sign and
-caption; a learner who is blind or low-vision hears each way described and compares
-aloud; a learner with a motor difference can direct a partner to fill the two columns.
-A learner may always pass, and may describe their community privately to a grown-up if
-speaking about it publicly is unsafe. The goal is a learner who can say, in their own
-way, "here is how we decide and choose leaders, and here is how they do it in one other
-place."
+**Tone.** Descriptive and even — no system is ranked.
+
+**The facts to land.**
+1. Several real ways of deciding sit side by side: consensus, majority vote, elders'
+   council, drawing lots — different traditions that all aim at fairness, each with
+   strengths and limits.
+2. The Haudenosaunee example: leaders (called royaner, or chiefs) are chosen by clan
+   mothers, and councils work by consensus under the Great Law of Peace — a real
+   tradition that also influenced later ideas about confederation.
+3. Communities differ — monarchies, elected republics, councils, elders — and all are
+   described, never graded.
+
+**Don't overshoot.** Never rank one political system above another, and never let a
+learner's own community become the thing being judged.
+
+**The lenses, briefly.**
+- *Ethics:* the test is whether every voice counts.
+- *Egalitarianism:* every community's way is described with respect.
+- *Global:* several traditions, side by side.
+- *Community:* deciding is something a group does.
+- *Critical-thinking:* "does every voice count, and is anyone left out?"
+
+**The skill.** Describe how your community decides, and one other way.
+
+**Safety floor.** a learner may pass, and may describe their community privately to a grown-up
+if speaking publicly is unsafe.
+
+**Access:** a learner who does not speak points to a way on the chart; a learner who is
+deaf or hard of hearing follows the chart through sign; a learner who is blind or has
+low vision hears each way described; a learner with a motor difference directs a
+partner.
 
 ## Procedure
 

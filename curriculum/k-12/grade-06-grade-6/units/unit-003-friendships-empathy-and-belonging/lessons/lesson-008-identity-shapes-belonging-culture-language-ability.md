@@ -119,14 +119,14 @@ threads are honored as ordinary.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **identity is never
-the problem — reception is**. Culture, language, and ability shape belonging because of how
-groups treat them, not because some are "normal" and others "special." Guard the words
-carefully: a home language is a *gift*, never a *gap*; a wheelchair or a hearing aid is
-*ordinary*, never a *sad story*; a food is *welcome*, never *strange*. This is the
-anti-deficit heart of the lesson and of the curriculum's egalitarian lens. Keep examples
-global and varied — no single culture or region as the default "normal." If a learner
-discloses their own identity, receive it warmly and never rank it. See `docs/facilitation.md`.
+The idea to land is that **identity is never the problem — reception is**. Culture,
+language, and ability shape belonging because of how groups treat them, not because some
+are "normal" and others "special." Guard the words carefully: a home language is a
+*gift*, never a *gap*; a wheelchair or a hearing aid is *ordinary*, never a *sad story*;
+a food is *welcome*, never *strange*. This is the anti-deficit heart of the lesson and
+of the curriculum's egalitarian lens. Keep examples global and varied — no single
+culture or region as the default "normal." If a learner discloses their own identity,
+receive it warmly and never rank it. See `docs/facilitation.md`.
 
 ## Procedure
 

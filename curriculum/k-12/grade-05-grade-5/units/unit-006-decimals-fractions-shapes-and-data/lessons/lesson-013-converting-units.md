@@ -114,18 +114,18 @@ measures share the same amount — a cook, a runner, and a farmer all over the w
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) the metric relationships
-— **1 m = 100 cm, 1 km = 1000 m, 1 kg = 1000 g, 1 L = 1000 mL**; (2) the rule — **larger to
-smaller: multiply; smaller to larger: divide**. Model a worked example in each category
-(Kirschner, Sweller & Clark, 2006), then guide a second. Common slip: multiplying when you
-should divide (or vice versa) — anchor the rule to a concrete feel (a meter is *longer* than a
-centimeter, so 3 m is *more* centimeters: 300). Retrieval: ask learners to recall the place-value
-work of Lesson 1 — metric conversions are multiplying/dividing by 10, 100, and 1000, which just
-moves the decimal point. Note the global fact: the metric system is used in almost every country;
-a few also use other units (inches, feet, pounds, ounces) — different conventions, none "better,"
-but metric is the shared language of science and trade (`docs/philosophy.md` §4). The
-relationships are evidence; the value that shared units let everyone trade and measure fairly is
-a commitment.
+The ideas to land: (1) the metric relationships — **1 m = 100 cm, 1 km = 1000 m, 1 kg =
+1000 g, 1 L = 1000 mL**; (2) the rule — **larger to smaller: multiply; smaller to
+larger: divide**. Model a worked example in each category (Kirschner, Sweller & Clark,
+2006), then guide a second. Common slip: multiplying when you should divide (or vice
+versa) — anchor the rule to a concrete feel (a meter is *longer* than a centimeter, so 3
+m is *more* centimeters: 300). Retrieval: ask learners to recall the place-value work of
+Lesson 1 — metric conversions are multiplying/dividing by 10, 100, and 1000, which just
+moves the decimal point. Note the global fact: the metric system is used in almost every
+country; a few also use other units (inches, feet, pounds, ounces) — different
+conventions, none "better," but metric is the shared language of science and trade
+(`docs/philosophy.md` §4). The relationships are evidence; the value that shared units
+let everyone trade and measure fairly is a commitment.
 
 ## Procedure
 

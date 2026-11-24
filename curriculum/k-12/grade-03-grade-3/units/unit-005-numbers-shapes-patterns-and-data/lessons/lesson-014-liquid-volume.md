@@ -116,20 +116,35 @@ catch a mistake before it spills.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It introduces **liquid volume** with
-the **liter** and **milliliter** — the new skill is *estimating* capacity before
-*measuring* it with standard units. Teach with a **worked example** (philosophy §13):
-fill a 250-mL cup four times to fill the liter bottle, counting aloud, and conclude
-1 L = 1,000 mL. The estimation-before-measurement habit is the real lesson: a good
-estimate is a thinking tool, not a guess (Van de Walle et al., 2019). **No one's
-accuracy at pouring measures their smartness; estimation grows with practice, and
-"not yet" is information, never a verdict.** The liter and milliliter are shared
-international units — one among several systems people have used, but the one most of
-the world agrees on today, which makes medicine and trade safer everywhere. Measure in
-the home language. For learners who are Deaf or hard of hearing, mark the water level
-with signs and count fills; for learners who are blind or low-vision, feel the water
-rise in the cup and pour to a finger-marked line. Learners with limited movement
-direct a partner to pour. Mastery arrives at its own pace.
+**Tone.** Practical and forgiving — estimate first, measure after, and no spill is a
+failure.
+
+**The facts to land.**
+1. **Capacity** is how much a container holds; the **liter** and **milliliter**
+   measure it.
+2. 1 L = 1,000 mL — four 250-mL cups fill a liter bottle.
+3. The liter and milliliter are shared international units: one system among several,
+   but the one most of the world agrees on today, which makes medicine and trade safer
+   everywhere.
+
+**Don't overshoot.** An estimate is not a wrong answer waiting to happen. No one's
+accuracy at pouring measures their smartness; estimation grows with practice, and "not
+yet" is information, never a verdict.
+
+**The lenses, briefly.**
+- *Intellectual:* fill the 250-mL cup four times into the liter bottle, counting
+  aloud, and conclude 1 L = 1,000 mL (philosophy §13).
+- *Environment:* water is a shared resource — pour back what you can and notice
+  where it goes.
+- *Global:* measure in the home language; the units are shared so the world can
+  agree.
+- *Physical:* pour, feel the weight, and mark the level by hand.
+
+**The skill.** Estimate, then measure, then say how far off the estimate was.
+
+**Access:** mark the water level with signs and count the fills; feel the water rise
+in the cup and pour to a finger-marked line; a learner with limited movement directs a
+partner. Mastery arrives at its own pace.
 
 ## Procedure
 

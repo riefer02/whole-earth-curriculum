@@ -107,17 +107,16 @@ gain another. Multilingualism is wealth — each language adds, none takes away.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Learning phrases in another language is a skill: model each
-phrase clearly, have learners echo it, then guide practice in pairs (Kirschner,
-Sweller & Clark, 2006). The value to protect: there is no "correct" accent — an
-accent is a sign that a learner already speaks another language, and that is wealth,
-not a flaw. Honor the learner's home language first; the goal is to *add* a language,
-never to replace one. UNESCO holds that valuing a child's own language strengthens
-learning and dignity. Phrases may be spoken, signed, or both — a signed greeting is a
-greeting, and a sign language counts fully as a language. Script-agnostic: a phrase
-may be written in any script, or not written at all. Celebrate every attempt; mastery
-grows through patient repetition, not through ranking.
+Learning phrases in another language is a skill: model each phrase clearly, have
+learners echo it, then guide practice in pairs (Kirschner, Sweller & Clark, 2006). The
+value to protect: there is no "correct" accent — an accent is a sign that a learner
+already speaks another language, and that is wealth, not a flaw. Honor the learner's
+home language first; the goal is to *add* a language, never to replace one. UNESCO holds
+that valuing a child's own language strengthens learning and dignity. Phrases may be
+spoken, signed, or both — a signed greeting is a greeting, and a sign language counts
+fully as a language. Script-agnostic: a phrase may be written in any script, or not
+written at all. Celebrate every attempt; mastery grows through patient repetition, not
+through ranking.
 
 ## Procedure
 

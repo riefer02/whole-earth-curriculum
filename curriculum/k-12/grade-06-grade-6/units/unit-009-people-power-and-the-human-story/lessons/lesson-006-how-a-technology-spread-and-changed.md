@@ -117,14 +117,13 @@ and slowly traveled the world, changing at every stop.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to build is **describing spread
-(path) and change (how it transformed at each stop)** — not memorizing dates. Model the
-paper journey fully, then have learners order the stops and record. Emphasize that
-borrowing is two-way and creative, not theft: each people made paper their own. The example
-is deliberately non-Euro-led (the technology and the idea both began outside Europe) and
-honors the Silk Roads as a web of exchange among many peoples. The number **zero** is
-offered as a quick interleaved idea example for learners ready to extend. See
-`docs/facilitation.md`.
+The skill to build is **describing spread (path) and change (how it transformed at each
+stop)** — not memorizing dates. Model the paper journey fully, then have learners order
+the stops and record. Emphasize that borrowing is two-way and creative, not theft: each
+people made paper their own. The example is deliberately non-Euro-led (the technology
+and the idea both began outside Europe) and honors the Silk Roads as a web of exchange
+among many peoples. The number **zero** is offered as a quick interleaved idea example
+for learners ready to extend. See `docs/facilitation.md`.
 
 ## Procedure
 

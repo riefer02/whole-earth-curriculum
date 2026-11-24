@@ -55,7 +55,7 @@ context_variants:
     note: Learners who read and write easily write the feeling words; others draw a face in each spot or point and say it aloud
 assets:
   - path: assets/images/L.02.002.04-my-bodys-feeling-map.svg
-    alt: A body outline with blank boxes beside the cheeks, chest, tummy, hands, shoulders, and legs, connected by leader lines, for a learner to write or draw the feeling that lives in each place
+    alt: "A body map of a child figure with six prompt boxes beside it, each joined to a place on the body by a leader line — cheeks, hot or warm; shoulders, heavy or light; heart, fast or calm; hands, sweaty or dry; tummy, fluttery or settled; legs, bouncy or still."
     kind: worksheet
     source: original
 duration_minutes: 45
@@ -109,15 +109,14 @@ you can name a feeling, you can take care of it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the worksheets and word cards, then guide the mapping
-and the closing check-in. This is a private, personal artifact — a learner may keep it
-to themselves and share only what they choose. Never grade or rank a body map, and
-never correct a learner's answer: where a feeling shows up is different for every
-person, and every answer is honest. Honor every body — the map is the learner's own
-body, not a "standard" one. Learners who cannot write may draw a face in each box or
-point and say the feeling; those are equal ways to make the artifact. The map becomes
-a quiet tool the learner can return to all year.
+Prepare the worksheets and word cards, then guide the mapping and the closing check-in.
+This is a private, personal artifact — a learner may keep it to themselves and share
+only what they choose. Never grade or rank a body map, and never correct a learner's
+answer: where a feeling shows up is different for every person, and every answer is
+honest. Honor every body — the map is the learner's own body, not a "standard" one.
+Learners who cannot write may draw a face in each box or point and say the feeling;
+those are equal ways to make the artifact. The map becomes a quiet tool the learner can
+return to all year.
 
 ## Procedure
 

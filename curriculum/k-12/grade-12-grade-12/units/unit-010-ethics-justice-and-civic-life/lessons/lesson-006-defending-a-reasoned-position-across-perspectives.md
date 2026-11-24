@@ -118,27 +118,37 @@ from a slogan.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **defending a reasoned position
-across perspectives means taking a stand, supporting it with reasons and evidence, and crediting
-the strongest point of each perspective one does not fully share — then naming what one's own
-position cannot settle. A defensible position is firm and honest at once; it is not a slogan that
-pretends the other side has nothing real to say.** Model steelmanning (S-011); structure the
-deliberation so reasons, not volume, carry the day (S-349). Do not push any one position; the
-learner's stand is their own, and the skill is that it *accounts for* the others.
+**Tone.** Firm and fair: a stand is required, and so is an honest account of the other
+side.
 
-The **ethics** lens: crediting an opponent's strongest point is an act of intellectual honesty — a
-duty to truth over the comfort of a neat answer; a position that cannot survive a fair steelman is
-not yet well defended. The **egalitarianism** lens: deliberation must not simply reproduce who
-already has power — use structures (a talking object, turn-taking, written contributions) so the
-quietest and least powerful voices carry equal weight (S-238). The **global** lens: contested
-questions of rights are argued differently in different places, and a reasoned position should be
-able to say *where* it is rooted and what it assumes — not treat one place's framing as universal
-(S-460). The **technology** lens: deliberation increasingly happens on screens, where the loudest
-and most extreme voices can drown reasons (S-481, S-482); steelmanning is a deliberate antidote to
-an algorithm that feeds you only your own side. The **environment** lens: on questions with an
-environmental dimension (who bears the cost of a changing climate, who must move because of it), a
-defended position must account for future people and distant places who are not in the room to
-argue back. Preview: Lesson 7 turns to the learner's own responsibilities to fairness and justice.
+**The facts to land.**
+
+1. Defending a reasoned position means taking a stand, supporting it with reasons and
+   evidence, crediting the strongest point of each perspective you do not share, and
+   naming what your position cannot settle.
+2. A defensible position is firm and honest at once, not a slogan pretending the other
+   side has nothing to say.
+3. Structure the deliberation so reasons, not volume, carry the day (S-349).
+
+**Don't overshoot.** Crediting the other side is not softening the stand; a position
+that cannot survive a fair steelman is not yet defended.
+
+**The lenses, briefly.**
+
+- *Ethics:* crediting an opponent's strongest point is intellectual honesty, a duty to
+  truth over the comfort of a neat answer.
+- *Egalitarianism:* use a talking object, turn-taking, and written contributions so the
+  quietest voices weigh equally (S-238).
+- *Global:* a reasoned position should say where it is rooted and what it assumes, not
+  treat one place's framing as universal (S-460).
+- *Technology:* on screens the loudest and most extreme voices drown reasons (S-481,
+  S-482); steelmanning is the antidote to a feed that shows one side.
+- *Environment:* on climate questions, a position must account for future people and
+  distant places not in the room.
+- *Critical-thinking:* a stand that names its own weakest point is the stronger for it.
+
+**The skill.** Model steelmanning (S-011), then release: your stand, the other side's
+best case, your answer.
 
 ## Procedure
 

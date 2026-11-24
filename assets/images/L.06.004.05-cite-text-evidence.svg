@@ -9,11 +9,11 @@
   <!-- Passage box -->
   <rect x="24" y="56" width="464" height="150" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="78" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">The passage</text>
-  <text x="40" y="102" font-family="sans-serif" font-size="13.7" fill="#222222">Amara watched the river rise each evening after the rains. She</text>
+  <text x="40" y="102" font-family="sans-serif" font-size="14" fill="#222222">Amara watched the river rise each evening after the rains. She</text>
   <text x="40" y="122" font-family="sans-serif" font-size="12.5" fill="#222222">counted the logs that floated past — three, then five, then twelve —</text>
   <rect x="36" y="130" width="440" height="22" fill="#e0a458" stroke="none"/>
   <text x="40" y="147" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">and each night the water crept a little higher up the bank.</text>
-  <text x="40" y="172" font-family="sans-serif" font-size="12.7" fill="#222222">When the water reached the roots of the old baobab tree, Amara knew</text>
+  <text x="40" y="172" font-family="sans-serif" font-size="12.5" fill="#222222">When the water reached the roots of the old baobab tree, Amara knew</text>
   <text x="40" y="192" font-family="sans-serif" font-size="14" fill="#222222">the village must move the rice sacks to higher ground.</text>
 
   <!-- Arrow -->

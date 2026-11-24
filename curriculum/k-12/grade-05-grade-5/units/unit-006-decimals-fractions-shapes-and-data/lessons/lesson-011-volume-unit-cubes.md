@@ -114,17 +114,17 @@ anywhere in the world.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) a **unit cube** is a
-cube 1 unit long, wide, and tall, and it gives us a **cubic unit** for measuring space; (2)
-**volume** is the number of unit cubes that fill a box with no gaps or overlaps; and (3) you can
-count **by layers** — cubes in one layer × number of layers. Model a worked example first
-(build 4 × 2, three layers tall, count 8 per layer × 3 = 24), then guide a second (Kirschner,
-Sweller & Clark, 2006). Common slip: counting only the cubes you can see and forgetting the
-hidden ones — layer counting fixes this. Retrieval: ask learners to recall perimeter from Lesson
-10 and contrast it with volume (perimeter is around, volume is inside). Volume facts here are
-evidence; the habit of measuring so a container is honestly labeled is a fairness value
-(`docs/philosophy.md` §4). If unit cubes are unavailable, equal stones or folded paper cubes
-work just as well.
+The ideas to land: (1) a **unit cube** is a cube 1 unit long, wide, and tall, and it
+gives us a **cubic unit** for measuring space; (2) **volume** is the number of unit
+cubes that fill a box with no gaps or overlaps; and (3) you can count **by layers** —
+cubes in one layer × number of layers. Model a worked example first (build 4 × 2, three
+layers tall, count 8 per layer × 3 = 24), then guide a second (Kirschner, Sweller &
+Clark, 2006). Common slip: counting only the cubes you can see and forgetting the hidden
+ones — layer counting fixes this. Retrieval: ask learners to recall perimeter from
+Lesson 10 and contrast it with volume (perimeter is around, volume is inside). Volume
+facts here are evidence; the habit of measuring so a container is honestly labeled is a
+fairness value (`docs/philosophy.md` §4). If unit cubes are unavailable, equal stones or
+folded paper cubes work just as well.
 
 ## Procedure
 

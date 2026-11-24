@@ -1,30 +1,55 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
   <title id="t">Reading the body's signals</title>
-  <desc id="d">A simple body outline with labeled zones — chest, gut, jaw, hands, legs — each with example words: flutter, knot, tight, tingle, heavy. Labels carry the meaning, so it prints in grayscale.</desc>
+  <desc id="d">A body silhouette with five labelled zones. A leader line joins each zone to its label: jaw (tight, set), chest (flutter, tight, hollow), gut (knot, drop, churn), hands (tingle, sweat, tremble), legs (heavy, restless, still). Labels carry the meaning, so it prints in grayscale.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
-  <text x="256" y="42" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#222222">Where do I feel it, and what is it?</text>
-  <!-- body outline -->
-  <circle cx="256" cy="120" r="40" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M216 160 Q216 140 256 140 Q296 140 296 160 L310 300 L296 380 L256 420 L216 380 L202 300 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-  <path d="M216 190 Q170 220 150 300" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <path d="M296 190 Q342 220 362 300" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <path d="M226 420 L210 470" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <path d="M286 420 L302 470" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#222222">Where do I feel it, and what is it?</text>
+
+  <!-- silhouette -->
+  <g fill="#dfe9ef">
+    <circle cx="240" cy="116" r="34"/>
+    <rect x="230" y="144" width="20" height="18" rx="8"/>
+    <rect x="204" y="152" width="72" height="168" rx="30"/>
+    <path d="M210 172 L186 286" stroke="#dfe9ef" stroke-width="18" stroke-linecap="round" fill="none"/>
+    <path d="M270 172 L294 286" stroke="#dfe9ef" stroke-width="18" stroke-linecap="round" fill="none"/>
+    <path d="M222 308 L214 418" stroke="#dfe9ef" stroke-width="24" stroke-linecap="round" fill="none"/>
+    <path d="M258 308 L266 418" stroke="#dfe9ef" stroke-width="24" stroke-linecap="round" fill="none"/>
+    <ellipse cx="212" cy="424" rx="13" ry="6"/>
+    <ellipse cx="268" cy="424" rx="13" ry="6"/>
+  </g>
+
+  <!-- leader lines: under the labels, meeting the body at the zone dot -->
+  <g stroke="#4f6d7a" stroke-width="1.6">
+    <line x1="268" y1="140" x2="322" y2="138"/>
+    <line x1="246" y1="202" x2="322" y2="202"/>
+    <line x1="246" y1="266" x2="322" y2="266"/>
+    <line x1="300" y1="294" x2="322" y2="316"/>
+    <line x1="274" y1="402" x2="322" y2="400"/>
+  </g>
+
   <!-- zone markers -->
-  <circle cx="256" cy="150" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="256" cy="230" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="256" cy="290" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="206" cy="235" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="226" cy="425" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <g fill="#6b93b6" stroke="#2b3a42" stroke-width="1.6">
+    <circle cx="266" cy="140" r="6"/>
+    <circle cx="242" cy="202" r="6"/>
+    <circle cx="242" cy="266" r="6"/>
+    <circle cx="298" cy="292" r="6"/>
+    <circle cx="272" cy="402" r="6"/>
+  </g>
+
   <!-- labels -->
-  <text x="352" y="120" font-family="Arial, sans-serif" font-size="16" fill="#222222">jaw — tight, set</text>
-  <text x="352" y="156" font-family="Arial, sans-serif" font-size="16" fill="#222222">chest — flutter,</text>
-  <text x="352" y="174" font-family="Arial, sans-serif" font-size="16" fill="#222222">tight, hollow</text>
-  <text x="352" y="232" font-family="Arial, sans-serif" font-size="16" fill="#222222">gut — knot, drop,</text>
-  <text x="352" y="250" font-family="Arial, sans-serif" font-size="16" fill="#222222">churn</text>
-  <text x="352" y="292" font-family="Arial, sans-serif" font-size="16" fill="#222222">hands — tingle,</text>
-  <text x="352" y="310" font-family="Arial, sans-serif" font-size="16" fill="#222222">sweat, tremble</text>
-  <text x="352" y="430" font-family="Arial, sans-serif" font-size="16" fill="#222222">legs — heavy,</text>
-  <text x="352" y="448" font-family="Arial, sans-serif" font-size="16" fill="#222222">restless, still</text>
-  <text x="256" y="492" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#4f6d7a">Precision is information: name where, name what.</text>
+  <g font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">
+    <text x="330" y="132">jaw</text>
+    <text x="330" y="196">chest</text>
+    <text x="330" y="260">gut</text>
+    <text x="330" y="324">hands</text>
+    <text x="330" y="394">legs</text>
+  </g>
+  <g font-family="sans-serif" font-size="13" fill="#222222">
+    <text x="330" y="150">tight, set</text>
+    <text x="330" y="214">flutter, tight, hollow</text>
+    <text x="330" y="278">knot, drop, churn</text>
+    <text x="330" y="342">tingle, sweat, tremble</text>
+    <text x="330" y="412">heavy, restless, still</text>
+  </g>
+
+  <text x="256" y="484" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Precision is information: name where, name what.</text>
 </svg>

@@ -124,21 +124,36 @@ them in, is how groups become fair.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Hold power as shared, not bossing.**
-For this age, "power in a group" is best explained as *the ability to help decide*, and
-"a say" as *a voice that is heard*. This is a values commitment, held as such — not a
-factual claim — and it carries the curriculum's egalitarian heart: power is meant to be
-shared, and a fair group makes room for every voice. **Keep it concrete and blame-free:**
-use a real classroom decision (what game to play, where to sit, how to share) and end
-with the fix — noticing who is left out and inviting them in. The unfairness is in the
-arrangement, never in a child. **The idea connects outward** to the wider world: the
-same noticing — who has a say, who is left out — is how fairness in the big human story
-begins to be studied in later grades. There is a real, citable anchor: the United
-Nations Convention on the Rights of the Child says children have the right to say what
-they think and to be listened to (see Resources). Honor every body: a learner who does
-not use a speaking voice points or signs; a learner who is blind or has low vision hears
-the scenes described clearly. **Never require a learner to share a real experience of
-being left out** — the given cards and circle are enough.
+**Tone.** Matter-of-fact and generous — power is shared, not bossing.
+
+**The facts to land.**
+1. "Power in a group" means *the ability to help decide*; "a say" means *a voice that is
+   heard*.
+2. Power is meant to be shared, and a fair group makes room for every voice — a values
+   commitment, not a factual claim.
+3. The United Nations Convention on the Rights of the Child says children have the right
+   to say what they think and to be listened to (see Resources).
+
+**Don't overshoot.** Do not let this become a hunt for a culprit: the unfairness is in
+the arrangement, never in a child.
+
+**The lenses, briefly.**
+- *Ethics:* fairness is a commitment we hold.
+- *Egalitarianism:* every voice belongs in the deciding, including the quietest.
+- *Social-emotional:* being left out is noticed with care, not put on display.
+- *Community:* the same noticing begins the wider study.
+
+**The skill.** Name who has a say in a real classroom decision, and invite in whoever is
+left out.
+
+Use a real decision — what game to play, where to sit, how to share — and end with the
+fix.
+
+**Safety floor.** never require a learner to share a real experience of being left out; the
+given cards and circle are enough.
+
+**Access:** a learner who does not use a speaking voice points or signs; a learner who
+is blind or has low vision hears the scenes described clearly.
 
 ## Procedure
 

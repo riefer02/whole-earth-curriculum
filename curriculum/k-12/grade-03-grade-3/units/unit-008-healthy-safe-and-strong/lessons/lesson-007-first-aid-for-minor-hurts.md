@@ -119,21 +119,36 @@ the same — **tell an adult**. Today you will learn what to do next.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Reassure, never frighten.** The lesson
-covers minor, everyday hurts only — cuts, scrapes, and bruises — and its core message is
-empowering: *tell an adult, and let the adult help.* Practice is done on a doll, a stuffed
-animal, or in the air, **never on a real body or a real wound**, so no learner is hurt or
-embarrassed. Teach the steps plainly: for a cut or scrape — tell an adult, wash with clean
-water (soap if available), cover with a clean cloth or bandage; for a bruise — tell an
-adult, cool it with a cool cloth, and rest. Always stress that if a hurt is deep, big, or
-will not stop bleeding, the adult will decide if more help is needed. A learner who is
-blind or has low vision practices the motions hand-over-hand and says the steps aloud; a
-learner who does not use a speaking voice signs or points to the step cards; a learner who
-is deaf or hard of hearing follows the cards and the demonstration from the front, since
-every step is shown, not only told. The first-aid facts follow the guidance of the
-International Federation of Red Cross and Red Crescent Societies (IFRC): clean a minor
-wound with clean water and cover it, and cool a bruise. This lesson opens the unit's
-safety strand (D03.S4.03.01) and leads into the capstone on safe touch.
+**Tone.** Reassuring, never frightening — *tell an adult, and let the adult help.*
+
+**The facts to land.**
+1. Minor, everyday hurts only: cuts, scrapes, and bruises.
+2. For a cut or scrape: tell an adult, wash with clean water (soap if available), cover
+   with a clean cloth or bandage.
+3. For a bruise: tell an adult, cool it with a cool cloth, and rest. These follow the
+   guidance of the International Federation of Red Cross and Red Crescent Societies
+   (IFRC).
+4. If a hurt is deep, big, or will not stop bleeding, the adult decides whether more
+   help is needed.
+
+**Don't overshoot.** Do not dramatise, and do not let the lesson drift into injuries it
+was not written for.
+
+**The lenses, briefly.**
+- *Physical:* the steps are done with the hands, in order.
+- *Ethics:* helping is always allowed.
+- *Community:* the adult you tell is part of the care.
+- *Social-emotional:* calm company first.
+
+**The skill.** Tell an adult, then do the three steps for that hurt, in order.
+
+Practice on a doll or in the air — **never on a real body or wound**.
+
+**Access:** a learner who is blind or has low vision practices hand-over-hand and says
+the steps aloud; a learner who does not use a speaking voice signs or points to the step
+cards; a learner who is deaf or hard of hearing follows the cards shown from the front.
+
+Traces D03.S4.03.01; leads to safe touch.
 
 ## Procedure
 

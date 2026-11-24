@@ -73,11 +73,11 @@
     <circle cx="155" cy="422" r="1.6" fill="#2b3a42"/>
     <path d="M145 430 Q150 434 155 430" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
     <!-- shared bag -->
-    <path d="M104 418 L140 414 L140 462 Q140 472 126 472 L118 472 Q104 472 104 462 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M104 418 L140 414 L140 442 Q140 452 126 452 L118 452 Q104 452 104 442 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <line x1="102" y1="424" x2="142" y2="420" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
   </g>
   <text x="139" y="404" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#7a9e7e">yes, please</text>
-  <text x="139" y="464" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">we lift it together</text>
+  <text x="139" y="466" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">we lift it together</text>
 
   <!-- Outcome 2: no thank you -->
   <g>
@@ -92,14 +92,14 @@
     <circle cx="383" cy="422" r="1.6" fill="#2b3a42"/>
     <circle cx="393" cy="422" r="1.6" fill="#2b3a42"/>
     <path d="M383 430 Q388 434 393 430" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
-    <line x1="374" y1="436" x2="356" y2="452" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
-    <circle cx="354" cy="454" r="4" fill="#e6bb92" stroke="#2b3a42" stroke-width="1.8"/>
+    <path d="M374 434 L356 446" stroke="#2b3a42" stroke-width="5" stroke-linecap="round" fill="none"/>
+    <circle cx="354" cy="448" r="4" fill="#e6bb92" stroke="#2b3a42" stroke-width="1.8"/>
     <!-- heart between them -->
     <path d="M350 418 Q346 412 342 418 Q338 424 350 430 Q362 424 358 418 Q354 412 350 418 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.8"/>
   </g>
   <text x="373" y="404" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#8a5a1a">no, thank you</text>
-  <text x="373" y="464" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">that's okay too</text>
+  <text x="373" y="466" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">that's okay too</text>
 
   <!-- Bottom note -->
-  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#4f6d7a">Anyone can need help, and anyone can give it. Offer, then let them choose.</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Anyone can need help, and anyone can give it. Offer, then let them choose.</text>
 </svg>

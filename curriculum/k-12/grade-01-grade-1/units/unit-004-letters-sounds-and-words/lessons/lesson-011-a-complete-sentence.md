@@ -102,15 +102,13 @@ the start and the finish of a sentence.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Note a small truth with care: the "capital letter and end
-mark" convention belongs to writing systems that use case and punctuation — honor
-that other writing systems signal beginnings and endings differently, and never
-rank them. Teach the learner's own system's conventions, with explicit modeling
-and guided practice (philosophy §13). Keep it concrete and playful. A learner may
-"fix" a sentence by dictating to a scribe, choosing a capital or end-mark card,
-typing, or using a gesture (punch the air for the capital, tap for the end mark) —
-the convention, not the handwriting, is the goal.
+Note a small truth with care: the "capital letter and end mark" convention belongs to
+writing systems that use case and punctuation — honor that other writing systems signal
+beginnings and endings differently, and never rank them. Teach the learner's own
+system's conventions, with explicit modeling and guided practice (philosophy §13). Keep
+it concrete and playful. A learner may "fix" a sentence by dictating to a scribe,
+choosing a capital or end-mark card, typing, or using a gesture (punch the air for the
+capital, tap for the end mark) — the convention, not the handwriting, is the goal.
 
 ## Procedure
 

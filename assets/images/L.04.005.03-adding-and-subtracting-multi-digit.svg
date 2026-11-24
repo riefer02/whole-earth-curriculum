@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="42.2" text-anchor="middle" font-family="sans-serif" font-size="18.4" font-weight="bold" fill="#2b3a42">Adding &amp; Subtracting Multi-Digit Numbers</text>
+  <text x="256" y="42.2" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Adding &amp; Subtracting Multi-Digit Numbers</text>
 
   <!-- Addition -->
   <text x="140" y="82" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">Addition</text>
@@ -47,5 +47,5 @@
   <text x="362" y="386" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">1 ten = 10 ones</text>
   <text x="362" y="406" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">1 hundred = 10 tens</text>
 
-  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">Trading ten of one place for one of the next is called regrouping.</text>
+  <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Trading ten of one place for one of the next is called regrouping.</text>
 </svg>

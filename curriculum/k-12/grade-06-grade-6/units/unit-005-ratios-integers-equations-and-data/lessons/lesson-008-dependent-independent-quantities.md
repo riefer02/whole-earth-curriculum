@@ -115,18 +115,31 @@ of a relationship is the first step toward understanding it anywhere.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) the **independent** quantity is the
-one you choose or control (the input); the **dependent** quantity is the one that follows from it (the
-output); (2) the test is "which do I choose, and which follows?"; and (3) correlation is not the same as
-causation — two quantities may rise together because a third thing drives both. Model a worked example
-first, then guide a second before independent work (Kirschner, Sweller & Clark, 2006). A common slip is
-assuming the *first-mentioned* quantity is always the cause; keep returning to the "which do I choose?"
-test. Retrieval: ask learners to recall yesterday's table and graph (buckets → liters) — buckets are
-independent, liters depend on them. The critical-thinking lens is central (`docs/philosophy.md` §7):
-saying "one depends on the other" is a claim that needs a reason, and the honest habit of asking
-"or do they both follow something else?" is the beginning of scientific skepticism. Note the global
-point: farmers, fishers, and healers in every tradition have reasoned about dependence — "if the rains
-come, the crops follow" — long before graphs had axes.
+**Tone.** Curious and exact. "It depends" is a claim to test, not a shrug.
+
+**The facts to land.**
+
+1. The **independent** quantity is the one you choose or control (the input); the
+   **dependent** quantity follows from it (the output).
+2. The test is "which do I choose, and which follows?"
+3. **Correlation is not causation** — two quantities can rise together because a third
+   thing drives both.
+
+**Don't overshoot.** Do not assume the first-mentioned quantity is the cause. Return to
+the "which do I choose?" test every time.
+
+**The lenses, briefly.**
+
+- *Intellectual:* naming the input and the output makes a table or graph readable.
+- *Global:* farmers, fishers, and healers in every tradition have reasoned about
+  dependence — "if the rains come, the crops follow" — long before graphs had axes.
+- *Critical-thinking:* saying "one depends on the other" needs a reason, and asking "or
+  do they both follow something else?" is where scientific skepticism begins
+  (`docs/philosophy.md` §7).
+
+**The skill.** Model a worked example, guide a second, then independent work (Kirschner,
+Sweller & Clark, 2006). Retrieval: yesterday's table and graph — buckets are
+independent, liters depend on them.
 
 ## Procedure
 

@@ -102,13 +102,12 @@ story.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. This is the S3 capstone: the child authors a complete story. It
-may be told in pictures, in marks, in dictated words, or any mix — all are real
-writing at this age. Write down exactly what the child says, in their language, without
-"fixing" it. Some children will make one page; others many — both are celebrated. This
-lesson also closes the S1 loop: retelling their own story, in their own words, is the
-highest form of "one important part in my own words."
+This is the S3 capstone: the child authors a complete story. It may be told in pictures,
+in marks, in dictated words, or any mix — all are real writing at this age. Write down
+exactly what the child says, in their language, without "fixing" it. Some children will
+make one page; others many — both are celebrated. This lesson also closes the S1 loop:
+retelling their own story, in their own words, is the highest form of "one important
+part in my own words."
 
 ## Procedure
 

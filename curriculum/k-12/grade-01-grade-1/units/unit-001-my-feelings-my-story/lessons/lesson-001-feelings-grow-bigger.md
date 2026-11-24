@@ -106,10 +106,9 @@ exactly what is going on inside you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the cards, chart, and circle, then guide the match
-game and the closing reflection. Feelings are personal — no answer is "wrong"; if a
-learner names a different feeling, honor it and wonder together about why.
+Prepare the cards, chart, and circle, then guide the match game and the closing
+reflection. Feelings are personal — no answer is "wrong"; if a learner names a different
+feeling, honor it and wonder together about why.
 
 ## Procedure
 

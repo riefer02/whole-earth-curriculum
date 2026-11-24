@@ -118,29 +118,36 @@ of — and what lets it be repaired when it cracks.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **trust is a structure
-of repeated small acts — honesty, reliability, respect — that survives because it can be
-repaired when it cracks.** This is a description of how trust works, not a demand that
-learners trust more or trust specific people. Keep the lesson about the *pattern*, not
-about any learner's private relationships.
+**Tone.** Plain and unpressuring: describing how trust works, not urging anyone to
+trust.
 
-The **ethics** lens: what we owe someone who trusts us, and what we owe when we break
-trust, is the open question this lesson plants. The **egalitarianism** lens: respect —
-treating the other as an equal — is the block that keeps trust from curdling into
-control or dependence. The **global** lens: how trust is built and signaled differs
-across cultures — a promise kept may be shown by a word, a gift, a shared meal, or
-showing up; none is the default. The **technology** lens: digital life changes the
-*evidence* of trust — a delayed reply, a read receipt, a message stripped of tone all
-carry different weight than a face-to-face promise, so the same small acts read
-differently online (Suler, S-343). The **environment** lens: we also build a kind of
-trust with the living world — a garden that is tended, a river kept clean — a
-relationship of reliability whose breakage (a dry season, a poisoned stream) we can also
-feel as a betrayal. Preview: Lessons 2–4 take up honesty, repair, and growth as a
-listener.
+**The facts to land.**
 
-**Safeguarding:** no learner is asked to name or disclose a real, private relationship.
-All examples are fictional or from observation/story, and learners may always write "a
-character" instead of a person they know.
+1. Trust is a structure of repeated small acts — honesty, reliability, respect — that
+   survives because it can be repaired when it cracks.
+2. This is a description of a pattern; it is not a demand that learners trust more, or
+   trust particular people.
+3. Keep the lesson on the pattern, not on any learner's private relationships.
+
+**Don't overshoot.** Do not let the pattern become an instruction: "trust is built from
+small acts" is not "you should trust the people around you".
+
+**The lenses, briefly.**
+
+- *Ethics:* what we owe someone who trusts us, and what we owe when we break it.
+- *Egalitarianism:* respect keeps trust from curdling into control or dependence.
+- *Global:* a promise kept may be signalled by a word, a gift, a shared meal, or showing
+  up; none is the default.
+- *Technology:* a delayed reply, a read receipt, and a toneless message all read
+  differently online (Suler, S-343).
+- *Environment:* a tended garden, a clean river — reliability with the living world,
+  whose breakage we feel as betrayal.
+
+**Safety floor.** No learner names or discloses a real, private relationship; examples
+are fictional or from story, and writing about "a character" is always allowed.
+
+**The skill.** Model once, then release (S-011): map one fictional trust, one crack, one
+repair.
 
 ## Procedure
 

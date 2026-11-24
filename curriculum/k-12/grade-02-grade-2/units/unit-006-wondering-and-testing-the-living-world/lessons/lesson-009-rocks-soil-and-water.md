@@ -118,17 +118,16 @@ it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Anchor everything in **touch**: rock,
-soil, and water are concrete, and feeling them is the lesson. The gentle scientific idea
-to offer is that soil is made of tiny pieces of worn rock mixed with old, broken-down
-living things, and that water slowly wears rock down — but keep it as a wonder to
-explore, not a definition to memorize; the full rock and water cycles arrive in later
-grades. Hold origins with openness per `docs/philosophy.md` §11: many peoples have
-stories about how the mountains, rivers, and land began, and geologists have a story
-about very long, slow change — we hold them side by side and rank none above the others.
-A light ethical and environmental thread: the land feeds us and gives us water, so we
-care for it — this is a value we share, not a fact we prove. Touch with clean hands; use
-safe, clean samples.
+Anchor everything in **touch**: rock, soil, and water are concrete, and feeling them is
+the lesson. The gentle scientific idea to offer is that soil is made of tiny pieces of
+worn rock mixed with old, broken-down living things, and that water slowly wears rock
+down — but keep it as a wonder to explore, not a definition to memorize; the full rock
+and water cycles arrive in later grades. Hold origins with openness per
+`docs/philosophy.md` §11: many peoples have stories about how the mountains, rivers, and
+land began, and geologists have a story about very long, slow change — we hold them side
+by side and rank none above the others. A light ethical and environmental thread: the
+land feeds us and gives us water, so we care for it — this is a value we share, not a
+fact we prove. Touch with clean hands; use safe, clean samples.
 
 ## Procedure
 

@@ -120,24 +120,23 @@ answer.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a regulation
-debate is a weighing of real harms against real benefits, and the disagreement is
-partly about facts and partly about values (World Bank, S-281).** The skill is
-*evaluation*: state the strongest version of each side, then locate the disagreement.
-Two common errors to guard against: reducing regulation to "freedom vs. control"
-(too simple), and assuming one side is self-evidently right (too settled). The
-mature move at this age is to hold that both a failure to regulate and a bad
-regulation can harm people — the question is *who* carries each risk.
+The idea to land: **a regulation debate is a weighing of real harms against real
+benefits, and the disagreement is partly about facts and partly about values (World
+Bank, S-281).** The skill is *evaluation*: state the strongest version of each side,
+then locate the disagreement. Two common errors to guard against: reducing regulation to
+"freedom vs. control" (too simple), and assuming one side is self-evidently right (too
+settled). The mature move at this age is to hold that both a failure to regulate and a
+bad regulation can harm people — the question is *who* carries each risk.
 
 The **ethics** lens: a regulation is a claim about who should be protected and who
-should bear a burden. The **egalitarianism** lens: ask whose harms get written into
-law and whose get ignored — the debate is not neutral between powerful and
-powerless. The **global** lens: the same technology is regulated differently in
-different places; none is the default. The **technology** lens is core: the
-artifact's design shapes what any rule can even reach. The **critical-thinking**
-lens: separating "what the facts show" (evidence) from "what I prioritize" (value)
-is the whole skill. Preview: Lessons 3–4 ask how a technology's benefits and harms
-are distributed unevenly, which is often *why* people argue over regulation.
+should bear a burden. The **egalitarianism** lens: ask whose harms get written into law
+and whose get ignored — the debate is not neutral between powerful and powerless. The
+**global** lens: the same technology is regulated differently in different places; none
+is the default. The **technology** lens is core: the artifact's design shapes what any
+rule can even reach. The **critical-thinking** lens: separating "what the facts show"
+(evidence) from "what I prioritize" (value) is the whole skill. Preview: Lessons 3–4 ask
+how a technology's benefits and harms are distributed unevenly, which is often *why*
+people argue over regulation.
 
 ## Procedure
 

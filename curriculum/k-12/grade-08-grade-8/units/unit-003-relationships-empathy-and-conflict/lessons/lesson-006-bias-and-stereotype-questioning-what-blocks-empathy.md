@@ -115,24 +115,38 @@ how.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a stereotype is an
-oversimplified belief that turns one feature into a claim about a whole group, and bias is the
-leaning it creates — often automatic ("implicit") rather than deliberate (Banaji & Greenwald 2013,
-S-344); (2) stereotypes block empathy because they replace the person with the label; (3) the skill
-is a four-step question: what is my snap judgment? what stereotype is behind it? what is the
-evidence? what counterexample breaks it?** Group-formation research (Tajfel 1971, S-232) shows
-in-group/out-group habits can form from almost nothing, and stereotype threat (Steele & Aronson
-1995, S-284) shows labels can weigh on a person's performance — both are about *systems and habits*,
-not about any person being born prejudiced. Model the log once as a worked example (S-011). **Hold
-this with care and without shame: everyone inherits stereotypes from a culture; noticing one is the
-courageous step, not a failing.** The ethics lens: reducing a person to a label is a small injustice
-that can scale into big ones — questioning it is right. The egalitarian lens: stereotypes most often
-fall on the less powerful, and they do real work in deciding who is trusted, believed, or left out.
-The global & anthropological lens: every culture carries its own stereotypes, and the same person
-may be labeled differently in different places — the label is not the truth. The technology &
-environment lens: media and screens repeat narrow images until types feel like laws (Common Sense
-Education, S-063); noticing the repetition is part of questioning it. The critical-thinking lens:
-a stereotype is a *generalization* with weak evidence — test it the way you would test any claim.
+**Tone.** Honest and unshaming — everyone inherits stereotypes; noticing is courage.
+
+**The facts to land.**
+
+1. A stereotype is an oversimplified belief that turns one feature into a claim about a
+   whole group; bias is the leaning it creates, often automatic ("implicit") rather than
+   deliberate (Banaji & Greenwald 2013, S-344).
+2. Stereotypes block empathy because they replace the person with the label.
+3. The skill is a four-step question: what is my snap judgment? what stereotype is
+   behind it? what is the evidence? what counterexample breaks it?
+
+**Don't overshoot.** Do not treat bias as a character verdict, or claim one workshop
+removes it.
+
+**The lenses, briefly.**
+
+- *Ethics:* reducing a person to a label is a small injustice that can scale into big
+  ones.
+- *Egalitarianism:* stereotypes most often fall on the less powerful, deciding who is
+  trusted, believed, or left out.
+- *Global:* every culture carries its own stereotypes, and the same person may be
+  labeled differently in different places.
+- *Technology & environment:* media and screens repeat narrow images until types feel
+  like laws (Common Sense Education, S-063).
+- *Social-emotional:* shame shuts inquiry down; curiosity opens it.
+- *Critical-thinking:* a stereotype is a *generalization* with weak evidence — test it
+  like any claim.
+
+**The skill.** Model the log once as a worked example (S-011). Group-formation research
+(Tajfel 1971, S-232) shows in-group habits can form from almost nothing, and stereotype
+threat (Steele & Aronson 1995, S-284) shows labels can weigh on performance — both are
+about systems and habits, not people born prejudiced.
 
 ## Procedure
 

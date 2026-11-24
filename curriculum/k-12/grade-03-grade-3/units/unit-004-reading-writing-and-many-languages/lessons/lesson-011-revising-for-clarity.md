@@ -106,18 +106,17 @@ the words first land; it is finished when the meaning comes clear.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Revision is a taught skill: model it explicitly with a worked
-example — read an unclear sentence aloud, find the confusing part, then add, remove,
-or rearrange — before guided practice (Kirschner, Sweller & Clark, 2006). The key
-shift to protect: revision is not about handwriting or spelling; it is about
-*meaning*. Keep the focus on "is this clear?" — in the learner's home language and
-writing system, script-agnostic. Revision may be done by hand, aloud, in sign, or on
-a device. Honor the learner's own voice and accent in their writing; there is no
-"correct" way to sound. Celebrate a revision that makes meaning clearer, whatever the
-wording. A learner who is Deaf or hard of hearing revises in sign or writing the same
-way. A learner who is blind or has low vision revises by dictation, on a braille
-writer, or by listening to the text read back and naming what to change.
+Revision is a taught skill: model it explicitly with a worked example — read an unclear
+sentence aloud, find the confusing part, then add, remove, or rearrange — before guided
+practice (Kirschner, Sweller & Clark, 2006). The key shift to protect: revision is not
+about handwriting or spelling; it is about *meaning*. Keep the focus on "is this
+clear?" — in the learner's home language and writing system, script-agnostic. Revision
+may be done by hand, aloud, in sign, or on a device. Honor the learner's own voice and
+accent in their writing; there is no "correct" way to sound. Celebrate a revision that
+makes meaning clearer, whatever the wording. A learner who is Deaf or hard of hearing
+revises in sign or writing the same way. A learner who is blind or has low vision
+revises by dictation, on a braille writer, or by listening to the text read back and
+naming what to change.
 
 ## Procedure
 

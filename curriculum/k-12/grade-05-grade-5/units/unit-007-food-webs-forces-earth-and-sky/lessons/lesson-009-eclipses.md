@@ -116,18 +116,17 @@ existed. Today you learn the simple geometry behind the wonder: it is all shadow
 
 ## Facilitator note
 
-Written to the learner ("you"). Two ideas to land: (1) a **solar eclipse** = the
-Moon's shadow falls on Earth (only at **new moon**); a **lunar eclipse** = Earth's
-shadow falls on the Moon (only at **full moon**). (2) This corrects the common
-misconception from Lesson 8 — only an *eclipse* is a shadow event; ordinary phases
-are not. The ball-and-lamp model is the worked example: shine the lamp, and have
-learners find the one position where the small ball's shadow falls on the big ball
-(solar) and the one where the big ball's shadow falls on the small ball (lunar).
-Why rare: the Moon's orbit is slightly tilted, so the three do not line up perfectly
-every month — most months the shadow misses. **Safety is essential**: never look
-directly at the Sun, even during a solar eclipse; use a pinhole projector or proper
-solar viewer. Treat cultural records of eclipses with respect — they are real
-historical evidence of careful observation, not "superstition"
+Two ideas to land: (1) a **solar eclipse** = the Moon's shadow falls on Earth (only at
+**new moon**); a **lunar eclipse** = Earth's shadow falls on the Moon (only at **full
+moon**). (2) This corrects the common misconception from Lesson 8 — only an *eclipse* is
+a shadow event; ordinary phases are not. The ball-and-lamp model is the worked example:
+shine the lamp, and have learners find the one position where the small ball's shadow
+falls on the big ball (solar) and the one where the big ball's shadow falls on the small
+ball (lunar). Why rare: the Moon's orbit is slightly tilted, so the three do not line up
+perfectly every month — most months the shadow misses. **Safety is essential**: never
+look directly at the Sun, even during a solar eclipse; use a pinhole projector or proper
+solar viewer. Treat cultural records of eclipses with respect — they are real historical
+evidence of careful observation, not "superstition"
 ([`docs/facilitation.md`](../../../../../../docs/facilitation.md)).
 
 ## Procedure

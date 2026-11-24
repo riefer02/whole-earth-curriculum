@@ -110,19 +110,34 @@ finds a fair unknown.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) an equation is a balance —
-whatever you do to one side you must do to the other; (2) to isolate the variable, undo operations
-with their inverses in reverse order (add/subtract first, then multiply/divide); (3) a solution is
-checked by substituting it back.** Because solving equations is a foundational skill, use explicit
-instruction, worked examples, and guided practice before independent work (Kirschner, Sweller &
-Clark, 2006). Watch for the slips of doing an operation to only one side and of forgetting to
-distribute (4(x − 2) = 4x − 8). The critical-thinking lens: "check your answer" is not a ritual — it
-is the honest test of whether the solution is right. The egalitarian lens: the same two moves solve
-the equation no matter who holds it — mathematics is a leveler, not a gate (philosophy §4). The
-global lens: the word "algebra" comes from al-jabr ("completion") in al-Khwarizmi's 9th-century
-treatise, where moving a term to the other side was described as completing or balancing — the same
-balance we use today (S-293). Retrieval: y = kx (Grade 7) and f(x) (Lesson 5) are related — solving
-an equation finds the *input* that makes two expressions equal.
+**Tone.** Steady and honest — the balance is the whole idea.
+
+**The facts to land.**
+
+1. An equation is a balance: whatever you do to one side, do to the other.
+2. To isolate the variable, undo operations with their inverses in reverse order — add
+   or subtract first, then multiply or divide.
+3. Check a solution by substituting it back.
+
+**Don't overshoot.** Two slips to catch: doing an operation to only one side, and
+forgetting to distribute (4(x − 2) = 4x − 8).
+
+**The lenses, briefly.**
+
+- *Intellectual:* every step has a reason you can name.
+- *Egalitarianism:* the same two moves solve the equation whoever holds it — mathematics is
+  a leveler, not a gate (`philosophy` §4).
+- *Global:* "algebra" comes from al-jabr ("completion") in al-Khwarizmi's 9th-century
+  treatise, where moving a term across was described as completing or balancing (S-293).
+- *Critical-thinking:* "check your answer" is the honest test of whether the solution is
+  right, not a ritual.
+
+**The skill.** Solving equations is foundational: use explicit instruction, worked
+examples, and guided practice before independent work (Kirschner, Sweller & Clark,
+2006).
+
+**Retrieval.** y = kx and f(x) are related: solving finds the *input* that makes two
+expressions equal.
 
 ## Procedure
 

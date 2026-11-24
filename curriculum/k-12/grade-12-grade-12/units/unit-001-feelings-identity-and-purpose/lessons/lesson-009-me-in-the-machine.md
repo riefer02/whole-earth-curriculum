@@ -119,13 +119,13 @@ phone" — it is *who is writing the story of you, and how do you keep the pen?*
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the feed curates and
-hides, and comparison-based self-worth is fragile — authorship means deciding what you
-keep, not being defined by what you are shown.** The evidence is balanced and hedged:
-curated, edited images can distort self-image; social media can both lift (connection,
-creativity) and weigh down (comparison, disrupted sleep); adolescence is a formative
-time for these habits (WHO, S-311). Self-compassion is offered as a durable alternative
-to comparison-based self-evaluation, as description, not moralizing (Neff, S-222).
+The idea to land: **the feed curates and hides, and comparison-based self-worth is
+fragile — authorship means deciding what you keep, not being defined by what you are
+shown.** The evidence is balanced and hedged: curated, edited images can distort
+self-image; social media can both lift (connection, creativity) and weigh down
+(comparison, disrupted sleep); adolescence is a formative time for these habits (WHO,
+S-311). Self-compassion is offered as a durable alternative to comparison-based
+self-evaluation, as description, not moralizing (Neff, S-222).
 
 The **ethics** lens: platforms profit from holding attention, and whether that is fair
 to a forming self is an ethical question. The **egalitarianism** lens: whose image is
@@ -136,7 +136,7 @@ is no one's universal. The **technology** lens: this is the technology lens made
 personal — the effect of the machine on the human. The **critical-thinking** lens: the
 filter frame is a media-literacy check: *what is shown, what is hidden, who benefits?*
 
-**Safeguarding:** no learner is required to reveal their actual screen time, accounts,
+**Safety floor.** no learner is required to reveal their actual screen time, accounts,
 or body image. Keep analysis on the scenarios and the mechanism, not on learners'
 private feeds.
 

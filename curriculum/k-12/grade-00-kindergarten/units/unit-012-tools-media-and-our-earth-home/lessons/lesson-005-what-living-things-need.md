@@ -107,12 +107,12 @@ needs.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, keep it concrete and
-tender: a plant is a living thing that needs care, and learners can be its helpers. The
-needs of a plant (sun, water, food from soil, air) are shared, with small differences,
-by every living thing — including us. If learners wonder about animals, honor it: an
-animal needs food and water and air too, and a place to rest. Frame the Earth as a
-home that gives all living things what they need, not as a store of things to use up.
+As facilitator, keep it concrete and tender: a plant is a living thing that needs care,
+and learners can be its helpers. The needs of a plant (sun, water, food from soil, air)
+are shared, with small differences, by every living thing — including us. If learners
+wonder about animals, honor it: an animal needs food and water and air too, and a place
+to rest. Frame the Earth as a home that gives all living things what they need, not as a
+store of things to use up.
 
 ## Procedure
 

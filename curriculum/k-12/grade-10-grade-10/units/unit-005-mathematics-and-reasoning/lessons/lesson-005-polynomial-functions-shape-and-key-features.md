@@ -119,12 +119,11 @@ points are "the most," end behavior is "where it goes from here."
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a polynomial is a
-sum of powers of x with constant coefficients, and its key features — zeros, turning
-points, end behavior — can be read from its factored form and carry meaning in a real
-model.** Teach the feature-finding routine explicitly (factor → zeros; degree and
-leading coefficient → end behavior; sketch → turning points), then let learners
-practice (S-011).
+The idea to land: **a polynomial is a sum of powers of x with constant coefficients, and
+its key features — zeros, turning points, end behavior — can be read from its factored
+form and carry meaning in a real model.** Teach the feature-finding routine explicitly
+(factor → zeros; degree and leading coefficient → end behavior; sketch → turning
+points), then let learners practice (S-011).
 
 The **intellectual** lens: the degree and leading coefficient are a *shortcut* to the
 shape, but they can be justified, not memorized. The **critical-thinking** lens: ask
@@ -132,9 +131,9 @@ learners to connect each feature to a real question ("when is the volume zero? w
 it largest?"). The **environment** lens: projectile motion — height as a quadratic in
 time — is a standard, openly licensed model (S-435), and the same shape governs other
 rise-and-fall processes in nature. The **technology** lens: a graphing tool confirms a
-sketch but should not replace the reasoning; read the tool *with* the math, not
-instead of it. Preview: Lesson 6 turns to rational functions — ratios of polynomials
-that model rates and proportions.
+sketch but should not replace the reasoning; read the tool *with* the math, not instead
+of it. Preview: Lesson 6 turns to rational functions — ratios of polynomials that model
+rates and proportions.
 
 ## Procedure
 

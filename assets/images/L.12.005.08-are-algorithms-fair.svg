@@ -51,5 +51,5 @@
   <text x="256" y="314" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Bias can enter in the input, the rule, or a proxy.</text>
   <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Judge by outputs, not by intentions.</text>
 
-  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">Feeds rank by engagement and can narrow what we see (S-481, S-482).</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Feeds rank by engagement and can narrow what we see (S-481, S-482).</text>
 </svg>

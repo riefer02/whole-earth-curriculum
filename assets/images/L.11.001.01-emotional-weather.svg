@@ -69,5 +69,5 @@
     <path d="M382 372 a20 20 0 0 1 40 0 z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   </g>
 
-  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="17.3" fill="#222222">A climate is shared — everyone breathes the same air.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#222222">A climate is shared — everyone breathes the same air.</text>
 </svg>

@@ -122,35 +122,37 @@ but something people build, together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **cooperation and mutual
-aid are not marginal — they are widespread, documented ways people meet needs together,
-and the key distinction is power: charity keeps it with the giver, mutual aid shares it
-among equals, and cooperative ownership ties it to shared ownership and benefit.** The
-anchors are sound. Mutual aid — cooperation and reciprocity born of belonging, not pay — is
-a widespread human practice, named and documented in Kropotkin's classic (S-163). Communal
-self-help traditions are real and named: *harambee* ("all pull together") in Kenya,
-*gotong royong* in Indonesia, *mink'a/minga* in the Andes, and barn raising in North
-America (S-164). The charity-vs-solidarity distinction — charity as a one-way gift in
-which the giver keeps power, mutual aid as people meeting needs together as equals — is
-the standard framing (S-345). Worker cooperatives (such as the Mondragón federation in the
-Basque Country) and credit unions are well-known cooperative forms; describe them as
-*widely documented examples* and invite learners to check first-party detail (the
-International Cooperative Alliance and Mondragón are the primary references — see
-Resources). Hold "sharing power is better" as a *value*, distinct from the descriptive
-claim that these forms exist and work.
+**Tone.** Matter-of-fact and admiring: these are ordinary, widespread ways people meet
+needs together, not curiosities.
 
-Model each panel once, then let learners work (worked example → guided practice →
-independent work; S-011). The **egalitarian** lens is the spine: the whole point of
-mutual aid and cooperation is that no one is above and no one is left out — and asking
-*who decides* is how you tell the forms apart. The **ethics** lens: charity is not
-"bad" — it can save lives — but it keeps the receiver dependent, while mutual aid and
-cooperation build dignity and power. The **global** lens: these forms appear across
-cultures and times, each shaped by its own place — hold them side by side, never ranked.
-The **community** lens: ask what each form builds — dependency, solidarity, or ownership.
-The **critical-thinking** lens: not every group that calls itself a "co-op" shares power
-fairly — check who actually decides and who actually benefits. Note: this is the unit's
-closing lesson — invite learners to gather the thread back to Lesson 1, where respectful
-communication began the whole arc.
+**The facts to land.**
+
+1. Cooperation and mutual aid are widespread, documented ways people meet needs
+   together, and the key distinction is power: charity keeps it with the giver, mutual
+   aid shares it among equals, cooperative ownership ties it to shared benefit (S-345).
+2. Named traditions: *harambee* (Kenya, "all pull together"), *gotong royong*
+   (Indonesia), *mink'a/minga* (the Andes), and barn raising (North America) (S-164);
+   cooperation born of belonging is documented in Kropotkin's classic (S-163).
+3. Worker cooperatives such as Mondragón and credit unions are documented forms; invite
+   learners to check first-party detail (see Resources).
+
+**Don't overshoot.** "Sharing power is better" is a *value*, distinct from the finding
+that these forms exist and work.
+
+**The lenses, briefly.**
+
+- *Egalitarianism:* the spine — no one above, no one left out; ask who decides.
+- *Ethics:* charity can save lives but keeps the receiver dependent; mutual aid builds
+  dignity and power.
+- *Global:* these forms appear across cultures and times, each shaped by place — side by
+  side, never ranked.
+- *Community:* ask what each form builds: dependency, solidarity, or ownership.
+- *Critical-thinking:* not every group calling itself a co-op shares power fairly; check
+  who decides and who benefits.
+
+**The skill.** Model each panel once, then release (S-011): sort examples into charity,
+mutual aid, and cooperative ownership, and say who decides in each. This closes the unit
+— gather the thread back to Lesson 1.
 
 ## Procedure
 

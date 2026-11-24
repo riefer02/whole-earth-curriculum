@@ -109,11 +109,9 @@ village, or a few homes along a road, it is a place where people belong to each 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, keep "neighborhood" concrete and local — the
-places a learner actually sees. Honor every kind of neighborhood equally: dense city
-streets, rural roads, coastal villages, mountain hamlets. None is the default; all are
-real communities.
+As facilitator, keep "neighborhood" concrete and local — the places a learner actually
+sees. Honor every kind of neighborhood equally: dense city streets, rural roads, coastal
+villages, mountain hamlets. None is the default; all are real communities.
 
 ## Procedure
 

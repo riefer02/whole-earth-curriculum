@@ -121,34 +121,38 @@ tell a **trusted adult**. Today you will learn your rights and practice using th
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Read this note fully before teaching.**
+**Tone.** Calm, matter-of-fact, empowering — never fear, never shame. **Read fully
+first.**
 
-- Keep the tone calm, matter-of-fact, and empowering. This is about a child's rights and
-  safety, never about frightening them and never about shame.
-- Use the correct, respectful names for private body parts — **penis**, **vulva**, and
-  **bottom (anus)** — and the general rule that private parts are the parts a swimsuit
-  covers (plus the chest). Correct names are a recognized child-protection practice: a
-  child who knows the right words can tell clearly and be understood. Where a family or
-  community uses different words, honor those words too, while still teaching that
-  private parts have real names.
-- **Safe touch** is touch that is wanted and okay (a hug you ask for, a high-five, a
-  doctor checking you *with* your permission). **Unsafe touch** is touch you do not want,
-  or touch of private parts for no good reason. The rule is simple and body-based: your
-  body belongs to you, you may say no to any touch you do not want, and "no" and "stop"
-  always count.
-- Practice every scenario with a doll or puppet, **never with real bodies**, and never ask
-  a learner to act out unsafe touch.
-- Honor every way of speaking up: saying, signing, pointing, showing a picture, or
-  writing all count. A learner who is deaf or hard of hearing practices "no" and "stop"
-  in their sign language and points to the cards; face the learner for every
-  demonstration. A learner who is blind or has low vision names the private parts aloud
-  and practices the words, with the picture described clearly.
-- **If a child discloses abuse or an unsafe situation:** stay calm; believe them; thank
-  them for telling you; do **not** promise secrecy; do not press for details or ask
-  leading questions; tell your designated safeguarding lead and follow your local
-  child-protection procedure immediately.
-- This closes the unit. The trusted-adult list and any drawings are portfolio artifacts.
-  Celebrate how much each learner can now do for their own health and safety.
+**The facts to land.**
+1. **Safe touch** is wanted and okay: a hug you ask for, a doctor checking you *with*
+   your permission. **Unsafe touch** is touch you do not want, or private parts touched
+   for no good reason.
+2. Your body belongs to you: "no" and "stop" count.
+3. Private parts are what a swimsuit covers, plus the chest — **penis**, **vulva**,
+   **bottom (anus)**. Correct names are a recognized child-protection practice — a child
+   can tell clearly. Honor a family's own words too.
+
+**Don't overshoot.** Never soften it to keep the room comfortable.
+
+**The lenses, briefly.**
+- *Ethics:* consent is the child's right.
+- *Egalitarianism:* every body may say no.
+- *Community:* a trusted adult is named.
+- *Social-emotional:* speaking up is allowed.
+
+**The skill.** Say "no" or "stop", then tell a trusted adult. Practice on a doll,
+**never on real bodies**; never act out unsafe touch. Honor every way of speaking up:
+saying, signing, pointing, writing.
+
+**Safety floor.** if a child discloses abuse — stay calm; believe them; thank them; do **not**
+promise secrecy; do not press for details or ask leading questions; tell your
+safeguarding lead and follow local child-protection procedure immediately.
+
+**Access:** a learner who is deaf or hard of hearing practices "no" and "stop" in sign —
+face them at every demonstration; a blind learner names the parts aloud.
+
+Closes the unit; the trusted-adult list is a portfolio artifact.
 
 ## Procedure
 

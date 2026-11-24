@@ -117,22 +117,35 @@ and air. That is why every living thing, deep down, depends on plants.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is a **new foundational idea** — the
-Grade 3 upgrade of Grade 2's "animals get energy from eating" — so teach it with a worked
-example and guided practice before learners draw their own (Kirschner, Sweller & Clark,
-2006). Keep the science simple and true: green plants use **sunlight**, **water**, and
-**air** to make their own food (this is photosynthesis, but at this age the words "plants
-make their own food using sunlight" are enough — do not demand the word *photosynthesis*).
-The big claim is that **all living things depend on plants, or on animals that eat them**:
-plant-eaters depend directly, animal-eaters depend indirectly (they eat an animal that ate a
-plant), and people depend on both. Use examples from many places and biomes — rice fields,
-grasslands, sea plants, forests — so no single place is the default; note that sea plants
-and tiny green plants in water make food the same way. Honor every body: describe each card
-in words for a learner who is blind or has low vision and let them feel a real leaf; a
-non-speaking learner points to sun, water, air, and leaf to tell the story; acting out a
-plant reaching for light and an animal eating works for learners who learn best by moving.
-Hold the ethics gently: plants feed the whole living world, so caring for plants is caring
-for every animal — this returns in Lessons 9–10.
+**Tone.** Plain and slightly wondrous — plants make their own food.
+
+**The facts to land.**
+1. Green plants use **sunlight**, **water**, and **air** to make their own food. This is
+   photosynthesis, but at this age "plants make their own food using sunlight" is
+   enough.
+2. All living things depend on plants, or on animals that eat them: plant-eaters depend
+   directly, animal-eaters indirectly, and people depend on both.
+3. Sea plants and tiny green plants in water make food the same way.
+
+**Don't overshoot.** Do not demand the word *photosynthesis*, and do not let a plant's
+food be confused with the soil it stands in.
+
+**The lenses, briefly.**
+- *Environment:* plants feed the whole living world.
+- *Intellectual:* sunlight, water, and air make the food.
+- *Global:* rice fields, grasslands, sea plants, forests; no single place is the
+  default.
+- *Ethics:* caring for plants is caring for every animal (this returns in Lessons
+  9–10).
+
+**The skill.** Tell the plant's story in order: sun, water, air, leaf, food.
+
+This is foundational, so teach it with a worked example and guided practice before
+learners draw their own (Kirschner, Sweller & Clark, 2006).
+
+**Access:** describe each card and let a learner who is blind or has low vision feel a
+real leaf; a learner who does not speak points to sun, water, air, and leaf; acting out
+a plant reaching for light works for learners who learn by moving.
 
 ## Procedure
 

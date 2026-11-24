@@ -119,13 +119,13 @@ about one small thing at a time — and believe we can improve.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **feedback about the
-action, not the person** — specific, kind, and usable — and that **correction is how skill
-grows**. Model the difference vividly and stop any feedback about the person the moment it
-appears, redirecting to the action. Feedback is among the strongest influences on learning
-(Hattie, *Visible Learning*), but only when it is clear and kind. Honor every body's pace:
-feedback is about a *next step*, never about ranking. Offer seated/adapted versions of the step
-for learners who need them. See `docs/contexts.md` and `docs/facilitation.md`.
+The idea to land is **feedback about the action, not the person** — specific, kind, and
+usable — and that **correction is how skill grows**. Model the difference vividly and
+stop any feedback about the person the moment it appears, redirecting to the action.
+Feedback is among the strongest influences on learning (Hattie, *Visible Learning*), but
+only when it is clear and kind. Honor every body's pace: feedback is about a *next
+step*, never about ranking. Offer seated/adapted versions of the step for learners who
+need them. See `docs/contexts.md` and `docs/facilitation.md`.
 
 ## Procedure
 

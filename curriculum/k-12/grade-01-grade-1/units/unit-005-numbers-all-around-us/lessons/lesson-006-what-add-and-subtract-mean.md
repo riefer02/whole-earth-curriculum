@@ -110,19 +110,18 @@ by taking away.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is a *meaning* lesson: the goal is
-that a learner can hear a story and say whether it is joining (add) or taking away
-(subtract), then act it out and explain it in their own words. Use **worked
-examples** and guided practice (philosophy §13). Model your own thinking aloud: "The
-birds came *to* the tree — that is joining, so I add." Draw the story before writing
-the sentence, so the picture carries the meaning. Keep numbers within 20. The
-learner's own words are the measure of understanding, and there is no single
-"correct" way to explain — every clear explanation is honored. For learners who are
-Deaf or hard of hearing, tell the story in sign or pictures and let the learner act
-it out with objects; for learners who are blind or low-vision, tell the story aloud
-and act it out with real objects by touch. A learner who does not speak explains by
-pointing, signing, drawing, or moving objects — all of these are explaining. Never
-rank explanations; each learner's words are their own.
+It is a *meaning* lesson: the goal is that a learner can hear a story and say whether it
+is joining (add) or taking away (subtract), then act it out and explain it in their own
+words. Use **worked examples** and guided practice (philosophy §13). Model your own
+thinking aloud: "The birds came *to* the tree — that is joining, so I add." Draw the
+story before writing the sentence, so the picture carries the meaning. Keep numbers
+within 20. The learner's own words are the measure of understanding, and there is no
+single "correct" way to explain — every clear explanation is honored. For learners who
+are Deaf or hard of hearing, tell the story in sign or pictures and let the learner act
+it out with objects; for learners who are blind or low-vision, tell the story aloud and
+act it out with real objects by touch. A learner who does not speak explains by
+pointing, signing, drawing, or moving objects — all of these are explaining. Never rank
+explanations; each learner's words are their own.
 
 ## Procedure
 

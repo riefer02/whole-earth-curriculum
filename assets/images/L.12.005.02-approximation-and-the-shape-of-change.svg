@@ -30,5 +30,5 @@
 
   <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">Shrink the interval: the secant turns into the tangent.</text>
   <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The instantaneous rate is the limit of average rates.</text>
-  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">Approximating ever more finely is ancient and worldwide (S-430, S-272).</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Approximating ever more finely is ancient and worldwide (S-430, S-272).</text>
 </svg>

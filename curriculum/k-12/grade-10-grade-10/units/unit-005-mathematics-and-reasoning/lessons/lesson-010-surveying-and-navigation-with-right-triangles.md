@@ -119,26 +119,24 @@ and the open sea all surrender to a triangle drawn in the mind.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **height, distance
-across a gap, and bearing are all right-triangle problems — sight the angle of
-elevation or depression, measure one side, and the trig ratios plus the Pythagorean
-theorem give the rest.** Teach with worked examples (S-011), then let learners measure
-something real and check by a second method (feedback).
+The idea to land: **height, distance across a gap, and bearing are all right-triangle
+problems — sight the angle of elevation or depression, measure one side, and the trig
+ratios plus the Pythagorean theorem give the rest.** Teach with worked examples (S-011),
+then let learners measure something real and check by a second method (feedback).
 
 The **global** lens: measuring by right triangle is a shared human technique. The
-right-triangle relationship was known in Mesopotamia long before the name
-"Pythagorean theorem" attached to it — the tablet Plimpton 322 (c. 1800–1650 BCE)
-carries Pythagorean triples (S-354); the Indian Sulba Sutras state the relation for
-altar construction (S-292, S-434); and the Chinese *Nine Chapters* (c. 200 BCE) uses
-the gou-gu rule (S-289). The name is a convenience, not a claim about who first knew
-it. The **intellectual** lens: every surveying problem reduces to "name the two
-knowns, choose the right relation, solve." The **critical-thinking** lens: always
-check a result by a *second* method (shadow vs. elevation; sine vs. Pythagorean
-theorem) — a measurement you cannot check is a guess. The **egalitarian** lens: these
-were and are tools for ordinary work — laying fields, building homes, fishing and
-sailing — belonging to everyone, not to experts. The **environment** lens: measuring
-land honestly matters for fair division of fields and for knowing the places we depend
-on.
+right-triangle relationship was known in Mesopotamia long before the name "Pythagorean
+theorem" attached to it — the tablet Plimpton 322 (c. 1800–1650 BCE) carries Pythagorean
+triples (S-354); the Indian Sulba Sutras state the relation for altar construction
+(S-292, S-434); and the Chinese *Nine Chapters* (c. 200 BCE) uses the gou-gu rule
+(S-289). The name is a convenience, not a claim about who first knew it. The
+**intellectual** lens: every surveying problem reduces to "name the two knowns, choose
+the right relation, solve." The **critical-thinking** lens: always check a result by a
+*second* method (shadow vs. elevation; sine vs. Pythagorean theorem) — a measurement you
+cannot check is a guess. The **egalitarian** lens: these were and are tools for ordinary
+work — laying fields, building homes, fishing and sailing — belonging to everyone, not
+to experts. The **environment** lens: measuring land honestly matters for fair division
+of fields and for knowing the places we depend on.
 
 ## Procedure
 
@@ -195,3 +193,4 @@ check with its shadow. Show someone both answers.
   (S-289).
 - On worked examples and guided practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- Shulba Sutras — ancient Indian geometry (S-434).

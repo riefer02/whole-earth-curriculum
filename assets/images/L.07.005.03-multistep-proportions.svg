@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="21.8" font-weight="bold" fill="#2b3a42">Multi-Step Proportions: Scale, Then Reduce</text>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Multi-Step Proportions: Scale, Then Reduce</text>
 
   <!-- Double number line: people -->
   <text x="40" y="72" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">people</text>
@@ -45,6 +45,6 @@
   <text x="256" y="386" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">scale first, then apply the percent</text>
   <text x="256" y="410" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">order matters: 10% of 5 (scaled) ≠ 10% of 2 (unscaled)</text>
 
-  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="12.1" fill="#4f6d7a">a multi-step proportion problem is a chain of "if this much, then that much"</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a multi-step proportion problem is a chain of "if this much, then that much"</text>
   <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">name each step, keep the ratio constant, check the order</text>
 </svg>

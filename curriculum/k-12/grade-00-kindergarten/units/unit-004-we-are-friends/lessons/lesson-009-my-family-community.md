@@ -105,11 +105,10 @@ care for each other and do things together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, honor every family shape equally — never ask
-"where is your mother/father." Use open words: "the people who care for you at home."
-Some children may carry hard family stories; let any learner pass, and never rank one
-family as more real or complete than another.
+As facilitator, honor every family shape equally — never ask "where is your
+mother/father." Use open words: "the people who care for you at home." Some children may
+carry hard family stories; let any learner pass, and never rank one family as more real
+or complete than another.
 
 ## Procedure
 

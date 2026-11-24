@@ -117,14 +117,14 @@ receiver.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **performance as gift,
-listening as respect**. Keep the tone warm and safe: performing in front of others makes
-grade-5 learners vulnerable, so protect every performer — applause first, then one
-specific kind comment, never a ranking. Model the listener's job: "I noticed your steady
-beat" or "I could hear three clear parts," not "yours was best." Feedback is the strongest
-lever in learning when it is specific and kind (Hattie, *Visible Learning*). For learners
-who cannot perform in front of the whole group, honor a smaller audience of one or two.
-See `docs/facilitation.md` and `docs/contexts.md`.
+The idea to land is **performance as gift, listening as respect**. Keep the tone warm
+and safe: performing in front of others makes grade-5 learners vulnerable, so protect
+every performer — applause first, then one specific kind comment, never a ranking. Model
+the listener's job: "I noticed your steady beat" or "I could hear three clear parts,"
+not "yours was best." Feedback is the strongest lever in learning when it is specific
+and kind (Hattie, *Visible Learning*). For learners who cannot perform in front of the
+whole group, honor a smaller audience of one or two. See `docs/facilitation.md` and
+`docs/contexts.md`.
 
 ## Procedure
 

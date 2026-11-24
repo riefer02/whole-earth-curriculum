@@ -106,11 +106,10 @@ care becomes persuasive, not just sincere. This lesson builds that argument with
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a persuasive position
-on care/solidarity/collective responsibility is a claim backed by reasons backed by
-evidence, with values named as values — and it answers the strongest objection.** Teach
-the structure with a worked example; assess the *reasoning*, never the position reached
-(inquiry over creed).
+The idea to land: **a persuasive position on care/solidarity/collective responsibility
+is a claim backed by reasons backed by evidence, with values named as values — and it
+answers the strongest objection.** Teach the structure with a worked example; assess the
+*reasoning*, never the position reached (inquiry over creed).
 
 The **ethics** lens: what we owe distant others is a genuine ethical question, and the
 skill is reasoning about it, not parroting a conclusion. The **egalitarian** lens:

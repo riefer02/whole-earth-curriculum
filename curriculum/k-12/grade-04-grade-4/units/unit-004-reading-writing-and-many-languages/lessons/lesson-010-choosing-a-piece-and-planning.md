@@ -109,15 +109,14 @@ minutes of planning now saves confusion later — and makes the drafting that fo
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Planning is a taught skill, so model it with a worked example:
-choose a kind and topic aloud, fill a planning web, and think aloud about which ideas
-belong (Kirschner, Sweller & Clark, 2006). Teach the three kinds plainly — narrative
-tells a story, informative gives facts, opinion says what you think and why — and let the
-learner choose the one that fits their purpose. The plan belongs to the learner and will
-grow across the coming lessons into a published piece, so keep it as a portfolio
-artifact. Honor plans in any form — web, outline, list, drawing — and in the learner's
-home language. Planning is thinking made visible; there is no single "correct" plan.
+Planning is a taught skill, so model it with a worked example: choose a kind and topic
+aloud, fill a planning web, and think aloud about which ideas belong (Kirschner, Sweller
+& Clark, 2006). Teach the three kinds plainly — narrative tells a story, informative
+gives facts, opinion says what you think and why — and let the learner choose the one
+that fits their purpose. The plan belongs to the learner and will grow across the coming
+lessons into a published piece, so keep it as a portfolio artifact. Honor plans in any
+form — web, outline, list, drawing — and in the learner's home language. Planning is
+thinking made visible; there is no single "correct" plan.
 
 ## Procedure
 

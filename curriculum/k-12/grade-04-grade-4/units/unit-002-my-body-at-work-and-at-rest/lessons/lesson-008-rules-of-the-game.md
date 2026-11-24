@@ -114,15 +114,14 @@ them work because everyone agrees to the rules.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Teach the rules with explicit
-instruction — **read the three rules aloud, model them, then play** — because rules are
-foundational knowledge a novice needs spelled out (Kirschner, Sweller & Clark, 2006).
-Choose cooperative games (a shared goal — "keep the cloth aloft together," "pass the
-hoop around the circle without dropping it"), not elimination games, so there are no
-losers to rank. If a learner breaks a rule, treat it as information, not a verdict:
-gently restate the rule and invite them to try again. This lesson opens the unit's
-third strand — cooperative games and fair play — and leads into Lesson 9 on playing
-fairly.
+Teach the rules with explicit instruction — **read the three rules aloud, model them,
+then play** — because rules are foundational knowledge a novice needs spelled out
+(Kirschner, Sweller & Clark, 2006). Choose cooperative games (a shared goal — "keep the
+cloth aloft together," "pass the hoop around the circle without dropping it"), not
+elimination games, so there are no losers to rank. If a learner breaks a rule, treat it
+as information, not a verdict: gently restate the rule and invite them to try again.
+This lesson opens the unit's third strand — cooperative games and fair play — and leads
+into Lesson 9 on playing fairly.
 
 ## Procedure
 

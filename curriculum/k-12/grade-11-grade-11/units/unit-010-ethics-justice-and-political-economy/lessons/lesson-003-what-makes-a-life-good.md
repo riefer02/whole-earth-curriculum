@@ -118,23 +118,23 @@ setting it beside others.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the question "what
-makes a life good?" has many serious, ancient answers, and they are not all the same —
-flourishing through virtue (Aristotle, SEP Virtue Ethics, S-458), benevolence and
-relationship (Confucius, S-468), duty and harmony (dharma, S-469), and release from
-suffering (Buddhist ethics, S-467).** The methodological point: **these are *accounts
-to evaluate*, held side by side, none the default and none ranked above another.** Do
-not let the lesson become "which is best?" — the skill is *comparison*, and the respect
-is that each tradition is a living answer for real people.
+The idea to land: **the question "what makes a life good?" has many serious, ancient
+answers, and they are not all the same — flourishing through virtue (Aristotle, SEP
+Virtue Ethics, S-458), benevolence and relationship (Confucius, S-468), duty and harmony
+(dharma, S-469), and release from suffering (Buddhist ethics, S-467).** The
+methodological point: **these are *accounts to evaluate*, held side by side, none the
+default and none ranked above another.** Do not let the lesson become "which is best?" —
+the skill is *comparison*, and the respect is that each tradition is a living answer for
+real people.
 
-The **ethics** lens: each account is a claim about what is right and worth pursuing.
-The **egalitarianism** lens: no single tradition is treated as the standard against
-which others are measured — that is itself a fairness commitment. The **global** lens:
-these four are drawn from three continents and many centuries, and they stand for
-many more (Indigenous, Islamic, and other traditions appear in Lesson 4 and beyond).
-The **critical-thinking** lens: distinguishing "what a tradition *says*" (evidence)
-from "what I think is *worth living for*" (value). Preview: Lesson 4 asks the same
-question of whole societies.
+The **ethics** lens: each account is a claim about what is right and worth pursuing. The
+**egalitarianism** lens: no single tradition is treated as the standard against which
+others are measured — that is itself a fairness commitment. The **global** lens: these
+four are drawn from three continents and many centuries, and they stand for many more
+(Indigenous, Islamic, and other traditions appear in Lesson 4 and beyond). The
+**critical-thinking** lens: distinguishing "what a tradition *says*" (evidence) from
+"what I think is *worth living for*" (value). Preview: Lesson 4 asks the same question
+of whole societies.
 
 ## Procedure
 

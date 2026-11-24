@@ -106,21 +106,32 @@ are cousins, and their shared words are the family stories carried down the ages
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Teaching language families is an act of noticing, not ranking:
-guide learners to *see and hear* shared roots, and to understand that every language —
-related or not — is equal in worth (UNESCO holds that every language is a bearer of
-dignity). The example of "mother" is a real one: linguists reconstruct a common ancestor
-for English *mother*, Spanish *madre*, French *mère*, German *Mutter*, and Hindi *mātā*
-(the Proto-Indo-European root **méh₂tēr*; see Fortson, *Indo-European Language and
-Culture*). Keep it honest about evidence: this ancient word is a *reconstruction* that
-linguists infer by comparing the descendant words — a scientific story, offered as such,
-not a revealed truth. Other families have their own shared roots (for example, in the
-Bantu family, the word for "person" is *muntu* in some languages and *motho* in others —
-a shared root across a wide family). Invite every learner's home language into the
-circle, each entry equal. A language that has no "living relatives" is not less — it is
-simply its own branch, and it deserves the same honor. Treat translation tools as helpers
-that can show words, never as a replacement for the people who live the languages.
+**Tone.** Delighted and even — teaching language families is noticing, not ranking.
+
+**The facts to land.**
+1. Every language, related or not, is equal in worth — UNESCO holds that every language
+   is a bearer of dignity.
+2. English *mother*, Spanish *madre*, French *mère*, German *Mutter*, and Hindi *mātā*
+   descend from a reconstructed Proto-Indo-European root, **méh₂tēr** (Fortson,
+   *Indo-European Language and Culture*).
+3. That root is a *reconstruction* linguists infer by comparing the descendant words — a
+   scientific story, offered as such, not a revealed truth.
+4. Other families have their own shared roots: in the Bantu family, "person" is *muntu*
+   in some languages and *motho* in others.
+
+**Don't overshoot.** Do not present the reconstruction as a recovered fact, and do not
+treat a language with no living relatives as less — it is simply its own branch.
+
+**The lenses, briefly.**
+- *Global:* every home language joins the circle, each entry equal.
+- *Egalitarianism:* related or not, no language ranks above another.
+- *Ethics:* honor each branch the same.
+- *Critical-thinking:* a reconstruction is evidence-based inference, and we say so.
+
+**The skill.** Place a word beside its relatives, and say what the comparison shows.
+
+**Access:** treat translation tools as helpers that can show words, never as a
+replacement for the people who live the languages.
 
 ## Procedure
 

@@ -113,22 +113,36 @@ leftover glow of that beginning still reaches us. Two clocks, one story of **dee
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **the Earth is ~4.54 billion years
-old, dated by the radioactive decay of isotopes in the oldest Earth rocks and, most precisely, in
-meteorites (S-308); the universe is ~13.8 billion years old, measured from the expansion of galaxies
-and the cosmic microwave background — the leftover heat of the Big Bang (S-002).** Use a worked
-example first (S-011): explain radioactive decay as a steady clock — a parent isotope changes into a
-daughter isotope at a fixed rate (its half-life), so measuring the ratio dates the rock. The
-critical-thinking lens is central: these are *measurements with uncertainty*, not revealed facts — the
-Earth's age carries a stated uncertainty (about ±1%), and the numbers are revised when better data
-appear, which is exactly how science stays honest (S-308). The global lens: deep time is not one
-culture's story — astronomers and geologists from many nations built these measurements, and many
-peoples have long held that the world is far older than human memory. The ethics lens: treating a
-measurement as a model with limits, and not overclaiming, is an act of intellectual honesty — the same
-honesty we ask of every claim. Hold origins explicitly open: the Big Bang and deep time are *models
-with evidence, never creed* (philosophy §11); they answer "how old," not "why we are here" — that
-question belongs to the next lesson. Cite USGS (S-308) and NASA (S-002, S-361); keep all numbers
-hedged with "about."
+**Tone.** Awed and careful — big numbers, stated with their uncertainty.
+
+**The facts to land.**
+
+1. **The Earth is about 4.54 billion years old,** dated by radioactive decay of isotopes
+in the oldest Earth rocks and, most precisely, in meteorites (S-308).
+2. **The universe is about 13.8 billion years old,** measured from the expansion of
+galaxies and the cosmic microwave background — the leftover heat of the Big Bang
+(S-002).
+3. **Worked example:** radioactive decay is a steady clock — a parent isotope becomes a
+daughter at a fixed rate (its half-life), so the ratio dates the rock.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* these are *measurements with uncertainty*, not revealed facts —
+the Earth's age carries about ±1% uncertainty, and numbers are revised when better data
+appear (S-308).
+- *Global:* astronomers and geologists from many nations built these measurements, and
+many peoples have long held that the world is far older than human memory.
+- *Ethics:* treating a measurement as a model with limits, and not overclaiming, is
+intellectual honesty.
+- *Intellectual:* deep time is a genuinely new way of imagining — it answers "how
+old," not "why we are here."
+
+**The skill.** **Worked example first** (S-011): read one decay ratio as a date, with
+its error bars.
+
+**Origins.** Big Bang and deep time are *models with evidence, never creed* (philosophy
+§11); the "why" belongs to the next lesson. Keep all numbers hedged with "about" (NASA,
+S-361).
 
 ## Procedure
 

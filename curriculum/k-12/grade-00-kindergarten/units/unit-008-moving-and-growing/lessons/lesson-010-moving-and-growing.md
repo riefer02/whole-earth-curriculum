@@ -117,13 +117,12 @@ way of growing — and every body grows at its own pace, which is exactly right.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, make this a joyful,
-low-pressure celebration — the unit's summative moment should feel like a party, not a
-test. **Honor every body and every pace of growth:** remind learners that bodies grow
-at different speeds and in different ways, and that every pace is worthy. Observe each
-learner across the three stations to gather evidence of the unit's three objectives.
-Keep the message gentle: no comparisons, no "best," just celebration of each learner's
-own growing.
+As facilitator, make this a joyful, low-pressure celebration — the unit's summative
+moment should feel like a party, not a test. **Honor every body and every pace of
+growth:** remind learners that bodies grow at different speeds and in different ways,
+and that every pace is worthy. Observe each learner across the three stations to gather
+evidence of the unit's three objectives. Keep the message gentle: no comparisons, no
+"best," just celebration of each learner's own growing.
 
 ## Procedure
 

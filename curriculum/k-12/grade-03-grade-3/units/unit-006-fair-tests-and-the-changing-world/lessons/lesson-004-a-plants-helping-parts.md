@@ -116,17 +116,17 @@ plant's food. Pull up a weed and you can see all three with your own eyes.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Teach the three parts with a **worked
-example** — point to the roots, stem, and leaves on a real plant and say each job once —
-then let learners point and say them with a partner (guided practice) before drawing
-alone. Keep the global lens wide: many staple foods are plant parts — carrots and sweet
-potatoes are **roots**, sugarcane and asparagus are **stems** (celery stalks are leaf
-stalks, not true stems), spinach and cabbage are **leaves**, and rice and maize are
-seeds. Naming foods from many places makes no single
-diet the default and honors the way plants feed the whole world. Handle the pulled-up
-plant with care and return it or compost it — a small ethical step of respect for a
-living thing. Scientific claims (roots take up water and minerals, leaves make food in
-sunlight) are well-supported; state them plainly and let learners wonder beyond them.
+Teach the three parts with a **worked example** — point to the roots, stem, and leaves
+on a real plant and say each job once — then let learners point and say them with a
+partner (guided practice) before drawing alone. Keep the global lens wide: many staple
+foods are plant parts — carrots and sweet potatoes are **roots**, sugarcane and
+asparagus are **stems** (celery stalks are leaf stalks, not true stems), spinach and
+cabbage are **leaves**, and rice and maize are seeds. Naming foods from many places
+makes no single diet the default and honors the way plants feed the whole world. Handle
+the pulled-up plant with care and return it or compost it — a small ethical step of
+respect for a living thing. Scientific claims (roots take up water and minerals, leaves
+make food in sunlight) are well-supported; state them plainly and let learners wonder
+beyond them.
 
 ## Procedure
 

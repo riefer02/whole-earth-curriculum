@@ -117,17 +117,16 @@ short sounds and perform it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Telling long from short and building a pattern is a **skill**,
-so model it with explicit instruction (Kirschner, Sweller & Clark, 2006): hold an
-"ahhh" for a long sound, tap a "ta" for a short sound, then play a pattern and have
-learners echo. Keep patterns short at first (two to four sounds). "Long" and "short"
-are about **time held**, not about loudness. A learner who is Deaf or hard of hearing
-reads long and short by **sight and vibration**: a long sound vibrates for a long time
-(a big slow drum stroke), a short sound stops quickly (a quick tap), and they can play
-the pattern by making long and short movements or taps. A learner who does not sing or
-speak performs with claps, taps, and hums. A learner who is blind or has low vision
-leads and repeats by ear and touch. Every performance belongs.
+Telling long from short and building a pattern is a **skill**, so model it with explicit
+instruction (Kirschner, Sweller & Clark, 2006): hold an "ahhh" for a long sound, tap a
+"ta" for a short sound, then play a pattern and have learners echo. Keep patterns short
+at first (two to four sounds). "Long" and "short" are about **time held**, not about
+loudness. A learner who is Deaf or hard of hearing reads long and short by **sight and
+vibration**: a long sound vibrates for a long time (a big slow drum stroke), a short
+sound stops quickly (a quick tap), and they can play the pattern by making long and
+short movements or taps. A learner who does not sing or speak performs with claps, taps,
+and hums. A learner who is blind or has low vision leads and repeats by ear and touch.
+Every performance belongs.
 
 ## Procedure
 

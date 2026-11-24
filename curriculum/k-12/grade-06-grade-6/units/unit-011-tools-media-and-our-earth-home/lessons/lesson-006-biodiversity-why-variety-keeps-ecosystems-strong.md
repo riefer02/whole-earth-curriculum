@@ -117,14 +117,14 @@ variety of life is called **biodiversity**, and it is a living thing's safety ne
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is the **safety-net metaphor**:
-more kinds of life means more ways for an ecosystem to survive a shock. Model the garden-vs-
-field contrast fully as a worked example. Build on the previous lesson's communities and on
-Grade 5's interdependence. Present variety factually and hopefully: biodiversity is strength,
-and people everywhere — farmers who mix crops, communities who protect reefs and forests — are
+The idea to land is the **safety-net metaphor**: more kinds of life means more ways for
+an ecosystem to survive a shock. Model the garden-vs- field contrast fully as a worked
+example. Build on the previous lesson's communities and on Grade 5's interdependence.
+Present variety factually and hopefully: biodiversity is strength, and people
+everywhere — farmers who mix crops, communities who protect reefs and forests — are
 already building that strength. Distinguish evidence from values: *that variety aids
-resilience* is observable ecology; *that we should protect the variety of life* is a value this
-curriculum holds. See `docs/philosophy.md` §4–5 and `docs/facilitation.md`.
+resilience* is observable ecology; *that we should protect the variety of life* is a
+value this curriculum holds. See `docs/philosophy.md` §4–5 and `docs/facilitation.md`.
 
 ## Procedure
 

@@ -118,31 +118,39 @@ role.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **public life has many pathways —
-voting, organizing, testifying, creating, witnessing, caring, protesting, running, teaching,
-reporting — and no single one is the "real" form of citizenship. Power is unevenly distributed and
-must be held accountable, and the learner's role begins by noticing which pathways are open to
-them and where their own voice is strong or weak.** Hold the facts lightly: participation in
-public decisions is uneven across and within societies (S-461); the Universal Declaration affirms
-a right to take part in government, directly or through freely chosen representatives (S-149,
-Article 21); peace, justice, and accountable institutions are a shared global goal (S-463). Do
-not prescribe any political path or party; the lesson is about *how* to enter public life, not
-*which* cause to serve.
+**Tone.** Open and non-partisan: pathways, not a platform.
 
-The **ethics** lens: a public role is a set of responsibilities — to be truthful, to be fair, to
-listen — and the lesson treats taking up a role as taking up those duties. The **egalitarianism**
-lens: power is not only force; it is also the ability to set the agenda and to be heard (S-275),
-so the lesson asks each learner to notice where their own voice is loud and where it is quiet —
-and what that means for who else's voice needs lifting. The **global** lens: the pathways exist
-across societies, but they look different everywhere — participation is uneven worldwide (S-461),
-and no single country's way is the model; the right to take part is a shared, universal claim
-(S-149). The **technology** lens: digital tools have opened new pathways (organizing, witnessing,
-reporting) while also concentrating who gets seen and who is silenced — and the same tools spread
-both truth and falsehood, so a public role now includes the duty to check and to be checkable
-(S-481, S-482, S-278, S-217, S-063). The **environment** lens: public life includes care for the
-shared, living world — the person who speaks for a river or a green space is taking part in public
-life as surely as the person who votes. Preview: Lesson 12 turns the role into a *vision* of a
-more just, sustainable world.
+**The facts to land.**
+
+1. Public life has many pathways — voting, organising, testifying, creating, witnessing,
+   caring, protesting, teaching — and no single one is the "real" citizenship.
+2. Power is uneven and must be held accountable; a learner's role begins by noticing
+   which pathways are open to them.
+3. Participation in public decisions is uneven across and within societies (S-461); the
+   Universal Declaration affirms a right to take part in government, directly or through
+   freely chosen representatives (S-149, Article 21); peace, justice, and accountable
+   institutions are a shared global goal (S-463).
+
+**Don't overshoot.** Do not prescribe a party or a cause; the lesson is *how* to enter
+public life.
+
+**The lenses, briefly.**
+
+- *Ethics:* a public role is a set of duties — truthful, fair, listening.
+- *Egalitarianism:* power is also the ability to set the agenda and be heard (S-275);
+  notice where your voice is loud, and whose voice needs lifting.
+- *Global:* the pathways look different everywhere, and no country's way is the model
+  (S-461).
+- *Technology:* tools open organising, witnessing, and reporting and concentrate who
+  gets seen; a public role includes the duty to check and be checkable (S-481, S-482,
+  S-278, S-217, S-063).
+- *Environment:* the person who speaks for a river is taking part as surely as the
+  voter.
+- *Community:* public life begins where you live.
+
+- *Critical-thinking:* a pathway that only amplifies the loudest voice is not
+  participation. **The skill.** Model once, then release (S-011): two pathways open to
+  you, one closed, one to try.
 
 ## Procedure
 
@@ -199,3 +207,4 @@ protest, a kindness that changed a shared thing?" Write their answer and yours �
 - On digital public life: Britannica — Social media (S-481); Pariser — The Filter Bubble (S-482);
   Center for News Literacy (S-278); UNESCO — Media and Information Literacy (S-217); Common Sense
   Education — News & Media Literacy (S-063).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

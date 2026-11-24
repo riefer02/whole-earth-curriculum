@@ -98,16 +98,15 @@ someone that they matter.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. If no visitor is available, you are the speaker, or use a
-recording. Keep the talk short — under three minutes — and about one concrete thing.
-Frame asking questions as "wondering together," never as challenging the speaker.
-Honor the speaker's language; if they speak a language some learners don't know,
-invite translation with patience and curiosity. For a learner who is deaf or hard of
-hearing, arrange what they need to receive the message — a sign-language interpretation,
-lip-reading with the speaker facing them, a written or pictured key point, or captions on
-a recording — so "listening to a person" is open to every learner. Learners may tell back
-what they heard by speaking, signing, pointing, drawing, or acting; all are valid.
+If no visitor is available, you are the speaker, or use a recording. Keep the talk
+short — under three minutes — and about one concrete thing. Frame asking questions as
+"wondering together," never as challenging the speaker. Honor the speaker's language; if
+they speak a language some learners don't know, invite translation with patience and
+curiosity. For a learner who is deaf or hard of hearing, arrange what they need to
+receive the message — a sign-language interpretation, lip-reading with the speaker
+facing them, a written or pictured key point, or captions on a recording — so "listening
+to a person" is open to every learner. Learners may tell back what they heard by
+speaking, signing, pointing, drawing, or acting; all are valid.
 
 ## Procedure
 

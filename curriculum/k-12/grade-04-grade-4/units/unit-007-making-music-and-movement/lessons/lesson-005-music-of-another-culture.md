@@ -122,15 +122,15 @@ mean to the people who make it?"
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The stance is the same as Lesson 2:
-these are **living traditions**, and the goal is accurate, respectful description plus
-curiosity. Model the skill: after one recording, name the instruments you hear, say
-something about the melody's shape or the rhythm's pattern, and pose one respectful
-question. Be honest that a short recording can only hint at a tradition, and the
-deepest learning comes from the musicians themselves — if you can invite a local
-musician, do. Guard against "exotic" language ("weird," "strange," "primitive"); use
-neutral description ("fast," "steady," "ringing," "many parts at once"). Some music is
-sacred or for specific occasions only — honoring that boundary is part of respect.
+The stance is the same as Lesson 2: these are **living traditions**, and the goal is
+accurate, respectful description plus curiosity. Model the skill: after one recording,
+name the instruments you hear, say something about the melody's shape or the rhythm's
+pattern, and pose one respectful question. Be honest that a short recording can only
+hint at a tradition, and the deepest learning comes from the musicians themselves — if
+you can invite a local musician, do. Guard against "exotic" language ("weird,"
+"strange," "primitive"); use neutral description ("fast," "steady," "ringing," "many
+parts at once"). Some music is sacred or for specific occasions only — honoring that
+boundary is part of respect.
 
 ## Procedure
 

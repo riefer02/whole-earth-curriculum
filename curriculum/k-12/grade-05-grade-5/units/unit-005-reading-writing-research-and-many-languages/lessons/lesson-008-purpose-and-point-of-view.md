@@ -115,13 +115,13 @@ person write this?* and *through whose eyes am I seeing it?*
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land are that every text has a
-**purpose** and a **point of view**, and that a thoughtful reader asks after both. The
-egalitarian lens matters here: the question "whose voice is missing?" is a habit of mind that
-notices who is left out — the worker, the child, the other side. Keep it gentle and curious,
-not accusatory; a text that leaves a voice out is not evil, just incomplete. Where possible,
-use texts from many cultures and both oral and written traditions. See `docs/facilitation.md`
-on inquiry over creed.
+The ideas to land are that every text has a **purpose** and a **point of view**, and
+that a thoughtful reader asks after both. The egalitarian lens matters here: the
+question "whose voice is missing?" is a habit of mind that notices who is left out — the
+worker, the child, the other side. Keep it gentle and curious, not accusatory; a text
+that leaves a voice out is not evil, just incomplete. Where possible, use texts from
+many cultures and both oral and written traditions. See `docs/facilitation.md` on
+inquiry over creed.
 
 ## Procedure
 

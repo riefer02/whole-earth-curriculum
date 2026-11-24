@@ -117,15 +117,15 @@ strength, not a split.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **shifting by
-context is real and skillful — never "two-faced."** This matters deeply at age 11–12, when
-learners first worry they are being "fake" by being different in different places. Name
-it plainly: being different with a teacher than with a best friend is normal and healthy;
-the alternative — being exactly the same everywhere — would be impossible and unkind.
-**Honor multilingualism explicitly** as an ordinary, powerful form of shifting, and never
-frame a learner's home language as a "private" or "lesser" self. If a learner reveals a
-context that feels unsafe or in conflict, receive it calmly and note the one part that
-stays true across contexts — their values. See `docs/facilitation.md` and `docs/contexts.md`.
+The idea to land is that **shifting by context is real and skillful — never
+"two-faced."** This matters deeply at age 11–12, when learners first worry they are
+being "fake" by being different in different places. Name it plainly: being different
+with a teacher than with a best friend is normal and healthy; the alternative — being
+exactly the same everywhere — would be impossible and unkind. **Honor multilingualism
+explicitly** as an ordinary, powerful form of shifting, and never frame a learner's home
+language as a "private" or "lesser" self. If a learner reveals a context that feels
+unsafe or in conflict, receive it calmly and note the one part that stays true across
+contexts — their values. See `docs/facilitation.md` and `docs/contexts.md`.
 
 ## Procedure
 

@@ -108,27 +108,26 @@ take for you to change your mind again, on purpose, with dignity.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **deep listening
-culminates in real openness to being changed, and the "steelman" — restating the
-strongest version of the opposing view — is the concrete skill that makes it
-possible.** Teach the steelman with a worked example; structure the exchange so no one
-is pushed to abandon a conviction, only to see it clearly.
+The idea to land: **deep listening culminates in real openness to being changed, and the
+"steelman" — restating the strongest version of the opposing view — is the concrete
+skill that makes it possible.** Teach the steelman with a worked example; structure the
+exchange so no one is pushed to abandon a conviction, only to see it clearly.
 
-The **ethics** lens: treating a disagreement as a shared search rather than a contest
-is an ethical stance — it treats the other person as a source of truth, not an obstacle.
+The **ethics** lens: treating a disagreement as a shared search rather than a contest is
+an ethical stance — it treats the other person as a source of truth, not an obstacle.
 The **egalitarian** lens: a steelman gives the weaker or less popular side its best
 possible hearing, which is what fairness to *ideas* requires, not just fairness to
 people. The **global** lens: many traditions of decision-making — from deliberative
-councils to community assemblies — are built on the premise that the group is wiser
-when everyone can change the others and be changed in turn. The **critical-thinking**
-lens: steelmanning is the heart of reasoning well — you cannot refute a view you have
-not first understood at its strongest.
+councils to community assemblies — are built on the premise that the group is wiser when
+everyone can change the others and be changed in turn. The **critical-thinking** lens:
+steelmanning is the heart of reasoning well — you cannot refute a view you have not
+first understood at its strongest.
 
 **Emotional safety.** Changing one's mind can feel like a threat to identity. Frame it
 as *curiosity and growth*, never as defeat. No learner is graded on whether they change
 their mind — only on whether they can state the other side fairly. Offer opt-outs; a
-learner may choose a low-stakes topic or reflect privately. "Listening is not losing"
-is the constant refrain (Hess, S-349).
+learner may choose a low-stakes topic or reflect privately. "Listening is not losing" is
+the constant refrain (Hess, S-349).
 
 ## Procedure
 

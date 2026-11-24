@@ -113,17 +113,15 @@ and repeat it so it comes back the same.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Repeating a pattern is a **skill**, so teach it with explicit
-modeling and guided practice (Kirschner, Sweller & Clark, 2006): play one short
-pattern, have the group echo, then let learners lead. Keep patterns very short at
-first (two to four sounds). "Accurately" means "the same the second time" — not
-perfectly fast, and never "correct" vs "wrong." A learner who is Deaf or hard of
-hearing repeats the pattern by **feel and sight**: watch the leader's hands and feel
-the vibration of the beat through a drum, the table, or the floor, then tap it back
-the same way. A learner who does not sing or speak repeats the pattern by clapping,
-tapping, or humming. A learner who is blind or has low vision leads and repeats by
-ear and touch. Watching and echoing is full participation.
+Repeating a pattern is a **skill**, so teach it with explicit modeling and guided
+practice (Kirschner, Sweller & Clark, 2006): play one short pattern, have the group
+echo, then let learners lead. Keep patterns very short at first (two to four sounds).
+"Accurately" means "the same the second time" — not perfectly fast, and never "correct"
+vs "wrong." A learner who is Deaf or hard of hearing repeats the pattern by **feel and
+sight**: watch the leader's hands and feel the vibration of the beat through a drum, the
+table, or the floor, then tap it back the same way. A learner who does not sing or speak
+repeats the pattern by clapping, tapping, or humming. A learner who is blind or has low
+vision leads and repeats by ear and touch. Watching and echoing is full participation.
 
 ## Procedure
 

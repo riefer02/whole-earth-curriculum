@@ -123,24 +123,37 @@ repair that makes it right. Today you will learn the three steps and why they he
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **restorative practice** — the
-fuller form of justice this unit builds toward. The three moves are **listen** (hear
-the one who was hurt), **take responsibility** (own what happened, without shame — name
-the *act*, never the child), and **repair the harm** (do something that makes it
-right). Crucially, restorative practice **does not dismiss accountability** — it
-*requires* it: the person who caused harm must own it and fix it, which is harder and
-more honest than sitting out a penalty. Teach it as *both/and*, not *either/or*:
-punishment alone stops; restoration heals *and* holds accountable. Hold it as a
-question ("what does each path do for the person who was hurt — and for the person who
-caused it?"), never as a forced ritual: never make a learner confess a real, private
-harm or perform a scripted apology — invented or acted harms are welcome, and a learner
-may always pass. A learner who does not speak aloud points to the three steps or signs;
-a learner who is deaf or hard of hearing follows the circle through sign and caption; a
-learner who is blind or low-vision hears the steps described and names why repair
-heals; a learner with a motor difference can direct a partner to do the repair. The
-aim is that every learner can say, in their own way, "restorative practice means
-listening, taking responsibility, and repairing harm — and that can heal better than
-punishment alone."
+**Tone.** Fair and honest — both/and, not either/or.
+
+**The facts to land.**
+1. The three moves: **listen**, **take responsibility** (name the *act*, never the
+   child), and **repair the harm**.
+2. Restorative practice **does not dismiss accountability** — it requires it: the person
+   who caused harm must own it and fix it, which is harder and more honest than sitting
+   out a penalty.
+3. Punishment alone stops; restoration heals *and* holds accountable.
+
+**Don't overshoot.** Do not let repair become a forced ritual or a scripted apology.
+
+**The lenses, briefly.**
+- *Ethics:* accountability is the core, not the cost.
+- *Egalitarianism:* a child is never the problem; the act is.
+- *Social-emotional:* invented harms keep the practice safe.
+- *Community:* repair restores the group, not only the pair.
+- *Global:* many peoples practice restoration.
+- *Critical-thinking:* "what does each path do for the person hurt — and for the
+  person who caused it?"
+
+**The skill.** Say "restorative practice means listening, taking responsibility, and
+repairing harm."
+
+Hold it as a question, never a forced ritual: never make a learner confess a real,
+private harm; invented or acted harms are welcome, and a learner may always pass.
+
+**Access:** a learner who does not speak points to the three steps; a learner who is
+deaf or hard of hearing follows the circle through sign and caption; a learner who is
+blind or has low vision hears the steps described; a learner with a motor difference
+directs a partner.
 
 ## Procedure
 

@@ -116,17 +116,17 @@ you learn the *how* behind what every farmer and herder already knew.
 
 ## Facilitator note
 
-Written to the learner ("you"). The idea to land is that offspring **receive the
-instructions for their traits from both parents** — so they resemble their parents,
-yet are not copies. The child-friendly word is "instructions"; the scientific name is
-**genes**, and Grade 8 will open that box fully. Keep it faithful and simple: a trait
-passes from a parent to an offspring through the parent's cells, not through the
-parent "teaching" it or the offspring "wanting" it. The claim that offspring resemble
-their parents is **evidence** gathered over millennia; the claim that we ought to
-respect every living thing regardless of its traits is a **value** — name that
-distinction if it comes up ([`docs/facilitation.md`](../../../../../../docs/facilitation.md)).
-Avoid comparing humans in ways that rank or shame; use plants and animals for the
-worked examples, and let learners share their own family traits only if they wish.
+The idea to land is that offspring **receive the instructions for their traits from both
+parents** — so they resemble their parents, yet are not copies. The child-friendly word
+is "instructions"; the scientific name is **genes**, and Grade 8 will open that box
+fully. Keep it faithful and simple: a trait passes from a parent to an offspring through
+the parent's cells, not through the parent "teaching" it or the offspring "wanting" it.
+The claim that offspring resemble their parents is **evidence** gathered over millennia;
+the claim that we ought to respect every living thing regardless of its traits is a
+**value** — name that distinction if it comes up
+([`docs/facilitation.md`](../../../../../../docs/facilitation.md)). Avoid comparing
+humans in ways that rank or shame; use plants and animals for the worked examples, and
+let learners share their own family traits only if they wish.
 
 ## Procedure
 

@@ -118,11 +118,11 @@ not a verdict.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the integrated self
-is written, and it is written as a draft — a living story, not a verdict.** Identity is
-a lifelong, developing process (Erikson, S-155), and a life story is how people knit
-past, present, and future together (McAdams, S-404); both are offered as description.
-The statement is a capstone *artifact*, not a test of who is "more" integrated.
+The idea to land: **the integrated self is written, and it is written as a draft — a
+living story, not a verdict.** Identity is a lifelong, developing process (Erikson,
+S-155), and a life story is how people knit past, present, and future together (McAdams,
+S-404); both are offered as description. The statement is a capstone *artifact*, not a
+test of who is "more" integrated.
 
 The **ethics** lens: "how I will act" makes the statement an ethical commitment, not
 only self-description. The **egalitarianism** lens: every self is honored as a whole in
@@ -133,7 +133,7 @@ none is the default, and learners may adapt the form. The **critical-thinking** 
 the peer-check's three questions are a check for specificity, consistency, and
 authenticity — exactly the habits the unit trains.
 
-**Safeguarding:** the statement may include anything a learner *chooses* to include;
+**Safety floor.** the statement may include anything a learner *chooses* to include;
 nothing is required about trauma, family, or marginalized identity. A learner may write
 it privately or share one line only. The artifact belongs to the learner.
 

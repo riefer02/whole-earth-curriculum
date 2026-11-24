@@ -105,12 +105,12 @@ it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Communities look very different around
-the world — a fishing village, a high-rise neighborhood, a mountain village, a city
-block, a market square — and none is better than another. Let each child name the community that is
-theirs. If a child names a community others have not seen, welcome it with curiosity:
-"What do people do together there?" Keep the lens global and egalitarian: we learn
-about many ways to live, not one correct way.
+Communities look very different around the world — a fishing village, a high-rise
+neighborhood, a mountain village, a city block, a market square — and none is better
+than another. Let each child name the community that is theirs. If a child names a
+community others have not seen, welcome it with curiosity: "What do people do together
+there?" Keep the lens global and egalitarian: we learn about many ways to live, not one
+correct way.
 
 ## Procedure
 

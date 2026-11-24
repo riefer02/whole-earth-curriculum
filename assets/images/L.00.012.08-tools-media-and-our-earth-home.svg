@@ -7,7 +7,7 @@
 
   <!-- Header -->
   <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Our Earth Home</text>
-  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="15.8" fill="#4f6d7a">Tools, stories, living things, and care — all in one home.</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Tools, stories, living things, and care — all in one home.</text>
 
   <!-- ===== Earth circle ===== -->
   <circle cx="256" cy="300" r="158" fill="#ffffff" stroke="#2b3a42" stroke-width="4"/>
@@ -61,5 +61,5 @@
   </g>
 
   <!-- Footer -->
-  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#4f6d7a">Tools, stories, living things, and care — all together, in one Earth home.</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Tools, stories, living things, and care — all together, in one Earth home.</text>
 </svg>

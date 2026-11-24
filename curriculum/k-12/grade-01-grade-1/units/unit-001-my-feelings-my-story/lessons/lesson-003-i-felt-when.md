@@ -101,10 +101,9 @@ understand yourself and helps other people understand you, too.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Model the frame several times before
-inviting learners to try it. Accept any feeling, even a "negative" one — the goal is
-accurate naming, not "good" answers. Keep the frame concrete: a real situation the
-learner experienced, not an abstract one.
+Model the frame several times before inviting learners to try it. Accept any feeling,
+even a "negative" one — the goal is accurate naming, not "good" answers. Keep the frame
+concrete: a real situation the learner experienced, not an abstract one.
 
 ## Procedure
 

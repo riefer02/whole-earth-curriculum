@@ -114,28 +114,27 @@ support you never checked.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a spoken claim
-carries unstated assumptions — premises the speaker takes for granted — and the
-critical listener names them before agreeing or disagreeing.** Assumptions are not
-automatically wrong; they are simply *unstated*. Some are fair and shared; some are
-dubious and, once named, collapse. The skill is to surface them so they can be judged
-on their merits (critical-thinking lens). This is the listening half of the standard:
-identifying assumptions across accents, dialects, and viewpoints — not just in the
-voices that sound like ours.
+The idea to land: **a spoken claim carries unstated assumptions — premises the speaker
+takes for granted — and the critical listener names them before agreeing or
+disagreeing.** Assumptions are not automatically wrong; they are simply *unstated*. Some
+are fair and shared; some are dubious and, once named, collapse. The skill is to surface
+them so they can be judged on their merits (critical-thinking lens). This is the
+listening half of the standard: identifying assumptions across accents, dialects, and
+viewpoints — not just in the voices that sound like ours.
 
 Model the probe once, then let learners practice (worked example → guided practice →
-independent work; S-011). The **critical-thinking** lens is the spine: every claim has
-a "what must already be true?" layer. The **egalitarian** lens: assumptions often
-encode who is assumed to be normal, capable, or included — "everyone has a phone,"
-"everyone celebrates this holiday," "a family means a mother and father." Naming those
-assumptions is how exclusion becomes visible. The **ethics** lens: fair disagreement
-requires naming the assumption you reject, not attacking the person who holds it. The
-**global** lens: what is "obviously true" in one culture or language is a visible
-assumption in another — probe across viewpoints, not only within your own. The
-**social-emotional** lens: catching assumptions in yourself can feel exposing; keep the
-tone gentle and treat "I didn't realize I assumed that" as a discovery, not a fault.
-Preview: Lesson 3 builds the argument you will *speak* — and naming your own
-assumptions is the first step to defending them.
+independent work; S-011). The **critical-thinking** lens is the spine: every claim has a
+"what must already be true?" layer. The **egalitarian** lens: assumptions often encode
+who is assumed to be normal, capable, or included — "everyone has a phone," "everyone
+celebrates this holiday," "a family means a mother and father." Naming those assumptions
+is how exclusion becomes visible. The **ethics** lens: fair disagreement requires naming
+the assumption you reject, not attacking the person who holds it. The **global** lens:
+what is "obviously true" in one culture or language is a visible assumption in another —
+probe across viewpoints, not only within your own. The **social-emotional** lens:
+catching assumptions in yourself can feel exposing; keep the tone gentle and treat "I
+didn't realize I assumed that" as a discovery, not a fault. Preview: Lesson 3 builds the
+argument you will *speak* — and naming your own assumptions is the first step to
+defending them.
 
 ## Procedure
 

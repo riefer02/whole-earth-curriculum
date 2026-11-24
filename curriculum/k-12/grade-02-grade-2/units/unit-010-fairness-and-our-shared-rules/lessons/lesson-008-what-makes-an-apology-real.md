@@ -115,21 +115,36 @@ and their work. Today you will practice telling the difference, and making a rea
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **apology as repair, not as
-words alone**. An apology is real when the person means it and tries to fix the harm —
-naming what happened, noticing how the other felt, and doing something to make it
-right. Hold this as a question ("what does this apology *do* for the other person?"),
-never as a forced ritual: never make a learner perform an apology or confess a real,
-private hurt — invented or acted harms are welcome, and a learner may always pass.
-Name the *act*, never the child; there are no "bad children," only hurts to repair.
-The goal is understanding, not shame: an empty "sorry" is a *starting* point, and a
-learner can always add the repair to make it real. A learner who does not speak aloud
-shows the steps by pointing or signing; a learner who is deaf or hard of hearing
-follows the strip and the acted apology by sign and gesture; a learner who is blind or
-low-vision hears the two apologies described and names which is real and why; a
-learner with a motor difference can direct a partner to do the repair while they
-choose it. The aim is that every learner can say, in their own way, "a real sorry
-fixes the harm."
+**Tone.** Search, not ritual. **An apology is repair, not words alone.**
+
+**The facts to land.**
+
+1. An apology is real when the person means it and tries to fix the harm: naming what
+   happened, noticing the feeling, and doing something to make it right.
+2. Hold it as a question — "what does this apology *do* for the other person?" — never a
+   forced ritual.
+3. Name the *act*, never the child. There are no "bad children," only hurts to repair.
+4. An empty "sorry" is a *starting* point; a learner can always add the repair.
+
+**Don't overshoot.** Never make a learner perform an apology or confess a real, private
+hurt — invented harms are welcome, and a learner may pass. The goal is understanding,
+not shame.
+
+**The lenses, briefly.**
+
+- *Ethics:* the repair is owed to the hurt person.
+- *Egalitarianism:* directing the repair still makes it real.
+- *Social-emotional:* noticing the other's feeling is the hinge.
+- *Community:* repair keeps the group together.
+- *Global:* ways of apologising differ; repair is the thread.
+- *Critical-thinking:* judge the apology by what it does.
+
+**The skill.** Test an apology: does it name, notice, and repair?
+
+**Access.** Non-speaking: show the steps by pointing or signing. Deaf or hard of
+hearing: follow the strip and the acted apology by sign. Blind or low-vision: hear the
+two apologies described, then name which is real and why. Motor difference: direct a
+partner to do the repair while you choose it.
 
 ## Procedure
 

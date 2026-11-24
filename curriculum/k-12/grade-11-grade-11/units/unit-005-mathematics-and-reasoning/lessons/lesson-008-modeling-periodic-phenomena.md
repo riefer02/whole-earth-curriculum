@@ -114,20 +114,19 @@ it comes back, and where it sits on average.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **from real
-repeating data, amplitude = (max − min)/2, midline = (max + min)/2, and the period is
-the time between repeats — then choose A, B, C, D so the wave lands on the data.**
-Teach the three reads explicitly — *amplitude*, *midline*, *period* — then assemble
-the model, with worked examples and guided practice (S-011).
+The idea to land: **from real repeating data, amplitude = (max − min)/2, midline = (max
++ min)/2, and the period is the time between repeats — then choose A, B, C, D so the
+wave lands on the data.** Teach the three reads explicitly — *amplitude*, *midline*,
+*period* — then assemble the model, with worked examples and guided practice (S-011).
 
 The **environment** lens: tides and day length are the planet's own periodic signals,
 felt on every coast and at every latitude. The **intellectual** lens: a handful of
 measurements (high, low, repeat time) encode a whole cycle. The **critical-thinking**
 lens: learners test the fitted model at a data point and ask "does it land where the
-real value is?" The **technology** lens: sound, alternating current, radio, and
-screens all carry information on sine waves — the same four features describe the
-signals inside every device. Distinguish the model (a good fit) from the reality (the
-world is messier than the curve). Preview: Lesson 9 turns to logarithms.
+real value is?" The **technology** lens: sound, alternating current, radio, and screens
+all carry information on sine waves — the same four features describe the signals inside
+every device. Distinguish the model (a good fit) from the reality (the world is messier
+than the curve). Preview: Lesson 9 turns to logarithms.
 
 ## Procedure
 

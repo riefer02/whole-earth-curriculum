@@ -107,13 +107,12 @@ clues, and guess — then keep reading to check.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Using context clues is a taught skill, so model it with a worked
-example: read a clue-rich sentence, circle the unfamiliar word, underline the clue
-words, and think aloud about the guess (Kirschner, Sweller & Clark, 2006). Teach the
-four clue kinds explicitly — definition ("a zephyr, or a soft wind"), synonym ("a zephyr,
-a gentle breeze"), example ("zephyrs, such as the morning breeze"), and contrast ("not a
-gale, but a gentle zephyr"). The point is a reasonable, checked guess, not a perfect
+Using context clues is a taught skill, so model it with a worked example: read a
+clue-rich sentence, circle the unfamiliar word, underline the clue words, and think
+aloud about the guess (Kirschner, Sweller & Clark, 2006). Teach the four clue kinds
+explicitly — definition ("a zephyr, or a soft wind"), synonym ("a zephyr, a gentle
+breeze"), example ("zephyrs, such as the morning breeze"), and contrast ("not a gale,
+but a gentle zephyr"). The point is a reasonable, checked guess, not a perfect
 dictionary answer — meaning-making over memorization. This works in any language and
 writing system: the clues are in the surrounding ideas, whatever the script. Where a
 dictionary or digital tool is used, treat it as a *check* after guessing, not a

@@ -118,23 +118,23 @@ decides.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **theories of justice
-are applied, not just admired — freedom, equality, and care each ask a different
-question of the same issue, and each reveals something the others hide (Rawls S-459;
-Sen S-460; SEP Distributive Justice S-388).** The methodological point: **application
-is a skill — run the lens, cite the fact, state the verdict, concede the
-counterargument — and it is modeled before it is assigned (worked examples, S-011).**
-Keep the issues factual and non-sensational; the goal is reasoning, not outrage.
+The idea to land: **theories of justice are applied, not just admired — freedom,
+equality, and care each ask a different question of the same issue, and each reveals
+something the others hide (Rawls S-459; Sen S-460; SEP Distributive Justice S-388).**
+The methodological point: **application is a skill — run the lens, cite the fact, state
+the verdict, concede the counterargument — and it is modeled before it is assigned
+(worked examples, S-011).** Keep the issues factual and non-sensational; the goal is
+reasoning, not outrage.
 
-The **ethics** lens: each verdict is a moral judgment, opened and defended, not
-imposed. The **egalitarianism** lens: the equality lens is applied *to* the others —
-ask of every lens who it leaves out. The **global** lens: the issues (education, water,
-digital access, health) are global in reach; learners may choose any, and none is the
-default. The **technology** lens: digital access is one issue on the table — who gets
-a connection shapes who can learn, work, and be heard (S-281). The
-**critical-thinking** lens: distinguishing the *facts* (evidence) from the *verdict*
-(value), and conceding a counterargument honestly. Preview: Lesson 10 scales from
-individual issues to problems only the whole world can solve.
+The **ethics** lens: each verdict is a moral judgment, opened and defended, not imposed.
+The **egalitarianism** lens: the equality lens is applied *to* the others — ask of every
+lens who it leaves out. The **global** lens: the issues (education, water, digital
+access, health) are global in reach; learners may choose any, and none is the default.
+The **technology** lens: digital access is one issue on the table — who gets a
+connection shapes who can learn, work, and be heard (S-281). The **critical-thinking**
+lens: distinguishing the *facts* (evidence) from the *verdict* (value), and conceding a
+counterargument honestly. Preview: Lesson 10 scales from individual issues to problems
+only the whole world can solve.
 
 ## Procedure
 

@@ -116,16 +116,16 @@ label the parts, the ad stops doing its work on you without your permission.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is a **worked example + guided practice**
-structure: model the four-part read on the diagram, then have learners apply it. The four
-labels: **claim** (the promise), **feeling appeal** (the emotion the ad stirs — fun,
-belonging, warmth, energy), **fine print** (the tiny text that limits the claim), and
-**missing evidence** (no tests, no amounts, no independent check shown). The facts: food
-marketing uses these tactics worldwide, and marketing to children of foods high in fat,
-salt, and sugar is widespread enough that the WHO recommends limits (WHO marketing
-recommendations). The values held *as values*: every way of eating is honored, no food is
-"good" or "bad," and we evaluate the *message*, never a person. Avoid calorie/diet talk
-entirely. See `docs/facilitation.md`.
+It is a **worked example + guided practice** structure: model the four-part read on the
+diagram, then have learners apply it. The four labels: **claim** (the promise),
+**feeling appeal** (the emotion the ad stirs — fun, belonging, warmth, energy), **fine
+print** (the tiny text that limits the claim), and **missing evidence** (no tests, no
+amounts, no independent check shown). The facts: food marketing uses these tactics
+worldwide, and marketing to children of foods high in fat, salt, and sugar is widespread
+enough that the WHO recommends limits (WHO marketing recommendations). The values held
+*as values*: every way of eating is honored, no food is "good" or "bad," and we evaluate
+the *message*, never a person. Avoid calorie/diet talk entirely. See
+`docs/facilitation.md`.
 
 ## Procedure
 

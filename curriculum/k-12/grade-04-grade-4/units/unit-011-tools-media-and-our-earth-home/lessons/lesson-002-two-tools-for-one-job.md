@@ -115,20 +115,36 @@ situation?* That is the habit of a careful thinker.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Grade 3 compared an *old* tool and a *new* tool
-for the same job; Grade 4 compares any **two tools** and must say **which works better and why
-for a given person or situation**. The key idea is that "better" is *situational and personal*,
-not absolute — this is both a thinking skill and a small lesson in fairness (a tool that suits
-one body or one life may not suit another). Model the compare-and-defend sentence once ("The
-lidded bottle works better for a person carrying water a long way, because it does not spill;
-the wide pot works better for someone scooping and pouring at home"), then guide one pair
-together before independent work (Kirschner, Sweller & Clark, 2006). Keep it **global and
-egalitarian**: use pairs from many lives — a pot and a jerrycan, a broom and a brush, a basket
-and a sack — so no single culture's tools are the default, and ask "who is this tool easier
-for?" to honor different bodies and abilities. Honor every body: describe each tool in words
-for a learner who is blind or has low vision; a non-speaking learner points to the better tool
-and to the person or situation; acting out the job with each tool works for learners who learn
-best by moving.
+**Tone.** Practical and fair — "better" depends on the person and the job.
+
+**The facts to land.**
+1. Grade 3 compared an *old* tool and a *new* tool; Grade 4 compares **any two tools**
+   and says **which works better, and why, for a given person or situation**.
+2. "Better" is *situational and personal*, not absolute — a tool that suits one body or
+   one life may not suit another.
+3. The compare-and-defend sentence: "The lidded bottle works better for a person
+   carrying water a long way, because it does not spill; the wide pot works better for
+   someone scooping and pouring at home."
+
+**Don't overshoot.** Do not crown one tool the winner in general; the reason is the
+answer, not the object.
+
+**The lenses, briefly.**
+- *Technology:* a tool answers a job.
+- *Critical-thinking:* compare, then defend the choice.
+- *Global:* a pot and a jerrycan, a broom and a brush, a basket and a sack; no
+  culture's tools are the default.
+- *Egalitarianism:* ask "who is this tool easier for?" to honor different bodies and
+  abilities.
+
+**The skill.** Name the better tool for this person, and give the "because."
+
+Model the sentence once, then guide one pair together before independent work
+(Kirschner, Sweller & Clark, 2006).
+
+**Access:** describe each tool for a learner who is blind or has low vision; a learner
+who does not speak points to the tool and the person; acting out the job works for
+movers.
 
 ## Procedure
 

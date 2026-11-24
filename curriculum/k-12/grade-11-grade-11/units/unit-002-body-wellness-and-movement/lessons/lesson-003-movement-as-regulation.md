@@ -114,34 +114,29 @@ show — all use the same lever: a body in motion talks back to the brain.
 
 ## Facilitator note
 
-This lesson combines a **practice** (movement) with **evidence** (mechanisms), so hold
-both. Model the movement first, then guide it, then let learners adapt it
-(Kirschner, Sweller & Clark, 2006; S-011). **The evidence is hedged, not a sales
-pitch:** research shows physical activity improves mood and reduces symptoms of
-depression and anxiety, and describes several mechanisms — endorphins (natural
-opioid-like chemicals), monoamines (serotonin, dopamine, noradrenaline), and BDNF
-(brain-derived neurotrophic factor) — but no single chemical is the whole story
-(Mikkelsen et al., 2017; S-408). WHO guidance adds that regular activity supports
-significant physical and mental health benefits (S-341).
+This lesson pairs **practice** with **evidence**. Model the movement, guide it, then let
+learners adapt it (Kirschner, Sweller & Clark, 2006; S-011). **Hedge the evidence; don't
+sell it:** activity improves mood and eases depression and anxiety through several
+mechanisms — endorphins, monoamines, and BDNF — but no single chemical is the whole
+story (Mikkelsen et al., 2017; S-408). WHO adds that regular activity supports physical
+and mental health (S-341).
 
 **Anti-ableism and dignity.** Movement is *never* a test of a body. Every movement can
-be done seated, wheeling, lying, or at low intensity. No one is required to reach a
-target heart rate or intensity. The point is the *shift in state*, not performance.
-For learners who cannot move, or can move very little, offer a **non-motor
-alternative**: *motor imagery* — vividly imagining a movement you enjoy, which
-activates some of the same brain pathways as doing it — or simply noticing the *urge*
-to move and the small real shifts of breath and posture without changing them. The
-evidence and the before/after noticing are open to every body, moving or still. Never
-frame movement as a way to shrink or fix a body — bodies are not problems to solve.
+be done seated, wheeling, lying, or gently; no one is required to reach a target heart
+rate. The point is *shift in state*, not performance. For learners who cannot move, or
+barely, offer a **non-motor alternative**: *motor imagery* — vividly imagining a
+movement you enjoy, which activates some of the same pathways — or noticing the *urge*
+to move and the shifts of breath and posture without moving. The evidence is open to
+every body. Never frame movement as a way to fix a body — bodies are not problems to
+solve.
 
-The **ethics** lens: moving to feel well is a kind act toward yourself. The
+The **ethics** lens: moving to feel well is kindness toward yourself. The
 **egalitarian** lens: movement is for every body, adapted freely, never ranked. The
 **global** lens: people move in countless culturally shaped ways — work, dance, sport,
-play — and all of them can shift state. The **technology** lens: trackers and apps
-count movement, but the benefit does not require a device; it is worth asking whether
-a tracker helps or distorts your relationship with your body. The
-**critical-thinking** lens: read the evidence carefully — "movement helps" is not the
-same as "more is always better."
+play — and all can shift state. The **technology** lens: trackers measure movement, but
+the benefit needs no device; ask whether they help or distort your relationship with
+your body. The **critical-thinking** lens: read the evidence — "movement helps" is not
+"more is always better."
 
 ## Procedure
 
@@ -195,3 +190,4 @@ Movement is a tool, not a chore.
   <https://doi.org/10.1016/j.maturitas.2017.09.003> (S-408).
 - WHO — Physical activity fact sheet: <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
   (S-341).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

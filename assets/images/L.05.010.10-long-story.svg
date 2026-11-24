@@ -25,35 +25,39 @@
   <!-- satellites -->
   <g font-family="sans-serif" font-size="12" fill="#2b3a42" text-anchor="middle">
     <rect x="18" y="66" width="120" height="30" rx="15" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="78" y="86">time and timelines</text>
+    <text x="78" y="86" font-size="12" text-anchor="middle">time and timelines</text>
 
     <rect x="168" y="40" width="176" height="30" rx="15" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="256" y="60">tools that changed life</text>
+    <text x="256" y="60" font-size="12" text-anchor="middle">tools that changed life</text>
 
     <rect x="374" y="66" width="120" height="30" rx="15" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="434" y="86">origin stories</text>
+    <text x="434" y="86" font-size="12" text-anchor="middle">origin stories</text>
 
     <rect x="6" y="172" width="120" height="30" rx="15" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="66" y="192">great achievements</text>
+    <text x="66" y="192" font-size="12" text-anchor="middle">great achievements</text>
 
     <rect x="386" y="172" width="120" height="30" rx="15" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="446" y="192">migration</text>
+    <text x="446" y="192" font-size="12" text-anchor="middle">migration</text>
 
     <rect x="18" y="252" width="120" height="30" rx="15" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="78" y="272">trade and exchange</text>
+    <text x="78" y="272" font-size="12" text-anchor="middle">trade and exchange</text>
 
     <rect x="374" y="252" width="120" height="30" rx="15" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="434" y="272">fairness and dignity</text>
+    <text x="434" y="272" font-size="12" text-anchor="middle">fairness and dignity</text>
   </g>
 
-  <!-- figure with open hand -->
-  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="256" cy="340" r="13" fill="#e6bb92"/>
-    <path d="M256 353 L256 386"/>
-    <path d="M256 368 L238 358"/>
-    <path d="M256 368 L274 358"/>
-    <path d="M238 366 L226 350"/>
-    <path d="M274 366 L286 350"/>
+  <!-- figure with open hand: one soft silhouette, limbs with weight -->
+  <g fill="#e6bb92" stroke="none">
+    <circle cx="256" cy="338" r="13"/>
+    <rect x="252" y="348" width="8" height="10" rx="4"/>
+    <path d="M256 358 v16" stroke="#c99567" stroke-width="15" stroke-linecap="round"/>
+    <path d="M256 364 l-16 -12" stroke="#c99567" stroke-width="7" stroke-linecap="round"/>
+    <path d="M256 364 l17 -13" stroke="#c99567" stroke-width="7" stroke-linecap="round"/>
+    <path d="M251 372 l-3 20" stroke="#c99567" stroke-width="9" stroke-linecap="round"/>
+    <path d="M261 372 l3 20" stroke="#c99567" stroke-width="9" stroke-linecap="round"/>
   </g>
+  <circle cx="256" cy="338" r="13" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M250 334 h1.5 M260 334 h1.5" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M251 343 q5 4 10 0" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
   <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">…and our part in it.</text>
 </svg>

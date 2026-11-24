@@ -105,19 +105,17 @@ of just collecting words.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Finding the main idea is a taught skill: model the question
-"what is this mostly about?" with a worked example, then guide learners to try it on
-their own (Kirschner, Sweller & Clark, 2006). Keep the difference clear: the main
-idea is the big idea; the details are the smaller facts and examples that support it.
-This works in any language and any writing system — the idea, not the script, is what
-matters. Accept the main idea stated in the learner's own words and in their own
-language; there is no single "correct" wording. A learner who is Deaf or hard of
-hearing states the main idea in sign or writing. A learner who is blind or has low
-vision finds the main idea by listening to the text read aloud, or by reading it in
-braille or large print, and states it aloud or in writing. Treat this as
-sense-making, not as a test with one right answer; honor a well-supported idea even
-when worded differently.
+Finding the main idea is a taught skill: model the question "what is this mostly about?"
+with a worked example, then guide learners to try it on their own (Kirschner, Sweller &
+Clark, 2006). Keep the difference clear: the main idea is the big idea; the details are
+the smaller facts and examples that support it. This works in any language and any
+writing system — the idea, not the script, is what matters. Accept the main idea stated
+in the learner's own words and in their own language; there is no single "correct"
+wording. A learner who is Deaf or hard of hearing states the main idea in sign or
+writing. A learner who is blind or has low vision finds the main idea by listening to
+the text read aloud, or by reading it in braille or large print, and states it aloud or
+in writing. Treat this as sense-making, not as a test with one right answer; honor a
+well-supported idea even when worded differently.
 
 ## Procedure
 

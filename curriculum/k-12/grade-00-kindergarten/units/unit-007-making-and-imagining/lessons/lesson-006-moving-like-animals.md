@@ -111,13 +111,11 @@ world, people move like animals to play, to celebrate, and to understand them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, move along with the learners — your modeling is
-  the best instruction. Encourage big, free movement, but keep the space safe. Never
-rank whose animal is "best"; the goal is expression, and every animal movement is
-right. Invite learners who use a chair, move differently, or prefer to stay seated to
-adapt each animal from where they are — an animal is in the hands, arms, and face as
-much as the legs.
+As facilitator, move along with the learners — your modeling is the best instruction.
+Encourage big, free movement, but keep the space safe. Never rank whose animal is
+"best"; the goal is expression, and every animal movement is right. Invite learners who
+use a chair, move differently, or prefer to stay seated to adapt each animal from where
+they are — an animal is in the hands, arms, and face as much as the legs.
 
 ## Procedure
 

@@ -122,28 +122,35 @@ will I do about the harm I cannot avoid?"
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a real moral dilemma has no
-clean answer, and the mature response is to reason it through — name the dilemma, list the
-options, trace who is affected and how, and ask about consequences, duties, and character — then
-say honestly what stays unsettled. The frame is a tool, not a verdict machine; the conclusion is
-the learner's own, never the lesson's.** Teach the frame explicitly with a worked example (S-011),
-then let learners apply it — the reasoning, not the answer, is the learning. Do not supply a
-"correct" resolution to any dilemma; hold the question open (inquiry over creed).
+**Tone.** Steady and open: no clean answer is coming, and that is the lesson.
 
-The **ethics** lens: this is the heart of the strand — reasoning about what is right when the
-right thing is genuinely unclear; three questions recur across traditions: what happens
-(consequences), what is owed (duties), and who am I becoming (character) (S-456, S-457, S-458).
-The **egalitarianism** lens: in every dilemma, ask *who benefits and who is harmed, and whose
-voice is least heard* — a dilemma looks different from the position of the person with least
-power to choose. The **global** lens: the shape of a dilemma (loyalty vs. honesty, obedience vs.
-conscience, promise vs. harm) recurs across cultures and times, but what counts as a live option
-differs with a person's position — the frame is universal, the content is local. The
-**technology** lens: the whistleblower case is a technology-shaped dilemma — leaked documents,
-surveillance, and instant spread change what "speaking out" costs; reasoning must notice the
-tool, not just the choice. The **environment** lens: many of the most painful real dilemmas are
-about land, water, and shared resources, where the harm falls on people and places with the
-least power to refuse it. Preview: Lesson 2 weighs the three frameworks against each other and
-turns the frame into a *defended* position.
+**The facts to land.**
+
+1. A real moral dilemma has no clean answer, and the mature response is to reason it
+   through — name the dilemma, list the options, trace who is affected, ask about
+   consequences, duties, and character, then say honestly what stays unsettled.
+2. The frame is a tool, not a verdict machine: the conclusion is the learner's own,
+   never the lesson's.
+3. Three questions recur across traditions — what happens (consequences), what is owed
+   (duties), who am I becoming (character) (S-456, S-457, S-458).
+
+**Don't overshoot.** Do not supply a "correct" resolution to any dilemma; hold the
+question open (inquiry over creed).
+
+**The lenses, briefly.**
+
+- *Ethics:* reasoning about what is right when the right thing is unclear.
+- *Egalitarianism:* ask who benefits, who is harmed, and whose voice is least heard.
+- *Global:* the shape of a dilemma recurs across cultures, but what counts as a live
+  option differs with a person's position — the frame is universal, the content local.
+- *Technology:* the whistleblower case is technology-shaped — leaked documents,
+  surveillance, and instant spread change what speaking out costs.
+- *Environment:* many of the most painful dilemmas concern land, water, and shared
+  resources, where harm falls on those least able to refuse it.
+- *Critical-thinking:* separate the reasoning from the answer.
+
+**The skill.** Teach the frame with a worked example (S-011), then release: run one
+dilemma through all three questions. Lesson 2 weighs the frameworks against each other.
 
 ## Procedure
 

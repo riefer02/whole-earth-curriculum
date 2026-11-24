@@ -103,14 +103,13 @@ out of answers to wonder about.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. "Why" is the question of cause, and the answer is a reason —
-often the hardest of the five because it asks for inference, not just location.
-Model one because-answer fully, showing where the text hints at the reason, then
-guide and release. Some why-questions have more than one honest answer; honor a
-reason the text supports, and keep genuinely open whys open — "I wonder too" is a
-fine answer. Work in the home language; every language has its own word for "why"
-and for "because." A learner answers by speaking, signing, drawing, or writing.
+"Why" is the question of cause, and the answer is a reason — often the hardest of the
+five because it asks for inference, not just location. Model one because-answer fully,
+showing where the text hints at the reason, then guide and release. Some why-questions
+have more than one honest answer; honor a reason the text supports, and keep genuinely
+open whys open — "I wonder too" is a fine answer. Work in the home language; every
+language has its own word for "why" and for "because." A learner answers by speaking,
+signing, drawing, or writing.
 
 ## Procedure
 

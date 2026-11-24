@@ -113,27 +113,36 @@ then say something that is *yours*, supported by theirs. Today you do that with 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **synthesizing across texts means (1)
-noting each text's idea and evidence, (2) naming what they share, (3) holding the tension where they
-differ — and only then (4) stating a position of your own that cites them.** The four texts on "home":
-**Neruda** (Chile) — an ode locating home in humble, loved things; **Mahmoud Darwish** (Palestine) — a poem
-locating home in exile and the refusal to be erased from it (S-423); **Joy Harjo** (Mvskoke) — "Remember"
-locating home in sky, earth, ancestors, and language (S-422); **Tagore** (Bengal) — a *Gitanjali* lyric
-locating home in the road and the small, everyday meeting (S-421). The shared idea: home is not only a
-building — it is carried in memory, people, and place. The tension: is home something you *have* (Neruda's
-loved things) or something you can be *cut off from* (Darwish's exile)? A mature synthesis holds both: home
-is precious *precisely because* it can be lost. This is a *skill*, so use a **worked example** of a
-two-text synthesis first, then let learners add the other two texts (S-011). The critical-thinking lens: a
-position that ignores the tension is weaker, not stronger — name it. The ethics lens: honor each writer's
-meaning; do not bend a poem to fit your position — if a text resists, say so. The egalitarian lens: a
-Palestinian, a Mvskoke, a Chilean, and a Bengali writer each speak of home; a synthesis that treats any one
-as "exotic" or any one as "universal default" fails them all. The global lens: "home" is one of the oldest
-and most widespread themes in human literature — and its meaning changes with each life. The technology &
-environment lens: a shared document lets a synthesis be written together across distance, and in these four
-poems "home" is often land and place as much as people — so what is lost with exile or displacement is also
-a piece of the living world. Keep the texts
-short and faithful; note that translation is a re-creation (as in Lesson 5). Cite by naming author and
-title, so a reader can find the poem.
+**Tone.** Steady and demanding — a position earns strength by facing the tension.
+
+**The facts to land.**
+
+1. **Synthesizing across texts:** note each text's idea and evidence; name what they
+share; hold the tension; then state a position that cites them.
+2. **Four texts on "home":** Neruda (Chile), home in humble, loved things; **Darwish**
+(Palestine), home in exile and the refusal to be erased from it (S-423); **Harjo**
+(Mvskoke), "Remember", home in sky, earth, ancestors, language (S-422); **Tagore**
+(Bengal), a *Gitanjali* lyric, home in the road and small everyday meetings (S-421).
+3. **Shared idea:** home is carried in memory, people, and place, not only a building.
+**Tension:** is home something you *have* (Neruda) or something you can be *cut off
+from* (Darwish)? Hold both — home is precious *precisely because* it can be lost.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* a position that ignores the tension is weaker, not stronger.
+- *Ethics:* honour each writer's meaning; do not bend a poem to fit your position — if
+a text resists, say so.
+- *Egalitarianism:* one "exotic" and one "universal default" fails all four writers.
+- *Global:* "home" is an old theme in literature, and its meaning changes with each
+life.
+- *Technology:* a shared document lets a synthesis be written together across
+distance.
+- *Environment:* home is often land as much as people, so exile destroys a piece of
+the living world.
+
+**The skill.** **Worked example** of a two-text synthesis first, then learners add the
+other two (S-011). Keep texts short; translation is a re-creation (Lesson 5). Cite
+author and title.
 
 ## Procedure
 

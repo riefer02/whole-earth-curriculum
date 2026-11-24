@@ -124,18 +124,17 @@ food**. Today you learn to see that hidden journey.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **food is
-produced and transported by real people using land, water, and fuel — so what we eat
-affects both people and the environment**. Keep it **concrete and hopeful, never
-frightening or preachy**: the point is awareness and gratitude, not guilt. Honor every
-source of food — a family garden, a small farm, a big farm, a market, a shop — and never
-rank them. Name the **workers** with dignity (farmers, harvesters, drivers, sellers) and
-note that many hands make one meal. For the environment, keep the effects simple and
-true: food needs **soil and water** to grow and **fuel** to travel, and **packaging** can
-become waste. This is the unit's clearest **technology-and-environment** lesson, so make
-the lens explicit, but always attach it to **agency** — "when we know, we can choose
-wisely" — not despair. See `docs/facilitation.md` and the environment lens in
-`docs/philosophy.md`.
+The idea to land is that **food is produced and transported by real people using land,
+water, and fuel — so what we eat affects both people and the environment**. Keep it
+**concrete and hopeful, never frightening or preachy**: the point is awareness and
+gratitude, not guilt. Honor every source of food — a family garden, a small farm, a big
+farm, a market, a shop — and never rank them. Name the **workers** with dignity
+(farmers, harvesters, drivers, sellers) and note that many hands make one meal. For the
+environment, keep the effects simple and true: food needs **soil and water** to grow and
+**fuel** to travel, and **packaging** can become waste. This is the unit's clearest
+**technology-and-environment** lesson, so make the lens explicit, but always attach it
+to **agency** — "when we know, we can choose wisely" — not despair. See
+`docs/facilitation.md` and the environment lens in `docs/philosophy.md`.
 
 ## Procedure
 

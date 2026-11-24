@@ -107,17 +107,17 @@ write it on purpose.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **future generations
-are real others we will never meet, and intergenerational choices — land, water, climate,
-knowledge, debt, care — are how we already shape their lives.** Teach with a worked
-example of one intergenerational decision; hold the "how much do we owe them" question
-open (it is a live ethical debate, not a settled answer).
+The idea to land: **future generations are real others we will never meet, and
+intergenerational choices — land, water, climate, knowledge, debt, care — are how we
+already shape their lives.** Teach with a worked example of one intergenerational
+decision; hold the "how much do we owe them" question open (it is a live ethical debate,
+not a settled answer).
 
-The **ethics** lens: whether and how much we owe people who do not exist yet is a central
-question of intergenerational ethics, and learners reason about it rather than being told.
-The **egalitarian** lens: future people cannot vote, lobby, or speak — they are the
-ultimate voiceless party, so fairness asks us to speak for them; and the *burdens* of
-today's choices (climate, pollution) fall unevenly on the young and the yet-unborn, who
+The **ethics** lens: how much we owe people who do not exist yet is a central question
+of intergenerational ethics, and learners reason about it rather than being told. The
+**egalitarian** lens: future people cannot vote, lobby, or speak — they are the ultimate
+voiceless party, so fairness asks us to speak for them; and the *burdens* of today's
+choices (climate, pollution) fall unevenly on the young and the yet-unborn, who
 contributed least (IPCC, S-005). The **global** lens: many cultures hold the unborn and
 the ancestors in mind when deciding — stewardship and legacy are widespread ideas, not
 one region's. The **environment** lens: the climate and living world are the clearest

@@ -115,17 +115,16 @@ and feel the mood.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Honor the instruments you use as living people's music-making,
-not curios — name the culture and the kind of sound respectfully, and do not treat
-any instrument as exotic or sacred in a way that tokenizes it. There is no wrong
-mood; one learner hears "happy" where another hears "excited," and both are welcome —
-ask "what made you feel that?" to draw out the listening. A learner who is Deaf or
-hard of hearing identifies the instrument by **feel and sight**: feel the vibration of
-a drum through the floor or a table, and watch how the sound-maker is played; mood
-can be felt as fast or slow, strong or gentle vibration. A learner who does not speak
-points to the instrument and to a mood face or gesture. A learner who is blind or
-has low vision is a star at this — listening is their home ground.
+Honor the instruments you use as living people's music-making, not curios — name the
+culture and the kind of sound respectfully, and do not treat any instrument as exotic or
+sacred in a way that tokenizes it. There is no wrong mood; one learner hears "happy"
+where another hears "excited," and both are welcome — ask "what made you feel that?" to
+draw out the listening. A learner who is Deaf or hard of hearing identifies the
+instrument by **feel and sight**: feel the vibration of a drum through the floor or a
+table, and watch how the sound-maker is played; mood can be felt as fast or slow, strong
+or gentle vibration. A learner who does not speak points to the instrument and to a mood
+face or gesture. A learner who is blind or has low vision is a star at this — listening
+is their home ground.
 
 ## Procedure
 

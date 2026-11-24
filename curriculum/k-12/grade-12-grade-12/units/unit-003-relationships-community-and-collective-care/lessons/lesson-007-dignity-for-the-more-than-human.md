@@ -122,32 +122,38 @@ what it gives you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the circle of moral
-concern can extend beyond humans — a tree, a river, an animal can be a subject of care,
-not only a resource — and empathy, enacted, becomes an act of dignity.** The examples are
-documented: the Chipko movement's villagers embraced trees to prevent felling
-(Britannica, S-328); Wangari Maathai's Green Belt Movement planted over thirty million
-trees and spread across Africa (S-059). The ethic of reciprocity with the living world is
-a real, honored tradition — Kimmerer names it in *Braiding Sweetgrass* (S-427). Hold the
-claim "the living world deserves care for its own sake" as a *value* the curriculum
-affirms, distinct from the *fact* that many peoples have practiced it.
+**Tone.** Serious, not sentimental: dignity for a river is an argument, not a mood.
 
-The **ethics** lens: is a river's worth only what it does for us, or does it hold worth
-on its own — and what follows for how we act? The **egalitarianism** lens: dignity has
-been denied to some *humans* by treating them as less than fully persons; extending the
-circle to the more-than-human is a widening of the same principle, not a distraction from
-human justice. The **global** lens: these are not one culture's idea — tree-hugging in
-the Himalayas, tree-planting in Kenya, river-restoration on many continents — different
-places, one recognition. The **environment** lens: this is the environment lens made
-moral — empathy as an ecological force. The **technology** lens: technology cuts both
-ways — machines that clear a forest in a day, and tools (mapping, monitoring, organizing)
-that let distant people defend a river; the question is whose flourishing technology
-serves. Preview: Lesson 8 maps your own place among nested communities, from family to
-this whole living world.
+**The facts to land.**
 
-**Safeguarding:** the action is small, local, and optional to share; no one is graded on
-grandiosity. A learner without easy outdoor access can choose a potted plant, a pet, a
-street tree, or a place they remember.
+1. The circle of moral concern can extend beyond humans: a tree, a river, or an animal
+   can be a subject of care, not only a resource.
+2. Chipko villagers embraced trees to prevent felling (Britannica, S-328); Maathai's
+   Green Belt Movement planted over thirty million trees across Africa (S-059); Kimmerer
+   names reciprocity with the living world in *Braiding Sweetgrass* (S-427).
+3. "The living world deserves care for its own sake" is a *value* the curriculum affirms
+   — distinct from the *fact* that many peoples have practised it.
+
+**Don't overshoot.** Do not flatten the argument into "nature is nice"; worth can exist
+without use.
+
+**The lenses, briefly.**
+
+- *Ethics:* is a river's worth only what it does for us?
+- *Egalitarianism:* dignity has been denied to humans by treating them as less than
+  persons; widening the circle is the same principle.
+- *Global:* tree-hugging in the Himalayas, tree-planting in Kenya, river restoration
+  across continents.
+- *Environment:* the environment lens made moral.
+- *Technology:* machines clear a forest in a day; mapping and monitoring let distant
+  people defend a river.
+
+**Safety floor.** The action is small, local, and optional to share; no one is graded on
+grandiosity, and a learner without outdoor access can choose a potted plant, a pet, a
+street tree, or a remembered place.
+
+**The skill.** Model once, then release (S-011): one act of care for a more-than-human
+neighbour, and what it assumes.
 
 ## Procedure
 

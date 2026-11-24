@@ -117,19 +117,34 @@ does this.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It spirals up from Grade 2's "welcoming
-circle," now into **the *why* of fairness**: a routine is fair when it serves everyone,
-not just the fast or the loud. The egalitarian commitment is firm: **a fair routine
-includes the ones who are easy to miss** — a learner who moves slowly, who uses a
-wheelchair, who is shy, who does not speak the room's main language. Test each routine
-against that question: *does this work for everyone, or only for some?* Be tender: some
-learners have seen routines used unfairly against them (a rule that favors some over
-others). Honor that honestly and turn it into agency — "what would make it fair for
-everyone?" A rule is not sacred; a community can change a rule that is not fair. For a
-learner who is blind or has low vision, act the scenes out so the difference is felt —
-crowding bodies versus a patient line — and describe it aloud. For a learner who does
-not use a speaking voice, accept pointing, signing, drawing, or acting out a turn. The
-line between "order" and "fairness" is the lesson's heart.
+**Tone.** Firm on fairness, tender with people.
+
+**The facts to land.**
+1. A routine is fair when it serves everyone, not just the fast or the loud.
+2. A fair routine includes the ones easy to miss — a learner who moves slowly, uses a
+   wheelchair, is shy, or does not speak the room's language.
+3. A rule is not sacred; a community can change a rule that is not fair.
+
+**Don't overshoot.** Do not let the lesson become a trial of a child. Some learners have
+seen routines used unfairly against them; honor that honestly and turn it into agency —
+"what would make it fair for everyone?"
+
+**The lenses, briefly.**
+- *Social-emotional:* the unfairness is in the arrangement.
+- *Ethics:* fairness is the *why* behind the rule.
+- *Egalitarianism:* the ones easy to miss are the test.
+- *Community:* the group can change its own rules.
+- *Global:* routines from many kinds of groups.
+- *Critical-thinking:* does this work for everyone, or only some?
+
+**The skill.** Test a routine: "does this work for everyone, or only for some?"
+
+Spirals up from Grade 2's welcoming circle; the line between order and fairness is the
+heart.
+
+**Access:** for a learner who is blind or has low vision, act the scenes out so the
+difference is felt — crowding bodies versus a patient line — and describe it aloud; a
+learner who does not use a speaking voice points, signs, draws, or acts a turn.
 
 ## Procedure
 

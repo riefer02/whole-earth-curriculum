@@ -114,14 +114,14 @@ feelings move like weather — they arrive, they shift, and they pass.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The heart of it is a simple, true idea:
-feelings are temporary. Teach the worked example (nervous → excited → proud) aloud and
-with your body first, then let each learner trace their own change. Some learners will
-choose a change that is not "neat" (mad → madder → calmer, or a feeling that stayed a
-long time); honor every shape a feeling takes. Never tell a learner a feeling "should"
-have changed by now — the point is *noticing*, not rushing. If a learner names a very
-heavy change (grief, fear), stay calm, name the feeling with them, and move gently to
-the next step; see `docs/facilitation.md` on holding difficult topics.
+The heart of it is a simple, true idea: feelings are temporary. Teach the worked example
+(nervous → excited → proud) aloud and with your body first, then let each learner trace
+their own change. Some learners will choose a change that is not "neat" (mad → madder →
+calmer, or a feeling that stayed a long time); honor every shape a feeling takes. Never
+tell a learner a feeling "should" have changed by now — the point is *noticing*, not
+rushing. If a learner names a very heavy change (grief, fear), stay calm, name the
+feeling with them, and move gently to the next step; see `docs/facilitation.md` on
+holding difficult topics.
 
 ## Procedure
 

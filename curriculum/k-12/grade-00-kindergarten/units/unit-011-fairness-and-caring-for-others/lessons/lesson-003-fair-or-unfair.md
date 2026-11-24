@@ -103,12 +103,12 @@ to see fair and unfair is the first step to making things fairer.
 
 ## Facilitator note
 
-Written to the learner ("you"). Fairness here is *not* a rule to obey but a question
-to explore together — hold each scene open ("what do you think? why?") rather than
-declaring a single right answer. Some scenes are genuinely tricky, and that is good:
-invite learners to notice when they are unsure. Fairness is universal, but how people
-share differs across cultures — affirm different ways of being fair. Avoid shaming;
-name the *act* ("that leaves someone out"), never the child.
+Fairness here is *not* a rule to obey but a question to explore together — hold each
+scene open ("what do you think? why?") rather than declaring a single right answer. Some
+scenes are genuinely tricky, and that is good: invite learners to notice when they are
+unsure. Fairness is universal, but how people share differs across cultures — affirm
+different ways of being fair. Avoid shaming; name the *act* ("that leaves someone out"),
+never the child.
 
 ## Procedure
 

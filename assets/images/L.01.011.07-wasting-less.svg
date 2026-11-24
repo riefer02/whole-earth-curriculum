@@ -45,5 +45,5 @@
   <path d="M360 366 L398 366 L398 376 L360 376 Z" fill="#fdfbf7" opacity="0.6"/>
   <text x="379" y="428" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">use just enough</text>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14.3" fill="#4f6d7a">In places where water is scarce, every drop saved truly matters.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">In places where water is scarce, every drop saved truly matters.</text>
 </svg>

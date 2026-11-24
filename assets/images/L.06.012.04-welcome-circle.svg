@@ -3,7 +3,7 @@
   <desc id="d">A welcoming circle contains four figures of varied skin tones. One holds a small drum, one holds a bowl of shared food, one has a speech bubble reading "hello / hola," and one is a wheelchair user with a hearing aid. Just outside the circle, a fifth figure stands with an open arm and a dashed arrow pointing through a gap into the circle, labeled "you are welcome." A banner reads "culture, language, ability — all belong, and it is ordinary." Shapes and labels, not color alone, carry the meaning.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="15.6" font-weight="bold" fill="#2b3a42">Identity Shapes Belonging — and We Can Open the Circle</text>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Identity Shapes Belonging — and We Can Open the Circle</text>
 
   <!-- the circle (with a gap on the left, where the welcome arrow enters) -->
   <path d="M 137.5 219.4 A 165 165 0 1 1 173.6 354.1" fill="none" stroke="#2b3a42" stroke-width="3.5"/>

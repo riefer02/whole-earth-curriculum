@@ -106,15 +106,14 @@ Everywhere in the world, people teach each other by explaining one idea at a tim
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Explaining is a skill, so teach it explicitly: model one clear
-explanation with a single point, an order (first, next, last), and an example, then
-guide learners to try it (Kirschner, Sweller & Clark, 2006). Keep ideas friendly and
-small — no learner is put on display, and passing is always allowed. Explanations may
-be spoken, signed, written, drawn, or shown with objects; all count fully. Encourage
-the group to listen and then show understanding — by retelling, asking a question, or
-nodding — rather than judging. This is a cooperative moment, not a contest: the goal
-is that the group *understands*, and the group's understanding is the speaker's win.
+Explaining is a skill, so teach it explicitly: model one clear explanation with a single
+point, an order (first, next, last), and an example, then guide learners to try it
+(Kirschner, Sweller & Clark, 2006). Keep ideas friendly and small — no learner is put on
+display, and passing is always allowed. Explanations may be spoken, signed, written,
+drawn, or shown with objects; all count fully. Encourage the group to listen and then
+show understanding — by retelling, asking a question, or nodding — rather than judging.
+This is a cooperative moment, not a contest: the goal is that the group *understands*,
+and the group's understanding is the speaker's win.
 
 ## Procedure
 

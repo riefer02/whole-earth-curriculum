@@ -105,16 +105,14 @@ speaking it to you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Fluency means accuracy plus a smooth, expressive pace — the
-goal is meaning, not speed, and there is no competition and no "correct" accent.
-Reading should sound like the learner's own natural way of speaking, in their own
-language. Re-reading is the engine of fluency; learners who re-read a familiar text
-grow smoother each pass, so keep the text easy enough to be enjoyed, not struggled
-with. A learner who is Deaf or hard of hearing builds fluency in sign — a smooth,
-expressive signing of the text is fluent reading, and re-reading in sign builds it
-the same way. Celebrate each learner's growth against their own yesterday, never
-against a peer.
+Fluency means accuracy plus a smooth, expressive pace — the goal is meaning, not speed,
+and there is no competition and no "correct" accent. Reading should sound like the
+learner's own natural way of speaking, in their own language. Re-reading is the engine
+of fluency; learners who re-read a familiar text grow smoother each pass, so keep the
+text easy enough to be enjoyed, not struggled with. A learner who is Deaf or hard of
+hearing builds fluency in sign — a smooth, expressive signing of the text is fluent
+reading, and re-reading in sign builds it the same way. Celebrate each learner's growth
+against their own yesterday, never against a peer.
 
 ## Procedure
 

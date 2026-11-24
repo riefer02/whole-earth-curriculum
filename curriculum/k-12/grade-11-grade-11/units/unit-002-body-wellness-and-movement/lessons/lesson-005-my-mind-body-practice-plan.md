@@ -176,3 +176,5 @@ change. Missing a day is information, not failure — the plan is yours to adjus
 - Mikkelsen et al. (2017) — exercise and mental health (S-408).
 - Dunlosky et al. (2013) — retrieval practice and spacing strengthen learning:
   <https://doi.org/10.1177/1529100612453266> (S-039).
+- CASEL — Fundamentals of Social and Emotional Learning (S-001).
+- Neff — Self-Compassion: An Alternative Conceptualization of a Healthy Attitude Toward Oneself (S-222).

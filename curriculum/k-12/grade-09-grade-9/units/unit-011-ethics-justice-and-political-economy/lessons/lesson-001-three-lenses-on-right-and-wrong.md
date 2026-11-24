@@ -112,19 +112,32 @@ people all over the world, in every culture and time, have used to think such qu
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **opening and retrieval pass**, so
-the goals are modest: **(1) recall three Grade-8 ideas — a moral dilemma can be weighed by
-consequences, duties, and fairness; facts, beliefs, and values are different kinds of claims; and
-justice has more than one meaning; (2) preview the unit's four strands — moral reasoning & values;
-fairness, justice & rights; civic participation & collective action; peace, conflict & restorative
-practice; (3) plant the organizing idea: a moral question is read through more than one *lens*
-(consequences, duties, virtues), and each lens shows something the others miss.** Do not teach the
-three lenses in depth today; just name and locate them. The ethics lens: right and wrong are
-questions we reason about, not slogans we accept. The egalitarian lens: always ask who benefits
-and who is left out. The global lens: every culture has ways of thinking about a good life and a
-fair society — none is the default. Hold questions open: nothing here is creed (philosophy §11).
-Distinguish evidence from values throughout (philosophy §5). Spacing note (S-039): this recall
-pass is what makes the unit's ideas stick later.
+**Tone.** Curious, not sermonising — questions to open, not answers to install.
+
+**The facts to land.**
+
+1. **Recall three Grade-8 ideas:** a moral dilemma can be weighed by consequences,
+duties, and fairness; facts, beliefs, and values are different kinds of claims; justice
+has more than one meaning.
+2. **Preview the four strands** — moral reasoning & values; fairness, justice & rights;
+civic participation & collective action; peace, conflict & restorative practice.
+3. **Plant the organizing idea:** a moral question is read through more than one *lens*
+— consequences, duties, virtues — and each shows something the others miss. Name them;
+do not teach them in depth today.
+
+**The lenses, briefly.**
+
+- *Ethics:* right and wrong are questions we reason about, not slogans we accept.
+- *Egalitarianism:* always ask who benefits and who is left out.
+- *Global:* every culture has ways of thinking about a good life and a fair society —
+none is the default.
+- *Critical-thinking:* facts, beliefs, and values stay distinct (philosophy §5).
+
+**The skill.** Locate, not master: name the three lenses and say where the unit is
+going.
+
+**Spacing.** This recall pass is what makes the unit's ideas stick later (S-039). Hold
+questions open; nothing here is creed (philosophy §11).
 
 ## Procedure
 

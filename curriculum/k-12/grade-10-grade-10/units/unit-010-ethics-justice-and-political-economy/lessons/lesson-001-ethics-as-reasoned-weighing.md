@@ -114,18 +114,19 @@ this whole unit is built on.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **opening and retrieval pass**, so
-the goals are modest: **(1) recall four Grade-9 ideas; (2) preview the unit's four strands — moral
-reasoning & values; fairness, justice & rights; civic participation & collective action; peace,
-conflict & restorative practice; (3) plant the organizing skill: ethical reasoning as *weighing
-benefits and harms for people and the planet*, read through the four cross-cutting lenses.** Do not
-teach the weighing skill in depth today; just name and locate it. The **ethics** lens: right and
-wrong are questions we reason about, not slogans we accept. The **egalitarian** lens: always ask who
-benefits and who is left out. The **global** lens: every culture has ways of thinking about a good
-life and a fair society — none is the default. The **technology & environment** lens: every tool and
-every use of land has effects on people and on the Earth. Hold questions open: nothing here is creed
-(philosophy §11). Distinguish evidence from values throughout (philosophy §5). Spacing note (S-039):
-this recall pass is what makes the unit's ideas stick later.
+It is the unit's **opening and retrieval pass**, so the goals are modest: **(1) recall
+four Grade-9 ideas; (2) preview the unit's four strands — moral reasoning & values;
+fairness, justice & rights; civic participation & collective action; peace, conflict &
+restorative practice; (3) plant the organizing skill: ethical reasoning as *weighing
+benefits and harms for people and the planet*, read through the four cross-cutting
+lenses.** Do not teach the weighing skill in depth today; just name and locate it. The
+**ethics** lens: right and wrong are questions we reason about, not slogans we accept.
+The **egalitarian** lens: always ask who benefits and who is left out. The **global**
+lens: every culture has ways of thinking about a good life and a fair society — none is
+the default. The **technology & environment** lens: every tool and every use of land has
+effects on people and on the Earth. Hold questions open: nothing here is creed
+(philosophy §11). Distinguish evidence from values throughout (philosophy §5). Spacing
+note (S-039): this recall pass is what makes the unit's ideas stick later.
 
 ## Procedure
 

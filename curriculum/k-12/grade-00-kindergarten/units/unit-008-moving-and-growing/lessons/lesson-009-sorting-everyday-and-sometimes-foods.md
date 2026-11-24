@@ -111,14 +111,13 @@ food is "bad" — we just enjoy different foods in different amounts.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, hold the line on
-**no food shaming** — the categories are about *how often* a food is eaten, never about
-whether a food (or a body) is "good" or "bad." Frame "sometimes" as *special and
-enjoyable*, not forbidden. **Honor every family:** a food you might call "sometimes"
-could be a daily staple for a learner's family, and vice versa — let learners place
-cards by their own family's real life, and celebrate the differences. This extends
-U.00.002's "Everyday Foods and Sometimes Foods" by centering the sorting as a shared,
-discussion-rich activity.
+As facilitator, hold the line on **no food shaming** — the categories are about *how
+often* a food is eaten, never about whether a food (or a body) is "good" or "bad." Frame
+"sometimes" as *special and enjoyable*, not forbidden. **Honor every family:** a food
+you might call "sometimes" could be a daily staple for a learner's family, and vice
+versa — let learners place cards by their own family's real life, and celebrate the
+differences. This extends U.00.002's "Everyday Foods and Sometimes Foods" by centering
+the sorting as a shared, discussion-rich activity.
 
 ## Procedure
 

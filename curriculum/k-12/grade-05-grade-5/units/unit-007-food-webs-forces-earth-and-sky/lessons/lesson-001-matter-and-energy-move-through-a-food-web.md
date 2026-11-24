@@ -119,15 +119,15 @@ flow.
 
 ## Facilitator note
 
-Written to the learner ("you"). The one rule to land is **the arrow points from the
-eaten to the eater** (the direction energy flows), not the reverse. This is the
-single most common mix-up in food webs, so model it, then have learners check every
-arrow aloud: "does energy flow *from* this one *to* that one?" Note the word "energy"
-is used in its everyday sense here (the usable fuel living things get from food);
-Grade 4 met energy moving from place to place, and Grade 6 will formalize it. The
-Sun's role is evidence-based science; the idea that all living things share one flow
-is also a gentle environmental value we hold — name that distinction if it comes up.
-See [`docs/facilitation.md`](../../../../../../docs/facilitation.md).
+The one rule to land is **the arrow points from the eaten to the eater** (the direction
+energy flows), not the reverse. This is the single most common mix-up in food webs, so
+model it, then have learners check every arrow aloud: "does energy flow *from* this one
+*to* that one?" Note the word "energy" is used in its everyday sense here (the usable
+fuel living things get from food); Grade 4 met energy moving from place to place, and
+Grade 6 will formalize it. The Sun's role is evidence-based science; the idea that all
+living things share one flow is also a gentle environmental value we hold — name that
+distinction if it comes up. See
+[`docs/facilitation.md`](../../../../../../docs/facilitation.md).
 
 ## Procedure
 

@@ -110,13 +110,12 @@ helps you take care of the one body that is yours.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the cards and a safe water station, then guide the
-sorting and the water break. Be especially gentle here: never assume a learner has
-food or water available, and never single anyone out. If a learner says they are
-hungry or thirsty and nothing is available, respond warmly and help them name a
-trusted adult to tell. Eating and drinking customs vary across families and cultures,
-and every body's needs are different — there is no "right" amount or time to eat.
+Prepare the cards and a safe water station, then guide the sorting and the water break.
+Be especially gentle here: never assume a learner has food or water available, and never
+single anyone out. If a learner says they are hungry or thirsty and nothing is
+available, respond warmly and help them name a trusted adult to tell. Eating and
+drinking customs vary across families and cultures, and every body's needs are
+different — there is no "right" amount or time to eat.
 
 ## Procedure
 

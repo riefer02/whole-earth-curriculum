@@ -13,28 +13,35 @@
   <text x="120" y="174" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#222222">test tomorrow.</text>
   <text x="120" y="205" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">(a thought in the mind)</text>
 
-  <!-- Right: body outline -->
-  <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="356" cy="150" r="26" fill="#f5d6b6"/>
-    <path d="M356 176 L356 260"/>
-    <path d="M356 196 L324 224"/>
-    <path d="M356 196 L388 224"/>
-    <path d="M356 260 L330 320"/>
-    <path d="M356 260 L382 320"/>
+  <!-- Right: body, drawn as one soft silhouette with limbs that carry weight -->
+  <g fill="#e6bb92" stroke="none">
+    <circle cx="342" cy="148" r="24"/>
+    <rect x="335" y="168" width="14" height="14" rx="6"/>
+    <rect x="316" y="178" width="52" height="94" rx="24"/>
+    <path d="M320 190 l-24 50" stroke="#e6bb92" stroke-width="15" stroke-linecap="round"/>
+    <path d="M364 190 l24 50" stroke="#e6bb92" stroke-width="15" stroke-linecap="round"/>
+    <path d="M330 268 l-4 50" stroke="#e6bb92" stroke-width="17" stroke-linecap="round"/>
+    <path d="M354 268 l4 50" stroke="#e6bb92" stroke-width="17" stroke-linecap="round"/>
   </g>
+  <ellipse cx="324" cy="322" rx="11" ry="5" fill="#e6bb92"/>
+  <ellipse cx="360" cy="322" rx="11" ry="5" fill="#e6bb92"/>
+  <circle cx="342" cy="148" r="24" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
 
   <!-- Worried face -->
-  <circle cx="346" cy="146" r="3" fill="#2b3a42"/>
-  <circle cx="366" cy="146" r="3" fill="#2b3a42"/>
-  <path d="M342 138 Q346 135 350 138" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <path d="M362 138 Q366 135 370 138" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <path d="M344 160 Q356 168 368 160" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="334" cy="145" r="2.4" fill="#2b3a42"/>
+  <circle cx="350" cy="145" r="2.4" fill="#2b3a42"/>
+  <path d="M329 138 Q333 135 337 138" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M347 138 Q351 135 355 138" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M333 158 Q342 166 351 158" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
 
-  <!-- Tight stomach -->
-  <ellipse cx="356" cy="234" rx="30" ry="22" fill="#e0a458" opacity="0.55" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M340 228 Q356 222 372 230 Q360 242 344 236" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <text x="356" y="340" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#222222">tight stomach</text>
-  <text x="356" y="362" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">(a feeling in the body)</text>
+  <!-- Tight stomach, with a leader line out to its label -->
+  <line x1="366" y1="252" x2="400" y2="290" stroke="#4f6d7a" stroke-width="1.6"/>
+  <ellipse cx="342" cy="238" rx="30" ry="22" fill="#e0a458" opacity="0.55" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M326 232 Q342 226 358 234 Q346 246 330 240" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="366" cy="252" r="2.6" fill="#2b3a42"/>
+  <text x="404" y="288" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">tight stomach</text>
+  <text x="404" y="306" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">a feeling in</text>
+  <text x="404" y="322" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">the body</text>
 
   <!-- Arrow from thought to body -->
   <g stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">

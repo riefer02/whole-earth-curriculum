@@ -41,5 +41,5 @@
   <path d="M256 226 Q280 218 300 230" fill="none" stroke="#e0a458" stroke-width="3" stroke-linecap="round"/>
   <path d="M236 254 L276 254 Q284 254 284 260 L284 264 L228 264 L228 260 Q228 254 236 254 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
 
-  <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">One person speaks, the rest listen — and the ideas stay connected.</text>
+  <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">One person speaks, the rest listen — and the ideas stay connected.</text>
 </svg>

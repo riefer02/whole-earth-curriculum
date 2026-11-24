@@ -104,17 +104,15 @@ hold the roof.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Identifying supporting details is a taught skill: model it
-with a worked example — name the main idea, then find each detail and test whether it
-really supports it — before guided practice (Kirschner, Sweller & Clark, 2006). The
-test is the discipline to teach: "does this detail hold up the main idea, or does it
-belong somewhere else?" This works in any language and any writing system. Accept
-details named in the learner's own words and language. A learner who is Deaf or hard
-of hearing names details in sign or writing. A learner who is blind or has low vision
-names details from a braille or large-print text, or from listening, then says them
-aloud or in writing. Keep it sense-making, not a test with one right list; honor any
-detail that genuinely supports the idea.
+Identifying supporting details is a taught skill: model it with a worked example — name
+the main idea, then find each detail and test whether it really supports it — before
+guided practice (Kirschner, Sweller & Clark, 2006). The test is the discipline to teach:
+"does this detail hold up the main idea, or does it belong somewhere else?" This works
+in any language and any writing system. Accept details named in the learner's own words
+and language. A learner who is Deaf or hard of hearing names details in sign or writing.
+A learner who is blind or has low vision names details from a braille or large-print
+text, or from listening, then says them aloud or in writing. Keep it sense-making, not a
+test with one right list; honor any detail that genuinely supports the idea.
 
 ## Procedure
 

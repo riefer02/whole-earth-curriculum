@@ -107,12 +107,11 @@ not about being right or wrong. It is where finding out begins.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Make guessing safe and joyful: say
-clearly that a guess does not have to be right — "a wrong guess is still a great
-guess, because now we can check it." Never let a guess be mocked or ranked. In
-settings where questioning adults is not safe or usual, frame this as *wondering
-together*, not challenging anyone, and offer the wonder box so learners can ask
-without speaking up (see `docs/contexts.md`). The goal is the habit: notice →
+Make guessing safe and joyful: say clearly that a guess does not have to be right — "a
+wrong guess is still a great guess, because now we can check it." Never let a guess be
+mocked or ranked. In settings where questioning adults is not safe or usual, frame this
+as *wondering together*, not challenging anyone, and offer the wonder box so learners
+can ask without speaking up (see `docs/contexts.md`). The goal is the habit: notice →
 question → guess → a way to check. The check can be as simple as "watch tomorrow and
 see." Some questions we cannot answer yet — and that is wonderful, not a failure.
 

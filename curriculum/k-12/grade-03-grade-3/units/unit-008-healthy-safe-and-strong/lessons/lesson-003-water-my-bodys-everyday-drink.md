@@ -116,20 +116,34 @@ answer your own thirst.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Water is a human need and a question of
-justice, not a personal failing.** Teach why water matters and how to answer thirst, then
-hold the global truth gently: many people do not have clean water to drink, and that is a
-fairness problem we can work on — not something to make any learner feel ashamed of their
-own home. Never shame a learner for being thirsty or for having little water at home. How
-much water a body needs varies with weather, activity, and the person, so "drink when
-thirsty" is the rule, not a fixed amount. A learner who cannot drink on their own is
-helped without comment; a learner who does not use a speaking voice signs or points
-"drink" and shows thirst; a learner who is blind or has low vision feels the cup and the
-water's coolness and hears thirst named by body signs; a learner who is deaf or hard of
-hearing follows the picture and demonstrations from the front, since every idea is shown,
-not only told. The health facts are from the World Health Organization: water is
-essential to life, and safe drinking-water keeps bodies well. This lesson deepens Grade
-2's water objective (U.02.008) into the unit's "why water matters" look.
+**Tone.** Steady and gentle — water is a need and a justice question, never a personal
+failing.
+
+**The facts to land.**
+1. Water is essential to life, and safe drinking-water keeps bodies well (World Health
+   Organization).
+2. How much a body needs varies with weather, activity, and person, so "drink when
+   thirsty" is the rule — not a fixed amount.
+3. Many people have no clean water to drink. That is a fairness problem we can work on.
+
+**Don't overshoot.** Do not let the global fact become a scolding. Never shame a learner
+for being thirsty or for having little water at home.
+
+**The lenses, briefly.**
+- *Physical:* thirst is the body's signal, enough to act on.
+- *Ethics:* a need unmet is a failure of provision, not of character.
+- *Egalitarianism:* clean water is owed to every body; the gap is the point.
+- *Environment:* water comes from a well, a tap, a river, and goes somewhere after.
+
+**The skill.** Notice thirst, answer it, and say where your water comes from.
+
+Spiral: deepens U.02.008 into the unit's "why water matters" look.
+
+**Safety floor.** a learner who cannot drink on their own is helped without comment.
+
+**Access:** a learner who does not use a speaking voice signs or points "drink"; a
+learner who is blind or has low vision feels the cup and the water's coolness; a learner
+who is deaf or hard of hearing follows the pictures shown from the front.
 
 ## Procedure
 

@@ -116,21 +116,38 @@ remember what we already know about keeping it healthy, safe, and strong — and
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **opening and retrieval pass**, so the
-goals are modest: **(1) recall three earlier ideas — food gives energy through nutrients from different
-food groups; the body sends signals (hunger, fullness, tiredness) and energy needs differ between
-bodies; and first aid and asking a trusted adult for help are how we stay safe; (2) preview the unit's
-two strands — food & nutrition, and safety & self-care — and its four goals; (3) plant the organizing
-idea: health comes from what I eat and how I eat, and from informed choices and a routine of care.** Do
-not try to teach the four goals today; just name and locate them. This is a health unit, so hold its
-values from the first minute: **every body, every pace, and every family's way of eating is honored; the
-body is taught with dignity, never shame.** The ethics lens: knowing the facts about food and substances
-is how we make choices that are right for us and safe for others. The global lens: people everywhere
-keep well in different ways — different foods, different routines — and no one way is the only way. The
-egalitarian lens: not everyone has the same access to healthy food, clean water, or care, and a fair
-world works to change that. The critical-thinking lens: we will tell evidence from marketing and myth
-all unit long (philosophy §5). The technology & environment lens: this unit also asks how tools and the Earth shape a body's health — screens and sleep, food systems and clean water, medicines and devices — a thread we return to across the unit. Keep questions open; nothing here is creed (philosophy §11). Spacing
-note (S-039): this recall pass is what makes the unit's ideas stick later.
+**Tone.** Warm and unhurried — an opening pass, not a test.
+
+**The facts to land.**
+
+1. Recall: food gives energy through nutrients from different food groups; the body
+   signals hunger, fullness, and tiredness, and energy needs differ between bodies;
+   first aid and asking a trusted adult keep us safe.
+2. Preview two strands — food & nutrition, safety & self-care — and the four goals.
+3. Health comes from what and how I eat, and from informed choices and a routine of
+   care.
+
+**Don't overshoot.** Do not try to teach the four goals today; name and locate them.
+
+**The lenses, briefly.**
+
+- *Physical:* health is a set of daily habits, not a look.
+- *Ethics:* knowing the facts about food and substances helps us choose safely for
+  ourselves and others.
+- *Egalitarianism:* access to healthy food, clean water, and care is unequal; a fair world
+  works to change that.
+- *Global:* people everywhere keep well in different ways, and no way is the only way.
+- *Technology & environment:* screens and sleep, food systems and clean water, medicines
+  and devices all shape a body's health.
+- *Critical-thinking:* we tell evidence from marketing and myth all unit long
+  (`philosophy` §5).
+
+**The skill.** Spacing: this recall pass is what makes the unit's ideas stick later
+(S-039).
+
+**Safety floor.** Hold the unit's values from the first minute: every body, every pace,
+and every family's way of eating is honored; teach the body with dignity, never shame.
+Keep questions open; nothing here is creed (`philosophy` §11).
 
 ## Procedure
 

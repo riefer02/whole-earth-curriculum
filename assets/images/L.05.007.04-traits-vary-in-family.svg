@@ -71,7 +71,7 @@
   <circle cx="373" cy="220" r="2" fill="#2b3a42"/>
   <text x="384" y="290" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">different ears</text>
 
-  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="15.3" font-weight="bold" fill="#2b3a42">siblings share family traits, but each is its own unique mix</text>
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">siblings share family traits, but each is its own unique mix</text>
   <text x="256" y="352" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">this ordinary difference is called variation</text>
   <text x="256" y="380" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">variation is normal in every family of living things</text>
 </svg>

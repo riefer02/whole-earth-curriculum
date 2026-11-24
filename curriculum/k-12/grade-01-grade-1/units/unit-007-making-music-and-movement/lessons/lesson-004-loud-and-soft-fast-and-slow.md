@@ -110,16 +110,15 @@ listen and sort sounds by loud or soft, and fast or slow.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Keep contrasts big and obvious at first ("a loud clap" vs "a
-soft tap"), then make them finer. There is no wrong answer, but you can always ask,
-"what made you say soft?" — that is the thinking we want. For a learner who is Deaf
-or hard of hearing, teach the pairs as **felt size and speed**: a loud sound makes a
-bigger, stronger **vibration** and a soft one a smaller one; a fast beat moves quickly
-under the hand and a slow one moves gently. They sort by feeling the drum or floor,
-not only by hearing. A learner who does not speak answers with signals — arms wide
-for loud and together for soft, hands moving fast or slow. A learner who is blind or
-has low vision sorts by listening and by touch.
+Keep contrasts big and obvious at first ("a loud clap" vs "a soft tap"), then make them
+finer. There is no wrong answer, but you can always ask, "what made you say soft?" —
+that is the thinking we want. For a learner who is Deaf or hard of hearing, teach the
+pairs as **felt size and speed**: a loud sound makes a bigger, stronger **vibration**
+and a soft one a smaller one; a fast beat moves quickly under the hand and a slow one
+moves gently. They sort by feeling the drum or floor, not only by hearing. A learner who
+does not speak answers with signals — arms wide for loud and together for soft, hands
+moving fast or slow. A learner who is blind or has low vision sorts by listening and by
+touch.
 
 ## Procedure
 

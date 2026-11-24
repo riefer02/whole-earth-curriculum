@@ -114,24 +114,37 @@ civilization: geography is never just a backdrop; it is a player in the human st
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) rivers fed
-early civilizations and served as highways (the Nile, the Niger, the Ganges, the
-Indus); (2) oceans connected distant peoples — the Indian Ocean's monsoon winds made
-seasonal sailing possible, linking East Africa, Arabia, India, and Southeast Asia; (3)
-deserts could separate (the Sahara) but also be crossed by camel caravans carrying
-salt and gold; (4) mountains could divide (the Andes, the Himalayas) but passes and
-road systems (the Inka roads) linked their peoples; (5) the Silk Roads — a network of
-overland routes across deserts and mountains — carried silk, spices, paper, and ideas
-like Buddhism and numerals between East Asia and the Mediterranean.** These are
-established geographic-historical facts (see UNESCO's Silk Roads project and
-Encyclopaedia Britannica, "Silk Road" and "Indian Ocean trade"). Model tracing one
-route explicitly, then let learners trace and sort (Kirschner, Sweller & Clark, 2006).
-The environment lens: geography is the living Earth shaping human life, and humans
-shaping it back. The global lens: this is a world map with many centers — no single
-route or region is the default. The egalitarian lens: trade connected peoples as
-roughly equal partners; it also, at times, carried conquest — and noting who benefited
-and who did not keeps the story honest. The technology lens: the ship, the camel
-saddle, the road, the pass — technology is how people turned barriers into bridges.
+**Tone.** Exploratory. Every barrier on the map is also a possible bridge.
+
+**The facts to land.**
+
+1. **Rivers** fed early civilizations and served as highways — the Nile, the Niger, the
+   Ganges, the Indus.
+2. **Oceans connected** distant peoples: the Indian Ocean's monsoon winds made seasonal
+   sailing possible, linking East Africa, Arabia, India, and Southeast Asia.
+3. **Deserts** separated (the Sahara) and were crossed by camel caravans carrying salt
+   and gold; **mountains** divided (the Andes, the Himalayas) yet passes and road
+   systems (the Inka roads) linked their peoples.
+4. The **Silk Roads** — overland routes across deserts and mountains — carried silk,
+   spices, paper, and ideas such as Buddhism and numerals between East Asia and the
+   Mediterranean.
+
+**Don't overshoot.** Do not draw these routes as one smooth highway, or one
+civilization's achievement. Trade connected roughly equal partners and, at times,
+carried conquest.
+
+**The lenses, briefly.**
+
+- *Environment:* geography is the living Earth shaping human life, and humans shaping it
+  back.
+- *Global:* a world map with many centers — no single route or region is the default.
+- *Egalitarianism:* noting who benefited and who did not keeps the story honest.
+- *Technology:* the ship, the camel saddle, the road, the pass — technology is how
+  people turned barriers into bridges.
+
+**The skill.** Model tracing one route explicitly, then let learners trace and sort
+(Kirschner, Sweller & Clark, 2006). See UNESCO's Silk Roads project and Encyclopaedia
+Britannica, "Silk Road" and "Indian Ocean trade."
 
 ## Procedure
 

@@ -23,7 +23,7 @@
   <text x="256" y="314" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">the Earth can renew</text>
 
   <!-- resource icons -->
-  <g text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">
+  <g text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">
     <path d="M96 400 q8 -14 0 -28 q-8 -14 0 -28" fill="none" stroke="#6b93b6" stroke-width="3"/>
     <text x="96" y="444">water</text>
     <path d="M200 400 q8 -18 0 -36 M216 400 q8 -22 0 -44 M232 400 q8 -18 0 -36" fill="none" stroke="#7a9e7e" stroke-width="3"/>

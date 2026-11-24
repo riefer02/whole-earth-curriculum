@@ -117,19 +117,18 @@ of those true things.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. It is the **spiral-up** from Grade 2, where learners told two
-alike feelings apart; now they hold that a feeling can *move* and *mix*. Two
-commitments carry it: **no feeling is wrong**, and **two feelings can both be true — a
-child does not have to choose one.** A learner may say a goodbye felt "only sad" or
-"only excited"; honor that too — mixed feelings are *one* truth about feelings, not a
-rule every moment must follow. Feeling words live differently in every language and
-culture; invite a learner to share a home-word for a mixed or changing feeling, and
-notice that some languages have a single word where others need two. For a learner who
-is blind or has low vision, describe the faces and the "body-sense" of each stop aloud
-(nervous = fluttery stomach; calm = loose shoulders; proud = lifted chest) so the
-change can be *felt* rather than seen. A learner who does not use a speaking voice can
-draw, point, sign, or show the change with face and body while a partner names it.
+It is the **spiral-up** from Grade 2, where learners told two alike feelings apart; now
+they hold that a feeling can *move* and *mix*. Two commitments carry it: **no feeling is
+wrong**, and **two feelings can both be true — a child does not have to choose one.** A
+learner may say a goodbye felt "only sad" or "only excited"; honor that too — mixed
+feelings are *one* truth about feelings, not a rule every moment must follow. Feeling
+words live differently in every language and culture; invite a learner to share a
+home-word for a mixed or changing feeling, and notice that some languages have a single
+word where others need two. For a learner who is blind or has low vision, describe the
+faces and the "body-sense" of each stop aloud (nervous = fluttery stomach; calm = loose
+shoulders; proud = lifted chest) so the change can be *felt* rather than seen. A learner
+who does not use a speaking voice can draw, point, sign, or show the change with face
+and body while a partner names it.
 
 ## Procedure
 

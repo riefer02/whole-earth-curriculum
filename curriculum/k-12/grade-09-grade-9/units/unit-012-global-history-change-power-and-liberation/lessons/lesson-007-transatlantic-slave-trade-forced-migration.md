@@ -112,24 +112,34 @@ honor what they refused to lose.
 
 ## Facilitator note
 
-This is a hard topic; hold it with care (facilitation.md). **Name feelings before facts,
-offer a pause, and let learners step away.** The idea to land: **the transatlantic slave
-trade was a global system that forcibly moved an estimated 12.5 million African people
-across the Atlantic (of whom roughly 10.7 million survived the crossing), and it was part
-of a wider set of forced migrations — including the Saharan and Indian Ocean slave trades —
-whose effects last to this day** (S-322, S-274). Crucially, teach **agency alongside
-atrocity**: enslaved people resisted — through revolt, sabotage, running away, and the
-building of free communities — the **quilombos** and maroon settlements such as Palmares
-in Brazil (S-476) — and they kept their cultures alive through music, religion, family,
-and language, which became lasting world contributions (S-274). Lasting effects: the
-demographic reshaping of the Americas, the African diaspora, and the cultural forms born
-of it — from musical traditions to religions to cuisines. Do not use graphic images or
-numbers as shock; state scale soberly and move to humanity. The **ethics** lens: the
-trade was a system built on the denial of human dignity. The **egalitarian** lens: whose
-labor built the wealth, and who was credited? The **global** lens: this was a movement
-that connected three continents and reshaped all of them. The **critical-thinking** lens:
-distinguish documented evidence from later myths. End on dignity and agency, never on
-despair (philosophy §12).
+**Tone.** Sober and humane — no shock, no despair.
+
+**The facts to land.**
+
+1. **The transatlantic slave trade was a global system** that forcibly moved an
+estimated 12.5 million African people across the Atlantic, of whom roughly 10.7 million
+survived the crossing (S-322, S-274).
+2. **It was part of a wider set of forced migrations,** including the Saharan and Indian
+Ocean slave trades, whose effects last to this day (S-274).
+3. **Teach agency alongside atrocity:** enslaved people resisted through revolt,
+sabotage, running away, and building free communities — the **quilombos** and maroon
+settlements such as Palmares in Brazil (S-476) — and kept their cultures alive through
+music, religion, family, and language, which became lasting world contributions (S-274).
+4. **Lasting effects:** the demographic reshaping of the Americas, the African diaspora,
+and the cultural forms born of it.
+
+**The lenses, briefly.**
+
+- *Ethics:* the trade was a system built on the denial of human dignity.
+- *Egalitarianism:* whose labour built the wealth, and who was credited?
+- *Global:* it connected three continents and reshaped all of them.
+- *Critical-thinking:* distinguish documented evidence from later myths.
+
+**The skill.** State the scale soberly, then ask who resisted and what they built.
+
+**Safety floor.** This is a hard topic: **name feelings before facts, offer a pause, and
+let learners step away.** Do not use graphic images or numbers as shock. End on dignity
+and agency, never on despair (facilitation.md; philosophy §12).
 
 ## Procedure
 

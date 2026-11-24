@@ -104,13 +104,12 @@ which.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, keep it warm and
-wonder-full, never cynical. Make-believe is not "bad" or "a lie" — it is pretend, and
-pretend is one of the great gifts of being human. The goal at age five is a soft
-distinction, not suspicion. If a learner insists a dragon could be real, honor the
-wonder: "Some people tell stories about dragons — what a wonderful story!" Then gently
-return to "a real thing is one I can see and touch." Do not shame any media or screen;
-frame it as noticing, not judging.
+As facilitator, keep it warm and wonder-full, never cynical. Make-believe is not "bad"
+or "a lie" — it is pretend, and pretend is one of the great gifts of being human. The
+goal at age five is a soft distinction, not suspicion. If a learner insists a dragon
+could be real, honor the wonder: "Some people tell stories about dragons — what a
+wonderful story!" Then gently return to "a real thing is one I can see and touch." Do
+not shame any media or screen; frame it as noticing, not judging.
 
 ## Procedure
 

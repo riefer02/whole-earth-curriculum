@@ -105,12 +105,10 @@ you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the cards and space, then guide the acting-out game.
-The heart of this lesson is that the same job can be done many ways: a body that uses
-a wheelchair still reaches and goes; a hand, a mouth, a tool, or a friend's help can
-all hold and carry. Never hold up one way of moving as the "right" way. Celebrate
-each learner's own way.
+Prepare the cards and space, then guide the acting-out game. The heart of this lesson is
+that the same job can be done many ways: a body that uses a wheelchair still reaches and
+goes; a hand, a mouth, a tool, or a friend's help can all hold and carry. Never hold up
+one way of moving as the "right" way. Celebrate each learner's own way.
 
 ## Procedure
 

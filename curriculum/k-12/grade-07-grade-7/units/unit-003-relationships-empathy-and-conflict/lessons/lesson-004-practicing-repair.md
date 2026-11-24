@@ -120,17 +120,17 @@ keep promises to one another. The words open the door; the follow-through walks 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **a repair
-conversation is a single loop — apologize, listen, agree — and it is only complete when the
-agreed next step is actually done**. Use invented, safe scenarios; never script a real
-classmate's conflict, and never role-play anything like trauma. The fishbowl (whole-group
-watch) is a good structure in large groups: model once, then let pairs run in parallel
-(Kirschner, Sweller & Clark, 2006). Watch for the hollow apology ("sorry you felt that
-way") and coach it toward accountability ("I did X, and it hurt you"). Honor the
-egalitarian lens: repair is between equals — no one "wins" a repair, and the listener's
-choice to forgive or not is theirs alone. Note that boundaries stay real after repair:
-making up does not erase a boundary; if someone still says no, you still stop. See
-`docs/facilitation.md` and `docs/art-style.md`.
+The idea to land is that **a repair conversation is a single loop — apologize, listen,
+agree — and it is only complete when the agreed next step is actually done**. Use
+invented, safe scenarios; never script a real classmate's conflict, and never role-play
+anything like trauma. The fishbowl (whole-group watch) is a good structure in large
+groups: model once, then let pairs run in parallel (Kirschner, Sweller & Clark, 2006).
+Watch for the hollow apology ("sorry you felt that way") and coach it toward
+accountability ("I did X, and it hurt you"). Honor the egalitarian lens: repair is
+between equals — no one "wins" a repair, and the listener's choice to forgive or not is
+theirs alone. Note that boundaries stay real after repair: making up does not erase a
+boundary; if someone still says no, you still stop. See `docs/facilitation.md` and
+`docs/art-style.md`.
 
 ## Procedure
 

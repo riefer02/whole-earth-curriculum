@@ -118,15 +118,15 @@ together, like a dance neither one can stop alone.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is the **population-vs-
-community distinction** plus the **predator-prey cycle trace**. Model the meadow fully as a
-worked example before learners order their own cycle (Kirschner, Sweller & Clark, 2006). Build
-on Grade 4 (producers, consumers, decomposers) and Grade 5 (food webs and interdependence).
-Present predation factually and without blood or fear: it is one of many relationships in a
-community, and the cycle keeps both sides in balance. Distinguish evidence from values: *how
-populations rise and fall together* is observable ecology; *that we should understand and care
-for communities of life* is a value this curriculum holds. See `docs/philosophy.md` §5 and
-`docs/facilitation.md`.
+The skill to land is the **population-vs- community distinction** plus the
+**predator-prey cycle trace**. Model the meadow fully as a worked example before
+learners order their own cycle (Kirschner, Sweller & Clark, 2006). Build on Grade 4
+(producers, consumers, decomposers) and Grade 5 (food webs and interdependence). Present
+predation factually and without blood or fear: it is one of many relationships in a
+community, and the cycle keeps both sides in balance. Distinguish evidence from values:
+*how populations rise and fall together* is observable ecology; *that we should
+understand and care for communities of life* is a value this curriculum holds. See
+`docs/philosophy.md` §5 and `docs/facilitation.md`.
 
 ## Procedure
 

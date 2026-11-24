@@ -107,16 +107,15 @@ that is what makes each one worth listening to.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. **Choose traditions with care and tell them from inside their
-meaning.** A tradition is described, never imitated as dress-up or "pretend." Never
-tokenize — do not reduce a whole people to one food or one garment — and never rank
-traditions as better or worse. The heart of the standard is *what it means*: a
-harvest meal means gratitude for the land and the hands that grew the food; a naming
-day means welcoming a child into belonging; a season song means remembering those
-who came before. Honor adopted, fostered, and chosen families equally — "no correct
-family." A learner may pass and never has to perform or disclose their own tradition;
-inviting is fine, requiring is not.
+**Choose traditions with care and tell them from inside their meaning.** A tradition is
+described, never imitated as dress-up or "pretend." Never tokenize — do not reduce a
+whole people to one food or one garment — and never rank traditions as better or worse.
+The heart of the standard is *what it means*: a harvest meal means gratitude for the
+land and the hands that grew the food; a naming day means welcoming a child into
+belonging; a season song means remembering those who came before. Honor adopted,
+fostered, and chosen families equally — "no correct family." A learner may pass and
+never has to perform or disclose their own tradition; inviting is fine, requiring is
+not.
 
 ## Procedure
 

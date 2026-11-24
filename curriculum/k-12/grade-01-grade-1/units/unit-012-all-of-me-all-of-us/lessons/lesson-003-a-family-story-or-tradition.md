@@ -111,16 +111,16 @@ each one is different and worth telling.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It **spirals back** to the opening
-unit's family-story lesson and deepens it: learners now say what the tradition *means
-to them*. Honor every family shape — one caregiver, two, grandparents, guardians, foster
-family, siblings, chosen family, several generations under one roof; there is **no
-correct family**. Sharing is **by invitation, never a requirement**: a learner may pass, or
-draw, point, or act instead of speaking — each of these counts as sharing. Keep the
-circle warm and non-competitive; there is no ranking of families or traditions. If a
-learner cannot name one — or has no family story to share, or prefers not to — offer
-gentle examples (a bedtime routine, a birthday way, a favorite food) or a class,
-school, or community tradition; a pass is always a full share.
+It **spirals back** to the opening unit's family-story lesson and deepens it: learners
+now say what the tradition *means to them*. Honor every family shape — one caregiver,
+two, grandparents, guardians, foster family, siblings, chosen family, several
+generations under one roof; there is **no correct family**. Sharing is **by invitation,
+never a requirement**: a learner may pass, or draw, point, or act instead of speaking —
+each of these counts as sharing. Keep the circle warm and non-competitive; there is no
+ranking of families or traditions. If a learner cannot name one — or has no family story
+to share, or prefers not to — offer gentle examples (a bedtime routine, a birthday way,
+a favorite food) or a class, school, or community tradition; a pass is always a full
+share.
 
 ## Procedure
 

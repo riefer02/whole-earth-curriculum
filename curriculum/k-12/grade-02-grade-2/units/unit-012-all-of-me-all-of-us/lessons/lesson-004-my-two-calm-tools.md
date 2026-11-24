@@ -112,17 +112,16 @@ choose your own tool.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It gathers the year's self-regulation
-work and gives it into the learner's own hands: **a strong feeling is okay, and the
-learner can choose how to meet it.** No tool is better than another — the "right" tool
-is the one that helps *this* child, and every child may pick a different one. Honor a
-child's own invention as a real tool (a song, a squeeze, a hum). Practice each tool
-slowly and without pressure; a learner who does not want to close their eyes or be
-still may choose a moving tool (shake it out, walk, press feet into the floor). For a
-learner who is blind or has low vision, describe each tool in body terms so it can be
-felt. For a learner who is Deaf or hard of hearing, use visual and felt cues — a
-counting hand, a breathing balloon drawn and shown — rather than a spoken chime. The
-point is a tool the child can reach for *on their own*.
+It gathers the year's self-regulation work and gives it into the learner's own hands:
+**a strong feeling is okay, and the learner can choose how to meet it.** No tool is
+better than another — the "right" tool is the one that helps *this* child, and every
+child may pick a different one. Honor a child's own invention as a real tool (a song, a
+squeeze, a hum). Practice each tool slowly and without pressure; a learner who does not
+want to close their eyes or be still may choose a moving tool (shake it out, walk, press
+feet into the floor). For a learner who is blind or has low vision, describe each tool
+in body terms so it can be felt. For a learner who is Deaf or hard of hearing, use
+visual and felt cues — a counting hand, a breathing balloon drawn and shown — rather
+than a spoken chime. The point is a tool the child can reach for *on their own*.
 
 ## Procedure
 

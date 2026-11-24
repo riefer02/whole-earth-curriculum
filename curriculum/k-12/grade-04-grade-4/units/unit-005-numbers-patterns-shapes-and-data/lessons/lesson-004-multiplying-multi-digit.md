@@ -117,20 +117,32 @@ big numbers: break it into parts you can see.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The new skill is multiplying a
-two-digit by a two-digit number; the key move is **distributing across place value**
-— breaking a factor into tens and ones and finding partial products (Van de Walle,
-Karp & Bay-Williams, 2019). Teach the **area model** as a worked example (philosophy
-§13) before the compact algorithm: the rectangle shows *why* the partial products
-exist. Build on Grade 3's multiplication within 100; the facts stay the same, only
-the numbers grow. **The speed of a learner's recall of facts is not a measure of
-their worth, and a product is a fact about quantities, never about a person.** The
-decimal system that makes this tidy is one system among many (Ifrah, 2000); people
-have multiplied by doubling, by grouping, and with lattice and other methods across
-traditions. Count in the home language. For learners who are Deaf or hard of
-hearing, sign each partial product; for learners who are blind or have low vision,
-use a tactile grid and count sections by touch. Learners with limited movement
-direct a partner to draw. Mastery arrives at its own pace.
+**Tone.** Structural and hands-on — the rectangle shows why the parts exist.
+
+**The facts to land.**
+1. Multiplying two two-digit numbers means **distributing across place value**: break a
+   factor into tens and ones and find the partial products (Van de Walle, Karp &
+   Bay-Williams, 2019).
+2. The **area model** shows *why* those partial products exist, before the compact
+   algorithm.
+3. Grade 3's facts stay the same; only the numbers grow. People have multiplied by
+   doubling, by grouping, and with lattice and other methods across traditions (Ifrah,
+   2000).
+
+**Don't overshoot.** The speed of a learner's recall is not a measure of their worth,
+and a product is a fact about quantities, never about a person.
+
+**The lenses, briefly.**
+- *Intellectual:* area model as the worked example (philosophy §13).
+- *Egalitarianism:* method matters more than pace.
+- *Global:* many multiplication methods, all valid.
+- *Critical-thinking:* "where did this partial product come from?"
+
+**The skill.** Draw the rectangle, split the factor, then add the parts.
+
+**Access:** a learner who is Deaf or hard of hearing signs each partial product; a
+learner who is blind or has low vision uses a tactile grid and counts sections by touch;
+a learner with limited movement directs a partner to draw.
 
 ## Procedure
 

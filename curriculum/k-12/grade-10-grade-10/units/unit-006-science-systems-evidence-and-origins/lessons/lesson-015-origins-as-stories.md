@@ -119,15 +119,14 @@ Holding them side by side, without ranking, is the mark of a mature mind.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is the unit's capstone, and its
-heart is philosophy §11: **origins are held as stories grounded in evidence, among many
-others — never as dogma.** The idea to land: **the scientific account is a model
-grounded in evidence (testable and revisable), not a revealed truth; cultural and
-spiritual accounts answer meaning-and-value questions that evidence alone cannot; and
-a mature person holds them side by side, distinguishing evidence from values without
-ranking one above another.** Model that holding, gently, and let learners articulate
-their own considered position — there is no single "correct" answer to require, only
-thoughtfulness to encourage.
+This is the unit's capstone, and its heart is philosophy §11: **origins are held as
+stories grounded in evidence, among many others — never as dogma.** The idea to land:
+**the scientific account is a model grounded in evidence (testable and revisable), not a
+revealed truth; cultural and spiritual accounts answer meaning-and-value questions that
+evidence alone cannot; and a mature person holds them side by side, distinguishing
+evidence from values without ranking one above another.** Model that holding, gently,
+and let learners articulate their own considered position — there is no single "correct"
+answer to require, only thoughtfulness to encourage.
 
 The **global** lens: every culture has origin stories; the point of the lesson is
 plurality, not a contest. The **ethics** lens: treating another person's sacred story

@@ -117,26 +117,37 @@ something you can already do.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **advocacy is a learnable
-move — name a change, show who it helps and what it costs, and take a first step — and it links
-my wellbeing to everyone's.** Teach one worked-example proposal explicitly, then let learners
-build their own (S-011). Keep facts and values cleanly separated: it is a *fact* that roughly
-733 million people faced hunger in 2023 and about 2.33 billion faced moderate or severe food
-insecurity (S-409); it is a *value* that everyone deserves enough to eat. Both are true, and
-the second is what moves us to act.
+**Tone.** Practical and hopeful: a value becomes a move, and the move is small enough to
+start.
 
-The **ethics** lens: advocacy is the discipline of turning a value (dignity, fairness) into a
-concrete, accountable ask — and of listening to the people the change is *for*, not deciding
-for them. The **egalitarianism** lens: the right to food and health belongs to every child,
-every person, without exception (S-060); advocacy exists because that right is not yet honored
-equally. The **global** lens: advocacy takes many forms worldwide — Wangari Maathai's Green
-Belt Movement began with tree-planting and grew into a movement for land, food, and peace
-(S-059); community gardens, food banks, and cooperatives are advocacy too. The **technology**
-lens: who controls the seeds, the data, and the distribution shapes who eats — and tools from
-open data to mobile markets can be turned either way (S-006). The **environment** lens: food
-advocacy and Earth advocacy are one fight — the same systems that leave people hungry also
-strain the land and water that feed us. Preview: Lesson 6 turns inward, to managing your own
-health independently.
+**The facts to land.**
+
+1. Advocacy is a learnable move — name a change, show who it helps and what it costs,
+   take a first step — linking my wellbeing to everyone's.
+2. The *fact*: roughly 733 million people faced hunger in 2023, and about 2.33 billion
+   faced moderate or severe food insecurity (S-409). The *value*: everyone deserves
+   enough to eat. Both are true, and the second is what moves us to act.
+3. Advocacy listens to the people the change is *for*, than deciding for them.
+
+**Don't overshoot.** Statistics do not make the argument alone; numbers describe a
+situation, values are what oblige us to change it.
+
+**The lenses, briefly.**
+
+- *Ethics:* turn a value into a concrete, accountable ask.
+- *Egalitarianism:* the right to food and health belongs to every person (S-060), and
+  advocacy exists because it is not yet honoured equally.
+- *Global:* the Green Belt Movement began with tree-planting and grew into a movement
+  for land, food, and peace (S-059); community gardens, food banks, and cooperatives are
+  advocacy too.
+- *Technology:* who controls seeds, data, and distribution shapes who eats, and open
+  data or mobile markets can be turned either way (S-006).
+- *Environment:* the systems that leave people hungry also strain the land and water
+  that feed them.
+
+**The skill.** Teach one worked-example proposal explicitly, then release (S-011):
+change, who it helps, what it costs, first step. Lesson 6 turns inward to managing your
+own health.
 
 ## Procedure
 

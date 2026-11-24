@@ -53,7 +53,7 @@ context_variants:
     note: Older learners help younger ones find the right spot by naming the feeling and pointing to their own shoulder, chest, or tummy first
 assets:
   - path: assets/images/L.02.001.04-feelings-in-my-body.svg
-    alt: 'A body map showing a simple child body outline with five labeled feeling spots marked by shapes: tense shoulders (diamond, for mad and frustrated), a fast heartbeat on the chest (star, for scared and excited), hot cheeks (circle, for mad), a heavy chest (heart, for sad and disappointed), and a wobbly tummy (triangle, for nervous). A legend on the right repeats each shape with its body spot and the feelings that live there. The body is drawn in a neutral tone so any learner can see it as their own body. Shapes and words, not color, carry the meaning.'
+    alt: "A body map showing a calm, soft-outlined child figure with five labeled feeling spots, each joined to its words by a thin leader line — tense shoulders (diamond, mad and frustrated), a fast heartbeat (star, scared and excited), hot cheeks (circle, mad), a heavy chest (heart, sad and disappointed), and a wobbly tummy (triangle, nervous). The body is in a neutral tone so any learner can see it as their own; shapes, words, and leader lines carry the meaning."
     kind: image
     source: original
 duration_minutes: 50
@@ -110,13 +110,12 @@ words.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Some learners will feel a feeling
-everywhere or nowhere, and some bodies signal differently — honor both. There is no
-"wrong" spot; the goal is *noticing*, not matching a chart. Frame every description as
-a possibility ("many people feel mad as tense shoulders — where do *you* feel it?").
-Model the body scan with your own body. For learners with limited sensation or
-mobility, the spot can be named and pointed to on the poster or on a partner's body
-with consent.
+Some learners will feel a feeling everywhere or nowhere, and some bodies signal
+differently — honor both. There is no "wrong" spot; the goal is *noticing*, not matching
+a chart. Frame every description as a possibility ("many people feel mad as tense
+shoulders — where do *you* feel it?"). Model the body scan with your own body. For
+learners with limited sensation or mobility, the spot can be named and pointed to on the
+poster or on a partner's body with consent.
 
 ## Procedure
 

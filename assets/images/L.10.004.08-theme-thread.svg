@@ -4,37 +4,45 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="bold" fill="#2b3a42">Following a Theme the Whole Way</text>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Following a Theme the Whole Way</text>
 
   <!-- Thread -->
   <path d="M60 230 C 160 200, 200 260, 256 230 C 312 200, 360 260, 452 230" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- Leader ticks: each label hangs off its own bead, never floating.
+       Labels alternate above and below the thread so they never collide. -->
+  <g stroke="#4f6d7a" stroke-width="1.4">
+    <line x1="96" y1="232" x2="96" y2="258"/>
+    <line x1="216" y1="216" x2="216" y2="206"/>
+    <line x1="336" y1="234" x2="336" y2="258"/>
+    <line x1="448" y1="220" x2="448" y2="206"/>
+  </g>
 
   <!-- Beads -->
   <g font-family="sans-serif" font-size="13">
     <!-- bead 1 -->
     <circle cx="96" cy="216" r="16" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-    <text x="96" y="222" text-anchor="middle" fill="#fdfbf7" font-weight="bold">1</text>
-    <text x="88" y="270" text-anchor="middle" fill="#2b3a42">ch. 1 — a hint</text>
-    <text x="88" y="304" text-anchor="middle" fill="#4f6d7a">"home" first appears</text>
+    <text x="96" y="221" text-anchor="middle" fill="#fdfbf7" font-weight="bold" font-size="13">1</text>
+    <text x="96" y="276" text-anchor="middle" fill="#2b3a42" font-weight="bold" font-size="13">ch. 1 — a hint</text>
+    <text x="96" y="294" text-anchor="middle" fill="#4f6d7a" font-size="13">home first appears</text>
 
     <!-- bead 2 -->
     <circle cx="216" cy="232" r="16" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <text x="216" y="238" text-anchor="middle" fill="#fdfbf7" font-weight="bold">2</text>
-    <text x="216" y="270" text-anchor="middle" fill="#2b3a42">ch. 5 — it grows</text>
-    <text x="216" y="290" text-anchor="middle" fill="#4f6d7a">home now means people</text>
+    <text x="216" y="237" text-anchor="middle" fill="#fdfbf7" font-weight="bold" font-size="13">2</text>
+    <text x="216" y="182" text-anchor="middle" fill="#2b3a42" font-weight="bold" font-size="13">ch. 5 — it grows</text>
+    <text x="216" y="199" text-anchor="middle" fill="#4f6d7a" font-size="13">home = people</text>
 
     <!-- bead 3 -->
     <circle cx="336" cy="218" r="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="336" y="224" text-anchor="middle" fill="#2b3a42" font-weight="bold">3</text>
-    <text x="336" y="270" text-anchor="middle" fill="#2b3a42">ch. 9 — it turns</text>
-    <text x="336" y="290" text-anchor="middle" fill="#4f6d7a">home is tested</text>
+    <text x="336" y="223" text-anchor="middle" fill="#2b3a42" font-weight="bold" font-size="13">3</text>
+    <text x="336" y="276" text-anchor="middle" fill="#2b3a42" font-weight="bold" font-size="13">ch. 9 — it turns</text>
+    <text x="336" y="294" text-anchor="middle" fill="#4f6d7a" font-size="13">home is tested</text>
 
     <!-- bead 4 -->
     <circle cx="448" cy="236" r="16" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
-    <text x="448" y="242" text-anchor="middle" fill="#fdfbf7" font-weight="bold">4</text>
-    <text x="448" y="270" text-anchor="middle" fill="#2b3a42">end — full meaning</text>
-    <text x="448" y="291.9" text-anchor="middle" fill="#4f6d7a" font-size="13">home is what</text>
-    <text x="448" y="308.8" text-anchor="middle" fill="#4f6d7a" font-size="13">you carry</text>
+    <text x="448" y="241" text-anchor="middle" fill="#fdfbf7" font-weight="bold" font-size="13">4</text>
+    <text x="504" y="182" text-anchor="end" fill="#2b3a42" font-weight="bold" font-size="13">end — full meaning</text>
+    <text x="504" y="199" text-anchor="end" fill="#4f6d7a" font-size="13">home you carry</text>
   </g>
 
   <!-- Caption -->

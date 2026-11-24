@@ -130,18 +130,35 @@ but that does not mean one causes the other."
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a line of best fit is drawn
-informally so about half the points sit on either side, and it models the relationship; (2) the fit
-is judged by how near the points lie to the line, and the line can then predict within the data's
-range; (3) association does not prove causation — a common cause or coincidence may explain the
-pattern.** Because fitting a line is a foundational skill, use explicit instruction and a worked
-example first (Kirschner, Sweller & Clark, 2006). This is a **summative** moment, but mastery is
-personal, not ranked — celebrate growth, never compare learners (philosophy §8). The critical-
-thinking lens is the lesson's core: "correlation is not causation" protects people from false
-conclusions in medicine, policy, and daily life (S-355). The egalitarian lens: honest data reading
-lets anyone — not only an expert — question a claim that "this causes that" and ask *who benefits*
-from believing it. The environment lens: the same caution guards climate and health claims — a rising
-number does not by itself name the cause. Keep the four lenses explicit in the closing retrieval.
+**Tone.** Honest and unpressured — a fit is a model, not a verdict.
+
+**The facts to land.**
+
+1. A line of best fit is drawn informally so about half the points sit on either side;
+   it models the relationship.
+2. Judge the fit by how near the points lie to the line; the line can then predict
+   within the data's range.
+3. Association does not prove causation — a common cause or coincidence may explain the
+   pattern.
+
+**Don't overshoot.** Do not let a neat line become a promise of cause, or extend a
+prediction far beyond the data.
+
+**The lenses, briefly.**
+
+- *Intellectual:* a model is judged by fit and by honesty about its limits.
+- *Ethics:* "correlation is not causation" protects people from false conclusions in
+  medicine, policy, and daily life (S-355); ask who benefits from the belief.
+- *Egalitarianism:* honest data reading lets anyone question a "this causes that" claim.
+- *Global:* the same caution travels across public-health and economic data worldwide.
+- *Technology:* fitting tools draw the line; the judgment about cause remains human.
+- *Environment:* a rising number does not by itself name the cause in climate or health
+  claims.
+- *Critical-thinking:* the lesson's core — name the alternative explanations.
+
+**The skill.** Fitting a line is foundational: use explicit instruction and a worked
+example first (Kirschner, Sweller & Clark, 2006). This is a **summative** moment, but
+mastery is personal, not ranked (`philosophy` §8).
 
 ## Procedure
 

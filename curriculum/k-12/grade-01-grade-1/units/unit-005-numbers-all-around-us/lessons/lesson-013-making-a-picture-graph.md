@@ -117,18 +117,18 @@ together, fairly.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It spirals up from Kindergarten's
-"sort into groups" to **collecting data and building a picture graph** — the new
-skill. Teach with a **worked example** (philosophy §13): ask the question, place the
-first few objects in rows together, then let each learner add theirs. The powerful
-ideas are **one object per answer** and **reading the graph** — most, fewest, and how
-many. Frame the graph as a fair way to hear everyone: each person's answer counts
-once, and no answer is more important than another (egalitarianism). Choose a
-question that is respectful and has no "right" answer. For learners who are Deaf or
-hard of hearing, pose the question in sign or pictures and let learners place their
-object; for learners who are blind or low-vision, build a *tactile* graph — objects
-in rows the hands can count. A learner who does not speak places their object or
-points to their answer. Every answer is one mark, and every mark matters equally.
+It spirals up from Kindergarten's "sort into groups" to **collecting data and building a
+picture graph** — the new skill. Teach with a **worked example** (philosophy §13): ask
+the question, place the first few objects in rows together, then let each learner add
+theirs. The powerful ideas are **one object per answer** and **reading the graph** —
+most, fewest, and how many. Frame the graph as a fair way to hear everyone: each
+person's answer counts once, and no answer is more important than another
+(egalitarianism). Choose a question that is respectful and has no "right" answer. For
+learners who are Deaf or hard of hearing, pose the question in sign or pictures and let
+learners place their object; for learners who are blind or low-vision, build a *tactile*
+graph — objects in rows the hands can count. A learner who does not speak places their
+object or points to their answer. Every answer is one mark, and every mark matters
+equally.
 
 ## Procedure
 

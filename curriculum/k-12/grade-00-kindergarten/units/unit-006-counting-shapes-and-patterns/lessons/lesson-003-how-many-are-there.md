@@ -103,19 +103,18 @@ fair share.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The key idea is **cardinality**: the
-last counting word is the number of things in the set — a concept young children
-master at different times and must be allowed to arrive at gradually (Clements &
-Sarama, 2014). Some learners will touch-and-count perfectly and still answer "five"
-no matter how many there are; that is a normal step on the way, not a failure. When
-that happens, ask gently, "What was the last number you said?" rather than correcting.
-Never rank learners or praise only the fastest. Count in the home language. Learners
-who are blind or low-vision can count by moving objects one at a time into a cup and
-noticing the growing pile by feel; learners who are deaf or hard of hearing can sign
-the numbers. Learners with limited hand or body movement name totals by voice or sign
-while a partner moves each object, or indicate each object with eye-gaze or a mouth
-stick for a partner to move and count. The "how many?" game should feel like play,
-never like a test.
+The key idea is **cardinality**: the last counting word is the number of things in the
+set — a concept young children master at different times and must be allowed to arrive
+at gradually (Clements & Sarama, 2014). Some learners will touch-and-count perfectly and
+still answer "five" no matter how many there are; that is a normal step on the way, not
+a failure. When that happens, ask gently, "What was the last number you said?" rather
+than correcting. Never rank learners or praise only the fastest. Count in the home
+language. Learners who are blind or low-vision can count by moving objects one at a time
+into a cup and noticing the growing pile by feel; learners who are deaf or hard of
+hearing can sign the numbers. Learners with limited hand or body movement name totals by
+voice or sign while a partner moves each object, or indicate each object with eye-gaze
+or a mouth stick for a partner to move and count. The "how many?" game should feel like
+play, never like a test.
 
 ## Procedure
 

@@ -107,18 +107,17 @@ small, repeatable loop for looking — even when everything is moving fast.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **values alignment
-under pressure is a skill, and skills are taught with a worked example and practiced —
-the five-step loop is that scaffold (S-011).** Pressure, including peer pressure, is
-developmentally real at this age (adolescence is a period of heightened sensitivity to
-peers, Steinberg, S-229), so treat resisting it as a *skill to practice*, not a
-character flaw to shame.
+The idea to land: **values alignment under pressure is a skill, and skills are taught
+with a worked example and practiced — the five-step loop is that scaffold (S-011).**
+Pressure, including peer pressure, is developmentally real now (adolescence brings
+heightened sensitivity to peers, Steinberg, S-229), so treat resisting it as a *skill to
+practice*, not a character flaw to shame.
 
-The **ethics** lens: this is responsible decision-making made explicit (CASEL, S-001)
-— the loop forces a pause in which "what is right?" and "what do I value?" are actually
-asked. The **egalitarian** lens: a decision is not only about the chooser — the loop's
-"consider options" step includes *who is helped and who is hurt*, so fairness is built
-into the discipline rather than bolted on. The **global** lens: the same loop scales —
+The **ethics** lens: this is responsible decision-making made explicit (CASEL, S-001) —
+the loop forces a pause in which "what is right?" and "what do I value?" get asked. The
+**egalitarian** lens: a decision is not only about the chooser — the loop's "consider
+options" step includes *who is helped and who is hurt*, so fairness is built into the
+discipline rather than bolted on. The **global** lens: the same loop scales —
 communities and nations under pressure make decisions the same way, and learners can
 read a public decision (a policy, a movement's choice) with the same five steps. The
 **technology & environment** lens: pressure now arrives through screens (a fast-moving

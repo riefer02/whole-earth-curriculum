@@ -111,18 +111,20 @@ specific, honest about trade-offs, and able to answer the person who disagrees. 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **arguing for a protection means
-being specific — a claim, a reason, evidence, and an answer to a counterargument — and honest about
-degree.** Teach the scaffold with a worked example, then guided practice (S-011). Ground the right in
-the Universal Declaration of Human Rights (privacy from arbitrary interference, S-149), while noting
-that *how much* protection and *which* trade-off is a values question, not a settled fact (philosophy
-§5). The **ethics** lens: a good argument is one a person who disagrees could still respect. The
-**egalitarian** lens: ask whose privacy is cheapest to violate — protections should not be a luxury of
-the powerful. The **technology** lens: protections must actually fit the technology — consent,
-proportionality (collect only what is needed), transparency, and accountability are four live ideas
-to draw on. The **global** lens: different places protect privacy differently, and none is the
-default; learners may argue from their own context. Keep questions open (philosophy §11). Preview:
-we move from arguing about rights to *organizing with others* — designing collective action.
+The idea to land: **arguing for a protection means being specific — a claim, a reason,
+evidence, and an answer to a counterargument — and honest about degree.** Teach the
+scaffold with a worked example, then guided practice (S-011). Ground the right in the
+Universal Declaration of Human Rights (privacy from arbitrary interference, S-149),
+while noting that *how much* protection and *which* trade-off is a values question, not
+a settled fact (philosophy §5). The **ethics** lens: a good argument is one a person who
+disagrees could still respect. The **egalitarian** lens: ask whose privacy is cheapest
+to violate — protections should not be a luxury of the powerful. The **technology**
+lens: protections must actually fit the technology — consent, proportionality (collect
+only what is needed), transparency, and accountability are four live ideas to draw on.
+The **global** lens: different places protect privacy differently, and none is the
+default; learners may argue from their own context. Keep questions open (philosophy
+§11). Preview: we move from arguing about rights to *organizing with others* — designing
+collective action.
 
 ## Procedure
 

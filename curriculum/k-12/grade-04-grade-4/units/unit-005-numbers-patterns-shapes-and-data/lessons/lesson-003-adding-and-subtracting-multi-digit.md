@@ -117,20 +117,18 @@ column, exactly as you did with piles of beans.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It builds on Grade 3's addition and
-subtraction within 1,000; the new stretch is **multi-digit regrouping** across more
-places. Teach the trade as a **worked example** (philosophy §13): model ten ones
-becoming one ten and ten tens becoming one hundred with real counters, then record
-the same trade in the written algorithm (Carpenter, Fennema, Franke, Levi & Empson,
-2015; Van de Walle, Karp & Bay-Williams, 2019). Let learners explain their own
-strategies — there is more than one correct path, and explaining is the learning.
-**The number of steps a learner needs is not a measure of their worth; a sum is a
-fact about quantities, never about a person.** Regrouping is a feature of our
-base-ten system, one system among many (Ifrah, 2000); count in the home language.
-For learners who are Deaf or hard of hearing, sign each trade; for learners who are
-blind or have low vision, use a tactile chart and trade real counters by feel.
-Learners with limited movement direct a partner to move the counters. Mastery arrives
-at its own pace.
+It builds on Grade 3's addition and subtraction within 1,000; the new stretch is
+**multi-digit regrouping** across more places. Teach the trade as a **worked example**
+(philosophy §13): model ten ones becoming one ten and ten tens becoming one hundred with
+real counters, then record the same trade in the written algorithm (Carpenter, Fennema,
+Franke, Levi & Empson, 2015; Van de Walle, Karp & Bay-Williams, 2019). Let learners
+explain their own strategies — there is more than one correct path, and explaining is
+the learning. **The number of steps a learner needs is not a measure of their worth; a
+sum is a fact about quantities, never about a person.** Regrouping is a feature of our
+base-ten system, one system among many (Ifrah, 2000); count in the home language. For
+learners who are Deaf or hard of hearing, sign each trade; for learners who are blind or
+have low vision, use a tactile chart and trade real counters by feel. Learners with
+limited movement direct a partner to move the counters. Mastery arrives at its own pace.
 
 ## Procedure
 

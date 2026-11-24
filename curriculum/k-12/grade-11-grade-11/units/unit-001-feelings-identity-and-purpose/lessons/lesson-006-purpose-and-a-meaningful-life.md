@@ -111,29 +111,29 @@ meaningful life.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **purpose is a
-direction, not a destination; it grows by trying and reflecting; open exploration is
-normal and healthy; and "I don't know yet" is a complete answer.** Teach the
-distinction between *direction* and *destination* with a worked example (S-011).
+The idea to land: **purpose is a direction, not a destination; it grows by trying and
+reflecting; open exploration is normal; and "I don't know yet" is a complete answer.**
+Teach the distinction between *direction* and *destination* with a worked example
+(S-011).
 
 The **social-emotional** lens: identity consolidation is the developmental work of
-adolescence, and Erikson framed this stage as one of *exploration toward commitment*
-(S-155); Marcia's research showed that open exploration ("moratorium") is a normal,
-healthy part of identity formation, not a failure (S-403). The **ethics** lens: a
-purpose worth having is one that considers its effect on others — meaning and
-harm are connected questions. The **egalitarian** lens: research finds only about one
-in five young people has a clear sense of purpose yet, and purpose grows with support
-and reflection (Damon, S-400) — so *uncertainty is the norm, not a deficit*, and no
-learner is behind for not having their life figured out. The **global** lens: what a
-"meaningful life" means differs across cultures — some center contribution to family,
-others to a craft, others to a faith, others to a cause — and none is above another.
-The **technology & environment** lens: our imagined future selves are shaped by what we
-see around us, including screens (which futures look visible and possible?), and a
-meaningful life now often includes the question of what we owe the living Earth.
+adolescence, and Erikson framed this stage as *exploration toward commitment* (S-155);
+Marcia showed that open exploration ("moratorium") is a normal part of identity
+formation, not a failure (S-403). The **ethics** lens: a purpose worth having is one
+that considers its effect on others — meaning and harm are connected questions. The
+**egalitarian** lens: only about one in five young people has a clear sense of purpose
+yet, and purpose grows with support and reflection (Damon, S-400) — so *uncertainty is
+the norm, not a deficit*, and no learner is behind for not having their life figured
+out. The **global** lens: what a "meaningful life" means differs across cultures — some
+center contribution to family, others to a craft, others to a faith, others to a cause —
+and none is above another. The **technology & environment** lens: our imagined future
+selves are shaped by what we see around us, including screens (which futures look
+possible?), and a meaningful life now often includes the question of what we owe the
+living Earth.
 
-**Emotional safety.** Purpose is loaded with pressure in many cultures. Explicitly
-*lower* the pressure: this is not the day to choose a career. "I don't know yet" is
-celebrated, not repaired. No learner should leave feeling behind.
+**Emotional safety.** Purpose is loaded with pressure in many cultures. *Lower* the
+pressure: this is not the day to choose a career. "I don't know yet" is celebrated, not
+repaired. No learner should leave feeling behind.
 
 ## Procedure
 

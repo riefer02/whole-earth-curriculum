@@ -116,14 +116,14 @@ one another, a hospital ward in one city or a neighbour's doorstep in another.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is a *felt* distinction, not
-a vocabulary quiz: **empathy is "with," sympathy is "for"** — one joins, the other can rank.
-The egalitarian lens is central here: sympathy, even when kind, can quietly place the helper
-*above* the helped, while empathy places them *beside*. Be gentle — sympathy is not wrong or
-unkind; it is simply a different (and sometimes distancing) stance, and everyone uses it.
-Use invented scenes or story characters, never real classmates in distress. The body carries
-the meaning, so have learners physically try both positions. See `docs/facilitation.md` on
-holding feelings safely and `docs/contexts.md`.
+The idea to land is a *felt* distinction, not a vocabulary quiz: **empathy is "with,"
+sympathy is "for"** — one joins, the other can rank. The egalitarian lens is central
+here: sympathy, even when kind, can quietly place the helper *above* the helped, while
+empathy places them *beside*. Be gentle — sympathy is not wrong or unkind; it is simply
+a different (and sometimes distancing) stance, and everyone uses it. Use invented scenes
+or story characters, never real classmates in distress. The body carries the meaning, so
+have learners physically try both positions. See `docs/facilitation.md` on holding
+feelings safely and `docs/contexts.md`.
 
 ## Procedure
 

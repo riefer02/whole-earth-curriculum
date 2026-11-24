@@ -29,6 +29,6 @@
 
   <!-- Caption -->
   <rect x="60" y="412" width="392" height="72" rx="14" fill="#f2efe6" stroke="#7a9e7e" stroke-width="2"/>
-  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="16.7" font-weight="bold" fill="#2b3a42">Same event, different thought &#8594; different feeling</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Same event, different thought &#8594; different feeling</text>
   <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">the thought is the hinge between event and feeling</text>
 </svg>

@@ -113,24 +113,38 @@ were forced.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **everyone is inside the movement
-of people and ideas — through family, language, food, and what we carry — and noticing this is the
-first step to a considered relationship to migration.** Teach the sheet explicitly (S-011). Hold
-two things gently: migration is ordinary (a word, a dish, a move), *and* some movement is forced —
-for learners whose families fled or were displaced, this lesson must be a place of dignity, not of
-being put on display. Offer the option to write about a community rather than a family, and never
-require anyone to share a painful story. Distinguish chosen from forced movement with care (S-086).
+**Tone.** Gentle and dignifying: migration is ordinary, and no one is put on display.
 
-The **ethics** lens: asking "chosen or forced?" about one's own history is an ethical honesty — it
-is how we remember accurately rather than comfortably. The **egalitarianism** lens: a migrant is
-not a category of *other* people — anyone can be one, and nearly everyone descends from one (S-086);
-the word is descriptive, never a lesser status. The **global** lens: borrowed words are everywhere —
-"tea/chai" marks two ancient trade routes, overland and by sea (S-169); our languages are already
-world maps. The **technology** lens: today ideas move faster than people — a video crosses a border
-in an instant — so "the movement of ideas" is no longer tied to the movement of bodies, which changes
-what belonging means. The **environment** lens: some movement is toward safety from a changing
-climate (S-383), and "what I carry" can include a care for the place I came from as much as the
-place I am. Preview: Lesson 12 turns "my place" into a *responsibility* to a shared, changing Earth.
+**The facts to land.**
+
+1. Everyone is inside the movement of people and ideas — through family, language, food,
+   and what we carry — and noticing this is the first step to a considered relationship
+   to migration.
+2. Migration is ordinary (a word, a dish, a move), *and* some movement is forced;
+   distinguish chosen from forced with care (S-086).
+3. A migrant is not a category of *other* people: anyone can be one, and nearly everyone
+   descends from one (S-086).
+
+**Don't overshoot.** Do not make a learner's family history into evidence for the
+lesson.
+
+**The lenses, briefly.**
+
+- *Ethics:* asking "chosen or forced?" about one's own history is honesty — remembering
+  accurately than comfortably.
+- *Egalitarianism:* the word is descriptive, never a lesser status.
+- *Global:* borrowed words are everywhere — "tea/chai" marks two ancient trade routes
+  (S-169); our languages are already world maps.
+- *Technology:* ideas now move faster than people — a video crosses a border in an
+  instant — which changes what belonging means.
+- *Environment:* some movement is toward safety from a changing climate (S-383), and
+  what a person carries can include care for the place they came from.
+
+**Safety floor.** Offer the option of writing about a community than a family, and never
+require anyone to share a painful story.
+
+**The skill.** Teach the sheet explicitly (S-011), then release: fill it for yourself or
+a chosen community. Lesson 12 turns "my place" into responsibility.
 
 ## Procedure
 

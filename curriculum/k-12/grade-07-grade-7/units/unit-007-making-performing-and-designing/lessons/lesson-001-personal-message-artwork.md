@@ -121,16 +121,16 @@ that will carry it to another person's eyes.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The one idea to land is that **art is a
-message with a maker**, not decoration: a learner should be able to say *what* they want to
-communicate and name at least one visual choice (symbol, color, or composition) that carries
-it. Model the message-map worked example fully before learners plan their own (explicit
-instruction for a novice skill — Kirschner, Sweller & Clark, 2006). Frame adinkra as a
-*living* tradition to honor with respectful questions, never as a specimen to copy — the
-curriculum's standing commitment (see `docs/facilitation.md`). A learner's message may be
-private; invite, never require, sharing of anything personal, and offer the wonder-box or a
-written slip for messages they want held quietly. Keep the artworks safe — they will be
-revised after feedback next lesson.
+The one idea to land is that **art is a message with a maker**, not decoration: a
+learner should be able to say *what* they want to communicate and name at least one
+visual choice (symbol, color, or composition) that carries it. Model the message-map
+worked example fully before learners plan their own (explicit instruction for a novice
+skill — Kirschner, Sweller & Clark, 2006). Frame adinkra as a *living* tradition to
+honor with respectful questions, never as a specimen to copy — the curriculum's standing
+commitment (see `docs/facilitation.md`). A learner's message may be private; invite,
+never require, sharing of anything personal, and offer the wonder-box or a written slip
+for messages they want held quietly. Keep the artworks safe — they will be revised after
+feedback next lesson.
 
 ## Procedure
 

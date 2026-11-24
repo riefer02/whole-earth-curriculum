@@ -124,25 +124,25 @@ then holding all three together to understand the thing fully.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description**:
-texts differ by register, and reading each on its own terms — recognizing its structure
-and purpose — is a teachable, evidence-supported comprehension skill (IES, S-170; Duke &
-Pearson, S-172). The three registers here are **one useful map**, not the only one; other
-traditions sort texts differently, and no single culture's categories are the default.
-Emphasize that a learner may meet all three registers in **any** language — their home
-language first.
+The idea to land, held as **description**: texts differ by register, and reading each on
+its own terms — recognizing its structure and purpose — is a teachable,
+evidence-supported comprehension skill (IES, S-170; Duke & Pearson, S-172). The three
+registers here are **one useful map**, not the only one; other traditions sort texts
+differently, and no single culture's categories are the default. Emphasize that a
+learner may meet all three registers in **any** language — their home language first.
 
 The **ethics** lens: reading a text on its own terms, rather than forcing it into the
 reader's, is a form of fairness to the author. The **egalitarianism** lens: scholarly
 registers can exclude by jargon; a mature reader notices who a register lets in and who
 it shuts out. The **global** lens: what counts as "scholarly" or "literary" differs
-across cultures and times — none is the default. The **technology** lens: the *technical*
-register is the language of manuals, specifications, and interfaces — the written form
-of technology itself — and reading it is a technical skill. The **environment** lens:
-use an environmental idea (water, disease, migration) as the shared topic, so the three
-registers are practiced on questions where the living world is at stake. The
-**critical-thinking** lens: for each register ask "what is asserted, what is shown, and
-what is left out?" Preview: Lesson 5 integrates several such texts into one position.
+across cultures and times — none is the default. The **technology** lens: the
+*technical* register is the language of manuals, specifications, and interfaces — the
+written form of technology itself — and reading it is a technical skill. The
+**environment** lens: use an environmental idea (water, disease, migration) as the
+shared topic, so the three registers are practiced on questions where the living world
+is at stake. The **critical-thinking** lens: for each register ask "what is asserted,
+what is shown, and what is left out?" Preview: Lesson 5 integrates several such texts
+into one position.
 
 ## Procedure
 

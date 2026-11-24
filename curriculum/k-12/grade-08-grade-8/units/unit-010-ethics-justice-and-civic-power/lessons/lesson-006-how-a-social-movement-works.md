@@ -115,21 +115,30 @@ a lasting effect. Today you learn to take a movement apart — its **goals**, **
 
 ## Facilitator note
 
-This lesson is written to the learner. It opens strand 3. Teach the **three-part frame** —
-*goals* (what is unfair and what would be fair), *strategies* (how people act: organize,
-petition, protest, build allies), *effects* (what changed, who benefited, who was left out) —
-with a worked example first, then let learners apply it (S-011). The egalitarianism lens is
-central: a movement is *ordinary people* acting together, often those with the least power, and
-the evaluation always asks **who benefited and who was left out**. The global lens: use movements
-from several continents and treat none as the "default" story; resistance to injustice is a
-human pattern, not one nation's export (philosophy §4). The community lens: connect to a change
-learners have seen or could make in their own school or neighborhood. The ethics lens:
-strategies are *chosen*, and learners weigh them — nonviolence, disruption, and their costs —
-as questions, not as a script (philosophy §11). Keep the history faithful and dated; do not
-romanticize any movement or flatten its struggles (a movement can partly succeed and partly
-fail). The standard is a *reasoned evaluation*, not agreement with the movement's aims. Be ready
-for the fact that some movements used force or were met with force; name it honestly and hold
-it as one more thing to weigh, without glorifying violence (facilitation.md).
+**Tone.** Faithful and unsentimental — a movement can partly succeed and partly fail.
+
+**The facts to land.**
+
+1. **Goals:** what is unfair, and what would be fair.
+2. **Strategies:** how people act — organize, petition, protest, build allies.
+3. **Effects:** what changed, who benefited, who was left out.
+
+**Don't overshoot.** Do not romanticize any movement or flatten its struggles; some used
+force or were met with force — name it honestly, without glorifying violence.
+
+**The lenses, briefly.**
+
+- *Egalitarianism:* a movement is ordinary people acting together, often those with the
+  least power; evaluation asks who benefited and who was left out.
+- *Global:* use movements from several continents; resistance to injustice is a human
+  pattern, not one nation's export (`philosophy` §4).
+- *Community:* connect to a change learners have seen or could make in their own school
+  or neighbourhood.
+- *Ethics:* strategies are chosen and weighed — nonviolence, disruption, and their costs
+  — as questions, not a script (`philosophy` §11).
+
+**The skill.** Teach the three-part frame with a worked example first, then let learners
+apply it (S-011). The standard is a *reasoned evaluation*, not agreement with the aims.
 
 ## Procedure
 

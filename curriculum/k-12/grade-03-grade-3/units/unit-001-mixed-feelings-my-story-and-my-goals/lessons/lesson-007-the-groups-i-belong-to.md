@@ -51,7 +51,7 @@ context_variants:
     note: Stand in the center of a ring of stones or leaves and name each group as you point to its marker
 assets:
   - path: assets/images/L.03.001.07-my-groups.svg
-    alt: 'A web diagram with a simple figure in the center labeled "me," and six empty circles around it connected by lines. Small labels around the edge suggest ideas: family, class, community, a club or team, a faith or culture, a language. The circles are blank so a learner writes or draws their own groups.'
+    alt: "A web diagram with a child figure in the middle labelled “me”, joined by six lines to six blank circles, each with its idea printed underneath — family, class, community, a club or team, a faith or culture, a language. The circles are empty so the learner fills in their own groups."
     kind: image
     source: original
 duration_minutes: 45
@@ -110,14 +110,13 @@ middle.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The goal is breadth — that a learner can
-name *several* groups, not just one or two. Normalize that everyone belongs to many
-groups, and that some groups are chosen (a club, a team) while others are given (a
-family, a birthplace, a language). Honor every kind of group without ranking: a faith
-community is not "better" than a sports team, and a child with no formal club still
-belongs to their family, class, and community. Where natural, invite learners to name a
-group that meets far away or online — belonging can cross distance. Keep the web open
-and welcoming; there is no "correct" number of groups.
+The goal is breadth — that a learner can name *several* groups, not just one or two.
+Normalize that everyone belongs to many groups, and that some groups are chosen (a club,
+a team) while others are given (a family, a birthplace, a language). Honor every kind of
+group without ranking: a faith community is not "better" than a sports team, and a child
+with no formal club still belongs to their family, class, and community. Where natural,
+invite learners to name a group that meets far away or online — belonging can cross
+distance. Keep the web open and welcoming; there is no "correct" number of groups.
 
 ## Procedure
 

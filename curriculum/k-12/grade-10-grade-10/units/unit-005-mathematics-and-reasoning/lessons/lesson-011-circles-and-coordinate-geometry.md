@@ -119,25 +119,25 @@ world itself.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a circle's theorems
-are provable truths — an inscribed angle is half the central angle on the same arc, an
-angle in a semicircle is right, and a tangent is perpendicular to the radius — and
-coordinate geometry turns "this figure, here, this size" into numbers: the circle
-(x − h)² + (y − k)² = r², and the distance and midpoint formulas.** Teach the proofs
-explicitly (S-011), then let learners verify by measurement.
+The idea to land: **a circle's theorems are provable truths — an inscribed angle is half
+the central angle on the same arc, an angle in a semicircle is right, and a tangent is
+perpendicular to the radius — and coordinate geometry turns "this figure, here, this
+size" into numbers: the circle (x − h)² + (y − k)² = r², and the distance and midpoint
+formulas.** Teach the proofs explicitly (S-011), then let learners verify by
+measurement.
 
-The **global** lens: both tools are shared human inventions. The number π — the ratio
-of a circle's circumference to its diameter — was approximated in Egypt (256/81), by
+The **global** lens: both tools are shared human inventions. The number π — the ratio of
+a circle's circumference to its diameter — was approximated in Egypt (256/81), by
 Archimedes (between 3 10/71 and 3 1/7), and by the Chinese mathematician Zu Chongzhi
-(355/113, accurate to six decimal places) (S-291). Coordinates set places in
-proportion as early as Ptolemy's latitude/longitude (2nd century) (S-299), and the
-12th-century geographer al-Idrisi made a celebrated world map with places located by
-position (S-298); the modern coordinate system associated with Descartes is one
-chapter in a longer story (S-240). The **intellectual** lens: a proof explains *why*
-the inscribed angle is always half — not just that it looks so. The
-**critical-thinking** lens: test each theorem by measurement, and ask whether the
-measurement is a proof or an example. The **egalitarian** lens: these are tools for
-fair building, mapping, and dividing land — shared knowledge for everyone.
+(355/113, accurate to six decimal places) (S-291). Coordinates set places in proportion
+as early as Ptolemy's latitude/longitude (2nd century) (S-299), and the 12th-century
+geographer al-Idrisi made a celebrated world map with places located by position
+(S-298); the modern coordinate system associated with Descartes is one chapter in a
+longer story (S-240). The **intellectual** lens: a proof explains *why* the inscribed
+angle is always half — not just that it looks so. The **critical-thinking** lens: test
+each theorem by measurement, and ask whether the measurement is a proof or an example.
+The **egalitarian** lens: these are tools for fair building, mapping, and dividing land
+— shared knowledge for everyone.
 
 ## Procedure
 
@@ -197,3 +197,4 @@ it a right angle? Explain why to someone.
   <https://www.britannica.com/biography/Muhammad-al-Idrisi> (S-298).
 - On worked examples and guided practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- MacTutor History of Mathematics Archive (University of St Andrews) (S-240).

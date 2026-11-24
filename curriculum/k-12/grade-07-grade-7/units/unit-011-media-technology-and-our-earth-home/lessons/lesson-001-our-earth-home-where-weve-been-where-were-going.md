@@ -125,18 +125,35 @@ change the living Earth, and how we care for it — alone and together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) this unit has four
-strands — Technology & Society, Media & Information, Ecology & Earth Systems, and Stewardship &
-Action — and they all meet in one shared "Earth home"; (2) we are building on Grade 6, not
-starting over; (3) wondering is the engine — learners begin by asking, not by being told.**
-Retrieval practice here is deliberate (spaced recall of last year's ideas — see Dunlosky et al.
-2013, S-039); do not skip it. The ethics lens: stewardship is a question of what is right toward
-people now and in the future. The egalitarian lens: ask early "who is included and who is left
-out" — it will return every lesson. The global lens: the Earth home is one place seen from many
-peoples and places; keep the frame broad, never one region's default. The technology &
-environment lens: these two strands are the unit's heart — tools change the living Earth, and the
-living Earth is what all tools depend on. Hold every wonder as valid; the goal is the asking, not
-the answer.
+**Tone.** Curious and welcoming. Every wonder is valid here; the goal is the asking.
+
+**The facts to land.**
+
+1. This unit has **four strands** — Technology & Society, Media & Information, Ecology &
+   Earth Systems, and Stewardship & Action — and they all meet in one shared "Earth
+   home."
+2. **We are building on Grade 6**, not starting over.
+3. **Wondering is the engine**: learners begin by asking, not by being told.
+
+**Don't overshoot.** Do not rush to answer the wonders. An answered wonder closes the
+unit's engine.
+
+**The lenses, briefly.**
+
+- *Ethics:* stewardship is a question of what is right toward people now and in the
+  future.
+- *Egalitarianism:* ask early "who is included and who is left out" — it returns every
+  lesson.
+- *Global:* one Earth home seen from many peoples and places; keep the frame broad,
+  never one region's default.
+- *Technology:* tools change the living Earth.
+- *Environment:* the living Earth is what all tools depend on.
+- *Critical-thinking:* sort each wonder by the question it actually asks.
+
+**The skill.** Retrieval is deliberate here: spaced recall of last year's ideas — who
+gets to use a technology, persuasive technique, biodiversity, footprints (Dunlosky et
+al., 2013, S-039). Do not skip it. Then write wonders and sort them into the four
+strands.
 
 ## Procedure
 

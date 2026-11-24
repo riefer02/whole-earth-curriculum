@@ -126,31 +126,37 @@ peers.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description**:
-the four-type classification — alphabet, abjad, abugida, character — is the canonical
-scholarly typology (Daniels & Bright, S-165), and Chinese characters are best described
-as *morphosyllabic* (each stands for a syllable plus a meaning, a morpheme), **not** as
-"pictures of ideas" (DeFrancis, S-166). Writing emerged independently in more than one
-place (Mesopotamia, Egypt, China, Mesoamerica) (S-204). Guard the value explicitly: the
-word "abjad" and "abugida" are technical terms coined in one scholarly tradition — use
-them as a *map*, not as a ranking. **No script is more "logical" than another** (a value
-commitment, distinct from the descriptive typology). Present each example script with
-care and correctness; learners who read a script natively are experts, not novices.
+**Tone.** Precise and admiring: a typology to use, not a hierarchy to impose.
 
-The **ethics** lens: how we describe another people's script can dignify or diminish
-them — calling a script "complicated" or "backward" is a value judgment, not a
-description. The **egalitarianism** lens: every script is a complete system, and a
-learner whose home script is not the classroom's majority script is a *resource*, not a
-gap. The **global** lens: the four types map onto scripts across many languages and
-continents — Arabic (abjad), Devanagari (abugida), Chinese (character), Greek and Cyrillic
-(alphabets) — none is the default. The **technology** lens: the *tools* of writing shaped
-the scripts (a wedge in wet clay gives cuneiform; a brush gives flowing strokes), and
-today computers encode all scripts in one standard (Unicode) so they can share a screen.
-The **environment** lens: writing's earliest surfaces came from the living world — clay,
-papyrus, bark, bamboo, animal skin, paper — so a script's look is partly an environmental
-story. The **critical-thinking** lens: "what does this mark stand for — a sound, or a
-sound-plus-meaning?" is a precise question that replaces vague ideas of "foreign letters."
-Preview: Lesson 7 places one idea across many scripts at once.
+**The facts to land.**
+
+1. The four-type classification — alphabet, abjad, abugida, character — is the canonical
+   scholarly typology (Daniels & Bright, S-165), and Chinese characters are best
+   described as *morphosyllabic* — a syllable plus a meaning — not as pictures of ideas
+   (DeFrancis, S-166).
+2. Writing emerged independently in several places: Mesopotamia, Egypt, China,
+   Mesoamerica (S-204).
+3. No script is more "logical" than another — a value commitment, distinct from the
+   typology. Learners who read a script natively are the experts in the room.
+
+**Don't overshoot.** "Abjad" and "abugida" were coined in one scholarly tradition: a
+map, not a ranking.
+
+**The lenses, briefly.**
+
+- *Ethics:* calling a script "complicated" or "backward" is a value judgment, not a
+  description.
+- *Egalitarianism:* every script is a complete system; a home script is a resource, not
+  a gap.
+- *Global:* Arabic, Devanagari, Chinese, Greek and Cyrillic — none is the default.
+- *Technology:* the tool shaped the script — a wedge in wet clay gives cuneiform, a
+  brush gives flowing strokes — and Unicode now lets scripts share one screen.
+- *Environment:* clay, papyrus, bark, bamboo, skin, paper: a script's look is partly an
+  environmental story.
+- *Critical-thinking:* does this mark stand for a sound, or for a sound plus a meaning?
+
+**The skill.** Model the four-type map once, then release (S-011): classify three
+scripts and name what each makes easy. Lesson 7 sets one idea across many scripts.
 
 ## Procedure
 

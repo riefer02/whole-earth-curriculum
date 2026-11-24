@@ -123,14 +123,14 @@ study today. A tool changes the work, and the work changes the life.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **a tool changes how
-people live and work, with effects both helpful and complicated** — not that tools are
-simple "good" or "bad." Model the writing chain fully (worked example) before learners
-trace the wheel or the plow. Keep it honest and global: writing appeared independently in
-Mesopotamia, Egypt, China, and Mesoamerica; the wheel spread across Eurasia but appeared
-only on toys in the Americas (where large draft animals were not available) — a real,
-fascinating difference, not a ranking. Technology is taught with neither worship nor fear.
-See `docs/philosophy.md` §7 and `docs/facilitation.md`.
+The idea to land is **a tool changes how people live and work, with effects both helpful
+and complicated** — not that tools are simple "good" or "bad." Model the writing chain
+fully (worked example) before learners trace the wheel or the plow. Keep it honest and
+global: writing appeared independently in Mesopotamia, Egypt, China, and Mesoamerica;
+the wheel spread across Eurasia but appeared only on toys in the Americas (where large
+draft animals were not available) — a real, fascinating difference, not a ranking.
+Technology is taught with neither worship nor fear. See `docs/philosophy.md` §7 and
+`docs/facilitation.md`.
 
 ## Procedure
 

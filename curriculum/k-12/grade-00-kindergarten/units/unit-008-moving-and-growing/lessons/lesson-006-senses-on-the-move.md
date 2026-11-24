@@ -109,13 +109,13 @@ Moving lets your senses notice more, and differently, than sitting still.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, keep the pace gentle
-and make the route work for every body — a path a wheelchair can roll, or a "senses
-sit" in one comfortable spot where a learner notices while the world moves around them.
-Describe each sense aloud as you go. The only sense we do **not** use freely outside is
-taste — make clear that tasting unknown plants is not safe, and offer a safe food to
-taste afterward if you like. This lesson extends U.00.002's "A Senses Walk" by adding
-motion — ask learners what *changed* when they moved.
+As facilitator, keep the pace gentle and make the route work for every body — a path a
+wheelchair can roll, or a "senses sit" in one comfortable spot where a learner notices
+while the world moves around them. Describe each sense aloud as you go. The only sense
+we do **not** use freely outside is taste — make clear that tasting unknown plants is
+not safe, and offer a safe food to taste afterward if you like. This lesson extends
+U.00.002's "A Senses Walk" by adding motion — ask learners what *changed* when they
+moved.
 
 ## Procedure
 

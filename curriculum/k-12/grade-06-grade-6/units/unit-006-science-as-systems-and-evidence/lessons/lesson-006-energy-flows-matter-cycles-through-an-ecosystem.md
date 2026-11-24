@@ -119,17 +119,17 @@ ecosystem, from a rice paddy to a coral reef to a forest.
 
 ## Facilitator note
 
-Written to the learner ("you"). The one distinction to land: **energy flows one way**
-(Sun → producers → consumers → decomposers → heat out) while **matter cycles** (carbon
-and water return and are reused). The classic mix-up is treating the two as the same,
-so use the two-token activity: the energy token is passed down a line and leaves at
-the end (never returned); the matter token goes around a circle and comes back. The
-science is evidence-based (ecological measurement of energy loss as heat at each step,
-and of carbon and water moving through reservoirs); the gentle value — "we are
-borrowing matter that life has used forever" — can seed an environmental reflection,
-but name it as a value, not a science claim. Keep "energy" in the everyday sense
-introduced in Grade 5 (usable fuel); conservation of energy is formalized later.
-See [`docs/facilitation.md`](../../../../../../docs/facilitation.md).
+The one distinction to land: **energy flows one way** (Sun → producers → consumers →
+decomposers → heat out) while **matter cycles** (carbon and water return and are
+reused). The classic mix-up is treating the two as the same, so use the two-token
+activity: the energy token is passed down a line and leaves at the end (never returned);
+the matter token goes around a circle and comes back. The science is evidence-based
+(ecological measurement of energy loss as heat at each step, and of carbon and water
+moving through reservoirs); the gentle value — "we are borrowing matter that life has
+used forever" — can seed an environmental reflection, but name it as a value, not a
+science claim. Keep "energy" in the everyday sense introduced in Grade 5 (usable fuel);
+conservation of energy is formalized later. See
+[`docs/facilitation.md`](../../../../../../docs/facilitation.md).
 
 ## Procedure
 

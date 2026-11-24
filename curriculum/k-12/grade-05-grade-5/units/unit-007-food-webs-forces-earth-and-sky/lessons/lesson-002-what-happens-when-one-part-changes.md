@@ -116,16 +116,15 @@ check, and the kelp grew back. One part changed, and everything around it answer
 
 ## Facilitator note
 
-Written to the learner ("you"). The key distinction this lesson practices is
-**prediction (inference) versus result (evidence)**: learners write what they *think*
-will happen *before* they move a card, then compare it to what the model actually
-shows. Insist on the prediction being written first — a correct guess is not the
-point; the habit of predicting and checking is. Keep the ripple simple for Grade 5:
-removing a predator lets its prey grow; removing a producer shrinks everything above
-it. Avoid the word "balance" as if nature were a steady machine — webs shift, and
-that is normal. The ethics lens (should we care for the living systems we depend on?)
-is a value we hold, distinct from the evidence of how webs respond
-([`docs/facilitation.md`](../../../../../../docs/facilitation.md)).
+The key distinction this lesson practices is **prediction (inference) versus result
+(evidence)**: learners write what they *think* will happen *before* they move a card,
+then compare it to what the model actually shows. Insist on the prediction being written
+first — a correct guess is not the point; the habit of predicting and checking is. Keep
+the ripple simple for Grade 5: removing a predator lets its prey grow; removing a
+producer shrinks everything above it. Avoid the word "balance" as if nature were a
+steady machine — webs shift, and that is normal. The ethics lens (should we care for the
+living systems we depend on?) is a value we hold, distinct from the evidence of how webs
+respond ([`docs/facilitation.md`](../../../../../../docs/facilitation.md)).
 
 ## Procedure
 

@@ -114,25 +114,37 @@ see the difference.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) strength = muscles working
-against a load; endurance = heart, lungs, and muscles working over a longer time; flexibility =
-range of motion at the joints; (2) each is built by movement you already do, at your own level;
-(3) no movement quality is "better" — a balanced body uses all three, and every body starts where
-it starts.** Model each kind once (worked example, S-011), then guide practice. The WHO frames
-regular physical activity and a mix of aerobic and muscle-strengthening work (S-341); hold it as a
-health guideline, not a ranking. **This is a body lesson — teach it with dignity: never comment on
-any learner's body size or shape, never time learners against each other, never rank speed or
-strength. "Your level is the right level." Always offer a seated or adapted version alongside the
-standing one, and treat assistive devices (wheelchairs, prosthetics, canes) as ordinary parts of a
-body in motion.** The ethics lens: how we speak about bodies — our own and others' — is an ethical
-choice; we choose respect. The egalitarian lens: everyone can build strength, endurance, and
-flexibility, whatever their body or ability — the movements look different, the qualities are the
-same. The global lens: people everywhere build these three through the movements of daily life —
-carrying water, farming, dancing, cycling, swimming — not only through sport. The technology &
-environment lens: a body that mostly sits at screens misses the movement it is built for, and safe,
-welcoming places to move are not equally available to everyone. The critical-thinking lens:
-"movement builds the body" is a checkable scientific fact; "some bodies are better than others" is
-a false value we refuse.
+**Tone.** Encouraging and plain — every body starts where it starts.
+
+**The facts to land.**
+
+1. **Strength** is muscles working against a load; **endurance** is heart, lungs, and
+   muscles working over time; **flexibility** is range of motion at the joints.
+2. Each is built by movement you already do, at your own level.
+3. No quality is better: a balanced body uses all three.
+
+**The lenses, briefly.**
+
+- *Ethics:* how we speak about bodies — our own and others' — is an ethical choice.
+- *Egalitarianism:* everyone can build all three, whatever their body or ability; the
+  movements differ, the qualities are the same.
+- *Global:* people everywhere build them through daily life — carrying water, farming,
+  dancing, cycling — not only sport.
+- *Technology & environment:* screens limit movement, and safe places to move are not
+  equally available.
+- *Social-emotional:* noticing what your body can do builds steadiness.
+- *Physical:* the three are distinct, measurable capacities.
+- *Critical-thinking:* "movement builds the body" is checkable; "some bodies are better"
+  is a false value we refuse.
+
+**The skill.** Model each kind once (worked example, S-011), then guide practice. The
+WHO frames regular activity and a mix of aerobic and muscle-strengthening work (S-341)
+as a guideline, not a ranking.
+
+**Safety floor.** Teach with dignity: never comment on body size or shape, never time
+learners against each other, never rank speed or strength. "Your level is the right
+level." Offer seated or adapted versions, and treat wheelchairs, prosthetics, and canes
+as ordinary.
 
 ## Procedure
 

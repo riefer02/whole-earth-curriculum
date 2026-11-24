@@ -123,19 +123,18 @@ always speak up when a decision hurts some and helps others.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Model the decide-then-check flow with a
-worked example first** (Kirschner, Sweller & Clark, 2006): walk one decision from propose
-to discuss to decide, then model the "unfair" branch ("if the rule leaves someone out,
-they can speak up, gather others, and propose a fairer rule"). **Teach the Haudenosaunee
-Great Law of Peace accurately and with respect** (see Resources): the Haudenosaunee
-confederacy of several nations made decisions by long discussion aimed at agreement
-(consensus), with clan mothers holding an important role and the voices of different
-nations all included — a living tradition, not a museum piece. **Connect to the child's
-own life:** the classroom and family are real groups where fairness can be practiced.
-Honor every body and every family shape: describe the chart in words for a learner who
-cannot see it; a learner who does not use a speaking voice points, signs, or writes. Keep
-the "unfair decision" example gentle and close to home, and always connect it to agency —
-something the learner can do.
+**Model the decide-then-check flow with a worked example first** (Kirschner, Sweller &
+Clark, 2006): walk one decision from propose to discuss to decide, then model the
+"unfair" branch ("if the rule leaves someone out, they can speak up, gather others, and
+propose a fairer rule"). **Teach the Haudenosaunee Great Law of Peace accurately and
+with respect** (see Resources): the Haudenosaunee confederacy of several nations made
+decisions by long discussion aimed at agreement (consensus), with clan mothers holding
+an important role and the voices of different nations all included — a living tradition,
+not a museum piece. **Connect to the child's own life:** the classroom and family are
+real groups where fairness can be practiced. Honor every body and every family shape:
+describe the chart in words for a learner who cannot see it; a learner who does not use
+a speaking voice points, signs, or writes. Keep the "unfair decision" example gentle and
+close to home, and always connect it to agency — something the learner can do.
 
 ## Procedure
 

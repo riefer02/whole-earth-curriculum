@@ -115,13 +115,13 @@ you notice that your own street has a new shop (change) but the same corner tree
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is the **application and retrieval
-step** of the change-and-continuity skill: learners recall the Songhai example, then apply
-the frame to a society of their own choosing. The three cards are deliberately from three
-regions — Oceania (Aotearoa), East Asia (Japan and China) — and each centers the society's
-own life, not outside conquest. For each society, change and continuity are both present; a
-learner's job is to find one of each with reasons. This lesson produces the unit's
-**change-and-continuity note** portfolio artifact. See `docs/facilitation.md`.
+This is the **application and retrieval step** of the change-and-continuity skill:
+learners recall the Songhai example, then apply the frame to a society of their own
+choosing. The three cards are deliberately from three regions — Oceania (Aotearoa), East
+Asia (Japan and China) — and each centers the society's own life, not outside conquest.
+For each society, change and continuity are both present; a learner's job is to find one
+of each with reasons. This lesson produces the unit's **change-and-continuity note**
+portfolio artifact. See `docs/facilitation.md`.
 
 ## Procedure
 

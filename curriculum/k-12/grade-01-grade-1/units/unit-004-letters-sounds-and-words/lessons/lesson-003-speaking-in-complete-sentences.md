@@ -103,14 +103,12 @@ who and a what happened, and it helps your idea travel clearly to another person
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the frames and cards, then guide the game. The
-goal is completeness, not a "correct" accent or dialect — every way of speaking is
-honored. Gently stretch one-word answers into sentences by asking "Who? What
-happened?" without correcting the learner's voice. A complete sentence can also be
-signed, built with picture cards, or spoken through a communication device — a
-"who" and a "what happened" arranged in any of these ways is still a complete
-sentence.
+Prepare the frames and cards, then guide the game. The goal is completeness, not a
+"correct" accent or dialect — every way of speaking is honored. Gently stretch one-word
+answers into sentences by asking "Who? What happened?" without correcting the learner's
+voice. A complete sentence can also be signed, built with picture cards, or spoken
+through a communication device — a "who" and a "what happened" arranged in any of these
+ways is still a complete sentence.
 
 ## Procedure
 

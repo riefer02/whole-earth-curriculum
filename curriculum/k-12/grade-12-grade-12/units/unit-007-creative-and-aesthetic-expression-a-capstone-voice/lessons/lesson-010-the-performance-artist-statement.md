@@ -113,25 +113,25 @@ them and explain.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a performance statement is
-a short, specific, honest account of what was made, how, why it matters, and what to watch
-for — written so a stranger can meet the moving body fairly.** Teach the four-prompt frame,
-then let learners draft and revise (S-011). Guard against two traps: all mood and no craft
-("it is about joy"), and all craft and no why ("it uses three levels"). The good statement
-names both.
+The idea to land: **a performance statement is a short, specific, honest account of what
+was made, how, why it matters, and what to watch for — written so a stranger can meet
+the moving body fairly.** Teach the four-prompt frame, then let learners draft and
+revise (S-011). Guard against two traps: all mood and no craft ("it is about joy"), and
+all craft and no why ("it uses three levels"). The good statement names both.
 
-The **ethics** lens: the statement is where the performer takes responsibility — the claim
-must match what the body actually does, or the statement is dishonest. The
+The **ethics** lens: the statement is where the performer takes responsibility — the
+claim must match what the body actually does, or the statement is dishonest. The
 **egalitarianism** lens: any performer can write a true statement; it needs no degree or
-dance-theory vocabulary, only honesty about one's own choices. The **global** lens: spoken
-introductions, program notes, and titles accompany performance worldwide — from a dancer
-naming the tradition a step belongs to, to a ritual's own occasion (S-056) — all living
-traditions of *explaining your movement*. The **technology** lens: statements now travel
-with recordings as captions and text descriptions, so an audience that cannot see the
-performance can meet it through words, and one that cannot hear can meet the text through a
-screen reader. The **environment** lens: a statement can name where the piece lives — the
-space, the floor, the weather, the place it answers — making the body's relationship to its
-environment visible. Preview: Lesson 11 turns from performing to critiquing performance.
+dance-theory vocabulary, only honesty about one's own choices. The **global** lens:
+spoken introductions, program notes, and titles accompany performance worldwide — from a
+dancer naming the tradition a step belongs to, to a ritual's own occasion (S-056) — all
+living traditions of *explaining your movement*. The **technology** lens: statements now
+travel with recordings as captions and text descriptions, so an audience that cannot see
+the performance can meet it through words, and one that cannot hear can meet the text
+through a screen reader. The **environment** lens: a statement can name where the piece
+lives — the space, the floor, the weather, the place it answers — making the body's
+relationship to its environment visible. Preview: Lesson 11 turns from performing to
+critiquing performance.
 
 ## Procedure
 

@@ -117,12 +117,11 @@ the difference between a list of acts and a *show*. Today you make them on purpo
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **directing = curation
-applied to performance; it has two deliberate layers — *selection/order* (which acts, in
-what sequence) and *staging* (blocking, sightlines, levels, light, sound); the written
-reasoning names both.** Teach the layers with a worked example and guided practice
-(S-011), using devised-performance and movement pedagogy that presents traditions with
-respect (S-260, S-189).
+The ideas to land: **directing = curation applied to performance; it has two deliberate
+layers — *selection/order* (which acts, in what sequence) and *staging* (blocking,
+sightlines, levels, light, sound); the written reasoning names both.** Teach the layers
+with a worked example and guided practice (S-011), using devised-performance and
+movement pedagogy that presents traditions with respect (S-260, S-189).
 
 The **intellectual** lens: every staging choice is a reason — "she faces the audience so
 we see her reaction" is an argument about where attention should go. The
@@ -131,9 +130,9 @@ we see her reaction" is an argument about where attention should go. The
 performance program is a worldwide form — festivals, rituals, and ceremonies all select
 and stage acts; the Philippine **tinikling** (dancers stepping between bamboo poles in
 imitation of the tikling bird) is one living tradition to honor with respectful
-questions, not to borrow carelessly (S-116). The **community** lens: a program is
-*for* an audience — learners name who they are directing for and make the staging serve
-that audience's eyes and ears.
+questions, not to borrow carelessly (S-116). The **community** lens: a program is *for*
+an audience — learners name who they are directing for and make the staging serve that
+audience's eyes and ears.
 
 ## Procedure
 

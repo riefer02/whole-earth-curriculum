@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26.2" font-weight="bold" fill="#2b3a42">Wayfinding: Reading Stars and Waves</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Wayfinding: Reading Stars and Waves</text>
   <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">A knowledge and skill people developed</text>
 
   <!-- sky -->
@@ -51,6 +51,6 @@
     <path d="M352 230 L360 216 L344 214 Z"/>
   </g>
 
-  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#4f6d7a">Stars &#183; waves &#183; clouds &#183; birds &#183; they show the way home</text>
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Stars &#183; waves &#183; clouds &#183; birds &#183; they show the way home</text>
   <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15.0" fill="#4f6d7a">Passed down hand to hand &#183; never &#8220;primitive&#8221;</text>
 </svg>

@@ -118,30 +118,38 @@ others. Learning to read that trade is a skill you will use for the rest of your
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **every medium shapes
-what a message can carry — screens keep words and speed but drop tone, face, and body,
-and add reach, permanence, and an invisible audience — so misreading is ordinary, not a
-personal failure, and checking is a skill.** The reduced-cues account is well documented:
-online communication removes or delays the social cues that carry meaning (tone, facial
-expression, gesture, immediate reaction) and can loosen self-restraint — the "online
-disinhibition effect" (S-343). The gains are real too: messages cross distance instantly,
-persist for later, and reach audiences we choose or never see (S-481 documents what social
-media platforms are and how their feeds work). Present both sides as *description*, not as
-a verdict that "screens are bad" — the same affordances that connect also mislead.
+**Tone.** Even-handed: the same affordances that connect also mislead, and misreading is
+ordinary, not a personal failure.
 
-Model the skill once, then let learners practice (worked example → guided practice →
-independent work; S-011). The **technology** lens is the spine: read the medium as a
-*designed thing* — persistence, public-by-default audiences, and disappearing stories are
-all choices someone built, and each shapes what we dare to say. The **critical-thinking**
-lens: ask *which cues survive and which are dropped, and how does that change the meaning?*
-The **social-emotional** lens: misreads and hurtful replies are real and common; invite,
-never force, and let learners share only what they choose. The **ethics** lens: a screen
-that hides the other person's face can make cruelty feel costless — noticing that is the
-first guard against it. The **egalitarian** lens: access to these tools is not equal —
-cost, connectivity, disability, and language shape who can reach whom (S-281) — and the
-"norms" of one platform are not universal truths. The **global** lens: people everywhere
-weave screens into daily talk differently; no single way of being online is the right one.
-Preview: Lesson 2 turns from *what screens change* to *how to use them respectfully*.
+**The facts to land.**
+
+1. Every medium shapes what a message can carry: screens keep words and speed, drop
+   tone, face, and body, and add reach, permanence, and an invisible audience.
+2. Online talk removes or delays the social cues that carry meaning and can loosen
+   self-restraint — the **online disinhibition effect** (S-343).
+3. The gains are real: messages cross distance instantly, persist, and reach audiences
+   we never see (S-481).
+
+**Don't overshoot.** Not "screens are bad": the same design that connects also misleads,
+and checking is a skill rather than a sign of distrust.
+
+**The lenses, briefly.**
+
+- *Technology:* persistence, public-by-default audiences, and disappearing stories are
+  choices someone built.
+- *Critical-thinking:* ask which cues survive and which are dropped, and how meaning
+  changes.
+- *Social-emotional:* misreads and hurtful replies are common and real — invite, never
+  force.
+- *Ethics:* a screen that hides the face can make cruelty feel costless; noticing is the
+  first guard.
+- *Egalitarianism:* cost, connectivity, disability, and language shape who can reach
+  whom (S-281); one platform's norms are not universal.
+- *Global:* people weave screens into daily talk differently; no way of being online is
+  the right one.
+
+**The skill.** Model once, then release (S-011): read one message for the cues it drops,
+then check before replying. Lesson 2 turns to using the tools respectfully.
 
 ## Procedure
 

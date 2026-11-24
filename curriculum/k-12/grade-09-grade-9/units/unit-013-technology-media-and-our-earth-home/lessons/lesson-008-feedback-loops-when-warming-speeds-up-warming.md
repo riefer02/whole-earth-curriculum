@@ -110,21 +110,31 @@ starts, each turn makes the next turn stronger.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a feedback loop is a
-cycle in which an effect feeds back to change its own cause. In an *amplifying* (positive)
-loop, the change grows. The ice-albedo loop is the clearest example: warming melts bright
-ice and snow → the darker water and land reflect less sunlight (lower albedo) → more
-sunlight is absorbed → more warming → more melting.** Two other amplifying loops: **water
-vapor** (warmer air holds more water vapor, itself a greenhouse gas) and **permafrost
-thaw** (warming thaws frozen ground, which releases stored carbon as CO₂ and methane).
-These are documented in the climate literature (S-005). Be precise with language: "positive"
-feedback does not mean "good" — it means the loop *amplifies*; say "amplifying" to avoid
-confusion. The **environment** lens is central. The **technology** lens: our energy choices
-set these loops turning faster. The **ethics** lens: loops mean delay is costly — the longer
-warming runs, the more it drives itself; that is a question of responsibility to others. The
-**global** lens: the ice is in the poles and mountains, but the loop's effects are
-everywhere. The **critical-thinking** lens: trace the loop *around the circle* until learners
-can see it feed itself — that is the mark of understanding, not memorizing the phrase.
+**Tone.** Precise about words — "positive" does not mean "good".
+
+**The facts to land.**
+
+1. **A feedback loop is a cycle in which an effect feeds back to change its own cause;**
+in an *amplifying* (positive) loop, the change grows.
+2. **The ice-albedo loop:** warming melts bright ice and snow → darker water and land
+reflect less sunlight (lower albedo) → more sunlight is absorbed → more warming → more
+melting.
+3. **Two more amplifying loops:** **water vapour** (warmer air holds more water vapour,
+itself a greenhouse gas) and **permafrost thaw** (thawing ground releases stored carbon
+as CO₂ and methane). These are documented in the climate literature (S-005).
+
+**The lenses, briefly.**
+
+- *Environment:* the loops are the lesson's core.
+- *Technology:* our energy choices set these loops turning faster.
+- *Ethics:* loops mean delay is costly — the longer warming runs, the more it drives
+itself, which is a responsibility to others.
+- *Global:* the ice is at the poles and in the mountains, but the effects are
+everywhere.
+- *Critical-thinking:* trace the loop *around the circle* until it visibly feeds
+itself — that is understanding, not memorising the phrase.
+
+**The skill.** Say "amplifying", never "positive", when you mean the loop grows.
 
 ## Procedure
 

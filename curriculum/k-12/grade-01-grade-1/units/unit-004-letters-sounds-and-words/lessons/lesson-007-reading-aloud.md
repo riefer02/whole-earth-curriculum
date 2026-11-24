@@ -100,14 +100,12 @@ have been shared around fires, tables, and classrooms for thousands of years.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Model reading aloud with a clear voice and expression, then
-guide practice. Honor every voice and accent — there is no single "correct" way to
-read aloud, only clarity and care. Choose texts in the learners' own writing
-system, and let oral traditions be honored alongside written ones. A learner who
-does not use a speaking voice "reads aloud" by signing each word, pointing to each
-word as a partner or a device voices it, or communicating with an AAC device —
-that is reading aloud too, honored just as fully.
+Model reading aloud with a clear voice and expression, then guide practice. Honor every
+voice and accent — there is no single "correct" way to read aloud, only clarity and
+care. Choose texts in the learners' own writing system, and let oral traditions be
+honored alongside written ones. A learner who does not use a speaking voice "reads
+aloud" by signing each word, pointing to each word as a partner or a device voices it,
+or communicating with an AAC device — that is reading aloud too, honored just as fully.
 
 ## Procedure
 

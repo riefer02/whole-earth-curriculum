@@ -15,7 +15,7 @@
   <!-- paraphrase -->
   <rect x="40" y="188" width="432" height="92" rx="10" fill="#7a9e7e" opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
   <text x="60" y="216" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">paraphrase</text>
-  <text x="60" y="238" font-family="sans-serif" font-size="12.9" fill="#222222">According to the report, the low path floods each rainy season.</text>
+  <text x="60" y="238" font-family="sans-serif" font-size="13" fill="#222222">According to the report, the low path floods each rainy season.</text>
   <text x="60" y="260" font-family="sans-serif" font-size="12" fill="#4f6d7a">your own words · still name the source</text>
 
   <!-- own idea -->

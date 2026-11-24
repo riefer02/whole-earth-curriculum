@@ -107,16 +107,15 @@ grows richer in many tellings.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Comparing across texts is a taught skill: model it with a worked
-example — read two short passages, then think aloud as you sort "same" and "different"
-(Kirschner, Sweller & Clark, 2006). Anchor every claim in evidence: "I say their themes
-are alike because in this text… and in that text…" The goal is supported thinking, not a
-single right answer. This is a global moment too: paired texts can come from two
-cultures or two languages, and comparing them is how a reader hears more than one voice.
-Honor comparisons in the learner's own language and honor differing interpretations that
-are faithful to the texts. A learner who is blind or has low vision compares from texts
-heard aloud or read in braille or large print.
+Comparing across texts is a taught skill: model it with a worked example — read two
+short passages, then think aloud as you sort "same" and "different" (Kirschner, Sweller
+& Clark, 2006). Anchor every claim in evidence: "I say their themes are alike because in
+this text… and in that text…" The goal is supported thinking, not a single right answer.
+This is a global moment too: paired texts can come from two cultures or two languages,
+and comparing them is how a reader hears more than one voice. Honor comparisons in the
+learner's own language and honor differing interpretations that are faithful to the
+texts. A learner who is blind or has low vision compares from texts heard aloud or read
+in braille or large print.
 
 ## Procedure
 

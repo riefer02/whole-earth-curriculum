@@ -57,7 +57,7 @@
   <text x="479" y="248" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a5a1a">heat lost</text>
 
   <rect x="56" y="290" width="400" height="72" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5"/>
-  <text x="72" y="314" font-family="sans-serif" font-size="13.2" fill="#222222">Energy is never created or destroyed — only changed in form.</text>
+  <text x="72" y="314" font-family="sans-serif" font-size="13" fill="#222222">Energy is never created or destroyed — only changed in form.</text>
   <text x="72" y="336" font-family="sans-serif" font-size="14" fill="#222222">Efficiency = useful energy out ÷ total energy in.</text>
   <text x="72" y="356" font-family="sans-serif" font-size="12" fill="#4f6d7a">The heat that "leaks" is not gone — it has spread into the surroundings.</text>
 </svg>

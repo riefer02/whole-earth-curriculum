@@ -130,31 +130,28 @@ are better — it is what each way of living knows.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **two real ways of
-relating to land — place-based stewardship (cultural burning, S-321/S-320;
-common-pool rules, S-416; the Honorable Harvest, S-427; re-greening movements, S-059)
-and industrial resource use (the ecological footprint, S-277; industrial drivers of
-biodiversity loss, S-437) — each teach something about sustainability: stewardship
-teaches living within what a place can renew; industry teaches that scale and speed
-carry costs that must be paid.** The unit closes here because this is where the
-whole year lands: neither worship nor fear of technology, but honest judgment about
-which way of living sustains life.
+The idea to land: **two real ways of relating to land — place-based stewardship
+(cultural burning, S-321/S-320; common-pool rules, S-416; the Honorable Harvest, S-427;
+re-greening movements, S-059) and industrial resource use (the ecological footprint,
+S-277; drivers of biodiversity loss, S-437) — each teach something: stewardship, living
+within what a place can renew; industry, that scale and speed carry costs that must be
+paid.** The unit closes here because the year lands here: neither worship nor fear of
+technology, but honest judgment about which way of living sustains life.
 
-Two things to hold firmly. First, do not romanticize or rank: place-based traditions
-are living, contemporary, and specific — name the people and the practice (the
-Firesticks/Living Knowledge Network, the Citizen Potawatomi Nation, the Green Belt
-Movement), and do not reduce them to a generic "wisdom." Second, do not collapse into
-"industry is bad": industrial methods feed and power billions, and the honest
-question is what they cost and whether those costs are paid — not whether they exist.
-The skill is *comparison with respect*, and the mature conclusion is that the two can
-learn from each other rather than one "winning."
+Two things to hold firmly. First, do not romanticize or rank: place-based traditions are
+living and specific. Name the people and the practice (the Firesticks/Living Knowledge
+Network, the Citizen Potawatomi Nation, the Green Belt Movement), and do not reduce them
+to a generic "wisdom." Second, do not collapse into "industry is bad": industrial
+methods feed and power billions, and the honest question is what they cost and whether
+those costs are paid — not whether they exist. The skill is *comparison with respect*;
+the mature conclusion is that each can learn from the other rather than one "winning."
 
 The **environment** lens is core. The **ethics** lens: each way of living embodies a
 claim about what land is owed. The **egalitarianism** lens: industrial harms, like
 technological harms, land on the least powerful — and stewardship knowledge has often
-been suppressed by the very systems that now seek it. The **global** lens: the
-practices come from every inhabited continent. The **critical-thinking** lens:
-comparing without ranking, and naming what each teaches and what each forgets.
+been suppressed by the very systems that now seek it. The **global** lens: the practices
+come from every inhabited continent. The **critical-thinking** lens: comparing without
+ranking, and naming what each teaches and what each forgets.
 
 ## Procedure
 

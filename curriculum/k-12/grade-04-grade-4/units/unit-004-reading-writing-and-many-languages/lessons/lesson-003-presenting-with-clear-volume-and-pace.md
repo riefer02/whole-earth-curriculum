@@ -109,18 +109,17 @@ gap. Volume and pace are two of the tools that build that bridge.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Presenting is a skill, so model it: give a short talk yourself at
-the right volume and pace, then once too quietly and too fast, and let learners name the
-difference (worked example before practice; Kirschner, Sweller & Clark, 2006). Frame
-feedback as help, not judgment — "I could hear you" and "I could follow you" are
-observations, not scores. Honor many ways of presenting: a learner who is Deaf or hard
-of hearing presents in sign or with a communication device, and clarity of signing pace
-and size is just as real as spoken volume; a learner who stutters or speaks with a
-speech difference presents at their own pace, and the room listens with patience. The
-measure of a clear talk is whether the audience understands, never whether a voice
-sounds "standard." Keep the atmosphere safe and encouraging — speaking in front of a
-group is brave, and every attempt is a step.
+Presenting is a skill, so model it: give a short talk yourself at the right volume and
+pace, then once too quietly and too fast, and let learners name the difference (worked
+example before practice; Kirschner, Sweller & Clark, 2006). Frame feedback as help, not
+judgment — "I could hear you" and "I could follow you" are observations, not scores.
+Honor many ways of presenting: a learner who is Deaf or hard of hearing presents in sign
+or with a communication device, and clarity of signing pace and size is just as real as
+spoken volume; a learner who stutters or speaks with a speech difference presents at
+their own pace, and the room listens with patience. The measure of a clear talk is
+whether the audience understands, never whether a voice sounds "standard." Keep the
+atmosphere safe and encouraging — speaking in front of a group is brave, and every
+attempt is a step.
 
 ## Procedure
 

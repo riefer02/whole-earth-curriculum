@@ -120,29 +120,38 @@ which are choices, and which you might remake.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **identity is not
-fixed by nature alone; it is constructed differently across cultures and history — and
-comparing examples makes the constructed, chosen, and inherited parts of our own
-identity visible.** The framing is anthropological and global by design: no culture's
-way of being someone is above another's (philosophy §4, §11). Keep examples accurate and
-respectful — describe each culture's identity markers *from within* as far as possible,
-credit real peoples and traditions, and avoid turning anyone into a "specimen" or a
-cartoon. The standard (D01.S2.10.01) is explicitly comparative and cross-cultural, so
-the comparison itself is the skill being taught.
+**Tone.** Comparative and unhurried: describe each people from within, credit real
+traditions, never let anyone become a specimen or a cartoon.
 
-Model the comparison skill once, then let learners practice (S-011). The **global**
-lens is the heart: choose examples from more than one region and era, and hold them side
-by side without ranking. The **egalitarian** lens: ask whose ways of being someone have
-been treated as "the normal one" and whose have been called "exotic" — and name that
-imbalance. The **ethics** lens: comparison is for understanding, not for judging another
-people's way of life; respect means asking questions a community would recognize as its
-own. The **technology & environment** lens: how identity is made is itself changing —
-mass media and the internet now carry identity markers across the world, mixing and
-sometimes flattening them (recall the feeds of Lesson 3); and the land and climate people
-live in shape how they live and thus who they become. The **social-emotional** lens:
-learners are themselves mid-formation (S-403 describes exploration as healthy and
-normal); keep the tone affirming — there is no deadline for becoming, and uncertainty is
-part of the work, not a failure.
+**The facts to land.**
+
+1. Identity is not fixed by nature alone; it is constructed differently across cultures
+   and across history.
+2. Comparing examples makes the constructed, chosen, and inherited parts of our own
+   identity visible.
+3. The standard (D01.S2.10.01) is explicitly comparative, so the comparison *is* the
+   skill.
+
+**Don't overshoot.** No culture's way of being someone ranks above another's (philosophy
+§4, §11); describe each from within, and avoid "exotic" framing.
+
+**The lenses, briefly.**
+
+- *Global:* the heart — examples from more than one region and era, side by side,
+  without ranking.
+- *Egalitarianism:* ask whose ways of being someone were called "normal" and whose
+  "exotic", and name the imbalance.
+- *Ethics:* comparison is for understanding, not judging; respect means asking questions
+  a community would recognise as its own.
+- *Technology and environment:* media now carry identity markers worldwide, mixing and
+  flattening them (Lesson 3); land and climate shape how people live.
+- *Social-emotional:* learners are mid-formation (S-403 calls exploration healthy);
+  there is no deadline for becoming.
+- *Critical-thinking:* one example is not a culture; ask who is speaking, and from
+  where.
+
+**The skill.** Model the comparison once, then release (S-011): two examples, one shared
+question, no ranking.
 
 ## Procedure
 

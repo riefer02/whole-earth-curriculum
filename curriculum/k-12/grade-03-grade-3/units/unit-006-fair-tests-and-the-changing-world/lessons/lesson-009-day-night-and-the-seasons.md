@@ -123,18 +123,18 @@ are awake in the day.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Model day and night concretely first —
-turn the ball and point to the lit and dark halves — then name **rotate** and **orbit**
-(concrete before abstract). Be careful with a common misconception: learners may think
-the Sun moves around us; gently correct with the spinning-ball model, saying "the Sun
-seems to move because we turn." For seasons, the **tilt** is the key idea at this level
-— keep it simple and honest, not exhaustive. Hold the big story with care (§11): the
-spinning Earth and orbiting seasons are what **scientists tell from evidence** gathered
-over centuries; other cultures have told the story of the Sun and Earth in their own
-beautiful ways, and both can be honored — science is one way of knowing, not the only
-one. Keep the global lens: day length and seasons differ with latitude — near the
-equator the seasons barely change, and far north or south the days grow very long or
-short. No fear — this is the steady, reliable rhythm of our home.
+Model day and night concretely first — turn the ball and point to the lit and dark
+halves — then name **rotate** and **orbit** (concrete before abstract). Be careful with
+a common misconception: learners may think the Sun moves around us; gently correct with
+the spinning-ball model, saying "the Sun seems to move because we turn." For seasons,
+the **tilt** is the key idea at this level — keep it simple and honest, not exhaustive.
+Hold the big story with care (§11): the spinning Earth and orbiting seasons are what
+**scientists tell from evidence** gathered over centuries; other cultures have told the
+story of the Sun and Earth in their own beautiful ways, and both can be honored —
+science is one way of knowing, not the only one. Keep the global lens: day length and
+seasons differ with latitude — near the equator the seasons barely change, and far north
+or south the days grow very long or short. No fear — this is the steady, reliable rhythm
+of our home.
 
 ## Procedure
 

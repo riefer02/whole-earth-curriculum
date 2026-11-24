@@ -114,13 +114,13 @@ many shapes, and homes come in many kinds — all of them are real.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill is placing people and places at
-the correct *stop* in the story — the ordering still matters, even as the content
-becomes richer. Honor every family structure and living situation: a learner may name a
-grandmother, two mothers, an aunt, a guardian, or no one at a stop — all are valid, and
-none is ranked. Keep the focus on *who was there for you* and *where you felt at home*,
-not on any one "correct" family model. If a learner's story includes a place that no
-longer exists or a person who is gone, hold it gently and let them choose what to share.
+The skill is placing people and places at the correct *stop* in the story — the ordering
+still matters, even as the content becomes richer. Honor every family structure and
+living situation: a learner may name a grandmother, two mothers, an aunt, a guardian, or
+no one at a stop — all are valid, and none is ranked. Keep the focus on *who was there
+for you* and *where you felt at home*, not on any one "correct" family model. If a
+learner's story includes a place that no longer exists or a person who is gone, hold it
+gently and let them choose what to share.
 
 ## Procedure
 

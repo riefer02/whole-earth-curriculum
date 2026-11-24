@@ -114,12 +114,11 @@ that look alike apart helps you say exactly what is happening inside you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Prepare the chart, cards, and clue
-questions, then guide the sorting game and closing reflection. Feelings are personal
-— no answer is "wrong." If a learner names a different feeling, honor it and wonder
-together about why. The goal is *noticing* the difference, not memorizing a chart.
-Keep the clue questions simple and concrete; read them aloud for learners who are
-still growing as readers.
+Prepare the chart, cards, and clue questions, then guide the sorting game and closing
+reflection. Feelings are personal — no answer is "wrong." If a learner names a different
+feeling, honor it and wonder together about why. The goal is *noticing* the difference,
+not memorizing a chart. Keep the clue questions simple and concrete; read them aloud for
+learners who are still growing as readers.
 
 ## Procedure
 

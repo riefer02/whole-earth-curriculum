@@ -107,11 +107,11 @@ communities — and every way of moving is worth honoring.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, keep the space safe and
-the mood joyful. **Honor every body:** a learner who cannot run can move their arms,
-roll, or glide in a wheelchair; a learner who cannot hop can march or step; balancing
-can be done seated, with one foot lifted, or with eyes closed. Say this aloud so no one
-feels left out. Emphasize control and trying over speed or height.
+As facilitator, keep the space safe and the mood joyful. **Honor every body:** a learner
+who cannot run can move their arms, roll, or glide in a wheelchair; a learner who cannot
+hop can march or step; balancing can be done seated, with one foot lifted, or with eyes
+closed. Say this aloud so no one feels left out. Emphasize control and trying over speed
+or height.
 
 ## Procedure
 

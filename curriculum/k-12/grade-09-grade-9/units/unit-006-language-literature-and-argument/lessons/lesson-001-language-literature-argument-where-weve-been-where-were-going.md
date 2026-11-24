@@ -116,23 +116,38 @@ truly your own. Today we remember what we can already do and see where it is tak
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **opening and retrieval pass**, so the goals
-are modest: **(1) recall three Grade-8 ideas — rhetoric (word choice, tone, delivery shape meaning),
-structured debate (argue with reasons while hearing opposing views), and citation (honoring others' words);
-(2) preview the unit's four strands — listening & speaking, reading & literacy, writing & expression,
-multilingual & intercultural — and its eight goals; (3) plant the organizing idea: synthesis (many sources →
-one account), argument (a supported position), and authorship (a voice of one's own).** Do not try to teach
-the eight goals today; just name and locate them. The critical-thinking lens: every supported position
-begins by weighing evidence, not by asserting (philosophy §7). The global lens: the same skills of
-synthesis and argument are practiced in every literate culture, in every language, from oral epics to
-digital essays. The ethics lens: honest argument distinguishes what the evidence shows from what we value,
-and honest authorship names whose words we are using (philosophy §5). The egalitarian lens: the unit holds
-multilingualism as **wealth**, never a deficit, and every learner's home language is honored first
-(philosophy §4; D04 rationale). The technology & environment lens: the tools of language — writing, print,
-recording, and now digital media — change who gets to speak and be heard, and a language also carries
-knowledge of the place and living world it names; the unit returns to both threads in its closing lessons.
-Keep origins and beliefs open: nothing here is creed (philosophy §11).
-Spacing note (S-039): this recall pass is what makes the unit's ideas stick later.
+**Tone.** Light and welcoming — an **opening and retrieval pass**, not a teaching day.
+
+**The facts to land.**
+
+1. **Recall three Grade-8 ideas:** rhetoric (word choice, tone, and delivery shape
+meaning), structured debate (argue with reasons while hearing opposing views), and
+citation (honouring others' words).
+2. **Preview the four strands** — listening & speaking, reading & literacy, writing &
+expression, multilingual & intercultural — and name the eight goals. Locate them; do not
+teach them today.
+3. **Plant the organizing idea:** synthesis (many sources → one account), argument (a
+supported position), and authorship (a voice of one's own).
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* every supported position begins by weighing evidence, not by
+asserting (philosophy §7).
+- *Global:* synthesis and argument are practised in every literate culture, in every
+language, from oral epics to digital essays.
+- *Ethics:* honest argument separates what the evidence shows from what we value, and
+honest authorship names whose words we use (philosophy §5).
+- *Egalitarianism:* the unit holds multilingualism as **wealth**, never a deficit; every
+learner's home language is honoured first (philosophy §4; D04 rationale).
+- *Technology:* the tools of language — writing, print, recording, digital media —
+change who gets to speak and be heard.
+- *Environment:* a language carries knowledge of the place and living world it names.
+
+**The skill.** Locate, not master: learners place the eight goals and say where the unit
+is heading.
+
+**Spacing.** This recall pass is what makes the unit's ideas stick later (S-039). Keep
+origins and beliefs open; nothing here is creed (philosophy §11).
 
 ## Procedure
 

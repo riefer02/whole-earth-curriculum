@@ -99,13 +99,11 @@ people we love and the things we remember travel with us wherever we go.
 
 ## Facilitator note
 
-Written to the learner ("you") so it works in a classroom and for a self-directed
-learner. **This is the most sensitive lesson in the unit.** Some children have moved
-for hard reasons — displacement, loss, separation; some were adopted or fostered.
-Never require a child to tell a moving story, and never treat one kind of family
-story as more "correct" than another. Keep the wonder gentle and blame-free: people
-move for family, work, safety, or a new home — all are real, and none is a child's
-fault.
+**This is the most sensitive lesson in the unit.** Some children have moved for hard
+reasons — displacement, loss, separation; some were adopted or fostered. Never require a
+child to tell a moving story, and never treat one kind of family story as more "correct"
+than another. Keep the wonder gentle and blame-free: people move for family, work,
+safety, or a new home — all are real, and none is a child's fault.
 
 ## Procedure
 

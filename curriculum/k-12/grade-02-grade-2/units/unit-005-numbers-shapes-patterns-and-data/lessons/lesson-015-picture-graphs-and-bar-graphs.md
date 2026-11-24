@@ -116,18 +116,17 @@ picture, so decisions are fair and everyone is counted.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It builds on Grade 1's picture graphs
-and adds the **bar graph** — the new skill is drawing bars and answering "how many
-more or less." Teach with a **worked example** (philosophy §13): build the picture
-graph, then draw a bar the same height and show the two are the same data. The
-powerful ideas are **one mark per answer**, **bars that match the count**, and **how
-many more or less** as a subtraction question. Frame graphs as fairness tools: every
-answer counts once, and no answer is more important than another (egalitarianism).
-Choose a question that is respectful and has no "right" answer. For learners who are
-Deaf or hard of hearing, pose the question in sign or pictures and count bars with
-fingers; for learners who are blind or low-vision, build a *tactile* graph with
-objects in rows the hands can count. A learner who does not speak places an object or
-points. Every answer is one mark, and every mark matters equally.
+It builds on Grade 1's picture graphs and adds the **bar graph** — the new skill is
+drawing bars and answering "how many more or less." Teach with a **worked example**
+(philosophy §13): build the picture graph, then draw a bar the same height and show the
+two are the same data. The powerful ideas are **one mark per answer**, **bars that match
+the count**, and **how many more or less** as a subtraction question. Frame graphs as
+fairness tools: every answer counts once, and no answer is more important than another
+(egalitarianism). Choose a question that is respectful and has no "right" answer. For
+learners who are Deaf or hard of hearing, pose the question in sign or pictures and
+count bars with fingers; for learners who are blind or low-vision, build a *tactile*
+graph with objects in rows the hands can count. A learner who does not speak places an
+object or points. Every answer is one mark, and every mark matters equally.
 
 ## Procedure
 

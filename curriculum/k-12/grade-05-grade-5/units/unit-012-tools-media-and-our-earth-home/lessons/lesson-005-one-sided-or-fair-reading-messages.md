@@ -119,14 +119,14 @@ is speaking. Today you learn to do that.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is the **three-question
-fairness test**: *what benefits does the message show? what concerns does it leave out? who is
-speaking — and who is not heard?* Model the road message fully as a worked example. Teach
-this **without cynicism or fear**: the goal is not to distrust every message but to *complete*
-one-sided messages into fair ones. Fair reporting is taught as a positive ideal — include all
-sides, give evidence, and say who is speaking. Distinguish evidence from values: *what a
-message includes and omits* is observable; *that fairness requires hearing all sides* is a
-value we hold. Choose examples that are age-safe and globally adaptable — a road, a market, a
+The skill to land is the **three-question fairness test**: *what benefits does the
+message show? what concerns does it leave out? who is speaking — and who is not heard?*
+Model the road message fully as a worked example. Teach this **without cynicism or
+fear**: the goal is not to distrust every message but to *complete* one-sided messages
+into fair ones. Fair reporting is taught as a positive ideal — include all sides, give
+evidence, and say who is speaking. Distinguish evidence from values: *what a message
+includes and omits* is observable; *that fairness requires hearing all sides* is a value
+we hold. Choose examples that are age-safe and globally adaptable — a road, a market, a
 playground — so no region is framed as "the problem." See `docs/philosophy.md` §4–5 and
 `docs/facilitation.md`.
 

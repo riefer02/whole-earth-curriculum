@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="20.8" font-weight="bold" fill="#2b3a42">Charity &#183; Mutual Aid &#183; Cooperative</text>
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Charity &#183; Mutual Aid &#183; Cooperative</text>
 
   <!-- Panel 1: charity -->
   <rect x="20" y="64" width="150" height="250" rx="12" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
@@ -48,15 +48,18 @@
 
   <!-- World examples -->
   <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">around the world</text>
-  <g font-family="sans-serif" font-size="11" fill="#222222">
-    <rect x="30" y="360" width="150" height="22" rx="8" fill="#eaf2ea"/>
-    <text x="105" y="375" text-anchor="middle">harambee &#183; gotong royong</text>
-    <rect x="190" y="360" width="150" height="22" rx="8" fill="#eaf2ea"/>
-    <text x="265" y="375" text-anchor="middle">mink&#8217;a/minga &#183; barn raising</text>
-    <rect x="350" y="360" width="140" height="22" rx="8" fill="#f6ead8"/>
-    <text x="420" y="375" text-anchor="middle">worker co-ops &#183; credit unions</text>
+  <g font-family="sans-serif" font-size="12" fill="#222222">
+    <rect x="16" y="356" width="150" height="40" rx="10" fill="#eaf2ea"/>
+    <text fill="#222222" font-size="12" x="91" y="372" text-anchor="middle">harambee</text>
+    <text fill="#222222" font-size="12" x="91" y="388" text-anchor="middle">gotong royong</text>
+    <rect x="181" y="356" width="150" height="40" rx="10" fill="#eaf2ea"/>
+    <text fill="#222222" font-size="12" x="256" y="372" text-anchor="middle">mink&#8217;a &#183; minga</text>
+    <text fill="#222222" font-size="12" x="256" y="388" text-anchor="middle">barn raising</text>
+    <rect x="346" y="356" width="150" height="40" rx="10" fill="#f6ead8"/>
+    <text fill="#222222" font-size="12" x="421" y="372" text-anchor="middle">worker co-ops</text>
+    <text fill="#222222" font-size="12" x="421" y="388" text-anchor="middle">credit unions</text>
   </g>
 
-  <text x="256" y="469" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">The question is not how much is given — but who holds the power and</text>
+  <text x="256" y="469" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The question is not how much is given — but who holds the power and</text>
   <text x="256" y="487.2" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">who decides.</text>
 </svg>

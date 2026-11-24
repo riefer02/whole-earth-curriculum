@@ -114,34 +114,37 @@ with cool, careful cultural burns, reading this same cycle through a different k
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **carbon cycles among
-four great reservoirs — the atmosphere (as CO₂), living things and soil (through
-photosynthesis, eating, and decay), the oceans (dissolved CO₂ and marine life), and rock
-(limestone and, over millions of years, fossil fuels). Carbon is neither created nor
-destroyed; it moves. Burning fossil fuels is the fast return of carbon that was buried
-over millions of years — which is why it changes the atmosphere so quickly** (S-253;
-S-438; S-005). Distinguish the **fast** loop (a leaf takes in CO₂ today; a breath returns
-it) from the **slow** loop (carbon locked in limestone and coal for millions of years). The
-**environment** lens is central. The **technology** lens: fossil-fuel combustion is the
-human technology that reroutes the slow loop into the fast one. The **ethics** lens: the
-cycle itself is neutral; our *rate* of moving carbon is the moral question. The **global**
-lens: the cycle is planetary — a fire in one country changes air everywhere. The
-**critical-thinking** lens: "carbon is reused, not created new" is a conservation idea
-learners can *demonstrate*, not merely recite. Encourage the "one carbon atom's journey"
-telling as the assessment of real understanding.
+**Tone.** Patient — follow one atom, not a diagram.
 
-**Multiple knowledge traditions (philosophy §11).** The four-reservoir account above is
-Western Earth science (S-253; S-438; S-005). Hold it *side by side* with Aboriginal and
-Torres Strait Islander **cultural burning**, a living, millennia-old ecological knowledge
-tradition that works the *fire* path of this same cycle: cool, low-intensity burns that
-move carbon slowly, promote plant growth, maintain habitats, and reduce the fuel that
-feeds runaway fires (S-320; S-321). Cultural burning is not a "primitive" precursor to
-the Western diagram; it is a parallel knowledge system — a practiced, place-based
-understanding of how fire and carbon move through Country, refined over thousands of
-years and still applied today. Science names the reservoirs and the fluxes; cultural
-burning names how to *tend* one of those fluxes responsibly. Present it as a living
-practice of specific First Nations, attributed precisely, never as a specimen (philosophy
-§4).
+**The facts to land.**
+
+1. **Carbon cycles among four great reservoirs:** atmosphere (CO₂), living things and
+soil, the oceans, and rock (limestone, fossil fuels).
+2. **Carbon is neither created nor destroyed; it moves.** Burning fossil fuels returns
+buried carbon fast, which is why it changes the atmosphere so quickly (S-253; S-438;
+S-005).
+3. **Fast loop** (a leaf takes in CO₂ today; a breath returns it) versus **slow loop**
+(carbon locked in limestone and coal for millions of years).
+
+**The lenses, briefly.**
+
+- *Environment:* reservoirs and fluxes are central.
+- *Technology:* combustion reroutes the slow loop into the fast one.
+- *Ethics:* the cycle is neutral; our *rate* of moving carbon is the moral question.
+- *Global:* a fire in one country changes air everywhere.
+- *Critical-thinking:* carbon is reused, not created new — learners can demonstrate
+it.
+
+**The skill.** The "one carbon atom's journey" telling assesses real understanding.
+
+**Two knowledge traditions (philosophy §11).** The four-reservoir account is Western
+Earth science. Hold it *side by side* with Aboriginal and Torres Strait Islander
+**cultural burning** — cool, low-intensity burns that move carbon slowly, promote plant
+growth, maintain habitats, and reduce the fuel for runaway fires (S-320; S-321). Not a
+"primitive" precursor to the diagram but a parallel, place-based system refined over
+millennia and still practised. Science names the reservoirs and fluxes; cultural burning
+names how to *tend* one responsibly. Attribute it to specific First Nations, never as a
+specimen (philosophy §4).
 
 ## Procedure
 

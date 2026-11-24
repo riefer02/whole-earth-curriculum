@@ -111,18 +111,20 @@ punishment.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Its goals: **(1) define conscience not as a fixed,
-infallible voice but as a *loop* — act, reflect, self-criticize, revise — that keeps values honest;
-(2) distinguish self-criticism (honest, specific, corrective) from self-condemnation (global,
-destructive: "I am bad"), and insist on the former; (3) hold this as private, voluntary work — a
-learner's values are their own, and no one is required to disclose (philosophy §6, §8).** The ethics
-lens: forming values is a discipline, not a feeling. The egalitarian lens: self-criticism should ask
-whether my values quietly favor people like me over others. The social-emotional lens: keep the tone
-kind — this is about growth, never shame, and a learner may always pass or step away (facilitation
-"holding difficult topics safely"). The global lens: conscience and self-examination are named
-across traditions — in philosophy, faith, and Indigenous practice — and none owns the idea.
-Distinguish evidence from values: *that* self-examination improves judgment is supported by
-reflective-practice evidence; *which* values one holds is a personal matter the lesson never grades.
+Its goals: **(1) define conscience not as a fixed, infallible voice but as a *loop* —
+act, reflect, self-criticize, revise — that keeps values honest; (2) distinguish
+self-criticism (honest, specific, corrective) from self-condemnation (global,
+destructive: "I am bad"), and insist on the former; (3) hold this as private, voluntary
+work — a learner's values are their own, and no one is required to disclose (philosophy
+§6, §8).** The ethics lens: forming values is a discipline, not a feeling. The
+egalitarian lens: self-criticism should ask whether my values quietly favor people like
+me over others. The social-emotional lens: keep the tone kind — this is about growth,
+never shame, and a learner may always pass or step away (facilitation "holding difficult
+topics safely"). The global lens: conscience and self-examination are named across
+traditions — in philosophy, faith, and Indigenous practice — and none owns the idea.
+Distinguish evidence from values: *that* self-examination improves judgment is supported
+by reflective-practice evidence; *which* values one holds is a personal matter the
+lesson never grades.
 
 ## Procedure
 

@@ -108,21 +108,20 @@ wish.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a contribution to
-belonging is a concrete, planned action aimed at a real gap — and it must be tested for
-who benefits and who is left out.** Teach the plan structure with a worked example; keep
-plans small enough to be feasible in the learner's real circumstances (no
-resource-heavy requirements).
+The idea to land: **a contribution to belonging is a concrete, planned action aimed at a
+real gap — and it must be tested for who benefits and who is left out.** Teach the plan
+structure with a worked example; keep plans small enough to be feasible in the learner's
+real circumstances (no resource-heavy requirements).
 
 The **ethics** lens: contributing to belonging is a moral act — it treats another
 person's being included as worth my effort. The **egalitarian** lens: test every plan
-against *who benefits and who is left out* — a contribution that helps the already-seated
-while ignoring the chairless is not yet a contribution to belonging (it may even widen
-the gap). The **global** lens: contributions to belonging take endlessly varied forms
-across cultures — hosting, sharing food, teaching a language, tending a shared space,
-welcoming a newcomer — and none is ranked above another; the common thread is the
-closing of a gap. The **social-emotional** lens: choosing *where* to care and acting on
-it builds purpose and agency — the feeling of mattering.
+against *who benefits and who is left out* — a contribution that helps the
+already-seated while ignoring the chairless is not yet a contribution to belonging (it
+may even widen the gap). The **global** lens: contributions to belonging take endlessly
+varied forms across cultures — hosting, sharing food, teaching a language, tending a
+shared space, welcoming a newcomer — and none is ranked above another; the common thread
+is the closing of a gap. The **social-emotional** lens: choosing *where* to care and
+acting on it builds purpose and agency — the feeling of mattering.
 
 **Emotional safety.** Plans should be chosen freely and may stay private. No learner is
 required to commit publicly or to act outside their safety or capacity. A contribution

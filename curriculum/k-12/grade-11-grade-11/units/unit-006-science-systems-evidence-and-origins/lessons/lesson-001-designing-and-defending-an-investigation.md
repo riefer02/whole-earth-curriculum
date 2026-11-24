@@ -118,22 +118,21 @@ you measure is the first move in every honest investigation.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **a fair test changes
-only the independent variable, measures the dependent variable, holds every controlled
-variable constant, includes a control group that receives no treatment, and runs
-replicate trials so a single fluke cannot masquerade as a result.** Teach the
-*question → hypothesis → variables → control → replicates → record* loop explicitly,
-with a worked example and guided practice (S-011). Controls, randomization, and
-replication are the standard guardrails against bias and chance (S-250, S-242).
+The ideas to land: **a fair test changes only the independent variable, measures the
+dependent variable, holds every controlled variable constant, includes a control group
+that receives no treatment, and runs replicate trials so a single fluke cannot
+masquerade as a result.** Teach the *question → hypothesis → variables → control →
+replicates → record* loop explicitly, with a worked example and guided practice (S-011).
+Controls, randomization, and replication are the standard guardrails against bias and
+chance (S-250, S-242).
 
 The **intellectual** lens: the design *decides* what the data can later claim — no
 analysis can rescue a confounded test. The **critical-thinking** lens: learners ask of
 every design "what was changed, what was measured, and what was kept the same?" The
 **egalitarianism** lens: a fair test includes everyone and every trial on the same
-footing, so no single case dominates the answer. The **ethics** lens: a test designed
-to confirm what you already believe is a small dishonesty that corrupts the whole
-result. Preview: Lesson 2 turns this design into a carried-out test and reports its
-uncertainty.
+footing, so no single case dominates the answer. The **ethics** lens: a test designed to
+confirm what you already believe is a small dishonesty that corrupts the whole result.
+Preview: Lesson 2 turns this design into a carried-out test and reports its uncertainty.
 
 ## Procedure
 

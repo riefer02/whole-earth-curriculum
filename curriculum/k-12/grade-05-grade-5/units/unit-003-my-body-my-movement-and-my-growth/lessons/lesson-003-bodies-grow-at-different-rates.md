@@ -117,13 +117,13 @@ each body has, no pace is better than another — every pace is a real pace.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **growth varies and
-every pace is normal** — never that a smaller or larger body is "wrong," "slow," or "behind."
-Height and build are shaped by **genes, nutrition, and environment**, and growth comes in
-**spurts**, so comparing bodies as a race is both scientifically false and unkind. Guard
-against teasing about height or size; frame all bodies with dignity. Some learners may feel
-self-conscious about their own size — keep the tone warm and factual, and never single
-anyone out to be measured publicly. See `docs/facilitation.md` on assessing without ranking.
+The idea to land is that **growth varies and every pace is normal** — never that a
+smaller or larger body is "wrong," "slow," or "behind." Height and build are shaped by
+**genes, nutrition, and environment**, and growth comes in **spurts**, so comparing
+bodies as a race is both scientifically false and unkind. Guard against teasing about
+height or size; frame all bodies with dignity. Some learners may feel self-conscious
+about their own size — keep the tone warm and factual, and never single anyone out to be
+measured publicly. See `docs/facilitation.md` on assessing without ranking.
 
 ## Procedure
 

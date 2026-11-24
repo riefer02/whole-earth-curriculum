@@ -112,22 +112,34 @@ see who benefits — which is the beginning of spotting fairness.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **in a linear model y = mx + b,
-the slope m is the rate of change — the amount the output changes per one unit of the input — and
-the intercept b is the starting value — the output when the input is zero.** Use a **worked example
-first** (S-011): a taxi fare y = 2.50x + 4, where the slope 2.50 is "cost per kilometer" and the
-intercept 4 is "the flag-down fee you pay before moving." The critical-thinking lens: units on the
-slope ("money per kilometer," "degrees per hour") are what give the number meaning — a slope without
-units is a number without a story. The egalitarian lens: two workers doing the same job at different
-hourly rates (different slopes) earn more and more apart over time, and a job with no base pay
-(intercept 0) leaves a worker with nothing when work stops — slope and intercept are where fairness
-shows up in a line. The global lens: reading a rate ("per liter," "per kilometer," "per hour") is
-the same act in every market and every country. The ethics lens: naming a slope and intercept
-honestly — not hiding a fee in the fine print or inflating a rate — is an act of truthfulness, the
-same honesty we met with precision (philosophy §5). The technology & environment lens: a rate like
-"liters per kilometer" or "energy per hour" is where a line meets the environment — the same slope
-that models a fare also models fuel use and emissions, so reading the rate is reading our effect on
-the Earth. Have learners *say* the meaning aloud in everyday words, not just compute the numbers.
+**Tone.** Plain-spoken — say the meaning aloud, not just the number.
+
+**The facts to land.**
+
+1. **In y = mx + b, the slope m is the rate of change** — how much the output changes
+per one unit of input.
+2. **The intercept b is the starting value** — the output when the input is zero.
+3. **Worked example:** a taxi fare y = 2.50x + 4, where 2.50 is "cost per kilometre" and
+4 is "the flag-down fee you pay before moving."
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* units on a slope ("money per kilometre," "degrees per hour")
+give the number meaning — a slope without units is a number without a story.
+- *Egalitarianism:* two workers at different hourly rates earn further apart over time,
+and a job with no base pay (intercept 0) leaves nothing when work stops — slope and
+intercept are where fairness shows up.
+- *Global:* reading a rate ("per litre," "per kilometre") is the same act in every
+market and country.
+- *Ethics:* naming slope and intercept honestly — no fee hidden in fine print, no
+inflated rate — is truthfulness, the same honesty as precision (philosophy §5).
+- *Environment:* "litres per kilometre" or "energy per hour" is where a line meets the
+Earth — the slope that models a fare also models fuel use and emissions.
+- *Technology:* a tracker or app turns the slope into a number — useful, no substitute
+for the meaning.
+
+**The skill.** **Worked example first** (S-011), then learners *say* what slope and
+intercept mean in everyday words.
 
 ## Procedure
 

@@ -115,18 +115,18 @@ story: *who made it?* and *who is it for?*
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The goal is a first, gentle step toward
-media literacy: every message has a maker and an audience. Keep it warm and
-matter-of-fact — we are noticing, never accusing. No message is being framed as
-"sneaky" or "trying to trick you"; at six, the point is simply that pictures and
-stories come from someone and go to someone. Do not shame any media or screen. Honor
-the many kinds of makers: an author, an illustrator, a sign-writer, a grandparent who
-tells stories, a child who draws. All are makers, and no kind of maker is better than
-another. For a learner who is blind or has low vision, read the maker's name aloud and
-describe the picture; the learner names the maker and audience from the description. A
-non-speaking learner can point to the maker's name and to a picture of the audience (a
-child, a grown-up, everyone) to show the answer. When learners make their own picture,
-every audience is welcome — a sibling, a pet, a friend, the whole class.
+The goal is a first, gentle step toward media literacy: every message has a maker and an
+audience. Keep it warm and matter-of-fact — we are noticing, never accusing. No message
+is being framed as "sneaky" or "trying to trick you"; at six, the point is simply that
+pictures and stories come from someone and go to someone. Do not shame any media or
+screen. Honor the many kinds of makers: an author, an illustrator, a sign-writer, a
+grandparent who tells stories, a child who draws. All are makers, and no kind of maker
+is better than another. For a learner who is blind or has low vision, read the maker's
+name aloud and describe the picture; the learner names the maker and audience from the
+description. A non-speaking learner can point to the maker's name and to a picture of
+the audience (a child, a grown-up, everyone) to show the answer. When learners make
+their own picture, every audience is welcome — a sibling, a pet, a friend, the whole
+class.
 
 ## Procedure
 

@@ -114,30 +114,42 @@ the living Earth.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **languages are lost when they stop being
-passed to children — through colonization, forced schooling, migration, and economic pressure — and they are
-revitalized by restoring *intergenerational transmission*: elders and children speaking together again.**
-There are about **7,000 living languages** in the world (Ethnologue, S-426), and thousands are endangered;
-UNESCO has warned that about **40% of the world's people lack access to education in a language they speak or
-understand** (S-019). Loss is real, but so is revival. The four stories: **Māori** (Aotearoa New Zealand) —
-the kōhanga reo ("language nest") movement began in 1982, putting elders and preschoolers together in te reo
-Māori, and helped reverse decline; **Hawaiian** — the Pūnana Leo ("language nest") preschools, begun in 1984,
-helped grow new generations of speakers of ʻōlelo Hawaiʻi; **Welsh** — once pressured toward English, Cymraeg
-is now taught in schools, spoken in public life, and carried by media; **Hebrew** — revived from a liturgical
-language into an everyday spoken one over the twentieth century, a celebrated case of language revival
-(S-428). The environment link: languages carry ecological knowledge — names and classifications of plants,
-animals, weather, and land — so when a language is lost, knowledge of a place is lost with it; this is
-**biocultural diversity**: the diversity of life and the diversity of languages and cultures rise and fall
-together (S-427). Kimmerer writes of learning Potawatomi plant words and finding that the language itself
-encodes a relationship of respect to the living world — the grammar calls a plant a *person*, not a *thing*
-(S-427). The environment lens is thus literal, not a metaphor. The egalitarian lens: languages are lost
-unequally — through colonialism and forced schooling, the languages of Indigenous and minoritized peoples
-were punished, and revitalization is therefore a question of justice, not nostalgia. The ethics lens: a
-language is not a "relic"; its speakers are living people with a right to their own language, and protecting
-a language means supporting its speakers, not collecting it. The global lens: loss and revival happen on every
-continent, and no single region owns either the problem or the cure. Keep loss paired with hope and agency —
-never despair (development.md 9–12) — and hold the factual claims carefully with sources (S-019, S-426,
-S-427, S-428).
+**Tone.** Grave and hopeful — loss is real; so is revival.
+
+**The facts to land.**
+
+1. **Languages are lost when they stop being passed to children** — through
+colonization, forced schooling, migration, economic pressure — and revived by restoring
+*intergenerational transmission*: elders and children speaking together.
+2. **The scale:** **7,000 living languages** exist (Ethnologue, S-426), thousands
+endangered, and UNESCO warns **40% of people lack education in a language they speak or
+understand** (S-019).
+3. **Four reversals:**
+
+- **Māori** (Aotearoa New Zealand): kōhanga reo ("language nest"), 1982 — elders and
+preschoolers in te reo Māori.
+- **Hawaiian:** Pūnana Leo ("language nest") preschools, 1984 — new generations of
+ʻōlelo Hawaiʻi speakers.
+- **Welsh:** pressured toward English, now schooled, spoken, and broadcast again.
+- **Hebrew:** liturgical to everyday speech across the twentieth century (S-428).
+
+4. **Biocultural diversity:** languages carry ecological knowledge — plants, animals,
+weather, land — so losing a language loses knowledge of a place; life and language
+diversity rise and fall together (S-427). Kimmerer found Potawatomi grammar calls a
+plant a *person*, not a *thing* (S-427).
+
+**The lenses, briefly.**
+
+- *Environment:* the link is literal, not metaphor (S-427).
+- *Egalitarianism:* colonialism and forced schooling punished Indigenous languages, so
+revival is justice, not nostalgia.
+- *Ethics:* a language is not a "relic"; its speakers have a right to it, and
+protecting it means supporting speakers, not collecting.
+- *Global:* loss and revival happen on every continent; no region owns problem or
+cure.
+
+**The skill.** Tell one revival story with dates and agents. Keep loss paired with hope
+and agency (development.md 9–12).
 
 ## Procedure
 

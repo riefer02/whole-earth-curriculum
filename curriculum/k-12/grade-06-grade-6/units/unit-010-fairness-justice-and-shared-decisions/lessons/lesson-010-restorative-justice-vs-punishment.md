@@ -126,24 +126,37 @@ when each helps — is the last skill of this unit, and it draws on everything b
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **restorative justice**
-aims to *repair harm, meet the needs of the person harmed, and have the person who harmed
-take responsibility* — its limits include that it *takes time and everyone's willingness*,
-and may not fit every harm. **Punishment** aims at *a clear consequence for the wrong and
-accountability* — its limits include that *the harm and the harmed person's needs may go
-unrepaired*, and it may not teach how to do better. Compare them **non-shamingly and
-honestly**: neither is "good" and the other "bad"; each has aims and limits, and the unit
-holds the question — *which response fits this harm?* — as a question, never answered as
-dogma. This is a **capstone**, so build in **spaced retrieval** of the unit's threads: a
-quick recall of fact/belief/value, fairness vs justice, and conflict analysis, interleaved
-with the new comparison (see `docs/contexts.md`; Dunlosky et al. note practice testing and
-distributed practice as high-utility). Model the comparison once (Kirschner, Sweller &
-Clark, 2006). Distinguish **evidence from values**: *what each approach aims at and where
-its limits are* is observable in real practices; *that repair and dignity matter* is a
-value this curriculum holds and names as such. Keep restorative examples **non-shaming** —
-the focus is repair and dignity, never humiliation. If a learner brings up serious harm,
-hold the boundary: serious harm needs adults and proper systems, and this lesson is about
-understanding the *ideas*, not resolving real cases. See `docs/facilitation.md`.
+**Tone.** Even-handed. Neither approach is the villain here.
+
+**The facts to land.**
+
+1. **Restorative justice** aims to repair harm, meet the needs of the person harmed, and
+   have the person who harmed take responsibility.
+2. Its **limits**: it takes time and everyone's willingness, and may not fit every harm.
+3. **Punishment** aims at a clear consequence and accountability.
+4. Its **limits**: the harm and the harmed person's needs may go unrepaired, and it may
+   not teach how to do better.
+
+**Don't overshoot.** Do not cast one as good and the other as bad. Each has aims and
+limits; *which response fits this harm?* stays open.
+
+**The lenses, briefly.**
+
+- *Ethics:* what each approach aims at, and where it strains, is observable in real
+  practice; that repair and dignity matter is a value, named as one.
+- *Egalitarianism:* who gets heard in a repair process matters as much as the outcome.
+- *Social-emotional:* naming harm without humiliation is a skill.
+- *Community:* repair happens among people who must live together afterwards.
+- *Critical-thinking:* compare on criteria, not on loyalty.
+
+**The skill.** This is the capstone: build in spaced retrieval of fact/belief/value,
+fairness vs justice, and conflict analysis, interleaved with the new comparison
+(`docs/contexts.md`; Dunlosky et al. on practice testing and distributed practice).
+Model the comparison once (Kirschner, Sweller & Clark, 2006).
+
+**Safety floor.** If a learner raises serious harm, hold the boundary: that needs adults
+and proper systems; this lesson is about the ideas, not resolving real cases. See
+`docs/facilitation.md`.
 
 ## Procedure
 

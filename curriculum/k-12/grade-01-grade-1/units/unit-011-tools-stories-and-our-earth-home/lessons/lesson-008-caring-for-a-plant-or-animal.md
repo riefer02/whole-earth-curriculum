@@ -115,19 +115,34 @@ what keeps it alive and well.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Make the caring real, not symbolic —
-learners should actually water, feed, or tidy for a living thing, with safe, clean
-hands and gentle touch. The core idea is **each day**: steady care is what living things
-need, and learners are helpers, not saviors or owners to command. Honor whatever living
-thing is at hand — a windowsill plant is every bit as worthy of care as a pet. Never
-frame a family without pets or plants as missing something; a wild bird given a dish of
-water, or a street tree watered in the dry season, is just as real. For a learner with
-motor differences, the choosing and the directing are the care — they may guide a
-partner's hands to pour the water or fill the dish while saying what the living thing
-needs; adapt the tool (a light cup, a long-spouted can). A learner who is blind or has
-low vision can feel the plant's dry or damp soil and the filled dish, and listen for
-the living thing's sounds. A non-speaking learner can point to the caring task and to
-pictures of water and food to show what the living thing needs each day.
+**Tone.** Steady and warm. Caring is a daily habit, not a gesture.
+
+**The facts to land.**
+
+1. Make the caring real, not symbolic: actually water, feed, or tidy — with safe, clean
+   hands and a gentle touch.
+2. The core idea is **each day**: steady care is what living things need.
+3. Learners are **helpers, not saviours or owners** to command.
+4. Whatever living thing is at hand is worthy: a windowsill plant as much as a pet.
+
+**Don't overshoot.** Never frame a family without pets or plants as missing something. A
+wild bird given a dish of water, or a street tree watered in the dry season, is just as
+real.
+
+**The lenses, briefly.**
+
+- *Environment:* care is what a living thing needs, not what we feel like giving.
+- *Ethics:* helping is not owning.
+- *Community:* care can be shared with a partner, a family, a class.
+- *Global:* the living things at hand differ by place; the duty of care does not.
+
+**The skill.** Notice what a living thing needs today, then give exactly that.
+
+**Access.** Motor difference: direct a partner's hands to pour the water or fill the
+dish while saying what the living thing needs — adapt the tool too (a light cup, a
+long-spouted can). Blind or low-vision: feel the plant's dry or damp soil and the filled
+dish, and listen for the living thing's sounds. Non-speaking: point to the caring task
+and to pictures of water and food.
 
 ## Procedure
 

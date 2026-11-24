@@ -115,27 +115,24 @@ family lives in its own way — all of it honored.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Your job is to co-build a safe
-container. **Land these four commitments and keep returning to them all unit long:**
-dignity (no shame about any body), accuracy (we use real, sourced information, never
-rumor or fear), consent (everyone may share or pass; no one is forced to disclose),
-and care (questions get honest answers and a path to help).
+Your job is to co-build a safe container. **Land these four commitments and keep
+returning to them all unit long:** dignity (no shame about any body), accuracy (we use
+real, sourced information, never rumor or fear), consent (everyone may share or pass; no
+one is forced to disclose), and care (questions get honest answers and a path to help).
 
 **Sensitive-topic guidance (non-negotiable):** learners may **opt out of sharing** at
 any time with a signal — no forced disclosure of personal experience, ever. If a
-learner's question or comment suggests they may be unsafe, hurt, or in need of help,
-do **not** promise secrecy; follow your setting's safeguarding procedure and connect
-them with a **trusted adult or local health service** (school counselor, clinic,
-helpline). State the limits of confidentiality plainly at the start so no one is
-surprised.
+learner's question or comment suggests they may be unsafe, hurt, or in need of help, do
+**not** promise secrecy; follow your setting's safeguarding procedure and connect them
+with a **trusted adult or local health service** (school counselor, clinic, helpline).
+State the limits of confidentiality plainly at the start so no one is surprised.
 
 The **ethics** lens: dignity and honest information are the *right* way to care for
-people. The **egalitarian** lens: these agreements protect everyone equally — the
-quiet, the different, the unsure. The **global** lens: different cultures and
-families have different ways of living, and none is above another. The
-**social-emotional** lens: naming that this topic can feel tender is itself a skill.
-Use the wonder box for every lesson; answer a few questions each day with accurate,
-non-shaming information.
+people. The **egalitarian** lens: these agreements protect everyone equally — the quiet,
+the different, the unsure. The **global** lens: different cultures and families have
+different ways of living, and none is above another. The **social-emotional** lens:
+naming that this topic can feel tender is itself a skill. Use the wonder box for every
+lesson; answer a few questions each day with accurate, non-shaming information.
 
 ## Procedure
 

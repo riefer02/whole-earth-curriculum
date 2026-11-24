@@ -115,17 +115,36 @@ about being *ready*, and about being willing to ask for help.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Teach first aid **factually and safely**,
-and lead with the rule: **when unsure, get an adult or medical help.** The facts to land:
-for bleeding, apply direct pressure with a clean cloth and keep pressing, and get medical
-help if bleeding is heavy, spurting, or will not stop; for burns, cool the burn under cool
-running water (not ice) for about 20 minutes if possible, remove tight items such as rings,
-do not pop blisters, and get medical help for large or deep burns or burns to the face,
-hands, feet, or joints (IFRC Global First Aid Reference Centre; WHO burns fact sheet). Do
-not teach advanced or uncertain techniques; this age needs the safe basics plus the help-
-seeking reflex. Reassure learners that getting help is part of first aid, not a failure.
-Remind them that hands-on practice with a certified instructor (Red Cross/Red Crescent or
-equivalent) is the best way to build confidence. See `docs/facilitation.md`.
+**Tone.** Calm and practical. Teach the basics, not heroics; no scare stories.
+
+**The facts to land.**
+
+1. Lead with the rule: **when unsure, get an adult or medical help.**
+2. **Bleeding:** apply direct pressure with a clean cloth and keep pressing. Get medical
+   help if bleeding is heavy, spurting, or will not stop.
+3. **Burns:** cool under cool running water — never ice — for about 20 minutes if
+   possible; remove tight items such as rings; do not pop blisters. Get help for large
+   or deep burns, or burns to the face, hands, feet, or joints.
+4. Teach **no advanced or uncertain techniques**. This age needs the safe basics plus
+   the help-seeking reflex; hands-on practice with a certified instructor (Red Cross/Red
+   Crescent or equivalent) builds confidence best.
+
+**Don't overshoot.** Do not suggest a learner should manage a serious injury alone, or
+improvise a technique the lesson did not teach.
+
+**The lenses, briefly.**
+
+- *Physical:* pressure stops bleeding; cool water, not ice, cools a burn.
+- *Ethics:* help-seeking is part of first aid, not a failure.
+- *Egalitarianism:* everyone can learn this; no equipment is required to start.
+- *Global:* the same basics are taught worldwide (IFRC Global First Aid Reference
+  Centre; WHO burns fact sheet).
+- *Community:* knowing who to call is part of the skill.
+
+**The skill.** Rehearse the two actions and the call for help aloud, in order, until
+they are automatic.
+
+**Safety floor.** A real injury gets an adult immediately. See `docs/facilitation.md`.
 
 ## Procedure
 

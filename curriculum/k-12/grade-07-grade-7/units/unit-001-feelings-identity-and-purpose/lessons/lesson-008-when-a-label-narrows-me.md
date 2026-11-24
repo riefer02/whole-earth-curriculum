@@ -118,21 +118,36 @@ not if you learn to see it as one small box inside a much bigger life.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a stereotype or label
-can limit a person's sense of self — it narrows what they believe they may do or become, and it
-can be *internalized* as an inner voice; (2) this narrowing is not evenly distributed — some
-people are labeled more and get to be seen as individuals less, which is the *egalitarianism*
-lens; and (3) the narrowing can be resisted — the door is not locked.** The *ethics* lens asks
-what it costs others when we repeat a limiting label; the *technology* lens notes that media
-and feeds repeat the same narrow images until they feel inevitable. Hold the research honestly:
-the "stereotype threat" finding (that worrying about confirming a negative stereotype can
-under-cut performance; Steele & Aronson, 1995) is well known but its size and boundaries are
-debated — teach it as "labels can get inside and weigh on a person," not as a fixed law. Always
-end in agency and hope: labels can narrow, but never finish. Keep examples low-stakes and
-never require disclosure. Model one limit-and-push-back as a worked example (Kirschner, Sweller
-& Clark, 2006). Distinguish **evidence from values**: that labels can limit is observable; that
-every person deserves a wide, open sense of what is possible is a value this curriculum holds —
-name it as one. See `docs/facilitation.md` and `docs/art-style.md`.
+**Tone.** Serious. Labels are discussed, never enacted.
+
+**The facts to land.**
+
+1. **A stereotype or label can limit a person's sense of self** — it narrows what they
+   believe they may do or become, and can be *internalized*.
+2. **The narrowing is not evenly distributed**: some people are labeled more and get to
+   be seen as individuals less.
+3. **The narrowing can be resisted** — the door is not locked.
+4. Hold the research honestly: "stereotype threat" — worry about confirming a negative
+   stereotype can under-cut performance (Steele & Aronson, 1995) — is well known, but
+   its size and boundaries are debated; teach it as "labels can get inside," not a fixed
+   law.
+
+**Don't overshoot.** Do not promise one reframing undoes years of labeling, and never
+require anyone to disclose a label they carry.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* an inner voice can be answered.
+- *Ethics:* repeating a limiting label costs others.
+- *Egalitarianism:* some people are labeled more and seen less as individuals.
+- *Global:* a label lands differently in different places.
+- *Technology:* media and feeds repeat narrow images until they feel inevitable.
+- *Critical-thinking:* labels limiting is observable; that every person deserves a wide
+  sense of what is possible is a value, named as one.
+
+**The skill.** Take one limit and push back: redefine the label as one small part of a
+larger whole. Model it once (Kirschner, Sweller & Clark, 2006). Keep examples low-stakes
+and end in agency. See `docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure
 

@@ -115,26 +115,25 @@ state the best objection against is a position you do not yet understand.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a persuasive speech
-is built from claim, reasons, evidence, and — its mark of honesty — the strongest
-counterargument, stated at full strength and answered fairly.** The scaffold follows
-the argument model learners met in earlier grades (claim/reasons/evidence/counterargument,
-Toulmin's claim/data/warrant/rebuttal, S-236), now aimed at *spoken* delivery. The
-**steelman** principle — restate the other side's best version before answering — is
-the ethical heart: it is the difference between persuading and manipulating.
+The idea to land: **a persuasive speech is built from claim, reasons, evidence, and —
+its mark of honesty — the strongest counterargument, stated at full strength and
+answered fairly.** The scaffold follows the argument model learners met in earlier
+grades (claim/reasons/evidence/counterargument, Toulmin's claim/data/warrant/rebuttal,
+S-236), now aimed at *spoken* delivery. The **steelman** principle — restate the other
+side's best version before answering — is the ethical heart: it is the difference
+between persuading and manipulating.
 
 Model the scaffold once, then let learners build their own (worked example → guided
 practice → independent work; S-011). The **critical-thinking** lens: a strong speech
-*invites* the hardest objection rather than dodging it. The **ethics** lens:
-persuasion that refuses to name the other side is pressure, not argument; fairness to
-the counterargument is an ethical commitment, not a tactic. The **egalitarian** lens:
-whose objections get to be heard is a question of power — a good speech makes room for
-the quiet objection as well as the loud one. The **global** lens: the *forms* of
-persuasive speech differ across cultures (a griot's performance, a formal whaikōrero,
-a debate, a family council), but the demand to answer the other side fairly is shared.
-Encourage learners to draft in their home language first — fluency of thought comes
-first, translation later (Lesson 12). Preview: Lesson 4 turns the scaffold into a
-delivery.
+*invites* the hardest objection rather than dodging it. The **ethics** lens: persuasion
+that refuses to name the other side is pressure, not argument; fairness to the
+counterargument is an ethical commitment, not a tactic. The **egalitarian** lens: whose
+objections get to be heard is a question of power — a good speech makes room for the
+quiet objection as well as the loud one. The **global** lens: the *forms* of persuasive
+speech differ across cultures (a griot's performance, a formal whaikōrero, a debate, a
+family council), but the demand to answer the other side fairly is shared. Encourage
+learners to draft in their home language first — fluency of thought comes first,
+translation later (Lesson 12). Preview: Lesson 4 turns the scaffold into a delivery.
 
 ## Procedure
 

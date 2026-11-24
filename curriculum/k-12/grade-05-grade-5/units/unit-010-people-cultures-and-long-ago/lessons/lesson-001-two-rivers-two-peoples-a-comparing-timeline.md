@@ -124,15 +124,15 @@ lets us see them together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to build is **placing events on
-a shared time scale and reading "at the same time" across two rows** — not memorizing
-dates. Model the worked example fully (explicit instruction, guided practice) before
-learners work on their own; a comparing timeline is a new skill for most Grade 5 learners.
-Explain **BCE** ("before the common era") and **CE** ("common era") simply, and note that
-many peoples count years in their own ways — BCE/CE is one shared convention, not the only
-one. Guard against ranking ("Egypt was better than the Indus"): the point is that both
-peoples built great things, differently. This lesson produces the unit's **two-civilization
-timeline** portfolio artifact. See `docs/facilitation.md`.
+The skill to build is **placing events on a shared time scale and reading "at the same
+time" across two rows** — not memorizing dates. Model the worked example fully (explicit
+instruction, guided practice) before learners work on their own; a comparing timeline is
+a new skill for most Grade 5 learners. Explain **BCE** ("before the common era") and
+**CE** ("common era") simply, and note that many peoples count years in their own ways —
+BCE/CE is one shared convention, not the only one. Guard against ranking ("Egypt was
+better than the Indus"): the point is that both peoples built great things, differently.
+This lesson produces the unit's **two-civilization timeline** portfolio artifact. See
+`docs/facilitation.md`.
 
 ## Procedure
 

@@ -123,21 +123,35 @@ to tell the true story of a place.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Ordering is a foundational skill, so
-teach it with a worked example first** (Kirschner, Sweller & Clark, 2006): model
-placing three landmarks on the line, and for each one say the clue — "the photo shows
-the tree when it was small, so the tree was planted first; the plaque says the school
-was built in 1987, so it came later." Then guide the same two moves for a second set
-before learners work independently. **The evidence is the point of this grade:** Grade
-2 ordered events; Grade 3 adds "how do you know?" — a photo, a date, a memory, a
-building style. Keep landmarks local, real, and gentle (a tree, a bridge, a school, a
-market, a well), never frightening or private. Honor every body and every family
-shape: a learner who is blind or has low vision sequences real objects by touch and
-says or signs the order and the clue; a learner who does not use a speaking voice
-points or acts. Every place's order of landmarks is real and worthy — a town, a
-village, a farm, or a settlement all have their own. Remember that different peoples
-mark time in different ways (many calendars, many ways of naming years) — a timeline
-is one tool among many, not the only truth about time.
+**Tone.** Concrete and evidence-minded — the line is only as good as its clue.
+
+**The facts to land.**
+1. A timeline orders events, and each placement needs a **clue**: a photo, a date, a
+   memory, a building style.
+2. Grade 2 ordered events; Grade 3 adds "how do you know?" — evidence is the point.
+3. Different peoples mark time differently — many calendars, many ways of naming years —
+   so a timeline is one tool.
+
+**Don't overshoot.** Do not let a tidy line imply certainty it does not have. If the
+clue is a memory, say so.
+
+**The lenses, briefly.**
+- *Global:* every place has its own order of landmarks.
+- *Egalitarianism:* no place's history is the standard another is measured against.
+- *Intellectual:* model it first (Kirschner, Sweller & Clark, 2006): place three
+  landmarks, saying each clue aloud — "the tree was small in the photo, so it was
+  planted first; the plaque dates the school to 1987, so it came later." Then guide a
+  second set.
+- *Critical-thinking:* every position gets a "how do you know?"
+
+**The skill.** Place an event, then give its clue.
+
+Keep landmarks local, real, and gentle — a tree, a bridge, a school — never frightening
+or private.
+
+**Access:** a learner who is blind or has low vision sequences real objects by touch and
+says or signs the order and clue; a learner who does not use a speaking voice points or
+acts it.
 
 ## Procedure
 

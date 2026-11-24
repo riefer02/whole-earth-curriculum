@@ -102,12 +102,12 @@ home — safe.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, keep the tone warm and
-reassuring. Introduce "trusted grown-ups" — the adults a child can safely turn to, such
-as a caregiver, teacher, nurse, or neighbor. Keep safety talk age-appropriate: if a
-child is hurt, scared, or made to feel unsafe, they should tell a trusted grown-up —
-no details beyond that are needed at this age. Be ready for a child to share something
-heavy, and respond with calm and follow your local safeguarding steps.
+As facilitator, keep the tone warm and reassuring. Introduce "trusted grown-ups" — the
+adults a child can safely turn to, such as a caregiver, teacher, nurse, or neighbor.
+Keep safety talk age-appropriate: if a child is hurt, scared, or made to feel unsafe,
+they should tell a trusted grown-up — no details beyond that are needed at this age. Be
+ready for a child to share something heavy, and respond with calm and follow your local
+safeguarding steps.
 
 ## Procedure
 

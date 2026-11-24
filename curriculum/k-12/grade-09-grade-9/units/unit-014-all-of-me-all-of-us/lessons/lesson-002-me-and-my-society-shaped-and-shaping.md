@@ -118,29 +118,37 @@ your world and a maker of it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **identity is not a private
-possession but a two-way exchange — society shapes the self, and the self shapes its society
-back through the choices it makes.** The shaping side is the classic insight of socialization:
-families, schools, media, laws, and the economy teach us what is normal, possible, and
-valued (CASEL's "social awareness" names this ability to read those forces; S-001). The
-"shaping back" side is **agency** — and the heart of Erikson's account of identity as an
-ongoing, lifelong process, never a finished fact (S-155). The group side draws on social
-identity: we take part of our sense of self from the groups we belong to, which is why
-belonging can be so powerful — for good and for exclusion (Tajfel's minimal-group work;
-S-232). Hold the distinction carefully: the *facts* that societies shape people and people
-shape societies are documented; the *values* — that everyone deserves a fair chance to shape
-their world — is a commitment, not a measurement (philosophy §5).
+**Tone.** Analytical and hopeful — seeing the forces makes a person freer.
 
-The **egalitarian** lens is central: ask *who gets shaped most and listened to least?* —
-whose choices are widened and whose are narrowed by the same rules. The **ethics** lens:
-if society shapes me, how responsible am I for the society I shape back? The **global** lens:
-the shaping forces differ across cultures (some are shaped more by family and tradition,
-others by media and markets), but the two-way arrow is human everywhere — avoid any single
-culture as the "normal" case. The **technology & environment** lens: today the media,
-platforms, and built environments around us are among the most powerful shapers, and among
-the things learners can most readily shape back. End on agency, not determinism — a learner
-who sees the forces shaping them is *more* free, not less, because they can name and answer
-them (facilitation.md).
+**The facts to land.**
+
+1. **Identity is a two-way exchange:** society shapes the self, and the self shapes
+society back through its choices.
+2. **Shaped:** families, schools, media, laws, and the economy teach what is normal,
+possible, and valued — CASEL's "social awareness" names reading those forces (S-001).
+3. **Shaping back is agency,** and Erikson's identity is an ongoing, lifelong process,
+never a finished fact (S-155).
+4. **Group belonging is powerful:** we take part of our sense of self from the groups we
+belong to — for good and for exclusion (Tajfel, S-232).
+
+**The lenses, briefly.**
+
+- *Egalitarianism:* who gets shaped most and listened to least — whose choices the same
+rules widen and narrow.
+- *Ethics:* if society shapes me, how responsible am I for the society I shape back?
+- *Global:* shaping forces differ across cultures, but the two-way arrow is human
+everywhere; avoid any culture as "normal".
+- *Technology:* platforms and built environments are the strongest shapers, and the
+easiest to shape back.
+- *Environment:* the place you live shapes what feels possible, and can be tended in
+return.
+- *Social-emotional:* naming a force is the first move toward answering it.
+
+**The skill.** Draw both arrows for one force in your own life.
+
+- *Critical-thinking:* name the force before judging it. **Evidence and values.** That
+societies shape people and people shape societies is documented; that everyone deserves
+a fair chance to shape their world is a commitment, not a measurement (philosophy §5).
 
 ## Procedure
 

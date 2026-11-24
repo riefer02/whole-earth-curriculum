@@ -111,28 +111,27 @@ use with prices and promises; now you sharpen it for health.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Land the five questions** (framed
-by NAMLE's key media questions, S-151, and Common Sense's news/media-literacy
-habits, S-063): **(1) Who made this?** (an author, a company, an anonymous account);
-**(2) Why was it made?** (to inform, to persuade, to sell, to scare, to entertain);
-**(3) For whom?** (an audience whose attention or money is wanted); **(4) What
-evidence?** (a study, a source, or only assertion); **(5) What is left out?**
-(risks, costs, alternatives, who disagrees). Model one worked example aloud before
-learners practice.
+**Land the five questions** (framed by NAMLE's key media questions, S-151, and Common
+Sense's news/media-literacy habits, S-063): **(1) Who made this?** (an author, a
+company, an anonymous account); **(2) Why was it made?** (to inform, to persuade, to
+sell, to scare, to entertain); **(3) For whom?** (an audience whose attention or money
+is wanted); **(4) What evidence?** (a study, a source, or only assertion); **(5) What is
+left out?** (risks, costs, alternatives, who disagrees). Model one worked example aloud
+before learners practice.
 
 **Sensitive-topic guidance:** health claims in this unit's samples may include
-sexual-health products and body claims; keep samples non-graphic and treat every
-claim as material to *analyze*, never to try. Learners may **opt out**. If a sample
-triggers a disclosure or concern, respond privately and follow your safeguarding
-procedure to a **trusted adult or health service**.
+sexual-health products and body claims; keep samples non-graphic and treat every claim
+as material to *analyze*, never to try. Learners may **opt out**. If a sample triggers a
+disclosure or concern, respond privately and follow your safeguarding procedure to a
+**trusted adult or health service**.
 
-The **ethics** lens: using true information — not fear or deception — is the honest
-way to influence a health decision. The **egalitarian** lens: those with less access
-to education are targeted by weak or false claims, so the skill of checking is a form
-of protection for everyone. The **global** lens: health claims look different in
-different markets and languages, but the five questions work everywhere. The
-**technology** lens: the internet multiplies claims and anonymizes their sources,
-which makes the questions more necessary, not less.
+The **ethics** lens: using true information — not fear or deception — is the honest way
+to influence a health decision. The **egalitarian** lens: those with less access to
+education are targeted by weak or false claims, so the skill of checking is a form of
+protection for everyone. The **global** lens: health claims look different in different
+markets and languages, but the five questions work everywhere. The **technology** lens:
+the internet multiplies claims and anonymizes their sources, which makes the questions
+more necessary, not less.
 
 ## Procedure
 

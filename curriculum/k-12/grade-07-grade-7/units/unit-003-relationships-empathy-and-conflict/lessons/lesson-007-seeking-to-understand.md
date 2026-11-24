@@ -119,17 +119,16 @@ mind; it means you have *seen* the other person, and that is the honest first mo
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **empathy across
-difference is a practiced loop — listen, repeat back, ask a question, check — and its aim is
-understanding, not agreement or victory**. Keep the differences of view small, invented,
-and safe (a school rule, a food custom, a change in a neighborhood), never real conflicts
-between classmates and never beliefs a learner would be graded on (inquiry over creed).
-Guard the key distinction in your own language: understanding is not agreement, and no
-learner is asked to change a view. Model the loop once as a worked example before pairs
-practice (Kirschner, Sweller & Clark, 2006). Honor the global lens by noting that
-"listening to understand" is a value held in many knowledge traditions, named differently
-in each — leave room for learners to name their own. See `docs/facilitation.md` and
-`docs/art-style.md`.
+The idea to land is that **empathy across difference is a practiced loop — listen,
+repeat back, ask a question, check — and its aim is understanding, not agreement or
+victory**. Keep the differences of view small, invented, and safe (a school rule, a food
+custom, a change in a neighborhood), never real conflicts between classmates and never
+beliefs a learner would be graded on (inquiry over creed). Guard the key distinction in
+your own language: understanding is not agreement, and no learner is asked to change a
+view. Model the loop once as a worked example before pairs practice (Kirschner, Sweller
+& Clark, 2006). Honor the global lens by noting that "listening to understand" is a
+value held in many knowledge traditions, named differently in each — leave room for
+learners to name their own. See `docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure
 

@@ -121,34 +121,39 @@ sentence at a time.**
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **public speaking is a
-practiced skill with visible parts — preparation (purpose, audience, one point, one
-piece of evidence), and delivery (breath, pace, volume, posture, eye line) — and
-nervousness is normal and manageable, not a verdict.** The register work of Lesson 4
-(S-237) now becomes a choice made *for a real listener*: the same message is said
-differently to peers than to a formal body, and the skilled speaker reads the audience
-and adapts. Confidence, in the developmental picture for ages 14–18, is partly a matter
-of practice and feedback — the more a learner speaks and hears themselves improve, the
-more the fear recedes.
+**Tone.** Steady and encouraging: nervousness is the body preparing, not a verdict.
 
-Model the skill once, then let learners practice (worked example → guided practice →
-independent work; S-011). Keep stakes low: everyone speaks to a partner before anyone
-speaks to the whole room, and a recording can replace a live audience where that is
-safer. Delivery may be oral, signed, or through a communication device (AAC) — the craft
-being assessed is purpose, audience, one point, one piece of evidence, and a register
-matched to the audience, not the voice or the standing posture. The **social-emotional**
-lens is the spine: name the physical signs of
-nervousness (racing heart, shallow breath, shaking hands) as the body's preparation,
-not a failure; teach a slow breath as a real tool. The **egalitarian** lens: the
-"right" accent or register is a gate — every voice, every dialect, every first language
-is welcome on this stage, and confidence should not require a learner to erase their
-own way of speaking. The **global** lens: every culture has its own arts of public
-address — formal oratory, call-and-response, story — and a learner may draw on their own
-tradition's strengths. The **ethics** lens: with an audience comes responsibility — say
-what is true, own your sources, and do not use the platform to harm. The
-**critical-thinking** lens: keep the address *reasoned* — one claim, one piece of
-evidence — so confidence is built on substance, not just polish. Preview: Lesson 6
-turns from speaking to *reading* — evaluating media for bias and omission.
+**The facts to land.**
+
+1. Public speaking is a practised skill with visible parts: preparation (purpose,
+   audience, one point, one evidence) and delivery (breath, pace, volume, posture, eye
+   line).
+2. Lesson 4's register becomes a choice made for a real listener (S-237).
+3. For ages 14–18, confidence grows through practice: the more a learner speaks and
+   hears improvement, the more the fear recedes.
+
+**Don't overshoot.** Do not grade polish or nerves; the craft is purpose, audience, one
+claim, one evidence, and a fitting register.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* the spine — racing heart, shallow breath, shaking hands are
+  preparation; a slow breath is a real tool.
+- *Egalitarianism:* the "right" accent is a gate; every voice, dialect, and first
+  language is welcome, and confidence should not require erasing your own way of
+  speaking.
+- *Global:* formal oratory, call-and-response, story — draw on your own tradition's
+  strengths.
+- *Ethics:* with an audience comes responsibility — say what is true, own your sources,
+  and do not use the platform to harm.
+- *Critical-thinking:* one claim, one piece of evidence, so confidence rests on
+  substance.
+
+**Access.** Keep stakes low: a partner before the whole room, and a recording where that
+is safer. Delivery may be oral, signed, or through a communication device.
+
+**The skill.** Model once, then release (S-011): one minute, one claim, to a partner,
+then a small group. Lesson 6 turns to reading media for bias.
 
 ## Procedure
 

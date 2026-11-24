@@ -113,13 +113,13 @@ best available truth, from more than one place, and keeping track of where each 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land are that research means
-**gathering from several sources** and that a good note records **both the fact and its source**.
-Make "sources" wide — a person, a place, a chart, an object — so the skill is not limited to
-books, which many learners may not have. Model taking a note from two sources on one topic,
-then let learners choose topics they can actually investigate in their own lives. This is the
-first half of the research arc; the next lesson turns the notes into a report in the learner's
-own words. See `docs/contexts.md` on low-resource research.
+The ideas to land are that research means **gathering from several sources** and that a
+good note records **both the fact and its source**. Make "sources" wide — a person, a
+place, a chart, an object — so the skill is not limited to books, which many learners
+may not have. Model taking a note from two sources on one topic, then let learners
+choose topics they can actually investigate in their own lives. This is the first half
+of the research arc; the next lesson turns the notes into a report in the learner's own
+words. See `docs/contexts.md` on low-resource research.
 
 ## Procedure
 

@@ -114,20 +114,31 @@ you look again. It is not guessing — it is a careful, useful check.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Estimation is a **number-sense skill**:
-teach it with rounding to friendly numbers, then comparing (Van de Walle, Karp &
-Bay-Williams, 2019). Model once as a **worked example** (philosophy §13): 68 × 42 →
-about 70 × 40 = 2,800, so an answer near 2,800 is reasonable and 28,560 or 285 are
-not. This is the **feedback loop** of the unit — estimation is how a learner checks
-their own work without an adult. **An estimate that is "off" is not a moral failing;
-it is information about the method, and everyone's first estimate can be improved.
-A wrong answer is never a verdict on the learner.** Estimation and rounding are used
-the world over, in every marketplace and field; the numbers may be pesos, rupees,
-shekels, or shillings, but the "does this make sense?" question is universal. Count
-in the home language. For learners who are Deaf or hard of hearing, sign the
-comparison; for learners who are blind or have low vision, estimate with tactile
-objects and compare counts by feel. Learners with limited movement direct a partner
-to sort the cards. Mastery arrives at its own pace.
+**Tone.** Reassuring and brisk — an estimate is a tool, not a verdict.
+
+**The facts to land.**
+1. Estimation is a **number-sense skill**: round to friendly numbers, then compare (Van
+   de Walle, Karp & Bay-Williams, 2019).
+2. 68 × 42 → about 70 × 40 = 2,800, so an answer near 2,800 is reasonable and 28,560 or
+   285 are not.
+3. This is the unit's **feedback loop** — estimation is how a learner checks their own
+   work without an adult.
+
+**Don't overshoot.** An estimate that is "off" is not a moral failing; it is information
+about the method. A wrong answer is never a verdict on the learner.
+
+**The lenses, briefly.**
+- *Intellectual:* worked example once, then guided practice (philosophy §13).
+- *Egalitarianism:* everyone's first estimate can be improved, and nobody is ranked.
+- *Global:* the numbers may be pesos, rupees, shekels, or shillings; "does this make
+  sense?" is universal.
+- *Critical-thinking:* "is this answer the right size?"
+
+**The skill.** Estimate first, calculate, then ask whether the answer could be right.
+
+**Access:** a learner who is Deaf or hard of hearing signs the comparison; a learner who
+is blind or has low vision estimates with tactile objects and compares counts by feel; a
+learner with limited movement directs a partner to sort the cards.
 
 ## Procedure
 

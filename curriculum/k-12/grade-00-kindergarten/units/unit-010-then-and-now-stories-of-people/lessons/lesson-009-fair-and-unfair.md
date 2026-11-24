@@ -100,11 +100,10 @@ the first step to making things fairer.
 
 ## Facilitator note
 
-Written to the learner ("you") so it works in a classroom and for a self-directed
-learner. **Keep the story gentle and blame-free.** The goal is noticing and naming,
-not shaming a character. End with repair — someone makes it fair. Avoid scary or
-heavy unfairness at this age. Let learners retell in their own words; every retelling
-is a step toward understanding fairness.
+**Keep the story gentle and blame-free.** The goal is noticing and naming, not shaming a
+character. End with repair — someone makes it fair. Avoid scary or heavy unfairness at
+this age. Let learners retell in their own words; every retelling is a step toward
+understanding fairness.
 
 ## Procedure
 

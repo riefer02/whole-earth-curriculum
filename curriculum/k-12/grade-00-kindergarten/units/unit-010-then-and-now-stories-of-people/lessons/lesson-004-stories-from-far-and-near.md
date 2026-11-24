@@ -100,12 +100,11 @@ see. Listening carefully is a way of honoring their story as a gift.
 
 ## Facilitator note
 
-Written to the learner ("you") so it works in a classroom and for a self-directed
-learner. **Choose the story with care:** it should be gentle, told by or faithful to
-the culture it comes from, and never a caricature or a "costume." Avoid stories that
-mock, exoticize, or reduce a whole people to one trait. A recording of a storyteller
-from that culture is best. Keep the retelling respectful; the goal is one honest
-noticing, not a quiz.
+**Choose the story with care:** it should be gentle, told by or faithful to the culture
+it comes from, and never a caricature or a "costume." Avoid stories that mock,
+exoticize, or reduce a whole people to one trait. A recording of a storyteller from that
+culture is best. Keep the retelling respectful; the goal is one honest noticing, not a
+quiz.
 
 ## Procedure
 

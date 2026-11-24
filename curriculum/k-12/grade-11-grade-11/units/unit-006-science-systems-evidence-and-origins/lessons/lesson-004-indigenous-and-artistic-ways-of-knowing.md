@@ -119,26 +119,25 @@ who hold them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **indigenous ways of
-knowing build knowledge through observation accumulated over generations, carried in
-oral tradition and law, and tested against the long-term health of land and people;
-artistic ways of knowing build knowledge through close attention, craft, and embodied
-expression, tested by resonance, fidelity, and the honesty of the making.** These are
-not "lesser science" — they are different ways, each with its own standards
-(philosophy §11). Cite real, named practices: Aboriginal cultural burning (S-320,
-S-321), the reciprocity ethic in Robin Wall Kimmerer's writing (S-427), and Aboriginal
-and Torres Strait Islander art and oral tradition carrying knowledge of Country
-(S-085). Present Indigenous knowledge as **living** and contemporary, held by specific
-peoples, never as a single undifferentiated "ancient wisdom."
+The ideas to land: **indigenous ways of knowing build knowledge through observation
+accumulated over generations, carried in oral tradition and law, and tested against the
+long-term health of land and people; artistic ways of knowing build knowledge through
+close attention, craft, and embodied expression, tested by resonance, fidelity, and the
+honesty of the making.** These are not "lesser science" — they are different ways, each
+with its own standards (philosophy §11). Cite real, named practices: Aboriginal cultural
+burning (S-320, S-321), the reciprocity ethic in Robin Wall Kimmerer's writing (S-427),
+and Aboriginal and Torres Strait Islander art and oral tradition carrying knowledge of
+Country (S-085). Present Indigenous knowledge as **living** and contemporary, held by
+specific peoples, never as a single undifferentiated "ancient wisdom."
 
 The **global** lens: knowledge lives in many traditions across the world; no single
 people invented knowing. The **ethics** lens: it is a question of justice to honor
 knowledge traditions that were suppressed and to name the peoples who hold them. The
 **egalitarianism** lens: holding ways of knowing side by side without ranking is an
 egalitarian act — knowledge is not a hierarchy. The **intellectual** lens: a fuller
-picture of the world comes from more than one way of looking. Preview: Lessons 5–8
-turn to a specific claim — evolution — that science grounds in evidence, and ask how
-that sits beside beliefs about life's meaning.
+picture of the world comes from more than one way of looking. Preview: Lessons 5–8 turn
+to a specific claim — evolution — that science grounds in evidence, and ask how that
+sits beside beliefs about life's meaning.
 
 ## Procedure
 

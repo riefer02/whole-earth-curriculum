@@ -13,7 +13,7 @@
     <path d="M98 176 Q106 182 114 176" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <path d="M106 196 L106 226" stroke="#2b3a42" stroke-width="2"/>
     <rect x="46" y="228" width="120" height="40" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <text x="106" y="253" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">water the plants</text>
+    <text x="106" y="253" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">water the plants</text>
   </g>
 
   <g>
@@ -21,8 +21,8 @@
     <circle cx="248" cy="146" r="2.5" fill="#2b3a42"/><circle cx="264" cy="146" r="2.5" fill="#2b3a42"/>
     <path d="M248 156 Q256 162 264 156" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <path d="M256 176 L256 206" stroke="#2b3a42" stroke-width="2"/>
-    <rect x="186" y="208" width="140" height="40" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <text x="256" y="233" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">read to a younger friend</text>
+    <rect x="178" y="208" width="156" height="40" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <text x="256" y="233" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">read to a younger friend</text>
   </g>
 
   <g>
@@ -31,7 +31,7 @@
     <path d="M398 176 Q406 182 414 176" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <path d="M406 196 L406 226" stroke="#2b3a42" stroke-width="2"/>
     <rect x="346" y="228" width="120" height="40" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <text x="406" y="253" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">tidy the books</text>
+    <text x="406" y="253" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">tidy the books</text>
   </g>
 
   <g>
@@ -40,7 +40,7 @@
     <path d="M248 306 Q256 312 264 306" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <path d="M256 326 L256 352" stroke="#2b3a42" stroke-width="2"/>
     <rect x="196" y="354" width="120" height="40" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <text x="256" y="379" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">help carry</text>
+    <text x="256" y="379" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">help carry</text>
   </g>
 
   <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">A role for me — a need plus a strength.</text>

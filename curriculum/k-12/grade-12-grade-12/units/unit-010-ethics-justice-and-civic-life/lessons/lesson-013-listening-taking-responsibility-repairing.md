@@ -123,31 +123,39 @@ everyday life.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **peacemaking is a discipline of
-three moves — listen to the person harmed, take responsibility for the harm, and repair it — and
-it is practiced in a circle with a talking object, through three questions: what happened, who was
-harmed and how, and what will make it right. Repair is never retaliation and never coercion;
-accountability (owning the harm) is different from punishment.** Model the three questions on a
-small, low-stakes worked example first (S-011); then let learners role-play a *role-played or
-mildly remembered* harm — never a serious or traumatic one, and never one that would re-harm a
-learner in the room. Hold the circle as a safe structure; the talking object guarantees turn and
-quiet.
+**Tone.** Calm and structured: the circle is the safety, and the talking object does the
+work.
 
-The **ethics** lens: taking responsibility for harm is the strand's central moral act — owning
-what is yours, without being forced — and the lesson treats accountability as a gift one *offers*,
-not a penalty one *suffers*. The **egalitarianism** lens: the circle equalizes — every voice gets
-the same turn, the same talking object, the same standing, so the person with the most power
-cannot simply out-talk the person who was harmed (S-022). The **global** lens: restorative
-practice has deep roots in Indigenous peacemaking traditions — circles that aim to restore
-balance and harmony rather than merely punish — which the field itself acknowledges (S-161); the
-lesson honors that lineage rather than presenting repair as one culture's invention. The
-**technology** lens: much harm today happens through screens — a cruel post, a leaked image — and
-repair must ask what "making it right" means when the harm is digital and the wound is public; the
-same three questions still apply, but the repair may mean taking something down, not just saying
-something. The **environment** lens: harm to a shared place — a fouled water source, a damaged
-common space — is harm to a *relationship* with the land and the people who use it, and repair can
-mean restoring the place, not just apologizing to the people. Preview: Lesson 14 reflects on
-contributing to peace and repair with honesty and hope.
+**The facts to land.**
+
+1. Peacemaking is three moves — listen to the person harmed, take responsibility, repair
+   — practised in a circle with a talking object: what happened, who was harmed and how,
+   what will make it right.
+2. Repair is never retaliation and never coercion; accountability (owning the harm) is
+   different from punishment.
+3. The circle equalizes: every voice gets the same turn and standing, so the most
+   powerful cannot out-talk the person harmed (S-022).
+
+**Don't overshoot.** Never role-play a serious or traumatic harm, and never one that
+would re-harm a learner in the room.
+
+**The lenses, briefly.**
+
+- *Ethics:* taking responsibility is a gift one offers, not a penalty one suffers.
+- *Egalitarianism:* the circle flattens the room's hierarchy for as long as it runs
+  (S-022).
+- *Global:* restorative practice has deep roots in Indigenous peacemaking — circles that
+  restore balance rather than merely punish (S-161); honour the lineage, do not rebrand
+  it.
+- *Technology:* much harm now happens through screens, and repair may mean taking
+  something down, not only saying something.
+- *Environment:* harm to a shared place is harm to a relationship, and repair can mean
+  restoring the place.
+- *Social-emotional:* keep the example small and low-stakes; the talking object
+  guarantees turn and quiet.
+
+**The skill.** Model the three questions on a small, mild example first (S-011), then
+release. Lesson 14 reflects on contributing to peace.
 
 ## Procedure
 
@@ -207,3 +215,4 @@ happened, who was harmed and how, what would make it right — and write two lin
 - On nonviolent, needs-based communication: Rosenberg — Nonviolent Communication (S-148).
 - On the distinction between conflict and violence: Galtung — Violence, Peace, and Peace Research
   (S-462). On accountable discussion: Michaels & O'Connor — Accountable Talk (S-238).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

@@ -116,26 +116,35 @@ what you will do with them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **my responsibility as a
-steward of the Earth is to act — individually and with others — for all life, and I can say how,
-because the unit has given me four directions: care for technology, honest media, the living
-world, and shared action.** This is the unit's capstone reflection. Do not grade the grandness
-of the vision; grade the *specificity and honesty* of it. Honor each learner's vision as their
-own, never rank them, and keep the door open: stewardship is a practice begun, not a test
-passed.
+**Tone.** Warm and forward-looking: a practice begun, not a test passed.
 
-The **ethics** lens: stewardship is an ethics of relationship and reciprocity — because I am
-given to, I give back, and my responsibility extends to beings and generations I will never
-meet (S-427). The **egalitarianism** lens: a steward acts *with* others, not above them —
-solidarity and mutual aid, where people meet one another's needs as equals, is the shape
-stewardship takes among humans (S-345). The **global** lens: the four directions are lived
-differently everywhere — a tree-planting movement in Kenya, river protectors, commons keepers —
-but they are the same four compass points the world over (S-059, S-416). The **technology**
-lens: the unit's whole stance returns here — technology neither worshiped nor feared, but
-stewarded, chosen with clear eyes for what it gives and costs (S-281). The **environment** lens:
-the compass's center is the unit's deepest claim — that human flourishing and the flourishing of
-the living Earth are not rivals but the same project, and acting for all life is acting for
-ourselves too (S-004, S-395).
+**The facts to land.**
+
+1. My responsibility as a steward is to act — individually and with others — for all
+   life, and I can say how, because the unit gave four directions: care for technology,
+   honest media, the living world, and shared action.
+2. Stewardship is an ethics of relationship and reciprocity: because I am given to, I
+   give back, and my responsibility reaches beings and generations I will never meet
+   (S-427).
+3. Solidarity and mutual aid — people meeting needs as equals — is the shape stewardship
+   takes among humans (S-345).
+
+**Don't overshoot.** Do not grade the grandness of the vision; grade its specificity and
+its honesty.
+
+**The lenses, briefly.**
+
+- *Ethics:* reciprocity, not guilt.
+- *Egalitarianism:* a steward acts *with* others, not above them.
+- *Global:* a tree-planting movement in Kenya, river protectors, commons keepers — the
+  same four compass points the world over (S-059, S-416).
+- *Technology:* neither worshipped nor feared, but stewarded — chosen with clear eyes
+  for what it gives and costs (S-281).
+- *Environment:* human flourishing and the flourishing of the living Earth are not
+  rivals but the same project (S-004, S-395).
+
+**The skill.** Model one statement, then release (S-011): four directions, one specific
+commitment, one ally, one date.
 
 ## Procedure
 
@@ -193,3 +202,5 @@ to remind you of it in a month. A promise shared is a promise kept.
 - On sustainable development and future generations: Brundtland Report (S-395); on acting with
   others as equals: Spade — Mutual Aid (S-345); on collective action worldwide: Nobel Prize —
   Wangari Maathai (S-059); on the commons: Ostrom — Governing the Commons (S-416).
+- World Bank — World Development Report 2016: Digital Dividends (S-281).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

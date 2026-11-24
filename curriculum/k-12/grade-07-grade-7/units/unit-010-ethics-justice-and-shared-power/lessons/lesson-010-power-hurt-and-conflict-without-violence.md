@@ -116,26 +116,40 @@ the whole unit together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) two things make
-conflict worse: power — when one side holds much more, the conflict stops being fair — and
-hurt — past injury, fear, and feeling unheard, which fuel escalation; (2) conflict without
-violence means naming feelings, balancing power (bringing in a fair third party or a circle
-so everyone is heard), meeting needs, and repairing harm; (3) these are skills, not magic —
-they take practice.** Model the chart once (worked example, S-011), then run the capstone.
-**Emotional safety: the capstone scenario is invented; do not ask learners to disclose or
-re-enact real conflict, and never stage a fight — the "conflict" is described and discussed,
-not acted out physically.** The ethics lens: nonviolence is not weakness; it is a demanding
-way of facing conflict that respects the dignity of everyone, including the one who caused
-harm. The egalitarian lens: balancing power is the heart of the matter — fairness in conflict
-requires that the less powerful be heard. The social-emotional lens: hurt is real and must be
-named before it can be addressed; the "I" statement (Rosenberg, S-148) is one tool. The
-multiple-traditions note (philosophy §11): nonviolence has deep roots in many world traditions
-— the principle of ahimsa (non-harming) in Jain, Buddhist, and Hindu thought, and Gandhi's
-satyagraha in India's freedom movement, alongside many others — and the "I" statement is one
-modern tool within that wider stream, with no single tradition as the default. The
-critical-thinking lens: ask *whose* power and *whose* hurt is in the room — and whether a
-proposed response makes it worse or better. End on hope and agency: nonviolence is something
-learners can practice today, not a distant ideal.
+**Tone.** Direct. Nonviolence is demanding, not soft.
+
+**The facts to land.**
+
+1. **Two things make conflict worse**: *power*, when one side holds much more and the
+   conflict stops being fair, and *hurt* — past injury, fear, feeling unheard — which
+   fuels escalation.
+2. **Conflict without violence** means naming feelings, balancing power (a fair third
+   party or a circle so everyone is heard), meeting needs, and repairing harm.
+3. **These are skills, not magic** — they take practice.
+
+**Don't overshoot.** Do not imply that naming a feeling ends a conflict, or that
+nonviolence means passivity.
+
+**The lenses, briefly.**
+
+- *Ethics:* nonviolence respects everyone's dignity, including the harm-doer's.
+- *Egalitarianism:* balancing power is the heart of it — fairness requires that the less
+  powerful be heard.
+- *Social-emotional:* hurt must be named before it can be addressed; the "I" statement
+  (Rosenberg, S-148) is one tool.
+- *Critical-thinking:* ask *whose* power and *whose* hurt is in the room, and whether a
+  response makes it worse.
+
+Nonviolence has deep roots — ahimsa in Jain, Buddhist, and Hindu thought, Gandhi's
+satyagraha; the "I" statement is one modern tool within that stream, no tradition the
+default (`docs/philosophy.md` §11).
+
+**The skill.** Model the chart once (S-011), then run one invented conflict through
+name, balance, meet, repair.
+
+**Safety floor.** The capstone scenario is invented. Do not ask learners to disclose or
+re-enact a real conflict, and never stage a fight — discuss it, do not act it out
+physically. End on agency: practice for today.
 
 ## Procedure
 

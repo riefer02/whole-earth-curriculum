@@ -115,30 +115,38 @@ you can begin to choose it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) emotions spread
-between people — emotional contagion — through face, voice, body, and now through feeds
-that carry a mood to many people at once; (2) contagion is neither good nor bad — it can
-lift (courage, hope) or weigh (panic, outrage); (3) the skill is *noticing* the catch and
-*choosing* — regulation over reaction.** The science is real but the framing must stay
-honest: emotional contagion is well documented in face-to-face interaction (a widely
-replicated phenomenon; see the emotion-regulation field, S-225), and online emotional
-contagion is an active area of research with real but contested evidence (S-226, S-481) —
-state it as "feelings *can* spread, and feeds *can* amplify the spread," not as settled
-proof that a platform simply "controls" mood (philosophy §5, §11).
+**Tone.** Light and alert: contagion is ordinary weather, and the lesson builds
+**regulation**, not suspicion.
 
-Model the skill once, then let learners practice (S-011). The **technology** lens: name
-the mechanism — feeds rank high-engagement content, and strong emotion (outrage, delight,
-fear) is highly engaging, so platforms tend to surface the most contagious moods
-(S-481, S-482). The **global** lens: collective emotion is a real force in every society —
-hope, grief, and fear rise and fall in groups (this lesson sets up D01.S1.11's "emotional
-climate" next year); different cultures have different rituals for carrying and releasing
-collective feeling. The **egalitarian** lens: when a mood sweeps a group, quieter or
-different-feeling people can be steamrolled — noticing contagion is also noticing whom the
-mood silences. The **ethics** lens: spreading a feeling is an act with consequences —
-before amplifying a panic or an outrage, ask whether it is true and whether it helps; you
-are responsible for the feeling you pass on. The **social-emotional** lens: learners may
-have been caught in real viral panics or pile-ons; hold the topic gently, invite rather
-than force sharing, and let "pass" stand.
+**The facts to land.**
+
+1. Emotions spread — emotional contagion — through face, voice, and body, and now
+   through feeds carrying a mood to many at once.
+2. Contagion is neither good nor bad: it can lift (courage, hope) or weigh (panic,
+   outrage).
+3. The skill is *noticing* the catch and *choosing*: regulation over reaction.
+
+**Don't overshoot.** Contagion is well documented face to face (S-225); online contagion
+is real but contested (S-226, S-481). Say feeds *can* amplify mood, not that a platform
+"controls" it (philosophy §5, §11).
+
+**The lenses, briefly.**
+
+- *Technology:* feeds rank high-engagement content, and strong emotion engages, so
+  platforms surface the most contagious moods (S-481, S-482).
+- *Global:* collective emotion is a force in every society; cultures hold different
+  rituals for carrying and releasing it (this sets up D01.S1.11).
+- *Egalitarianism:* when a mood sweeps a group, quieter people are steamrolled; noticing
+  contagion is noticing whom it silences.
+- *Ethics:* spreading a feeling is an act with consequences; before amplifying a panic,
+  ask whether it is true and whether it helps.
+- *Social-emotional:* some learners have been caught in real pile-ons — hold it gently,
+  let "pass" stand.
+- *Critical-thinking:* virality is not evidence; a mood repeated many times is still a
+  claim to check.
+
+**The skill.** Model once, then release (S-011): catch one mood from a room or a feed,
+name it, and decide whether to pass it on.
 
 ## Procedure
 

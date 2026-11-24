@@ -120,35 +120,36 @@ carry it. The handoff is small but it is what turns a wish into a life: *it is m
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a meaningful life goal is
-handed to adult life with two handles — autonomy (it is genuinely mine, not borrowed from a
-parent, a feed, or a fear) and accountability (a named check and a date) — and the handoff
-is a promise, not a grade.** There is no new heavy content; this is consolidation and a
-closing ceremony. Model once, then let each learner renew their own (S-011); the renewal is
-retrieval across months, the spacing payoff in action (Dunlosky et al., S-039). Specific,
-checkable goals with feedback outperform vague wishes (Locke & Latham, S-223) — that is the
-evidence behind the "next step + date + named check."
+**Tone.** Ceremonial: a promise handed over, not a grade.
 
-The **ethics** lens: choosing a goal worth the cost of pursuing it is a moral act, not just
-a practical one — the learner names what they will give their life toward. The
-**egalitarianism** lens: every path is honored — no goal outranks another, and a learner
-with a modest, uncertain, or still-forming goal is celebrated exactly as fully as one with a
-grand plan; the pressure to have a "perfect" life goal is refused, not required. The
-**global** lens: what a meaningful life looks like differs across cultures and lives — a
-goal of care for family, land, craft, or community is as valid as any ambition, and the
-lesson does not import one region's template of "success." Some traditions name the good
-life as living *well* rather than endlessly accumulating: Andean *buen vivir* (*sumak kawsay*,
-"living well") holds a meaningful life as one lived in harmony with community and the living
-Earth (S-509) — a different shape of "meaningful" from a self-made ambition, and equally
-honored. The **technology** lens: name one
-tool that will serve the goal and one that will tempt it — the handoff includes a decision
-about technology, as the earlier carried-ethic lessons did. The **environment** lens: a
-meaningful goal may serve the living world, and the lesson leaves room for it — the full
-return to people and the Earth arrives in Lesson 3.
+**The facts to land.**
 
-**Safeguarding:** the goal is the learner's own and may be private; no one is required to
-name a goal tied to family, money, or a marginalized identity, and "still finding it" is a
-complete answer. The promise is shared only in the part the learner chooses.
+1. A meaningful life goal is handed to adult life with two handles — autonomy (it is
+   mine, not borrowed from a parent, a feed, or a fear) and accountability (a named
+   check and a date).
+2. Specific, checkable goals with feedback outperform vague wishes (Locke & Latham,
+   S-223) — the evidence behind "next step, date, named check"; renewal is retrieval
+   across months, the spacing payoff (Dunlosky et al., S-039).
+3. What a meaningful life looks like differs across cultures: Andean *buen vivir*
+   (*sumak kawsay*, "living well") holds it as harmony with community and the living
+   Earth (S-509) — a different shape of meaning, equally honoured.
+
+**Don't overshoot.** Do not import one region's template of success; a modest,
+uncertain, or still-forming goal is honoured as fully as a grand plan.
+
+**The lenses, briefly.**
+
+- *Ethics:* choosing a goal worth its cost is a moral act — what will I give my life
+  toward?
+- *Egalitarianism:* every path is honoured, and no goal outranks another.
+- *Global:* care for family, land, craft, or community is as valid as any ambition.
+- *Technology:* name one tool that will serve the goal and one that will tempt it.
+- *Environment:* a meaningful goal may serve the living world, and the lesson leaves
+  room for it.
+
+**Safety floor.** The goal is the learner's own and may stay private; no one must name a
+goal tied to family, money, or a marginalized identity, and "still finding it" is a
+complete answer.
 
 ## Procedure
 

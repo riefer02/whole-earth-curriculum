@@ -119,21 +119,21 @@ day.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **at the quantum
-scale, (1) energy is quantized — absorbed and emitted in fixed steps tied to allowed
-energy levels in the atom; (2) light and matter show wave-particle duality; and (3)
-the uncertainty principle sets a fundamental limit on knowing position and motion at
-once (S-439, S-435).** These are *measured* behaviors, not metaphors, and they are the
-reason quantum theory was needed — classical intuition simply fails at this scale.
-Teach each surprise explicitly with a worked example (S-011); the standing-wave demo
-makes "allowed patterns" concrete before the abstraction.
+The ideas to land: **at the quantum scale, (1) energy is quantized — absorbed and
+emitted in fixed steps tied to allowed energy levels in the atom; (2) light and matter
+show wave-particle duality; and (3) the uncertainty principle sets a fundamental limit
+on knowing position and motion at once (S-439, S-435).** These are *measured* behaviors,
+not metaphors, and they are the reason quantum theory was needed — classical intuition
+simply fails at this scale. Teach each surprise explicitly with a worked example
+(S-011); the standing-wave demo makes "allowed patterns" concrete before the
+abstraction.
 
 The **intellectual** lens: quantum theory is a triumph of holding a model even when it
 offends intuition, because it *predicts* correctly. The **critical-thinking** lens:
 "counterintuitive" is not "magical" — these behaviors are precisely described and
 tested. The **technology** lens: the transistor, the laser, and the screen you read on
-all work *because* quantum behavior is real — a concrete payoff of an abstract idea.
-The **global** lens: quantum mechanics was built by physicists across many countries
+all work *because* quantum behavior is real — a concrete payoff of an abstract idea. The
+**global** lens: quantum mechanics was built by physicists across many countries
 (Planck, Einstein, Bohr, Heisenberg, Schrödinger, and others) correcting and extending
 one another's work. Preview: Lesson 11 turns to **thermodynamics** — the physics of
 energy, heat, and order at the everyday scale.

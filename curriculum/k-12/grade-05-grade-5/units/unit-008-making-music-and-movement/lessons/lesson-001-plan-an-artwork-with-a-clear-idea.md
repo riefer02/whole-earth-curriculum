@@ -117,14 +117,14 @@ something you meant to make.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **plan before you
-make**: a clear idea, then materials and a technique chosen *to fit* the idea. Model the
-worked example aloud and in writing before learners begin (explicit instruction for a
-novice skill — Kirschner, Sweller & Clark, 2006). Watch for the common slip of choosing
-materials *first* ("I want to use glitter") and then forcing an idea onto them; gently
-redirect to "what do you want to show, and what will best show it?" The plan is a promise
-to the learner's future self; next lesson they carry it through. See
-`docs/facilitation.md` on working through plans and `docs/contexts.md` on peer checking.
+The idea to land is **plan before you make**: a clear idea, then materials and a
+technique chosen *to fit* the idea. Model the worked example aloud and in writing before
+learners begin (explicit instruction for a novice skill — Kirschner, Sweller & Clark,
+2006). Watch for the common slip of choosing materials *first* ("I want to use glitter")
+and then forcing an idea onto them; gently redirect to "what do you want to show, and
+what will best show it?" The plan is a promise to the learner's future self; next lesson
+they carry it through. See `docs/facilitation.md` on working through plans and
+`docs/contexts.md` on peer checking.
 
 ## Procedure
 

@@ -117,12 +117,12 @@ unfinished — because you are still growing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The **"not yet"** branch is the heart of
-it: research on mindset (Dweck) and on mastery learning treats "not yet" as information,
-never a verdict — and that is the message to carry. Model your own self-map, including a
-real "not yet" of your own, so learners see that adults are still growing too. Keep the
-map honest, not performative; every branch is a real truth about the learner. This page
-is a portfolio artifact — have learners keep it and return to it later in the year.
+The **"not yet"** branch is the heart of it: research on mindset (Dweck) and on mastery
+learning treats "not yet" as information, never a verdict — and that is the message to
+carry. Model your own self-map, including a real "not yet" of your own, so learners see
+that adults are still growing too. Keep the map honest, not performative; every branch
+is a real truth about the learner. This page is a portfolio artifact — have learners
+keep it and return to it later in the year.
 
 ## Procedure
 

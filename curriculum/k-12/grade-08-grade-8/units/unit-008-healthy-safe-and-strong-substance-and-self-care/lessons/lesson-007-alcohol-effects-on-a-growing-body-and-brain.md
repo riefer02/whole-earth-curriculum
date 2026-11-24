@@ -54,7 +54,7 @@ context_variants:
     note: Discuss alcohol at community events and how a young person can choose a non-alcoholic drink and step away safely
 assets:
   - path: assets/images/L.08.008.07-alcohol-effects.svg
-    alt: A body outline with labeled spots showing alcohol slows the brain — affecting judgment, coordination, and memory — and can harm the liver and a still-growing body
+    alt: A person's body inside a dashed outline marked "still growing", with the brain labeled as slowed — affecting judgment, coordination, memory, and reaction time — the liver labeled as harmed by heavy, repeated use, and a note that delay protects a young, still-developing brain
     kind: image
     source: original
 duration_minutes: 50
@@ -111,28 +111,37 @@ still-growing body differently than an adult's. Alcohol is not a food and not a 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The tone must stay **factual, calm, and non-shaming —
-never moralizing, never fear, and never judgment of families or cultures where alcohol is present.** The
-facts to land: **(1) alcohol is a psychoactive substance that depresses the central nervous system — it
-slows brain activity, which is why it affects judgment, coordination, reaction time, and memory (S-375);
-(2) because a young person's body is smaller and their brain still developing, alcohol affects them
-more, and early drinking is linked to greater later harm — so delay is protective (S-375); (3) alcohol
-harms the liver and other organs with heavy, repeated use, and impairs the ability to judge danger
-(S-375).** Do not present a single drink as inevitably harmful or a sip as a catastrophe — that would be
-inaccurate and would cost the lesson its credibility with teens. Instead: the *developing* brain and the
-*legal age* are the anchors. Nearly every country sets a minimum age for buying and drinking alcohol
-(safety law, not a test of maturity), and the standard's own language is "safe, informed choices." The
-critical-thinking lens: connect to Grade 7's marketing literacy — alcohol advertising associates
-drinking with glamour and belonging, which is a claim to read, not to swallow. The egalitarian lens:
-alcohol's harms fall unequally — on poorer communities and on those marketed to most — a justice matter.
-The global lens: cultures hold alcohol very differently, from total avoidance to everyday moderation;
-this lesson honors all of them and ranks none. The technology & environment lens: alcohol also travels through tools and landscapes — it is promoted through the same screens and media the learner reads critically, and producing it uses land and water — so the choice touches more than the drinker alone. The ethics lens: a safe choice protects our own body and
-the people around us (drinking and driving or other risk puts others in danger). Teach **decision-making
-as a skill** (worked example: notice the situation → name the risk → choose a safe response → know who
-to call). Always include the **harm-reduction safety floor without endorsing use**: if someone has drunk
-too much and becomes unresponsive, this is an emergency — call for adult or medical help immediately;
-never leave an impaired person alone. That is knowledge that saves a life, and it is not the same as
-approving. A learner who has already tried alcohol is met with facts and care, never shame.
+**Tone.** Factual, calm, non-shaming — never moralizing, never a verdict on families or
+cultures where alcohol is present. A learner who has tried it gets facts, not shame.
+
+**The facts to land.**
+
+1. Alcohol is a **depressant**: it slows the central nervous system, so judgment,
+   coordination, reaction time, and memory do too (S-375).
+2. A young body is **more affected** — smaller, brain still under construction — so early
+   drinking risks greater later harm and **delay is protective** (S-375).
+3. **Heavy, repeated use** harms the liver and other organs; impairment removes the ability
+   to judge danger (S-375).
+
+**Don't overshoot.** One drink is not inevitably harmful, a sip not a catastrophe; the
+anchors are the developing brain and the legal age — a safety law, not a maturity test.
+
+**The lenses, briefly.**
+
+- *Physical:* these are bodily effects, not moral ones.
+- *Critical-thinking, with technology:* Grade 7's marketing literacy — ads sell glamour and
+  belonging through screens learners read critically.
+- *Egalitarianism:* harms fall unequally, on poorer communities and those marketed hardest.
+- *Global:* cultures hold alcohol from avoidance to moderation; honor all, rank none.
+- *Environment:* growing it uses land and water; the choice touches more than the drinker.
+- *Ethics:* a safe choice protects our body and the people near us; driving impaired
+  endangers others.
+
+**The skill.** Decision-making, not a rule: notice → name the risk → choose a safe
+response → know who to call.
+
+**Safety floor.** If someone drinks too much and will not wake, that is an emergency: get
+help, and never leave them alone.
 
 ## Procedure
 

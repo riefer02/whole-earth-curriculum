@@ -119,30 +119,33 @@ it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **sleep is an active
-state that consolidates memory, regulates mood, and restores the body — and teens need
-about 8–10 hours a night** (S-050). The 8–10 hour figure is the standard international
-benchmark for adolescents (13–18 years) from the American Academy of Sleep Medicine
-consensus (S-050); hold it as a *general guide*, not a rule — family life, work,
-caregiving, and living conditions all shape real sleep, and no learner should be shamed
-for a short night. For the memory-consolidation and mood-regulation claims, speak
-accurately and with hedging: sleep researchers have found that during deep sleep and
-REM the brain strengthens and sorts what was learned, and that short sleep is linked to
-lower mood and poorer focus — these are *general, well-replicated findings*, offered as
-description, not as a score on any learner.
+**Tone.** Matter-of-fact and kind: no learner should leave feeling judged for a short
+night.
 
-Model once, then let learners practice (S-011). The **egalitarian** lens: sleep is not
-distributed equally — shift work, crowded housing, light and noise, and caregiving
-responsibilities all cut into sleep, and those burdens fall unevenly, so sleep is a
-fairness question as well as a personal habit. The **global** lens: people sleep
-differently everywhere — some in one long night, some with a midday rest, some in
-shared rooms — and no pattern is more "correct" than another. The **technology &
-environment** lens: screens, light, and the always-on feed are among the loudest
-thieves of sleep; noticing them is part of the analysis. The **ethics** lens: the goal
-is agency and dignity, never blame — a tired learner is not failing. The
-**social-emotional** lens: sleep and mood are tightly linked; invite, never force
-sharing, and hold this gently. Preview the retrieval pass: this lesson will be recalled
-in Lessons 4 and 11.
+**The facts to land.**
+
+1. Sleep is active: it consolidates memory, regulates mood, and restores the body.
+2. Adolescents (13–18) need about 8–10 hours a night (S-050) — an international
+   benchmark and a *general guide*, not a rule.
+3. In deep and REM sleep the brain strengthens and sorts what was learned, and short
+   sleep is linked to lower mood and poorer focus.
+
+**Don't overshoot.** The 8–10 figure is a guide, not a score. Family life, work,
+caregiving, crowded housing, light, and noise shape real sleep.
+
+**The lenses, briefly.**
+
+- *Physical:* sleep is work the body does, not time stolen from life.
+- *Social-emotional:* sleep and mood are tightly linked; hold this gently.
+- *Egalitarianism:* shift work, caregiving, and poor housing cut into sleep unevenly — a
+  fairness question, not only a habit.
+- *Global:* one long night, a midday rest, shared rooms — no pattern is more "correct".
+- *Technology and environment:* screens, light, and the always-on feed are among the
+  loudest thieves of sleep.
+- *Critical-thinking:* a population benchmark is not a measurement of any one learner.
+
+**The skill.** Model once, then release (S-011): predict your own sleep need and name
+one thing that steals it. Recall returns in Lessons 4 and 11.
 
 ## Procedure
 

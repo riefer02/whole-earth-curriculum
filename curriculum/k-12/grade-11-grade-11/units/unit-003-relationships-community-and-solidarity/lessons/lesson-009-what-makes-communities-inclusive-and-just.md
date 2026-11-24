@@ -107,10 +107,10 @@ decides. This lesson gives you the three questions to ask any group, including y
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **inclusion and justice
-are not feelings of warmth but structures — who has a seat, who has no chair, who holds
-the gate — and can be analyzed with historical and contemporary examples.** Teach the
-three questions with a worked example; keep examples global and non-hierarchical.
+The idea to land: **inclusion and justice are not feelings of warmth but structures —
+who has a seat, who has no chair, who holds the gate — and can be analyzed with
+historical and contemporary examples.** Teach the three questions with a worked example;
+keep examples global and non-hierarchical.
 
 The **ethics** lens: who a community leaves out, and whether that is just, is a moral
 question about the worth of persons — all persons, not only the ones already inside. The
@@ -123,10 +123,10 @@ how the lines are drawn and whether they can be crossed. The **critical-thinking
 "who holds the gate" trains learners to look past a community's self-description to its
 actual rules and power.
 
-**Emotional safety.** Learners may recognize themselves as excluded, or as inside a group
-that excludes. Keep analysis structural, not personal-shaming; no one is asked to confess
-their own exclusion or exclusion of others. "I am still thinking about this" is a full
-answer. Emphasize that noticing is the first step to changing, never a verdict.
+**Emotional safety.** Learners may recognize themselves as excluded, or as inside a
+group that excludes. Keep analysis structural, not personal-shaming; no one is asked to
+confess their own exclusion or exclusion of others. "I am still thinking about this" is
+a full answer. Emphasize that noticing is the first step to changing, never a verdict.
 
 ## Procedure
 

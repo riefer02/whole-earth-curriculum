@@ -95,18 +95,17 @@ what you want to say. Marks and sounds are partners that work together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Sounds are matched to the **learner's home writing system and
-home language** — this may be an alphabet (such as Latin or Cyrillic), a script that
-pairs marks with sounds (such as Arabic or Devanagari), or a character-based system
-where a character maps to a syllable or a whole word. Do not assume "one letter = one
-sound" in the English way; honor how the learners' own system works. No accent is
-"correct"; every learner's pronunciation is welcomed. For a learner who is deaf or hard
-of hearing, shift the goal from hearing to seeing and feeling: match a mark by its shape,
-its name, the way the mouth forms its sound, or a gesture or sign that goes with it —
-recognition, not auditory discrimination, is the heart of this lesson. A learner who does
-not speak aloud can point to the mark, move to it, or match it with a picture instead of
-saying the sound.
+Sounds are matched to the **learner's home writing system and home language** — this may
+be an alphabet (such as Latin or Cyrillic), a script that pairs marks with sounds (such
+as Arabic or Devanagari), or a character-based system where a character maps to a
+syllable or a whole word. Do not assume "one letter = one sound" in the English way;
+honor how the learners' own system works. No accent is "correct"; every learner's
+pronunciation is welcomed. For a learner who is deaf or hard of hearing, shift the goal
+from hearing to seeing and feeling: match a mark by its shape, its name, the way the
+mouth forms its sound, or a gesture or sign that goes with it — recognition, not
+auditory discrimination, is the heart of this lesson. A learner who does not speak aloud
+can point to the mark, move to it, or match it with a picture instead of saying the
+sound.
 
 ## Procedure
 

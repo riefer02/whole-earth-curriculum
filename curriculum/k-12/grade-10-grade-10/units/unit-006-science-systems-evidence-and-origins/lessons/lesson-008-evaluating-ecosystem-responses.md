@@ -111,13 +111,13 @@ repair.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **responses to
-ecosystem harm — restoration, protected areas, regulation, and biosecurity — can be
-evaluated on effectiveness, fairness, cost, and side effects, and every response is a
-trade-off; good evaluation asks "works for whom?" not just "does it work?"** Model the
-scoring of one response (S-011), then let learners score the rest and defend their
-judgments. Keep hope attached: the point is agency, not despair — responses exist and
-can work, especially when they are chosen *with* the people who live there.
+The idea to land: **responses to ecosystem harm — restoration, protected areas,
+regulation, and biosecurity — can be evaluated on effectiveness, fairness, cost, and
+side effects, and every response is a trade-off; good evaluation asks "works for whom?"
+not just "does it work?"** Model the scoring of one response (S-011), then let learners
+score the rest and defend their judgments. Keep hope attached: the point is agency, not
+despair — responses exist and can work, especially when they are chosen *with* the
+people who live there.
 
 The **ethics** lens: a response that saves a species but displaces a community is not a
 clean win — evaluation must include human consequences. The **egalitarian** lens: the

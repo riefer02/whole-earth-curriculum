@@ -113,16 +113,16 @@ carrier knows that something is always gained, and something always left behind.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **translation
-carries meaning across languages, and it is a craft of choices because exact equivalence
-is rare — something is always gained or lost** (Everett, 2012; WALS "tea," S-169). Model
-one trio as a worked example before practice (Kirschner, Sweller & Clark, 2006). Always
-begin in the learners' home language, and hold multilingualism as wealth, never deficit
-(UNESCO, S-019). The four lenses: *ethics* (a translator must be faithful to the
-speaker's meaning, not twist it); *egalitarianism* (no language is "untranslatable in a
-lesser way" — every language has riches another lacks); *global* (words travel with
-trade, migration, and empire — trace the routes); *critical-thinking* (word-for-word is
-not the same as faithful). See `docs/facilitation.md`.
+The idea to land is that **translation carries meaning across languages, and it is a
+craft of choices because exact equivalence is rare — something is always gained or
+lost** (Everett, 2012; WALS "tea," S-169). Model one trio as a worked example before
+practice (Kirschner, Sweller & Clark, 2006). Always begin in the learners' home
+language, and hold multilingualism as wealth, never deficit (UNESCO, S-019). The four
+lenses: *ethics* (a translator must be faithful to the speaker's meaning, not twist it);
+*egalitarianism* (no language is "untranslatable in a lesser way" — every language has
+riches another lacks); *global* (words travel with trade, migration, and empire — trace
+the routes); *critical-thinking* (word-for-word is not the same as faithful). See
+`docs/facilitation.md`.
 
 ## Procedure
 
@@ -169,3 +169,5 @@ try to translate it together — what would you have to explain?
   <https://www.unesco.org/en/days/mother-language>
 - On modeling before practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- WALS — Östen Dahl, 'Tea' (chapter 138) (S-169).
+- UNESCO — International Mother Language Day (S-019).

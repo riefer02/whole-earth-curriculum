@@ -125,14 +125,13 @@ year since then.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the **portfolio-building** step:
-every child assembles their own page, and every page is kept — none is ranked or
-compared. Remind learners that a page can be made many ways: writing, drawing,
-pasting, pointing, acting, signing, or dictating — all are real pages. For a learner
-who is blind or has low vision, build the page tactually (raised shapes, textured
-marks, a spoken or recorded description) so it can be "read" by hand and ear. For a
-learner with motor differences, allow pasting pre-made pieces or dictating while a
-partner places them. The point is the whole self, not a perfect page.
+It is the **portfolio-building** step: every child assembles their own page, and every
+page is kept — none is ranked or compared. Remind learners that a page can be made many
+ways: writing, drawing, pasting, pointing, acting, signing, or dictating — all are real
+pages. For a learner who is blind or has low vision, build the page tactually (raised
+shapes, textured marks, a spoken or recorded description) so it can be "read" by hand
+and ear. For a learner with motor differences, allow pasting pre-made pieces or
+dictating while a partner places them. The point is the whole self, not a perfect page.
 
 ## Procedure
 

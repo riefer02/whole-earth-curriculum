@@ -101,14 +101,13 @@ you will be the author of your own sentence.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Model "say it, write it, check it" explicitly, then guide
-practice (philosophy §13). The convention of a capital letter and end mark belongs
-to the learner's writing system; honor other systems' ways of marking sentences and
-never rank them. Celebrate every attempt — composing is the goal; inventing
-spelling is a normal and healthy part of early writing and should not be
-discouraged here. A learner may compose by dictating to a scribe, typing on any
-device, or arranging word cards — the sentence, not the handwriting, is the goal.
+Model "say it, write it, check it" explicitly, then guide practice (philosophy §13). The
+convention of a capital letter and end mark belongs to the learner's writing system;
+honor other systems' ways of marking sentences and never rank them. Celebrate every
+attempt — composing is the goal; inventing spelling is a normal and healthy part of
+early writing and should not be discouraged here. A learner may compose by dictating to
+a scribe, typing on any device, or arranging word cards — the sentence, not the
+handwriting, is the goal.
 
 ## Procedure
 

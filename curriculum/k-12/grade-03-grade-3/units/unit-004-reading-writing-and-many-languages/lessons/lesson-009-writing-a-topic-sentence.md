@@ -104,18 +104,16 @@ the door for the reader.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Writing a topic sentence is a foundational skill, so teach it
-explicitly: model a strong topic sentence, contrast it with a weak one, then guide
-practice (Kirschner, Sweller & Clark, 2006). The one check to protect: "does it tell
-what the paragraph is about?" A strong topic sentence names the topic and gives the
-reader a clear picture of what is coming. Learners write in their home language and
-their own writing system — script-agnostic, no Latin alphabet assumed. A learner who
-is Deaf or hard of hearing writes, signs, or dictates the sentence; the thinking is
-the writing. A learner who is blind or has low vision composes by dictation, on a
-braille writer, or by typing and listening back — the thinking is the writing.
-Celebrate a clear, honest topic sentence in any wording; there is no single "correct"
-sentence.
+Writing a topic sentence is a foundational skill, so teach it explicitly: model a strong
+topic sentence, contrast it with a weak one, then guide practice (Kirschner, Sweller &
+Clark, 2006). The one check to protect: "does it tell what the paragraph is about?" A
+strong topic sentence names the topic and gives the reader a clear picture of what is
+coming. Learners write in their home language and their own writing system —
+script-agnostic, no Latin alphabet assumed. A learner who is Deaf or hard of hearing
+writes, signs, or dictates the sentence; the thinking is the writing. A learner who is
+blind or has low vision composes by dictation, on a braille writer, or by typing and
+listening back — the thinking is the writing. Celebrate a clear, honest topic sentence
+in any wording; there is no single "correct" sentence.
 
 ## Procedure
 

@@ -117,18 +117,35 @@ made, tried, and improved.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The design cycle is a **skill**, so
-walk through it as a worked example before independent work (Kirschner, Sweller &
-Clark, 2006): "My user is a grandparent whose hands tire — I'll make a fatter, softer
-handle for a pencil; here is my cardboard prototype; now let's have the grandparent
-try it and tell me what to change." Help learners choose a user they can actually
-interview (a classmate, sibling, or you). Feedback is the heart: schedule a moment
-when each learner asks their user to *try* the prototype and say one thing to keep and
-one thing to change. Emphasize **accessibility** and **fairness** — a design that
-serves someone often serves many (the "curb-cut effect"), and the best designers ask
-who is being left out. Keep the build simple; the thinking matters more than the
-finish. A learner with limited fine motor may design by directing a partner, or choose
-a need they can prototype with large pieces.
+**Tone.** Practical and generous — the thinking matters more than the finish.
+
+**The facts to land.**
+1. The design cycle is a **skill**: user, need, prototype, test, change.
+2. A design that serves someone often serves many — the "curb-cut effect" — and the best
+   designers ask who is being left out.
+3. Feedback is the heart: the user tries the prototype and says one thing to keep and
+   one thing to change.
+
+**Don't overshoot.** Keep the build simple. A beautiful prototype that no user tried has
+not completed the cycle.
+
+**The lenses, briefly.**
+- *Egalitarianism:* ask who is left out, every time.
+- *Ethics:* the user's need, not the maker's cleverness, sets the task.
+- *Technology:* a prototype is a tool for finding out.
+- *Community:* the user is a real person you can ask.
+- *Critical-thinking:* feedback changes the next version.
+
+**The skill.** Walk the cycle on a real need.
+
+Walk through it as a worked example before independent work (Kirschner, Sweller & Clark,
+2006): "My user is a grandparent whose hands tire — I'll make a fatter, softer handle
+for a pencil; here is my cardboard prototype; now let's have the grandparent try it and
+tell me what to change." Help learners choose a user they can actually interview (a
+classmate, sibling, or you).
+
+**Access:** a learner with limited fine motor may design by directing a partner, or
+choose a need they can prototype with large pieces.
 
 ## Procedure
 

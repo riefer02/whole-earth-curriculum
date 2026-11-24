@@ -6,40 +6,40 @@
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#2b3a42" font-weight="bold">Growth Meets a Ceiling</text>
 
   <!-- Axes -->
-  <line x1="60" y1="380" x2="440" y2="380" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="60" y1="380" x2="380" y2="380" stroke="#2b3a42" stroke-width="2"/>
   <line x1="60" y1="380" x2="60" y2="60" stroke="#2b3a42" stroke-width="2"/>
-  <polygon points="440,380 428,375 428,385" fill="#2b3a42"/>
+  <polygon points="380,380 368,375 368,385" fill="#2b3a42"/>
   <polygon points="60,60 55,72 65,72" fill="#2b3a42"/>
-  <text x="420" y="398" font-family="sans-serif" font-size="13" fill="#222222">time</text>
+  <text x="358" y="398" text-anchor="end" font-family="sans-serif" font-size="13" fill="#222222">time</text>
   <text x="70" y="86" font-family="sans-serif" font-size="13" fill="#222222">size</text>
 
   <!-- carrying capacity line -->
-  <line x1="60" y1="150" x2="440" y2="150" stroke="#e0a458" stroke-width="2" stroke-dasharray="6,5"/>
+  <line x1="60" y1="150" x2="380" y2="150" stroke="#e0a458" stroke-width="2" stroke-dasharray="6,5"/>
   <text x="70" y="142" font-family="sans-serif" font-size="13" fill="#a06030" font-weight="bold">carrying capacity K</text>
 
   <!-- exponential curve (unbounded) -->
-  <path d="M 60 360 C 140 350, 220 320, 300 250 C 340 200, 380 120, 430 40"
+  <path d="M 60 360 C 120 350, 190 320, 262 250 C 300 200, 330 120, 370 44"
         fill="none" stroke="#6b93b6" stroke-width="2" stroke-dasharray="5,5"/>
-  <text x="230" y="120" font-family="sans-serif" font-size="13" fill="#3a5a72" stroke="#fdfbf7" stroke-width="4" paint-order="stroke">exponential (unbounded)</text>
+  <text x="196" y="120" font-family="sans-serif" font-size="13" fill="#3a5a72" stroke="#fdfbf7" stroke-width="4" paint-order="stroke">exponential (unbounded)</text>
 
   <!-- logistic S-curve -->
-  <path d="M 60 360 C 130 340, 200 280, 260 230 C 320 180, 370 162, 430 154"
+  <path d="M 60 360 C 115 340, 175 280, 225 230 C 280 180, 320 162, 372 154"
         fill="none" stroke="#2b3a42" stroke-width="2.5"/>
-  <text x="120" y="240" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">logistic (S-curve)</text>
+  <text x="100" y="240" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">logistic (S-curve)</text>
 
   <!-- Compound interest table -->
-  <text x="452" y="80" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a" font-weight="bold">1,000 at 5%</text>
+  <text x="448" y="80" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a" font-weight="bold">1,000 at 5%</text>
   <g font-family="sans-serif" font-size="12" fill="#222222">
-    <rect x="404" y="92" width="96" height="22" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-    <text x="452" y="108" text-anchor="middle">year 1: 1,050</text>
-    <rect x="404" y="118" width="96" height="22" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-    <text x="452" y="134" text-anchor="middle">year 2: 1,102.50</text>
-    <rect x="404" y="144" width="96" height="22" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-    <text x="452" y="160" text-anchor="middle">year 10: 1,628.89</text>
+    <rect x="392" y="92" width="112" height="22" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text fill="#222222" x="448" y="108" text-anchor="middle" font-size="12">year 1: 1,050</text>
+    <rect x="392" y="118" width="112" height="22" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text fill="#222222" x="448" y="134" text-anchor="middle" font-size="12">year 2: 1,102.50</text>
+    <rect x="392" y="144" width="112" height="22" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
+    <text fill="#222222" x="448" y="160" text-anchor="middle" font-size="12">year 10: 1,628.89</text>
   </g>
-  <text x="452" y="192" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">doubling &#8776; 70 &#247; rate</text>
-  <text x="452" y="208" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">&#8776; 14 years</text>
+  <text x="448" y="188" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">doubling &#8776; 70 &#247; rate</text>
+  <text x="448" y="204" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">&#8776; 14 years</text>
 
-  <text x="256" y="469.3" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Real growth bends into an S as resources run short. The rate &#8212; not the start &#8212;</text>
-  <text x="256" y="486.2" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">is the lever.</text>
+  <text x="256" y="469" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Real growth bends into an S as resources run short. The rate &#8212; not the start &#8212;</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">is the lever.</text>
 </svg>

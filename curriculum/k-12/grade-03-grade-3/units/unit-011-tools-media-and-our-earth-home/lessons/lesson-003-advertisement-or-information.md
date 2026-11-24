@@ -122,20 +122,33 @@ their clues.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Keep it fair and warm: **advertising is not
-bad, and noticing it is not suspicion.** People buy food, soap, and shoes, and sellers help
-them find these things. The skill is simply to *notice* when a message wants our money
-rather than only telling us a fact. That skill matters everywhere, and it protects families
-with little to spend just as much as anyone else — knowing the clue is a kind of fairness.
-This is the Grade 3 upgrade of Grade 2's "true information or selling": now learners use the
-word **advertisement** and name a **specific clue**. Hold the curriculum's stance: media is
-met with judgment, not fear. Use simple, everyday examples with no wealth assumption — a
-market stall, a street sign, a label on rice or soap — so every learner recognizes an ad
-from their own life. Distinguish evidence from values: "this message shows a price" is a
-fact; "ads are bad" is a value judgment we do not make. Honor every body: read each message
-aloud for a learner who is blind or has low vision, and let them name the clue by voice; a
-non-speaking learner points to "buy," "price," or "fact" on the clue chart; a learner who is
-Deaf or hard of hearing can read the printed messages and sign "buy" or "fact" to answer.
+**Tone.** Fair and warm — advertising is not bad, and noticing it is not suspicion.
+
+**The facts to land.**
+1. People buy food, soap, and shoes, and sellers help them find these things.
+2. The skill is to *notice* when a message wants our money rather than only telling us a
+   fact — this is the Grade 3 upgrade of Grade 2's "true information or selling."
+3. Learners now use the word **advertisement** and name a **specific clue**.
+
+**Don't overshoot.** "This message shows a price" is a fact; "ads are bad" is a value
+judgment we do not make.
+
+**The lenses, briefly.**
+- *Critical-thinking:* find the clue, then decide what kind of message it is.
+- *Technology:* messages travel through screens, signs, and packaging.
+- *Ethics:* we describe, we do not condemn.
+- *Egalitarianism:* knowing the clue protects families with little to spend; that is
+  a kind of fairness.
+
+**The skill.** Name the clue — "buy", "price", or a fact — and say what kind of message
+it is.
+
+Use simple examples with no wealth assumption: a market stall, a street sign, a label on
+rice or soap.
+
+**Access:** read each message aloud for a learner who is blind or has low vision; a
+learner who does not speak points to "buy", "price", or "fact" on the clue chart; a
+learner who is Deaf or hard of hearing reads the printed messages and signs the answer.
 
 ## Procedure
 

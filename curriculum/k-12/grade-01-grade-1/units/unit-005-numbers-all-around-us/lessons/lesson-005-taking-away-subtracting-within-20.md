@@ -109,17 +109,16 @@ the partner of adding — the same story told backward.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Subtracting is a *skill*, so teach it
-with a **worked example** and guided practice first (philosophy §13). The one new
-idea is that taking some away leaves a smaller group whose size you can count; the
-written signs (−, =) come *after* the objects. Keep starting numbers within 20.
-Offer "count back" as one tool, not the only one — counting what is left is equally
-correct. The number sentence is a *record* of what the hands did. Use take-away
-stories of sharing and giving, which let fairness (ethics) enter gently without
-moralizing. For learners who are Deaf or hard of hearing, act out taking away in
-sign or by moving objects; for learners who are blind or low-vision, remove objects
-from a bowl and count what remains by touch and sound. A learner who does not speak
-shows what is left by pointing to a number card or holding up fingers. Never rank
+Subtracting is a *skill*, so teach it with a **worked example** and guided practice
+first (philosophy §13). The one new idea is that taking some away leaves a smaller group
+whose size you can count; the written signs (−, =) come *after* the objects. Keep
+starting numbers within 20. Offer "count back" as one tool, not the only one — counting
+what is left is equally correct. The number sentence is a *record* of what the hands
+did. Use take-away stories of sharing and giving, which let fairness (ethics) enter
+gently without moralizing. For learners who are Deaf or hard of hearing, act out taking
+away in sign or by moving objects; for learners who are blind or low-vision, remove
+objects from a bowl and count what remains by touch and sound. A learner who does not
+speak shows what is left by pointing to a number card or holding up fingers. Never rank
 learners by speed; a correct "what is left" is correct however it was reached.
 
 ## Procedure

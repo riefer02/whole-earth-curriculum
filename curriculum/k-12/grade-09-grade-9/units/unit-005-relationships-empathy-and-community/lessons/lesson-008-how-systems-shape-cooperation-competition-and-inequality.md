@@ -108,21 +108,37 @@ the rules behind the world you live in.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a system is a set of rules and
-incentives; (2) the rules of a system shape behavior — cooperative rules (shared rewards, shared stakes)
-tend to produce cooperation, while winner-take-all rules tend to produce competition (social interdependence
-theory, S-233); (3) the rules also shape *outcomes* — the same players can end up very unequal under one
-rule-set and roughly equal under another; (4) real systems — a shared commons with rules for the common good
-(S-416), a market, a mutual-aid network — are all rule-sets, and their rules can be changed; (5) inequality
-is not a fact of nature but is partly produced by rules and incentives, which is why different countries
-with similar wealth can have very different levels of inequality (S-006).** This is a *concept*; use the
-demonstration and inquiry, not drill (philosophy §13). The egalitarian lens is the heart: inequality is
-structured, not just individual. The ethics lens: because rules are human-made, we can ask whether they are
-fair — and change them. The global lens: different societies have built different systems — commons,
-markets, cooperatives, mutual aid — and each produces different patterns of cooperation and inequality. The
-technology/environment lens: technology changes the rules (automation shifts who earns; extractive economies
-shift costs onto the environment and onto the people least able to bear them). Keep the demonstration
-concrete and let learners draw the lesson themselves before you name it.
+**Tone.** Concrete first — run the demonstration, let learners draw the lesson, then
+name it.
+
+**The facts to land.**
+
+1. **A system is a set of rules and incentives.**
+2. **Rules shape behaviour:** cooperative rules (shared rewards, shared stakes) tend to
+produce cooperation, while winner-take-all rules tend to produce competition (social
+interdependence theory, S-233).
+3. **Rules shape outcomes:** the same players can end up very unequal under one rule-set
+and roughly equal under another.
+4. **Real systems are rule-sets, and rules can be changed** — a shared commons with
+rules for the common good (S-416), a market, a mutual-aid network.
+5. **Inequality is not a fact of nature** but partly produced by rules and incentives,
+which is why different countries with similar wealth can have very different levels of
+inequality (S-006).
+
+**The lenses, briefly.**
+
+- *Egalitarianism:* inequality is structured, not just individual.
+- *Ethics:* because rules are human-made, we can ask whether they are fair — and
+change them.
+- *Global:* different societies have built different systems — commons, markets,
+cooperatives, mutual aid — and each produces different patterns of cooperation and
+inequality.
+- *Technology:* automation shifts who earns.
+- *Environment:* extractive economies shift costs onto the environment and onto the
+people least able to bear them.
+- *Critical-thinking:* before blaming a player, check the rules they played by.
+
+**The skill.** Use the demonstration and inquiry, not drill (philosophy §13).
 
 ## Procedure
 

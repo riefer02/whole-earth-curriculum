@@ -115,12 +115,12 @@ demand, two recipes to blend.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a system of equations
-holds several relationships at once; the solution is the pair that satisfies all of them,
-and it means something concrete in context — an amount, a price, a time.** Teach
-substitution and elimination as *procedures* with a worked example and guided practice
-(S-011), and always close by re-reading the answer in the original situation (the
-interpretation is the point, not the arithmetic alone).
+The idea to land: **a system of equations holds several relationships at once; the
+solution is the pair that satisfies all of them, and it means something concrete in
+context — an amount, a price, a time.** Teach substitution and elimination as
+*procedures* with a worked example and guided practice (S-011), and always close by
+re-reading the answer in the original situation (the interpretation is the point, not
+the arithmetic alone).
 
 The **ethics** lens: modeling forces you to name your assumptions and check the answer
 against reality — honesty about whether the model fits. The **egalitarianism** lens: the
@@ -132,9 +132,9 @@ counting rods and negative numbers (S-289); Brahmagupta in 7th-century India wro
 for arithmetic with "debts" (negatives) that make the same moves work (S-290). The
 **technology** lens: every solver on a phone runs elimination in disguise — the same two
 moves, done fast. The **environment** lens: blending fuels, mixing a fertilizer to a
-specification, or balancing a diet's cost and nutrition are all systems — and a "solution"
-that violates a constraint (too much carbon, too little nutrient) is a red flag, not a
-success. Preview: Lesson 6 scales this up to matrices.
+specification, or balancing a diet's cost and nutrition are all systems — and a
+"solution" that violates a constraint (too much carbon, too little nutrient) is a red
+flag, not a success. Preview: Lesson 6 scales this up to matrices.
 
 ## Procedure
 

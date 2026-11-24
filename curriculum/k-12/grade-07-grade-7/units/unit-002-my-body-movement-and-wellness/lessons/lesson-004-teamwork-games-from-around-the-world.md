@@ -115,19 +115,35 @@ cleared beach — so the game fits the land, and the land shapes the game.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **teamwork is a
-universal human skill — sharing roles, communicating, and helping each other — and games from
-many cultures are one living proof of it**. Present each game as a real tradition with
-respect, never as a curiosity or a ranking: name its home region, and note that rules vary
-from place to place and are best learned from people who play it (the cards are a starting
-point, not the last word). The three games here are a sample, not the whole map: to span
-more continents, add one from Africa, Oceania, or the Americas — for example, lacrosse of the
-Indigenous nations of North America, kilikiti of Samoa, or genna of Ethiopia — and present it
-with the same respect: name its home, note that rules vary, and learn from people who play
-it. Adapt every game so all bodies and abilities join — tag can be a
-touch, a tap, or a call; kicking can be a pass with any part of the body; no one is forced
-into contact. Play cooperatively: the aim is for the *whole group* to experience each game,
-not to win. See `docs/contexts.md` and `docs/art-style.md`.
+**Tone.** Playful and respectful. These are living games, not exhibits.
+
+**The facts to land.**
+
+1. **Teamwork is a universal human skill** — sharing roles, communicating, helping each
+   other — and games from many cultures are one living proof of it.
+2. **Kabaddi and kho-kho** come from South Asia; **sepak takraw** from Southeast Asia.
+   Present each as a real tradition: name its home region, note that rules vary from
+   place to place, and learn from people who play it. The cards are a starting point,
+   not the last word.
+3. **This is a sample, not the whole map.** To span more continents, add one from
+   Africa, Oceania, or the Americas — lacrosse of the Indigenous nations of North
+   America, kilikiti of Samoa, or genna of Ethiopia — with the same respect.
+
+**Don't overshoot.** Do not present any game as a curiosity or rank traditions against
+each other.
+
+**The lenses, briefly.**
+
+- *Physical:* every body plays a version.
+- *Global:* games travel and change; the local rules are the real ones.
+- *Community:* the group experiences the game together.
+- *Egalitarianism:* adapt so all bodies and abilities join — a tag can be a touch, a
+  tap, or a call; a kick can be a pass with any part of the body.
+- *Ethics:* no one is forced into contact.
+- *Environment:* play where the ground and the season allow.
+
+**The skill.** Play cooperatively: the aim is for the *whole group* to experience each
+game, not to win. See `docs/contexts.md` and `docs/art-style.md`.
 
 ## Procedure
 

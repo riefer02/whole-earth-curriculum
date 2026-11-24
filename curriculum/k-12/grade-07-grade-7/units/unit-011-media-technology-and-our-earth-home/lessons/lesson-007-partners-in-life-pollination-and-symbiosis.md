@@ -112,18 +112,19 @@ other. Today you learn how they work.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) symbiosis is a close
-relationship between two different species; in mutualism, both benefit; (2) pollination is a
-mutualism — the pollinator gets food (nectar, pollen) and the plant gets its pollen moved so it can
-make seeds; (3) "benefit" means each side gets something it needs to live or reproduce, not that
-they intend to help each other.** Model the bee-and-flower pair once (worked example, S-011). The
-environment lens: symbiosis shows that living systems are webs of interdependence, not solitary
-competition. The global lens: pollination happens worldwide, with many different partners — bees,
-butterflies, moths, bats, birds — differing by region. The technology & ethics lens: humans depend
-on pollination for much of our food, so caring for pollinators is also caring for ourselves and for
-farmers everywhere. Keep the science precise: pollination is a real mutualism; coral gets food from
-its symbiotic algae, and the algae get shelter (S-215, S-330); distinguish these facts from the
-value that interdependence is worth honoring.
+The ideas to land: **(1) symbiosis is a close relationship between two different
+species; in mutualism, both benefit; (2) pollination is a mutualism — the pollinator
+gets food (nectar, pollen) and the plant gets its pollen moved so it can make seeds; (3)
+"benefit" means each side gets something it needs to live or reproduce, not that they
+intend to help each other.** Model the bee-and-flower pair once (worked example, S-011).
+The environment lens: symbiosis shows that living systems are webs of interdependence,
+not solitary competition. The global lens: pollination happens worldwide, with many
+different partners — bees, butterflies, moths, bats, birds — differing by region. The
+technology & ethics lens: humans depend on pollination for much of our food, so caring
+for pollinators is also caring for ourselves and for farmers everywhere. Keep the
+science precise: pollination is a real mutualism; coral gets food from its symbiotic
+algae, and the algae get shelter (S-215, S-330); distinguish these facts from the value
+that interdependence is worth honoring.
 
 ## Procedure
 

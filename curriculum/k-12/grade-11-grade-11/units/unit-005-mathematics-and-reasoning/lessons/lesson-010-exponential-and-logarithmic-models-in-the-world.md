@@ -111,20 +111,20 @@ whether the steps are hours, generations, or millennia.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **to solve b^t = c
-for t, take logs of both sides: t = log(c)/log(b).** For half-life, b = ½; for
-doubling, b = 2; for growth at rate r, b = 1 + r. Teach the one move — *take the log,
-then divide* — with worked examples and guided practice (S-011).
+The idea to land: **to solve b^t = c for t, take logs of both sides: t =
+log(c)/log(b).** For half-life, b = ½; for doubling, b = 2; for growth at rate r, b = 1
++ r. Teach the one move — *take the log, then divide* — with worked examples and guided
+practice (S-011).
 
 The **environment** lens: half-life is the honest language of how long pollution and
 radioactive material persist — carbon-14's 5 730-year half-life is what lets us date
 ancient charcoal and climate records. The **intellectual** lens: one move (log both
 sides) turns a power equation into a linear one for the unknown time. The
-**critical-thinking** lens: learners check every answer by substituting it back into
-the original. The **technology** lens: dating labs, medical dose calculators, and
-climate models all solve these same log equations under the hood. Distinguish the
-mathematics (exact) from the real-world mess (rates are estimates). Preview: Lesson
-11 begins geometry with the unit circle.
+**critical-thinking** lens: learners check every answer by substituting it back into the
+original. The **technology** lens: dating labs, medical dose calculators, and climate
+models all solve these same log equations under the hood. Distinguish the mathematics
+(exact) from the real-world mess (rates are estimates). Preview: Lesson 11 begins
+geometry with the unit circle.
 
 ## Procedure
 

@@ -113,11 +113,10 @@ ideas and to understand each other. Your voice, face, and body are your costume.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, choose or tell a story where characters are
-kind and recognizable, from any culture, told respectfully as a story to play with.
-Never push a shy learner to perform; watching and copying is full participation.
-Celebrate every character — there is no "correct" way to play one.
+As facilitator, choose or tell a story where characters are kind and recognizable, from
+any culture, told respectfully as a story to play with. Never push a shy learner to
+perform; watching and copying is full participation. Celebrate every character — there
+is no "correct" way to play one.
 
 ## Procedure
 

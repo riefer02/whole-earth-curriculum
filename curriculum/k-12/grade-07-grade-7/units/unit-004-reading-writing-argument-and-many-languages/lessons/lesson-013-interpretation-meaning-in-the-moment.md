@@ -114,16 +114,16 @@ in Nairobi, a courtroom in São Paulo, or a parent–teacher meeting anywhere.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **translation is
-written and can take time; interpretation is spoken and live — and the situation decides
-which is needed**. Model the sort with one written and one spoken situation as worked
-examples before practice (Kirschner, Sweller & Clark, 2006). Keep the distinction clean
-but honest: a real interpreter may also translate, and some jobs need both. The four
-lenses: *ethics* (an interpreter must be faithful *and* honest about uncertainty in the
-moment); *egalitarianism* (interpretation lets people who do not share a language meet as
-equals); *global* (live interpretation happens wherever languages meet — markets,
-hospitals, ports); *social-emotional* (interpreting for a family member is a real
-responsibility — honor the person, not just the words). See `docs/facilitation.md`.
+The idea to land is that **translation is written and can take time; interpretation is
+spoken and live — and the situation decides which is needed**. Model the sort with one
+written and one spoken situation as worked examples before practice (Kirschner, Sweller
+& Clark, 2006). Keep the distinction clean but honest: a real interpreter may also
+translate, and some jobs need both. The four lenses: *ethics* (an interpreter must be
+faithful *and* honest about uncertainty in the moment); *egalitarianism* (interpretation
+lets people who do not share a language meet as equals); *global* (live interpretation
+happens wherever languages meet — markets, hospitals, ports); *social-emotional*
+(interpreting for a family member is a real responsibility — honor the person, not just
+the words). See `docs/facilitation.md`.
 
 ## Procedure
 

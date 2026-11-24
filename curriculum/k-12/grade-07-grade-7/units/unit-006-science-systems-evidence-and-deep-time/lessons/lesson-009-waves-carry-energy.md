@@ -118,17 +118,17 @@ place.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a wave transfers
-energy, not matter — the medium moves in place while the energy travels; (2) waves have parts:
-crest (high), trough (low), amplitude (height), wavelength (distance between repeats); and (3)
-sound, light, and water are all wave-carried energy.** Use explicit instruction with the rope
-worked example first, then embodied practice (Kirschner, Sweller & Clark, 2006). These are
-standard concepts in physics (wave mechanics). The environment lens (`docs/philosophy.md` §4):
-waves are how Earth moves energy around — ocean waves shape coastlines, and the Sun's light
-(an electromagnetic wave) powers nearly all life. The global lens: every coastal people has
-read waves to fish, sail, and navigate; the physics is one, the uses are many. The egalitarian
-lens: a wave in a bucket and a wave on the open ocean obey the same rules — understanding is
-not reserved for the rich or the few.
+The ideas to land: **(1) a wave transfers energy, not matter — the medium moves in place
+while the energy travels; (2) waves have parts: crest (high), trough (low), amplitude
+(height), wavelength (distance between repeats); and (3) sound, light, and water are all
+wave-carried energy.** Use explicit instruction with the rope worked example first, then
+embodied practice (Kirschner, Sweller & Clark, 2006). These are standard concepts in
+physics (wave mechanics). The environment lens (`docs/philosophy.md` §4): waves are how
+Earth moves energy around — ocean waves shape coastlines, and the Sun's light (an
+electromagnetic wave) powers nearly all life. The global lens: every coastal people has
+read waves to fish, sail, and navigate; the physics is one, the uses are many. The
+egalitarian lens: a wave in a bucket and a wave on the open ocean obey the same rules —
+understanding is not reserved for the rich or the few.
 
 ## Procedure
 

@@ -115,13 +115,11 @@ pointing to a part and saying "red" or "round" is a way of sharing your making.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, model describing with the same gentle,
-non-judging words you want to hear: "I see a blue circle and a long line." Never ask
-"what is it *supposed* to be?" — instead ask "what do you see?" or "tell me about
-  this part." Honor pointing and gestures as full answers. Learners who cannot see may
-  describe their piece by touch and feel — rough or smooth, big or small, round or
-  straight — and that is full describing too.
+As facilitator, model describing with the same gentle, non-judging words you want to
+hear: "I see a blue circle and a long line." Never ask "what is it *supposed* to be?" —
+instead ask "what do you see?" or "tell me about this part." Honor pointing and gestures
+as full answers. Learners who cannot see may describe their piece by touch and feel —
+rough or smooth, big or small, round or straight — and that is full describing too.
 
 ## Procedure
 

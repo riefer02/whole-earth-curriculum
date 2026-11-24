@@ -118,31 +118,37 @@ the first step to being persuaded *on purpose* instead of by accident.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **persuasion works
-through three appeals — ethos (character), pathos (feeling), and logos (reasoning) —
-named in the ancient Greek tradition (S-346), and these are one tradition among many;
-every culture has its own arts of speaking, and none is the "right" one.** Aristotle's
-*Rhetoric* (c. 350 BCE) organized persuasion into these three appeals — the speaker's
-character (êthos), the audience's emotional state (pathos), and the argument itself
-(logos) (S-346). Teach this as *description*, not as a universal law of all speaking:
-West African griots (jeli/jali) carry genealogy and history through oral performance
-(S-446); the Māori whaikōrero is a formal, structured oratory; the Indian nyāya
-tradition built careful rules of debate; the Islamic khuṭba addresses a congregation
-in its own register. Name these as *different arts with different strengths*, held
-side by side — never ranked.
+**Tone.** Appreciative and plural: the Greek triad is a good tool, not the measure of
+all speaking.
 
-Model the skill once, then let learners practice (worked example → guided practice →
-independent work; S-011). The **critical-thinking** lens is the spine: read *which*
-lever a speaker pulls and ask whether it carries the load or hides a missing reason.
-The **global** lens: treat the three appeals as one (ancient Greek) frame among many
-rhetorical traditions, and invite learners to name the speaking arts of their own
-community. The **ethics** lens: persuasion can serve care or harm — the same three
-levers build a fair argument or a con. The **egalitarian** lens: whose voices get to
-persuade publicly, and whose are kept out, is a question of power, not skill alone
-(S-281). The **social-emotional** lens: noticing when a feeling is being stirred *in
-you* is a kind of self-awareness; invite, never force, sharing. Preview: Lesson 2
-turns to the heart of the unit — telling emotional appeal apart from reasoned
-argument.
+**The facts to land.**
+
+1. Persuasion works through *ethos*, *pathos*, and *logos*, named in the ancient Greek
+   tradition (S-346): Aristotle's *Rhetoric* (c. 350 BCE) separates the speaker's
+   character (êthos), the audience's feeling (pathos), and the argument (logos).
+2. Every culture has its own arts of speaking: West African griots (jeli/jali) carry
+   genealogy and history through oral performance (S-446); the Māori whaikōrero is a
+   formal oratory; Indian nyāya built careful rules of debate; the Islamic khuṭba
+   addresses a congregation in its own register.
+3. These are *different arts with different strengths*, held side by side — never
+   ranked.
+
+**Don't overshoot.** Do not teach the triad as a universal law of all speaking; it is
+one inherited frame, and learners should name their own community's.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* read which lever a speaker pulls, and whether it carries the load
+  or hides a missing reason.
+- *Global:* invite learners to name the speaking arts of their own community.
+- *Ethics:* the same levers build a fair argument or a con.
+- *Egalitarianism:* whose voices may persuade publicly, and whose are kept out, is
+  power, not skill alone (S-281).
+- *Social-emotional:* noticing a feeling being stirred in you is self-awareness —
+  invite, never force, sharing.
+
+**The skill.** Model once, then release (S-011): mark which appeal does the work in one
+short passage. Lesson 2 separates feeling from reason.
 
 ## Procedure
 
@@ -201,3 +207,4 @@ and notice which lever your family values most.
   <https://www.britannica.com/art/griot> (S-446).
 - On modeling + guided practice before independent work: Kirschner, Sweller & Clark
   (2006), <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- World Bank — World Development Report 2016: Digital Dividends (S-281).

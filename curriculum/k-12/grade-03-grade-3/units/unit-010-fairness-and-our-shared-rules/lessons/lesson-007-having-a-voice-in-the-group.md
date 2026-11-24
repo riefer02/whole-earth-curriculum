@@ -123,20 +123,36 @@ so quiet voices count too. Today you will practice hearing every voice.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **voice and inclusion** — a
-centerpiece of fair deciding. Having a voice means being able to share an idea *and*
-be listened to; being heard is the point, not merely speaking. Keep it blame-free: no
-one is "bad" for talking; the lesson is about *making room* for quieter voices, not
-scolding louder ones. Use the **turn marker** (an ancient, global practice — a talking
-stick, a shell, a stone) and the **wonder box** (written or drawn, so a learner can
-share without speaking up) as concrete tools. Where questioning adults is not safe,
-frame everything as *wondering together* (see `docs/contexts.md`). A learner who does
-not speak aloud writes or draws a slip for the wonder box, or points to the picture
-set; a learner who is deaf or hard of hearing shares by sign, writing, or the marker;
-a learner who is blind or low-vision hears the situations described and shares aloud
-or by touch; a learner with a motor difference can direct a partner to place their
-slip. A learner may always pass. The goal is the learner's own explanation — "a voice
-means being heard, and when it is not heard…" — not a memorized phrase.
+**Tone.** Warm and room-making — no one is "bad" for talking.
+
+**The facts to land.**
+1. Having a voice means sharing an idea *and* being listened to; being heard is the
+   point, not merely speaking.
+2. The **turn marker** — a talking stick, a shell, a stone — is an ancient, global
+   practice.
+3. The **wonder box** takes written or drawn slips, so a learner can share without
+   speaking up.
+
+**Don't overshoot.** Do not scold louder voices. The lesson makes room for quieter ones,
+and a pass is a full share.
+
+**The lenses, briefly.**
+- *Ethics:* listening is owed, not optional.
+- *Egalitarianism:* the quietest voice gets equal room.
+- *Community:* the marker belongs to whoever holds it.
+- *Social-emotional:* sharing is by choice; a pass counts.
+- *Global:* the practice is old and found among many peoples.
+- *Critical-thinking:* "when a voice is not heard…"
+
+**The skill.** Say "a voice means being heard, and when it is not heard…"
+
+Where questioning adults is not safe, frame everything as *wondering together* (see
+`docs/contexts.md`).
+
+**Access:** a learner who does not speak aloud writes or draws a slip; a learner who is
+deaf or hard of hearing shares by sign, writing, or the marker; a learner who is blind
+or has low vision hears the situations described; a learner with a motor difference
+directs a partner to place their slip.
 
 ## Procedure
 

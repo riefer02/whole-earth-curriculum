@@ -129,16 +129,15 @@ gets shown, and every child belongs.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the year's **capstone**, and its
-single rule is **celebration, not competition**: no best-work awards, no winners, no
-ranking — "no work is better than another's," and every page is displayed equally. A
-learner who prefers not to share publicly may hang their page quietly or pass, and
-that *counts* as sharing. In the appreciation circle, sharing is by choice; a pass is
-a full share, and no one is called on. For a learner who is Deaf or hard of hearing,
-make the celebration visual — clapping, signing, a flag wave, a visual "bravo." For a
-learner who is blind or has low vision, describe pages aloud or offer a spoken or
-tactile tour of the gallery. Keep the tone warm and generous: the class has grown
-together, and everyone belongs.
+It is the year's **capstone**, and its single rule is **celebration, not competition**:
+no best-work awards, no winners, no ranking — "no work is better than another's," and
+every page is displayed equally. A learner who prefers not to share publicly may hang
+their page quietly or pass, and that *counts* as sharing. In the appreciation circle,
+sharing is by choice; a pass is a full share, and no one is called on. For a learner who
+is Deaf or hard of hearing, make the celebration visual — clapping, signing, a flag
+wave, a visual "bravo." For a learner who is blind or has low vision, describe pages
+aloud or offer a spoken or tactile tour of the gallery. Keep the tone warm and generous:
+the class has grown together, and everyone belongs.
 
 ## Procedure
 

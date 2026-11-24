@@ -118,13 +118,13 @@ surrender — it is the way forward that actually exists.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **setbacks are met with
-a detour, not despair or denial — and the first move is naming whether the barrier is
-one I made or one the system made.** Both errors are tempting: self-blame for structural
-barriers (which the egalitarian lens names as real and unequally distributed), and
-excusing personal failure as fate. The growth view (Dweck, S-096) and self-compassion
-(Neff, S-222) are offered as resources, honestly hedged — effort is not a guarantee, and
-self-compassion is kindness, not excuse.
+The idea to land: **setbacks are met with a detour, not despair or denial — and the
+first move is naming whether the barrier is one I made or one the system made.** Both
+errors are tempting: self-blame for structural barriers (which the egalitarian lens
+names as real and unequally distributed), and excusing personal failure as fate. The
+growth view (Dweck, S-096) and self-compassion (Neff, S-222) are offered as resources,
+honestly hedged — effort is not a guarantee, and self-compassion is kindness, not
+excuse.
 
 The **ethics** lens: how we treat ourselves in failure is an ethical question, and so is
 how a society treats those its structures block. The **egalitarianism** lens: some
@@ -135,7 +135,7 @@ varies dramatically by place and circumstance — no single story of resilience 
 default. The **critical-thinking** lens: distinguishing self-made from structural is a
 careful descriptive act, not a mood.
 
-**Safeguarding:** cards are general and gentle. No learner is required to disclose real
+**Safety floor.** cards are general and gentle. No learner is required to disclose real
 hardship, discrimination, or trauma. If a learner names real structural harm, honor it
 as fact, do not minimize it, and redirect toward support and the detour that actually
 exists — never toward "try harder."

@@ -119,17 +119,16 @@ matters is that you can *explain* your road to someone else.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the *explaining* lesson — the
-goal is not one method but many, and a learner who can say *how* they solved it shows
-deeper understanding than one who only gives the answer (Carpenter et al., 2015).
-Model the same problem two or three ways as **worked examples** (philosophy §13), then
-let learners choose their own. Chart each strategy and name it, so strategies become a
-shared vocabulary, not a race. **Never rank strategies or learners: a slower strategy
-that a learner understands is better than a fast one they do not.** For learners who
-are Deaf or hard of hearing, model with objects and write each step; for learners who
-are blind or low-vision, count on and back with real objects and a raised number line.
-A learner who does not speak explains by pointing, moving objects, or drawing — all of
-these are explaining.
+It is the *explaining* lesson — the goal is not one method but many, and a learner who
+can say *how* they solved it shows deeper understanding than one who only gives the
+answer (Carpenter et al., 2015). Model the same problem two or three ways as **worked
+examples** (philosophy §13), then let learners choose their own. Chart each strategy and
+name it, so strategies become a shared vocabulary, not a race. **Never rank strategies
+or learners: a slower strategy that a learner understands is better than a fast one they
+do not.** For learners who are Deaf or hard of hearing, model with objects and write
+each step; for learners who are blind or low-vision, count on and back with real objects
+and a raised number line. A learner who does not speak explains by pointing, moving
+objects, or drawing — all of these are explaining.
 
 ## Procedure
 

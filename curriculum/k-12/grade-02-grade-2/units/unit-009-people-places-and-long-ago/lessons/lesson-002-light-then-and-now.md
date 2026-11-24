@@ -121,18 +121,17 @@ same" means.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Comparing is a foundational skill,
-so model it once before independent work** (Kirschner, Sweller & Clark, 2006): hold a
-candle and a bulb, and think aloud — "Both give light. That is the same. The candle
-uses a flame; the bulb uses electricity. That changed." Then guide the same two moves
-for a second pair. **Never rank:** do not say old ways were harder or worse. A
-candle, an oil lamp, and a solar lamp are all real, living ways to light a home —
-today, hundreds of millions of people still light the dark with flame and lamp, and
-many homes use solar lamps, so a "new" light can be flame-free without being
-electric. The point is noticing change and sameness, never "progress." Honor every
-body: a learner who is blind or has low vision feels the objects or hears the story
-told clearly; a learner who does not use a speaking voice points to the "same" and
-"different" spots. For accuracy, light's history is a long, many-peopled story (see
+**Comparing is a foundational skill, so model it once before independent work**
+(Kirschner, Sweller & Clark, 2006): hold a candle and a bulb, and think aloud — "Both
+give light. That is the same. The candle uses a flame; the bulb uses electricity. That
+changed." Then guide the same two moves for a second pair. **Never rank:** do not say
+old ways were harder or worse. A candle, an oil lamp, and a solar lamp are all real,
+living ways to light a home — today, hundreds of millions of people still light the dark
+with flame and lamp, and many homes use solar lamps, so a "new" light can be flame-free
+without being electric. The point is noticing change and sameness, never "progress."
+Honor every body: a learner who is blind or has low vision feels the objects or hears
+the story told clearly; a learner who does not use a speaking voice points to the "same"
+and "different" spots. For accuracy, light's history is a long, many-peopled story (see
 Resources) — keep it simple and honest.
 
 ## Procedure

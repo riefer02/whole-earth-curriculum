@@ -116,23 +116,35 @@ hold three of them side by side.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **different traditions of justice —
-not only Western ones — give different, defensible answers to "who is responsible for poverty," and
-weighing them is the skill.** Present each tradition fairly and briefly: **capabilities** (Sen) asks
-whether people are actually *able* to do and be the things that make a life worth living — so
-responsibility falls on whoever can expand those freedoms (S-460); **fairness** (Rawls) asks what
-rules we would choose behind a "veil of ignorance" of our own position, so responsibility falls on
-arrangements that would be chosen by someone who did not know if they would be rich or poor (S-459);
-**ubuntu** (a Southern African ethic, often glossed "I am because we are") holds that a person's
-humanity is bound up with others', so poverty is everyone's concern and no one is fully themselves
-while another is left out. The **global** lens is the spine: this is the lesson where the curriculum
-most deliberately de-centers any single tradition — ubuntu, Confucian role ethics, Buddhist
-consequentialism, and dharma-based duty all carry ideas of justice as old and as serious as the
-Western canon (S-465, S-468, S-467, S-469). The **egalitarian** lens: every tradition here is being
-used to ask who is left out. The **community** lens: ubuntu names belonging itself as a good. Keep
-all three as *questions and frameworks*, not as the one correct answer (philosophy §11); distinguish
-the documented structural drivers of poverty (S-234) from the values each tradition adds (philosophy
-§5). Preview: next we turn to technology, data, and the right to privacy.
+**Tone.** Fair to every tradition: these are competing answers, not a ladder.
+
+**The facts to land.**
+
+1. Different traditions of justice — not only Western ones — give different, defensible
+   answers to "who is responsible for poverty", and weighing them is the skill.
+2. **Capabilities** (Sen): are people actually *able* to do and be what makes a life
+   worth living? Responsibility falls on whoever can expand those freedoms (S-460).
+3. **Fairness** (Rawls): what rules would we choose behind a veil of ignorance about our
+   own position? Responsibility falls on arrangements chosen by someone who did not know
+   whether they would be rich or poor (S-459).
+4. **Ubuntu** (Southern African, "I am because we are"): a person's humanity is bound up
+   with others', so poverty is everyone's concern.
+
+**Don't overshoot.** Keep all three as questions and frameworks, not the one correct
+answer (philosophy §11); separate the documented structural drivers of poverty (S-234)
+from the values each tradition adds (philosophy §5).
+
+**The lenses, briefly.**
+
+- *Global:* the spine — ubuntu, Confucian role ethics, Buddhist consequentialism, and
+  dharma-based duty carry ideas of justice as old and serious as the Western canon
+  (S-465, S-468, S-467, S-469).
+- *Egalitarianism:* each tradition is used here to ask who is left out.
+- *Community:* ubuntu names belonging itself as a good.
+- *Ethics:* responsibility is the question; the lesson is to argue it well.
+
+**The skill.** Present each tradition fairly and briefly, then release (S-011): answer
+"who is responsible?" from two traditions and say where they disagree.
 
 ## Procedure
 
@@ -186,3 +198,6 @@ community, the government, or all of us? Compare with the three traditions.
 - On fairness and the veil of ignorance: Rawls (1971), *A Theory of Justice* (S-459).
 - On justice extended across traditions: African Charter on Human and Peoples' Rights (S-465);
   Stanford Encyclopedia of Philosophy, "Confucius" (S-468).
+- Stanford Encyclopedia of Philosophy — Ethics in Indian and Tibetan Buddhism (S-467).
+- Encyclopaedia Britannica — dharma (S-469).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

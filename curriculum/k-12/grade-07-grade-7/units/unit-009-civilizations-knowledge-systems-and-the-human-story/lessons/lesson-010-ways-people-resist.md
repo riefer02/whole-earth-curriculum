@@ -112,25 +112,39 @@ with the risks and resources they had. Today we meet five forms, and the choosin
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) resistance
-takes many forms — protest, boycott, refusal, art, storytelling — and they are often
-combined; (2) examples: the Salt March (India, 1930) — Gandhi led a long walk to make
-salt in protest of the British salt tax, an act of protest and civil disobedience; the
-Montgomery bus boycott (USA, 1955–56) — people stopped riding segregated buses for over
-a year; capoeira (Brazil) — an art of movement and song created by enslaved Africans,
-carrying strength and identity; refusal — enslaved and colonized people's everyday acts
-of saying no; storytelling — oral traditions that keep memory and resistance alive; (3)
-people choose a form based on their goal, the risk they face, and their community and
-resources.** These are documented facts (Encyclopaedia Britannica, "Salt March,"
-"Montgomery bus boycott," "capoeira"; UNESCO inscribed the "capoeira circle" in 2014,
-registered as S-056). Teach with care: resistance is agency and dignity, not glorified
-violence; the forms studied here are nonviolent and artful. The ethics lens: resistance
-is a response to injustice — the moral question is what wrong it answers and how. The
-egalitarian lens: resistance is the voice of those with less power; honoring it is
-honoring dignity, not chaos. The global lens: these forms appear on every continent —
-India, the USA, Brazil, and beyond — no region is the default. The critical-thinking
-lens: question *why* a form was chosen, and notice that the choice is shaped by
-context, not by one "right" way to resist.
+**Tone.** Serious and admiring. Resistance here is agency and dignity, never glorified
+violence.
+
+**The facts to land.**
+
+1. **Resistance takes many forms** — protest, boycott, refusal, art, storytelling —
+   often combined.
+2. **Salt March** (India, 1930): Gandhi led a long walk to make salt against the British
+   salt tax — protest and civil disobedience.
+3. **Montgomery bus boycott** (USA, 1955–56): people stopped riding segregated buses for
+   over a year. **Capoeira** (Brazil): an art of movement and song created by enslaved
+   Africans, carrying strength and identity; UNESCO inscribed the capoeira circle in
+   2014 (S-056).
+4. **Refusal** — everyday acts of saying no under slavery and colonization — and
+   **storytelling**, oral traditions that keep memory and resistance alive.
+5. People choose a form by their **goal, the risk they face, and their community and
+   resources**.
+
+**Don't overshoot.** Do not present one form as the courageous default; the choice is
+shaped by context, not by one "right" way to resist.
+
+**The lenses, briefly.**
+
+- *Ethics:* the moral question is what wrong the resistance answers, and how.
+- *Egalitarianism:* resistance is the voice of those with less power; honoring it honors
+  dignity, not chaos.
+- *Global:* these forms appear on every continent — India, the USA, Brazil, and beyond.
+- *Critical-thinking:* ask *why* a form was chosen.
+
+**The skill.** Choose a form for a stated goal and risk, and say why it fits.
+
+Facts documented in Encyclopaedia Britannica ("Salt March," "Montgomery bus boycott,"
+"capoeira"). The forms studied here are nonviolent and artful.
 
 ## Procedure
 

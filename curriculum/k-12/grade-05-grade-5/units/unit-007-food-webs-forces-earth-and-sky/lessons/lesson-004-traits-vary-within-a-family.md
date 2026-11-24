@@ -115,15 +115,15 @@ appears in every family of living things on Earth.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson lands two ideas at once: **variation is
-real and normal** (evidence), and **every individual deserves respect regardless of
-its traits** (a value we hold). Keep those separate and say so. The scientific claim —
-offspring of the same parents vary because each receives a different mix of the
-parents' instructions — is sound at this level; the fuller mechanism (genes shuffling
-and combining) is Grade 8. Be careful with human comparisons: use seeds, leaves, and
-animals for the evidence, and let learners share their own family traits only if they
-choose. This is the "vary within a family" half of the standard; it sets up Grade 7's
-work on variation and natural selection ([`docs/facilitation.md`](../../../../../../docs/facilitation.md)).
+This lesson lands two ideas at once: **variation is real and normal** (evidence), and
+**every individual deserves respect regardless of its traits** (a value we hold). Keep
+those separate and say so. The scientific claim — offspring of the same parents vary
+because each receives a different mix of the parents' instructions — is sound at this
+level; the fuller mechanism (genes shuffling and combining) is Grade 8. Be careful with
+human comparisons: use seeds, leaves, and animals for the evidence, and let learners
+share their own family traits only if they choose. This is the "vary within a family"
+half of the standard; it sets up Grade 7's work on variation and natural selection
+([`docs/facilitation.md`](../../../../../../docs/facilitation.md)).
 
 ## Procedure
 

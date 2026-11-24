@@ -110,12 +110,11 @@ clue lets you catch a feeling early, before it gets very big.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The "check" step matters: a body
-signal can mean more than one feeling (a fast heart can be scared *or* excited), so
-the guess is checked with the situation. Honor that a guess is a guess — the learner
-is the expert on their own body. Never insist a learner's signal means a particular
-feeling. Keep the heartbeat activity short and inclusive; any learner can feel their
-heart by resting a hand on their chest, seated or standing.
+The "check" step matters: a body signal can mean more than one feeling (a fast heart can
+be scared *or* excited), so the guess is checked with the situation. Honor that a guess
+is a guess — the learner is the expert on their own body. Never insist a learner's
+signal means a particular feeling. Keep the heartbeat activity short and inclusive; any
+learner can feel their heart by resting a hand on their chest, seated or standing.
 
 ## Procedure
 

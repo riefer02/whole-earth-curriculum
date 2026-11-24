@@ -132,19 +132,18 @@ celebrate yours.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Set up the four stations, run the rotation, then lead the
-closing celebration. The capstone is a celebration of growth, not a test: observe what
-each learner can now do and note it for the portfolio without ranking anyone. Honor
-every body in its own way — adapted movement, adapted aiming, and spoken or drawn
-answers all count fully. Keep body-signal responses gentle and private, as in the
-earlier lessons: a learner shares only what they choose, and no body or amount of food,
-water, or sleep is ever judged. If a learner shows they are hungry, thirsty, or tired,
-honor it. Close with joy: the measure of this unit is that each learner leaves feeling
-their body is known, capable, and good. Where a camera or tablet records the
-celebration for a class book, notice what the tool can do — keep a picture for later —
-and what it cannot: it does not feel the beat, smell the air, or know when a body needs
-water or rest. Tools help us remember; the body does the sensing.
+Set up the four stations, run the rotation, then lead the closing celebration. The
+capstone is a celebration of growth, not a test: observe what each learner can now do
+and note it for the portfolio without ranking anyone. Honor every body in its own way —
+adapted movement, adapted aiming, and spoken or drawn answers all count fully. Keep
+body-signal responses gentle and private, as in the earlier lessons: a learner shares
+only what they choose, and no body or amount of food, water, or sleep is ever judged. If
+a learner shows they are hungry, thirsty, or tired, honor it. Close with joy: the
+measure of this unit is that each learner leaves feeling their body is known, capable,
+and good. Where a camera or tablet records the celebration for a class book, notice what
+the tool can do — keep a picture for later — and what it cannot: it does not feel the
+beat, smell the air, or know when a body needs water or rest. Tools help us remember;
+the body does the sensing.
 
 ## Procedure
 

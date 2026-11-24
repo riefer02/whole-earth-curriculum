@@ -113,28 +113,38 @@ does not count) and more able to flourish (there is more than one answer when on
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **honoring many knowledge
-traditions makes the shared human story more just and more able to flourish — because knowledge is
-diverse, because telling a people their knowing does not count is an injustice, and because one
-tradition alone leaves everyone poorer.** Teach the claim frame explicitly (S-011). Welcome and
-answer the honest counter ("wouldn't one best method be more efficient?") — the answer is not that
-efficiency is worthless but that a single tradition is also a single point of failure, and that
-justice is not measured only by efficiency (S-460). Keep this a reasoned claim, not a slogan: the
-learner must support it, not merely assert it.
+**Tone.** Argued, not asserted: the learner must build the case.
 
-The **ethics** lens: the claim is a *values* claim (a shared story *should* honor many traditions)
-supported by *evidence* (diverse knowledge is more resilient) — model the distinction between
-evidence and values explicitly. The **egalitarianism** lens: development understood as freedom —
-people able to live the lives they value, in their own terms — is exactly what honoring many
-traditions protects (S-460); suppressing a tradition is taking a capability away. The **global**
-lens: the claim is universal, not one culture's — everywhere, when one tradition dominates, others
-are lost, and everywhere, revival brings them back (S-428, S-056). The **technology** lens: tools
-can centralize knowledge (one platform, one standard) or pluralize it (many archives, many
-voices); the design of tools is a choice about whether the story stays many-voiced. The
-**environment** lens: biodiversity and knowledge-diversity rise and fall together — when one crop,
-one language, one way of burning is lost, the land loses a caretaker too (S-437, S-320). Preview:
-Lesson 9 turns to the movements of peoples and power that have carried these traditions — and their
-keepers — across the Earth.
+**The facts to land.**
+
+1. Honouring many knowledge traditions makes the shared story more just and more able to
+   flourish — knowledge is diverse, telling a people their knowing does not count is an
+   injustice, and one tradition alone leaves everyone poorer.
+2. Answer the honest counter ("wouldn't one best method be efficient?"): a single
+   tradition is also a single point of failure, and justice is not measured only by
+   efficiency (S-460).
+3. Keep it a reasoned claim, with evidence, that the learner supports rather than merely
+   states.
+
+**Don't overshoot.** The claim is not self-evident; a slogan in its place is a failed
+argument.
+
+**The lenses, briefly.**
+
+- *Ethics:* a *values* claim (the story should honour many traditions) supported by
+  *evidence* (diverse knowledge is more resilient) — model the distinction.
+- *Egalitarianism:* development as freedom — people able to live the lives they value,
+  in their own terms (S-460); suppressing a tradition takes a capability away.
+- *Global:* everywhere, when one tradition dominates others are lost, and everywhere
+  revival brings them back (S-428, S-056).
+- *Technology:* tools can centralise knowledge or pluralise it — a design choice about
+  whether the story stays many-voiced.
+- *Environment:* biodiversity and knowledge-diversity rise and fall together (S-437,
+  S-320).
+
+**The skill.** Teach the claim frame explicitly (S-011), then release: state the claim,
+give two supports, answer one objection. Lesson 9 turns to movements of peoples and
+power.
 
 ## Procedure
 

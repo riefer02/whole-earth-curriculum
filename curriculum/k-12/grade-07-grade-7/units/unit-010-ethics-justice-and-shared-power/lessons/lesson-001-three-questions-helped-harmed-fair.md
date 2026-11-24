@@ -110,19 +110,32 @@ learn three of them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a moral question is
-a question about right and wrong, and a framework is a set of questions that helps you think;
-(2) the three questions are: who is helped, who is harmed, and what is fair; (3) reasoning
-means asking all three, not just one.** Model the framework once, out loud and step by step
-(a worked example — see Kirschner, Sweller & Clark 2006, S-011), before learners try it
-themselves. The ethics lens: these questions make consequences and fairness visible instead
-of leaving them as a gut feeling. The egalitarian lens: asking "who is helped and who is
-harmed" pushes us to notice people we might otherwise forget — the ones with less power or
-less voice. The global lens: the framework is deliberately simple and portable; it works on
-a village water question, a classroom dispute, or a market decision anywhere. The
-critical-thinking lens: the questions are held as questions — the framework does not hand
-out answers, it disciplines the asking. Do not present any single answer to "what is fair"
-as the correct one; the point is the reasoning, not the conclusion.
+**Tone.** Open and unhurried. The framework disciplines the asking; it does not supply
+the answer.
+
+**The facts to land.**
+
+1. A **moral question** is a question about right and wrong; a **framework** is a set of
+   questions that helps you think.
+2. The three questions: **who is helped, who is harmed, and what is fair.**
+3. **Reasoning means asking all three**, not just one.
+
+**Don't overshoot.** Do not present any single answer to "what is fair" as the correct
+one. The point is the reasoning, not the conclusion.
+
+**The lenses, briefly.**
+
+- *Ethics:* the questions make consequences and fairness visible instead of leaving them
+  a gut feeling.
+- *Egalitarianism:* asking who is helped and who is harmed pushes us to notice people we
+  might forget — the ones with less power or less voice.
+- *Global:* simple and portable — it works on a village water question, a classroom
+  dispute, or a market decision anywhere.
+- *Critical-thinking:* the questions are held as questions.
+
+**The skill.** Model the framework once, out loud and step by step (a worked example —
+see Kirschner, Sweller & Clark, 2006, S-011), then have pairs apply it to an everyday
+situation.
 
 ## Procedure
 

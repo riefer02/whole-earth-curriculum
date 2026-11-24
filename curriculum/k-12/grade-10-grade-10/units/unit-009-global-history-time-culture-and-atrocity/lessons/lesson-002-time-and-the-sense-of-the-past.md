@@ -110,24 +110,33 @@ shapes.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the shape a people
-gives to time — a returning cycle that keeps ancestors near, or a forward line from a
-fixed beginning — shapes what its history remembers, and both shapes are real, living
-ways of holding the past.** Model the contrast with two worked examples before
-independent work (S-011).
+**Tone.** Even-handed: both shapes of time are living, not one primitive and one modern.
 
-The **global** lens: many Indigenous peoples hold time as cycles that carry ancestors
-and land forward together (a living, recurring relationship rather than a finished
-line); Chinese dynastic historiography recorded time as repeating dynastic cycles
-rise-and-fall while keeping continuous written annals; the Islamic Hijri calendar
-marks a community's shared era from the Hijra (622 CE); a linear "era" that counts
-forward from one founding moment is itself a choice, not a universal (S-315, S-378).
-The **technology** lens: writing changes memory — an oral tradition lives by
-re-telling and shifts with each teller, while a written annal fixes one version and
-can be kept for centuries, each with its own losses and gains. The **ethics** lens:
-whose record was written down and kept, and whose was carried in speech and often
-ignored, is a question of power. The **critical-thinking** lens: neither shape is
-"better"; each preserves something and lets something else fade — hold both.
+**The facts to land.**
+
+1. The shape a people gives to time — a returning cycle that keeps ancestors near, or a
+   forward line from a fixed beginning — shapes what its history remembers.
+2. Many Indigenous peoples hold time as cycles carrying ancestors and land; Chinese
+   dynastic historiography recorded repeating cycles while keeping continuous written
+   annals; the Hijri marks a shared era from the Hijra (622 CE); a linear era counted
+   from one founding moment is itself a choice (S-315, S-378).
+3. Writing changes memory: an oral tradition lives by re-telling and shifts with each
+   teller; a written annal fixes one version for centuries — each has its losses and
+   gains.
+
+**Don't overshoot.** Neither shape is "better"; each preserves something and lets
+something else fade.
+
+**The lenses, briefly.**
+
+- *Global:* the spine — hold the shapes side by side.
+- *Ethics:* whose record was written and kept, and whose was carried in speech and
+  ignored, is a question of power.
+- *Critical-thinking:* hold both without ranking.
+- *Technology:* writing is the tool that changed what memory could do.
+
+**The skill.** Model the contrast with two worked examples, then release (S-011): chart
+what each shape keeps and what it loses.
 
 ## Procedure
 
@@ -185,3 +194,4 @@ the difference.
   (S-315).
 - On the Maya calendar as a living system of cycles: Encyclopaedia Britannica, "Maya,"
   <https://www.britannica.com/topic/Maya-people> (S-378).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

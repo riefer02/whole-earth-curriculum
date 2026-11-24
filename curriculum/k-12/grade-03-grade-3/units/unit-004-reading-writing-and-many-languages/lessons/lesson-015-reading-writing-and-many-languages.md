@@ -127,17 +127,16 @@ we now hold.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. The capstone celebrates, reviews, and cements the unit's
-deepest value: reading and writing are tools, and multilingualism is wealth — no
-language, spoken or signed, is better than another (UNESCO holds that valuing every
-child's language strengthens learning and dignity). Keep it a celebration, never a
-contest: no ranking, no "best" paragraph, no high-stakes test. Review is light and
-joyful — a glance back at the portfolio, one paragraph read aloud, one greeting said
-in many languages — not an exam. Every voice, accent, and way of speaking is honored
-equally. A learner who is Deaf or hard of hearing shares in sign, and a signed
-greeting stands on the wall exactly as high as any spoken one. Growth is seen against
-each learner's own beginning, never against a peer.
+The capstone celebrates, reviews, and cements the unit's deepest value: reading and
+writing are tools, and multilingualism is wealth — no language, spoken or signed, is
+better than another (UNESCO holds that valuing every child's language strengthens
+learning and dignity). Keep it a celebration, never a contest: no ranking, no "best"
+paragraph, no high-stakes test. Review is light and joyful — a glance back at the
+portfolio, one paragraph read aloud, one greeting said in many languages — not an exam.
+Every voice, accent, and way of speaking is honored equally. A learner who is Deaf or
+hard of hearing shares in sign, and a signed greeting stands on the wall exactly as high
+as any spoken one. Growth is seen against each learner's own beginning, never against a
+peer.
 
 ## Procedure
 

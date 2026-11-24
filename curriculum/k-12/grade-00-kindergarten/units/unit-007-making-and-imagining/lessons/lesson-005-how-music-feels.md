@@ -111,11 +111,9 @@ People everywhere use fast and slow, loud and soft sounds to share feeling.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, keep the contrasts simple and obvious at first
-(fast vs slow, then loud vs soft). Remember there is no single "right" feeling for any
-music — ask "what does it feel like *to you*?" and honor every answer, including a
-pointed face or a movement.
+As facilitator, keep the contrasts simple and obvious at first (fast vs slow, then loud
+vs soft). Remember there is no single "right" feeling for any music — ask "what does it
+feel like *to you*?" and honor every answer, including a pointed face or a movement.
 
 ## Procedure
 

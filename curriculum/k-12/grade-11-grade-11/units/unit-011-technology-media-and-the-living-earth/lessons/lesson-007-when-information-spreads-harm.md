@@ -122,28 +122,27 @@ chain — because where you place responsibility determines what you would chang
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **when information
-spreads harm, responsibility is distributed across a chain — creator, platform,
-audience — and the platform's share is shaped by design choices (ranking by
-engagement, personalization, moderation), not by accident (Britannica, S-481;
-Pariser, S-482; WITNESS, S-393).** The skill is *evaluation*: assign responsibility
-with reasons, and separate **legal** responsibility (what a law could enforce) from
-**ethical** responsibility (what a person or company ought to do even if no law
-forces them).
+The idea to land: **when information spreads harm, responsibility is distributed across
+a chain — creator, platform, audience — and the platform's share is shaped by design
+choices (ranking by engagement, personalization, moderation), not by accident
+(Britannica, S-481; Pariser, S-482; WITNESS, S-393).** The skill is *evaluation*: assign
+responsibility with reasons, and separate **legal** responsibility (what a law could
+enforce) from **ethical** responsibility (what a person or company ought to do even if
+no law forces them).
 
-Two things to hold. First, avoid the false poles: "the platform is just a neutral
-pipe" (denies the design choice) and "the platform is guilty of everything" (ignores
-creators and audiences, and ignores that harm existed before platforms). The mature
-view is a *distribution* of responsibility with reasons. Second, distinguish
-*evidence* (what a platform's design actually does) from *value* (what we think it
-owes). Both belong in the analysis; do not blur them.
+Two things to hold. First, avoid the false poles: "the platform is just a neutral pipe"
+(denies the design choice) and "the platform is guilty of everything" (ignores creators
+and audiences, and ignores that harm existed before platforms). The mature view is a
+*distribution* of responsibility with reasons. Second, distinguish *evidence* (what a
+platform's design actually does) from *value* (what we think it owes). Both belong in
+the analysis; do not blur them.
 
 The **ethics** lens: responsibility is a moral concept before it is a legal one. The
-**egalitarianism** lens: harm falls hardest on those with the least power to correct
-the record — ask whose reputation is cheapest to destroy. The **global** lens: the
-same platform operates under different laws in different places. The **technology**
-lens is core: the harm's reach is a property of the design. The **critical-thinking**
-lens: reasoning about responsibility, not just assigning blame.
+**egalitarianism** lens: harm falls hardest on those with the least power to correct the
+record — ask whose reputation is cheapest to destroy. The **global** lens: the same
+platform operates under different laws in different places. The **technology** lens is
+core: the harm's reach is a property of the design. The **critical-thinking** lens:
+reasoning about responsibility, not just assigning blame.
 
 ## Procedure
 

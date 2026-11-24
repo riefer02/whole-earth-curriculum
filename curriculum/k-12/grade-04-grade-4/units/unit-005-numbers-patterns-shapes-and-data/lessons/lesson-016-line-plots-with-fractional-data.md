@@ -120,21 +120,32 @@ wished it said.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") and closes the unit. The new skill is
-building and reading a **line plot with fractional measurements** — a data
-representation that combines measuring, fractions, and comparing (Van de Walle, Karp
-& Bay-Williams, 2019; National Research Council, 2009). Model the plot once as a
-**worked example** (philosophy §13): measure several objects, mark each above its
-length on the number line, then read the plot together. This lesson is also the
-unit's **spaced retrieval** payoff — ask learners to recall earlier skills (measuring
-from Lesson 14, fractions and comparing from Lessons 1–2 and 12–13) as they build the
-plot. **A measurement that is a little off is not a failing; it is honest data, and
-every learner's data has a place on the plot. A plot shows facts, never ranks people.**
-Data-keeping is human and cross-cultural — people have recorded rainfall, harvests,
-and heights in many traditions, each an act of careful attention. Count in the home
-language. For learners who are Deaf or hard of hearing, sign each value; for learners
-who are blind or have low vision, use a tactile plot with raised marks. Learners with
-limited movement direct a partner to measure. Mastery arrives at its own pace.
+**Tone.** Matter-of-fact and honest — every learner's data has a place on the plot.
+
+**The facts to land.**
+1. A **line plot with fractional measurements** combines measuring, fractions, and
+   comparing (Van de Walle, Karp & Bay-Williams, 2019; National Research Council, 2009).
+2. Measure several objects, mark each above its length on the number line, then read the
+   plot together.
+3. This is the unit's **spaced retrieval** payoff — recall measuring from Lesson 14, and
+   fractions and comparing from Lessons 1–2 and 12–13, as you build.
+4. Data-keeping is human and cross-cultural — rainfall, harvests, and heights recorded
+   in many traditions.
+
+**Don't overshoot.** A measurement that is a little off is not a failing; it is honest
+data. A plot shows facts, never ranks people.
+
+**The lenses, briefly.**
+- *Intellectual:* the plot is the worked example (philosophy §13).
+- *Egalitarianism:* no learner's data is ranked.
+- *Global:* record-keeping appears everywhere.
+- *Critical-thinking:* what does the shape of the plot tell you?
+
+**The skill.** Measure, mark each value, then read the plot aloud.
+
+This closes the unit. **Access:** a learner who is Deaf or hard of hearing signs each
+value; a learner who is blind or has low vision uses a tactile plot with raised marks; a
+learner with limited movement directs a partner to measure.
 
 ## Procedure
 

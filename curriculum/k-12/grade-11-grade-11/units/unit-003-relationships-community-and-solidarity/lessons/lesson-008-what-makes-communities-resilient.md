@@ -107,22 +107,22 @@ roots, so you can recognize them where they grow and help plant them where they 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **resilient communities
-rest on identifiable roots — shared care/mutual aid, distributed leadership, and
-adaptability — visible in historical and contemporary examples across the world.** Teach
-the roots with a worked example; keep examples global and non-hierarchical (no
-"advanced vs. backward" community framing).
+The idea to land: **resilient communities rest on identifiable roots — shared
+care/mutual aid, distributed leadership, and adaptability — visible in historical and
+contemporary examples across the world.** Teach the roots with a worked example; keep
+examples global and non-hierarchical (no "advanced vs. backward" community framing).
 
 The **ethics** lens: resilience is partly a moral fact — communities that care for their
-weakest members *before* a crisis are the ones who survive it, which makes care both kind
-and practical. The **egalitarian** lens: resilience that depends on one leader or one
-source fails everyone when that one breaks; widely shared care and leadership are more
-equal *and* more durable. The **global** lens: draw examples from many regions — mutual
-aid after floods in one place, cooperatives that steady a village economy in another,
-Indigenous land-care that buffers drought in a third — never implying one region holds
-the answer. The **environment** lens: many shocks are environmental (flood, drought,
-fire, sea-level rise), and the communities that contributed least to them are often the
-hardest hit (IPCC, S-005) — a fact to hold alongside the value that they are owed help.
+weakest members *before* a crisis are the ones who survive it, which makes care both
+kind and practical. The **egalitarian** lens: resilience that depends on one leader or
+one source fails everyone when that one breaks; widely shared care and leadership are
+more equal *and* more durable. The **global** lens: draw examples from many regions —
+mutual aid after floods in one place, cooperatives that steady a village economy in
+another, Indigenous land-care that buffers drought in a third — never implying one
+region holds the answer. The **environment** lens: many shocks are environmental (flood,
+drought, fire, sea-level rise), and the communities that contributed least to them are
+often the hardest hit (IPCC, S-005) — a fact to hold alongside the value that they are
+owed help.
 
 **Emotional safety.** Disaster and loss are heavy. Use examples with hope attached and
 name agency — what people *did* to recover, not only what they suffered. Avoid graphic

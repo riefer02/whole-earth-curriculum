@@ -107,16 +107,15 @@ spend your energy on the words that are new.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. The goal is recognition that is fast and automatic, not
-memorized in a fixed order — shuffle the cards so the learner reads the word itself,
-not the position. Work in the learner's home writing system; never assume the Latin
-alphabet or English. A sight word in one script is a sight word in any script, and
-recognizing whole words quickly is a skill that transfers to any language the learner
-reads. Reading is taught with explicit instruction and guided practice (Kirschner,
-Sweller & Clark, 2006), so model first, then guide, then let the learner practice
-independently. For a learner who reads braille or uses large print, prepare the same
-common words in their medium — the words are the same.
+The goal is recognition that is fast and automatic, not memorized in a fixed order —
+shuffle the cards so the learner reads the word itself, not the position. Work in the
+learner's home writing system; never assume the Latin alphabet or English. A sight word
+in one script is a sight word in any script, and recognizing whole words quickly is a
+skill that transfers to any language the learner reads. Reading is taught with explicit
+instruction and guided practice (Kirschner, Sweller & Clark, 2006), so model first, then
+guide, then let the learner practice independently. For a learner who reads braille or
+uses large print, prepare the same common words in their medium — the words are the
+same.
 
 ## Procedure
 

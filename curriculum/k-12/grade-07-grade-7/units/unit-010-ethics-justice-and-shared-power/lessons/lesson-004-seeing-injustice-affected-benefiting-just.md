@@ -111,21 +111,33 @@ seeing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) inequality is a
-pattern where some people get more of something important (or carry more of a burden) than
-others; injustice is inequality that is also unfair; (2) to analyze a case you name who is
-affected, who benefits, and what would make it more just; (3) "more just" can mean a one-time
-fix or a change to a rule or system.** Model the water case once on the board (worked
-example, S-011), then let groups work a second case. The ethics lens: analysis here is
-descriptive first (who is affected, who benefits — these are observable) and normative
-second (what would be more just — this is a value claim, and learners may differ). The
-egalitarian lens: injustice usually falls hardest on those with the least power; notice whose
-voice is missing. The environment lens: clean water is an environmental and a justice issue
-at once. The critical-thinking lens: the fact (about 1 in 4 people globally still lack safely
-managed drinking water — WHO/UNICEF JMP, S-065) is evidence; the claim that this *should*
-change is a value — keep them distinct. The water case is a composite illustration, not a
-named real community, so no real place is misrepresented. Handle with care and hope: end on
-agency (what could be done), never despair.
+**Tone.** Clear-eyed and hopeful. End on what could be done, never on despair.
+
+**The facts to land.**
+
+1. **Inequality** is a pattern where some people get more of something important, or
+   carry more of a burden, than others. **Injustice** is inequality that is also unfair.
+2. To analyze a case, name **who is affected, who benefits, and what would make it more
+   just**.
+3. **"More just"** can mean a one-time fix, or a change to a rule or system.
+
+**Don't overshoot.** Do not let the analysis become an accusation of individuals. The
+pattern is the subject.
+
+**The lenses, briefly.**
+
+- *Ethics:* describe first — who is affected, who benefits are observable; then judge —
+  what would be more just is a value claim, and learners may differ.
+- *Egalitarianism:* injustice usually falls hardest on those with the least power;
+  notice whose voice is missing.
+- *Environment:* clean water is an environmental and a justice issue at once.
+- *Critical-thinking:* the fact that about 1 in 4 people globally still lack safely
+  managed drinking water (WHO/UNICEF JMP, S-065) is evidence; that this *should* change
+  is a value.
+
+**The skill.** Model the water case once on the board (worked example, S-011), then let
+groups work a second case of their choosing. The water case is a composite illustration,
+not a named real community, so no real place is misrepresented.
 
 ## Procedure
 

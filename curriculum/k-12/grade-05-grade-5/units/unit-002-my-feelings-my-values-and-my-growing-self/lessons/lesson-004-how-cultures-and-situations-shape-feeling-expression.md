@@ -119,14 +119,13 @@ this helps you meet people unlike yourself with **curiosity and respect, not jud
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **non-ranking
-comparison across cultures and situations**. This is a place where stereotypes can slip
-in ("those people are loud," "those people hide their feelings") — model instead a
-posture of *wonder*: "In this place, that custom shows respect." If a learner offers a
-custom from their own culture, receive it warmly and let them be the authority on its
-meaning; never correct a learner about their own culture. Distinguish *how* a feeling is
-shown from *whether* it is felt — the feeling is real in every case. See
-`docs/facilitation.md` on honoring cultural contexts without ranking.
+The idea to land is **non-ranking comparison across cultures and situations**. This is a
+place where stereotypes can slip in ("those people are loud," "those people hide their
+feelings") — model instead a posture of *wonder*: "In this place, that custom shows
+respect." If a learner offers a custom from their own culture, receive it warmly and let
+them be the authority on its meaning; never correct a learner about their own culture.
+Distinguish *how* a feeling is shown from *whether* it is felt — the feeling is real in
+every case. See `docs/facilitation.md` on honoring cultural contexts without ranking.
 
 ## Procedure
 

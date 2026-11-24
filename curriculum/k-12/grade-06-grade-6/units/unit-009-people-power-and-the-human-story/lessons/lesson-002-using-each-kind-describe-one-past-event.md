@@ -116,14 +116,14 @@ event from the past.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to build is **describing one past
-event using both kinds of source, and noticing what each adds**. Model the Zheng He example
-fully, then let learners choose an event and write. Guard against "the primary source is
-true, the secondary is not": both can be accurate or mistaken; the point is that they come
-from different places and do different work. The three event cards are deliberately global —
-Great Zimbabwe (Southern Africa), the 1324 pilgrimage of Mansa Musa (West Africa), and the
-1857 rebellion in India (South Asia) — so no single people's story is the default. This
-lesson produces the unit's **primary-versus-secondary source note** portfolio artifact. See
+The skill to build is **describing one past event using both kinds of source, and
+noticing what each adds**. Model the Zheng He example fully, then let learners choose an
+event and write. Guard against "the primary source is true, the secondary is not": both
+can be accurate or mistaken; the point is that they come from different places and do
+different work. The three event cards are deliberately global — Great Zimbabwe (Southern
+Africa), the 1324 pilgrimage of Mansa Musa (West Africa), and the 1857 rebellion in
+India (South Asia) — so no single people's story is the default. This lesson produces
+the unit's **primary-versus-secondary source note** portfolio artifact. See
 `docs/facilitation.md`.
 
 ## Procedure

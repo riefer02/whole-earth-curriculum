@@ -100,11 +100,10 @@ live, the sky changes, and you can watch it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, honor the many stories
-people everywhere have told about the sun, the moon, and the stars; hold them side by
-side without ranking one above another. The goal is wonder at a changing sky, not
-astronomy facts. Be ready for the moon to appear in the day sky too — that is a real,
-wonderful thing to notice.
+As facilitator, honor the many stories people everywhere have told about the sun, the
+moon, and the stars; hold them side by side without ranking one above another. The goal
+is wonder at a changing sky, not astronomy facts. Be ready for the moon to appear in the
+day sky too — that is a real, wonderful thing to notice.
 
 ## Procedure
 

@@ -11,7 +11,7 @@
   <line x1="60" y1="360" x2="60" y2="70" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
 
   <text x="256" y="394" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">how many crises in the feed</text>
-  <text x="40" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a" transform="rotate(-90 40 216)">my capacity to care</text>
+  <text x="60" y="58" font-family="sans-serif" font-size="12" fill="#4f6d7a">my capacity to care</text>
 
   <!-- Curve -->
   <path d="M70,340 C110,340 140,120 190,110 C240,100 300,180 360,290 C410,360 460,360 470,360"

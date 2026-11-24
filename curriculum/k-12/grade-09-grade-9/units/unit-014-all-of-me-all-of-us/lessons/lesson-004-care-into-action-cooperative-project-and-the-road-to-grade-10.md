@@ -124,30 +124,38 @@ becomes a force.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"), and it is the **capstone**. The idea to land:
-**a cooperative project meets a real need when the people affected are partners in deciding
-it — everyone gives, everyone decides, everyone shares the credit.** The evidence is strong
-that cooperative structures — with individual accountability and shared goals — outperform
-competitive or individualistic ones for both achievement and relationships (Johnson & Johnson;
-S-233, and Slavin; S-147; Bloom's early estimates put cooperative learning's effect near
-0.8 SD — S-007). Self-paced, cooperative, learner-driven schooling of the *Escuela Nueva*
-kind shows this works even in one-room, low-resource settings (S-008). The design itself
-should honor the distinction from Lesson 3: a cooperative project is **mutual aid**, not
-charity — the people affected hold power in the deciding, not only in the receiving (S-345).
-Model the canvas once, then let teams design (S-011).
+**Tone.** Celebratory — a capstone, not an exam.
 
-The **egalitarian** lens is the spine: run a fairness check on every design — *who benefits,
-who decides, who is left out, and how do we bring them in?* The **ethics** lens: a good
-project is judged by whether it leaves people more able to care for themselves and each
-other, not more dependent. The **global** lens: the same cooperative impulse takes many
-forms worldwide (harambee, minga, gotong royong — S-164), and no one form is "the" right
-way. The **technology & environment** lens: a project may be ecological (a shared garden, a
-clean-up, a repair) or digital (a shared map, a mutual-aid fund), and it should ask what
-technology enables and what it costs. End on **agency, celebration, and hope** — never
-nihilism (facilitation.md; development.md §9–12). The celebration is not a ranking: every
-portfolio is honored equally, because the curriculum's measure is growth and flourishing,
-not scores (philosophy §8, §12). Frame the look-ahead to Grade 10 as *possibility*, not
-pressure — purpose is found by trying and reflecting, not by certainty (S-400).
+**The facts to land.**
+
+1. **A cooperative project meets a real need when the people affected are partners in
+deciding it** — everyone gives, decides, shares credit.
+2. **Evidence:** cooperative structures with individual accountability and shared goals
+outperform competitive ones for achievement and relationships (S-233, S-147; Bloom's
+estimate near 0.8 SD, S-007).
+3. **Low-resource settings too:** *Escuela Nueva*'s self-paced, cooperative schooling in
+one-room schools (S-008).
+4. **A cooperative project is mutual aid, not charity** — the people affected hold power
+in deciding, not only in receiving (S-345).
+
+**The lenses, briefly.**
+
+- *Egalitarianism:* run a fairness check on every design — *who benefits, who decides,
+who is left out, and how do we bring them in?*
+- *Ethics:* a good project leaves people more able to care for themselves and each
+other.
+- *Global:* harambee, minga, gotong royong (S-164) — no one form is "the" right way.
+- *Technology:* the project may be digital — a shared map, a mutual-aid fund — and
+should ask what it costs.
+- *Environment:* it may be ecological — a shared garden, a clean-up, a repair.
+- *Community:* the celebration is not a ranking; every portfolio is honoured equally.
+- *Critical-thinking:* judge the design against the need, not the effort.
+
+**The skill.** Model the canvas once, then let teams design (S-011).
+
+**Close.** End on **agency and hope**, never nihilism (facilitation.md; development.md
+§9–12). The measure is growth, not scores (philosophy §8, §12); Grade 10 is
+*possibility*, not pressure — purpose comes by trying and reflecting (S-400).
 
 ## Procedure
 
@@ -211,3 +219,4 @@ choose one small first step to take.
   mink'a/minga, barn raising), <https://en.wikipedia.org/wiki/Communal_work> (S-164).
 - On purpose developing through trying and reflecting, not sudden certainty: Damon (2008),
   *The Path to Purpose* (S-400).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

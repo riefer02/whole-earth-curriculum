@@ -117,28 +117,39 @@ trace how it works.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) the nervous system senses
-(senses pick up information), sends it to the brain and spinal cord, and responds by changing the
-body; (2) the automatic response has two branches — sympathetic (fight-or-flight: faster heart and
-breath, tensed muscles, wide pupils, digestion paused) and parasympathetic (rest-and-digest: slower
-heart and breath, relaxed muscles, digestion resumed); (3) both are healthy and necessary — danger
-needs alarm, safety needs calm; neither is "bad."** Model the signal path once as a worked example
-(S-011): sense → brain/spinal cord → response. The scientific account (S-339, S-338) describes the
-sympathetic and parasympathetic branches; hold it as a well-supported scientific story, and note
-that many cultures have long described the body's alarm and calm in their own words (philosophy
-§11) — held side by side, not ranked. The ethics lens: knowing our own alarm is the first step to
-meeting it kindly. The egalitarian lens: bodies sense and respond in varied ways — some nervous
-systems alarm more easily, and that is a fact about a person, never a fault. The global lens: every
-human body shares this wiring, whatever the place or culture. The technology & environment lens:
-loud screens, alerts, and unsafe places can keep the alarm switched on — a preview of Lesson 3.
-The critical-thinking lens: "the brain readies the body before conscious thought" is a checkable
-  scientific fact (S-339), not a guess. **Safeguarding:** never deliberately startle a learner to
-  demonstrate this; use recalled examples and the diagram instead. **Accessibility:** the startle
-  example can be told in any mode — a sudden movement, a bright light, or a tap on the shoulder — so
-  learners who are deaf or hard of hearing follow it as fully as those who hear a bang; and the
-  diagram's meaning lives in its labels and in your spoken trace of the path, so a learner who
-  cannot see the diagram can follow the same signal path in words, by sorting the response cards
-  aloud, or with a tactile two-column chart.
+**Tone.** Calm and matter-of-fact — the alarm is ordinary.
+
+**The facts to land.**
+
+1. **Senses** pick up information; the brain and spinal cord **send** a response that
+   changes the body.
+2. Two automatic branches: sympathetic (fight-or-flight — faster heart and breath, tense
+   muscles, wide pupils, digestion paused) and parasympathetic (rest-and-digest — slower
+   heart and breath, relaxed muscles, digestion resumed).
+3. Both are healthy: danger needs alarm, safety needs calm.
+
+**Don't overshoot.** Do not suggest the body readies itself by choice, or that one
+branch is good.
+
+**The lenses, briefly.**
+
+- *Ethics:* knowing your own alarm is the first step to meeting it kindly.
+- *Egalitarianism:* some nervous systems alarm more easily — a fact, never a fault.
+- *Global:* every body shares this wiring; many cultures describe alarm and calm in
+  their own words (`philosophy` §11).
+- *Technology & environment:* screens, alerts, and unsafe places keep the alarm on
+  (Lesson 3).
+- *Social-emotional:* naming the response steadies it.
+- *Physical:* heart rate, breath, and muscle tension are measurable changes.
+- *Critical-thinking:* "the brain readies the body before thought" is checkable (S-339).
+
+**The skill.** Model the signal path once (worked example, S-011): sense → brain/spinal
+cord → response (S-339, S-338).
+
+**Safety floor.** Never startle a learner to demonstrate this; use recalled examples and
+the diagram, told in any mode — movement, light, tap — so deaf and hard-of-hearing
+learners follow. Its meaning lives in labels and your spoken trace, so a learner who
+cannot see it can sort response cards aloud or use a tactile chart.
 
 ## Procedure
 

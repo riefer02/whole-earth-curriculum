@@ -8,46 +8,46 @@
   <text x="256" y="56" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">every living thing is made of cells — some are just one cell</text>
 
   <!-- animal cell -->
-  <g transform="translate(20, 90)">
-    <ellipse cx="80" cy="90" rx="74" ry="84" fill="#6b93b6" fill-opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
-    <ellipse cx="80" cy="90" rx="74" ry="84" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="3 3"/>
-    <circle cx="80" cy="90" r="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="80" y="190" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">animal cell</text>
+  <g>
+    <ellipse cx="100" cy="180" rx="74" ry="84" fill="#6b93b6" fill-opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="100" cy="180" rx="74" ry="84" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="3 3"/>
+    <circle cx="100" cy="180" r="22" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="100" y="280" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">animal cell</text>
     <!-- labels -->
-    <line x1="60" y1="40" x2="150" y2="28" stroke="#2b3a42" stroke-width="1.5"/>
-    <text x="156" y="32" font-family="sans-serif" font-size="12" fill="#222222">membrane</text>
-    <line x1="88" y1="68" x2="168" y2="64" stroke="#2b3a42" stroke-width="1.5"/>
-    <text x="174" y="68" font-family="sans-serif" font-size="12" fill="#222222">nucleus</text>
-    <line x1="40" y1="120" x2="150" y2="120" stroke="#2b3a42" stroke-width="1.5"/>
-    <text x="156" y="124" font-family="sans-serif" font-size="12" fill="#222222">cytoplasm</text>
+    <line x1="80" y1="130" x2="170" y2="118" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="176" y="122" font-family="sans-serif" font-size="12" fill="#222222">membrane</text>
+    <line x1="108" y1="158" x2="188" y2="154" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="194" y="158" font-family="sans-serif" font-size="12" fill="#222222">nucleus</text>
+    <line x1="60" y1="210" x2="170" y2="210" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="176" y="214" font-family="sans-serif" font-size="12" fill="#222222">cytoplasm</text>
   </g>
 
   <!-- plant cell -->
-  <g transform="translate(196, 90)">
-    <rect x="10" y="6" width="150" height="168" rx="14" fill="#7a9e7e" fill-opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
-    <rect x="18" y="14" width="134" height="152" rx="10" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="3 3"/>
-    <circle cx="85" cy="90" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <g>
+    <rect x="206" y="96" width="150" height="168" rx="14" fill="#7a9e7e" fill-opacity="0.35" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="214" y="104" width="134" height="152" rx="10" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="3 3"/>
+    <circle cx="281" cy="180" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <g fill="#7a9e7e" stroke="#2b3a42" stroke-width="2">
-      <ellipse cx="50" cy="130" rx="12" ry="7"/>
-      <ellipse cx="118" cy="50" rx="12" ry="7"/>
-      <ellipse cx="52" cy="44" rx="12" ry="7"/>
-      <ellipse cx="116" cy="132" rx="12" ry="7"/>
+      <ellipse cx="246" cy="220" rx="12" ry="7"/>
+      <ellipse cx="314" cy="140" rx="12" ry="7"/>
+      <ellipse cx="248" cy="134" rx="12" ry="7"/>
+      <ellipse cx="312" cy="222" rx="12" ry="7"/>
     </g>
-    <text x="85" y="190" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">plant cell</text>
+    <text x="281" y="280" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">plant cell</text>
     <!-- labels -->
-    <line x1="160" y1="14" x2="186" y2="8" stroke="#2b3a42" stroke-width="1.5"/>
-    <text x="192" y="12" font-family="sans-serif" font-size="12" fill="#222222">cell wall</text>
-    <line x1="128" y1="130" x2="186" y2="136" stroke="#2b3a42" stroke-width="1.5"/>
-    <text x="192" y="140" font-family="sans-serif" font-size="12" fill="#222222">chloroplast</text>
+    <line x1="356" y1="104" x2="382" y2="98" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="388" y="102" font-family="sans-serif" font-size="12" fill="#222222">cell wall</text>
+    <line x1="324" y1="220" x2="382" y2="226" stroke="#2b3a42" stroke-width="1.5"/>
+    <text x="388" y="230" font-family="sans-serif" font-size="12" fill="#222222">chloroplast</text>
   </g>
 
   <!-- single celled -->
-  <g transform="translate(372, 96)">
-    <path d="M40,30 C70,10 100,20 110,50 C120,80 100,120 70,130 C40,140 10,120 8,80 C6,50 20,40 40,30 Z"
+  <g>
+    <path d="M 412 126 C 442 106 472 116 482 146 C 492 176 472 216 442 226 C 412 236 382 216 380 176 C 378 146 392 136 412 126 Z"
           fill="#e0a458" fill-opacity="0.4" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="60" cy="75" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="40" y="188" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">one cell = one living thing</text>
-    <text x="40" y="210" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">an amoeba</text>
+    <circle cx="432" cy="171" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="412" y="284" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">one cell = one living thing</text>
+    <text x="412" y="306" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">an amoeba</text>
   </g>
 
   <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">the cell is where life is built</text>

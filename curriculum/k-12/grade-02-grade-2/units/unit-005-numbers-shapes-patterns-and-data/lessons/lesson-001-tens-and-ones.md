@@ -116,19 +116,18 @@ becomes a small, easy number: three tens and four ones.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It builds directly on Grade 1, where
-learners bundled tens to count to 120; today the bundles become the key idea of
-**place value** — tens and ones. Teach the one new skill as a **worked example**
-(philosophy §13): bundle ten, then ten more, then read the tens and ones aloud before
-learners try it themselves. The central move is **unitizing** — seeing ten ones as one
-ten (Clements & Sarama, 2014). Keep it concrete: objects first, symbols last. **No
-one's speed at bundling measures their smartness, and "more" is a fact about a
-collection, never a worth about a person.** Count in the home language; number words
-differ across languages and all are correct. For learners who are Deaf or hard of
-hearing, count in sign or by tapping each bundle; for learners who are blind or
-low-vision, move objects into cups so the number grows by feel and sound. Learners
-with limited hand or body movement direct a partner to move each object. Mastery
-arrives at its own pace for each child.
+It builds directly on Grade 1, where learners bundled tens to count to 120; today the
+bundles become the key idea of **place value** — tens and ones. Teach the one new skill
+as a **worked example** (philosophy §13): bundle ten, then ten more, then read the tens
+and ones aloud before learners try it themselves. The central move is **unitizing** —
+seeing ten ones as one ten (Clements & Sarama, 2014). Keep it concrete: objects first,
+symbols last. **No one's speed at bundling measures their smartness, and "more" is a
+fact about a collection, never a worth about a person.** Count in the home language;
+number words differ across languages and all are correct. For learners who are Deaf or
+hard of hearing, count in sign or by tapping each bundle; for learners who are blind or
+low-vision, move objects into cups so the number grows by feel and sound. Learners with
+limited hand or body movement direct a partner to move each object. Mastery arrives at
+its own pace for each child.
 
 ## Procedure
 

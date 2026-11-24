@@ -113,19 +113,18 @@ screen blindly nor fearing the world's changes, but understanding each well enou
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **opening and retrieval
-pass**, so the goals are modest: **(1) recall three Grade-8 ideas — framed/edited images
-(S-393), deepfakes (S-393), and ecosystem resilience; (2) preview the unit's two arcs —
-media &amp; technology (goals 1–4) and our Earth home (goals 5–8); (3) plant the organizing
-idea: read the screen and the Earth with *critical judgment, neither worship nor fear*.** Do
-not try to teach the eight goals today; just name and locate them. The **technology** lens
-and the **environment** lens are the two halves of the unit, deliberately joined. The
-**ethics** lens: how we use tools and how we treat the Earth are questions about what is
-right and what the consequences are for others. The **egalitarian** lens: ask who is
-centered and who is left out — online and in environmental change. The **critical-thinking**
-lens: this unit is one long exercise in holding questions open and weighing evidence
-(philosophy §11). Spacing note (S-039): this recall pass is what makes the unit's ideas
-stick later.
+It is the unit's **opening and retrieval pass**, so the goals are modest: **(1) recall
+three Grade-8 ideas — framed/edited images (S-393), deepfakes (S-393), and ecosystem
+resilience; (2) preview the unit's two arcs — media &amp; technology (goals 1–4) and our
+Earth home (goals 5–8); (3) plant the organizing idea: read the screen and the Earth
+with *critical judgment, neither worship nor fear*.** Do not try to teach the eight
+goals today; just name and locate them. The **technology** lens and the **environment**
+lens are the two halves of the unit, deliberately joined. The **ethics** lens: how we
+use tools and how we treat the Earth are questions about what is right and what the
+consequences are for others. The **egalitarian** lens: ask who is centered and who is
+left out — online and in environmental change. The **critical-thinking** lens: this unit
+is one long exercise in holding questions open and weighing evidence (philosophy §11).
+Spacing note (S-039): this recall pass is what makes the unit's ideas stick later.
 
 ## Procedure
 

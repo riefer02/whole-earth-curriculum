@@ -105,15 +105,14 @@ without getting lost. That is what makes writing clear.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Paragraph structure is a foundational writing skill, so use
-explicit instruction and a worked example: name the three parts, show a model, then
-build one together before independent work (Kirschner, Sweller & Clark, 2006). Keep the
-three jobs clear — topic sentence (states the idea), details (support it), closing
-sentence (wraps it). This structure transfers across languages and writing systems,
-though the conventions may differ; honor the learner's home writing system. The goal is
-clarity for a reader, not a rigid formula — a learner who can explain why each part is
-there has the skill. Celebrate every attempt; writing is thinking made visible.
+Paragraph structure is a foundational writing skill, so use explicit instruction and a
+worked example: name the three parts, show a model, then build one together before
+independent work (Kirschner, Sweller & Clark, 2006). Keep the three jobs clear — topic
+sentence (states the idea), details (support it), closing sentence (wraps it). This
+structure transfers across languages and writing systems, though the conventions may
+differ; honor the learner's home writing system. The goal is clarity for a reader, not a
+rigid formula — a learner who can explain why each part is there has the skill.
+Celebrate every attempt; writing is thinking made visible.
 
 ## Procedure
 

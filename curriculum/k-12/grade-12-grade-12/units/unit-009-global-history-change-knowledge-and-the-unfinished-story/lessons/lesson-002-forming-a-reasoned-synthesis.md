@@ -116,23 +116,24 @@ them into a tie.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a synthesis is not a vote and
-not a compromise-soup — it is one honest account that states a claim, gives its strongest
-evidence, credits what the other account adds, and says what is still unsettled.** Teach the
-four-line frame explicitly (S-011). Guard against two traps: a synthesis that picks one side and
-drops the other, and one that "splits the difference" so nothing is actually claimed. A good
-synthesis takes a position *and* stays honest about its limits.
+The idea to land: **a synthesis is not a vote and not a compromise-soup — it is one
+honest account that states a claim, gives its strongest evidence, credits what the other
+account adds, and says what is still unsettled.** Teach the four-line frame explicitly
+(S-011). Guard against two traps: a synthesis that picks one side and drops the other,
+and one that "splits the difference" so nothing is actually claimed. A good synthesis
+takes a position *and* stays honest about its limits.
 
 The **ethics** lens: intellectual honesty is the core value — a synthesis that hides the
-unsettled part is a small dishonesty. The **egalitarianism** lens: synthesis is how many voices
-— elder and planner, villager and migrant — all enter the final account, none erased (S-417). The
-**global** lens: this move is not one culture's method; weighing then synthesizing is what
-historians, elders' councils, and judges do across traditions, each in their own idiom. The
-**technology** lens: a shared document lets two learners co-write one synthesis and see each
-other's edits — a tool for the *cooperative* version of the skill. The **environment** lens: a
-synthesis about land or water must state what the evidence cannot yet settle (how much a river
-changed, what caused a drought), because honest uncertainty is the first step to good care.
-Preview: Lesson 3 turns from weighing history to locating yourself inside it.
+unsettled part is a small dishonesty. The **egalitarianism** lens: synthesis is how many
+voices — elder and planner, villager and migrant — all enter the final account, none
+erased (S-417). The **global** lens: this move is not one culture's method; weighing
+then synthesizing is what historians, elders' councils, and judges do across traditions,
+each in their own idiom. The **technology** lens: a shared document lets two learners
+co-write one synthesis and see each other's edits — a tool for the *cooperative* version
+of the skill. The **environment** lens: a synthesis about land or water must state what
+the evidence cannot yet settle (how much a river changed, what caused a drought),
+because honest uncertainty is the first step to good care. Preview: Lesson 3 turns from
+weighing history to locating yourself inside it.
 
 ## Procedure
 
@@ -186,3 +187,6 @@ still cannot settle. Read it to someone and ask whether it was fair to both tell
 - On claim–data–warrant as the shape of a reasoned argument: Toulmin, *The Uses of Argument*
   (S-236).
 - On historical thinking (sourcing and corroboration): Stanford History Education Group (S-316).
+- Chimamanda Ngozi Adichie — The Danger of a Single Story (TED, 2009) (S-417).
+- Our World in Data — Urbanization (S-089).
+- Our World in Data — Light at Night (S-052).

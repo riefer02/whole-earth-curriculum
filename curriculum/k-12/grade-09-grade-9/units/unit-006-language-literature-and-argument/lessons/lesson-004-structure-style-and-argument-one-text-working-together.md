@@ -113,27 +113,38 @@ flat. Today you take one powerful text apart to see the three parts turning toge
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a text's structure (how it orders its
-parts), style (its word choice, voice, and rhythm), and argument (its claim and reasons) are not three
-separate things — they work together, and the effect on a reader comes from their combination.** Worked
-example: Chimamanda Ngozi Adichie's 2009 TED talk "The Danger of a Single Story" (S-417). Its *argument*:
-when we know only a single story about a person or place, we risk flattening them — so we must seek many
-stories. Its *structure*: a series of personal anecdotes (growing up in Nigeria reading British books; her
-American roommate's assumptions; her own single story of a poor family) ordered to move from being the one
-*flattened* to the one *flattening others*, which makes the thesis land as earned, not preached. Its
-*style*: first person, plain and direct, with the phrase "single story" repeated like a refrain — a spoken,
-confessional rhythm built for a live audience. Show that the *effect* — the reader's felt conviction that
-single stories are dangerous — comes from all three at once. The critical-thinking lens: naming structure,
-style, and argument is the beginning of *reading with a tool*, not the end; ask what the text does not say.
-The global lens: Adichie writes from and about Nigeria, Britain, the United States, and the way Western
-readers see Africa — a global argument about who gets to tell whose story. The ethics lens: the "single
-story" is an ethical problem — it treats a person as a category, and the cure is to seek the many stories
-that honor their full humanity. The egalitarian lens: whose stories get told, and whose get flattened into
-a single image, is a question of power. The technology & environment lens: "The Danger of a Single Story"
-is a spoken text preserved and spread by video and streaming — digital media changes how a single story can
-travel, for harm and for good — and a transcript turns a voice into a page a reader can study. Keep the
-passage short and faithful; do not over-quote (fair use,
-S-417). Emphasize that these three categories are *lenses*, not boxes — real texts blur them.
+**Tone.** Appreciative and precise — a text is something to take apart.
+
+**The facts to land.**
+
+1. **Structure, style, and argument are not three separate things.** Structure orders a
+text's parts, style its word choice, voice, and rhythm, argument its claim and reasons —
+the effect comes from all three.
+2. **Worked example:** Chimamanda Ngozi Adichie's 2009 TED talk, "The Danger of a Single
+Story" (S-417).
+3. **Argument:** knowing only one story about a person or place flattens them, so seek
+many. **Structure:** anecdotes — Nigeria, British books, a roommate's assumptions —
+ordered from being *flattened* to *flattening others*, so the thesis is earned.
+**Style:** first person, plain, "single story" repeated like a refrain, built for a live
+audience.
+4. **The effect** — conviction that single stories are dangerous — comes from all three.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* naming the three begins *reading with a tool*; then ask what it
+does not say.
+- *Global:* Adichie writes about Nigeria, Britain, and Western readers' view of Africa
+— who tells whose story.
+- *Ethics:* the single story treats a person as a category; the cure is stories that
+honour their humanity.
+- *Egalitarianism:* whose stories get told, and whose get flattened, is a question of
+power.
+- *Technology:* video and streaming carry a spoken text, changing how a single story
+travels, for harm and good.
+
+**The skill.** Name the three on one passage, then ask what changes if one is altered.
+Keep it short and faithful; do not over-quote (fair use, S-417). These are *lenses*, not
+boxes.
 
 ## Procedure
 

@@ -97,11 +97,10 @@ own idea is always a good place to begin.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, make wondering safe:
-say there are no silly questions, and model your own "why" and "how" questions. In
-settings where questioning adults is not safe or usual, frame this as wondering
-together, not challenging anyone, and offer the wonder box so learners can ask
-without speaking up (see `docs/contexts.md`).
+As facilitator, make wondering safe: say there are no silly questions, and model your
+own "why" and "how" questions. In settings where questioning adults is not safe or
+usual, frame this as wondering together, not challenging anyone, and offer the wonder
+box so learners can ask without speaking up (see `docs/contexts.md`).
 
 ## Procedure
 

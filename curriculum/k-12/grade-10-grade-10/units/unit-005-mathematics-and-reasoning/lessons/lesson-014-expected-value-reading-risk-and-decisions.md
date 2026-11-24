@@ -115,25 +115,23 @@ for everyone; so is the right to decide with it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **expected value is
-the probability-weighted average of outcomes, E = Σ p(x)·x, and it lets us compare
-risky options — but fairness also depends on who bears the risk, not only on the
-average.** Teach the computation with worked examples (S-011), then let learners
-evaluate a real decision.
+The idea to land: **expected value is the probability-weighted average of outcomes, E =
+Σ p(x)·x, and it lets us compare risky options — but fairness also depends on who bears
+the risk, not only on the average.** Teach the computation with worked examples (S-011),
+then let learners evaluate a real decision.
 
-The **intellectual** lens: expected value is a weighted average — each outcome counts
-in proportion to its likelihood. The **critical-thinking** lens: a decision can be
+The **intellectual** lens: expected value is a weighted average — each outcome counts in
+proportion to its likelihood. The **critical-thinking** lens: a decision can be
 arithmetically "unfair" and still personally wise (insurance) — the number informs
-judgment, it does not replace it. The **ethics** lens: a game rigged against players,
-or a loan whose average cost falls hardest on the poor, is a moral question the
-arithmetic can *reveal* but not *settle*. The **egalitarian** lens: who can absorb a
-loss changes what "fair risk" means; a 1% chance of ruin is trivial to the wealthy and
-devastating to the poor — so equal odds are not always equal fairness. The **global**
-lens: the mathematical study of expected value grew from questions about dividing
-stakes in interrupted games of chance, worked out by Pascal and Fermat in the 17th
-century (S-301) — one chapter in a worldwide history of deciding under uncertainty.
-Close by assembling the unit portfolio and doing a spaced, interleaved recall of all
-four strands (S-039).
+judgment, it does not replace it. The **ethics** lens: a game rigged against players, or
+a loan whose average cost falls hardest on the poor, is a moral question the arithmetic
+can *reveal* but not *settle*. The **egalitarian** lens: who can absorb a loss changes
+what "fair risk" means; a 1% chance of ruin is trivial to the wealthy and devastating to
+the poor — so equal odds are not always equal fairness. The **global** lens: the
+mathematical study of expected value grew from questions about dividing stakes in
+interrupted games of chance, worked out by Pascal and Fermat in the 17th century (S-301)
+— one chapter in a worldwide history of deciding under uncertainty. Close by assembling
+the unit portfolio and doing a spaced, interleaved recall of all four strands (S-039).
 
 ## Procedure
 

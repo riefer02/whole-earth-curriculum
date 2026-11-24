@@ -109,27 +109,38 @@ apart to see how its power was built — so we can understand how it was finally
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **colonialism and empire
-were systems of power, not just events — built of three layers working together:
-(1) individual actions — taking land, forcing labor, punishing languages, extracting
-gold, rubber, and people; (2) rules and laws — colonial borders drawn far away, taxes,
-forced-labor codes, school rules against home languages; (3) structures and beliefs — the
-idea that some peoples are "lesser," and an economy built to send wealth to the
-colonizer.** Teach empire as a *global* phenomenon so the framing is not Eurocentric:
-empires — the Ottoman, the Mughal, the Qing, the Inka, and many more — are found across
-continents and centuries; the lesson focuses on European overseas colonialism from the
-late 1400s because that is the one the unit's essential questions and objectives center,
-while naming that empire itself is not a European invention (S-326). Specific documented
-examples: the 1884–85 **Berlin Conference**, where European powers drew Africa's borders
-without Africans present (S-477); **indirect rule** and the warrant-chief system, against
-which the women of southeastern Nigeria rose in the **Aba Women's War of 1929** (S-209);
-and the suppression of languages, analyzed by the Kenyan writer **Ngũgĩ wa Thiong'o**
-(S-424). The **egalitarian** lens: who decided, and who was excluded from deciding? The
-**ethics** lens: naming a system's cruelty is not the same as claiming its victims were
-helpless — they were not. The **global** lens: empire is everywhere in the human story.
-The **technology** lens: ships, weapons, and railroads were the tools that extended
-empire's reach. Keep it analytical, not despairing — the next lesson is about the
-movements that undid it (philosophy §12).
+**Tone.** Analytical, not despairing — the next lesson is about what undid it
+(philosophy §12).
+
+**The facts to land.**
+
+1. **Colonialism and empire were systems of power, not just events,** built of three
+layers: individual actions (taking land, forcing labour, punishing languages, extracting
+gold, rubber, people); rules and laws (borders drawn far away, taxes, forced-labour
+codes, school rules against home languages); and structures and beliefs (the idea that
+some peoples are "lesser", and an economy built to send wealth to the colonizer).
+2. **Empire is global, not a European invention:** Ottoman, Mughal, Qing, Inka, and many
+more. This lesson centres European overseas colonialism from the late 1400s because the
+unit's questions do, while naming that fact (S-326).
+3. **Examples:**
+
+- The 1884–85 **Berlin Conference**, where European powers drew Africa's borders without
+Africans present (S-477).
+- **Indirect rule** and the warrant-chief system, against which the women of
+southeastern Nigeria rose in the **Aba Women's War of 1929** (S-209).
+- The suppression of languages, analysed by the Kenyan writer **Ngũgĩ wa Thiong'o**
+(S-424).
+
+**The lenses, briefly.**
+
+- *Egalitarianism:* who decided, and who was excluded from deciding?
+- *Ethics:* naming a system's cruelty is not claiming its victims were helpless — they
+were not.
+- *Global:* empire is everywhere in the human story.
+- *Technology:* ships, weapons, and railroads extended empire's reach.
+
+**The skill.** Name which layer — action, rule, or structure — does the work in each
+example.
 
 ## Procedure
 

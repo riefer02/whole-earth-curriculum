@@ -19,7 +19,7 @@
   <text x="256" y="108" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">honesty</text>
   <path d="M244 128 L268 128" stroke="#2b3a42" stroke-width="3"/>
   <path d="M256 118 L256 140" stroke="#2b3a42" stroke-width="3"/>
-  <text x="256" y="156" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">a straight "true"</text>
+  <text x="256" y="156" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a straight "true"</text>
 
   <!-- kindness -->
   <rect x="332" y="84" width="120" height="86" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -72,5 +72,5 @@
   <text x="252" y="376" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">others feel.</text>
 
   <text x="256" y="466" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">A value is a real care that guides how you choose and act.</text>
-  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">Labels and pictures, not color, carry the meaning.</text>
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">Labels and pictures, not color, carry the meaning.</text>
 </svg>

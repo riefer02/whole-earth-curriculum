@@ -122,21 +122,22 @@ or do?* That question is the difference between making a thing and making a thin
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an artwork addresses
-a social or environmental issue and is judged by its intended effect on an audience —
-and naming that effect first (before making) is what turns craft into a voice.** This is
-the unit's North Star; every later lesson returns to it. Hold "intended effect" as a
-*value* the learner chooses, not a fact to be right about (philosophy §5, §11).
+The idea to land: **an artwork addresses a social or environmental issue and is judged
+by its intended effect on an audience — and naming that effect first (before making) is
+what turns craft into a voice.** This is the unit's North Star; every later lesson
+returns to it. Hold "intended effect" as a *value* the learner chooses, not a fact to be
+right about (philosophy §5, §11).
 
 The **intellectual** lens: an intention is a testable idea — after making, the learner
 asks "did it do what I meant?" The **ethics** lens: choosing an issue is a moral act;
 learners weigh consequences for others. The **global** lens: Jacob Lawrence painted a
 60-panel series, *The Migration Series* (1940–41), on the Great Migration of African
 Americans from the rural South to the urban North — one artist's sustained answer to a
-vast social question (S-363); Hokusai's woodblock series *Thirty-six Views of Mount Fuji*
-(c. 1830–32) turned one mountain seen many ways into a meditation on a place (S-364).
-Meet both as documented history, not decoration. The **egalitarianism** lens: every
-learner's issue matters equally; no issue is too small to be worth an artist's voice.
+vast social question (S-363); Hokusai's woodblock series *Thirty-six Views of Mount
+Fuji* (c. 1830–32) turned one mountain seen many ways into a meditation on a place
+(S-364). Meet both as documented history, not decoration. The **egalitarianism** lens:
+every learner's issue matters equally; no issue is too small to be worth an artist's
+voice.
 
 Teach the move "issue → intention → intended effect" explicitly with a worked example
 (S-011), then let learners choose freely.

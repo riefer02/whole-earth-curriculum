@@ -106,11 +106,10 @@ your body.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, never share toothbrushes
-and supervise so toothpaste is not swallowed. **Honor every context:** where brushes or
-paste are unavailable, teach a clean-finger or chewing-stick method without shame.
-Where a learner cannot brush their own teeth, a caregiver or older peer can help — the
-goal is clean teeth, not doing it alone.
+As facilitator, never share toothbrushes and supervise so toothpaste is not swallowed.
+**Honor every context:** where brushes or paste are unavailable, teach a clean-finger or
+chewing-stick method without shame. Where a learner cannot brush their own teeth, a
+caregiver or older peer can help — the goal is clean teeth, not doing it alone.
 
 ## Procedure
 

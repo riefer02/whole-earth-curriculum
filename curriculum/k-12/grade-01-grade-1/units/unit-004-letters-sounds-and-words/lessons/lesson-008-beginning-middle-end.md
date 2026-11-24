@@ -100,12 +100,11 @@ the beginning, middle, and end keeps the whole story whole.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Model a retelling in three clear moves, then guide
-practice. Retelling is about order and understanding, not exact words — honor a
-learner's own wording. Oral traditions carry stories the same way; celebrate
-retelling as an ancient and universal skill. A retelling can be spoken, signed,
-pointed to in pictures, or acted out — holding the order is what matters.
+Model a retelling in three clear moves, then guide practice. Retelling is about order
+and understanding, not exact words — honor a learner's own wording. Oral traditions
+carry stories the same way; celebrate retelling as an ancient and universal skill. A
+retelling can be spoken, signed, pointed to in pictures, or acted out — holding the
+order is what matters.
 
 ## Procedure
 

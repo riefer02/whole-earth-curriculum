@@ -124,17 +124,16 @@ their own idea worth honoring.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Comparison is a foundational skill,
-so model the first comparison fully** (Kirschner, Sweller & Clark, 2006): "Around 250
-BCE, in India, Ashoka raised pillars telling people to be kind; around the same years,
-in China, workers joined walls into the Great Wall — two places, one moment, two
-different works." Then guide the third place. **The point is many-at-once, never
-"who was first" or "who was best."** Each of the three events matters in its own
-right: India's message of kindness, China's great wall, Egypt's meeting place of many
-peoples' learning. Dates are approximate ("about") — say so, and model the honesty.
-Honor every body: describe the cards aloud for a learner who cannot see them; a
-learner who does not use a speaking voice points or acts. Hold gently that "around the
-same time" means within the same span of years, not the same day.
+**Comparison is a foundational skill, so model the first comparison fully** (Kirschner,
+Sweller & Clark, 2006): "Around 250 BCE, in India, Ashoka raised pillars telling people
+to be kind; around the same years, in China, workers joined walls into the Great Wall —
+two places, one moment, two different works." Then guide the third place. **The point is
+many-at-once, never "who was first" or "who was best."** Each of the three events
+matters in its own right: India's message of kindness, China's great wall, Egypt's
+meeting place of many peoples' learning. Dates are approximate ("about") — say so, and
+model the honesty. Honor every body: describe the cards aloud for a learner who cannot
+see them; a learner who does not use a speaking voice points or acts. Hold gently that
+"around the same time" means within the same span of years, not the same day.
 
 ## Procedure
 

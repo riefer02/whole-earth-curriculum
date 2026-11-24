@@ -115,21 +115,32 @@ how many. Math is how you see the world more clearly.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is a celebration, not a test — the
-goal is for each learner to *show* what they can do and feel proud, never to be ranked
-against others. Run the four jobs as flexible stations (or as a self-directed checklist
-for one learner). Every child works at their own pace and may choose which job to
-linger on; mastery is individual, and the "museum" belongs to everyone together
-(philosophy §8). Keep the global lens alive: the same four moves — counting, sorting,
-patterning, shaping — live in weaving, building, farming, and music across the world,
-and no tradition is the model to copy. When learners share, praise the *thinking*
-("you counted carefully," "your pattern repeats") rather than speed or size. For
-learners who are blind or low-vision, counting, sorting, and patterning can all be
-done by touch and sound, and shapes by feel; for learners who are deaf or hard of
-hearing, the sharing can be signed or drawn. Learners with limited movement complete
-each job by voice or sign, directing a partner to move, sort, or pattern objects, or
-choosing with eye-gaze or a mouth stick — the thinking is theirs. The museum is for
-everyone, and every piece has a place.
+**Tone.** Celebration, not assessment. The room should sound proud, not compared.
+
+**The facts to land.**
+1. The four moves — counting, sorting, patterning, shaping — are what this unit built.
+2. Each station shows one of them; the learner chooses where to linger.
+3. This is a **museum**, not a test: every piece has a place and belongs to everyone
+   together (philosophy §8).
+
+**Don't overshoot.** Praise the thinking, not the speed or the size of the work: "you
+counted carefully," "your pattern repeats."
+
+**The lenses, briefly.**
+- *Ethics:* mastery is individual; nobody is ranked against anybody.
+- *Egalitarianism:* the share can be spoken, signed, or drawn — all count.
+- *Global:* the same four moves live in weaving, building, farming, and music across the
+  world; no tradition is the model to copy.
+- *Community:* the museum is made by the group, not judged by it.
+- *Intellectual:* showing what you can do is the retrieval that makes it stick.
+
+**The skill.** Choose a job, do it at your own pace, and explain your thinking to
+someone.
+
+**Access.** Blind or low-vision: count, sort, and pattern by touch and sound, shapes by
+feel. Deaf or hard of hearing: sign or draw the share. Limited movement: complete each
+job by voice or sign, directing a partner to move, sort, or pattern — the thinking is
+theirs.
 
 ## Procedure
 

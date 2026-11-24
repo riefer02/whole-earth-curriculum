@@ -121,21 +121,36 @@ see it clearly and, a little more, steer it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **opening and retrieval pass**, so
-the goals are modest: **(1) recall four Grade-8 ideas — a feeling can be pulled apart into event,
-thought, and feeling (S-332); a self is made of intersecting identities (D01.S2.08.01); self-esteem
-can come from inner worth or from outside approval (S-222); and choices have short- and long-term
-consequences (D01.S3.08.02); (2) preview the unit's three strands — emotional literacy, identity and
-self-concept, self-regulation and agency — and its six goals; (3) plant the organizing idea: a whole
-self is built from *feelings*, *identity*, and *purpose*, and it is always in the making.** Do not try
-to teach the six goals today; just name and locate them. The **social-emotional** lens: naming the
-self precisely is a skill that supports regulation and care (S-001). The **global** lens: every
-culture gives its young people ways of answering "who am I?", and the answers differ by place and
-time. The **ethics** lens: the distinction between how things *are* and how things *ought* to be runs
-through the whole unit — a feeling is a fact about you, while what you do with it is a choice
-(philosophy §5). Keep every question open: identity is held as a story in the making, never a label
-or a verdict (philosophy §11). Spacing note (S-039): this recall pass is what makes the unit's ideas
-stick later.
+**Tone.** Light and welcoming — this is an **opening and retrieval pass**, not a
+teaching day. Keep it brisk.
+
+**The facts to land.**
+
+1. **Recall four Grade-8 ideas:** a feeling can be pulled apart into event, thought, and
+feeling (S-332); a self is made of intersecting identities (D01.S2.08.01); self-esteem
+can come from inner worth or from outside approval (S-222); and choices have short- and
+long-term consequences (D01.S3.08.02).
+2. **Preview the three strands** — emotional literacy, identity and self-concept,
+self-regulation and agency — and name the unit's six goals. Locate them; do not teach
+them today.
+3. **Plant the organizing idea:** a whole self is built from *feelings*, *identity*, and
+*purpose*, and it is always in the making.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* naming the self precisely is a skill that supports regulation
+and care (S-001).
+- *Global:* every culture gives its young people ways of answering "who am I?", and
+the answers differ by place and time.
+- *Ethics:* the distinction between how things *are* and how things *ought* to be runs
+through the whole unit — a feeling is a fact about you, while what you do with it is a
+choice (philosophy §5).
+
+**The skill.** Retrieval, not production: learners pull back four ideas and place the
+unit ahead of them. Keep every question open — identity is held as a story in the
+making, never a label or a verdict (philosophy §11).
+
+**Spacing.** This recall pass is what makes the unit's ideas stick later (S-039).
 
 ## Procedure
 
@@ -181,3 +196,4 @@ about as you grew? Bring the story (no names needed) to the next lesson.
   <https://doi.org/10.1177/1529100612453266> (S-039).
 - On explicit instruction and worked examples: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- CASEL — Fundamentals of Social and Emotional Learning (S-001).

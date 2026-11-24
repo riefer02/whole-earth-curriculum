@@ -109,17 +109,16 @@ can keep the pattern going as far as you like.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It spirals up from Kindergarten's
-"copy a pattern" to **identifying the core and extending it** — the new skill. Teach
-it with a **worked example** (philosophy §13): say the core aloud, mark where it
-ends, and show it repeating. Patterns can live in objects, sounds, colors, or
-movement — use all of them so every body can join. There is no "wrong" place to find
-a pattern; if a learner's core is different from yours but truly repeats, honor it.
-For learners who are Deaf or hard of hearing, use visible patterns (objects, colors,
-movement) and sign or clap with a partner; for learners who are blind or low-vision,
-use sound and touch patterns — beats, and rows of textured objects. A learner who
-does not speak continues a pattern by pointing to or placing the next object.
-Pattern-making is a joy, not a race.
+It spirals up from Kindergarten's "copy a pattern" to **identifying the core and
+extending it** — the new skill. Teach it with a **worked example** (philosophy §13): say
+the core aloud, mark where it ends, and show it repeating. Patterns can live in objects,
+sounds, colors, or movement — use all of them so every body can join. There is no
+"wrong" place to find a pattern; if a learner's core is different from yours but truly
+repeats, honor it. For learners who are Deaf or hard of hearing, use visible patterns
+(objects, colors, movement) and sign or clap with a partner; for learners who are blind
+or low-vision, use sound and touch patterns — beats, and rows of textured objects. A
+learner who does not speak continues a pattern by pointing to or placing the next
+object. Pattern-making is a joy, not a race.
 
 ## Procedure
 

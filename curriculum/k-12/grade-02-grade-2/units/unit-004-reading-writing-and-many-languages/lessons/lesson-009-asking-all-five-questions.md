@@ -105,14 +105,13 @@ you read — in any language.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. This is a spaced, integrating lesson: it retrieves the four
-earlier lessons (who/what, where/when, why) and joins them into one skill. Model
-filling the whole frame once, then guide pairs, then release. The frame is a tool,
-not a test — a learner may answer by speaking, signing, drawing, or writing, and the
-five answers become the bones of a retelling. Work in the home language. A learner
-who struggles with one question is not "behind"; the frame shows exactly which
-question to practice next, and that is information for growth, never a verdict.
+This is a spaced, integrating lesson: it retrieves the four earlier lessons (who/what,
+where/when, why) and joins them into one skill. Model filling the whole frame once, then
+guide pairs, then release. The frame is a tool, not a test — a learner may answer by
+speaking, signing, drawing, or writing, and the five answers become the bones of a
+retelling. Work in the home language. A learner who struggles with one question is not
+"behind"; the frame shows exactly which question to practice next, and that is
+information for growth, never a verdict.
 
 ## Procedure
 

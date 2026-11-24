@@ -107,17 +107,15 @@ of every fair decision people make together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Opinions here are friendly and low-stakes — favorite fruits,
-games, seasons — never about people's worth, and never used to rank learners. Model
-one full "I think… because…" before learners write, then guide and release. The
-reason must actually support the opinion; a reason that just restates the opinion
-("I think mango is best because I like mango") is gently guided toward a real reason
-("because it is sweet and cool"). Disagreement is welcome and kind: learners may
-hold different opinions with different good reasons, and both can be right. Work in
-the home language; every language has its own words for "I think" and "because." A
-learner may speak, sign, dictate, or write the opinion — the reasoning is the
-learning.
+Opinions here are friendly and low-stakes — favorite fruits, games, seasons — never
+about people's worth, and never used to rank learners. Model one full "I think…
+because…" before learners write, then guide and release. The reason must actually
+support the opinion; a reason that just restates the opinion ("I think mango is best
+because I like mango") is gently guided toward a real reason ("because it is sweet and
+cool"). Disagreement is welcome and kind: learners may hold different opinions with
+different good reasons, and both can be right. Work in the home language; every language
+has its own words for "I think" and "because." A learner may speak, sign, dictate, or
+write the opinion — the reasoning is the learning.
 
 ## Procedure
 

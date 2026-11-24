@@ -118,26 +118,37 @@ preference.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **food choices carry
-consequences for other people and the living Earth, and we can weigh those honestly — by
-separating facts from values — without shaming anyone's plate.** Teach the trace-the-meal
-worked example explicitly, then let learners trace their own (S-011). This is the unit's
-highest-shame-risk lesson; name it out loud: a learner who is poor, food-insecure, or whose
-family's food is not "green" must never be made to feel at fault. The footprint belongs to
-*systems*, and the responsibility to change them is *shared*, never loaded onto one plate.
+**Tone.** Careful, and explicit about shame: this lesson's tallest risk is making
+someone feel blamed for their plate.
 
-The **ethics** lens: a food choice has consequences for others — farm workers, animals, future
-people — and ethics is simply the discipline of asking *who is affected and what do I owe
-them.* The **egalitarianism** lens: the costs of food are unevenly carried — the people who
-grow and pick food are often the people who can least afford it, and the places least
-responsible for climate change often feel it worst (S-006, S-005). The **global** lens:
-footprints differ by place and method — a food farmed one way in one region has a different
-footprint than the same food farmed differently elsewhere; there is no single "good" food. The
-**technology** lens: fertilizer, irrigation, refrigeration, and long-distance shipping changed
-footprints dramatically — some raising them, some lowering them. The **environment** lens:
-about one-fifth of the food available to consumers worldwide is wasted, wasting the water,
-land, and energy that made it (S-410). Preview: Lesson 4 traces the whole system from farm to
-table; Lesson 5 turns this understanding into advocacy.
+**The facts to land.**
+
+1. Food choices carry consequences for other people and the living Earth, and we can
+   weigh them honestly by separating facts from values — without shaming anyone's plate.
+2. About one-fifth of the food available to consumers worldwide is wasted, wasting the
+   water, land, and energy that made it (S-410).
+3. Costs are unevenly carried: those who grow and pick food are often those who can
+   least afford it, and the places least responsible for climate change feel it worst
+   (S-006, S-005).
+
+**Don't overshoot.** The footprint belongs to *systems*; responsibility to change them
+is shared, never loaded onto one plate — say this out loud.
+
+**The lenses, briefly.**
+
+- *Ethics:* who is affected, and what do I owe them.
+- *Egalitarianism:* the costs fall hardest on those with least choice.
+- *Global:* footprints differ by place and method; there is no single "good" food.
+- *Technology:* fertiliser, irrigation, refrigeration, and shipping changed footprints
+  dramatically, raising some and lowering others.
+- *Environment:* waste wastes the water, land, and energy that made the food (S-410).
+
+**Safety floor.** A learner who is poor, food-insecure, or whose family's food is not
+"green" must never be made to feel at fault; name that rule before the exercise.
+
+**The skill.** Teach the trace-the-meal example explicitly, then release (S-011): trace
+one meal and name one system-level change. Lessons 4–5 take it to the whole system, then
+advocacy.
 
 ## Procedure
 

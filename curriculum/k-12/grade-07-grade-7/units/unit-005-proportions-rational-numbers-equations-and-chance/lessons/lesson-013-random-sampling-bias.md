@@ -117,18 +117,18 @@ and therefore of ethics: a biased sample can harm the very people it leaves out.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) a **population** is the whole
-group; a **sample** is a part used to estimate the whole; (2) a **random sample** (every member has
-an equal chance) is **representative**, so its estimates are close to the truth; and (3) **bias** is
-a non-random way of choosing that skews the sample and misleads the conclusion. Because sampling is
-a foundational skill, use explicit instruction, worked examples, and guided practice before
-independent work (Kirschner, Sweller & Clark, 2006). Watch for the slip of trusting a small or
-hand-picked sample. Retrieval: ask learners to recall data summaries from Grade 6 — a sample
-summarizes the population the way a mean summarizes a data set. The ethics and egalitarian lenses
-(`docs/philosophy.md` §4): bias in sampling is not a neutral mistake — it can erase whole groups and
-produce unfair decisions, so fair sampling is an ethical act. The critical-thinking lens
-(`docs/philosophy.md` §7): always ask "who got left out of this sample?" before trusting a
-conclusion.
+The ideas to land: (1) a **population** is the whole group; a **sample** is a part used
+to estimate the whole; (2) a **random sample** (every member has an equal chance) is
+**representative**, so its estimates are close to the truth; and (3) **bias** is a
+non-random way of choosing that skews the sample and misleads the conclusion. Because
+sampling is a foundational skill, use explicit instruction, worked examples, and guided
+practice before independent work (Kirschner, Sweller & Clark, 2006). Watch for the slip
+of trusting a small or hand-picked sample. Retrieval: ask learners to recall data
+summaries from Grade 6 — a sample summarizes the population the way a mean summarizes a
+data set. The ethics and egalitarian lenses (`docs/philosophy.md` §4): bias in sampling
+is not a neutral mistake — it can erase whole groups and produce unfair decisions, so
+fair sampling is an ethical act. The critical-thinking lens (`docs/philosophy.md` §7):
+always ask "who got left out of this sample?" before trusting a conclusion.
 
 ## Procedure
 

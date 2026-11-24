@@ -122,28 +122,38 @@ track of the chain.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a sustained argument
-is a chain — claim, evidence, and counter-argument — that builds across a work; the
-reader's job is to log the links and ask whether each holds and whether the author
-answers the strongest objection.** This reuses the Toulmin frame of claim, data
-(evidence), warrant, and rebuttal (S-236), now stretched across a book rather than a
-speech. Literary works argue too — a novel or memoir makes claims about how people are,
-what matters, what is just — and the same chain can be read there, more subtly.
+**Tone.** Scholarly and fair: reconstruct the author's case before judging it.
 
-Model the skill once, then let learners practice (worked example → guided practice →
-independent work; S-011). Reading comprehension is built by actively generating
-questions and tracking structure, not by passive rereading (S-040). The
-**critical-thinking** lens is the spine: for each link, ask *does this evidence support
-this claim, and does the author answer the counter-argument fairly?* The **intellectual**
-lens: this is the unit's sustained scholarship — a reader who can reconstruct an
-author's case has earned the right to judge it. The **ethics** lens: a fair reader
-tracks the author's *strongest* argument, not a straw version; steelman before you
-critique. The **egalitarian** lens: authors from any tradition — a memoirist, an
-essayist, a novelist, an oral epic retold — deserve the same careful reading; argument
-is not the property of one culture. The **global** lens: the same chain appears in
-argumentative traditions worldwide, from Indian nyāya debate to the persuasive essay,
-and learners may name their own tradition's forms. Preview: Lesson 10 brings theme and
-argument together into a full synthesis of the whole work.
+**The facts to land.**
+
+1. A sustained argument is a chain — claim, evidence, counter-argument — that builds
+   across a work; the reader logs the links and asks whether each holds and whether the
+   strongest objection is answered.
+2. This reuses the Toulmin frame of claim, data, warrant, and rebuttal (S-236),
+   stretched from a speech across a whole book.
+3. Literary works argue too: a novel or memoir makes claims about how people are, what
+   matters, and what is just — more subtly, but read the same way.
+4. Comprehension is built by generating questions and tracking structure, not by passive
+   rereading (S-040).
+
+**Don't overshoot.** Do not reduce a novel to a thesis to extract; literary argument is
+carried by character and scene, and a tidy "message" usually flattens it.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* the spine — does this evidence support this claim, and is the
+  counter-argument answered fairly?
+- *Intellectual:* a reader who can reconstruct the author's case has earned the right to
+  judge it.
+- *Ethics:* track the author's *strongest* argument, not a straw version; steelman
+  first.
+- *Egalitarianism:* memoirist, essayist, novelist, and oral epic deserve the same care;
+  argument is not one culture's property.
+- *Global:* from Indian nyāya debate to the persuasive essay, learners may name their
+  own tradition's forms.
+
+**The skill.** Model once, then release (S-011): log claim, evidence, and rebuttal for
+one chapter. Lesson 10 brings theme and argument into a synthesis.
 
 ## Procedure
 

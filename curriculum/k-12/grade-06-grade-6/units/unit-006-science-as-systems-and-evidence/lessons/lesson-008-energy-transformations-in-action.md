@@ -119,16 +119,16 @@ energy slips away as heat. Today you follow the chain from start to finish.
 
 ## Facilitator note
 
-Written to the learner ("you"). The key idea to land: **a transformation is a chain —
-each output becomes the next input — and some energy always leaves as heat.** Model
-the worked example by building the food chain aloud, form by form, and pointing to the
-"waste heat" at the end. Two distinctions worth naming: **energy changes form** (this
-lesson's standard) versus **energy is conserved** (Grade 9 — do not require the
-quantitative law now; just note "none of it disappears, though some becomes heat we
-cannot easily reuse"). The honest technology/environment lens: every machine wastes
-some energy as heat, which is why using less and using energy well matters — a value
-we hold, stated alongside the evidence. Global examples (a solar cooker, a water
-wheel, a bicycle, a cooking fire) keep it faithful to many lives. See
+The key idea to land: **a transformation is a chain — each output becomes the next
+input — and some energy always leaves as heat.** Model the worked example by building
+the food chain aloud, form by form, and pointing to the "waste heat" at the end. Two
+distinctions worth naming: **energy changes form** (this lesson's standard) versus
+**energy is conserved** (Grade 9 — do not require the quantitative law now; just note
+"none of it disappears, though some becomes heat we cannot easily reuse"). The honest
+technology/environment lens: every machine wastes some energy as heat, which is why
+using less and using energy well matters — a value we hold, stated alongside the
+evidence. Global examples (a solar cooker, a water wheel, a bicycle, a cooking fire)
+keep it faithful to many lives. See
 [`docs/facilitation.md`](../../../../../../docs/facilitation.md).
 
 ## Procedure

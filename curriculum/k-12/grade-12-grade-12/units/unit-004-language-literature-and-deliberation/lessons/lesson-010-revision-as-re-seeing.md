@@ -122,27 +122,26 @@ to cut.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description**:
-revision — changing structure, style, and evidence — is a distinct, teachable stage of
-the writing process, preceding editing (IES, S-171; Graham & Perin, S-102), and feedback
-is among the strongest documented influences on learning (Hattie, S-012). Hold "feedback
-serves the work" as a *value* and a *skill*, not a personal verdict. Be explicit that a
-peer's first duty is to describe what the piece does, then to suggest — and that the
-writer keeps the final say.
+The idea to land, held as **description**: revision — changing structure, style, and
+evidence — is a distinct, teachable stage of the writing process, preceding editing
+(IES, S-171; Graham & Perin, S-102), and feedback is among the strongest documented
+influences on learning (Hattie, S-012). Hold "feedback serves the work" as a *value* and
+a *skill*, not a personal verdict. Be explicit that a peer's first duty is to describe
+what the piece does, then to suggest — and that the writer keeps the final say.
 
 The **ethics** lens: honest feedback is a form of respect — soft-pedaling a real problem
-does the writer a quiet harm; so does cruelty. The **egalitarianism** lens: peer revision
-means every learner is both author and editor, which distributes the power of the red pen
-rather than concentrating it in one teacher. The **global** lens: what counts as "clear"
-or "well-structured" differs across traditions — a peer should ask what the writer was
-aiming for, not impose one shape. The **technology** lens: comments and track changes let
-feedback happen asynchronously and across distance, and let the writer accept or reject
-each suggestion — but the *judgment* of what to change remains human. The **environment**
-lens: revising on a screen before printing is a low-waste choice, and precise language
-matters most when a piece describes environmental evidence where overstatement misleads.
-The **critical-thinking** lens: "would the evidence still support the claim if I removed
-my weakest source?" is the rigor a reviser applies. Preview: Lesson 11 writes *across*
-disciplines and registers with precision.
+does the writer a quiet harm; so does cruelty. The **egalitarianism** lens: peer
+revision means every learner is both author and editor, which distributes the power of
+the red pen than concentrating it in one teacher. The **global** lens: what counts as
+"clear" or "well-structured" differs across traditions — a peer should ask what the
+writer was aiming for, not impose one shape. The **technology** lens: comments and track
+changes let feedback happen asynchronously and across distance, and let the writer
+accept or reject each suggestion — but the *judgment* of what to change remains human.
+The **environment** lens: revising on a screen before printing is a low-waste choice,
+and precise language matters most when a piece describes environmental evidence where
+overstatement misleads. The **critical-thinking** lens: "would the evidence still
+support the claim if I removed my weakest source?" is the rigor a reviser applies.
+Preview: Lesson 11 writes *across* disciplines and registers with precision.
 
 ## Procedure
 

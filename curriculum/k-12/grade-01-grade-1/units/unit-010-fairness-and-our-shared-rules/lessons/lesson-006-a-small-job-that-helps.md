@@ -108,18 +108,35 @@ carrying water for an elder. Today you will do one small job and tell how it hel
 
 ## Facilitator note
 
-Written to the learner ("you"). The central commitment is **contributions, not
-rewards, and no ranking**: a job is something everyone can do to help, not a prize
-for the "best" child or a way to sort children into helpers and non-helpers. Every
-job matters equally — watering a plant helps as much as carrying a book; do not
-rank jobs as "big" or "small" in worth. Rotate jobs so everyone takes a turn, and
-celebrate the *helping*, never compare children. Keep jobs safe and concrete for age
-~6. A learner who does not speak aloud chooses a job by pointing to a card and tells
-how it helped by pointing, signing, or gesturing; a learner who is blind or
-low-vision does a job by touch and names how it helped aloud; a learner with a motor
-difference can do a job by directing a partner or by choosing a job that suits how
-they move, and their help counts fully. A learner may always pass. The aim is that
-every learner can say, in their own way, "I helped, and here is how."
+**Tone.** Matter-of-fact and warm. Contribution, not reward.
+
+**The facts to land.**
+
+1. A job is something anyone can do to help — not a prize for the "best" child, and not
+   a way to sort children into helpers and non-helpers.
+2. Every job matters equally: watering a plant helps as much as carrying a book; jobs
+   are not "big" or "small" in worth.
+3. Rotate so everyone takes a turn, and celebrate the helping — never compare children.
+4. Keep jobs safe and concrete for age six.
+
+**Don't overshoot.** Praise the help, not the child's rank. "You did it best" turns a
+job into a contest.
+
+**The lenses, briefly.**
+
+- *Ethics:* helping is owed to the group, not earned for a reward.
+- *Egalitarianism:* a learner who directs a partner has helped just as fully.
+- *Community:* the room works because everyone's job is done.
+- *Social-emotional:* naming how you helped builds the feeling of belonging.
+- *Global:* households and communities everywhere share work; no one's work is lesser.
+
+**The skill.** Choose a job, do it, then say in your own way, "I helped, and here is
+how."
+
+**Access.** Non-speaking: choose by pointing to a card, and tell how it helped by
+pointing, signing, or gesturing. Blind or low-vision: do the job by touch and name how
+it helped aloud. Motor difference: direct a partner, or choose a job that suits how you
+move — your help counts fully. A learner may always pass.
 
 ## Procedure
 

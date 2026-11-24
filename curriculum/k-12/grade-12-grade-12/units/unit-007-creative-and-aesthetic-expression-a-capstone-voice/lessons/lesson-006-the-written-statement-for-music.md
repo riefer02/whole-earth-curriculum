@@ -114,25 +114,24 @@ listener meet the sound fairly, especially when the maker is not there to speak.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a music statement is a
-short, specific, honest account of what was made, how, why it matters, and what to listen
-for — written so a stranger can meet the sound fairly.** Teach the four-prompt frame, then
-let learners draft and revise (S-011). Guard against two traps: all mood and no technique
-("it expresses joy"), and all technique and no why ("it uses a pentatonic scale"). The good
-statement names both.
+The idea to land: **a music statement is a short, specific, honest account of what was
+made, how, why it matters, and what to listen for — written so a stranger can meet the
+sound fairly.** Teach the four-prompt frame, then let learners draft and revise (S-011).
+Guard against two traps: all mood and no technique ("it expresses joy"), and all
+technique and no why ("it uses a pentatonic scale"). The good statement names both.
 
-The **ethics** lens: the statement is where the composer takes responsibility — the claim
-must match what is actually audible, or the statement is dishonest. The **egalitarianism**
-lens: any maker can write a true statement; it needs no degree or music-theory vocabulary,
-only honesty about one's own process. The **global** lens: program notes, song
-introductions, and spoken prefaces accompany music worldwide — from the raga's own
-characteristics (S-366) to a singer naming a song's people and occasion — all living
-traditions of *explaining your sound*. The **technology** lens: written statements now
-travel with recordings as liner notes, captions, and text descriptions, so a deaf listener
-can meet the music through words and a blind listener through screen-reader text. The
-**environment** lens: a statement can name where sounds came from — found, recorded,
-borrowed from a place — making the music's relationship to its environment visible.
-Preview: Lesson 7 turns from making music to critiquing it.
+The **ethics** lens: the statement is where the composer takes responsibility — the
+claim must match what is actually audible, or the statement is dishonest. The
+**egalitarianism** lens: any maker can write a true statement; it needs no degree or
+music-theory vocabulary, only honesty about one's own process. The **global** lens:
+program notes, song introductions, and spoken prefaces accompany music worldwide — from
+the raga's own characteristics (S-366) to a singer naming a song's people and occasion —
+all living traditions of *explaining your sound*. The **technology** lens: written
+statements now travel with recordings as liner notes, captions, and text descriptions,
+so a deaf listener can meet the music through words and a blind listener through
+screen-reader text. The **environment** lens: a statement can name where sounds came
+from — found, recorded, borrowed from a place — making the music's relationship to its
+environment visible. Preview: Lesson 7 turns from making music to critiquing it.
 
 ## Procedure
 

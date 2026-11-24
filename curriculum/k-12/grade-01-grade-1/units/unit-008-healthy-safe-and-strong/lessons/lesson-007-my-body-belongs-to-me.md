@@ -118,33 +118,39 @@ belongs to me.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **This is the unit's most sensitive
-lesson. Read this note fully and prepare yourself before teaching.**
+**Tone.** Warm and steady. The unit's most sensitive lesson: prepare before teaching.
 
-- Keep it gentle and brief. The message is empowering — **"tell a trusted adult"** — never
-  "be afraid of everyone." Do not use frightening or graphic content, and do not go
-  beyond "tell a trusted adult" for any question about unsafe touch.
-- Do not use anatomical names. Stay with "the parts of your body that your clothes
-  cover are private — they belong only to you." Nothing more is needed at this age.
-- Model and practice consent in your own classroom today: a child may decline a hug or
-  a handshake, and that refusal is respected. Greetings differ around the world — hugs,
-  handshakes, joined palms, bows, cheek-kisses — but consent applies to all of them: a
-  child may decline any touch they do not want. Say "no" or "stop" is always okay, and
-  when a friend says it, we stop right away and listen.
-- **Never imply a child is at fault.** If anything makes a child feel unsafe or
-  uncomfortable, it is never their fault, and they are never in trouble for telling.
-- Keep all practice with the doll or stuffed animal, never with real bodies.
-- **If a child discloses abuse or an unsafe situation:** stay calm; believe them; thank
-  them for telling you; do **not** promise secrecy; do not press for details or ask
-  leading questions; tell your designated safeguarding lead and follow your local
-  child-protection procedure immediately.
-- Honor every way of saying no: a learner who does not use a speaking voice may sign,
-  point to the "stop" card, raise a hand, or show a picture. A learner who is blind or
-  has low vision practices the words aloud and is told the "yes/stop" card by touch. A
-  learner who is deaf or hard of hearing practices in the sign language they use and
-  points to the "yes/stop" card; keep all demonstrations where they can be clearly seen.
-- This lesson builds on Kindergarten's "My Body Is My Home" and "Asking for Help"
-  (U.00.002) and leads into the next lesson on trusted adults.
+**The facts to land.**
+
+1. **"Tell a trusted adult"** is the message — empowering, never "be afraid."
+2. The parts your clothes cover are **private; they belong only to you.**
+3. **"No" or "stop" is always okay**; when a friend says it, we stop.
+4. **It is never a child's fault**, and a child is never in trouble for telling.
+
+**Don't overshoot.** No frightening or graphic content; nothing beyond "tell a trusted
+adult" for unsafe-touch questions. Practise only with the doll, never real bodies.
+
+**The lenses, briefly.**
+
+- *Ethics:* model consent today — a declined hug is respected.
+- *Egalitarianism:* every way of saying no is honoured.
+- *Social-emotional:* name the feeling, then the plan.
+- *Community:* greetings differ worldwide — hugs, handshakes, joined palms, bows,
+  cheek-kisses — and consent applies to all.
+
+**The skill.** Say "no" or "stop," then tell a trusted adult.
+
+**Access.** Non-speaking: sign, point to the "stop" card, raise a hand, or show a
+picture. Blind or low-vision: practise aloud and feel the "yes/stop" card. Deaf or hard
+of hearing: practise in sign, demonstrations in view.
+
+**Safety floor.** If a child discloses abuse or an unsafe situation: stay calm, believe
+them, thank them for telling. Do **not** promise secrecy, and do not press for details
+or ask leading questions. Tell your designated safeguarding lead and follow local
+child-protection procedure now.
+
+Kindergarten's "My Body Is My Home" and "Asking for Help" (U.00.002); next, trusted
+adults.
 
 ## Procedure
 

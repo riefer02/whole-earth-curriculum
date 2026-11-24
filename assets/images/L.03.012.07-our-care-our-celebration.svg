@@ -31,8 +31,8 @@
     <path d="M150 236 Q140 226 122 232 L118 244 Q134 252 152 246 Z" fill="#e6bb92" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
     <!-- cup passed -->
     <rect x="98" y="218" width="20" height="18" rx="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-    <text x="120" y="270" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">helping fills a need</text>
-    <text x="120" y="284" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">and warms the helper too</text>
+    <text x="120" y="270" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">helping fills a need</text>
+    <text x="120" y="284" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">and warms the helper too</text>
   </g>
 
   <!-- center: child holding portfolio, friends clapping -->

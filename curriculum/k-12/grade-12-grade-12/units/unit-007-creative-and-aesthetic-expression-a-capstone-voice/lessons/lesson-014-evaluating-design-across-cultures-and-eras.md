@@ -118,26 +118,27 @@ era has judged its tools, vessels, and homes by these tests, even when the words
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a designed thing is
-evaluated against four criteria — function (does it work), fairness (who can use it, who is
-left out), footprint (what it costs the Earth, cradle to cradle), and craft (is it made well
-and honestly) — and every evaluation ends in a judgment one can defend.** Teach the four
-criteria explicitly with a worked example, then let learners evaluate a second object (S-011).
-Name the danger plainly: judging another culture's design only by one's own machine-made
-standards is flattening, not evaluation.
+The idea to land: **a designed thing is evaluated against four criteria — function (does
+it work), fairness (who can use it, who is left out), footprint (what it costs the
+Earth, cradle to cradle), and craft (is it made well and honestly) — and every
+evaluation ends in a judgment one can defend.** Teach the four criteria explicitly with
+a worked example, then let learners evaluate a second object (S-011). Name the danger
+plainly: judging another culture's design only by one's own machine-made standards is
+flattening, not evaluation.
 
-The **ethics** lens: to evaluate fairly is to name what a design does and does not do — for
-people and for the planet — without pretending any design is neutral. The **egalitarianism**
-lens: the four criteria are open to anyone who uses and handles things; they need no
-laboratory, only honest attention and a willingness to ask who is left out (S-369). The
-**global** lens: every culture's tools, vessels, and homes are living design traditions that
-fit their materials, needs, and climate — to honor with respectful questions, never to grade
-by a single standard. The **technology** lens: mass production and digital fabrication change
-what is possible, but they also change the footprint — a judgment must weigh the whole life
-cycle, from materials through making, use, and disposal (S-452). The **environment** lens:
-this is the criterion that decides whether "good design" is also *sustainable* design — the
-unit closes where making meets stewardship. Preview: the capstone portfolio gathers every
-artifact from this unit into one voice.
+The **ethics** lens: to evaluate fairly is to name what a design does and does not do —
+for people and for the planet — without pretending any design is neutral. The
+**egalitarianism** lens: the four criteria are open to anyone who uses and handles
+things; they need no laboratory, only honest attention and a willingness to ask who is
+left out (S-369). The **global** lens: every culture's tools, vessels, and homes are
+living design traditions that fit their materials, needs, and climate — to honor with
+respectful questions, never to grade by a single standard. The **technology** lens: mass
+production and digital fabrication change what is possible, but they also change the
+footprint — a judgment must weigh the whole life cycle, from materials through making,
+use, and disposal (S-452). The **environment** lens: this is the criterion that decides
+whether "good design" is also *sustainable* design — the unit closes where making meets
+stewardship. Preview: the capstone portfolio gathers every artifact from this unit into
+one voice.
 
 ## Procedure
 
@@ -208,3 +209,4 @@ footprint, craft — in one sentence each, and write one improvement you would m
   Universal Design (S-369).
 - On the circular-economy frame for a design's footprint: Ellen MacArthur Foundation (S-452).
 - On honoring living craft traditions: UNESCO Intangible Cultural Heritage (S-056).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

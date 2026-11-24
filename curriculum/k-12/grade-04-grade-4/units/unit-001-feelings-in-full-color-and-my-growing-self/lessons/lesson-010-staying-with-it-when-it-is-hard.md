@@ -121,15 +121,31 @@ weaving, a child keeping a promise — all of them use the same quiet skill.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"), and it closes the unit — so the closing
-circle is also a **retrieval** and **capstone** moment: learners recall the feeling
-thermometer, the complex feelings, the self-map, and the plan-adjust loop. Teach the
-three strategies explicitly (worked example) — self-control is a skill, and explicit
-strategy instruction beats vague "try harder" (see `docs/contexts.md` on when to
-instruct). Note honestly that willpower is not infinite and the evidence for "building"
-it like a muscle is mixed; the practical, well-supported levers are *strategies* and
-*changing the situation* (removing the distraction, planning ahead) more than sheer
-effort. Never shame a learner who struggled — "not yet" applies here too.
+**Tone.** Steady and unhurried — "not yet" applies here too.
+
+**The facts to land.**
+1. Self-control is a skill, and explicit strategy instruction beats a vague "try harder"
+   (see `docs/contexts.md` on when to instruct). Teach the three strategies as a worked
+   example.
+2. Willpower is not infinite, and the evidence for "building" it like a muscle is mixed.
+3. The practical, well-supported levers are *strategies* and *changing the situation* —
+   removing the distraction, planning ahead — more than sheer effort.
+
+**Don't overshoot.** Do not tell a learner that trying harder is the answer, or that a
+struggle is a flaw in the person.
+
+**The lenses, briefly.**
+- *Social-emotional:* the feeling is named, and the skill is practiced.
+- *Ethics:* never shame a learner who struggled.
+- *Technology:* a tool can remove a distraction; the choice to use it stays the
+  learner's.
+
+**The skill.** Name the hard moment, choose one strategy, and change one thing in the
+situation.
+
+**Closing:** this closes the unit, so the closing circle is also retrieval and capstone
+— learners recall the feeling thermometer, the complex feelings, the self-map, and the
+plan-adjust loop.
 
 ## Procedure
 

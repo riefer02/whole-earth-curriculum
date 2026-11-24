@@ -124,27 +124,26 @@ One cycle, one human shortcut, two enormous consequences.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **nitrogen, like
-carbon, cycles within a closed system (the cycle concept, S-253) — fixed from the air,
-taken up by life, returned by decomposition, and released back by denitrification —
-and human activity, chiefly synthetic fertilizer, has greatly increased the reactive
-nitrogen in circulation (IPCC, S-005), so the same substance that feeds billions also
-overloads rivers and air.** This is the nitrogen dilemma: it is not a story of "we
-broke a cycle that was fine" so much as "we opened a gate that let us feed far more
-people, and the excess has costs." Hold both truths; neither "fertilizer is evil"
-(nonsense — it feeds billions) nor "there is no problem" (the excess is documented).
+The idea to land: **nitrogen, like carbon, cycles within a closed system (the cycle
+concept, S-253) — fixed from the air, taken up by life, returned by decomposition, and
+released back by denitrification — and human activity, chiefly synthetic fertilizer, has
+greatly increased the reactive nitrogen in circulation (IPCC, S-005), so the same
+substance that feeds billions also overloads rivers and air.** This is the nitrogen
+dilemma: it is not a story of "we broke a cycle that was fine" so much as "we opened a
+gate that let us feed far more people, and the excess has costs." Hold both truths;
+neither "fertilizer is evil" (nonsense — it feeds billions) nor "there is no problem"
+(the excess is documented).
 
-Keep the science honest and hedged: the curriculum's sources cover the carbon and
-water cycles at claim level (S-253, S-212, S-213), and the IPCC (S-005) is the
-authority for the human alteration of global cycles, which it documents for nitrogen
-alongside carbon. Do not invent a precise statistic; say "greatly increased" and
-point to the IPCC. The **environment** lens is core. The **ethics** lens: one
-technology (synthetic nitrogen) is simultaneously one of the greatest life-savers and
-one of the greatest alterers of natural systems — the very definition of a trade-off.
-The **egalitarianism** lens: the benefit (food) and the cost (polluted water) do not
-land on the same people or places. The **global** lens: the cycle is planetary. The
-**critical-thinking** lens: distinguishing "the cycle is real" from "how we should
-weigh food against pollution."
+Keep the science honest and hedged: the curriculum's sources cover the carbon and water
+cycles at claim level (S-253, S-212, S-213), and the IPCC (S-005) is the authority for
+the human alteration of global cycles, which it documents for nitrogen alongside carbon.
+Do not invent a precise statistic; say "greatly increased" and point to the IPCC. The
+**environment** lens is core. The **ethics** lens: one technology (synthetic nitrogen)
+is simultaneously one of the greatest life-savers and one of the greatest alterers of
+natural systems — the very definition of a trade-off. The **egalitarianism** lens: the
+benefit (food) and the cost (polluted water) do not land on the same people or places.
+The **global** lens: the cycle is planetary. The **critical-thinking** lens:
+distinguishing "the cycle is real" from "how we should weigh food against pollution."
 
 ## Procedure
 
@@ -195,3 +194,5 @@ worse.
 - On human alteration of global cycles, including nitrogen: IPCC (S-005).
 - On worked examples and guided practice for tracing: Kirschner, Sweller & Clark
   (2006) (S-011).
+- USGS — Water Science School (The Water Cycle) (S-212).
+- NASA — GPM Precipitation Education (The Water Cycle) (S-213).

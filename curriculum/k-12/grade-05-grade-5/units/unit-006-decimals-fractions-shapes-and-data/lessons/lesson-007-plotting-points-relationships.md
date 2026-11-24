@@ -113,17 +113,17 @@ a glance. Coordinate grids are how mapmakers, builders, farmers, and scientists 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) the **x-axis** runs
-across, the **y-axis** runs up, and they meet at the **origin (0,0)**; (2) an **ordered pair
-(x, y)** tells you to go across x first, then up y — "along the corridor, up the stairs"; and
-(3) a set of plotted points can show a **relationship** (here, y is always double x). Model a
-worked example first (plot (2,3) aloud: across 2, up 3), then guide a second (Kirschner,
-Sweller & Clark, 2006). The most common slip is reversing the order — going up first. Retrieval:
-ask learners to recall place-value and decimal skills and notice the grid's coordinates are
-whole numbers for now. Coordinates are evidence; the habit of reading a graph carefully rather
-than guessing is a critical-thinking value (`docs/philosophy.md` §7). Coordinate grids trace to
-René Descartes, but the idea of locating a place by two distances is far older and appears in
-mapmaking traditions worldwide — a global point worth naming.
+The ideas to land: (1) the **x-axis** runs across, the **y-axis** runs up, and they meet
+at the **origin (0,0)**; (2) an **ordered pair (x, y)** tells you to go across x first,
+then up y — "along the corridor, up the stairs"; and (3) a set of plotted points can
+show a **relationship** (here, y is always double x). Model a worked example first (plot
+(2,3) aloud: across 2, up 3), then guide a second (Kirschner, Sweller & Clark, 2006).
+The most common slip is reversing the order — going up first. Retrieval: ask learners to
+recall place-value and decimal skills and notice the grid's coordinates are whole
+numbers for now. Coordinates are evidence; the habit of reading a graph carefully rather
+than guessing is a critical-thinking value (`docs/philosophy.md` §7). Coordinate grids
+trace to René Descartes, but the idea of locating a place by two distances is far older
+and appears in mapmaking traditions worldwide — a global point worth naming.
 
 ## Procedure
 

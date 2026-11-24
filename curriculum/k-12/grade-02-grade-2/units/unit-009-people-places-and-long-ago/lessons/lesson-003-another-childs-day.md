@@ -115,17 +115,16 @@ come to know and respect one another.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Hold the examples with respect, as
-real children's lives, not costumes.** Do not present any place as "exotic" or any
-life as "sad" — the goal is accurate, warm description of food, homes, work, and
-play, and noticing what is alike across all of us (every child eats, sleeps, helps,
-and plays). **Use present tense for living ways and past tense only for "long ago"
-examples** — many children today still farm, herd, and fish, and that is not
-"backward," it is a living way of life. Keep facts accurate and hedged (see
-Resources). Honor every body: describe the picture cards in words for a learner who
-cannot see them; a learner who does not use a speaking voice acts or sorts the cards.
-Never require a learner to compare their own home if that feels private — they may
-compare the two *given* children instead.
+**Hold the examples with respect, as real children's lives, not costumes.** Do not
+present any place as "exotic" or any life as "sad" — the goal is accurate, warm
+description of food, homes, work, and play, and noticing what is alike across all of us
+(every child eats, sleeps, helps, and plays). **Use present tense for living ways and
+past tense only for "long ago" examples** — many children today still farm, herd, and
+fish, and that is not "backward," it is a living way of life. Keep facts accurate and
+hedged (see Resources). Honor every body: describe the picture cards in words for a
+learner who cannot see them; a learner who does not use a speaking voice acts or sorts
+the cards. Never require a learner to compare their own home if that feels private —
+they may compare the two *given* children instead.
 
 ## Procedure
 

@@ -112,19 +112,30 @@ to do with it. Sellers, builders, cooks, and bus drivers use such recipes all da
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) a **variable** is a letter that
-stands for an unknown or changing amount; (2) an **expression** combines numbers, variables, and
-operations — **4t + 3** means "4 times t, then add 3" (the number next to the variable is a
-**coefficient**); and (3) to **evaluate**, substitute a number for the variable and do the operations in
-order. Model a worked example first, then guide a second before independent work (Kirschner, Sweller &
-Clark, 2006). Two common slips: reading "4t" as "4 plus t" (it means 4 × t), and doing the operations
-out of order. Retrieval: ask learners to recall the rates and unit prices from earlier lessons — "4
-coins per cup" is a rate, and now the variable turns it into a reusable recipe. The critical-thinking
-lens: writing a rule clearly so *anyone* can follow it is a shareable, egalitarian value
-(`docs/philosophy.md` §4). Note the global point: variables are a human convention — different
-traditions have used different symbols, and algebra grew from the work of al-Khwarizmi and others
-across the Persian and Arabic world, building on Indian and Greek number ideas. The letter we choose is
-ours; the idea of "a number you do not know yet" is universal.
+**Tone.** Practical. A variable is a placeholder, not a mystery.
+
+**The facts to land.**
+
+1. A **variable** is a letter standing for an unknown or changing amount.
+2. An **expression** combines numbers, variables, and operations: **4t + 3** means "4
+   times t, then add 3," and 4 is the **coefficient**.
+3. To **evaluate**, substitute a number for the variable and follow operation order.
+
+**Don't overshoot.** Do not let "4t" slide into "4 plus t." Read it as 4 × t every time,
+and do the operations in order.
+
+**The lenses, briefly.**
+
+- *Intellectual:* a rule written once can be reused with any input.
+- *Global:* symbols are a human convention — different traditions chose different ones,
+  and algebra grew from al-Khwarizmi's work across the Persian and Arabic world,
+  building on Indian and Greek number ideas.
+- *Critical-thinking:* writing a rule clearly enough for anyone to follow is shareable,
+  and that is an egalitarian value (`docs/philosophy.md` §4).
+
+**The skill.** Model a worked example, guide a second, then set learners working alone
+(Kirschner, Sweller & Clark, 2006). Retrieval: the rates and unit prices from earlier
+lessons — "4 coins per cup" is a rate, and the variable turns it into a reusable recipe.
 
 ## Procedure
 

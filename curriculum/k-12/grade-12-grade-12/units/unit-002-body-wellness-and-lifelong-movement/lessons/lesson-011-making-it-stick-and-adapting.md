@@ -111,23 +111,35 @@ for what happens when it breaks.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **skill plus
-value**: a habit is a cue–routine–reward loop, and a **setback plan** is what makes a
-habit durable — the restart, not the perfect streak, is the skill. Movement is one part
-of a healthy routine that also includes sleep (about 8–10 hours for teenagers, AASM,
-S-050), and adolescence is a formative time for building habits that persist (WHO,
-S-311). Teach the loop explicitly (worked example first: Kirschner, Sweller & Clark,
-S-011). No shame about broken streaks — the lesson itself treats a setback as
-information, never a verdict.
+**Tone.** Warm about setbacks: the restart is the skill, not the streak.
 
-The **ethics** lens: a promise you restart after breaking is stronger than a promise you
-never break, because it is honest about being human. The **egalitarianism** lens: not
-everyone's day has room for a gym — the loop should be built on cues and rewards that
-fit real, crowded, low-resource lives. The **global** lens: habits are anchored to the
-specific textures of a life (a market day, a harvest, a commute, a call to prayer), so
-no single cue is universal. The **critical-thinking** lens: "I'm not a person who
-exercises" is a claim about identity, not a fact — check it against one small restart.
-The **technology** lens: habit apps and phone reminders are today's most common cue-and-reward scaffolds, and they can help — but a durable loop should also anchor to a real-world cue (a door, a tree, a time of day) so the habit survives a lost phone or a dead battery. Preview: Lesson 12 pivots from the plan to the *places* that help or block movement.
+**The facts to land.**
+
+1. A habit is a cue–routine–reward loop, and a **setback plan** is what makes it
+   durable: the restart, not the perfect streak, is what lasts.
+2. Movement sits inside a routine that also includes sleep — about 8–10 hours for
+   teenagers (AASM, S-050) — and adolescence forms habits that persist (WHO, S-311).
+3. Teach the loop explicitly — worked example first (Kirschner, Sweller & Clark, S-011).
+
+**Don't overshoot.** No shame about broken streaks; a setback is information, never a
+verdict.
+
+**The lenses, briefly.**
+
+- *Ethics:* a promise you restart is stronger than one you never break; it is honest
+  about being human.
+- *Egalitarianism:* not everyone's day has room for a gym; build the loop on cues that
+  fit crowded, low-resource lives.
+- *Global:* habits anchor to the textures of a life — a market day, a harvest, a
+  commute, a call to prayer — so no single cue is universal.
+- *Critical-thinking:* "I'm not a person who exercises" is a claim about identity, not a
+  fact; test it against one small restart.
+- *Technology:* reminders help, but anchor the loop to a real-world cue — a door, a
+  tree, a time of day — so it survives a dead battery.
+
+**The skill.** Model the loop once, then release (S-011): write your cue, routine,
+reward, and the sentence you will say when you restart. Lesson 12 turns to the places
+that help or block movement.
 
 ## Procedure
 

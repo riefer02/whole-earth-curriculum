@@ -114,18 +114,19 @@ Today you evaluate your own plan that way.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a plan is not finished when it is
-written — it must be evaluated for intended effects, second-order effects, and unintended ripples,
-then revised.** Teach the ripple-tracing with a worked example, then guided practice (S-011). The
-**critical-thinking** lens is the spine: ask "and then what?" repeatedly, and ask how we would *know*
-the plan worked (what would we measure?). The **egalitarian** lens: a plan's ripples are not felt
-equally — trace who bears each one, especially the unintended harms. The **ethics** lens: an
-unintended harm is still a harm, and a fair planner responds to it rather than ignoring it. The
-**global** lens: effects cross scales — a local plan can ripple into a regional or global system, and
-vice versa. Keep the evaluation honest but not paralyzing: the point is not to find the perfect plan
-(philosophy §11) but to see its real shape and improve it. Distinguish what we can *predict* from
-what we can only *watch for* (philosophy §5). Preview: next we turn to the ethics of civic technology
-and digital citizenship.
+The idea to land: **a plan is not finished when it is written — it must be evaluated for
+intended effects, second-order effects, and unintended ripples, then revised.** Teach
+the ripple-tracing with a worked example, then guided practice (S-011). The
+**critical-thinking** lens is the spine: ask "and then what?" repeatedly, and ask how we
+would *know* the plan worked (what would we measure?). The **egalitarian** lens: a
+plan's ripples are not felt equally — trace who bears each one, especially the
+unintended harms. The **ethics** lens: an unintended harm is still a harm, and a fair
+planner responds to it rather than ignoring it. The **global** lens: effects cross
+scales — a local plan can ripple into a regional or global system, and vice versa. Keep
+the evaluation honest but not paralyzing: the point is not to find the perfect plan
+(philosophy §11) but to see its real shape and improve it. Distinguish what we can
+*predict* from what we can only *watch for* (philosophy §5). Preview: next we turn to
+the ethics of civic technology and digital citizenship.
 
 ## Procedure
 

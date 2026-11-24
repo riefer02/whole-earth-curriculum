@@ -96,14 +96,13 @@ looking, you see them all around you, and they begin to mean something.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Use writing from the learners' **real environment and home
-writing system** — if the community writes in Arabic, Devanagari, or Chinese
-characters, hunt for those marks, not the English alphabet. If learners are new to the
-community's script, honor both: their home marks and the ones around them are both
-welcome. Pointing and naming are the goals; reading full words is not expected. For a
-learner with low or no vision, adapt the hunt to touch — raised lettering on jars and
-boxes, or marks formed in clay or soil — so they can "find" and name marks by feel.
+Use writing from the learners' **real environment and home writing system** — if the
+community writes in Arabic, Devanagari, or Chinese characters, hunt for those marks, not
+the English alphabet. If learners are new to the community's script, honor both: their
+home marks and the ones around them are both welcome. Pointing and naming are the goals;
+reading full words is not expected. For a learner with low or no vision, adapt the hunt
+to touch — raised lettering on jars and boxes, or marks formed in clay or soil — so they
+can "find" and name marks by feel.
 
 ## Procedure
 

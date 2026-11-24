@@ -105,16 +105,15 @@ just learn to listen and notice: did this really happen, or is it made up?
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, tell the two stories
-with warmth and delight — pretend stories are a joy, not a trap. Keep the distinction
-soft: a true story is about something that really happened; a pretend story is made up.
-If a learner asks whether a favorite tale is "true," say gently: "It is a wonderful
-story — it is make-believe, and that is one reason we love it." No story, screen, or
-culture is being judged here; we are only practicing noticing. If a learner names a
-story their family holds as true — a sacred story or a tale of their people — honor it
-and do not call it make-believe; gently steer the practice back to clearly fictional
-examples like talking animals and magic. Noticing is the goal, never ranking what
-another family holds dear.
+As facilitator, tell the two stories with warmth and delight — pretend stories are a
+joy, not a trap. Keep the distinction soft: a true story is about something that really
+happened; a pretend story is made up. If a learner asks whether a favorite tale is
+"true," say gently: "It is a wonderful story — it is make-believe, and that is one
+reason we love it." No story, screen, or culture is being judged here; we are only
+practicing noticing. If a learner names a story their family holds as true — a sacred
+story or a tale of their people — honor it and do not call it make-believe; gently steer
+the practice back to clearly fictional examples like talking animals and magic. Noticing
+is the goal, never ranking what another family holds dear.
 
 ## Procedure
 

@@ -121,18 +121,37 @@ learn to care for it and move with it in ways that welcome every body around you
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) this unit has four
-quadrants — Sense & Respond, Unwind, Move with Purpose, and Play Fair — all meeting in one body;
-(2) we build on Grade 7, not start over; (3) wondering is the engine — learners begin by asking.**
-Retrieval practice here is deliberate (spaced recall of last year's ideas — Dunlosky et al. 2013,
-S-039); do not skip it. **This unit is about the body, so teach it with dignity: never comment on
-any learner's body, weight, or ability; never rank bodies or abilities; every body is "the right
-body" for this work.** The ethics lens: how we treat our own and others' bodies is a question of
-right and wrong. The egalitarian lens: ask early "who gets welcomed into movement and who gets
-left out" — it returns in Lesson 6. The global lens: bodies, games, and ways of caring for the
-body differ across peoples and places; keep the frame broad, never one region's default. The
-technology & environment lens: screens, devices, and the places we can safely move all shape the
-body — this returns across the unit. Hold every wonder as valid; the goal is the asking.
+**Tone.** Curious and welcoming — wondering is the engine, not a warm-up.
+
+**The facts to land.**
+
+1. The unit has four quadrants — Sense & Respond, Unwind, Move with Purpose, Play Fair —
+   all meeting in one body.
+2. We build on Grade 7, not start over.
+3. Learners begin by asking; every wonder is valid.
+
+**Don't overshoot.** Do not present the quadrants as separate subjects, or the preview
+as content to master today.
+
+**The lenses, briefly.**
+
+- *Ethics:* how we treat our own and others' bodies is a question of right and wrong.
+- *Egalitarianism:* ask early "who gets welcomed into movement and who gets left out" — it
+  returns in Lesson 6.
+- *Global:* bodies, games, and ways of caring for the body differ across peoples and
+  places; keep the frame broad, never one region's default.
+- *Technology & environment:* screens, devices, and the places we can safely move all
+  shape the body — this returns across the unit.
+- *Social-emotional:* the body is where feelings and safety are felt first.
+- *Physical:* movement is the thread joining sensing, unwinding, and play.
+- *Critical-thinking:* a good question is the start of evidence, not a detour from it.
+
+**The skill.** Spaced recall of last year's ideas from memory (Dunlosky et al. 2013,
+S-039); do not skip it.
+
+**Safety floor.** Teach the body with dignity: never comment on a learner's body,
+weight, or ability, never rank bodies, and treat every body as "the right body" for this
+work.
 
 ## Procedure
 

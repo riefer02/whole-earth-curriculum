@@ -122,28 +122,28 @@ information before you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **arguing for
-fairer access is a skill with a shape — claim, evidence, proposal — and the proposal
-moves one of three levers: policy, price, or public infrastructure.** The evidence
-that inequality is structural (not a measure of worth) is well documented (World
-Bank, S-234; UNDP, S-283; World Inequality Report, S-464). A useful concept to offer:
-Johan Galtung's *structural violence* — harm that comes not from a person's blow but
-from the way systems are arranged (S-462). This is not a claim that any one policy is
-correct; it is a name for why harms persist without a single villain.
+The idea to land: **arguing for fairer access is a skill with a shape — claim, evidence,
+proposal — and the proposal moves one of three levers: policy, price, or public
+infrastructure.** The evidence that inequality is structural (not a measure of worth) is
+well documented (World Bank, S-234; UNDP, S-283; World Inequality Report, S-464). A
+useful concept to offer: Johan Galtung's *structural violence* — harm that comes not
+from a person's blow but from the way systems are arranged (S-462). This is not a claim
+that any one policy is correct; it is a name for why harms persist without a single
+villain.
 
 Two things to hold with care. First, distinguish the *value* commitment — that fairer
-access matters — from the *factual* claim — that access is uneven, which the data
-show. Second, keep "who pays?" as a real question, not a dismissal: every proposal
-has a cost, and a mature argument says who bears it and why that is fair. Guard
-against slogan (empty) and against nihilism (paralyzing); the skill is a concrete
-proposal with a cost named.
+access matters — from the *factual* claim — that access is uneven, which the data show.
+Second, keep "who pays?" as a real question, not a dismissal: every proposal has a cost,
+and a mature argument says who bears it and why that is fair. Guard against slogan
+(empty) and against nihilism (paralyzing); the skill is a concrete proposal with a cost
+named.
 
-The **ethics** lens: an argument for fairness is a claim about what we owe each
-other. The **egalitarianism** lens is core: fairer access is the direct answer to
-uneven distribution. The **global** lens: the same proposal lands differently in
-different places. The **technology** lens: the design of a technology shapes what
-"access" even means. The **critical-thinking** lens: distinguishing evidence from
-value, and testing a proposal against its costs.
+The **ethics** lens: an argument for fairness is a claim about what we owe each other.
+The **egalitarianism** lens is core: fairer access is the direct answer to uneven
+distribution. The **global** lens: the same proposal lands differently in different
+places. The **technology** lens: the design of a technology shapes what "access" even
+means. The **critical-thinking** lens: distinguishing evidence from value, and testing a
+proposal against its costs.
 
 ## Procedure
 

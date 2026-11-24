@@ -114,26 +114,27 @@ a feeling — it is a set of specific, checkable practices anyone can propose.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a more just science is
-not an abstraction — it is named practices (open sharing, replication, consent,
-participation, data sovereignty) that can be proposed, tried, and checked.** Teach the
-proposal structure explicitly, then let learners write (S-011). Keep the distinction live:
-each lever is *factually* documented as a real practice (peer review and replication make
-knowledge more trustworthy, S-489; exclusion is historically documented, S-357, S-484);
-that these practices are *better* is a value commitment we state openly.
+The idea to land: **a more just science is not an abstraction — it is named practices
+(open sharing, replication, consent, participation, data sovereignty) that can be
+proposed, tried, and checked.** Teach the proposal structure explicitly, then let
+learners write (S-011). Keep the distinction live: each lever is *factually* documented
+as a real practice (peer review and replication make knowledge more trustworthy, S-489;
+exclusion is historically documented, S-357, S-484); that these practices are *better*
+is a value commitment we state openly.
 
-The **ethics** lens: the proposal is ethics made operational — consent, participation, and
-shared benefit written as steps, not slogans. The **egalitarianism** lens: the question
-"who is newly included?" is the egalitarian test of any reform — if the same people still
-hold the pen, nothing has moved. The **global** lens: data sovereignty and community-based
-research are movements with roots in Indigenous and formerly excluded communities
-worldwide, asserting that a community's knowledge and data are theirs to govern (S-427,
-S-085); the levers are not one nation's property. The **technology** lens: open science is
-made possible — and contested — by technology; open publication and open data are tools,
-but so is the digital divide that can keep them closed to the least resourced (S-281,
-S-489). The **environment** lens: a more just science of the environment is one where the
-people living with a river or a forest help set the questions, not merely answer them
-(S-483). Preview: Lesson 5 leaves the ethics of inquiry and enters coupled living systems.
+The **ethics** lens: the proposal is ethics made operational — consent, participation,
+and shared benefit written as steps, not slogans. The **egalitarianism** lens: the
+question "who is newly included?" is the egalitarian test of any reform — if the same
+people still hold the pen, nothing has moved. The **global** lens: data sovereignty and
+community-based research are movements with roots in Indigenous and formerly excluded
+communities worldwide, asserting that a community's knowledge and data are theirs to
+govern (S-427, S-085); the levers are not one nation's property. The **technology**
+lens: open science is made possible — and contested — by technology; open publication
+and open data are tools, but so is the digital divide that can keep them closed to the
+least resourced (S-281, S-489). The **environment** lens: a more just science of the
+environment is one where the people living with a river or a forest help set the
+questions, not merely answer them (S-483). Preview: Lesson 5 leaves the ethics of
+inquiry and enters coupled living systems.
 
 ## Procedure
 
@@ -196,3 +197,5 @@ as one sentence and one adjustment to your change.
   AIATSIS (S-085).
 - On the digital divide in who can participate: World Bank — Digital Dividends (S-281); on
   environmental justice: EPA (S-483).
+- Encyclopaedia Britannica — Ignaz Semmelweis (handwashing and childbed fever) (S-357).
+- Bullard (1990) — Dumping in Dixie: Race, Class, and Environmental Quality (S-484).

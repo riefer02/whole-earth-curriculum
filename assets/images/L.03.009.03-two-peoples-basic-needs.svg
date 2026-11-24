@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Two Peoples, Two Ways to Meet Needs</text>
-  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#4f6d7a">The same needs — food, shelter, clothing — answered by the place.</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The same needs — food, shelter, clothing — answered by the place.</text>
 
   <!-- left: Arctic -->
   <rect x="30" y="92" width="218" height="330" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>

@@ -117,16 +117,16 @@ step to using it well is seeing it clearly.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Hold it **without fear-mongering**: social
-media is not all bad, and the goal is *awareness and choice*, not guilt. The facts to
-land: social media can support connection, learning, and creativity, and it can also be
-linked to comparison, disrupted sleep, and negative feelings when use is heavy or
-mindless — the WHO notes that adolescence is a critical time for mental health and that
-digital habits can shape it (WHO adolescent mental health; UNESCO media and information
-literacy). The values held *as values*: a learner is not bad for using social media, and
-"balance" is a choice to be made, not a grade to earn. Keep all reflection private and
-invite-not-require disclosure; watch for distress and connect anyone who shares that they
-are struggling to a trusted adult in private. See `docs/facilitation.md`.
+Hold it **without fear-mongering**: social media is not all bad, and the goal is
+*awareness and choice*, not guilt. The facts to land: social media can support
+connection, learning, and creativity, and it can also be linked to comparison, disrupted
+sleep, and negative feelings when use is heavy or mindless — the WHO notes that
+adolescence is a critical time for mental health and that digital habits can shape it
+(WHO adolescent mental health; UNESCO media and information literacy). The values held
+*as values*: a learner is not bad for using social media, and "balance" is a choice to
+be made, not a grade to earn. Keep all reflection private and invite-not-require
+disclosure; watch for distress and connect anyone who shares that they are struggling to
+a trusted adult in private. See `docs/facilitation.md`.
 
 ## Procedure
 

@@ -112,19 +112,33 @@ truly matters.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Make the action real, not symbolic —
-learners should actually turn off a tap, reuse a bag, or flip a paper over. Keep the
-tone hopeful, never shaming: wasting less is about care and agency, not guilt, and no
-act is too small. This is especially true where water is scarce — in such places,
-"wasting less water" may be the single most important act, and it is just as real as
-any other; adapt the examples to the learners' own lives (a precious jug of water used
-carefully, a basket reused for years, a field watered only as much as needed). Never
-frame any family as wasteful; honor the care people already show. For a learner with
-motor differences, the choosing and the saying are the act — they may direct a
-partner's hands to turn off the tap while saying why it helps; adapt the tool (a
-long-handled tap, a light basket). A learner who is blind or has low vision can feel
-the tap turned, hear the water stop, and hold the reused bag. A non-speaking learner
-can point to the action and to a picture for "saves" to show why it helps.
+**Tone.** Hopeful and unshaming. Wasting less is about care and agency, not guilt.
+
+**The facts to land.**
+
+1. Make the action real, not symbolic: turn off a tap, reuse a bag, flip a paper over.
+2. No act is too small.
+3. Where water is scarce, wasting less water may be the single most important act, and
+   it is just as real as any other.
+4. Adapt examples to the learners' own lives — a precious jug used carefully, a basket
+   reused for years, a field watered only as much as it needs.
+
+**Don't overshoot.** Never frame any family as wasteful, and never let the lesson slide
+into shame. Honour the care people already show.
+
+**The lenses, briefly.**
+
+- *Environment:* less taken is less disturbed.
+- *Ethics:* care is shown in habit, not in a single grand gesture.
+- *Egalitarianism:* a learner who directs the action has done it just as fully.
+- *Global:* water is abundant in some places and precious in others; both are real.
+
+**The skill.** Do one real act of wasting less, then say why it helps.
+
+**Access.** Motor difference: direct a partner's hands to turn off the tap while saying
+why it helps — adapt the tool too (a long-handled tap, a light basket). Blind or
+low-vision: feel the tap turned, hear the water stop, and hold the reused bag.
+Non-speaking: point to the action and to a picture for "saves."
 
 ## Procedure
 

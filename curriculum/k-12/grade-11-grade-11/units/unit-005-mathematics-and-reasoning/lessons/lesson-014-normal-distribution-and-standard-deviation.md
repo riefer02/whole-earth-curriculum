@@ -114,27 +114,25 @@ one standard deviation of the mean" is just a precise way of saying "the usual r
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **the standard
-deviation measures typical distance from the mean; in a normal distribution about 68%
-of values fall within 1 SD, 95% within 2, and 99.7% within 3; a z-score is how many
-SDs a value is from the mean, and values beyond ±3 SDs are often flagged as
-outliers.** Teach the *compute → place → flag* loop explicitly, with worked examples
-and guided practice (S-011).
+The ideas to land: **the standard deviation measures typical distance from the mean; in
+a normal distribution about 68% of values fall within 1 SD, 95% within 2, and 99.7%
+within 3; a z-score is how many SDs a value is from the mean, and values beyond ±3 SDs
+are often flagged as outliers.** Teach the *compute → place → flag* loop explicitly,
+with worked examples and guided practice (S-011).
 
 The **intellectual** lens: two numbers (mean, SD) compress a whole data set into a
-readable shape. The **ethics** lens: the bell curve was once misused to rank people
-and call some "normal" and others not — Quetelet's "average man" became a tool for
-judging individuals (S-429); we teach the tool and reject that misuse. W. E. B. Du
-Bois answered that misuse with data of his own: his 1900 *Data Portraits* used
-statistics and color to show the full humanity and progress of Black America, turning
-numbers from a ranking into a tool for justice (S-432). The **egalitarianism** lens:
-data describes a *distribution*, never a person's worth — there is no "normal
-person," and an outlier is information, not a verdict. The
-**critical-thinking** lens: learners ask what the spread means before trusting an
-average, and check whether a value is truly unusual or just expected variability.
-Distinguish the mathematics (the curve) from the value (that no person is a
-deviation from a norm). Preview: Lessons 15–16 design and critique surveys and
-experiments.
+readable shape. The **ethics** lens: the bell curve was once misused to rank people and
+call some "normal" and others not — Quetelet's "average man" became a tool for judging
+individuals (S-429); we teach the tool and reject that misuse. W. E. B. Du Bois answered
+that misuse with data of his own: his 1900 *Data Portraits* used statistics and color to
+show the full humanity and progress of Black America, turning numbers from a ranking
+into a tool for justice (S-432). The **egalitarianism** lens: data describes a
+*distribution*, never a person's worth — there is no "normal person," and an outlier is
+information, not a verdict. The **critical-thinking** lens: learners ask what the spread
+means before trusting an average, and check whether a value is truly unusual or just
+expected variability. Distinguish the mathematics (the curve) from the value (that no
+person is a deviation from a norm). Preview: Lessons 15–16 design and critique surveys
+and experiments.
 
 ## Procedure
 

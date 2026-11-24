@@ -114,24 +114,38 @@ choose units and precision so your numbers tell the truth about what you actuall
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **precision is how fine your
-measuring tool's markings are; accuracy is how close your result is to the true value; the last
-digit you report is the one you are sure about, and you choose units and precision to match what the
-situation needs.** Use a **worked example first** (S-011): the same distance reported as "2 m"
-(one significant figure, fine for ordering a rope), "1.8 m" (two, fine for fitting a desk), and
-"1.83 m" (three, fine for a precise cut). The critical-thinking lens: a number's digits are a claim
-about measurement, and we should read them that way. The ethics lens: over-precision is dishonesty
-in disguise — a calculator that prints eight digits is not "more accurate," it is just echoing noise;
-choosing honest precision is an act of truthfulness (philosophy §5). The global lens: the metric
-system, built on shared base units, is used nearly everywhere because its conversions are powers of
-ten, while people have long used many other honest systems — the cubit, the pace, the *li*, the
-mile — each matched to its tasks (S-429). The egalitarian lens: honest measurement belongs to
-everyone and needs no special equipment; a hand span or a pace is a real unit. For a learner who
-cannot see the ruler markings, use a tactile measure instead — a rope with knots, a notched or
-Braille ruler, or a partner who reads the markings aloud — and let pace-counting or hand spans carry
-the same lesson; the idea (match your digits to what you actually know) is fully non-visual. The technology lens:
-digital tools over-report digits, so the human's job is to decide what is meaningful, not to copy
-the screen.
+**Tone.** Matter-of-fact — a number is a claim, and we are learning to make it honest.
+
+**The facts to land.**
+
+1. **Precision** is how fine your measuring tool's markings are; **accuracy** is how
+close your result is to the true value.
+2. **Report only the last digit you are sure about,** and choose units and precision to
+match the situation.
+3. **Worked example:** one distance as "2 m" (one significant figure, fine for ordering
+rope), "1.8 m" (two, fine for fitting a desk), "1.83 m" (three, fine for a precise cut).
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* a number's digits are a claim about measurement, and should be
+read that way.
+- *Ethics:* over-precision is dishonesty in disguise — a calculator printing eight
+digits is not "more accurate," it is echoing noise; choosing honest precision is
+truthfulness (philosophy §5).
+- *Global:* the metric system is used nearly everywhere because conversions are powers
+of ten, while people have long used other honest systems — the cubit, the pace, the
+*li*, the mile (S-429).
+- *Egalitarianism:* honest measurement needs no special equipment; a hand span or a pace
+is a real unit.
+- *Technology:* digital tools over-report digits, so the human decides what is
+meaningful rather than copying the screen.
+
+**The skill.** **Worked example first** (S-011): match the digits to what you actually
+know.
+
+**Access.** For a learner who cannot see ruler markings, use a rope with knots, a
+notched or Braille ruler, or a partner reading aloud; pace-counting and hand spans carry
+the same lesson, which is fully non-visual.
 
 ## Procedure
 

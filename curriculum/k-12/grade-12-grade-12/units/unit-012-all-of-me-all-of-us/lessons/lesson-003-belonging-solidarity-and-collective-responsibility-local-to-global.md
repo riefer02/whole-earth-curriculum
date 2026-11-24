@@ -132,32 +132,37 @@ become into one whole and hand it to the world.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **belonging, solidarity, and
-collective responsibility are three different pulls, and acting for the common good means
-weighing them — then turning the decision into one real act that connects here to everywhere,
-and to the Earth.** This is the year's final lesson: a celebration and a handoff, not new
-content. Model once, then let each learner weigh and trace their own (S-011); the gathering
-is retrieval across the whole year, the spacing payoff in full (Dunlosky et al., S-039).
+**Tone.** Joyful: a closing circle, not a final exam.
 
-The **ethics** lens: weighing what holds me, what holds us, and what we owe is the year's
-moral core, now completed. The **egalitarianism** lens: solidarity is shared deciding, not a
-one-way gift — the lesson distinguishes mutual aid from charity, where people meet one
-another's needs as equals (Spade, S-345), and names mutual aid as a documented, widespread
-human practice (Kropotkin, S-163), held here as description, not as a claim that helping is
-good. The **global** lens: the lesson honors the world's named traditions of pulling together
-— harambee, gotong royong, mink'a/minga, barn-raising (S-164) — as living ways communities
-already connect local action to a shared life, never as specimens. The **technology** lens:
-tools can carry solidarity across distance or narrow it into an echo; the chain's "global"
-link can travel by hand, by letter, by screen — the learner chooses the carrier and names its
-limit. The **environment** lens: the outermost ring is the living Earth, not a backdrop — the
-ethic of reciprocity with the more-than-human world (Kimmerer, S-427) and the idea that a
-life's work can return to the land rather than only take from it (circular economy, S-452)
-close the year where flourishing is mutual.
+**The facts to land.**
 
-**Safeguarding:** this is a celebration, not a competition. Every learner's act — grand,
-modest, or still being found — is honored; no one is required to name a family, a cause, or a
-trauma, and a learner may share only the part they choose. The closing circle holds each
-whole person with joy and dignity.
+1. Belonging, solidarity, and collective responsibility are three different pulls;
+   acting for the common good means weighing them, then turning the decision into one
+   real act that connects here to everywhere, and to the Earth.
+2. Solidarity is shared deciding, not a one-way gift: mutual aid is people meeting needs
+   as equals (Spade, S-345), a widespread human practice (Kropotkin, S-163), held as
+   description than a claim that helping is good.
+3. Named traditions of pulling together — harambee, gotong royong, mink'a, barn-raising
+   (S-164) — are living ways communities connect local action to a shared life.
+
+**Don't overshoot.** Do not rank causes or commitments; modest and still-forming acts
+are honoured equally.
+
+**The lenses, briefly.**
+
+- *Ethics:* weighing what holds me, what holds us, and what we owe is the year's moral
+  core.
+- *Egalitarianism:* solidarity is shared deciding, not charity.
+- *Global:* local action and global solidarity are one chain, and its traditions are
+  alive now.
+- *Technology:* tools can carry solidarity across distance or narrow it into an echo;
+  the learner chooses the carrier and names its limit.
+- *Environment:* the outermost ring is the living Earth — reciprocity with the
+  more-than-human world (Kimmerer, S-427), and work that returns to the land (S-452).
+
+**Safety floor.** This is a celebration, not a competition. Every act — grand, modest,
+or still being found — is honoured; no one must name a family, a cause, or a trauma, and
+a learner may share only the part they choose.
 
 ## Procedure
 

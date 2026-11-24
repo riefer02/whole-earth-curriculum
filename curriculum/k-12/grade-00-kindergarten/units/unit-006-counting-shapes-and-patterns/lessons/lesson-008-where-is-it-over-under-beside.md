@@ -103,21 +103,32 @@ it, and find your own way in the world.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Position words are spatial reasoning
-made speakable, and young children learn them best by *doing* — putting a body or an
-object in the position and saying the word at the same time. Teach each word with a
-clear, repeated action (hand **over** head, hand **under** the table, hand **beside** a
-friend) so the word and the place stick together. Model with your own body first, then
-invite learners to do it. Notice that position words are relative — "beside me" is
-different from "beside you" — and let learners discover this by standing in different
-places. This relativity is the same in every language and culture, so the concept is
-global even when the words differ. Learners who are blind or low-vision can feel the
-positions (a hand on a hand that is over, under, beside); learners who are deaf or hard
-of hearing can act out and sign each position. Learners with limited movement describe
-positions by voice or sign — telling a partner where to place an object, or choosing a
-position with eye-gaze or a mouth stick — instead of moving it themselves. Keep it
-playful and never quiz-like; naming where things are is a skill that grows with lots of
-joyful practice.
+**Tone.** Playful and physical. Say the word as the body does it.
+
+**The facts to land.**
+1. Position words — **over**, **under**, **beside** — are spatial reasoning made
+   speakable.
+2. The word and the place stick together when said and done at the same moment.
+3. Positions are **relative**: "beside me" is not "beside you."
+
+**Don't overshoot.** This is not a quiz. Keep it playful; naming where things are grows
+with joyful practice.
+
+**The lenses, briefly.**
+- *Ethics:* a learner still finding the word has not failed.
+- *Egalitarianism:* every learner moves, speaks, signs, or points their way into the
+  words.
+- *Global:* the relativity of position is the same in every language and culture, even
+  where the words differ.
+- *Physical:* the body is the teaching material — hand **over** head, hand **under** the
+  table, hand **beside** a friend.
+
+**The skill.** Put a body or an object in a position and say the word at the same time.
+
+**Access.** Blind or low-vision: feel the positions — a hand on a hand that is over,
+under, or beside. Deaf or hard of hearing: act out and sign each position. Limited
+movement: describe positions by voice or sign, telling a partner where to place an
+object, or choose a position by eye-gaze or mouth stick.
 
 ## Procedure
 

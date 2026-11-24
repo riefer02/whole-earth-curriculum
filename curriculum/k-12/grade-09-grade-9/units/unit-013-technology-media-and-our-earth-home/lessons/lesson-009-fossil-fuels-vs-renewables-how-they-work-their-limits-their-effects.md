@@ -113,23 +113,35 @@ costs someone must pay. Comparing them honestly is the first step toward choosin
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The comparison to land, in three rows: **(1)
-How it works —** fossil fuels (coal, oil, natural gas) are ancient buried plant and animal
-matter, burned to release stored chemical energy; renewables (solar, wind, hydro,
-geothermal) capture energy that is naturally and continuously replenished. **(2) Limits —**
-fossil fuels are finite (made over millions of years) and unevenly distributed; renewables
-are "flow-limited" and often **intermittent** (the sun sets, the wind stops), so they need
-storage or backup. **(3) Effects —** burning fossil fuels emits carbon dioxide (the
-greenhouse effect) and local pollutants that harm health; renewables emit far less in
-operation but have their own effects (land use, materials, mining for minerals) (S-095;
-S-438; S-219). Hold the honest, non-dogmatic frame: **this is a comparison of trade-offs,
-not a morality play** — people's energy choices are shaped by cost, geography, and history.
-The **environment** and **technology** lenses are central. The **egalitarian** lens: who
-bears each source's costs — the pollution and extraction usually land on the poorest and
-least powerful, a bridge to Lesson 10. The **ethics** lens: choosing energy is choosing who
-and what to protect. The **global** lens: energy mixes differ wildly by country; no single
-answer fits everyone. The **critical-thinking** lens: require learners to *state a limit*
-for every source they praise — the mark of honest comparison.
+**Tone.** Even-handed — a comparison of trade-offs, not a morality play.
+
+**The facts to land.**
+
+1. **How it works:** fossil fuels (coal, oil, natural gas) are ancient buried plant and
+animal matter, burned to release stored chemical energy; renewables (solar, wind, hydro,
+geothermal) capture energy that is naturally and continuously replenished. 2.
+**Limits:** fossil fuels are finite (made over millions of years) and unevenly
+distributed; renewables are "flow-limited" and often **intermittent** — the sun sets,
+the wind stops — so they need storage or backup. 3. **Effects:** burning fossil fuels
+emits carbon dioxide and local pollutants that harm health; renewables emit far less in
+operation but have their own effects — land use, materials, mining for minerals (S-095;
+S-438; S-219).
+
+**The lenses, briefly.**
+
+- *Environment:* every source has an effect on land, air, and water.
+- *Technology:* every source is an engineering choice with limits.
+- *Egalitarianism:* who bears each source's costs — pollution and extraction usually
+land on the poorest and least powerful (a bridge to Lesson 10).
+- *Ethics:* choosing energy is choosing who and what to protect.
+- *Global:* energy mixes differ wildly by country; no single answer fits everyone.
+- *Critical-thinking:* state a limit for every source you praise — the mark of honest
+comparison.
+
+**The skill.** Fill the three rows for each source, then defend one choice with its
+costs named.
+
+**Care.** People's energy choices are shaped by cost, geography, and history — say so.
 
 ## Procedure
 

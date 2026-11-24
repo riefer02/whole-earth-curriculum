@@ -43,17 +43,25 @@
 
   <!-- Card 3: BODY -->
   <g>
-    <circle cx="421" cy="182" r="15" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M412 176 A15 15 0 0 1 430 176 Z" fill="#2b3a42"/>
-    <rect x="410" y="199" width="22" height="38" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <line x1="410" y1="204" x2="398" y2="236" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
-    <line x1="432" y1="204" x2="444" y2="236" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
-    <circle cx="397" cy="239" r="4" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="445" cy="239" r="4" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
-    <line x1="415" y1="237" x2="412" y2="266" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
-    <line x1="427" y1="237" x2="430" y2="266" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
-    <ellipse cx="410" cy="270" rx="7" ry="4" fill="#2b3a42"/>
-    <ellipse cx="432" cy="270" rx="7" ry="4" fill="#2b3a42"/>
+    <!-- limbs with weight, drawn behind the body -->
+    <path d="M404 206 L397 244" stroke="#c99567" stroke-width="9" stroke-linecap="round" fill="none"/>
+    <path d="M438 206 L445 244" stroke="#c99567" stroke-width="9" stroke-linecap="round" fill="none"/>
+    <path d="M413 252 L411 280" stroke="#2b3a42" stroke-width="10" stroke-linecap="round" fill="none"/>
+    <path d="M429 252 L431 280" stroke="#2b3a42" stroke-width="10" stroke-linecap="round" fill="none"/>
+    <ellipse cx="409" cy="286" rx="8" ry="4.5" fill="#2b3a42"/>
+    <ellipse cx="433" cy="286" rx="8" ry="4.5" fill="#2b3a42"/>
+    <circle cx="396" cy="248" r="5.5" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="446" cy="248" r="5.5" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <!-- torso with sloping, drooping shoulders -->
+    <path d="M404 200 Q404 190 413 190 L429 190 Q438 190 438 200 L441 244 Q441 256 429 256 L413 256 Q401 256 401 244 Z"
+          fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- neck and head -->
+    <rect x="416" y="178" width="10" height="14" fill="#c99567"/>
+    <circle cx="421" cy="166" r="19" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M402 166 A19 19 0 0 1 440 166 Q421 152 402 166 Z" fill="#2b3a42"/>
+    <circle cx="414" cy="168" r="2.4" fill="#2b3a42"/>
+    <circle cx="428" cy="168" r="2.4" fill="#2b3a42"/>
+    <path d="M415 178 Q421 182 427 178" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <text x="421" y="304" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">shoulders &#183; hands &#183; feet</text>
   </g>
 

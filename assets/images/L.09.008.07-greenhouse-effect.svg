@@ -39,10 +39,10 @@
   <path d="M214 168 Q206 196 226 218 Q240 234 236 262" fill="none" stroke="#e0a458" stroke-width="2.5" stroke-dasharray="5 4"/>
   <polygon points="236,262 230,252 240,252" fill="#e0a458"/>
 
-  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="13.1" fill="#222222">Sunlight passes through; heat is partly held back and sent down again.</text>
+  <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Sunlight passes through; heat is partly held back and sent down again.</text>
 
   <rect x="60" y="366" width="392" height="112" rx="8" fill="#ffffff" stroke="#4f6d7a" stroke-width="1.5"/>
-  <text x="76" y="390" font-family="sans-serif" font-size="13.1" font-weight="bold" fill="#222222">More greenhouse gases = more heat trapped = a warmer planet.</text>
+  <text x="76" y="390" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">More greenhouse gases = more heat trapped = a warmer planet.</text>
   <text x="76" y="414" font-family="sans-serif" font-size="13" fill="#4f6d7a">Burning fossil fuels adds carbon dioxide and methane.</text>
   <text x="76" y="434" font-family="sans-serif" font-size="13" fill="#4f6d7a">The effect itself is natural and keeps Earth livable —</text>
   <text x="76" y="452" font-family="sans-serif" font-size="13" fill="#4f6d7a">the problem is how fast human activity has strengthened it.</text>

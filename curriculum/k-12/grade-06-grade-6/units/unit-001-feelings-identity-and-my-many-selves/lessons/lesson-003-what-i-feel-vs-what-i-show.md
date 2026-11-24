@@ -116,14 +116,14 @@ too — in a city, on a farm, or anywhere people are together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **the outside and
-the inside can differ, and both are real** — not that "hiding feelings is lying." Managing
-one's face is a normal, often kind and necessary skill in every culture. Normalize it
-without shame, and name that different families and cultures have different habits about
-how much feeling to show — none "correct." At the same time, gently flag the boundary a
-learner should know: managing a face for a good reason is different from *hiding something
-they need help with*. Invite only small, safe examples; never push a learner to reveal a
-hidden pain. See `docs/facilitation.md` and `docs/art-style.md`.
+The idea to land is that **the outside and the inside can differ, and both are real** —
+not that "hiding feelings is lying." Managing one's face is a normal, often kind and
+necessary skill in every culture. Normalize it without shame, and name that different
+families and cultures have different habits about how much feeling to show — none
+"correct." At the same time, gently flag the boundary a learner should know: managing a
+face for a good reason is different from *hiding something they need help with*. Invite
+only small, safe examples; never push a learner to reveal a hidden pain. See
+`docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure
 

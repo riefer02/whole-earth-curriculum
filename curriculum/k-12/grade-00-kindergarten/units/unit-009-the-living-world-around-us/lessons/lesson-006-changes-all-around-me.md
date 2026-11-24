@@ -96,11 +96,10 @@ right where you are, and you can find them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, keep the change hunt
-safe and gentle. Weather and growing food are natural tie-ins: farmers and gardeners
-everywhere watch the weather and the seasons to know when to plant and harvest —
-that is people and the natural world changing together. Keep the tone of wonder, not
-of worry.
+As facilitator, keep the change hunt safe and gentle. Weather and growing food are
+natural tie-ins: farmers and gardeners everywhere watch the weather and the seasons to
+know when to plant and harvest — that is people and the natural world changing together.
+Keep the tone of wonder, not of worry.
 
 ## Procedure
 

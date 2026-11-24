@@ -114,20 +114,33 @@ holding the door open. Today you learn to see which words open the door and whic
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) language can welcome or
-shut out — through jargon (words only insiders know), register (how formal or casual), in-group
-slang, and using one language over another in a mixed room; (2) exclusion is usually not meant,
-but it is real, and we can notice it; (3) the fix is not "never use technical words" but "make
-sure everyone can come in" — explain, translate, invite, and honor every language.** The ethics
-lens: whether we hold the door open is a question of right and wrong. The egalitarian lens is
-this lesson's heart: language is a gate, and an equal world keeps the gate open — 40 per cent of
-people globally cannot learn in a language they understand (S-019), which is why home language
-first matters. The global lens: many-language rooms are the normal human condition, not an
-exception. The community lens: a group that includes everyone in its words is a stronger group.
-The social-emotional lens: being shut out by words *hurts* — name that feeling gently, and do
-not ask anyone to relive it if they do not wish. Use scenarios that are real but not pointed at
-any one learner. Hold "everyone deserves to come in" as a value, distinct from the descriptive
-claim that language can exclude.
+**Tone.** Gentle and honest — exclusion is usually unintended, and still real.
+
+**The facts to land.**
+
+1. Language can welcome or shut out through jargon, register (formal or casual),
+   in-group slang, and using one language over another in a mixed room.
+2. Exclusion is usually not meant, but it is real, and we can notice it.
+3. The fix is not "never use technical words" but "make sure everyone can come in" —
+   explain, translate, invite, honor every language.
+
+**Don't overshoot.** Do not shame anyone for using technical language, or imply a single
+word choice decides who belongs.
+
+**The lenses, briefly.**
+
+- *Ethics:* whether we hold the door open is right or wrong.
+- *Egalitarianism:* language is a gate; 40 per cent of people globally cannot learn in a
+  language they understand (S-019), which is why home language first matters.
+- *Global:* many-language rooms are the normal human condition, not an exception.
+- *Community:* a group that includes everyone in its words is stronger.
+- *Social-emotional:* being shut out by words *hurts* — name that gently, and never ask
+  anyone to relive it.
+- *Critical-thinking:* "everyone deserves to come in" is a value, distinct from the
+  claim that language can exclude.
+
+**The skill.** Use scenarios that are real but not pointed at any one learner. Hold the
+value and the descriptive claim apart, and say which is which.
 
 ## Procedure
 

@@ -118,31 +118,35 @@ the rest of your life.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **technology is
-neither cooperation's savior nor its ruin — it can enable mutual aid (coordination,
-mobile money, open maps, crowdfunding) and undermine it (surveillance, misinformation,
-extractive platforms, algorithmic division), and which way it tips is a design and power
-choice, not an accident.** The enabling cases are well documented: mobile money grew where
-bank branches were scarce, letting people send, save, and pay by phone — M-Pesa, launched
-2007 in Kenya, is the canonical example (S-210, S-211); open maps and crisis coordination
-let strangers organize aid in real time. The undermining cases are equally documented:
-surveillance chills organizing, misinformation spreads faster than correction, and
-platform power can extract from the very people it claims to serve (S-481, S-281). Present
-both sides as *facts to weigh*, not a balanced "both sides" that dodges the question —
-some tools, in some hands, do more of one than the other.
+**Tone.** Unsentimental and level: the tool is not the answer, the design and the power
+behind it are.
 
-Model one enable and one undermine, then let learners work (worked example → guided
-practice → independent work; S-011). The **technology** lens is the spine: read the tool
-as a *designed* object — every feature was chosen by someone, for some purpose. The
-**ethics** lens: ask *who does this serve, and who does it watch or extract from?* The
-**egalitarian** lens is essential: cooperation tools are not equally available — the
-digital divide means the people who most need mutual aid may be the least connected (S-281),
-and the same platform that helps a diaspora send money home can charge the poorest the
-most. The **global** lens: the same app means different things in a rich city and a rural
-village, and in a democracy and under surveillance. The **critical-thinking** lens: for
-each claim about a tool's good, ask *for whom, and at what cost?* Preview: Lesson 12
-grounds this in concrete examples of cooperative economies and mutual-aid networks across
-the world.
+**The facts to land.**
+
+1. Technology is neither cooperation's saviour nor its ruin: it enables mutual aid
+   (coordination, mobile money, open maps, crowdfunding) and undermines it
+   (surveillance, misinformation, extractive platforms, algorithmic division).
+2. Mobile money grew where bank branches were scarce — M-Pesa, launched in 2007 in
+   Kenya, is the canonical case (S-210, S-211).
+3. Surveillance chills organising, misinformation outruns correction, and platform power
+   can extract from the people it claims to serve (S-481, S-281). Which way a tool tips
+   is a design and power choice, not an accident.
+
+**Don't overshoot.** Avoid a dodge of "both sides": some tools, in some hands, do more
+of one than the other, and learners should say which.
+
+**The lenses, briefly.**
+
+- *Technology:* every feature was chosen by someone, for some purpose.
+- *Ethics:* who does this serve, and who does it watch or extract from?
+- *Egalitarianism:* the digital divide means those who most need mutual aid may be least
+  connected, and the poorest can pay the most (S-281).
+- *Global:* the same app means different things in a rich city, a rural village, a
+  democracy, and under surveillance.
+- *Critical-thinking:* for each claim of good, ask for whom, and at what cost.
+
+**The skill.** Model one enable and one undermine, then release (S-011): weigh one
+platform's mutual-aid use against its cost. Lesson 12 gives concrete cooperative cases.
 
 ## Procedure
 

@@ -118,18 +118,18 @@ home teaches its own, and none is the measuring stick for the rest.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **no culture's way of showing
-feeling is the default or the measuring stick — norms are held side by side and never ranked.**
-This is the unit's egalitarian commitment made explicit: the *ethics* lens asks what happens
-when we forget it (we misread, exclude, and sometimes punish people whose ways differ), and
-the *egalitarianism* lens asks who gets to decide what counts as "normal" (usually the
-majority or the powerful). Extend honestly to **digital norms** — the *technology* lens: online
-spaces teach their own display rules (emoji, "lol," muted reactions, read receipts, "likes" as
-approval), and these differ across apps and communities, so a learner can now read a *digital*
-culture the way they read a face-to-face one. Model the "whose way is normal?" question as a
-worked example (Kirschner, Sweller & Clark, 2006). Distinguish **evidence from values**: that
-norms differ is a fact; that we must not rank them is a value this curriculum holds — name it
-as one. See `docs/facilitation.md`.
+The idea to land: **no culture's way of showing feeling is the default or the measuring
+stick — norms are held side by side and never ranked.** This is the unit's egalitarian
+commitment made explicit: the *ethics* lens asks what happens when we forget it (we
+misread, exclude, and sometimes punish people whose ways differ), and the
+*egalitarianism* lens asks who gets to decide what counts as "normal" (usually the
+majority or the powerful). Extend honestly to **digital norms** — the *technology* lens:
+online spaces teach their own display rules (emoji, "lol," muted reactions, read
+receipts, "likes" as approval), and these differ across apps and communities, so a
+learner can now read a *digital* culture the way they read a face-to-face one. Model the
+"whose way is normal?" question as a worked example (Kirschner, Sweller & Clark, 2006).
+Distinguish **evidence from values**: that norms differ is a fact; that we must not rank
+them is a value this curriculum holds — name it as one. See `docs/facilitation.md`.
 
 ## Procedure
 

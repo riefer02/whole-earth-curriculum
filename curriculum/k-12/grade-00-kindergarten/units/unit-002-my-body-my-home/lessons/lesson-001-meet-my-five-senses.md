@@ -105,11 +105,10 @@ sea, or a mountain. Your senses are how the world comes into you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, prepare the mystery items and guide the closing
-reflection. Describe each sense aloud as you go ("the eyes see — a bright color, a
-moving shadow") so learners who cannot see, hear, or use their hands can still join
-every step. Remind everyone: bodies sense in different ways, and that is wonderful.
+As facilitator, prepare the mystery items and guide the closing reflection. Describe
+each sense aloud as you go ("the eyes see — a bright color, a moving shadow") so
+learners who cannot see, hear, or use their hands can still join every step. Remind
+everyone: bodies sense in different ways, and that is wonderful.
 
 ## Procedure
 

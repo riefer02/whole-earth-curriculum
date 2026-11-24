@@ -121,22 +121,33 @@ tens is one hundred.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It builds directly on Grade 2, where
-learners bundled tens and ones to read two-digit numbers; today the bundle grows to the
-**hundred** — the key idea is that ten tens make one hundred, the same unitizing move
-as before, one step bigger (Clements & Sarama, 2014). Teach the one new skill as a
-**worked example** (philosophy §13): bundle ten, bundle ten tens into a hundred, then
-read hundreds, tens, and ones aloud before learners try it themselves. Keep it
-concrete: objects first, symbols last. **No one's speed at bundling measures their
-smartness, and a number is a fact about a collection, never a worth about a person.**
-The digits 0–9 we use today are one number system among many — they reached the wider
-world through Arabic-speaking scholars from India, while other peoples used tally
-marks, knots, and many other ways (Ifrah, 2000; Zaslavsky, 1999). Count in the home
-language; number words differ across languages and all are correct. For learners who
-are Deaf or hard of hearing, count in sign or by tapping each bundle; for learners who
-are blind or low-vision, move objects into cups so the number grows by feel and sound.
-Learners with limited hand or body movement direct a partner to move each object.
-Mastery arrives at its own pace for each child.
+**Tone.** Concrete and patient — bundle, then say, then write, never the other way
+round.
+
+**The facts to land.**
+1. Ten tens make one hundred — the same unitising move as Grade 2, one step bigger
+   (Clements & Sarama, 2014).
+2. Hundreds, tens, and ones are read in order, and each digit's place gives its value.
+3. The digits 0–9 are one number system among many: they reached the wider world
+   through Arabic-speaking scholars from India, while other peoples used tallies and
+   knots (Ifrah, 2000; Zaslavsky, 1999).
+
+**Don't overshoot.** The bundle of ten is not a rule to recite — it is what the hands
+see and feel when ten ones are gathered. Symbols come last.
+
+**The lenses, briefly.**
+- *Intellectual:* unitising is the day's idea.
+- *Egalitarianism:* no one's speed at bundling measures their smartness; a number
+  is a fact about a collection, never a worth about a person.
+- *Global:* number words differ and all are correct — count in the home language.
+- *Physical:* objects first, in the hands; the writing records what the hands did.
+
+**The skill.** Bundle ten, bundle ten tens, then read hundreds, tens, and ones aloud —
+a worked example first, then guided practice (philosophy §13).
+
+**Access:** count in sign or by tapping each bundle; move objects into cups so the
+number grows by feel and sound; a learner with limited movement directs a partner.
+Mastery arrives at its own pace.
 
 ## Procedure
 

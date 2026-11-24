@@ -117,21 +117,20 @@ have used for centuries.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **Law of Sines —
-a/sin A = b/sin B = c/sin C (use when you know an angle and its opposite side); Law
-of Cosines — c² = a² + b² − 2ab·cos C (use when you know two sides and the included
-angle, or three sides).** Teach the two decision rules explicitly — *which law fits
-what I know* — with worked examples and guided practice (S-011).
+The ideas to land: **Law of Sines — a/sin A = b/sin B = c/sin C (use when you know an
+angle and its opposite side); Law of Cosines — c² = a² + b² − 2ab·cos C (use when you
+know two sides and the included angle, or three sides).** Teach the two decision rules
+explicitly — *which law fits what I know* — with worked examples and guided practice
+(S-011).
 
-The **intellectual** lens: two laws generalize the Pythagorean theorem to every
-triangle (the Law of Cosines becomes the Pythagorean theorem when C = 90°). The
-**global** lens: triangle-solving grew across cultures — chord tables in Greek
-astronomy, sine tables in India, and the cosine law refined by scholars such as
-al-Kashi in the Islamic world (S-429, S-240). The **critical-thinking** lens: learners
-sketch every triangle first and check that the answer fits the picture, especially in
-the ambiguous SSA case. The **technology** lens: GPS, radar, and mapping all depend on
-the same triangle-solving, now done by machines. Preview: Lesson 13 turns to
-three-dimensional shapes.
+The **intellectual** lens: two laws generalize the Pythagorean theorem to every triangle
+(the Law of Cosines becomes the Pythagorean theorem when C = 90°). The **global** lens:
+triangle-solving grew across cultures — chord tables in Greek astronomy, sine tables in
+India, and the cosine law refined by scholars such as al-Kashi in the Islamic world
+(S-429, S-240). The **critical-thinking** lens: learners sketch every triangle first and
+check that the answer fits the picture, especially in the ambiguous SSA case. The
+**technology** lens: GPS, radar, and mapping all depend on the same triangle-solving,
+now done by machines. Preview: Lesson 13 turns to three-dimensional shapes.
 
 ## Procedure
 

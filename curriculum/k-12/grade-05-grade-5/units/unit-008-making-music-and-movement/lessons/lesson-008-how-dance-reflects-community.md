@@ -117,15 +117,15 @@ tradition with respect.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **non-ranking
-observation**: we cite what we *see* in the movement and connect it to place, history, or
-community — never to rank one tradition "better" or "more advanced." These are **living
-traditions**, performed today by living practitioners and communities; say this plainly.
-If a learner (or their family) belongs to a tradition discussed, invite them to be the
-authority on its meaning. Capoeira's history includes enslavement and resistance — present
-it with honesty at a depth grade 5 can hold, always connecting to the strength and
-creativity of the people who built it, never to despair. See `docs/facilitation.md` on
-holding difficult history safely and `docs/contexts.md` on cultural power dynamics.
+The idea to land is **non-ranking observation**: we cite what we *see* in the movement
+and connect it to place, history, or community — never to rank one tradition "better" or
+"more advanced." These are **living traditions**, performed today by living
+practitioners and communities; say this plainly. If a learner (or their family) belongs
+to a tradition discussed, invite them to be the authority on its meaning. Capoeira's
+history includes enslavement and resistance — present it with honesty at a depth grade 5
+can hold, always connecting to the strength and creativity of the people who built it,
+never to despair. See `docs/facilitation.md` on holding difficult history safely and
+`docs/contexts.md` on cultural power dynamics.
 
 ## Procedure
 

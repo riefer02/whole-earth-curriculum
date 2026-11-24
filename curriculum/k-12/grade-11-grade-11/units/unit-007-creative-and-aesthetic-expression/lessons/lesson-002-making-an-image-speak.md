@@ -121,12 +121,12 @@ those choices on purpose instead of by accident.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **elements of art are
-the building blocks (line, shape, form, color, value, texture, space); principles of
-design are how they are arranged (balance, contrast, emphasis, and so on); and an artist
-uses both to direct attention and feeling (S-365).** The skill — *make a choice, then say
-why it produces the intended effect* — is taught with a worked example and guided
-practice (S-011); the issue and the feeling stay the learner's own.
+The ideas to land: **elements of art are the building blocks (line, shape, form, color,
+value, texture, space); principles of design are how they are arranged (balance,
+contrast, emphasis, and so on); and an artist uses both to direct attention and feeling
+(S-365).** The skill — *make a choice, then say why it produces the intended effect* —
+is taught with a worked example and guided practice (S-011); the issue and the feeling
+stay the learner's own.
 
 The **intellectual** lens: every visual choice is a *reason* in image form; the written
 explanation makes that reasoning explicit. The **critical-thinking** lens: learners
@@ -134,9 +134,9 @@ separate *observation* ("the leaf is large and centered") from *judgment* ("it m
 feel small and worried") — the move Grade 8 practiced (S-365). The **global** lens: the
 vocabulary of elements and principles is a shared tool across traditions, not one
 culture's property; an Akan adinkra cloth, a Māori kōwhaiwhai rafter pattern, and a
-European engraving all make deliberate choices about line, shape, and repetition
-(S-114, S-115). The **egalitarianism** lens: any material — paint or leaves, screen or
-sand — can carry a serious message; no tool is more "real art" than another.
+European engraving all make deliberate choices about line, shape, and repetition (S-114,
+S-115). The **egalitarianism** lens: any material — paint or leaves, screen or sand —
+can carry a serious message; no tool is more "real art" than another.
 
 ## Procedure
 

@@ -115,17 +115,15 @@ being wrong is how we learn.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"), so it works in a classroom and for a
-self-directed learner. Make predicting safe and joyful: say plainly that a prediction
-does not have to be right — "a wrong prediction is still a great prediction, because
-now we can test it." Never let a guess be mocked or ranked. Where questioning adults is
-not safe or usual, frame this as *wondering together*, not challenging anyone, and offer
-a written or drawn "wonder box" so learners can share without speaking up (see
-`docs/contexts.md`). The goal is the habit: wonder → question → prediction → a way to
-test. Some questions we cannot test yet — and that is wonderful, not a failure. This
-lesson introduces the skill with a worked example and guided practice: you model the
-chain once, then learners try it with a partner before working alone (Kirschner,
-Sweller & Clark, 2006).
+Make predicting safe and joyful: say plainly that a prediction does not have to be
+right — "a wrong prediction is still a great prediction, because now we can test it."
+Never let a guess be mocked or ranked. Where questioning adults is not safe or usual,
+frame this as *wondering together*, not challenging anyone, and offer a written or drawn
+"wonder box" so learners can share without speaking up (see `docs/contexts.md`). The
+goal is the habit: wonder → question → prediction → a way to test. Some questions we
+cannot test yet — and that is wonderful, not a failure. This lesson introduces the skill
+with a worked example and guided practice: you model the chain once, then learners try
+it with a partner before working alone (Kirschner, Sweller & Clark, 2006).
 
 ## Procedure
 

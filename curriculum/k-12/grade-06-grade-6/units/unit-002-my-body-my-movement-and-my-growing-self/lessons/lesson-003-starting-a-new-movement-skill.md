@@ -121,15 +121,15 @@ step at a time.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **a new skill begins
-with small, counted steps and grows through repetition**. Teach it with **explicit steps and a
-worked example** (novice skill, not discovery). Frame the step as one of *many* movement
-traditions — do not present it as the "correct" dance of any one people, but as a shared human
-pattern with many names. Keep it **non-competitive**: the learner compares their own first
-round to their own last round. Offer **seated/adapted versions** — tap the four counts with the
-feet while seated, or trace the pattern with a hand on a table or knee — so every body can
-practice; a seated step is a full step. Honor every body's pace. See `docs/contexts.md` and
-`docs/facilitation.md`.
+The idea to land is that **a new skill begins with small, counted steps and grows
+through repetition**. Teach it with **explicit steps and a worked example** (novice
+skill, not discovery). Frame the step as one of *many* movement traditions — do not
+present it as the "correct" dance of any one people, but as a shared human pattern with
+many names. Keep it **non-competitive**: the learner compares their own first round to
+their own last round. Offer **seated/adapted versions** — tap the four counts with the
+feet while seated, or trace the pattern with a hand on a table or knee — so every body
+can practice; a seated step is a full step. Honor every body's pace. See
+`docs/contexts.md` and `docs/facilitation.md`.
 
 ## Procedure
 

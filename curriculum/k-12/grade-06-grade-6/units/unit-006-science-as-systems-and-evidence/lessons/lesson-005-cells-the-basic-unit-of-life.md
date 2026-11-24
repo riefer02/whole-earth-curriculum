@@ -118,18 +118,17 @@ living unit everything bigger is made from. Today you meet that unit up close.
 
 ## Facilitator note
 
-Written to the learner ("you"). Three ideas to land: (1) **cells are the basic unit
-of life** — all living things are made of cells; (2) **some living things are one
-cell** — a single cell can be a whole organism; (3) a few **parts and their jobs**
-(membrane = boundary, nucleus = control center, cytoplasm = the gel that fills it;
-plants add a **cell wall** for support and **chloroplasts** for making food). Model
-the worked example with the bag model: the bag is the membrane (it holds the inside
-in and lets some things pass), the ball is the nucleus, the water is the cytoplasm.
-Note the "how do we know" through-line: we know cells exist because microscopes let
-us *see* them — that is evidence, not guess. The claim that all life is made of cells
-is a well-tested scientific theory (cell theory); hold it as evidence-based, not as
-dogma. Yeast (single-celled fungi) is a welcoming, global example — bread and
-fermented foods across cultures. See
+Three ideas to land: (1) **cells are the basic unit of life** — all living things are
+made of cells; (2) **some living things are one cell** — a single cell can be a whole
+organism; (3) a few **parts and their jobs** (membrane = boundary, nucleus = control
+center, cytoplasm = the gel that fills it; plants add a **cell wall** for support and
+**chloroplasts** for making food). Model the worked example with the bag model: the bag
+is the membrane (it holds the inside in and lets some things pass), the ball is the
+nucleus, the water is the cytoplasm. Note the "how do we know" through-line: we know
+cells exist because microscopes let us *see* them — that is evidence, not guess. The
+claim that all life is made of cells is a well-tested scientific theory (cell theory);
+hold it as evidence-based, not as dogma. Yeast (single-celled fungi) is a welcoming,
+global example — bread and fermented foods across cultures. See
 [`docs/facilitation.md`](../../../../../../docs/facilitation.md).
 
 ## Procedure

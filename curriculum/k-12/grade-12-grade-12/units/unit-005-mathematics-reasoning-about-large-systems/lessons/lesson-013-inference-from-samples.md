@@ -115,25 +115,36 @@ how honest data speaks.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a sample estimates a
-population with uncertainty; the margin of error (roughly 1/√n for a poll) widens or
-narrows with sample size; a confidence interval is the honest range; and "significant"
-means "unlikely by chance alone," not "big" or "important."** Teach the margin-of-error
-computation explicitly (S-011), and keep the two words distinct — *significance* (a
-statistical claim about chance) vs *importance* (a value judgment) — because conflating
-them is a classic error.
+**Tone.** Precise and unhurried: two words are being kept apart, and that is the work.
 
-The **ethics** lens: reporting the margin of error is honesty about uncertainty; hiding it
-is a way of overclaiming. The **egalitarianism** lens: a sample that leaves a group out is
-a biased estimate that misrepresents them — random, inclusive sampling is a fairness
-practice, not a technicality (S-242). The **global** lens: the mathematics of sampling is
-the same everywhere, but what gets sampled — and who is counted at all — differs by place
-and power; inference is global, but *who* is in the population is a local question (S-006).
-The **technology** lens: polls and A/B tests run inference at machine speed, which makes
-reading uncertainty more, not less, important. The **environment** lens: water and air
-quality, species counts, and climate trends are all claims from samples — a margin of error
-on a contaminant is a health decision (S-005). Preview: Lesson 14 turns to misleading
-statistics and defending with honest data.
+**The facts to land.**
+
+1. A sample estimates a population with uncertainty: the margin of error (roughly 1/√n
+   for a poll) narrows as the sample grows, and a confidence interval is the honest
+   range.
+2. "Significant" means "unlikely by chance alone", not "big" or "important" — keep
+   significance (statistics) apart from importance (a value judgment).
+3. A sample that leaves a group out is a biased estimate that misrepresents them;
+   random, inclusive sampling is a fairness practice, not a technicality (S-242).
+
+**Don't overshoot.** A small margin of error is not certainty, and a confidence interval
+is not a guarantee about any one case.
+
+**The lenses, briefly.**
+
+- *Ethics:* reporting the margin is honesty about uncertainty; hiding it is a way of
+  overclaiming.
+- *Egalitarianism:* who is sampled, and who is counted at all, is a fairness question.
+- *Global:* the mathematics is the same everywhere, but what gets sampled and who is
+  counted differ by place and power (S-006).
+- *Technology:* polls and A/B tests run inference at machine speed, so reading
+  uncertainty matters more, not less.
+- *Environment:* water and air quality, species counts, and climate trends are all
+  claims from samples; a margin of error on a contaminant is a health decision (S-005).
+
+**The skill.** Teach the computation explicitly (S-011), then release: compute one
+margin and state clearly what it does not tell you. Lesson 14 turns to misleading
+statistics.
 
 ## Procedure
 
@@ -197,3 +208,4 @@ margin of error, and write one sentence on the honest range the claim should sta
   Science (UC Berkeley) — bias (S-250). On the history of probability and statistics:
   Britannica — Probability and statistics (S-301). On environmental sampling (climate,
   water): IPCC (S-005).
+- Our World in Data (S-006).

@@ -111,21 +111,20 @@ who breathes it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **environmental
-change is often a series, not a single number — a bloom or an emission total is a
-sum, and a pollutant that halves each period is a decay series.** Teach the two
-directions explicitly — *accumulate* (sum the terms) and *decay* (each term halves) —
-with worked examples and guided practice (S-011).
+The idea to land: **environmental change is often a series, not a single number — a
+bloom or an emission total is a sum, and a pollutant that halves each period is a decay
+series.** Teach the two directions explicitly — *accumulate* (sum the terms) and *decay*
+(each term halves) — with worked examples and guided practice (S-011).
 
 The **environment** lens: half-life and doubling are the real language of pollution,
 blooms, and cleanup. The **egalitarianism** lens: the places that emitted the most
-greenhouse gases over two centuries are often not the places that feel the worst
-impacts (S-006, S-005) — environmental justice is a data question, and learners are
-entitled to read it. The **intellectual** lens: the same series formula that counts
-wealth counts carbon. The **critical-thinking** lens: learners check totals by
-addition and ask "cumulative or annual?" before trusting a claim. Distinguish the
-arithmetic (the totals) from the values (that the burdens ought to be shared fairly).
-Preview: this closes the S1 sequence/series thread; Lesson 5 turns to vectors.
+greenhouse gases over two centuries are often not the places that feel the worst impacts
+(S-006, S-005) — environmental justice is a data question, and learners are entitled to
+read it. The **intellectual** lens: the same series formula that counts wealth counts
+carbon. The **critical-thinking** lens: learners check totals by addition and ask
+"cumulative or annual?" before trusting a claim. Distinguish the arithmetic (the totals)
+from the values (that the burdens ought to be shared fairly). Preview: this closes the
+S1 sequence/series thread; Lesson 5 turns to vectors.
 
 ## Procedure
 

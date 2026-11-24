@@ -119,24 +119,24 @@ object.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **a designed object's
-footprint spans its whole life cycle — raw material acquisition, materials manufacture,
-production, use/reuse/maintenance, and waste management (S-371); evaluating each stage
-and proposing improvements is the discipline, and the deepest improvement is designing
-for a circular path that keeps materials in use rather than throwing them away (S-452).**
-Teach the five-stage trace with a worked example and guided practice (S-011); the object
-and its improvements stay the learner's own.
+The ideas to land: **a designed object's footprint spans its whole life cycle — raw
+material acquisition, materials manufacture, production, use/reuse/maintenance, and
+waste management (S-371); evaluating each stage and proposing improvements is the
+discipline, and the deepest improvement is designing for a circular path that keeps
+materials in use rather than throwing them away (S-452).** Teach the five-stage trace
+with a worked example and guided practice (S-011); the object and its improvements stay
+the learner's own.
 
-The **intellectual** lens: the evaluation separates what can be *observed and known* about
-a material's path from what the learner *values* about it. The **critical-thinking**
-lens: learners ask at every stage "what is left out of this story?" — the energy, the
-water, the people, the waste we don't see. The **environment** lens: the life-cycle view
-is how a "clean" product can hide a heavy footprint, and how design-for-repair and
-design-for-reuse lighten it (S-371, S-452). The **egalitarianism** lens: the costs of a
-life cycle are rarely paid by the same people who enjoy the object — extraction and waste
-often land on poorer and more marginalized places; ask *who pays, and who benefits?* —
-held as a justice question, not a statistic to be asserted without evidence (philosophy
-§5).
+The **intellectual** lens: the evaluation separates what can be *observed and known*
+about a material's path from what the learner *values* about it. The
+**critical-thinking** lens: learners ask at every stage "what is left out of this
+story?" — the energy, the water, the people, the waste we don't see. The **environment**
+lens: the life-cycle view is how a "clean" product can hide a heavy footprint, and how
+design-for-repair and design-for-reuse lighten it (S-371, S-452). The **egalitarianism**
+lens: the costs of a life cycle are rarely paid by the same people who enjoy the
+object — extraction and waste often land on poorer and more marginalized places; ask
+*who pays, and who benefits?* — held as a justice question, not a statistic to be
+asserted without evidence (philosophy §5).
 
 ## Procedure
 

@@ -112,17 +112,15 @@ village square. Today you will move your own body to a beat of your own.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the space and beat source, then lead the steady beat
-before learners build their own sequences. This begins the movement strand, which
-builds on Grade 2's movement sequences — now with rhythm added. Model a steady beat
-and a four-move sequence slowly before learners try (explicit modeling, then guided
-practice). Honor every body: rhythm can be made by clapping, tapping, blinking,
-rocking, or rolling — and a sequence can be performed standing, seated, or with
-wheels. Every version counts fully. Keep it joyful, never a competition: there is no
-"best" rhythm, only a steady one. Learners who are deaf or hard of hearing can feel
-the beat through the floor or a drum they touch; learners with low vision can follow a
-hand-held beat — rhythm is felt, not only heard.
+Prepare the space and beat source, then lead the steady beat before learners build their
+own sequences. This begins the movement strand, which builds on Grade 2's movement
+sequences — now with rhythm added. Model a steady beat and a four-move sequence slowly
+before learners try (explicit modeling, then guided practice). Honor every body: rhythm
+can be made by clapping, tapping, blinking, rocking, or rolling — and a sequence can be
+performed standing, seated, or with wheels. Every version counts fully. Keep it joyful,
+never a competition: there is no "best" rhythm, only a steady one. Learners who are deaf
+or hard of hearing can feel the beat through the floor or a drum they touch; learners
+with low vision can follow a hand-held beat — rhythm is felt, not only heard.
 
 Where a music player is used, notice the difference: a player can bring a beat from
 anywhere in the world, but it needs a battery or a wall and was made in a factory far

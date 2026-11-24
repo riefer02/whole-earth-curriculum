@@ -115,20 +115,33 @@ decimal places, in the 5th century. π belongs to everyone.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) **circumference** is the
-distance around a circle; **diameter** is the distance across through the centre (twice the
-**radius**); (2) for *every* circle, C ÷ d is the same constant, **π ≈ 3.14**; and (3) the formulas
-**C = πd** and **C = 2πr** turn that fact into a problem-solving tool. Because circumference is a
-foundational skill, use explicit instruction, worked examples, and guided practice before
-independent work (Kirschner, Sweller & Clark, 2006). Watch for the slips of confusing radius and
-diameter (d = 2r), and of using the wrong formula. Retrieval: ask learners to recall the constant
-of proportionality (Lessons 8–9) — π is the constant of proportionality between circumference and
-diameter: C = πd is a y = kx relationship. The global lens: π has been approximated across cultures
-— Egypt (256/81), Archimedes (bounded by 22/7), Zu Chongzhi in China (355/113, c. 5th century) —
-a shared human achievement, not one culture's. The egalitarian lens (`docs/philosophy.md` §4): one
-string and one ruler are enough for anyone to find π — the discovery is open to all. The
-critical-thinking lens (`docs/philosophy.md` §7): measuring several circles and *testing* whether
-the ratio really is constant is doing science honestly.
+**Tone.** Hands-on and a little astonished. A string and a ruler are enough.
+
+**The facts to land.**
+
+1. **Circumference** is the distance around a circle; **diameter** is the distance
+   across through the centre — twice the **radius**.
+2. For *every* circle, C ÷ d is the same constant, **π ≈ 3.14**.
+3. The formulas **C = πd** and **C = 2πr** turn that fact into a problem-solving tool.
+
+**Don't overshoot.** Do not let 3.14 stand in for π as if it were exact; it is an
+approximation, and learners can see that measuring always lands close, not exact.
+
+**The lenses, briefly.**
+
+- *Intellectual:* π is the constant of proportionality between circumference and
+  diameter — C = πd is a y = kx relationship.
+- *Egalitarianism:* one string and one ruler let anyone find π (`docs/philosophy.md`
+  §4).
+- *Global:* π was approximated across cultures — Egypt (256/81), Archimedes (bounded by
+  22/7), Zu Chongzhi in China (355/113, c. 5th century) — a shared human achievement.
+- *Critical-thinking:* measuring several circles and testing whether the ratio really is
+  constant is doing science honestly (`docs/philosophy.md` §7).
+
+**The skill.** Foundational: instruct explicitly, model worked examples, guide practice,
+then release (Kirschner, Sweller & Clark, 2006). Two slips: confusing radius and
+diameter (d = 2r), and reaching for the wrong formula. Retrieval: the constant of
+proportionality from Lessons 8–9.
 
 ## Procedure
 

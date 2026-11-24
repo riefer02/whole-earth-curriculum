@@ -116,12 +116,11 @@ speech to happen by accident; they choose it, the way a composer chooses a tempo
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **gesture, posture,
-spacing, and level are the body's vocabulary; a devised performance arranges them as
-deliberately as an image arranges line and color; the written explanation names the
-intended effect.** Teach the move with a worked example and guided practice (S-011),
-drawing on devised-performance practice (S-260) and movement pedagogy that presents
-traditions with respect (S-189).
+The ideas to land: **gesture, posture, spacing, and level are the body's vocabulary; a
+devised performance arranges them as deliberately as an image arranges line and color;
+the written explanation names the intended effect.** Teach the move with a worked
+example and guided practice (S-011), drawing on devised-performance practice (S-260) and
+movement pedagogy that presents traditions with respect (S-189).
 
 The **physical** lens: the body is the instrument — learners attend to how a movement
 *feels* from inside as well as how it reads from outside. The **critical-thinking**

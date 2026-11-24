@@ -114,24 +114,36 @@ repair, and be ready for the next real thing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description,
-never as a claim that stress is a personal failing**: the stress wave is an adaptive
-response; **chronic** stress — when the response does not turn off — carries real costs
-(muscle tension, cardiovascular strain, sleep and mood disruption) (APA, S-338). The
-wave is raised by the sympathetic branch and settled by the parasympathetic branch
-(Cleveland Clinic, S-339); a slow, long-exhale breath is one evidence-supported way to
-help the return to calm (Harvard Health, S-340). Offer these as *one scientific account
-among others*, and hold breathing practices from many traditions (pranayama, qigong,
-and others) side by side without ranking them.
+**Tone.** Matter-of-fact and kind: stress is physiology, never a personal failing.
 
-The **ethics** lens: the skill of returning to calm lets us act on choice rather than
-alarm, which is also kinder to the people around us. The **egalitarianism** lens: who
-gets to *rest* is not even across lives — some people live under constant stress through
-no fault of their own, and the fix is partly social, not only personal technique. The
-**global** lens: calm-returning practices are found in many traditions and languages, so
-no single method is the default. The **critical-thinking** lens: not every racing heart
-means danger, and not every calm means safety — we read signals in context. The **technology** lens: screens, feeds, and constant alerts are among the most common reasons the stress wave never fully switches off — a body braced for messages, not for danger — so returning to calm includes learning when to put the device down. Preview:
-Lesson 4 assembles the framework so far into something you can carry and explain.
+**The facts to land.**
+
+1. The stress wave is an adaptive response; **chronic** stress — when it does not turn
+   off — carries real costs: muscle tension, cardiovascular strain, and disrupted sleep
+   and mood (APA, S-338).
+2. The wave is raised by the sympathetic branch and settled by the parasympathetic
+   (Cleveland Clinic, S-339); a slow, long-exhale breath is one evidence-supported way
+   to help the return to calm (Harvard Health, S-340).
+3. Offer these as *one scientific account among others*, with breathing practices from
+   many traditions — pranayama, qigong, and others — held side by side without ranking.
+
+**Don't overshoot.** Never let the calm-down become another performance to fail; the
+return to calm is a skill, not a measure of character.
+
+**The lenses, briefly.**
+
+- *Ethics:* calm lets us act on choice than alarm, which is kinder to those around us.
+- *Egalitarianism:* who gets to *rest* is uneven; some live under constant stress
+  through no fault, and the fix is partly social.
+- *Global:* calm-returning practices appear in many traditions and languages; no single
+  method is the default.
+- *Critical-thinking:* not every racing heart means danger, and not every calm means
+  safety — read signals in context.
+- *Technology:* screens, feeds, and alerts keep the wave on — the body braced for
+  messages, not danger.
+
+**The skill.** Model once, then release (S-011): find your own wave, and one exhale that
+settles it. Lesson 4 assembles the framework so far.
 
 ## Procedure
 

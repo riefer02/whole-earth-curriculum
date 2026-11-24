@@ -6,26 +6,42 @@
 
   <!-- Left figure -->
   <g>
-    <circle cx="120" cy="210" r="26" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="112" cy="204" r="3" fill="#2b3a42"/>
-    <circle cx="128" cy="204" r="3" fill="#2b3a42"/>
-    <path d="M114 220 Q120 225 126 220" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M120 236 L120 300 L100 344 M120 300 L140 344" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M96 274 L144 274" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M120 158 L150 130 L186 142 L156 158 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="152" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">"I see it differently…"</text>
+    <g fill="#8f5f3d">
+      <circle cx="120" cy="202" r="22"/>
+      <rect x="114" y="221" width="12" height="16" rx="5"/>
+      <rect x="96" y="234" width="48" height="72" rx="20"/>
+      <path d="M 100 244 Q 90 266 94 288" stroke="#8f5f3d" stroke-width="12" stroke-linecap="round" fill="none"/>
+      <path d="M 140 244 Q 150 266 146 288" stroke="#8f5f3d" stroke-width="12" stroke-linecap="round" fill="none"/>
+      <path d="M 109 304 L 105 338" stroke="#8f5f3d" stroke-width="17" stroke-linecap="round" fill="none"/>
+      <path d="M 131 304 L 135 338" stroke="#8f5f3d" stroke-width="17" stroke-linecap="round" fill="none"/>
+      <ellipse cx="103" cy="342" rx="11" ry="6"/>
+      <ellipse cx="137" cy="342" rx="11" ry="6"/>
+    </g>
+    <circle cx="111" cy="197" r="3" fill="#2b3a42"/>
+    <circle cx="129" cy="197" r="3" fill="#2b3a42"/>
+    <path d="M112 213 Q120 219 128 213" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M56 148 h108 a8 8 0 0 1 8 8 v12 a8 8 0 0 1 -8 8 h-50 l-10 14 l-2 -14 h-46 a8 8 0 0 1 -8 -8 v-12 a8 8 0 0 1 8 -8 z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="112" y="164" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">I see it differently…</text>
   </g>
 
   <!-- Right figure -->
   <g>
-    <circle cx="392" cy="210" r="26" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="384" cy="204" r="3" fill="#2b3a42"/>
-    <circle cx="400" cy="204" r="3" fill="#2b3a42"/>
-    <path d="M386 220 Q392 225 398 220" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M392 236 L392 300 L372 344 M392 300 L412 344" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M368 274 L416 274" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M392 158 L362 130 L326 142 L356 158 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="360" y="172" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">"tell me more."</text>
+    <g fill="#e6bb92">
+      <circle cx="392" cy="202" r="22"/>
+      <rect x="386" y="221" width="12" height="16" rx="5"/>
+      <rect x="368" y="234" width="48" height="72" rx="20"/>
+      <path d="M 372 244 Q 362 266 366 288" stroke="#e6bb92" stroke-width="12" stroke-linecap="round" fill="none"/>
+      <path d="M 412 244 Q 422 266 418 288" stroke="#e6bb92" stroke-width="12" stroke-linecap="round" fill="none"/>
+      <path d="M 381 304 L 377 338" stroke="#e6bb92" stroke-width="17" stroke-linecap="round" fill="none"/>
+      <path d="M 403 304 L 407 338" stroke="#e6bb92" stroke-width="17" stroke-linecap="round" fill="none"/>
+      <ellipse cx="375" cy="342" rx="11" ry="6"/>
+      <ellipse cx="409" cy="342" rx="11" ry="6"/>
+    </g>
+    <circle cx="383" cy="197" r="3" fill="#2b3a42"/>
+    <circle cx="401" cy="197" r="3" fill="#2b3a42"/>
+    <path d="M384 213 Q392 219 400 213" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M352 148 h84 a8 8 0 0 1 8 8 v12 a8 8 0 0 1 -8 8 h-42 l-12 14 l0 -14 h-30 a8 8 0 0 1 -8 -8 v-12 a8 8 0 0 1 8 -8 z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <text x="396" y="164" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">tell me more.</text>
   </g>
 
   <!-- Listening loop -->

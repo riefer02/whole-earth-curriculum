@@ -105,10 +105,9 @@ feeling shows up, you can notice it sooner and take care of yourself.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, lead the body scan slowly and calmly, naming
-one feeling at a time. Some learners will feel a feeling "everywhere" or "nowhere" —
-honor both. There is no wrong answer; the goal is noticing, not matching a chart.
+As facilitator, lead the body scan slowly and calmly, naming one feeling at a time. Some
+learners will feel a feeling "everywhere" or "nowhere" — honor both. There is no wrong
+answer; the goal is noticing, not matching a chart.
 
 ## Procedure
 

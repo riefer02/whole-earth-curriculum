@@ -96,12 +96,11 @@ your words make one complete message — and that is how writing begins for ever
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. "Dictate" means the child speaks and an adult or older peer
-writes the words down. The drawing is the child's own; the scribe writes exactly what
-the child says, in the child's language, without correcting or "improving" it. This is
-a cornerstone of emergent writing: children compose long before they can spell, and
-their spoken words are real authorship.
+"Dictate" means the child speaks and an adult or older peer writes the words down. The
+drawing is the child's own; the scribe writes exactly what the child says, in the
+child's language, without correcting or "improving" it. This is a cornerstone of
+emergent writing: children compose long before they can spell, and their spoken words
+are real authorship.
 
 ## Procedure
 

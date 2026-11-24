@@ -114,19 +114,34 @@ that everyone who sees the marks can agree on what they mean.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The key commitment is **script
-awareness without ranking**: these Hindu-Arabic digits are taught because this
-curriculum uses them, but they are honored as *one* system among many — tally
-marks, knot records like the Inka quipu, and other numeral traditions all worked
-for the people who used them, and none is "better." Teach the one new skill —
-combining digits into a written number and reading tens-and-ones — as a worked
-example first. Connect every written number to a real quantity, never a bare
-symbol. For a learner who is blind or low-vision, form numerals with raised
-materials (string, clay, sand-glue) so the shape can be felt; for a learner who is
-Deaf or hard of hearing, read numbers in sign or by matching digits to bundles. A
-learner who does not use a speaking voice reads by pointing, tracing, or holding up
-digit cards. Never compare handwriting quality to smartness; messy numerals carry
-the same meaning as neat ones.
+**Tone.** Matter-of-fact. The digits are one way of writing numbers, not the right one.
+
+**The facts to land.**
+
+1. **Script awareness without ranking**: these Hindu-Arabic digits are taught because
+   this curriculum uses them, and honoured as *one* system among many.
+2. Tally marks, knot records like the Inka quipu, and other numeral traditions all
+   worked for the people who used them; none is "better."
+3. Combining digits into a written number and reading tens-and-ones is the new skill —
+   model it first as a worked example.
+4. Connect every written number to a real quantity, never a bare symbol.
+
+**Don't overshoot.** Never compare handwriting quality to smartness; messy numerals
+carry the same meaning as neat ones.
+
+**The lenses, briefly.**
+
+- *Global:* number systems differ around the world and across history.
+- *Egalitarianism:* the home language and its numerals are honoured.
+- *Intellectual:* the digits encode tens and ones — that is the idea to see.
+- *Physical:* the hand that forms the numeral does the learning.
+
+**The skill.** Read a number as tens and ones, then write it.
+
+**Access.** Blind or low-vision: form numerals with raised materials (string, clay,
+sand-glue) so the shape can be felt. Deaf or hard of hearing: read numbers in sign, or
+match digits to bundles. A learner who does not use a speaking voice reads by pointing,
+tracing, or holding up digit cards.
 
 ## Procedure
 

@@ -116,23 +116,21 @@ change — and naming which one you are looking at is the first move in modeling
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an arithmetic
-sequence adds a fixed difference d each step (aₙ = a₁ + (n−1)d); a geometric sequence
-multiplies by a fixed ratio r each step (aₙ = a₁·r^(n−1)).** Teach both directions
-explicitly — *recognize* (is the change +d or ×r?) and *write* (build the formula) —
-with worked examples and guided practice (S-011).
+The idea to land: **an arithmetic sequence adds a fixed difference d each step (aₙ = a₁
++ (n−1)d); a geometric sequence multiplies by a fixed ratio r each step (aₙ =
+a₁·r^(n−1)).** Teach both directions explicitly — *recognize* (is the change +d or ×r?)
+and *write* (build the formula) — with worked examples and guided practice (S-011).
 
 The **intellectual** lens: a sequence is the same *rule* applied over and over; the
 formula compresses that repetition into one line. The **critical-thinking** lens:
-learners check every formula by generating three terms and asking "does it match?"
-The **global** lens: the number system we use today — with its zero and place value —
-was developed in India and carried through Arabic-speaking scholars to Europe
-(S-023, S-240); the Fibonacci sequence entered Europe through Fibonacci's *Liber
-Abaci* (1202) as he taught those very numerals. The **egalitarianism** lens: these
-ideas belong to no single people; mathematics is "drawn from many traditions, for
-everyone" — sequence work is not a ranking ritual but a shared tool. Preview: Lesson
-2 turns sequences into *series* (sums), and Lessons 3–4 put those sums to work in
-finance and the environment.
+learners check every formula by generating three terms and asking "does it match?" The
+**global** lens: the number system we use today — with its zero and place value — was
+developed in India and carried through Arabic-speaking scholars to Europe (S-023,
+S-240); the Fibonacci sequence entered Europe through Fibonacci's *Liber Abaci* (1202)
+as he taught those very numerals. The **egalitarianism** lens: these ideas belong to no
+single people; mathematics is "drawn from many traditions, for everyone" — sequence work
+is not a ranking ritual but a shared tool. Preview: Lesson 2 turns sequences into
+*series* (sums), and Lessons 3–4 put those sums to work in finance and the environment.
 
 ## Procedure
 

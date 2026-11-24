@@ -122,21 +122,36 @@ human story of moving, from long ago to today.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Hold every move with dignity, never
-pity.** Moving is one of the oldest and most ordinary things people do — for family,
-work, safety, or the environment (see Resources). Many families in the room may have
-moved, or have relatives who moved; frame moving as a normal, strong thing people do,
-not as loss or lack. **Keep the safety example gentle and age-appropriate:** "a place
-became unsafe — a flood, a fire, a danger — so the family moved to be safe." Do not
-dwell on frightening detail; the lesson's power is in naming reasons and honoring
-journeys. **Model one full example first** (Kirschner, Sweller & Clark, 2006): tell the
-herding-family story and think aloud — "The grass dried up and the water shrank, so
-they moved to where the grass and water were. The reason was the **environment**." Then
-guide the other three reasons. Distinguish evidence from values: *that* people move for
-these reasons is a factual, cross-cultural claim (see Resources); *that* moving is
-worthy of respect is a value we hold together. Honor every body: describe the cards in
-words for a learner who cannot see them; a learner who does not use a speaking voice
-points or acts. A learner may tell their own family's move — invite, never require.
+**Tone.** Dignified and ordinary — never a misfortune to pity.
+
+**The facts to land.**
+1. Moving is one of the oldest, most ordinary things people do — for family, work,
+   safety, or the environment (see Resources).
+2. Keep the safety example gentle: "the place became unsafe — a flood, a fire — so the
+   family moved." Do not dwell on detail.
+3. *That* people move for these reasons is a cross-cultural fact (see Resources); *that*
+   moving deserves respect is a value we hold.
+
+**Don't overshoot.** Do not frame moving as loss or lack, and do not let one dramatic
+story stand in for the ordinary reasons.
+
+**The lenses, briefly.**
+- *Global:* the reasons travel across peoples (see Resources).
+- *Egalitarianism:* a family that moved has not failed.
+- *Social-emotional:* many learners have moved; name it as normal.
+- *Environment:* a family moves when the land stops providing — drought, flood, or a river
+  that changed course.
+- *Community:* a move is usually a family decision.
+
+**The skill.** Name a reason a family moved, and say which of the four it is.
+
+Model one example first (Kirschner, Sweller & Clark, 2006): tell the herding-family
+story and think aloud — "the grass dried up and the water shrank, so they moved to where
+grass and water were. The reason was the **environment**." Then guide the other three.
+
+**Access:** describe the cards for a learner who cannot see them; a learner who does not
+use a speaking voice points or acts. A learner may tell their family's move — invite,
+never require.
 
 ## Procedure
 

@@ -16,6 +16,10 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run validate
+      # Usability ratchet: fails only if the must-fix count grows past
+      # tools/audit/baseline.json. Ratchet it down with `npm run audit -- --baseline`
+      # as the backlog is cleared.
+      - run: npm run audit:ci
       - run: npm run test:citation-lint
       - run: npm run test:support-form
       - run: npm run lint:sources

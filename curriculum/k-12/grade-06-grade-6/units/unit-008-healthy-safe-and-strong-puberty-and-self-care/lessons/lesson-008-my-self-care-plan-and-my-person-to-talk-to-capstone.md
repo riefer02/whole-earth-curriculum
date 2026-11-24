@@ -136,17 +136,16 @@ only need to know it is **yours**, and where to reach for it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It has two jobs: (1) land the **trusted
-person + self-care action** (D03.S4.06.02) and (2) **review the whole unit** into one
-portfolio artifact. Treat the trusted person with care: it may be a parent, grandparent,
-aunt or uncle, teacher, coach, health worker, or neighbor — whoever the learner genuinely
-trusts and can reach. Normalize that **telling is strength, not weakness**, and reassure
-learners that if a first trusted person does not help, they can tell a second. This is
-**summative retrieval** — the learner recalls each idea rather than re-reading; if someone
-struggles, point them to their *own* earlier pages, not the answer. Keep the review
-**dignified and joyful**: no two plans will match, and that is the point — every body and
-every life is honored. See `docs/facilitation.md` and the retrieval-practice evidence in
-`docs/contexts.md`.
+It has two jobs: (1) land the **trusted person + self-care action** (D03.S4.06.02) and
+(2) **review the whole unit** into one portfolio artifact. Treat the trusted person with
+care: it may be a parent, grandparent, aunt or uncle, teacher, coach, health worker, or
+neighbor — whoever the learner genuinely trusts and can reach. Normalize that **telling
+is strength, not weakness**, and reassure learners that if a first trusted person does
+not help, they can tell a second. This is **summative retrieval** — the learner recalls
+each idea rather than re-reading; if someone struggles, point them to their *own*
+earlier pages, not the answer. Keep the review **dignified and joyful**: no two plans
+will match, and that is the point — every body and every life is honored. See
+`docs/facilitation.md` and the retrieval-practice evidence in `docs/contexts.md`.
 
 ## Procedure
 

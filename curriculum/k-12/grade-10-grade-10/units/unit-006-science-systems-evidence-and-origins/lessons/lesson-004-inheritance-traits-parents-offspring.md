@@ -118,12 +118,11 @@ to wonder, "what will the next generation be like?"
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **each parent passes
-one allele of each gene to each offspring; a Punnett square lists all combinations, so
-the genotype ratios follow from the parents' alleles; a recessive trait appears only
-when both alleles are recessive, which is why it can skip a generation.** Teach the
-square as a worked example (S-011) — it is a procedural skill that benefits from
-explicit modeling before independent work.
+The idea to land: **each parent passes one allele of each gene to each offspring; a
+Punnett square lists all combinations, so the genotype ratios follow from the parents'
+alleles; a recessive trait appears only when both alleles are recessive, which is why it
+can skip a generation.** Teach the square as a worked example (S-011) — it is a
+procedural skill that benefits from explicit modeling before independent work.
 
 The **intellectual** lens: the Punnett square is not magic — it is a complete list of
 equally likely combinations. The **ethics** lens: a person's genes say nothing about

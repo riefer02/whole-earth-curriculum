@@ -121,21 +121,37 @@ cares tells the truth and asks people to help, not to buy.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is a **making and sharing** day, not a
-test. The heart of it is that a message can *care*: it can name a resource, its source, and
-one way to use less, made for a real audience. Retrieval: learners recall Lesson 4 (purpose
-and audience), Lesson 7 (runs out vs comes back), and Lesson 8 (one resource, where it comes
-from, use less). Keep the media stance warm — making a truthful, helpful message is the
-joyful opposite of fear, and it puts technology to work *caring* rather than *selling*.
-Honor all resources and all homes equally: a message about a village well is as worthy as
-one about a city tap; a message told aloud and acted out counts just as much as a printed
-card. Distinguish evidence from values gently: "water comes from rain" is evidence; wanting
-to share the message is a value of care — both are welcome. No wealth assumption: any scrap
-of paper, or a message spoken and acted, is enough. Honor every body: a non-speaking learner
-can draw and point while a partner writes, or share in sign; a learner who is blind or has
-low vision can say the message aloud and have a partner scribe it, and feel the card's
-shape; a learner with motor differences can direct a partner's hands to write. Peer check:
-partners check each other's message for a clear purpose (persuade) and a real audience.
+**Tone.** Warm and celebratory — this is a making day, not a test.
+
+**The facts to land.**
+1. A message can *care*: it names a resource, its source, and one way to use less, made
+   for a real audience.
+2. Retrieval: Lesson 4 (purpose, audience), Lesson 7 (runs out, comes back), Lesson 8
+   (resource, source, use less).
+3. Making a truthful, helpful message puts technology to work *caring* rather than
+   *selling*.
+
+**Don't overshoot.** Do not rank homes or resources: a message about a village well is
+as worthy as one about a city tap, and a spoken, acted message counts as much as a
+printed card.
+
+**The lenses, briefly.**
+- *Critical-thinking:* purpose and audience, checked by a partner.
+- *Environment:* the message names a real resource and source.
+- *Technology:* a tool used to care, not to sell.
+- *Ethics:* truthful and helpful, not shaming.
+- *Egalitarianism:* every home's resource story counts.
+
+**The skill.** Make the message, then have a partner check its purpose (persuade) and
+its audience.
+
+Making a truthful, helpful message is the joyful opposite of fear. Any scrap of paper,
+or a spoken, acted message, is enough.
+
+**Access:** a learner who does not speak can draw and point while a partner writes, or
+share in sign; a learner who is blind or has low vision can say the message aloud for a
+partner to scribe and feel the card's shape; a learner with motor differences can direct
+a partner's hands.
 
 ## Procedure
 

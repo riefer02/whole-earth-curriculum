@@ -98,11 +98,10 @@ they belong to you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, use the wide word "people" so every family
-shape is honored — one caregiver, two, grandparents, guardians, a chosen family, or a
-community that raises a child. Do not assume a single household form. Invite sharing
-about care, not about who lives where.
+As facilitator, use the wide word "people" so every family shape is honored — one
+caregiver, two, grandparents, guardians, a chosen family, or a community that raises a
+child. Do not assume a single household form. Invite sharing about care, not about who
+lives where.
 
 ## Procedure
 

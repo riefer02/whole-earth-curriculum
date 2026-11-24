@@ -115,17 +115,16 @@ shared unit, a builder here and a builder far away can agree on a length.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It builds on Grade 1's non-standard
-measuring (hand spans, paper clips) and introduces **standard units**. Teach with a
-**worked example** (philosophy §13): line a pencil up at zero and read "12
-centimeters." The key idea is *why* a shared unit matters — different bodies give
-different measures, but a centimeter is the same for all. Keep it concrete: measure
-real things, first estimating by eye, then checking with the ruler. **Measuring is not
-a contest; a learner's pace is not their worth, and an estimate that is corrected is
-success, not failure.** For learners who are Deaf or hard of hearing, show the ruler
-and write each number; for learners who are blind or low-vision, use a ruler with
-raised marks or count equal spaces by touch. A learner who does not speak points to
-the number on the ruler.
+It builds on Grade 1's non-standard measuring (hand spans, paper clips) and introduces
+**standard units**. Teach with a **worked example** (philosophy §13): line a pencil up
+at zero and read "12 centimeters." The key idea is *why* a shared unit matters —
+different bodies give different measures, but a centimeter is the same for all. Keep it
+concrete: measure real things, first estimating by eye, then checking with the ruler.
+**Measuring is not a contest; a learner's pace is not their worth, and an estimate that
+is corrected is success, not failure.** For learners who are Deaf or hard of hearing,
+show the ruler and write each number; for learners who are blind or low-vision, use a
+ruler with raised marks or count equal spaces by touch. A learner who does not speak
+points to the number on the ruler.
 
 ## Procedure
 

@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27.8" font-weight="bold" fill="#2b3a42">Making a Class Rule With a Reason</text>
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Making a Class Rule With a Reason</text>
 
   <!-- rule chart -->
   <rect x="40" y="70" width="432" height="150" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

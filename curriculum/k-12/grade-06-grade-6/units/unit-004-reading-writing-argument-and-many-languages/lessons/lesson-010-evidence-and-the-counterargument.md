@@ -116,14 +116,15 @@ makes an argument honest instead of just loud.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The two ideas to land are **evidence** (each
-reason needs support you can point to) and the **counterargument response** (concede what is
-fair, then answer). Teach both with the worked example (a novice skill; model step-by-step —
-Kirschner, Sweller & Clark, 2006). Retrieval: connect evidence here to the text evidence of
-Lessons 5–6 (same idea, now for your own claim) and to Grade 5's fact/opinion work. The ethics
-lens matters: a good argument *names its own weakest point* and answers it honestly — that is
-intellectual honesty, not weakness (`docs/philosophy.md` §5). Honor every home language; write
-in the strongest language. Watch that "evidence" stays checkable, not just a stronger opinion.
+The two ideas to land are **evidence** (each reason needs support you can point to) and
+the **counterargument response** (concede what is fair, then answer). Teach both with
+the worked example (a novice skill; model step-by-step — Kirschner, Sweller & Clark,
+2006). Retrieval: connect evidence here to the text evidence of Lessons 5–6 (same idea,
+now for your own claim) and to Grade 5's fact/opinion work. The ethics lens matters: a
+good argument *names its own weakest point* and answers it honestly — that is
+intellectual honesty, not weakness (`docs/philosophy.md` §5). Honor every home language;
+write in the strongest language. Watch that "evidence" stays checkable, not just a
+stronger opinion.
 
 ## Procedure
 

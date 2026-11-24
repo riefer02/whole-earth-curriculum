@@ -98,11 +98,9 @@ past.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the cards and the two labeled spots, then guide the
-sorting and the closing story — the learner follows the procedure directly. Keep
-"then" gentle and personal; there are no wrong pasts, and no one's way of living is
-called better or worse.
+Prepare the cards and the two labeled spots, then guide the sorting and the closing
+story — the learner follows the procedure directly. Keep "then" gentle and personal;
+there are no wrong pasts, and no one's way of living is called better or worse.
 
 ## Procedure
 

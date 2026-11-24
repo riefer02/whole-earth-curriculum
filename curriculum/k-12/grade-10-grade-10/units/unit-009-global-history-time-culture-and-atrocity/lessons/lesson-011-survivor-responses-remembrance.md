@@ -109,30 +109,29 @@ days of remembrance — and it is always, at bottom, the same human act: keeping
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **survivors respond
-and endure in countless ways — through witness, rebuilding, and carrying memory —
-and remembrance takes many forms (testimony, memorials, museums, days of
-remembrance, justice), all of which exist to keep individuals and peoples from being
-forgotten.** Model the forms of remembrance with a worked example before learners
-reflect (S-011).
+The idea to land: **survivors respond and endure in countless ways — through witness,
+rebuilding, and carrying memory — and remembrance takes many forms (testimony,
+memorials, museums, days of remembrance, justice), all of which exist to keep
+individuals and peoples from being forgotten.** Model the forms of remembrance with a
+worked example before learners reflect (S-011).
 
 **Emotional safety (non-negotiable):** (1) **Warning and opt-out:** re-state that
-learners may step out, pass, or write privately at any time. (2) **Referral:** name
-the trusted adult or support line again. (3) **Grounding:** open and close with a
-slow breath or a minute of quiet. (4) **No graphic images or gratuitous detail:** use
-brief, dignified summaries and one survivor's words chosen for dignity, never for
-shock. (5) **Agency and hope:** survivors are met as agents — people who bore
-witness, rebuilt families and communities, and chose how to carry memory (S-495).
+learners may step out, pass, or write privately at any time. (2) **Referral:** name the
+trusted adult or support line again. (3) **Grounding:** open and close with a slow
+breath or a minute of quiet. (4) **No graphic images or gratuitous detail:** use brief,
+dignified summaries and one survivor's words chosen for dignity, never for shock. (5)
+**Agency and hope:** survivors are met as agents — people who bore witness, rebuilt
+families and communities, and chose how to carry memory (S-495).
 
-The **ethics** lens is the spine: remembrance is a duty to the truth and to the
-dignity of the dead and the harmed. The **egalitarian** lens: memorials and justice
-exist because every person's life counts equally. The **global** lens: remembrance
-takes many forms across peoples — days of remembrance, museums, and testimony exist
-for cases across continents, and the duty to remember is not one people's alone
-(S-491, S-494). The **critical-thinking** lens: different forms of remembrance serve
-different purposes — testimony preserves a voice, a museum teaches, a court seeks
-accountability — and none replaces the others. Preview: Lesson 12 turns to the
-ordinary people who resisted and sheltered others.
+The **ethics** lens is the spine: remembrance is a duty to the truth and to the dignity
+of the dead and the harmed. The **egalitarian** lens: memorials and justice exist
+because every person's life counts equally. The **global** lens: remembrance takes many
+forms across peoples — days of remembrance, museums, and testimony exist for cases
+across continents, and the duty to remember is not one people's alone (S-491, S-494).
+The **critical-thinking** lens: different forms of remembrance serve different purposes
+— testimony preserves a voice, a museum teaches, a court seeks accountability — and none
+replaces the others. Preview: Lesson 12 turns to the ordinary people who resisted and
+sheltered others.
 
 ## Procedure
 
@@ -184,3 +183,5 @@ the events themselves outside class.)
 - On teaching with dignity: US Holocaust Memorial Museum, "Guidelines for Teaching
   about the Holocaust" (S-495); on naming individuals, not numbers: Paul Slovic,
   "If I Look at the Mass I Will Never Act" (S-414).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).
+- Encyclopaedia Britannica — Rwanda genocide of 1994 (S-494).

@@ -113,25 +113,24 @@ becoming, and why do I believe that?"
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a considered
-position is not a verdict but a story — a narrative identity that links the past, the
-present, and an imagined future, and that I hold loosely and revise.** Narrative
-identity (McAdams, S-404) and "possible selves" (Markus & Nurius, S-399) are the
-descriptive research here; identity is a story we tell, and it keeps being rewritten.
-A sense of **purpose** grows by trying, reflecting, and being supported — not by
-certainty at once; only a minority of young people report a clear purpose, and that is
-ordinary, not a failure (Damon, S-400). This is the honest, non-pressuring bridge to
-Grade 11's purpose work.
+The idea to land: **a considered position is not a verdict but a story — a narrative
+identity that links the past, the present, and an imagined future, and that I hold
+loosely and revise.** Narrative identity (McAdams, S-404) and "possible selves" (Markus
+& Nurius, S-399) are the descriptive research here; identity is a story we tell, and it
+keeps being rewritten. A sense of **purpose** grows by trying, reflecting, and being
+supported — not by certainty at once; only a minority of young people report a clear
+purpose, and that is ordinary, not a failure (Damon, S-400). This is the honest,
+non-pressuring bridge to Grade 11's purpose work.
 
 Hold the **ethics** lens: revising your position is an act of honesty toward yourself.
 The **egalitarian** lens: everyone's next chapter looks different, and no one's is more
 "correct" — purpose may be quiet or loud, near or far. The **global** lens: in many
-traditions the self is told as a story that belongs to a people and a place, not only
-to an individual — invite learners to tell it their way, solo or communal. The
+traditions the self is told as a story that belongs to a people and a place, not only to
+an individual — invite learners to tell it their way, solo or communal. The
 **technology** lens can appear briefly: profiles freeze a story in one post; a living
-position keeps moving. Distinguish evidence from values: "identity is a revisable
-story" is descriptive; "you are allowed to revise, and 'I don't know yet' is a complete
-answer" is a value we protect.
+position keeps moving. Distinguish evidence from values: "identity is a revisable story"
+is descriptive; "you are allowed to revise, and 'I don't know yet' is a complete answer"
+is a value we protect.
 
 Model the three-part frame once (worked example, S-011), then let learners draft. Keep
 it warm — this is the heart of the capstone.

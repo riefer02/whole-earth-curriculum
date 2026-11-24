@@ -114,18 +114,18 @@ forces — and whether they balance — explain nearly every movement you make t
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) balanced forces → no
-change in motion (steady or at rest); (2) unbalanced forces → change in motion (speed up or
-slow down); (3) gravity and friction are the two everyday forces, and (4) this is just F = ma
-in action — a net force causes acceleration.** Use explicit instruction with the pushed-box
-worked example first, then hands-on sliding (Kirschner, Sweller & Clark, 2006). This extends
-Newton's first and second laws (Newton, *Principia*, 1687), foundational physics. The
-technology lens (`docs/philosophy.md` §4): understanding friction and gravity is why brakes,
-tires, ramps, and roads work — and why engineers shape surfaces the way they do; this is
+The ideas to land: **(1) balanced forces → no change in motion (steady or at rest); (2)
+unbalanced forces → change in motion (speed up or slow down); (3) gravity and friction
+are the two everyday forces, and (4) this is just F = ma in action — a net force causes
+acceleration.** Use explicit instruction with the pushed-box worked example first, then
+hands-on sliding (Kirschner, Sweller & Clark, 2006). This extends Newton's first and
+second laws (Newton, *Principia*, 1687), foundational physics. The technology lens
+(`docs/philosophy.md` §4): understanding friction and gravity is why brakes, tires,
+ramps, and roads work — and why engineers shape surfaces the way they do; this is
 applied physics, not abstract. The egalitarian lens: these ideas describe a bicycle in a
-village and a satellite in orbit alike; no learner is excluded from understanding them. The
-global lens: friction was mastered (sleds, sledges, bearings) and gravity harnessed (ramps,
-water wheels, plumb lines) in many ancient cultures before the laws were named.
+village and a satellite in orbit alike; no learner is excluded from understanding them.
+The global lens: friction was mastered (sleds, sledges, bearings) and gravity harnessed
+(ramps, water wheels, plumb lines) in many ancient cultures before the laws were named.
 
 ## Procedure
 

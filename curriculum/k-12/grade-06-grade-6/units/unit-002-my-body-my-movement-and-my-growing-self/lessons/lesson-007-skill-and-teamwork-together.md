@@ -122,13 +122,13 @@ the score.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **skill and teamwork
-come together in a cooperative goal**. Keep the game **collective, never competitive** — there
-is no winner and no loser, only a shared performance to celebrate. Ensure every learner
-contributes a move, and that the move may be *any* movement — seated, small, slow, or large —
-so every body is included. Rotate the counting/directing roles so no one is fixed. The
-performance is for encouragement, not judgment; another team responds with the encouraging
-words from Lesson 6. See `docs/contexts.md` and `docs/facilitation.md`.
+The idea to land is that **skill and teamwork come together in a cooperative goal**.
+Keep the game **collective, never competitive** — there is no winner and no loser, only
+a shared performance to celebrate. Ensure every learner contributes a move, and that the
+move may be *any* movement — seated, small, slow, or large — so every body is included.
+Rotate the counting/directing roles so no one is fixed. The performance is for
+encouragement, not judgment; another team responds with the encouraging words from
+Lesson 6. See `docs/contexts.md` and `docs/facilitation.md`.
 
 ## Procedure
 

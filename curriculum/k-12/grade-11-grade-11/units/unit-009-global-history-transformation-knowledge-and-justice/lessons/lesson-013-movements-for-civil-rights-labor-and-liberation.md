@@ -167,3 +167,5 @@ workplace, or town. Note the aim, the strategy, and what changed.
 - Wave Hill walk-off (Australia, 1966), led by Vincent Lingiari: National Museum of
   Australia (S-206).
 - Kwame Nkrumah and Ghana's independence (1957): Encyclopaedia Britannica (S-276).
+- Encyclopaedia Britannica — Salt March (S-390).
+- South African History Online — Defiance Campaign 1952 (S-146).

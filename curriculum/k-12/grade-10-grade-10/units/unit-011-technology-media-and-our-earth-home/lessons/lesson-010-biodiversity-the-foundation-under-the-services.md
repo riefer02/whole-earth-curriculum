@@ -113,20 +113,36 @@ living world gives us.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **biodiversity — the variety of living
-things — underpins every ecosystem service, because more kinds of life mean more ways for the system to
-keep working when one part fails (redundancy and resilience); thinning the base of species thins the
-services.** The **environment** lens is the spine. The **egalitarian** lens: the loss of biodiversity
-falls hardest on people who depend most directly on wild species for food, medicine, and livelihood
-(S-437). The **global** lens: biodiversity is distributed unevenly across the planet, and the places
-richest in species are often the places with the least money to protect them — a question of shared
-responsibility (S-279). The **ethics** lens: other species have value beyond their usefulness to us —
-a claim many traditions hold and one we can weigh alongside the services argument (S-427). The
-**technology** lens: technology can mimic a few services but cannot rebuild a thinned web of life.
-Anchor the science: a keystone species is one whose effect is large for its abundance (S-176); IPBES
-documents that species decline is driven by land-use change, direct exploitation, climate change,
-pollution, and invasive species (S-437). Keep the wolf/aspens example hedged — recovery has been complex
-and contested (S-310). Preview: next lesson asks what happens at a *threshold* — the tipping point.
+**Tone.** Steady and concrete: a web, not a slogan.
+
+**The facts to land.**
+
+1. Biodiversity underpins every ecosystem service: more kinds of life mean more ways for
+   the system to keep working when one part fails (redundancy and resilience), so
+   thinning the base thins the services.
+2. A **keystone species** has an effect large for its abundance (S-176); IPBES documents
+   decline driven by land-use change, direct exploitation, climate change, pollution,
+   and invasive species (S-437).
+3. Loss falls hardest on people who depend most directly on wild species for food,
+   medicine, and livelihood (S-437); the places richest in species often have the least
+   money to protect them (S-279); and many traditions hold that other species have value
+   beyond their use to us (S-427).
+
+**Don't overshoot.** Keep the wolf-and-aspens example hedged — that recovery has been
+complex and contested (S-310).
+
+**The lenses, briefly.**
+
+- *Environment:* the spine — variety is what keeps the system working.
+- *Egalitarianism:* the loss lands hardest on those who live closest to it.
+- *Global:* species richness and protecting money sit in different places — shared
+  responsibility.
+- *Ethics:* worth beyond usefulness is a claim to weigh, not to assume.
+- *Technology:* it can mimic a few services; it cannot rebuild a thinned web.
+
+**The skill.** Model once, then release (S-011): trace one service back to the species
+that provide it, then remove one and predict the effect. Next lesson asks about
+thresholds.
 
 ## Procedure
 
@@ -175,3 +191,4 @@ does each kind do there — and what would be lost if one kind disappeared?
 - On a hedged example of a species' ripple effects (complex and contested): Ripple & Beschta (2012),
   trophic cascades in Yellowstone (S-310).
 - On the value of other beings beyond usefulness: Robin Wall Kimmerer, *Braiding Sweetgrass* (S-427).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

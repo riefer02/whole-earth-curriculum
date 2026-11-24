@@ -106,14 +106,13 @@ practice is how they do.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the goal and line, then model a kick slowly — plant one
-foot, swing the other — before learners try. This is skill-building, not competition:
-celebrate control and growing accuracy, never power or distance. Use soft, light balls
-so no foot gets hurt. Honor every body: a learner who uses a wheelchair can push the
-ball with a wheel or a foot, and that counts fully; a learner who needs support can
-kick from a seated position or with a partner steadying them. Offer adapted versions
-as real choices. Supervise kicks so everyone faces the same direction.
+Prepare the goal and line, then model a kick slowly — plant one foot, swing the other —
+before learners try. This is skill-building, not competition: celebrate control and
+growing accuracy, never power or distance. Use soft, light balls so no foot gets hurt.
+Honor every body: a learner who uses a wheelchair can push the ball with a wheel or a
+foot, and that counts fully; a learner who needs support can kick from a seated position
+or with a partner steadying them. Offer adapted versions as real choices. Supervise
+kicks so everyone faces the same direction.
 
 ## Procedure
 

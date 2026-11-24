@@ -111,22 +111,35 @@ water matters and practice listening to your own thirst.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Water is a human need and a question of
-justice, not a personal failing.** Teach why water matters and how to answer thirst,
-then hold the global truth gently: many people do not have clean water to drink, and that
-is a fairness problem we can work on — not something to make any learner feel ashamed of
-their own home. Never shame a learner for being thirsty or for having little water at
-home. How much water a body needs varies with weather, activity, and the person, so
-"drink when thirsty" is the rule, not a fixed amount. A learner who cannot drink on their
-own is helped without comment; a learner who does not use a speaking voice signs or
-points "drink" and shows thirst. A learner who is blind or has low vision feels the
-cup and the water's coolness and hears thirst named by body signs — a dry mouth, a warm
-tired feeling — so the idea lives in the body, not only in the chart. A learner who is
-deaf or hard of hearing follows the chart and demonstrations from the front, since every
-idea is shown in pictures. The
-health facts are from the World Health Organization: water is essential to life, and
-safe drinking-water keeps bodies well. This lesson begins the unit's D03.S3.02.02 water
-objective and links forward to handwashing, which also needs clean water.
+**Tone.** Warm and matter-of-fact. **Water is a need and a question of justice, not a
+personal failing.**
+
+**The facts to land.**
+
+1. Water is essential to life, and safe drinking-water keeps bodies well (World Health
+   Organization).
+2. How much water a body needs varies with weather, activity, and the person, so
+   **"drink when thirsty" is the rule**, not a fixed amount.
+3. Many people do not have clean water to drink. That is a fairness problem we can work
+   on, not a reason to shame anyone's home.
+
+**Don't overshoot.** Never shame a learner for being thirsty or for having little water
+at home, and don't turn the chart into a quota.
+
+**The lenses, briefly.**
+
+- *Physical:* thirst is the body's own signal — a dry mouth, a warm tired feeling.
+- *Ethics:* a learner who cannot drink unaided is helped without comment.
+- *Egalitarianism:* clean water is owed to everyone, not earned.
+- *Environment:* water is shared, finite, and worth keeping clean.
+
+**The skill.** Notice thirst, then answer it with water.
+
+**Access.** Non-speaking: sign or point "drink," and show thirst. Blind or low-vision:
+feel the cup and the water's coolness, and hear thirst named by body signs. Deaf or hard
+of hearing: follow the chart and demonstrations from the front, where every idea is
+shown in pictures. This begins the D03.S3.02.02 objective and links to handwashing,
+which also needs clean water.
 
 ## Procedure
 

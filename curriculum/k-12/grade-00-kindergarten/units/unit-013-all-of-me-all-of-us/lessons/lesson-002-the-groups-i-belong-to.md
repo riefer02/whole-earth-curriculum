@@ -102,11 +102,11 @@ name the groups that make you part of an "us."
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). There is no one "right" family or
-community — some children live with grandparents, aunts and uncles, one parent,
-several generations together under one roof, or chosen family; some belong to a faith
-community, a neighborhood, a sports team, a market, or a language group. Honor every family shape and every community equally; never rank one
-as better than another. Let each child name the groups that are true for them.
+There is no one "right" family or community — some children live with grandparents,
+aunts and uncles, one parent, several generations together under one roof, or chosen
+family; some belong to a faith community, a neighborhood, a sports team, a market, or a
+language group. Honor every family shape and every community equally; never rank one as
+better than another. Let each child name the groups that are true for them.
 
 ## Procedure
 

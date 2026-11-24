@@ -123,19 +123,19 @@ Choosing one small **self-care action** is the second.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The one idea to land is that **signs of
-stress are information, not weakness — and a small self-care action helps**. Keep it
-**empowering and non-stigmatizing**: never label a learner "stressed," "anxious," or
-"depressed," and never suggest that struggling is a defect. Use ordinary language — "a lot
-on your mind," "feeling heavy," "worried," "tired" — and treat stress as something every
-person feels, at every age, in every culture. Frame **distress** gently as heavier,
-longer-lasting stress that deserves extra care — and, crucially, that when feelings feel
-too big to carry alone, **telling a trusted adult is itself self-care** (the capstone's
-focus). Invite only safe, ordinary examples; a learner may carry heavy or ongoing stress,
-so never require disclosure and always leave room to step away. The self-care actions must
-be simple, free, and universal — water, slow breathing, movement, rest, talking to
-someone, stepping away — never luxuries some learners cannot access. See
-`docs/facilitation.md` on holding difficult topics safely.
+The one idea to land is that **signs of stress are information, not weakness — and a
+small self-care action helps**. Keep it **empowering and non-stigmatizing**: never label
+a learner "stressed," "anxious," or "depressed," and never suggest that struggling is a
+defect. Use ordinary language — "a lot on your mind," "feeling heavy," "worried,"
+"tired" — and treat stress as something every person feels, at every age, in every
+culture. Frame **distress** gently as heavier, longer-lasting stress that deserves extra
+care — and, crucially, that when feelings feel too big to carry alone, **telling a
+trusted adult is itself self-care** (the capstone's focus). Invite only safe, ordinary
+examples; a learner may carry heavy or ongoing stress, so never require disclosure and
+always leave room to step away. The self-care actions must be simple, free, and
+universal — water, slow breathing, movement, rest, talking to someone, stepping away —
+never luxuries some learners cannot access. See `docs/facilitation.md` on holding
+difficult topics safely.
 
 ## Procedure
 

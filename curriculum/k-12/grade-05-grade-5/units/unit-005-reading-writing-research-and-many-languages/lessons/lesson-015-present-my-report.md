@@ -141,14 +141,14 @@ back. A report is not finished until it reaches someone else's ears.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is the unit's **summative performance** —
-the moment learners show what they can do, not to be ranked but to be seen and celebrated.
-Keep audiences small and warm so every voice is heard; rotate a peer questioner. Listeners
-practice the unit's listening skills (paraphrase + clarifying question), so *everyone* is doing
-the work, not just the presenter. Honor home languages: presenting in a home language is
-welcome, and a learner may tell how their report relates to their language and its writing
-system. Assess for growth and mastery, never against one another (`docs/philosophy.md` §8).
-See `docs/facilitation.md` on assessing without ranking.
+This is the unit's **summative performance** — the moment learners show what they can
+do, not to be ranked but to be seen and celebrated. Keep audiences small and warm so
+every voice is heard; rotate a peer questioner. Listeners practice the unit's listening
+skills (paraphrase + clarifying question), so *everyone* is doing the work, not just the
+presenter. Honor home languages: presenting in a home language is welcome, and a learner
+may tell how their report relates to their language and its writing system. Assess for
+growth and mastery, never against one another (`docs/philosophy.md` §8). See
+`docs/facilitation.md` on assessing without ranking.
 
 ## Procedure
 

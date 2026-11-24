@@ -109,15 +109,14 @@ Today you gather both: the facts of you, and one thing you are proud of.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It **spirals back** to the opening
-unit's "All About Me" and "Something I'm Proud Of" lessons and deepens them: facts
-are joined to pride, and pride is firmly tied to *growth, not competition*. Watch for
-any learner drifting toward "I am proud I won" — gently re-anchor to effort: "What
-did you practice or work at?" Remember that "family" means many things — a parent, a
-   grandparent, a guardian, a foster parent, siblings, chosen kin; there is no correct
-   family to draw. No two pages should look alike, and that is the point. For a
-   learner who does not use a
-speaking voice, accept pointing, drawing, acting, or a partner voicing the words.
+It **spirals back** to the opening unit's "All About Me" and "Something I'm Proud Of"
+lessons and deepens them: facts are joined to pride, and pride is firmly tied to
+*growth, not competition*. Watch for any learner drifting toward "I am proud I won" —
+gently re-anchor to effort: "What did you practice or work at?" Remember that "family"
+means many things — a parent, a grandparent, a guardian, a foster parent, siblings,
+chosen kin; there is no correct family to draw. No two pages should look alike, and that
+is the point. For a learner who does not use a speaking voice, accept pointing, drawing,
+acting, or a partner voicing the words.
 
 ## Procedure
 

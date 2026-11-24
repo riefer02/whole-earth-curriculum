@@ -120,21 +120,21 @@ compass from the fog.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description,
-never as a claim that feeling is the enemy of reason**: emotion is *integral* to
-judgment — it can improve decision quality and it can degrade it (Lerner, Li,
-Valdesolo & Kassam, S-333). One respected scientific account of the "informing" half is
-the **somatic marker** idea — that bodily responses ("gut feelings") carry information
-that guides choice (Damasio, S-406); offer it as *one well-supported story, not settled
-fact.* The "biasing" half is captured by the fast, automatic, feeling-laden first
-response versus the slower, deliberate check (Kahneman, S-337).
+The idea to land, held as **description, never as a claim that feeling is the enemy of
+reason**: emotion is *integral* to judgment — it can improve decision quality and it can
+degrade it (Lerner, Li, Valdesolo & Kassam, S-333). One respected scientific account of
+the "informing" half is the **somatic marker** idea — that bodily responses ("gut
+feelings") carry information that guides choice (Damasio, S-406); offer it as *one
+well-supported story, not settled fact.* The "biasing" half is captured by the fast,
+automatic, feeling-laden first response versus the slower, deliberate check (Kahneman,
+S-337).
 
 The **ethics** lens: whether to act on a feeling is itself a question about what is
 right to do. The **egalitarianism** lens: whose feelings are heard as "intuition" and
 whose are dismissed as "too emotional" is not even across people — the word itself has
 been used unevenly. The **global** lens: feeling and its value in judgment are
-understood differently across cultures, so no single culture's "calm rationality" is
-the default. The **critical-thinking** lens: "compass or fog?" is a test we run on a
+understood differently across cultures, so no single culture's "calm rationality" is the
+default. The **critical-thinking** lens: "compass or fog?" is a test we run on a
 feeling, not a verdict on a person. Preview: Lesson 2 puts feeling to work inside an
 ethical judgment.
 

@@ -99,11 +99,10 @@ some things with everyone else, and both are worth celebrating.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, model first by sharing something about
-yourself. Keep the frame broad and kind: "unique" is about what a learner chooses to
-share, not about ranking or comparing. Avoid asking learners to label themselves in
-ways that feel private. Every answer is welcomed equally.
+As facilitator, model first by sharing something about yourself. Keep the frame broad
+and kind: "unique" is about what a learner chooses to share, not about ranking or
+comparing. Avoid asking learners to label themselves in ways that feel private. Every
+answer is welcomed equally.
 
 ## Procedure
 

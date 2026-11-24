@@ -116,15 +116,15 @@ the sea each has a map that is whole and true.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **identity has
-many connected parts, and every family's shape, place, and history is whole and worthy**.
-This is the unit's deepest "honor every family" moment — be explicit that families come in
-many shapes: two parents, one parent, grandparents, adoptive or foster parents, siblings,
-chosen family, and blended families, and that all belong. Model inclusivity naturally
-(mention adoption and moving as ordinary, not "special cases"). If a learner reveals a
-loss, receive it with calm care; never require detail. The gallery walk should celebrate
-*difference*, never compare maps as better or worse. See `docs/facilitation.md` and
-`docs/art-style.md` on representing many kinds of family.
+The idea to land is that **identity has many connected parts, and every family's shape,
+place, and history is whole and worthy**. This is the unit's deepest "honor every
+family" moment — be explicit that families come in many shapes: two parents, one parent,
+grandparents, adoptive or foster parents, siblings, chosen family, and blended families,
+and that all belong. Model inclusivity naturally (mention adoption and moving as
+ordinary, not "special cases"). If a learner reveals a loss, receive it with calm care;
+never require detail. The gallery walk should celebrate *difference*, never compare maps
+as better or worse. See `docs/facilitation.md` and `docs/art-style.md` on representing
+many kinds of family.
 
 ## Procedure
 

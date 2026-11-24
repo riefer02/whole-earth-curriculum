@@ -111,29 +111,28 @@ seeing both what was taken and how peoples endured.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **colonization
-reshaped the world along three axes — populations (through epidemic and
-displacement), environments (through extraction and introduced species), and borders
-(drawn across peoples' lands) — and its effects on Indigenous peoples are real,
-documented, and still lived.** Model the three columns with worked examples before
-independent analysis (S-011).
+The idea to land: **colonization reshaped the world along three axes — populations
+(through epidemic and displacement), environments (through extraction and introduced
+species), and borders (drawn across peoples' lands) — and its effects on Indigenous
+peoples are real, documented, and still lived.** Model the three columns with worked
+examples before independent analysis (S-011).
 
-**Emotional safety:** this is difficult but not graphic content. Give a brief warning
-at the start ("today covers real harms — loss of land, life, and self-rule"), tell
-learners they may step out or pass at any time, name a trusted adult or counselor for
-anyone who needs it, and ground the class afterward (a slow breath, a quiet minute).
-Do not show graphic images; keep numbers brief and human. Always pair the loss with
-agency and endurance — peoples survived, resisted, and rebuilt (S-274, S-273).
+**Emotional safety:** this is difficult but not graphic content. Give a brief warning at
+the start ("today covers real harms — loss of land, life, and self-rule"), tell learners
+they may step out or pass at any time, name a trusted adult or counselor for anyone who
+needs it, and ground the class afterward (a slow breath, a quiet minute). Do not show
+graphic images; keep numbers brief and human. Always pair the loss with agency and
+endurance — peoples survived, resisted, and rebuilt (S-274, S-273).
 
 The **egalitarian** lens is the spine: colonization is a system of power — who gained
-and who was dispossessed is the question. The **global** lens: this happened across
-the Americas, Africa, Asia, and Oceania, not in one place (S-326). The **technology**
-and **environment** lenses: ships, firearms, and introduced species (the Columbian
-Exchange moved crops, animals, and disease in both directions, devastating Indigenous
-peoples while remaking landscapes, S-273); and the transatlantic trade forcibly
-displaced millions of African people (S-274, S-322). The **ethics** lens: naming the
-harm accurately is a duty to the truth, not a verdict on any person today. Preview:
-Lesson 8 centers Indigenous effects and endurance in depth.
+and who was dispossessed is the question. The **global** lens: this happened across the
+Americas, Africa, Asia, and Oceania, not in one place (S-326). The **technology** and
+**environment** lenses: ships, firearms, and introduced species (the Columbian Exchange
+moved crops, animals, and disease in both directions, devastating Indigenous peoples
+while remaking landscapes, S-273); and the transatlantic trade forcibly displaced
+millions of African people (S-274, S-322). The **ethics** lens: naming the harm
+accurately is a duty to the truth, not a verdict on any person today. Preview: Lesson 8
+centers Indigenous effects and endurance in depth.
 
 ## Procedure
 
@@ -186,3 +185,4 @@ Together, find one border or place name and trace where it came from.
   Columbian Exchange* (S-273).
 - On the transatlantic slave trade: UNESCO, Routes of Enslaved Peoples (S-274), and
   the SlaveVoyages database (S-322).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

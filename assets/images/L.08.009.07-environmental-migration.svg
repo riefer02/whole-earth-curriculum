@@ -10,17 +10,17 @@
   <g>
     <rect x="40" y="80" width="120" height="64" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
     <text x="100" y="108" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">drought</text>
-    <text x="100" y="128" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">rains fail</text>
+    <text x="100" y="128" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">rains fail</text>
   </g>
   <g>
     <rect x="196" y="80" width="120" height="64" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
     <text x="256" y="108" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">flood</text>
-    <text x="256" y="128" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">waters rise</text>
+    <text x="256" y="128" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">waters rise</text>
   </g>
   <g>
     <rect x="352" y="80" width="120" height="64" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
     <text x="412" y="108" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">sea-level rise</text>
-    <text x="412" y="128" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">coasts shrink</text>
+    <text x="412" y="128" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">coasts shrink</text>
   </g>
 
   <!-- arrows down -->
@@ -36,7 +36,7 @@
   <!-- central node -->
   <rect x="176" y="236" width="160" height="64" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="262" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">people move</text>
-  <text x="256" y="282" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">in the past and today</text>
+  <text x="256" y="282" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">in the past and today</text>
 
   <!-- arrows down to adaptation -->
   <path d="M256 300 L256 348" fill="none" stroke="#2b3a42" stroke-width="2.5" marker-end="url(#sarr-L-08-009-07-environmental-migration)"/>
@@ -47,6 +47,6 @@
   <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">move to new land · change how they farm</text>
   <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">build differently · plan together</text>
 
-  <text x="256" y="475.6" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#4f6d7a">Past: the Ancestral Pueblo moved from Chaco Canyon in drought (late 1200s).</text>
+  <text x="256" y="475.6" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Past: the Ancestral Pueblo moved from Chaco Canyon in drought (late 1200s).</text>
   <text x="256" y="491.9" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Today: the same pattern, faster.</text>
 </svg>

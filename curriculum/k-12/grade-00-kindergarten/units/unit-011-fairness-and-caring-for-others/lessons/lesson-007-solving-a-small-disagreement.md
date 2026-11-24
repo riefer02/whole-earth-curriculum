@@ -105,22 +105,33 @@ right — the hurt is repaired and everyone can play again.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches *repair, not punishment*: after a
-small hurt, the goal is making things right — a kind word, returning what was taken,
-checking the friend is okay — not shaming or excluding anyone. Name feelings before
-fixes; both sides get heard. The three steps are a scaffold, not a script to obey;
-wonder together about what might work in each case. Where an adult is present, the
-adult's help is welcome and safe — asking for help is strength, not weakness. Keep
-examples small, everyday, and free of blame. "Use your words" means *however a
-learner expresses themselves* — spoken words, sign, a gesture, pointing to a feeling
-or a picture on the strip, or a communication board. A learner who does not speak
-aloud still "uses words": a grown-up or peer can voice what they point to or sign.
-Learners who are deaf or hard of hearing follow the strip by sight and sign; learners
-who are blind or low-vision hear the steps named and touch or feel the toys. Acting
-out with the toys is one way to practice, not the only way — a learner with limited
-movement can point to the step on the strip, or direct a partner or adult to move the
-toys while they show the feeling and choose the repair. Never require anyone to speak
-or to act in front of the group.
+**Tone.** Calm, on the side of repair. Name the feeling before the fix.
+
+**The facts to land.**
+1. This is **repair, not punishment**: a kind word, returning what was taken, checking
+   the friend is okay.
+2. Both sides get heard; both name their feeling first.
+3. The three steps are a scaffold, not a script — wonder together what might work.
+
+**Don't overshoot.** No shaming, excluding, or blame; keep examples small and everyday.
+Never require anyone to speak or act in front of the group.
+
+**The lenses, briefly.**
+- *Ethics:* making things right is the goal; being right is not.
+- *Egalitarianism:* "use your words" means however a learner expresses — speech, sign,
+  a gesture, a picture on the strip, a communication board.
+- *Social-emotional:* feelings are named before solutions are chosen.
+- *Community:* where an adult is present, their help is welcome — asking for help is
+  strength, not weakness.
+- *Critical-thinking:* the learner chooses the repair and predicts whether it will work.
+
+**The skill.** Say what happened and how you feel, hear the other side, then choose a
+repair and try it.
+
+**Access.** A learner who does not speak aloud still "uses words" — an adult or peer
+voices what they point to or sign. Deaf or hard of hearing: follow the strip by sight
+and sign. Blind or low-vision: hear the steps named, touch or feel the toys. Limited
+movement: point to the step on the strip, or direct a partner to move the toys.
 
 ## Procedure
 

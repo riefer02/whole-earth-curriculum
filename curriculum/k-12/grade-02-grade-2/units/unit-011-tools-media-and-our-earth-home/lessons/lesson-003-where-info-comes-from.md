@@ -113,17 +113,17 @@ place.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Build on Grade 1's "who made it and for
-whom" and grow it into "where did it come from, and what do I ask?" Keep the tone warm —
-asking about a source is a treasure of a careful reader, never a rude challenge. Honor all
-sources equally: a grandmother's spoken word, a printed book, and a screen can all carry
-true information, and all deserve a question. Hold the stance of the whole curriculum:
-question gently, never cynically. In places where it is not safe to question an adult,
-frame it as *wondering together* (see `docs/contexts.md`), and let learners write or drop
-questions into a "wonder box" instead of speaking them. Honor every body: a learner who
-is blind or has low vision can hear each fact and name its source by voice, and feel a
-book's pages or a screen's edge; a non-speaking learner points to the source card and to a
-question card to show the answer.
+Build on Grade 1's "who made it and for whom" and grow it into "where did it come from,
+and what do I ask?" Keep the tone warm — asking about a source is a treasure of a
+careful reader, never a rude challenge. Honor all sources equally: a grandmother's
+spoken word, a printed book, and a screen can all carry true information, and all
+deserve a question. Hold the stance of the whole curriculum: question gently, never
+cynically. In places where it is not safe to question an adult, frame it as *wondering
+together* (see `docs/contexts.md`), and let learners write or drop questions into a
+"wonder box" instead of speaking them. Honor every body: a learner who is blind or has
+low vision can hear each fact and name its source by voice, and feel a book's pages or a
+screen's edge; a non-speaking learner points to the source card and to a question card
+to show the answer.
 
 ## Procedure
 

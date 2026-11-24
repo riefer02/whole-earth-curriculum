@@ -111,16 +111,15 @@ same: find the world, then watch what it makes happen.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **setting and
-plot develop together — the setting causes the conflict, and the plot is the chain of
-what happens because of it**. Model one worked example: read the story aloud, then place
-the first two beats on the mountain and say *why* the setting caused them (Kirschner,
-Sweller & Clark, 2006). The story is an original teaching text, not a sacred or cultural
-narrative; treat it as one invented example. The four lenses: *environment* (the natural
-world is a character — flood, steppe, city); *global* (compare this river story with
-water stories learners know); *egalitarianism* (in the story, everyone must work together
-to cross — no hero alone); *critical-thinking* (plot beats need text evidence). See
-`docs/facilitation.md`.
+The idea to land is that **setting and plot develop together — the setting causes the
+conflict, and the plot is the chain of what happens because of it**. Model one worked
+example: read the story aloud, then place the first two beats on the mountain and say
+*why* the setting caused them (Kirschner, Sweller & Clark, 2006). The story is an
+original teaching text, not a sacred or cultural narrative; treat it as one invented
+example. The four lenses: *environment* (the natural world is a character — flood,
+steppe, city); *global* (compare this river story with water stories learners know);
+*egalitarianism* (in the story, everyone must work together to cross — no hero alone);
+*critical-thinking* (plot beats need text evidence). See `docs/facilitation.md`.
 
 ## Procedure
 

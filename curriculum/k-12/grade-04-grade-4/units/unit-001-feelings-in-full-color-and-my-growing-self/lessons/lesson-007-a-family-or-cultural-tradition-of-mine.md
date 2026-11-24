@@ -116,14 +116,13 @@ small, real thread that ties you to your family and your people.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Traditions are deeply personal and
-diverse — some learners may have several, some may feel they have none, and some may have
-traditions tied to loss or migration. Hold all of it gently. The one requirement is a
-*repeat with meaning*; it can be as small as "we eat together every Friday." Do not rank
-traditions or treat any as "exotic" — the goal is that every learner sees their own
-practice as worthy of the same respect as any other. Model your own tradition first
-(worked example). See `docs/facilitation.md` on holding difficult topics and cultural
-power dynamics.
+Traditions are deeply personal and diverse — some learners may have several, some may
+feel they have none, and some may have traditions tied to loss or migration. Hold all of
+it gently. The one requirement is a *repeat with meaning*; it can be as small as "we eat
+together every Friday." Do not rank traditions or treat any as "exotic" — the goal is
+that every learner sees their own practice as worthy of the same respect as any other.
+Model your own tradition first (worked example). See `docs/facilitation.md` on holding
+difficult topics and cultural power dynamics.
 
 ## Procedure
 

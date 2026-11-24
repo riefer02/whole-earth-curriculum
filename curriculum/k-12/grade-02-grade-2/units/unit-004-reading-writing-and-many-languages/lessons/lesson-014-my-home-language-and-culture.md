@@ -107,16 +107,15 @@ everyone in the circle leaves richer.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. This is a lesson of belonging: every learner's home language
-— spoken or signed — is honored first, with no language ranked above another, and no
-"correct" accent or way of speaking. UNESCO and a wide evidence base hold that
-education in a child's mother tongue strengthens learning and identity; multilingual
-classrooms that honor home languages first build stronger readers and stronger
-belonging. If a learner does not want to share today, that is their right — they may
-pass, listen, and share another day. A learner whose language is a sign language
-shares it as a language, fully equal to any spoken one. Keep the sharing warm and
-unhurried; this is celebration, not performance or ranking.
+This is a lesson of belonging: every learner's home language — spoken or signed — is
+honored first, with no language ranked above another, and no "correct" accent or way of
+speaking. UNESCO and a wide evidence base hold that education in a child's mother tongue
+strengthens learning and identity; multilingual classrooms that honor home languages
+first build stronger readers and stronger belonging. If a learner does not want to share
+today, that is their right — they may pass, listen, and share another day. A learner
+whose language is a sign language shares it as a language, fully equal to any spoken
+one. Keep the sharing warm and unhurried; this is celebration, not performance or
+ranking.
 
 ## Procedure
 

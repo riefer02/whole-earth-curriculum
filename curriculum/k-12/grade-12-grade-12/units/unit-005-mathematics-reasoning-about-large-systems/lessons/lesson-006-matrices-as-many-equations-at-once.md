@@ -113,26 +113,25 @@ represents many relationships at once, and can be reduced to see the answer.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an augmented matrix
-holds the coefficients and the answers side by side; row operations (swap, scale, add a
-multiple) preserve the solution while clearing one unknown at a time, and the reduced
-matrix reads out the solution.** Teach the moves explicitly with a worked example and
-guided practice (S-011). The interpretation — what the numbers mean in the original
-situation — is the goal, not the row operations alone.
+The idea to land: **an augmented matrix holds the coefficients and the answers side by
+side; row operations (swap, scale, add a multiple) preserve the solution while clearing
+one unknown at a time, and the reduced matrix reads out the solution.** Teach the moves
+explicitly with a worked example and guided practice (S-011). The interpretation — what
+the numbers mean in the original situation — is the goal, not the row operations alone.
 
 The **ethics** lens: row operations are a public, checkable record — the same answer
 anyone else can verify, which is what makes a computed result trustworthy rather than
-opaque. The **egalitarianism** lens: the matrix puts every unknown in the same grid, so no
-quantity is privileged; the method is a shared skill, not an arcane one. The **global**
-lens: the *fangcheng* array of the *Nine Chapters* (China, c. 200 BCE) arranged systems in
-rows and columns and eliminated unknowns — an ancestor of Gaussian elimination (S-289,
-S-429); the Lo Shu square is an early Chinese array-like object whose rows, columns, and
-diagonals sum to 15 (S-496). The **technology** lens: computers solve enormous systems by
-exactly these row operations — the matrix is the working form of numerical computation.
-The **environment** lens: resource and energy balances (supply meeting demand across many
-nodes of a grid) are matrices; a solution that needs negative or impossible amounts
-signals a mismatch between plan and planet (S-005). Preview: Lesson 7 turns from solving
-to *algorithms*.
+opaque. The **egalitarianism** lens: the matrix puts every unknown in the same grid, so
+no quantity is privileged; the method is a shared skill, not an arcane one. The
+**global** lens: the *fangcheng* array of the *Nine Chapters* (China, c. 200 BCE)
+arranged systems in rows and columns and eliminated unknowns — an ancestor of Gaussian
+elimination (S-289, S-429); the Lo Shu square is an early Chinese array-like object
+whose rows, columns, and diagonals sum to 15 (S-496). The **technology** lens: computers
+solve enormous systems by exactly these row operations — the matrix is the working form
+of numerical computation. The **environment** lens: resource and energy balances (supply
+meeting demand across many nodes of a grid) are matrices; a solution that needs negative
+or impossible amounts signals a mismatch between plan and planet (S-005). Preview:
+Lesson 7 turns from solving to *algorithms*.
 
 ## Procedure
 
@@ -204,3 +203,4 @@ matrix. Add or scale a row and write one sentence on what the changed numbers wo
 - On the *fangcheng* array and the history of systems: MacTutor — Nine Chapters (S-289);
   Boyer & Merzbach, *A History of Mathematics* (S-429). On the Lo Shu square: Wikipedia —
   Luoshu Square (S-496).
+- Intergovernmental Panel on Climate Change (S-005).

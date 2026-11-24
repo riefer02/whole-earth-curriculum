@@ -107,21 +107,35 @@ ones. Today you map the variety — and find what they all share.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **community takes many forms — (1) kinship
-(family by birth or marriage), (2) chosen family (people who become family by choice, not blood), (3)
-mutual-aid networks (people who meet one another's needs together, as equals), (4) faith and spiritual
-communities, (5) diaspora (a people scattered across countries who keep a shared identity and care across
-distance), and (6) online communities. What all forms share: people belong to something, share something
-(stories, resources, identity, care), and give to one another.** This is a *concept*, so use inquiry and
-comparison (philosophy §13). The global/anthropological lens is the heart here: communities differ across
-cultures and times — the communal-work traditions of harambee in Kenya, gotong royong in Indonesia, mink'a in
-the Andes, and barn-raising in North America are all named forms of mutual aid (S-164); the term "mutual aid"
-was popularized by Kropotkin (S-163); and mutual aid as solidarity — not charity — is articulated by Dean
-Spade (S-345). The egalitarian lens: there is no single "real" family or "real" community — a chosen family
-is as real as a birth family, and honoring that is honoring people's lives. The ethics lens: communities
-carry obligations — to care for members and to ask who is left out. The technology lens: online community is
-real belonging, not a lesser copy, even though it works differently. Approach other cultures' communities as
-living traditions to honor with respectful questions, never as specimens.
+**Tone.** Warm and appreciative — these are living traditions, approached with
+respectful questions.
+
+**The facts to land.**
+
+1. **Six forms:** kinship (family by birth or marriage); chosen family (people who
+become family by choice, not blood); mutual-aid networks (people who meet one another's
+needs together, as equals); faith and spiritual communities; diaspora (a people
+scattered across countries who keep a shared identity and care across distance); and
+online communities.
+2. **What all forms share:** people belong to something, share something (stories,
+resources, identity, care), and give to one another.
+
+**The lenses, briefly.**
+
+- *Global:* the communal-work traditions of harambee in Kenya, gotong royong in
+Indonesia, mink'a in the Andes, and barn-raising in North America are all named forms of
+mutual aid (S-164); the term "mutual aid" was popularized by Kropotkin (S-163); and
+mutual aid as solidarity — not charity — is articulated by Dean Spade (S-345).
+- *Egalitarianism:* there is no single "real" family or "real" community — a chosen
+family is as real as a birth family, and honouring that honours people's lives.
+- *Ethics:* communities carry obligations — to care for members and to ask who is left
+out.
+- *Technology:* online community is real belonging, not a lesser copy, even though it
+works differently.
+- *Community:* belonging is something people build together, not only receive.
+
+**The skill.** Inquiry and comparison (philosophy §13), treating other cultures'
+communities as living traditions, never as specimens.
 
 ## Procedure
 

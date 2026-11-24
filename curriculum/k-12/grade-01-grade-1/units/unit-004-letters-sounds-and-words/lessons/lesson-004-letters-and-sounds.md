@@ -104,17 +104,15 @@ of your own language.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. The key commitment is **script-agnosticism**: do not assume
-the Latin alphabet or that "one mark = one sound." A learner's system may be
-Arabic, Devanagari, Chinese characters, Cyrillic, Ethiopic, Hangul, or another —
-honor it. Work in the writing system(s) actually present in your classroom or home,
-and never rank scripts. If learners use different systems, celebrate each one
-side by side. For a learner who is blind or has low vision, make the marks
-**tactile** — raised lines of string, sand-glue, clay, or found objects — so the
-shape can be felt with the hands; the learner points or touches to match a mark to
-its sound. A learner who does not use a speaking voice matches by pointing,
-touching, or gesturing instead of saying the sound aloud.
+The key commitment is **script-agnosticism**: do not assume the Latin alphabet or that
+"one mark = one sound." A learner's system may be Arabic, Devanagari, Chinese
+characters, Cyrillic, Ethiopic, Hangul, or another — honor it. Work in the writing
+system(s) actually present in your classroom or home, and never rank scripts. If
+learners use different systems, celebrate each one side by side. For a learner who is
+blind or has low vision, make the marks **tactile** — raised lines of string, sand-glue,
+clay, or found objects — so the shape can be felt with the hands; the learner points or
+touches to match a mark to its sound. A learner who does not use a speaking voice
+matches by pointing, touching, or gesturing instead of saying the sound aloud.
 
 ## Procedure
 

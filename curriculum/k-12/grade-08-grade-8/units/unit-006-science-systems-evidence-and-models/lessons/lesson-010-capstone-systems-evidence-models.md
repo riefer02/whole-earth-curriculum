@@ -121,23 +121,34 @@ can see how the pieces connect into one living picture of the world. Today you b
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the **closing capstone and synthesis**. The
-goal: **each learner recalls all eight goals and connects them into one web around systems, evidence,
-and models.** The eight goals are: (1) design a controlled experiment — hypothesis, variables,
-controls, repeated trials; (2) revise models when evidence appears — miasma → germ theory, and
-continental drift → plate tectonics; (3) genes + environment shape inheritance and expression; (4)
-one population ripples through an ecosystem, reducing or restoring balance; (5) atoms, elements,
-compounds, and reactions rearrange matter; (6) electric and magnetic fields produce forces and
-currents; (7) stars forge the elements and we live in the Milky Way; (8) plate tectonics shapes
-continents, mountains, and ocean basins. This is a **retrieval and spacing** moment — having
-learners recall rather than re-read is what makes the learning durable (S-039). Keep assessment
-**mastery, not ranking**: a learner who cannot yet recall a goal simply revisits that lesson's
-artifact and tries again — "not yet" is information, never a verdict. The four lenses, together: the
-**critical-thinking** lens asks what evidence supports each claim; the **ethics** lens asks what is
-right and who is affected; the **egalitarian** lens asks who benefits and who is left out;
-the **global** lens asks how this looks in other places and times; the **environment** lens asks
-what this means for the living Earth. Origins remain held as models with evidence, never creed
-(philosophy §11). Celebrate the collective: each learner's map is a thread in one class web.
+**Tone.** Celebratory and unpressured — a web, not a scoreboard.
+
+**The facts to land.**
+
+1. Each learner recalls all eight goals and connects them into one web around systems,
+   evidence, and models.
+2. The eight goals: controlled experiments; revising models (miasma → germ theory,
+   continental drift → plate tectonics); genes plus environment shaping traits; population
+   ripples;
+   atoms and reactions; fields and currents; stars forging elements; plate tectonics.
+3. This is retrieval and spacing — recall, not re-reading, makes learning durable
+   (S-039).
+
+**Don't overshoot.** A learner who cannot yet recall a goal revisits that lesson's
+artifact and tries again; "not yet" is information, never a verdict.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* what evidence supports each claim?
+- *Ethics:* what is right, and who is affected?
+- *Egalitarianism:* who benefits, and who is left out?
+- *Global:* how does this look in other places and times?
+- *Environment:* what does this mean for the living Earth?
+
+**The skill.** Build the map aloud, then check each thread against its source. Origins
+stay models with evidence, never creed (`philosophy` §11).
+
+**Close.** Celebrate the collective: each learner's map is a thread in one class web.
 
 ## Procedure
 

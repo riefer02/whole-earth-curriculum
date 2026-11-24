@@ -125,19 +125,18 @@ share.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **capstone**, weaving
-together place value, adding and subtracting within 100, and graphs. Learners work in
-pairs or small groups and take the role that fits them — asking, tallying, drawing,
-counting, or presenting — so success is collective, not ranked (philosophy §8). The
-one new skill is *integrating*: reading a graph and answering "how many more or less"
-with subtraction. Teach it with a **worked example** (philosophy §13) if needed, but
-let the groups drive. The fair is a celebration of mastery, not a competition: every
-graph is honored, and every finding is real. **No one's graph is "better"; a clear,
-honest graph is the goal, and every learner's contribution matters.** For learners who
-are Deaf or hard of hearing, present findings in sign and point to the graph; for
-learners who are blind or low-vision, build a tactile graph and present by counting
-aloud. A learner who does not speak presents by pointing to bars and holding up the
-number. Celebrate every group.
+It is the unit's **capstone**, weaving together place value, adding and subtracting
+within 100, and graphs. Learners work in pairs or small groups and take the role that
+fits them — asking, tallying, drawing, counting, or presenting — so success is
+collective, not ranked (philosophy §8). The one new skill is *integrating*: reading a
+graph and answering "how many more or less" with subtraction. Teach it with a **worked
+example** (philosophy §13) if needed, but let the groups drive. The fair is a
+celebration of mastery, not a competition: every graph is honored, and every finding is
+real. **No one's graph is "better"; a clear, honest graph is the goal, and every
+learner's contribution matters.** For learners who are Deaf or hard of hearing, present
+findings in sign and point to the graph; for learners who are blind or low-vision, build
+a tactile graph and present by counting aloud. A learner who does not speak presents by
+pointing to bars and holding up the number. Celebrate every group.
 
 ## Procedure
 

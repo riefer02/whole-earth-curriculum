@@ -117,20 +117,36 @@ the difference, and doing the repair.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **repair** as the fuller form of
-justice for children: harm is *made right*, not only answered with a penalty. The
-three repair moves are **listen** (hear the one who was hurt), **take responsibility**
-(own what happened, without shame — name the *act*, never the child), and **make it
-right** (do something that fixes the hurt). Punishment alone is not "bad" — it can
-stop harm — but it does not, by itself, heal; repair does. Hold this as a question
-("what does each path do for the person who was hurt?"), never as a forced ritual:
-never make a learner confess a real, private harm or perform a scripted apology —
-invented or acted harms are welcome, and a learner may always pass. A learner who does
-not speak aloud points to the two paths or signs; a learner who is deaf or hard of
-hearing follows the strip through sign; a learner who is blind or low-vision hears the
-two paths described and names which is repair and why; a learner with a motor
-difference can direct a partner to do the repair. The aim is that every learner can
-say, in their own way, "repair makes things right."
+**Tone.** Fair and unhurried — repair, not shame.
+
+**The facts to land.**
+1. Repair is the fuller form of justice for children: harm is *made right*, not only
+   answered with a penalty.
+2. The three moves are **listen**, **take responsibility** (own the act, never the
+   child) and **make it right**.
+3. Punishment alone is not "bad" — it can stop harm — but it does not, by itself, heal;
+   repair does.
+
+**Don't overshoot.** Do not turn repair into a forced ritual or a scripted apology.
+
+**The lenses, briefly.**
+- *Ethics:* the person hurt is who the repair answers to.
+- *Egalitarianism:* a child is never the problem; the act is.
+- *Social-emotional:* inventing the harm keeps practice safe.
+- *Community:* repair restores the group, not only the pair.
+- *Global:* many peoples practice restoring over punishing.
+- *Environment:* harm to a place can be repaired too.
+- *Critical-thinking:* "what does each path do for the person hurt?"
+
+**The skill.** Say "repair makes things right", then listen, own it, make it right.
+
+Never make a learner confess a real, private harm; invented or acted harms are welcome,
+and a learner may always pass.
+
+**Access:** a learner who does not speak aloud points to the two paths; a learner who is
+deaf or hard of hearing follows the strip through sign; a learner who is blind or has
+low vision hears the paths described; a learner with a motor difference directs a
+partner.
 
 ## Procedure
 

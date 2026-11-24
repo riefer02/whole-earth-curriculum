@@ -122,27 +122,27 @@ mysterious; they have names, and you can learn to assemble them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: a reasoned position has
-a *structure*, and that structure is the standard functional model of argument — claim,
-grounds, warrant, backing, qualifier, and rebuttal — named by Stephen Toulmin (S-236).
-Hold it as **one useful scaffold among many**, not the only way humans reason: other
-cultures and traditions have their own arts of reasoning and persuasion, and the
-scaffold serves those rather than replacing them. The Greek rhetorical tradition named
-persuasion through character (*ethos*), emotion (*pathos*), and argument (*logos*)
-(Aristotle, S-346); Toulmin's model is one precise way to build the *logos* half.
+The idea to land: a reasoned position has a *structure*, and that structure is the
+standard functional model of argument — claim, grounds, warrant, backing, qualifier, and
+rebuttal — named by Stephen Toulmin (S-236). Hold it as **one useful scaffold among
+many**, not the only way humans reason: other cultures and traditions have their own
+arts of reasoning and persuasion, and the scaffold serves those than replacing them. The
+Greek rhetorical tradition named persuasion through character (*ethos*), emotion
+(*pathos*), and argument (*logos*) (Aristotle, S-346); Toulmin's model is one precise
+way to build the *logos* half.
 
 The **ethics** lens: a rebuttal is not a weakness to hide but a duty — answering the
-strongest objection is a form of honesty toward those who disagree. The **egalitarianism**
-lens: the parts are learnable, which means a clear, evidenced position is not reserved
-for the fluent or the privileged. The **global** lens: what counts as convincing evidence
-and how openly doubt is admitted differ across cultures — none is the default. The
-**technology** lens: online, claims circulate detached from their grounds and warrants;
-reassembling the parts is a defense against that flattening. The **environment** lens:
-use a contested environmental-claim example (a wind farm, a dam, a forest road) so the
-scaffold is practiced on questions where evidence about the living world matters. The
-**critical-thinking** lens: naming a qualifier and a rebuttal is the opposite of
-overclaiming — it is where careful thinking becomes visible. Preview: Lesson 3 turns a
-reasoned position into public speech.
+strongest objection is a form of honesty toward those who disagree. The
+**egalitarianism** lens: the parts are learnable, which means a clear, evidenced
+position is not reserved for the fluent or the privileged. The **global** lens: what
+counts as convincing evidence and how openly doubt is admitted differ across cultures —
+none is the default. The **technology** lens: online, claims circulate detached from
+their grounds and warrants; reassembling the parts is a defense against that flattening.
+The **environment** lens: use a contested environmental-claim example (a wind farm, a
+dam, a forest road) so the scaffold is practiced on questions where evidence about the
+living world matters. The **critical-thinking** lens: naming a qualifier and a rebuttal
+is the opposite of overclaiming — it is where careful thinking becomes visible. Preview:
+Lesson 3 turns a reasoned position into public speech.
 
 ## Procedure
 

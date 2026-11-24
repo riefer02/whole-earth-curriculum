@@ -106,21 +106,35 @@ first step to choosing where your care actually goes. Today you take that step.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) empathy is naturally "parochial" — it
-runs strongest toward people near us, who look like us, and toward single identifiable victims, not crowds;
-this is the "identifiable victim effect" (S-414); (2) as the number of victims grows, feeling can actually
-numb — "psychic numbing" — one death is a tragedy, a million is a statistic; (3) media and technology can
-widen empathy (a single story, a face, a shared place can make a faraway person real) or narrow it (endless
-feeds, dehumanizing frames, and echo chambers that only show us "us"); (4) sustained exposure to others'
-suffering can produce "compassion fatigue" — not because we are cold, but because we are tired; (5) because
-we know this, we can choose counter-moves.** This is a *concept*, so use inquiry and discussion more than
-drill (philosophy §13). The critical-thinking lens: the same event can be framed as a person or a number, and
-the frame changes how we feel — so ask who chose the frame. The egalitarian lens: whose suffering is shown as
-a face and whose is shown as a statistic is often about power and proximity, not about whose suffering
-matters more. The global lens: media from different places frame faraway crises differently, and a global
-citizen learns to notice the frame. The technology lens is the heart here: feeds and platforms shape what we
-see, and therefore what we feel (S-226). Hold this honestly but not hopelessly — end with agency, the
-counter-move the learner can choose.
+**Tone.** Honest but not hopeless — end with the counter-move, never with numbness.
+
+**The facts to land.**
+
+1. **Empathy is naturally "parochial"** — strongest toward people near us, who look like
+us, and toward single identifiable victims rather than crowds: the **identifiable victim
+effect** (S-414).
+2. **Psychic numbing** — as the number of victims grows, feeling can numb: one death is
+a tragedy, a million is a statistic.
+3. **Media can widen empathy** — a single story, a face, a shared place can make a
+faraway person real — **or narrow it**, through endless feeds, dehumanizing frames, and
+echo chambers that only show us "us".
+4. **Compassion fatigue** — sustained exposure to others' suffering can tire us, not
+because we are cold but because we are tired.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* the same event can be framed as a person or a number, and the
+frame changes how we feel — so ask who chose the frame.
+- *Egalitarianism:* whose suffering is shown as a face and whose as a statistic is often
+about power and proximity, not about whose suffering matters more.
+- *Global:* media from different places frame faraway crises differently, and a global
+citizen learns to notice the frame.
+- *Technology:* feeds and platforms shape what we see, and therefore what we feel
+(S-226).
+- *Ethics:* because we know this, attention becomes a choice we are responsible for.
+
+**The skill.** Inquiry and discussion, not drill (philosophy §13): name the counter-move
+you can choose.
 
 ## Procedure
 

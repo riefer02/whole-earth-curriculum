@@ -106,16 +106,15 @@ crowds it, and move what is in the wrong place. Every great writer revisits and 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Revising is a taught step: model it on a shared paragraph with a
-worked example — add, remove, reorder — thinking aloud about *why* each change clarifies
-the idea (Kirschner, Sweller & Clark, 2006). Keep the distinction sharp for learners:
-**revising** works on ideas; **editing** (the next lesson) works on spelling and
-punctuation. Frame peer feedback as help, not judgment — one "this is clear" and one
-"this could be clearer" — so the writer stays in charge of their own piece (a cooperative,
-not competitive, act; see `docs/facilitation.md`). Honor revisions in the learner's home
-language and writing system, and honor revising by dictation, braille, or assistive
-technology. Mastery means the learner can name the change they made and why it helps.
+Revising is a taught step: model it on a shared paragraph with a worked example — add,
+remove, reorder — thinking aloud about *why* each change clarifies the idea (Kirschner,
+Sweller & Clark, 2006). Keep the distinction sharp for learners: **revising** works on
+ideas; **editing** (the next lesson) works on spelling and punctuation. Frame peer
+feedback as help, not judgment — one "this is clear" and one "this could be clearer" —
+so the writer stays in charge of their own piece (a cooperative, not competitive, act;
+see `docs/facilitation.md`). Honor revisions in the learner's home language and writing
+system, and honor revising by dictation, braille, or assistive technology. Mastery means
+the learner can name the change they made and why it helps.
 
 ## Procedure
 

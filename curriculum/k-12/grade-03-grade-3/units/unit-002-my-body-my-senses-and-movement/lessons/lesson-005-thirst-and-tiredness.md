@@ -112,17 +112,15 @@ fullness, these are your body's signals — and each one has a kind answer.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the cards and water, then guide the matching and
-drawing. This completes the four body signals the unit teaches (hunger and fullness
-came in Lesson 4). Model the response to thirst by making water freely available — a
-learner may drink whenever their body asks, with no need to ask permission. Keep
-tiredness gentle: tiredness is a normal body signal, not laziness, and rest is a real
-need, not a reward to be earned. Some learners do not sleep well at home; frame rest
-with kindness, never blame. Bodies differ — some need more water or more sleep than
-others — and every amount is respected. Drinking water when thirsty is a healthy habit
-the World Health Organization and health authorities around the world encourage for
-everyone.
+Prepare the cards and water, then guide the matching and drawing. This completes the
+four body signals the unit teaches (hunger and fullness came in Lesson 4). Model the
+response to thirst by making water freely available — a learner may drink whenever their
+body asks, with no need to ask permission. Keep tiredness gentle: tiredness is a normal
+body signal, not laziness, and rest is a real need, not a reward to be earned. Some
+learners do not sleep well at home; frame rest with kindness, never blame. Bodies
+differ — some need more water or more sleep than others — and every amount is respected.
+Drinking water when thirsty is a healthy habit the World Health Organization and health
+authorities around the world encourage for everyone.
 
 ## Procedure
 

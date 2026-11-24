@@ -12,14 +12,14 @@
   <!-- Nucleus -->
   <circle cx="230" cy="180" r="38" fill="#e0a458" fill-opacity="0.5" stroke="#2b3a42" stroke-width="2.5"/>
   <circle cx="216" cy="168" r="11" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="216" y="172" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222" font-weight="bold">+</text>
+  <text x="216" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222" font-weight="bold">+</text>
   <circle cx="244" cy="170" r="11" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="244" y="174" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222" font-weight="bold">+</text>
+  <text x="244" y="174" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222" font-weight="bold">+</text>
   <circle cx="230" cy="192" r="11" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
 
   <!-- Electrons -->
   <circle cx="230" cy="124" r="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="230" y="112" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">e⁻</text>
+  <text x="230" y="112" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">e⁻</text>
   <circle cx="130" cy="200" r="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
   <circle cx="330" cy="200" r="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
   <circle cx="130" cy="260" r="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>

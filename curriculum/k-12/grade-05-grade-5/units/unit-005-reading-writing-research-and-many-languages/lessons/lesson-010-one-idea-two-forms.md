@@ -113,12 +113,12 @@ everyone it needs to.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **adapting form to
-audience is a real, useful skill**, not a busywork rewrite. Model the before/after contrast and
-circle the changes (simpler words, different greeting, different order, different form). Honor
-home languages: a learner may adapt *into* a second language or *between* two languages, which
-is advanced and valuable. Keep the focus on *fit for the reader*, not on grammar errors. Use a
-worked example first, then let learners revise their own work (Kirschner, Sweller & Clark,
+The idea to land is that **adapting form to audience is a real, useful skill**, not a
+busywork rewrite. Model the before/after contrast and circle the changes (simpler words,
+different greeting, different order, different form). Honor home languages: a learner
+may adapt *into* a second language or *between* two languages, which is advanced and
+valuable. Keep the focus on *fit for the reader*, not on grammar errors. Use a worked
+example first, then let learners revise their own work (Kirschner, Sweller & Clark,
 2006).
 
 ## Procedure

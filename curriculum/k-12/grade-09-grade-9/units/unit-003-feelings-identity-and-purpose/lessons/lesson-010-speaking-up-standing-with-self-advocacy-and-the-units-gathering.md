@@ -128,22 +128,40 @@ each other, and setting a goal, it is how you become the author of your own life
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the **final skill lesson and the unit's
-capstone**. The skill — **self-advocacy** — is taught with a **worked example and guided practice**
-(S-011). The core frame is **assertiveness**: expressing one's own needs and boundaries directly and
-respectfully, distinct from **passive** (suppressing one's needs) and **aggressive** (trampling
-others') styles (Alberti & Emmons, S-405). The **I-statement** pattern — "I feel… when… because…
-what I need is…" — carries it (related to Rosenberg's nonviolent communication, S-148). The
-**ethics** lens: advocacy that honors the other person is a moral skill, not just a social one. The
-**egalitarian** lens: some people's needs are heard more readily than others' — because of status,
-gender, disability, or prejudice — so teaching every learner to advocate is itself an act of
-leveling; and advocacy can be collective, not only individual. The **global** lens: cultures differ
-in how directly a need is stated; the lesson offers the I-statement as *one* respectful form, not
-the only right one — a learner whose culture values indirectness should be honored, not "corrected."
-**Safety:** role-plays are low-stakes and invented; no learner is made to disclose a real need. The
-closing **gathering** retrieves all six goals (S-039) and celebrates mastery as collective, never a
-ranking (S-007): a learner who has not yet got a goal simply revisits it — "not yet" is information.
-Close with warmth: the unit has been inward work, and it lands in care and agency, not pressure.
+**Tone.** Warm and grounded — this is the **final skill lesson and the unit's
+capstone**.
+
+**The facts to land.**
+
+1. **Assertiveness** — expressing your own needs and boundaries directly and
+respectfully, distinct from **passive** (suppressing your needs) and **aggressive**
+(trampling others') styles (Alberti & Emmons, S-405).
+2. **The I-statement** — "I feel… when… because… what I need is…" — carries it (related
+to Rosenberg's nonviolent communication, S-148).
+
+**The lenses, briefly.**
+
+- *Ethics:* advocacy that honours the other person is a moral skill, not just a social
+one.
+- *Egalitarianism:* some needs are heard more readily than others — because of status,
+gender, disability, or prejudice — so teaching every learner to advocate is itself an
+act of leveling; advocacy can be collective, not only individual.
+- *Global:* cultures differ in how directly a need is stated; offer the I-statement as
+*one* respectful form, not the only right one, and honour a learner whose culture values
+indirectness rather than "correcting" it.
+- *Social-emotional:* asking for what you need is a skill, practised without
+disclosing anything real.
+
+**The skill.** **Worked example, then guided practice** (S-011): say a need aloud in the
+I-statement form.
+
+**Safety floor.** Role-plays are low-stakes and invented; no learner is made to disclose
+a real need.
+
+**The gathering.** It retrieves all six goals (S-039) and celebrates mastery as
+collective, never a ranking (S-007): a learner who has not yet got a goal simply
+revisits it — "not yet" is information. Close with warmth: the unit has been inward
+work, and it lands in care and agency, not pressure.
 
 ## Procedure
 
@@ -191,3 +209,4 @@ I-statement. Teaching it is the surest sign it is yours.
   <https://doi.org/10.1177/1529100612453266> (S-039).
 - On explicit instruction and worked examples: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- Bloom (1984) — The 2 Sigma Problem (S-007).

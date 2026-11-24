@@ -118,26 +118,34 @@ people, materials, rules, and effects, and you are already inside it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a technology is a system —
-design, materials, making, use, governance, and effects — not a neutral object; seeing the
-whole system is the first step to judging it and steering it.** Model the map explicitly, then
-let learners map a technology of their own (S-011). Hold the "neither worship nor fear" stance:
-technology is neither a savior nor a monster but a human-made system with real, uneven effects
-that can be examined and changed.
+**Tone.** Analytical: a gadget is the visible end of a long system.
 
-The **ethics** lens: a system that hides its costs lets us use it without consenting to those
-costs — the ethics of technology begins with making the hidden parts visible. The
-**egalitarianism** lens: the benefits of a technology and its harms rarely fall on the same
-people; the people who mine the minerals are not usually the people who enjoy the phone, a
-fact the map makes hard to ignore (S-398, S-281). The **global** lens: the same technology
-takes different shapes in different places — a shared well with community rules, a solar lamp
-where the grid does not reach, a smartphone in a crowded city — and the map looks different
-each time (S-281). The **technology** lens: recommendation and ranking algorithms, advertising
-models, and platform rules are part of the *governance* box of a system like social media, not
-accidents (S-481). The **environment** lens: every technology has a material life cycle —
-extraction, manufacture, use, and disposal — and e-waste is one of its real, documented harms
-(S-371, S-397). Preview: Lesson 2 turns the system map into an argument for a humane
-direction.
+**The facts to land.**
+
+1. A technology is a system — design, materials, making, use, governance, and effects —
+   not a neutral object; seeing the whole system is the first step to judging and
+   steering it.
+2. The benefits and harms rarely land on the same people: the people who mine the
+   minerals are not usually the people who enjoy the phone (S-398, S-281).
+3. Every technology has a material life cycle — extraction, manufacture, use, disposal —
+   and e-waste is one documented harm (S-371, S-397).
+
+**Don't overshoot.** Neither worship nor fear: a system with uneven effects can be
+examined and changed.
+
+**The lenses, briefly.**
+
+- *Ethics:* a system that hides its costs lets us use it without consenting to them;
+  ethics begins by making the hidden parts visible.
+- *Egalitarianism:* the phone and the mine are in different hands.
+- *Global:* the same technology takes different shapes — a shared well with community
+  rules, a solar lamp off-grid, a smartphone in a crowded city (S-281).
+- *Technology:* recommendation, advertising models, and platform rules belong in a
+  system's *governance* box, not in accidents (S-481).
+- *Environment:* the material life cycle is real and measurable (S-371, S-397).
+
+**The skill.** Model the map, then release (S-011): map one technology across all six
+boxes. Lesson 2 turns the map into an argument.
 
 ## Procedure
 

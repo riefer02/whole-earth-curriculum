@@ -108,21 +108,20 @@ on purpose.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **close, trusting
-relationships are built from concrete, repeatable actions — reliability, honesty, care,
-and repair — not from luck or chemistry.** Teach with a worked example of one trust
-block in action; keep the mapping private so no one is pressured to rank their real
-relationships aloud.
+The idea to land: **close, trusting relationships are built from concrete, repeatable
+actions — reliability, honesty, care, and repair — not from luck or chemistry.** Teach
+with a worked example of one trust block in action; keep the mapping private so no one
+is pressured to rank their real relationships aloud.
 
 The **ethics** lens: trust is a moral relation — it is the shape that keeping promises
 takes between people, and breaking it has real consequences for another's safety. The
 **egalitarian** lens: trust is reciprocal — it is built between equals, and it is as
-owed to the quiet or less powerful person as to the loud one; no relationship form
-(kin, chosen family, friendship, partnership) is ranked above another here. The
-**global** lens: every culture has its own ways of building and marking trust — oaths,
-shared work, hospitality, gift — but the underlying blocks (reliability, honesty, care,
-repair) appear across them, in many forms. The **social-emotional** lens: naming the
-blocks makes an often-invisible bond visible and therefore growable.
+owed to the quiet or less powerful person as to the loud one; no relationship form (kin,
+chosen family, friendship, partnership) is ranked above another here. The **global**
+lens: every culture has its own ways of building and marking trust — oaths, shared work,
+hospitality, gift — but the underlying blocks (reliability, honesty, care, repair)
+appear across them, in many forms. The **social-emotional** lens: naming the blocks
+makes an often-invisible bond visible and therefore growable.
 
 **Emotional safety.** Relationship topics touch personal experience. No forced
 disclosure; mapping is private. Include a broad view of "relationship" — family,

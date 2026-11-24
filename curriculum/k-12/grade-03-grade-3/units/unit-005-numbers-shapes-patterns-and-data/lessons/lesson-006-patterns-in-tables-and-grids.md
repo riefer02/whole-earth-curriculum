@@ -116,19 +116,31 @@ same amount each time. Finding the rule is how you read the grid like a map.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It opens the **Patterns & Relationships**
-strand — the new skill is naming the **rule** of an arithmetic pattern found in a grid
-or table. Teach with a **worked example** (philosophy §13): color the tens column on a
-100s grid, read 10, 20, 30 ... and state "add ten each time"; then show the same rule
-in a multiplication table row. The key move is **generalizing** — saying what the
-pattern *always* does, not just what it did (Clements & Sarama, 2014). **Every learner
-finds patterns at their own pace; seeing a pattern quickly is not a measure of
-smartness, and a pattern is a fact about numbers, never about a person.** Patterns are
-a human and cross-cultural treasure — weaving, beading, and lattice grids carry
-arithmetic patterns in many traditions (Zaslavsky, 1999). Count in the home language.
-For learners who are Deaf or hard of hearing, tap each number in the pattern; for
-learners who are blind or low-vision, place stones on a tactile grid so the hands read
-the pattern. Learners with limited movement direct a partner to mark the grid. Mastery
+**Tone.** Curious and unhurried — the room is looking for what *always* happens.
+
+**The facts to land.**
+1. A pattern has a **rule**, and the rule says what the pattern always does, not only
+   what it did once (Clements & Sarama, 2014).
+2. The same rule can appear in a 100s grid and in a multiplication-table row.
+3. Patterns are a human and cross-cultural treasure: weaving, beading, and lattice grids
+   carry arithmetic patterns in many traditions (Zaslavsky, 1999).
+
+**Don't overshoot.** Seeing a pattern quickly is not a measure of smartness, and a
+pattern is a fact about numbers, never about a person. Do not accept a description where
+a rule was asked for.
+
+**The lenses, briefly.**
+- *Intellectual:* color the tens column, read 10, 20, 30 …, and state "add ten each
+  time" — worked example, then the same move in a table row (philosophy §13).
+- *Global:* patterns live in cloth, baskets, and buildings as well as grids.
+- *Critical-thinking:* generalising is the skill — "always", not "this time".
+- *Physical:* tap each number, or place stones on a tactile grid.
+
+**The skill.** Find it, read it aloud, then state the rule so another learner can
+continue it.
+
+**Access:** tap each number in the pattern; place stones on a tactile grid so the hands
+read it; a learner with limited movement directs a partner to mark the grid. Mastery
 arrives at its own pace.
 
 ## Procedure

@@ -115,13 +115,13 @@ are read not from their words but from their **choices and actions**.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **a value is
-shown in action**, and that even a *small* deed counts — this protects learners from the
-perfectionism of "I must do something big to matter." Model the worked example first
-(Kirschner, Sweller & Clark, 2006): value → choice → action. Let learners write an
-*imagined* example if a real one is hard to recall — the skill is connecting value to
-deed, not confessing a deed. Never grade whose example is "more virtuous"; celebrate each
-value lived, however small. See `docs/philosophy.md` §8 on mastery, not ranking.
+The idea to land is that **a value is shown in action**, and that even a *small* deed
+counts — this protects learners from the perfectionism of "I must do something big to
+matter." Model the worked example first (Kirschner, Sweller & Clark, 2006): value →
+choice → action. Let learners write an *imagined* example if a real one is hard to
+recall — the skill is connecting value to deed, not confessing a deed. Never grade whose
+example is "more virtuous"; celebrate each value lived, however small. See
+`docs/philosophy.md` §8 on mastery, not ranking.
 
 ## Procedure
 

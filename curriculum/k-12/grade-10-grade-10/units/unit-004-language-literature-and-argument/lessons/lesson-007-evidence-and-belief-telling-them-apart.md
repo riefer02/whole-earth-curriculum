@@ -124,30 +124,38 @@ proof).
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **evidence and belief
-are different kinds of thought, and each is legitimate in its own place — a claim about
-the world owes evidence and can be checked, while a value or conviction is held rather
-than proven, and we mislead ourselves when we swap them.** This distinction is a core of
-media and information literacy: UNESCO frames the ability to distinguish information
-from persuasion, and evidence from belief, as central to evaluating media (S-217); the
-media-literacy question-sets of NAMLE and the Center for Media Literacy build the same
-habit (S-151; S-442). The lesson's deeper commitment (philosophy §5) is that the
-curriculum itself distinguishes evidence from values and models the difference.
+**Tone.** Careful and unranking: clarify the *kind* of claim, never the worth of the
+person holding it.
 
-Hold the line gently and without ranking anyone's beliefs: the point is *clarity about
-the kind of claim*, not a verdict that beliefs are lesser. A belief can be deeply true
-for a person, a family, or a tradition without being a testable claim — and that is
-fine. Model the sort once, then let learners work (worked example → guided practice →
-independent work; S-011). The **critical-thinking** lens is the spine: sort every
-statement by "could I test this?" The **ethics** lens: it is dishonest to pass a value
-off as a fact, and it is also dishonest to sneer at a belief simply because it cannot be
-tested — respect the kind of claim being made. The **egalitarian** lens: the powerful
-often dress their values as facts ("it has always been this way") to close off challenge;
-asking "is that a claim or a belief?" reopens the door. The **global** lens: different
-cultures draw the evidence/belief line in different places, and both hold wisdom —
-describe, don't rank. The **social-emotional** lens: discovering a cherished belief is
-"not a claim" can feel like a loss; name that feeling and let it sit. Preview: Lesson 8
-begins the extended reading — tracking themes across a full work.
+**The facts to land.**
+
+1. Evidence and belief are different kinds of thought, each legitimate in its place: a
+   claim about the world owes evidence and can be checked, while a value is held rather
+   than proven.
+2. UNESCO treats distinguishing information from persuasion, and evidence from belief,
+   as central to evaluating media (S-217); the NAMLE and Center for Media Literacy
+   question sets build the same habit (S-151, S-442).
+3. The curriculum itself separates evidence from values and models the difference
+   (philosophy §5).
+
+**Don't overshoot.** A belief can be deeply true for a person or a tradition without
+being testable, and that is not a lesser thing.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* the spine — sort every statement by "could I test this?"
+- *Ethics:* it is dishonest to pass a value off as a fact, and dishonest to sneer at a
+  belief for being untestable.
+- *Egalitarianism:* the powerful often dress values as facts ("it has always been this
+  way") to close off challenge.
+- *Global:* cultures draw the line in different places, and both sides hold wisdom —
+  describe, do not rank.
+- *Social-emotional:* finding a cherished belief is "not a claim" can feel like loss;
+  let it sit.
+
+**The skill.** Model the sort once, then release (S-011): sort ten statements into
+claim, belief, or value and say what would test one. Lesson 8 begins the extended
+reading.
 
 ## Procedure
 

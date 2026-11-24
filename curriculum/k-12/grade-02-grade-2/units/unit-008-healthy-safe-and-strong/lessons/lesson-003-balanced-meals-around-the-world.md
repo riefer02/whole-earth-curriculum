@@ -111,19 +111,33 @@ you will travel the world's kitchens and find that idea everywhere.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Celebrate variety; rank nothing.** The
-point is that "several groups" shows up in every food tradition, not that one tradition
-eats "better." Some learners' families may not have all foods available; honor what they
-do have, and never imply a family is failing. Vegetarian, plant-based, and fish- and
-meat-eating families are all honored — beans, lentils, eggs, and fish are proteins, so no
-meal needs meat to be balanced. If a learner's family sometimes has little food, hold
-this gently and without comment on their family; the lesson speaks of variety and choice,
-never of scarcity as shame. A learner who is blind or has low vision explores the meals by
-touching real foods and hearing each food named; a learner who does not use a speaking
-voice points to the foods and groups. A learner who is deaf or hard of hearing follows
-the meal cards and group labels visually, since every food is shown and labeled. The
-balanced-meal plate drawing is a unit portfolio artifact — keep it. This lesson completes
-the D03.S3.02.01 meal-building strand before the unit turns to water.
+**Tone.** Curious and celebratory. **Celebrate variety; rank nothing.**
+
+**The facts to land.**
+
+1. "Several groups" shows up in every food tradition; no tradition eats "better."
+2. Vegetarian, plant-based, and fish- and meat-eating families are all honoured: beans,
+   lentils, eggs, and fish are proteins, so no meal needs meat to be balanced.
+3. This completes the D03.S3.02.01 meal-building strand; the unit turns to water next.
+4. The balanced-meal plate drawing is a unit portfolio artifact — keep it.
+
+**Don't overshoot.** Some families may not have all foods available; honour what they do
+have and never imply a family is failing. If a learner's family sometimes has little
+food, hold it gently and without comment: the lesson speaks of variety and choice, never
+of scarcity as shame.
+
+**The lenses, briefly.**
+
+- *Global:* every food tradition is a real way of eating well.
+- *Egalitarianism:* what a family has is honoured as it is.
+- *Ethics:* no plate is a judgment on the people who eat from it.
+- *Environment:* foods come from many places, soils, and waters.
+
+**The skill.** Look at a meal, then say which groups it already holds.
+
+**Access.** Blind or low-vision: explore the meals by touching real foods and hearing
+each food named. Non-speaking: point to the foods and their groups. Deaf or hard of
+hearing: follow the meal cards and group labels — every food is shown and labelled.
 
 ## Procedure
 

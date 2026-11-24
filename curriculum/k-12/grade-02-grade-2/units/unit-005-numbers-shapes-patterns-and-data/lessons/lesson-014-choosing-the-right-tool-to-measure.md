@@ -117,18 +117,17 @@ right tool is half of measuring well.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It extends Lesson 13 from *how* to
-measure to *which tool* to measure with — the "choosing the right tool" part of the
-standard. Teach with a **worked example** (philosophy §13): "a seed is small, so a
-ruler; a room is big, so a meter stick or tape." The key idea is that **a tool should
-fit the size of the thing** — a meter is for big, a centimeter for small, and an inch
-is one more shared unit some places use. Keep it concrete and exploratory; there is
-often more than one sensible tool, and a learner's reason is worth more than a "right"
-answer. **Choosing a tool is thinking, not a test, and every thoughtful reason is
-honored.** For learners who are Deaf or hard of hearing, point to each tool and object
-and show the match; for learners who are blind or low-vision, feel each tool and
-object and reason about size by touch. A learner who does not speak points to the tool
-they would choose.
+It extends Lesson 13 from *how* to measure to *which tool* to measure with — the
+"choosing the right tool" part of the standard. Teach with a **worked example**
+(philosophy §13): "a seed is small, so a ruler; a room is big, so a meter stick or
+tape." The key idea is that **a tool should fit the size of the thing** — a meter is for
+big, a centimeter for small, and an inch is one more shared unit some places use. Keep
+it concrete and exploratory; there is often more than one sensible tool, and a learner's
+reason is worth more than a "right" answer. **Choosing a tool is thinking, not a test,
+and every thoughtful reason is honored.** For learners who are Deaf or hard of hearing,
+point to each tool and object and show the match; for learners who are blind or
+low-vision, feel each tool and object and reason about size by touch. A learner who does
+not speak points to the tool they would choose.
 
 ## Procedure
 

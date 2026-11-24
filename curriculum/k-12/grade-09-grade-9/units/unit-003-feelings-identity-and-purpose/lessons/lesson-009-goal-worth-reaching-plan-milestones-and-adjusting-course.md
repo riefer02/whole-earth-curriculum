@@ -110,23 +110,38 @@ there.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is a **skill lesson** in planning — taught with a
-**worked example and guided practice** (S-011). The evidence-backed core: **specific, challenging
-goals with feedback improve performance more than vague "do your best" goals** (Locke & Latham,
-S-223), and the practical translation for a 14–15-year-old is a goal that is **specific and
-checkable** — what, how much, by when — with **dated milestones** and a **backup step**. The key
-teaching moves: **(1) goal vs. wish** — a goal is specific, checkable, and timed; **(2) milestones**
-— break the goal into dated, doable steps so progress can be seen and feedback can arrive; **(3)
-adjustment** — obstacles are expected, not shameful; changing the plan to keep the goal is success,
-not failure (mastery, not ranking: S-007). The **intellectual** lens: planning is reasoning — a
-learner is predicting, sequencing, and testing their own prediction against what actually happens.
-The **ethics** lens: a goal is worth more when it harms no one — invite learners to check their goal
-against its effects on others. The **egalitarian** lens: not everyone has equal resources or freedom
-to pursue a goal, so a "realistic" plan means realistic *for that learner's circumstances*, and the
-goal is never judged against someone else's easier or harder road. Be encouraging, never
-performative: the goal may be small or large, academic or not — the skill is the planning, not the
-glamour. Avoid shame about past unfinished goals; frame them as data, not verdicts. A learner who
-cannot think of a goal may plan for an invented character — the skill still lands.
+**Tone.** Practical and encouraging — a **skill lesson** in planning, taught with a
+**worked example and guided practice** (S-011).
+
+**The facts to land.**
+
+1. **Goal versus wish** — a goal is specific, checkable, and timed: what, how much, by
+when.
+2. **Milestones** — break the goal into dated, doable steps, so progress can be seen and
+feedback can arrive.
+3. **Adjustment** — obstacles are expected, not shameful; changing the plan to keep the
+goal is success, not failure (mastery, not ranking: S-007).
+
+The evidence behind it: specific, challenging goals with feedback improve performance
+more than vague "do your best" goals (Locke & Latham, S-223).
+
+**The lenses, briefly.**
+
+- *Intellectual:* planning is reasoning — a learner predicts, sequences, and tests
+their own prediction against what actually happens.
+- *Ethics:* a goal is worth more when it harms no one — invite learners to check their
+goal against its effects on others.
+- *Egalitarianism:* not everyone has equal resources or freedom, so "realistic" means
+realistic *for that learner's circumstances*, never judged against someone else's easier
+or harder road.
+
+**The skill.** Write a goal that is specific and checkable, with dated milestones and
+one backup step.
+
+**Care.** Be encouraging, never performative: the goal may be small or large, academic
+or not — the skill is the planning, not the glamour. Frame past unfinished goals as
+data, not verdicts. A learner with no goal may plan for an invented character; the skill
+still lands.
 
 ## Procedure
 

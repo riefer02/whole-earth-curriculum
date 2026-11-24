@@ -116,27 +116,39 @@ you carry is yours — not the one the ads sold you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The concept to land: **body positivity and
-body neutrality are two different, valid ways to hold a steady view of one's own body —
-positivity says "I love and celebrate my body," neutrality says "my body's appearance is
-not what makes me valuable" — and both rest on body acceptance: appearance is not your
-worth, and your body's value is not up for a vote.** This is a *values and identity* lesson
-more than a skill, so use inquiry and reflection, but still model the statement before
-learners draft (S-011). Treat the research carefully and honestly: positive body image is
-a real, studied construct — it is *not* the same as "thinking you are attractive," and it
-is measured by things like appreciating your body's function, filtering body-image
-information, and kindness toward your body (S-407). The ethics lens: how we speak to and
-about our own bodies is a practice of respect that we model for others. The egalitarian
-lens: the "ideal" body is historically and culturally specific, so no one body type is
-closer to some true standard — and *every* body, including bodies with disabilities,
-illness, or assistive devices, is a full and legitimate body (S-407, S-411). The global
-lens: cultures worldwide have carried many standards of beauty; the modern, media-driven,
-single standard is one recent and powerful story, not a law of nature. Hold the room
-safely: **sharing is always optional**, never required; a learner who is not ready to say
-"positive" things about their body can rest at *neutral* — that is complete, not a lesser
-version. Never ask anyone to rank or evaluate a peer's body. If body image is a point of
-real pain for a learner, connect them to a trusted adult or the help-seeking paths named
-later in the year.
+**Tone.** Gentle and unhurried — a values lesson, not a verdict on anyone's body.
+
+**The facts to land.**
+
+1. **Body positivity** says "I love and celebrate my body"; **body neutrality** says "my
+body's appearance is not what makes me valuable".
+2. Both are valid, and both rest on **body acceptance**: appearance is not your worth,
+and your body's value is not up for a vote.
+3. **Positive body image** is a studied construct — not "thinking you are attractive" —
+measured by appreciating your body's function, filtering body-image information, and
+kindness toward it (S-407).
+
+**Don't overshoot.** Positivity is not the required feeling; neutral is complete, not
+lesser.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* inquiry and reflection, with the statement modelled before
+learners draft (S-011).
+- *Ethics:* how we speak about our own bodies is a practice of respect we model for
+others.
+- *Egalitarianism:* *every* body — including bodies with disabilities, illness, or
+assistive devices — is a full and legitimate body (S-407, S-411).
+- *Global:* cultures have carried many standards of beauty; the media-driven single
+standard is recent and powerful, not a law of nature.
+- *Physical:* a body is lived from inside — function, energy, sensation — not only
+looked at.
+
+**The skill.** Draft one statement in either mode, using the modelled form.
+
+**Safety floor.** **Sharing is always optional** and never required. Never ask anyone to
+rank or evaluate a peer's body. If body image is a point of real pain, connect the
+learner to a trusted adult or the help-seeking paths named later in the year.
 
 ## Procedure
 

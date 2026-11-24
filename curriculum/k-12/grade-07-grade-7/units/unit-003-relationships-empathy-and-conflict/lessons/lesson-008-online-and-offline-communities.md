@@ -124,17 +124,17 @@ Earth, which matters to who gets to belong where.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **online and
-offline communities are both real ways to belong, but they differ — offline is local,
-face-to-face, and immediate; online reaches across distance, runs on words and images, and
-can persist — and access to the online kind is uneven across the world**. Hold the
-technology lens honestly (neither worship nor fear): online community is not "fake" and
-offline is not automatically "better"; each fits different needs. Hold the egalitarian lens:
-name plainly that internet access varies by cost, geography, and disability (World Bank,
-Digital Dividends), so "everyone can join online" is not yet true. Do not require learners
-to reveal which online spaces they use, and never ask for account names. Model one entry on
-the belonging map as a worked example before independent work (Kirschner, Sweller & Clark,
-2006). See `docs/facilitation.md` and `docs/art-style.md`.
+The idea to land is that **online and offline communities are both real ways to belong,
+but they differ — offline is local, face-to-face, and immediate; online reaches across
+distance, runs on words and images, and can persist — and access to the online kind is
+uneven across the world**. Hold the technology lens honestly (neither worship nor fear):
+online community is not "fake" and offline is not automatically "better"; each fits
+different needs. Hold the egalitarian lens: name plainly that internet access varies by
+cost, geography, and disability (World Bank, Digital Dividends), so "everyone can join
+online" is not yet true. Do not require learners to reveal which online spaces they use,
+and never ask for account names. Model one entry on the belonging map as a worked
+example before independent work (Kirschner, Sweller & Clark, 2006). See
+`docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure
 

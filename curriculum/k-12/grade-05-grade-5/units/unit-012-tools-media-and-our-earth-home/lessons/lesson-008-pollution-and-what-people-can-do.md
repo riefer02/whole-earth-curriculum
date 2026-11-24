@@ -120,15 +120,15 @@ to trace the problem *and* the fix.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is the **pathway-and-action
-move**: name the form of pollution or habitat loss, trace its path to the harm, then name a
-real action people can take. Model the plastic example fully as a worked example. Keep the
-tone **hopeful and agency-focused**, never doom: always pair the problem with a real, doable
-fix and with the fact that people everywhere are already acting (clean-ups, reforestation,
-cleaner stoves, recycling). Distinguish evidence from values: *what pollution does and how it
-travels* is observable science; *that we should reduce harm to other beings and future people*
-is a value we hold. Avoid shaming any learner or region for waste they did not choose. See
-`docs/facilitation.md` and `docs/philosophy.md` §12.
+The skill to land is the **pathway-and-action move**: name the form of pollution or
+habitat loss, trace its path to the harm, then name a real action people can take. Model
+the plastic example fully as a worked example. Keep the tone **hopeful and
+agency-focused**, never doom: always pair the problem with a real, doable fix and with
+the fact that people everywhere are already acting (clean-ups, reforestation, cleaner
+stoves, recycling). Distinguish evidence from values: *what pollution does and how it
+travels* is observable science; *that we should reduce harm to other beings and future
+people* is a value we hold. Avoid shaming any learner or region for waste they did not
+choose. See `docs/facilitation.md` and `docs/philosophy.md` §12.
 
 ## Procedure
 

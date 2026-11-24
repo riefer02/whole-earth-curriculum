@@ -95,11 +95,10 @@ remember. Sharing a place is sharing a little piece of your own map of the world
 
 ## Facilitator note
 
-Written to the learner ("you") so it works in a classroom and for a self-directed
-learner. **No travel is required.** "A place" can be a room, a doorstep, a path, a
-tree — any place a child knows. Some children have moved often or have few places
-they call their own; let "here" and "now" count fully. Never rank places as more or
-less special. There is no "correct" place.
+**No travel is required.** "A place" can be a room, a doorstep, a path, a tree — any
+place a child knows. Some children have moved often or have few places they call their
+own; let "here" and "now" count fully. Never rank places as more or less special. There
+is no "correct" place.
 
 ## Procedure
 

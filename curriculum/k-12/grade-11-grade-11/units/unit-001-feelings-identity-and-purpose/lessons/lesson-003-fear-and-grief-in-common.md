@@ -110,33 +110,28 @@ different of us.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **collective fear and
-collective grief are both shared feelings, but they move differently — fear can
-accelerate into rumor, panic, and scapegoating; grief slows and gathers, asking to be
-witnessed. Reading the difference is a skill of care.** Teach with a worked example
-(S-011), then let learners apply it — but keep the topic emotionally safe.
+The idea to land: **fear and grief are both shared, but they move differently — fear
+accelerates into rumor, panic, scapegoating; grief slows and gathers, asking to be
+witnessed. Reading the difference is a skill of care.** Model once (S-011), then let
+learners apply it.
 
-The **social-emotional** lens: both are emotions read in a group's behavior (CASEL,
-S-001). The **ethics** lens: fear can become *scapegoating* — turning shared fear into
-blame against a group — and naming that is an ethical act; grief, held well, is an act
-of care. The **egalitarian** lens: research shows we naturally favor our own group and
-can blame an out-group even when the assignment is arbitrary (Tajfel's minimal-group
-work, S-232) — which is exactly why a group in fear must be *careful* about where the
-blame points. Also, compassion tends to shrink as numbers grow: people feel far more
-for one named victim than for a statistic (the identifiable-victim effect and psychic
-numbing, Slovic, S-414) — a documented limit to hold in mind when we try to care about
-large, distant grief. The **global** lens: remembrance practices differ across cultures
-and faiths — vigils, altars, days of silence, spoken names — and none is above another;
-each is a way of holding grief in common. The **technology & environment** lens: fear
-and grief now travel on screens at speed and scale (a frightening rumor, a shared
-image of loss), and the living world carries its own griefs — a burned forest, a
-vanished species, a flooded home — that communities mourn together.
+The **social-emotional** lens: both are read in a group's behavior (CASEL, S-001). The
+**ethics** lens: fear can become *scapegoating* — turning shared fear into blame against
+a group — and naming it is ethical; grief, held well, is care. The **egalitarian** lens:
+we favor our own group and blame an out-group even on arbitrary assignment (Tajfel's
+minimal-group work, S-232) — so a group in fear must be *careful* where blame points,
+and compassion shrinks as numbers grow: people feel far more for one named victim than
+for a statistic (the identifiable-victim effect and psychic numbing, Slovic, S-414) — a
+limit to hold about distant grief. The **global** lens: remembrance practices differ
+across cultures and faiths — vigils, altars, days of silence, spoken names — and none is
+above another. The **technology & environment** lens: fear and grief travel on screens
+at speed and scale (a rumor, a shared image), and the living world carries its own
+griefs — a burned forest, a vanished species — that communities mourn together.
 
-**Emotional safety is non-negotiable here.** Fear and grief are heavy. Keep examples
-general and avoid graphic detail; do not require anyone to share personal loss. Offer
-opt-outs and a moment of quiet. Always pair the heavy with the possible: reading a
-climate is a skill, and holding grief in common is something humans have always done —
-that is agency, not despair (development rubric, grades 9–12).
+**Emotional safety.** Keep examples general and avoid graphic detail; do not require
+anyone to share personal loss. Offer opt-outs and a moment of quiet. Pair the heavy with
+the possible: humans have always held grief in common — agency, not despair (development
+rubric, grades 9–12).
 
 ## Procedure
 

@@ -116,25 +116,25 @@ purpose instead of by accident.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **authorship is a
-four-step loop — commit, plan, act, check and adjust — and the learner is the author at
-every step.** Specific, checkable commitments outperform vague wishes (Locke & Latham,
-S-223); checking progress (self-testing) is one of the strongest learning techniques we
-know (Dunlosky et al., S-039; Roediger & Karpicke, S-228); and the "check and adjust" step
-is where mastery lives — "not yet" is information, never a verdict (Dweck, S-096 — held
-honestly: growth-mindset effects are real but modest, and effort is not a guarantee).
+The idea to land: **authorship is a four-step loop — commit, plan, act, check and
+adjust — and the learner is the author at every step.** Specific, checkable commitments
+outperform vague wishes (Locke & Latham, S-223); checking progress (self-testing) is one
+of the strongest learning techniques we know (Dunlosky et al., S-039; Roediger &
+Karpicke, S-228); and the "check and adjust" step is where mastery lives — "not yet" is
+information, never a verdict (Dweck, S-096 — held honestly: growth-mindset effects are
+real but modest, and effort is not a guarantee).
 
 The **ethics** lens: a commitment you can check honestly is a commitment you can be
 trusted with — including by yourself. The **egalitarian** lens: resources are not evenly
-distributed — a plan that names a fallback (a person, a free library, a neighbor's skill)
-works for more lives than one that assumes money and devices. The **global** lens:
-self-paced, low-resource schooling (Escuela Nueva, S-008) and teaching at the learner's
-level (TaRL, S-009) show that self-direction works across very different places — it is
-not a privilege of the few. The **critical-thinking** lens: distinguishing a checkable
-milestone from a vague hope is careful thought, not opinion. Distinguish evidence from
-values: the loop and the power of checking progress are descriptive; "every learner
-deserves to steer their own work" is a value we hold. Model the loop once (S-011), then
-let learners plan.
+distributed — a plan that names a fallback (a person, a free library, a neighbor's
+skill) works for more lives than one that assumes money and devices. The **global**
+lens: self-paced, low-resource schooling (Escuela Nueva, S-008) and teaching at the
+learner's level (TaRL, S-009) show that self-direction works across very different
+places — it is not a privilege of the few. The **critical-thinking** lens:
+distinguishing a checkable milestone from a vague hope is careful thought, not opinion.
+Distinguish evidence from values: the loop and the power of checking progress are
+descriptive; "every learner deserves to steer their own work" is a value we hold. Model
+the loop once (S-011), then let learners plan.
 
 ## Procedure
 

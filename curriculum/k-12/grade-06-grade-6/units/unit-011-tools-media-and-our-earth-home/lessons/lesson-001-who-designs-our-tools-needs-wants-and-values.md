@@ -118,13 +118,13 @@ read a person: what did its makers need, want, and value?
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **every technology is
-someone's answer to a need, a want, and a value** — not magic, and not "just there." Model the
-bicycle fully as a worked example before learners read their own card (Kirschner, Sweller &
-Clark, 2006). Keep it global and egalitarian: choose objects that span cultures and regions (a
-qanat, a dugout canoe, a braille slate) so no single place or people appears as the default
-"inventor." Distinguish evidence from values: *what a tool does and the problem it solves* can
-be investigated; *that clean travel or fair access matters* are values a designer chose to
+The idea to land is **every technology is someone's answer to a need, a want, and a
+value** — not magic, and not "just there." Model the bicycle fully as a worked example
+before learners read their own card (Kirschner, Sweller & Clark, 2006). Keep it global
+and egalitarian: choose objects that span cultures and regions (a qanat, a dugout canoe,
+a braille slate) so no single place or people appears as the default "inventor."
+Distinguish evidence from values: *what a tool does and the problem it solves* can be
+investigated; *that clean travel or fair access matters* are values a designer chose to
 build in. See `docs/philosophy.md` §4–5 and `docs/facilitation.md`.
 
 ## Procedure

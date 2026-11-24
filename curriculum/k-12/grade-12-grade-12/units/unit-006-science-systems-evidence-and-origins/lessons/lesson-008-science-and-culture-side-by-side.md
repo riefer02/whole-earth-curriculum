@@ -113,34 +113,38 @@ beside each other.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **scientific and cultural
-or spiritual accounts of life answer different questions, and the skill is to hold them side
-by side without ranking — seeing where they complement and where they differ, with dignity
-for both.** Teach the chart explicitly, then let learners work a pair (S-011). This is the
-inquiry-over-creed commitment made concrete (philosophy §11): no account is imposed, and no
-account is mocked. Frame as *wondering together*, and use written or anonymous questions if
-speaking up is not safe for some learners (contexts, cultural power dynamics).
+**Tone.** Reverent and level: wondering together, with nothing imposed and nothing
+mocked (philosophy §11).
 
-The **ethics** lens: ranking one people's account above another's has been used to justify
-harm; refusing the ranking is an ethical stance, not a relativism that says nothing can be
-checked. The **egalitarianism** lens: every people's account of life carries dignity — the
-Māori tell of Ranginui and Papatūānuku, sky and earth, whose separation made room for life
-(S-202); the Haudenosaunee tell of Sky Woman and a world made on a turtle's back (S-203);
-the Yoruba tell of Olorun, the supreme creator who works through the orisha to shape the
-world (S-500); the Inca tell of Viracocha, who rose from Lake Titicaca to call the world
-into being (S-501); the Rig Veda's Hymn of Creation wonders openly whether anyone knows how
-it all began (S-502); and the Qur'an tells of one God who made the heavens and the earth
-and shaped the first human from clay (S-503) — and none is a lesser way of knowing for
-being a story. The **global** lens: "two-eyed
-seeing," seeing with both Indigenous and Western-scientific eyes together, is itself a
-teaching from Mi'kmaq Elder Albert Marshall, carried into science by Indigenous scholars
-such as Robin Wall Kimmerer (S-427) and documented worldwide through living heritage
-(S-056). The **technology** lens: science's instruments answer "how" with unmatched power,
-but they are silent on "what it means" and "how we should live with it" — questions the
-cultural accounts take up. The **environment** lens: many cultural accounts carry ecological
-knowledge refined over generations — when to burn, when to plant, how to read a landscape —
-that complements rather than contradicts scientific ecology (S-320, S-321, S-427). Preview:
-Lesson 9 moves to the physical world's fundamental forces.
+**The facts to land.**
+
+1. Scientific and cultural or spiritual accounts answer different questions; the skill
+   is holding them side by side without ranking, seeing where they complement and where
+   they differ.
+2. Use written or anonymous questions where speaking up is not safe for some learners
+   (contexts, cultural power dynamics).
+3. No account is imposed, and none is mocked — inquiry over creed, made concrete.
+
+**Don't overshoot.** Refusing to rank is not relativism: it does not mean nothing can be
+checked.
+
+**The lenses, briefly.**
+
+- *Ethics:* ranking one people's account above another's has been used to justify harm.
+- *Egalitarianism:* every account carries dignity — Māori Ranginui and Papatūānuku
+  (S-202); Haudenosaunee Sky Woman (S-203); Yoruba Olorun and the orisha (S-500); Inca
+  Viracocha from Lake Titicaca (S-501); the Rig Veda's Hymn of Creation, wondering
+  whether anyone knows (S-502); the Qur'an's one God shaping the first human from clay
+  (S-503).
+- *Global:* "two-eyed seeing" — Mi'kmaq Elder Albert Marshall's teaching, carried into
+  science by Kimmerer (S-427), documented through living heritage (S-056).
+- *Technology:* instruments answer "how" with unmatched power and are silent on meaning.
+- *Environment:* many accounts carry ecological knowledge refined over generations —
+  when to burn, when to plant (S-320, S-321, S-427).
+
+**The skill.** Teach the chart explicitly, then release (S-011): work one pair, marking
+what each account answers and what each leaves open. Lesson 9 turns to the physical
+world's forces.
 
 ## Procedure
 

@@ -110,16 +110,16 @@ and asking directly, clearly, and without apology.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **self-advocacy is a
-prepared skill — before (write what you want to know; bring a support person or
-translator), during (ask directly: "can you explain again," "what are my options,"
-"what are the risks," "what if I wait"), after (restate the decision in your own
-words; know the next steps).** The communication frame: **assertiveness is the middle
-path — expressing your own needs directly and respectfully, distinct from passive
-(suppressing them) and aggressive (trampling others') (S-405); the "I" statement and
-needs-based asking come from the same tradition (S-148).** Discussion moves like
-"can you restate that?" and "help me understand" support clear asking (S-238). Model
-one script explicitly (worked example), then guided role-play (S-011).
+The ideas to land: **self-advocacy is a prepared skill — before (write what you want to
+know; bring a support person or translator), during (ask directly: "can you explain
+again," "what are my options," "what are the risks," "what if I wait"), after (restate
+the decision in your own words; know the next steps).** The communication frame:
+**assertiveness is the middle path — expressing your own needs directly and
+respectfully, distinct from passive (suppressing them) and aggressive (trampling
+others') (S-405); the "I" statement and needs-based asking come from the same tradition
+(S-148).** Discussion moves like "can you restate that?" and "help me understand"
+support clear asking (S-238). Model one script explicitly (worked example), then guided
+role-play (S-011).
 
 The **social-emotional** lens: speaking up sits on self-awareness and regulated
 confidence, and it is harder in a second language or under authority — normalize that.

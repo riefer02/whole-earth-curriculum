@@ -115,15 +115,15 @@ for the body you live in.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **internal body
-signals are information, not weaknesses** — hunger, fatigue, and stress are neutral facts
-the body reports, and naming them accurately (not "I'm just off today" but "I'm hungry" or
-"I'm tired") is a skill. Normalize every body's difference: some people feel hunger as a
-hollow stomach, others as a headache or a dip in energy; the *same* signal can feel
-different in different bodies, and all of it is normal. Model one body scan as a worked
-example — name a signal from a safe, ordinary moment of your own — before learners try their
-own (Kirschner, Sweller & Clark, 2006). Never ask a learner to reveal a private distress;
-invite only small, ordinary signals. See `docs/facilitation.md` and `docs/art-style.md`.
+The idea to land is that **internal body signals are information, not weaknesses** —
+hunger, fatigue, and stress are neutral facts the body reports, and naming them
+accurately (not "I'm just off today" but "I'm hungry" or "I'm tired") is a skill.
+Normalize every body's difference: some people feel hunger as a hollow stomach, others
+as a headache or a dip in energy; the *same* signal can feel different in different
+bodies, and all of it is normal. Model one body scan as a worked example — name a signal
+from a safe, ordinary moment of your own — before learners try their own (Kirschner,
+Sweller & Clark, 2006). Never ask a learner to reveal a private distress; invite only
+small, ordinary signals. See `docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure
 

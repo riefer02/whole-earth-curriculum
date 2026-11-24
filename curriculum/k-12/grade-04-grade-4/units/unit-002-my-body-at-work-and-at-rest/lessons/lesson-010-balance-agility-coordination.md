@@ -117,14 +117,14 @@ standing, seated, or with wheels.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Model each skill at its station before
-learners try — **worked example, then guided practice** — and always offer the seated
-or supported version as an equal choice, not a "lesser" one. Balance can be done on one
-foot *or* seated with arms out; agility can be weaving on foot *or* wheeling or sliding
-around marks; coordination can be tossing hand to hand standing *or* seated. Honor every
-version fully. Keep it a celebration, never a competition. This lesson closes the unit
-and pulls together the whole arc — reading the body's signals (Lessons 1–5), honoring
-diverse bodies (6–7), and playing fairly (8–9) — into joyful, inclusive movement.
+Model each skill at its station before learners try — **worked example, then guided
+practice** — and always offer the seated or supported version as an equal choice, not a
+"lesser" one. Balance can be done on one foot *or* seated with arms out; agility can be
+weaving on foot *or* wheeling or sliding around marks; coordination can be tossing hand
+to hand standing *or* seated. Honor every version fully. Keep it a celebration, never a
+competition. This lesson closes the unit and pulls together the whole arc — reading the
+body's signals (Lessons 1–5), honoring diverse bodies (6–7), and playing fairly (8–9) —
+into joyful, inclusive movement.
 
 ## Procedure
 

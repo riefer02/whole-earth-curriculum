@@ -117,17 +117,17 @@ water to drink and air to breathe, and it needs food to eat. Two needs they shar
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The clean, faithful answer at this age
-is that a plant and an animal **both need water and air**. Each also needs something
-else — a plant needs light (and it makes its own food from it, a fuller story saved for
-later grades); an animal needs food. Keep the distinction soft and true: water and air
-are the shared needs; light and food are the special ones. Do not overcomplicate with
-"plants make food from sunlight" as a system — at six it is enough to say a plant needs
-light to grow and an animal needs food to eat. Frame the Earth as a home that gives all
-living things what they need, not as a store to use up. For a learner who is blind or
-has low vision, feel the plant's leaves and stem, and if an animal is present, feel its
-fur or shell gently; a partner names each need as it is discussed. A non-speaking
-learner can place cards in the "both" circle or point to show the shared needs.
+The clean, faithful answer at this age is that a plant and an animal **both need water
+and air**. Each also needs something else — a plant needs light (and it makes its own
+food from it, a fuller story saved for later grades); an animal needs food. Keep the
+distinction soft and true: water and air are the shared needs; light and food are the
+special ones. Do not overcomplicate with "plants make food from sunlight" as a system —
+at six it is enough to say a plant needs light to grow and an animal needs food to eat.
+Frame the Earth as a home that gives all living things what they need, not as a store to
+use up. For a learner who is blind or has low vision, feel the plant's leaves and stem,
+and if an animal is present, feel its fur or shell gently; a partner names each need as
+it is discussed. A non-speaking learner can place cards in the "both" circle or point to
+show the shared needs.
 
 ## Procedure
 

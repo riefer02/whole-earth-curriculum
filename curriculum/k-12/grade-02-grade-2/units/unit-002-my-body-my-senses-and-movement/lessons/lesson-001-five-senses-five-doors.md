@@ -115,19 +115,17 @@ flavors, and your skin for touch. Every door is a way the world comes in to you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the cards and mirrors, then guide the matching game and
-drawing. This lesson spirals up from Kindergarten, where learners named the five
-senses, and from Grade 1, where they named body parts — today the two come together.
-Five is one useful map people use in many places, but it is not the only one: other
-knowledge traditions also name senses such as balance, movement, warm-and-cold, and
-the inner feeling of the body, and this unit honors those in Lessons 2–4. Today the
-five-door map is a starting place, not the whole truth. Honor every body: a learner
-may use a hearing aid, glasses, a communication device, or
-a friend to help point. Point to the matching card as you say each sense so learners
-who are deaf or hard of hearing can follow; the touching-and-pointing is already a
-tactile path for learners with low vision. There is no "correct" body to match to —
-every body has its own way, and every way is good.
+Prepare the cards and mirrors, then guide the matching game and drawing. This lesson
+spirals up from Kindergarten, where learners named the five senses, and from Grade 1,
+where they named body parts — today the two come together. Five is one useful map people
+use in many places, but it is not the only one: other knowledge traditions also name
+senses such as balance, movement, warm-and-cold, and the inner feeling of the body, and
+this unit honors those in Lessons 2–4. Today the five-door map is a starting place, not
+the whole truth. Honor every body: a learner may use a hearing aid, glasses, a
+communication device, or a friend to help point. Point to the matching card as you say
+each sense so learners who are deaf or hard of hearing can follow; the
+touching-and-pointing is already a tactile path for learners with low vision. There is
+no "correct" body to match to — every body has its own way, and every way is good.
 
 ## Procedure
 

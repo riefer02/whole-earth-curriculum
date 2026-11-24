@@ -122,17 +122,16 @@ group is a kindness to yourself and to everyone else in the circle.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The capstone is a *skill*, not a test, and
-never a punishment. Frame the quiet signals as help, exactly like the Grade 2 calm tools:
-a learner uses them to care for themselves *and* the group — not because they are "in
-trouble." Model each signal with your own body, then guide role-play, then let learners
-choose their own. Some learners will need a movement option (stepping to the side) rather
-than a stillness one (a calm breath) — both are equally good. A learner with motor
-differences may signal any way that works — a nod, a point, a glance, holding up a printed
-signal card, or a partner voicing the need for them; any safe signal counts as the skill.
-Never shame a learner whose
-first instinct is to burst out; the win is that they notice and try a tool, not that they
-are silent. A learner may choose any safe signal; there is no single "right" one.
+The capstone is a *skill*, not a test, and never a punishment. Frame the quiet signals
+as help, exactly like the Grade 2 calm tools: a learner uses them to care for themselves
+*and* the group — not because they are "in trouble." Model each signal with your own
+body, then guide role-play, then let learners choose their own. Some learners will need
+a movement option (stepping to the side) rather than a stillness one (a calm breath) —
+both are equally good. A learner with motor differences may signal any way that works —
+a nod, a point, a glance, holding up a printed signal card, or a partner voicing the
+need for them; any safe signal counts as the skill. Never shame a learner whose first
+instinct is to burst out; the win is that they notice and try a tool, not that they are
+silent. A learner may choose any safe signal; there is no single "right" one.
 
 ## Procedure
 

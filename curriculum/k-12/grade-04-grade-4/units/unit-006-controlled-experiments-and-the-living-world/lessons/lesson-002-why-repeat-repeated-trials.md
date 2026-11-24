@@ -126,16 +126,15 @@ deciding when to plant. One look can fool you; repeated looks build trust.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Teach the habit of repetition with a
-**worked example** — model three rolls, saying each measurement aloud and recording it —
-then let learners run their own trials (guided practice) before writing a conclusion.
-The key idea to protect: repeating is not about getting the *same* number every time; it
-is about seeing the *spread* of results, because that spread is honest evidence about how
-sure we can be (the critical-thinking and ethics lenses). A result that looks wrong is
-information, not a mistake to hide — scientists report it and wonder why. Note that
-repeating tests is a shared human practice across cultures, from early astronomers
-watching the sky night after night to cooks tasting and retasting. Keep it calm and
-honest; no result is "the winner."
+Teach the habit of repetition with a **worked example** — model three rolls, saying each
+measurement aloud and recording it — then let learners run their own trials (guided
+practice) before writing a conclusion. The key idea to protect: repeating is not about
+getting the *same* number every time; it is about seeing the *spread* of results,
+because that spread is honest evidence about how sure we can be (the critical-thinking
+and ethics lenses). A result that looks wrong is information, not a mistake to hide —
+scientists report it and wonder why. Note that repeating tests is a shared human
+practice across cultures, from early astronomers watching the sky night after night to
+cooks tasting and retasting. Keep it calm and honest; no result is "the winner."
 
 ## Procedure
 

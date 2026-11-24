@@ -112,16 +112,14 @@ it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Keep the plan simple — a spoken sentence or a few sketched
-lines is enough; a written plan is not required. Ask "what is it for?" rather than
-"what is it?" — **purpose** is the heart of this strand. If a build falls over, treat
-it as information, not failure: "what could you change so it stands?" Honor every
-structure; a wobbly tower is still a thinker's tower. A learner with limited fine
-motor can direct a partner who stacks and presses, or build from larger, lighter
-pieces. A learner who is blind or has low vision builds by feel, with a partner or
-grown-up naming the parts out loud, and tells the purpose by touch. Every plan and
-every build belongs.
+Keep the plan simple — a spoken sentence or a few sketched lines is enough; a written
+plan is not required. Ask "what is it for?" rather than "what is it?" — **purpose** is
+the heart of this strand. If a build falls over, treat it as information, not failure:
+"what could you change so it stands?" Honor every structure; a wobbly tower is still a
+thinker's tower. A learner with limited fine motor can direct a partner who stacks and
+presses, or build from larger, lighter pieces. A learner who is blind or has low vision
+builds by feel, with a partner or grown-up naming the parts out loud, and tells the
+purpose by touch. Every plan and every build belongs.
 
 ## Procedure
 

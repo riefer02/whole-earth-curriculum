@@ -117,21 +117,32 @@ other, and the mystery number is what makes both sides equal.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is the learner's first formal
-meeting with a **variable** — a letter standing for an unknown. Teach it concretely as
-a **balance** (philosophy §13): both sides of an equation are equal, and the unknown
-is what makes them so (Van de Walle, Karp & Bay-Williams, 2019). Model *n* + 3 = 7
-with a worked example, find *n* = 4 by counting on or subtracting, then check by
-substitution. Build on Grade 3's missing-number problems (Carpenter, Fennema, Franke,
-Levi & Empson, 2015). **A letter is a tool for a job, not a scary symbol; and the
-pace at which a learner meets variables is not a measure of their worth. An equation
-is a fact about numbers, never about a person.** The idea of an unknown and of
-balancing quantities is found across mathematical traditions; the letters we use are
-one convention among many (Ifrah, 2000). Count in the home language. For learners who
-are Deaf or hard of hearing, sign the balance and the unknown; for learners who are
-blind or have low vision, feel a real balance and find the missing amount by touch.
-Learners with limited movement direct a partner to place counters. Mastery arrives at
-its own pace.
+**Tone.** Concrete and friendly — a letter is a tool, not a scare.
+
+**The facts to land.**
+1. This is the first formal **variable**: a letter standing for an unknown.
+2. Both sides of an equation are equal, and the unknown is what makes them so (Van de
+   Walle, Karp & Bay-Williams, 2019). Model *n* + 3 = 7, find *n* = 4, then check by
+   substitution.
+3. This builds on Grade 3's missing-number problems (Carpenter, Fennema, Franke, Levi &
+   Empson, 2015).
+4. The idea of an unknown, and of balancing quantities, is found across mathematical
+   traditions; the letters are one convention among many (Ifrah, 2000).
+
+**Don't overshoot.** A letter is a tool for a job, not a scary symbol, and the pace at
+which a learner meets variables is not a measure of their worth.
+
+**The lenses, briefly.**
+- *Intellectual:* the balance is the worked example (philosophy §13).
+- *Egalitarianism:* an equation is a fact about numbers, never about a person.
+- *Global:* balancing and unknowns appear in many traditions.
+- *Critical-thinking:* "what makes both sides equal?"
+
+**The skill.** Find the unknown, then check it by substitution.
+
+**Access:** a learner who is Deaf or hard of hearing signs the balance and the unknown;
+a learner who is blind or has low vision feels a real balance and finds the missing
+amount by touch; a learner with limited movement directs a partner to place counters.
 
 ## Procedure
 

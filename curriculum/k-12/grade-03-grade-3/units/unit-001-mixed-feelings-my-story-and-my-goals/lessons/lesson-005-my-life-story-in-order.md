@@ -113,14 +113,14 @@ and every story matters.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill is *sequencing* — putting
-events in order — not producing a "complete" or dramatic biography. Some learners' lives
-have hard chapters (a move, a loss, a separation); honor them gently and let the learner
-choose what to share (see `docs/facilitation.md`). Use the worked example (your own or a
-shared one) before releasing learners to their own. Every family's shape and every
-child's pace is normal here — there is no "correct" set of five stops. If a learner
-cannot remember or does not know an early stop, that is fine: they may say "I don't
-know yet" or ask someone at home.
+The skill is *sequencing* — putting events in order — not producing a "complete" or
+dramatic biography. Some learners' lives have hard chapters (a move, a loss, a
+separation); honor them gently and let the learner choose what to share (see
+`docs/facilitation.md`). Use the worked example (your own or a shared one) before
+releasing learners to their own. Every family's shape and every child's pace is normal
+here — there is no "correct" set of five stops. If a learner cannot remember or does not
+know an early stop, that is fine: they may say "I don't know yet" or ask someone at
+home.
 
 ## Procedure
 

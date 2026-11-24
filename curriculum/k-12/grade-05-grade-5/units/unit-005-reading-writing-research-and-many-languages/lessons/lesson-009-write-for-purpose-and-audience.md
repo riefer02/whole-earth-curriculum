@@ -115,12 +115,12 @@ and form to fit **who will read it** and **what you want them to do**.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **style and structure
-are choices**, not rules, and the right choice depends on purpose and audience. Writers may
-write in their home language; the goal is a piece that *works for its reader*. Model one "same
-idea, two audiences" contrast aloud, then let learners choose tasks they find real and
-meaningful. Keep feedback about whether the piece fits the reader, not about "correctness."
-Writing is a skill — pair the choice-making with a worked example before independent drafting
+The idea to land is that **style and structure are choices**, not rules, and the right
+choice depends on purpose and audience. Writers may write in their home language; the
+goal is a piece that *works for its reader*. Model one "same idea, two audiences"
+contrast aloud, then let learners choose tasks they find real and meaningful. Keep
+feedback about whether the piece fits the reader, not about "correctness." Writing is a
+skill — pair the choice-making with a worked example before independent drafting
 (Kirschner, Sweller & Clark, 2006).
 
 ## Procedure

@@ -119,15 +119,15 @@ one question that explains it: **why?**
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is the **compare-and-why
-move**: name the two places, name the two uses, then suggest *why* they differ. Model the
-phone example fully before learners compare the bicycle or water pump. Keep the global frame
-egalitarian: the point is **that** uses differ and **why**, never that one place is "advanced"
-and another "behind." The mobile-money example is well documented (M-Pesa and similar services
-grew where bank branches were scarce). Distinguish evidence from values: *where and how a tool
-is used* is a fact we can investigate; *that each use is a fitting, intelligent response to a
-place's needs* is the value stance we hold. See `docs/philosophy.md` §4 and
-`docs/facilitation.md`.
+The skill to land is the **compare-and-why move**: name the two places, name the two
+uses, then suggest *why* they differ. Model the phone example fully before learners
+compare the bicycle or water pump. Keep the global frame egalitarian: the point is
+**that** uses differ and **why**, never that one place is "advanced" and another
+"behind." The mobile-money example is well documented (M-Pesa and similar services grew
+where bank branches were scarce). Distinguish evidence from values: *where and how a
+tool is used* is a fact we can investigate; *that each use is a fitting, intelligent
+response to a place's needs* is the value stance we hold. See `docs/philosophy.md` §4
+and `docs/facilitation.md`.
 
 ## Procedure
 

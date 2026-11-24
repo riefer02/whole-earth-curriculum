@@ -111,27 +111,43 @@ with every century. Today we trace that double story across the world.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **cities are a second
-global process to analyze for continuity and change. What *stayed the same*: cities grew
-at rivers, ports, and trade routes, and people gathered in them to trade, pray, govern,
-and learn. What *changed*: each city found its own form — stone, earth, or water — and
-each rose and fell in its own time.** The five cities, each a real, documented case:
-**(1) Mohenjo-daro** — an Indus Valley city of ~2600–1900 BCE with grid streets and an
-elaborate drainage system (S-132); **(2) Cahokia** — a Mississippian city near the
-Mississippi River, ~1050–1350 CE, built around earth mounds (S-472); **(3) Great
-Zimbabwe** — a Shona stone city of the 11th–15th centuries CE, center of a gold-trading
-kingdom linked to the Indian Ocean coast (S-199); **(4) Angkor** — a Khmer city of the
-9th–15th centuries CE whose vast water system of reservoirs and canals managed the
-monsoons (S-471); **(5) Timbuktu** — a Saharan trade city that became a center of
-manuscript learning in the 15th–16th centuries (S-268). Note the global range on purpose:
-city-building is a shared human achievement, not one region's. This is a *skill* lesson,
-so reinforce the worked-example–guided-practice–independent pattern from Lesson 2
-(Kirschner, Sweller & Clark 2006, S-011). The **global** lens: cities arose independently
-on many continents. The **environment** lens: cities grew where land and water met —
-rivers, coasts, oases. The **technology** lens: city-building required engineering —
-drains, mounds, stone walls, reservoirs. The **egalitarian** lens: ask who lived in the
-fine center of a city and who lived at its edges. Keep decline honest but multi-causal —
-cities rarely "collapse" from one cause (see Lesson 6).
+**Tone.** Appreciative of ordinary engineering — cities as human achievement.
+
+**The facts to land.**
+
+1. **Continuity:** cities grew at rivers, ports, and trade routes, and people gathered
+to trade, pray, govern, and learn. **Change:** each city found its own form — stone,
+earth, or water — and rose and fell in its own time.
+2. **Five documented cases:**
+
+- **Mohenjo-daro** — an Indus Valley city of ~2600–1900 BCE with grid streets and
+elaborate drainage (S-132).
+- **Cahokia** — a Mississippian city near the Mississippi, ~1050–1350 CE, built around
+earth mounds (S-472).
+- **Great Zimbabwe** — a Shona stone city of the 11th–15th centuries CE, centre of a
+gold-trading kingdom linked to the Indian Ocean coast (S-199).
+- **Angkor** — a Khmer city of the 9th–15th centuries CE whose reservoirs and canals
+managed the monsoons (S-471).
+- **Timbuktu** — a Saharan trade city that became a centre of manuscript learning in the
+15th–16th centuries (S-268).
+
+3. **The global range is the point:** city-building is a shared human achievement, not
+one region's.
+
+**The lenses, briefly.**
+
+- *Global:* cities arose independently on many continents.
+- *Environment:* cities grew where land and water met — rivers, coasts, oases.
+- *Technology:* city-building required engineering — drains, mounds, stone walls,
+reservoirs.
+- *Egalitarianism:* ask who lived in the fine centre of a city and who lived at its
+edges.
+
+**The skill.** Reinforce the worked-example → guided-practice → independent pattern from
+Lesson 2 (Kirschner, Sweller & Clark 2006, S-011).
+
+**Don't overshoot.** Keep decline honest but multi-causal — cities rarely "collapse"
+from one cause (see Lesson 6).
 
 ## Procedure
 

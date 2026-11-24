@@ -102,16 +102,15 @@ sings.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the space and beat, then model each movement slowly
-before the learners try. This is movement, not a race — celebrate control, rhythm,
-and joy, never speed or distance. Honor every body: a learner who uses a wheelchair
-can skip and gallop with their arms and wheels; a learner who needs support can do a
-seated or step version. Model the adapted versions as real choices, not second
-choices, so no one is left watching. Keep a visual beat going too — a bouncing hand or
-a partner tapping — so learners who are deaf or hard of hearing can move in time.
-Invite everyone to rest and go at their own pace; breath and joy matter more than
-speed, especially for learners with breathing differences.
+Prepare the space and beat, then model each movement slowly before the learners try.
+This is movement, not a race — celebrate control, rhythm, and joy, never speed or
+distance. Honor every body: a learner who uses a wheelchair can skip and gallop with
+their arms and wheels; a learner who needs support can do a seated or step version.
+Model the adapted versions as real choices, not second choices, so no one is left
+watching. Keep a visual beat going too — a bouncing hand or a partner tapping — so
+learners who are deaf or hard of hearing can move in time. Invite everyone to rest and
+go at their own pace; breath and joy matter more than speed, especially for learners
+with breathing differences.
 
 ## Procedure
 

@@ -117,24 +117,23 @@ sieve; the same logic, played out over thousands of generations, is evolution.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **evolution by
-natural selection rests on three observed facts — populations vary, some variation is
-inherited, and some variants survive and reproduce more under a given environment —
-from which the population's shift over generations follows (S-303).** Teach the
-chain explicitly with a worked example and guided practice (S-011), and ground it in
-a measured case: in the Galápagos, Grant and Grant recorded beak size in Geospiza
-fortis shifting after drought changed the food supply (S-305). Emphasize that this is
-**evidence**, not a claim to be accepted on authority, and that nothing "decided" the
-outcome — the environment selects without purpose.
+The ideas to land: **evolution by natural selection rests on three observed facts —
+populations vary, some variation is inherited, and some variants survive and reproduce
+more under a given environment — from which the population's shift over generations
+follows (S-303).** Teach the chain explicitly with a worked example and guided practice
+(S-011), and ground it in a measured case: in the Galápagos, Grant and Grant recorded
+beak size in Geospiza fortis shifting after drought changed the food supply (S-305).
+Emphasize that this is **evidence**, not a claim to be accepted on authority, and that
+nothing "decided" the outcome — the environment selects without purpose.
 
 The **intellectual** lens: the power of the account is that three simple, observable
 facts, together, *produce* change over time. The **critical-thinking** lens: learners
-ask "is the variation really inherited, and is the pressure really differential?"
-before accepting any selection story. The **global** lens: the finch work is one
-measured case among many across the world's ecosystems; evolution is a description of
-life everywhere. The **ethics** lens: describing *how* life changes says nothing about
-*what* life means — that distinction is previewed here and deepened in Lesson 7.
-Preview: Lesson 6 turns selection into **common ancestry** and the tree of life.
+ask "is the variation really inherited, and is the pressure really differential?" before
+accepting any selection story. The **global** lens: the finch work is one measured case
+among many across the world's ecosystems; evolution is a description of life everywhere.
+The **ethics** lens: describing *how* life changes says nothing about *what* life
+means — that distinction is previewed here and deepened in Lesson 7. Preview: Lesson 6
+turns selection into **common ancestry** and the tree of life.
 
 ## Procedure
 

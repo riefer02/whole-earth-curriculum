@@ -20,14 +20,14 @@
   <!-- formulas -->
   <rect x="340" y="150" width="156" height="150" fill="#ffffff" stroke="#e0a458" stroke-width="2" rx="6"/>
   <text x="418" y="176" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a" font-weight="bold">Volume =</text>
-  <text x="418" y="198" text-anchor="middle" font-family="sans-serif" font-size="12.6" fill="#222222">&#960;r&#178;h  (cylinder)</text>
-  <text x="418" y="220" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">+ 2/3&#960;r&#179; (hemisphere)</text>
+  <text x="418" y="198" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">πr&#178;h  (cylinder)</text>
+  <text x="418" y="220" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">+ 2/3πr&#179; (hemisphere)</text>
   <text x="418" y="248" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a" font-weight="bold">Surface =</text>
-  <text x="418" y="270" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">2&#960;rh (side)</text>
-  <text x="418" y="292" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">+ 2&#960;r&#178; (cap)</text>
+  <text x="418" y="270" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">2πrh (side)</text>
+  <text x="418" y="292" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">+ 2πr&#178; (cap)</text>
 
   <!-- footer -->
   <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Decompose &#8594; compute each part &#8594; combine.</text>
   <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Shared faces are not part of the outer surface.</text>
-  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="12.6" fill="#4f6d7a">Ancient Egypt, China, and India knew these volumes (S-288, S-289, S-292).</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Ancient Egypt, China, and India knew these volumes (S-288, S-289, S-292).</text>
 </svg>

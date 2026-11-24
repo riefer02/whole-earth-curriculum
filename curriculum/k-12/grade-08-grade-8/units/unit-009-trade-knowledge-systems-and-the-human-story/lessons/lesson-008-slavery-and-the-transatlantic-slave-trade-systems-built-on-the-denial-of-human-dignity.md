@@ -113,29 +113,37 @@ such chapter honestly, and we listen above all for the courage of the people who
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is a **heavy topic, taught with care.** Begin with
-the care norms above. The ideas to land: **(1) slavery is a system that treats human beings as
-property — a denial of human dignity; (2) the transatlantic slave trade (roughly the 16th–19th
-centuries) was slavery organized at enormous scale across the Atlantic, built to extract labor for
-the Americas; it forcibly transported an estimated 12.5 million African people, of whom about 10.7
-million survived the crossing (S-322, S-274); (3) enslaved people never accepted this — they
-resisted, in ways large and small.** Name the forms of resistance with examples: **revolt** — the
-Haitian Revolution (1791–1804), led in part by Toussaint Louverture, ended slavery and established
-Haiti as an independent nation in 1804 (S-384); **marronage** — enslaved people escaping to form
-free **maroon communities** (for example, Palmares in Brazil, a large, long-lived free community);
-**everyday refusal** — slowing work, breaking tools, keeping their own names and ways; **keeping
-culture** — holding onto language, music, family, and faith (the next lesson). The **ethics** lens:
-we name plainly that slavery was wrong — a denial of dignity — and we treat the enslaved not as
-victims only but as agents who resisted (S-274). The **egalitarian** lens: the trade was not a
-"neutral" economic activity; it was theft and violence built to enrich some at the cost of others,
-and its effects still shape inequality today. The **global** lens: the trade connected three
-continents — Africa, the Americas, and Europe — moving people, goods, and wealth between them, and
-it is part of the *global* human story, not one region's. The **critical-thinking** lens: we distinguish evidence
-(what happened, documented in the databases S-322) from values (that it was wrong — a moral
-judgment we hold with conviction). Keep it age-appropriate and non-graphic: state the scale in
-numbers, not in images of suffering; center dignity and agency (facilitation). Keep the door to hope
-open: the story ends, in this unit, with people keeping their humanity, culture, and hope — which is
-the next lesson.
+**Tone.** Grave, calm, and honest — dignity first, never spectacle.
+
+**The facts to land.**
+
+1. Slavery is a system that treats human beings as property — a denial of human dignity.
+2. The transatlantic slave trade (roughly the 16th–19th centuries) organized slavery at
+   enormous scale to extract labour for the Americas, forcibly transporting an estimated
+   12.5 million African people; about 10.7 million survived the crossing (S-322, S-274).
+3. Enslaved people never accepted this. They resisted: **revolt** — the Haitian
+   Revolution (1791–1804), led in part by Toussaint Louverture, ended slavery and made
+   Haiti independent in 1804 (S-384); **marronage** — escape to free communities such as
+   Palmares in Brazil; **everyday refusal** — slowing work, breaking tools, keeping
+   their names; **keeping culture** — language, music, family, faith (next lesson).
+
+**Don't overshoot.** Do not teach it as a "neutral" economic activity, or present the
+enslaved as victims only. It was theft and violence built to enrich some at the cost of
+others, and its effects still shape inequality (S-274).
+
+**The lenses, briefly.**
+
+- *Ethics:* name plainly that slavery was wrong, and treat the enslaved as agents who
+  resisted.
+- *Egalitarianism:* its effects still shape inequality today.
+- *Global:* it connected Africa, the Americas, and Europe — part of the global human
+  story.
+- *Critical-thinking:* distinguish evidence (what happened; S-322) from values (that it
+  was wrong).
+
+**The skill.** Keep it age-appropriate and non-graphic: state the scale in numbers, not
+images of suffering; centre dignity and agency. Leave hope open — the next lesson shows
+people keeping humanity, culture, and hope.
 
 ## Procedure
 

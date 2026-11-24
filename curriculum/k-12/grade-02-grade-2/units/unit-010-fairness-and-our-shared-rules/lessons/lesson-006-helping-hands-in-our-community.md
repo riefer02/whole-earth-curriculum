@@ -109,19 +109,36 @@ one way people help near you, and one way you could join in.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **collective action** at the size
-a 7–8-year-old can hold: people help one another, and a child can join in. Keep it
-concrete and local — name real helps learners can see (a shared garden, a cleanup, a
-food share, reading to a younger child). Global and anthropological framing: every
-human community has ways of mutual aid (sharing harvests, mending shared things,
-carrying water) — helping is not one culture's idea. Emphasize that a child's help is
-real, not play-acting, and that every body can help in its own way: a learner who
-does not speak aloud points to a card or signs; a learner who is blind or low-vision
-hears each help described and names how they could join; a learner with a motor
-difference plans a help they can do (telling the story, holding the bag, being the
-lookout). Never require anyone to do physical work they cannot; "joining in" includes
-suggesting, cheering, and caring. Do not send learners to do unsupervised tasks
-outside — the plan is for *later*, with a grown-up. A learner may always pass.
+**Tone.** Matter-of-fact and warm, at the size a 7–8-year-old can hold: a child's help
+is **real, not play-acting**.
+
+**The facts to land.**
+
+1. People help one another in every community, and a child can join in.
+2. Name helps learners can see: a shared garden, a cleanup, a food share, reading to a
+   younger child.
+3. Every human community has ways of mutual aid — sharing harvests, mending shared
+   things, carrying water. Helping is not one culture's idea.
+4. Every body helps in its own way. Never require anyone to do physical work they
+   cannot: joining in includes suggesting, cheering, and caring.
+
+**Don't overshoot.** Do not send learners to do unsupervised tasks outside — the plan is
+for *later*, with a grown-up.
+
+**The lenses, briefly.**
+
+- *Ethics:* help is given, not performed to be seen.
+- *Egalitarianism:* planning, holding the bag, or being the lookout is full help.
+- *Community:* the group is what makes the work possible.
+- *Global:* mutual aid looks different everywhere and is nowhere absent.
+- *Environment:* much shared work is care for a shared place.
+- *Social-emotional:* helping builds the feeling of belonging.
+
+**The skill.** Plan one help you can really do, and say who it helps.
+
+**Access.** Non-speaking: point to a card or sign. Blind or low-vision: hear each help
+described and name how you could join. Motor difference: plan a help you can do —
+telling the story, holding the bag, being the lookout. A learner may always pass.
 
 ## Procedure
 

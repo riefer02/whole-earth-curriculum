@@ -124,16 +124,17 @@ home we all share.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) the four strands are one
-thing — technology, media, ecology, and stewardship all meet in the choices we make; (2) the four
-lenses (ethics, egalitarianism, global, technology & environment) are how we check those choices;
-(3) a plan that pairs individual action with collective action is stronger than either alone.** This
-is a **summative** moment, but mastery is personal, not ranked — celebrate growth, never compare
-learners. The ethics lens: "what is right?" The egalitarian lens: "who benefits, who is left out?"
-The global lens: "how would another people or place see this?" The technology & environment lens:
-"what does this do to humanity and the Earth?" Ask learners to run their plan through all four.
-Keep hope central — the unit ends on agency, not despair. Assess by what each learner can now
-*explain and choose*, not by a score.
+The ideas to land: **(1) the four strands are one thing — technology, media, ecology,
+and stewardship all meet in the choices we make; (2) the four lenses (ethics,
+egalitarianism, global, technology & environment) are how we check those choices; (3) a
+plan that pairs individual action with collective action is stronger than either
+alone.** This is a **summative** moment, but mastery is personal, not ranked — celebrate
+growth, never compare learners. The ethics lens: "what is right?" The egalitarian lens:
+"who benefits, who is left out?" The global lens: "how would another people or place see
+this?" The technology & environment lens: "what does this do to humanity and the Earth?"
+Ask learners to run their plan through all four. Keep hope central — the unit ends on
+agency, not despair. Assess by what each learner can now *explain and choose*, not by a
+score.
 
 ## Procedure
 

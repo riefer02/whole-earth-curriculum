@@ -116,15 +116,15 @@ whether the claim arrives by paper in Bamako, by radio in Manila, or by phone an
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **credibility is
-checked, not felt — through author, purpose, and evidence — and the result is a verdict,
-not a ranking of people**. Model one worked example: run all three checks on one source
-aloud, reaching "trust" and saying *why* (Kirschner, Sweller & Clark, 2006). Distinguish
-a source's *purpose* (to inform, to persuade, to sell) from its *bias*. The four lenses:
-*ethics* (honest sources show their evidence); *egalitarianism* (a false health claim
-hurts those with least access to doctors most); *global* (credibility checks work in every
-language and media system); *technology* (the internet spreads both good and bad sources
-at the same speed — the check matters more, not less). See `docs/facilitation.md`.
+The idea to land is that **credibility is checked, not felt — through author, purpose,
+and evidence — and the result is a verdict, not a ranking of people**. Model one worked
+example: run all three checks on one source aloud, reaching "trust" and saying *why*
+(Kirschner, Sweller & Clark, 2006). Distinguish a source's *purpose* (to inform, to
+persuade, to sell) from its *bias*. The four lenses: *ethics* (honest sources show their
+evidence); *egalitarianism* (a false health claim hurts those with least access to
+doctors most); *global* (credibility checks work in every language and media system);
+*technology* (the internet spreads both good and bad sources at the same speed — the
+check matters more, not less). See `docs/facilitation.md`.
 
 ## Procedure
 

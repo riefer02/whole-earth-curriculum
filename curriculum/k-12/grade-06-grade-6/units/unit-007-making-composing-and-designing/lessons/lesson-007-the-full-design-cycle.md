@@ -132,17 +132,17 @@ finish, and keep the record.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is the **complete cycle
-with documentation**: research (watch and ask) → prototype (rough, quick) → test (against
-the real problem) → improve (change one thing, try again) → document (write it down),
-looping as needed. Model the worked example fully before learners begin (explicit
-instruction for a novice skill — Kirschner, Sweller & Clark, 2006). Emphasize the two
-grade-6 upgrades over grade 5: **research comes first**, and **documentation** turns a
-build into a shareable record. Let the problem be real — the class or community should
-actually have it — and let prototypes be rough; testing and improving are the learning.
-Weave in the lenses: *egalitarianism* (ask "who is this for, and does it work for them?"),
-*environment* (ask "what do the materials cost the Earth?"). The journal is the portfolio
-artifact. See `docs/facilitation.md` and `docs/contexts.md`.
+The idea to land is the **complete cycle with documentation**: research (watch and ask)
+→ prototype (rough, quick) → test (against the real problem) → improve (change one
+thing, try again) → document (write it down), looping as needed. Model the worked
+example fully before learners begin (explicit instruction for a novice skill —
+Kirschner, Sweller & Clark, 2006). Emphasize the two grade-6 upgrades over grade 5:
+**research comes first**, and **documentation** turns a build into a shareable record.
+Let the problem be real — the class or community should actually have it — and let
+prototypes be rough; testing and improving are the learning. Weave in the lenses:
+*egalitarianism* (ask "who is this for, and does it work for them?"), *environment* (ask
+"what do the materials cost the Earth?"). The journal is the portfolio artifact. See
+`docs/facilitation.md` and `docs/contexts.md`.
 
 ## Procedure
 

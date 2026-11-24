@@ -119,15 +119,15 @@ day, the work changes, and new needs appear along with the new ease.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **a tool changes daily
-life, with effects both helpful and complicated** — not that tools are simple "good" or
-"bad." Model the phone chain fully (worked example) before learners trace their own tool
-(Kirschner, Sweller & Clark, 2006). Keep it honest and global: the phone and the water pump
-did not arrive everywhere the same way or do the same job everywhere — that is the next
-lesson. Distinguish evidence from values: *what changed* is something we can investigate;
-*that ease is good and that care for new costs matters* are values we hold. Choose examples
-that include the learner's own region and others, without ranking any as "behind" or
-"ahead." See `docs/philosophy.md` §7 and `docs/facilitation.md`.
+The idea to land is **a tool changes daily life, with effects both helpful and
+complicated** — not that tools are simple "good" or "bad." Model the phone chain fully
+(worked example) before learners trace their own tool (Kirschner, Sweller & Clark,
+2006). Keep it honest and global: the phone and the water pump did not arrive everywhere
+the same way or do the same job everywhere — that is the next lesson. Distinguish
+evidence from values: *what changed* is something we can investigate; *that ease is good
+and that care for new costs matters* are values we hold. Choose examples that include
+the learner's own region and others, without ranking any as "behind" or "ahead." See
+`docs/philosophy.md` §7 and `docs/facilitation.md`.
 
 ## Procedure
 

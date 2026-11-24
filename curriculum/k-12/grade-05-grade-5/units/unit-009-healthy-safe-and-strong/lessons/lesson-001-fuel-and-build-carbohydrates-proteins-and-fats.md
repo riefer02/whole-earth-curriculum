@@ -121,14 +121,14 @@ at work.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **different nutrients
-do different jobs**, not that any food or body is "good" or "bad." Carbohydrates, proteins, and
-fats are all needed; there is no "bad" nutrient. Use food examples from many regions and ways
-of eating — rice, maize, cassava, plantain, bread, beans, lentils, chickpeas, tofu, fish, eggs,
-milk, nuts, seeds, avocado, olive and palm and coconut oils — so no learner's home food is left
-out or made to seem wrong. Sort by **job**, never by "healthy vs unhealthy." Model the poster
-once (a worked example) before independent sorting. See `docs/facilitation.md` and
-`docs/contexts.md`.
+The idea to land is that **different nutrients do different jobs**, not that any food or
+body is "good" or "bad." Carbohydrates, proteins, and fats are all needed; there is no
+"bad" nutrient. Use food examples from many regions and ways of eating — rice, maize,
+cassava, plantain, bread, beans, lentils, chickpeas, tofu, fish, eggs, milk, nuts,
+seeds, avocado, olive and palm and coconut oils — so no learner's home food is left out
+or made to seem wrong. Sort by **job**, never by "healthy vs unhealthy." Model the
+poster once (a worked example) before independent sorting. See `docs/facilitation.md`
+and `docs/contexts.md`.
 
 ## Procedure
 

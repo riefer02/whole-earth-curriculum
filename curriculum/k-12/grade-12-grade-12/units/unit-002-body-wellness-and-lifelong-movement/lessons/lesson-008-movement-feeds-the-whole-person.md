@@ -111,23 +111,26 @@ lifelong ally.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **evidence,
-hedged honestly**: regular physical activity supports significant physical *and* mental
-health benefits (WHO, S-341), and the exercise–mood link involves several mechanisms —
-endorphins, monoamines (serotonin, dopamine, noradrenaline), and BDNF among them — not
-one magic chemical (Mikkelsen et al., S-408). Model the honest hedge: this is a
-correlation-and-mechanism story, not "exercise cures depression." Movement is *one*
-support, not a replacement for care a person may need. No body-shaming, ever: the frame
-is "movement as ally," never "you must look or perform a certain way."
+The idea to land, held as **evidence, hedged honestly**: regular physical activity
+supports significant physical *and* mental health benefits (WHO, S-341), and the
+exercise–mood link involves several mechanisms — endorphins, monoamines (serotonin,
+dopamine, noradrenaline), and BDNF among them — not one magic chemical (Mikkelsen et
+al., S-408). Model the honest hedge: this is a correlation-and-mechanism story, not
+"exercise cures depression." Movement is *one* support, not a replacement for care a
+person may need. No body-shaming, ever: the frame is "movement as ally," never "you must
+look or perform a certain way."
 
-The **ethics** lens: prescribing movement to *others* is done with care — it can help and
-it can also become a demand. The **egalitarianism** lens: access to safe, joyful movement
-is not equal, and the social branch matters most where isolation is deepest. The
-**global** lens: what "movement" means differs everywhere — dancing, farming, walking,
-games, swimming — and no single form is the default. The **critical-thinking** lens:
-"movement improves mood" is a claim with real evidence, but we read it with the
-correlation/causation care it deserves. The **technology** lens: labor-saving devices and screens have made sitting the default in many lives, which is exactly why deliberate movement now matters more — and a wearable can measure movement but cannot supply the motive, which still comes from the person. Preview: Lesson 9 names the building blocks of a
-movement life.
+The **ethics** lens: prescribing movement to *others* is done with care — it can help
+and it can also become a demand. The **egalitarianism** lens: access to safe, joyful
+movement is not equal, and the social branch matters most where isolation is deepest.
+The **global** lens: what "movement" means differs everywhere — dancing, farming,
+walking, games, swimming — and no single form is the default. The **critical-thinking**
+lens: "movement improves mood" is a claim with real evidence, but we read it with the
+correlation/causation care it deserves. The **technology** lens: labor-saving devices
+and screens have made sitting the default in many lives, which is exactly why deliberate
+movement now matters more — and a wearable can measure movement but cannot supply the
+motive, which still comes from the person. Preview: Lesson 9 names the building blocks
+of a movement life.
 
 ## Procedure
 

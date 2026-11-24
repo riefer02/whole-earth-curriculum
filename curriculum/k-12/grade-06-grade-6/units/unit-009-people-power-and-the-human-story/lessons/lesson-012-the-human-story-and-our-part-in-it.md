@@ -137,14 +137,14 @@ of it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is the unit's **capstone and summative
-assessment**, and a moment of **retrieval and synthesis** — learners recall the whole unit
-and connect it, rather than re-reading it. Keep the tone celebratory and collective: success
-is shared, mastery is individual, and no one is ranked. The closing should land on **hope and
-agency** — the learner's own part in the unfinished story, and a return to **what the
-freedom movement's people did**. If a learner's artifacts are incomplete, let them finish one
-now rather than be judged "done" or "not done." This lesson completes the unit's portfolio.
-See `docs/facilitation.md` on assessing without ranking.
+This is the unit's **capstone and summative assessment**, and a moment of **retrieval
+and synthesis** — learners recall the whole unit and connect it, rather than re-reading
+it. Keep the tone celebratory and collective: success is shared, mastery is individual,
+and no one is ranked. The closing should land on **hope and agency** — the learner's own
+part in the unfinished story, and a return to **what the freedom movement's people
+did**. If a learner's artifacts are incomplete, let them finish one now rather than be
+judged "done" or "not done." This lesson completes the unit's portfolio. See
+`docs/facilitation.md` on assessing without ranking.
 
 ## Procedure
 

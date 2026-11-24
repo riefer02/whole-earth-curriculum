@@ -113,24 +113,26 @@ and noticing that you get a hand in the "could be."
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the human story is unfinished,
-and "possible futures" is a concrete, ordinary act of agency — naming what I inherit, what is
-happening now, and what I could help make.** Teach the three boxes explicitly (S-011). This lesson
-must carry hope, never nihilism: the "unfinished" framing is empowerment (there is still time, and
-the next step is partly ours), not dread. Name feelings before facts where the present is heavy,
-and always connect difficulty to agency (facilitation, holding difficult topics safely).
+The idea to land: **the human story is unfinished, and "possible futures" is a concrete,
+ordinary act of agency — naming what I inherit, what is happening now, and what I could
+help make.** Teach the three boxes explicitly (S-011). This lesson must carry hope,
+never nihilism: the "unfinished" framing is empowerment (there is still time, and the
+next step is partly ours), not dread. Name feelings before facts where the present is
+heavy, and always connect difficulty to agency (facilitation, holding difficult topics
+safely).
 
-The **ethics** lens: imagining futures is a moral act — some futures are more just than others, and
-we can ask *which futures are worth wanting.* The **egalitarianism** lens: "possible selves" are
-not a privilege of the rich — people everywhere imagine and work toward futures (S-399); the point
-is that agency belongs to everyone, even when it is unevenly resourced. The **global** lens: the
-same inherited past can seed many different futures in different places — a coastline facing the
-sea, a dry region facing drought — and no single future is the only one. The **technology** lens:
-tools narrow and widen futures at once — a phone connects a village to the world while a new dam
-floods a valley; naming futures is naming which tools serve whom. The **environment** lens: the
-Earth itself is the biggest "present" — what we do now narrows or widens which futures remain
-possible for the living world (S-005). Preview: Lesson 5 turns to the many knowledge traditions
-that different futures draw on.
+The **ethics** lens: imagining futures is a moral act — some futures are more than
+others, and we can ask *which futures are worth wanting.* The **egalitarianism** lens:
+"possible selves" are not a privilege of the rich — people everywhere imagine and work
+toward futures (S-399); the point is that agency belongs to everyone, even when it is
+unevenly resourced. The **global** lens: the same inherited past can seed many different
+futures in different places — a coastline facing the sea, a dry region facing drought —
+and no single future is the only one. The **technology** lens: tools narrow and widen
+futures at once — a phone connects a village to the world while a new dam floods a
+valley; naming futures is naming which tools serve whom. The **environment** lens: the
+Earth itself is the biggest "present" — what we do now narrows or widens which futures
+remain possible for the living world (S-005). Preview: Lesson 5 turns to the many
+knowledge traditions that different futures draw on.
 
 ## Procedure
 

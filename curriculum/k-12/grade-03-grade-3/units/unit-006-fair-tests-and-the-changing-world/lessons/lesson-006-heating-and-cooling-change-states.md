@@ -121,16 +121,15 @@ snow and the clouds above your head, wherever you live.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Anchor the four words — **melt**,
-**freeze**, **evaporate**, **condense** — with concrete, watched examples before the
-circle is drawn (concrete before abstract). Model once (worked example: "heat melts
-ice"), then let pairs test one change themselves. Note the four changes are reversible
-— matter is not created or destroyed here, just rearranged (a first seed of the
-conservation idea, deepened in Grade 4). Keep the global lens: the same freezing,
-melting, and evaporating waters a rice field, carves a river, and clouds a sky anywhere
-on Earth. If boiling water is shown, an adult handles the heat, and learners watch at a
-safe distance — no fear, just care. Distinguish the evidence (what we watched happen)
-from the words we use to name it; the names are tools.
+Anchor the four words — **melt**, **freeze**, **evaporate**, **condense** — with
+concrete, watched examples before the circle is drawn (concrete before abstract). Model
+once (worked example: "heat melts ice"), then let pairs test one change themselves. Note
+the four changes are reversible — matter is not created or destroyed here, just
+rearranged (a first seed of the conservation idea, deepened in Grade 4). Keep the global
+lens: the same freezing, melting, and evaporating waters a rice field, carves a river,
+and clouds a sky anywhere on Earth. If boiling water is shown, an adult handles the
+heat, and learners watch at a safe distance — no fear, just care. Distinguish the
+evidence (what we watched happen) from the words we use to name it; the names are tools.
 
 ## Procedure
 

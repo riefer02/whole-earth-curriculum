@@ -107,11 +107,11 @@ anyone else, and it is worth hearing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Prepare the page or booklet, then
-support learners as they assemble and tell. Storytelling is the oldest technology of
-all — celebrate that stories live in voices and pictures, not only in books or on
-screens. Keep listening gentle and unrushed; every story, however small, is honored.
-A learner who does not want to speak may show their page instead.
+Prepare the page or booklet, then support learners as they assemble and tell.
+Storytelling is the oldest technology of all — celebrate that stories live in voices and
+pictures, not only in books or on screens. Keep listening gentle and unrushed; every
+story, however small, is honored. A learner who does not want to speak may show their
+page instead.
 
 ## Procedure
 

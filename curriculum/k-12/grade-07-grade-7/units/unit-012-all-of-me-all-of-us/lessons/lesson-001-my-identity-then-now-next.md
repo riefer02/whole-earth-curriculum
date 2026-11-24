@@ -119,23 +119,38 @@ that comes **next**.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **identity is a continuous, changing
-story, and because it changed before, we can predict (with honesty, not certainty) how it may keep
-growing.** This closes the year by *deepening* Unit 1, Lesson 5 (which asked "how has my identity
-changed?"); here learners complete the objective by looking **forward**. Identity as a lifelong,
-re-forming process is developmentally real (Erikson, S-155); frame "next" as a *prediction with
-reasons*, not a fortune-telling or a demand to commit. The ethics lens: who I am becoming raises the
-question "who do I want to become, and what is right for others in that?" The egalitarian lens:
-growth looks different in every life — no one's "next" is ranked against another's, and a learner
-with fewer choices still authors their own story. The global lens: people everywhere understand the
-self as a story that grows, in many different idioms (a river, a tree, a path, a weaving); honor many
-ways of saying it rather than one. The technology lens: devices and media now shape the self — invite
-learners to notice whether their "next" is theirs or borrowed from a screen. Retrieval here is
-deliberate spaced recall (Dunlosky et al., 2013, S-039); model the three panels once as a worked
-example (Kirschner, Sweller & Clark, 2006, S-011). Distinguish **evidence from values**: that identity
-changes is observable; that every person's growth deserves equal honor is a value this curriculum
-holds — name it as one. Keep identity work low-stakes and voluntary; it can brush against sensitive
-material (family change, migration, loss), so let learners choose safe examples and never require
+**Tone.** Forward-looking and light. Nobody has to decide who they will be.
+
+**The facts to land.**
+
+1. **Identity is a continuous, changing story**; because it changed before, we can
+   predict, not with certainty, how it may keep growing.
+2. Identity as a lifelong, re-forming process is developmentally real (Erikson, S-155).
+3. **"Next" is a prediction with reasons**, not fortune-telling, not a demand to commit.
+
+**Don't overshoot.** Do not press for a definite future, or treat a predicted "next" as
+a promise.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* you are the author, not the audience.
+- *Ethics:* who I am becoming raises "who do I want to become — and what is right for
+  others?"
+- *Egalitarianism:* growth looks different in every life; no one's "next" is ranked
+  against another's, and a learner with fewer choices still authors their own story.
+- *Global:* people everywhere understand the self as a story that grows — a river, a
+  tree, a weaving.
+- *Technology:* devices and media shape the self; notice whether your "next" is yours or
+  borrowed from a screen.
+- *Critical-thinking:* that identity changes is observable; that every person's growth
+  deserves equal honor is a value.
+
+**The skill.** Retrieve the "then/now" map from Unit 1, Lesson 5 (spaced recall —
+Dunlosky et al., 2013, S-039), then model the three panels once (Kirschner, Sweller &
+Clark, 2006, S-011).
+
+**Safety floor.** Low-stakes and voluntary. Identity work can brush against family
+change, migration, or loss: let learners choose safe examples and never require
 disclosure.
 
 ## Procedure

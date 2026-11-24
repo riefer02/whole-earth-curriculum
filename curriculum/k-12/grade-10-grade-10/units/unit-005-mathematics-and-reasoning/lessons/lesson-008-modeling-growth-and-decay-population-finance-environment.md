@@ -117,25 +117,24 @@ place that holds them, and the curve bends over into an S.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the exponential
-model A = P(1 + r)ᵗ (or with compounding periods, A = P(1 + r/n)ⁿᵗ) predicts growth
-and decay in finance, population, and the environment — and the *rate* is the lever,
-because it compounds.** The **rule of 70** (doubling time ≈ 70 ÷ rate in percent) is a
-quick, honest estimate. Real populations also reach a **carrying capacity K**, turning
-exponential growth into an S-shaped **logistic** curve (S-436). Teach the formula with
-worked examples (S-011), then let learners compare rates.
+The idea to land: **the exponential model A = P(1 + r)ᵗ (or with compounding periods, A
+= P(1 + r/n)ⁿᵗ) predicts growth and decay in finance, population, and the environment —
+and the *rate* is the lever, because it compounds.** The **rule of 70** (doubling time ≈
+70 ÷ rate in percent) is a quick, honest estimate. Real populations also reach a
+**carrying capacity K**, turning exponential growth into an S-shaped **logistic** curve
+(S-436). Teach the formula with worked examples (S-011), then let learners compare
+rates.
 
-The **environment** lens is central: exponential growth against finite resources is
-the deepest environmental arithmetic there is — the S-curve's ceiling is real
-(S-436). The **ethics** lens: lending rates can be fair or predatory; a small
-difference in interest decides whether a family sinks or swims. The **egalitarian**
-lens: the same rate hits people unequally — who borrows at 2% and who at 20% is often
-a matter of power and access, not merit. The **global** lens: fixed shares and rates
-have long histories across cultures — for example, zakat, a 2.5% (one-fortieth) share
-of wealth given yearly as an obligation of care in Islamic tradition (S-297) — a
-reminder that percentages have long been instruments of distribution, not only of
-profit. Hold facts and values apart: the math is descriptive; what counts as *fair* is
-a judgment we make together.
+The **environment** lens is central: exponential growth against finite resources is the
+deepest environmental arithmetic there is — the S-curve's ceiling is real (S-436). The
+**ethics** lens: lending rates can be fair or predatory; a small difference in interest
+decides whether a family sinks or swims. The **egalitarian** lens: the same rate hits
+people unequally — who borrows at 2% and who at 20% is often a matter of power and
+access, not merit. The **global** lens: fixed shares and rates have long histories
+across cultures — for example, zakat, a 2.5% (one-fortieth) share of wealth given yearly
+as an obligation of care in Islamic tradition (S-297) — a reminder that percentages have
+long been instruments of distribution, not only of profit. Hold facts and values apart:
+the math is descriptive; what counts as *fair* is a judgment we make together.
 
 ## Procedure
 

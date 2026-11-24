@@ -120,16 +120,15 @@ versions of the same well, all over the world — and maybe near you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a cooperative is a
-people-centred enterprise jointly owned and democratically controlled by its members —
-run on "one member, one vote" — so the people who use or work in it also decide and
-benefit, and accountability is what keeps that true over time.** The International
-Cooperative Alliance (founded 1895) reports about 3 million cooperatives whose members
-represent at least 12% of humanity (S-486). Mondragón, a federation of worker
-cooperatives in the Basque Country, is a famous large example (S-487). Communities have
-long governed shared resources — forests, fisheries, irrigation, grazing — by their own
-rules for the common good (Ostrom, S-416). These are descriptive facts; "shared ownership
-is a fairer way" is a value we examine, not assert.
+The idea to land: **a cooperative is a people-centred enterprise jointly owned and
+democratically controlled by its members — run on "one member, one vote" — so the people
+who use or work in it also decide and benefit, and accountability is what keeps that
+true over time.** The International Cooperative Alliance (founded 1895) reports about 3
+million cooperatives whose members represent at least 12% of humanity (S-486).
+Mondragón, a federation of worker cooperatives in the Basque Country, is a famous large
+example (S-487). Communities have long governed shared resources — forests, fisheries,
+irrigation, grazing — by their own rules for the common good (Ostrom, S-416). These are
+descriptive facts; "shared ownership is a fairer way" is a value we examine, not assert.
 
 The **egalitarian** lens is the heart of the lesson: who owns and decides determines who
 benefits, and accountability is the guard that keeps power from re-concentrating. The
@@ -137,10 +136,11 @@ benefits, and accountability is the guard that keeps power from re-concentrating
 **global/anthropological** lens: cooperatives and shared resource-governance are not a
 Western invention — Ostrom documented them across many societies, and cooperative forms
 thrive on every continent. The **critical-thinking** lens: asking "who decides, who
-benefits, and who checks?" about any system is careful analysis, not opinion. Distinguish
-evidence from values: "cooperatives are widespread, member-owned, and use accountability
-mechanisms" is descriptive; "that is a fairer shape for an economy" is a judgment learners
-are invited to weigh. Model the contrast once (S-011), then let learners examine examples.
+benefits, and who checks?" about any system is careful analysis, not opinion.
+Distinguish evidence from values: "cooperatives are widespread, member-owned, and use
+accountability mechanisms" is descriptive; "that is a fairer shape for an economy" is a
+judgment learners are invited to weigh. Model the contrast once (S-011), then let
+learners examine examples.
 
 ## Procedure
 

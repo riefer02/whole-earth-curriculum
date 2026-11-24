@@ -102,11 +102,9 @@ ways, so we look, listen, and then ask to be sure.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, emphasize three clue-spots: face, voice, body.
-Model guessing gently and checking by asking. Remind learners that faces and voices
-show feelings differently in different families and cultures — a guess is a guess,
-and asking is how we learn.
+As facilitator, emphasize three clue-spots: face, voice, body. Model guessing gently and
+checking by asking. Remind learners that faces and voices show feelings differently in
+different families and cultures — a guess is a guess, and asking is how we learn.
 
 ## Procedure
 

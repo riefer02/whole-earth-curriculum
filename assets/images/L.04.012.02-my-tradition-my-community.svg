@@ -1,73 +1,95 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-012-02-my-tradition-my-community desc-L-04-012-02-my-tradition-my-community">
-  <title id="title-L-04-012-02-my-tradition-my-community">My Tradition, My Community: a tradition web</title>
-  <desc id="desc-L-04-012-02-my-tradition-my-community">A tradition web. In the center, a small circle labeled "my tradition" holds a family sharing a meal, a glowing lantern, and a drum. Lines radiate outward to a larger circle labeled "the larger community" that shows a mosque, a church, a temple, a market stall, and a gathering of many hands. The connecting lines show how one family's tradition links to a whole community. People vary in skin tone and dress, and one figure uses a cane.</desc>
+  <title id="title-L-04-012-02-my-tradition-my-community">My Tradition, My Community: a tradition shared with a wider community</title>
+  <desc id="desc-L-04-012-02-my-tradition-my-community">A tradition held inside a wider community. The inner white circle holds one family sharing a meal at a table, with steam rising from a shared bowl, and the words "my tradition" along the top of the circle. Around it, a dashed ring carries five shapes: a mosque, a church, a temple, a market stall and a group of neighbours. A leader line joins the dashed ring to the words "the larger community" at the foot of the page. People vary in skin tone and dress; one figure in the family leans on a cane.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">My Tradition, My Community</text>
 
-  <!-- radiating threads -->
-  <path d="M160 190 L70 96" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="5 5"/>
-  <path d="M300 130 L430 70" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="5 5"/>
-  <path d="M350 240 L446 210" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="5 5"/>
-  <path d="M160 300 L70 380" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="5 5"/>
-  <path d="M300 360 L400 430" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="5 5"/>
-  <path d="M130 250 L40 250" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="5 5"/>
+  <!-- the wider community ring -->
+  <circle cx="250" cy="268" r="180" fill="none" stroke="#7a9e7e" stroke-width="2.5" stroke-dasharray="8 6"/>
 
-  <!-- center tradition circle -->
-  <circle cx="250" cy="245" r="78" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
-  <text x="250" y="160" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">my tradition</text>
-  <!-- family at a meal -->
-  <circle cx="218" cy="212" r="13" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="250" cy="206" r="13" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="282" cy="212" r="13" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
-  <rect x="206" y="238" width="88" height="10" rx="3" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <!-- lantern -->
-  <rect x="246" y="258" width="10" height="14" rx="2" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="251" cy="276" r="4" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
-  <!-- drum -->
-  <rect x="210" y="262" width="20" height="14" rx="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <!-- leader from the ring to its label -->
+  <line x1="250" y1="452" x2="250" y2="474" stroke="#4f6d7a" stroke-width="1.6"/>
 
-  <!-- outer community ring -->
-  <circle cx="250" cy="245" r="150" fill="none" stroke="#7a9e7e" stroke-width="2.5" stroke-dasharray="8 6"/>
-  <text x="250" y="450" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">the larger community</text>
+  <!-- inner circle: my tradition -->
+  <circle cx="250" cy="268" r="100" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
+  <text x="250" y="200" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">my tradition</text>
 
-  <!-- mosque -->
+  <!-- the family at the table, each a soft silhouette -->
   <g>
-    <rect x="40" y="76" width="34" height="22" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M44 76 l13 -14 13 14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <rect x="52" y="86" width="6" height="12" fill="#2b3a42" opacity="0.5"/>
-  </g>
-  <!-- church -->
-  <g>
-    <rect x="404" y="52" width="30" height="20" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M404 52 l15 -12 15 12" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-    <rect x="416" y="34" width="4" height="12" fill="#2b3a42" opacity="0.5"/>
-  </g>
-  <!-- temple -->
-  <g>
-    <rect x="414" y="196" width="34" height="20" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M414 196 l17 -14 17 14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  </g>
-  <!-- market -->
-  <g>
-    <path d="M52 352 L86 352" fill="none" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M40 368 l26 -16 26 16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="56" cy="356" r="4" fill="#7a9e7e"/>
-    <circle cx="74" cy="356" r="4" fill="#e0a458"/>
-  </g>
-  <!-- many hands -->
-  <g>
-    <path d="M382 410 q6 -4 14 0 q4 6 0 12" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
-    <path d="M404 408 q6 -4 14 0 q4 6 0 12" fill="none" stroke="#2b3a42" stroke-width="2.5" stroke-linecap="round"/>
-    <path d="M393 404 q6 -4 14 0" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M 196 282 Q 196 250 216 250 Q 236 250 236 282 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="216" cy="238" r="12" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+
+    <path d="M 232 282 Q 232 246 252 246 Q 272 246 272 282 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="252" cy="232" r="12" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+
+    <path d="M 268 282 Q 268 250 288 250 Q 308 250 308 282 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="288" cy="238" r="12" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M 312 250 q 11 -3 10 8 l 0 26" fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
   </g>
 
-  <!-- figure with cane on the left -->
-  <g>
-    <circle cx="96" cy="236" r="11" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M96 248 v22" stroke="#2b3a42" stroke-width="2.5"/>
-    <path d="M96 260 l12 10 M96 258 l-10 10" stroke="#2b3a42" stroke-width="2.5"/>
-    <path d="M106 250 l10 26" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <!-- the shared table and bowl -->
+  <rect x="190" y="278" width="128" height="11" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M 233 278 q 17 12 34 0" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="204" y1="289" x2="204" y2="310" stroke="#2b3a42" stroke-width="2.5"/>
+  <line x1="304" y1="289" x2="304" y2="310" stroke="#2b3a42" stroke-width="2.5"/>
+
+  <!-- steam rising from the shared bowl -->
+  <g fill="none" stroke="#4f6d7a" stroke-width="1.8" stroke-linecap="round">
+    <path d="M 244 272 q -5 -8 0 -14"/>
+    <path d="M 256 272 q -5 -8 0 -14"/>
   </g>
+
+  <!-- community: a mosque, top -->
+  <g>
+    <rect x="228" y="84" width="46" height="28" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M 228 84 Q 251 54 274 84 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="251" y1="54" x2="251" y2="62" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="251" cy="52" r="2.6" fill="#e0a458" stroke="#2b3a42" stroke-width="1.4"/>
+    <rect x="212" y="72" width="9" height="40" rx="2" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M 212 72 q 4.5 -9 9 0" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="212" y1="86" x2="221" y2="86" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="247" y="96" width="8" height="16" fill="#2b3a42"/>
+  </g>
+
+  <!-- community: a church, upper right -->
+  <g>
+    <path d="M 362 172 L 366 172 L 366 140 L 388 140 L 388 106 L 396 106 L 396 140 L 410 140 L 410 172 Z"
+          fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <line x1="392" y1="88" x2="392" y2="106" stroke="#2b3a42" stroke-width="2.5"/>
+    <line x1="384" y1="96" x2="400" y2="96" stroke="#2b3a42" stroke-width="2.5"/>
+    <rect x="382" y="156" width="8" height="16" fill="#2b3a42"/>
+  </g>
+
+  <!-- community: a temple, right -->
+  <g>
+    <path d="M 404 284 L 456 284 L 456 268 L 404 268 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M 400 268 L 460 268 L 448 254 L 412 254 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M 408 254 L 452 254 L 442 242 L 418 242 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="424" y="272" width="12" height="12" fill="#2b3a42"/>
+  </g>
+
+  <!-- community: a market stall, lower right -->
+  <g>
+    <path d="M 356 352 L 420 352 L 412 336 L 364 336 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M 356 352 q 8 8 16 0 q 8 8 16 0 q 8 8 16 0 q 8 8 16 0" fill="none" stroke="#2b3a42" stroke-width="1.6"/>
+    <line x1="366" y1="360" x2="366" y2="392" stroke="#2b3a42" stroke-width="2"/>
+    <line x1="410" y1="360" x2="410" y2="392" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="360" y="376" width="56" height="8" rx="2" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="374" cy="372" r="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
+    <circle cx="392" cy="372" r="5" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
+  </g>
+
+  <!-- community: the many people who meet there, upper left -->
+  <g>
+    <circle cx="94" cy="148" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M 82 168 q 0 -14 12 -14 q 12 0 12 14 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="116" cy="142" r="7" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M 104 164 q 0 -14 12 -14 q 12 0 12 14 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="136" cy="148" r="7" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M 124 168 q 0 -14 12 -14 q 12 0 12 14 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  </g>
+
+  <text x="250" y="496" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">the larger community</text>
 </svg>

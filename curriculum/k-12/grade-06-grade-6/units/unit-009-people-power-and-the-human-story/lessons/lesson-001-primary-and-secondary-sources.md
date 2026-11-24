@@ -114,15 +114,15 @@ moment, the other steps back to explain it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to build is **recognizing primary
-and secondary sources** — not memorizing the 1883 eruption. Model the worked example fully
-(explicit instruction, guided practice) before learners sort on their own; source-kind
-thinking is a new skill for most Grade 6 learners. Use the simple test: **was it made at
-the time of the event, by someone who was there (or very close)?** That is primary.
-**Made later, by someone who studied the evidence?** That is secondary. Note honestly that
-the line can blur — a source can be "more primary" or "more secondary" — but the two poles
-are what learners need first. This lesson sets up the next, where learners use both kinds
-to describe one past event. See `docs/facilitation.md`.
+The skill to build is **recognizing primary and secondary sources** — not memorizing the
+1883 eruption. Model the worked example fully (explicit instruction, guided practice)
+before learners sort on their own; source-kind thinking is a new skill for most Grade 6
+learners. Use the simple test: **was it made at the time of the event, by someone who
+was there (or very close)?** That is primary. **Made later, by someone who studied the
+evidence?** That is secondary. Note honestly that the line can blur — a source can be
+"more primary" or "more secondary" — but the two poles are what learners need first.
+This lesson sets up the next, where learners use both kinds to describe one past event.
+See `docs/facilitation.md`.
 
 ## Procedure
 

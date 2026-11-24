@@ -27,7 +27,7 @@
 
   <!-- Rung 4: systematic review (top) -->
   <line x1="150" y1="150" x2="250" y2="150" stroke="#e0a458" stroke-width="4"/>
-  <text x="132" y="145" text-anchor="end" font-family="sans-serif" font-size="13.7" fill="#222222">systematic review</text>
+  <text x="132" y="145" text-anchor="end" font-family="sans-serif" font-size="14" fill="#222222">systematic review</text>
   <text x="132" y="165" text-anchor="end" font-family="sans-serif" font-size="12" fill="#4f6d7a">(many trials pooled)</text>
 
   <!-- Up arrow on ladder -->
@@ -45,12 +45,14 @@
     <path d="M-100 70 A30 30 0 0 0 -40 70" fill="none" stroke="#2b3a42" stroke-width="3"/>
     <!-- right pan -->
     <path d="M40 70 A30 30 0 0 0 100 70" fill="none" stroke="#2b3a42" stroke-width="3"/>
-    <!-- question mark on left pan -->
-    <text x="-70" y="86" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#e0a458">?</text>
-    <!-- star of evidence on right pan -->
-    <text x="70" y="86" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#7a9e7e">&#9733;</text>
+    <!-- pans (the question mark and star are placed absolutely below) -->
   </g>
 
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="12.7" fill="#4f6d7a">A claim is weighed by the strength of its evidence — and a tradition can</text>
+  <!-- question mark on left pan -->
+  <text x="290" y="266" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#e0a458">?</text>
+  <!-- star of evidence on right pan -->
+  <text x="430" y="266" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#7a9e7e">&#9733;</text>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">A claim is weighed by the strength of its evidence — and a tradition can</text>
   <text x="256" y="496" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">still be honored.</text>
 </svg>

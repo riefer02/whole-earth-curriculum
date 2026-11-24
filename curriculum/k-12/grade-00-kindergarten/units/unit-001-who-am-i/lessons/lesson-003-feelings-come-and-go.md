@@ -104,11 +104,10 @@ sun comes out again. No feeling lasts forever.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, model first: tell your own "I felt ___, and
-then it ___" story. Keep it light — this lesson is about the natural passing of
-feelings, not about fixing or judging them. If a learner shares something heavy,
-honor it calmly and help them notice it softened or passed.
+As facilitator, model first: tell your own "I felt ___, and then it ___" story. Keep it
+light — this lesson is about the natural passing of feelings, not about fixing or
+judging them. If a learner shares something heavy, honor it calmly and help them notice
+it softened or passed.
 
 ## Procedure
 

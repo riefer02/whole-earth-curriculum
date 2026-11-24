@@ -125,23 +125,24 @@ nutrition a science you can learn *and* a personal art you already practice.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **nutrition is the study of
-what bodies need — six broad categories of nutrients — not a ranking of "good" and "bad"
-foods.** Teach the six categories explicitly as a worked example, then let learners sort foods
-from their own lives into them (S-011). Hold one distinction firmly all unit: a **factual**
-claim (what a nutrient does) is different from a **value** claim (that a food or a body is
-"good" or "bad"). Nutrition science describes; it never grades a person.
+The idea to land: **nutrition is the study of what bodies need — six broad categories of
+nutrients — not a ranking of "good" and "bad" foods.** Teach the six categories
+explicitly as a worked example, then let learners sort foods from their own lives into
+them (S-011). Hold one distinction firmly all unit: a **factual** claim (what a nutrient
+does) is different from a **value** claim (that a food or a body is "good" or "bad").
+Nutrition science describes; it never grades a person.
 
 The **ethics** lens: we teach nutrients, not moral verdicts — no food is "clean" or
-"sinful," and no body is a score. The **egalitarianism** lens: every body needs the same six
-categories; only the amounts differ, and amounts differ by body, activity, and life — never by
-worth. The **global** lens: there is no single "correct" diet — the WHO's healthy-diet
-guidance is built around *variety*, and over 100 countries adapt dietary guidance to their own
-food cultures (S-038, S-118). The **technology** lens: labels, apps, and laboratory science
-let us *measure* nutrients, but measuring is not the same as judging — a label can tell you
-salt content, never your value. The **environment** lens: what we eat is connected to land,
-water, and climate, a thread Lessons 2 and 4 pull. Preview: Lesson 2 weighs the ethics and
-environment of food choices; Lesson 3 holds food as culture.
+"sinful," and no body is a score. The **egalitarianism** lens: every body needs the same
+six categories; only the amounts differ, and amounts differ by body, activity, and life
+— never by worth. The **global** lens: there is no single "correct" diet — the WHO's
+healthy-diet guidance is built around *variety*, and over 100 countries adapt dietary
+guidance to their own food cultures (S-038, S-118). The **technology** lens: labels,
+apps, and laboratory science let us *measure* nutrients, but measuring is not the same
+as judging — a label can tell you salt content, never your value. The **environment**
+lens: what we eat is connected to land, water, and climate, a thread Lessons 2 and 4
+pull. Preview: Lesson 2 weighs the ethics and environment of food choices; Lesson 3
+holds food as culture.
 
 ## Procedure
 

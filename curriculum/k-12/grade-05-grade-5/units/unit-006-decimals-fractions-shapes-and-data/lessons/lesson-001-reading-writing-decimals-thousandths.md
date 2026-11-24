@@ -119,18 +119,19 @@ same: a marker between whole ones and parts of one.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **a decimal point
-separates whole ones from parts smaller than one**, and that each place to the right is ten
-times smaller — **tenths, then hundredths, then thousandths**. Because this is a foundational
-skill, use **explicit instruction and worked examples** before independent practice
-(Kirschner, Sweller & Clark, 2006): model building 3.456 step by step, name each place, then
-guide a second number together before learners work alone. Watch for two common slips: reading
-"3.456" as "three point four five six" *only* (also teach the place-value reading "three and
-four hundred fifty-six thousandths"), and skipping the value of a zero (in 3.05, the zero
-*holds* the tenths place — there are 0 tenths). Note the global point: many countries use a
-comma as the decimal separator and a space or period for thousands — this is a difference of
-convention, not of correctness. The number facts here are evidence; the claim that no system
-is "better" is a value we hold (`docs/philosophy.md` §4–5).
+The idea to land is that **a decimal point separates whole ones from parts smaller than
+one**, and that each place to the right is ten times smaller — **tenths, then
+hundredths, then thousandths**. Because this is a foundational skill, use **explicit
+instruction and worked examples** before independent practice (Kirschner, Sweller &
+Clark, 2006): model building 3.456 step by step, name each place, then guide a second
+number together before learners work alone. Watch for two common slips: reading "3.456"
+as "three point four five six" *only* (also teach the place-value reading "three and
+four hundred fifty-six thousandths"), and skipping the value of a zero (in 3.05, the
+zero *holds* the tenths place — there are 0 tenths). Note the global point: many
+countries use a comma as the decimal separator and a space or period for thousands —
+this is a difference of convention, not of correctness. The number facts here are
+evidence; the claim that no system is "better" is a value we hold (`docs/philosophy.md`
+§4–5).
 
 ## Procedure
 

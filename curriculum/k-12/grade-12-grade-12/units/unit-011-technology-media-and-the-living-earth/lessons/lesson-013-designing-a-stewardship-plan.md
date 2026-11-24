@@ -116,27 +116,38 @@ now and the ones who come after.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a stewardship plan is six
-steps — name the place or resource, assess its condition, set the goal, choose actions, check
-fairness to present and future generations, and plan how to monitor and defend it — and a plan
-is defensible only when it names who gains, who gives something up, and what the future
-inherits.** Model one small plan explicitly, then let learners design their own (S-011). Grade
-the *thinking*, not the scale: a small, real, fair plan for a real place is worth more than a
-grand plan for nowhere.
+**Tone.** Practical: a real place, a modest plan, an honest account of who gives
+something up.
 
-The **ethics** lens: a plan is where care becomes obligation — it names a duty to the place and
-to the people, present and future, who depend on it. The **egalitarianism** lens: every plan
-creates winners and losers of a sort — who gets water, who pays for upkeep, whose use is
-limited — so a fair plan says so honestly rather than pretending everyone gains equally
-(S-459). The **global** lens: communities worldwide have governed shared resources by their own
-common rules for centuries — the commons — and a good plan can learn from them without
-assuming any one model fits everywhere (S-416). The **technology** lens: technology can serve a
-plan (a pump, a sensor, a repair network) but is not the plan itself; the plan keeps the goal
-first and the tools in service of it (S-452). The **environment** lens: the fairness check is
-the Brundtland test — meeting today's needs without robbing the future — and real-world
-stewardship, from tree-planting movements to river protectors, shows the plan in action (S-395,
-S-059, S-328). Preview: Lesson 14 turns the plan inward and outward — your own responsibility as
-a steward of the Earth.
+**The facts to land.**
+
+1. A stewardship plan is six steps — name the place, assess its condition, set the goal,
+   choose actions, check fairness to present and future generations, plan how to monitor
+   and defend it — and it is defensible only when it names who gains, who gives
+   something up, and what the future inherits.
+2. A fair plan says so honestly than pretending everyone gains equally (S-459).
+3. Communities worldwide have governed shared resources by their rules for centuries —
+   the commons — and a good plan learns from them without assuming one model fits
+   everywhere (S-416).
+
+**Don't overshoot.** Grade the thinking, not the scale: a small, fair plan for a real
+place beats a grand plan for nowhere.
+
+**The lenses, briefly.**
+
+- *Ethics:* a plan is where care becomes obligation — to the place, and to present and
+  future people who depend on it.
+- *Egalitarianism:* every plan makes winners and losers — who gets water, who pays
+  upkeep, whose use is limited.
+- *Global:* commons governance is worldwide, and no single model is the template
+  (S-416).
+- *Technology:* a pump, a sensor, or a repair network serves the plan, but is not the
+  plan (S-452).
+- *Environment:* the fairness check is the Brundtland test, and tree-planting movements
+  and river protectors show it in action (S-395, S-059, S-328).
+
+**The skill.** Model one small plan, then release (S-011): six steps and one honest
+trade-off. Lesson 14 closes the unit.
 
 ## Procedure
 
@@ -195,3 +206,4 @@ think it needs. Add one thing you learned from them to your plan.
   (S-328); Standing Rock Sioux Tribe (S-485).
 - On education for stewardship: UNESCO — Education for Sustainable Development (S-004); on
   worked examples: Kirschner, Sweller & Clark (2006) (S-011).
+- Ellen MacArthur Foundation — The Circular Economy (S-452).

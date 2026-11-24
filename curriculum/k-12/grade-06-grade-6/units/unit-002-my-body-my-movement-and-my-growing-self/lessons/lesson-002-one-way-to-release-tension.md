@@ -117,12 +117,12 @@ wherever you are.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **one named, usable way to
-release tension: squeeze-and-release with slow breathing**. Teach it as a *skill* with explicit
-steps and a worked example (this is a novice technique, not a discovery). Keep it gentle and
-**never forceful** — a learner should squeeze to comfortable firmness, never to pain, and any
-muscle group may be skipped. Slow breathing engages the body's calming (parasympathetic)
-response; present it as a tool, not a cure, and as one of *many* ways different people and
+The idea to land is **one named, usable way to release tension: squeeze-and-release with
+slow breathing**. Teach it as a *skill* with explicit steps and a worked example (this
+is a novice technique, not a discovery). Keep it gentle and **never forceful** — a
+learner should squeeze to comfortable firmness, never to pain, and any muscle group may
+be skipped. Slow breathing engages the body's calming (parasympathetic) response;
+present it as a tool, not a cure, and as one of *many* ways different people and
 cultures release tension — not the only right one. See `docs/facilitation.md` and
 `docs/contexts.md`.
 

@@ -121,31 +121,39 @@ from many places and times, and you hold them with respect.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the body-mind
-connection is not one culture's idea — many peoples across time have built sophisticated
-understandings of it, and we hold them side by side with respect, not rank them.** The
-lesson's examples are offered accurately and humbly: breathing practices such as
-**pranayama** (South Asia) and **qigong** (China) are named, alongside meditation and
-movement arts, as practices the scientific literature now also studies for their calming
-effects (S-340 explicitly holds pranayama and qigong side by side as breathing traditions
-from many cultures). Humoral medicine (the ancient idea of balancing the body's humors —
-in Greek, Islamic, South Asian, and other traditions) is presented as a *historical
-theory* that shaped medicine for centuries, distinct from what modern evidence supports.
-The UNESCO International Charter frames physical activity and sport as a **fundamental
-right for all**, inclusive of every ability — the egalitarian anchor for this lesson
-(S-342).
+**Tone.** Reverent and exact: each tradition is a living practice, met with real
+questions, never displayed as a specimen.
 
-The **global** lens is the spine here: treat every tradition as a *living practice* to
-honor with respectful questions, never as a specimen to be dissected (philosophy §11;
-art-style representation note). The **ethics** lens: borrowing a practice from another
-culture calls for care — name where it comes from, and do not strip it of its context.
-The **egalitarian** lens: no tradition is "more advanced" than another; each is a real
-answer to a real question. The **critical-thinking** lens: *understanding* a tradition is
-not the same as *evidence for it* — we will weigh evidence next lesson, and today we
-simply describe honestly. The **social-emotional** lens: practicing a calm-down may
-surface feeling; go gently, and let learners opt out. The **technology & environment**
-lens: modern life often separates body from mind (desk, screen, stillness); these
-traditions, in their different ways, all insist they belong together.
+**The facts to land.**
+
+1. The body-mind connection is not one culture's idea; many peoples built sophisticated
+   understandings of it.
+2. Pranayama (South Asia), qigong (China), meditation, and movement arts are named
+   accurately, as practices science now also studies for calming effects (S-340).
+3. Humoral medicine — balancing the body's humours in Greek, Islamic, South Asian, and
+   other traditions — is a *historical theory*, not what modern evidence supports.
+4. UNESCO's International Charter frames physical activity and sport as a **fundamental
+   right for all**, inclusive of every ability (S-342).
+
+**Don't overshoot.** Describing a tradition is not evidence for its claims; we weigh
+evidence next lesson.
+
+**The lenses, briefly.**
+
+- *Global:* the spine — every tradition is a living practice, honoured with respectful
+  questions (philosophy §11).
+- *Ethics:* borrowing a practice calls for care: name its source, keep its context.
+- *Egalitarianism:* no tradition is "more advanced"; each answers a real question.
+- *Social-emotional:* practising a calm-down may surface feeling — go gently, let
+  learners opt out.
+- *Physical:* these practices work on breath and posture, which is why they can be
+  studied.
+- *Critical-thinking:* understanding a tradition is not agreeing with it.
+- *Technology and environment:* desk, screen, and stillness separate body from mind;
+  these traditions insist they belong together.
+
+**The skill.** Model a respectful question, then release (S-011): describe one practice
+from within, then name one thing you wonder about.
 
 ## Procedure
 
@@ -207,3 +215,4 @@ it to your map.
   Sport (2015), <https://www.unesco.org/en/sport-and-anti-doping/international-charter-sport> (S-342).
 - On holding multiple accounts side by side without ranking: philosophy §11 (inquiry
   over creed) and §4 (global lens).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

@@ -105,11 +105,9 @@ garden, a river, the Earth itself.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, show each job first ("watch, then try") and
-keep it joyful — a tidy-up song or a shared goal beats a command. Frame care as
-belonging: we care for what is ours together, not because we must obey but because we
-love the space and the people in it.
+As facilitator, show each job first ("watch, then try") and keep it joyful — a tidy-up
+song or a shared goal beats a command. Frame care as belonging: we care for what is ours
+together, not because we must obey but because we love the space and the people in it.
 
 ## Procedure
 

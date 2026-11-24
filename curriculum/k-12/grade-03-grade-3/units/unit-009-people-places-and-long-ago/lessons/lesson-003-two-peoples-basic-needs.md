@@ -126,19 +126,34 @@ a real, clever answer.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Hold both peoples with respect, as
-homes, not costumes or curiosities.** The Inuit are a living people across the Arctic;
-Bedouin peoples live across the deserts of North Africa and the Middle East (see
-Resources). Neither is "primitive," and neither place is to be pitied — each place asks
-something of its people, and each people answers with deep knowledge, built over many
-generations. **Comparing is a foundational skill, so model one full row first**
-(Kirschner, Sweller & Clark, 2006): "Food — in the Arctic, people fish; in the desert,
-people eat dates and milk. The place shaped the food: a frozen sea gives fish; a hot,
-dry land gives date palms and herded animals." Then guide the shelter and clothing
-rows. **Never rank:** a parka is not better than a robe, and a snow house is not better
-than a tent — each fits its home. Honor every body: describe the cards in words for a
-learner who cannot see them; a learner who does not use a speaking voice points or
-acts. Use present tense for these living ways of life.
+**Tone.** Respectful and present-tense — two living homes, not costumes.
+
+**The facts to land.**
+1. The Inuit are a living people across the Arctic; Bedouin peoples live across the
+   deserts of North Africa and the Middle East (see Resources).
+2. Each place asks something of its people, and each people answers with deep knowledge
+   built over many generations.
+3. A parka is not better than a robe, and a snow house is not better than a tent — each
+   fits its home.
+
+**Don't overshoot.** Never call either people "primitive," and never pity either place.
+Use the present tense for these living ways of life.
+
+**The lenses, briefly.**
+- *Global:* two places compared, not ranked.
+- *Egalitarianism:* neither people is the standard for the other.
+- *Environment:* a frozen sea gives fish; a hot, dry land gives date palms and herded
+  animals.
+- *Community:* each people's knowledge is shared work across generations.
+
+**The skill.** Compare one row across two places, then say what the place asked for.
+
+Comparing is foundational, so model one full row first (Kirschner, Sweller & Clark,
+2006): "food — in the Arctic, people fish; in the desert, people eat dates and milk. The
+place shaped the food." Then guide the shelter and clothing rows.
+
+**Access:** describe the cards for a learner who cannot see them; a learner who does not
+use a speaking voice points or acts.
 
 ## Procedure
 

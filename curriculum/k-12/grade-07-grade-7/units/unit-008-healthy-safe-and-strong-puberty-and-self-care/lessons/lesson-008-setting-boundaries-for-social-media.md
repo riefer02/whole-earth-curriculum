@@ -113,17 +113,17 @@ boundary protects the things that keep you well.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The goal is a **private, personal plan**,
-not a set of class rules. The four areas: **time** (limits on when and how long), **content**
-(curating what and who you follow), **notifications** (turning off what pulls you back),
-and **people** (choosing who you connect with). The facts to land: healthy digital habits —
-including protecting sleep and curbing mindless use — support adolescent mental health
-(WHO adolescent mental health; UNESCO media and information literacy). The values held
-*as values*: boundaries are self-care and choice, never punishment; there is no "correct"
-amount of social media, only what protects each learner's wellbeing. Frame boundaries as
-a promise to oneself, revisit them without judgment, and remind learners that a trusted
-adult can help them keep a boundary. Never require a learner to disclose their plan or
-their habits; keep plans private. See `docs/facilitation.md`.
+The goal is a **private, personal plan**, not a set of class rules. The four areas:
+**time** (limits on when and how long), **content** (curating what and who you follow),
+**notifications** (turning off what pulls you back), and **people** (choosing who you
+connect with). The facts to land: healthy digital habits — including protecting sleep
+and curbing mindless use — support adolescent mental health (WHO adolescent mental
+health; UNESCO media and information literacy). The values held *as values*: boundaries
+are self-care and choice, never punishment; there is no "correct" amount of social
+media, only what protects each learner's wellbeing. Frame boundaries as a promise to
+oneself, revisit them without judgment, and remind learners that a trusted adult can
+help them keep a boundary. Never require a learner to disclose their plan or their
+habits; keep plans private. See `docs/facilitation.md`.
 
 ## Procedure
 

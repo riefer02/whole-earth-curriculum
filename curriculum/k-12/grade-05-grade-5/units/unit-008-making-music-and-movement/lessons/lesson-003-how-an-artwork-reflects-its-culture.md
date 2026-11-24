@@ -117,17 +117,16 @@ who, like us, make beauty from what surrounds them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **non-ranking
-observation**: we look closely at what a tradition is *made of* and *shows*, and connect
-those observations to a place, its materials, and its beliefs — never to rank one
-tradition "better" or "more advanced." These are **living traditions**, made today by
-living artists and communities; say this plainly and often. If a learner (or their
-family) belongs to a tradition shown here, invite them to be the authority on its
-meaning and never correct them about their own culture. Some works carry sacred meaning
-(Aboriginal Australian Dreaming stories, Tibetan sand mandalas); present them with
-reverence as knowledge held by specific communities, not as curiosities. See
-`docs/facilitation.md` on honoring living traditions and `docs/contexts.md` on cultural
-power dynamics.
+The idea to land is **non-ranking observation**: we look closely at what a tradition is
+*made of* and *shows*, and connect those observations to a place, its materials, and its
+beliefs — never to rank one tradition "better" or "more advanced." These are **living
+traditions**, made today by living artists and communities; say this plainly and often.
+If a learner (or their family) belongs to a tradition shown here, invite them to be the
+authority on its meaning and never correct them about their own culture. Some works
+carry sacred meaning (Aboriginal Australian Dreaming stories, Tibetan sand mandalas);
+present them with reverence as knowledge held by specific communities, not as
+curiosities. See `docs/facilitation.md` on honoring living traditions and
+`docs/contexts.md` on cultural power dynamics.
 
 ## Procedure
 

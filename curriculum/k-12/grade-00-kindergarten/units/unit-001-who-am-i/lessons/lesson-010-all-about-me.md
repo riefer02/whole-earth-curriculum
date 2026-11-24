@@ -101,10 +101,9 @@ it all together and see the whole picture: who am I, all together?
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, this is a celebration, not a test. Hold space
-for each learner to share one page — some will share boldly, others quietly; both are
-fine. The "Me" book becomes the portfolio artifact for the whole unit.
+As facilitator, this is a celebration, not a test. Hold space for each learner to share
+one page — some will share boldly, others quietly; both are fine. The "Me" book becomes
+the portfolio artifact for the whole unit.
 
 ## Procedure
 

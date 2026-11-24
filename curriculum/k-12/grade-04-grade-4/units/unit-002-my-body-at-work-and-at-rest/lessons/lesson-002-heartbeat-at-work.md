@@ -115,15 +115,14 @@ heart speeds up, then slows again when the work stops.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Run the worked example first: model
-counting at rest, moving, and counting again, then let learners do it. Keep the
-movement burst inclusive — marching in place, arm circles, or seated stomping all raise
-the heartbeat; a wheelchair user can wheel or press arms. Remind learners that a fast
-heartbeat is healthy and expected, not scary, and that every body's number is different
-— there is no "best" count and no ranking. If a learner cannot find a pulse, the
-hand-over-chest method works, or they can describe the feeling ("thumping fast"). This
-lesson carries retrieval practice from Lesson 1 (finding the pulse) and adds the "why"
-the standard asks for.
+Run the worked example first: model counting at rest, moving, and counting again, then
+let learners do it. Keep the movement burst inclusive — marching in place, arm circles,
+or seated stomping all raise the heartbeat; a wheelchair user can wheel or press arms.
+Remind learners that a fast heartbeat is healthy and expected, not scary, and that every
+body's number is different — there is no "best" count and no ranking. If a learner
+cannot find a pulse, the hand-over-chest method works, or they can describe the feeling
+("thumping fast"). This lesson carries retrieval practice from Lesson 1 (finding the
+pulse) and adds the "why" the standard asks for.
 
 ## Procedure
 

@@ -124,16 +124,16 @@ grew in a place, with its people's beliefs about how good and evil relate. Watch
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **comparison with a
-reason, never ranking**: we name observable features (mudras, navarasas, masks, chorus,
-gamelan) and connect them to how each tradition expresses good vs evil — and to *why* the
-difference exists (different occasions, beliefs, and the role of one performer vs the
-whole community). Both **Kathakali** and the **Barong** dance are living traditions made
-by living people; present them with reverence. A meaningful nuance to honor: in Kathakali,
-the hero's dharma triumphs; in Barong, good and evil are held in *balance* — neither
-wins outright — which reflects Balinese ideas of cosmic balance. This is a difference to
-understand, not a contest to judge. If a learner belongs to one of these traditions, invite
-them to be the authority and never correct them about their own culture. See
+The idea to land is **comparison with a reason, never ranking**: we name observable
+features (mudras, navarasas, masks, chorus, gamelan) and connect them to how each
+tradition expresses good vs evil — and to *why* the difference exists (different
+occasions, beliefs, and the role of one performer vs the whole community). Both
+**Kathakali** and the **Barong** dance are living traditions made by living people;
+present them with reverence. A meaningful nuance to honor: in Kathakali, the hero's
+dharma triumphs; in Barong, good and evil are held in *balance* — neither wins
+outright — which reflects Balinese ideas of cosmic balance. This is a difference to
+understand, not a contest to judge. If a learner belongs to one of these traditions,
+invite them to be the authority and never correct them about their own culture. See
 `docs/facilitation.md` and `docs/contexts.md` on honoring living traditions.
 
 ## Procedure

@@ -115,22 +115,36 @@ behind two habits you already practice.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Grade 1 taught the *how*; Grade 2 adds the
-*why* for both brushing and rest. Teach each reason as a worked example, then let learners
-say it back in their own words. **Honor every context:** where brushes or paste are
-unavailable, teach a clean-finger or chewing-stick method without shame. Where a learner
-cannot brush their own teeth, a caregiver or older peer can help — the goal is clean
-teeth, not doing it alone. **Honor every body's rest:** most children this age need about
-9 to 12 hours of sleep (per the American Academy of Sleep Medicine), but families rest in
-different ways and at different rhythms — no family is shamed for how or how much they
-rest. Some learners cannot sleep in a bed of their own; hold this gently and without
-comment. **Care is never a test.** A learner who does not use a speaking voice points or
-signs; a learner who is blind or has low vision is guided hand-over-hand and explains
-aloud. A learner who is deaf or hard of hearing follows the demonstration and picture
-charts from the front, since each step is shown, not only told. The health facts are from
-the World Health Organization (brushing removes food and plaque that can hurt teeth and
-gums) and the American Academy of Sleep Medicine (children 6–12 need about 9–12 hours of
-sleep). This lesson completes the D03.S4.02.01 "why" trio.
+**Tone.** Explanatory. Grade 1 taught the *how*; Grade 2 adds the *why* for brushing and
+rest.
+
+**The facts to land.**
+
+1. **Brushing removes food and plaque that can hurt teeth and gums** (World Health
+   Organization). Model the reason, then let learners say it back.
+2. **Children aged 6–12 need about 9–12 hours of sleep** (American Academy of Sleep
+   Medicine).
+3. Where brushes or paste are unavailable, a clean finger or a chewing stick works
+   without shame.
+4. This completes the D03.S4.02.01 "why" trio: wash, brush, rest.
+
+**Don't overshoot.** Families rest in different ways and at different rhythms, and some
+learners cannot sleep in a bed of their own — hold that gently and without comment. Care
+is never a test: where a learner cannot brush their own teeth, a caregiver or older peer
+helps.
+
+**The lenses, briefly.**
+
+- *Physical:* plaque and tiredness are body facts, not character facts.
+- *Ethics:* care of the body is owed, not earned.
+- *Egalitarianism:* a toothbrush is not required for clean teeth.
+- *Global:* cleaning teeth and resting are done differently in different homes.
+
+**The skill.** Say why brushing and sleep help, then do one of them properly.
+
+**Access.** Non-speaking: point to or sign the steps. Blind or low-vision: be guided
+hand-over-hand, then explain aloud. Deaf or hard of hearing: follow the demonstration
+and picture charts from the front — each step is shown, not only told.
 
 ## Procedure
 

@@ -111,30 +111,27 @@ weather, or a crowded kitchen, the tool travels with you, because it is inside y
 
 ## Facilitator note
 
-This lesson teaches a **skill**, so use explicit instruction: model the four phases
-step-by-step, then do guided practice together, then let learners try it independently
-(Kirschner, Sweller & Clark, 2006; S-011). **The mechanism matters as much as the
-feeling** — the objective is to explain *why* it works, not just to feel calm.
+This lesson teaches a **skill**: model the four phases, then guided practice, then
+independent tries (Kirschner, Sweller & Clark, 2006; S-011). **The mechanism matters as
+much as the feeling** — explain *why* it works, not just to feel calm.
 
 **Safety and inclusion.** Never force anyone to hold their breath or breathe in any
-pattern. Learners with respiratory conditions, anxiety, or dizziness should use a
-gentle, natural rhythm instead — a comfortable in-breath and a slightly longer
-out-breath is enough. The "hold" step is optional and skippable. Some learners cannot
-safely do breath work at all — when breathing is painful, distressing, or medically
-unsupported — so offer a **non-breath alternative** that reaches the same idea through
-a different channel: rest a hand lightly on the chest or belly and feel its natural
-rise and fall, deliberately soften the jaw and drop the shoulders, or quietly watch a
-partner's calm, steady rhythm. The learning target — explaining *why* a slow exhale
-calms the body — is open to everyone, whether or not they practice the breath. Frame
-slow breathing as **one tool among many**, not a cure, and note that it helps return
-the body to calm rather than eliminating stress altogether.
+pattern. Learners with respiratory conditions, anxiety, or dizziness use a gentle,
+natural rhythm instead — a comfortable in-breath, a slightly longer out-breath. The
+"hold" step is optional and skippable. Some learners cannot safely do breath work at all
+— when breathing is painful, distressing, or medically unsupported — so offer a
+**non-breath alternative**: rest a hand on the chest or belly and feel its rise and
+fall, soften the jaw and drop the shoulders, or watch a partner's steady rhythm. The
+learning target — explaining *why* a slow exhale calms the body — is open to everyone,
+breath or no breath. Frame slow breathing as **one tool among many**, not a cure: it
+returns the body toward calm rather than removing stress.
 
-The **ethics** lens: a tool that works for many bodies, freely, without cost, is a
-fair tool. The **egalitarian** lens: breath requires no equipment and no money, so it
-is available to everyone. The **global** lens: breath practices exist across many
-cultures (prāṇāyāma in yoga, qigong in China, and others), and the science explains
-one mechanism common to them all. The **technology** lens: apps and devices now pace
-breathing, but the body's lever works with or without them.
+The **ethics** lens: a tool that works for many bodies, freely, without cost, is a fair
+tool. The **egalitarian** lens: breath needs no equipment and no money, so it is
+available to everyone. The **global** lens: breath practices exist across many cultures
+(prāṇāyāma in yoga, qigong in China, and others); the science explains one mechanism
+common to all. The **technology** lens: apps and devices now pace breathing, but the
+body's lever works with or without them.
 
 ## Procedure
 

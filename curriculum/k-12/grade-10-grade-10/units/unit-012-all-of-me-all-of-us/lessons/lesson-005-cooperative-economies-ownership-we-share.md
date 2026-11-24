@@ -117,28 +117,27 @@ well, all over the world, and maybe near you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a cooperative is a
-people-centred enterprise jointly owned and democratically controlled by its members —
-run on "one member, one vote" — so the people who use or work in it also decide and
-benefit.** The International Cooperative Alliance (the global cooperative movement,
-founded 1895) reports about 3 million cooperatives on Earth whose members represent at
-least 12% of humanity (S-486). A famous large example is Mondragón, a federation of
-worker cooperatives in the Basque Country (S-487). Credit unions are the same idea in
-finance: members own and govern the institution and share the benefit. These are
-descriptive facts; "shared ownership is a fairer way" is a value we examine, not
-assert.
+The idea to land: **a cooperative is a people-centred enterprise jointly owned and
+democratically controlled by its members — run on "one member, one vote" — so the people
+who use or work in it also decide and benefit.** The International Cooperative Alliance
+(the global cooperative movement, founded 1895) reports about 3 million cooperatives on
+Earth whose members represent at least 12% of humanity (S-486). A famous large example
+is Mondragón, a federation of worker cooperatives in the Basque Country (S-487). Credit
+unions are the same idea in finance: members own and govern the institution and share
+the benefit. These are descriptive facts; "shared ownership is a fairer way" is a value
+we examine, not assert.
 
-The **egalitarian** lens is the heart of the lesson: who owns and decides determines
-who benefits. The **ethics** lens: two systems can both be legal and yet serve very
-different ends. The **global/anthropological** lens: cooperatives and shared
-resource-governance are not a Western invention — Elinor Ostrom documented communities
-across many societies governing shared resources (forests, fisheries, irrigation,
-grazing) by their own rules for the common good (S-416), and cooperative forms thrive
-across every region. The **technology** lens: platforms and apps can now coordinate
-cooperatives and shared ownership across distance — technology can serve ownership or
-concentrate it. Distinguish evidence from values: "cooperatives are widespread and
-member-owned" is descriptive; "that is a fairer shape for an economy" is a judgment
-learners are invited to weigh.
+The **egalitarian** lens is the heart of the lesson: who owns and decides determines who
+benefits. The **ethics** lens: two systems can both be legal and yet serve different
+ends. The **global/anthropological** lens: cooperatives and shared resource-governance
+are not a Western invention — Elinor Ostrom documented communities across many societies
+governing shared resources (forests, fisheries, irrigation, grazing) by their rules for
+the common good (S-416), and cooperative forms thrive across every region. The
+**technology** lens: platforms and apps can now coordinate cooperatives and shared
+ownership across distance — technology can serve ownership or concentrate it.
+Distinguish evidence from values: "cooperatives are widespread and member-owned" is
+descriptive; "that is a fairer shape for an economy" is a judgment learners are invited
+to weigh.
 
 Model the contrast once (worked example, S-011), then let learners examine examples.
 

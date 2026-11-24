@@ -120,16 +120,16 @@ you judge it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **several views of
-one situation can all be true, and empathy across difference means holding them together
-long enough to understand a view unlike your own — not to win an argument**. Keep the
-global/anthropological lens alive: the fisher–farmer–child–elder example is deliberately
-everyday and cross-cultural (a river, a field, a market, a home) so it works in a city, a
-village, a coast, or a mountain town. Model speaking from one unfamiliar view aloud as a
-worked example before groups try it (Kirschner, Sweller & Clark, 2006). Guard the
-egalitarian lens: the goal is not to rank views or to "convert" anyone, and empathy is not
-agreement — a learner can understand a view and still hold a different one. Keep all
-disclosure optional. See `docs/facilitation.md` and `docs/art-style.md`.
+The idea to land is that **several views of one situation can all be true, and empathy
+across difference means holding them together long enough to understand a view unlike
+your own — not to win an argument**. Keep the global/anthropological lens alive: the
+fisher–farmer–child–elder example is deliberately everyday and cross-cultural (a river,
+a field, a market, a home) so it works in a city, a village, a coast, or a mountain
+town. Model speaking from one unfamiliar view aloud as a worked example before groups
+try it (Kirschner, Sweller & Clark, 2006). Guard the egalitarian lens: the goal is not
+to rank views or to "convert" anyone, and empathy is not agreement — a learner can
+understand a view and still hold a different one. Keep all disclosure optional. See
+`docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure
 

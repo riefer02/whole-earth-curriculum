@@ -107,14 +107,13 @@ person's turn.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the partner spots and goal, then model a gentle pass and
-a kick before pairs try. The heart of this lesson is cooperation: celebrate passing,
-waiting, and encouraging, not winning or scoring the most. Honor every body: pairs can
-pass seated, with wheels, or with a scoop or larger ball, and every version counts
-fully. Rotate partners so learners play with different friends. Watch for a learner
-who always gives the ball away and never gets it back — gently model taking turns so
-everyone both gives and receives.
+Prepare the partner spots and goal, then model a gentle pass and a kick before pairs
+try. The heart of this lesson is cooperation: celebrate passing, waiting, and
+encouraging, not winning or scoring the most. Honor every body: pairs can pass seated,
+with wheels, or with a scoop or larger ball, and every version counts fully. Rotate
+partners so learners play with different friends. Watch for a learner who always gives
+the ball away and never gets it back — gently model taking turns so everyone both gives
+and receives.
 
 ## Procedure
 

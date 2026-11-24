@@ -121,15 +121,15 @@ what your eyes cannot.
 
 ## Facilitator note
 
-Written to the learner ("you"). The heart of this lesson is the distinction between
-**evidence** and **model**: we cannot see particles, so the particle picture is an
-**inference** — a model we build to explain what we *can* see (melting, evaporating,
-smells spreading, sugar dissolving). Say this plainly; it is the "how do we know"
-through-line. The particle model is well-supported science, but it is still a model,
-not a photograph. The body-and-stones activities make the abstract concrete before
-learners draw it (concrete-before-abstract). Watch for one slip: "particles grow" or
-"particles turn into air" — they do not; the *same* particles move farther apart or
-closer together. Grade 3 met the states; Grade 6 will add atoms and elements
+The heart of this lesson is the distinction between **evidence** and **model**: we
+cannot see particles, so the particle picture is an **inference** — a model we build to
+explain what we *can* see (melting, evaporating, smells spreading, sugar dissolving).
+Say this plainly; it is the "how do we know" through-line. The particle model is
+well-supported science, but it is still a model, not a photograph. The body-and-stones
+activities make the abstract concrete before learners draw it
+(concrete-before-abstract). Watch for one slip: "particles grow" or "particles turn into
+air" — they do not; the *same* particles move farther apart or closer together. Grade 3
+met the states; Grade 6 will add atoms and elements
 ([`docs/facilitation.md`](../../../../../../docs/facilitation.md)).
 
 ## Procedure

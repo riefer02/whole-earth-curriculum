@@ -116,11 +116,11 @@ loud, so they are there when you need them — which is the whole point of the w
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **what sustains a
-person is nameable and portable — people, practices, values, and hope — and naming them
-is a skill, not a confession.** Steady routines (sleep, movement, small rituals) are
-part of what carries people through hard stretches, which is the honest, hedged core of
-the "practices" anchor; it is not a claim that routine fixes suffering.
+The idea to land: **what sustains a person is nameable and portable — people, practices,
+values, and hope — and naming them is a skill, not a confession.** Steady routines
+(sleep, movement, small rituals) are part of what carries people through hard stretches,
+which is the honest, hedged core of the "practices" anchor; it is not a claim that
+routine fixes suffering.
 
 The **ethics** lens: what we owe ourselves in a hard stretch — care, not contempt — is
 an ethical claim. The **egalitarianism** lens: some people have more anchors available
@@ -131,7 +131,7 @@ lives; no anchor is the "correct" one. The **critical-thinking** lens: the closi
 retrieval is a check on what actually *stuck* across the unit, not a performance of
 completion.
 
-**Safeguarding:** anchors are the learner's own and may be private; no one is required
+**Safety floor.** anchors are the learner's own and may be private; no one is required
 to name a trauma, a loss, or a family in crisis. "I don't have this one yet" is a
 complete and honored answer for any anchor.
 

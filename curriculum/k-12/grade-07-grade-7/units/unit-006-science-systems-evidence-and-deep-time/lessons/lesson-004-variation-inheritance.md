@@ -118,18 +118,19 @@ field and village and ocean on Earth.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) variation — within a
-population, individuals differ; (2) inheritance — offspring resemble their parents, so traits
-run in families; and (3) offspring also differ from each other, so variation does not vanish.**
-Use explicit instruction and the beetle worked example first, then guided sorting (Kirschner,
-Sweller & Clark, 2006). These are established facts of biology (genetics and heredity). Keep
-the mechanism age-appropriate: in Grade 8 learners will meet genes and DNA; here, "traits are
-passed from parents to offspring" is enough. The egalitarian lens (`docs/philosophy.md` §4):
-variation is *normal and universal*, not a defect — this quietly counters the false idea that
-there is one "correct" type of body or being, in humans as in beetles. The global lens:
-farmers everywhere have selected crops and animals by noticing variation and inheritance for
-thousands of years — from maize in the Americas to rice in Asia — long before the science had
-a name; inheritance is something human beings have *used* across cultures.
+The ideas to land: **(1) variation — within a population, individuals differ; (2)
+inheritance — offspring resemble their parents, so traits run in families; and (3)
+offspring also differ from each other, so variation does not vanish.** Use explicit
+instruction and the beetle worked example first, then guided sorting (Kirschner, Sweller
+& Clark, 2006). These are established facts of biology (genetics and heredity). Keep the
+mechanism age-appropriate: in Grade 8 learners will meet genes and DNA; here, "traits
+are passed from parents to offspring" is enough. The egalitarian lens
+(`docs/philosophy.md` §4): variation is *normal and universal*, not a defect — this
+quietly counters the false idea that there is one "correct" type of body or being, in
+humans as in beetles. The global lens: farmers everywhere have selected crops and
+animals by noticing variation and inheritance for thousands of years — from maize in the
+Americas to rice in Asia — long before the science had a name; inheritance is something
+human beings have *used* across cultures.
 
 ## Procedure
 

@@ -117,19 +117,30 @@ to be sure an answer is fair.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It completes the **relationship**
-half of the word-problem standard — the new skill is seeing the **inverse** pairs:
-add/subtract and multiply/divide. Teach with a **worked example** (philosophy §13):
-build the fact family for 3, 4, and 12 (3 × 4 = 12, 4 × 3 = 12, 12 ÷ 4 = 3, 12 ÷ 3 =
-4) and show that a missing number (12 ÷ ? = 4) is found by doing the opposite. The
-relationship is the point, not the vocabulary "inverse" — children can say "the
-opposite" and still own the idea (Van de Walle et al., 2019). **No one's speed at
-finding a missing number measures their smartness; understanding the opposite move is
-worth more than racing.** The pair of opposite operations is a human discovery shared
-across all counting peoples. Count in the home language. For learners who are Deaf or
-hard of hearing, show join-and-separate with signs and objects; for learners who are
-blind or low-vision, feel the pile grow and shrink in the hands. Learners with limited
-movement direct a partner. Mastery arrives at its own pace.
+**Tone.** Steady and connective — today the pairs click together.
+
+**The facts to land.**
+1. Addition and subtraction undo each other; so do multiplication and division.
+2. A fact family shows the pair at work: 3 × 4 = 12, 4 × 3 = 12, 12 ÷ 4 = 3, 12 ÷ 3 =
+   4.
+3. A missing number (12 ÷ ? = 4) is found by doing the opposite.
+
+**Don't overshoot.** The relationship is the point, not the vocabulary "inverse" —
+children can say "the opposite" and still own the idea (Van de Walle et al., 2019).
+
+**The lenses, briefly.**
+- *Intellectual:* build the fact family for 3, 4, and 12, then show the missing
+  number found by the opposite move (philosophy §13).
+- *Critical-thinking:* check an answer by undoing it.
+- *Egalitarianism:* no one's speed at finding a missing number measures their
+  smartness; understanding the opposite move is worth more than racing.
+- *Community:* learners check each other's fact families, not each other's times.
+
+**The skill.** Name the pair, then use the opposite operation to find what is missing.
+
+**Access:** show join-and-separate with signs and objects; feel the pile grow and
+shrink in the hands; a learner with limited movement directs a partner. Mastery
+arrives at its own pace.
 
 ## Procedure
 

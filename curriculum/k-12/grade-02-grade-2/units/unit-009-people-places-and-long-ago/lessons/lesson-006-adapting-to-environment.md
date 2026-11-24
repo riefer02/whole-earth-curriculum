@@ -111,17 +111,34 @@ time.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Hold each adaptation with respect,
-as ingenuity, not struggle.** Deserts, coasts, and cold regions are homes where
-people have lived for thousands of years, not places to feel sorry about. Be accurate
-and name the peoples where you can, without overclaiming: in deserts, people often
-wear long, loose, light robes that shield from sun and sand, live in tents that let
-cool air through, and know where the wells and oases are (see Resources); on coasts,
-people fish, build boats, and sometimes raise homes on stilts above the tide; in cold
-regions, Inuit peoples make warm parkas, kayaks, and winter shelters, and hunt and
-fish (see Resources). **Never say any place is "hard to live in" in a pitying way** —
-say instead: each place asks something, and people answer with knowledge. Honor every
-body: describe the cards in words for a learner who cannot see them; a learner who
+**Tone.** Respect first. **Hold each adaptation as ingenuity, not struggle.**
+
+**The facts to land.**
+
+1. Deserts, coasts, and cold regions are homes where people have lived for thousands of
+   years, not places to feel sorry about.
+2. In deserts, people often wear long, loose, light robes that shield from sun and sand,
+   live in tents that let cool air through, and know where the wells and oases are (see
+   Resources).
+3. On coasts, people fish, build boats, and sometimes raise homes on stilts above the
+   tide.
+4. In cold regions, Inuit peoples make warm parkas, kayaks, and winter shelters, and
+   hunt and fish (see Resources).
+
+**Don't overshoot.** Name the peoples where you can, without overclaiming. Never say any
+place is "hard to live in" in a pitying way — say instead: each place asks something,
+and people answer with knowledge.
+
+**The lenses, briefly.**
+
+- *Global:* these are homes, not hardships, on every continent.
+- *Egalitarianism:* no region is a lesser place to live.
+- *Environment:* sun, sand, tide, and cold are the materials of the answer.
+- *Intellectual:* the reasoning is "this place asks this; here is the knowledge."
+
+**The skill.** Match an adaptation to its place, then explain what the place asked for.
+
+**Access.** Describe the cards in words for a learner who cannot see them. A learner who
 does not use a speaking voice points or acts the adaptations.
 
 ## Procedure

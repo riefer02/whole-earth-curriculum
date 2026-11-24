@@ -120,14 +120,14 @@ harder than the other; they are different tools for saying true things about bei
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **genres have
-shapes**, and reading well means looking for what each genre is built from: **fiction** —
-characters (who), setting (where and when), plot (what happens); **poetry** — lines, stanzas,
-and images (pictures in words). Use original, short examples so no copyright is in question,
-and read them aloud — poetry especially is meant for the ear. Honor home languages above all:
-learners should read and map texts in their strongest language, and a poem or story in a home
-language is a gift to the whole class, never a "translation problem." No genre is above
-another; fiction and poetry are ways humans everywhere have always made meaning. This is the
+The idea to land is that **genres have shapes**, and reading well means looking for what
+each genre is built from: **fiction** — characters (who), setting (where and when), plot
+(what happens); **poetry** — lines, stanzas, and images (pictures in words). Use
+original, short examples so no copyright is in question, and read them aloud — poetry
+especially is meant for the ear. Honor home languages above all: learners should read
+and map texts in their strongest language, and a poem or story in a home language is a
+gift to the whole class, never a "translation problem." No genre is above another;
+fiction and poetry are ways humans everywhere have always made meaning. This is the
 first of two genre lessons; nonfiction and drama follow.
 
 ## Procedure

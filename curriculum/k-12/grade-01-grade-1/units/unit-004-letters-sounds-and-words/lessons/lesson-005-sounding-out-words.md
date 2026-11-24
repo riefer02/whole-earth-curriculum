@@ -102,16 +102,15 @@ sound out and blend — the heart of decoding.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Use **explicit instruction, worked examples, and guided
-practice** (philosophy §13). Stay **script-agnostic**: in an alphabetic system,
-sound out letter by letter and blend; in a syllabic or character system, combine
-the syllables or word-marks the same way. Never assume one mark = one sound. Honor
-the learner's actual writing system, and celebrate every way words are built. For
-a learner who is blind or has low vision, offer **tactile marks** (raised string,
-sand-glue, clay, or textured objects) so each part can be felt and blended by
-touch. A learner who does not use a speaking voice sounds out by pointing, tapping,
-or touching each mark in order and then blending with a gesture or a device.
+Use **explicit instruction, worked examples, and guided practice** (philosophy §13).
+Stay **script-agnostic**: in an alphabetic system, sound out letter by letter and blend;
+in a syllabic or character system, combine the syllables or word-marks the same way.
+Never assume one mark = one sound. Honor the learner's actual writing system, and
+celebrate every way words are built. For a learner who is blind or has low vision, offer
+**tactile marks** (raised string, sand-glue, clay, or textured objects) so each part can
+be felt and blended by touch. A learner who does not use a speaking voice sounds out by
+pointing, tapping, or touching each mark in order and then blending with a gesture or a
+device.
 
 ## Procedure
 

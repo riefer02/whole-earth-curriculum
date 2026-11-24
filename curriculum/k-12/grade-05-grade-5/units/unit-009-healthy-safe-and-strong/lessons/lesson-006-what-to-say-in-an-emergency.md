@@ -120,13 +120,14 @@ pieces of information — that is the whole skill, and it can bring help to the 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is the **three pieces of
-information — name, location, what happened — plus staying on the line**. Model the full call
-once as a worked example (explicit instruction for a novice skill), then let pairs role-play
-with a pretend phone. Keep every scenario mild and calm; never simulate graphic injury. Some
-learners may not know a formal street address — that is normal and fine; teach them to describe
-a **landmark** ("the well," "the blue house," "next to the school") as a valid location. Send
-the card home so a family can confirm the number and address together. See `docs/facilitation.md`.
+The idea to land is the **three pieces of information — name, location, what happened —
+plus staying on the line**. Model the full call once as a worked example (explicit
+instruction for a novice skill), then let pairs role-play with a pretend phone. Keep
+every scenario mild and calm; never simulate graphic injury. Some learners may not know
+a formal street address — that is normal and fine; teach them to describe a **landmark**
+("the well," "the blue house," "next to the school") as a valid location. Send the card
+home so a family can confirm the number and address together. See
+`docs/facilitation.md`.
 
 ## Procedure
 

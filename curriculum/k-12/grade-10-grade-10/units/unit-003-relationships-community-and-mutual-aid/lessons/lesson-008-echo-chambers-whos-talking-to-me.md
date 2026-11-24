@@ -119,32 +119,39 @@ skill for keeping your mind, and your empathy, wide.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an echo chamber is what
-happens when recommendation systems and our own homophily narrow the voices we hear — and
-narrowing the room narrows empathy, because it is easy to feel with the similar and hard
-across difference; the counter-move is to notice who is missing and deliberately widen the
-circle.** The mechanism is real: recommendation and ranking algorithms prioritize content
-that engages, and personalization can surround a person with confirming information — the
-"filter bubble" (S-482) and the echo-chamber dynamic that Britannica documents (S-481).
-Be honest about the *debate*: scholars disagree about how strong the filter-bubble effect
-is — some find it weaker than popular accounts claim — so present it as a *tendency to
-examine*, not a law (S-482). The counter-moves are practical: follow across difference,
-seek first-person voices, and check claims against independent sources — "lateral reading"
-(S-063, S-217).
+**Tone.** Inquisitive, not accusatory: everyone's feed is narrowed, including yours.
 
-Model the mechanism once, then let learners work (worked example → guided practice →
-independent work; S-011). The **technology** lens is the spine: read the feed as a
-*designed* object whose ranking is a choice made by someone, for engagement or profit. The
-**critical-thinking** lens: ask *who is missing, and whose account am I not hearing?* — and
-check each claim against its source. The **ethics** lens: living only among the like-minded
-is a quiet ethical risk, because it lets our judgments go untested; widening the circle is
-an act of intellectual honesty. The **egalitarian** lens: whose voices get amplified and
-whose get crowded out is a question of power — the same feed that comforts the majority can
-silence the minority. The **social-emotional** lens: this topic can feel exposing (our
-feeds reveal our habits); invite, never force, and let learners share only what they
-choose. The **global** lens: the same mechanism works in every language and region, but its
-effects differ with who holds platform power. Preview: with empathy examined, Lessons 9–10
-turn to belonging and community.
+**The facts to land.**
+
+1. An echo chamber forms when recommendation systems and our own homophily narrow the
+   voices we hear; narrowing the room narrows empathy, because feeling with the similar
+   is easy and across difference is hard.
+2. Ranking favours engaging content, and personalisation can surround a person with
+   confirming information — the "filter bubble" (S-482) and the echo-chamber dynamic
+   (S-481).
+3. Scholars disagree about how strong the effect is (S-482), so teach a *tendency to
+   examine*, not a law. Counter-moves: follow across difference, seek first-person
+   voices, and check claims against independent sources — "lateral reading" (S-063,
+   S-217).
+
+**Don't overshoot.** Do not let the lesson become "the algorithm controls your mind";
+some researchers find the filter-bubble effect weaker than popular accounts claim
+(S-482).
+
+**The lenses, briefly.**
+
+- *Technology:* ranking is a choice made by someone, for engagement or for profit.
+- *Critical-thinking:* who is missing, and whose account am I not hearing?
+- *Ethics:* living only among the like-minded lets our judgments go untested.
+- *Egalitarianism:* whose voices get amplified and whose get crowded out is a question
+  of power.
+- *Social-emotional:* feeds reveal habits, which can feel exposing — invite, never
+  force.
+- *Global:* the mechanism works in every language, but its effects differ with who holds
+  platform power.
+
+**The skill.** Model the mechanism once, then release (S-011): audit one feed for who is
+missing, then lateral-read one claim. Lessons 9–10 turn to belonging and community.
 
 ## Procedure
 

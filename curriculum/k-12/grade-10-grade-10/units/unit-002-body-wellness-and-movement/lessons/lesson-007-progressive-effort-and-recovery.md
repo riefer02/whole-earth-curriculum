@@ -118,33 +118,37 @@ simply the strength to live well, the same two rules hold: push a little, then r
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **progress comes from
-progressive effort — small, steady increases — plus recovery, the rest in which the
-body adapts and grows stronger.** The WHO frames a balanced routine as aerobic plus
-muscle-strengthening activity, with balance and flexibility across life (S-341); the
-principle of **progressive overload** (increasing the load, duration, or intensity a
-little at a time) and the role of **recovery** in adaptation are foundational
-exercise-science ideas, presented here as the standard, well-established picture. Hold
-them as *description*, not as a demand on any body: "push a little" always means "within
-your own body's safe range," and every body has its own starting point and pace.
+**Tone.** Encouraging and calm: effort is care and joy, never punishment.
 
-Model once, then let learners practice (S-011). The **ethics** lens: training is offered
-as care and joy, never as punishment, and never as a way to "fix" a body that is not
-broken; the goal is a body that can do the things a person wants to do. The
-**egalitarian** lens: the chance to train safely is not shared equally — time, safe
-space, equipment, and ability all gate access — so this principle is taught as a tool
-for *whoever chooses to use it*, with adapted and seated versions always honored. The
-**global** lens: every culture trains for something — work, dance, sport, ceremony — and
-the same two principles appear everywhere, in many languages. The **technology &
-environment** lens: where a body trains — a safe street, a green space, a gym, a single
-room — and the tools it uses (a timer, an app, a plan) shape what "progressive effort
-and recovery" can look like; Lesson 9 will ask how tracking tech helps or distorts that
-picture. The **critical-thinking**
-lens: watch for the myth that "more is always better" — overtraining is real, and the
-signs (persistent tiredness, worsening performance, low mood, poor sleep, frequent
-injury) are the body asking for rest. The **social-emotional** lens: rest can feel like
-guilt in a culture that praises hustle; name that feeling and reframe rest as part of
-the work. Preview: Lesson 8 turns these principles into each learner's own plan.
+**The facts to land.**
+
+1. Progress comes from progressive effort — small, steady increases — plus recovery,
+   when the body adapts.
+2. The WHO frames a balanced routine as aerobic plus muscle-strengthening activity, with
+   balance and flexibility across life (S-341).
+3. **Progressive overload** and **recovery** are foundational exercise science; "push a
+   little" means within your own safe range.
+
+**Don't overshoot.** Never "more is always better": overtraining is real, and its signs
+— persistent tiredness, worsening performance, low mood, poor sleep, frequent injury —
+are the body asking for rest.
+
+**The lenses, briefly.**
+
+- *Physical:* recovery is part of training, not the absence of it.
+- *Intellectual:* plan load and rest as a small experiment with one variable.
+- *Ethics:* never a way to "fix" a body that is not broken; the goal is a body that does
+  what its person wants to do.
+- *Egalitarianism:* time, safe space, equipment, and ability gate access; seated and
+  adapted versions are always honoured.
+- *Critical-thinking:* "no pain, no gain" is a claim to test, not a law.
+- *Global:* every culture trains for work, dance, sport, or ceremony; the two principles
+  appear everywhere.
+- *Technology and environment:* where a body trains, and the tools it uses, shape what
+  progress can look like (Lesson 9).
+
+**The skill.** Model once, then release (S-011): set one small increase and one recovery
+day, and write how you would know it was too much.
 
 ## Procedure
 

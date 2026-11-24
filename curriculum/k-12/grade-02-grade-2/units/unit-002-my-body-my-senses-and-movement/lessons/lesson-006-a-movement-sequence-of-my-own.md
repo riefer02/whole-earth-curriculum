@@ -109,14 +109,12 @@ choose the order yourself and make a movement story that is all yours.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the sequence sheets and space, then guide planning,
-rehearsal, and performance. The goal is authorship and control, not a flawless show —
-praise order and effort, never compare performances. Honor every body: a sequence can
-be done seated, with wheels, with a partner, or with arms only, and it counts fully.
-Learners who do not want to perform for the group may perform for a partner, a mirror,
-or a recording, or narrate their sequence aloud. Keep the audience kind — watching
-and cheering is part of the skill.
+Prepare the sequence sheets and space, then guide planning, rehearsal, and performance.
+The goal is authorship and control, not a flawless show — praise order and effort, never
+compare performances. Honor every body: a sequence can be done seated, with wheels, with
+a partner, or with arms only, and it counts fully. Learners who do not want to perform
+for the group may perform for a partner, a mirror, or a recording, or narrate their
+sequence aloud. Keep the audience kind — watching and cheering is part of the skill.
 
 ## Procedure
 

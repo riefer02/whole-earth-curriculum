@@ -116,19 +116,17 @@ your own hands.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Explaining how materials shape a build is a **skill**, so model
-it once — "with paper I can fold a light cup; with sticks I can weave a strong basket;
-the material changes what I can make" — before learners try (Kirschner, Sweller &
-Clark, 2006). Keep the task the same ("make a container") so the only thing changing is
-the material — the same fair-test thinking as the rest of the year. The learner's own
-example is the point: they must say (or show) how *their* material changed *their*
-result. A learner with limited fine motor directs a partner and explains the
-difference — deciding and explaining are the heart of the task. A learner who does not
-speak points to the material and to the result, or to a word card ("bends," "strong,"
-"soft," "stiff"). A learner who is blind or has low vision explores each material by
-feel — soft, stiff, bendy, heavy — and names how it shaped the build. Every comparison
-belongs.
+Explaining how materials shape a build is a **skill**, so model it once — "with paper I
+can fold a light cup; with sticks I can weave a strong basket; the material changes what
+I can make" — before learners try (Kirschner, Sweller & Clark, 2006). Keep the task the
+same ("make a container") so the only thing changing is the material — the same
+fair-test thinking as the rest of the year. The learner's own example is the point: they
+must say (or show) how *their* material changed *their* result. A learner with limited
+fine motor directs a partner and explains the difference — deciding and explaining are
+the heart of the task. A learner who does not speak points to the material and to the
+result, or to a word card ("bends," "strong," "soft," "stiff"). A learner who is blind
+or has low vision explores each material by feel — soft, stiff, bendy, heavy — and names
+how it shaped the build. Every comparison belongs.
 
 ## Procedure
 

@@ -116,29 +116,37 @@ seeing which parts were written by other hands.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **identity is socially
-and historically constructed — built in relation to the groups, messages, and histories
-around us, not simply found fully formed inside us.** The scientific anchor is social
-identity theory and the minimal-group experiments: even arbitrary, content-free group
-assignment can trigger in-group favoritism (S-232). Present that as a *descriptive*
-finding about human group behavior, not a verdict on any person, and never as an excuse
-for exclusion — the lesson's "open the circle" values are a *commitment*, not a claim
-from the research (philosophy §4, §11).
+**Tone.** Curious, never accusing: the goal is **awareness and agency**, not blame of
+family, faith, or culture.
 
-Model the skill once, then let learners practice (S-011). The **global** lens: how a
-culture names its members — by clan, caste, craft, faith, language, birth order, or
-achievement — varies enormously; there is no single "right" set of identity roles, and
-comparing them is the point of the next lesson. The **egalitarian** lens: some identity
-messages lift people and some limit them, and that is not distributed fairly — whose
-messages are narrowing, and why, is a question worth asking out loud. The **ethics**
-lens: we are all both *shaped by* and *responsible for* the messages we pass on to
-others — the words we use to describe a person can build or confine them. The
-**technology & environment** lens: media and feeds are now among the loudest voices
-telling us who we are (recall Lesson 3's warped mirror) — include them in the map, and
-note that the places we grow up in are voices too. The **social-emotional** lens: this
-exercise can stir strong feeling about family or belonging; invite, never force, and let
-learners choose what to share. Keep the tone curious, not accusing — the goal is
-*awareness* and *agency*, not blame.
+**The facts to land.**
+
+1. Identity is socially and historically constructed: built in relation to groups,
+   messages, and histories, not found fully formed.
+2. Social identity theory and the minimal-group experiments show that arbitrary group
+   assignment can trigger in-group favouritism (S-232).
+3. That is a descriptive finding about group behaviour, never an excuse for exclusion.
+
+**Don't overshoot.** The "open the circle" values are a **commitment**, not a claim from
+the research (philosophy §4, §11).
+
+**The lenses, briefly.**
+
+- *Global:* cultures name members by clan, caste, craft, faith, language, or
+  achievement; no set is the right one (next lesson compares them).
+- *Egalitarianism:* some identity messages lift and some limit, and that is not
+  distributed fairly; ask aloud whose messages are narrowing.
+- *Ethics:* we are both shaped by and responsible for the messages we pass on; words can
+  build a person or confine them.
+- *Technology and environment:* feeds are among the loudest voices telling us who we are
+  (Lesson 3's warped mirror), and the places we grow up are voices too.
+- *Social-emotional:* this can stir strong feeling about family or belonging — invite,
+  never force; learners choose what to share.
+- *Critical-thinking:* "who told me" is a sourcing question; trace a claim to who
+  benefits when you believe it.
+
+**The skill.** Model once, then release (S-011): map three voices that named you, and
+mark which one you now choose to keep.
 
 ## Procedure
 

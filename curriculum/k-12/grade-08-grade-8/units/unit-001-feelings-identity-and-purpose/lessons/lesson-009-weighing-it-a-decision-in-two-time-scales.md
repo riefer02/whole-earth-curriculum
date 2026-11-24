@@ -109,25 +109,39 @@ put a real decision of your own onto the scale and choose deliberately.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **weighing short-term
-against long-term consequences means naming both, saying what is given up either way, and
-choosing with a reason.** This is a *skill*, so model the full decision note once (worked
-example — Kirschner, Sweller & Clark 2006, S-011), then guided practice before independent
-work. The *ethics* lens: a good weighing includes consequences for *other people*, not only
-for oneself — the friend's trust, the family's need. The *egalitarian* lens: there is no
-single "correct" weighing; two reasonable people can weigh the same now-and-later
-differently, and both reasonings can be sound — what we assess is the *reasoning*, not the
-answer. The *global* lens: what counts as "short" and "long" differs by life — for a family
-planting a crop the long term is a season; for a student it may be a year — so the tool is
-the same while the numbers differ. The *environment* lens: some of our most important
-decisions — how much to take from a commons today — are now/later weighings whose "later" is
-a whole community and a whole ecosystem. The *critical-thinking* lens: the decision note
-makes the reasoning *visible* so it can be questioned and improved — your own, and a
-partner's. Let learners choose small, safe decisions; never require disclosure of painful or
-private choices, and offer a made-up decision as a fully acceptable option. Distinguish
-evidence from values: that making a weighing explicit improves the quality of a decision is
-a skill claim (S-011); that every learner is the rightful author of their own small
-decisions is a value this curriculum holds — name it as one.
+**Tone.** Patient and neutral — assess reasoning, not answers.
+
+**The facts to land.**
+
+1. Weighing means naming both timelines, saying what is given up either way, and
+   choosing with a reason.
+2. Two reasonable people can weigh the same choice differently and both be sound.
+3. The decision note makes reasoning visible, so it can be questioned.
+
+**Don't overshoot.** Do not imply one correct weighing, or that a well-reasoned choice
+is guaranteed to turn out well.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* naming the trade-off reduces the fog around a hard choice.
+- *Ethics:* a good weighing includes consequences for other people — a friend's trust, a
+  family's need.
+- *Egalitarianism:* we assess the reasoning, not the answer; no weighing is ranked.
+- *Global:* what counts as "short" and "long" differs by life — a season for a planting
+  family, a year for a student — but the tool holds.
+- *Environment:* taking from a commons today is a now/later weighing whose "later" is a
+  whole community and ecosystem.
+- *Critical-thinking:* making the reasoning visible lets you and a partner question it.
+
+**The skill.** Model the decision note once (worked example — Kirschner, Sweller & Clark
+2006, S-011), then guided practice.
+
+**Safety floor.** Let learners choose small, safe decisions; never require disclosure of
+private ones, and offer a made-up decision as fully acceptable.
+
+**Evidence and values.** That an explicit weighing improves a decision is a skill claim
+(S-011); that every learner authors their own small decisions is a value — name it as
+one.
 
 ## Procedure
 

@@ -112,21 +112,37 @@ saying sorry to a friend. Today you will practice making things right.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **repair, not punishment**. After
-a small hurt, the goal is making things right — returning what was taken, fixing what
-was broken, a sorry that means it, checking the friend is okay — never shaming,
-excluding, or "getting in trouble." Name the *act* ("that word hurt"), never the
-child; there are no "bad children," only hurts to repair. An apology is real when it
-means something: the person names what happened, notices how the other felt, and
-tries to fix it. A learner may suggest any honest repair — a kind word, a returned
-toy, help rebuilding — there is no single correct answer. Keep hurts small and
-gentle (a knocked-over block tower, a grabbed turn, a hurtful word), never heavy or
-frightening, and never ask a learner to confess a real private hurt. A learner who
-does not speak aloud suggests a repair by pointing to a step or a picture, signing,
-or having a peer voice it; a learner who is blind or low-vision names the repair
-aloud and touches the repaired object; a learner with a motor difference can direct
-a partner to do the repair while they choose it. A learner may always pass. The aim
-is that every learner can say, in their own way, "I can help make it right."
+**Tone.** Calm and constructive. **Repair, not punishment.**
+
+**The facts to land.**
+
+1. After a small hurt the goal is making things right: return what was taken, fix what
+   broke, say a sorry that means it, check the friend is okay — never shaming,
+   excluding, or "getting in trouble."
+2. Name the *act* ("that word hurt"), never the child. There are no "bad children," only
+   hurts to repair.
+3. An apology is real when it means something: name what happened, notice the feeling,
+   and try to fix it.
+4. Any honest repair is good — a kind word, a returned toy, help rebuilding. There is no
+   single correct answer.
+
+**Don't overshoot.** Keep hurts small and gentle — a knocked-over tower, a grabbed turn,
+a hurtful word — never frightening. Never ask a learner to confess a private hurt.
+
+**The lenses, briefly.**
+
+- *Ethics:* the repair is owed to the hurt person.
+- *Egalitarianism:* directing a partner still makes the repair.
+- *Social-emotional:* noticing the other's feeling is the hinge.
+- *Community:* repair keeps the group together.
+- *Global:* ways of apologising differ.
+- *Critical-thinking:* choose a repair and predict if it helps.
+
+**The skill.** Name what happened, notice the feeling, then offer a repair.
+
+**Access.** Non-speaking: point to a step or picture, sign, or have a peer voice it.
+Blind or low-vision: name the repair aloud and touch the repaired object. Motor
+difference: direct a partner to do it while you choose. A learner may always pass.
 
 ## Procedure
 

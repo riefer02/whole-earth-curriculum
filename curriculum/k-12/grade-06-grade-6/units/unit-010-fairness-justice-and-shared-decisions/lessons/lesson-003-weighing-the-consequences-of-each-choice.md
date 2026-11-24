@@ -116,18 +116,17 @@ harmed.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is a **consequence
-weighing routine**: for *each* choice, name *who is helped* and *who is harmed*, then
-compare *how big* each consequence is before deciding. Model it once as a worked example
-(Kirschner, Sweller & Clark, 2006). The egalitarian heart is the question *who else is
-affected?* — not only the chooser. Do **not** mark a learner's considered decision as
-"wrong"; ask instead whether they *weighed both choices* and noticed who each helped and
-harmed. Distinguish **evidence from values**: *what the consequences are and who they
-fall on* can be reasoned and observed; *which consequence matters most* is a value
-judgment — and different people weigh the same facts differently. Hold it open: the unit
-treats these as questions, never settled as dogma. If a dilemma involves real risk of
-harm, the lesson's safety move — bringing in a trusted adult — is always a legitimate
-consequence to weigh. See `docs/facilitation.md`.
+The skill to land is a **consequence weighing routine**: for *each* choice, name *who is
+helped* and *who is harmed*, then compare *how big* each consequence is before deciding.
+Model it once as a worked example (Kirschner, Sweller & Clark, 2006). The egalitarian
+heart is the question *who else is affected?* — not only the chooser. Do **not** mark a
+learner's considered decision as "wrong"; ask instead whether they *weighed both
+choices* and noticed who each helped and harmed. Distinguish **evidence from values**:
+*what the consequences are and who they fall on* can be reasoned and observed; *which
+consequence matters most* is a value judgment — and different people weigh the same
+facts differently. Hold it open: the unit treats these as questions, never settled as
+dogma. If a dilemma involves real risk of harm, the lesson's safety move — bringing in a
+trusted adult — is always a legitimate consequence to weigh. See `docs/facilitation.md`.
 
 ## Procedure
 

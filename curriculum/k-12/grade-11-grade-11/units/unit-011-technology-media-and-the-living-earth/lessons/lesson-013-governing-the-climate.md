@@ -126,13 +126,12 @@ document, and reading them well means seeing both at once.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a climate
-agreement is an attempt to solve two problems at once — coordination (a shared system
-no one can fix alone, where each can wait for others) and justice (the biggest
-historical emitters and the most exposed are often not the same places; IPCC, S-005;
-Our World in Data, S-006).** The agreement's central principle — "common but
-differentiated responsibilities" — is the document's answer to the justice problem,
-and it is exactly what makes the negotiation hard. The Brundtland framing of
+The idea to land: **a climate agreement is an attempt to solve two problems at once —
+coordination (a shared system no one can fix alone, where each can wait for others) and
+justice (the biggest historical emitters and the most exposed are often not the same
+places; IPCC, S-005; Our World in Data, S-006).** The agreement's central principle —
+"common but differentiated responsibilities" — is the document's answer to the justice
+problem, and it is exactly what makes the negotiation hard. The Brundtland framing of
 "sustainable development" (S-395) is the older idea these agreements build on.
 
 Two things to hold. First, teach the *structure* of the problem, not a scoreboard of
@@ -142,11 +141,11 @@ different directions, and policy is the art of holding both. Second, distinguish
 (what is fair — who should pay), and mark plainly that "common but differentiated
 responsibilities" is a *value* choice embodied in a document, not a scientific fact.
 
-The **environment** lens is core (the system being governed). The **ethics** lens:
-what the rich and the exposed owe each other. The **egalitarianism** lens: justice
-*is* the second half of this lesson. The **global** lens is the frame itself —
-multilateral policy. The **critical-thinking** lens: separating coordination from
-justice so each can be analyzed, then seeing how the agreement braids them.
+The **environment** lens is core (the system being governed). The **ethics** lens: what
+the rich and the exposed owe each other. The **egalitarianism** lens: justice *is* the
+second half of this lesson. The **global** lens is the frame itself — multilateral
+policy. The **critical-thinking** lens: separating coordination from justice so each can
+be analyzed, then seeing how the agreement braids them.
 
 ## Procedure
 

@@ -119,14 +119,14 @@ person's cloth is different — is how you understand yourself and make room for
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **identity has
-four shapers — family, culture, place, history** — and that *every* form of each is
-worthy. Handle family with care: family means "the people who care for you" and may
-include two parents, one parent, grandparents, adoptive or foster parents, siblings, or a
-chosen community. Handle history gently: some histories include adoption, loss, or
-leaving a home. **Never** require a learner to share a painful detail; let them fill a
-petal with what feels safe and leave what does not. Celebrate the many shapes in the
-room as a strength. See `docs/facilitation.md` on holding difficult topics safely.
+The idea to land is that **identity has four shapers — family, culture, place,
+history** — and that *every* form of each is worthy. Handle family with care: family
+means "the people who care for you" and may include two parents, one parent,
+grandparents, adoptive or foster parents, siblings, or a chosen community. Handle
+history gently: some histories include adoption, loss, or leaving a home. **Never**
+require a learner to share a painful detail; let them fill a petal with what feels safe
+and leave what does not. Celebrate the many shapes in the room as a strength. See
+`docs/facilitation.md` on holding difficult topics safely.
 
 ## Procedure
 

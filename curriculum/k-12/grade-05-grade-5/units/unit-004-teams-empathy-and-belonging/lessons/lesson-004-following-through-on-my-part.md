@@ -115,13 +115,13 @@ instead of quietly disappearing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **reliability as care**:
-a team runs on people keeping their promises, and "stuck" is a normal, shareable state —
-never a shame. Model the three-step path explicitly, then let learners *do* their real part
-(this is guided practice becoming real practice). Praise follow-through and honest
-check-ins equally; do not shame forgetfulness — investigate what got in the way and name a
-strategy for next time. Contribution and responsibility are protective for children
-(Search Institute's developmental assets). See `docs/facilitation.md`.
+The idea to land is **reliability as care**: a team runs on people keeping their
+promises, and "stuck" is a normal, shareable state — never a shame. Model the three-step
+path explicitly, then let learners *do* their real part (this is guided practice
+becoming real practice). Praise follow-through and honest check-ins equally; do not
+shame forgetfulness — investigate what got in the way and name a strategy for next time.
+Contribution and responsibility are protective for children (Search Institute's
+developmental assets). See `docs/facilitation.md`.
 
 ## Procedure
 

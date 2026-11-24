@@ -123,19 +123,33 @@ any message with clear eyes.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is the Grade 3 upgrade of Grade 2's
-"who made it and who is it for": now learners name the **purpose** (inform, persuade,
-entertain, warn) and the **audience** of a message. Model the two questions — *what is it
-for? who is it for?* — on one message, then guide practice on a second before learners work
-independently (Kirschner, Sweller & Clark, 2006). Keep the media stance warm: reading a
-message's purpose and audience is not suspicion; it is understanding — the maker of a menu
-wants to help you eat, and the maker of a toy ad wants you to want the toy. Both are
-honest once you can see them. Use messages from many places and lives — a market notice, a
-road sign, a menu, a story told aloud — so no one home is the default; a spoken story or
-song is a real message with a purpose and audience too. Honor every body: read each message
-aloud for a learner who is blind or has low vision and let them name purpose and audience by
-voice; a non-speaking learner points to "inform," "persuade," "entertain," or "warn" and to
-the audience picture; acting out each message works for learners who learn best by moving.
+**Tone.** Curious and friendly — reading a message is understanding, not suspicion.
+
+**The facts to land.**
+1. Every message has a **purpose** — to inform, persuade, entertain, or warn — and an
+   **audience**.
+2. This is the Grade 3 upgrade of Grade 2's "who made it, and who is it for?"
+3. A spoken story or song is a real message with a purpose and audience too.
+
+**Don't overshoot.** Do not let purpose-hunting become suspicion. The maker of a menu
+wants to help you eat; the maker of a toy ad wants you to want the toy — both are honest
+once you can see them.
+
+**The lenses, briefly.**
+- *Critical-thinking:* two questions: what is it for? who is it for?
+- *Technology:* the same two questions work on a screen, a sign, a label.
+- *Egalitarianism:* no audience is worth less than another.
+- *Global:* messages from many places and lives, so no home is the default.
+
+**The skill.** Ask "what is it for?" and "who is it for?", then say both answers.
+
+Model the two questions on one message, then guide practice on a second before learners
+work independently (Kirschner, Sweller & Clark, 2006).
+
+**Access:** read each message aloud for a learner who is blind or has low vision and let
+them answer by voice; a learner who does not speak points to "inform", "persuade",
+"entertain", or "warn" and to the audience picture; acting out each message works for
+learners who learn by moving.
 
 ## Procedure
 

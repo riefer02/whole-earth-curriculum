@@ -118,14 +118,14 @@ instead of guesses.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **perspective-taking
-without stereotyping**. The highest risk here is that one child's story becomes "that's how
-*those people* live." Guard against it explicitly: each card describes *one child in one
-place* — there is no single "Andean child" or "desert child"; even within one village,
-lives differ by family, work, and means. Model the same-and-different comparison as wonder,
-not ranking ("in this place, water is carried; in mine, it comes from a tap — neither is
-better"). If a learner offers their own life, receive it as the authority they hold on it.
-See `docs/facilitation.md` on honoring cultural contexts without ranking.
+The idea to land is **perspective-taking without stereotyping**. The highest risk here
+is that one child's story becomes "that's how *those people* live." Guard against it
+explicitly: each card describes *one child in one place* — there is no single "Andean
+child" or "desert child"; even within one village, lives differ by family, work, and
+means. Model the same-and-different comparison as wonder, not ranking ("in this place,
+water is carried; in mine, it comes from a tap — neither is better"). If a learner
+offers their own life, receive it as the authority they hold on it. See
+`docs/facilitation.md` on honoring cultural contexts without ranking.
 
 ## Procedure
 

@@ -123,18 +123,18 @@ can play it back without hearing you first.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **notation as a shared
-language**: marks must be consistent enough that another person can follow them. Model the
-worked example fully before learners compose (explicit instruction for a novice skill —
-Kirschner, Sweller & Clark, 2006). Keep the notation concrete and simple: a beat grid
-(one box per beat) with "ta" (one sound) and "ti-ti" (two sounds), plus a five-step pitch
-ladder (do re mi sol la, the pentatonic scale) so melodies sound pleasant without wrong
-notes. Do not demand staff notation; letter names or solfege are welcome for learners
-ready to extend. Mention, as a global lens, that cultures notate music in many ways —
-staff notation, Indian sargam syllables, Chinese gongche characters, Japanese koto
-tablature, and graphic scores — all valid; we use one simple shared system today. The
-partner performance is the feedback moment: if a partner cannot follow, that is
-information for revision, never a verdict. See `docs/facilitation.md` and `docs/contexts.md`.
+The idea to land is **notation as a shared language**: marks must be consistent enough
+that another person can follow them. Model the worked example fully before learners
+compose (explicit instruction for a novice skill — Kirschner, Sweller & Clark, 2006).
+Keep the notation concrete and simple: a beat grid (one box per beat) with "ta" (one
+sound) and "ti-ti" (two sounds), plus a five-step pitch ladder (do re mi sol la, the
+pentatonic scale) so melodies sound pleasant without wrong notes. Do not demand staff
+notation; letter names or solfege are welcome for learners ready to extend. Mention, as
+a global lens, that cultures notate music in many ways — staff notation, Indian sargam
+syllables, Chinese gongche characters, Japanese koto tablature, and graphic scores — all
+valid; we use one simple shared system today. The partner performance is the feedback
+moment: if a partner cannot follow, that is information for revision, never a verdict.
+See `docs/facilitation.md` and `docs/contexts.md`.
 
 ## Procedure
 

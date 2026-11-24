@@ -126,17 +126,17 @@ way a storm cloud gathers dark sharp edges while a still pond holds long smooth 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The one idea to land is **deliberateness**:
-the elements are not decoration, they are *chosen* to express an idea or feeling, and a
-learner can name the choice and its reason. Model the calm-versus-storm worked example
-fully before learners work (explicit instruction for a novice skill — Kirschner, Sweller &
-Clark, 2006). Keep "balance" and "contrast" concrete — "balance = is it even or off-center?"
-and "contrast = how big is the difference between light and dark (or rough and smooth)?"
-There is no wrong feeling to express, and no "better" element; the goal is that the choice
-is *on purpose* and can be said aloud. These same five building blocks appear in art
-traditions around the world (see `docs/facilitation.md` on honoring diverse traditions);
-mention that artists everywhere choose from the same small toolkit, which is what makes
-their work legible across places and times. See `docs/contexts.md` on small-group work.
+The one idea to land is **deliberateness**: the elements are not decoration, they are
+*chosen* to express an idea or feeling, and a learner can name the choice and its
+reason. Model the calm-versus-storm worked example fully before learners work (explicit
+instruction for a novice skill — Kirschner, Sweller & Clark, 2006). Keep "balance" and
+"contrast" concrete — "balance = is it even or off-center?" and "contrast = how big is
+the difference between light and dark (or rough and smooth)?" There is no wrong feeling
+to express, and no "better" element; the goal is that the choice is *on purpose* and can
+be said aloud. These same five building blocks appear in art traditions around the world
+(see `docs/facilitation.md` on honoring diverse traditions); mention that artists
+everywhere choose from the same small toolkit, which is what makes their work legible
+across places and times. See `docs/contexts.md` on small-group work.
 
 ## Procedure
 

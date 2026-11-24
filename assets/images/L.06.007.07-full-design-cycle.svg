@@ -22,7 +22,7 @@
     <circle cx="246" cy="150" r="18" fill="none" stroke="#2b3a42" stroke-width="2.5"/>
     <line x1="260" y1="164" x2="278" y2="182" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
     <text x="256" y="210" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">research</text>
-    <text x="256" y="226" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">watch and ask first</text>
+    <text x="256" y="226" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">watch and ask first</text>
   </g>
 
   <!-- prototype (right) -->
@@ -32,7 +32,7 @@
     <circle cx="386" cy="248" r="7" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="414" cy="246" r="7" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
     <text x="400" y="326" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">prototype</text>
-    <text x="400" y="342" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">rough and quick</text>
+    <text x="400" y="342" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">rough and quick</text>
   </g>
 
   <!-- test (bottom) -->
@@ -40,7 +40,7 @@
     <circle cx="256" cy="382" r="46" fill="#ffffff" stroke="#2b3a42" stroke-width="2.5"/>
     <path d="M256 358 Q268 376 256 392" fill="none" stroke="#6b93b6" stroke-width="3" stroke-linecap="round"/>
     <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">test</text>
-    <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">against the real problem</text>
+    <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">against the real problem</text>
   </g>
 
   <!-- improve (left) -->
@@ -49,7 +49,7 @@
     <path d="M96 290 L128 290 M112 296 L112 268" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
     <path d="M96 290 L112 274 L128 290" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="112" y="326" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">improve</text>
-    <text x="112" y="342" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">change one thing, try again</text>
+    <text x="112" y="342" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">change one thing, try again</text>
   </g>
 
   <!-- arrows around loop -->
@@ -61,11 +61,11 @@
   </g>
 
   <!-- center worked example -->
-  <text x="256" y="256" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">seedlings dry out</text>
-  <text x="256" y="274" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">and get eaten</text>
-  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">→</text>
-  <text x="256" y="318" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">a shade-and-guard</text>
-  <text x="256" y="336" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">that works</text>
+  <text x="256" y="256" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">seedlings dry out</text>
+  <text x="256" y="272" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">and get eaten</text>
+  <text x="256" y="288" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">→</text>
+  <text x="256" y="304" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">a shade-and-guard</text>
+  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">that works</text>
 
   <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">research first — test teaches — write it down</text>
 </svg>

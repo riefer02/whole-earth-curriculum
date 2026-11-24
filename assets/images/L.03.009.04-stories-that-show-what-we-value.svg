@@ -3,8 +3,8 @@
   <desc id="desc-L-03-009-04-stories-that-show-what-we-value">Three panels show three kinds of cultural treasures. The first panel shows a woven kente cloth with a repeated pattern, labeled "kente cloth — patterns mean wisdom and unity." The second panel shows a painted dot pattern with circles, labeled "painting and story — caring for Country and family." The third panel shows musical notes rising from a drum, labeled "song and rhythm — passing on joy and memory." Each treasure shows what a culture values, and labels and shapes carry the meaning so it prints in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
-  <text x="256" y="40.7" text-anchor="middle" font-family="sans-serif" font-size="17.7" font-weight="bold" fill="#2b3a42">Stories, Songs &amp; Art Show What We Value</text>
-  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">Every culture keeps treasures that say what matters to its people.</text>
+  <text x="256" y="40.7" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">Stories, Songs &amp; Art Show What We Value</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Every culture keeps treasures that say what matters to its people.</text>
 
   <!-- panel 1: kente -->
   <rect x="30" y="96" width="140" height="214" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
@@ -25,8 +25,8 @@
     <rect x="84" y="214" width="18" height="16" fill="#7a9e7e"/>
     <rect x="110" y="214" width="18" height="16" fill="#6b93b6"/>
   </g>
-  <text x="100" y="268" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">patterns carry meaning</text>
-  <text x="100" y="284" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">wisdom, unity, honor</text>
+  <text x="100" y="268" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">patterns carry meaning</text>
+  <text x="100" y="284" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">wisdom, unity, honor</text>
 
   <!-- panel 2: painting and story -->
   <rect x="186" y="96" width="140" height="214" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
@@ -42,9 +42,9 @@
     <circle cx="260" cy="234" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="238" cy="230" r="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   </g>
-  <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">dots tell a Dreaming story</text>
-  <text x="256" y="284" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">caring for Country,</text>
-  <text x="256" y="298" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">family</text>
+  <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">dots tell a Dreaming story</text>
+  <text x="256" y="284" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">caring for Country,</text>
+  <text x="256" y="298" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">family</text>
 
   <!-- panel 3: song -->
   <rect x="342" y="96" width="140" height="214" rx="10" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
@@ -55,9 +55,9 @@
   <path d="M430 156 q6 -10 0 -20 q-6 10 0 20" fill="#2b3a42"/>
   <path d="M398 156 q6 -10 0 -20 q-6 10 0 20" fill="#2b3a42"/>
   <path d="M414 148 q6 -10 0 -20 q-6 10 0 20" fill="#4f6d7a"/>
-  <text x="412" y="268" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">drum, song, and dance</text>
-  <text x="412" y="284" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">passing on joy,</text>
-  <text x="412" y="298" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">memory</text>
+  <text x="412" y="268" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">drum, song, and dance</text>
+  <text x="412" y="284" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">passing on joy,</text>
+  <text x="412" y="298" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">memory</text>
 
   <text x="256" y="350" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">A story, song, or art form is a window into</text>
   <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">what a culture holds dear.</text>

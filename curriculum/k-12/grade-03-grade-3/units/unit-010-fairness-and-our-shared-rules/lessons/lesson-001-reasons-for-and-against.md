@@ -121,22 +121,35 @@ Today you will practice weighing reasons for and against.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **weighing reasons**, the
-foundation of the unit's moral reasoning. Model the move first as a worked example:
-pick one choice, say one reason *for* and one reason *against*, then state a decision
-and its "because." Keep choices small, everyday, and blame-free — there is no single
-correct answer, and a learner may decide either way as long as they can give a reason.
-A reason is an honest "because," and every honest reason is welcome; we do not rank
-reasons as "better" people, only notice which side has more or stronger reasons. The
-**balance-scale** idea is a picture, not a rule: sometimes one strong reason outweighs
-several small ones, and that is worth wondering about. Hold fairness as a question
-("what does each choice do for others?"), never a command. A learner who does not
-speak aloud places a stone on the "for" or "against" side or points to a card; a
-learner who is deaf or hard of hearing follows each reason through the chart and sign;
-a learner who is blind or low-vision hears each choice and reason described and gives
-their reason aloud; a learner with a motor difference can direct a partner to place
-their stone. A learner may always pass. The goal is the learner's own reasoning —
-"for… against… so I would…" — not a memorized answer.
+**Tone.** Even-handed and unhurried — there is no single correct answer today.
+
+**The facts to land.**
+1. Weighing reasons founds the unit's moral reasoning: one reason *for*, one *against*,
+   then a decision and its "because."
+2. A reason is an honest "because," and every honest reason is welcome; we do not rank
+   people by their reasons, only notice which side has stronger ones.
+3. The **balance-scale** is a picture, not a rule — one strong reason can outweigh
+   several small ones.
+
+**Don't overshoot.** Do not turn the scale into arithmetic. Counting reasons is not
+deciding, and fairness stays a question ("what does each choice do for others?"), never
+a command.
+
+**The lenses, briefly.**
+- *Ethics:* decisions carry reasons, and the reasons can be said aloud.
+- *Egalitarianism:* no learner's reason is worth less than another's.
+- *Social-emotional:* a learner may always pass.
+- *Global:* the choices can come from many kinds of household and place.
+- *Critical-thinking:* model the move first: one for, one against, then "so I would…
+  because…"
+
+**The skill.** Say one reason for, one against, then decide and give the "because." Keep
+the choices small, everyday, and blame-free.
+
+**Access:** a learner who does not speak aloud places a stone on "for" or "against"; a
+learner who is deaf or hard of hearing follows each reason through the chart and sign; a
+learner who is blind or has low vision hears each reason described; a learner with a
+motor difference directs a partner.
 
 ## Procedure
 

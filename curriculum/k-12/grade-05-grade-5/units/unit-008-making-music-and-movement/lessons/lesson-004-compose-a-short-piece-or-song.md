@@ -119,14 +119,14 @@ together on purpose.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **form**: a piece has
-a beginning (the idea), a middle (contrast), and an end (return). Model the worked example
-step by step before groups compose (explicit instruction for a novice skill — Kirschner,
-Sweller & Clark, 2006). Keep the vocabulary concrete: "beginning, middle, end" before
-"A–B–A." Grade 4 gave basic notation, so simple shape/letter/body-mark notation is
-enough — do not demand staff notation. Celebrate every completed three-part piece; form is
-the goal, not virtuosity. Next lesson adds performance. See `docs/facilitation.md` and
-`docs/contexts.md` on cooperative group work.
+The idea to land is **form**: a piece has a beginning (the idea), a middle (contrast),
+and an end (return). Model the worked example step by step before groups compose
+(explicit instruction for a novice skill — Kirschner, Sweller & Clark, 2006). Keep the
+vocabulary concrete: "beginning, middle, end" before "A–B–A." Grade 4 gave basic
+notation, so simple shape/letter/body-mark notation is enough — do not demand staff
+notation. Celebrate every completed three-part piece; form is the goal, not virtuosity.
+Next lesson adds performance. See `docs/facilitation.md` and `docs/contexts.md` on
+cooperative group work.
 
 ## Procedure
 

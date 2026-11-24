@@ -115,31 +115,37 @@ asking for help are not enemies — they are two hands of the same capable perso
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) seeking help is
-a skill, not a weakness — and knowing when to seek it is part of mature independence;
-(2) the skill has concrete parts: try alone first, recognize the limit, choose who to
-ask, and ask clearly; (3) refusing help when it is needed is not strength but a
-different kind of getting stuck.** The evidence: mastery/feedback loops and
-relationships are among the strongest learning levers (S-007, S-012), and asking for
-help is how a self-directed learner gets *feedback* — so help-seeking is continuous with
-Lesson 10, not opposed to it. The "try alone first" instinct is honored; the point is
-*joint judgment*, not endless independence (philosophy §6, §8).
+**Tone.** Ordinary and unembarrassed: asking is a normal move, not an admission.
 
-Model the skill once, then let learners practice (S-011). The **ethics** lens: asking
-for help is also an act of fairness to oneself and to the task — pretending you don't
-need help can waste others' time and your own. The **egalitarian** lens: not everyone
-has been taught that it is safe or normal to ask; make asking ordinary and honored in
-this space, and notice that some learners have fewer people to ask — which is why we
-build a *community* help network, not just a private one. The **global** lens: cultures
-differ in how asking is valued — in some, asking is a sign of humility and belonging; in
-others, of weakness — and neither is the "true" one; the skill is to read the room and
-still get what you need. The **technology & environment** lens: a help channel can be a
-person, a library, a mentor, a hotline, or a trusted online source — name the real
-channels available to *you*, and remember that not every online answer is trustworthy
-(recall evaluating sources). The **social-emotional** lens: asking can feel vulnerable;
-practice lowers the fear. Watch for learners who are quietly drowning rather than
-asking — the facilitator's own invitation to ask is part of the lesson. Keep "I don't
-have anyone to ask" a *solvable problem to build toward*, never a verdict.
+**The facts to land.**
+
+1. Seeking help is a skill, not a weakness; knowing when is mature independence.
+2. The skill has parts: try alone first, recognise the limit, choose who to ask, ask
+   clearly.
+3. Refusing help when it is needed is not strength but another kind of stuck.
+4. Feedback loops and relationships are among the strongest levers (S-007, S-012);
+   asking is how a self-directed learner gets feedback.
+
+**Don't overshoot.** "Try alone first" is honoured, but the point is *joint judgment*,
+not endless independence (philosophy §6, §8). "I don't have anyone to ask" is a problem
+to solve, not a verdict.
+
+**The lenses, briefly.**
+
+- *Ethics:* asking is fairness to oneself and the task; pretending you don't need it
+  wastes time.
+- *Egalitarianism:* not everyone was taught that asking is safe; build a **community**
+  network, since some learners have fewer people to ask.
+- *Global:* cultures differ in how asking is valued — humility or weakness, neither the
+  truth; read the room, still ask.
+- *Social-emotional:* asking feels vulnerable and practice lowers the fear; watch for
+  learners quietly drowning — the invitation is part of the lesson.
+
+- *Technology:* a help channel can be a person, a library, a mentor, or a hotline.
+- *Critical-thinking:* tell a real limit from a preference before you ask.
+
+**The skill.** Model once, then release (S-011): name your limit, pick one person, ask
+in one clear sentence.
 
 ## Procedure
 

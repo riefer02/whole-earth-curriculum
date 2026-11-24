@@ -110,18 +110,16 @@ a different part of the story. Together they tell you the whole thing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the sense basket, then guide the describing and the
-chart. Safety first: choose only items that are safe to smell and taste for every
-learner, and never require a learner to taste anything. If food or taste samples are
-not available, the taste row can be done from memory ("a lemon tastes sour") — memory
-counts as knowing. Honor every body: a learner with low vision may describe what their
-skin and ears tell them in rich detail, and a learner who cannot taste or smell that
-day still has sight, hearing, and touch. A learner who is deaf or hard of hearing can
-know the hearing sense as vibration — hold the bell or shaker and feel it buzz, or
-feel a drum hum — and describe sound as a felt shake; hold up each object as you name
-it so everyone can follow. There is no single correct answer — each learner's honest
-description is the point.
+Prepare the sense basket, then guide the describing and the chart. Safety first: choose
+only items that are safe to smell and taste for every learner, and never require a
+learner to taste anything. If food or taste samples are not available, the taste row can
+be done from memory ("a lemon tastes sour") — memory counts as knowing. Honor every
+body: a learner with low vision may describe what their skin and ears tell them in rich
+detail, and a learner who cannot taste or smell that day still has sight, hearing, and
+touch. A learner who is deaf or hard of hearing can know the hearing sense as
+vibration — hold the bell or shaker and feel it buzz, or feel a drum hum — and describe
+sound as a felt shake; hold up each object as you name it so everyone can follow. There
+is no single correct answer — each learner's honest description is the point.
 
 ## Procedure
 

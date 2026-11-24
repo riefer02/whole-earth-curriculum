@@ -109,12 +109,12 @@ through the world with care and confidence.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, frame **wobbling as
-learning**, never as failure. **Honor every body:** a learner who cannot stand can
-balance an object on a knee or open hand while seated; a learner who cannot walk a
-line can hold a steady seated pose. Pair the "statue" voice with a visual signal —
-a raised hand or a lifted scarf — so learners who cannot hear the cue know when to
-freeze. Keep the tone calm and slow — balance grows from stillness and breath, not speed.
+As facilitator, frame **wobbling as learning**, never as failure. **Honor every body:**
+a learner who cannot stand can balance an object on a knee or open hand while seated; a
+learner who cannot walk a line can hold a steady seated pose. Pair the "statue" voice
+with a visual signal — a raised hand or a lifted scarf — so learners who cannot hear the
+cue know when to freeze. Keep the tone calm and slow — balance grows from stillness and
+breath, not speed.
 
 ## Procedure
 

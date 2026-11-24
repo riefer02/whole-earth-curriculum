@@ -108,11 +108,10 @@ after day, is how we see change happen.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It begins an observation that runs
-several days — plan to return to the journals every day or two. If seeds are not
-available, watching a learner's own height, a plant outside, or a pet works just as
-well; what matters is the repeated looking. Remind learners to be gentle with the
-living thing they are watching.
+It begins an observation that runs several days — plan to return to the journals every
+day or two. If seeds are not available, watching a learner's own height, a plant
+outside, or a pet works just as well; what matters is the repeated looking. Remind
+learners to be gentle with the living thing they are watching.
 
 ## Procedure
 

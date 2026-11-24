@@ -109,14 +109,13 @@ doing. Everyone has some — not the same ones, and that is what makes a group s
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Strengths come in many kinds — helping,
-making, moving, listening, thinking, caring, telling stories, being patient. Never
-rank them (a fast runner is not "better" than a kind friend). Some learners will say
-they have no strengths; help them find one by noticing something they did that day.
-Keep the focus on *capability*, not comparison. Ensure every learner receives at least
-one note: assign each child a secret strength partner so every child writes and
-receives exactly one. The empty "still learning" star is a preview of the next lesson —
-leave it unfilled today if that feels right.
+Strengths come in many kinds — helping, making, moving, listening, thinking, caring,
+telling stories, being patient. Never rank them (a fast runner is not "better" than a
+kind friend). Some learners will say they have no strengths; help them find one by
+noticing something they did that day. Keep the focus on *capability*, not comparison.
+Ensure every learner receives at least one note: assign each child a secret strength
+partner so every child writes and receives exactly one. The empty "still learning" star
+is a preview of the next lesson — leave it unfilled today if that feels right.
 
 ## Procedure
 

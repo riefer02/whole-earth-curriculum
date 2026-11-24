@@ -116,17 +116,16 @@ force that works across a distance.
 
 ## Facilitator note
 
-Written to the learner ("you"). Two ideas to land: (1) magnetism **acts at a
-distance** — through air, and even through paper, wood, or water; (2) **like poles
-repel, unlike poles attract**. This is a hands-on predict-and-test lesson: learners
-write a prediction before each test (attract? repel?) and then check. Safety note:
-keep magnets away from phones, cards with magnetic strips, and medical devices, and
-never swallow small magnets. The compass is a natural global/technology tie-in: it
-was developed and used by many cultures (the magnetic needle appears in Chinese,
-Arab, and European navigation histories), and Earth itself behaves like a giant
-magnet. The claim that magnets attract and repel is evidence; the claim that tools
-like the compass should be available to everyone is a value — separate them
-([`docs/facilitation.md`](../../../../../../docs/facilitation.md)).
+Two ideas to land: (1) magnetism **acts at a distance** — through air, and even through
+paper, wood, or water; (2) **like poles repel, unlike poles attract**. This is a
+hands-on predict-and-test lesson: learners write a prediction before each test (attract?
+repel?) and then check. Safety note: keep magnets away from phones, cards with magnetic
+strips, and medical devices, and never swallow small magnets. The compass is a natural
+global/technology tie-in: it was developed and used by many cultures (the magnetic
+needle appears in Chinese, Arab, and European navigation histories), and Earth itself
+behaves like a giant magnet. The claim that magnets attract and repel is evidence; the
+claim that tools like the compass should be available to everyone is a value — separate
+them ([`docs/facilitation.md`](../../../../../../docs/facilitation.md)).
 
 ## Procedure
 

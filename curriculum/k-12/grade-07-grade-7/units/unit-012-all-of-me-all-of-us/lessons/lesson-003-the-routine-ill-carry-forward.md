@@ -123,21 +123,36 @@ in a city apartment or a village house, the pattern is the same.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a routine is how a goal becomes days
-— and the routine you carry into Grade 8 should serve the person you are becoming, not just a checklist.**
-This deepens Unit 1, Lesson 10 (which built the wheel); here the wheel is pointed **forward** and tied
-to the "who I am becoming" goal from Lesson 1. Rest it on three evidence-backed blocks: study (with
-breaks, spaced and retrieved), sleep (about 8–10 hours for teens — AASM, S-050), and daily movement
-(WHO, S-069), plus rest and meals. Use if-then planning for the hard moments (Duckworth, Gendler & Gross,
-S-097) and keep amounts flexible — every family, shift, and body differs; for a learner with limited mobility, "movement" means whatever their body does (stretching, range-of-motion, physio, breathing), and a routine that cannot
-bend will break. The egalitarian lens is explicit: a learner with chores, care duties, or long travel
-has different hours than one without, so teach the routine as "within your real day," never as a
-middle-class default schedule. The environment lens: sleep and movement follow daylight and season;
-many people's days follow the sun and the land, not a clock. The technology lens: name screens as one
-real pressure on sleep and study, and plan for it rather than ignore it. Model one routine as a worked
-example (Kirschner, Sweller & Clark, 2006, S-011). Distinguish **evidence from values**: that sleep,
-movement, and spaced study support health and learning is documented; that every learner's goals deserve
-equal honor is a value this curriculum holds — name it as one.
+**Tone.** Practical. The routine serves the person, not the other way round.
+
+**The facts to land.**
+
+1. **A routine is how a goal becomes days** — and the one you carry forward should serve
+   the person you are becoming, not just a checklist.
+2. It rests on **study** (with breaks, spaced and retrieved), **sleep** (about 8–10
+   hours for teens — AASM, S-050), and **daily movement** (WHO, S-069), plus rest and
+   meals.
+3. **If-then planning** helps at the hard moments (Duckworth, Gendler & Gross, S-097).
+
+**Don't overshoot.** Do not hand out one timetable as right. Every family, shift, and
+body differs; a routine that cannot bend will break.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* a commitment you chose, not one imposed on you.
+- *Ethics:* rest is owed, not earned.
+- *Egalitarianism:* chores, care duties, or long travel change the hours — teach "within
+  your real day," never a middle-class default.
+- *Global:* the clock is not every community's organizer.
+- *Technology:* name screens as one real pressure on sleep and study, and plan for it.
+- *Environment:* sleep and movement follow daylight and season; many days follow the sun
+  and the land.
+- *Critical-thinking:* test the plan against evidence, then against your own week.
+
+**The skill.** This deepens Unit 1, Lesson 10 and points it forward. For a learner with
+limited mobility, "movement" means whatever their body does — stretching,
+range-of-motion, physio, breathing. Model one routine as a worked example (Kirschner,
+Sweller & Clark, 2006, S-011).
 
 ## Procedure
 

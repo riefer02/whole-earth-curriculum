@@ -123,13 +123,13 @@ body needs, the way a plant needs water.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **a body needs enough
-of each nutrient, and too little over time has real effects — described with care, never
-shame**. Keep the tone warm and factual. Be sensitive: some learners experience hunger or food
-shortage. Always frame a shortage of food or nutrients as a **fairness and systems issue**
-(food not being available or affordable where a family lives), never as a child's or family's
-fault. Do not link any nutrient shortage to body size or shape. Connect every shortage to
-agency — foods that supply what is missing — and to hope. See `docs/facilitation.md` on holding
+The idea to land is that **a body needs enough of each nutrient, and too little over
+time has real effects — described with care, never shame**. Keep the tone warm and
+factual. Be sensitive: some learners experience hunger or food shortage. Always frame a
+shortage of food or nutrients as a **fairness and systems issue** (food not being
+available or affordable where a family lives), never as a child's or family's fault. Do
+not link any nutrient shortage to body size or shape. Connect every shortage to agency —
+foods that supply what is missing — and to hope. See `docs/facilitation.md` on holding
 difficulty with hope.
 
 ## Procedure

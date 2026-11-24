@@ -118,26 +118,25 @@ choices visible and name them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **recording is a
-craft, not a lucky tap of a button — the composer chooses capture, balance, and
-revision, and can explain each choice.** The signal path (source → capture → balance →
-playback, with a "listen and revise" loop) gives learners a concrete, observable frame
-for their techniques log. The low-tech path is essential: with no device, a
-*repeatable live performance* documented by a listener is the recording — the craft is
-still in the choosing and the describing.
+The idea to land: **recording is a craft, not a lucky tap of a button — the composer
+chooses capture, balance, and revision, and can explain each choice.** The signal path
+(source → capture → balance → playback, with a "listen and revise" loop) gives learners
+a concrete, observable frame for their techniques log. The low-tech path is essential:
+with no device, a *repeatable live performance* documented by a listener is the
+recording — the craft is still in the choosing and the describing.
 
-The **ethics** lens: a recording is a *document*; being able to say exactly what you
-did and why is honesty about your own work (and, in Lesson 6, about others' work you
+The **ethics** lens: a recording is a *document*; being able to say exactly what you did
+and why is honesty about your own work (and, in Lesson 6, about others' work you
 engage). The **egalitarian** lens: the craft of listening and choosing needs no
-expensive gear — a phone or even a careful live rendition works; recording is not
-gated by a studio. The **global** lens: recordings are how music travels and how
-living traditions are documented — Smithsonian Folkways has preserved the world's
-music since 1948 precisely so communities' own voices are heard (S-188). The
-**technology** lens is the spine: the microphone and the DAW changed what music can be
-— layered, edited, replayed — and understanding the path is understanding that power.
-The **environment** lens: devices carry a material cost (rare minerals, e-waste), a
-reminder to use and reuse them with care (S-397; previewed fully in Lesson 11).
-Preview: Lesson 6 turns to the ethics of engaging with *other* people's music.
+expensive gear — a phone or even a careful live rendition works; recording is not gated
+by a studio. The **global** lens: recordings are how music travels and how living
+traditions are documented — Smithsonian Folkways has preserved the world's music since
+1948 precisely so communities' own voices are heard (S-188). The **technology** lens is
+the spine: the microphone and the DAW changed what music can be — layered, edited,
+replayed — and understanding the path is understanding that power. The **environment**
+lens: devices carry a material cost (rare minerals, e-waste), a reminder to use and
+reuse them with care (S-397; previewed fully in Lesson 11). Preview: Lesson 6 turns to
+the ethics of engaging with *other* people's music.
 
 ## Procedure
 

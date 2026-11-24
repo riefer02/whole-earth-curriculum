@@ -116,23 +116,23 @@ down at that scale, mostly emptiness held together by forces.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **matter is made of
-atoms; each atom has a nucleus of protons (positive) and neutrons (neutral), with
-electrons (negative) arranged in shells around it; an element is defined by its number
-of protons, not by its appearance; and atoms are mostly empty space (S-359, S-439).**
-Teach the structure explicitly with a worked, labeled diagram and guided practice
-(S-011). Emphasize the *scale* surprise — the atom's nucleus is to the atom roughly as
-a pea to a stadium — because it sets up Lesson 10's quantum surprises.
+The ideas to land: **matter is made of atoms; each atom has a nucleus of protons
+(positive) and neutrons (neutral), with electrons (negative) arranged in shells around
+it; an element is defined by its number of protons, not by its appearance; and atoms are
+mostly empty space (S-359, S-439).** Teach the structure explicitly with a worked,
+labeled diagram and guided practice (S-011). Emphasize the *scale* surprise — the atom's
+nucleus is to the atom roughly as a pea to a stadium — because it sets up Lesson 10's
+quantum surprises.
 
-The **intellectual** lens: a model (the atom) lets us explain a huge range of
-behavior from a small set of parts — the power of a good model. The
-**critical-thinking** lens: the atomic model is a *model*, revised over a century as
-new evidence appeared; it is not a photograph. The **global** lens: atomic ideas grew
-from the work of scientists in many countries, building on one another's experiments.
-The **technology** lens: understanding the atom is what made electronics, medicine,
-and much modern technology possible — and also what made nuclear power and weapons
-possible, a responsibility to weigh (previewing Lesson 12). Preview: Lesson 10 turns
-to the **quantum** scale, where the surprises grow sharper.
+The **intellectual** lens: a model (the atom) lets us explain a huge range of behavior
+from a small set of parts — the power of a good model. The **critical-thinking** lens:
+the atomic model is a *model*, revised over a century as new evidence appeared; it is
+not a photograph. The **global** lens: atomic ideas grew from the work of scientists in
+many countries, building on one another's experiments. The **technology** lens:
+understanding the atom is what made electronics, medicine, and much modern technology
+possible — and also what made nuclear power and weapons possible, a responsibility to
+weigh (previewing Lesson 12). Preview: Lesson 10 turns to the **quantum** scale, where
+the surprises grow sharper.
 
 ## Procedure
 

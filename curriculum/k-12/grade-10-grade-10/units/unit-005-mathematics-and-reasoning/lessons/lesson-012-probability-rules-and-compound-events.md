@@ -117,24 +117,24 @@ out so you can *see* what you are counting is what keeps the answer honest.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the addition rule
-P(A or B) = P(A) + P(B) − P(A and B) handles "or" (subtracting the overlap), the
-multiplication rule handles "and" (for independent events, P(A and B) = P(A) × P(B)),
-and two-way tables and tree diagrams lay out compound events so the count is honest.**
-Teach the rules with worked examples (S-011), then let learners compute and simulate.
+The idea to land: **the addition rule P(A or B) = P(A) + P(B) − P(A and B) handles "or"
+(subtracting the overlap), the multiplication rule handles "and" (for independent
+events, P(A and B) = P(A) × P(B)), and two-way tables and tree diagrams lay out compound
+events so the count is honest.** Teach the rules with worked examples (S-011), then let
+learners compute and simulate.
 
-The **global** lens: reasoning about chance has a long, human history. Dice are
-ancient — found in Egypt, India, and Mesopotamia, used across many cultures (S-300);
-and the careful *study* of chance began with questions from games in 17th-century
-Europe, answered in the correspondence of Pascal and Fermat (S-301). Hold that as
-*one* starting point among the many peoples who gambled, divided, and predicted
-before and since. The **intellectual** lens: the rules are counting, done carefully —
-the subtraction in the addition rule is just "don't count the overlap twice." The
-**critical-thinking** lens: always lay out the sample space before computing, and ask
-whether the events overlap or not. The **ethics** lens: the same rules that keep a
-game fair can be hidden inside a rigged one; reading probability honestly protects
-people from being cheated. Preview: Lesson 13 turns to conditional probability and
-why order and information change the odds.
+The **global** lens: reasoning about chance has a long, human history. Dice are ancient
+— found in Egypt, India, and Mesopotamia, used across many cultures (S-300); and the
+careful *study* of chance began with questions from games in 17th-century Europe,
+answered in the correspondence of Pascal and Fermat (S-301). Hold that as *one* starting
+point among the many peoples who gambled, divided, and predicted before and since. The
+**intellectual** lens: the rules are counting, done carefully — the subtraction in the
+addition rule is just "don't count the overlap twice." The **critical-thinking** lens:
+always lay out the sample space before computing, and ask whether the events overlap or
+not. The **ethics** lens: the same rules that keep a game fair can be hidden inside a
+rigged one; reading probability honestly protects people from being cheated. Preview:
+Lesson 13 turns to conditional probability and why order and information change the
+odds.
 
 ## Procedure
 

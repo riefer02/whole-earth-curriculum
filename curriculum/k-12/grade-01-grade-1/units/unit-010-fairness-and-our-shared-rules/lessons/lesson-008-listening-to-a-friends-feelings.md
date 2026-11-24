@@ -111,23 +111,36 @@ listening. Today you will practice being the listener.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches that **both sides get heard** — in
-a conflict, no one side is the only one with feelings. Listening is active, not
-passive: face toward the speaker (in whatever way a learner can — a learner who is
-blind or low-vision turns an ear toward the voice and shows listening by stillness
-and a response; a learner who is deaf or hard of hearing watches the speaker's face
-and signs "I hear you" or nods), wait for their turn without interrupting, and repeat
-back the feeling. If you use a passing object to mark whose turn it is, call it a
-**turn marker**. People everywhere find ways to make sure one voice is heard at a
-time; a passing object is one simple, respectful way. It is a reminder to listen
-while one person speaks, not a decoration. The turn marker also supports accessibility: a
-learner who does not speak aloud holds it and points, signs, or gestures their
-feeling while the listener hears it; a learner with a motor difference can have a
-partner place the marker. "Repeating back" can be spoken, signed, or shown by
-pointing to the feeling on a board. Keep the practice gentle and free of blame; never
-require anyone to share a real, private feeling — invented or acted feelings are
-welcome, and a learner may always pass. Listening is a gift everyone can give,
-whatever their body can do.
+**Tone.** Quiet and warm. **Both sides get heard** — no one side owns the feelings.
+
+**The facts to land.**
+
+1. Listening is active: face the speaker, wait for your turn without interrupting, then
+   repeat back the feeling.
+2. "Repeating back" can be spoken, signed, or shown by pointing to the feeling on a
+   board.
+3. If you use a passing object to mark turns, call it a **turn marker**. People
+   everywhere find ways to hear one voice at a time; it is a reminder to listen.
+4. Listening is a gift everyone can give, whatever their body can do.
+
+**Don't overshoot.** Never require anyone to share a real, private feeling — invented or
+acted feelings are welcome, and a learner may always pass. Keep the practice free of
+blame.
+
+**The lenses, briefly.**
+
+- *Ethics:* the listener's job is to understand, not to answer.
+- *Egalitarianism:* a learner who does not speak holds the marker and points, signs, or
+  gestures; a partner can place it for a learner with a motor difference.
+- *Social-emotional:* the feeling named back is the proof of listening.
+- *Community:* turn-taking is how a group holds everyone's feelings.
+- *Global:* customs for taking turns differ; none is the model.
+
+**The skill.** Face the speaker, wait, then say back the feeling you heard.
+
+**Access.** Blind or low-vision: turn an ear toward the voice and show listening by
+stillness and a response. Deaf or hard of hearing: watch the speaker's face and sign "I
+hear you," or nod.
 
 ## Procedure
 

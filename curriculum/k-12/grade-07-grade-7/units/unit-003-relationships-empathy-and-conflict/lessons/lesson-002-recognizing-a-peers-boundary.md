@@ -118,16 +118,15 @@ is a universal human skill.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **boundaries are
-often signaled without the word "no," through words, body, and voice — and the respectful
-response is always to stop the first time, without arguing**. Keep scenes small and safe
-(borrowing, standing close, a touch on the shoulder, messaging); use hypothetical
-characters, never real classmates, so no one is put on the spot. Emphasize that a soft or
-hesitant "no" is still a no — hesitation is not an invitation to push. Note the cultural
-range of body language honestly (a downcast look, a step back, an open palm) and never rank
-one custom above another. Model reading one cue card aloud as a worked example before pairs
-work alone (Kirschner, Sweller & Clark, 2006). See `docs/facilitation.md` and
-`docs/art-style.md`.
+The idea to land is that **boundaries are often signaled without the word "no," through
+words, body, and voice — and the respectful response is always to stop the first time,
+without arguing**. Keep scenes small and safe (borrowing, standing close, a touch on the
+shoulder, messaging); use hypothetical characters, never real classmates, so no one is
+put on the spot. Emphasize that a soft or hesitant "no" is still a no — hesitation is
+not an invitation to push. Note the cultural range of body language honestly (a downcast
+look, a step back, an open palm) and never rank one custom above another. Model reading
+one cue card aloud as a worked example before pairs work alone (Kirschner, Sweller &
+Clark, 2006). See `docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure
 

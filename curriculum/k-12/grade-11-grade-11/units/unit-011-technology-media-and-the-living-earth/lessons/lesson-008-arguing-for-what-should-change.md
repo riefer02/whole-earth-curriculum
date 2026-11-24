@@ -124,28 +124,27 @@ will build.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **arguing for change
-is a skill with a shape — the change, who it helps, what it costs — and the strongest
-proposals draw on real directions: transparent rules, accountability and appeals,
-and reader tools (Britannica, S-481; UN SDG 16, S-463).** The skill is not to have
-the "right" answer but to make a proposal that can survive the objections any real
-reform faces: who decides? who pays? will it work here? who might misuse it?
+The idea to land: **arguing for change is a skill with a shape — the change, who it
+helps, what it costs — and the strongest proposals draw on real directions: transparent
+rules, accountability and appeals, and reader tools (Britannica, S-481; UN SDG 16,
+S-463).** The skill is not to have the "right" answer but to make a proposal that can
+survive the objections any real reform faces: who decides? who pays? will it work here?
+who might misuse it?
 
-Keep the lesson from collapsing into either a utopia (a proposal with no cost is not
-a proposal) or a shrug (every proposal has a cost, but that is not a reason to do
+Keep the lesson from collapsing into either a utopia (a proposal with no cost is not a
+proposal) or a shrug (every proposal has a cost, but that is not a reason to do
 nothing — the harms themselves have costs). The mature stance: weigh *costs against
-costs*, not cost against nothing. Distinguish *evidence* (what reform mechanisms
-exist and do) from *value* (which harms matter most to prevent). The strong
-institutions ideal is a stated international commitment (S-463) — a value frame, not
-a claim that it is already achieved.
+costs*, not cost against nothing. Distinguish *evidence* (what reform mechanisms exist
+and do) from *value* (which harms matter most to prevent). The strong institutions ideal
+is a stated international commitment (S-463) — a value frame, not a claim that it is
+already achieved.
 
 The **ethics** lens: a proposal is a claim about what we owe the harmed. The
 **egalitarianism** lens is core: ask whether the change protects the powerless or
-concentrates more power in the already powerful. The **global** lens: the same
-proposal lands differently under different laws. The **technology** lens: the change
-must actually reach the design of the tool, not just its surface. The
-**critical-thinking** lens: testing a proposal against objections, not just
-preferring it.
+concentrates more power in the already powerful. The **global** lens: the same proposal
+lands differently under different laws. The **technology** lens: the change must
+actually reach the design of the tool, not just its surface. The **critical-thinking**
+lens: testing a proposal against objections, not just preferring it.
 
 ## Procedure
 

@@ -114,18 +114,33 @@ quantities move together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a scatter plot places each
-item as a point with two coordinates — one for each variable; (2) the association describes how the
-two variables tend to move together: positive (both rise), negative (one rises as the other falls),
-or none; (3) outliers and clusters are features to name, not mistakes to erase.** Because reading a
-scatter plot is a foundational skill, use explicit instruction, worked examples, and guided practice
-before independent work (Kirschner, Sweller & Clark, 2006). Watch for the slips of describing
-association from a single point (look at the whole cloud) and of calling any visible pattern "cause"
-(hold that for Lesson 11 — association is *not yet* causation). The egalitarian lens: every dot is a
-person or thing, and the plot never ranks *people* — it describes a relationship, with care for the
-outliers the trend leaves out (philosophy §4). The global lens: reading data in two variables is how
-public-health workers, farmers, and researchers everywhere see real patterns, using data gathered
-fairly (S-006). The critical-thinking lens: the whole cloud, not one dot, is the evidence.
+**Tone.** Careful and humane — every dot is someone or something.
+
+**The facts to land.**
+
+1. A scatter plot places each item as a point with two coordinates, one per variable.
+2. Association describes how the variables tend to move together: positive (both rise),
+   negative (one rises as the other falls), or none.
+3. Outliers and clusters are features to name, not mistakes to erase.
+
+**Don't overshoot.** Two slips to catch: describing association from a single point, and
+calling any visible pattern "cause" — association is *not yet* causation.
+
+**The lenses, briefly.**
+
+- *Intellectual:* the whole cloud, not one dot, is the evidence.
+- *Ethics:* a trend can leave people out; name the outliers rather than erase them.
+- *Egalitarianism:* the plot never ranks *people* — it describes a relationship
+  (`philosophy` §4).
+- *Global:* reading two variables together is how public-health workers, farmers, and
+  researchers everywhere see patterns, using fairly gathered data (S-006).
+- *Technology:* plotting tools make the cloud visible; interpretation remains ours.
+- *Critical-thinking:* ask what a point is, and how it was measured, before trusting the
+  pattern.
+
+**The skill.** Reading a scatter plot is foundational: use explicit instruction, worked
+examples, and guided practice before independent work (Kirschner, Sweller & Clark,
+2006).
 
 ## Procedure
 

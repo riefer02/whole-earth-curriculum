@@ -92,5 +92,5 @@
   <circle cx="447" cy="356" r="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   <text x="417" y="378" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">a turn to speak</text>
 
-  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="14.3" fill="#4f6d7a">These needs belong to everyone, everywhere — no one is left out.</text>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">These needs belong to everyone, everywhere — no one is left out.</text>
 </svg>

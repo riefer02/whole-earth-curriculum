@@ -112,17 +112,15 @@ materials, and say your steps — all before you start.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Planning before making is a **skill**, so model it once — "I
-will make a little boat; I choose sticks and string; my steps are gather, join, test"
-— before learners plan their own (Kirschner, Sweller & Clark, 2006). A plan can be
-spoken, pointed to, or drawn; writing is not required. The plan may change as the
-learner builds, and that is fine — a plan is a guide, not a cage. A learner with
-limited fine motor plans and directs while a partner handles the materials — choosing
-and sequencing are the heart of the task. A learner who is blind or has low vision
-chooses materials by feel and names the steps aloud; a partner can describe each
-material. A learner who does not speak points to the materials and to the step boxes
-in order. Every plan belongs.
+Planning before making is a **skill**, so model it once — "I will make a little boat; I
+choose sticks and string; my steps are gather, join, test" — before learners plan their
+own (Kirschner, Sweller & Clark, 2006). A plan can be spoken, pointed to, or drawn;
+writing is not required. The plan may change as the learner builds, and that is fine — a
+plan is a guide, not a cage. A learner with limited fine motor plans and directs while a
+partner handles the materials — choosing and sequencing are the heart of the task. A
+learner who is blind or has low vision chooses materials by feel and names the steps
+aloud; a partner can describe each material. A learner who does not speak points to the
+materials and to the step boxes in order. Every plan belongs.
 
 ## Procedure
 

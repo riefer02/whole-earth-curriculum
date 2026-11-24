@@ -55,7 +55,7 @@
     <line x1="362" y1="336" x2="288" y2="292" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4"/>
   </g>
 
-  <text x="256" y="422" text-anchor="middle" font-family="sans-serif" font-size="14.8" fill="#4f6d7a">Each sense adds one clue — together they make the whole mango.</text>
+  <text x="256" y="422" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Each sense adds one clue — together they make the whole mango.</text>
 
   <!-- legend of senses -->
   <g font-family="sans-serif" font-size="13" fill="#4f6d7a">

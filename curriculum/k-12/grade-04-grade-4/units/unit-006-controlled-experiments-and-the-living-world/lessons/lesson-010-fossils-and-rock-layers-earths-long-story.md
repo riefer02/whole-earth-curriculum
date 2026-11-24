@@ -126,17 +126,32 @@ the way a footprint in mud tells you someone walked there before you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"), and it is the unit's closing lesson, so
-weave in **retrieval practice** — ask learners to recall the tools of measurement, the
-reason for repeated trials, and the water cycle — before and after the new idea. Teach
-layer order with a **worked example** (the stacked-books model), then let learners build
-their own layers (guided practice). Hold origins gently, as philosophy §11 asks: the fossil
-record is a story scientists read from evidence gathered over centuries, held as a story
-grounded in evidence — alongside other traditions' stories of beginnings, which we honor
-without ranking. Keep the global and environment lenses: fossils are found on every
-continent and belong to the shared history of all life, and caring for the Earth is caring
-for a story still being written. This lesson's labeled cross-section is a **summative**
-portfolio artifact for the living-world and Earth strands.
+**Tone.** Curious and steady — a story read from evidence.
+
+**The facts to land.**
+1. Layer order: teach it with the stacked-books worked example, then let learners build
+   their own layers (guided practice).
+2. The fossil record is a story scientists read from evidence gathered over centuries —
+   held as a story grounded in evidence, alongside other traditions' stories of
+   beginnings, honored without ranking (philosophy §11).
+3. Fossils are found on every continent and belong to the shared history of all life.
+4. Retrieval: before and after the new idea, recall the tools of measurement, the reason
+   for repeated trials, and the water cycle.
+
+**Don't overshoot.** Do not present one story of beginnings as the only one, and do not
+rank the others.
+
+**The lenses, briefly.**
+- *Intellectual:* the stacked-books model is the worked example.
+- *Global:* fossils belong to every continent.
+- *Environment:* caring for the Earth is caring for a story still being written.
+- *Critical-thinking:* which layer is older, and how do you know?
+- *Ethics:* origins are held as a story, not a creed.
+
+**The skill.** Read the layers, then explain the order with the evidence.
+
+This closing lesson is also retrieval practice. The labeled cross-section is a
+**summative** portfolio artifact for the living-world and Earth strands.
 
 ## Procedure
 

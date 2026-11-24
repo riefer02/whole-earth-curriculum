@@ -107,12 +107,11 @@ for our bodies.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Teach it without shame.** The words
-are "everyday" and "sometimes" — never "good" and "bad." No child should feel that
-their family's food, culture, or budget is being judged. Some children may not have
-steady access to food; keep the tone warm and matter-of-fact, and never ask a child to
-report what they ate. Frame the sorting as a way to *notice* what helps a body feel
-strong, not a rule to obey or a test to pass.
+**Teach it without shame.** The words are "everyday" and "sometimes" — never "good" and
+"bad." No child should feel that their family's food, culture, or budget is being
+judged. Some children may not have steady access to food; keep the tone warm and
+matter-of-fact, and never ask a child to report what they ate. Frame the sorting as a
+way to *notice* what helps a body feel strong, not a rule to obey or a test to pass.
 
 ## Procedure
 

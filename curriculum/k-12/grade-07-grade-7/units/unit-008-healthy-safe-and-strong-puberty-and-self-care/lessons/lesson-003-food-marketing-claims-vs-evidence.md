@@ -116,16 +116,16 @@ what can be *checked*.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The core skill is exactly the standard:
-**tell a claim apart from evidence.** The facts to land: food marketing worldwide makes
-health-linked promises (energy, growth, naturalness, strength) that are often emotional
-appeals rather than evidence, and advertising aimed at young people is widespread and
-powerful — which is why the WHO recommends limits on marketing foods high in fat, salt,
-and sugar to children (WHO marketing recommendations; WHO healthy diet). The values held
-*as values*: every family's way of eating is honored, and no food is "good" or "bad" — the
-lesson evaluates *claims and evidence*, never a person's food. Keep all examples about
-products, never about any learner's own eating, body, or family. Avoid calorie or diet
-talk entirely. See `docs/facilitation.md`.
+The core skill is exactly the standard: **tell a claim apart from evidence.** The facts
+to land: food marketing worldwide makes health-linked promises (energy, growth,
+naturalness, strength) that are often emotional appeals rather than evidence, and
+advertising aimed at young people is widespread and powerful — which is why the WHO
+recommends limits on marketing foods high in fat, salt, and sugar to children (WHO
+marketing recommendations; WHO healthy diet). The values held *as values*: every
+family's way of eating is honored, and no food is "good" or "bad" — the lesson evaluates
+*claims and evidence*, never a person's food. Keep all examples about products, never
+about any learner's own eating, body, or family. Avoid calorie or diet talk entirely.
+See `docs/facilitation.md`.
 
 ## Procedure
 

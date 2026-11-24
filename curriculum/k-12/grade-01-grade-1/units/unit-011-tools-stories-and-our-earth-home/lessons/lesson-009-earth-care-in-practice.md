@@ -116,21 +116,36 @@ jobs; they are two faces of one act of care for our shared home.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The key move is the *connection*: saving
-water and caring for a living thing are one care, not two. Make both acts real and
-connected — learners turn off a tap, then carry a small, just-enough cup to a plant or
-a bird's dish. Keep the tone hopeful and agentic: learners are helpers, not saviors or
-enemies, and no act is too small. Where water is scarce, this connection is especially
-true and especially dear — a carefully used cup of water for a plant is both a
-waste-less act and a caring act, and it is exactly right to celebrate. Never shame any
-family or place for how they use water; honor the care people already show. For a
-learner with motor differences, the choosing and the directing are the care — they may
-guide a partner's hands to turn off the tap and pour the water while saying how the two
-acts are one; adapt the tools (a light cup, a long-handled tap). A learner who is blind
-or has low vision can hear the tap stop and feel the damp soil after watering, and say
-the connection. A non-speaking learner can point from the tap to the plant to show the
-two acts are connected. This lesson draws on the spirit of education for sustainable
-development (see Resources).
+**Tone.** Hopeful and agentic. Learners are helpers — not saviours, not enemies.
+
+**The facts to land.**
+
+1. The key move is the **connection**: saving water and caring for a living thing are
+   one care, not two.
+2. Make both acts real and connected: turn off a tap, then carry a just-enough cup to a
+   plant or a bird's dish.
+3. Where water is scarce this is especially dear: a carefully used cup for a plant is
+   both waste-less and caring, and worth celebrating.
+4. No act is too small. This lesson draws on the spirit of education for sustainable
+   development (see Resources).
+
+**Don't overshoot.** Never shame any family or place for how they use water. Honour the
+care people already show.
+
+**The lenses, briefly.**
+
+- *Environment:* the water saved is the water given.
+- *Ethics:* care that costs something is still owed.
+- *Egalitarianism:* a learner who directs the action has done the care.
+- *Community:* the habit spreads through the group.
+- *Global:* water is precious in some places, plentiful in others.
+
+**The skill.** Do both acts in sequence, then say how they are one care.
+
+**Access.** Motor difference: guide a partner's hands to turn off the tap and pour the
+water, and say how they are one — adapt the tools (a light cup, a long-handled tap).
+Blind or low-vision: hear the tap stop, feel the damp soil, then say the connection.
+Non-speaking: point from the tap to the plant to show they are connected.
 
 ## Procedure
 

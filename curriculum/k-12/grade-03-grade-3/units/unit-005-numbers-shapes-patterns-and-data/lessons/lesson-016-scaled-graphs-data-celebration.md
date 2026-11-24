@@ -126,17 +126,17 @@ you do what data-keepers do everywhere: ask, collect, scale, graph, and share.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **capstone**, weaving
-together the whole unit. The one new skill is the **scale** — drawing a graph where one
-symbol or square stands for two, five, or ten answers — and using multiplication and
-division to read it. Teach with a **worked example** (philosophy §13) if needed, but
-let the groups drive. The celebration is a festival of mastery, not a competition:
-every graph is honored, every finding is real, and every answer counts exactly once
-(egalitarianism). **No one's graph is "better"; a clear, honest graph is the goal, and
-every learner's contribution matters.** For learners who are Deaf or hard of hearing,
-present findings in sign and point to the bars; for learners who are blind or
-low-vision, build a tactile graph and present by counting aloud. A learner who does not
-speak presents by pointing to symbols and holding up the number. Celebrate every group.
+It is the unit's **capstone**, weaving together the whole unit. The one new skill is the
+**scale** — drawing a graph where one symbol or square stands for two, five, or ten
+answers — and using multiplication and division to read it. Teach with a **worked
+example** (philosophy §13) if needed, but let the groups drive. The celebration is a
+festival of mastery, not a competition: every graph is honored, every finding is real,
+and every answer counts exactly once (egalitarianism). **No one's graph is "better"; a
+clear, honest graph is the goal, and every learner's contribution matters.** For
+learners who are Deaf or hard of hearing, present findings in sign and point to the
+bars; for learners who are blind or low-vision, build a tactile graph and present by
+counting aloud. A learner who does not speak presents by pointing to symbols and holding
+up the number. Celebrate every group.
 
 ## Procedure
 

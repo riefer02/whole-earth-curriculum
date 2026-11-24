@@ -111,12 +111,12 @@ tells the whole story.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the mean is a
-central value (sum ÷ count); the range is a spread (largest − smallest); and a single
-outlier pulls the mean away from the typical value, while the range is exactly what
-catches that spread.** Teach the computation with a worked example first — for a
-procedural skill like this, explicit instruction with guided practice beats discovery
-(S-011). Then let learners compute, self-check, and check each other.
+The idea to land: **the mean is a central value (sum ÷ count); the range is a spread
+(largest − smallest); and a single outlier pulls the mean away from the typical value,
+while the range is exactly what catches that spread.** Teach the computation with a
+worked example first — for a procedural skill like this, explicit instruction with
+guided practice beats discovery (S-011). Then let learners compute, self-check, and
+check each other.
 
 The **critical-thinking** lens: every summary is a choice — what did the person choose
 to show, and what did they leave out? The **ethics** lens: numbers are used to make

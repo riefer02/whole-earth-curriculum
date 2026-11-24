@@ -119,16 +119,15 @@ a maker, a builder, and a scientist all at once.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill is a chain — **feel the
-property → name it → connect it to a job** — so model the whole chain once, then guide,
-then release. Use real objects learners can touch; touch is the concrete anchor. Honor
-global variety: houses are made of mud brick, wood, stone, or ice in different places,
-and cups of clay, glass, gourd, or metal — the same job done by different materials,
-each chosen for what the place has and what the job needs. A light environmental and
-technology lens: some materials can be used again and again, and some are thrown away —
-wonder together about choosing materials that last and can be reused, without fear or
-blame. Note the safety of glass for very young hands and swap in a clear plastic cup
-where needed.
+The skill is a chain — **feel the property → name it → connect it to a job** — so model
+the whole chain once, then guide, then release. Use real objects learners can touch;
+touch is the concrete anchor. Honor global variety: houses are made of mud brick, wood,
+stone, or ice in different places, and cups of clay, glass, gourd, or metal — the same
+job done by different materials, each chosen for what the place has and what the job
+needs. A light environmental and technology lens: some materials can be used again and
+again, and some are thrown away — wonder together about choosing materials that last and
+can be reused, without fear or blame. Note the safety of glass for very young hands and
+swap in a clear plastic cup where needed.
 
 ## Procedure
 

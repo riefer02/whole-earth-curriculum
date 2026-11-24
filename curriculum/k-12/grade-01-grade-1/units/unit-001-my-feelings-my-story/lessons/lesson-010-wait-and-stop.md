@@ -120,11 +120,11 @@ choose our actions instead of just reacting.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Keep the "stop" cue calm and kind —
-an open palm and a soft word, never a shout or a threat. Wait and stop are skills to
-be built with support and patience, not obedience drills. The capstone is a
-celebration, not a test: every learner shares what they can, and every share is
-honored. Offer the frame and let learners choose which piece to share.
+Keep the "stop" cue calm and kind — an open palm and a soft word, never a shout or a
+threat. Wait and stop are skills to be built with support and patience, not obedience
+drills. The capstone is a celebration, not a test: every learner shares what they can,
+and every share is honored. Offer the frame and let learners choose which piece to
+share.
 
 ## Procedure
 

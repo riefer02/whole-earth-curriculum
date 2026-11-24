@@ -12,13 +12,21 @@
   <g>
     <rect x="24" y="70" width="170" height="270" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="109" y="96" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">me then</text>
-    <!-- younger child -->
-    <circle cx="109" cy="168" r="30" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="100" cy="162" r="3.5" fill="#2b3a42"/>
-    <circle cx="118" cy="162" r="3.5" fill="#2b3a42"/>
-    <path d="M97 176 Q109 188 121 176" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <!-- smaller body -->
-    <path d="M109 198 q-22 26 0 44 q22 -18 0 -44" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <!-- younger child: one soft silhouette, smaller and rounder -->
+    <g fill="#e6bb92">
+      <circle cx="109" cy="132" r="20"/>
+      <rect x="104" y="150" width="11" height="14" rx="5"/>
+      <rect x="93" y="164" width="33" height="50" rx="15"/>
+      <path d="M 96 172 Q 88 188 91 202" stroke="#e6bb92" stroke-width="10" stroke-linecap="round" fill="none"/>
+      <path d="M 123 172 Q 131 188 128 202" stroke="#e6bb92" stroke-width="10" stroke-linecap="round" fill="none"/>
+      <path d="M 101 212 L 99 246" stroke="#e6bb92" stroke-width="14" stroke-linecap="round" fill="none"/>
+      <path d="M 118 212 L 120 246" stroke="#e6bb92" stroke-width="14" stroke-linecap="round" fill="none"/>
+      <ellipse cx="97" cy="249" rx="9" ry="5"/>
+      <ellipse cx="122" cy="249" rx="9" ry="5"/>
+    </g>
+    <circle cx="102" cy="127" r="2.8" fill="#2b3a42"/>
+    <circle cx="116" cy="127" r="2.8" fill="#2b3a42"/>
+    <path d="M100 141 Q109 150 118 141" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <text x="109" y="272" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">one favorite game</text>
     <text x="109" y="294" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">scared of the dark</text>
   </g>
@@ -31,13 +39,21 @@
   <g>
     <rect x="318" y="70" width="170" height="270" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="403" y="96" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">me now</text>
-    <!-- older young person -->
-    <circle cx="403" cy="168" r="30" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="394" cy="162" r="3.5" fill="#2b3a42"/>
-    <circle cx="412" cy="162" r="3.5" fill="#2b3a42"/>
-    <path d="M393 178 Q403 187 413 178" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <!-- taller body -->
-    <path d="M403 198 q-24 34 0 60 q24 -26 0 -60" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <!-- older young person: one soft silhouette, taller and squarer -->
+    <g fill="#8f5f3d">
+      <circle cx="403" cy="124" r="21"/>
+      <rect x="397" y="143" width="12" height="16" rx="5"/>
+      <rect x="385" y="157" width="36" height="62" rx="15"/>
+      <path d="M 388 166 Q 380 188 383 204" stroke="#8f5f3d" stroke-width="11" stroke-linecap="round" fill="none"/>
+      <path d="M 418 166 Q 426 188 423 204" stroke="#8f5f3d" stroke-width="11" stroke-linecap="round" fill="none"/>
+      <path d="M 395 217 L 392 248" stroke="#8f5f3d" stroke-width="16" stroke-linecap="round" fill="none"/>
+      <path d="M 411 217 L 414 248" stroke="#8f5f3d" stroke-width="16" stroke-linecap="round" fill="none"/>
+      <ellipse cx="390" cy="251" rx="10" ry="5"/>
+      <ellipse cx="416" cy="251" rx="10" ry="5"/>
+    </g>
+    <circle cx="396" cy="119" r="3" fill="#2b3a42"/>
+    <circle cx="410" cy="119" r="3" fill="#2b3a42"/>
+    <path d="M394 135 Q403 143 412 135" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <text x="403" y="272" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">three sports,</text>
     <text x="403" y="294" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">many books</text>
     <text x="403" y="316" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">still keeps promises</text>

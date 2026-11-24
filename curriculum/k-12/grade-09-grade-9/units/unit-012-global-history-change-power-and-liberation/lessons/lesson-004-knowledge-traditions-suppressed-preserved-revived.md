@@ -113,29 +113,38 @@ stories.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **colonialism and
-conquest can suppress a knowledge tradition — through burning books, banning languages and
-practices, or forcing a foreign system of record-keeping — but knowledge survives in
-people, and it can be revived.** Three documented cases: **(1) The Maya.** The Maya built
-a civilization (Classic period ~250–900 CE) with writing, astronomy, and a precise
-calendar; Spanish colonial authorities destroyed most of their bark-paper codices, and
-only a few survive — among them the Dresden Codex with its astronomical tables — yet Maya
-peoples still speak their languages and scholars and communities now study and revive
-Maya mathematics and astronomy (S-378, S-474). **(2) The Timbuktu manuscripts.** Under
-Songhai rule (1464–1591), Timbuktu was a center of learning whose families copied and kept
-thousands of manuscripts on law, astronomy, medicine, and mathematics; threatened and
-damaged by conquest and conflict, they were rescued and hidden by families, and many are
-now preserved and digitized (S-268, S-201). **(3) The khipu.** The Inka and their
-predecessors recorded numbers and information in knotted cords called khipu; the Spanish
-colonial administration suppressed them as a record-keeping system, and their full reading
-was largely lost — but surviving khipu are now the subject of careful study and community
-revival (S-473). This is a *concept* lesson, so let inquiry and story carry it, with the
-three-step path as the scaffold (philosophy §13). The **ethics** lens: what is owed to the
-keepers of lost knowledge? The **egalitarian** lens: whose knowledge counts as "real"
-knowledge, and who decides? The **global** lens: these are three of many such stories on
-every continent. The **technology** lens: digitization is now helping revive and share
-endangered knowledge — a tool with power and limits. Handle with care and hope: always end
-on revival and agency, never only on loss (facilitation.md).
+**Tone.** Grave, then hopeful — always end on revival.
+
+**The facts to land.**
+
+1. **Colonialism and conquest can suppress a knowledge tradition** — by burning books,
+banning languages and practices, or forcing a foreign system of record-keeping — but
+knowledge survives in people, and can be revived.
+2. **Three documented cases:**
+
+- **The Maya.** A civilization (Classic period ~250–900 CE) with writing, astronomy, and
+a precise calendar; Spanish authorities destroyed most bark-paper codices — a few
+survive, including the Dresden Codex — yet Maya peoples still speak their languages, and
+scholars now revive Maya mathematics and astronomy (S-378, S-474).
+- **The Timbuktu manuscripts.** Under Songhai rule (1464–1591), families copied and kept
+thousands of manuscripts on law, astronomy, medicine, and mathematics; threatened by
+conquest, they hid them, and many are now preserved and digitized (S-268, S-201).
+- **The khipu.** The Inka recorded numbers and information in knotted cords; the Spanish
+administration suppressed them, and their full reading was largely lost — but surviving
+khipu are now carefully studied and revived (S-473).
+
+**The lenses, briefly.**
+
+- *Ethics:* what is owed to the keepers of lost knowledge?
+- *Egalitarianism:* whose knowledge counts as "real", and who decides?
+- *Global:* these are three of many such stories on every continent.
+- *Technology:* digitization helps revive and share endangered knowledge — a tool with
+power and limits.
+
+**The skill.** Let inquiry and story carry it, with the suppressed → preserved → revived
+path as the scaffold (philosophy §13).
+
+**Care.** Handle with hope: end on agency, never only on loss (facilitation.md).
 
 ## Procedure
 

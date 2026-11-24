@@ -119,27 +119,36 @@ panic into a plan, and the plan is the same in a city, a village, a field, or a 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **emergency response is three
-calm moves — check the scene and person, call the emergency number, care within your limits —
-and calling for help and knowing your limits are themselves first aid.** Teach the sequence
-explicitly as a worked example, then let learners rehearse the safe parts (S-011). Keep it
-empowering, never frightening: the message is *you can do this*, not *danger is everywhere.*
-Two safety rules are non-negotiable: learners **never practice thrusts or CPR on a peer**, and
-hands-on skills are **learned from a certified instructor**, not from this lesson alone
-(S-082, S-313). Emergency numbers are region-specific — 112, 999, 911, 000, and local numbers
-differ — so the card always carries the learner's own local number, filled in locally (S-195).
+**Tone.** Calm: *you can do this* — not *danger is everywhere*.
 
-The **ethics** lens: an emergency is a moment where another person's life may depend on you —
-the ethical core is *act to help, and do no further harm*, which is exactly why we learn limits.
-The **egalitarianism** lens: first aid belongs to everyone, not to professionals — the nearest
-person, of any background, is the one who can begin help. The **global** lens: emergency
-numbers and services differ worldwide, and the basic moves are international — the IFRC's
-guidelines are taught across more than 190 countries (S-082). The **technology** lens: a
-phone can summon help in seconds and guide an untrained responder, but it cannot replace the
-person who checks and cares. The **environment** lens: scene safety is environmental awareness
-— check for traffic, fire, water, or unstable ground before you approach. Preview: this closes
-the unit; the capstone portfolio gathers the lifelong plan, the caregiving circle, and this
-card.
+**The facts to land.**
+
+1. Emergency response is three calm moves — check the scene and the person, call the
+   emergency number, care within your limits — and calling for help is itself first aid.
+2. Emergency numbers are region-specific (112, 999, 911, 000), so the card always
+   carries the learner's own local number, filled in locally (S-195); the basic moves
+   are international, taught by the IFRC in more than 190 countries (S-082).
+3. Learners never practise thrusts or CPR on a peer; hands-on skills come from a
+   certified instructor, not this lesson alone (S-082, S-313).
+
+**Don't overshoot.** Do not let the lesson become a rehearsal of catastrophe; rehearse
+the safe parts and the calling.
+
+**The lenses, briefly.**
+
+- *Ethics:* act to help and do no further harm — which is exactly why we learn our
+  limits.
+- *Egalitarianism:* first aid belongs to everyone; the nearest person, of any
+  background, begins help.
+- *Global:* numbers and services differ worldwide; the moves are the same.
+- *Technology:* a phone summons help in seconds and guides an untrained responder, but
+  cannot replace the person who checks and cares.
+- *Environment:* scene safety is environmental awareness — traffic, fire, water,
+  unstable ground — before you approach.
+
+**The skill.** Teach the sequence explicitly, then rehearse the safe parts (S-011):
+check, call, care, and say your limit aloud. This closes the unit; the portfolio gathers
+the plan, the circle, and this card.
 
 ## Procedure
 

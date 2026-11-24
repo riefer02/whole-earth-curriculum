@@ -58,7 +58,7 @@ context_variants:
     note: Use a quiet spot outside for the body scan; describe how the wind, sun, or ground feels as a warm-up to noticing inner signals
 assets:
   - path: assets/images/L.04.001.02-body-signals.svg
-    alt: Three simple person outlines side by side, each labeled with a feeling strength. The "a little" figure shows a small flutter near the stomach. The "some" figure shows warmth and a faster heartbeat at the chest. The "a lot" figure shows heat, tight shoulders, and shaking hands. A caption reads "My body tells me how strong my feeling is."
+    alt: "Three people one above another, each labelled by a leader line. “A little” — a small flutter on the stomach, labelled “flutter in the tummy”. “Some” (wearing a hearing aid) — a heart at the chest with motion lines, labelled “heart beats faster, skin warms”. “A lot” — jitter marks at the shoulders and hands, labelled “hot and tight, shaky all over”. Caption — my body tells me how strong a feeling is."
     kind: image
     source: original
 duration_minutes: 45
@@ -119,13 +119,13 @@ Bodies everywhere speak the same quiet language.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Body awareness (called *interoception* —
-sensing signals from inside the body) is a real skill and grows with practice. Keep the
-body scan slow and optional — some learners may not feel comfortable closing their eyes;
-they may keep eyes open and that is fine. Model the three levels on yourself first
-(worked example), then let learners find their own signals. A learner's body may not
-match the "typical" list — every body is different, and that is the point: their body is
-their own honest messenger. See `docs/facilitation.md` on holding big feelings safely.
+Body awareness (called *interoception* — sensing signals from inside the body) is a real
+skill and grows with practice. Keep the body scan slow and optional — some learners may
+not feel comfortable closing their eyes; they may keep eyes open and that is fine. Model
+the three levels on yourself first (worked example), then let learners find their own
+signals. A learner's body may not match the "typical" list — every body is different,
+and that is the point: their body is their own honest messenger. See
+`docs/facilitation.md` on holding big feelings safely.
 
 ## Procedure
 

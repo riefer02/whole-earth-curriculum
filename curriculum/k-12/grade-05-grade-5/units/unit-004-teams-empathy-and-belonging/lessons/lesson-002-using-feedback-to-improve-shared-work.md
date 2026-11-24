@@ -116,13 +116,12 @@ one change and make it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **feedback becomes
-learning only when it is used** — hear it, choose one change, make it. Model the
-before-and-after loop explicitly; this is a skill, so worked examples and guided practice
-come before independent work (Kirschner, Sweller & Clark, 2006). Guard against the trap
-of "I heard you" without a real change: the change is the evidence. Praise the *change*,
-not just the politeness. Keep the shared thing small and safe so learners can risk
-changing it. See `docs/facilitation.md`.
+The idea to land is that **feedback becomes learning only when it is used** — hear it,
+choose one change, make it. Model the before-and-after loop explicitly; this is a skill,
+so worked examples and guided practice come before independent work (Kirschner, Sweller
+& Clark, 2006). Guard against the trap of "I heard you" without a real change: the
+change is the evidence. Praise the *change*, not just the politeness. Keep the shared
+thing small and safe so learners can risk changing it. See `docs/facilitation.md`.
 
 ## Procedure
 

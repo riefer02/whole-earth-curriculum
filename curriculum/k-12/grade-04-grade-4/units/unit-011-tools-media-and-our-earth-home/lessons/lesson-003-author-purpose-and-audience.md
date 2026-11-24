@@ -125,19 +125,35 @@ eyes — you see *who* is speaking, *why*, and *to whom*.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Grade 3 named a message's **purpose** and
-**audience**; Grade 4 adds the **author** and, crucially, asks learners to **explain how author
-and audience shape the message**. Model the three questions — *who made it? what is it for? who
-is it for?* — and the "how it shapes it" sentence once, then guide a second message before
-independent work (Kirschner, Sweller & Clark, 2006). Keep the media stance warm, not suspicious:
-naming an author, purpose, and audience is *understanding*, not catching someone out — the
-health worker wants to help you stay well, and the toy company wants you to want the toy; both
-are honest once you can see them. Use messages from many places and lives — a market notice, a
-road sign, a song, a menu — so no one home is the default; a spoken story or song is a real
-message with an author, purpose, and audience too. Honor every body: read each message aloud
-for a learner who is blind or has low vision and let them name author, purpose, and audience by
-voice; a non-speaking learner points to the author, purpose word, and audience picture; acting
-out each message works for learners who learn best by moving.
+**Tone.** Warm and curious — naming an author is understanding, not catching someone
+out.
+
+**The facts to land.**
+1. Grade 3 named a message's **purpose** and **audience**; Grade 4 adds the **author**,
+   and asks how author and audience shape the message.
+2. The health worker wants to help you stay well; the toy company wants you to want the
+   toy — both are honest once you can see them.
+3. A spoken story or song is a real message with an author, purpose, and audience too.
+
+**Don't overshoot.** Do not let the questions turn into suspicion of whoever made the
+message.
+
+**The lenses, briefly.**
+- *Critical-thinking:* three questions, then a "how it shapes it" sentence.
+- *Technology:* the same questions work on a screen, a sign, a song.
+- *Egalitarianism:* no audience is worth less than another.
+- *Global:* a market notice, a road sign, a song, a menu; no home is the default.
+
+**The skill.** Ask *who made it? what is it for? who is it for?* — then say how that
+shaped it.
+
+Model all three questions and the sentence once, then guide a second message before
+independent work (Kirschner, Sweller & Clark, 2006).
+
+**Access:** read each message aloud for a learner who is blind or has low vision and let
+them answer by voice; a learner who does not speak points to the author, the purpose
+word, and the audience picture; acting out each message works for learners who learn by
+moving.
 
 ## Procedure
 

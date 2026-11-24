@@ -112,24 +112,24 @@ your genes are active, and so help shape who you become.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **genotype is the
-instructions, phenotype is the result, and expression is the volume control — the
-environment turns genes up, down, on, and off, so the same genotype can produce very
-different phenotypes.** Teach the switchboard explicitly (S-011), then let learners
-apply it. This lesson carries a strong egalitarian point: because environment shapes
-expression, two children with equal potential can develop very differently under
-unequal conditions — a fact that points to fairness, not blame.
+The idea to land: **genotype is the instructions, phenotype is the result, and
+expression is the volume control — the environment turns genes up, down, on, and off, so
+the same genotype can produce very different phenotypes.** Teach the switchboard
+explicitly (S-011), then let learners apply it. This lesson carries a strong egalitarian
+point: because environment shapes expression, two children with equal potential can
+develop very differently under unequal conditions — a fact that points to fairness, not
+blame.
 
 The **ethics** lens: understanding that environment shapes expression turns "he's just
-built that way" into a question — what conditions shaped this? — which is the
-beginning of responsibility. The **egalitarian** lens: unequal environments produce
-unequal outcomes from equal potential; growth is measured against a wide normal range,
-not a single number (S-177). The **environment** lens: the same logic runs through the
-living world — a crop's yield, a tree's shape, an animal's size all depend on what its
+built that way" into a question — what conditions shaped this? — which is the beginning
+of responsibility. The **egalitarian** lens: unequal environments produce unequal
+outcomes from equal potential; growth is measured against a wide normal range, not a
+single number (S-177). The **environment** lens: the same logic runs through the living
+world — a crop's yield, a tree's shape, an animal's size all depend on what its
 surroundings switch on. The **global** lens: identical twins raised apart, or the same
-seed grown on two continents, show how much of any trait is environment — a reminder
-to be humble before any claim that a difference is "just in the genes." Preview:
-Lesson 7 moves from the gene to the ecosystem and asks how human activity disrupts it.
+seed grown on two continents, show how much of any trait is environment — a reminder to
+be humble before any claim that a difference is "just in the genes." Preview: Lesson 7
+moves from the gene to the ecosystem and asks how human activity disrupts it.
 
 ## Procedure
 

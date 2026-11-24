@@ -128,17 +128,16 @@ together so others can understand.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is a synthesis lesson, so use a
-**worked example first** — draw one diagram together on the board, pointing to each part,
-arrow, and label — then let learners draw their own (guided practice) and self-check
-against the checklist. Feedback is built in three ways: the checklist (self), a
-partner-check (peer), and your glance (observation). Keep the egalitarian lens: the
-diagram must show that the nonliving parts and the small creatures matter as much as the
-big ones — a worm or a patch of soil belongs in the picture as much as a lion. Encourage
-ecosystems from many places (a rice paddy, a coral reef, a desert, a city park) so every
-learner can draw a home that is theirs (global lens). This artifact is kept for the unit
-portfolio; celebrate each diagram, and let a learner who is not finished return to it —
-"not yet" is information, never a verdict.
+It is a synthesis lesson, so use a **worked example first** — draw one diagram together
+on the board, pointing to each part, arrow, and label — then let learners draw their own
+(guided practice) and self-check against the checklist. Feedback is built in three ways:
+the checklist (self), a partner-check (peer), and your glance (observation). Keep the
+egalitarian lens: the diagram must show that the nonliving parts and the small creatures
+matter as much as the big ones — a worm or a patch of soil belongs in the picture as
+much as a lion. Encourage ecosystems from many places (a rice paddy, a coral reef, a
+desert, a city park) so every learner can draw a home that is theirs (global lens). This
+artifact is kept for the unit portfolio; celebrate each diagram, and let a learner who
+is not finished return to it — "not yet" is information, never a verdict.
 
 ## Procedure
 

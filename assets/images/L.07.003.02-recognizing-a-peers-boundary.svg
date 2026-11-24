@@ -4,32 +4,56 @@
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="48" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Reading a peer's boundary</text>
 
-  <!-- Left figure (approaching) -->
-  <g>
-    <circle cx="150" cy="230" r="30" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="142" cy="224" r="3" fill="#2b3a42"/>
-    <circle cx="158" cy="224" r="3" fill="#2b3a42"/>
-    <path d="M144 240 Q150 246 156 240" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M150 260 L150 330" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M150 330 L128 380 M150 330 L172 380" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M118 292 L182 292" stroke="#2b3a42" stroke-width="2"/>
-    <text x="150" y="388" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">pauses, steps back</text>
+  <!-- Left figure (approaching): pauses, steps back -->
+  <g transform="translate(0,-18) rotate(-6 150 378)">
+    <g fill="#e6bb92">
+      <circle cx="150" cy="222" r="23"/>
+      <rect x="144" y="242" width="12" height="16" rx="5"/>
+      <rect x="126" y="256" width="48" height="72" rx="20"/>
+      <path d="M 130 264 Q 118 286 122 306" stroke="#e6bb92" stroke-width="12" stroke-linecap="round" fill="none"/>
+      <path d="M 170 264 Q 182 286 178 306" stroke="#e6bb92" stroke-width="12" stroke-linecap="round" fill="none"/>
+      <path d="M 139 326 L 135 370" stroke="#e6bb92" stroke-width="18" stroke-linecap="round" fill="none"/>
+      <path d="M 161 326 L 165 370" stroke="#e6bb92" stroke-width="18" stroke-linecap="round" fill="none"/>
+      <ellipse cx="133" cy="374" rx="12" ry="6"/>
+      <ellipse cx="167" cy="374" rx="12" ry="6"/>
+    </g>
+    <circle cx="142" cy="217" r="3.2" fill="#2b3a42"/>
+    <circle cx="158" cy="217" r="3.2" fill="#2b3a42"/>
+    <path d="M141 234 Q150 241 159 234" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   </g>
 
-  <!-- Right figure (setting boundary) -->
+  <text x="150" y="388" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">pauses, steps back</text>
+
+  <!-- Right figure (setting a boundary): a wheelchair user, open palm out -->
   <g>
-    <circle cx="350" cy="230" r="30" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="342" cy="224" r="3" fill="#2b3a42"/>
-    <circle cx="358" cy="224" r="3" fill="#2b3a42"/>
-    <path d="M344 242 Q350 238 356 242" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M350 260 L350 320" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M350 320 L330 376 M350 320 L370 376" stroke="#2b3a42" stroke-width="2"/>
-    <!-- raised open palm -->
-    <path d="M318 296 L382 296" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M318 296 L318 262 L336 252 L336 296" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- chair -->
+    <circle cx="360" cy="336" r="34" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <circle cx="360" cy="336" r="5" fill="#2b3a42"/>
+    <circle cx="330" cy="362" r="7" fill="none" stroke="#2b3a42" stroke-width="3"/>
+    <rect x="332" y="298" width="56" height="9" rx="4" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="382" y="252" width="9" height="50" rx="4" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M 334 350 L 312 350" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <path d="M 382 302 L 394 340" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+    <!-- person -->
+    <g fill="#8f5f3d">
+      <circle cx="358" cy="224" r="21"/>
+      <rect x="352" y="243" width="12" height="16" rx="5"/>
+      <rect x="342" y="256" width="38" height="48" rx="16"/>
+      <path d="M 358 300 L 322 306" stroke="#8f5f3d" stroke-width="16" stroke-linecap="round" fill="none"/>
+      <path d="M 322 306 L 318 342" stroke="#8f5f3d" stroke-width="14" stroke-linecap="round" fill="none"/>
+      <ellipse cx="314" cy="346" rx="10" ry="5"/>
+      <path d="M 344 266 L 328 282 L 312 266" stroke="#8f5f3d" stroke-width="12" stroke-linecap="round"
+            stroke-linejoin="round" fill="none"/>
+    </g>
+    <!-- open palm: the boundary signal -->
+    <path d="M 310 268 q -8 -2 -10 -10 q -1 -7 5 -7 q 6 0 8 6 q -6 -12 1 -14 q 6 -2 8 8 q -2 -12 5 -12 q 6 0 6 11 q 0 12 -10 18 z"
+          fill="#8f5f3d"/>
+    <circle cx="350" cy="219" r="3" fill="#2b3a42"/>
+    <circle cx="366" cy="219" r="3" fill="#2b3a42"/>
+    <path d="M349 236 Q358 232 367 236" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <!-- speech bubble -->
     <path d="M356 150 L420 150 L420 120 L392 120 L376 104 L370 120 L356 120 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="388" y="140" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">no thanks</text>
+    <text x="388" y="140" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">no thanks</text>
   </g>
 
   <!-- Cue cards -->

@@ -112,16 +112,14 @@ and how it makes you feel.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Choose an artwork that is safe and warm for young learners —
-something they can notice and feel without distress. Honor the maker and the culture
-it comes from as a living people's work, not a museum piece; do not tokenize sacred
-objects. Remember there is no "correct" notice or feeling — every answer is welcome,
-and "I notice the color" is just as true as "I notice the shape." A learner who is
-blind or has low vision receives the artwork by **touch or description**: a woven
-cloth to feel, a carved surface to trace, or a careful spoken description. A learner
-who does not speak notices by pointing or gesturing, and shows a feeling with their
-face or hands.
+Choose an artwork that is safe and warm for young learners — something they can notice
+and feel without distress. Honor the maker and the culture it comes from as a living
+people's work, not a museum piece; do not tokenize sacred objects. Remember there is no
+"correct" notice or feeling — every answer is welcome, and "I notice the color" is just
+as true as "I notice the shape." A learner who is blind or has low vision receives the
+artwork by **touch or description**: a woven cloth to feel, a carved surface to trace,
+or a careful spoken description. A learner who does not speak notices by pointing or
+gesturing, and shows a feeling with their face or hands.
 
 ## Procedure
 

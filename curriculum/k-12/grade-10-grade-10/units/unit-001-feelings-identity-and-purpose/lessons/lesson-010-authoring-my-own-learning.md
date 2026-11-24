@@ -116,31 +116,39 @@ getting there.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **self-directed
-learning is a skill with a structure — choose a goal, gather resources, check progress,
-adjust — and it is teachable, not a mysterious gift.** The evidence: self-paced,
-self-directed learning works in real classrooms, especially when learners have clear
-guides and when they are grouped and supported appropriately (Escuela Nueva, S-008;
-Montessori's mixed-age self-directed model, S-014), and mastery/feedback loops are among
-the strongest learning levers (Bloom's 2-sigma work, S-007). Hold the nuance: the
-"Hole-in-the-Wall" version of unsupervised self-teaching is *contested* — treat
-self-direction as a *structured, supported* skill, not a miracle (S-013; philosophy §6,
-§13). This lesson is the explicit-instruction side of a skill (S-011): model the plan,
-then guide, then release.
+**Tone.** Practical and encouraging: self-direction is a structure to teach, not a gift
+some learners have and others lack.
 
-Model a complete worked example, then let learners practice (S-011). The **intellectual**
-lens: this is metacognition made concrete — planning, monitoring, and adjusting one's own
-learning. The **ethics** lens: a good goal is chosen with honesty (is it really mine, and
-is it fair to my own limits?) — not inflated to impress. The **egalitarian** lens:
-self-direction is for *everyone*, not just the already-advantaged; a goal can be to read
-one book, fix one thing, or learn one song — worth is not measured in scale. The
-**global** lens: self-paced learning guides are a real, widely used method across the
-world (Escuela Nueva, S-008) — this is not one culture's luxury but a global practice.
-The **technology & environment** lens: digital tools can be powerful resources (and
-distractions) — choose resources that serve the goal, and name the distraction you will
-manage. The **social-emotional** lens: choosing a goal can stir both hope and
-self-doubt; keep the goal small enough to start and real enough to matter, and honor
-"not sure yet" as a valid place to begin.
+**The facts to land.**
+
+1. Self-directed learning is a skill with a structure — choose a goal, gather resources,
+   check progress, adjust.
+2. It works in real classrooms when learners have clear guides and support: Escuela
+   Nueva (S-008), Montessori's mixed-age model (S-014), and mastery/feedback loops,
+   among the strongest learning levers (S-007).
+3. Unsupervised "Hole-in-the-Wall" self-teaching is contested (S-013): self-direction is
+   *structured and supported*, not a miracle (philosophy §6, §13).
+
+**Don't overshoot.** Don't sell self-direction as a substitute for teaching. This is the
+explicit-instruction side of a skill (S-011): model the plan, guide, then release.
+
+**The lenses, briefly.**
+
+- *Intellectual:* metacognition made concrete — planning, monitoring, adjusting.
+- *Ethics:* a good goal is chosen honestly, not inflated to impress.
+- *Egalitarianism:* self-direction is for everyone; a goal can be one book, one repair,
+  one song — worth is not measured in scale.
+- *Global:* self-paced learning guides are used across the world (S-008), not one
+  culture's luxury.
+- *Social-emotional:* goals stir hope and self-doubt; keep it small enough to start, and
+  honour "not sure yet".
+
+- *Technology:* digital tools are resources *and* distractions; name the one you will
+  manage.
+- *Critical-thinking:* a goal you cannot check is a wish, not a plan.
+
+**The skill.** Model a complete worked example, then release (S-011): write one goal,
+one resource, one way to check.
 
 ## Procedure
 
@@ -195,3 +203,4 @@ a week — a human "milestone" on your loop.
   <https://doi.org/10.1177/1529100612453266> (S-039).
 - On modeling + guided practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- Mitra — Hole in the Wall / Self-Organized Learning Environments (SOLE) (S-013).

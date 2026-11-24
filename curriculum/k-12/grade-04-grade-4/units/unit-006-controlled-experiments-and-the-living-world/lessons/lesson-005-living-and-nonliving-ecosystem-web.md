@@ -122,16 +122,16 @@ part and everyone notices.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Teach with a **worked example** — model one
-connection ("the plant depends on sunlight") — then let learners build the web together
-(guided practice) before drawing their own. The central value: an ecosystem is a *circle
-of dependence*, not a ladder; the nonliving parts — soil, water, sunlight, air — are not
-"background" but full partners in keeping life alive (the egalitarian, ethics, and
-environment lenses). Use ecosystems from many places — a rice paddy, a coral reef, a
-desert, a forest — so no single landscape is the default (global lens). This is evidence
-from ecology, gathered by observing many places over many years; hold it with wonder and
-care. The web activity doubles as a kinesthetic and social lesson: everyone holds the
-string, and everyone matters.
+Teach with a **worked example** — model one connection ("the plant depends on
+sunlight") — then let learners build the web together (guided practice) before drawing
+their own. The central value: an ecosystem is a *circle of dependence*, not a ladder;
+the nonliving parts — soil, water, sunlight, air — are not "background" but full
+partners in keeping life alive (the egalitarian, ethics, and environment lenses). Use
+ecosystems from many places — a rice paddy, a coral reef, a desert, a forest — so no
+single landscape is the default (global lens). This is evidence from ecology, gathered
+by observing many places over many years; hold it with wonder and care. The web activity
+doubles as a kinesthetic and social lesson: everyone holds the string, and everyone
+matters.
 
 ## Procedure
 

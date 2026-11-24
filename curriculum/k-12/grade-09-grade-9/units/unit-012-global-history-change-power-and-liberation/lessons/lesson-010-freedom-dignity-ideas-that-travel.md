@@ -112,25 +112,40 @@ part of their story.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the **capstone and synthesis**, so the
-goals are to **(1) trace how ideas of freedom and dignity spread — not as inevitable
-progress but through people's deliberate struggle; and (2) place the learner in the long,
-unfinished story.** Four documented cases: **(1) abolition** — the movement to end
-slavery, for which the Haitian Revolution (1791–1804) was a world-changing turning point,
-followed by abolition across the 1800s (S-479, S-384); **(2) universal human rights** — the
-Universal Declaration of Human Rights (1948) declared dignity for all, though it has been
-criticized as reflecting some traditions more than others, and it remains contested and
-unfinished (S-149); **(3) pan-African unity** — the idea that peoples of African descent
-share a common struggle and future, carried by figures such as Kwame Nkrumah and the
-independence wave of the mid-1900s (S-276); **(4) the end of apartheid** — the long
-struggle, within South Africa and worldwide, that ended legal racial segregation in 1994
-(S-480). The **ethics** lens: these ideas are moral claims about how people *ought* to be
-treated — distinguish them from factual claims (philosophy §5). The **egalitarian** lens:
-who has been included in "freedom for all," and who has been left out? The **global**
-lens: these ideas did not come from one continent — they were forged by enslaved people,
-colonized peoples, and their allies everywhere. The **critical-thinking** lens: progress
-is real but never finished; ideas are both spread *and* contested. End on **agency and
-hope, never nihilism** (philosophy §12): the learner is a co-author of what happens next.
+**Tone.** Hopeful and unsentimental — progress real, unfinished.
+
+**The facts to land.**
+
+1. **Ideas of freedom and dignity spread** — not as inevitable progress but through
+people's deliberate struggle.
+2. **Four documented cases:**
+
+- **Abolition** — the movement to end slavery, for which the Haitian Revolution
+(1791–1804) was a world-changing turning point, followed by abolition across the 1800s
+(S-479, S-384).
+- **Universal human rights** — the Universal Declaration of Human Rights (1948) declared
+dignity for all, though it has been criticised as reflecting some traditions more than
+others, and it remains contested and unfinished (S-149).
+- **Pan-African unity** — the idea that peoples of African descent share a common
+struggle and future, carried by figures such as Kwame Nkrumah and the independence wave
+of the mid-1900s (S-276).
+- **The end of apartheid** — the long struggle, inside South Africa and worldwide, that
+ended legal racial segregation in 1994 (S-480).
+
+**The lenses, briefly.**
+
+- *Ethics:* these are moral claims about how people *ought* to be treated — distinct
+from factual claims (philosophy §5).
+- *Egalitarianism:* who has been included in "freedom for all", and who left out?
+- *Global:* these ideas did not come from one continent — they were forged by enslaved
+and colonized peoples and their allies everywhere.
+- *Critical-thinking:* progress is real but never finished; ideas are spread *and*
+contested.
+
+**The skill.** Trace one idea across two cases, and name who pushed it forward.
+
+**Close.** End on **agency and hope, never nihilism** (philosophy §12): the learner is a
+co-author of what happens next.
 
 ## Procedure
 

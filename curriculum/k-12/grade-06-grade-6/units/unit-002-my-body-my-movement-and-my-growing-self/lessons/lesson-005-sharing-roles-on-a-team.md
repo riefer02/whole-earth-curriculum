@@ -117,12 +117,12 @@ each person contributes, and the roles turn so everyone learns everything.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **teamwork = shared,
-rotated roles**, and that **no role outranks another**. The roles are deliberately designed so
-that skill is not what qualifies a learner: the *encourager* and *director* are as essential as
-the *stepper*. Rotate roles so every learner tries each one — this is the egalitarian core, and
-it prevents one learner from being fixed as "the skilled one." Offer seated/adapted versions of
-every role (a seated stepper taps the counts; the director can direct with a hand; the counter
+The idea to land is **teamwork = shared, rotated roles**, and that **no role outranks
+another**. The roles are deliberately designed so that skill is not what qualifies a
+learner: the *encourager* and *director* are as essential as the *stepper*. Rotate roles
+so every learner tries each one — this is the egalitarian core, and it prevents one
+learner from being fixed as "the skilled one." Offer seated/adapted versions of every
+role (a seated stepper taps the counts; the director can direct with a hand; the counter
 counts for any pace). See `docs/contexts.md` and `docs/facilitation.md`.
 
 ## Procedure

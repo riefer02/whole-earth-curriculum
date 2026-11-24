@@ -11,9 +11,9 @@
 
   <!-- Time labels -->
   <g font-family="sans-serif" font-size="15" text-anchor="middle" fill="#4f6d7a">
-    <text x="100" y="224">now</text>
-    <text x="256" y="224">the next generation</text>
-    <text x="410" y="224">generations after</text>
+    <text fill="#4f6d7a" text-anchor="middle" font-size="15" x="100" y="224">now</text>
+    <text fill="#4f6d7a" text-anchor="middle" font-size="15" x="256" y="224">the next generation</text>
+    <text fill="#4f6d7a" text-anchor="middle" font-size="15" x="410" y="224">generations after</text>
   </g>
 
   <!-- Figures passing a seed along the timeline -->
@@ -43,5 +43,5 @@
   <path d="M318 296 H392" stroke="#7a9e7e" stroke-width="3" fill="none"/>
   <path d="M386 290 l12 6 l-12 6 z" fill="#7a9e7e"/>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#2b3a42">What I decide today is the seed I hand to people I will never meet.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">What I decide today is the seed I hand to people I will never meet.</text>
 </svg>

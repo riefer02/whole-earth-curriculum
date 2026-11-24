@@ -132,19 +132,18 @@ quiet engine under every meal you will ever have.
 
 ## Facilitator note
 
-Written to the learner ("you"). This capstone has two jobs: teach the last standard
-(rock cycle recycles materials; **soil supports life**) and close the unit's
-through-line (data → claim → support/revise → evidence vs. inference). Two ideas to
-land: **soil = minerals (broken rock) + humus (decayed life)**, and **soil is the
-place rock, life, water, and energy meet**. Name the cross-links explicitly: the rock
-cycle makes the mineral part (Lesson 11); cells and decomposers make the humus and
-cycle nutrients (Lessons 5–6); energy flows from Sun to plant (Lessons 7–8); and a
-soil investigation uses tables, graphs, and claims (Lessons 1–4). The ethics and
-egalitarian lenses: healthy soil feeds everyone, and caring for soil is caring for
-people — a value we hold, stated alongside the evidence. Keep "how do we know" alive:
-we can *see* soil's parts and *test* water-holding, but we *infer* the deep rock
-origins and the slow work of decomposers. Connect to agency — learners can protect
-soil. See [`docs/facilitation.md`](../../../../../../docs/facilitation.md).
+This capstone has two jobs: teach the last standard (rock cycle recycles materials;
+**soil supports life**) and close the unit's through-line (data → claim → support/revise
+→ evidence vs. inference). Two ideas to land: **soil = minerals (broken rock) + humus
+(decayed life)**, and **soil is the place rock, life, water, and energy meet**. Name the
+cross-links explicitly: the rock cycle makes the mineral part (Lesson 11); cells and
+decomposers make the humus and cycle nutrients (Lessons 5–6); energy flows from Sun to
+plant (Lessons 7–8); and a soil investigation uses tables, graphs, and claims (Lessons
+1–4). The ethics and egalitarian lenses: healthy soil feeds everyone, and caring for
+soil is caring for people — a value we hold, stated alongside the evidence. Keep "how do
+we know" alive: we can *see* soil's parts and *test* water-holding, but we *infer* the
+deep rock origins and the slow work of decomposers. Connect to agency — learners can
+protect soil. See [`docs/facilitation.md`](../../../../../../docs/facilitation.md).
 
 ## Procedure
 

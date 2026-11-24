@@ -120,18 +120,17 @@ feeling change in your hands.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Changing tempo, dynamics, and pitch and naming the feeling is a
-**skill**, so model each change one at a time — "watch: now I sing it slower... the
-feeling turns calm" — before learners take turns leading (Kirschner, Sweller & Clark,
-2006). Use **one song** throughout so the only thing changing is tempo, dynamics, or
-pitch (this is the arts version of a fair test: change one thing, keep the rest the
-same). Define the three words simply: tempo is speed, dynamics is loud and soft, pitch
-is high and low. A learner who does not sing changes pitch by pointing high or low,
-dynamics by big or small movements, and tempo by tapping fast or slow — the feeling
-can be shown as well as sung. A learner who is Deaf or hard of hearing feels tempo as
-fast or slow vibration and sees dynamics as big or small gestures. Every feeling named
-is welcome; there is no wrong mood.
+Changing tempo, dynamics, and pitch and naming the feeling is a **skill**, so model each
+change one at a time — "watch: now I sing it slower... the feeling turns calm" — before
+learners take turns leading (Kirschner, Sweller & Clark, 2006). Use **one song**
+throughout so the only thing changing is tempo, dynamics, or pitch (this is the arts
+version of a fair test: change one thing, keep the rest the same). Define the three
+words simply: tempo is speed, dynamics is loud and soft, pitch is high and low. A
+learner who does not sing changes pitch by pointing high or low, dynamics by big or
+small movements, and tempo by tapping fast or slow — the feeling can be shown as well as
+sung. A learner who is Deaf or hard of hearing feels tempo as fast or slow vibration and
+sees dynamics as big or small gestures. Every feeling named is welcome; there is no
+wrong mood.
 
 ## Procedure
 

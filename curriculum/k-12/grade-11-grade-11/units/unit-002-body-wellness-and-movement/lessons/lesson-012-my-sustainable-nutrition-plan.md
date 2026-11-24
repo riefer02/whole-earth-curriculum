@@ -112,34 +112,31 @@ believe in.
 
 ## Facilitator note
 
-This lesson is the unit's **capstone**, and it must land two things at once: a
-concrete, personal nutrition plan, and a retrieval of the whole unit. **No shaming,
-ever** — about weight, about "unhealthy" foods, about any family's or culture's way
-of eating. The plan is about *sustainability and fit*, not moral purity.
+This lesson is the unit's **capstone**: a personal nutrition plan plus retrieval of the
+whole unit. **No shaming, ever** — not weight, not "unhealthy" foods, not any family's
+or culture's way of eating. The plan is *sustainability and fit*, not moral purity.
 
-**A plan, not a diet.** Guide learners to build a *dietary pattern* (what they usually
-eat over a week) rather than a list of allowed/forbidden foods. WHO's healthy-diet
-guidance — diversity across food groups; moderate free sugars, salt, and saturated
-fat — is a *population-level* starting point, not a personal law (S-038). Energy needs
-differ by age, sex, body size, and activity (FAO/WHO/UNU; S-285). The plan must fit
-*this learner*: their needs, their culture's foods, their real budget, and their
-values (religious, ethical, environmental). Food-based dietary guidelines exist in
-many countries and are themselves culturally adapted (FAO; S-118).
+**A plan, not a diet.** Build a *dietary pattern* (what they usually eat over a week),
+not a list of allowed/forbidden foods. WHO's guidance — diversity across food groups;
+moderate free sugars, salt, saturated fat — is a *population-level* start, not a
+personal law (S-038). Energy needs differ by age, sex, body size, and activity
+(FAO/WHO/UNU; S-285). The plan must fit *this learner*: their needs, culture's foods,
+budget, and values (religious, ethical, environmental). Food-based dietary guidelines
+exist in many countries, culturally adapted (FAO; S-118).
 
-**Retrieval at the close.** The final step asks learners to recall the whole unit from
-memory — this spaced retrieval is the science-of-learning payoff (Dunlosky et al.;
-S-039). Do not let learners skip to their notes first; recall, then check.
+**Retrieval at the close.** The final step recalls the whole unit from memory — spaced
+retrieval, the science-of-learning payoff (Dunlosky et al.; S-039). No skipping to notes
+first; recall, then check.
 
 **Values vs. facts.** "Everyone deserves enough to eat" is a value; the plan honors it
-personally, while the previous lesson's proposal aimed at it collectively. Keep both
-visible.
+personally, last lesson's proposal collectively. Keep both visible.
 
 The **ethics** lens: a plan built on self-respect, not shame, is a kind plan. The
-**egalitarian** lens: no way of eating is above another; access is the real divide.
-The **global** lens: every culture's staple foods are legitimate foods. The
-**technology** lens: decide whether an app or tracker helps you or adds pressure — you
-choose. The **environment** lens: a sustainable plan can also be lighter on the Earth,
-but that is a value to weigh, not a duty to perform perfectly.
+**egalitarian** lens: no way of eating is above another; access is the real divide. The
+**global** lens: every culture's staple foods are legitimate foods. The **technology**
+lens: decide whether an app or tracker helps or adds pressure — you choose. The
+**environment** lens: a sustainable plan can be lighter on the Earth, but that is a
+value to weigh, not a duty to perform perfectly.
 
 ## Procedure
 

@@ -114,24 +114,33 @@ you watch it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the sound sources and space, then guide the three-step
-listen/watch/both activity. This spirals from Lesson 1's taste-and-smell team to a
-second pair of senses. Honor every body and every ability: a learner who is deaf or
-hard of hearing gets far more from eyes (and may read lips or use sign — that is sight
-doing extra work), and a learner with low vision gets far more from ears — and can gather
-the "sight" clue through touch instead, feeling the ball's bounce through the floor
-with a hand or foot, or having a friend guide their hand toward the sound. Frame
-this as a strength of teamwork, never as a lack: when one sense has less to work
-with, the others carry more. Let learners choose how to "cover" a sense — closing
-eyes or covering ears — in the way that is comfortable for them (never cover a
-hearing aid or cochlear implant; a learner who uses one may prefer to simply not
-listen for a moment, or watch a friend's silent motion instead).
+**Tone.** Alert and light — two senses at work.
 
-Where a tablet or camera records the sound, notice what the tool can do — save and
-replay a sound — and what it cannot: it does not feel the clap through the floor, and
-it is made somewhere and needs power, while your own ears and hands sense with nothing
-but themselves. A tool is a helper, never a replacement for the senses.
+**The facts to land.**
+1. Eyes and ears work as a **team**: one gives shape and light, the other gives
+   direction and change.
+2. When one sense has less to work with, the others carry more. A learner who is deaf or
+   hard of hearing may read lips or use sign — sight doing extra work. A learner with
+   low vision can feel the ball's bounce through the floor, or a friend can guide their
+   hand to the sound.
+3. A recorder can save and replay a sound, but it cannot feel the clap through the
+   floor, and it needs power; ears and hands need nothing.
+
+**Don't overshoot.** Teamwork, never a lack: when one sense has less, the others carry
+more.
+
+**The lenses, briefly.**
+- *Physical:* listen, watch, both — the body's own test.
+- *Intellectual:* name what each sense told you, then explain why.
+- *Egalitarianism:* every body senses well; nobody is ranked.
+- *Global:* sounds from many places — market, coast, kitchen.
+- *Technology:* a tool is a helper, never a replacement for the senses.
+- *Environment:* room and ground carry sound differently; notice both.
+
+**The skill.** Cover one sense, then say what the other told you.
+
+Let learners choose how to cover a sense. Never cover a hearing aid or cochlear implant:
+the learner may pause listening or watch a friend's silent motion.
 
 ## Procedure
 

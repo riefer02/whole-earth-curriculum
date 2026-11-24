@@ -107,12 +107,11 @@ your hands learn to be careful and strong.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, move among the
-stations encouraging patience and care, not speed or perfection. **Honor every body:**
-a learner with limited hand control can stack larger, lighter objects, draw with a
-chunky crayon or a whole-hand grip, and thread a wide shoelace through large holes.
-Celebrate effort — "look how carefully your fingers worked" — more than the finished
-product.
+As facilitator, move among the stations encouraging patience and care, not speed or
+perfection. **Honor every body:** a learner with limited hand control can stack larger,
+lighter objects, draw with a chunky crayon or a whole-hand grip, and thread a wide
+shoelace through large holes. Celebrate effort — "look how carefully your fingers
+worked" — more than the finished product.
 
 ## Procedure
 

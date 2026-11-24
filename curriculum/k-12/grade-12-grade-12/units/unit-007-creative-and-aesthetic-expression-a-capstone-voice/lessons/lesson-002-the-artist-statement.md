@@ -116,25 +116,25 @@ met by a stranger who was not there when you made it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an artist statement is a
-short, specific, honest account of what was made, how, why it matters, and what to notice —
-written so a stranger can meet the work fairly.** Teach the four-prompt frame explicitly,
-then let learners draft and revise (S-011). Guard against two traps: a statement that is
-all grand abstraction ("I express the human condition") and one that is all technique with
-no why. The good statement names both.
+The idea to land: **an artist statement is a short, specific, honest account of what was
+made, how, why it matters, and what to notice — written so a stranger can meet the work
+fairly.** Teach the four-prompt frame explicitly, then let learners draft and revise
+(S-011). Guard against two traps: a statement that is all grand abstraction ("I express
+the human condition") and one that is all technique with no why. The good statement
+names both.
 
 The **ethics** lens: the statement is where the artist takes responsibility — the claim
 must match what the work actually shows, or the statement is dishonest. The
 **egalitarianism** lens: any maker can write a true statement; it needs no degree and no
-"art-world" vocabulary, only honesty about one's own process. The **global** lens: artists
-worldwide accompany work with words — titles, labels, spoken introductions — and curators
-and weavers alike explain intention to an audience; the statement is one more living
-tradition of *explaining your making*. The **technology** lens: captions, alt text, and
-audio description are modern forms of the same move — putting the work into words so more
-people can meet it, including people who cannot see the image at all. The **environment**
-lens: a statement can name where materials came from and where they go — clay dug nearby,
-paper reused — making the work's footprint visible. Preview: Lesson 3 turns from making to
-critique.
+"art-world" vocabulary, only honesty about one's own process. The **global** lens:
+artists worldwide accompany work with words — titles, labels, spoken introductions — and
+curators and weavers alike explain intention to an audience; the statement is one more
+living tradition of *explaining your making*. The **technology** lens: captions, alt
+text, and audio description are modern forms of the same move — putting the work into
+words so more people can meet it, including people who cannot see the image at all. The
+**environment** lens: a statement can name where materials came from and where they go —
+clay dug nearby, paper reused — making the work's footprint visible. Preview: Lesson 3
+turns from making to critique.
 
 ## Procedure
 

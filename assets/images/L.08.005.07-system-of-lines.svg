@@ -40,7 +40,7 @@
   <circle cx="180" cy="200" r="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   <text x="196" y="216" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">(2, 5)</text>
 
-  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="13.1" font-weight="bold" fill="#222222">the solution satisfies both equations: 5 = 2(2) + 1 ✓ and 5 = −2 + 7 ✓</text>
+  <text x="256" y="414" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">the solution satisfies both equations: 5 = 2(2) + 1 ✓ and 5 = −2 + 7 ✓</text>
 
   <!-- parallel panel -->
   <rect x="384" y="80" width="108" height="280" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" rx="6"/>

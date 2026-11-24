@@ -118,20 +118,34 @@ Earth.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the learner's first formal
-**two-step problem** — the new skill is *decomposing* a story into a first step and a
-then-step, choosing the right operation for each. Teach with a **worked example**
-(philosophy §13): read the story, act it out with objects, draw a bar diagram, then
-record step 1 and step 2 before learners try their own. Children make sense of word
-problems by acting them out and drawing them, long before symbols (Carpenter et al.,
-2015). The story, the drawing, and the numbers are three ways to the same meaning.
-**No one's speed at solving measures their smartness; a child who acts it out and
-tells the story has understood it even before writing numbers.** Choose stories from
-many real lives — market, farm, sea, kitchen, bus — so no single world is the default.
-Count in the home language. For learners who are Deaf or hard of hearing, act the
-story in sign and pictures; for learners who are blind or low-vision, move objects in
-two steps the hands can follow. Learners with limited movement direct a partner.
-Mastery arrives at its own pace.
+**Tone.** Patient and story-first — the story, the drawing, and the numbers carry one
+meaning.
+
+**The facts to land.**
+1. A two-step problem is decomposed into a first step and a then-step, with the right
+   operation for each.
+2. Children make sense of word problems by acting them out and drawing them, long
+   before symbols (Carpenter et al., 2015).
+3. Stories from many real lives — market, farm, sea, kitchen, bus — keep one world
+   from becoming the default.
+
+**Don't overshoot.** Do not turn the two steps into a keyword hunt ("altogether means
+add"). Meaning comes from the story, then the drawing, then the numbers.
+
+**The lenses, briefly.**
+- *Intellectual:* read the story, act it out with objects, draw a bar diagram,
+  record step 1 and step 2 — worked example, then guided practice (philosophy §13).
+- *Critical-thinking:* name what is known, what is asked, and what the first step
+  must find.
+- *Global:* choose stories from many places and kinds of work.
+- *Community:* use the work learners actually see around them.
+
+**The skill.** Act it out, draw it, then write two number sentences that match the
+drawing.
+
+**Access:** act the story in sign and pictures; move objects in two steps the hands
+can follow; a learner with limited movement directs a partner. Mastery arrives at its
+own pace.
 
 ## Procedure
 

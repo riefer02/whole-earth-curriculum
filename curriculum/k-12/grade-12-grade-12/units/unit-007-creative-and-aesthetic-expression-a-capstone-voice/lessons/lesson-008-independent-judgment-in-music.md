@@ -117,26 +117,26 @@ agree or disagree with.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an independent musical
-judgment is a claim about a piece, backed by evidence in the sound, connected by a warrant —
-and it is "independent" because the learner formed it, not because it ignores the tradition.**
-Teach the claim-evidence-warrant chain explicitly, then let learners write and test their own
+The idea to land: **an independent musical judgment is a claim about a piece, backed by
+evidence in the sound, connected by a warrant — and it is "independent" because the
+learner formed it, not because it ignores the tradition.** Teach the
+claim-evidence-warrant chain explicitly, then let learners write and test their own
 (S-011). Keep "independent" from sliding into "isolated": a defended judgment is *more*
-respectful of living musicians, because it rests on careful listening rather than borrowed
-opinion.
+respectful of living musicians, because it rests on careful listening rather than
+borrowed opinion.
 
-The **ethics** lens: a judgment I cannot defend with evidence is only a preference wearing a
-judge's robe; defending it honestly means naming what the sound does and does not show. The
-**egalitarianism** lens: anyone can be a music critic, because the warrant is public — it
-invites another person to check the evidence and disagree with reasons, not with status. The
-**global** lens: judgment across cultures is only fair when it starts from the music's own
-context (Lesson 7) and when appreciation — credit, permission, respect for living musicians —
-replaces appropriation (S-056, S-450). The **technology** lens: a recorded or streamed piece
-can be judged without the musician's context or consent; a defended judgment should say when
-it is judging a recording, not the lived performance. The **environment** lens: a judgment
-can weigh where the sound and its instruments come from — the wood, the hide, the metal, the
-field — as part of its evidence. Preview: Lesson 9 carries the "body of work" idea into
-performance.
+The **ethics** lens: a judgment I cannot defend with evidence is only a preference
+wearing a judge's robe; defending it honestly means naming what the sound does and does
+not show. The **egalitarianism** lens: anyone can be a music critic, because the warrant
+is public — it invites another person to check the evidence and disagree with reasons,
+not with status. The **global** lens: judgment across cultures is only fair when it
+starts from the music's own context (Lesson 7) and when appreciation — credit,
+permission, respect for living musicians — replaces appropriation (S-056, S-450). The
+**technology** lens: a recorded or streamed piece can be judged without the musician's
+context or consent; a defended judgment should say when it is judging a recording, not
+the lived performance. The **environment** lens: a judgment can weigh where the sound
+and its instruments come from — the wood, the hide, the metal, the field — as part of
+its evidence. Preview: Lesson 9 carries the "body of work" idea into performance.
 
 ## Procedure
 

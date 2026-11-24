@@ -115,16 +115,32 @@ you can check.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **reasoning is a
-chain, and evaluating it means finding the weak link — not rejecting the person**.
-Model one full chain and one broken chain as worked examples before independent practice
-(Kirschner, Sweller & Clark, 2006). Keep arguments small and safe; translate everything
-into the home language; vary accents and regions so no voice is "the correct one." The
-four lenses: *ethics* (is the reasoning honest?); *egalitarianism* (does a weak chain
-hurt some people more — e.g., a false health claim spread to those with less access to
-doctors?); *global* (reasoning patterns appear everywhere); *technology* (radio, phone,
-and internet carry claims faster, so checking chains matters more). See
-`docs/facilitation.md`.
+**Tone.** Matter-of-fact and non-prosecutorial. A broken chain is an error to locate,
+not a person to defeat.
+
+**The facts to land.**
+
+1. **Reasoning is a chain**: claim, reason, evidence — and evaluating it means finding
+   the weak link, not rejecting the person.
+2. A chain breaks when a reason lacks evidence, or when evidence is off-topic.
+3. Every link can be tested with a question: *how do you know? what would count against
+   it?*
+
+**Don't overshoot.** Do not let "that's a weak argument" become "you are wrong to think
+that." Keep arguments small and safe, and translate everything into the home language.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* naming the exact gap is the whole skill.
+- *Ethics:* honest reasoning includes the reason that would change your mind.
+- *Egalitarianism:* a weak chain can hurt some people more — a false health claim spread
+  to those with less access to doctors.
+- *Global:* reasoning patterns appear everywhere, and vary accents and regions so no
+  voice is "the correct one."
+
+**The skill.** Model one full chain and one broken chain as worked examples, then set
+learners to find the gap (Kirschner, Sweller & Clark, 2006). Checking matters more now
+that radio, phone, and the internet carry claims faster. See `docs/facilitation.md`.
 
 ## Procedure
 

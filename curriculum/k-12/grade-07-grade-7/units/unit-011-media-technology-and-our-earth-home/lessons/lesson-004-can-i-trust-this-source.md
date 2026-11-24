@@ -111,18 +111,33 @@ source you can lean on from one you should hold lightly.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) trustworthiness is checked,
-not felt — five questions do the checking: who made it, why, what evidence, when, and whether a
-second source agrees; (2) comparing two sources means asking all five questions of each and then
-placing them side by side; (3) reliability is about the source, not whether we like its answer.**
-Model the first pair once (worked example, S-011). The critical-thinking lens: this is the unit's
-core "question the answer" habit, made into a checklist. The egalitarian lens: the ability to check
-a source is power — people who are lied to cannot act fairly; teaching everyone to check is a
-leveling act. The global lens: the five questions work on any source in any language and any
-place. The technology lens: digital tools make it easier than ever to publish — which makes
-checking *more* necessary, not less. Use a low-stakes, non-scary example pair (e.g., a claim about
-whether a plant is safe, or whether recycling works) so the skill is practiced without fear. The
-checklist is an age-appropriate version of source analysis (S-217; S-063).
+**Tone.** Calm and practical. A checklist, not a suspicion of everything.
+
+**The facts to land.**
+
+1. **Trustworthiness is checked, not felt.** Five questions do the checking: who made
+   it, why, what evidence, when, and whether a second source agrees.
+2. Comparing two sources means asking all five of each, then placing them side by side.
+3. **Reliability is about the source, not whether we like its answer.**
+
+**Don't overshoot.** Do not let the checklist become "nothing can be trusted." Most
+sources are roughly right; the questions tell you how far to lean on one.
+
+**The lenses, briefly.**
+
+- *Ethics:* checking a claim fairly means checking the one you agree with too.
+- *Egalitarianism:* the ability to check a source is power — people who are lied to
+  cannot act fairly; teaching everyone to check is a levelling act.
+- *Global:* the five questions work on any source, in any language, in any place.
+- *Technology:* digital tools make publishing easier than ever, which makes checking
+  *more* necessary, not less.
+- *Critical-thinking:* this is the unit's "question the answer" habit, made into a
+  checklist.
+
+**The skill.** Model the first pair once (worked example, S-011), then compare two
+sources on the same topic. Use a low-stakes, non-scary pair — a claim about whether a
+plant is safe, or whether recycling works — so the skill is practiced without fear. This
+is an age-appropriate version of source analysis (S-217; S-063).
 
 ## Procedure
 

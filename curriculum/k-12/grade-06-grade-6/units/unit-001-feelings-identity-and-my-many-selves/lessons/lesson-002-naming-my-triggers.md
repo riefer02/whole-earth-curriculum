@@ -115,14 +115,13 @@ them gives you a chance to act *before* the storm, not only after.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **a trigger is
-information, and naming it is power — never an excuse and never a verdict**. Be careful
-not to imply that a trigger "makes" a person behave badly; a trigger explains *a feeling*,
-not a choice (the choice comes later, in Lesson 10). Invite only small, safe triggers;
-never press a learner to name a trigger tied to trauma or a painful home situation, and
-allow "I'd rather keep mine private." If a learner names something heavy, receive it with
-calm care and help them name one *small* warning signal, not the whole story. See
-`docs/facilitation.md`.
+The idea to land is that **a trigger is information, and naming it is power — never an
+excuse and never a verdict**. Be careful not to imply that a trigger "makes" a person
+behave badly; a trigger explains *a feeling*, not a choice (the choice comes later, in
+Lesson 10). Invite only small, safe triggers; never press a learner to name a trigger
+tied to trauma or a painful home situation, and allow "I'd rather keep mine private." If
+a learner names something heavy, receive it with calm care and help them name one
+*small* warning signal, not the whole story. See `docs/facilitation.md`.
 
 ## Procedure
 

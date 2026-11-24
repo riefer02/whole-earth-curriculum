@@ -125,13 +125,13 @@ tools to reach for. Today you put them together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The capstone is a *routine*, not a
-test. Model the three steps yourself with a real, mild scenario first, then guide
-practice, then let learners role-play. Never shame a child whose first instinct was to
-react — the point is that pausing is a skill that grows with practice. "Name" uses the
-unit's vocabulary (mad vs. frustrated, sad vs. disappointed) and body clues; "Choose"
-uses the calm tools and the learner's own strengths. A learner may choose anything
-safe; there is no single "right" choice — the win is that they paused and named it.
+The capstone is a *routine*, not a test. Model the three steps yourself with a real,
+mild scenario first, then guide practice, then let learners role-play. Never shame a
+child whose first instinct was to react — the point is that pausing is a skill that
+grows with practice. "Name" uses the unit's vocabulary (mad vs. frustrated, sad vs.
+disappointed) and body clues; "Choose" uses the calm tools and the learner's own
+strengths. A learner may choose anything safe; there is no single "right" choice — the
+win is that they paused and named it.
 
 ## Procedure
 

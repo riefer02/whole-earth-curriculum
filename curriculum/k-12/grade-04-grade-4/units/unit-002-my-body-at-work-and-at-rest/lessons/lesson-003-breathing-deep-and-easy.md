@@ -114,14 +114,13 @@ changes with what you are doing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Model counting breaths at rest, moving,
-and counting again — **worked example first, then guided practice**. Count one full
-breath as a breath in *and* a breath out. Keep the movement burst inclusive; seated
-arm-pumping raises breathing too. Some learners breathe through a tube or in other
-ways — all ways of breathing count, and this is stated with dignity, never as a
-"special" case. The lungs picture chart should be simple and honest, not anatomical
-clutter. This lesson retrieves Lesson 1–2 (pulse, rest vs. work) and adds the breathing
-signal.
+Model counting breaths at rest, moving, and counting again — **worked example first,
+then guided practice**. Count one full breath as a breath in *and* a breath out. Keep
+the movement burst inclusive; seated arm-pumping raises breathing too. Some learners
+breathe through a tube or in other ways — all ways of breathing count, and this is
+stated with dignity, never as a "special" case. The lungs picture chart should be simple
+and honest, not anatomical clutter. This lesson retrieves Lesson 1–2 (pulse, rest vs.
+work) and adds the breathing signal.
 
 ## Procedure
 

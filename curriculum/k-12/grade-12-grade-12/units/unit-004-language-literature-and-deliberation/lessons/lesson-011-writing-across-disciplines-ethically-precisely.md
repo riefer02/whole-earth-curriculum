@@ -120,28 +120,37 @@ choosing, each time, the words that are *accurate* and *fair* to the person read
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description**:
-register and precision are teachable writing skills (IES, S-171; Graham & Perin, S-102),
-and accessibility — making text understandable to people with different languages,
-abilities, and backgrounds — is a documented standard (WCAG, S-280). Hold "clarity is
-care" and "using language ethically" as *values*; hold "register shifts with audience"
-as a *skill*. In a multilingual classroom, honor that a learner may write most precisely
-in their home language, and that writing in a second or third language is a strength, not
-a deficit.
+**Tone.** Plain and demanding: plain language is precise language, not simple-minded.
 
-The **ethics** lens: language can confuse or harm — jargon excludes, euphemism hides, and
-a careless word can mislead a reader who trusts you; ethical writing asks "who will read
-this, and what do they need?" The **egalitarianism** lens: plain language is an
-equalizer — it lets a neighbor, a non-specialist, and a second-language reader stand on
-the same ground as an expert. The **global** lens: what is "clear" differs across
-languages and cultures, so precision is re-negotiated in every language, not imported
-from one. The **technology** lens: technical writing is the written form of technology,
-and digital text can be made accessible — structured headings, captions, readable type —
-so the tool itself is a site of care. The **environment** lens: environmental claims
-(measurements, risks, predictions) are exactly where precision and honesty matter most,
-because overstatement or vagueness can misdirect decisions about the living world. The
-**critical-thinking** lens: "is this both accurate and fair?" is a two-part test run on
-every sentence. Preview: Lesson 12 turns from writing to *advocacy* — language justice.
+**The facts to land.**
+
+1. Register and precision are teachable writing skills (IES, S-171; Graham & Perin,
+   S-102), and accessibility is a documented standard (WCAG, S-280).
+2. Hold "clarity is care" and "using language ethically" as *values*; hold "register
+   shifts with audience" as a *skill*.
+3. In a multilingual room, a learner may write most precisely in their home language;
+   writing in a second or third language is a strength, not a deficit.
+
+**Don't overshoot.** Accessibility is not dumbing down; the WCAG standard exists
+precisely because plain structure serves expert readers too.
+
+**The lenses, briefly.**
+
+- *Ethics:* jargon excludes and euphemism hides; ethical writing asks who will read
+  this, and what they need.
+- *Egalitarianism:* plain language lets a neighbour, a non-specialist, and a
+  second-language reader stand on the same ground as an expert.
+- *Global:* what counts as "clear" differs across languages; precision is renegotiated,
+  not imported.
+- *Technology:* structured headings, captions, and readable type make the tool itself a
+  site of care.
+- *Environment:* measurements, risks, and predictions are exactly where precision
+  matters most.
+- *Critical-thinking:* run a two-part test on every sentence — is it accurate, and is it
+  fair?
+
+**The skill.** Model once, then release (S-011): rewrite one jargon sentence for two
+readers. Lesson 12 turns to language justice.
 
 ## Procedure
 

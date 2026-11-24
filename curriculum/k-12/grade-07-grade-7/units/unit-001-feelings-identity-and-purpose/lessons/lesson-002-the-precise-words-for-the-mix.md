@@ -116,18 +116,32 @@ clearly you can respond to it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **precision is a skill that
-can be taught and practiced**, and it has a shape — split the mix into its parts, choose the
-joining word, then reach for the exact term. Model the ladder as a worked example before
-independent practice (Kirschner, Sweller & Clark, 2006). Acknowledge that words for precise
-feeling-states exist in every language and are not all translatable one-to-one — which is why
-we hold languages side by side as wealth, never as "better or worse" (the Japanese "mono no
-aware," the Portuguese "saudade," the German "Fernweh," the Hindi/Sanskrit "viraha" — the pang
-of a loved one's absence — the Tagalog "kilig" — the giddy shiver of excitement — and the
-Arabic "tarab" — feeling stirred to fullness by music — all name nuances English must work
-harder to reach). Naming precisely is a value this curriculum holds (RULER's "Labeling"), but
-*whether* to share a feeling aloud is always the learner's choice — never pressure disclosure.
-See `docs/facilitation.md`.
+**Tone.** Curious and unhurried. Precision is a skill, not a personality trait.
+
+**The facts to land.**
+
+1. **Precision can be taught and practiced**, and it has a shape: split the mix into its
+   parts, choose the joining word (and, but, because), then reach for the exact term.
+2. **Every language names feeling-states precisely, and not one-to-one**: Japanese "mono
+   no aware," Portuguese "saudade," German "Fernweh," Hindi/Sanskrit "viraha" (the pang
+   of a loved one's absence), Tagalog "kilig" (the giddy shiver of excitement), Arabic
+   "tarab" (feeling stirred to fullness by music).
+3. Naming precisely is a value this curriculum holds (RULER's "Labeling"); *whether* to
+   share a feeling aloud is always the learner's choice.
+
+**Don't overshoot.** Do not present English as the language that must reach these
+nuances first; hold languages side by side as wealth, never as "better or worse."
+
+**The lenses, briefly.**
+
+- *Social-emotional:* naming a feeling makes it workable.
+- *Ethics:* no learner owes anyone a disclosure.
+- *Global:* nuance lives in every language; this list is a sample, not a ranking.
+- *Critical-thinking:* the exact word is a claim to check against what you actually
+  feel.
+
+**The skill.** Model the ladder as a worked example before independent practice
+(Kirschner, Sweller & Clark, 2006): split, join, name. See `docs/facilitation.md`.
 
 ## Procedure
 

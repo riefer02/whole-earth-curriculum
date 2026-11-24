@@ -116,29 +116,35 @@ someone who benefits.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **science is done by
-people in societies, so its questions are framed by who has power — and we can read any
-finding for who asked, who was studied, who was left out, who benefits, and who bears the
-cost.** Teach the trace explicitly, then let learners run it (S-011). Hold two things
-distinct: *factual* claims (women were historically excluded from many clinical trials; the
-cobalt in batteries is often mined under harmful conditions) are checkable and cited; the
-*value* judgment (exclusion and harm are unjust) is a stance we name openly, not a fact we
-pretend is settled by the data alone.
+**Tone.** Fair and unflinching: the questions are checkable, and the values are named.
 
-The **ethics** lens: beneficence — doing good and not harm — is not automatic; it has to be
-designed in, and its absence is visible in who is excluded. The **egalitarianism** lens: the
-distribution of who-asks and who-benefits is the egalitarian question at its most concrete —
-whose bodies are the "normal" default, whose knowledge counts, whose neighborhood is the
-sacrifice zone (S-484, S-483). The **global** lens: the pattern recurs worldwide — the
-cobalt that powers devices is mined in the Democratic Republic of the Congo under
-conditions Amnesty International has documented as harmful, while the benefit accrues
-largely elsewhere (S-398); and Semmelweis's life-saving evidence was resisted partly
-because it humiliated the powerful men it corrected (S-357). The **technology** lens: a
-device in your hand has a geography and a supply chain — the question "who benefits?" runs
-from the mine to the screen (S-398, S-281). The **environment** lens: environmental justice
-names the finding that polluting sites and their harms are not distributed evenly across
-people (S-483, S-484). Preview: Lesson 4 turns critique into a proposal for a more just
-practice.
+**The facts to land.**
+
+1. Science is done by people in societies, so its questions are framed by power; read
+   any finding for who asked, who was studied, who was left out, who benefits, and who
+   bears the cost.
+2. Factual claims are checkable and cited: women were historically excluded from many
+   clinical trials, and the cobalt in batteries is often mined under harmful conditions.
+3. The value judgment that exclusion and harm are unjust is a stance named openly, not a
+   fact settled by the data alone.
+
+**Don't overshoot.** Do not collapse fact and value; saying which is which is the
+lesson, and fudging it is the failure.
+
+**The lenses, briefly.**
+
+- *Ethics:* beneficence must be designed in; its absence shows in who is excluded.
+- *Egalitarianism:* whose bodies are the "normal" default, whose knowledge counts, whose
+  neighbourhood is the sacrifice zone (S-484, S-483).
+- *Global:* cobalt in the Democratic Republic of the Congo is documented by Amnesty
+  International as harmful while the benefit accrues elsewhere (S-398); Semmelweis's
+  evidence was resisted partly because it humiliated the powerful (S-357).
+- *Technology:* a device in your hand has a geography and a supply chain (S-398, S-281).
+- *Environment:* polluting sites and their harms are not distributed evenly (S-483,
+  S-484).
+
+**The skill.** Teach the trace explicitly, then release (S-011): run it on one finding,
+marking cited claims against values. Lesson 4 turns critique into a proposal.
 
 ## Procedure
 

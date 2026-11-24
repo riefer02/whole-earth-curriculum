@@ -102,11 +102,9 @@ you pass it on. It is fairness you can practice with your own hands.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, keep the tone light: waiting is hard at age
-five, so celebrate every wait, no matter how short. Give a gentle reminder rather
-than a correction — the standard itself asks only for turn-taking *with a gentle
-reminder*.
+As facilitator, keep the tone light: waiting is hard at age five, so celebrate every
+wait, no matter how short. Give a gentle reminder rather than a correction — the
+standard itself asks only for turn-taking *with a gentle reminder*.
 
 ## Procedure
 

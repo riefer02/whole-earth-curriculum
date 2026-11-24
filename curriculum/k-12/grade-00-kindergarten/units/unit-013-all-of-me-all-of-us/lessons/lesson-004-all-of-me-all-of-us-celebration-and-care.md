@@ -121,13 +121,12 @@ people do together, in every community, everywhere in the world.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is a celebration, not a
-competition: there are no "best work" awards, no winners and no ranking. Every
-child's work is displayed and honored equally, and every family shape is honored.
-Sharing is invited, never forced: a child who prefers not to take a turn may simply
-hang their piece alongside everyone else's, and that counts as sharing. The caring
-step matters as much as the sharing — model it and let children take the lead in
-tidying and caring for the shared space. Keep the tone joyful, warm, and inclusive.
+This is a celebration, not a competition: there are no "best work" awards, no winners
+and no ranking. Every child's work is displayed and honored equally, and every family
+shape is honored. Sharing is invited, never forced: a child who prefers not to take a
+turn may simply hang their piece alongside everyone else's, and that counts as sharing.
+The caring step matters as much as the sharing — model it and let children take the lead
+in tidying and caring for the shared space. Keep the tone joyful, warm, and inclusive.
 
 ## Procedure
 

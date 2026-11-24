@@ -126,18 +126,18 @@ Often it is more than one at once.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **mutual aid is
-helping among equals — everyone gives and receives — and it appears in living traditions
-across the world; and that honest reflection on motives (care, duty, recognition) makes our
-helping truer**. Present the four traditions with respect as living practices, never as
-curiosities or a ranking, and note that details vary by community and are best learned from
-people who practice them (the poster is a starting point, not the last word). Honor the
-egalitarian lens: mutual aid is not charity from above — it is solidarity among equals.
-Keep motives non-judged: all three motives are human and common, and naming them honestly is
-the skill (inquiry over creed — you are not grading anyone's reasons). The action must be
-small, safe, and genuinely doable — a shared cleanup, a study circle, a letter of thanks, a
-classroom "help board" — with every learner offered a real part. Model the planner once as
-a worked example before independent work (Kirschner, Sweller & Clark, 2006). See
+The idea to land is that **mutual aid is helping among equals — everyone gives and
+receives — and it appears in living traditions across the world; and that honest
+reflection on motives (care, duty, recognition) makes our helping truer**. Present the
+four traditions with respect as living practices, never as curiosities or a ranking, and
+note that details vary by community and are best learned from people who practice them
+(the poster is a starting point, not the last word). Honor the egalitarian lens: mutual
+aid is not charity from above — it is solidarity among equals. Keep motives non-judged:
+all three motives are human and common, and naming them honestly is the skill (inquiry
+over creed — you are not grading anyone's reasons). The action must be small, safe, and
+genuinely doable — a shared cleanup, a study circle, a letter of thanks, a classroom
+"help board" — with every learner offered a real part. Model the planner once as a
+worked example before independent work (Kirschner, Sweller & Clark, 2006). See
 `docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure

@@ -112,15 +112,15 @@ builder, a farmer, or a town planner can use to plan a fence, a path, or a plot 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) a rectangle's side lengths
-come from the differences of its coordinates — width = difference in x, height = difference in
-y; (2) **perimeter** = add all four side lengths (or 2 × width + 2 × height); (3) a **path along
-grid lines** is found by adding each leg's length. Model a worked example first, then guide a
-second (Kirschner, Sweller & Clark, 2006). Retrieval: ask learners to recall Lesson 9's
-"same row / same column" distance rule and reuse it here. Common slip: adding only two sides
-instead of all four for perimeter, or miscounting units. Coordinates are evidence; the fairness
-value appears in planning shared space so everyone's plot is measured honestly and equally
-(`docs/philosophy.md` §4).
+The ideas to land: (1) a rectangle's side lengths come from the differences of its
+coordinates — width = difference in x, height = difference in y; (2) **perimeter** = add
+all four side lengths (or 2 × width + 2 × height); (3) a **path along grid lines** is
+found by adding each leg's length. Model a worked example first, then guide a second
+(Kirschner, Sweller & Clark, 2006). Retrieval: ask learners to recall Lesson 9's "same
+row / same column" distance rule and reuse it here. Common slip: adding only two sides
+instead of all four for perimeter, or miscounting units. Coordinates are evidence; the
+fairness value appears in planning shared space so everyone's plot is measured honestly
+and equally (`docs/philosophy.md` §4).
 
 ## Procedure
 

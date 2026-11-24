@@ -112,23 +112,22 @@ calculate, not just feel.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a vector = magnitude +
-direction, written as components (x, y); adding vectors means adding components, which
-matches the tip-to-tail picture.** Teach the drawing and the component arithmetic together —
-picture and symbol must agree — with a worked example and guided practice (S-011). Keep the
-connection to real movement strong, because that is what makes components intuitive rather
-than abstract.
+The idea to land: **a vector = magnitude + direction, written as components (x, y);
+adding vectors means adding components, which matches the tip-to-tail picture.** Teach
+the drawing and the component arithmetic together — picture and symbol must agree — with
+a worked example and guided practice (S-011). Keep the connection to real movement
+strong, because that is what makes components intuitive rather than abstract.
 
 The **ethics** lens: an arrow that states its direction and size is an honest claim — a
 vector does not pretend to be more or less than it is. The **egalitarianism** lens: the
-same two numbers describe a route for anyone, in any place, with or without a device. The
-**global** lens: locating a place by two distances (latitude and longitude, grid squares,
-"three east and four north") is far older than the coordinate *names* we inherit — grid
-ideas appear across many mapping traditions (S-240). The **technology** lens: coordinates
-and vectors are the language of every screen, map, drone, and flight path. The
-**environment** lens: a vector describes the wind, a current, a migrating animal's path, or
-the flow of water off a field — direction and size are how we model the moving Earth
-(S-005). Preview: Lesson 10 uses vectors to *prove* geometric facts.
+same two numbers describe a route for anyone, in any place, with or without a device.
+The **global** lens: locating a place by two distances (latitude and longitude, grid
+squares, "three east and four north") is far older than the coordinate *names* we
+inherit — grid ideas appear across many mapping traditions (S-240). The **technology**
+lens: coordinates and vectors are the language of every screen, map, drone, and flight
+path. The **environment** lens: a vector describes the wind, a current, a migrating
+animal's path, or the flow of water off a field — direction and size are how we model
+the moving Earth (S-005). Preview: Lesson 10 uses vectors to *prove* geometric facts.
 
 ## Procedure
 
@@ -187,3 +186,4 @@ on where you ended up.
 
 - On worked examples and guided practice: Kirschner, Sweller & Clark (2006) (S-011).
 - On coordinates and grids across traditions: MacTutor History of Mathematics (S-240).
+- Intergovernmental Panel on Climate Change (S-005).

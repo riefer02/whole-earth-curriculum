@@ -114,18 +114,17 @@ has made length something two people can agree on.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The one big idea is **unit iteration**
-— laying equal units end to end, with no gaps or overlaps, and counting them. Teach
-it as a **worked example** (philosophy §13), then let learners measure and compare.
-The historical fact that many cultures used body measures (cubit, foot, hand span)
-is offered as shared human heritage, not as a reason to rank any system. A wonderful,
-natural discovery is that **units must match** — one person's hand span differs from
-another's, so we agree on one unit to be fair; this is egalitarianism made concrete.
-For learners who are blind or low-vision, measuring by touch is ideal — lay sticks or
-count hand spans along an object and count by feel; for learners who are Deaf or hard
-of hearing, measure and count in sign or by touch. A learner who does not speak shows
-the count on fingers or by placing a number card. Everyone measures with their own
-body, and no body's measure is "wrong."
+The one big idea is **unit iteration** — laying equal units end to end, with no gaps or
+overlaps, and counting them. Teach it as a **worked example** (philosophy §13), then let
+learners measure and compare. The historical fact that many cultures used body measures
+(cubit, foot, hand span) is offered as shared human heritage, not as a reason to rank
+any system. A wonderful, natural discovery is that **units must match** — one person's
+hand span differs from another's, so we agree on one unit to be fair; this is
+egalitarianism made concrete. For learners who are blind or low-vision, measuring by
+touch is ideal — lay sticks or count hand spans along an object and count by feel; for
+learners who are Deaf or hard of hearing, measure and count in sign or by touch. A
+learner who does not speak shows the count on fingers or by placing a number card.
+Everyone measures with their own body, and no body's measure is "wrong."
 
 ## Procedure
 

@@ -117,16 +117,16 @@ most of the answer right away.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It turns the tens-and-ones idea from
-Lessons 1–2 into **comparison and order**. Teach the **tens-first rule** as a worked
-example (philosophy §13): build 42 and 37, compare the tens (four tens beats three
-tens), and only then decide. Keep the language careful and kind: we say "greater
-than" and "less than" about *amounts*, never about *people*. **A number being bigger
-is a fact about a collection, not a worth about a child — more is not better, it is
-just more.** Comparing is a tool for fairness, not a contest. For learners who are
-Deaf or hard of hearing, show the comparison with bundles and signs; for learners who
-are blind or low-vision, let hands feel the bundles side by side. A learner who does
-not speak points or places the greater-than card. No ranking of learners, ever.
+It turns the tens-and-ones idea from Lessons 1–2 into **comparison and order**. Teach
+the **tens-first rule** as a worked example (philosophy §13): build 42 and 37, compare
+the tens (four tens beats three tens), and only then decide. Keep the language careful
+and kind: we say "greater than" and "less than" about *amounts*, never about *people*.
+**A number being bigger is a fact about a collection, not a worth about a child — more
+is not better, it is just more.** Comparing is a tool for fairness, not a contest. For
+learners who are Deaf or hard of hearing, show the comparison with bundles and signs;
+for learners who are blind or low-vision, let hands feel the bundles side by side. A
+learner who does not speak points or places the greater-than card. No ranking of
+learners, ever.
 
 ## Procedure
 

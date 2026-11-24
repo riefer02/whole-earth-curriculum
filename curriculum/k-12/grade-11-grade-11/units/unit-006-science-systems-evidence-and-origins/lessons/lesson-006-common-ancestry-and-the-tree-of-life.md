@@ -115,15 +115,15 @@ common ancestor. Read together, these are the marks of one family — the tree o
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **common ancestry is
-supported by three converging lines of evidence — the fossil record in ordered rock
-layers, homologous structures (the same body plan modified in different species), and
-DNA sequences whose similarity tracks how recently two species branched (S-303,
-S-177).** The result is a **branching tree**, not a ladder — every living species is a
-leaf, none "higher" than another. Teach each line with a worked example (S-011), and
-hold the humility: fossils are partial, and DNA shows relationship but not "progress."
-Earth itself is about 4.54 billion years old — standard geology (S-308) — and life's
-fossil record stretches across deep time in ordered rock layers.
+The ideas to land: **common ancestry is supported by three converging lines of
+evidence — the fossil record in ordered rock layers, homologous structures (the same
+body plan modified in different species), and DNA sequences whose similarity tracks how
+recently two species branched (S-303, S-177).** The result is a **branching tree**, not
+a ladder — every living species is a leaf, none "higher" than another. Teach each line
+with a worked example (S-011), and hold the humility: fossils are partial, and DNA shows
+relationship but not "progress." Earth itself is about 4.54 billion years old — standard
+geology (S-308) — and life's fossil record stretches across deep time in ordered rock
+layers.
 
 The **intellectual** lens: independent lines of evidence that point the same way are
 stronger than any one line alone. The **critical-thinking** lens: learners ask of each

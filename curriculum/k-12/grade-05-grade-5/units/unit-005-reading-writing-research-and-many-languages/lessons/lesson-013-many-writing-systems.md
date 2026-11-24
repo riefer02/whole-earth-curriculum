@@ -116,16 +116,17 @@ signs, books, and names opens up.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **many writing systems
-exist, each a valid and complete way to write**, and that a few big types can be recognized:
-**alphabets** (letters for sounds, like Latin and Hangul), **abjads** (mostly consonant letters,
-like Arabic), **abugidas** (a consonant base plus vowel marks, like Devanagari), and
-**character scripts** (a symbol for a meaning, like Chinese). Take care to be accurate: Arabic
-is written right-to-left; Devanagari's vowel marks sit around the consonant; Chinese characters
-mostly stand for meanings (morphemes), not just sounds. Above all, treat every script and every
-learner's home script as **equally worthy** — never rank them. Invite learners to share their
-own scripts; this is a celebration, not a comparison. The technical facts here are evidence;
-the claim that "no script is better" is a value we hold (`docs/philosophy.md` §4–5).
+The idea to land is that **many writing systems exist, each a valid and complete way to
+write**, and that a few big types can be recognized: **alphabets** (letters for sounds,
+like Latin and Hangul), **abjads** (mostly consonant letters, like Arabic), **abugidas**
+(a consonant base plus vowel marks, like Devanagari), and **character scripts** (a
+symbol for a meaning, like Chinese). Take care to be accurate: Arabic is written
+right-to-left; Devanagari's vowel marks sit around the consonant; Chinese characters
+mostly stand for meanings (morphemes), not just sounds. Above all, treat every script
+and every learner's home script as **equally worthy** — never rank them. Invite learners
+to share their own scripts; this is a celebration, not a comparison. The technical facts
+here are evidence; the claim that "no script is better" is a value we hold
+(`docs/philosophy.md` §4–5).
 
 ## Procedure
 

@@ -121,25 +121,24 @@ but the shared resource is human dignity.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **labor rights is a
-collective-action problem along a global supply chain — each link's cost and benefit
-fall on different people, often far apart, and fairness across borders needs
-coordination (unions, cooperatives, and agreements).** Ground it with documented
-evidence: **some minerals in phones are sometimes mined in exploitative conditions
-(Amnesty cobalt report, S-398 — held with the "sometimes" hedge, and told without
-graphic detail); cooperatives are a real, documented alternative form of worker
-ownership (ICA, S-486).** Keep the tone factual and hopeful: the lesson names real
-harm and pairs it with real agency.
+The idea to land: **labor rights is a collective-action problem along a global supply
+chain — each link's cost and benefit fall on different people, often far apart, and
+fairness across borders needs coordination (unions, cooperatives, and agreements).**
+Ground it with documented evidence: **some minerals in phones are sometimes mined in
+exploitative conditions (Amnesty cobalt report, S-398 — held with the "sometimes" hedge,
+and told without graphic detail); cooperatives are a real, documented alternative form
+of worker ownership (ICA, S-486).** Keep the tone factual and hopeful: the lesson names
+real harm and pairs it with real agency.
 
 The **ethics** lens: what the far-away worker is owed is a moral question the buyer
 cannot simply set aside. The **egalitarianism** lens: the chain concentrates benefit
 downstream and cost upstream — naming that is the fairness move. The **global** lens:
-the chain crosses borders; the worker and the buyer may share one product and no
-common language. The **technology** lens: the product itself (a phone, a battery) is a
+the chain crosses borders; the worker and the buyer may share one product and no common
+language. The **technology** lens: the product itself (a phone, a battery) is a
 technology whose making carries a hidden human cost. The **critical-thinking** lens:
-distinguishing the *facts* of the chain (evidence) from the *judgment* of what fair
-work requires (value). Preview: Lesson 12 turns from coordination to solidarity — the
-human bond that makes coordination possible.
+distinguishing the *facts* of the chain (evidence) from the *judgment* of what fair work
+requires (value). Preview: Lesson 12 turns from coordination to solidarity — the human
+bond that makes coordination possible.
 
 ## Procedure
 

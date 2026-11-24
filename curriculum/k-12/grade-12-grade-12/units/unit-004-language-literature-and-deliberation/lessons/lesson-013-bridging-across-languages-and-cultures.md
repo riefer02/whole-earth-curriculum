@@ -124,30 +124,35 @@ and happen only once, in the moment. Both are learnable.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description**:
-plurilingual competence — drawing on several languages, including mediating between
-speakers — is the literature's term for the bridging skill (Council of Europe CEFR,
-S-237); translation (written, revisable) and interpretation (spoken, in the moment) are
-distinct practices; and machine translation is a real but uneven tool, not a substitute
-for a person (Britannica, S-350). The *value* — that both languages are complete systems,
-and the person between them a skilled mediator — is a commitment, not a fact, and should
-be named as such. Honor home languages first: a learner who bridges in their own languages
-is an expert in this room, not a novice.
+**Tone.** Confident and respectful: the person between languages is a skilled mediator.
 
-The **ethics** lens: a bridge carries both meanings and *responsibility* — an inaccurate
-interpretation can mislead, and a careless one can wound; accuracy and care are the
-bridge's two pillars. The **egalitarianism** lens: the bridge's job is not to make the
-"weaker" language conform, but to meet both on equal ground. The **global** lens: a
-lingua franca is one historical solution to many languages, but it is not the only one,
-and plurilingual mediation is another — no single strategy is the default. The
-**technology** lens: translation tools are fast and useful for gist, but they flatten
-tone, idiom, and nuance and serve low-resource languages poorly — so a human bridge
-remains necessary where it matters (S-350). The **environment** lens: languages carry
-knowledge of the living world — plants, weather, seasons, places — so when a language is
-lost, environmental knowledge can be lost with it (Kimmerer, S-427); bridging helps keep
-that knowledge in circulation. The **critical-thinking** lens: "what did the tool get
-right, and what did it flatten?" is the test a careful bridge runs on any machine output.
-Preview: Lesson 14 assembles the whole unit into one many-voiced capstone.
+**The facts to land.**
+
+1. Plurilingual competence — drawing on several languages, including mediating between
+   speakers — is the literature's term for this skill (Council of Europe CEFR, S-237).
+2. Translation (written, revisable) and interpretation (spoken, in the moment) are
+   distinct practices; machine translation is real but uneven, and not a substitute for
+   a person (Britannica, S-350).
+3. A learner who bridges in their own languages is an expert in this room, not a novice.
+
+**Don't overshoot.** A bridge is not a filter: the job is not to make the "weaker"
+language conform.
+
+**The lenses, briefly.**
+
+- *Ethics:* a bridge carries responsibility — an inaccurate interpretation misleads, a
+  careless one wounds.
+- *Egalitarianism:* both languages are complete systems; meet them on equal ground.
+- *Global:* a lingua franca is one historical solution to many languages, not the only
+  one.
+- *Technology:* tools give the gist, flatten tone and idiom, and serve low-resource
+  languages poorly (S-350).
+- *Environment:* languages carry knowledge of plants, weather, seasons, and places; when
+  a language is lost, that knowledge can go with it (Kimmerer, S-427).
+- *Critical-thinking:* what did the tool get right, and what did it flatten?
+
+**The skill.** Model once, then release (S-011): interpret one short message both ways,
+then compare what each version lost. Lesson 14 assembles the capstone.
 
 ## Procedure
 

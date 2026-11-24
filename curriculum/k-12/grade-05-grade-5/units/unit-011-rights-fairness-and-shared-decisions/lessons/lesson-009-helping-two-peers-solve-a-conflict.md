@@ -116,17 +116,17 @@ classroom, the yard, or anywhere people disagree.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is a short **peer
-mediation routine**: (1) each side speaks, one at a time; (2) the other side listens and
-**repeats back** what they heard; (3) name each side's need; (4) **brainstorm fair
-solutions**; (5) choose one both accept. This is a skill, so **model the full routine
-once** as a worked example before trios try it (Kirschner, Sweller & Clark, 2006). Keep
-it **non-shaming**: a conflict is not a moral failure, and no child is "the bad one."
-The helper's job is dignity and listening, never judgment. Emphasize that the fair
-solution must be accepted by *both* sides — not imposed. Draw a clear safety boundary:
-if anyone is hurt, scared, threatened, or unsafe — or the conflict feels too big — the
-helper's first move is to bring in a trusted adult; a peer helper never resolves a
-serious conflict alone. See `docs/facilitation.md`.
+The skill to land is a short **peer mediation routine**: (1) each side speaks, one at a
+time; (2) the other side listens and **repeats back** what they heard; (3) name each
+side's need; (4) **brainstorm fair solutions**; (5) choose one both accept. This is a
+skill, so **model the full routine once** as a worked example before trios try it
+(Kirschner, Sweller & Clark, 2006). Keep it **non-shaming**: a conflict is not a moral
+failure, and no child is "the bad one." The helper's job is dignity and listening, never
+judgment. Emphasize that the fair solution must be accepted by *both* sides — not
+imposed. Draw a clear safety boundary: if anyone is hurt, scared, threatened, or
+unsafe — or the conflict feels too big — the helper's first move is to bring in a
+trusted adult; a peer helper never resolves a serious conflict alone. See
+`docs/facilitation.md`.
 
 ## Procedure
 

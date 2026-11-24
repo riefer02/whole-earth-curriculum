@@ -10,9 +10,9 @@
     <circle cx="256" cy="256" r="120" fill="none" stroke="#4f6d7a" stroke-width="2"/>
     <circle cx="256" cy="256" r="180" fill="none" stroke="#e0a458" stroke-width="2"/>
     <!-- labels -->
-    <text x="256" y="184" font-size="13" fill="#222222">intended effect</text>
-    <text x="256" y="120" font-size="13" fill="#4f6d7a">second-order effect</text>
-    <text x="256" y="62" font-size="13" fill="#8a5a1a">unintended effect</text>
-    <text x="256" y="480" font-size="13.1" fill="#222222">every action drops a stone in water</text>
+    <text text-anchor="middle" x="256" y="184" font-size="13" fill="#222222">intended effect</text>
+    <text text-anchor="middle" x="256" y="120" font-size="13" fill="#4f6d7a">second-order effect</text>
+    <text text-anchor="middle" x="256" y="62" font-size="13" fill="#8a5a1a">unintended effect</text>
+    <text text-anchor="middle" x="256" y="480" font-size="13" fill="#222222">every action drops a stone in water</text>
   </g>
 </svg>

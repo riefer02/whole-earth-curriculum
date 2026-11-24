@@ -116,14 +116,13 @@ and so is everyone else's.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The one idea to land is **non-ranking
-comparison**: differences in how families show feelings are real and *equal*, never
-"better" or "worse," "right" or "wrong." Guard against any ranking language ("too loud,"
-"too quiet," "weird"). Learners come from many family shapes — two parents, one parent,
-grandparents, adoptive or chosen family, foster care, and more. Frame "family" as
-"the people who care for you." Never ask a learner to justify or explain a family
-difference they do not wish to share. See `docs/facilitation.md` on honoring every
-family's shape.
+The one idea to land is **non-ranking comparison**: differences in how families show
+feelings are real and *equal*, never "better" or "worse," "right" or "wrong." Guard
+against any ranking language ("too loud," "too quiet," "weird"). Learners come from many
+family shapes — two parents, one parent, grandparents, adoptive or chosen family, foster
+care, and more. Frame "family" as "the people who care for you." Never ask a learner to
+justify or explain a family difference they do not wish to share. See
+`docs/facilitation.md` on honoring every family's shape.
 
 ## Procedure
 

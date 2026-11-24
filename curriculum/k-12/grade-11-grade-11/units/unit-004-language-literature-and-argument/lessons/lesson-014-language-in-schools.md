@@ -117,31 +117,28 @@ which means the classroom, for many, is a locked door with a lesson behind it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **school-language
-policy — the medium of instruction, assessment, and daily life — most directly decides
-equity and inclusion, and a fair policy is *additive* (home language first, other
-languages added) rather than *subtractive* (home language replaced and lost).** This is
-the evaluative standard made personal: every learner has felt or witnessed what it
-means for school to speak a language that is not yours. Hold the additive-over-
-subtractive framing as the unit's *value* (multilingualism as wealth), while being
-honest that *evidence* shows mother-tongue-based instruction supports learning —
-anchored in the 40% fact (S-019) — and that the choice is often constrained by real
-resources and histories. Keep both in view; do not pretend the fair policy is always
-easy to enact.
+The idea to land: **school-language policy — the medium of instruction, assessment, and
+daily life — most decides equity, and a fair policy is *additive* (home language first,
+others added) rather than *subtractive* (home language replaced and lost).** The
+standard made personal: every learner has felt what it means for school to speak a
+language not theirs. Hold additive-over-subtractive as the unit's *value*
+(multilingualism as wealth), while being honest that *evidence* shows mother-tongue
+instruction supports learning — the 40% fact (S-019) — and that choice is constrained by
+real resources and histories. Do not pretend the fair policy is easy to enact.
 
 Model the evaluation once, then let learners evaluate and propose (worked example →
-guided practice → independent work; S-011). The **egalitarian** lens is the spine:
-whose home language matches the blackboard, and whose is treated as an obstacle. The
-**ethics** lens: a child punished or shamed for their home language is a wrong, not a
-pedagogy — name it plainly. The **global** lens: school-language policy varies
-worldwide — mother-tongue-first programs, colonial-language-only systems, bilingual
-immersion — and none is the world's default. The **critical-thinking** lens: test the
-*assumed value* ("children need one common language") against its *effects* on the
-children it excludes. The **social-emotional** lens: this topic is close to the bone
-for learners who have been told their language is "wrong"; hold the room gently, and
-let no one be shamed here — including the monolingual learner, whose single language is
-also to be honored, not mocked. Preview: Lesson 15 turns from *policy* to *practice* —
-bridging between speakers right now.
+guided practice → independent; S-011). The **egalitarian** lens is the spine: whose home
+language matches the blackboard, and whose is treated as an obstacle. The **ethics**
+lens: a child punished or shamed for their home language is a wrong, not a pedagogy —
+name it plainly. The **global** lens: school-language policy varies worldwide —
+mother-tongue-first programs, colonial-language-only systems, bilingual immersion — and
+none is the world's default. The **critical-thinking** lens: test the *assumed value*
+("children need one common language") against its *effects* on the children it excludes.
+The **social-emotional** lens: this topic is close to the bone for learners who have
+been told their language is "wrong"; hold the room gently, and let no one be shamed here
+— including the monolingual learner, whose single language is also honored, not mocked.
+Preview: Lesson 15 turns from *policy* to *practice* — bridging between speakers right
+now.
 
 ## Procedure
 

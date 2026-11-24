@@ -49,5 +49,5 @@
   <line x1="92" y1="360" x2="420" y2="360" stroke="#4f6d7a" stroke-width="2.5" stroke-dasharray="7 6"/>
   <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">what stays the same, all the way through</text>
 
-  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#2b3a42">I am a story still being written — and I can predict its next page.</text>
+  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">I am a story still being written — and I can predict its next page.</text>
 </svg>

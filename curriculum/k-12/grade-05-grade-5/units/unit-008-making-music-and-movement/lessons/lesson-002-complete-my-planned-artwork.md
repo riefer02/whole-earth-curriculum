@@ -117,15 +117,15 @@ wrote into something you can hold up and say "I made this."
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **follow-through**:
-completion is part of craft, not an afterthought. Keep the block mostly *making* — your
-job is to keep learners moving and unblock them, not to direct every stroke. The midpoint
-checklist is the key structure: it is a self-check that turns "am I done?" into "have I
-kept my idea and am I almost there?" Honor every finish, however modest; a completed
-artwork is a real achievement, never to be ranked against another's. Some learners will
-finish at very different times — have an extension ready (add a border, a title card, a
-second smaller piece). See `docs/facilitation.md` on mastery and
-`docs/development.md` on the grade-5 need for independence with adult safety nearby.
+The idea to land is **follow-through**: completion is part of craft, not an
+afterthought. Keep the block mostly *making* — your job is to keep learners moving and
+unblock them, not to direct every stroke. The midpoint checklist is the key structure:
+it is a self-check that turns "am I done?" into "have I kept my idea and am I almost
+there?" Honor every finish, however modest; a completed artwork is a real achievement,
+never to be ranked against another's. Some learners will finish at very different
+times — have an extension ready (add a border, a title card, a second smaller piece).
+See `docs/facilitation.md` on mastery and `docs/development.md` on the grade-5 need for
+independence with adult safety nearby.
 
 ## Procedure
 

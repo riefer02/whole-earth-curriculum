@@ -122,16 +122,16 @@ feedback, not guesswork, to make the scene land.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **timing, expression,
-and ensemble are chosen and can be revised** — a learner should be able to name one deliberate
-choice in each and one change made after feedback. Model the three tools with the poster
-(explicit instruction for a novice skill — Kirschner, Sweller & Clark, 2006). Keep performance
-**open to every body**: no one must stand, leap, speak, or move in a way their body does not
-do — offer signed, seated, gestural, and written parts, and let each performer choose their
+The idea to land is that **timing, expression, and ensemble are chosen and can be
+revised** — a learner should be able to name one deliberate choice in each and one
+change made after feedback. Model the three tools with the poster (explicit instruction
+for a novice skill — Kirschner, Sweller & Clark, 2006). Keep performance **open to every
+body**: no one must stand, leap, speak, or move in a way their body does not do — offer
+signed, seated, gestural, and written parts, and let each performer choose their
 channel. Frame other cultures' performance traditions (dance, drama, ritual) as living
-traditions to learn *about* with respect, not to imitate for a grade — learners perform the
-scene *they* devise. Feedback stays about the work and is always specific and kind; a group
-chooses which note to act on (see `docs/assessment.md`).
+traditions to learn *about* with respect, not to imitate for a grade — learners perform
+the scene *they* devise. Feedback stays about the work and is always specific and kind;
+a group chooses which note to act on (see `docs/assessment.md`).
 
 ## Procedure
 

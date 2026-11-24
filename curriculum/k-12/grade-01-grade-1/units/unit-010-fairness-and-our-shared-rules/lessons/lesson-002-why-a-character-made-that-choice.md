@@ -107,22 +107,34 @@ stories to wonder why others do what they do.
 
 ## Facilitator note
 
-Written to the learner ("you"). Keep the story small and everyday — no frightening or
-heavy content at this age. A sample story: **Amara and the water queue.** Amara waits
-in a long line to fill her family's water pot. Ahead of her, a smaller child drops
-her cup. Amara leaves her spot to help the child pick it up (a good choice). Later,
-tired and hot, Amara pushes past the person in front of her to the tap (a hurtful
-choice). Wonder together: why did she help? (she cared; the child was smaller and
-sad.) Why did she push? (she was tired and hot and wanted to be first.) Notice that
-the reason for the hurtful choice — being tired — helps us understand Amara, but it
-does not make pushing okay. Name the *act*, never the child; Amara is not "bad," she
-made a hurtful choice and can choose again. A learner who does not speak aloud gives
-a reason by pointing to a picture of the reason (a tired face, a caring heart) or by
-signing; a learner who is deaf or hard of hearing follows the story through sign,
-the drawn story strip, a picture book, or by watching the puppets, and gives the
-reason by signing or pointing; a learner who is blind or low-vision hears the story
-told clearly and gives the reason aloud; a learner with a motor difference can
-direct a partner to move the puppets. A learner may always pass.
+**Tone.** Gentle and unhurried. Keep the story small and everyday — nothing frightening.
+
+**The facts to land.** Sample story, **Amara and the water queue**:
+
+1. Amara waits in line to fill the family water pot. A smaller child ahead drops her
+   cup; Amara leaves her spot to help, because the child was small and sad.
+2. Later, tired and hot, Amara pushes past someone to reach the tap.
+3. A reason helps us **understand** a hurtful choice without making it okay: tiredness
+   explains the push, and the push still hurt.
+
+**Don't overshoot.** Name the act, never the child: Amara made a hurtful choice and can
+choose again.
+
+**The lenses, briefly.**
+
+- *Ethics:* understanding is not excusing.
+- *Egalitarianism:* the small child's need counts as much as Amara's hurry.
+- *Social-emotional:* feelings and reasons sit behind every choice.
+- *Global:* water queues are daily life in much of the world.
+- *Critical-thinking:* "why?" is the question; more than one answer can be true.
+
+**The skill.** Ask why a character chose, and say the reason in your own words.
+
+**Access.** Non-speaking: point to a picture of the reason (a tired face, a caring
+heart), or sign it. Deaf or hard of hearing: follow the story through sign, the story
+strip, a picture book, or puppets, then sign or point the reason. Blind or low-vision:
+hear the story clearly and give the reason aloud. Motor difference: direct a partner to
+move the puppets. A learner may always pass.
 
 ## Procedure
 

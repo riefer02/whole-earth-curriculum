@@ -115,13 +115,11 @@ and more skillful.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Set up the three stations and rotate learners through them.
-Small hand movements take time and repetition; praise effort and growing control, not
-speed or perfection. Honor every hand: some learners need larger beads and buttons,
-thicker string, or pre-cut paper; some do the job with a mouth, a tool, or a friend's
-help. Offer adapted versions as real choices, never as "less." Supervise scissors
-closely.
+Set up the three stations and rotate learners through them. Small hand movements take
+time and repetition; praise effort and growing control, not speed or perfection. Honor
+every hand: some learners need larger beads and buttons, thicker string, or pre-cut
+paper; some do the job with a mouth, a tool, or a friend's help. Offer adapted versions
+as real choices, never as "less." Supervise scissors closely.
 
 ## Procedure
 

@@ -114,15 +114,15 @@ at a market stall, on a shared trail, or anywhere your choice touches someone el
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is **comparing two
-choices by their consequences for others before deciding** — a reasoning routine, so
-model it as a worked example before independent practice (Kirschner, Sweller & Clark,
-2006). Keep the emphasis on **consequences for others**, not just self-interest; that
-egalitarian move — *who else is affected?* — is the heart of the standard. Do not mark
-any learner's genuine choice as "wrong"; instead ask whether they *considered* the
-consequences for others before deciding. Distinguish **evidence from values**: *what the
-consequences are* is something we can observe and compare; *which consequence matters
-most* is a value judgment. Hold it open. See `docs/facilitation.md`.
+The skill to land is **comparing two choices by their consequences for others before
+deciding** — a reasoning routine, so model it as a worked example before independent
+practice (Kirschner, Sweller & Clark, 2006). Keep the emphasis on **consequences for
+others**, not just self-interest; that egalitarian move — *who else is affected?* — is
+the heart of the standard. Do not mark any learner's genuine choice as "wrong"; instead
+ask whether they *considered* the consequences for others before deciding. Distinguish
+**evidence from values**: *what the consequences are* is something we can observe and
+compare; *which consequence matters most* is a value judgment. Hold it open. See
+`docs/facilitation.md`.
 
 ## Procedure
 

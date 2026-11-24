@@ -113,27 +113,26 @@ living body you have ever met.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **there are four
-fundamental forces — gravity, electromagnetism, the strong force, and the weak force — with
-different ranges and strengths, and they account for everything from falling stones to
-shining stars.** Teach the table explicitly, then let learners sort examples (S-011). Keep
-the physics precise but honest about limits: the Standard Model describes three forces well,
-while gravity is not yet fitted into that quantum frame — an open frontier, not a finished
-book (S-498, S-435).
+The idea to land: **there are four fundamental forces — gravity, electromagnetism, the
+strong force, and the weak force — with different ranges and strengths, and they account
+for everything from falling stones to shining stars.** Teach the table explicitly, then
+let learners sort examples (S-011). Keep the physics precise but honest about limits:
+the Standard Model describes three forces well, while gravity is not yet fitted into
+that quantum frame — an open frontier, not a finished book (S-498, S-435).
 
-The **ethics** lens: a tiny set of forces with universal reach is a humbling reminder that no
-person or nation owns the laws — they are everyone's inheritance and no one's property. The
-**egalitarianism** lens: the same gravity that holds a king holds a beggar; the forces are
-indifferent to status, which is a quiet argument for the equal standing of every body. The
-**global** lens: the modern picture was built by people of many nations — from Newton's
-gravity (S-302) to a Standard Model assembled by physicists worldwide at CERN (S-498) — a
-shared, international achievement. The **technology** lens: every technology is a
-conversation with these forces — a bridge works *with* gravity, a motor *with*
-electromagnetism, a reactor *with* the strong and weak forces (S-360, S-498). The
-**environment** lens: the Sun shines by the weak force driving fusion, and its
-electromagnetic light powers nearly every food chain on Earth — the forces are the
-environment's engine (S-047, S-361). Preview: Lesson 10 turns from the forces to the
-particles they act on, and to unification.
+The **ethics** lens: a tiny set of forces with universal reach is a humbling reminder
+that no person or nation owns the laws — they are everyone's inheritance and no one's
+property. The **egalitarianism** lens: the same gravity that holds a king holds a
+beggar; the forces are indifferent to status, which is a quiet argument for the equal
+standing of every body. The **global** lens: the modern picture was built by people of
+many nations — from Newton's gravity (S-302) to a Standard Model assembled by physicists
+worldwide at CERN (S-498) — a shared, international achievement. The **technology**
+lens: every technology is a conversation with these forces — a bridge works *with*
+gravity, a motor *with* electromagnetism, a reactor *with* the strong and weak forces
+(S-360, S-498). The **environment** lens: the Sun shines by the weak force driving
+fusion, and its electromagnetic light powers nearly every food chain on Earth — the
+forces are the environment's engine (S-047, S-361). Preview: Lesson 10 turns from the
+forces to the particles they act on, and to unification.
 
 ## Procedure
 
@@ -195,3 +194,4 @@ warm from the Sun. Write one line naming where you found each.
   (S-302).
 - On electromagnetism: BBC Bitesize (KS3) — Electromagnetism (S-360); on the Sun and stellar
   fusion: NASA Space Place — All About the Sun (S-047); NASA — Star Lifecycle (S-361).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

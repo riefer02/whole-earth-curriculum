@@ -118,26 +118,26 @@ a complex number is just a place on a plane — two ordinary numbers bundled tog
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the imaginary unit
-i (with i² = −1) extends number to a second dimension, and it was *needed* — it arose
-from real problems, not from a rule someone liked.** Teach the arithmetic explicitly
-with worked examples (S-011), and let the "why" story carry the motivation.
+The idea to land: **the imaginary unit i (with i² = −1) extends number to a second
+dimension, and it was *needed* — it arose from real problems, not from a rule someone
+liked.** Teach the arithmetic explicitly with worked examples (S-011), and let the "why"
+story carry the motivation.
 
 The **global** lens is central: the idea that new numbers are *needed* to solve
-equations has deep roots in algebra's own history. The word "algebra" comes from
-al-jabr in the 9th-century work of the scholar al-Khwarizmi (S-293, S-431), who
-solved quadratics by completing the square and justified them geometrically; the
-Persian poet-mathematician Omar Khayyam (11th–12th century) solved cubic equations by
+equations has deep roots in algebra's own history. The word "algebra" comes from al-jabr
+in the 9th-century work of the scholar al-Khwarizmi (S-293, S-431), who solved
+quadratics by completing the square and justified them geometrically; the Persian
+poet-mathematician Omar Khayyam (11th–12th century) solved cubic equations by
 intersecting curves geometrically (S-296). In 16th-century Italy, solving the cubic
-forced mathematicians to let square roots of negatives appear mid-calculation, even
-when the final answer was an ordinary real number — the standard account of how
-complex numbers became respectable (S-240, as a general authority; hold the "first"
-claim lightly). The **intellectual** lens: a new number is *defined* by a consistent
-rule (i² = −1), and everything else follows. The **critical-thinking** lens: ask
-whether a new kind of number is *consistent* and *useful* — that, not familiarity, is
-the test. The **technology** lens: complex numbers are not an oddity — they are the
-daily language of alternating current, signal processing, and the wave mathematics
-behind screens and radio. Preview: Lesson 5 turns from numbers to *functions*.
+forced mathematicians to let square roots of negatives appear mid-calculation, even when
+the final answer was an ordinary real number — the standard account of how complex
+numbers became respectable (S-240, as a general authority; hold the "first" claim
+lightly). The **intellectual** lens: a new number is *defined* by a consistent rule (i²
+= −1), and everything else follows. The **critical-thinking** lens: ask whether a new
+kind of number is *consistent* and *useful* — that, not familiarity, is the test. The
+**technology** lens: complex numbers are not an oddity — they are the daily language of
+alternating current, signal processing, and the wave mathematics behind screens and
+radio. Preview: Lesson 5 turns from numbers to *functions*.
 
 ## Procedure
 

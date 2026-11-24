@@ -115,17 +115,15 @@ partners: together they make the fuller picture we call flavor.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the food and napkins, then lead the pinch-and-taste
-before learners draw. This spirals up from Grade 2, where learners matched each sense
-to its body part — today two senses join forces. Safety first: never require a learner
-to taste anything, and never use a food that could be an allergen or is unfamiliar to a
-family; plain water or plain bread works for everyone. Honor every body: some people
-smell or taste more or less strongly than others, and some cannot smell or taste at all
-— every answer about what they notice is true for them, and "I notice nothing
-different" is a real and welcome observation. The factual idea here — that much of what
-we call flavor comes from smell and taste together — is well established in sensory
-science (see Resources).
+Prepare the food and napkins, then lead the pinch-and-taste before learners draw. This
+spirals up from Grade 2, where learners matched each sense to its body part — today two
+senses join forces. Safety first: never require a learner to taste anything, and never
+use a food that could be an allergen or is unfamiliar to a family; plain water or plain
+bread works for everyone. Honor every body: some people smell or taste more or less
+strongly than others, and some cannot smell or taste at all — every answer about what
+they notice is true for them, and "I notice nothing different" is a real and welcome
+observation. The factual idea here — that much of what we call flavor comes from smell
+and taste together — is well established in sensory science (see Resources).
 
 ## Procedure
 

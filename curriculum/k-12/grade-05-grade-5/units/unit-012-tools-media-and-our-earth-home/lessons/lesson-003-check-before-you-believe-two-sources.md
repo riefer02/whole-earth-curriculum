@@ -117,15 +117,15 @@ with.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The routine to land is the **five-box
-claim-check**: claim → source 1 → source 2 → where they agree → verdict. Model it fully as a
-worked example before independent practice (Kirschner, Sweller & Clark, 2006). Teach
-checking **without cynicism or fear**: the tone is "be careful, not suspicious," and the goal
-is to *become harder to fool* while staying open-hearted. The camel claim is true-to-evidence
-(a camel's hump stores fat, an energy reserve) and age-safe. Keep all practice claims
-non-frightening. Distinguish evidence from values: *what the sources say and whether they
-agree* is evidence; *that we should check before we believe* is a value this curriculum holds.
-See `docs/philosophy.md` §5 and §7 and `docs/facilitation.md`.
+The routine to land is the **five-box claim-check**: claim → source 1 → source 2 → where
+they agree → verdict. Model it fully as a worked example before independent practice
+(Kirschner, Sweller & Clark, 2006). Teach checking **without cynicism or fear**: the
+tone is "be careful, not suspicious," and the goal is to *become harder to fool* while
+staying open-hearted. The camel claim is true-to-evidence (a camel's hump stores fat, an
+energy reserve) and age-safe. Keep all practice claims non-frightening. Distinguish
+evidence from values: *what the sources say and whether they agree* is evidence; *that
+we should check before we believe* is a value this curriculum holds. See
+`docs/philosophy.md` §5 and §7 and `docs/facilitation.md`.
 
 ## Procedure
 

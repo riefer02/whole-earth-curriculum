@@ -116,21 +116,37 @@ on Earth.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **natural selection is not
-random choice and not a "goal" — it is the result of (1) variation, (2) inheritance, and (3)
-different survival/reproduction in an environment, repeated over generations.** Use explicit
-instruction and the moth worked example first (Kirschner, Sweller & Clark, 2006). The
-peppered moth (*Biston betularia*) is a real, documented case: dark ("carbonaria") moths
-became much more common in sooty industrial areas in 19th–20th century England, then declined
-again as air was cleaned (Kettlewell's classic experiments, later refined; the pattern of
-change is well established). Darwin's finches in the Galápagos show real, *measured* beak-size
-shifts across drought years (Grant & Grant, Princeton). Hold origins lightly: natural
-selection describes *how populations change*, not what life "means" — that is a different
-question, held open alongside other ways of knowing (`docs/philosophy.md` §11). The ethical
-lens: "survival of the fittest" was often misused to justify cruelty toward people — a misuse
-we reject; selection describes beetles and finches, not a rule for how humans should treat
-each other. The global lens: the same process is visible in crops and livestock people have
-shaped on every continent.
+**Tone.** Matter-of-fact. Selection is an outcome, not a chooser.
+
+**The facts to land.**
+
+1. Natural selection is **not random choice and not a "goal"**: variation, inheritance,
+   and different survival and reproduction in an environment, repeated over generations.
+2. **Peppered moth** (*Biston betularia*): dark ("carbonaria") moths became much more
+   common in sooty industrial areas of 19th–20th-century England, then declined as the
+   air was cleaned (Kettlewell's classic experiments, later refined; the pattern of
+   change is well established).
+3. **Darwin's finches** in the Galápagos show measured beak-size shifts across drought
+   years (Grant & Grant, Princeton).
+
+**Don't overshoot.** Do not say the environment "chooses" or that organisms "try" to
+adapt. Nothing is aiming.
+
+**The lenses, briefly.**
+
+- *Intellectual:* four steps in order; the population changes, not the individual.
+- *Ethics:* "survival of the fittest" was widely misused to justify cruelty toward
+  people — a misuse we reject. Selection describes beetles and finches, not a rule for
+  how humans should treat each other.
+- *Global:* the same process is visible in crops and livestock people have shaped on
+  every continent.
+- *Environment:* the surroundings do the selecting, by who survives and reproduces.
+
+**The skill.** Instruct explicitly with the moth worked example first (Kirschner,
+Sweller & Clark, 2006), then order the four steps and apply them to the seed hunt. Hold
+origins lightly: selection describes *how populations change*, not what life means — a
+different question, held open alongside other ways of knowing (`docs/philosophy.md`
+§11).
 
 ## Procedure
 

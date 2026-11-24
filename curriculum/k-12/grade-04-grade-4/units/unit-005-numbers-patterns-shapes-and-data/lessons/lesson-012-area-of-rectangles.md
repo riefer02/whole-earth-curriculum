@@ -112,18 +112,17 @@ garden, a floor, a piece of cloth, or a roof, anywhere in the world.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Area begins as **covering with square
-units and counting**, then generalizes to **length × width** — the formula is a
-shortcut for the count, not a new idea (Van de Walle, Karp & Bay-Williams, 2019).
-Teach the shortcut as a **worked example** (philosophy §13): tile a 6-by-4 rectangle,
-count 24, then see that 6 × 4 = 24. Build on Grade 3's area work. **The number of
-tiles a learner needs to count before seeing the pattern is not a measure of their
-worth; an area is a fact about a surface, never about a person.** Measuring land by
-its covering squares is a human and cross-cultural practice, from ancient field
-surveying to modern tile and cloth work. Count in the home language. For learners who
-are Deaf or hard of hearing, sign the count; for learners who are blind or have low
-vision, feel the tiles and count rows and columns by touch. Learners with limited
-movement direct a partner to place tiles. Mastery arrives at its own pace.
+Area begins as **covering with square units and counting**, then generalizes to **length
+× width** — the formula is a shortcut for the count, not a new idea (Van de Walle, Karp
+& Bay-Williams, 2019). Teach the shortcut as a **worked example** (philosophy §13): tile
+a 6-by-4 rectangle, count 24, then see that 6 × 4 = 24. Build on Grade 3's area work.
+**The number of tiles a learner needs to count before seeing the pattern is not a
+measure of their worth; an area is a fact about a surface, never about a person.**
+Measuring land by its covering squares is a human and cross-cultural practice, from
+ancient field surveying to modern tile and cloth work. Count in the home language. For
+learners who are Deaf or hard of hearing, sign the count; for learners who are blind or
+have low vision, feel the tiles and count rows and columns by touch. Learners with
+limited movement direct a partner to place tiles. Mastery arrives at its own pace.
 
 ## Procedure
 

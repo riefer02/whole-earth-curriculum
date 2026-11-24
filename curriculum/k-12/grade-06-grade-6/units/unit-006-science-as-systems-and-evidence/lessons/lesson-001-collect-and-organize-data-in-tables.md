@@ -119,16 +119,15 @@ can speak. Today you learn to keep that promise.
 
 ## Facilitator note
 
-Written to the learner ("you"). The one skill to land is **every column needs a clear
-header, and every observation gets one row**. Model the worked example first: you pour,
-count drops aloud, and write the number under the right header, so novices see the
-moves before doing them alone (Kirschner, Sweller & Clark, 2006). The key move is
-**consistency** — same amount of water per test, same counting rule — because that is
-what later lets learners use the data to support or revise a claim (Lessons 2). The
-word "claim" here means a statement we can check against data; keep it in that
-evidence-based sense. Note that this lesson *practices* the inquiry skills the unit
-will return to with real science content in later lessons. See
-[`docs/facilitation.md`](../../../../../../docs/facilitation.md).
+The one skill to land is **every column needs a clear header, and every observation gets
+one row**. Model the worked example first: you pour, count drops aloud, and write the
+number under the right header, so novices see the moves before doing them alone
+(Kirschner, Sweller & Clark, 2006). The key move is **consistency** — same amount of
+water per test, same counting rule — because that is what later lets learners use the
+data to support or revise a claim (Lessons 2). The word "claim" here means a statement
+we can check against data; keep it in that evidence-based sense. Note that this lesson
+*practices* the inquiry skills the unit will return to with real science content in
+later lessons. See [`docs/facilitation.md`](../../../../../../docs/facilitation.md).
 
 ## Procedure
 

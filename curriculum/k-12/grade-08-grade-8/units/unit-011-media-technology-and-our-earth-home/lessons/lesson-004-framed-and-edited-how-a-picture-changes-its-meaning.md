@@ -113,20 +113,36 @@ the frame, and to check what is outside it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **meaning lives in the frame, not only
-in the image.** Three moves change meaning without any "faking": **(1) cropping** — leaving out what is
-outside the frame; **(2) captioning** — telling the viewer what to think it shows; **(3) context** —
-pairing an image with the wrong place, time, or event (a real photo from one protest attached to a
-different one years later). The checking skill (S-217, S-151): **ask what is cropped out, what the caption
-claims, and where the picture really came from** — find the original with a reverse image search or by
-tracing the source, and check it against independent reporting. The **ethics** lens: changing a picture's
-meaning to mislead is a choice with consequences — it can inflame fear or blame real people. The
-**egalitarian** lens: who is shown, and who is cropped out, is never neutral — a crowd "of peaceful
-people" or "of rioters" changes whose story is believed. The **global** lens: the same framing tricks work
-in every language and country; media literacy is a global skill (S-217). The **technology** lens: editing
-tools that once needed a studio now sit in every pocket, which makes checking more necessary, not less.
-Keep examples real and age-appropriate; never ask learners to relive trauma. The goal is the *habit* of
-checking, taught with worked examples before independent practice (S-011).
+**Tone.** Alert and unalarming — a habit of checking, not suspicion of everything.
+
+**The facts to land.**
+
+1. Meaning lives in the frame, not only the image. Three moves change meaning without
+   "faking": **cropping** (leaving out what is outside the frame); **captioning**
+   (telling the viewer what to think); **context** (pairing an image with the wrong
+   place, time, or event).
+2. The checking skill (S-217, S-151): ask what is cropped out, what the caption claims,
+   and where the picture really came from.
+3. Find the original with a reverse image search or by tracing the source, then check it
+   against independent reporting.
+
+**Don't overshoot.** Do not imply that every edited image is a lie — editing is normal;
+
+* misleading *editing is the skill to catch.
+
+**The lenses, briefly.**
+
+- *Ethics:* changing a picture's meaning to mislead can inflame fear or blame real
+  people.
+- *Egalitarianism:* who is shown, and who is cropped out, is never neutral — "peaceful
+  people" or "rioters" changes whose story is believed.
+- *Global:* the same framing tricks work in every language; media literacy is a global
+  skill (S-217).
+- *Technology:* editing tools that once needed a studio now sit in every pocket.
+- *Critical-thinking:* trace the image to its first appearance.
+
+**The skill.** Model the three moves and the check with worked examples before
+independent practice (S-011). Never ask learners to relive trauma.
 
 ## Procedure
 

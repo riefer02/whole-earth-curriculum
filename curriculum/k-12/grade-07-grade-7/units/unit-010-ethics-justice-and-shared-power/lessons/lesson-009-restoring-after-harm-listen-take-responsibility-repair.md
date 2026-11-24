@@ -111,27 +111,40 @@ is not just punishment.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) restorative practice
-responds to harm by repairing it and restoring relationships, not only by punishing; (2) the
-three steps are: listen (everyone affected is heard), take responsibility (the person who
-caused harm owns it), repair (together, make things as right as possible); (3) three guiding
-questions: what happened? who was harmed, and how? how do we make it right? — these are the
-well-known restorative questions (International Institute for Restorative Practices, S-022).**
-Model the steps once (worked example, S-011), then let groups role-play. **Emotional safety
-is non-negotiable: use only invented, low-stakes conflicts; never ask a learner to disclose
-real harm or act out something that happened to them. If a learner shares real hurt, honor it
-calmly and gently redirect to the invented scenario, and follow your setting's safeguarding
-practice.** The ethics lens: restoration takes harm seriously without reducing a person to
-their worst act. The egalitarian lens: a circle gives everyone — the harmed, the one who
-harmed, and the community — a voice, rather than letting the loudest or most powerful decide.
-The social-emotional lens: listening and taking responsibility are emotional skills, and the
-circle holds them safely. The community lens: repair restores the group, not just the two
-people. The multiple-traditions note (philosophy §11): the circle and the talking piece draw
-on long-standing Indigenous and community traditions of restoring justice — among them Māori
-restorative practice in Aotearoa New Zealand, First Nations peacemaking and sentencing circles
-in North America, and Ubuntu-rooted reconciliation in southern Africa; the IIRP questions are
-one modern expression of these older ways, held side by side rather than ranked. Emphasize
-that repair is often imperfect — "as right as possible," not "like it never happened."
+**Tone.** Calm. Repair is often imperfect — "as right as possible."
+
+**The facts to land.**
+
+1. **Restorative practice** repairs harm and restores relationships, not only punishes.
+2. **Three steps**: listen (everyone affected is heard), take responsibility (the
+   harm-doer owns it), repair (together, make it as right as possible).
+3. **Three guiding questions**: what happened? who was harmed, and how? how do we make
+   it right? (International Institute for Restorative Practices, S-022).
+
+**Don't overshoot.** Do not promise a circle resolves everything, or one apology closes
+serious harm.
+
+**The lenses, briefly.**
+
+- *Ethics:* restoration takes harm seriously without reducing a person to their worst
+  act.
+- *Egalitarianism:* a circle gives the harmed, the harm-doer, and the community a voice,
+  not only the loudest.
+- *Social-emotional:* listening and taking responsibility are emotional skills; the
+  circle holds them safely.
+- *Community:* repair restores the group, not just the two people.
+
+Circle and talking piece draw on older traditions — Māori restorative practice in
+Aotearoa New Zealand, First Nations peacemaking and sentencing circles in North America,
+Ubuntu-rooted reconciliation in southern Africa. The IIRP questions are one modern
+expression, held side by side, not ranked (`docs/philosophy.md` §11).
+
+**The skill.** Model the steps once (S-011), then groups role-play.
+
+**Safety floor.** Use only invented, low-stakes conflicts. Never ask a learner to
+disclose real harm or act out something that happened to them. If a learner shares real
+hurt, honor it calmly, redirect gently to the invented scenario, and follow your
+setting's safeguarding practice.
 
 ## Procedure
 

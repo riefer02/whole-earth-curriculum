@@ -115,19 +115,17 @@ the same?
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Finding a missing number is a *skill*,
-so teach it with a **worked example** and guided practice (philosophy §13). The
-two big ideas are (1) **counting on** from the known part to the total, and (2) the
-**equals sign as a balance** — both sides must hold the same, which is also a small,
-concrete lesson in fairness (ethics). Include missing-addend, missing-subtrahend
-(8 − ? = 3), and missing-start (? + 2 = 6) forms, but always with objects. The
-*explanation* matters as much as the answer — "I know because 3 and 4 more makes 7"
-is the real learning. For learners who are Deaf or hard of hearing, act out the
-sentence in sign or with objects; for learners who are blind or low-vision, count on
-by moving objects and feeling the hidden cup fill. A learner who does not speak shows
-the missing number by holding up fingers, pointing to a card, or placing the right
-number of objects. Never rank by speed; a mystery solved with care is a mystery
-solved.
+Finding a missing number is a *skill*, so teach it with a **worked example** and guided
+practice (philosophy §13). The two big ideas are (1) **counting on** from the known part
+to the total, and (2) the **equals sign as a balance** — both sides must hold the same,
+which is also a small, concrete lesson in fairness (ethics). Include missing-addend,
+missing-subtrahend (8 − ? = 3), and missing-start (? + 2 = 6) forms, but always with
+objects. The *explanation* matters as much as the answer — "I know because 3 and 4 more
+makes 7" is the real learning. For learners who are Deaf or hard of hearing, act out the
+sentence in sign or with objects; for learners who are blind or low-vision, count on by
+moving objects and feeling the hidden cup fill. A learner who does not speak shows the
+missing number by holding up fingers, pointing to a card, or placing the right number of
+objects. Never rank by speed; a mystery solved with care is a mystery solved.
 
 ## Procedure
 

@@ -114,16 +114,15 @@ Today you will gather the clues one by one and put them on a chart.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the objects and charts, then guide the one-sense-at-a-
-time exploration. This is the unit's first portfolio artifact — the "senses working
-together" chart named in the unit's assessment plan. The sequence matters: touch and
-smell come before sight so learners feel how much each hidden clue matters before the
-eyes fill in the picture. Honor every body: a learner with low vision gathers richer
-clues from touch, smell, and sound; a learner who cannot smell gathers theirs from
-sight and touch — every chart is a true and complete picture for that learner. Tasting
-is optional and never required, and only safe, familiar foods are used. Celebrate that
-no two charts are identical, just as no two bodies sense identically.
+Prepare the objects and charts, then guide the one-sense-at-a- time exploration. This is
+the unit's first portfolio artifact — the "senses working together" chart named in the
+unit's assessment plan. The sequence matters: touch and smell come before sight so
+learners feel how much each hidden clue matters before the eyes fill in the picture.
+Honor every body: a learner with low vision gathers richer clues from touch, smell, and
+sound; a learner who cannot smell gathers theirs from sight and touch — every chart is a
+true and complete picture for that learner. Tasting is optional and never required, and
+only safe, familiar foods are used. Celebrate that no two charts are identical, just as
+no two bodies sense identically.
 
 ## Procedure
 

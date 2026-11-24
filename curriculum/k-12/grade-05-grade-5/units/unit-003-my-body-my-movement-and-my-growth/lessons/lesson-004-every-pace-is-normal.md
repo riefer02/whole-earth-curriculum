@@ -55,7 +55,7 @@ context_variants:
     note: In a circle, take turns finishing 'Every body is honored when we ___' and name one way the group's play could welcome every body
 assets:
   - path: assets/images/L.05.003.04-every-pace-is-normal.svg
-    alt: A group of children playing together joyfully. The group includes children of different heights and builds, one child using a wheelchair, one wearing a hearing aid, and one with a prosthetic leg. A banner above reads "every body belongs." Labels, not color alone, carry the meaning.
+    alt: "Five children standing together on one ground line at different heights — one using a wheelchair, one with a hearing aid, one with a prosthetic lower leg, all smiling under a banner reading “every body belongs”."
     kind: image
     source: original
 duration_minutes: 45
@@ -117,13 +117,13 @@ single day.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **dignity for every body**:
-different sizes, paces, and abilities are all normal, and every body belongs. Model
-**person-first, non-shaming** language — "a child who uses a wheelchair," never labels that
-reduce a person to a condition. Guard against any teasing about bodies; interrupt it gently
-and turn it toward honor. Some learners in the room may have bodies that are different or
-disabilities; never make them the "example," and never put them on the spot. See
-`docs/facilitation.md` on assessing without ranking and holding difficult topics safely.
+The idea to land is **dignity for every body**: different sizes, paces, and abilities
+are all normal, and every body belongs. Model **person-first, non-shaming** language —
+"a child who uses a wheelchair," never labels that reduce a person to a condition. Guard
+against any teasing about bodies; interrupt it gently and turn it toward honor. Some
+learners in the room may have bodies that are different or disabilities; never make them
+the "example," and never put them on the spot. See `docs/facilitation.md` on assessing
+without ranking and holding difficult topics safely.
 
 ## Procedure
 

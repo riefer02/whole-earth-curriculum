@@ -108,20 +108,37 @@ and unkind choices every day.
 
 ## Facilitator note
 
-Written to the learner ("you") so it works in a classroom and for a self-directed
-learner. The central commitment is **name the act, never the child**: say "that
-choice was unkind," never "you are a bad child." Unkind choices are things everyone
-makes sometimes, and we can choose again. Kind and unkind are offered as a question
-("what does this choice do for the other person?") rather than a fixed rule. Accept
-every learner's example — there is no single right answer, and a choice can be kind
-in one situation and unkind in another. A learner who does not speak aloud names the
-choice by pointing, signing, gesturing, or placing a marker on a card; a learner who
-is deaf or hard of hearing reads each situation from the picture cards or the
-acted-out scene and names the choice by signing or pointing; a learner who is blind
-or low-vision hears each situation described and names the choices aloud or by
-touch; a learner with a motor difference can direct a partner to act out the
-choice. Do not require anyone to speak in front of the group; a learner may always
-pass.
+**Tone.** Curious, not corrective. Name choices, don't grade children.
+
+**The facts to land.**
+
+1. **Name the act, never the child**: "that choice was unkind," never "you are a bad
+   child."
+2. Everyone makes unkind choices sometimes, and we can choose again.
+3. Kind and unkind are a question — "what does this do for the other person?" — not a
+   fixed rule.
+4. Accept every learner's example; a choice can be kind in one situation and unkind in
+   another.
+
+**Don't overshoot.** There is no single right answer to collect, and no child is the
+lesson's example of unkindness.
+
+**The lenses, briefly.**
+
+- *Ethics:* the act is judged, the person is not.
+- *Egalitarianism:* every voice and every way of answering counts.
+- *Social-emotional:* notice the other person's feeling before naming the choice.
+- *Global:* what counts as kind varies with context and custom; ask, don't assume.
+- *Critical-thinking:* the question is the work, not the verdict.
+
+**The skill.** Look at a situation, say what the choice did to the other person, and
+name it kind or unkind.
+
+**Access.** Non-speaking: name the choice by pointing, signing, gesturing, or placing a
+marker on a card. Deaf or hard of hearing: read the situation from the picture cards or
+the acted-out scene, then sign or point. Blind or low-vision: hear the situation
+described, then name it aloud or by touch. Motor difference: direct a partner to act it
+out. Never require anyone to speak; a learner may pass.
 
 ## Procedure
 

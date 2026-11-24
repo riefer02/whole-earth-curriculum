@@ -125,20 +125,19 @@ together, toward the next one.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the year's work
-gathers into one whole — a person, a plan, a place in the web, and a commitment to
-care — and that whole is worth celebrating.** This is the summative close, but the
-tone is celebration, not grading. Assessment here is a portfolio and a shared
-performance, in the spirit of the philosophy (assessment serves the learner; success is
-collective — philosophy §§8–9).
+The idea to land: **the year's work gathers into one whole — a person, a plan, a place
+in the web, and a commitment to care — and that whole is worth celebrating.** This is
+the summative close, but the tone is celebration, not grading. Assessment here is a
+portfolio and a shared performance, in the spirit of the philosophy (assessment serves
+the learner; success is collective — philosophy §§8–9).
 
 Hold the four lenses visibly. **Ethics:** naming a commitment — a promise to act with
 care — is an ethical act, and it is kept small and doable. **Egalitarianism:** the
 celebration honors every learner's artifact as equally worthy; no one's story outranks
-another's. **Global/anthropological:** gathering at a year's end to thank and look
-ahead is a human pattern across cultures — let learners bring their own traditions of
-marking endings and beginnings. **Technology/environment:** the living Earth is in the
-circle itself — the tree, the growing thing, the weather that carried the year — and
+another's. **Global/anthropological:** gathering at a year's end to thank and look ahead
+is a human pattern across cultures — let learners bring their own traditions of marking
+endings and beginnings. **Technology/environment:** the living Earth is in the circle
+itself — the tree, the growing thing, the weather that carried the year — and
 stewardship is one of the commitments learners may name. Distinguish evidence from
 values: "recalling and celebrating work strengthens memory and meaning" is descriptive
 (Dunlosky et al., S-039); "every person's story is worth celebrating" is a value we

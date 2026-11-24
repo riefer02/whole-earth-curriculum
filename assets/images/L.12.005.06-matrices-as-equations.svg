@@ -15,8 +15,8 @@
 
   <!-- augmented matrix -->
   <g font-family="sans-serif" font-size="18" fill="#222222">
-    <text x="266" y="76">[ 1  1 &#124;  50 ]</text>
-    <text x="266" y="104">[ 2  3 &#124; 120 ]</text>
+    <text fill="#222222" font-size="18" x="266" y="76">[ 1  1 &#124;  50 ]</text>
+    <text fill="#222222" font-size="18" x="266" y="104">[ 2  3 &#124; 120 ]</text>
   </g>
   <text x="380" y="94" font-family="sans-serif" font-size="12" fill="#4f6d7a">coefficients &#124; answers</text>
 
@@ -25,8 +25,8 @@
 
   <!-- reduced matrix -->
   <g font-family="sans-serif" font-size="18" fill="#222222">
-    <text x="246" y="200">[ 1  1 &#124;  50 ]</text>
-    <text x="246" y="228">[ 0  1 &#124;  20 ]</text>
+    <text fill="#222222" font-size="18" x="246" y="200">[ 1  1 &#124;  50 ]</text>
+    <text fill="#222222" font-size="18" x="246" y="228">[ 0  1 &#124;  20 ]</text>
   </g>
   <text x="380" y="215.8" font-family="sans-serif" font-size="13" fill="#4f6d7a">a staircase:</text>
   <text x="380" y="232.7" font-family="sans-serif" font-size="13" fill="#4f6d7a">zeros below</text>
@@ -37,6 +37,6 @@
   <text x="256" y="314" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">b = 20,  then  r + 20 = 50  &#8594;  r = 30</text>
   <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Same solution as elimination &#8212; done on a grid.</text>
 
-  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="12.7" fill="#4f6d7a">The fangcheng array (Nine Chapters, China) is an early ancestor (S-289).</text>
+  <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">The fangcheng array (Nine Chapters, China) is an early ancestor (S-289).</text>
   <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Computers solve huge systems with these same row moves (S-005).</text>
 </svg>

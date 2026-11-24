@@ -108,20 +108,30 @@ such a moment clearly before you decide.
 
 ## Facilitator note
 
-This lesson is written to the learner. It introduces the unit's first skill — **weighing a
-dilemma with three lenses** — so it uses a **worked example and guided practice before
-independent work** (S-011; Kirschner, Sweller & Clark, 2006). The three lenses map onto
-long-standing ethical traditions: *consequences* (what happens to everyone affected —
-consequentialism, S-386), *duties* (what I owe — deontology, S-387), and *fairness* (who gets
-what and who is left out — distributive justice, S-388). Do **not** present these as rival
-"teams" to pick from; present them as three questions to ask *together*, because most careful
-judgments draw on all three. This honors philosophy §11 (inquiry, not creed) and philosophy §5
-(distinguish evidence from values): the lenses describe *ways of reasoning*, not a ranking of
-what is right. The egalitarianism lens lives inside the fairness question: always ask *who is
-left out*. The ethics lens is the whole lesson. Keep the climate safe: no learner's answer is
-judged; the standard is *does your reason hold up and do you hear other reasons*. A learner who
-weighs only one lens is not wrong — invite them to try a second lens, never shame them
-(mastery, not ranking).
+**Tone.** Calm and curious — three questions, not three teams.
+
+**The facts to land.**
+
+1. **Consequences:** what happens to everyone affected (consequentialism, S-386).
+2. **Duties:** what I owe (deontology, S-387).
+3. **Fairness:** who gets what, and who is left out (distributive justice, S-388).
+
+**Don't overshoot.** Do not present the three as rival "teams" to pick from; most
+careful judgments draw on all three together.
+
+**The lenses, briefly.**
+
+- *Ethics:* the three lenses are ways of reasoning, not a ranking of what is right.
+- *Egalitarianism:* the fairness question always asks who is left out.
+- *Critical-thinking:* the lenses describe reasoning; they distinguish evidence from
+  values (`philosophy` §5) and keep inquiry open rather than creed (`philosophy` §11).
+
+**The skill.** This is the unit's first skill, so use a worked example and guided
+practice before independent work (S-011; Kirschner, Sweller & Clark, 2006).
+
+**Safety floor.** No learner's answer is judged; the standard is *does your reason hold
+up and do you hear other reasons*. A learner who weighs only one lens is not wrong —
+invite a second lens, never shame (mastery, not ranking).
 
 ## Procedure
 

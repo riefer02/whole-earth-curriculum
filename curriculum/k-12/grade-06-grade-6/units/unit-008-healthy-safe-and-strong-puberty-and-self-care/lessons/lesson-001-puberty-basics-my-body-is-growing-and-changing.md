@@ -130,20 +130,38 @@ own schedule.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is **factual, body-positive, and
-non-shaming** — the tone matters as much as the facts. Present the changes plainly, as
-normal biology, with no giggling invitation and no embarrassment; if a learner is
-embarrassed, meet it with calm warmth ("every adult you know went through this"). Use
-**inclusive, accurate language**: some bodies have a **uterus and ovaries** and will
-experience **menstruation**; some bodies have **testes** and will experience **erections**
-and sometimes **wet dreams**. Do not sort learners by sex, and never compare or rank
-bodies. Emphasize that these changes happen **gradually** and at **different times for
-different people** (the heart of the next lesson). Keep the reproductive content at the
-basic factual level of the standard — no graphic detail, no sexual content — and remind
-learners that a growing body is not ready to be a parent; these changes are the body
-*preparing* for a future that is still far off. Where family or community norms differ,
-adapt respectfully and encourage learners to take questions to a trusted adult at home.
-See `docs/facilitation.md` on holding sensitive topics safely and `docs/contexts.md`.
+**Tone.** Factual, body-positive, non-shaming. No giggling invitation and no
+embarrassment: if a learner is embarrassed, meet it with calm warmth ("every adult you
+know went through this").
+
+**The facts to land.**
+
+1. Puberty brings a growth spurt, body hair, and other changes that arrive
+   **gradually**, at **different times for different people** — the heart of the next
+   lesson.
+2. Use **inclusive, accurate language**: some bodies have a **uterus and ovaries** and
+   will experience **menstruation**; some have **testes** and will experience
+   **erections** and sometimes **wet dreams**.
+3. **Do not sort learners by sex**, and never compare or rank bodies.
+4. These changes are the body *preparing* for a future that is still far off.
+
+**Don't overshoot.** Keep the reproductive content at the standard's basic factual
+level. A growing body is not ready to be a parent; say that plainly, without alarm.
+
+**The lenses, briefly.**
+
+- *Physical:* ordinary biology, taught as ordinary.
+- *Social-emotional:* naming changes out loud lowers shame.
+- *Ethics:* no shame here, and no body is a moral failing.
+- *Egalitarianism:* no body is the reference body, and none is ranked.
+- *Global:* family and community norms differ — adapt respectfully, and point learners'
+  questions to a trusted adult at home.
+
+**The skill.** Describe one change accurately in your own words, and name one adult you
+could ask a question.
+
+**Safety floor.** No graphic detail, no sexual content. See `docs/facilitation.md` on
+holding sensitive topics safely and `docs/contexts.md`.
 
 ## Procedure
 

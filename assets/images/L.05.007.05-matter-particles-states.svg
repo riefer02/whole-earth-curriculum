@@ -10,7 +10,7 @@
     </marker>
   </defs>
 
-  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="20.8" font-weight="bold" fill="#2b3a42">Matter Is Made of Particles Too Small to See</text>
+  <text x="256" y="30" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Matter Is Made of Particles Too Small to See</text>
 
   <!-- SOLID panel -->
   <text x="90" y="60" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">solid</text>
@@ -55,7 +55,7 @@
   <text x="339" y="250" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">cool</text>
 
   <text x="256" y="286" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">heat makes particles move more</text>
-  <text x="256" y="306" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#2b3a42">the particles stay the same — only their motion and spacing change</text>
+  <text x="256" y="306" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">the particles stay the same — only their motion and spacing change</text>
 
   <text x="256" y="342" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">melting (solid → liquid) · evaporating (liquid → gas)</text>
   <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">freezing (liquid → solid) · condensing (gas → liquid)</text>

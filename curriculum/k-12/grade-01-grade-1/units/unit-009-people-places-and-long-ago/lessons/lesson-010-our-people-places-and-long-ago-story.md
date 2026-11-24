@@ -136,18 +136,16 @@ and long ago. Every learner's story is different, and every one belongs.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. **This is the unit's portfolio artifact and summative
-moment — but it is a celebration, not a test.** Retrieval practice across the whole
-unit is the engine here: learners are recalling and *using* everything they learned,
-spaced across the unit (this is the science-of-learning payoff — Dunlosky et al.,
-2013). The page has five
-sections, one per idea; a learner may complete all five, or tell some sections
-orally, by acting, or with a scribe. Honor every body and every family shape: no one
-must disclose their own tradition, a moving story, or a private unfairness — the
-sections can be filled with *any* tradition, place, or kind act they have met this
-unit. "No correct family," "no correct place," "no child is ever the problem." Gather
-the pages into a class mural so the whole becomes a shared, many-voiced story.
+**This is the unit's portfolio artifact and summative moment — but it is a celebration,
+not a test.** Retrieval practice across the whole unit is the engine here: learners are
+recalling and *using* everything they learned, spaced across the unit (this is the
+science-of-learning payoff — Dunlosky et al., 2013). The page has five sections, one per
+idea; a learner may complete all five, or tell some sections orally, by acting, or with
+a scribe. Honor every body and every family shape: no one must disclose their own
+tradition, a moving story, or a private unfairness — the sections can be filled with
+*any* tradition, place, or kind act they have met this unit. "No correct family," "no
+correct place," "no child is ever the problem." Gather the pages into a class mural so
+the whole becomes a shared, many-voiced story.
 
 ## Procedure
 

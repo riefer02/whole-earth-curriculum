@@ -109,21 +109,36 @@ will practice telling right from wrong, and saying why.
 
 ## Facilitator note
 
-Written to the learner ("you") so it works in a classroom and for a self-directed
-learner. The central commitment is **name the act, never the child**: say "that
-choice was wrong," never "you are a bad child." Right and wrong here name *choices*,
-not people — everyone makes wrong choices sometimes, and everyone can choose again.
-Right and wrong are held as a question to explore ("what does this choice do for the
-other person?") rather than a rule handed down. A **reason** is the "because" behind a
-choice; invite learners to give one, and accept every honest reason — there is no
-single correct answer, and a choice can be right in one situation and wrong in
-another. A learner who does not speak aloud names the choice and its reason by
-pointing to a card or a "because" picture, or by signing; a learner who is deaf or
-hard of hearing reads each situation from the cards or the acted-out scene and gives
-the reason by signing or pointing; a learner who is blind or low-vision hears each
-situation described and gives the reason aloud or by touch; a learner with a motor
-difference can direct a partner to act out the choice. Do not require anyone to speak
-in front of the group; a learner may always pass.
+**Tone.** Curious, not corrective. **Name the act, never the child.**
+
+**The facts to land.**
+
+1. Say "that choice was wrong," never "you are a bad child."
+2. Right and wrong name *choices*, not people. Everyone makes wrong choices, and
+   everyone can choose again.
+3. Hold them as a question — "what does this choice do for the other person?" — not a
+   rule handed down.
+4. A **reason** is the "because" behind a choice. Accept every honest reason; a choice
+   can be right in one situation and wrong in another.
+
+**Don't overshoot.** There is no single correct answer to collect, and no child is the
+lesson's example of wrongdoing.
+
+**The lenses, briefly.**
+
+- *Ethics:* the act is judged; the person is not.
+- *Egalitarianism:* every way of answering counts.
+- *Social-emotional:* the reason usually names a feeling or a need.
+- *Global:* what counts as wrong varies with context and custom; ask, don't assume.
+- *Critical-thinking:* a reason is the skill, not a guess.
+
+**The skill.** Name a choice, then give a reason for calling it right or wrong.
+
+**Access.** Non-speaking: point to a card or a "because" picture, or sign. Deaf or hard
+of hearing: read the situation from the cards or the acted-out scene, then sign or point
+the reason. Blind or low-vision: hear the situation described, then give the reason
+aloud or by touch. Motor difference: direct a partner to act it out. Never require
+anyone to speak; a learner may pass.
 
 ## Procedure
 

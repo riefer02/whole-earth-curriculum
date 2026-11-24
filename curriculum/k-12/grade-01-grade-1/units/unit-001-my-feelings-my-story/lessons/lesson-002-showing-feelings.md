@@ -105,12 +105,11 @@ you understand the people around you and know when to offer a hand.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Prepare the cards, mirrors, and open
-space, then lead the statue game and the closing discussion. Remind learners that
-clues are guesses, not certainties — a quiet person might be tired, not sad. Honor
-that people from different families and places may show the same feeling in
-different ways; treat no single face or gesture as the "right" one. Model curiosity
-("I wonder if...") rather than certainty.
+Prepare the cards, mirrors, and open space, then lead the statue game and the closing
+discussion. Remind learners that clues are guesses, not certainties — a quiet person
+might be tired, not sad. Honor that people from different families and places may show
+the same feeling in different ways; treat no single face or gesture as the "right" one.
+Model curiosity ("I wonder if...") rather than certainty.
 
 ## Procedure
 

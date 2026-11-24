@@ -50,7 +50,7 @@ context_variants:
     note: Learners ready to extend name why *both* matter, in their own words, and give an example from the year
 assets:
   - path: assets/images/L.02.012.03-alike-and-different.svg
-    alt: "Two children stand side by side and smile — one with short dark hair and a striped shirt, the other with curly hair, glasses, and a crutch. Two arrows point at them: 'alike' names what they share ('we both love to play'), and 'different' names what each brings ('you draw, I run'). The closing lines teach that alike helps us understand each other and different brings new gifts, so both matter."
+    alt: "Two children side by side — one with arms raised, one holding a crutch and wearing glasses — joined by a dashed line labeled alike, with the words we both love to play beneath it. Each child also has a different label on a short leader line — you draw, and I run. Caption — alike helps us understand each other; different brings new gifts; both matter."
     kind: image
     source: original
 duration_minutes: 45
@@ -111,16 +111,16 @@ languages and different ways. Alike helps us feel "you are like me." Different m
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It spirals back to the opening unit's
-"alike and different" work, now with the added question *why both matter*. The
-egalitarian commitment is firm: **difference is never a ranking**. No way of being is
-better than another — alike is not "better" than different, and no learner's fact is
-above another's. Guide pairs to find *true, kind* facts (likes, abilities, families,
-languages, ways of moving) and steer away from facts that sort people into higher and
-lower. For a learner who is blind or has low vision, focus on facts heard, felt, and
-spoken rather than seen. For a learner who does not use a speaking voice, accept
-pointing, signing, drawing, or a partner voicing. The goal is that every learner can
-say, in their own way, one alike thing and one different thing that both matter.
+It spirals back to the opening unit's "alike and different" work, now with the added
+question *why both matter*. The egalitarian commitment is firm: **difference is never a
+ranking**. No way of being is better than another — alike is not "better" than
+different, and no learner's fact is above another's. Guide pairs to find *true, kind*
+facts (likes, abilities, families, languages, ways of moving) and steer away from facts
+that sort people into higher and lower. For a learner who is blind or has low vision,
+focus on facts heard, felt, and spoken rather than seen. For a learner who does not use
+a speaking voice, accept pointing, signing, drawing, or a partner voicing. The goal is
+that every learner can say, in their own way, one alike thing and one different thing
+that both matter.
 
 ## Procedure
 

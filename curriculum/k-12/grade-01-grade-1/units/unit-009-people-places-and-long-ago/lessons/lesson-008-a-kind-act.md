@@ -105,16 +105,14 @@ are not alone.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. **Keep it gentle and concrete.** The kind act should be
-something a six-year-old can picture and one they could do themselves — sharing,
-helping, comforting, caring for an animal. The key thinking is the *why*: kindness
-matters because it meets a need, eases a hurt, or tells someone they are not alone.
-Welcome every body: a learner who does not use a speaking voice acts the kindness
-out or points to a picture; a learner who is blind or has low vision hears the story
-with clear, warm language and tells why it mattered aloud. No one is asked to
-disclose a private hurt. End on warmth and agency — learners are the ones who can do
-the next kind act.
+**Keep it gentle and concrete.** The kind act should be something a six-year-old can
+picture and one they could do themselves — sharing, helping, comforting, caring for an
+animal. The key thinking is the *why*: kindness matters because it meets a need, eases a
+hurt, or tells someone they are not alone. Welcome every body: a learner who does not
+use a speaking voice acts the kindness out or points to a picture; a learner who is
+blind or has low vision hears the story with clear, warm language and tells why it
+mattered aloud. No one is asked to disclose a private hurt. End on warmth and agency —
+learners are the ones who can do the next kind act.
 
 ## Procedure
 

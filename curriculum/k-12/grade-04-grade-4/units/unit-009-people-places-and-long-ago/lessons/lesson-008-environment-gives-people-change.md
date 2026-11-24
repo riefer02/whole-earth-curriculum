@@ -127,18 +127,18 @@ every people answers by adapting — and by reshaping the land to live well.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Model the two directions with a worked
-example first** (Kirschner, Sweller & Clark, 2006): "The environment gives — a river
-valley gives water and rich soil, so people farm grain; people change — they dig an
-irrigation canal to carry that water farther." Then guide the other places and changes.
-**Keep the framing respectful and non-ranking:** terracing, canals, wells, and chinampas
-are all ingenious human answers — the Andes terraces, the Nile and Mesopotamian canals,
-desert qanats, and Tenochtitlan's floating gardens — never "primitive" and never "less
-advanced" than today. Both directions matter: the environment shapes people, and people
-shape the environment, with care and with consequences. Honor every body: describe the
-cards in words for a learner who cannot see them; a learner who does not use a speaking
-voice points or acts. If learners can name how their own place has been changed (a
-field, a well, a road, a garden), welcome it.
+**Model the two directions with a worked example first** (Kirschner, Sweller & Clark,
+2006): "The environment gives — a river valley gives water and rich soil, so people farm
+grain; people change — they dig an irrigation canal to carry that water farther." Then
+guide the other places and changes. **Keep the framing respectful and non-ranking:**
+terracing, canals, wells, and chinampas are all ingenious human answers — the Andes
+terraces, the Nile and Mesopotamian canals, desert qanats, and Tenochtitlan's floating
+gardens — never "primitive" and never "less advanced" than today. Both directions
+matter: the environment shapes people, and people shape the environment, with care and
+with consequences. Honor every body: describe the cards in words for a learner who
+cannot see them; a learner who does not use a speaking voice points or acts. If learners
+can name how their own place has been changed (a field, a well, a road, a garden),
+welcome it.
 
 ## Procedure
 

@@ -117,25 +117,26 @@ message that asks for trust and a message that earns it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **accuracy means verifying a
-fact against a second, independent source; fairness means representing another view as its
-holder would, not as a straw figure; honesty about sources means attributing — who said it,
-where, and when.** Model one revision explicitly, then let learners revise their own (S-011).
-Frame verification as a habit, not a perfection — no one catches everything, which is exactly
-why checking matters.
+The idea to land: **accuracy means verifying a fact against a second, independent
+source; fairness means representing another view as its holder would, not as a straw
+figure; honesty about sources means attributing — who said it, where, and when.** Model
+one revision explicitly, then let learners revise their own (S-011). Frame verification
+as a habit, not a perfection — no one catches everything, which is exactly why checking
+matters.
 
-The **ethics** lens: honesty about sources is a respect for the reader's freedom — it lets them
-follow your evidence and decide for themselves, rather than taking your word. The
-**egalitarianism** lens: fairness is an equal-respect test — you describe the view you disagree
-with as carefully as the one you hold, because the people who hold it deserve the same care you
-want for yours (S-278). The **global** lens: the verification habit — tracing a claim to its
-origin and checking independent reporting — is the same discipline fact-checkers use across
-languages and countries (S-394). The **technology** lens: altered and synthetic media (such as
-deepfakes) make verification harder, so the habits of tracing and checking become more
-important, not less (S-393). The **environment** lens: environmental claims are among the most
-shared and the most distorted online, so an accurate, well-sourced message about a real place
-or resource is a genuine act of stewardship (S-004). Preview: Lesson 7 turns from making media
-to staying informed in the flood.
+The **ethics** lens: honesty about sources is a respect for the reader's freedom — it
+lets them follow your evidence and decide for themselves, rather than taking your word.
+The **egalitarianism** lens: fairness is an equal-respect test — you describe the view
+you disagree with as carefully as the one you hold, because the people who hold it
+deserve the same care you want for yours (S-278). The **global** lens: the verification
+habit — tracing a claim to its origin and checking independent reporting — is the same
+discipline fact-checkers use across languages and countries (S-394). The **technology**
+lens: altered and synthetic media (such as deepfakes) make verification harder, so the
+habits of tracing and checking become more important, not less (S-393). The
+**environment** lens: environmental claims are among the most shared and the most
+distorted online, so an accurate, well-sourced message about a real place or resource is
+a genuine act of stewardship (S-004). Preview: Lesson 7 turns from making media to
+staying informed in the flood.
 
 ## Procedure
 
@@ -187,3 +188,4 @@ Ask them if the claim now feels earned. Write one sentence about what they said.
 - On bias vs. fairness in news: Center for News Literacy (S-278); on media and information
   literacy: UNESCO — MIL (S-217); on the five core questions: Center for Media Literacy (S-442).
 - On worked examples: Kirschner, Sweller & Clark (2006) (S-011).
+- UNESCO — Education for Sustainable Development (S-004).

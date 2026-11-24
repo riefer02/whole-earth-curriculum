@@ -118,17 +118,17 @@ change.** Today you learn to read the arrows.
 
 ## Facilitator note
 
-Written to the learner ("you"). The one rule to land: **balanced forces = no change
-in motion; unbalanced forces = motion changes** (speed up, slow down, or change
-direction). The trick is that "balanced" can mean an object at rest *or* moving at a
-steady speed — no *change* either way. Use arrow length to carry size: equal arrows
-pointing opposite = balanced; unequal = unbalanced, and the **net force** points the
-way the longer arrow points. Model the worked example with the book first (gravity
-down, table up, equal — book stays), then the kicked ball (kick bigger than friction
-— it speeds up). The tug-of-war is the memorable demonstration. Note that motion at a
-steady speed with balanced forces is genuinely counter-intuitive — expect learners to
-think "a force is needed to keep moving"; that is where friction (which they met in
-Grade 3) explains why things slow down. Keep it concrete. See
+The one rule to land: **balanced forces = no change in motion; unbalanced forces =
+motion changes** (speed up, slow down, or change direction). The trick is that
+"balanced" can mean an object at rest *or* moving at a steady speed — no *change* either
+way. Use arrow length to carry size: equal arrows pointing opposite = balanced; unequal
+= unbalanced, and the **net force** points the way the longer arrow points. Model the
+worked example with the book first (gravity down, table up, equal — book stays), then
+the kicked ball (kick bigger than friction — it speeds up). The tug-of-war is the
+memorable demonstration. Note that motion at a steady speed with balanced forces is
+genuinely counter-intuitive — expect learners to think "a force is needed to keep
+moving"; that is where friction (which they met in Grade 3) explains why things slow
+down. Keep it concrete. See
 [`docs/facilitation.md`](../../../../../../docs/facilitation.md).
 
 ## Procedure

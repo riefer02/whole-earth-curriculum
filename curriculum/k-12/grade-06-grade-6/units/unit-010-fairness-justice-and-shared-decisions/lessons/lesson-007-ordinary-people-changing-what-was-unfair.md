@@ -116,21 +116,36 @@ the world than any single ruler ever did.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **ordinary people,
-working together, can change something unfair** — and history is full of it. Teach the
-four-part frame — *the unfair thing / the ordinary people / what they did together / what
-changed* — as a worked example (Kirschner, Sweller & Clark, 2006). Use **true,
-age-appropriate, non-shaming** examples: the Green Belt Movement (founded 1977 by Wangari
-Maathai with other women in Kenya, planting trees against deforestation — later spreading
-to other African countries and planting over thirty million trees; she won the 2004 Nobel
-Peace Prize); or a local story your learners know (a crossing fixed, a well won, a space
-reclaimed). The point is *how ordinary people do it*, not hero-worship — name the many,
-not one name. Attach hope, not despair: unfair things *are* changed. Distinguish
-**evidence from values**: *what happened, who acted, and what changed* are facts we can
-check; *that people should act together against unfairness* is a value this curriculum
-holds and offers to learners as a value, not a command. Carry the **environment lens**
-honestly: some of the most famous collective actions protect the shared environment —
-trees, water, land — because the environment is part of the common good. See
+**Tone.** Hopeful and concrete. The subject is the many, not the hero.
+
+**The facts to land.**
+
+1. **Ordinary people, working together, can change something unfair** — and history is
+   full of it.
+2. The four-part frame: *the unfair thing / the ordinary people / what they did together
+   / what changed.*
+3. **Green Belt Movement**: founded 1977 by Wangari Maathai with other women in Kenya,
+   planting trees against deforestation; it spread to other African countries and
+   planted over thirty million trees; she won the 2004 Nobel Peace Prize.
+4. A local story your learners know counts too — a crossing fixed, a well won, a space
+   reclaimed.
+
+**Don't overshoot.** Do not reduce a movement to one famous name. Hero-worship hides the
+many people whose work made it real.
+
+**The lenses, briefly.**
+
+- *Ethics:* what happened, who acted, and what changed are checkable facts; that people
+  should act together against unfairness is a value this curriculum holds and offers as
+  a value, not a command.
+- *Egalitarianism:* change came from people without much power or money.
+- *Global:* collective action for the common good appears on every continent.
+- *Community:* the class can name one unfair thing close to home.
+- *Environment:* some of the most famous collective actions protect shared trees, water,
+  and land, because the environment is part of the common good.
+
+**The skill.** Fill the four-part frame for one true example, naming the many rather
+than one name. Model it once (Kirschner, Sweller & Clark, 2006). See
 `docs/facilitation.md`.
 
 ## Procedure

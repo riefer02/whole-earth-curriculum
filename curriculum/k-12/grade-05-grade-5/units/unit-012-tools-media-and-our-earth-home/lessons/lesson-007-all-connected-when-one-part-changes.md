@@ -118,14 +118,14 @@ other way too.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is the **ripple trace**: name
-the chain of dependence, then follow one change through it ("if ___ changes, then ___, then
-___"). Model the pond chain fully as a worked example. This builds on Grade 4 (producers,
-consumers, decomposers) and on this unit's food-web and cycle work. Keep it hopeful and
-agency-focused: interdependence means harm can ripple, *and so can care and restoration* —
-never teach a "doomed ecosystem" without also teaching what can help. Distinguish evidence
-from values: *how living things depend on one another* is observable science; *that we should
-care for ecosystems* is a value this curriculum holds. See `docs/facilitation.md` and
+The skill to land is the **ripple trace**: name the chain of dependence, then follow one
+change through it ("if ___ changes, then ___, then ___"). Model the pond chain fully as
+a worked example. This builds on Grade 4 (producers, consumers, decomposers) and on this
+unit's food-web and cycle work. Keep it hopeful and agency-focused: interdependence
+means harm can ripple, *and so can care and restoration* — never teach a "doomed
+ecosystem" without also teaching what can help. Distinguish evidence from values: *how
+living things depend on one another* is observable science; *that we should care for
+ecosystems* is a value this curriculum holds. See `docs/facilitation.md` and
 `docs/philosophy.md` §4–5.
 
 ## Procedure

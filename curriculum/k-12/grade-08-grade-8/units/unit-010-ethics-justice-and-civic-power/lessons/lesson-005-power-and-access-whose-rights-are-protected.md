@@ -105,22 +105,31 @@ Today you learn to trace that gap, and to name what opens it and what closes it.
 
 ## Facilitator note
 
-This lesson is written to the learner. It delivers the second strand-2 goal. Two working
-definitions anchor it: **power** is the ability to influence or decide — for oneself and for
-others (S-275, Lukes); **access** is whether a person can actually reach a right, through cost,
-distance, information, or rules. Hold these as *descriptions*, not verdicts (philosophy §5). The
-egalitarianism lens is the spine: the lesson exists to notice **who is left out** and **why**,
-not to blame individuals — barriers are often built into rules and structures, not into any one
-person's intentions (this echoes the Grade-6 idea that systems can treat groups unfairly even
-when no one intends harm). The ethics lens: naming an unfair gap is the first step toward closing
-it, and the lesson ends with a **lever** — something that widens access — so learners leave with
-agency, not despair (facilitation.md "holding difficult topics safely"). The global lens: the
-same right is reached unevenly in every country; use examples from more than one region (the
-right to vote granted at very different times — S-327; the right to safe water unevenly met —
-S-065; the right to be heard — S-060, S-149). The community lens: access is built or blocked in
-the places learners actually live. Keep the tone honest and calm: these are real and serious
-facts, and the learner's job is to *see clearly and name one lever*, which is both true to the
-world and age-appropriate.
+**Tone.** Honest and calm — see clearly, then name one lever.
+
+**The facts to land.**
+
+1. **Power** is the ability to influence or decide, for oneself and for others (S-275,
+   Lukes).
+2. **Access** is whether a person can actually reach a right, through cost, distance,
+   information, or rules. Both are descriptions, not verdicts (`philosophy` §5).
+3. The same right is reached unevenly in every country: the vote granted at very
+   different times (S-327), safe water unevenly met (S-065), the right to be heard
+   (S-060, S-149).
+
+**Don't overshoot.** Do not blame individuals: barriers are often built into rules and
+structures, not into anyone's intentions.
+
+**The lenses, briefly.**
+
+- *Egalitarianism:* the lesson exists to notice who is left out and why — the spine.
+- *Ethics:* naming an unfair gap is the first step toward closing it.
+- *Global:* use examples from more than one region.
+- *Community:* access is built or blocked in the places learners actually live.
+
+**The skill.** The lesson ends with a **lever** — something that widens access — so
+learners leave with agency, not despair (`facilitation.md`, "Holding difficult topics
+safely").
 
 ## Procedure
 

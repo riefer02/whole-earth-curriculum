@@ -119,24 +119,23 @@ everyone here?"
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a conflict is best
-analyzed from all its sides at once — each party has needs and interests, and the
-distinction between *needs* and *positions* is the key that unlocks a path forward
-(conceptual tool, modeled with a worked example, S-011).** Then the constructive turn:
-**a just and peaceful path is one that names every party's needs and repairs harm,
-drawing on restorative justice as a real tradition (Zehr, S-161; IIRP, S-022).** The
-case is deliberately neutral and non-sensational; the skill is analysis and proposal,
-not taking sides or assigning blame.
+The idea to land: **a conflict is best analyzed from all its sides at once — each party
+has needs and interests, and the distinction between *needs* and *positions* is the key
+that unlocks a path forward (conceptual tool, modeled with a worked example, S-011).**
+Then the constructive turn: **a just and peaceful path is one that names every party's
+needs and repairs harm, drawing on restorative justice as a real tradition (Zehr, S-161;
+IIRP, S-022).** The case is deliberately neutral and non-sensational; the skill is
+analysis and proposal, not taking sides or assigning blame.
 
 The **ethics** lens: "what is just here?" is the question, opened not closed. The
-**egalitarianism** lens: a just path must not silently favor the stronger party —
-ask who has more power and whose needs are heard. The **global** lens: this kind of
+**egalitarianism** lens: a just path must not silently favor the stronger party — ask
+who has more power and whose needs are heard. The **global** lens: this kind of
 land-and-water dispute recurs across the world's drylands and farmlands; it is no one
 region's problem and no one region's fault. The **critical-thinking** lens:
 distinguishing the *facts* of the case (evidence) from the *judgment* of what is just
 (value), and separating needs (shared ground) from positions (the obstacle). Preview:
-Lesson 14 closes the unit by evaluating nonviolence and peacekeeping as the
-instruments of a just peace.
+Lesson 14 closes the unit by evaluating nonviolence and peacekeeping as the instruments
+of a just peace.
 
 ## Procedure
 

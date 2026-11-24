@@ -116,14 +116,14 @@ once you can see a pattern, you can prepare for it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The one idea to land is that **feelings
-repeat in recognizable patterns**, not that a learner's feelings are "predictable" in a
-way that boxes them in. Present the pattern as *useful knowledge*, never as a label or a
-verdict ("you're always worried"). A pattern is information about *what tends to happen*,
-not a rule about *who the learner is*. Some learners carry heavy or private patterns
-(loss, illness, home tension); invite only small, safe examples and never require a
-learner to reveal a painful one. The skill is *noticing*, with gentleness. See
-`docs/facilitation.md` on holding difficult topics safely.
+The one idea to land is that **feelings repeat in recognizable patterns**, not that a
+learner's feelings are "predictable" in a way that boxes them in. Present the pattern as
+*useful knowledge*, never as a label or a verdict ("you're always worried"). A pattern
+is information about *what tends to happen*, not a rule about *who the learner is*. Some
+learners carry heavy or private patterns (loss, illness, home tension); invite only
+small, safe examples and never require a learner to reveal a painful one. The skill is
+*noticing*, with gentleness. See `docs/facilitation.md` on holding difficult topics
+safely.
 
 ## Procedure
 

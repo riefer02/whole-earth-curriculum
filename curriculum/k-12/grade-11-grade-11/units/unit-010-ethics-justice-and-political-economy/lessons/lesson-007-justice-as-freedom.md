@@ -119,13 +119,12 @@ by whether no one is stopping them. That distinction changes everything.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a freedom-centered
-theory of justice has two readings — "freedom from" (no interference) and "freedom
-to" (real capability) — and the capability reading is what makes freedom a test of
-justice rather than a slogan (Sen, S-460; Rawls's liberal account, S-459).** The
-methodological point: **this is one theory among several, to be evaluated, not the
-answer.** The distinction between "freedom from" and "freedom to" is a conceptual tool,
-not a political verdict; present both readings fairly.
+The idea to land: **a freedom-centered theory of justice has two readings — "freedom
+from" (no interference) and "freedom to" (real capability) — and the capability reading
+is what makes freedom a test of justice rather than a slogan (Sen, S-460; Rawls's
+liberal account, S-459).** The methodological point: **this is one theory among several,
+to be evaluated, not the answer.** The distinction between "freedom from" and "freedom
+to" is a conceptual tool, not a political verdict; present both readings fairly.
 
 The **ethics** lens: what people are owed — freedom — is a moral claim, opened not
 closed. The **egalitarianism** lens: the capability test exposes where "equal freedom"
@@ -133,8 +132,8 @@ is not equal in practice, because resources and health are uneven (UNDP, S-283).
 **global** lens: capability thinking arose partly from comparing development across
 countries (Sen); no one society is the default model of freedom. The
 **critical-thinking** lens: distinguishing "what the theory *says*" (evidence) from
-"what I think a just society *owes*" (value). Preview: Lesson 8 adds equality and
-care as rival answers.
+"what I think a just society *owes*" (value). Preview: Lesson 8 adds equality and care
+as rival answers.
 
 ## Procedure
 

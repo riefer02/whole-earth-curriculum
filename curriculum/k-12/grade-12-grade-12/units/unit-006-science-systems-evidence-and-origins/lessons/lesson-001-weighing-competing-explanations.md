@@ -117,26 +117,26 @@ That is weighing, and it is a move every person, in every place, can make.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **competing explanations
-are weighed by the same three public criteria — evidence, coherence, and falsifiability —
-not by who said them or how they feel.** Teach the worked example explicitly, then let
-learners run the weigh on a fresh case (S-011). Keep two things distinct: a *factual*
-question (which explanation fits the evidence better?) and a *value* question (which
-outcome would we prefer?) — because the strongest explanation can be one we wish were not
-true.
+The idea to land: **competing explanations are weighed by the same three public criteria
+— evidence, coherence, and falsifiability — not by who said them or how they feel.**
+Teach the worked example explicitly, then let learners run the weigh on a fresh case
+(S-011). Keep two things distinct: a *factual* question (which explanation fits the
+evidence better?) and a *value* question (which outcome would we prefer?) — because the
+strongest explanation can be one we wish were not true.
 
 The **ethics** lens: weighing honestly means giving each explanation the same test and
-accepting the verdict even when it is inconvenient. The **egalitarianism** lens: the three
-criteria are open to anyone with curiosity and a record of observations — they need no
-laboratory, no title, no fee. The **global** lens: the same weigh appears wherever people
-reason — Semmelweis and John Snow tested germ explanations against "bad air" in 19th-century
-Europe (S-357, S-358), and every culture that has compared two accounts of a river, a
-sickness, or a sky has weighed evidence against belief. The **technology** lens: instruments
-change what counts as evidence — a microscope, a telescope, a particle detector each open a
-new court where explanations are tried (S-488). The **environment** lens: the weigh is
-exactly what we need for contested environmental questions — overfishing versus pollution
-versus a warming river — where more than one explanation is on offer. Preview: Lesson 2
-sharpens each criterion into a working tool.
+accepting the verdict even when it is inconvenient. The **egalitarianism** lens: the
+three criteria are open to anyone with curiosity and a record of observations — they
+need no laboratory, no title, no fee. The **global** lens: the same weigh appears
+wherever people reason — Semmelweis and John Snow tested germ explanations against "bad
+air" in 19th-century Europe (S-357, S-358), and every culture that has compared two
+accounts of a river, a sickness, or a sky has weighed evidence against belief. The
+**technology** lens: instruments change what counts as evidence — a microscope, a
+telescope, a particle detector each open a new court where explanations are tried
+(S-488). The **environment** lens: the weigh is exactly what we need for contested
+environmental questions — overfishing versus pollution versus a warming river — where
+more than one explanation is on offer. Preview: Lesson 2 sharpens each criterion into a
+working tool.
 
 ## Procedure
 

@@ -115,18 +115,36 @@ left out.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **every report is framed — a selection of
-what to show and what to omit — and the frame shapes what people conclude; media literacy is the habit of
-noticing the frame and asking what it left out.** The **critical-thinking** lens is the spine. The
-**ethics** lens: fair reporting names its angle and seeks what it might be missing (S-442). The
-**egalitarian** lens: framing decides whose experience is centered and whose is omitted — a question of
-who gets to be the "we" of a story (S-417). The **global** lens: the same event is framed differently by
-different media systems and cultures, and reading across them widens the frame. The **technology** lens:
-the feed amplifies the most engaging frame, not the most complete one (S-482). The **environment** lens:
-environmental stories are especially vulnerable to framing — a drought framed as "weather" omits the
-long human causes; notice what the frame hides. Use the event example with care and keep claims hedged.
-Preview: we now pivot to the Earth itself — ecosystem services and tipping points — the environment half
-of the unit.
+**Tone.** Alert but fair: every report selects, and the question is what the selection
+hid.
+
+**The facts to land.**
+
+1. Every report is framed — a selection of what to show and what to omit — and the frame
+   shapes what people conclude. Media literacy is noticing the frame and asking what it
+   left out.
+2. Fair reporting names its angle and seeks what it might be missing (S-442).
+3. Framing decides whose experience is centred and whose is omitted — who gets to be the
+   "we" of a story (S-417).
+
+**Don't overshoot.** A frame is not a lie; a report that selected nothing could not
+exist.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* the spine — name the frame, then name the gap.
+- *Ethics:* naming your angle is honest; hiding it is not.
+- *Egalitarianism:* omission is how the less powerful are kept out of the story.
+- *Global:* the same event is framed differently by different media systems; reading
+  across them widens the frame.
+- *Technology:* the feed amplifies the most engaging frame, not the most complete one
+  (S-482).
+- *Environment:* a drought framed as "weather" omits the long human causes; notice what
+  the frame hides.
+
+**The skill.** Model once, then release (S-011): frame one story two ways and say what
+each version hides. Use the event example with care and keep claims hedged. Next we
+pivot to the Earth itself.
 
 ## Procedure
 
@@ -172,3 +190,4 @@ would you look to fill the gap?
   (2011) (S-482).
 - On the danger of a single story and whose experience is centered: Chimamanda Ngozi Adichie, "The
   Danger of a Single Story," <https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story> (S-417).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

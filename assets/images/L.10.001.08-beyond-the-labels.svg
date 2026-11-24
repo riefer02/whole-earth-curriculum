@@ -15,19 +15,19 @@
   <g font-family="Georgia, serif" font-size="15" fill="#222222" text-anchor="middle">
     <g transform="rotate(-14 120 110)">
       <rect x="70" y="96" width="100" height="30" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
-      <text x="120" y="116">too quiet</text>
+      <text fill="#222222" text-anchor="middle" font-size="15" x="120" y="116">too quiet</text>
     </g>
     <g transform="rotate(10 400 110)">
       <rect x="350" y="96" width="104" height="30" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
-      <text x="402" y="116">not like us</text>
+      <text fill="#222222" text-anchor="middle" font-size="15" x="402" y="116">not like us</text>
     </g>
     <g transform="rotate(8 96 300)">
       <rect x="44" y="286" width="104" height="30" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
-      <text x="96" y="306">too much</text>
+      <text fill="#222222" text-anchor="middle" font-size="15" x="96" y="306">too much</text>
     </g>
     <g transform="rotate(-10 420 300)">
       <rect x="366" y="286" width="108" height="30" rx="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
-      <text x="420" y="306">not enough</text>
+      <text fill="#222222" text-anchor="middle" font-size="15" x="420" y="306">not enough</text>
     </g>
   </g>
   <text x="256" y="470" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#222222">I am more than any label someone sticks on me</text>

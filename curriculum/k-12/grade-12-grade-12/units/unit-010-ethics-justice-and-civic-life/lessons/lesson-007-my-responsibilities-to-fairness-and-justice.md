@@ -126,30 +126,40 @@ reasons, not reflexes.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **inequality and unequal access
-are real and measured (evidence), and what each of us owes to fairness and justice is a question
-of value reasoned from that evidence — at the scale of self, community, society, and world. There
-is no single correct list of responsibilities; the skill is to reason from evidence to a value
-commitment without confusing the two.** Present the evidence accurately but lightly (the lesson is
-about *responsibility*, not about mastering statistics): inequality within and between countries
-is large and documented (S-464, S-283); unequal access to basics such as safely managed drinking
-water is real and widespread (S-065). Offload all numbers to the pre-printed sheet and read them
-aloud; never require computation.
+**Tone.** Honest about the gap between evidence and obligation: the data does not tell
+you what you owe.
 
-The **ethics** lens: the move from "this is unfair" to "therefore I owe…" is an *inference*, not
-automatic — philosophers have long argued about whether the better-off owe the worse-off anything,
-and the lesson holds that question open rather than decreeing an answer (S-388, S-459). The
-**egalitarianism** lens: the heart of the strand — who benefits and who is left out — is here made
-personal: my responsibility is partly shaped by *where I stand* in the unequal order, which is why
-the answer differs honestly from one learner to another. The **global** lens: justice is argued
-differently across traditions — some center equal treatment, some need, some capability and
-freedom (S-388, S-459, S-460) — and a learner's answer may draw on any of them, or on none, as
-long as it is reasoned. The **technology** lens: technology can widen or narrow the gaps — digital
-access is itself now an inequality (S-006, S-283) — so part of a responsibility to justice is
-asking who a new tool leaves out. The **environment** lens: unequal access to clean water and a
-safe environment is among the starkest injustices, and the people who did least to cause
-environmental harm often bear the most of it (S-065, S-005). Preview: Lesson 8 turns these
-responsibilities into concrete actions.
+**The facts to land.**
+
+1. Inequality and unequal access are real and measured; what each of us owes to fairness
+   is a question of value reasoned from that evidence, at the scale of self, community,
+   society, world.
+2. Inequality within and between countries is large and documented (S-464, S-283), and
+   unequal access to safely managed water is widespread (S-065). Offload the numbers to
+   the pre-printed sheet.
+3. There is no single correct list of responsibilities; the skill is reasoning from
+   evidence to a value commitment without confusing the two.
+
+**Don't overshoot.** Do not decree an answer: philosophers argue whether the better-off
+owe the worse-off anything (S-388, S-459).
+
+**The lenses, briefly.**
+
+- *Ethics:* the move from "this is unfair" to "therefore I owe" is an inference, not an
+  automatic step (S-388, S-459).
+- *Egalitarianism:* my responsibility is partly shaped by *where I stand* in the unequal
+  order, so honest answers differ from learner to learner.
+- *Global:* traditions centre equal treatment, need, or capability (S-388, S-459,
+  S-460).
+- *Technology:* digital access is itself an inequality (S-006, S-283), so part of the
+  responsibility is asking who a new tool leaves out.
+- *Environment:* unequal access to clean water and a safe environment is among the
+  starkest injustices (S-065, S-005).
+- *Critical-thinking:* distinguish the measured fact from the inference you draw from
+  it.
+
+**The skill.** Model one chain, then release (S-011): evidence → inference → commitment,
+naming the inference.
 
 ## Procedure
 
@@ -209,3 +219,6 @@ their answer and your own — one line each, with one reason each.
 - On theories of justice and what is owed: Stanford Encyclopedia of Philosophy — Distributive
   Justice (S-388); Rawls — A Theory of Justice (S-459); Sen — Development as Freedom (S-460).
   On charity vs. solidarity: Spade — Mutual Aid (S-345).
+- On modelling before practice: Kirschner, Sweller & Clark — Why Minimal Guidance Does Not
+  Work (S-011).
+- Intergovernmental Panel on Climate Change (S-005).

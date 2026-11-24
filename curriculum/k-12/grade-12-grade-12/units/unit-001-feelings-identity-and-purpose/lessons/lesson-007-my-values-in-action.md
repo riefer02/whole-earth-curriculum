@@ -114,11 +114,10 @@ closing it, a little, every time you choose.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **values are tested by
-their cost, and integrity is the habit of noticing and shrinking the gap — not a state
-of perfect consistency.** Even strongly held values can fail to appear in behavior when
-the situation makes them expensive, which is why the lesson asks for honesty about the
-gap rather than shame about it.
+The idea to land: **values are tested by their cost, and integrity is the habit of
+noticing and shrinking the gap — not a state of perfect consistency.** Even strongly
+held values can fail to appear in behavior when the situation makes them expensive,
+which is why the lesson asks for honesty about the gap rather than shame about it.
 
 The **ethics** lens: living a value is an ethical act, and the gap is where ethics
 becomes real. The **egalitarianism** lens: the *cost* of living a value is not the same
@@ -129,10 +128,10 @@ value set is theirs to articulate, never to be corrected toward any single canon
 **critical-thinking** lens: the honest naming of a gap is a check on self-flattery —
 exactly the kind of check this unit trains.
 
-**Safeguarding:** scenarios are one step removed and chosen to avoid demanding
-disclosure of trauma or family distress. If a learner names a real gap that is
-genuinely risky (e.g., safety, abuse), do not treat it as a classroom exercise —
-redirect to appropriate support.
+**Safety floor.** scenarios are one step removed and chosen to avoid demanding
+disclosure of trauma or family distress. If a learner names a real gap that is genuinely
+risky (e.g., safety, abuse), do not treat it as a classroom exercise — redirect to
+appropriate support.
 
 ## Procedure
 

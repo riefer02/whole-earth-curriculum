@@ -116,27 +116,27 @@ policy wearing a grammar's clothes.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a language policy —
-which language is official, used in government, law, or public life — is never neutral;
-it distributes inclusion and exclusion, so it must be evaluated for equity.** The
-standard is evaluative: learners weigh effects, not memorize a verdict. Distinguish
-*evidence* (what a policy actually says and does) from *values* (whether inclusion is
-the aim — the unit holds it as a value, philosophy §5). Examples span the globe: colonial
-languages kept as the language of government after independence (Ngũgĩ's account of
-English vs. Gikuyu, S-424); official multilingual states; and the worldwide fact that
-about 40 percent of people lack education in a language they speak or understand
-(S-019). Present these as cases to weigh, not lessons to absorb.
+The idea to land: **a language policy — which language is official, used in government,
+law, or public life — is never neutral; it distributes inclusion and exclusion, so it
+must be evaluated for equity.** The standard is evaluative: learners weigh effects, not
+memorize a verdict. Distinguish *evidence* (what a policy actually says and does) from
+*values* (whether inclusion is the aim — the unit holds it as a value, philosophy §5).
+Examples span the globe: colonial languages kept as the language of government after
+independence (Ngũgĩ's account of English vs. Gikuyu, S-424); official multilingual
+states; and the worldwide fact that about 40 percent of people lack education in a
+language they speak or understand (S-019). Present these as cases to weigh, not lessons
+to absorb.
 
 Model the five questions once, then let learners evaluate (worked example → guided
 practice → independent work; S-011). The **egalitarian** lens is the spine: ask *who
 benefits and who is excluded* — the same sound, praised in one policy and erased in
-another, is a question of power. The **ethics** lens: fairness asks whether every
-person can be heard and understood in the places that decide their life. The **global**
-lens: policies differ enormously — some states recognize many languages, others one —
-and no single model is the world's. The **critical-thinking** lens: read a policy's
-*assumed value* ("one common language unites us" vs. "many languages are wealth") and
-test it against the effects. Preview: Lesson 14 zooms into the policy that touches
-learners most directly — language in schools.
+another, is a question of power. The **ethics** lens: fairness asks whether every person
+can be heard and understood in the places that decide their life. The **global** lens:
+policies differ enormously — some states recognize many languages, others one — and no
+single model is the world's. The **critical-thinking** lens: read a policy's *assumed
+value* ("one common language unites us" vs. "many languages are wealth") and test it
+against the effects. Preview: Lesson 14 zooms into the policy that touches learners most
+directly — language in schools.
 
 ## Procedure
 

@@ -118,16 +118,15 @@ tell it, the way a family story reflects a family.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). These are **living traditions** of real
-peoples, not "myths" in the sense of "made-up tales." Use the words *origin story* and
-*told by*, and name each people with respect. Some learners may belong to these peoples or
-hold other sacred traditions; receive their knowledge warmly and let them be the authority
-on their own story. Do **not** rank the stories or ask which is "true"; hold them side by
-side, as the curriculum holds scientific and cultural accounts without ranking them
-(`docs/philosophy.md` §11). Note that details vary from teller to teller and community to
-community; that variety is part of a living tradition, not an error. This lesson produces
-the unit's **origin-story comparison** portfolio artifact. See `docs/facilitation.md` on
-holding topics safely.
+These are **living traditions** of real peoples, not "myths" in the sense of "made-up
+tales." Use the words *origin story* and *told by*, and name each people with respect.
+Some learners may belong to these peoples or hold other sacred traditions; receive their
+knowledge warmly and let them be the authority on their own story. Do **not** rank the
+stories or ask which is "true"; hold them side by side, as the curriculum holds
+scientific and cultural accounts without ranking them (`docs/philosophy.md` §11). Note
+that details vary from teller to teller and community to community; that variety is part
+of a living tradition, not an error. This lesson produces the unit's **origin-story
+comparison** portfolio artifact. See `docs/facilitation.md` on holding topics safely.
 
 ## Procedure
 

@@ -119,13 +119,12 @@ not escaping the forces, but deciding what to do with them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **identity is
-authored — chosen about — not merely received, and authorship happens *within* forces,
-not outside them.** The four statuses describe *how* (exploration vs. commitment), and
-are offered as description with explicit non-ranking (Marcia, S-403): open exploration
-is healthy and expected at this age. Group membership shapes identity even when the
-groups are arbitrary (Tajfel, S-232), which is why the lesson asks learners to notice
-*which* groups have quietly shaped them.
+The idea to land: **identity is authored — chosen about — not merely received, and
+authorship happens *within* forces, not outside them.** The four statuses describe *how*
+(exploration vs. commitment), and are offered as description with explicit non-ranking
+(Marcia, S-403): open exploration is healthy and expected at this age. Group membership
+shapes identity even when the groups are arbitrary (Tajfel, S-232), which is why the
+lesson asks learners to notice *which* groups have quietly shaped them.
 
 The **ethics** lens: what we refuse and what we keep is an ethical choice — about what
 kind of person we will be. The **egalitarianism** lens: some people are *allowed* to
@@ -137,7 +136,7 @@ megacity inheritance are both real and neither is the default. The **critical-th
 lens: the map is a check that separates "I was given this" from "I chose this" — the
 core move of authorship.
 
-**Safeguarding:** learners name forces they choose; no one is required to disclose
+**Safety floor.** learners name forces they choose; no one is required to disclose
 marginalized identities, migration history, or family rupture. Honor refusal and
 silence.
 

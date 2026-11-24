@@ -123,14 +123,13 @@ but there are real paths, and this lesson walks them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **changing an unjust
-law or system is a path with identifiable steps — notice the harm, organize with
-others, act (often nonviolently), and press for change — illustrated by documented
-cases (Salt March S-390; Parihaka S-144; Defiance Campaign S-146; Montgomery S-324;
-Wave Hill S-206).** The methodological point: **these are cases to *learn the steps
-from*, not a single template to copy — each people chose its own way, and each paid
-real costs.** Hold the ethical question open: is it right to break an unjust law
-openly? Let learners argue both sides; do not answer for them.
+The idea to land: **changing an unjust law or system is a path with identifiable steps —
+notice the harm, organize with others, act (often nonviolently), and press for change —
+illustrated by documented cases (Salt March S-390; Parihaka S-144; Defiance Campaign
+S-146; Montgomery S-324; Wave Hill S-206).** The methodological point: **these are cases
+to *learn the steps from*, not a single template to copy — each people chose its own
+way, and each paid real costs.** Hold the ethical question open: is it right to break an
+unjust law openly? Let learners argue both sides; do not answer for them.
 
 The **ethics** lens: the question of civil disobedience — when breaking a law is the
 right thing to do — is a live moral question, opened not closed. The **egalitarianism**

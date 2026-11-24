@@ -118,23 +118,23 @@ you design with someone, not for them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **the unit closes by
-assembling its two artifacts — a personal health-care plan (access, advocacy,
-navigation) and a support design — under the principle "nothing about us without us":
-support is made with the person, never imposed on them.** Three anchors: **charity and
-mutual aid are different — charity hands things down and keeps the giver's power, while
-mutual aid meets needs as equals who share both the giving and the deciding (S-345);
-mutual aid and communal-work traditions are widespread human practice (S-163, S-164).**
-And **overlapping identities (culture, gender, ability, class) shape a person's care
-together, not separately — intersectionality (S-334) — so a support design must ask,
-not assume.** The value core — dignity, care, not ranking — is philosophy §12.
+The ideas to land: **the unit closes by assembling its two artifacts — a personal
+health-care plan (access, advocacy, navigation) and a support design — under the
+principle "nothing about us without us": support is made with the person, never imposed
+on them.** Three anchors: **charity and mutual aid are different — charity hands things
+down and keeps the giver's power, while mutual aid meets needs as equals who share both
+the giving and the deciding (S-345); mutual aid and communal-work traditions are
+widespread human practice (S-163, S-164).** And **overlapping identities (culture,
+gender, ability, class) shape a person's care together, not separately —
+intersectionality (S-334) — so a support design must ask, not assume.** The value core —
+dignity, care, not ranking — is philosophy §12.
 
 The **ethics** lens: how we support others is ethics in action. The **egalitarianism**
 lens: support as equals, not charity from above. The **community** lens: mutual aid is
 built in community, not imposed by institutions. This is a **summative** artifact for
-the unit; keep it private and optional to share, and let learners who are still
-building revise rather than be ranked (S-096, "not yet"). Preview: the plan hands off
-to Grade 12's independent health management.
+the unit; keep it private and optional to share, and let learners who are still building
+revise rather than be ranked (S-096, "not yet"). Preview: the plan hands off to Grade
+12's independent health management.
 
 ## Procedure
 

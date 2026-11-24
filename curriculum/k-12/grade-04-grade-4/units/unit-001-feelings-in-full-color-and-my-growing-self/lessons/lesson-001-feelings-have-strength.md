@@ -118,13 +118,12 @@ might need — and that is a skill you can practice your whole life.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The one idea to land is that feeling
-*strength* is a real, observable thing — not that some feelings are "good" or "bad."
-Model the worked example aloud (a little / some / a lot of the *same* feeling) before
-learners place their own. Watch for learners who choose a feeling that is very strong;
-honor it calmly and name it with them, then move gently on. Never tell a learner their
-feeling is "too big" — the point is *noticing size*, not judging it. See
-`docs/facilitation.md` on holding big feelings safely.
+The one idea to land is that feeling *strength* is a real, observable thing — not that
+some feelings are "good" or "bad." Model the worked example aloud (a little / some / a
+lot of the *same* feeling) before learners place their own. Watch for learners who
+choose a feeling that is very strong; honor it calmly and name it with them, then move
+gently on. Never tell a learner their feeling is "too big" — the point is *noticing
+size*, not judging it. See `docs/facilitation.md` on holding big feelings safely.
 
 ## Procedure
 

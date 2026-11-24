@@ -131,16 +131,16 @@ kitchen, a workshop, or a science lab — and it is how we come to trust what we
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the capstone of the inquiry strand,
-so structure it as a **worked example then guided practice** (Kirschner, Sweller & Clark,
-2006): plan the test together on the chart first, naming the one change and the things
-kept the same, then run the trials as a group, and let learners write their own
-conclusion. Handle warm water safely yourself — never boiling, and never left where a
-learner could spill it on skin. Keep the egalitarian lens alive: a controlled experiment
-belongs to everyone, not only to people in labs; anyone with two cups and a hand can ask
-this question and get real evidence. Remind learners that a result that surprises us is
-still evidence — we describe it honestly and wonder why. This experiment feeds forward:
-learners will reuse "change one thing, keep the rest the same" all year.
+It is the capstone of the inquiry strand, so structure it as a **worked example then
+guided practice** (Kirschner, Sweller & Clark, 2006): plan the test together on the
+chart first, naming the one change and the things kept the same, then run the trials as
+a group, and let learners write their own conclusion. Handle warm water safely
+yourself — never boiling, and never left where a learner could spill it on skin. Keep
+the egalitarian lens alive: a controlled experiment belongs to everyone, not only to
+people in labs; anyone with two cups and a hand can ask this question and get real
+evidence. Remind learners that a result that surprises us is still evidence — we
+describe it honestly and wonder why. This experiment feeds forward: learners will reuse
+"change one thing, keep the rest the same" all year.
 
 ## Procedure
 

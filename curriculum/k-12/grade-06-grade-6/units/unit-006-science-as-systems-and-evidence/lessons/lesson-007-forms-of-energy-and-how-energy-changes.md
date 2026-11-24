@@ -118,18 +118,17 @@ five and watch them change.
 
 ## Facilitator note
 
-Written to the learner ("you"). Two ideas to land: (1) the **five forms** and a clear
-example of each, and (2) **energy changes form** (transforms). Keep the forms concrete
-and bodily: kinetic = moving, potential = stored by position or stretch, thermal =
-heat, chemical = stored in food/fuel/batteries, electrical = moving charges in wires.
-Model the worked example with the rubber band: stretched it is potential, released it
-becomes kinetic, and (rub your hands) motion becomes thermal. The claim that energy
-changes form without being destroyed (conservation) is introduced lightly here and
-formalized in Grade 9 — keep the everyday meaning now. Global examples keep it
-faithful to many lives: a river turning a water wheel, a charcoal stove, a solar
-panel, a bicycle. Note technology's role honestly: the same energy that cooks a meal
-also powers engines — a chance to name both benefit and care. See
-[`docs/facilitation.md`](../../../../../../docs/facilitation.md).
+Two ideas to land: (1) the **five forms** and a clear example of each, and (2) **energy
+changes form** (transforms). Keep the forms concrete and bodily: kinetic = moving,
+potential = stored by position or stretch, thermal = heat, chemical = stored in
+food/fuel/batteries, electrical = moving charges in wires. Model the worked example with
+the rubber band: stretched it is potential, released it becomes kinetic, and (rub your
+hands) motion becomes thermal. The claim that energy changes form without being
+destroyed (conservation) is introduced lightly here and formalized in Grade 9 — keep the
+everyday meaning now. Global examples keep it faithful to many lives: a river turning a
+water wheel, a charcoal stove, a solar panel, a bicycle. Note technology's role
+honestly: the same energy that cooks a meal also powers engines — a chance to name both
+benefit and care. See [`docs/facilitation.md`](../../../../../../docs/facilitation.md).
 
 ## Procedure
 

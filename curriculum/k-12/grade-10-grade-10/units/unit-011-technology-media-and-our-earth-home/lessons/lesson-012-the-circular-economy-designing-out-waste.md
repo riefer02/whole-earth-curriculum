@@ -114,20 +114,34 @@ the start. The difference between the two is not a law of nature; it is a choice
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a linear economy takes, makes, uses,
-and wastes; a circular economy designs out waste so materials stay in use and nature is regenerated — the
-difference is a design choice, not a fact of nature.** The **environment** lens is the spine. The
-**technology** lens: circular design is a technology question — how a thing is made determines whether its
-materials can return (S-452). The **egalitarian** lens: waste rarely stays where it is made — e-waste and
-plastic waste are dumped on poorer communities and countries, so a linear economy exports harm (S-397,
-S-216). The **global** lens: many cultures have long practiced circularity — repair, reuse, shared tools —
-and the linear model is historically recent, not universal. The **ethics** lens: treating the Earth as an
-endless supply and an endless bin is a moral choice, and circularity is a form of care for future people.
-Anchor the framework: the Ellen MacArthur Foundation defines a circular economy as one where materials
-never become waste and nature is regenerated (S-452); a product's life cycle runs from materials to
-making to use to disposal (S-371); food waste is roughly a fifth of food available to consumers (S-410).
-Distinguish evidence (what the models do) from values (which we should build). Preview: next lesson
-evaluates a real sustainability solution for benefits, limits, and fairness.
+**Tone.** Practical: waste is a design decision, so it can be designed out.
+
+**The facts to land.**
+
+1. A linear economy takes, makes, uses, and wastes; a circular economy designs out waste
+   so materials stay in use and nature is regenerated — a design choice, not a fact of
+   nature.
+2. The Ellen MacArthur Foundation defines it this way (S-452); a product's life cycle
+   runs from materials to making to use to disposal (S-371); food waste is roughly a
+   fifth of food available to consumers (S-410).
+3. Waste rarely stays where it is made: e-waste and plastic waste are dumped on poorer
+   communities and countries (S-397, S-216).
+
+**Don't overshoot.** The linear model is historically recent, not universal — repair,
+reuse, and shared tools have long been ordinary in many cultures.
+
+**The lenses, briefly.**
+
+- *Environment:* the spine — materials either return or they leak.
+- *Technology:* how a thing is made decides whether its materials can come back (S-452).
+- *Egalitarianism:* a linear economy exports harm to those with least power to refuse
+  it.
+- *Global:* circularity is old practice in many places, not a new invention.
+- *Ethics:* treating the Earth as endless supply and endless bin is a moral choice.
+
+**The skill.** Model once, then release (S-011): trace one product and mark every point
+where it could loop. Keep evidence (what the models do) apart from values (which to
+build).
 
 ## Procedure
 
@@ -183,3 +197,4 @@ reused, or returned to a loop — and what would have to be different for that t
   <https://www.unep.org/resources/publication/food-waste-index-report-2024> (S-410).
 - On plastic pollution and the move to a circular economy: UNEP, Plastic Pollution,
   <https://www.unep.org/plastic-pollution> (S-216).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

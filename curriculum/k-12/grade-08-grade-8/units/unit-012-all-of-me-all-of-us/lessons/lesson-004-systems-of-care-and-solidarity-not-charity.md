@@ -116,22 +116,37 @@ actually practicing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The goal: **each learner analyzes one real system of
-care with three questions — who gives, who receives, who decides — and can explain the difference
-between charity and mutual aid/solidarity.** Hold the distinction carefully and non-morally: charity
-is not "bad," and a hungry person fed by a gift is still fed; the *point* is that sharing power is
-different from sharing only goods (S-345). The **egalitarian** lens is the heart here: the difference
-is who holds power — in charity the giver keeps the power and the receiver stays passive and often
-must prove need; in mutual aid and solidarity people decide together as equals (S-345). The **global**
-lens: mutual aid is a widespread, documented human practice — harambee in Kenya, gotong royong in
-Indonesia, mink'a/minga in the Andes, barn raising in North America — each a named tradition in one
-place, not a universal claim about "all people" (S-164); the term itself was popularized by Kropotkin
-(S-163). The **ethics** lens: what does a system of care do to a person's dignity — does it lift
-people or keep them dependent? The **technology** lens: digital tools can organize mutual aid fast
-(neighbors coordinating help in a crisis) *and* can be used to surveil who "deserves" help. The
-**environment** lens: many systems of care are also systems of *land* care — a shared garden, a
-managed watershed, a disaster kitchen — caring for people and place at once. Keep it concrete and
-hopeful: learners leave with the tools to *notice* power, not with despair about it.
+**Tone.** Concrete and hopeful — notice power, don't despair of it.
+
+**The facts to land.**
+
+1. Analyze one real system of care with three questions: **who gives, who receives, who
+   decides.**
+2. Charity is not "bad," and a hungry person fed by a gift is still fed; the point is
+   that sharing power differs from sharing only goods (S-345).
+3. In charity the giver keeps the power and the receiver must often prove need; in
+   mutual aid and solidarity people decide together as equals (S-345).
+
+**Don't overshoot.** Do not moralize either model or imply that one gift solves
+inequality.
+
+**The lenses, briefly.**
+
+- *Community:* care is organized among neighbours.
+- *Ethics:* ask what a system does to a person's dignity — lift people, or keep them
+  dependent?
+- *Egalitarianism:* the difference is who holds power — the heart of the lesson.
+- *Global:* mutual aid is widespread and documented — harambee in Kenya, gotong royong
+  in Indonesia, mink'a/minga in the Andes, barn raising in North America — each a named
+  tradition in one place, not a universal claim (S-164); the term was popularized by
+  Kropotkin (S-163).
+- *Technology:* digital tools can organize help fast, and can also surveil who
+  "deserves" it.
+- *Environment:* many care systems are also land care — a shared garden, a managed
+  watershed, a disaster kitchen.
+
+**The skill.** Map one system of care onto the three questions, then name who holds
+power.
 
 ## Procedure
 

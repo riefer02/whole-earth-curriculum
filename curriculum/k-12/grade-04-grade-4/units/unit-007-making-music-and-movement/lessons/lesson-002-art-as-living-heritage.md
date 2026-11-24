@@ -118,16 +118,16 @@ meet an artwork is the best way to meet a person: with curiosity and care.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The heart of it is a *stance*: other
-people's arts are living heritage, never curiosities. Model the respectful-question
-skill with a worked example — a respectful question asks to understand ("Who makes
-this, and what does it mean to them?"), while a judgment is different ("Why do they
-make it look like that?"). Hold that distinction gently and often. If you can, invite
-a living tradition-bearer from the local community; if you cannot, say plainly that
-images are only a doorway and the best learning comes from the people themselves. Some
-arts are sacred or private, and the most respectful act is sometimes *not* to look —
-teach that boundary as part of respect. Distinguish what we can *observe* (subject,
-materials, purpose) from what we must *ask about* (meaning, occasion, belief).
+The heart of it is a *stance*: other people's arts are living heritage, never
+curiosities. Model the respectful-question skill with a worked example — a respectful
+question asks to understand ("Who makes this, and what does it mean to them?"), while a
+judgment is different ("Why do they make it look like that?"). Hold that distinction
+gently and often. If you can, invite a living tradition-bearer from the local community;
+if you cannot, say plainly that images are only a doorway and the best learning comes
+from the people themselves. Some arts are sacred or private, and the most respectful act
+is sometimes *not* to look — teach that boundary as part of respect. Distinguish what we
+can *observe* (subject, materials, purpose) from what we must *ask about* (meaning,
+occasion, belief).
 
 ## Procedure
 

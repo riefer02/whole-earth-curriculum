@@ -110,16 +110,16 @@ and the ones with the ones — big groups with big groups, little ones with litt
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It introduces **adding within 100 by
-place value**. Teach with a **worked example** (philosophy §13): build 34 and 25, join
-them, count tens then ones. Keep numbers without regrouping at first, so the strategy
-is clear before the extra step of regrouping (which comes in a later lesson). The
-point is *sense-making*, not speed: a learner may count every object today and use a
-written method tomorrow — both are correct, and explaining one's own way is the real
-goal. **There is no single "right" strategy; every clear strategy is honored.** For
-learners who are Deaf or hard of hearing, model with bundles and write each step; for
-learners who are blind or low-vision, join real objects and count by touch. A learner
-who does not speak records by moving bundles or pointing to the sum.
+It introduces **adding within 100 by place value**. Teach with a **worked example**
+(philosophy §13): build 34 and 25, join them, count tens then ones. Keep numbers without
+regrouping at first, so the strategy is clear before the extra step of regrouping (which
+comes in a later lesson). The point is *sense-making*, not speed: a learner may count
+every object today and use a written method tomorrow — both are correct, and explaining
+one's own way is the real goal. **There is no single "right" strategy; every clear
+strategy is honored.** For learners who are Deaf or hard of hearing, model with bundles
+and write each step; for learners who are blind or low-vision, join real objects and
+count by touch. A learner who does not speak records by moving bundles or pointing to
+the sum.
 
 ## Procedure
 

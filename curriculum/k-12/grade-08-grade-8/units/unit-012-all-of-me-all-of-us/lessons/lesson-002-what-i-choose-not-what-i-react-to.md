@@ -113,20 +113,33 @@ what happens next. Today you learn to find that space and use it to weigh now ag
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The goal: **each learner can (1) pause deliberately
-between an impulse and a response, and (2) weigh short-term against long-term consequences in one
-real decision.** Model the four steps — **pause, name the feeling, weigh now vs. later, choose** —
-as a worked example before independent practice (S-011); the pause is a *skill*, so it is taught
-explicitly, not left to discovery. On the science: the delay-of-gratification tradition shows the
-pause is learnable, and we teach it as a skill — *not* as a claim that one childhood test predicts a
-life (S-336). Adolescence is a period of heightened reward sensitivity, which is exactly why a
-practiced pause matters; the brain's brakes are still being built (S-229). The **ethics** lens: a
-decision is weighed not only by what it costs *me* now but by what it does to *others* later. The
-**egalitarian** lens: whose consequences do we count — the comfortable and the powerful, or everyone
-the choice touches? The **technology** lens: many apps are designed to remove the pause (one-tap
-buying, auto-playing next, notifications that demand now); naming that design is the first step to
-choosing anyway. Keep "react vs. respond" free of moralism — reacting is human; choosing is a
-practice, not a verdict.
+**Tone.** Practice, not moralism — reacting is human; choosing is a practice.
+
+**The facts to land.**
+
+1. The four steps: **pause, name the feeling, weigh now vs. later, choose.**
+2. The pause is a learnable skill, not a fixed trait. The delay-of-gratification
+   tradition supports teaching it — but not the claim that one childhood test predicts a
+   life (S-336).
+3. Adolescence is a period of heightened reward sensitivity, which is exactly why a
+   practised pause matters; the brain's brakes are still being built (S-229).
+
+**Don't overshoot.** Do not turn "react vs. respond" into a character verdict, or
+promise that one pause solves a habit.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* naming the feeling is the step that makes choosing possible.
+- *Ethics:* weigh a decision by what it does to others later, not only what it costs me
+  now.
+- *Egalitarianism:* whose consequences do we count — the comfortable and powerful, or
+  everyone the choice touches?
+- *Technology:* many apps are designed to remove the pause (one-tap buying, autoplay,
+  demanding notifications); naming that design is the first step to choosing anyway.
+- *Critical-thinking:* "now" and "later" are two different claims, weighed separately.
+
+**The skill.** Model the four steps as a worked example before independent practice
+(S-011); the pause is taught explicitly, not left to discovery.
 
 ## Procedure
 

@@ -5,7 +5,7 @@
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Compose and Take Apart</text>
-  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#4f6d7a">Small shapes join to make big shapes &#8212; and can be split apart again.</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Small shapes join to make big shapes &#8212; and can be split apart again.</text>
 
   <!-- Left panel: compose -->
   <rect x="24" y="96" width="226" height="374" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

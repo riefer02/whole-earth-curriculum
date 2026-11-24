@@ -113,29 +113,29 @@ clear thinking, the same honesty, and the same freedom to say "not yet."
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Land the four-step frame:** (1)
-**know the facts** — accurate information about contraception and infections (WHO,
-S-453/S-454); (2) **know my values** — what matters to me, including the freedom to
-delay or abstain; (3) **talk it through** — honest communication with a partner; (4)
-**decide and revisit** — a decision can be changed. Risks to name honestly:
-**pregnancy, infections, and emotional or relational outcomes.** Responsibilities to
-name: **consent, communication, protection, and mutual care.** The frame produces a
-*reasoned* decision, not one "right" answer — the point is the reasoning.
+**Land the four-step frame:** (1) **know the facts** — accurate information about
+contraception and infections (WHO, S-453/S-454); (2) **know my values** — what matters
+to me, including the freedom to delay or abstain; (3) **talk it through** — honest
+communication with a partner; (4) **decide and revisit** — a decision can be changed.
+Risks to name honestly: **pregnancy, infections, and emotional or relational outcomes.**
+Responsibilities to name: **consent, communication, protection, and mutual care.** The
+frame produces a *reasoned* decision, not one "right" answer — the point is the
+reasoning.
 
 **Sensitive-topic guidance:** this is where personal disclosure is most likely — hold
-the line: no learner is asked to share their own experience, and any who do should be
+the line: no learner is asked to share their experience, and any who do should be
 redirected to the fictional scenarios ("let's use the cards"). Normalize **delay and
-abstinence** as complete, valid choices alongside being active; neither is ranked.
-If a learner discloses risk or unsafe circumstances, respond privately and follow
-your safeguarding procedure to a **trusted adult or health service**.
+abstinence** as complete, valid choices alongside being active; neither is ranked. If a
+learner discloses risk or unsafe circumstances, respond privately and follow your
+safeguarding procedure to a **trusted adult or health service**.
 
-The **ethics** lens: a decision that protects and cares for everyone involved is a
-good decision. The **egalitarian** lens: the freedom to choose — and the information
-needed to choose well — is not equally available, and that is an injustice we name,
-not a fact we ignore. The **global** lens: norms about when and how people become
-sexually active differ across cultures, but the skills of weighing risk and
-responsibility travel everywhere. The **social-emotional** lens: impulse and feeling
-are real parts of decisions; naming them is part of deciding well.
+The **ethics** lens: a decision that protects and cares for everyone involved is a good
+decision. The **egalitarian** lens: the freedom to choose — and the information needed
+to choose well — is not equally available, and that is an injustice we name, not a fact
+we ignore. The **global** lens: norms about when and how people become sexually active
+differ across cultures, but the skills of weighing risk and responsibility travel
+everywhere. The **social-emotional** lens: impulse and feeling are real parts of
+decisions; naming them is part of deciding well.
 
 ## Procedure
 

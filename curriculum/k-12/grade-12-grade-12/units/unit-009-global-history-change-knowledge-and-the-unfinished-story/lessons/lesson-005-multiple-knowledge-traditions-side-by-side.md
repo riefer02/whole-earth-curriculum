@@ -116,26 +116,28 @@ asks and what each offers.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a knowledge tradition is a
-coherent, living way of asking and answering questions, and the skill is to set several beside each
-other without ranking — seeing what each asks, what it offers, and how they relate.** Teach the
-chart explicitly (S-011). This is the inquiry-over-creed commitment made concrete (philosophy §11):
-we do not rank traditions, and we do not pretend they are identical. Frame as *wondering together*;
-use written or anonymous questions if speaking up is not safe (contexts, cultural power dynamics).
+The idea to land: **a knowledge tradition is a coherent, living way of asking and
+answering questions, and the skill is to set several beside each other without ranking —
+seeing what each asks, what it offers, and how they relate.** Teach the chart explicitly
+(S-011). This is the inquiry-over-creed commitment made concrete (philosophy §11): we do
+not rank traditions, and we do not pretend they are identical. Frame as *wondering
+together*; use written or anonymous questions if speaking up is not safe (contexts,
+cultural power dynamics).
 
-The **ethics** lens: ranking one people's knowledge above another's has been used to justify
-suppression; refusing the ranking is an ethical stance, not a claim that nothing can be checked.
-The **egalitarianism** lens: traditional medicine is a real, valued, living tradition, recognized
-worldwide, used alongside — not beneath — other systems (S-145); Indigenous fire stewardship is a
-long-standing practice documented by national science agencies as knowledge, not folklore (S-320,
-S-321). The **global** lens: every named tradition here is a *living* practice carried by real
-communities, recognized through living-heritage frameworks (S-056), never a specimen. The
-**technology** lens: scientific instruments answer "how" with unmatched power, but they are silent
-on "what it means" and "how we should live with it" — questions other traditions take up (S-427).
-The **environment** lens: Indigenous ecological knowledge — when to burn, when to plant, how to
-read a landscape — complements scientific ecology rather than contradicting it (S-320, S-321,
-S-427). Preview: Lesson 6 asks learners to articulate the *relationship* between traditions
-explicitly and non-dogmatically.
+The **ethics** lens: ranking one people's knowledge above another's has been used to
+justify suppression; refusing the ranking is an ethical stance, not a claim that nothing
+can be checked. The **egalitarianism** lens: traditional medicine is a real, valued,
+living tradition, recognized worldwide, used alongside — not beneath — other systems
+(S-145); Indigenous fire stewardship is a long-standing practice documented by national
+science agencies as knowledge, not folklore (S-320, S-321). The **global** lens: every
+named tradition here is a *living* practice carried by real communities, recognized
+through living-heritage frameworks (S-056), never a specimen. The **technology** lens:
+scientific instruments answer "how" with unmatched power, but they are silent on "what
+it means" and "how we should live with it" — questions other traditions take up (S-427).
+The **environment** lens: Indigenous ecological knowledge — when to burn, when to plant,
+how to read a landscape — complements scientific ecology than contradicting it (S-320,
+S-321, S-427). Preview: Lesson 6 asks learners to articulate the *relationship* between
+traditions explicitly and non-dogmatically.
 
 ## Procedure
 

@@ -113,27 +113,36 @@ humanity alive.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the **hopeful close** to the unit's hardest
-chapters. The idea to land: **oppression tried to erase people's culture, and people refused to let
-that happen — they kept and created culture, and that is how humanity and hope survived.** The four
-channels with specific examples: **(1) music** — the **spiritual**, an African American religious
-song born of the enslaved experience, carrying sorrow, faith, hope, and sometimes hidden messages
-(S-385); and **capoeira**, an Afro-Brazilian art that joins movement, music, and play, created by
-enslaved Africans and kept alive by their descendants (S-325); **(2) language** — **creole
-languages** grew where African languages met European ones, becoming new, complete languages of their
-own (for example, Gullah and Kreyòl); **(3) family and community** — enslaved people built kinship,
-named "aunts" and "uncles" among those not of blood, and kept community when the law tried to break
-families apart; **(4) faith** — people blended African spiritual traditions with others to form new
-traditions (for example, Candomblé in Brazil and Vodou in Haiti), keeping connection to ancestors and
-the sacred. Colonized peoples did the same: preserving and later **reviving their languages and
-traditions** under pressure to abandon them. The **ethics** lens: we honor these traditions as
-peoples' own living culture, never as specimens to study coldly. The **egalitarian** lens: the fact
-that these cultures *survived* — and in many cases *thrive* — is a victory of the people who kept
-them, not of the systems that tried to erase them. The **global** lens: the same pattern appears
-across continents — in the Americas, Africa, Asia, and the Pacific — wherever peoples kept their
-culture under colonial rule. The **community** lens: culture lives in people together — in song, in
-story, in shared food and work. Keep the door to hope wide open: this is a lesson about what could
-*not* be taken away (S-385, S-325).
+**Tone.** Hopeful and reverent — culture kept, not merely survived.
+
+**The facts to land.**
+
+1. Oppression tried to erase culture; people refused. **Music** — the spiritual, an
+   African American religious song born of the enslaved experience, carrying sorrow,
+   faith, hope, and hidden messages (S-385); capoeira, an Afro-Brazilian art of
+   movement, music, and play, created by enslaved Africans and kept by their descendants
+   (S-325).
+2. **Language** — creoles grew where African languages met European ones (Gullah,
+   Kreyòl). **Family and community** — kinship, "aunts" and "uncles" among those not of
+   blood, kept when law tried to break families. **Faith** — blended traditions such as
+   Candomblé in Brazil and Vodou in Haiti.
+3. Colonized peoples did the same, preserving and reviving languages and traditions
+   under pressure to abandon them.
+
+**Don't overshoot.** Do not study these traditions coldly as specimens, or imply
+survival was given rather than made.
+
+**The lenses, briefly.**
+
+- *Ethics:* honor these as living culture.
+- *Egalitarianism:* survival is a victory of the people who kept them, not of the systems
+  that tried to erase them.
+- *Global:* the pattern appears across the Americas, Africa, Asia, and the Pacific under
+  colonial rule.
+- *Community:* culture lives in people together — song, story, shared food, work.
+
+**The skill.** Name what could *not* be taken away, with one specific example and its
+keepers (S-385, S-325).
 
 ## Procedure
 

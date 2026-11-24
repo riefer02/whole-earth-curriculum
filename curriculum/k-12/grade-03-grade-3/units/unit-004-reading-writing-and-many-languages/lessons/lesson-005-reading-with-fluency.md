@@ -109,22 +109,33 @@ question mark says rise.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Fluency means accuracy plus a smooth, expressive pace — the
-goal is meaning, not speed, and there is no competition and no "correct" accent.
-Reading should sound like the learner's own natural way of speaking, in their own
-language. Re-reading is the engine of fluency; the National Reading Panel's
-evidence base points to re-reading and guided oral reading as the core practice, so
-keep the text easy enough to be enjoyed, not struggled with. Teach punctuation as
-explicit signposts: period, comma, question mark. A learner who is Deaf or hard of
-hearing builds fluency in sign — a smooth, expressive signing of the text is fluent
-reading. A learner who is blind or has low vision builds fluency in braille, in large
-print, or by listening — a smooth, expressive re-reading by touch or ear is fluent
-reading too. Celebrate each learner's growth against their own yesterday, never
-against a peer. Where a timer or a recording is used, notice what the tool does — a
-timer counts words but does not race you, and a recording lets you hear your own
-voice like a patient friend — and what it cannot do: it cannot feel whether the
-reading made sense; your own mind does that. A tool is a helper, never a judge.
+**Tone.** Easy and encouraging — fluency sounds like the learner's own voice, and the
+goal is meaning, not speed.
+
+**The facts to land.**
+1. Fluency is accuracy plus a smooth, expressive pace.
+2. Re-reading is the engine: the National Reading Panel's evidence base points to
+   re-reading and guided oral reading as the core practice.
+3. Punctuation is a set of signposts — period, comma, question mark — that tell the
+   voice where to pause.
+
+**Don't overshoot.** There is no competition, no speed target, and no "correct" accent.
+Keep the text easy enough to enjoy, not a struggle.
+
+**The lenses, briefly.**
+- *Intellectual:* a smooth, expressive re-reading is fluent reading, whoever does it.
+- *Social-emotional:* reading aloud is exposing; let the learner pick the audience.
+- *Critical-thinking:* ask "did that make sense?", not "how fast was that?"
+- *Technology:* a timer counts words but does not race you; a recording lets you hear
+  your voice like a patient friend. Neither feels whether the reading made sense. A tool
+  is a helper, never a judge.
+
+**The skill.** Re-read the same short passage until it flows, then hear yourself do it.
+
+**Access:** a learner who is Deaf or hard of hearing builds fluency in sign — smooth,
+expressive signing is fluent reading. A learner who is blind or has low vision builds it
+in braille, large print, or by listening. Celebrate growth against the learner's own
+yesterday.
 
 ## Procedure
 

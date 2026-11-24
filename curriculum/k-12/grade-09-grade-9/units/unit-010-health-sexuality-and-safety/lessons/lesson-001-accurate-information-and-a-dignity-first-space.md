@@ -114,24 +114,36 @@ in a room where no question is shameful and every body is treated with dignity.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The concept to land: **sexual and reproductive
-health is a matter of accurate information, consent, and access to care — taught with dignity and
-never shame — and the first skill is telling accurate information from misinformation.** This is a
-norms-and-skills lesson, so use explicit instruction for the skill (the three-question source-check,
-modeled as a worked example) and inquiry for the values (S-011). The ethics lens: how we speak about
-bodies sets the temperature of the room — we speak with dignity, we do not mock, we do not shame. The
-egalitarian lens is central and non-negotiable: **no body and no question is "better" or "worse";
-every learner's body, family, culture, and pace is honored, and no one is ever pressured to share.**
-The global lens: what counts as a trusted source of health information differs around the world —
-a community health worker in one place, a clinic in another, an official health ministry or WHO
-page in another — so "accurate" means "from a source that is accountable and checkable," not "from
-the nearest screen." The technology lens: the internet carries both the best and the worst health
-information ever made, so the skill is to *check*, not to trust blindly (UNESCO CSE, S-412; WHO,
-S-261). Model the three questions on one concrete claim (worked example below), then let learners
-practice. Establish the safety net now: **sharing is always optional; a learner may always pass;
-and if a learner discloses something that suggests harm, you follow your setting's safeguarding
-path — believe, do not promise secrecy, and get help** (WHO violence-prevention guidance, S-051).
-Keep claims accurate and cite sources; distinguish evidence from values throughout.
+**Tone.** Calm, matter-of-fact, and warm — dignity sets the temperature of the room.
+
+**The facts to land.**
+
+1. **Sexual and reproductive health is a matter of accurate information, consent, and
+access to care.**
+2. **The first skill is telling accurate information from misinformation** — the
+three-question source-check (UNESCO CSE, S-412; WHO, S-261).
+
+**The lenses, briefly.**
+
+- *Ethics:* we speak about bodies with dignity; we do not mock, and we do not shame.
+- *Egalitarianism:* **no body and no question is "better" or "worse"; every learner's
+body, family, culture, and pace is honoured, and no one is ever pressured to share.**
+- *Global:* a trusted source differs around the world — a community health worker, a
+clinic, a health ministry or WHO page — so "accurate" means "accountable and checkable",
+not "nearest screen".
+- *Technology:* the internet carries both the best and the worst health information
+ever made, so the skill is to *check*, not to trust blindly.
+- *Social-emotional:* dignity in the room is a feeling as well as a rule — watch
+faces, not just words.
+- *Critical-thinking:* three questions, asked of any claim, do more than any warning.
+
+**The skill.** Explicit instruction for the source-check, modelled as a worked example;
+inquiry for the values (S-011).
+
+**Safety floor.** **Sharing is always optional; a learner may always pass. If a learner
+discloses something that suggests harm, follow your setting's safeguarding path —
+believe, do not promise secrecy, and get help** (WHO violence-prevention guidance,
+S-051).
 
 ## Procedure
 
@@ -179,3 +191,4 @@ conversation, run it through the check and tell one person what you found.
   Technical Guidance on Sexuality Education* (2018) (S-412).
 - On adolescent health and development: WHO, "Adolescent health" (S-261).
 - On explicit instruction and worked examples: Kirschner, Sweller & Clark (2006) (S-011).
+- WHO — Preventing violence against children (S-051).

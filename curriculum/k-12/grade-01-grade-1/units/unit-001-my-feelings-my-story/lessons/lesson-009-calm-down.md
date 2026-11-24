@@ -106,11 +106,10 @@ tool you can carry with you anywhere, like a deep breath in your pocket.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Frame calming as help, never as
-discipline — never send a learner to the calm corner as a punishment. Model your own
-calming ("I am going to take a deep breath now"). With a gentle reminder, guide a
-learner who is upset to the strategy, but let them choose. Some learners calm better
-with movement than stillness; honor that.
+Frame calming as help, never as discipline — never send a learner to the calm corner as
+a punishment. Model your own calming ("I am going to take a deep breath now"). With a
+gentle reminder, guide a learner who is upset to the strategy, but let them choose. Some
+learners calm better with movement than stillness; honor that.
 
 ## Procedure
 

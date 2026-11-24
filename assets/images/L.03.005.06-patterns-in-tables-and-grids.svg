@@ -8,7 +8,7 @@
 
   <!-- 100 grid (10x10) -->
   <text x="120" y="68" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#4f6d7a">100s grid</text>
-  <g font-family="sans-serif" font-size="11" text-anchor="middle">
+  <g font-family="sans-serif" font-size="12" text-anchor="middle">
     <!-- rows -->
     <g fill="#2b3a42">
       <text x="30" y="86">1</text><text x="48" y="86">2</text><text x="66" y="86">3</text><text x="84" y="86">4</text><text x="102" y="86">5</text><text x="120" y="86">6</text><text x="138" y="86">7</text><text x="156" y="86">8</text><text x="174" y="86">9</text><text x="194" y="86" fill="#7a9e7e" font-weight="bold">10</text>

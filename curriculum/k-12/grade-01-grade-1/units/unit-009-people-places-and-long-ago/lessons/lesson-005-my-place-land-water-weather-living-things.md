@@ -107,16 +107,15 @@ Looking closely at your own place is how geography begins.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. **No travel is needed** — the place learners already live is
-the whole subject. **Never rank places:** a desert is not "worse" than a forest, a
-city is not "better" than a farm. Say "different places, different ways of living,"
-and mean it. Honor every home shape: some learners have moved, some live in two
-homes, some live in a new place. No one must tell a moving story; the place they
-live *now* is enough, and "home" may be more than one place. For a learner who is
-blind or has low vision, use touch and sound — a stone, a leaf, a cup of water, the
-feel of wind — and describe the place aloud together. The four parts (land, water,
-weather, living things) are a concrete anchor, not a test.
+**No travel is needed** — the place learners already live is the whole subject. **Never
+rank places:** a desert is not "worse" than a forest, a city is not "better" than a
+farm. Say "different places, different ways of living," and mean it. Honor every home
+shape: some learners have moved, some live in two homes, some live in a new place. No
+one must tell a moving story; the place they live *now* is enough, and "home" may be
+more than one place. For a learner who is blind or has low vision, use touch and sound —
+a stone, a leaf, a cup of water, the feel of wind — and describe the place aloud
+together. The four parts (land, water, weather, living things) are a concrete anchor,
+not a test.
 
 ## Procedure
 

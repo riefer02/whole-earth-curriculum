@@ -114,20 +114,34 @@ gains and who pays?*
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a sustainability solution is judged on
-three questions — benefits (what good it does), limits (what it cannot do), and fairness (who gains and
-who pays) — and fairness is where solutions most often fail.** The **environment** lens is the spine. The
-**egalitarian** lens is decisive here: benefits and burdens rarely fall on the same people, and
-environmental justice is the discipline of noticing that (S-483, S-484). The **global** lens: the same
-solution (a plantation, a dam, a commons) succeeds or fails depending on local history and who holds the
-land. The **ethics** lens: fairness is a value judgment, not a measurement — say so plainly. The
-**technology** lens: high-tech and low-tech solutions both deserve the same three questions. Anchor the
-examples: sustainability defined as meeting today's needs without compromising the future (S-395);
-community-managed commons as a documented, effective pattern of stewardship (S-416); the Green Belt
-Movement as a real restoration effort led by communities (S-059); indigenous cultural burning as
-place-based stewardship (S-320). Distinguish evidence (what the solution does) from values (whether it is
-fair) (philosophy §5). Preview: next lesson assembles the whole unit into one portfolio and one
-synthesis.
+**Tone.** Fair-minded and exact: fairness is where the argument usually breaks, so go
+there first.
+
+**The facts to land.**
+
+1. A sustainability solution is judged on three questions — benefits, limits, and
+   fairness (who gains and who pays) — and fairness is where solutions most often fail.
+2. Anchors: sustainability as meeting today's needs without compromising the future
+   (S-395); community-managed commons as a documented, effective pattern of stewardship
+   (S-416); the Green Belt Movement as community-led restoration (S-059); Indigenous
+   cultural burning as place-based stewardship (S-320).
+3. Benefits and burdens rarely fall on the same people, and environmental justice is the
+   discipline of noticing that (S-483, S-484).
+
+**Don't overshoot.** Fairness is a value judgment, not a measurement; say so plainly
+rather than dressing it as data.
+
+**The lenses, briefly.**
+
+- *Environment:* the spine — what the solution does to the living system.
+- *Egalitarianism:* decisive here — who gains, who pays, who was not asked.
+- *Global:* a plantation, a dam, a commons succeed or fail by local history and who
+  holds the land.
+- *Ethics:* calling something fair is a claim about values, and it can be argued.
+- *Technology:* high-tech and low-tech solutions get the same three questions.
+
+**The skill.** Model once, then release (S-011): score one real solution on benefits,
+limits, and fairness, and defend the verdict. Next lesson assembles the portfolio.
 
 ## Procedure
 
@@ -183,3 +197,4 @@ and ask the three questions: what good does it do, what can't it do, and who gai
   resources, <https://www.csiro.au/en/education/Resource-Library/Indigenous-STEM-Education-Resources> (S-320).
 - On environmental justice — burdens and benefits falling unevenly: U.S. EPA, Environmental Justice (S-483);
   and Robert Bullard, *Dumping in Dixie* (1990) (S-484).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

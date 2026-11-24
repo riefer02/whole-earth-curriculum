@@ -119,22 +119,35 @@ map.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **The label is a tool for information,
-never for judging.** Teach the five parts plainly: **serving size** (how much the label
-is talking about), **energy** (calories/kcal — how much fuel), **sugar** (a kind of
-carbohydrate, often sweet), **salt** (sodium), and **fiber** (part of plant food that
-helps digestion). Do not rank foods as "good" or "bad," and do not connect any number on
-the label to a body's size or worth. Different bodies and different lives need different
-amounts, and a food is not a person. Honor that not every learner has packaged food at
-home, and that fresh, home-cooked, and market food often has no label at all — that is
-normal and fine. A learner who is blind or has low vision reads the label by having the
-parts described in order and by feeling raised shapes on the chart; a learner who does
-not use a speaking voice points to each part; a learner who is deaf or hard of hearing
-follows the chart and demonstrations from the front, since every part is shown, not only
-told. The nutrition facts reflect widely used labeling (energy, sugar, salt, fiber, and
-serving size), as described in World Health Organization guidance on food labels. This
-lesson opens the unit's D03.S3.04.01 label-reading path and leads into choosing a
-healthier option.
+**Tone.** Plain and neutral — the label informs, never judges.
+
+**The facts to land.**
+1. Five parts: **serving size** (how much the label describes), **energy**
+   (calories/kcal), **sugar** (a kind of carbohydrate, often sweet), **salt** (sodium),
+   and **fiber** (plant food that helps digestion).
+2. These five parts follow widely used labelling, as described in World Health
+   Organization guidance on food labels.
+3. Different bodies and lives need different amounts, and a food is not a person.
+
+**Don't overshoot.** Do not rank foods as "good" or "bad," and never connect a label
+number to a body's size or worth.
+
+**The lenses, briefly.**
+- *Physical:* the label describes what the body takes in.
+- *Intellectual:* read the parts in the same order every time.
+- *Egalitarianism:* no number on a packet measures a person.
+- *Global:* labels differ by country; these five parts are the common ground.
+
+**The skill.** Read the five parts in order, then say what the label tells you.
+
+This opens D03.S3.04.01 and leads into choosing a healthier option.
+
+**Safety floor.** not every learner has packaged food at home, and fresh, home-cooked, or
+market food often has no label. That is normal and fine.
+
+**Access:** a learner who is blind or has low vision hears the parts described in order
+and feels raised shapes; a learner who does not use a speaking voice points to each
+part; a learner who is deaf or hard of hearing follows the chart from the front.
 
 ## Procedure
 

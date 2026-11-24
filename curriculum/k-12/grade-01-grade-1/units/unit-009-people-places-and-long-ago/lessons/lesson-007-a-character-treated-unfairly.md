@@ -109,17 +109,15 @@ can do to help.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. **Keep the story gentle and blame-free.** The goal is
-noticing and naming unfairness, then turning toward repair — never shaming a
-character. Avoid heavy or traumatic unfairness at this age: no frightening or
-violent content. **No child is ever the problem** — the unfairness is in the
-treatment, not in the child. End with someone helping or standing up, so learners
-leave with agency and hope, not fear. Honor every body: a learner who does not use a
-speaking voice points to the unfair moment or acts it out; a learner who is blind or
-has low vision hears the story told with clear, gentle language and describes what
-happened aloud. Never require a learner to share a real unfairness from their own
-life.
+**Keep the story gentle and blame-free.** The goal is noticing and naming unfairness,
+then turning toward repair — never shaming a character. Avoid heavy or traumatic
+unfairness at this age: no frightening or violent content. **No child is ever the
+problem** — the unfairness is in the treatment, not in the child. End with someone
+helping or standing up, so learners leave with agency and hope, not fear. Honor every
+body: a learner who does not use a speaking voice points to the unfair moment or acts it
+out; a learner who is blind or has low vision hears the story told with clear, gentle
+language and describes what happened aloud. Never require a learner to share a real
+unfairness from their own life.
 
 ## Procedure
 

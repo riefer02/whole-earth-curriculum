@@ -113,23 +113,35 @@ changed one bit. Today you tell the difference.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a long-running practice shows both
-change and continuity — historians ask what changed *and* what stayed the same.** The worked example
-is **trade**. What **changed**: (1) *scale* — from local and regional exchange to networks spanning
-continents (the Silk Roads overland and the Indian Ocean by sea, S-323, S-207); (2) *speed and
-technology* — from foot, camel caravan, and monsoon dhow to sail, steam, and today's container
-ships; (3) *money* — from barter and commodity money (cacao, salt, cowrie shells, beads) to coin,
-paper money, and electronic credit. What **stayed the same**: (1) the *reason* — people exchange what
-is scarce or absent in one place for what another place has; (2) *trade carries ideas, beliefs, and
-technology, not only goods* (paper and numerals traveled the Silk Roads, S-317, S-318); (3) *trust,
-reputation, and credit* — every exchange, ancient or modern, rests on people trusting that a promise
-will be kept. The **global** lens: trade is a human universal — every region has its own networks and
-traditions of exchange. The **technology** lens: each new technology (the wheel, the sail, the
-container ship, the internet) changed *how* we trade — often for good and for strain, and never
-equally for everyone. The **ethics** and **egalitarian** lenses: not all trade has been free — some
-trade was built on theft and slavery (we face that squarely later in this unit), and the gains of
-trade have never been shared equally; ask who benefits and who is left out. Keep it honest: this is
-documented history, told as a pattern, not a single story of progress (philosophy §11).
+**Tone.** Clear-eyed — progress is a pattern, not a parade.
+
+**The facts to land.**
+
+1. What **changed**: scale (local exchange to networks spanning continents — Silk Roads
+   overland, Indian Ocean by sea, S-323, S-207); speed and technology (foot, camel
+   caravan, dhow to sail, steam, container ships); money (barter and commodity money —
+   cacao, salt, cowrie shells — to coin, paper money, electronic credit).
+2. What **stayed the same**: the reason (exchange what is scarce for what another place
+   has); trade carries ideas, beliefs, and technology, not only goods (paper and
+   numerals travelled the Silk Roads, S-317, S-318); trust and credit under every
+   exchange.
+3. Both questions matter at once.
+
+**Don't overshoot.** Do not tell this as a single story of progress; each new technology
+changed how we trade, often for good and for strain, never equally.
+
+**The lenses, briefly.**
+
+- *Global:* trade is a human universal — every region has its own networks.
+- *Technology:* the wheel, sail, container ship, and internet each reshaped *how* we
+  trade.
+- *Ethics:* not all trade was free — some was built on theft and slavery, faced later in
+  this unit.
+- *Egalitarianism:* gains were never shared equally; ask who benefits and who is left out.
+- *Critical-thinking:* a long view separates a real trend from one vivid event.
+
+**The skill.** Sort the evidence into change and continuity, then explain one item in
+each from the evidence.
 
 ## Procedure
 

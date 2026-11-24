@@ -118,24 +118,24 @@ what chapter do I mean to write next year?" — knowing the chapter can surprise
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **purpose is not a
-verdict but a story — a narrative identity linking past, present, and an imagined future
-— and the learner is its author, free to revise it.** Narrative identity (McAdams, S-404)
-and "possible selves" (Markus & Nurius, S-399) are the descriptive research; a sense of
-purpose grows by trying and reflecting, and only a minority of young people hold a clear
-one, which is ordinary rather than deficient (Damon, S-400). Identity is a lifelong
-process, not a finished fact (Erikson, S-155). Hold all of this as description; "you are
-allowed to revise, and 'I don't know yet' is a complete answer" is a value we protect.
+The idea to land: **purpose is not a verdict but a story — a narrative identity linking
+past, present, and an imagined future — and the learner is its author, free to revise
+it.** Narrative identity (McAdams, S-404) and "possible selves" (Markus & Nurius, S-399)
+are the descriptive research; a sense of purpose grows by trying and reflecting, and
+only a minority of young people hold a clear one, which is ordinary rather than
+deficient (Damon, S-400). Identity is a lifelong process, not a finished fact (Erikson,
+S-155). Hold all of this as description; "you are allowed to revise, and 'I don't know
+yet' is a complete answer" is a value we protect.
 
 Hold the four lenses visibly. **Ethics:** revising your purpose is an act of honesty
-toward yourself — it keeps your story true. **Egalitarianism:** no one's Grade-12 chapter
-is more "correct"; a purpose may be quiet or loud, and a meaningful life can look many
-ways. **Global/anthropological:** in many traditions the self is told as a story that
-belongs to a people and a place, not only to an individual — invite learners to tell it
-their way, solo or communal. **Critical-thinking:** the Grade-12 chapter must carry a
-*reason* — evidence from what you have tried, not a wish — and distinguishing the two is
-the thinking skill at stake. Model the three-part frame once (S-011), then let learners
-draft. Keep it warm.
+toward yourself — it keeps your story true. **Egalitarianism:** no one's Grade-12
+chapter is more "correct"; a purpose may be quiet or loud, and a meaningful life can
+look many ways. **Global/anthropological:** in many traditions the self is told as a
+story that belongs to a people and a place, not only to an individual — invite learners
+to tell it their way, solo or communal. **Critical-thinking:** the Grade-12 chapter must
+carry a *reason* — evidence from what you have tried, not a wish — and distinguishing
+the two is the thinking skill at stake. Model the three-part frame once (S-011), then
+let learners draft. Keep it warm.
 
 ## Procedure
 

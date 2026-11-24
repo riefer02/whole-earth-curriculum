@@ -123,14 +123,14 @@ and where to reach for them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **the unit's learning
-is now the learner's own toolkit**. This is a **summative portfolio artifact** and an act of
-**retrieval** — the learner recalls each piece rather than re-reading it. Keep it **dignified
-and joyful**: no two toolkits will match, and that is the point — every body works in its own
-way, and every one is honored. If a learner struggles to recall a part, point them to their own
-earlier pages (their log, their body outline) rather than telling them the answer. The
-reflection should include *what helped them improve and who encouraged them*, never a ranking.
-See `docs/facilitation.md`.
+The idea to land is that **the unit's learning is now the learner's own toolkit**. This
+is a **summative portfolio artifact** and an act of **retrieval** — the learner recalls
+each piece rather than re-reading it. Keep it **dignified and joyful**: no two toolkits
+will match, and that is the point — every body works in its own way, and every one is
+honored. If a learner struggles to recall a part, point them to their own earlier pages
+(their log, their body outline) rather than telling them the answer. The reflection
+should include *what helped them improve and who encouraged them*, never a ranking. See
+`docs/facilitation.md`.
 
 ## Procedure
 

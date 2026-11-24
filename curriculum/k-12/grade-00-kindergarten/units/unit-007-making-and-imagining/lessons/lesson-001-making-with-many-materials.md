@@ -113,10 +113,9 @@ picture or a shape.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, protect the freedom: there is no right way to
-use a material. Praise effort and curiosity, not "correctness." Some learners will
-not want to talk about their work — that is fine; pointing or showing is enough.
+As facilitator, protect the freedom: there is no right way to use a material. Praise
+effort and curiosity, not "correctness." Some learners will not want to talk about their
+work — that is fine; pointing or showing is enough.
 
 ## Procedure
 

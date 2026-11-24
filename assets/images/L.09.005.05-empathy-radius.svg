@@ -17,24 +17,34 @@
   <circle cx="247" cy="246" r="2.6" fill="#2b3a42"/><circle cx="265" cy="246" r="2.6" fill="#2b3a42"/>
   <path d="M248 262 Q256 267 264 262" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
 
-  <!-- Ring labels (each sits just outside its ring) -->
-  <text x="256" y="168" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">me</text>
-  <text x="256" y="142" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">family &amp; friends</text>
-  <text x="256" y="88" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">community</text>
-  <text x="256" y="68" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">nation</text>
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">all humanity</text>
+  <!-- Ring labels: each sits inside the band it names, on the vertical axis,
+       with a paper patch behind it so the ring lines never cut the words. -->
+  <rect x="242" y="196" width="28" height="20" fill="#fdfbf7"/>
+  <text x="256" y="210" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">me</text>
 
-  <!-- Widen arrow (a face + a story) -->
-  <path d="M414 120 L434 120" fill="none" stroke="#7a9e7e" stroke-width="4"/>
-  <path d="M436 120 L427 115 L427 125 Z" fill="#7a9e7e"/>
-  <text x="452" y="110" text-anchor="middle" font-family="sans-serif" font-size="12.7" fill="#4f6d7a">a face + a story</text>
-  <text x="452" y="138" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">widen it</text>
+  <rect x="197" y="154" width="118" height="24" fill="#fdfbf7"/>
+  <text x="256" y="170" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">family &amp; friends</text>
 
-  <!-- Narrow arrow (distance, numbers, feed) -->
-  <path d="M124 120 L102 120" fill="none" stroke="#e0a458" stroke-width="4"/>
-  <path d="M102 120 L112 112 M102 120 L112 128" fill="none" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <rect x="213" y="118" width="86" height="24" fill="#fdfbf7"/>
+  <text x="256" y="134" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">community</text>
+
+  <rect x="228" y="78" width="56" height="24" fill="#fdfbf7"/>
+  <text x="256" y="94" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">nation</text>
+
+  <rect x="216" y="436" width="80" height="24" fill="#fdfbf7"/>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">all humanity</text>
+
+  <!-- Widen arrow: starts at the ring edge, points outward -->
+  <line x1="382" y1="120" x2="400" y2="120" stroke="#7a9e7e" stroke-width="4" stroke-linecap="round"/>
+  <path d="M404 120 L394 114 L394 126 Z" fill="#7a9e7e"/>
+  <text x="410" y="112" font-family="sans-serif" font-size="13" fill="#4f6d7a">a face + a story</text>
+  <text x="410" y="136" font-family="sans-serif" font-size="14" fill="#4f6d7a">widen it</text>
+
+  <!-- Narrow arrow: points inward, back toward the ring -->
+  <line x1="104" y1="120" x2="124" y2="120" stroke="#e0a458" stroke-width="4" stroke-linecap="round"/>
+  <path d="M128 120 L118 114 L118 126 Z" fill="#e0a458"/>
   <text x="97" y="106" text-anchor="end" font-family="sans-serif" font-size="14" fill="#4f6d7a">distance,</text>
   <text x="97" y="122" text-anchor="end" font-family="sans-serif" font-size="14" fill="#4f6d7a">numbers,</text>
-  <text x="97" y="138" text-anchor="end" font-family="sans-serif" font-size="11.3" fill="#4f6d7a">an endless feed</text>
+  <text x="97" y="138" text-anchor="end" font-family="sans-serif" font-size="12" fill="#4f6d7a">an endless feed</text>
   <text x="97" y="154" text-anchor="end" font-family="sans-serif" font-size="14" fill="#4f6d7a">narrow it</text>
 </svg>

@@ -122,17 +122,19 @@ threads together is not a summary exercise — it is how a way of seeing becomes
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the unit's four strands are one stance
-— neither worship nor fear — applied to technology and the Earth; synthesis is the moment the skills
-become a way of living as a steward.** This is a summative and reflective lesson: the heavy lifting is
-assembling, connecting, and writing, not new content. The **technology** and **environment** lenses are
-the twin poles the learner learns to hold in tension. The **egalitarian** lens: a steward asks who gains
-and who is left out, in every strand — privacy, news, services, solutions. The **global** lens: this one
-home is lived in many ways, and the learner's way is one among them, not the default. The **ethics**
-lens: synthesis lands in *choice* — what the learner will do. Use retrieval (the checklist) and spacing
-(the artifacts span three weeks) deliberately; give feedback on the statement; treat "not yet" as
-information, not a verdict. Hold questions open (philosophy §11): the stance is a practice, not a
-finished answer. Celebrate the work as collective, not ranked.
+The idea to land: **the unit's four strands are one stance — neither worship nor fear —
+applied to technology and the Earth; synthesis is the moment the skills become a way of
+living as a steward.** This is a summative and reflective lesson: the heavy lifting is
+assembling, connecting, and writing, not new content. The **technology** and
+**environment** lenses are the twin poles the learner learns to hold in tension. The
+**egalitarian** lens: a steward asks who gains and who is left out, in every strand —
+privacy, news, services, solutions. The **global** lens: this one home is lived in many
+ways, and the learner's way is one among them, not the default. The **ethics** lens:
+synthesis lands in *choice* — what the learner will do. Use retrieval (the checklist)
+and spacing (the artifacts span three weeks) deliberately; give feedback on the
+statement; treat "not yet" as information, not a verdict. Hold questions open
+(philosophy §11): the stance is a practice, not a finished answer. Celebrate the work as
+collective, not ranked.
 
 ## Procedure
 

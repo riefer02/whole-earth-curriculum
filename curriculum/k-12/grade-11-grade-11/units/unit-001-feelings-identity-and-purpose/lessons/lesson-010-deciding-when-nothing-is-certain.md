@@ -108,22 +108,22 @@ what it is for.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **under uncertainty,
-you cannot optimize for a certain outcome, so you optimize for honesty and
-repairability — decide by your values, name what you know and don't know, and keep a
-repair path open.** Teach the three-part move with a worked example (S-011).
+The idea to land: **under uncertainty, you cannot optimize for a certain outcome, so you
+optimize for honesty and repairability — decide by your values, name what you know and
+don't know, and keep a repair path open.** Teach the three-part move with a worked
+example (S-011).
 
-The **ethics** lens: acting under uncertainty is where character shows — the question
-is not "what will happen?" but "what kind of choice is this?" The **egalitarian**
-lens: uncertainty is not distributed equally — some people can afford to be wrong, and
-others cannot; a fair decision weighs who carries the downside of a wrong call. The
-**global** lens: leaders, communities, and nations decide in fog all the time (a
-harvest, an evacuation, a treaty), and the same discipline — name the unknown, decide
-by values, keep repair open — applies at every scale. The **technology & environment**
-lens: our sense of certainty is often shaped by screens that *feel* certain but are
-not (a confident-sounding post, a smoothed-over prediction), and environmental
-decisions are classic fog — you cannot know the full future of a climate choice, yet
-you must choose. Naming what is unknown is itself an act of intellectual honesty.
+The **ethics** lens: acting under uncertainty is where character shows — the question is
+not "what will happen?" but "what kind of choice is this?" The **egalitarian** lens:
+uncertainty is not distributed equally — some people can afford to be wrong, and others
+cannot; a fair decision weighs who carries the downside of a wrong call. The **global**
+lens: leaders, communities, and nations decide in fog all the time (a harvest, an
+evacuation, a treaty), and the same discipline — name the unknown, decide by values,
+keep repair open — applies at every scale. The **technology & environment** lens: our
+sense of certainty is often shaped by screens that *feel* certain but are not (a
+confident-sounding post, a smoothed-over prediction), and environmental decisions are
+classic fog — you cannot know the full future of a climate choice, yet you must choose.
+Naming what is unknown is itself an act of intellectual honesty.
 
 **Emotional safety.** Normalize being wrong. The "repair" step exists precisely so a
 miss is not a shame. Model a wrong decision of your own and how you repaired it. No

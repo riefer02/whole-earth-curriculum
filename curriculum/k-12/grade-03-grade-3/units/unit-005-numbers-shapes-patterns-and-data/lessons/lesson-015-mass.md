@@ -117,20 +117,19 @@ like a market-keeper: estimate first, then balance to check.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It introduces **mass** with the **gram**
-and **kilogram** — the new skill is *estimating* mass by feel and comparison, then
-*measuring* with a balance and standard weights. Teach with a **worked example**
-(philosophy §13): hold the 1-kg bag, feel an apple against it, then balance the apple
-with gram weights and read ≈ 100 g. Note the distinction between mass (how much matter)
-and weight (the pull of gravity) — at this age the practical word is "mass," and we
-keep it concrete (Van de Walle et al., 2019). **No one's accuracy at estimating
-measures their smartness; estimation grows with practice, and "not yet" is
-information, never a verdict.** The gram and kilogram are shared international units
-that make trade fair everywhere. Measure in the home language. For learners who are
-Deaf or hard of hearing, sign "heavier" and "lighter" and point to the tipping pan; for
-learners who are blind or low-vision, feel the balance tip and the weights in the
-hands. Learners with limited movement direct a partner to add weights. Mastery arrives
-at its own pace.
+It introduces **mass** with the **gram** and **kilogram** — the new skill is
+*estimating* mass by feel and comparison, then *measuring* with a balance and standard
+weights. Teach with a **worked example** (philosophy §13): hold the 1-kg bag, feel an
+apple against it, then balance the apple with gram weights and read ≈ 100 g. Note the
+distinction between mass (how much matter) and weight (the pull of gravity) — at this
+age the practical word is "mass," and we keep it concrete (Van de Walle et al., 2019).
+**No one's accuracy at estimating measures their smartness; estimation grows with
+practice, and "not yet" is information, never a verdict.** The gram and kilogram are
+shared international units that make trade fair everywhere. Measure in the home
+language. For learners who are Deaf or hard of hearing, sign "heavier" and "lighter" and
+point to the tipping pan; for learners who are blind or low-vision, feel the balance tip
+and the weights in the hands. Learners with limited movement direct a partner to add
+weights. Mastery arrives at its own pace.
 
 ## Procedure
 

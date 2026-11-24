@@ -116,25 +116,33 @@ through. Today you gather the pieces and see that they were always one thing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the four threads are
-one thing** — a way of living in a body that notices (body–mind), honors every body's
-worth (dignity), moves on purpose (movement plan), and widens the world's doors
-(environments). The capstone is a **retrieval-and-integration pass**, which is the
-highest-value kind of review (Dunlosky et al., S-039). Keep the tone open, not
-summative-in-the-punitive sense: this is a gathering, not a grading. Honor every body
-to the last line — the unit's closing claim is that dignity and joy belong to the whole
-arc of a life, at every age and every ability, and that the learner now carries the
-tools to protect that.
+**Tone.** Warm and unhurried: this is a gathering, not a grading.
 
-The **ethics** lens: the four threads are all, at bottom, about care — for oneself, for
-others, for the shared world. The **egalitarianism** lens: the unit has insisted that
-every body is a whole body and every stage is a whole stage, and the capstone restates
-it as a commitment, not a slogan. The **global** lens: the learner may carry this
-framework into a life that looks like any life on Earth — a city, a farm, a coast, a
-mountain — and it is built to travel. The **critical-thinking** lens: the integration
-sentence is a claim about your own life, offered to be tested and revised as the life
-unfolds. The **technology & environment** lens: the four threads come together in a body that lives in a particular place and time — among devices, buildings, and climates that help or hinder — so the whole arc is carried not in a vacuum but in a world, and part of the task is making that world easier for every body to move through. Close with a forward-looking note: this is the beginning of carrying it, not
-the end of learning it.
+**The facts to land.**
+
+1. The four threads are one: a way of living in a body that notices (body–mind), honours
+   every body's worth (dignity), moves on purpose (movement plan), and widens the
+   world's doors (environments).
+2. The capstone is a retrieval-and-integration pass — the highest-value kind of review
+   (Dunlosky et al., S-039).
+3. Dignity and joy belong to the whole arc of a life, at every age and every ability.
+
+**Don't overshoot.** Do not let the close become a test or a verdict on anyone's body.
+
+**The lenses, briefly.**
+
+- *Ethics:* all four threads are care — for oneself, for others, for the shared world.
+- *Egalitarianism:* every body is a whole body, every stage a whole stage — a
+  commitment, not a slogan.
+- *Global:* the framework is built to travel — a city, a farm, a coast, a mountain.
+- *Critical-thinking:* the integration sentence is a claim about your own life, to test
+  and revise as it unfolds.
+- *Technology and environment:* the arc is carried among devices, buildings, and
+  climates that help or hinder, so part of the task is making that world easier for
+  every body.
+
+**The skill.** Release the integration (S-011), then close forward-looking: this is the
+beginning of carrying it, not the end of learning it.
 
 ## Procedure
 

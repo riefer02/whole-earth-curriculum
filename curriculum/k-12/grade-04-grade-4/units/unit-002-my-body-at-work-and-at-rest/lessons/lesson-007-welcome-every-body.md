@@ -55,7 +55,7 @@ context_variants:
     note: Learners ready to extend redesign a familiar game with two new rules so more kinds of bodies can join
 assets:
   - path: assets/images/L.04.002.07-welcome-every-body.svg
-    alt: A circle of diverse children playing a passing game together. One child is in a wheelchair, one wears a hearing aid, and one is seated on the ground, all reaching toward a ball at the center, showing a game everyone can join
+    alt: "Six children in a ring around a ball, every one reaching toward it — one in a wheelchair, one wearing a hearing aid, one sitting cross-legged, one sitting on the ground, and five different skin tones. Caption — when a game leaves someone out, we change the game."
     kind: image
     source: original
 duration_minutes: 50
@@ -116,14 +116,13 @@ see. Welcoming every body is not just kind; it makes the game better for everyon
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The key move is *adapting the game, not
-the child*: a rule that leaves someone out is the problem, not the body. Model one
-worked example aloud — "if we only pass over our heads, someone seated can't reach, so
-let's pass to the side" — then let learners design. Keep it joyful and concrete. If a
-learner uses an aid, honor their expertise: they know best what works for them, and
-their ideas lead. Never single anyone out as "the example." This lesson carries forward
-Lesson 6's respect for diverse bodies and sets up the next two lessons on rules and fair
-play.
+The key move is *adapting the game, not the child*: a rule that leaves someone out is
+the problem, not the body. Model one worked example aloud — "if we only pass over our
+heads, someone seated can't reach, so let's pass to the side" — then let learners
+design. Keep it joyful and concrete. If a learner uses an aid, honor their expertise:
+they know best what works for them, and their ideas lead. Never single anyone out as
+"the example." This lesson carries forward Lesson 6's respect for diverse bodies and
+sets up the next two lessons on rules and fair play.
 
 ## Procedure
 

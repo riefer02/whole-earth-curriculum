@@ -115,26 +115,34 @@ mind is true and varied rather than just loud and familiar.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **staying informed in a flood
-means a personal media diet — pause before sharing, check the source, seek more than one view,
-and choose a balanced mix — and it means knowing that feeds can narrow what you see (the filter
-bubble) and that false information can be a mistake (misinformation) or deliberate
-(disinformation).** Hold the "no cynicism, no nihilism" line: the response to a flood is not to
-trust nothing, but to check and diversify. Keep partisan framing out — the skills are the same
-in every direction.
+**Tone.** Steady and practical: no cynicism, no nihilism — check and diversify.
 
-The **ethics** lens: sharing before checking makes you an unwitting carrier of what is false, so
-pausing is a small ethical act you can do every day. The **egalitarianism** lens: the flood
-does not hit everyone equally — people with less time, less access, or fewer sources are more
-exposed to what is loudest, so a good media diet is also a question of who gets to be informed
-(S-281). The **global** lens: the same habits — trace the claim, check independent reporting —
-are taught by news-literacy programs around the world, because the flood is global (S-217,
-S-278). The **technology** lens: feeds ranked for engagement and personalized recommendations
-can quietly surround you with what you already believe — the filter bubble, a real effect whose
-strength is still debated (S-481, S-482). The **environment** lens: environmental information
-is especially flooded with rumor, so the media diet directly affects whether people can act on
-the real state of the living Earth (S-004). Preview: Lesson 8 goes deeper — holding claims open
-to evidence rather than settling into certainty.
+**The facts to land.**
+
+1. A personal media diet means pausing before sharing, checking the source, seeking more
+   than one view, and choosing a balanced mix — while knowing feeds can narrow what you
+   see (the filter bubble) and that false information can be a mistake (misinformation)
+   or deliberate (disinformation).
+2. The flood does not hit everyone equally: less time, less access, and fewer sources
+   mean more exposure to whatever is loudest (S-281).
+3. The filter bubble is real, though its strength is still debated (S-481, S-482); the
+   same habits — trace the claim, check independent reporting — are taught worldwide
+   (S-217, S-278).
+
+**Don't overshoot.** Do not let healthy scepticism become "nothing can be known".
+
+**The lenses, briefly.**
+
+- *Ethics:* sharing before checking makes you an unwitting carrier of what is false.
+- *Egalitarianism:* a good media diet is also a question of who gets to be informed.
+- *Global:* the flood is global, and so are the habits.
+- *Technology:* engagement ranking and personalisation quietly surround you with what
+  you already believe (S-481, S-482).
+- *Environment:* environmental information is flooded with rumour, and the diet decides
+  whether people can act on the real state of the Earth (S-004).
+
+**The skill.** Model one diet audit, then release (S-011): three sources, one claim
+traced. Lesson 8 holds claims open to evidence.
 
 ## Procedure
 
@@ -188,3 +196,5 @@ one sentence about one source you each trust differently and why.
   Pariser — The Filter Bubble (S-482).
 - On news literacy: Center for News Literacy (S-278); on media and information literacy
   globally: UNESCO — MIL (S-217); on unequal access: World Bank WDR 2016 (S-281).
+- UNESCO — Education for Sustainable Development (S-004).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

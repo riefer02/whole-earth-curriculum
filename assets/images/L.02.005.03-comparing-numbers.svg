@@ -83,5 +83,5 @@
 
   <text x="428" y="364" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">37</text>
 
-  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="24.8" font-weight="bold" fill="#e0a458">42 &gt; 37 because 4 tens &gt; 3 tens</text>
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#e0a458">42 &gt; 37 because 4 tens &gt; 3 tens</text>
 </svg>

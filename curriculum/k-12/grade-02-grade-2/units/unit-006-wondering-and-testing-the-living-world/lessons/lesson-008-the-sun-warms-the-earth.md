@@ -117,17 +117,17 @@ away, but its gifts reach us every day.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Teach the **safety rule early and
-gently**: never look straight at the Sun — it is too bright for eyes. Keep the science
-**concrete**: feel sun vs. shade; find a plant in the light; notice warmth on a dark
-surface. The Sun is a star, and its light and heat travel about 150 million kilometres to
-reach us — a fact to wonder at, offered lightly, not to memorize. Hold origins with
-openness per `docs/philosophy.md` §11: people have told many stories about where the Sun
-and the Earth came from, and scientists have a story too — they are all stories to wonder
-at together, and we rank none above the others. Distinguish evidence from values: "the
-Sun warms the Earth" is something we can feel and agree on; "I love sunny days" is a
-feeling. In hot places the Sun can also be too strong — sunburn and heat are real, and
-staying safe in strong sun (shade, cover, water) is a fair, hopeful note, not fear.
+Teach the **safety rule early and gently**: never look straight at the Sun — it is too
+bright for eyes. Keep the science **concrete**: feel sun vs. shade; find a plant in the
+light; notice warmth on a dark surface. The Sun is a star, and its light and heat travel
+about 150 million kilometres to reach us — a fact to wonder at, offered lightly, not to
+memorize. Hold origins with openness per `docs/philosophy.md` §11: people have told many
+stories about where the Sun and the Earth came from, and scientists have a story too —
+they are all stories to wonder at together, and we rank none above the others.
+Distinguish evidence from values: "the Sun warms the Earth" is something we can feel and
+agree on; "I love sunny days" is a feeling. In hot places the Sun can also be too
+strong — sunburn and heat are real, and staying safe in strong sun (shade, cover, water)
+is a fair, hopeful note, not fear.
 
 ## Procedure
 

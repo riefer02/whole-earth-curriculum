@@ -39,6 +39,6 @@
     <text x="270" y="290" fill="#4f6d7a">sentences</text>
   </g>
 
-  <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="14.3" fill="#4f6d7a">The topic sentence tells the reader what the paragraph is about.</text>
-  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="13.3" fill="#2b3a42">It is usually the first sentence — the door the reader walks through.</text>
+  <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The topic sentence tells the reader what the paragraph is about.</text>
+  <text x="256" y="408" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">It is usually the first sentence — the door the reader walks through.</text>
 </svg>

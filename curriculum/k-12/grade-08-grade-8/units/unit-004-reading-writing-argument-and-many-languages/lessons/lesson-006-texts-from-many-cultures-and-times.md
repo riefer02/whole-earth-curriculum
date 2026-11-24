@@ -113,20 +113,34 @@ see the *person and the world* behind every text — and to see your own texts t
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) every text reflects the
-culture and time that made it — in its form (haiku, mystic verse, oral epic), its subject, and
-its purpose; (2) comparing texts across cultures and times is how we hear many human voices, not
-one; (3) no culture's texts are "higher" — each is a window into its world.** The three texts are
-real and well documented: Bashō's frog haiku (Japan, 1680s, S-351); Rumi, the 13th-century
-Persian poet (S-352); and the Sundiata epic, kept by West African griots (S-269). The global
-lens is this lesson's heart — read widely, across the whole human family. The ethics lens: read
-each text with the respect it asks; do not flatten it into a stereotype. The egalitarian lens:
-texts survive because people keep them — oral traditions kept by memory are as much literature
-as printed books, and the lesson says so plainly. The social-emotional lens: these are texts of
-feeling — a pond, a longing, a people's memory — and feeling travels across time. Home language
-first: invite learners to share a text from their own culture in their own language, and treat
-each speaker as the expert on their own text. If you do not know a language or text, be humble;
-let those who know it teach.
+**Tone.** Reverent and curious — many voices, none ranked.
+
+**The facts to land.**
+
+1. Every text reflects the culture and time that made it — its form (haiku, mystic
+   verse, oral epic), subject, and purpose.
+2. Comparing across cultures and times lets us hear many human voices, not one.
+3. No culture's texts are "higher"; each is a window into its world.
+
+The three texts are real and well documented: Bashō's frog haiku (Japan, 1680s, S-351);
+Rumi, the 13th-century Persian poet (S-352); the Sundiata epic, kept by West African
+griots (S-269).
+
+**Don't overshoot.** Do not flatten a text into a stereotype of its culture, or treat
+print as the only real literature.
+
+**The lenses, briefly.**
+
+- *Global:* read widely, across the whole human family — this lesson's heart.
+- *Ethics:* read each text with the respect it asks.
+- *Egalitarianism:* oral traditions kept by memory are as much literature as printed books.
+- *Social-emotional:* these are texts of feeling — a pond, a longing, a people's memory
+  — and feeling travels across time.
+- *Critical-thinking:* a text's form is a choice shaped by its time, not a natural law.
+
+**The skill.** Home language first: invite a text from the learner's own culture, in
+their own language, and treat each speaker as the expert on their text. If you do not
+know a language or text, be humble; let those who know it teach.
 
 ## Procedure
 

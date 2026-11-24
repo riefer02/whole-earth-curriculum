@@ -114,14 +114,13 @@ person's own — because each person brings a different life to the same moment.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It plants the seed of perspective-taking
-that grows in later units ("Caring, Perspective & Belonging"). The important rule: no
-feeling is the "correct" one. When a learner says why someone feels a certain way, accept
-their reasoning even if it differs from yours, and wonder together. Gently separate
-evidence from guessing ("we are imagining why — we cannot know for sure"). Keep the
-examples respectful of every child's life (a move, rain, a new rule, sharing) and avoid
-stereotyping who feels what. This is also an egalitarian moment: every feeling gets to
-be heard, not just the loudest one.
+It plants the seed of perspective-taking that grows in later units ("Caring, Perspective
+& Belonging"). The important rule: no feeling is the "correct" one. When a learner says
+why someone feels a certain way, accept their reasoning even if it differs from yours,
+and wonder together. Gently separate evidence from guessing ("we are imagining why — we
+cannot know for sure"). Keep the examples respectful of every child's life (a move,
+rain, a new rule, sharing) and avoid stereotyping who feels what. This is also an
+egalitarian moment: every feeling gets to be heard, not just the loudest one.
 
 ## Procedure
 

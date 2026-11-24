@@ -110,14 +110,14 @@ and combine real amounts in kitchens, fields, and clinics everywhere.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **when amounts are in
-different units, convert so they match before you add, subtract, or compare** — then solve, and
-check the answer is sensible. Model a worked example first, then guide a second (Kirschner,
-Sweller & Clark, 2006). Common slip: adding or comparing without converting first (500 mL + 250
-mL is fine because both are mL, but 1.5 km + 800 m is not yet). Retrieval: ask learners to recall
-Lesson 13's conversion rule and reuse it. Emphasize estimation to catch errors. The math is
-evidence; the fairness value appears in making sure everyone gets the *same* measure — no one
-short-changed when amounts are combined or shared (`docs/philosophy.md` §4).
+The idea to land: **when amounts are in different units, convert so they match before
+you add, subtract, or compare** — then solve, and check the answer is sensible. Model a
+worked example first, then guide a second (Kirschner, Sweller & Clark, 2006). Common
+slip: adding or comparing without converting first (500 mL + 250 mL is fine because both
+are mL, but 1.5 km + 800 m is not yet). Retrieval: ask learners to recall Lesson 13's
+conversion rule and reuse it. Emphasize estimation to catch errors. The math is
+evidence; the fairness value appears in making sure everyone gets the *same* measure —
+no one short-changed when amounts are combined or shared (`docs/philosophy.md` §4).
 
 ## Procedure
 

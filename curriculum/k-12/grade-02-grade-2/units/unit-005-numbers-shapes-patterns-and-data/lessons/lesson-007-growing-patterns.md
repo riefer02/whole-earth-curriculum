@@ -110,18 +110,17 @@ garden, build a staircase, or guess tomorrow's weather.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It builds on Grade 1's repeating
-patterns and introduces **growing patterns** — the new idea is describing *change*,
-not just repetition. Start by recalling a repeating pattern, then contrast it with a
-staircase that grows. Teach building and describing a growing pattern as a **worked
-example** (philosophy §13): "one block, then two, then three — it grows by one each
-step." Patterns are found in every culture — in woven cloth, in songs, in the steps of
-a dance — and naming the change is a kind of poetry about structure. **No one's speed
-at seeing a pattern measures their smartness; noticing is a skill that grows with
-practice, at each learner's own pace.** For learners who are Deaf or hard of hearing,
-build with objects and point to each change; for learners who are blind or low-vision,
-build patterns by touch and feel each row grow. A learner who does not speak shows the
-change by pointing or adding the next step.
+It builds on Grade 1's repeating patterns and introduces **growing patterns** — the new
+idea is describing *change*, not just repetition. Start by recalling a repeating
+pattern, then contrast it with a staircase that grows. Teach building and describing a
+growing pattern as a **worked example** (philosophy §13): "one block, then two, then
+three — it grows by one each step." Patterns are found in every culture — in woven
+cloth, in songs, in the steps of a dance — and naming the change is a kind of poetry
+about structure. **No one's speed at seeing a pattern measures their smartness; noticing
+is a skill that grows with practice, at each learner's own pace.** For learners who are
+Deaf or hard of hearing, build with objects and point to each change; for learners who
+are blind or low-vision, build patterns by touch and feel each row grow. A learner who
+does not speak shows the change by pointing or adding the next step.
 
 ## Procedure
 

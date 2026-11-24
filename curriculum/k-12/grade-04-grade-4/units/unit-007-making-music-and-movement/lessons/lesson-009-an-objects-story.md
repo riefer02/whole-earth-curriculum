@@ -120,17 +120,16 @@ carefully and you can hear the land, the weather, and the people who made it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Like Lessons 2 and 5, it carries the
-"living heritage" stance: objects are read with respect, not labeled "primitive" or
-"clever-for-them." Model the skill with a worked example — take one object and name
-its materials (flax leaves), its needs (carrying and storing food), and its ideas
-(weaving patterns and protocols that carry care for the plant and the community). Then
-have learners do the same. Use neutral, accurate language and give credit to the
-specific culture by name. Remind learners that an object's "ideas" can include beliefs,
-stories, or values we must *ask about* rather than assume. If a local elder or maker
-can share an object's true story, invite them — that is the most faithful source. The
-goal is that a learner can say, in three clear parts, *why this object looks the way it
-does*.
+Like Lessons 2 and 5, it carries the "living heritage" stance: objects are read with
+respect, not labeled "primitive" or "clever-for-them." Model the skill with a worked
+example — take one object and name its materials (flax leaves), its needs (carrying and
+storing food), and its ideas (weaving patterns and protocols that carry care for the
+plant and the community). Then have learners do the same. Use neutral, accurate language
+and give credit to the specific culture by name. Remind learners that an object's
+"ideas" can include beliefs, stories, or values we must *ask about* rather than assume.
+If a local elder or maker can share an object's true story, invite them — that is the
+most faithful source. The goal is that a learner can say, in three clear parts, *why
+this object looks the way it does*.
 
 ## Procedure
 

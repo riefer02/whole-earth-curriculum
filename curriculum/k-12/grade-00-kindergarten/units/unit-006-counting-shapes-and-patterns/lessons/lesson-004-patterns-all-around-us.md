@@ -103,20 +103,31 @@ again and again. Today you will hunt for them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to plant is simply "a pattern
-repeats." Do not yet demand that learners extend or build patterns — that is the next
-lesson. Here, let them *see* patterns everywhere and feel the delight of recognition.
-Center patterns from many cultures as equals: woven baskets, kente and other striped
-and zigzag textiles, molas, beadwork, tile mosaics, and the repeating beats of drum
-music are all examples of people making order through repetition — none is "better,"
-each is beautiful in its own tradition. Be careful not to treat only printed or
-European patterns as "real" patterns. Honor sound and movement patterns (clapping,
-drumming, dance steps) as fully equal to visual ones, and invite learners who are
-blind or low-vision to find patterns by touch and sound, and learners who are deaf or
-hard of hearing to find them by sight and rhythm they can feel. Learners with limited
-movement find and share patterns by voice or sign — saying what repeats, or choosing
-examples with eye-gaze or a mouth stick — while a partner points or traces. There is
-no "wrong" pattern to notice.
+**Tone.** Delight, not instruction. Name what you notice and let them pounce.
+
+**The facts to land.**
+1. **A pattern repeats** — something comes back, again and again.
+2. Patterns are everywhere: cloth, baskets, tiles, music, footsteps, bark, feathers.
+3. Today is noticing only — extending and building patterns come next lesson.
+
+**Don't overshoot.** Don't treat only printed or European patterns as "real," and don't
+tell a learner their pattern is wrong — there is no wrong pattern to notice here.
+
+**The lenses, briefly.**
+- *Ethics:* patterns from many traditions are shown as equals.
+- *Egalitarianism:* sound, movement, and touch patterns count fully; clapping, drumming,
+  and dance steps are as real as stripes.
+- *Global:* woven baskets, kente and other striped and zigzag textiles, molas, beadwork,
+  tile mosaics, and the repeating beats of drum music are all people making order
+  through repetition — none is "better," each is beautiful in its own tradition.
+- *Environment:* patterns are in bark, feathers, leaves, waves, and bird calls.
+
+**The skill.** Find one repeating thing and say what repeats.
+
+**Access.** Blind or low-vision: find patterns by touch and sound. Deaf or hard of
+hearing: find them by sight and by rhythm felt through a surface. Limited movement:
+share by voice or sign, or choose an example by eye-gaze or mouth stick while a partner
+points or traces.
 
 ## Procedure
 

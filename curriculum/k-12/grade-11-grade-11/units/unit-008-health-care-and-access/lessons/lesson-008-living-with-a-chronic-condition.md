@@ -114,15 +114,15 @@ else — is the difference between support that helps and sympathy that misses t
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **a chronic condition
-is a long-term health need that threads through a day — medicine, monitoring, pacing,
-rest, clinic visits, energy planning — and some conditions are invisible, so others
-may not see the cost.** The deep value, held firmly: **the condition is not the
-person; a person-first frame (a person with diabetes, not "a diabetic") protects
-dignity, and no body is worth less for needing more steps (philosophy §4, §12 — value,
-not fact).** Because the registry has no page-level source for specific condition
-taxonomies, keep medical specifics minimal and general, and let the *case cards* carry
-the detail through learner research rather than asserting unverified medical facts.
+The ideas to land: **a chronic condition is a long-term health need that threads through
+a day — medicine, monitoring, pacing, rest, clinic visits, energy planning — and some
+conditions are invisible, so others may not see the cost.** The deep value, held firmly:
+**the condition is not the person; a person-first frame (a person with diabetes, not "a
+diabetic") protects dignity, and no body is worth less for needing more steps
+(philosophy §4, §12 — value, not fact).** Because the registry has no page-level source
+for specific condition taxonomies, keep medical specifics minimal and general, and let
+the *case cards* carry the detail through learner research rather than asserting
+unverified medical facts.
 
 The **physical** lens: reading what a day actually costs a body. The
 **social-emotional** lens: invisible conditions and stigma — how being unseen or

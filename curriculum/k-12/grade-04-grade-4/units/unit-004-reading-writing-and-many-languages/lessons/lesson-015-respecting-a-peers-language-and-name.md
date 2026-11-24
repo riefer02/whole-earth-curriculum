@@ -108,20 +108,33 @@ begins with a name.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. This is the unit's capstone of respect: model asking "how do you
-say your name?" and echo it carefully, and let a learner correct you until you get it
-right — the facilitator is the first learner here. Names carry identity; mispronouncing a
-name repeatedly can feel like erasure, and the research on name pronunciation and
-belonging supports this (Kohli & Solórzano, 2012, on "racial microaggressions" including
-name mispronunciation). Hold this gently: no one should be forced to teach their language
-or be made into a display; a peer offers their name and words as a gift, and the gift can
-be declined. Practice is cooperative, not graded — "did I say it right?" is an invitation
-to be corrected, never a test with a score. Honor signed languages exactly as high as
-spoken ones — a signed name is a name. Treat accents as natural variation, never as
-error. A learner who is Deaf or hard of hearing learns names and words in sign or through
-written or visual forms. The measure is not perfection but care — a learner who keeps
-trying until it is right has shown the respect that matters.
+**Tone.** Careful and humble — the facilitator is the first learner here.
+
+**The facts to land.**
+1. Model asking "how do you say your name?", echoing it carefully, and letting a learner
+   correct you until you get it right.
+2. Names carry identity; repeated mispronunciation can feel like erasure — the research
+   on name pronunciation and belonging supports this (Kohli & Solórzano, 2012, on
+   "racial microaggressions," including name mispronunciation).
+3. A signed name is a name, and signed languages stand exactly as high as spoken ones.
+4. Accents are natural variation, never error.
+
+**Don't overshoot.** Do not make a learner into a display. A peer offers their name and
+words as a gift, and the gift can be declined.
+
+**The lenses, briefly.**
+- *Ethics:* care, not perfection, is the measure.
+- *Egalitarianism:* every name and every language stands equal.
+- *Social-emotional:* practice is cooperative, not graded.
+- *Global:* names and words come from everywhere.
+
+**The skill.** Ask, echo, and accept correction until the learner says it is right.
+
+"Did I say it right?" is an invitation to be corrected, never a test with a score.
+
+**Access:** a learner who is Deaf or hard of hearing learns names and words in sign or
+through written or visual forms. A learner who keeps trying until it is right has shown
+the respect that matters.
 
 ## Procedure
 

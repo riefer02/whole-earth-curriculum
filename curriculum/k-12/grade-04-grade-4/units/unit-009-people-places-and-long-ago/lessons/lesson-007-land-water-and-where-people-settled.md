@@ -122,18 +122,17 @@ the question, "why did people make their home *here*?"
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Map reading is a foundational skill, so
-model one settlement fully first** (Kirschner, Sweller & Clark, 2006): "The river — people
-settled here because the river gives fresh water to drink and fertile soil to farm, and
-boats can travel on it." Then guide the coast, mountains, and oasis. **Keep the framing
-global and egalitarian:** river valleys (the Nile, the Indus, the Tigris–Euphrates, the
-Yellow, the Niger), coasts and islands (Pacific and Indian Ocean peoples), mountain
-terraces (the Andes), and desert oases are all real, clever human answers — never
-"better" or "worse" places, and never "advanced" vs. "backward." Every place asks
-something of its people, and every people answers with knowledge. Honor every body:
-describe the map in words for a learner who cannot see it; a learner who does not use a
-speaking voice points or places a dot. If learners live near a landform or water body,
-anchor the lesson there first.
+**Map reading is a foundational skill, so model one settlement fully first** (Kirschner,
+Sweller & Clark, 2006): "The river — people settled here because the river gives fresh
+water to drink and fertile soil to farm, and boats can travel on it." Then guide the
+coast, mountains, and oasis. **Keep the framing global and egalitarian:** river valleys
+(the Nile, the Indus, the Tigris–Euphrates, the Yellow, the Niger), coasts and islands
+(Pacific and Indian Ocean peoples), mountain terraces (the Andes), and desert oases are
+all real, clever human answers — never "better" or "worse" places, and never "advanced"
+vs. "backward." Every place asks something of its people, and every people answers with
+knowledge. Honor every body: describe the map in words for a learner who cannot see it;
+a learner who does not use a speaking voice points or places a dot. If learners live
+near a landform or water body, anchor the lesson there first.
 
 ## Procedure
 

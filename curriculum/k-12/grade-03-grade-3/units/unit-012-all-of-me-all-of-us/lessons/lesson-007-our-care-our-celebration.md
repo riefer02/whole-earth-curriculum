@@ -134,21 +134,34 @@ celebrate it all.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the year's **capstone**, and its
-two commitments are **celebration, not competition** and **a community is made of
-people helping one another**. No best-work awards, no winners, no ranking — every
-learner's work is displayed equally, and every child belongs. Honor every family shape:
-a child's caring circle may be parents, one parent, grandparents, extended kin,
-guardians, foster or group care, or a trusted adult — and a learner may share their
-celebration with any of these, or pass. In the sharing circle, sharing is by choice; a
-pass is a full share. Help learners name *concrete* examples of community help (a
-neighbor watching the baby, a market seller keeping fair change, a friend sharing a
-book, a classmate tying a shoe) so the standard is met in the everyday, not the
-grand. Keep the goal-ahead small and real, with a first step — the habit from Lesson 4.
-For a learner who is Deaf or hard of hearing, make the celebration visual — clapping,
-signing, a flag wave, a visual "bravo." For a learner who is blind or has low vision,
-offer a spoken or tactile tour of the gallery. Keep the tone warm and generous: the
-class has grown together, and everyone belongs.
+**Tone.** Warm and generous — the class has grown together, and everyone belongs.
+
+**The facts to land.**
+1. Celebration, not competition: no best-work awards, no winners, no ranking — every
+   learner's work is displayed equally.
+2. A community is made of people helping one another; name concrete examples — a
+   neighbor watching the baby, a market seller keeping fair change, a friend sharing a
+   book, a classmate tying a shoe.
+3. Every family shape is honored, and a pass is a full share.
+
+**Don't overshoot.** Do not let a gallery quietly become a ranking, and keep the
+goal-ahead small and real, with a first step (the habit from Lesson 4).
+
+**The lenses, briefly.**
+- *Social-emotional:* sharing is by choice; a pass is a share.
+- *Ethics:* help is named in the everyday, not the grand.
+- *Egalitarianism:* every work displayed equally.
+- *Community:* the class is a community that helps.
+- *Global:* caring circles vary in shape; all are honored.
+
+**The skill.** Name one concrete way your community helps someone, and say how you
+helped too.
+
+This is the year's capstone.
+
+**Access:** for a learner who is Deaf or hard of hearing, make the celebration visual —
+clapping, signing, a flag wave, a visual "bravo"; for a learner who is blind or has low
+vision, offer a spoken or tactile tour of the gallery.
 
 ## Procedure
 

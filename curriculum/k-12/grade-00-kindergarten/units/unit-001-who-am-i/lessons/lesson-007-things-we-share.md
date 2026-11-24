@@ -99,10 +99,9 @@ care. The things we share are like a bridge from me to you, and to people everyw
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, keep the shared list universal — needs and
-feelings every human shares — so every learner can step in and belong. This lesson
-pairs with Lesson 6: uniqueness and sharedness are two halves of one truth.
+As facilitator, keep the shared list universal — needs and feelings every human shares —
+so every learner can step in and belong. This lesson pairs with Lesson 6: uniqueness and
+sharedness are two halves of one truth.
 
 ## Procedure
 

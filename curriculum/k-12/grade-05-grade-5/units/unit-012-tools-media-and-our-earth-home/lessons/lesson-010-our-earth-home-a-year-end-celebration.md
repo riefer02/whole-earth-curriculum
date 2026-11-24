@@ -139,13 +139,13 @@ in this world; you are someone who helps care for it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is the unit's **capstone and summative
-assessment**, and the **year-end celebration** — a moment of retrieval and synthesis, not
-re-reading. Keep the tone **joyful, collective, and hopeful**: success is shared, mastery is
-individual, and no one is ranked. Land on **agency and celebration** — the learner is a whole
-person in a caring community on a living Earth, and a steward who can act. If a learner's
-artifacts are incomplete, let them finish one now rather than be judged "done" or "not done."
-This lesson completes the unit's portfolio and looks ahead to Grade 6. See
+This is the unit's **capstone and summative assessment**, and the **year-end
+celebration** — a moment of retrieval and synthesis, not re-reading. Keep the tone
+**joyful, collective, and hopeful**: success is shared, mastery is individual, and no
+one is ranked. Land on **agency and celebration** — the learner is a whole person in a
+caring community on a living Earth, and a steward who can act. If a learner's artifacts
+are incomplete, let them finish one now rather than be judged "done" or "not done." This
+lesson completes the unit's portfolio and looks ahead to Grade 6. See
 `docs/facilitation.md` on assessing without ranking.
 
 ## Procedure

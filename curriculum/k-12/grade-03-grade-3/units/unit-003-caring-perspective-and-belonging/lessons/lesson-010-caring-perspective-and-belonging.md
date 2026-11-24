@@ -142,18 +142,16 @@ person belongs. That is worth celebrating.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. The capstone is a **celebration of growth, not a test**: observe
-what each learner can now name and show, and record it for the portfolio without
-ranking anyone. Honor every way of showing — voice, sign, drawing, acting, or a written
-line — all count fully, and every family and community shape is welcomed. Keep the
-closing warm and inclusive; the measure of this unit is that each learner leaves
-feeling they belong and can help others belong. Where a camera or tablet records the
-pages for a class book, notice what the tool can do — keep a picture to remember — and
-what it cannot: it does not feel the warmth of a shared circle or the fairness of a
-given turn. Tools help us remember; the caring is done by people, with the living world
-around them. Close with joy: caring, perspective, and belonging are skills for life, and
-these learners now hold them.
+The capstone is a **celebration of growth, not a test**: observe what each learner can
+now name and show, and record it for the portfolio without ranking anyone. Honor every
+way of showing — voice, sign, drawing, acting, or a written line — all count fully, and
+every family and community shape is welcomed. Keep the closing warm and inclusive; the
+measure of this unit is that each learner leaves feeling they belong and can help others
+belong. Where a camera or tablet records the pages for a class book, notice what the
+tool can do — keep a picture to remember — and what it cannot: it does not feel the
+warmth of a shared circle or the fairness of a given turn. Tools help us remember; the
+caring is done by people, with the living world around them. Close with joy: caring,
+perspective, and belonging are skills for life, and these learners now hold them.
 
 ## Procedure
 

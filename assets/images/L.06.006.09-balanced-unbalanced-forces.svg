@@ -14,46 +14,46 @@
   </defs>
 
   <!-- book on table (balanced) -->
-  <g transform="translate(20, 90)">
-    <line x1="0" y1="110" x2="180" y2="110" stroke="#2b3a42" stroke-width="4"/>
-    <rect x="60" y="66" width="70" height="44" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="95" y="94" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">book</text>
+  <g>
+    <line x1="20" y1="200" x2="200" y2="200" stroke="#2b3a42" stroke-width="4"/>
+    <rect x="80" y="156" width="70" height="44" rx="4" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <text x="115" y="184" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">book</text>
     <!-- down arrow -->
-    <line x1="95" y1="52" x2="95" y2="64" stroke="#2b3a42" stroke-width="3" marker-end="url(#ba-L-06-006-09-balanced-unbalanced-forces)"/>
-    <text x="150" y="52" font-family="sans-serif" font-size="11" fill="#222222">gravity pulls down</text>
+    <line x1="115" y1="142" x2="115" y2="154" stroke="#2b3a42" stroke-width="3" marker-end="url(#ba-L-06-006-09-balanced-unbalanced-forces)"/>
+    <text x="170" y="142" font-family="sans-serif" font-size="12" fill="#222222">gravity pulls down</text>
     <!-- up arrow -->
-    <line x1="95" y1="118" x2="95" y2="130" stroke="#2b3a42" stroke-width="3" marker-end="url(#ba-L-06-006-09-balanced-unbalanced-forces)"/>
-    <text x="150" y="128" font-family="sans-serif" font-size="11" fill="#222222">table pushes up</text>
-    <text x="95" y="158" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">balanced — no move</text>
+    <line x1="115" y1="208" x2="115" y2="220" stroke="#2b3a42" stroke-width="3" marker-end="url(#ba-L-06-006-09-balanced-unbalanced-forces)"/>
+    <text x="170" y="218" font-family="sans-serif" font-size="12" fill="#222222">table pushes up</text>
+    <text x="115" y="248" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">balanced — no move</text>
   </g>
 
   <!-- kicked ball (unbalanced) -->
-  <g transform="translate(230, 90)">
-    <line x1="0" y1="140" x2="180" y2="140" stroke="#2b3a42" stroke-width="4"/>
-    <circle cx="60" cy="118" r="22" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <g>
+    <line x1="230" y1="230" x2="410" y2="230" stroke="#2b3a42" stroke-width="4"/>
+    <circle cx="290" cy="208" r="22" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
     <!-- kick arrow (long, right) -->
-    <line x1="86" y1="118" x2="150" y2="118" stroke="#2b3a42" stroke-width="4" marker-end="url(#ba-L-06-006-09-balanced-unbalanced-forces)"/>
-    <text x="150" y="108" font-family="sans-serif" font-size="11" fill="#222222">kick</text>
+    <line x1="316" y1="208" x2="380" y2="208" stroke="#2b3a42" stroke-width="4" marker-end="url(#ba-L-06-006-09-balanced-unbalanced-forces)"/>
+    <text x="380" y="198" font-family="sans-serif" font-size="12" fill="#222222">kick</text>
     <!-- friction arrow (short, left) -->
-    <line x1="34" y1="118" x2="10" y2="118" stroke="#4f6d7a" stroke-width="3" marker-end="url(#ba-L-06-006-09-balanced-unbalanced-forces)"/>
-    <text x="60" y="90" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">friction</text>
-    <text x="60" y="172" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">unbalanced — it speeds up</text>
+    <line x1="264" y1="208" x2="240" y2="208" stroke="#4f6d7a" stroke-width="3" marker-end="url(#ba-L-06-006-09-balanced-unbalanced-forces)"/>
+    <text x="290" y="180" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">friction</text>
+    <text x="290" y="262" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">unbalanced — it speeds up</text>
   </g>
 
   <!-- cart (balanced steady) -->
-  <g transform="translate(40, 290)">
-    <line x1="0" y1="90" x2="200" y2="90" stroke="#2b3a42" stroke-width="4"/>
+  <g>
+    <line x1="40" y1="380" x2="240" y2="380" stroke="#2b3a42" stroke-width="4"/>
     <!-- cart -->
-    <rect x="70" y="50" width="70" height="40" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="84" cy="94" r="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="126" cy="94" r="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="110" y="340" width="70" height="40" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="124" cy="384" r="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="166" cy="384" r="10" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
     <!-- left push -->
-    <line x1="60" y1="70" x2="24" y2="70" stroke="#2b3a42" stroke-width="3" marker-end="url(#ba-L-06-006-09-balanced-unbalanced-forces)"/>
-    <text x="24" y="60" font-family="sans-serif" font-size="11" fill="#222222">push</text>
+    <line x1="100" y1="360" x2="64" y2="360" stroke="#2b3a42" stroke-width="3" marker-end="url(#ba-L-06-006-09-balanced-unbalanced-forces)"/>
+    <text x="64" y="350" font-family="sans-serif" font-size="12" fill="#222222">push</text>
     <!-- right push equal -->
-    <line x1="150" y1="70" x2="186" y2="70" stroke="#2b3a42" stroke-width="3" marker-end="url(#ba-L-06-006-09-balanced-unbalanced-forces)"/>
-    <text x="186" y="60" text-anchor="end" font-family="sans-serif" font-size="11" fill="#222222">push</text>
-    <text x="105" y="128" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">balanced — steady speed, no change</text>
+    <line x1="190" y1="360" x2="226" y2="360" stroke="#2b3a42" stroke-width="3" marker-end="url(#ba-L-06-006-09-balanced-unbalanced-forces)"/>
+    <text x="226" y="350" text-anchor="end" font-family="sans-serif" font-size="12" fill="#222222">push</text>
+    <text x="145" y="418" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">balanced — steady speed, no change</text>
   </g>
 
   <!-- summary -->

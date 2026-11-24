@@ -118,15 +118,15 @@ and gases every day.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Introduce the three states with a **worked
-example** — hold up the stone, the water, and the air bag and say each state's rule once
-— then let learners sort with a partner (guided practice). A common misconception is that
-gas is "nothing"; emphasize gently that air is matter — it takes up space, and a sealed
-bag of air is the proof a child can hold. Keep examples global: ice and snow (solid) on a
-mountain, river water (liquid), the wind and breath (gas) — the same three states appear
-everywhere. Note honestly that some "in-between" things (sand, jelly, clay) can be
-tricky to sort, and that is fine — classification is a tool, not a test. This lesson
-pairs with Lesson 6, where heating and cooling move matter between states.
+Introduce the three states with a **worked example** — hold up the stone, the water, and
+the air bag and say each state's rule once — then let learners sort with a partner
+(guided practice). A common misconception is that gas is "nothing"; emphasize gently
+that air is matter — it takes up space, and a sealed bag of air is the proof a child can
+hold. Keep examples global: ice and snow (solid) on a mountain, river water (liquid),
+the wind and breath (gas) — the same three states appear everywhere. Note honestly that
+some "in-between" things (sand, jelly, clay) can be tricky to sort, and that is fine —
+classification is a tool, not a test. This lesson pairs with Lesson 6, where heating and
+cooling move matter between states.
 
 ## Procedure
 

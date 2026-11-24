@@ -117,18 +117,28 @@ question and see what answer comes.
 
 ## Facilitator note
 
-This is a vulnerable lesson; safety comes first. Set clear norms: participation is by invitation,
-anyone may watch instead of perform, and bodies are never commented on — only the movement choices.
-The **social-emotional** and **physical** lenses carry the lesson: identity is felt *in* the body,
-and moving is thinking. The **ethics** lens: **consent** is the foundation — no one touches, films, or
-shares another's body without permission, and a learner's "pass" is always honored. The **global**
-lens: many traditions use gesture as meaning — a mudra, a bow, a greeting gesture — and learners may
-draw on any they know *respectfully*, as a question rather than a costume; if a gesture belongs to a
-tradition not their own, they should ask before borrowing its meaning. Keep the **worked example**
-brief: model a three-move phrase (still → rise → reach) so novices see what a phrase is, then let
-them make it their own (S-011). Feedback is descriptive ("I saw you rise slowly, then reach"), never
-a verdict on the person. Honor the wide range of bodies and abilities; stillness, a seated gesture,
-or a hand moving are as complete as a leap.
+**Tone.** Gentle and permissive — this is a vulnerable lesson, so safety comes first.
+
+**The facts to land.**
+
+1. **Participation is by invitation:** anyone may watch instead of perform.
+2. **Bodies are never commented on** — only the movement choices.
+3. **Identity is felt *in* the body, and moving is thinking.**
+
+**The lenses, briefly.**
+
+- *Ethics:* **consent** is the foundation — no one touches, films, or shares another's
+body without permission, and a learner's "pass" is always honoured.
+- *Global:* many traditions use gesture as meaning — a mudra, a bow, a greeting — and
+learners may draw on any they know *respectfully*, as a question rather than a costume;
+if a gesture belongs to a tradition not their own, they should ask before borrowing its
+meaning.
+- *Social-emotional:* feedback is descriptive ("I saw you rise slowly, then reach"),
+never a verdict on the person.
+- *Physical:* stillness, a seated gesture, or a hand moving are as complete as a leap.
+
+**The skill.** Model one brief three-move phrase — still → rise → reach — so novices see
+what a phrase is, then let them make it their own (S-011).
 
 ## Procedure
 

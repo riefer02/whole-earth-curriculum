@@ -99,11 +99,9 @@ are part of your community too.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, keep "community" concrete — the people and
-places a learner actually sees, not an abstraction. Where learners come from
-different neighborhoods or places of worship or gathering, honor each equally and
-avoid naming one as the norm.
+As facilitator, keep "community" concrete — the people and places a learner actually
+sees, not an abstraction. Where learners come from different neighborhoods or places of
+worship or gathering, honor each equally and avoid naming one as the norm.
 
 ## Procedure
 

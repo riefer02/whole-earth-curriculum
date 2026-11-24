@@ -113,19 +113,34 @@ One gives information; the other is selling. We can tell them apart by their clu
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Keep it fair and warm: **selling is not
-bad, and noticing it is not suspicion.** People buy food, soap, and shoes, and sellers
-help them find these things. The skill is simply to *notice* when a message wants our
-money rather than only telling us a fact. That skill matters everywhere, and it protects
-families with little to spend just as much as anyone else — knowing the clue is a kind of
-fairness. Hold the curriculum's stance: media is met with judgment, not fear. Use simple,
-everyday examples with no wealth assumption — a market stall, a street sign, a label on
-rice or soap — so every learner recognizes a selling message from their own life. Distinguish
-evidence from values: "this message shows a price" is a fact; "selling is bad" is a value
-judgment we do not make. Honor every body: read each message aloud for a learner who is
-blind or has low vision, and let them name the clue by voice; a non-speaking learner points
-to "buy," "price," or "fact" on a clue chart. A learner who is Deaf or hard of hearing can
-read the printed messages and sign "buy" or "fact" to answer.
+**Tone.** Fair and warm. **Selling is not bad, and noticing it is not suspicion.**
+
+**The facts to land.**
+
+1. People buy food, soap, and shoes, and sellers help them find these things.
+2. The skill is to *notice* when a message wants our money rather than only telling us a
+   fact.
+3. Use everyday examples with no wealth assumption — a market stall, a street sign, a
+   label on rice or soap — so every learner recognises a selling message from their own
+   life.
+4. **Distinguish evidence from values**: "this message shows a price" is a fact;
+   "selling is bad" is a value judgment we do not make.
+
+**Don't overshoot.** Media is met with judgment, not fear. The skill protects families
+with little to spend as much as anyone else; knowing the clue is a kind of fairness.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* ask what the message wants, not just what it says.
+- *Technology:* messages reach us on paper, packets, and screens.
+- *Ethics:* noticing is not accusing the seller or the buyer.
+- *Egalitarianism:* the clue works the same in every budget.
+
+**The skill.** Read a message and name the clue: a fact, a price, or a "buy me."
+
+**Access.** Blind or low-vision: have each message read aloud, then name the clue by
+voice. Non-speaking: point to "buy," "price," or "fact" on the clue chart. Deaf or hard
+of hearing: read the printed messages and sign "buy" or "fact."
 
 ## Procedure
 

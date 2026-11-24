@@ -116,15 +116,15 @@ feelings. That is fairer, everywhere people live together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **guess, then check —
-never assume**. This is the unit's clearest *ethics* moment: assuming a feeling can misjudge
-and hurt a person; checking treats them with respect and fairness. Use **invented
-scenarios or story characters only** — never real classmates — so no learner is analyzed or
-labeled in front of peers. Emphasize that a behavior is a *clue*, not a verdict, and that
-the person themselves is the best source. This aligns with the egalitarian lens: checking
-is how we treat every person as their own expert. See `docs/facilitation.md` on holding
-difficult topics safely and `docs/contexts.md` on cultural power dynamics (in some settings,
-asking directly may need to be gentle and private).
+The idea to land is **guess, then check — never assume**. This is the unit's clearest
+*ethics* moment: assuming a feeling can misjudge and hurt a person; checking treats them
+with respect and fairness. Use **invented scenarios or story characters only** — never
+real classmates — so no learner is analyzed or labeled in front of peers. Emphasize that
+a behavior is a *clue*, not a verdict, and that the person themselves is the best
+source. This aligns with the egalitarian lens: checking is how we treat every person as
+their own expert. See `docs/facilitation.md` on holding difficult topics safely and
+`docs/contexts.md` on cultural power dynamics (in some settings, asking directly may
+need to be gentle and private).
 
 ## Procedure
 

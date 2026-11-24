@@ -116,14 +116,12 @@ three parts.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, name the elements but never correct a child's
-drawing — there is no wrong way to draw. Praise effort and curiosity ("look at that
-long line you tried!"). A learner who is blind or has low vision makes **tactile**
-lines and shapes — string, yarn, or glue-sand laid in lines and circles — and feels
-them with their hands, then names each by touch. A learner who does not use a speaking
-voice names what they made by pointing to each part. Watching and copying are full
-participation.
+As facilitator, name the elements but never correct a child's drawing — there is no
+wrong way to draw. Praise effort and curiosity ("look at that long line you tried!"). A
+learner who is blind or has low vision makes **tactile** lines and shapes — string,
+yarn, or glue-sand laid in lines and circles — and feels them with their hands, then
+names each by touch. A learner who does not use a speaking voice names what they made by
+pointing to each part. Watching and copying are full participation.
 
 ## Procedure
 

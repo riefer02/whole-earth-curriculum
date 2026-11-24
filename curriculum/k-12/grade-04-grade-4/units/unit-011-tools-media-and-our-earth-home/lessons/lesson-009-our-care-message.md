@@ -130,20 +130,37 @@ really help the place you live.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **synthesis** for media literacy
-and stewardship: learners make a *real* message that joins author/purpose/audience (Lessons 3–4)
-with a checked fact and a helping action (Lessons 7–8). Model the full build on the stream-care
-poster first, then let learners work with the checklist (Kirschner, Sweller & Clark, 2006). Keep
-the stance warm and empowering: the message is not "scold people" but "invite people to care" —
-persuasion used for good, resting on truth. **Honor no-wealth and global contexts**: a care
-message needs no screens or printing — it can be spoken, sung, drawn in chalk, or told around a
-fire; oral sharing is a real and honored medium everywhere. A message can be in any language; let
-learners write or speak in the language of their home. Hold the ethics thread lightly but
-firmly: a message that urges care should itself be honest — no exaggerating, because checked
-facts are stronger than loud ones. Honor every body: a learner who is blind or has low vision
-may make a spoken or sung message; a non-speaking learner may make a drawn message and point to
-its parts; a learner with motor differences may direct a partner's hands while they author the
-words.
+**Tone.** Warm and encouraging — persuasion used for good.
+
+**The facts to land.**
+1. A real message joins author, purpose, and audience (Lessons 3–4) with a checked fact
+   and a helping action (Lessons 7–8).
+2. The message is not "scold people" but "invite people to care" — persuasion that rests
+   on truth.
+3. A care message needs no screens or printing: it can be spoken, sung, drawn in chalk,
+   or told around a fire. Oral sharing is honored everywhere, and a message can be in
+   any language.
+
+**Don't overshoot.** A message that urges care should itself be honest — no
+exaggerating, because checked facts are stronger than loud ones.
+
+**The lenses, briefly.**
+- *Technology:* a tool can carry care or sell.
+- *Environment:* the message names a real resource and action.
+- *Critical-thinking:* purpose and audience are checked.
+- *Ethics:* truth before volume.
+- *Community:* the audience is people you can reach.
+
+**The skill.** Build the message, then check it against the checklist for author,
+purpose, audience, and one true fact.
+
+Model the full build on the stream-care poster first, then let learners work with the
+checklist (Kirschner, Sweller & Clark, 2006). Let learners write or speak in the
+language of their home.
+
+**Access:** a learner who is blind or has low vision may make a spoken or sung message;
+a learner who does not speak may draw and point to the parts; a learner with motor
+differences may direct a partner's hands.
 
 ## Procedure
 

@@ -129,20 +129,36 @@ and you celebrate it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the year's **capstone**, and its
-two commitments are **celebration, not competition** and **care helps everyone,
-including the giver**. No best-work awards, no winners, no ranking — every learner's
-work is displayed equally, and every child belongs. Honor every family shape too: a
-child's caring circle may be parents, one parent, grandparents, extended kin,
-guardians, foster or group care, or a trusted adult — and a learner may share their
-celebration with any of these, or pass. In the care-sharing circle,
-sharing is by choice; a learner may pass, and a pass is a full share. Let the question
-"why does helping help everyone?" stay open and personal — the answer is felt, not
-tested: helping connects us, warms us, and builds the group we want to live in. For a
-learner who is Deaf or hard of hearing, make the celebration visual — clapping,
-signing, a flag wave, a visual "bravo." For a learner who is blind or has low vision,
-describe work aloud or offer a spoken or tactile tour. Keep the tone warm and
-generous: the class has grown together, and everyone belongs.
+**Tone.** Warm and generous. The class has grown together, and **everyone belongs**.
+
+**The facts to land.**
+
+1. **Celebration, not competition**: no best-work awards, no winners, no ranking. Every
+   learner's work is displayed equally.
+2. **Care helps everyone, including the giver.**
+3. Honor every family shape: a caring circle may be parents, one parent, grandparents,
+   extended kin, guardians, foster or group care, or a trusted adult. A learner may
+   share the celebration with any of these, or pass.
+4. In the care-sharing circle, sharing is by choice, and a pass is a full share.
+
+**Don't overshoot.** Leave "why does helping help everyone?" open and personal — the
+answer is felt, not tested. Helping connects us, warms us, and builds the group we want
+to live in.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* pride is shared, not ranked.
+- *Ethics:* care is given, not scored.
+- *Egalitarianism:* every work is displayed equally.
+- *Community:* the celebration belongs to the whole group.
+- *Global:* families and celebrations take many shapes; all are honoured.
+
+**The skill.** Choose how to share your work, then name one way your care helped
+someone.
+
+**Access.** Deaf or hard of hearing: make the celebration visual — clapping, signing, a
+flag wave, a visual "bravo." Blind or low-vision: hear the work described, or take a
+spoken or tactile tour.
 
 ## Procedure
 

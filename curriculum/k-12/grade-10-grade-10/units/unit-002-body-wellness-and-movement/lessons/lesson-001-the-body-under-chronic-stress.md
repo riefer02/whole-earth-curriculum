@@ -119,32 +119,37 @@ every body can learn to help it settle.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **stress is a
-physiological alarm, and the harm is not in feeling it once but in never turning it
-off — the "wear-and-tear" of chronic stress.** The physiology is well documented: an
-acute stressor activates the sympathetic branch (fast heart, adrenaline/cortisol,
-tensed muscles), and the parasympathetic branch returns the body to calm; when the
-response stays on, the costs accumulate as muscle tension, cardiovascular strain,
-digestive and sleep disruption, and mood effects (S-338, S-339). Slow, deliberate
-breathing — especially a longer exhale — is one evidence-backed way to help the body
-return to calm (S-340), and tense-and-release practice has been used for a century to
-do the same (S-227). Present these as *descriptive science*, not as a verdict: feeling
-stressed is a real signal, never a personal failing.
+**Tone.** Gentle and forward-looking: the point is a learner who feels they can *do
+something* for their own body.
 
-Model the skill once, then let learners practice (worked example → guided practice →
-independent work; S-011). The **ethics** lens: the goal is *understanding and agency*,
-never blame — a learner under chronic stress is not "doing it wrong." The
-**egalitarian** lens: stress is not distributed fairly — poverty, displacement,
-discrimination, and unsafe conditions impose chronic stress on whole communities, so
-stress is a justice question as much as a personal one. The **global** lens: every
-culture has both words for distress and ways of settling the body; the science here is
-one account among many, and the calm-down we practice draws on breathing traditions
-held side by side with respect (S-340). The **technology & environment** lens: our
-environments and devices can keep the alarm ringing — constant notifications, a
-never-ending feed, an always-on world — and noticing that is part of the analysis. The
-**social-emotional** lens: this topic can touch real hardship; invite, never force, and
-let learners choose what to share. Keep the tone gentle and forward-looking: the point
-is a learner who feels they can *do something* for their own body.
+**The facts to land.**
+
+1. An acute stressor switches on the sympathetic branch — faster heart, adrenaline and
+   cortisol, tensed muscles — and the parasympathetic branch brings the body back to
+   calm.
+2. Harm lies in never switching off: muscle tension, cardiovascular strain, digestive
+   and sleep disruption, and mood effects accumulate (S-338, S-339).
+3. Slow breathing with a longer exhale is evidence-backed (S-340); tense-and-release has
+   been used for a century to do the same (S-227).
+
+**Don't overshoot.** Feeling stressed is a real signal, never a personal failing, and
+these practices settle the body — they do not cure it.
+
+**The lenses, briefly.**
+
+- *Physical:* teach the two branches by feeling them, then practise the exhale.
+- *Social-emotional:* this can touch real hardship — invite, never force, and let
+  learners choose what to share.
+- *Ethics:* understanding and agency, never blame; a learner under chronic stress is not
+  "doing it wrong".
+- *Egalitarianism:* poverty, displacement, discrimination, and unsafe conditions impose
+  chronic stress on whole communities — a justice question, not only a habit.
+- *Global:* every culture has words for distress and ways of settling the body; the
+  breathing we practise sits beside living traditions, with respect (S-340).
+- *Critical-thinking:* keep the documented physiology apart from the marketed cure.
+
+**The skill.** Model once, then release (S-011): name where you feel the alarm, and
+answer it with one slow exhale.
 
 ## Procedure
 

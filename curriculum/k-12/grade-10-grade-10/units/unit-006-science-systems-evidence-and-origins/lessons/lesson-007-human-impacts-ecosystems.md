@@ -114,23 +114,22 @@ ecosystem — often the people who did least to damage it — feel it first.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **three human drivers
-— land use, pollution, and introduced species — change ecosystems by removing,
-poisoning, or adding members of the web, and the effects cascade; who bears the cost is
-a question of fairness, because harm falls first on those closest to the land and
-water.** Use the three cases as worked examples of tracing a cause-and-effect chain
-(S-011), then let learners complete chains themselves.
+The idea to land: **three human drivers — land use, pollution, and introduced species —
+change ecosystems by removing, poisoning, or adding members of the web, and the effects
+cascade; who bears the cost is a question of fairness, because harm falls first on those
+closest to the land and water.** Use the three cases as worked examples of tracing a
+cause-and-effect chain (S-011), then let learners complete chains themselves.
 
 The **environment** lens: the three drivers are, together, the leading direct causes of
 biodiversity loss worldwide (S-437). The **ethics** lens: harm to an ecosystem is harm
 to the people within it — there is no clean line between "nature" and "human." The
 **egalitarian** lens: the costs of deforestation, pollution, and invasive species fall
-unevenly — on subsistence fishers, forest-dwelling communities, and the poor — while
-the benefits often flow elsewhere; that mismatch is injustice, not bad luck. The
-**global** lens: introduced species travel the world's trade routes and change
-ecosystems on every continent — a rat on an island, a water hyacinth choking a lake —
-so this is a shared, planetary pattern (S-152, S-437). Preview: Lesson 8 asks what we
-can do in response, and how to evaluate those responses.
+unevenly — on subsistence fishers, forest-dwelling communities, and the poor — while the
+benefits often flow elsewhere; that mismatch is injustice, not bad luck. The **global**
+lens: introduced species travel the world's trade routes and change ecosystems on every
+continent — a rat on an island, a water hyacinth choking a lake — so this is a shared,
+planetary pattern (S-152, S-437). Preview: Lesson 8 asks what we can do in response, and
+how to evaluate those responses.
 
 ## Procedure
 
@@ -184,3 +183,4 @@ lifetime?* Trace one change back to a human cause together.
   "Ecosystem," <https://education.nationalgeographic.org/resource/ecosystem/> (S-152).
 - On plastic pollution: UNEP, Plastic Pollution,
   <https://www.unep.org/plastic-pollution> (S-216).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

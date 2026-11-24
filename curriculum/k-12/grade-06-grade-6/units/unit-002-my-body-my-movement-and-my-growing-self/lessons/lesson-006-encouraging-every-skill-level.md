@@ -120,12 +120,12 @@ everyone is cheered on.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **encourage effort and
-progress, never rank**. Ranking by skill — even "friendly" — teaches some learners they do not
-belong; this unit's standard explicitly says "regardless of skill level." Model the difference
-vividly and stop any ranking comment the moment it appears, redirecting to effort ("what did
-you see them get better at?"). Honor every body and pace: a seated step, a slow step, and a
-fast step are all full steps. See `docs/contexts.md` and `docs/facilitation.md`.
+The idea to land is **encourage effort and progress, never rank**. Ranking by skill —
+even "friendly" — teaches some learners they do not belong; this unit's standard
+explicitly says "regardless of skill level." Model the difference vividly and stop any
+ranking comment the moment it appears, redirecting to effort ("what did you see them get
+better at?"). Honor every body and pace: a seated step, a slow step, and a fast step are
+all full steps. See `docs/contexts.md` and `docs/facilitation.md`.
 
 ## Procedure
 

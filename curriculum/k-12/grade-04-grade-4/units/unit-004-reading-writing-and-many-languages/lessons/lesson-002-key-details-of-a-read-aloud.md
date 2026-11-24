@@ -107,16 +107,15 @@ understanding.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Picking key details is a taught skill: model it with a worked
-example — read a short passage, then think aloud about which details are *needed* to
-understand it and which are extra (Kirschner, Sweller & Clark, 2006). The test question
-is always "if I took this detail away, would the meaning change?" — not "is this detail
-interesting?" Accept retells in the learner's own words and language, and honor a
-faithful retell even when the wording differs. A learner who is Deaf or hard of hearing
-retells from a signed read-aloud or written text; a learner who is blind or has low
-vision retells from what they heard. Reading aloud well — with clear pace and volume —
-is itself a model of the speaking skills this unit builds.
+Picking key details is a taught skill: model it with a worked example — read a short
+passage, then think aloud about which details are *needed* to understand it and which
+are extra (Kirschner, Sweller & Clark, 2006). The test question is always "if I took
+this detail away, would the meaning change?" — not "is this detail interesting?" Accept
+retells in the learner's own words and language, and honor a faithful retell even when
+the wording differs. A learner who is Deaf or hard of hearing retells from a signed
+read-aloud or written text; a learner who is blind or has low vision retells from what
+they heard. Reading aloud well — with clear pace and volume — is itself a model of the
+speaking skills this unit builds.
 
 ## Procedure
 

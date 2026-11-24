@@ -115,14 +115,13 @@ neighbor who looks out and the elder or teacher who passes on what they know.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **communities are
-systems of shared care**: food, safety, and learning are met collectively, not alone. Keep
-it concrete and local first — the learner's own neighborhood — before broadening. Frame
-the investigation as wonder, not a checklist to be graded. Be sensitive: some learners
-experience hunger or unsafe conditions; keep the discussion about *how communities meet
-needs* (the system), never about a family's lack, and always connect to agency and hope —
-something learners can contribute. See `docs/facilitation.md` on holding difficulty with
-hope.
+The idea to land is that **communities are systems of shared care**: food, safety, and
+learning are met collectively, not alone. Keep it concrete and local first — the
+learner's own neighborhood — before broadening. Frame the investigation as wonder, not a
+checklist to be graded. Be sensitive: some learners experience hunger or unsafe
+conditions; keep the discussion about *how communities meet needs* (the system), never
+about a family's lack, and always connect to agency and hope — something learners can
+contribute. See `docs/facilitation.md` on holding difficulty with hope.
 
 ## Procedure
 

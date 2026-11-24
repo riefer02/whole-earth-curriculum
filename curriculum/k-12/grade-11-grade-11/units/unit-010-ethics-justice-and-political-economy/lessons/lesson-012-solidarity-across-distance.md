@@ -119,24 +119,23 @@ shared world.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **solidarity is
-acting with others across difference and distance — not feeling for them, but acting
-with them — and it is a practiced, documented thing, not a slogan (Red Cross/Red
-Crescent, S-329; Green Belt Movement, S-059).** The argument at the center: **what
-solidarity requires of citizens — time, risk, sharing power, listening, refusing to
-look away — and how far that requirement extends is a live question, held open.** Do
-not answer it for them; the skill is arguing a position and conceding a
-counterargument.
+The idea to land: **solidarity is acting with others across difference and distance —
+not feeling for them, but acting with them — and it is a practiced, documented thing,
+not a slogan (Red Cross/Red Crescent, S-329; Green Belt Movement, S-059).** The argument
+at the center: **what solidarity requires of citizens — time, risk, sharing power,
+listening, refusing to look away — and how far that requirement extends is a live
+question, held open.** Do not answer it for them; the skill is arguing a position and
+conceding a counterargument.
 
-The **ethics** lens: what we owe strangers is a moral question, opened not closed.
-The **egalitarianism** lens: solidarity is the answer to the who-benefits/who-is-left-
-out questions of the last two lessons — it refuses to accept that distance or
-difference ends our responsibility. The **global** lens: the examples span continents;
-solidarity is planetary by nature. The **community** lens: solidarity begins near
-home (a mutual-aid network, a neighbor) and extends outward — it is not either/or.
-The **critical-thinking** lens: distinguishing the *fact* that solidarity happens
-(evidence) from the *value* that it should (commitment). Preview: Lesson 13 turns to
-conflict — the test where solidarity and justice are hardest.
+The **ethics** lens: what we owe strangers is a moral question, opened not closed. The
+**egalitarianism** lens: solidarity is the answer to the who-benefits/who-is-left- out
+questions of the last two lessons — it refuses to accept that distance or difference
+ends our responsibility. The **global** lens: the examples span continents; solidarity
+is planetary by nature. The **community** lens: solidarity begins near home (a
+mutual-aid network, a neighbor) and extends outward — it is not either/or. The
+**critical-thinking** lens: distinguishing the *fact* that solidarity happens (evidence)
+from the *value* that it should (commitment). Preview: Lesson 13 turns to conflict — the
+test where solidarity and justice are hardest.
 
 ## Procedure
 

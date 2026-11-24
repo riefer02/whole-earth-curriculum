@@ -115,18 +115,18 @@ worry. She planted.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Tell the story gently and
-hopefully.** Wangari Maathai's story is real and well-documented (see Resources), and
-its shape is perfect for this age: notice a problem, act with others, make things
-grow, speak up — and win a prize for peace, not for fighting. **Keep it non-violent
-and blame-free:** do not dwell on conflict or punishment; the lesson's power is in
-planting, cooperating, and hope. **No child is ever the problem, and no one must
-share a personal unfairness.** Emphasize that anyone can help: a child can plant a
-seed, water it, and speak up for it. Honor every body: a learner who cannot see the
-cards hears the story told clearly and describes it; a learner who does not use a
-speaking voice acts the planting or points to the cards. Distinguish evidence from
-values: *that* she planted trees and won the Nobel Prize is fact (see Resources);
-*that* caring for the land and speaking up are good is a value we hold together.
+**Tell the story gently and hopefully.** Wangari Maathai's story is real and
+well-documented (see Resources), and its shape is perfect for this age: notice a
+problem, act with others, make things grow, speak up — and win a prize for peace, not
+for fighting. **Keep it non-violent and blame-free:** do not dwell on conflict or
+punishment; the lesson's power is in planting, cooperating, and hope. **No child is ever
+the problem, and no one must share a personal unfairness.** Emphasize that anyone can
+help: a child can plant a seed, water it, and speak up for it. Honor every body: a
+learner who cannot see the cards hears the story told clearly and describes it; a
+learner who does not use a speaking voice acts the planting or points to the cards.
+Distinguish evidence from values: *that* she planted trees and won the Nobel Prize is
+fact (see Resources); *that* caring for the land and speaking up are good is a value we
+hold together.
 
 ## Procedure
 

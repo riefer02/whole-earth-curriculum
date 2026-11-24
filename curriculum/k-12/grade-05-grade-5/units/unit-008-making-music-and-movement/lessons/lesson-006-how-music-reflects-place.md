@@ -122,15 +122,14 @@ story — and to meet them with respect.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **non-ranking
-listening**: we cite what we *hear* and connect it to place, history, or community — never
-to rank one tradition "better" or "more advanced." These are **living traditions**, made
-today by living musicians and communities; say this plainly. If a learner (or their
-family) belongs to a tradition discussed, invite them to be the authority on its meaning.
-If recordings are unavailable, the spoken descriptions on the cards carry the lesson
-fully — do not let a lack of audio stop it. Honor the fact that "music of a culture" is
-never one thing; these are a few of many traditions within each place. See
-`docs/facilitation.md` and `docs/contexts.md`.
+The idea to land is **non-ranking listening**: we cite what we *hear* and connect it to
+place, history, or community — never to rank one tradition "better" or "more advanced."
+These are **living traditions**, made today by living musicians and communities; say
+this plainly. If a learner (or their family) belongs to a tradition discussed, invite
+them to be the authority on its meaning. If recordings are unavailable, the spoken
+descriptions on the cards carry the lesson fully — do not let a lack of audio stop it.
+Honor the fact that "music of a culture" is never one thing; these are a few of many
+traditions within each place. See `docs/facilitation.md` and `docs/contexts.md`.
 
 ## Procedure
 

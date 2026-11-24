@@ -123,17 +123,16 @@ did not know its name yet.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Introduce friction concretely first —
-rub hands, slide a car on two surfaces — then name it (concrete before abstract). Model
-once (worked example: "the car stops sooner on the rough mat — more friction"), then let
-pairs explore. Two honest, age-appropriate truths to hold together: friction is
-**useful** (walking, gripping, braking) and friction can **wear things down** (soles,
-stone, machinery) — so people sometimes reduce it with oil, wheels, or ice. Keep the
-technology lens light and neutral: these are tools people invented to manage friction,
-not to fear it. Note that "friction" is the name scientists give to what everyone's
-hands already know; the felt experience and the word are the same truth. This lesson
-answers the open question left in Lesson 7 ("why does the car stop on its own?"),
-completing the forces arc.
+Introduce friction concretely first — rub hands, slide a car on two surfaces — then name
+it (concrete before abstract). Model once (worked example: "the car stops sooner on the
+rough mat — more friction"), then let pairs explore. Two honest, age-appropriate truths
+to hold together: friction is **useful** (walking, gripping, braking) and friction can
+**wear things down** (soles, stone, machinery) — so people sometimes reduce it with oil,
+wheels, or ice. Keep the technology lens light and neutral: these are tools people
+invented to manage friction, not to fear it. Note that "friction" is the name scientists
+give to what everyone's hands already know; the felt experience and the word are the
+same truth. This lesson answers the open question left in Lesson 7 ("why does the car
+stop on its own?"), completing the forces arc.
 
 ## Procedure
 

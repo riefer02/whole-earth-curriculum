@@ -115,21 +115,21 @@ exactly you ask — before you collect a single answer.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **a population is
-the whole group; a sample is the part you study; random sampling gives every member an
-equal chance (reducing bias), stratified sampling keeps important subgroups
-represented, and convenience sampling is easy but biased; an experiment compares a
-treatment group against a control group.** Teach the *who → how → what* design loop
-explicitly, with a worked example and guided practice (S-011). Random selection and
-blind measurement are among the standard guardrails against bias (S-242, S-250).
+The ideas to land: **a population is the whole group; a sample is the part you study;
+random sampling gives every member an equal chance (reducing bias), stratified sampling
+keeps important subgroups represented, and convenience sampling is easy but biased; an
+experiment compares a treatment group against a control group.** Teach the *who → how →
+what* design loop explicitly, with a worked example and guided practice (S-011). Random
+selection and blind measurement are among the standard guardrails against bias (S-242,
+S-250).
 
 The **egalitarianism** lens: a fair sample includes everyone on the same footing — a
 survey that leaves a group out speaks for fewer people than it claims. The
 **intellectual** lens: design decides what the data can and cannot say. The
-**critical-thinking** lens: learners ask "who was asked, and who was left out?"
-before believing any percentage. The **ethics** lens: a leading question or a hidden
-agenda is a small dishonesty that corrupts the whole result. Preview: Lesson 16
-turns the same eye on other people's surveys and conclusions.
+**critical-thinking** lens: learners ask "who was asked, and who was left out?" before
+believing any percentage. The **ethics** lens: a leading question or a hidden agenda is
+a small dishonesty that corrupts the whole result. Preview: Lesson 16 turns the same eye
+on other people's surveys and conclusions.
 
 ## Procedure
 

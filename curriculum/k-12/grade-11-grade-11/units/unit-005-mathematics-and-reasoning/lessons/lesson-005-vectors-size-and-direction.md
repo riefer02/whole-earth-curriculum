@@ -117,20 +117,19 @@ the honest picture of it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **a vector has
-magnitude and direction; its components are its east/north (or x/y) parts; its
-magnitude is √(x² + y²); vectors add tip-to-tail to give a resultant.** Teach the
-two moves explicitly — *resolve* (break into components) and *combine* (add tip-to-
-tail) — with worked examples and guided practice (S-011).
+The ideas to land: **a vector has magnitude and direction; its components are its
+east/north (or x/y) parts; its magnitude is √(x² + y²); vectors add tip-to-tail to give
+a resultant.** Teach the two moves explicitly — *resolve* (break into components) and
+*combine* (add tip-to- tail) — with worked examples and guided practice (S-011).
 
-The **intellectual** lens: a vector keeps two facts together (size + direction) that
-a single number cannot. The **global** lens: Polynesian navigators have crossed the
-open Pacific for centuries by reading direction and magnitude in stars, swells, and
+The **intellectual** lens: a vector keeps two facts together (size + direction) that a
+single number cannot. The **global** lens: Polynesian navigators have crossed the open
+Pacific for centuries by reading direction and magnitude in stars, swells, and
 currents — a real, living anticipation of vector reasoning (S-055). The
 **critical-thinking** lens: learners check a computed resultant by redrawing it to
-scale. The **technology** lens: every navigation device, weather model, and game
-engine represents motion as vectors — reading the arrow is reading the machine's
-language. Preview: Lesson 6 generalizes to matrices, which hold many numbers at once.
+scale. The **technology** lens: every navigation device, weather model, and game engine
+represents motion as vectors — reading the arrow is reading the machine's language.
+Preview: Lesson 6 generalizes to matrices, which hold many numbers at once.
 
 ## Procedure
 

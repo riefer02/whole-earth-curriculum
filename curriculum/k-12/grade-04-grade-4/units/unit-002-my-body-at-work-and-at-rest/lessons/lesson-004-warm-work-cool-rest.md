@@ -54,7 +54,7 @@ context_variants:
     note: Learners ready to extend measure air temperature before and after moving and describe what a thermometer does and does not measure
 assets:
   - path: assets/images/L.04.002.04-warm-work-cool-rest.svg
-    alt: Two child figures side by side. The left figure sits still and is labeled "rest — cooler," with soft shading. The right figure runs and is labeled "work — warmer," with warm shading and small sweat-drop marks, showing the body warms with activity
+    alt: "Two children — one sitting cross-legged on a cool tint labelled “rest — cooler”, one running with three sweat drops on a warm tint labelled “work — warmer”. Caption — working muscles make heat."
     kind: image
     source: original
 duration_minutes: 50
@@ -114,14 +114,13 @@ rest.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Model the worked example — feel cheeks at
-rest, move, feel again — then let learners try. Feeling warmth with hands is enough; a
-thermometer is an optional enrichment, not a requirement. Keep the movement inclusive:
-seated arm-circles warm the body too. Be warm and matter-of-fact about sweat — it is a
-healthy cooling system, never something to be embarrassed about, and no body is judged
-for how much it sweats. Some bodies run warmer or cooler than others; all are normal.
-This lesson retrieves the heartbeat and breathing signals from Lessons 1–3 and adds the
-third: warmth.
+Model the worked example — feel cheeks at rest, move, feel again — then let learners
+try. Feeling warmth with hands is enough; a thermometer is an optional enrichment, not a
+requirement. Keep the movement inclusive: seated arm-circles warm the body too. Be warm
+and matter-of-fact about sweat — it is a healthy cooling system, never something to be
+embarrassed about, and no body is judged for how much it sweats. Some bodies run warmer
+or cooler than others; all are normal. This lesson retrieves the heartbeat and breathing
+signals from Lessons 1–3 and adds the third: warmth.
 
 ## Procedure
 

@@ -119,19 +119,17 @@ across thousands of kilometres of open sea — and they still do it today.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **This is the unit's clearest chance
-to honor a non-European knowledge tradition as real science, not legend.** Wayfinding
-is careful observation and deep knowledge — navigators read the rising points of
-stars, the feel of ocean swells, the shapes of clouds, and the flight of birds to
-know where land lies, sometimes over thousands of kilometres of open water. Tell it
-with respect and accuracy, and name the people: Pacific Island navigators across
-Polynesia and Micronesia, and the 1976 Hōkūleʻa voyage guided by master navigator Mau
-Piailug (see Resources). **Never call it "primitive" or "simple," and never rank it
+**This is the unit's clearest chance to honor a non-European knowledge tradition as real
+science, not legend.** Wayfinding is careful observation and deep knowledge — navigators
+read the rising points of stars, the feel of ocean swells, the shapes of clouds, and the
+flight of birds to know where land lies, sometimes over thousands of kilometres of open
+water. Tell it with respect and accuracy, and name the people: Pacific Island navigators
+across Polynesia and Micronesia, and the 1976 Hōkūleʻa voyage guided by master navigator
+Mau Piailug (see Resources). **Never call it "primitive" or "simple," and never rank it
 below a compass or GPS** — it is a different, living way of knowing. Offer farming and
-weaving as other examples so learners see that knowledge traditions are many, on
-every continent. Honor every body: describe the cards in words for a learner who
-cannot see them; a learner who does not use a speaking voice acts the signs or points
-to the cards.
+weaving as other examples so learners see that knowledge traditions are many, on every
+continent. Honor every body: describe the cards in words for a learner who cannot see
+them; a learner who does not use a speaking voice acts the signs or points to the cards.
 
 ## Procedure
 

@@ -112,16 +112,15 @@ kind of group. Today you name how you do it, so you can keep doing it on purpose
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It spirals back to the "caring and
-working together" unit's work on welcoming groups, now made real in the body. The
-commitment is **everyone belongs — no one is left outside**. Guide learners toward
-concrete, doable welcomes (a smile, a space, a name said right, an invitation, a
-helping hand, listening) rather than grand gestures. Be tender here: a learner may
-remember a time they were *not* welcomed; honor that gently and turn it into agency —
-"what would have helped you?" Make the circle wide enough for a wheelchair to enter,
-and accept a learner's own way of joining (standing, sitting, signing "welcome,"
-patting the space beside them). The invitation is the lesson: belonging is something
-we *do*, and we can all do it.
+It spirals back to the "caring and working together" unit's work on welcoming groups,
+now made real in the body. The commitment is **everyone belongs — no one is left
+outside**. Guide learners toward concrete, doable welcomes (a smile, a space, a name
+said right, an invitation, a helping hand, listening) rather than grand gestures. Be
+tender here: a learner may remember a time they were *not* welcomed; honor that gently
+and turn it into agency — "what would have helped you?" Make the circle wide enough for
+a wheelchair to enter, and accept a learner's own way of joining (standing, sitting,
+signing "welcome," patting the space beside them). The invitation is the lesson:
+belonging is something we *do*, and we can all do it.
 
 ## Procedure
 

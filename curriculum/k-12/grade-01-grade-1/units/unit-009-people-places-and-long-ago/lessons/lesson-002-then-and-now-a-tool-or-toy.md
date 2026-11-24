@@ -106,17 +106,15 @@ have solved the same problem.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. **Comparing is a foundational skill, so model it once before
-independent work** (Kirschner, Sweller & Clark, 2006): hold up a candle and a lamp,
-and think aloud — "Both give light. That is the same. The candle burns with a flame;
-the lamp uses a bulb. That changed." Then guide the same two moves for a second pair.
-**Never rank:** do not say old things were harder, slower, or worse. A candle-lantern
-and a pot carried on the head are equally valid living ways — still today, in many
-homes, these are the everyday tools. The point is noticing change and sameness, never
-progress. Honor every body: a learner who is blind or has low vision feels the
-objects; a learner who does not use a speaking voice points to "same" and "different"
-spots.
+**Comparing is a foundational skill, so model it once before independent work**
+(Kirschner, Sweller & Clark, 2006): hold up a candle and a lamp, and think aloud — "Both
+give light. That is the same. The candle burns with a flame; the lamp uses a bulb. That
+changed." Then guide the same two moves for a second pair. **Never rank:** do not say
+old things were harder, slower, or worse. A candle-lantern and a pot carried on the head
+are equally valid living ways — still today, in many homes, these are the everyday
+tools. The point is noticing change and sameness, never progress. Honor every body: a
+learner who is blind or has low vision feels the objects; a learner who does not use a
+speaking voice points to "same" and "different" spots.
 
 ## Procedure
 

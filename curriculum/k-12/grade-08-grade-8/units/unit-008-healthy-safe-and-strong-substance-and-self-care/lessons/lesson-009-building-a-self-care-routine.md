@@ -114,29 +114,37 @@ that actually fits *your* life.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It opens the self-care strand. The idea to land: **a
-self-care routine rests on four everyday pillars — sleep, hygiene, movement, and connection — and the
-best routine is the one the learner can actually keep.** The evidence-aligned guidance: **sleep** — most
-adolescents need about 8–10 hours a night (S-050); **hygiene** — daily washing, handwashing, tooth and
-body care prevent illness (S-016, S-017); **movement** — regular physical activity benefits body and
-mind, and any amount helps (S-069); **connection** — belonging and supportive relationships are central
-to adolescent wellbeing (S-261, S-311). Emphasize **realistic over grand**: one small, specific action
-per pillar is the whole lesson. This is a *skill-building* moment — model building one routine on the
-board (worked example: "sleep — lights out by 10; hygiene — brush teeth morning and night; movement — a
-20-minute walk after school; connection — call one friend this week"), then let learners build theirs
-(explicit instruction carries novice skills — S-011). The social-emotional lens: self-care is not
-selfish; a person who is well can be there for others. The egalitarian lens: a routine must fit the
-learner's real life — their home, their chores, their water and privacy, their family's schedule — and
-no routine is "better" because it costs more; dignity, not display. The global lens: people everywhere
-practice care in different forms — a daily walk, a prayer, a bath, a family meal, a nap — and every
-culture has its own wisdom; honor them all. Even tooth care takes many forms: a brush and paste in one
-home, a chewing stick (miswak, neem, or another local twig) in another — both are real ways people keep
-teeth clean, and neither is "better." The ethics lens: caring for one's own body and mind is a
-responsibility we hold toward ourselves, and it makes us better able to care for others. The technology & environment lens: screens and light quietly shape sleep and mood, and a safe place to move plus clean water to wash with are environmental foundations of any routine — so a realistic routine works with the tools a learner has and the place they live in, never against them. Watch for
-learners whose circumstances make some pillars hard (no quiet place to sleep, no clean water, no safe
-space to move) — meet them with adaptation, never shame, and help them find what *is* possible. This
-routine will be *tracked* in the next lesson, so keep it safe to track: habits and feelings, never
-weight, appearance, or anything that could shame.
+**Tone.** Encouraging and realistic — one small, keepable action beats a grand plan.
+
+**The facts to land.**
+
+1. Four pillars: **sleep** (8–10 hours for most adolescents, S-050); **hygiene**
+   (washing, handwashing, tooth and body care — S-016, S-017); **movement** (any amount
+   helps — S-069); **connection** (belonging and supportive relationships — S-261,
+   S-311).
+2. The best routine is the one the learner can keep: one small, specific action per
+   pillar.
+3. Care takes many forms — a walk, prayer, a bath, a family meal, a nap; tooth care by
+   brush and paste, or a chewing stick such as miswak or neem — both real, neither
+   "better."
+
+**Don't overshoot.** Realistic over grand; no routine is better because it costs more.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* self-care is not selfish; a well person can be there for others.
+- *Egalitarianism:* the routine must fit the learner's home, chores, water, and family
+  schedule — dignity, not display.
+- *Global:* every culture has its own wisdom of care; honor them all.
+- *Ethics:* caring for body and mind makes care for others possible.
+- *Technology & environment:* screens and light shape sleep and mood; safe space to move
+  and clean water are foundations.
+- *Physical:* the four pillars are the body's everyday maintenance.
+
+**The skill.** Model one routine on the board — lights out by 10; brush morning and
+night; a 20-minute walk after school; call one friend this week — then learners build
+theirs (S-011). The routine is tracked next lesson: habits and feelings only, never
+weight or appearance.
 
 ## Procedure
 

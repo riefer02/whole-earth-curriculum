@@ -109,22 +109,34 @@ and a **disruption** is anything that moves that line.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **carrying capacity (K) is the
-largest population an environment can sustain given its limiting factors — food, water, space,
-shelter; a population that starts small grows, then slows and levels off near K (the S-shaped
-"logistic" curve); a disruption that removes a limiting resource lowers K.** Use a worked example
-first (S-011): draw the S-curve and show that removing a resource shifts the dashed K line *down*.
-The critical-thinking lens: distinguish a **disturbance** (a shock the population can recover from)
-from a **lasting change** (K itself lowered — habitat permanently lost). The environment lens: humans
-change carrying capacity all the time — damming a river, overfishing, clearing forest, and (crucially)
-restoring habitat can raise it again. The egalitarian lens: when carrying capacity falls, the burden
-rarely falls evenly — those with the least fall first; a drought in one place and a flood in another
-land on different people, which is why caring for ecosystems is a question of justice, not just
-biology (see also D10, environmental justice, later this year). The ethics lens: knowing a population
-will overshoot and crash, a careful community can choose limits *before* the environment imposes them —
-a small act of foresight with real consequences. Cite the carrying-capacity source (S-436); the
-S-curve (exponential vs. logistic growth) is standard ecology (Britannica). Keep all numbers
-approximate and hedged.
+**Tone.** Measured and hopeful — limits are real, and so is foresight.
+
+**The facts to land.**
+
+1. **Carrying capacity (K)** is the largest population an environment can sustain given
+its limiting factors — food, water, space, shelter.
+2. **Growth slows and levels off near K** — the S-shaped "logistic" curve.
+3. **A disruption that removes a limiting resource lowers K.**
+
+**Worked example.** Draw the S-curve, then show that removing a resource shifts the
+dashed K line *down* (S-011).
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* distinguish a **disturbance** (a shock the population can
+recover from) from a **lasting change** (K itself lowered — habitat permanently lost).
+- *Environment:* humans change K all the time — damming a river, overfishing, clearing
+forest — and restoring habitat can raise it again.
+- *Egalitarianism:* when K falls, the burden rarely falls evenly; those with the least
+fall first, and a drought in one place lands on different people than a flood in another
+(see D10, environmental justice, later this year).
+- *Ethics:* a careful community can choose limits *before* the environment imposes
+them — small foresight with real consequences.
+
+**The skill.** Read a curve, name the limiting factor, and say whether K has moved.
+
+Keep all numbers approximate and hedged. Carrying capacity: S-436; the S-curve
+(exponential vs. logistic growth) is standard ecology (Britannica).
 
 ## Procedure
 

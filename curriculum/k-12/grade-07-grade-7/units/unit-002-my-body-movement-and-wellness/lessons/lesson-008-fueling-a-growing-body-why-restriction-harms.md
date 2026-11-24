@@ -118,18 +118,18 @@ and asking for help early is one of the bravest things a person can do.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It must be handled with tenderness and without
-any hint of blame. The facts to land: undernutrition during the growing years can delay growth
-and puberty, weaken bones, and cause tiredness and poor concentration; eating disorders are
-serious illnesses with both mental and physical harm, and they are treatable (Nemours
-KidsHealth, 2022; WHO, 2026). The values to hold *as values, distinct from those facts*: every
-body deserves dignity; no body is a failure; and help is always worth asking for. Never
-comment on any learner's body or eating, never teach calorie-counting or "good/bad food"
-language, and never require disclosure. Watch for distress; if a learner shares that they or a
-friend may be struggling, respond calmly, thank them for their courage, and connect them to a
-trusted adult or support service in private — do not promise secrecy. Note that media and
-advertising constantly push narrow, edited images of bodies; naming that pressure is part of
-caring for oneself. See `docs/facilitation.md`.
+It must be handled with tenderness and without any hint of blame. The facts to land:
+undernutrition during the growing years can delay growth and puberty, weaken bones, and
+cause tiredness and poor concentration; eating disorders are serious illnesses with both
+mental and physical harm, and they are treatable (Nemours KidsHealth, 2022; WHO, 2026).
+The values to hold *as values, distinct from those facts*: every body deserves dignity;
+no body is a failure; and help is always worth asking for. Never comment on any
+learner's body or eating, never teach calorie-counting or "good/bad food" language, and
+never require disclosure. Watch for distress; if a learner shares that they or a friend
+may be struggling, respond calmly, thank them for their courage, and connect them to a
+trusted adult or support service in private — do not promise secrecy. Note that media
+and advertising constantly push narrow, edited images of bodies; naming that pressure is
+part of caring for oneself. See `docs/facilitation.md`.
 
 ## Procedure
 

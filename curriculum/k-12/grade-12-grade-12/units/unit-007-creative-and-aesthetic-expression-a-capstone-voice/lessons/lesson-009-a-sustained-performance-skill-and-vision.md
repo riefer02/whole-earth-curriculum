@@ -118,22 +118,23 @@ older than writing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a sustained performance is
-one piece — beginning, middle, end — held together by a single concept (the through-line) and
-shaped, through rehearsal, into visible skill and intention.** Teach the through-line
-explicitly, then let learners devise and rehearse (S-011). "Skill" here is *readable
-intention* — clear gesture, deliberate rhythm, controlled stillness — not virtuosity.
+The idea to land: **a sustained performance is one piece — beginning, middle, end — held
+together by a single concept (the through-line) and shaped, through rehearsal, into
+visible skill and intention.** Teach the through-line explicitly, then let learners
+devise and rehearse (S-011). "Skill" here is *readable intention* — clear gesture,
+deliberate rhythm, controlled stillness — not virtuosity.
 
-The **ethics** lens: the body on stage speaks for the performer, so the concept must be one
-they can stand behind and represent honestly. The **egalitarianism** lens: a sustained
-performance needs no stage, costume, or prop — only a body, a space, and an idea. The
-**global** lens: capoeira, an Afro-Brazilian art of movement, music, and community that grew
-among enslaved Africans and carries strength and identity, is a living tradition honored with
-respectful questions, never a specimen to imitate carelessly (S-325, S-056). The
-**technology** lens: recording a rehearsal lets a performer watch their own work from the
-outside and revise — a mirror that no earlier generation had. The **environment** lens: the
-performer's material is the body *in* a place — a field, a room, a street — and the piece can
-answer the space it is in. Preview: Lesson 10 puts the performance into words.
+The **ethics** lens: the body on stage speaks for the performer, so the concept must be
+one they can stand behind and represent honestly. The **egalitarianism** lens: a
+sustained performance needs no stage, costume, or prop — only a body, a space, and an
+idea. The **global** lens: capoeira, an Afro-Brazilian art of movement, music, and
+community that grew among enslaved Africans and carries strength and identity, is a
+living tradition honored with respectful questions, never a specimen to imitate
+carelessly (S-325, S-056). The **technology** lens: recording a rehearsal lets a
+performer watch their own work from the outside and revise — a mirror that no earlier
+generation had. The **environment** lens: the performer's material is the body *in* a
+place — a field, a room, a street — and the piece can answer the space it is in.
+Preview: Lesson 10 puts the performance into words.
 
 ## Procedure
 

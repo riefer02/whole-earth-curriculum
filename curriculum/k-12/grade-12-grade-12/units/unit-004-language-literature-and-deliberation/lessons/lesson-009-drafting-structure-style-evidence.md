@@ -121,21 +121,21 @@ already has beams, not sorting a pile of bricks.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description**:
-a paragraph is a small argument — claim, evidence, warrant, transition — extending the
-claim/grounds/warrant model (Toulmin, S-236), and drafting with explicit strategy
-instruction is evidence-supported (IES, S-171; Graham & Perin, S-102). The scaffold is a
-*servant*, not a master: a paragraph that breaks the pattern deliberately can be
-stronger, and a learner whose home language or tradition structures prose differently
-should be honored, not corrected into one mold.
+The idea to land, held as **description**: a paragraph is a small argument — claim,
+evidence, warrant, transition — extending the claim/grounds/warrant model (Toulmin,
+S-236), and drafting with explicit strategy instruction is evidence-supported (IES,
+S-171; Graham & Perin, S-102). The scaffold is a *servant*, not a master: a paragraph
+that breaks the pattern deliberately can be stronger, and a learner whose home language
+or tradition structures prose differently should be honored, not corrected into one
+mold.
 
 The **ethics** lens: integrated evidence is quoted and cited honestly — a writer's
 integrity lives in not passing another's words off as one's own. The **egalitarianism**
 lens: the scaffold puts a *doable* pattern in every learner's hands, so clear structure
 is not the property of the fluent. The **global** lens: rhetorical structures differ
 across cultures — some traditions circle a point, others state it outright — and no
-single shape is "correct." The **technology** lens: word processors, version history, and
-voice dictation change *how* we draft and who can draft; the tool assists, but the
+single shape is "correct." The **technology** lens: word processors, version history,
+and voice dictation change *how* we draft and who can draft; the tool assists, but the
 thinking is the writer's. The **environment** lens: drafting is a place to choose
 deliberately — a screen draft needs no paper, and a voice-first draft lets a writer
 think aloud while moving — small choices with real effects. The **critical-thinking**

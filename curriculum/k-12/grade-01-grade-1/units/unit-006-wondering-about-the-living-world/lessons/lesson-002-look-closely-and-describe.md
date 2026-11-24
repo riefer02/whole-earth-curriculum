@@ -105,15 +105,15 @@ hear, and feel, you are doing what a scientist does: **observing** and **describ
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The heart is *slow looking* — noticing
-details, not naming things correctly. There is no "right answer" for what a child
-notices; praise noticing itself. If an animal is observed live (a bird, an insect),
-model gentle watching: stay still, stay back, and never touch or chase — observe
-without harming, and return any found creature gently where it came from. Honor every
-body: a learner who cannot see describes by feel, sound, and smell; a learner who
-does not speak points, gestures, or draws; a learner who moves differently may need
-the object brought to them or a partner to describe with. Describing words differ
-across languages and places — welcome words in the learners' home languages.
+The heart is *slow looking* — noticing details, not naming things correctly. There is no
+"right answer" for what a child notices; praise noticing itself. If an animal is
+observed live (a bird, an insect), model gentle watching: stay still, stay back, and
+never touch or chase — observe without harming, and return any found creature gently
+where it came from. Honor every body: a learner who cannot see describes by feel, sound,
+and smell; a learner who does not speak points, gestures, or draws; a learner who moves
+differently may need the object brought to them or a partner to describe with.
+Describing words differ across languages and places — welcome words in the learners'
+home languages.
 
 ## Procedure
 

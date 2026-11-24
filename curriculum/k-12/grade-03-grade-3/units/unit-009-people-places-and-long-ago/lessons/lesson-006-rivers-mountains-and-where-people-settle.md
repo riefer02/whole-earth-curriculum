@@ -124,18 +124,17 @@ with care for thousands of years.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **The skill is explaining "why here," so
-model one full example first** (Kirschner, Sweller & Clark, 2006): "Look at the river.
-People settle beside it because it gives water to drink, fish to eat, and a road to
-travel. The river *shaped* where the settlement is." Then guide the mountain and
-climate examples. **Keep it global and true:** many of the world's great cities grew on
-rivers, and people have terraced mountain slopes and settled oases across every
-continent (see Resources) — this is a pattern of all peoples, not one region. **Never
-rank:** a mountain terrace farm is not "worse" than a river plain; each is a wise,
-fitting answer to its land. Honor every body: describe the cards in words for a learner
-who cannot see them; a learner who does not use a speaking voice points or acts. Where
-possible, connect to the learner's own place — the river, slope, or climate near home is
-the truest example of all.
+**The skill is explaining "why here," so model one full example first** (Kirschner,
+Sweller & Clark, 2006): "Look at the river. People settle beside it because it gives
+water to drink, fish to eat, and a road to travel. The river *shaped* where the
+settlement is." Then guide the mountain and climate examples. **Keep it global and
+true:** many of the world's great cities grew on rivers, and people have terraced
+mountain slopes and settled oases across every continent (see Resources) — this is a
+pattern of all peoples, not one region. **Never rank:** a mountain terrace farm is not
+"worse" than a river plain; each is a wise, fitting answer to its land. Honor every
+body: describe the cards in words for a learner who cannot see them; a learner who does
+not use a speaking voice points or acts. Where possible, connect to the learner's own
+place — the river, slope, or climate near home is the truest example of all.
 
 ## Procedure
 

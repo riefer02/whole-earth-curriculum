@@ -113,22 +113,35 @@ and compare a whole distribution, so "average" stops hiding the people at the ed
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **summarize a distribution with
-center (mean, median), spread (range, interquartile range), and shape (symmetric or skewed), and
-compare two distributions using all three.** Use a **worked example first** (S-011): two small data
-sets with the same mean but very different spreads and shapes, summarized side by side. The
-critical-thinking lens: one summary number (the mean) is not "the answer" — a distribution is the
-whole picture, and you must say which measure of center fits a skewed shape (median, not mean). The
-egalitarian lens: the mean hides the people at the edges; describing spread and shape is how data
-tells you who is left out — the same idea behind honest reporting on income, health, and access
-(S-006). The global lens: comparing distributions is the same act everywhere — two seasons of
-rainfall, two regions' harvests, two groups' test scores — and it is the first step from "numbers"
-to "questions." The ethics lens: reporting only the "average" when the spread tells a different
-story is a form of dishonesty — honest data work means showing center, spread, and shape, not
-picking the number that flatters (philosophy §5). The technology & environment lens: software
-draws a box plot in a moment, but the human must choose which measure of center is honest for a
-skewed shape; and distributions of rainfall, temperature, and harvest describe the environment we
-depend on. Keep it grounded in real, small data the learner can sort by hand.
+**Tone.** Curious — the whole picture, not one number.
+
+**The facts to land.**
+
+1. **Summarize a distribution** with center (mean, median), spread (range, interquartile
+range), and shape (symmetric or skewed).
+2. **Compare two distributions using all three.**
+3. **Worked example:** two small data sets with the same mean but very different spreads
+and shapes, summarized side by side.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* the mean is not "the answer" — a distribution is the whole
+picture, and a skewed shape calls for the median.
+- *Egalitarianism:* the mean hides the people at the edges; describing spread and shape
+is how data shows who is left out — the same idea behind honest reporting on income,
+health, and access (S-006).
+- *Global:* comparing distributions is the same act everywhere — two seasons of
+rainfall, two regions' harvests, two groups' scores.
+- *Ethics:* reporting only the "average" when the spread tells another story is
+dishonesty; show center, spread, and shape, not the number that flatters (philosophy
+§5).
+- *Technology:* software draws a box plot in a moment; the human chooses which measure
+of center is honest.
+- *Environment:* distributions of rainfall, temperature, and harvest describe the
+environment we depend on.
+
+**The skill.** **Worked example first** (S-011), grounded in real, small data the
+learner can sort by hand.
 
 ## Procedure
 

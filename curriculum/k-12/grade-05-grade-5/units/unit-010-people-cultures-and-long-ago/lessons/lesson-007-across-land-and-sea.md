@@ -121,13 +121,13 @@ new way of counting, all at once. Today you see how much travels with trade.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **trade connected
-peoples as equals and moved goods, ideas, plants, and animals — not only things.** Frame the
-Indian Ocean network, the Silk Roads, and the Trans-Saharan gold-salt trade as networks of
-**mutual exchange between peoples who met as trading partners**, never as a story of one
-people "discovering" others. Model the four-category sort aloud (guided practice). Keep the
-technology lens honest: the monsoon winds and the dhow's lateen sail are real technologies
-that made the route possible. See `docs/philosophy.md` §7 and `docs/facilitation.md`.
+The idea to land is that **trade connected peoples as equals and moved goods, ideas,
+plants, and animals — not only things.** Frame the Indian Ocean network, the Silk Roads,
+and the Trans-Saharan gold-salt trade as networks of **mutual exchange between peoples
+who met as trading partners**, never as a story of one people "discovering" others.
+Model the four-category sort aloud (guided practice). Keep the technology lens honest:
+the monsoon winds and the dhow's lateen sail are real technologies that made the route
+possible. See `docs/philosophy.md` §7 and `docs/facilitation.md`.
 
 ## Procedure
 

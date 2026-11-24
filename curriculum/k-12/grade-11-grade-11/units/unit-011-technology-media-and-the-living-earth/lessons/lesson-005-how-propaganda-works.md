@@ -124,28 +124,27 @@ who made this, what do they want me to feel, and what is left out?
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **propaganda is not
-magic; it is a small set of identifiable techniques — dehumanization, repetition,
-scapegoating, fear, false equivalence (Center for Media Literacy, S-442; NAMLE,
-S-151) — and naming the technique is the first act of resistance.** The historical
-case (radio propaganda in Rwanda, 1994) is a documented, well-attested instance of
-these techniques doing real, catastrophic harm (Britannica, S-494). Teach it as
-*analysis of a mechanism*, never as spectacle, and follow the USHMM teaching
-guidelines: avoid gratuitous detail, center the humanity of victims, and hold
+The idea to land: **propaganda is not magic; it is a small set of identifiable
+techniques — dehumanization, repetition, scapegoating, fear, false equivalence (Center
+for Media Literacy, S-442; NAMLE, S-151) — and naming the technique is the first act of
+resistance.** The historical case (radio propaganda in Rwanda, 1994) is a documented,
+well-attested instance of these techniques doing real, catastrophic harm (Britannica,
+S-494). Teach it as *analysis of a mechanism*, never as spectacle, and follow the USHMM
+teaching guidelines: avoid gratuitous detail, center the humanity of victims, and hold
 questions as questions (S-495).
 
 Emotional safety: this is a heavy topic. The curriculum's stance is that the hardest
 truths can be faced honestly *when met with intellectual tools and a sense of agency*
 (see `docs/development.md`). The "agency" half is the point: learners leave with a
-checklist they can use, not with fear. Preview Lesson 6 as the answer to "what
-resists this?" — a free press and literacy.
+checklist they can use, not with fear. Preview Lesson 6 as the answer to "what resists
+this?" — a free press and literacy.
 
 The **ethics** lens: manipulation works by short-circuiting moral judgment. The
 **egalitarianism** lens: propaganda's most common move is to single out a group —
 noticing *who* is being scapegoated is a fairness skill. The **global** lens: the
-techniques recur across cultures and eras; the case is one instance, not an
-exception. The **technology** lens: new media accelerate the same old techniques.
-The **critical-thinking** lens is the core here.
+techniques recur across cultures and eras; the case is one instance, not an exception.
+The **technology** lens: new media accelerate the same old techniques. The
+**critical-thinking** lens is the core here.
 
 ## Procedure
 

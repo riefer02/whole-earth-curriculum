@@ -23,18 +23,18 @@
   <text x="140" y="186" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">for</text>
 
   <!-- reasons in left pan -->
-  <rect x="98" y="122" width="84" height="20" rx="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <text x="140" y="136" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">they are hungry</text>
-  <rect x="98" y="146" width="84" height="20" rx="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <text x="140" y="160" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">sharing is kind</text>
+  <rect x="86" y="122" width="108" height="20" rx="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="140" y="136" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">they are hungry</text>
+  <rect x="86" y="146" width="108" height="20" rx="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="140" y="160" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">sharing is kind</text>
 
   <!-- right pan (against) higher -->
   <path d="M322 128 A40 40 0 0 0 422 128 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="372" y="154" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">against</text>
 
   <!-- reasons in right pan -->
-  <rect x="330" y="90" width="84" height="20" rx="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="372" y="104" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">I wanted it first</text>
+  <rect x="312" y="90" width="120" height="20" rx="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="372" y="104" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">I wanted it first</text>
 
   <!-- banner -->
   <rect x="96" y="268" width="320" height="40" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>

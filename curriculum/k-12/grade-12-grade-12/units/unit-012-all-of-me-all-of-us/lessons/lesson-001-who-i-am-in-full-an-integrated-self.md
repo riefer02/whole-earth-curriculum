@@ -119,35 +119,35 @@ holds together because the threads run the whole length; the same is true of a p
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an integrated self is
-one through-line — who I am, what I value, how I will act — that stays recognizably the
-same across every context, and it is celebrated, not graded.** This is the opening move of
-a closing week, so there is no new heavy content; the lesson *consolidates* what the year
-already built and turns it into a handoff. Model once, then let each learner gather their
-own (S-011); the gathering is retrieval across the whole year, which is the science-of-
-learning payoff of spacing (Dunlosky et al., S-039).
+**Tone.** Celebratory: a gathering, not a grading.
 
-The **ethics** lens: "how I will act" makes the integrated self an ethical commitment, not
-only self-description. The **egalitarianism** lens: every self is a whole honored as it is —
-no map is better than another, and no learner's identity is measured against a template or a
-ranking. The **global** lens: the lesson refuses any single model of what a person is. The written
-map with rooms is one culture's shape for this passage — a self drawn from inside, in a
-Western idiom — but many traditions name personhood relationally: Ubuntu (*umuntu ngumuntu
-ngabantu*, "a person is a person through other persons," S-508), a Southern African ethic,
-holds that one becomes a person *with and through* others, not alone, and other traditions
-root the self in kin, roles, or land. The passage itself is also marked differently — a
-naming, a song, a vow, or a pilgrimage. None is the default; learners may adapt the form, or
-the model, to their own life. The
-**technology** lens: "online" is one of the real rooms where a self shows up now, and the
-lesson asks whether the same through-line holds there or gets distorted — without moralizing
-about being online. The **environment** lens: the whole self is also a body in a place, in
-relationship with land, water, and the living world; the closing week gathers that belonging
-too (it returns in full in Lesson 3).
+**The facts to land.**
 
-**Safeguarding:** the map may include anything a learner *chooses* to include; nothing is
-required about trauma, family, or a marginalized identity. A learner may complete the map
-privately, share only one line, or leave a room blank with "still becoming" — a complete and
-honored answer.
+1. An integrated self is one through-line — who I am, what I value, how I will act —
+   that stays recognisably the same across every context.
+2. The gathering is retrieval across the year — the spacing payoff (Dunlosky et al.,
+   S-039); model once, then let each learner gather their (S-011).
+3. Many traditions name personhood relationally: Ubuntu — *umuntu ngumuntu ngabantu*, "a
+   person is a person through other persons" (S-508) — holds that one becomes a person
+   *with* and through others; elsewhere the self is rooted in kin, roles, or land, and
+   the passage is marked by a naming, a song, a vow, or a pilgrimage.
+
+**Don't overshoot.** The map with rooms is one culture's shape for this passage, not the
+measure of a person.
+
+**The lenses, briefly.**
+
+- *Ethics:* "how I will act" makes the integrated self a commitment, not a description.
+- *Egalitarianism:* every self is whole as it is; no map outranks another.
+- *Global:* no single model of a person, and none is the default.
+- *Technology:* "online" is one real room where a self shows up; ask whether the
+  through-line holds there.
+- *Environment:* the whole self is a body in a place, in relationship with land and
+  water.
+
+**Safety floor.** The map includes only what a learner chooses; nothing is required
+about trauma, family, or identity. A learner may complete it privately, share one line,
+or leave a room blank with "still becoming" — a complete and honoured answer.
 
 ## Procedure
 

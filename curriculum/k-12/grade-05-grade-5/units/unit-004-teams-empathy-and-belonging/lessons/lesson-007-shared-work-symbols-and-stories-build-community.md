@@ -117,13 +117,13 @@ things are the glue.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **belonging is
-built, not automatic** — it is made through shared work, shared symbols, and shared
-stories. Ground it in concrete examples the learners already know before the abstraction.
-Honor every community's symbols and stories as meaningful in their own place; never rank
-one culture's symbol or story above another. If a learner shares a symbol or story from
-their own culture, let them be the authority on its meaning. This lesson produces the
-unit's **community-building description** portfolio artifact. See `docs/facilitation.md`.
+The idea to land is that **belonging is built, not automatic** — it is made through
+shared work, shared symbols, and shared stories. Ground it in concrete examples the
+learners already know before the abstraction. Honor every community's symbols and
+stories as meaningful in their own place; never rank one culture's symbol or story above
+another. If a learner shares a symbol or story from their own culture, let them be the
+authority on its meaning. This lesson produces the unit's **community-building
+description** portfolio artifact. See `docs/facilitation.md`.
 
 ## Procedure
 

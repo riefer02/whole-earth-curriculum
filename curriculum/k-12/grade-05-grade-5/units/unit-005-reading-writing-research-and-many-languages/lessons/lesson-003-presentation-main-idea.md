@@ -113,13 +113,13 @@ whether you speak under a tin roof or in a courtyard.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that a strong presentation
-rides on **one clear main idea**, not many. Model the shrinking of a rambling example into one
-sentence, and let learners choose topics they genuinely care about — interest is the engine of
-clarity. Speaking in the home language is welcome; the goal is being understood by the
-audience in front of them. Keep the tone warm and unranked: a main idea is "clear" or "not
-yet clear," never "good" or "bad." Use explicit instruction for the sentence frame, then let
-choice and practice carry the rest.
+The idea to land is that a strong presentation rides on **one clear main idea**, not
+many. Model the shrinking of a rambling example into one sentence, and let learners
+choose topics they genuinely care about — interest is the engine of clarity. Speaking in
+the home language is welcome; the goal is being understood by the audience in front of
+them. Keep the tone warm and unranked: a main idea is "clear" or "not yet clear," never
+"good" or "bad." Use explicit instruction for the sentence frame, then let choice and
+practice carry the rest.
 
 ## Procedure
 
