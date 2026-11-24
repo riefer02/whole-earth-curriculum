@@ -36,22 +36,22 @@
   <text x="266" y="116" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">travel — pathways</text>
   <text x="266" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">and levels</text>
   <g stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="232" cy="200" r="8" fill="#d9a06b"/>
-    <circle cx="266" cy="170" r="8" fill="#e6bb92"/>
-    <circle cx="300" cy="200" r="8" fill="#8c5a3b"/>
-    <path d="M232 208 L232 232"/>
-    <path d="M266 178 L266 202"/>
-    <path d="M300 208 L300 232"/>
-    <path d="M232 214 L222 206"/>
-    <path d="M232 214 L242 206"/>
-    <path d="M300 214 L290 206"/>
-    <path d="M300 214 L310 206"/>
+    <circle cx="232" cy="190" r="8" fill="#d9a06b"/>
+    <circle cx="266" cy="160" r="8" fill="#e6bb92"/>
+    <circle cx="300" cy="190" r="8" fill="#8c5a3b"/>
+    <path d="M232 198 L232 222"/>
+    <path d="M266 168 L266 192"/>
+    <path d="M300 198 L300 222"/>
+    <path d="M232 204 L222 196"/>
+    <path d="M232 204 L242 196"/>
+    <path d="M300 204 L290 196"/>
+    <path d="M300 204 L310 196"/>
   </g>
   <!-- pathway arrows -->
   <g stroke="#e0a458" stroke-width="2.5" fill="none" stroke-linecap="round">
     <path d="M226 244 Q246 252 262 244 Q278 236 296 244"/>
   </g>
-  <text x="266" y="238" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">rising, moving outward</text>
+  <text x="266" y="232" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">rising, moving outward</text>
 
   <!-- arrow 2 -->
   <line x1="340" y1="170" x2="364" y2="170" stroke="#2b3a42" stroke-width="3" marker-end="url(#arr7-L-05-008-07-choreography-map)"/>

@@ -56,7 +56,7 @@ context_variants:
     note: Use the personal-space walk and a spoken circle of trusted adults to hold the same ideas with no paper needed
 assets:
   - path: assets/images/L.05.009.07-my-body-my-consent.svg
-    alt: A diagram titled "my body, my consent." A child stands inside a dashed circle labeled "my personal space." A raised hand with the word "stop" sits beside the words "no means no" and "stop means stop." Below are three short rules — "ask first," "it is always okay to say no," and "tell a trusted adult." Labels and pictures, not color alone, carry the meaning so it prints clearly in grayscale.
+    alt: "A diagram titled 'my body, my consent.' A child stands inside a dashed circle, and a leader line joins the ring to the words 'my personal space.' Beside them, an open hand, palm out, with the word 'stop', the words 'no means no' and 'stop means stop.' Below are three rules — 'ask first,' 'it is always okay to say no,' 'tell a trusted adult — always.' Labels and pictures, not colour alone, carry the meaning so it prints clearly in grayscale."
     kind: image
     source: original
 duration_minutes: 45

@@ -16,27 +16,122 @@
   <text x="368" y="170" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">harms</text>
   <polygon points="256,60 248,92 264,92" fill="#2b3a42"/>
 
-  <!-- figures -->
+  <!-- the people the same technology reaches, each standing in it differently -->
   <g font-family="sans-serif" font-size="12" fill="#222222" text-anchor="middle">
-    <circle cx="96" cy="280" r="12" fill="#8a5a3b" stroke="#2b3a42" stroke-width="1.5"/>
-    <rect x="84" y="294" width="24" height="30" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="1.5"/>
-    <text x="96" y="344">farmer</text>
+    <!-- farmer -->
+    <g>
+      <path d="M 89 302 L 83 316" fill="none" stroke="#8a5a3b" stroke-width="5"
+            stroke-linecap="round"/>
+      <path d="M 103 302 L 109 314" fill="none" stroke="#8a5a3b" stroke-width="5"
+            stroke-linecap="round"/>
+      <path d="M 92 318 L 91 332" fill="none" stroke="#4f6d7a" stroke-width="6"
+            stroke-linecap="round"/>
+      <path d="M 100 318 L 101 332" fill="none" stroke="#4f6d7a" stroke-width="6"
+            stroke-linecap="round"/>
+      <ellipse cx="90" cy="334" rx="4.5" ry="2.5" fill="#2b3a42"/>
+      <ellipse cx="102" cy="334" rx="4.5" ry="2.5" fill="#2b3a42"/>
+      <path d="M 87 302 Q 87 297 92 296 L 100 296 Q 105 297 105 302 L 105 318 Q 105 321
+               102 321 L 90 321 Q 87 321 87 318 Z" fill="#6b93b6" stroke="#2b3a42"
+            stroke-width="1.6" stroke-linejoin="round"/>
+      <circle cx="96" cy="288" r="8" fill="#8a5a3b" stroke="#2b3a42" stroke-width="1.6"/>
+      <path d="M 88 286 Q 88 279 96 279 Q 104 279 104 286 Q 99 281 96 281 Q 93 281 88 286 Z"
+            fill="#2b3a42"/>
+    </g>
+    <text x="96" y="352">farmer</text>
 
-    <circle cx="192" cy="312" r="12" fill="#c98d5f" stroke="#2b3a42" stroke-width="1.5"/>
-    <rect x="180" y="326" width="24" height="30" rx="6" fill="#7a9e7e" stroke="#2b3a42" stroke-width="1.5"/>
-    <text x="192" y="376">worker</text>
+    <!-- worker -->
+    <g>
+      <path d="M 185 334 L 179 348" fill="none" stroke="#c98d5f" stroke-width="5"
+            stroke-linecap="round"/>
+      <path d="M 199 334 L 205 346" fill="none" stroke="#c98d5f" stroke-width="5"
+            stroke-linecap="round"/>
+      <path d="M 188 350 L 187 364" fill="none" stroke="#4f6d7a" stroke-width="6"
+            stroke-linecap="round"/>
+      <path d="M 196 350 L 197 364" fill="none" stroke="#4f6d7a" stroke-width="6"
+            stroke-linecap="round"/>
+      <ellipse cx="186" cy="366" rx="4.5" ry="2.5" fill="#2b3a42"/>
+      <ellipse cx="198" cy="366" rx="4.5" ry="2.5" fill="#2b3a42"/>
+      <path d="M 183 334 Q 183 329 188 328 L 196 328 Q 201 329 201 334 L 201 350 Q 201 353
+               198 353 L 186 353 Q 183 353 183 350 Z" fill="#7a9e7e" stroke="#2b3a42"
+            stroke-width="1.6" stroke-linejoin="round"/>
+      <circle cx="192" cy="320" r="8" fill="#c98d5f" stroke="#2b3a42" stroke-width="1.6"/>
+      <path d="M 184 318 Q 184 311 192 311 Q 200 311 200 318 Q 196 313 192 314 Q 188 315 184 318 Z"
+            fill="#2b3a42"/>
+      <circle cx="186" cy="330" r="2" fill="#2b3a42"/>
+      <circle cx="198" cy="330" r="2" fill="#2b3a42"/>
+    </g>
+    <text x="192" y="384">worker</text>
 
-    <circle cx="320" cy="280" r="12" fill="#6b4f3a" stroke="#2b3a42" stroke-width="1.5"/>
-    <rect x="308" y="294" width="24" height="30" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
-    <text x="320" y="344">elder</text>
+    <!-- elder, with a cane -->
+    <g>
+      <path d="M 313 302 L 307 316" fill="none" stroke="#ab7a4e" stroke-width="5"
+            stroke-linecap="round"/>
+      <path d="M 327 302 L 333 314" fill="none" stroke="#ab7a4e" stroke-width="5"
+            stroke-linecap="round"/>
+      <path d="M 316 318 L 315 332" fill="none" stroke="#4f6d7a" stroke-width="6"
+            stroke-linecap="round"/>
+      <path d="M 324 318 L 325 332" fill="none" stroke="#4f6d7a" stroke-width="6"
+            stroke-linecap="round"/>
+      <ellipse cx="314" cy="334" rx="4.5" ry="2.5" fill="#2b3a42"/>
+      <ellipse cx="326" cy="334" rx="4.5" ry="2.5" fill="#2b3a42"/>
+      <path d="M 311 302 Q 311 297 316 296 L 324 296 Q 329 297 329 302 L 329 318 Q 329 321
+               326 321 L 314 321 Q 311 321 311 318 Z" fill="#e0a458" stroke="#2b3a42"
+            stroke-width="1.6" stroke-linejoin="round"/>
+      <circle cx="320" cy="288" r="8" fill="#ab7a4e" stroke="#2b3a42" stroke-width="1.6"/>
+      <path d="M 312 286 Q 312 279 320 279 Q 328 279 328 286 Q 323 281 320 281 Q 317 281 312 286 Z"
+            fill="#c9d6df" stroke="#4f6d7a" stroke-width="1.2"/>
+      <!-- cane, from the hand to the ground -->
+      <path d="M 333 314 q 0 -5 5 -5 q 5 0 5 5 L 343 335" fill="none" stroke="#2b3a42"
+            stroke-width="2.4" stroke-linecap="round"/>
+    </g>
+    <text x="320" y="352">elder</text>
 
-    <circle cx="416" cy="312" r="12" fill="#d9a066" stroke="#2b3a42" stroke-width="1.5"/>
-    <rect x="404" y="326" width="24" height="30" rx="6" fill="#c9b6a4" stroke="#2b3a42" stroke-width="1.5"/>
-    <text x="416" y="376">child</text>
+    <!-- child -->
+    <g>
+      <path d="M 410 338 L 405 349" fill="none" stroke="#d9a066" stroke-width="4.5"
+            stroke-linecap="round"/>
+      <path d="M 422 338 L 427 347" fill="none" stroke="#d9a066" stroke-width="4.5"
+            stroke-linecap="round"/>
+      <path d="M 412 352 L 411 364" fill="none" stroke="#4f6d7a" stroke-width="5.5"
+            stroke-linecap="round"/>
+      <path d="M 420 352 L 421 364" fill="none" stroke="#4f6d7a" stroke-width="5.5"
+            stroke-linecap="round"/>
+      <ellipse cx="410" cy="366" rx="4" ry="2.3" fill="#2b3a42"/>
+      <ellipse cx="422" cy="366" rx="4" ry="2.3" fill="#2b3a42"/>
+      <path d="M 408 338 Q 408 334 412 333 L 420 333 Q 424 334 424 338 L 424 352 Q 424 355
+               421 355 L 411 355 Q 408 355 408 352 Z" fill="#c9b6a4" stroke="#2b3a42"
+            stroke-width="1.6" stroke-linejoin="round"/>
+      <circle cx="416" cy="326" r="7" fill="#d9a066" stroke="#2b3a42" stroke-width="1.6"/>
+      <path d="M 409 324 Q 409 317 416 317 Q 423 317 423 324 Q 419 319 416 320 Q 413 320 409 324 Z"
+            fill="#2b3a42"/>
+      <circle cx="413" cy="327" r="1.6" fill="#2b3a42"/>
+      <circle cx="419" cy="327" r="1.6" fill="#2b3a42"/>
+    </g>
+    <text x="416" y="384">child</text>
 
-    <circle cx="256" cy="440" r="12" fill="#7c5a40" stroke="#2b3a42" stroke-width="1.5"/>
-    <rect x="244" y="454" width="24" height="30" rx="6" fill="#4f6d7a" stroke="#2b3a42" stroke-width="1.5"/>
-    <text x="256" y="502">miner</text>
+    <!-- miner -->
+    <g transform="translate(0,-14)">
+      <path d="M 249 462 L 243 476" fill="none" stroke="#7c5a40" stroke-width="5"
+            stroke-linecap="round"/>
+      <path d="M 263 462 L 269 474" fill="none" stroke="#7c5a40" stroke-width="5"
+            stroke-linecap="round"/>
+      <path d="M 252 478 L 251 492" fill="none" stroke="#4f6d7a" stroke-width="6"
+            stroke-linecap="round"/>
+      <path d="M 260 478 L 261 492" fill="none" stroke="#4f6d7a" stroke-width="6"
+            stroke-linecap="round"/>
+      <ellipse cx="250" cy="494" rx="4.5" ry="2.5" fill="#2b3a42"/>
+      <ellipse cx="262" cy="494" rx="4.5" ry="2.5" fill="#2b3a42"/>
+      <path d="M 247 462 Q 247 457 252 456 L 260 456 Q 265 457 265 462 L 265 478 Q 265 481
+               262 481 L 250 481 Q 247 481 247 478 Z" fill="#4f6d7a" stroke="#2b3a42"
+            stroke-width="1.6" stroke-linejoin="round"/>
+      <circle cx="256" cy="448" r="8" fill="#7c5a40" stroke="#2b3a42" stroke-width="1.6"/>
+      <!-- hard hat -->
+      <path d="M 246 444 Q 246 435 256 435 Q 266 435 266 444 Z" fill="#e0a458"
+            stroke="#2b3a42" stroke-width="1.6" stroke-linejoin="round"/>
+      <path d="M 243 445 L 269 445" fill="none" stroke="#2b3a42" stroke-width="2.4"
+            stroke-linecap="round"/>
+    </g>
+    <text x="256" y="490">miner</text>
   </g>
 
   <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">one phone, many outcomes</text>

@@ -54,7 +54,7 @@ context_variants:
     note: Older learners read the scenarios and younger learners act them out, then they play together and practice encouraging words
 assets:
   - path: assets/images/L.04.002.09-playing-fair-all-together.svg
-    alt: Two panels. The left shows a child cheering a teammate with a raised hand and a smile, labeled "encourage." The right shows a child honestly handing the ball to another with a speech bubble "your turn," labeled "take turns" — showing fair play in action
+    alt: "Two panels. The left shows a child cheering a teammate with a raised hand and a smile; a leader line joins that hand to the word 'encourage.' The right shows a child honestly handing the ball to another with a speech bubble 'your turn'; a leader line joins the ball to the words 'take turns.' Fair play in action."
     kind: image
     source: original
 duration_minutes: 50

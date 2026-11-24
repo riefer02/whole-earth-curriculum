@@ -55,7 +55,7 @@ context_variants:
     note: Learners ready to extend write a short paragraph explaining how one experience changed how they see themselves
 assets:
   - path: assets/images/L.04.012.01-the-me-im-becoming.svg
-    alt: "A map of the self. A child stands in the center, and three labeled branches reach toward them: 'what I love doing' with a book and a ball, 'what I can do' with a plant being watered and a helping hand, and 'what I have lived' with a journey path and a family. The three branches join at the word 'me,' and a soft arrow points ahead to 'the me I'm becoming.' The child uses a wheelchair, and skin tones and dress vary."
+    alt: "A map of the self. A child in a wheelchair sits at the centre — one soft silhouette with a big wheel, seat, backrest and footplate — with 'me' beneath the chair. Three dashed leaders join the labelled boxes to the child's body— 'what I love doing' with a book and a ball, 'what I can do' with a plant being watered and a helping hand, and 'what I have lived' with a journey path and a family. A soft arrow points ahead to 'the me I'm becoming.' Skin tones and dress vary."
     kind: image
     source: original
 duration_minutes: 50

@@ -45,7 +45,7 @@ context_variants:
     note: Stand in a wide space and mark a personal boundary with arms; name one thing others may not do to your body without your consent
 assets:
   - path: assets/images/L.12.002.06-dignity-is-embodied.svg
-    alt: "A shield divided into three labeled fields — autonomy, consent, care — each with a short phrase: my body is mine, my yes and no matter, I tend this body with respect. Labels carry the meaning, so it prints in grayscale."
+    alt: "A shield divided into three labeled fields — autonomy, consent, care — each with a short phrase: my body is mine, my yes and no count, I tend this body with respect. Labels carry the meaning, so it prints in grayscale."
     kind: image
     source: original
 duration_minutes: 50

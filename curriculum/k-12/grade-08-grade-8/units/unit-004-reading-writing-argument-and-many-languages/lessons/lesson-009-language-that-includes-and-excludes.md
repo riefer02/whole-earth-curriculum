@@ -54,7 +54,7 @@ context_variants:
     note: Look at a sign, notice, or spoken announcement around you and ask aloud who can understand it and who is shut out, and how to fix it
 assets:
   - path: assets/images/L.08.004.09-language-includes-excludes.svg
-    alt: Two doors side by side — an open door labeled "welcomes (plain words, everyone's language)" and a closed door labeled "shuts out (jargon, one language only)" — with a small figure at each door and a question "who can come in?"
+    alt: "Two doors side by side — an open door labelled 'welcomes' (plain words, everyone's language) with a person stepping through it, and a shut door labelled 'shuts out' (jargon, one language only) with a person standing outside it facing the door. Below, a question reads 'who can come in?' and a line reads 'we choose whether the door is open.'"
     kind: image
     source: original
 duration_minutes: 50

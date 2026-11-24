@@ -47,14 +47,14 @@
     <rect x="320" y="70" width="168" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="404" y="96" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">sad</text>
     <!-- figure: one soft silhouette, arms holding a heavy heart -->
-    <g fill="#a9734a">
+    <g fill="#d8a97e">
       <circle cx="404" cy="148" r="24"/>
       <rect x="397" y="168" width="14" height="18" rx="6"/>
       <rect x="384" y="180" width="40" height="72" rx="17"/>
-      <path d="M 388 190 Q 380 212 388 230" stroke="#a9734a" stroke-width="13" stroke-linecap="round" fill="none"/>
-      <path d="M 420 190 Q 428 212 420 230" stroke="#a9734a" stroke-width="13" stroke-linecap="round" fill="none"/>
-      <path d="M 394 250 L 391 294" stroke="#a9734a" stroke-width="18" stroke-linecap="round" fill="none"/>
-      <path d="M 414 250 L 417 294" stroke="#a9734a" stroke-width="18" stroke-linecap="round" fill="none"/>
+      <path d="M 388 190 Q 380 212 388 230" stroke="#d8a97e" stroke-width="13" stroke-linecap="round" fill="none"/>
+      <path d="M 420 190 Q 428 212 420 230" stroke="#d8a97e" stroke-width="13" stroke-linecap="round" fill="none"/>
+      <path d="M 394 250 L 391 294" stroke="#d8a97e" stroke-width="18" stroke-linecap="round" fill="none"/>
+      <path d="M 414 250 L 417 294" stroke="#d8a97e" stroke-width="18" stroke-linecap="round" fill="none"/>
       <ellipse cx="389" cy="299" rx="12" ry="6"/>
       <ellipse cx="419" cy="299" rx="12" ry="6"/>
     </g>

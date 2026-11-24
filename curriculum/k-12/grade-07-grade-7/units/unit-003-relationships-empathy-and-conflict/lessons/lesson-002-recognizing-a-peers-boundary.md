@@ -56,7 +56,7 @@ context_variants:
     note: In pairs, one partner signals a limit with body alone while the other steps back at the right moment; then swap; no paper needed
 assets:
   - path: assets/images/L.07.003.02-recognizing-a-peers-boundary.svg
-    alt: "Two figures face each other. The one on the right holds up an open palm and says 'no thanks'; the one on the left pauses and steps back. Three cue cards below label what to read: words (no, stop), body (palm up, leaning back), and voice (flat or firm). Figures differ in skin tone."
+    alt: "Two figures face each other. The one on the right, who uses a wheelchair, holds up an open palm and says 'no thanks'; the one on the left pauses and steps back. Three cue cards below label what to read— words (no, stop), body (palm up, leaning back), and voice (flat or firm). Figures differ in skin tone."
     kind: image
     source: original
 duration_minutes: 50

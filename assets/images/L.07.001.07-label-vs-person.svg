@@ -42,9 +42,9 @@
     <circle cx="374" cy="135" r="3.2" fill="#2b3a42"/>
     <path d="M357 152 Q366 160 375 152" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <!-- facet labels around -->
-    <text x="366" y="288" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">sings in the kitchen</text>
-    <text x="366" y="312" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">tells the funniest jokes</text>
-    <text x="366" y="336" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">runs, dreams, worries</text>
+    <text x="366" y="302" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">sings in the kitchen</text>
+    <text x="366" y="324" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">tells the funniest jokes</text>
+    <text x="366" y="346" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">runs, dreams, worries</text>
   </g>
 
   <!-- Caption -->

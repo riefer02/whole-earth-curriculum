@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-014-04-cooperative-project-cycle desc-L-09-014-04-cooperative-project-cycle">
   <title id="title-L-09-014-04-cooperative-project-cycle">Our cooperative project: the design cycle</title>
-  <desc id="desc-L-09-014-04-cooperative-project-cycle">A circle of five steps: see a need, listen to the people, plan together, act, and reflect and adjust. Small figures of varied skin tones cooperate at each step. An arrow leads onward from the cycle labeled "to Grade 10," showing the work continues forward.</desc>
+  <desc id="desc-L-09-014-04-cooperative-project-cycle">A circle of five steps: see a need, listen to the people, plan together, act, and reflect and adjust. Three people of varied skin tones stand together at the centre of the cycle, arms around one another’s shoulders. An arrow leads onward from the cycle labeled "to Grade 10," showing the work continues forward.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Care Into Action: The Design Cycle</text>
@@ -45,14 +45,70 @@
     <text text-anchor="middle" x="166" y="329" font-size="12" font-weight="bold" fill="#2b3a42">adjust</text>
   </g>
 
-  <!-- cooperating figures in the center -->
-  <g stroke="#2b3a42" stroke-width="2">
-    <circle cx="238" cy="236" r="11" fill="#7a9e7e"/>
-    <path d="M226 250 q12 12 24 0" fill="#e0a458"/>
-    <circle cx="276" cy="236" r="11" fill="#e0a458"/>
-    <path d="M264 250 q12 12 24 0" fill="#6b93b6"/>
-    <circle cx="257" cy="258" r="9" fill="#6b93b6"/>
-    <path d="M247 269 q10 9 20 0" fill="#7a9e7e"/>
+  <!-- three people standing in the middle of the cycle, arms around one another -->
+  <g>
+    <!-- left person -->
+    <g>
+      <path d="M 224 250 L 221 274" fill="none" stroke="#4f6d7a" stroke-width="8"
+            stroke-linecap="round"/>
+      <path d="M 232 250 L 235 274" fill="none" stroke="#4f6d7a" stroke-width="8"
+            stroke-linecap="round"/>
+      <ellipse cx="219" cy="277" rx="7" ry="4" fill="#2b3a42"/>
+      <ellipse cx="238" cy="277" rx="7" ry="4" fill="#2b3a42"/>
+      <path d="M 216 216 Q 216 210 221 209 L 231 209 Q 236 210 236 216 L 236 246 Q 236 250
+               231 250 L 221 250 Q 216 250 216 246 Z" fill="#7a9e7e" stroke="#2b3a42"
+            stroke-width="1.8" stroke-linejoin="round"/>
+      <circle cx="226" cy="199" r="9.5" fill="#8f5f3d" stroke="#2b3a42" stroke-width="1.8"/>
+      <path d="M 216 197 Q 216 188 226 188 Q 236 188 236 197 Q 230 191 226 192 Q 221 193 216 197 Z"
+            fill="#2b3a42"/>
+      <circle cx="222" cy="200" r="1.7" fill="#2b3a42"/>
+      <circle cx="230" cy="200" r="1.7" fill="#2b3a42"/>
+      <path d="M 222 205 q 4 3 8 0" fill="none" stroke="#2b3a42" stroke-width="1.6"
+            stroke-linecap="round"/>
+    </g>
+    <!-- right person -->
+    <g>
+      <path d="M 280 250 L 277 274" fill="none" stroke="#4f6d7a" stroke-width="8"
+            stroke-linecap="round"/>
+      <path d="M 288 250 L 291 274" fill="none" stroke="#4f6d7a" stroke-width="8"
+            stroke-linecap="round"/>
+      <ellipse cx="275" cy="277" rx="7" ry="4" fill="#2b3a42"/>
+      <ellipse cx="294" cy="277" rx="7" ry="4" fill="#2b3a42"/>
+      <path d="M 272 216 Q 272 210 277 209 L 287 209 Q 292 210 292 216 L 292 246 Q 292 250
+               287 250 L 277 250 Q 272 250 272 246 Z" fill="#6b93b6" stroke="#2b3a42"
+            stroke-width="1.8" stroke-linejoin="round"/>
+      <circle cx="282" cy="199" r="9.5" fill="#6b4f3a" stroke="#2b3a42" stroke-width="1.8"/>
+      <path d="M 272 197 Q 272 188 282 188 Q 292 188 292 197 Q 286 191 282 192 Q 277 193 272 197 Z"
+            fill="#2b3a42"/>
+      <circle cx="278" cy="200" r="1.7" fill="#2b3a42"/>
+      <circle cx="286" cy="200" r="1.7" fill="#2b3a42"/>
+      <path d="M 278 205 q 4 3 8 0" fill="none" stroke="#2b3a42" stroke-width="1.6"
+            stroke-linecap="round"/>
+    </g>
+    <!-- person in the middle, a step forward -->
+    <g>
+      <path d="M 250 252 L 248 276" fill="none" stroke="#4f6d7a" stroke-width="8"
+            stroke-linecap="round"/>
+      <path d="M 258 252 L 260 276" fill="none" stroke="#4f6d7a" stroke-width="8"
+            stroke-linecap="round"/>
+      <ellipse cx="246" cy="279" rx="7" ry="4" fill="#2b3a42"/>
+      <ellipse cx="263" cy="279" rx="7" ry="4" fill="#2b3a42"/>
+      <path d="M 242 218 Q 242 212 247 211 L 261 211 Q 266 212 266 218 L 266 248 Q 266 252
+               261 252 L 247 252 Q 242 252 242 248 Z" fill="#e0a458" stroke="#2b3a42"
+            stroke-width="1.8" stroke-linejoin="round"/>
+      <!-- arms round the shoulders of both neighbours -->
+      <path d="M 244 220 Q 232 216 226 216" fill="none" stroke="#e6bb92" stroke-width="7"
+            stroke-linecap="round"/>
+      <path d="M 264 220 Q 276 216 282 216" fill="none" stroke="#e6bb92" stroke-width="7"
+            stroke-linecap="round"/>
+      <circle cx="254" cy="201" r="10" fill="#e6bb92" stroke="#2b3a42" stroke-width="1.8"/>
+      <path d="M 244 199 Q 244 189 254 189 Q 264 189 264 199 Q 259 193 254 193 Q 249 193 244 199 Z"
+            fill="#2b3a42"/>
+      <circle cx="250" cy="202" r="1.7" fill="#2b3a42"/>
+      <circle cx="258" cy="202" r="1.7" fill="#2b3a42"/>
+      <path d="M 250 207 q 4 3 8 0" fill="none" stroke="#2b3a42" stroke-width="1.6"
+            stroke-linecap="round"/>
+    </g>
   </g>
 
   <!-- onward arrow to Grade 10 -->

@@ -50,7 +50,7 @@ context_variants:
     note: Hold the circle outdoors around a fire or a shared place, and work a real or role-played harm with the talking object
 assets:
   - path: assets/images/L.12.010.13-listening-taking-responsibility-repairing.svg
-    alt: "A circle of diverse figures seated together, a talking object at center. Around the circle, three steps are labeled: 'listen — what happened,' 'take responsibility — who was harmed and how,' 'repair — what will make it right.' A footer reads 'repair, never retaliation.' Labels carry the meaning, so it prints in grayscale."
+    alt: "A ring of marks standing for people sitting in a circle, with a small circle at the centre labelled 'voice' for the talking object. Three steps are labelled outside the ring — 'listen' with 'what happened', 'take responsibility' with 'who was harmed, and how', and 'repair' with 'what will make it right'. A footer reads 'repair, never retaliation'. Labels carry the meaning, so it prints in grayscale."
     kind: image
     source: original
 duration_minutes: 55

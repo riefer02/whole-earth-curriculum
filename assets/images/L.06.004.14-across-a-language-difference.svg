@@ -1,53 +1,156 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-06-004-14-across-a-language-difference desc-L-06-004-14-across-a-language-difference">
   <title id="title-L-06-004-14-across-a-language-difference">Across a language difference</title>
-  <desc id="desc-L-06-004-14-across-a-language-difference">Two figures of varied skin tones face each other, each with a speech bubble in a different script. Between them, four bridges are drawn and labeled: a hand raised in a gesture, a small drawing of a cup (for water), a phone showing a translation arrow, and a heart labeled "patience." A banner reads "we don't share the words, but we can still meet." Labels and shapes, not color alone, carry the meaning so the graphic prints clearly in grayscale.</desc>
+  <desc id="desc-L-06-004-14-across-a-language-difference">Two people of different skin tones and dress
+    stand facing each other across a column of four labelled bridges, each holding one open hand out
+    toward the other. Above each person a speech bubble shows the different script they speak: one in
+    Arabic, one in English. Between them the four bridges are drawn and labelled: a hand shaping a cup,
+    a cup drawn in the dirt, a phone showing an arrow between the words, and a heart for patience. A
+    banner reads “we don't share the words, but we can still meet.”</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Across a Language Difference</text>
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24"
+        font-weight="bold" fill="#2b3a42">Across a Language Difference</text>
 
-  <!-- Left figure + bubble -->
-  <rect x="34" y="52" width="72" height="42" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="70" y="80" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#222222">مرحبا</text>
-  <circle cx="120" cy="200" r="24" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M78 296 Q120 270 162 296 L162 296 L154 356 L86 356 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <!-- what each person says -->
+  <rect x="42" y="54" width="76" height="42" rx="9" fill="#ffffff" stroke="#2b3a42"
+        stroke-width="2"/>
+  <text x="80" y="83" text-anchor="middle" font-family="sans-serif" font-size="24"
+        fill="#222222">مرحبا</text>
 
-  <!-- Right figure + bubble -->
-  <rect x="406" y="52" width="72" height="42" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="442" y="80" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">hello</text>
-  <circle cx="392" cy="200" r="24" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M350 296 Q392 270 434 296 L434 296 L426 356 L358 356 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="394" y="54" width="76" height="42" rx="9" fill="#ffffff" stroke="#2b3a42"
+        stroke-width="2"/>
+  <text x="432" y="83" text-anchor="middle" font-family="sans-serif" font-size="24"
+        fill="#222222">hello</text>
 
-  <!-- Bridges between them -->
-  <text x="256" y="118" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">the four bridges</text>
+  <!-- person on the left, one open hand offered toward the other -->
+  <g>
+    <path d="M96 330 L93 378" fill="none" stroke="#4f6d7a" stroke-width="13"
+          stroke-linecap="round"/>
+    <path d="M113 330 L116 378" fill="none" stroke="#4f6d7a" stroke-width="13"
+          stroke-linecap="round"/>
+    <ellipse cx="90" cy="382" rx="11" ry="6" fill="#2b3a42"/>
+    <ellipse cx="119" cy="382" rx="11" ry="6" fill="#2b3a42"/>
+    <path d="M82 262 Q82 246 94 243 L116 243 Q128 246 128 262 L132 326 Q132 338 119 338
+             L91 338 Q78 338 78 326 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"
+          stroke-linejoin="round"/>
+    <!-- outer arm, resting -->
+    <path d="M84 264 Q74 296 78 322" fill="none" stroke="#c98d5f" stroke-width="11"
+          stroke-linecap="round"/>
+    <!-- inner arm, reaching out and open -->
+    <path d="M126 264 Q144 286 141 302" fill="none" stroke="#c98d5f" stroke-width="11"
+          stroke-linecap="round"/>
+    <path d="M124 318 q -7.6 -2.5 -9.3 -9.3 q -1.7 -6.8 4.2 -6.8 q 5.9 0 7.6 5.9
+             q -5.9 -13.6 0.9 -15.3 q 5.9 -1.7 7.6 7.6 q -2.5 -14.4 4.2 -14.4 q 6.8 0 6.8 12.7
+             q 0 13.6 -10.2 19.5 z" fill="#c98d5f" stroke="#2b3a42" stroke-width="1.6"
+          stroke-linejoin="round"/>
+    <circle cx="104" cy="228" r="19" fill="#c98d5f" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M85 226 Q85 206 104 206 Q123 206 123 226 Q113 214 104 214 Q95 214 85 226 Z"
+          fill="#2b3a42"/>
+    <circle cx="97" cy="229" r="2.2" fill="#2b3a42"/>
+    <circle cx="111" cy="229" r="2.2" fill="#2b3a42"/>
+    <path d="M97 238 Q104 243 111 238" fill="none" stroke="#2b3a42" stroke-width="2"
+          stroke-linecap="round"/>
+  </g>
 
-  <!-- gesture -->
-  <rect x="195" y="132" width="160" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M150 170 L158 150 L168 158 L176 146 L184 154 L192 172 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="275" y="160" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">gesture</text>
-  <text x="275" y="176" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a hand shapes a cup</text>
+  <!-- person on the right, one open hand offered back -->
+  <g>
+    <path d="M399 330 L396 378" fill="none" stroke="#4f6d7a" stroke-width="13"
+          stroke-linecap="round"/>
+    <path d="M416 330 L419 378" fill="none" stroke="#4f6d7a" stroke-width="13"
+          stroke-linecap="round"/>
+    <ellipse cx="393" cy="382" rx="11" ry="6" fill="#2b3a42"/>
+    <ellipse cx="422" cy="382" rx="11" ry="6" fill="#2b3a42"/>
+    <path d="M383 262 Q383 246 395 243 L417 243 Q429 246 429 262 L433 326 Q433 338 420 338
+             L392 338 Q379 338 379 326 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"
+          stroke-linejoin="round"/>
+    <!-- outer arm, resting -->
+    <path d="M427 264 Q437 296 433 322" fill="none" stroke="#6b4f3a" stroke-width="11"
+          stroke-linecap="round"/>
+    <!-- inner arm, reaching out and open -->
+    <path d="M385 264 Q367 286 370 302" fill="none" stroke="#6b4f3a" stroke-width="11"
+          stroke-linecap="round"/>
+    <path d="M368 318 q -7.6 -2.5 -9.3 -9.3 q -1.7 -6.8 4.2 -6.8 q 5.9 0 7.6 5.9
+             q -5.9 -13.6 0.9 -15.3 q 5.9 -1.7 7.6 7.6 q -2.5 -14.4 4.2 -14.4 q 6.8 0 6.8 12.7
+             q 0 13.6 -10.2 19.5 z" fill="#6b4f3a" stroke="#2b3a42" stroke-width="1.6"
+          stroke-linejoin="round"/>
+    <circle cx="407" cy="228" r="19" fill="#6b4f3a" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M388 226 Q388 205 407 205 Q426 205 426 226 Q416 213 407 213 Q398 213 388 226 Z"
+          fill="#2b3a42"/>
+    <path d="M385 232 Q390 224 396 228 L418 228 Q424 224 429 232 Q420 220 407 220
+             Q394 220 385 232 Z" fill="#2b3a42"/>
+    <circle cx="400" cy="231" r="2.2" fill="#2b3a42"/>
+    <circle cx="414" cy="231" r="2.2" fill="#2b3a42"/>
+    <path d="M400 240 Q407 245 414 240" fill="none" stroke="#2b3a42" stroke-width="2"
+          stroke-linecap="round"/>
+  </g>
 
-  <!-- drawing -->
-  <rect x="195" y="192" width="160" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M156 212 L156 232 M156 222 L172 222 M156 222 Q170 210 186 222" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="275" y="220" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">drawing</text>
-  <text x="275" y="236" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a cup in the dirt</text>
+  <!-- the four bridges -->
+  <text x="271" y="124" text-anchor="middle" font-family="sans-serif" font-size="14"
+        font-weight="bold" fill="#2b3a42">the four bridges</text>
 
-  <!-- translation tool -->
-  <rect x="195" y="252" width="160" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <rect x="160" y="262" width="30" height="32" rx="4" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M194 278 L210 278 M204 272 L212 278 L204 284" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="275" y="280" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">translation tool</text>
-  <text x="275" y="296" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">an arrow between the words</text>
+  <!-- gesture: a hand shaping a cup -->
+  <g>
+    <rect x="187" y="136" width="168" height="56" rx="10" fill="#ffffff" stroke="#2b3a42"
+          stroke-width="2"/>
+    <path d="M154 152 Q154 172 168 172 Q182 172 182 152 Z" fill="#c98d5f" stroke="#2b3a42"
+          stroke-width="2" stroke-linejoin="round"/>
+    <path d="M158 151 q 2 -6 5 -1 M 167 149 q 2 -6 5 -1 M 175 150 q 2 -6 4 -1"
+          fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+    <text x="271" y="160" text-anchor="middle" font-family="sans-serif" font-size="13"
+          font-weight="bold" fill="#222222">gesture</text>
+    <text x="271" y="178" text-anchor="middle" font-family="sans-serif" font-size="12"
+          fill="#4f6d7a">a hand shapes a cup</text>
+  </g>
 
-  <!-- patience -->
-  <rect x="195" y="312" width="160" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M176 326 Q180 316 186 322 Q196 312 202 322 Q208 316 212 326 Q204 340 194 340 Q184 340 176 326 Z" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="275" y="340" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">patience</text>
-  <text x="275" y="356" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the bridge that holds the rest</text>
+  <!-- drawing: a cup drawn in the dirt -->
+  <g>
+    <rect x="187" y="198" width="168" height="56" rx="10" fill="#ffffff" stroke="#2b3a42"
+          stroke-width="2"/>
+    <path d="M158 214 L178 214 L175 232 L161 232 Z" fill="none" stroke="#4f6d7a"
+          stroke-width="2" stroke-dasharray="4 3" stroke-linejoin="round"/>
+    <path d="M150 235 L186 235" fill="none" stroke="#7a9e7e" stroke-width="2.6"
+          stroke-linecap="round"/>
+    <text x="271" y="222" text-anchor="middle" font-family="sans-serif" font-size="13"
+          font-weight="bold" fill="#222222">drawing</text>
+    <text x="271" y="240" text-anchor="middle" font-family="sans-serif" font-size="12"
+          fill="#4f6d7a">a cup in the dirt</text>
+  </g>
 
-  <!-- Banner -->
-  <rect x="56" y="400" width="400" height="56" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">We don't share the words,</text>
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">but we can still meet.</text>
+  <!-- translation tool: an arrow between the words -->
+  <g>
+    <rect x="187" y="260" width="168" height="56" rx="10" fill="#ffffff" stroke="#2b3a42"
+          stroke-width="2"/>
+    <rect x="155" y="272" width="22" height="32" rx="4" fill="#ffffff" stroke="#2b3a42"
+          stroke-width="2"/>
+    <path d="M160 284 L172 284 M168 280 L172 284 L168 288" fill="none" stroke="#4f6d7a"
+          stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M160 296 L172 296 M168 292 L172 296 L168 300" fill="none" stroke="#e0a458"
+          stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="271" y="284" text-anchor="middle" font-family="sans-serif" font-size="13"
+          font-weight="bold" fill="#222222">translation tool</text>
+    <text x="271" y="302" text-anchor="middle" font-family="sans-serif" font-size="12"
+          fill="#4f6d7a">an arrow between the words</text>
+  </g>
+
+  <!-- patience: the bridge that holds the others up -->
+  <g>
+    <rect x="187" y="322" width="168" height="56" rx="10" fill="#ffffff" stroke="#2b3a42"
+          stroke-width="2"/>
+    <path d="M164 342 q 4 -9 9 -3 q 9 -10 14 0 q 6 -6 10 3 q -8 13 -17 16
+             q -9 -3 -16 -16 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"
+          stroke-linejoin="round"/>
+    <text x="271" y="346" text-anchor="middle" font-family="sans-serif" font-size="13"
+          font-weight="bold" fill="#222222">patience</text>
+    <text x="271" y="364" text-anchor="middle" font-family="sans-serif" font-size="12"
+          fill="#4f6d7a">the bridge that holds the rest</text>
+  </g>
+
+  <!-- banner -->
+  <rect x="56" y="404" width="400" height="60" rx="10" fill="#7a9e7e" stroke="#2b3a42"
+        stroke-width="2"/>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="17"
+        font-weight="bold" fill="#222222">We don't share the words,</text>
+  <text x="256" y="451" text-anchor="middle" font-family="sans-serif" font-size="15"
+        fill="#222222">but we can still meet.</text>
 </svg>

@@ -67,7 +67,7 @@ context_variants:
     note: Learners who need more support complete the eight boxes with a partner and a sentence frame; learners ready for more add a ninth "tomorrow" box with a next fair action
 assets:
   - path: assets/images/L.04.010.10-rights-fairness-and-shared-rules-all-together.svg
-    alt: "An eight-part page gathers the whole unit. The boxes are: stronger reason (a balance scale with two reasons), my value (a heart), dignity honored or denied (a turned-toward vs. turned-away scene), a rule on trial (a rule card with a fairness check), here and there (two columns), our shared project (a task list with who does what), I statements and listening (two speech bubbles), and restorative practice (a three-step circle). Each box has a dashed draw-or-write area, and labels carry the meaning."
+    alt: "An eight-part page gathers the whole unit. The boxes are— stronger reason (a balance scale with two reasons), my value (a heart), dignity honoured or denied (a turned-toward vs. turned-away scene), a rule on trial (a rule card with a fairness check), here and there (two columns), our shared project (a task list with who does what), I statements and listening (two speech bubbles), and restorative practice (a numbered three-step list— listen, own it, repair). The top row of boxes has a dashed draw-or-write area, and labels carry the meaning."
     kind: image
     source: original
 duration_minutes: 50

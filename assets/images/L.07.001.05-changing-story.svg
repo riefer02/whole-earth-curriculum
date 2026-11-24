@@ -40,14 +40,14 @@
     <rect x="318" y="70" width="170" height="270" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="403" y="96" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#4f6d7a">me now</text>
     <!-- older young person: one soft silhouette, taller and squarer -->
-    <g fill="#8f5f3d">
+    <g fill="#e6bb92">
       <circle cx="403" cy="124" r="21"/>
       <rect x="397" y="143" width="12" height="16" rx="5"/>
       <rect x="385" y="157" width="36" height="62" rx="15"/>
-      <path d="M 388 166 Q 380 188 383 204" stroke="#8f5f3d" stroke-width="11" stroke-linecap="round" fill="none"/>
-      <path d="M 418 166 Q 426 188 423 204" stroke="#8f5f3d" stroke-width="11" stroke-linecap="round" fill="none"/>
-      <path d="M 395 217 L 392 248" stroke="#8f5f3d" stroke-width="16" stroke-linecap="round" fill="none"/>
-      <path d="M 411 217 L 414 248" stroke="#8f5f3d" stroke-width="16" stroke-linecap="round" fill="none"/>
+      <path d="M 388 166 Q 380 188 383 204" stroke="#e6bb92" stroke-width="11" stroke-linecap="round" fill="none"/>
+      <path d="M 418 166 Q 426 188 423 204" stroke="#e6bb92" stroke-width="11" stroke-linecap="round" fill="none"/>
+      <path d="M 395 217 L 392 248" stroke="#e6bb92" stroke-width="16" stroke-linecap="round" fill="none"/>
+      <path d="M 411 217 L 414 248" stroke="#e6bb92" stroke-width="16" stroke-linecap="round" fill="none"/>
       <ellipse cx="390" cy="251" rx="10" ry="5"/>
       <ellipse cx="416" cy="251" rx="10" ry="5"/>
     </g>

@@ -1,44 +1,95 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-08-007-07-performance-elements desc-L-08-007-07-performance-elements">
   <title id="title-L-08-007-07-performance-elements">What to notice in a performance</title>
-  <desc id="desc-L-08-007-07-performance-elements">A simple human figure in a reaching pose, surrounded by four labeled callouts: movement and action, expression and energy, context, and purpose, the evidence used to critique a performance.</desc>
+  <desc id="desc-L-08-007-07-performance-elements">A performer caught mid-gesture on a low stage: one
+    arm swept up, one arm out, weight on one leg and the other leg extended. Four labelled boxes stand
+    around the figure, each joined to the performer by a thin leader line: movement and action (levels,
+    speed, space), expression and energy (face, force, feeling), context (where, when, tradition),
+    and purpose (what it means to say). A closing line reads: separate what you saw from what you felt
+    about it.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Noticing a Performance</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="22"
+        font-weight="bold" fill="#2b3a42">Noticing a Performance</text>
 
-  <!-- figure -->
-  <circle cx="256" cy="160" r="20" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <rect x="242" y="182" width="28" height="74" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M246 200 L206 250 L196 296" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
-  <path d="M266 200 L306 250 L316 296" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
-  <path d="M248 256 L210 320" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
-  <path d="M264 256 L302 320" fill="none" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
+  <!-- leaders, drawn under the artwork so each meets the silhouette edge -->
+  <g stroke="#4f6d7a" stroke-width="1.6" fill="none">
+    <path d="M150 117 L198 166"/>
+    <path d="M362 117 L271 153"/>
+    <path d="M150 369 L228 303"/>
+    <path d="M362 369 L292 303"/>
+  </g>
 
-  <!-- movement/action -->
-  <rect x="30" y="88" width="150" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="105" y="112" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Movement &amp; action</text>
-  <text x="105" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">levels, speed, space</text>
+  <!-- the stage -->
+  <line x1="198" y1="328" x2="314" y2="328" stroke="#d7d1c8" stroke-width="3"
+        stroke-linecap="round"/>
 
-  <!-- expression/energy -->
-  <rect x="332" y="88" width="150" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="407" y="112" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Expression &amp; energy</text>
-  <text x="407" y="130" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">face, force, feeling</text>
+  <!-- the performer -->
+  <g>
+    <!-- back leg, extended in a lunge -->
+    <path d="M 266 262 L 285 289 L 297 312" fill="none" stroke="#4f6d7a" stroke-width="13"
+          stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="301" cy="316" rx="10" ry="5" fill="#2b3a42"/>
+    <!-- front leg, taking the weight -->
+    <path d="M 246 262 L 232 291 L 225 314" fill="none" stroke="#4f6d7a" stroke-width="13"
+          stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="222" cy="319" rx="10" ry="5" fill="#2b3a42"/>
+    <!-- torso -->
+    <path d="M 234 204 Q 234 192 246 190 L 268 190 Q 280 192 280 204 L 280 254 Q 280 262
+             271 262 L 243 262 Q 234 262 234 254 Z" fill="#6b93b6" stroke="#2b3a42"
+          stroke-width="2" stroke-linejoin="round"/>
+    <!-- arm out to the side -->
+    <path d="M 276 206 L 296 216 L 306 206" fill="none" stroke="#c98d5f" stroke-width="11"
+          stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 306 200 q 8 -2 8 5 q 0 6 -7 5 z" fill="#c98d5f" stroke="#2b3a42"
+          stroke-width="1.6" stroke-linejoin="round"/>
+    <!-- arm swept up -->
+    <path d="M 238 208 Q 220 198 202 174" fill="none" stroke="#c98d5f" stroke-width="11"
+          stroke-linecap="round"/>
+    <path d="M 196 168 q -4 -8 3 -10 q 6 -2 8 5 q -1 8 -6 9 z" fill="#c98d5f"
+          stroke="#2b3a42" stroke-width="1.6" stroke-linejoin="round"/>
+    <!-- head -->
+    <circle cx="256" cy="168" r="22" fill="#c98d5f" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M 234 166 Q 234 144 256 144 Q 278 144 278 166 Q 268 154 256 154 Q 244 154 234 166 Z"
+          fill="#2b3a42"/>
+    <circle cx="248" cy="169" r="2.2" fill="#2b3a42"/>
+    <circle cx="264" cy="169" r="2.2" fill="#2b3a42"/>
+    <path d="M 249 179 Q 256 184 263 179" fill="none" stroke="#2b3a42" stroke-width="2"
+          stroke-linecap="round"/>
+  </g>
+
+  <!-- movement and action -->
+  <rect x="30" y="88" width="150" height="58" rx="8" fill="#ffffff" stroke="#2b3a42"
+        stroke-width="2"/>
+  <text x="105" y="112" text-anchor="middle" font-family="sans-serif" font-size="13.5"
+        font-weight="bold" fill="#222222">Movement &amp; action</text>
+  <text x="105" y="130" text-anchor="middle" font-family="sans-serif" font-size="12"
+        fill="#4f6d7a">levels, speed, space</text>
+
+  <!-- expression and energy -->
+  <rect x="332" y="88" width="150" height="58" rx="8" fill="#ffffff" stroke="#2b3a42"
+        stroke-width="2"/>
+  <text x="407" y="112" text-anchor="middle" font-family="sans-serif" font-size="13.5"
+        font-weight="bold" fill="#222222">Expression &amp; energy</text>
+  <text x="407" y="130" text-anchor="middle" font-family="sans-serif" font-size="12"
+        fill="#4f6d7a">face, force, feeling</text>
 
   <!-- context -->
-  <rect x="30" y="340" width="150" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="105" y="364" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Context</text>
-  <text x="105" y="382" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">where, when, what tradition</text>
+  <rect x="30" y="340" width="150" height="58" rx="8" fill="#ffffff" stroke="#2b3a42"
+        stroke-width="2"/>
+  <text x="105" y="364" text-anchor="middle" font-family="sans-serif" font-size="13.5"
+        font-weight="bold" fill="#222222">Context</text>
+  <text x="105" y="382" text-anchor="middle" font-family="sans-serif" font-size="12"
+        fill="#4f6d7a">where, when, tradition</text>
 
   <!-- purpose -->
-  <rect x="332" y="340" width="150" height="58" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="407" y="364" text-anchor="middle" font-family="sans-serif" font-size="13.5" font-weight="bold" fill="#222222">Purpose</text>
-  <text x="407" y="382" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">what it means to say</text>
+  <rect x="332" y="340" width="150" height="58" rx="8" fill="#ffffff" stroke="#2b3a42"
+        stroke-width="2"/>
+  <text x="407" y="364" text-anchor="middle" font-family="sans-serif" font-size="13.5"
+        font-weight="bold" fill="#222222">Purpose</text>
+  <text x="407" y="382" text-anchor="middle" font-family="sans-serif" font-size="12"
+        fill="#4f6d7a">what it means to say</text>
 
-  <!-- callout lines -->
-  <path d="M150 117 L226 156" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
-  <path d="M362 117 L286 156" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
-  <path d="M150 369 L232 300" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
-  <path d="M362 369 L280 300" fill="none" stroke="#4f6d7a" stroke-width="1.5"/>
-
-  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Separate what you saw from what you felt about it</text>
+  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="13"
+        fill="#4f6d7a">Separate what you saw from what you felt about it</text>
 </svg>

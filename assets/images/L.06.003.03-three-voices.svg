@@ -1,58 +1,151 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
   <title id="t">Three communication voices</title>
-  <desc id="d">Three figures in a row. The left figure is hunched and silent, labeled passive, with a thought bubble reading "whatever you want." The middle figure points sharply and shouts, labeled aggressive, with a speech bubble reading "do it my way or else." The right figure stands upright and calm, labeled assertive, with a speech bubble reading "I need quiet to finish — can we talk after?" A check mark marks the assertive figure.</desc>
+  <desc id="d">Three people stand in a row, each in a different posture, each with their own words in a
+    bubble beneath them. On the left, a person with shoulders pulled up and hands clasped low stands
+    looking down: passive, thinking “whatever you want”. In the middle, a person leans in with feet
+    planted wide, one hand on the hip and the other arm thrust out pointing: aggressive, saying “do it
+    my way or else!”. On the right, a person stands upright and level, one open palm raised and the
+    other hand calm at the side: assertive, saying “I need quiet to finish — can we talk after?”. A
+    check mark beside the label marks the assertive voice.</desc>
+
   <rect width="512" height="512" fill="#fdfbf7"/>
-  <!-- passive figure -->
-  <g>
-    <text x="90" y="60" font-family="sans-serif" font-size="20" fill="#222222" text-anchor="middle" font-weight="bold">passive</text>
-    <circle cx="90" cy="120" r="16" fill="#f2c9a0"/>
-    <path d="M74 118 C 80 106, 100 106, 106 118 Z" fill="#2b3a42"/>
-    <rect x="76" y="136" width="28" height="40" rx="9" fill="#7a9e7e"/>
-    <path d="M78 146 L 60 170" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
-    <path d="M102 146 L 120 170" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
-    <path d="M84 176 L 80 204" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
-    <path d="M96 176 L 100 204" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
-    <!-- shoulders hunched -->
-    <path d="M60 150 C 70 138, 110 138, 120 150" fill="none" stroke="#2b3a42" stroke-width="3" stroke-dasharray="4 3"/>
-    <!-- thought bubble -->
-    <ellipse cx="88" cy="260" rx="70" ry="26" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
-    <text x="88" y="265" font-family="sans-serif" font-size="12" fill="#222222" text-anchor="middle">"whatever you want"</text>
-  </g>
-  <!-- aggressive figure -->
-  <g>
-    <text x="256" y="60" font-family="sans-serif" font-size="20" fill="#222222" text-anchor="middle" font-weight="bold">aggressive</text>
-    <circle cx="256" cy="120" r="16" fill="#d9a066"/>
-    <path d="M240 118 C 246 106, 266 106, 272 118 Z" fill="#2b3a42"/>
-    <rect x="242" y="136" width="28" height="40" rx="9" fill="#e0a458"/>
-    <path d="M244 146 L 210 160" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
-    <path d="M268 146 L 300 156" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
-    <path d="M250 176 L 246 204" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
-    <path d="M262 176 L 266 204" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
-    <!-- pointing arm -->
-    <path d="M268 150 L 312 120" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
-    <path d="M312 120 L 320 112" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
-    <!-- speech bubble -->
-    <rect x="196" y="250" width="120" height="46" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
-    <path d="M228 296 L 220 314 L 246 296 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
-    <text x="256" y="277" font-family="sans-serif" font-size="12" fill="#222222" text-anchor="middle">"do it my way</text>
-    <text x="256" y="291" font-family="sans-serif" font-size="12" fill="#222222" text-anchor="middle">or else!"</text>
-  </g>
-  <!-- assertive figure -->
-  <g>
-    <text x="424" y="60" font-family="sans-serif" font-size="20" fill="#222222" text-anchor="middle" font-weight="bold">assertive ✓</text>
-    <circle cx="424" cy="120" r="16" fill="#a9714b"/>
-    <rect x="410" y="136" width="28" height="40" rx="9" fill="#6b93b6"/>
-    <path d="M412 146 L 398 168" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
-    <path d="M436 146 L 450 168" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
-    <path d="M418 176 L 414 204" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
-    <path d="M430 176 L 434 204" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
-    <!-- calm upright posture line -->
-    <path d="M396 160 L 452 160" stroke="#7a9e7e" stroke-width="3" stroke-dasharray="4 3"/>
-    <!-- speech bubble -->
-    <rect x="356" y="250" width="140" height="60" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
-    <path d="M396 310 L 388 328 L 414 310 Z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
-    <text x="426" y="274" font-family="sans-serif" font-size="12" fill="#222222" text-anchor="middle">"I need quiet to</text>
-    <text x="426" y="288" font-family="sans-serif" font-size="12" fill="#222222" text-anchor="middle">finish — can we</text>
-    <text x="426" y="302" font-family="sans-serif" font-size="12" fill="#222222" text-anchor="middle">talk after?"</text>
+
+  <g transform="translate(0,14)">
+
+    <!-- ============ passive ============ -->
+    <text x="96" y="52" text-anchor="middle" font-family="sans-serif" font-size="20"
+          font-weight="bold" fill="#2b3a42">passive</text>
+
+    <g>
+      <!-- legs, close together -->
+      <path d="M90 232 L87 280" fill="none" stroke="#4f6d7a" stroke-width="15"
+            stroke-linecap="round"/>
+      <path d="M102 232 L105 280" fill="none" stroke="#4f6d7a" stroke-width="15"
+            stroke-linecap="round"/>
+      <ellipse cx="84" cy="286" rx="13" ry="7" fill="#2b3a42"/>
+      <ellipse cx="108" cy="286" rx="13" ry="7" fill="#2b3a42"/>
+      <!-- torso: shoulders pulled up around the ears -->
+      <path d="M74 172 Q74 150 88 146 L104 146 Q118 150 118 172 L116 226 Q116 236 105 236
+               L87 236 Q76 236 76 226 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"
+            stroke-linejoin="round"/>
+      <!-- arms in front of the body, hands clasped low -->
+      <path d="M79 170 Q68 196 84 208" fill="none" stroke="#e6bb92" stroke-width="12"
+            stroke-linecap="round"/>
+      <path d="M113 170 Q124 196 108 208" fill="none" stroke="#e6bb92" stroke-width="12"
+            stroke-linecap="round"/>
+      <ellipse cx="96" cy="211" rx="12" ry="9.5" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M90 207 q4 5 2 9 M100 207 q-4 5 -2 9" fill="none" stroke="#2b3a42"
+            stroke-width="1.5" stroke-linecap="round"/>
+      <!-- head, sitting low between the shoulders -->
+      <circle cx="96" cy="128" r="20" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M76 126 Q76 105 96 105 Q116 105 116 126 Q105 113 96 113 Q87 113 76 126 Z"
+            fill="#2b3a42"/>
+      <circle cx="89" cy="133" r="2.2" fill="#2b3a42"/>
+      <circle cx="103" cy="133" r="2.2" fill="#2b3a42"/>
+      <path d="M89 143 q7 4 14 0" fill="none" stroke="#2b3a42" stroke-width="2"
+            stroke-linecap="round"/>
+    </g>
+
+    <!-- thought bubble, trailing up toward the person -->
+    <ellipse cx="102" cy="306" rx="4.5" ry="4" fill="#fdfbf7" stroke="#2b3a42" stroke-width="1.8"/>
+    <ellipse cx="95" cy="320" rx="7" ry="6" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="97" cy="360" rx="86" ry="29" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2.5"/>
+    <text x="97" y="365" text-anchor="middle" font-family="sans-serif" font-size="14"
+          fill="#222222">“whatever you want”</text>
+
+    <!-- ============ aggressive ============ -->
+    <text x="256" y="52" text-anchor="middle" font-family="sans-serif" font-size="20"
+          font-weight="bold" fill="#2b3a42">aggressive</text>
+
+    <g>
+      <!-- legs planted wide -->
+      <path d="M242 232 L224 280" fill="none" stroke="#4f6d7a" stroke-width="15"
+            stroke-linecap="round"/>
+      <path d="M270 232 L288 280" fill="none" stroke="#4f6d7a" stroke-width="15"
+            stroke-linecap="round"/>
+      <ellipse cx="218" cy="286" rx="13" ry="7" fill="#2b3a42"/>
+      <ellipse cx="294" cy="286" rx="13" ry="7" fill="#2b3a42"/>
+      <!-- torso, broad and square -->
+      <path d="M228 172 Q228 152 242 150 L270 150 Q284 152 284 172 L288 224 Q288 236 276 236
+               L236 236 Q224 236 224 224 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"
+            stroke-linejoin="round"/>
+      <!-- near arm, hand on the hip: elbow out -->
+      <path d="M234 176 L208 204 L238 208" fill="none" stroke="#8f5f3d"
+            stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+      <!-- far arm thrust out, pointing -->
+      <path d="M282 182 L318 196" fill="none" stroke="#8f5f3d" stroke-width="12"
+            stroke-linecap="round"/>
+      <ellipse cx="325" cy="199" rx="8" ry="7" fill="#8f5f3d" stroke="#2b3a42" stroke-width="1.8"/>
+      <path d="M331 197 L343 199" fill="none" stroke="#8f5f3d" stroke-width="6"
+            stroke-linecap="round"/>
+      <!-- head, thrust forward -->
+      <circle cx="258" cy="126" r="22" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M236 124 Q236 102 258 102 Q280 102 280 124 Q269 111 258 111 Q247 111 236 124 Z"
+            fill="#2b3a42"/>
+      <circle cx="250" cy="126" r="2.4" fill="#2b3a42"/>
+      <circle cx="266" cy="126" r="2.4" fill="#2b3a42"/>
+      <path d="M244 117 L254 122 M272 117 L262 122" fill="none" stroke="#2b3a42"
+            stroke-width="2.6" stroke-linecap="round"/>
+      <ellipse cx="258" cy="139" rx="7" ry="5" fill="#2b3a42"/>
+    </g>
+
+    <!-- speech bubble for the shouting voice -->
+    <rect x="188" y="330" width="136" height="72" rx="11" fill="#fdfbf7" stroke="#2b3a42"
+          stroke-width="2.5"/>
+    <path d="M238 332 L256 302 L274 332 Z" fill="#fdfbf7"/>
+    <path d="M238 331 L256 302 M274 331 L256 302" fill="none" stroke="#2b3a42" stroke-width="2.5"
+          stroke-linecap="round"/>
+    <text x="256" y="357" text-anchor="middle" font-family="sans-serif" font-size="14"
+          fill="#222222">“do it my way</text>
+    <text x="256" y="377" text-anchor="middle" font-family="sans-serif" font-size="14"
+          fill="#222222">or else!”</text>
+
+    <!-- ============ assertive ============ -->
+    <text x="418" y="52" text-anchor="middle" font-family="sans-serif" font-size="20"
+          font-weight="bold" fill="#2b3a42">assertive ✓</text>
+
+    <g>
+      <!-- legs, planted evenly -->
+      <path d="M409 232 L406 280" fill="none" stroke="#4f6d7a" stroke-width="15"
+            stroke-linecap="round"/>
+      <path d="M427 232 L430 280" fill="none" stroke="#4f6d7a" stroke-width="15"
+            stroke-linecap="round"/>
+      <ellipse cx="403" cy="286" rx="13" ry="7" fill="#2b3a42"/>
+      <ellipse cx="433" cy="286" rx="13" ry="7" fill="#2b3a42"/>
+      <!-- torso, shoulders level -->
+      <path d="M394 170 Q394 154 406 152 L430 152 Q442 154 442 170 L444 226 Q444 234 433 234
+               L403 234 Q392 234 392 226 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"
+            stroke-linejoin="round"/>
+      <!-- far arm, relaxed at the side -->
+      <path d="M441 176 Q452 204 449 222" fill="none" stroke="#a9714b" stroke-width="12"
+            stroke-linecap="round"/>
+      <!-- near arm bent up in front of the body, open palm out: the calm, clear gesture -->
+      <path d="M398 178 Q376 196 374 178" fill="none" stroke="#a9714b" stroke-width="12"
+            stroke-linecap="round"/>
+      <path d="M366 180 q -9 -3 -11 -11 q -2 -8 5 -8 q 7 0 9 7 q -7 -16 1 -18 q 7 -2 9 9
+               q -3 -17 5 -17 q 8 0 8 15 q 0 16 -12 23 z" fill="#a9714b" stroke="#2b3a42"
+            stroke-width="2" stroke-linejoin="round"/>
+      <!-- head, level -->
+      <circle cx="418" cy="128" r="20" fill="#a9714b" stroke="#2b3a42" stroke-width="2"/>
+      <path d="M398 126 Q398 105 418 105 Q438 105 438 126 Q427 113 418 113 Q409 113 398 126 Z"
+            fill="#2b3a42"/>
+      <circle cx="411" cy="129" r="2.2" fill="#2b3a42"/>
+      <circle cx="425" cy="129" r="2.2" fill="#2b3a42"/>
+      <path d="M411 140 Q418 145 425 140" fill="none" stroke="#2b3a42" stroke-width="2"
+            stroke-linecap="round"/>
+    </g>
+
+    <!-- speech bubble below the assertive figure, tail up to the speaker -->
+    <rect x="350" y="330" width="146" height="86" rx="11" fill="#fdfbf7" stroke="#2b3a42"
+          stroke-width="2.5"/>
+    <path d="M404 332 L420 304 L436 332 Z" fill="#fdfbf7"/>
+    <path d="M404 331 L420 304 M436 331 L420 304" fill="none" stroke="#2b3a42" stroke-width="2.5"
+          stroke-linecap="round"/>
+    <text x="423" y="358" text-anchor="middle" font-family="sans-serif" font-size="14"
+          fill="#222222">“I need quiet to</text>
+    <text x="423" y="378" text-anchor="middle" font-family="sans-serif" font-size="14"
+          fill="#222222">finish — can we</text>
+    <text x="423" y="398" text-anchor="middle" font-family="sans-serif" font-size="14"
+          fill="#222222">talk after?”</text>
   </g>
 </svg>

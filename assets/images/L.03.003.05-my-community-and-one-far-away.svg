@@ -36,7 +36,7 @@
   <circle cx="186" cy="270" r="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="206" cy="270" r="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
 
-  <text x="133" y="306" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">fish · boat · water from the river</text>
+  <text x="133" y="322" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">fish · boat · water from the river</text>
 
   <!-- Right: mountain town -->
   <rect x="266" y="64" width="226" height="240" rx="12" fill="#ffffff" stroke="#4f6d7a" stroke-width="2"/>
@@ -67,16 +67,16 @@
   <ellipse cx="452" cy="262" rx="14" ry="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="440" cy="256" r="5" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
 
-  <text x="379" y="290" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">grain · path · firewood from the forest</text>
+  <text x="379" y="322" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">grain · path · firewood from the forest</text>
 
   <!-- Comparison chart -->
-  <rect x="20" y="320" width="472" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Alike and Different — different, not better or worse</text>
-  <text x="138" y="368" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#436b47">ALIKE</text>
-  <text x="374" y="368" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">DIFFERENT</text>
-  <text x="138" y="390" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">both need food, water, shelter,</text>
-  <text x="138" y="406" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">care, and play</text>
-  <text x="374" y="390" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">river vs. mountain · boat vs. path</text>
-  <text x="374" y="406" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">fish vs. grain</text>
-  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">every community meets the same needs — in its own way</text>
+  <rect x="20" y="336" width="472" height="120" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Alike and Different — different, not better or worse</text>
+  <text x="138" y="384" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#436b47">ALIKE</text>
+  <text x="374" y="384" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#4f6d7a">DIFFERENT</text>
+  <text x="138" y="406" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">both need food, water, shelter,</text>
+  <text x="138" y="422" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">care, and play</text>
+  <text x="374" y="406" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">river vs. mountain · boat vs. path</text>
+  <text x="374" y="422" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">fish vs. grain</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">every community meets the same needs — in its own way</text>
 </svg>
