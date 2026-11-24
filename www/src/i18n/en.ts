@@ -807,8 +807,9 @@ const en: UI = {
         'Every file matches the published schema.',
         'Every lesson names learning goals that resolve to a real standard.',
         'Every lesson has the required sections and a complete structure.',
-        'Every illustration and asset a lesson references exists in the repository.',
-        'Every source a lesson cites is registered in the source registry.',
+        'Every illustration and asset a lesson references exists in the repository, and renders inside its own canvas — no clipped text, no shrunken type, no label pointing at nothing.',
+        'Every source a lesson cites is registered in the source registry, and listed in that same lesson\u2019s own Resources.',
+        'Every facilitator note fits a teacher\u2019s twenty seconds: a fixed shape, labelled blocks, and a length budget.',
       ],
       notCheckedTitle: 'What is not checked yet',
       notChecked: [
