@@ -59,9 +59,17 @@ See [`docs/architecture.md`](docs/architecture.md) and
 ```bash
 npm install            # installs the validator + loop tooling only
 npm run validate       # validate all curriculum/agents content against the schema
+npm run audit          # usability audit: note length, unreadable graphics
 npm run loop:report    # see curriculum-building progress
 npm run loop:next      # see the next backlog item to work
 ```
+
+`npm run audit` is the second half of quality control. `validate` proves a file is
+well-formed; `audit` proves it is *usable* — the facilitator note fits in a
+teacher's twenty seconds, and every graphic renders inside its own canvas with its
+labels attached to what they label. It reports `must-fix` findings and `look`
+candidates separately; `npm run audit -- --all` lists everything, and
+`npm run audit -- --grade 08` scopes it to one grade.
 
 No runtime app is required to author or validate curriculum. Content is plain
 Markdown + YAML frontmatter.

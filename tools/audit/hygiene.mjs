@@ -94,6 +94,11 @@ function auditLesson(file) {
   const name = rel(file);
   const count = words(note);
 
+  if (count < 35) {
+    flag('lesson-note', name, 'note-thin',
+      `${count} words — a note this short usually lost its substance`, 'look');
+  }
+
   if (count > NOTE_MAX_WORDS) {
     flag('lesson-note', name, 'note-too-long',
       `${count} words (limit ${NOTE_MAX_WORDS})`,
