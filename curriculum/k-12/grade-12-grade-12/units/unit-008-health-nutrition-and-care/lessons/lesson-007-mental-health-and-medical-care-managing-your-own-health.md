@@ -119,26 +119,27 @@ weakness — it is exactly what managing your own health looks like.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **managing your own health
-includes your mind — noticing when you need support, knowing where to turn, and advocating for
-yourself in care — and asking for help is a strength, never a weakness.** Teach one filled-in
-side as a worked example, then let learners build their own plan (S-011). This is
-emotionally sensitive content: keep it calm, normalizing, and non-alarming; never require a
-learner to disclose; frame help-seeking as ordinary. If a learner shows signs of distress,
-follow your local safeguarding path quietly and promptly (S-051).
+The idea to land: **managing your own health includes your mind — noticing when you need
+support, knowing where to turn, and advocating for yourself in care — and asking for
+help is a strength, never a weakness.** Teach one filled-in side as a worked example,
+then let learners build their own plan (S-011). This is emotionally sensitive content:
+keep it calm, normalizing, and non-alarming; never require a learner to disclose; frame
+help-seeking as ordinary. If a learner shows signs of distress, follow your local
+safeguarding path quietly and promptly (S-051).
 
-The **ethics** lens: a person's mind deserves the same care and respect as their body, and a
-person in distress deserves belief and support, never judgment. The **egalitarianism** lens:
-mental-health care is not equally available — cost, stigma, and location gate it — and
-recognizing that inequality is part of advocating for yourself and others. The **global**
-lens: cultures understand and speak of mental health in different ways, and no culture has a
-monopoly on wellbeing; the WHO frames adolescence as a formative time for building the habits
-of mental wellbeing (S-311). The **technology** lens: digital media can both lift (connection,
-learning) and weigh down (comparison, disrupted sleep) — and digital tools can also connect a
-person to help, but never replace a trusted human (S-311). The **environment** lens: a safe,
-quiet, green place is itself a support for mental health — environment is part of care. Note
-on body image: worth is never measured in size or shape; body positivity means appreciating
-what a body *does*, not how it *looks* (S-407, S-411). Preview: Lesson 8 weaves everything
+The **ethics** lens: a person's mind deserves the same care and respect as their body,
+and a person in distress deserves belief and support, never judgment. The
+**egalitarianism** lens: mental-health care is not equally available — cost, stigma, and
+location gate it — and recognizing that inequality is part of advocating for yourself
+and others. The **global** lens: cultures understand and speak of mental health in
+different ways, and no culture has a monopoly on wellbeing; the WHO frames adolescence
+as a formative time for building the habits of mental wellbeing (S-311). The
+**technology** lens: digital media can both lift (connection, learning) and weigh down
+(comparison, disrupted sleep) — and digital tools can also connect a person to help, but
+never replace a trusted human (S-311). The **environment** lens: a safe, quiet, green
+place is itself a support for mental health — environment is part of care. Note on body
+image: worth is never measured in size or shape; body positivity means appreciating what
+a body *does*, not how it *looks* (S-407, S-411). Preview: Lesson 8 weaves everything
 into one lifelong plan.
 
 ## Procedure

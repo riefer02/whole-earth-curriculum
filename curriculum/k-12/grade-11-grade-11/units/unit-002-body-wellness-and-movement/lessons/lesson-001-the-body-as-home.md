@@ -113,19 +113,18 @@ one home you never leave.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Your job is to build a container of
-**dignity and joy** that will hold three weeks of body work. Land these commitments
-now and return to them every day: (1) **no shame about any body** — no weight talk, no
-ranking bodies, no able-bodied default; (2) **every body is a real body** — disability,
-illness, and difference are ordinary, not "special cases"; (3) **everyone owns their
-own story** — learners may pass, be silent, or write privately at any time; and (4)
-**practices are invitations, not tests.**
+Your job is to build a container of **dignity and joy** that will hold three weeks of
+body work. Land these commitments now and return to them every day: (1) **no shame about
+any body** — no weight talk, no ranking bodies, no able-bodied default; (2) **every body
+is a real body** — disability, illness, and difference are ordinary, not "special
+cases"; (3) **everyone owns their own story** — learners may pass, be silent, or write
+privately at any time; and (4) **practices are invitations, not tests.**
 
 **Inclusion is non-negotiable.** Model "noticing without judging" by naming your *own*
-state ("my shoulders are tense today") rather than pointing at learners'. Never
-require a learner to name a diagnosis, disclose illness, or demonstrate a movement
-that is not safe for them. If a learner's sharing suggests distress or need, follow
-your setting's care procedure and connect them with a trusted adult or service.
+state ("my shoulders are tense today") rather than pointing at learners'. Never require
+a learner to name a diagnosis, disclose illness, or demonstrate a movement that is not
+safe for them. If a learner's sharing suggests distress or need, follow your setting's
+care procedure and connect them with a trusted adult or service.
 
 The **ethics** lens: treating every body with dignity is the *right* way to begin. The
 **egalitarian** lens: these agreements protect everyone equally. The **global** lens:

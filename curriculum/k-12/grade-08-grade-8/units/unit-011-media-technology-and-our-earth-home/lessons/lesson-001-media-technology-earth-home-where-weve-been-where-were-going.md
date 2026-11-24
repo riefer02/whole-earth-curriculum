@@ -113,19 +113,21 @@ together on a shared home. Today we remember what we already know and see where 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **opening and retrieval pass**, so the
-goals are modest: **(1) recall three Grade-7 ideas — a trustworthy source is one we can trace and check;
-misinformation is false by mistake, disinformation is false on purpose; and greenhouse gases trapping
-heat is the basic science of climate change; (2) preview the unit's four strands — Technology & Society,
-Media & Information Literacy, Ecology & Environmental Systems, and Sustainability & Stewardship — and its
-eight goals; (3) plant the organizing idea: media is read critically, technology is weighed for who it
-helps and harms, and the Earth is our shared home to steward.** Do not teach the eight goals today; just
-name and locate them. The four lenses run through every lesson: the **ethics** lens asks what is right and
-who is affected; the **egalitarian** lens asks who benefits and who is left out; the **global** lens asks
-how this looks in other places and times; and the **technology & environment** lens — this unit's core —
-asks what tools and media do to humanity and the Earth (philosophy §4). Keep claims precise and cited;
-hold values open as values, not facts (philosophy §5, §11). Spacing note (S-039): this recall pass is
-what makes the unit's ideas stick later.
+It is the unit's **opening and retrieval pass**, so the goals are modest: **(1) recall
+three Grade-7 ideas — a trustworthy source is one we can trace and check; misinformation
+is false by mistake, disinformation is false on purpose; and greenhouse gases trapping
+heat is the basic science of climate change; (2) preview the unit's four strands —
+Technology & Society, Media & Information Literacy, Ecology & Environmental Systems, and
+Sustainability & Stewardship — and its eight goals; (3) plant the organizing idea: media
+is read critically, technology is weighed for who it helps and harms, and the Earth is
+our shared home to steward.** Do not teach the eight goals today; just name and locate
+them. The four lenses run through every lesson: the **ethics** lens asks what is right
+and who is affected; the **egalitarian** lens asks who benefits and who is left out; the
+**global** lens asks how this looks in other places and times; and the **technology &
+environment** lens — this unit's core — asks what tools and media do to humanity and the
+Earth (philosophy §4). Keep claims precise and cited; hold values open as values, not
+facts (philosophy §5, §11). Spacing note (S-039): this recall pass is what makes the
+unit's ideas stick later.
 
 ## Procedure
 

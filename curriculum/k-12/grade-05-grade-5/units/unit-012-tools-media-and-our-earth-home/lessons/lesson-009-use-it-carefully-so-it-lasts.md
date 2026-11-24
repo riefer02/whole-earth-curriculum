@@ -119,16 +119,16 @@ generation. Today you name the choice you can make in your own life.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is the **"use less than comes
-back" rule** and its fairness reason: careful use is fair to people today and to future people.
-Model the water example fully as a worked example, then have learners choose their own
-resource and their own-life example. This builds on Grade 3 (renewable vs. non-renewable
-resources) and on this unit's cycle and stewardship lessons. Distinguish evidence from values:
-*that resources can be used up or wasted* is observable; *that we ought to use them fairly,
-across today and tomorrow* is a value we hold. Honor that careful use looks different in
-different lives — a learner without a tap cannot "turn off the tap," so keep examples broad
-(water, food, paper, fuel, electricity) and let each learner pick what fits their life. See
-`docs/facilitation.md`.
+The idea to land is the **"use less than comes back" rule** and its fairness reason:
+careful use is fair to people today and to future people. Model the water example fully
+as a worked example, then have learners choose their own resource and their own-life
+example. This builds on Grade 3 (renewable vs. non-renewable resources) and on this
+unit's cycle and stewardship lessons. Distinguish evidence from values: *that resources
+can be used up or wasted* is observable; *that we ought to use them fairly, across today
+and tomorrow* is a value we hold. Honor that careful use looks different in different
+lives — a learner without a tap cannot "turn off the tap," so keep examples broad
+(water, food, paper, fuel, electricity) and let each learner pick what fits their life.
+See `docs/facilitation.md`.
 
 ## Procedure
 

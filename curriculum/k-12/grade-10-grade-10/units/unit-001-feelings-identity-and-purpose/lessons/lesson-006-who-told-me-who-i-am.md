@@ -116,14 +116,14 @@ seeing which parts were written by other hands.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **identity is socially
-and historically constructed — built in relation to the groups, messages, and histories
-around us, not simply found fully formed inside us.** The scientific anchor is social
-identity theory and the minimal-group experiments: even arbitrary, content-free group
-assignment can trigger in-group favoritism (S-232). Present that as a *descriptive*
-finding about human group behavior, not a verdict on any person, and never as an excuse
-for exclusion — the lesson's "open the circle" values are a *commitment*, not a claim
-from the research (philosophy §4, §11).
+The idea to land: **identity is socially and historically constructed — built in
+relation to the groups, messages, and histories around us, not simply found fully formed
+inside us.** The scientific anchor is social identity theory and the minimal-group
+experiments: even arbitrary, content-free group assignment can trigger in-group
+favoritism (S-232). Present that as a *descriptive* finding about human group behavior,
+not a verdict on any person, and never as an excuse for exclusion — the lesson's "open
+the circle" values are a *commitment*, not a claim from the research (philosophy §4,
+§11).
 
 Model the skill once, then let learners practice (S-011). The **global** lens: how a
 culture names its members — by clan, caste, craft, faith, language, birth order, or

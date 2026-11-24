@@ -121,7 +121,7 @@ tell a **trusted adult**. Today you will learn your rights and practice using th
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Read this note fully before teaching.**
+**Read this note fully before teaching.**
 
 - Keep the tone calm, matter-of-fact, and empowering. This is about a child's rights and
   safety, never about frightening them and never about shame.

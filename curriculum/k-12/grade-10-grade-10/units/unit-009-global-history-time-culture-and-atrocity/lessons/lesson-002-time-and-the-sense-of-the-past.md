@@ -110,24 +110,23 @@ shapes.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the shape a people
-gives to time — a returning cycle that keeps ancestors near, or a forward line from a
-fixed beginning — shapes what its history remembers, and both shapes are real, living
-ways of holding the past.** Model the contrast with two worked examples before
-independent work (S-011).
+The idea to land: **the shape a people gives to time — a returning cycle that keeps
+ancestors near, or a forward line from a fixed beginning — shapes what its history
+remembers, and both shapes are real, living ways of holding the past.** Model the
+contrast with two worked examples before independent work (S-011).
 
 The **global** lens: many Indigenous peoples hold time as cycles that carry ancestors
 and land forward together (a living, recurring relationship rather than a finished
 line); Chinese dynastic historiography recorded time as repeating dynastic cycles
-rise-and-fall while keeping continuous written annals; the Islamic Hijri calendar
-marks a community's shared era from the Hijra (622 CE); a linear "era" that counts
-forward from one founding moment is itself a choice, not a universal (S-315, S-378).
-The **technology** lens: writing changes memory — an oral tradition lives by
-re-telling and shifts with each teller, while a written annal fixes one version and
-can be kept for centuries, each with its own losses and gains. The **ethics** lens:
-whose record was written down and kept, and whose was carried in speech and often
-ignored, is a question of power. The **critical-thinking** lens: neither shape is
-"better"; each preserves something and lets something else fade — hold both.
+rise-and-fall while keeping continuous written annals; the Islamic Hijri calendar marks
+a community's shared era from the Hijra (622 CE); a linear "era" that counts forward
+from one founding moment is itself a choice, not a universal (S-315, S-378). The
+**technology** lens: writing changes memory — an oral tradition lives by re-telling and
+shifts with each teller, while a written annal fixes one version and can be kept for
+centuries, each with its own losses and gains. The **ethics** lens: whose record was
+written down and kept, and whose was carried in speech and often ignored, is a question
+of power. The **critical-thinking** lens: neither shape is "better"; each preserves
+something and lets something else fade — hold both.
 
 ## Procedure
 

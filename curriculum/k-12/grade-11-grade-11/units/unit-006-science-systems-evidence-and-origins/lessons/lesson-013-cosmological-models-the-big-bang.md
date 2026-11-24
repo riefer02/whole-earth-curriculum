@@ -117,23 +117,22 @@ model from a certainty is the whole skill of this lesson.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **the Big Bang is a
-cosmological model in which the universe began hot and dense and has expanded since;
-its main evidence is (1) the expansion read from the redshift of receding galaxies,
-(2) the cosmic microwave background — the oldest observable light, and (3) the first
-atoms forming as the early universe cooled (S-018).** The crucial stance: this is a
-**model** — the best-evidenced account we have, always open to revision — not a
-revealed certainty (philosophy §11). Present it as "scientists tell
-this story because…", never as "this is the truth." Teach each line of evidence with a
-worked example (S-011).
+The ideas to land: **the Big Bang is a cosmological model in which the universe began
+hot and dense and has expanded since; its main evidence is (1) the expansion read from
+the redshift of receding galaxies, (2) the cosmic microwave background — the oldest
+observable light, and (3) the first atoms forming as the early universe cooled
+(S-018).** The crucial stance: this is a **model** — the best-evidenced account we have,
+always open to revision — not a revealed certainty (philosophy §11). Present it as
+"scientists tell this story because…", never as "this is the truth." Teach each line of
+evidence with a worked example (S-011).
 
-The **intellectual** lens: a model earns its place by *predicting* what we then
-observe, not by authority. The **critical-thinking** lens: learners ask of each line
-"what does this show, and what does it not show?" The **global** lens: the universe
-belongs to everyone; its story is told by observatories and traditions across the
-world. The **ethics** lens: honesty about what we know and what we do not is an
-intellectual virtue — overclaiming is a form of dishonesty. Preview: Lesson 14 places
-the Big Bang beside *other* cosmological models and weighs them all as models.
+The **intellectual** lens: a model earns its place by *predicting* what we then observe,
+not by authority. The **critical-thinking** lens: learners ask of each line "what does
+this show, and what does it not show?" The **global** lens: the universe belongs to
+everyone; its story is told by observatories and traditions across the world. The
+**ethics** lens: honesty about what we know and what we do not is an intellectual
+virtue — overclaiming is a form of dishonesty. Preview: Lesson 14 places the Big Bang
+beside *other* cosmological models and weighs them all as models.
 
 ## Procedure
 

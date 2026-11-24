@@ -121,23 +121,25 @@ can see how the pieces connect into one living picture of the world. Today you b
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the **closing capstone and synthesis**. The
-goal: **each learner recalls all eight goals and connects them into one web around systems, evidence,
-and models.** The eight goals are: (1) design a controlled experiment — hypothesis, variables,
-controls, repeated trials; (2) revise models when evidence appears — miasma → germ theory, and
-continental drift → plate tectonics; (3) genes + environment shape inheritance and expression; (4)
-one population ripples through an ecosystem, reducing or restoring balance; (5) atoms, elements,
-compounds, and reactions rearrange matter; (6) electric and magnetic fields produce forces and
-currents; (7) stars forge the elements and we live in the Milky Way; (8) plate tectonics shapes
-continents, mountains, and ocean basins. This is a **retrieval and spacing** moment — having
-learners recall rather than re-read is what makes the learning durable (S-039). Keep assessment
-**mastery, not ranking**: a learner who cannot yet recall a goal simply revisits that lesson's
-artifact and tries again — "not yet" is information, never a verdict. The four lenses, together: the
-**critical-thinking** lens asks what evidence supports each claim; the **ethics** lens asks what is
-right and who is affected; the **egalitarian** lens asks who benefits and who is left out;
-the **global** lens asks how this looks in other places and times; the **environment** lens asks
-what this means for the living Earth. Origins remain held as models with evidence, never creed
-(philosophy §11). Celebrate the collective: each learner's map is a thread in one class web.
+It is the **closing capstone and synthesis**. The goal: **each learner recalls all eight
+goals and connects them into one web around systems, evidence, and models.** The eight
+goals are: (1) design a controlled experiment — hypothesis, variables, controls,
+repeated trials; (2) revise models when evidence appears — miasma → germ theory, and
+continental drift → plate tectonics; (3) genes + environment shape inheritance and
+expression; (4) one population ripples through an ecosystem, reducing or restoring
+balance; (5) atoms, elements, compounds, and reactions rearrange matter; (6) electric
+and magnetic fields produce forces and currents; (7) stars forge the elements and we
+live in the Milky Way; (8) plate tectonics shapes continents, mountains, and ocean
+basins. This is a **retrieval and spacing** moment — having learners recall rather than
+re-read is what makes the learning durable (S-039). Keep assessment **mastery, not
+ranking**: a learner who cannot yet recall a goal simply revisits that lesson's artifact
+and tries again — "not yet" is information, never a verdict. The four lenses, together:
+the **critical-thinking** lens asks what evidence supports each claim; the **ethics**
+lens asks what is right and who is affected; the **egalitarian** lens asks who benefits
+and who is left out; the **global** lens asks how this looks in other places and times;
+the **environment** lens asks what this means for the living Earth. Origins remain held
+as models with evidence, never creed (philosophy §11). Celebrate the collective: each
+learner's map is a thread in one class web.
 
 ## Procedure
 

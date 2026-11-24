@@ -133,26 +133,26 @@ deciding what of it you will carry.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: the capstone is a
-**spaced-retrieval synthesis** — recalling the unit's ideas at once, which is
-evidence-supported for durable learning (Dunlosky et al., S-039) — and a **portfolio**
-that makes the learning visible to the learner. It is summative in the sense of *showing*
-mastery, never of *ranking*: a gap in the portfolio is information ("not yet assembled"),
-not a verdict. Honor home languages first: the reflection may be written in whichever
-language the learner thinks and feels in most clearly.
+The idea to land: the capstone is a **spaced-retrieval synthesis** — recalling the
+unit's ideas at once, which is evidence-supported for durable learning (Dunlosky et al.,
+S-039) — and a **portfolio** that makes the learning visible to the learner. It is
+summative in the sense of *showing* mastery, never of *ranking*: a gap in the portfolio
+is information ("not yet assembled"), not a verdict. Honor home languages first: the
+reflection may be written in whichever language the learner thinks and feels in most
+clearly.
 
-The **ethics** lens: the reflection asks not just "what did I learn?" but "how will I use
-this to treat others fairly?" The **egalitarianism** lens: the portfolio belongs to the
-learner — it is evidence of *their* growth, not a competition with anyone else's. The
-**global** lens: the unit's through-line is multilingualism as wealth; the reflection
-should name that the many voices are the point, not a problem. The **technology** lens:
-a digital portfolio can be made accessible (captions, readable type, alt text), which is
-itself an act of the language justice the unit taught. The **environment** lens: among
-the unit's voices are voices for the living world — a deliberation about water, a warning
-about a storm, a language that carries plant knowledge — and the reflection may name that
-language serves the Earth as well as people. The **critical-thinking** lens: "which
-artifact is weakest, and what would I do next?" is a self-check run with honesty, not
-shame.
+The **ethics** lens: the reflection asks not just "what did I learn?" but "how will I
+use this to treat others fairly?" The **egalitarianism** lens: the portfolio belongs to
+the learner — it is evidence of *their* growth, not a competition with anyone else's.
+The **global** lens: the unit's through-line is multilingualism as wealth; the
+reflection should name that the many voices are the point, not a problem. The
+**technology** lens: a digital portfolio can be made accessible (captions, readable
+type, alt text), which is itself an act of the language justice the unit taught. The
+**environment** lens: among the unit's voices are voices for the living world — a
+deliberation about water, a warning about a storm, a language that carries plant
+knowledge — and the reflection may name that language serves the Earth as well as
+people. The **critical-thinking** lens: "which artifact is weakest, and what would I do
+next?" is a self-check run with honesty, not shame.
 
 ## Procedure
 

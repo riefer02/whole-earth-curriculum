@@ -120,20 +120,19 @@ the **cause** is the second. That is how the story of any place is told.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Cause-and-effect is a new and harder
-skill, so model it step-by-step before independent work** (Kirschner, Sweller & Clark,
-2006): hold up the three river cards, and think aloud — "Long ago, a quiet crossing.
-Then, a bridge was built. Now, a busy port. The **cause** of the change was the
-bridge: it let more people and goods cross, so the place grew." Then guide the same
-move for the market or school before learners choose their own. **Keep causes real,
-gentle, and non-judgmental:** do not say the old way was worse. A quiet crossing, a few
-stalls, or a one-room school are not "backward" — they are earlier chapters of the same
-story, and many places still live in those chapters today. Many great cities and
-markets grew at river crossings and ports (see Resources); use this as a true, global
-pattern, not a story of one region. Honor every body: describe the cards in words for
-a learner who cannot see them; a learner who does not use a speaking voice points or
-acts the three times and the cause. A learner's own place may be the best example of
-all — invite, never require, its telling.
+**Cause-and-effect is a new and harder skill, so model it step-by-step before
+independent work** (Kirschner, Sweller & Clark, 2006): hold up the three river cards,
+and think aloud — "Long ago, a quiet crossing. Then, a bridge was built. Now, a busy
+port. The **cause** of the change was the bridge: it let more people and goods cross, so
+the place grew." Then guide the same move for the market or school before learners
+choose their own. **Keep causes real, gentle, and non-judgmental:** do not say the old
+way was worse. A quiet crossing, a few stalls, or a one-room school are not "backward" —
+they are earlier chapters of the same story, and many places still live in those
+chapters today. Many great cities and markets grew at river crossings and ports (see
+Resources); use this as a true, global pattern, not a story of one region. Honor every
+body: describe the cards in words for a learner who cannot see them; a learner who does
+not use a speaking voice points or acts the three times and the cause. A learner's own
+place may be the best example of all — invite, never require, its telling.
 
 ## Procedure
 

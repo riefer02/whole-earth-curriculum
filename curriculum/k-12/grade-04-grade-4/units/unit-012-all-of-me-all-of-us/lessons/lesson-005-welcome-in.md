@@ -112,22 +112,21 @@ side. Today you learn to open that door for someone else.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Its commitment: **belonging is a human
-need, and welcoming is a skill everyone can learn and practice.** Handle this gently —
-some learners in the room are newcomers right now, or have been, and the topic is not
-abstract for them. Never single anyone out or demand they tell their arrival story;
-invite, and let a pass be a full answer. Frame "why belonging matters" with real, gentle
-evidence rather than slogans: humans are social, and when people are included they feel
-safer, learn better, and grow healthier, while exclusion hurts (see the evidence in
-`docs/contexts.md` on relationships and belonging; for age-appropriate framing, use the
-metaphor of warmth and safety, not clinical terms). Distinguish *welcome as value* (we
-ought to include everyone) from *welcome as fact* (communities everywhere practice it —
-a greeting, a shared meal, a naming). Keep the global lens: welcome looks different
-across cultures (a bow, a handshake, a cup of tea, a song) and all are real welcomes.
-For a learner who is blind or has low vision, describe the circle aloud and act the
-welcome with voice and touch. For a non-speaking learner, accept drawing, signing,
-pointing, or a partner voicing. Close on agency: belonging is something we *build*, not
-something we wait for.
+Its commitment: **belonging is a human need, and welcoming is a skill everyone can learn
+and practice.** Handle this gently — some learners in the room are newcomers right now,
+or have been, and the topic is not abstract for them. Never single anyone out or demand
+they tell their arrival story; invite, and let a pass be a full answer. Frame "why
+belonging matters" with real, gentle evidence rather than slogans: humans are social,
+and when people are included they feel safer, learn better, and grow healthier, while
+exclusion hurts (see the evidence in `docs/contexts.md` on relationships and belonging;
+for age-appropriate framing, use the metaphor of warmth and safety, not clinical terms).
+Distinguish *welcome as value* (we ought to include everyone) from *welcome as fact*
+(communities everywhere practice it — a greeting, a shared meal, a naming). Keep the
+global lens: welcome looks different across cultures (a bow, a handshake, a cup of tea,
+a song) and all are real welcomes. For a learner who is blind or has low vision,
+describe the circle aloud and act the welcome with voice and touch. For a non-speaking
+learner, accept drawing, signing, pointing, or a partner voicing. Close on agency:
+belonging is something we *build*, not something we wait for.
 
 ## Procedure
 

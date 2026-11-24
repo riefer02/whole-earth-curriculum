@@ -112,19 +112,18 @@ truly matters.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Make the action real, not symbolic —
-learners should actually turn off a tap, reuse a bag, or flip a paper over. Keep the
-tone hopeful, never shaming: wasting less is about care and agency, not guilt, and no
-act is too small. This is especially true where water is scarce — in such places,
-"wasting less water" may be the single most important act, and it is just as real as
-any other; adapt the examples to the learners' own lives (a precious jug of water used
-carefully, a basket reused for years, a field watered only as much as needed). Never
-frame any family as wasteful; honor the care people already show. For a learner with
-motor differences, the choosing and the saying are the act — they may direct a
-partner's hands to turn off the tap while saying why it helps; adapt the tool (a
-long-handled tap, a light basket). A learner who is blind or has low vision can feel
-the tap turned, hear the water stop, and hold the reused bag. A non-speaking learner
-can point to the action and to a picture for "saves" to show why it helps.
+Make the action real, not symbolic — learners should actually turn off a tap, reuse a
+bag, or flip a paper over. Keep the tone hopeful, never shaming: wasting less is about
+care and agency, not guilt, and no act is too small. This is especially true where water
+is scarce — in such places, "wasting less water" may be the single most important act,
+and it is just as real as any other; adapt the examples to the learners' own lives (a
+precious jug of water used carefully, a basket reused for years, a field watered only as
+much as needed). Never frame any family as wasteful; honor the care people already show.
+For a learner with motor differences, the choosing and the saying are the act — they may
+direct a partner's hands to turn off the tap while saying why it helps; adapt the tool
+(a long-handled tap, a light basket). A learner who is blind or has low vision can feel
+the tap turned, hear the water stop, and hold the reused bag. A non-speaking learner can
+point to the action and to a picture for "saves" to show why it helps.
 
 ## Procedure
 

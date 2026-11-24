@@ -120,21 +120,20 @@ whether a medicine actually works.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is precise: **correlation
-(two things move together) is not causation (one makes the other happen), because a third
-variable may cause both.** Because this is a foundational reasoning skill, use explicit
-instruction and a worked example first (Kirschner, Sweller & Clark, 2006): model the
-ice-cream-and-drowning example aloud, then guide one more before independent sorting.
-Watch for the common slip of assuming "they happen together, so one must cause the other."
-The distinction between correlation and causation is a foundational principle of statistics
-and scientific reasoning, taught across the world's science curricula; the "spurious
-correlation" idea (a shared third cause) is its heart. The ethical and egalitarian lenses
-(`docs/philosophy.md` §4): confusing correlation with causation is how people get blamed
-unfairly — a neighborhood blamed for a trend it did not cause, a group blamed for an
-outcome driven by poverty or history. Questioning the pattern is a tool of fairness.
-The global lens: the ice-cream example works because hot weather is universal, but adapt
-it — in some places it is mango season, monsoon, or a festival, not ice cream, that marks
-the "third variable."
+The idea to land is precise: **correlation (two things move together) is not causation
+(one makes the other happen), because a third variable may cause both.** Because this is
+a foundational reasoning skill, use explicit instruction and a worked example first
+(Kirschner, Sweller & Clark, 2006): model the ice-cream-and-drowning example aloud, then
+guide one more before independent sorting. Watch for the common slip of assuming "they
+happen together, so one must cause the other." The distinction between correlation and
+causation is a foundational principle of statistics and scientific reasoning, taught
+across the world's science curricula; the "spurious correlation" idea (a shared third
+cause) is its heart. The ethical and egalitarian lenses (`docs/philosophy.md` §4):
+confusing correlation with causation is how people get blamed unfairly — a neighborhood
+blamed for a trend it did not cause, a group blamed for an outcome driven by poverty or
+history. Questioning the pattern is a tool of fairness. The global lens: the ice-cream
+example works because hot weather is universal, but adapt it — in some places it is
+mango season, monsoon, or a festival, not ice cream, that marks the "third variable."
 
 ## Procedure
 

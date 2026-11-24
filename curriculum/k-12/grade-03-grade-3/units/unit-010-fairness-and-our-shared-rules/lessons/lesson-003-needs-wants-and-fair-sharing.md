@@ -122,21 +122,20 @@ it matters.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches the **need/want distinction** as
-the ground of fair sharing. Keep it concrete and universal: a need is something a
-person must have to live, grow, and take part; a want is something nice but not
-needed. Do not shame any want — wants are human and fine; the point is only *order* of
-fairness (needs before extras). This is an egalitarian, global claim: every person
-everywhere has the same basic needs, and a group is fair when it meets everyone's
-needs before some people's wants. Hold it as a question ("which of these would life be
-harder without?"), and welcome learners who notice that not every child's needs are
-met — that noticing is the beginning of caring, connected to agency and hope ("we can
-help make it true"). A learner who does not speak aloud places a card in a circle or
-points; a learner who is deaf or hard of hearing follows each card through sign and
-picture; a learner who is blind or low-vision hears each card described and names
-"need" or "want" aloud; a learner with a motor difference can direct a partner to
-place the card. A learner may always pass. The goal is the learner's own explanation —
-"food is a need because without it…" — not a memorized list.
+This lesson teaches the **need/want distinction** as the ground of fair sharing. Keep it
+concrete and universal: a need is something a person must have to live, grow, and take
+part; a want is something nice but not needed. Do not shame any want — wants are human
+and fine; the point is only *order* of fairness (needs before extras). This is an
+egalitarian, global claim: every person everywhere has the same basic needs, and a group
+is fair when it meets everyone's needs before some people's wants. Hold it as a question
+("which of these would life be harder without?"), and welcome learners who notice that
+not every child's needs are met — that noticing is the beginning of caring, connected to
+agency and hope ("we can help make it true"). A learner who does not speak aloud places
+a card in a circle or points; a learner who is deaf or hard of hearing follows each card
+through sign and picture; a learner who is blind or low-vision hears each card described
+and names "need" or "want" aloud; a learner with a motor difference can direct a partner
+to place the card. A learner may always pass. The goal is the learner's own
+explanation — "food is a need because without it…" — not a memorized list.
 
 ## Procedure
 

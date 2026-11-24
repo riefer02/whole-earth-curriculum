@@ -110,11 +110,10 @@ one way to care — but it is not the only way, and it is not always the widest.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **empathy is real but
-partial — strongest toward the near and the named — so widening care toward distant,
-unlike others requires reasoned compassion and solidarity, not only feeling.** Teach
-the empathy/compassion distinction with a worked example (S-011); hold the value
-question open, never as a single right answer.
+The idea to land: **empathy is real but partial — strongest toward the near and the
+named — so widening care toward distant, unlike others requires reasoned compassion and
+solidarity, not only feeling.** Teach the empathy/compassion distinction with a worked
+example (S-011); hold the value question open, never as a single right answer.
 
 The **ethics** lens: "what do I owe distant others?" is a core question of ethics, and
 the lesson invites learners to reason about it rather than be told the answer. The
@@ -124,11 +123,11 @@ others uncared-for; reasoned commitment is a more reliable equalizer. The **glob
 lens: mutual aid and solidarity are practices found across cultures and times (the
 harambee, gotong royong, minga, and barn-raising traditions documented in earlier
 units), and they show that care can be *structured* and *chosen*, not only felt. The
-**technology** lens: screens both help and hinder — they can bring a distant face
-close enough to feel for, and they can flood us until we numb (the psychic-numbing
-research, Slovic, S-414). The **environment** lens: the circle can widen past humans —
-to future generations and the living world — a widening many traditions already treat
-as owed, not optional.
+**technology** lens: screens both help and hinder — they can bring a distant face close
+enough to feel for, and they can flood us until we numb (the psychic-numbing research,
+Slovic, S-414). The **environment** lens: the circle can widen past humans — to future
+generations and the living world — a widening many traditions already treat as owed, not
+optional.
 
 **Emotional safety.** "What do I owe?" can feel like a demand for guilt or sacrifice.
 Frame it as *agency and choice*: the question is how wide a learner *chooses* to care,

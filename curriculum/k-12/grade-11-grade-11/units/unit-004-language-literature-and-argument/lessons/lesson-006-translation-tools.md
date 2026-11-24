@@ -119,28 +119,28 @@ technology lens.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **machine translation
-is a powerful tool for quick gist, but it is limited — by word-sense ambiguity, idioms,
-tone, and nuance, and by working much worse for low-resource languages — so human
-translation and post-editing remain necessary for high-stakes, nuanced, or sensitive
-text (S-350).** This is the technology lens made concrete: a tool's effect on humanity
-is that it *democratizes* basic access across languages while still requiring human
-judgment where meaning matters most. Hold the capabilities and limits as *evidence*,
-and "human care where meaning matters" as a *value* — keep them distinct (philosophy §5).
+The idea to land: **machine translation is a powerful tool for quick gist, but it is
+limited — by word-sense ambiguity, idioms, tone, and nuance, and by working much worse
+for low-resource languages — so human translation and post-editing remain necessary for
+high-stakes, nuanced, or sensitive text (S-350).** This is the technology lens made
+concrete: a tool's effect on humanity is that it *democratizes* basic access across
+languages while still requiring human judgment where meaning matters most. Hold the
+capabilities and limits as *evidence*, and "human care where meaning matters" as a
+*value* — keep them distinct (philosophy §5).
 
 Model one comparison, then let learners test (worked example → guided practice →
 independent work; S-011). The **technology** lens is the spine: name what the tool
 actually does (statistically predicts the most likely next word in a neural model) so
-the tool is understood, not magic. The **egalitarian** lens: machine translation is
-far stronger for well-resourced languages (those with huge digital corpora) and far
-weaker for low-resource ones — so the tool can *widen* the very gap it seems to close
-(S-350). The **ethics** lens: a bad machine translation in a clinic, a court, or a
-newsroom can misrepresent a person or a fact — that is why high-stakes settings use
-human translators and interpreters. The **global** lens: for many of the world's ~7,000
-languages (S-426), no machine translator exists at all — the human community is the
-only bridge. The **critical-thinking** lens: the back-translation test is a habit — run
-a sentence A→B→A and see what drifts. Preview: Lesson 7 turns from *how* a text is
-carried to *who* wrote it — the author's position.
+the tool is understood, not magic. The **egalitarian** lens: machine translation is far
+stronger for well-resourced languages (those with huge digital corpora) and far weaker
+for low-resource ones — so the tool can *widen* the very gap it seems to close (S-350).
+The **ethics** lens: a bad machine translation in a clinic, a court, or a newsroom can
+misrepresent a person or a fact — that is why high-stakes settings use human translators
+and interpreters. The **global** lens: for many of the world's ~7,000 languages (S-426),
+no machine translator exists at all — the human community is the only bridge. The
+**critical-thinking** lens: the back-translation test is a habit — run a sentence A→B→A
+and see what drifts. Preview: Lesson 7 turns from *how* a text is carried to *who* wrote
+it — the author's position.
 
 ## Procedure
 

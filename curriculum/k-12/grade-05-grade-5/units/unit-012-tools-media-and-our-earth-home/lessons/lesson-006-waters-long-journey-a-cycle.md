@@ -117,14 +117,15 @@ Today you learn to trace that journey.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land are the **path** (ocean →
-evaporation → cloud → precipitation → river/ground → plants, animals, people → back) and the
-**why** (the Sun's heat lifts water up; gravity pulls it down; water is reused, not created
-new). Model the path once, then have learners build and *check* their own arrows. The water
-cycle is evidence-based science (USGS, NASA document it); the gentle wonder that "the water
-you drink has been around for ages" is a way to make it memorable, not a religious claim. Keep
-the tone safe and curious, and name that water is not the same amount everywhere — some places
-are dry and some wet, which the next lessons on care will return to. See `docs/facilitation.md`.
+The ideas to land are the **path** (ocean → evaporation → cloud → precipitation →
+river/ground → plants, animals, people → back) and the **why** (the Sun's heat lifts
+water up; gravity pulls it down; water is reused, not created new). Model the path once,
+then have learners build and *check* their own arrows. The water cycle is evidence-based
+science (USGS, NASA document it); the gentle wonder that "the water you drink has been
+around for ages" is a way to make it memorable, not a religious claim. Keep the tone
+safe and curious, and name that water is not the same amount everywhere — some places
+are dry and some wet, which the next lessons on care will return to. See
+`docs/facilitation.md`.
 
 ## Procedure
 

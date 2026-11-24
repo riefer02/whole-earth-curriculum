@@ -121,24 +121,24 @@ line — and who pays it — is the first step toward drawing it more fairly.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **belonging has a line,
-often drawn by habit rather than malice, and maturity means seeing the line and weighing
-loyalty against obligation to those outside it.** The minimal-group finding is real and
-well replicated (Tajfel, S-232); hold it as description of how minds work, not as a claim
-that groups are bad or that belonging is wrong. Belonging is a human good; the question is
-*whose* belonging is paid for by *whose* exclusion.
+The idea to land: **belonging has a line, often drawn by habit rather than malice, and
+maturity means seeing the line and weighing loyalty against obligation to those outside
+it.** The minimal-group finding is real and well replicated (Tajfel, S-232); hold it as
+description of how minds work, not as a claim that groups are bad or that belonging is
+wrong. Belonging is a human good; the question is *whose* belonging is paid for by
+*whose* exclusion.
 
 The **ethics** lens: loyalty to "us" is a real value — and so is the claim of the person
 standing outside the line; ethics is the weighing. The **egalitarianism** lens: the line
-is not neutral — it is drawn by the powerful and paid by the excluded; noticing who draws
-and who pays is the egalitarian move. The **global** lens: every human group draws lines
-differently — by kinship, language, faith, place, or state — and no single way is the
-default. The **technology** lens: online communities draw lines too — algorithmic sorting,
-moderation, and gatekeeping can make an "us" feel seamless while quietly excluding people
-whose access, language, or ability differs (World Bank digital divide, S-281; Britannica,
-S-481). The **critical-thinking** lens: ask *who drew this line, when, and for what
-purpose* before you accept it as natural. Preview: Lesson 10 turns the weighing into a
-decision about solidarity and the common good.
+is not neutral — it is drawn by the powerful and paid by the excluded; noticing who
+draws and who pays is the egalitarian move. The **global** lens: every human group draws
+lines differently — by kinship, language, faith, place, or state — and no single way is
+the default. The **technology** lens: online communities draw lines too — algorithmic
+sorting, moderation, and gatekeeping can make an "us" feel seamless while quietly
+excluding people whose access, language, or ability differs (World Bank digital divide,
+S-281; Britannica, S-481). The **critical-thinking** lens: ask *who drew this line,
+when, and for what purpose* before you accept it as natural. Preview: Lesson 10 turns
+the weighing into a decision about solidarity and the common good.
 
 **Safeguarding:** cases are about groups, never a learner's identity; no one is asked to
 defend exclusion of a group they or their loved ones belong to.

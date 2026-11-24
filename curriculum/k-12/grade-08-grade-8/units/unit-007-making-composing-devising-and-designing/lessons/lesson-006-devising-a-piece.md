@@ -112,22 +112,23 @@ that is the point: **rehearsal is where the piece becomes itself.**
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **devising is a loop — (1) choose a
-theme, (2) explore movement (try many ways to show it), (3) shape and rehearse (choose, order,
-practice), (4) revise (change it after feedback), (5) share — and the *change across rehearsals* is the
-point.** This is a *making* skill, so **model the loop once with a tiny example** (show three movement
-ideas for one theme, then choose, order, and revise), then let learners devise in small groups or alone
-(explicit instruction carries novice skills — S-011). The physical lens: this is body learning — honor
-every body and ability; movement can be large or small, seated or standing, and stillness is movement
-too. The global lens: devising and improvisation are living traditions worldwide — **capoeira**, for
-example, is a Brazilian art that weaves movement, music, and play together, improvised within a shared
-circle (S-056). Teach such traditions as *living forms to honor with respectful questions*, never as
-specimens to copy carelessly. The egalitarian lens: devising needs only a body and a space — no
-equipment, no particular ability. The ethics lens: when devising in a group, every voice shapes the
-piece; no one's idea is "better," and consent matters — no one is touched or lifted without asking, and
-performing in front of the group is a choice, never a requirement. Keep
-assessment mastery-based: a piece that is still changing is "not yet," never a failure — change is the
-work.
+The skill to land: **devising is a loop — (1) choose a theme, (2) explore movement (try
+many ways to show it), (3) shape and rehearse (choose, order, practice), (4) revise
+(change it after feedback), (5) share — and the *change across rehearsals* is the
+point.** This is a *making* skill, so **model the loop once with a tiny example** (show
+three movement ideas for one theme, then choose, order, and revise), then let learners
+devise in small groups or alone (explicit instruction carries novice skills — S-011).
+The physical lens: this is body learning — honor every body and ability; movement can be
+large or small, seated or standing, and stillness is movement too. The global lens:
+devising and improvisation are living traditions worldwide — **capoeira**, for example,
+is a Brazilian art that weaves movement, music, and play together, improvised within a
+shared circle (S-056). Teach such traditions as *living forms to honor with respectful
+questions*, never as specimens to copy carelessly. The egalitarian lens: devising needs
+only a body and a space — no equipment, no particular ability. The ethics lens: when
+devising in a group, every voice shapes the piece; no one's idea is "better," and
+consent matters — no one is touched or lifted without asking, and performing in front of
+the group is a choice, never a requirement. Keep assessment mastery-based: a piece that
+is still changing is "not yet," never a failure — change is the work.
 
 ## Procedure
 

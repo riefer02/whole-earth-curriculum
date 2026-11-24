@@ -120,25 +120,25 @@ feeling, a question.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a body of work is a
-series of pieces united by one coherent vision and rehearsed, visible skill — not just
-"more than one picture."** Teach the worked example explicitly, then let learners choose a
-theme and make three studies (S-011). Hold "vision" as something anyone can claim, not a
-privilege: a vision is simply *what you keep returning to and caring about*.
+The idea to land: **a body of work is a series of pieces united by one coherent vision
+and rehearsed, visible skill — not just "more than one picture."** Teach the worked
+example explicitly, then let learners choose a theme and make three studies (S-011).
+Hold "vision" as something anyone can claim, not a privilege: a vision is simply *what
+you keep returning to and caring about*.
 
-The **ethics** lens: a body of work is a promise — the artist is accountable for the theme
-they take up, so choose a theme you can stand behind and represent honestly. The
+The **ethics** lens: a body of work is a promise — the artist is accountable for the
+theme they take up, so choose a theme you can stand behind and represent honestly. The
 **egalitarianism** lens: Lawrence made his series in tempera on hardboard with simple
 materials in a small studio; a body of work needs no expensive tools, only sustained
 attention (S-363). The **global** lens: series-making is everywhere — Hokusai's
 *Thirty-six Views of Mount Fuji* returns to one mountain in many weathers (S-364), and
 weavers and potters worldwide repeat a motif until it becomes a signature. Meet every
 tradition named here as a *living* practice, never a specimen to copy carelessly. The
-**technology** lens: free tools such as Krita and Inkscape mean a learner without paper or
-paint can still build a series (S-440, S-441); the vision is yours, the tool is optional.
-The **environment** lens: returning to one subject across time — a river, a field, a sky —
-is also how we notice environmental change; a series can be a record. Preview: Lesson 2
-turns the body into words with the artist statement.
+**technology** lens: free tools such as Krita and Inkscape mean a learner without paper
+or paint can still build a series (S-440, S-441); the vision is yours, the tool is
+optional. The **environment** lens: returning to one subject across time — a river, a
+field, a sky — is also how we notice environmental change; a series can be a record.
+Preview: Lesson 2 turns the body into words with the artist statement.
 
 ## Procedure
 

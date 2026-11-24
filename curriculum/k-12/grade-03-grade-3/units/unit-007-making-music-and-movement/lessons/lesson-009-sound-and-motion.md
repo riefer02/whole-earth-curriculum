@@ -120,17 +120,16 @@ together into one piece.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Combining sound and motion is a **skill**, so model it once —
-"long boom, I reach high and slow; short tap, I drop low and quick" — before learners
-try (Kirschner, Sweller & Clark, 2006). Keep the pattern short (two to four sounds and
-two to four moves) so the match stays clear. Sound and motion can live in the same body
-(clap while moving) or split across partners (one sounds, one moves) — both are
-combining. A learner with limited mobility pairs sound with the movement they can make
-(a high hand, a low head) or directs a partner and matches the sound — directing and
-sounding is full participation. A learner who does not sing sounds with claps, taps, or
-a drum. A learner who is Deaf or hard of hearing matches movement to the **feel** of the
-beat's vibration. Every piece belongs.
+Combining sound and motion is a **skill**, so model it once — "long boom, I reach high
+and slow; short tap, I drop low and quick" — before learners try (Kirschner, Sweller &
+Clark, 2006). Keep the pattern short (two to four sounds and two to four moves) so the
+match stays clear. Sound and motion can live in the same body (clap while moving) or
+split across partners (one sounds, one moves) — both are combining. A learner with
+limited mobility pairs sound with the movement they can make (a high hand, a low head)
+or directs a partner and matches the sound — directing and sounding is full
+participation. A learner who does not sing sounds with claps, taps, or a drum. A learner
+who is Deaf or hard of hearing matches movement to the **feel** of the beat's vibration.
+Every piece belongs.
 
 ## Procedure
 

@@ -129,13 +129,12 @@ celebrate yours.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Set up the four stations, run the rotation, then lead the
-closing celebration. The capstone is a celebration of growth, not a test: observe what
-each learner can now do, and note it for the portfolio without ranking anyone. Honor
-every body in its own way — adapted movement, adapted ball skills, and spoken or drawn
-answers all count fully. Keep feelings responses gentle and private, as in the earlier
-lessons: a learner shares only what they choose.
+Set up the four stations, run the rotation, then lead the closing celebration. The
+capstone is a celebration of growth, not a test: observe what each learner can now do,
+and note it for the portfolio without ranking anyone. Honor every body in its own way —
+adapted movement, adapted ball skills, and spoken or drawn answers all count fully. Keep
+feelings responses gentle and private, as in the earlier lessons: a learner shares only
+what they choose.
 
 ## Procedure
 

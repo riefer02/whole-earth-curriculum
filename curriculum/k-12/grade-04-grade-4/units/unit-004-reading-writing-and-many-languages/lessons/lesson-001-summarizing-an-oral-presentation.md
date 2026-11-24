@@ -107,17 +107,16 @@ finish.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Summarizing is a taught skill: model it first with a worked
-example (a short talk you give, then summarize aloud), then guide learners to try it
-(Kirschner, Sweller & Clark, 2006). Keep the parts clear — the **main idea** is the one
-big thing the talk is about; the **key details** are the few facts or steps that hold it
-up. Accept a summary in the learner's own words and own language; there is no single
-"correct" wording. A learner who is Deaf or hard of hearing summarizes a signed
-presentation; a learner who is blind or has low vision summarizes what they hear. This
-is sense-making, not a memory test — honor a faithful summary even when it is worded
-differently. If a recording or translation tool is used, notice what it adds (many
-voices) and what it cannot carry (the living person); people remain the real source.
+Summarizing is a taught skill: model it first with a worked example (a short talk you
+give, then summarize aloud), then guide learners to try it (Kirschner, Sweller & Clark,
+2006). Keep the parts clear — the **main idea** is the one big thing the talk is about;
+the **key details** are the few facts or steps that hold it up. Accept a summary in the
+learner's own words and own language; there is no single "correct" wording. A learner
+who is Deaf or hard of hearing summarizes a signed presentation; a learner who is blind
+or has low vision summarizes what they hear. This is sense-making, not a memory test —
+honor a faithful summary even when it is worded differently. If a recording or
+translation tool is used, notice what it adds (many voices) and what it cannot carry
+(the living person); people remain the real source.
 
 ## Procedure
 

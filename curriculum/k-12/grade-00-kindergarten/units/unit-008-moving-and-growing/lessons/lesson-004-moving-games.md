@@ -107,14 +107,13 @@ practice moving your body with control.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, keep every game
-**cooperative** — cooperation over competition is a core commitment. No elimination, no
-winners and losers. **Honor every body:** choose and model leader movements that can
-be done big or small, standing or seated, so a learner who uses a wheelchair or has
-limited mobility can lead as easily as anyone. Add a visual "freeze" cue — a raised
-hand, a flag, or the leader lifting both arms — alongside the clap or music so learners
-who cannot hear can play fully. Rotate who leads fairly so everyone who wants a turn
-gets one.
+As facilitator, keep every game **cooperative** — cooperation over competition is a core
+commitment. No elimination, no winners and losers. **Honor every body:** choose and
+model leader movements that can be done big or small, standing or seated, so a learner
+who uses a wheelchair or has limited mobility can lead as easily as anyone. Add a visual
+"freeze" cue — a raised hand, a flag, or the leader lifting both arms — alongside the
+clap or music so learners who cannot hear can play fully. Rotate who leads fairly so
+everyone who wants a turn gets one.
 
 ## Procedure
 

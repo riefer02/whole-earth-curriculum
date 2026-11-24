@@ -109,11 +109,10 @@ This lesson is where yours starts turning.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **beginning means
-converting a plan into a first commitment wrapped in an accountability loop — agree, do,
-check and report honestly, adjust — so the effort sustains.** Teach the loop with a
-worked example; keep commitments small, voluntary, and within the learner's real
-capacity.
+The idea to land: **beginning means converting a plan into a first commitment wrapped in
+an accountability loop — agree, do, check and report honestly, adjust — so the effort
+sustains.** Teach the loop with a worked example; keep commitments small, voluntary, and
+within the learner's real capacity.
 
 The **ethics** lens: keeping a promise to others — and telling the truth when I fall
 short — is the ethical core of accountability; it is what turns good feeling into

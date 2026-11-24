@@ -100,15 +100,15 @@ alone.
 
 ## Facilitator note
 
-Written to the learner ("you"). Jobs here are *contributions*, not rewards or
-punishments — everyone gets to help, and jobs rotate so no one is stuck and no one is
-left out. Every job is equally important; resist ranking "big" jobs above "small"
-ones. Frame the job as care for the shared space and for each other, never as
-obedience. Where a job needs adult help (water near plants, reaching high shelves),
-step in alongside the child, not instead of them. A learner with limited movement can
-choose a job and direct it while a partner does the reaching, carrying, or watering —
-that is doing the job too. Sharing how it helped can be spoken, signed, pointed to on
-the chart, or shown with a gesture; no one is required to speak aloud.
+Jobs here are *contributions*, not rewards or punishments — everyone gets to help, and
+jobs rotate so no one is stuck and no one is left out. Every job is equally important;
+resist ranking "big" jobs above "small" ones. Frame the job as care for the shared space
+and for each other, never as obedience. Where a job needs adult help (water near plants,
+reaching high shelves), step in alongside the child, not instead of them. A learner with
+limited movement can choose a job and direct it while a partner does the reaching,
+carrying, or watering — that is doing the job too. Sharing how it helped can be spoken,
+signed, pointed to on the chart, or shown with a gesture; no one is required to speak
+aloud.
 
 ## Procedure
 

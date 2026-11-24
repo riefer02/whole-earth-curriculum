@@ -127,17 +127,17 @@ situation* best.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is the **trade-off
-evaluation**: name the choice, list its effects on people and on the planet, weigh them for a
-*specific situation*, and state the decision with its trade-offs. Model walking vs. riding
-fully as a worked example. **Keep the trade-off balanced and non-moralizing:** neither walking
-nor riding is universally "good" or "bad" — a long, unsafe, or stormy trip changes the answer,
-and people with different bodies, distances, and means face different real options. The
-capstone also retrieves the unit's earlier ideas (design, access, media reading, biodiversity,
-footprint) to show the year's learning as one connected toolkit. Distinguish evidence from
-values: *what each choice costs and gives* is observable; *that we should weigh effects on
-people and planet* is a value this curriculum holds. See `docs/philosophy.md` §4–5 and
-`docs/facilitation.md`.
+The skill to land is the **trade-off evaluation**: name the choice, list its effects on
+people and on the planet, weigh them for a *specific situation*, and state the decision
+with its trade-offs. Model walking vs. riding fully as a worked example. **Keep the
+trade-off balanced and non-moralizing:** neither walking nor riding is universally
+"good" or "bad" — a long, unsafe, or stormy trip changes the answer, and people with
+different bodies, distances, and means face different real options. The capstone also
+retrieves the unit's earlier ideas (design, access, media reading, biodiversity,
+footprint) to show the year's learning as one connected toolkit. Distinguish evidence
+from values: *what each choice costs and gives* is observable; *that we should weigh
+effects on people and planet* is a value this curriculum holds. See `docs/philosophy.md`
+§4–5 and `docs/facilitation.md`.
 
 ## Procedure
 

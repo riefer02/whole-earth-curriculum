@@ -118,27 +118,30 @@ from a slogan.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **defending a reasoned position
-across perspectives means taking a stand, supporting it with reasons and evidence, and crediting
-the strongest point of each perspective one does not fully share — then naming what one's own
-position cannot settle. A defensible position is firm and honest at once; it is not a slogan that
-pretends the other side has nothing real to say.** Model steelmanning (S-011); structure the
-deliberation so reasons, not volume, carry the day (S-349). Do not push any one position; the
-learner's stand is their own, and the skill is that it *accounts for* the others.
+The idea to land: **defending a reasoned position across perspectives means taking a
+stand, supporting it with reasons and evidence, and crediting the strongest point of
+each perspective one does not fully share — then naming what one's own position cannot
+settle. A defensible position is firm and honest at once; it is not a slogan that
+pretends the other side has nothing real to say.** Model steelmanning (S-011); structure
+the deliberation so reasons, not volume, carry the day (S-349). Do not push any one
+position; the learner's stand is their own, and the skill is that it *accounts for* the
+others.
 
-The **ethics** lens: crediting an opponent's strongest point is an act of intellectual honesty — a
-duty to truth over the comfort of a neat answer; a position that cannot survive a fair steelman is
-not yet well defended. The **egalitarianism** lens: deliberation must not simply reproduce who
-already has power — use structures (a talking object, turn-taking, written contributions) so the
-quietest and least powerful voices carry equal weight (S-238). The **global** lens: contested
-questions of rights are argued differently in different places, and a reasoned position should be
-able to say *where* it is rooted and what it assumes — not treat one place's framing as universal
-(S-460). The **technology** lens: deliberation increasingly happens on screens, where the loudest
-and most extreme voices can drown reasons (S-481, S-482); steelmanning is a deliberate antidote to
-an algorithm that feeds you only your own side. The **environment** lens: on questions with an
-environmental dimension (who bears the cost of a changing climate, who must move because of it), a
-defended position must account for future people and distant places who are not in the room to
-argue back. Preview: Lesson 7 turns to the learner's own responsibilities to fairness and justice.
+The **ethics** lens: crediting an opponent's strongest point is an act of intellectual
+honesty — a duty to truth over the comfort of a neat answer; a position that cannot
+survive a fair steelman is not yet well defended. The **egalitarianism** lens:
+deliberation must not simply reproduce who already has power — use structures (a talking
+object, turn-taking, written contributions) so the quietest and least powerful voices
+carry equal weight (S-238). The **global** lens: contested questions of rights are
+argued differently in different places, and a reasoned position should be able to say
+*where* it is rooted and what it assumes — not treat one place's framing as universal
+(S-460). The **technology** lens: deliberation increasingly happens on screens, where
+the loudest and most extreme voices can drown reasons (S-481, S-482); steelmanning is a
+deliberate antidote to an algorithm that feeds you only your own side. The
+**environment** lens: on questions with an environmental dimension (who bears the cost
+of a changing climate, who must move because of it), a defended position must account
+for future people and distant places who are not in the room to argue back. Preview:
+Lesson 7 turns to the learner's own responsibilities to fairness and justice.
 
 ## Procedure
 

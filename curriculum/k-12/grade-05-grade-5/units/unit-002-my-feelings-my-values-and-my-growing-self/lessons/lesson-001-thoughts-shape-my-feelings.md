@@ -115,13 +115,12 @@ learning to read the weather inside you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The one idea to land is that **thoughts
-are one shaper of feelings** — not that a learner's feelings are "wrong" or that they
-should simply "think positive." Present the second thought as *another real way of
-seeing the same event*, never as the "correct" one. Some learners carry heavy events
-(loss, illness, uncertainty); do not push them to reframe something that genuinely
-hurts. The skill is *noticing* the thought, with gentleness. See `docs/facilitation.md`
-on holding difficult topics safely.
+The one idea to land is that **thoughts are one shaper of feelings** — not that a
+learner's feelings are "wrong" or that they should simply "think positive." Present the
+second thought as *another real way of seeing the same event*, never as the "correct"
+one. Some learners carry heavy events (loss, illness, uncertainty); do not push them to
+reframe something that genuinely hurts. The skill is *noticing* the thought, with
+gentleness. See `docs/facilitation.md` on holding difficult topics safely.
 
 ## Procedure
 

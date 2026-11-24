@@ -121,21 +121,23 @@ for a connection you cannot see.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description,
-never as a claim that thought is an illusion**: body and mind are *one loop*, not two
-machines — the body shapes thought and feeling, and thought shapes the body (Barrett's
-interoception account, S-401; Damasio's somatic-marker account, S-406). Offer both as
-*respected scientific stories held side by side, not settled fact and not therapy.* The
-goal is a noticing habit, not a diagnosis.
+The idea to land, held as **description, never as a claim that thought is an illusion**:
+body and mind are *one loop*, not two machines — the body shapes thought and feeling,
+and thought shapes the body (Barrett's interoception account, S-401; Damasio's
+somatic-marker account, S-406). Offer both as *respected scientific stories held side by
+side, not settled fact and not therapy.* The goal is a noticing habit, not a diagnosis.
 
 The **ethics** lens: reading the body well helps us treat ourselves and others with
 accuracy rather than reaction. The **egalitarianism** lens: every body signals, but not
 every body is *heard* — some people's bodily distress is dismissed as "overreacting"
 while others' is taken seriously; noticing this is part of the framework. The **global**
-lens: how much a culture attends to the body in thinking and healing differs everywhere —
-no single tradition's "mind over body" or "body over mind" is the default. The
-**critical-thinking** lens: a signal is not a verdict — we learn to read it and check it,
-not to obey it blindly. The **technology** lens: an always-on device is itself a steady source of body signals — a ping, a message, a feed that drops the stomach — so reading the loop means noticing what the screen does to the body, not only what the body does to thought. Preview: Lesson 2 sharpens the reading of signals.
+lens: how much a culture attends to the body in thinking and healing differs
+everywhere — no single tradition's "mind over body" or "body over mind" is the default.
+The **critical-thinking** lens: a signal is not a verdict — we learn to read it and
+check it, not to obey it blindly. The **technology** lens: an always-on device is itself
+a steady source of body signals — a ping, a message, a feed that drops the stomach — so
+reading the loop means noticing what the screen does to the body, not only what the body
+does to thought. Preview: Lesson 2 sharpens the reading of signals.
 
 ## Procedure
 

@@ -122,17 +122,18 @@ way musicians everywhere rehearse with their own recordings.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **dynamics, phrasing,
-and ensemble are chosen, not accidental** — and that **a recording is a mirror for the ear**:
-it lets a performer hear what an audience hears and revise. Model each tool with the worked
-example before groups perform (explicit instruction for a novice skill — Kirschner, Sweller &
-Clark, 2006). Keep performance **accessible to every body**: dynamics can be loud/soft *or*
-big/small movement, fast/slow energy, or full/empty space; phrasing can be shaped with the
-breath, a gesture, or a drawn arc; ensemble means matching a shared beat, which can be seen
-or felt, not only heard. No learner is required to sing or speak — offer signed, movement,
-and found-sound parts. Call-and-response and interlocking rhythms (e.g., Andean siku panpipes
-or West African drumming) are living traditions; frame them with respect, and let learners
-perform the piece *they* know or make, not an imitation of a tradition they do not belong to.
+The idea to land is that **dynamics, phrasing, and ensemble are chosen, not
+accidental** — and that **a recording is a mirror for the ear**: it lets a performer
+hear what an audience hears and revise. Model each tool with the worked example before
+groups perform (explicit instruction for a novice skill — Kirschner, Sweller & Clark,
+2006). Keep performance **accessible to every body**: dynamics can be loud/soft *or*
+big/small movement, fast/slow energy, or full/empty space; phrasing can be shaped with
+the breath, a gesture, or a drawn arc; ensemble means matching a shared beat, which can
+be seen or felt, not only heard. No learner is required to sing or speak — offer signed,
+movement, and found-sound parts. Call-and-response and interlocking rhythms (e.g.,
+Andean siku panpipes or West African drumming) are living traditions; frame them with
+respect, and let learners perform the piece *they* know or make, not an imitation of a
+tradition they do not belong to.
 
 ## Procedure
 

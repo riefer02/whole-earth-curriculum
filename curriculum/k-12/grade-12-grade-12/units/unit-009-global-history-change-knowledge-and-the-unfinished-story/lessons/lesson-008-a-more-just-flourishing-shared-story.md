@@ -113,28 +113,29 @@ does not count) and more able to flourish (there is more than one answer when on
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **honoring many knowledge
-traditions makes the shared human story more just and more able to flourish — because knowledge is
-diverse, because telling a people their knowing does not count is an injustice, and because one
-tradition alone leaves everyone poorer.** Teach the claim frame explicitly (S-011). Welcome and
-answer the honest counter ("wouldn't one best method be more efficient?") — the answer is not that
-efficiency is worthless but that a single tradition is also a single point of failure, and that
-justice is not measured only by efficiency (S-460). Keep this a reasoned claim, not a slogan: the
-learner must support it, not merely assert it.
+The idea to land: **honoring many knowledge traditions makes the shared human story more
+just and more able to flourish — because knowledge is diverse, because telling a people
+their knowing does not count is an injustice, and because one tradition alone leaves
+everyone poorer.** Teach the claim frame explicitly (S-011). Welcome and answer the
+honest counter ("wouldn't one best method be more efficient?") — the answer is not that
+efficiency is worthless but that a single tradition is also a single point of failure,
+and that justice is not measured only by efficiency (S-460). Keep this a reasoned claim,
+not a slogan: the learner must support it, not merely assert it.
 
-The **ethics** lens: the claim is a *values* claim (a shared story *should* honor many traditions)
-supported by *evidence* (diverse knowledge is more resilient) — model the distinction between
-evidence and values explicitly. The **egalitarianism** lens: development understood as freedom —
-people able to live the lives they value, in their own terms — is exactly what honoring many
-traditions protects (S-460); suppressing a tradition is taking a capability away. The **global**
-lens: the claim is universal, not one culture's — everywhere, when one tradition dominates, others
-are lost, and everywhere, revival brings them back (S-428, S-056). The **technology** lens: tools
-can centralize knowledge (one platform, one standard) or pluralize it (many archives, many
+The **ethics** lens: the claim is a *values* claim (a shared story *should* honor many
+traditions) supported by *evidence* (diverse knowledge is more resilient) — model the
+distinction between evidence and values explicitly. The **egalitarianism** lens:
+development understood as freedom — people able to live the lives they value, in their
+own terms — is exactly what honoring many traditions protects (S-460); suppressing a
+tradition is taking a capability away. The **global** lens: the claim is universal, not
+one culture's — everywhere, when one tradition dominates, others are lost, and
+everywhere, revival brings them back (S-428, S-056). The **technology** lens: tools can
+centralize knowledge (one platform, one standard) or pluralize it (many archives, many
 voices); the design of tools is a choice about whether the story stays many-voiced. The
-**environment** lens: biodiversity and knowledge-diversity rise and fall together — when one crop,
-one language, one way of burning is lost, the land loses a caretaker too (S-437, S-320). Preview:
-Lesson 9 turns to the movements of peoples and power that have carried these traditions — and their
-keepers — across the Earth.
+**environment** lens: biodiversity and knowledge-diversity rise and fall together — when
+one crop, one language, one way of burning is lost, the land loses a caretaker too
+(S-437, S-320). Preview: Lesson 9 turns to the movements of peoples and power that have
+carried these traditions — and their keepers — across the Earth.
 
 ## Procedure
 

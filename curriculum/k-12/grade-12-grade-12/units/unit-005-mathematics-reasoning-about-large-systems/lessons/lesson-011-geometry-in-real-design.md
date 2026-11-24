@@ -116,25 +116,25 @@ straightedge, a compass, and attention.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **geometric design =
-symmetry (mirrors and rotations), tessellation (repeating tiles that cover without gaps),
-and scale (the honest ratio between a plan and the real thing).** Teach the construction as
-a procedure — draw the grid, then the tile — with a worked example and guided practice
-(S-011). The non-Western examples are essential and accurate: name them as living,
-specific traditions, never as curiosities.
+The idea to land: **geometric design = symmetry (mirrors and rotations), tessellation
+(repeating tiles that cover without gaps), and scale (the honest ratio between a plan
+and the real thing).** Teach the construction as a procedure — draw the grid, then the
+tile — with a worked example and guided practice (S-011). The non-Western examples are
+essential and accurate: name them as living, specific traditions, never as curiosities.
 
 The **ethics** lens: a map or plan that distorts scale or hides access is a geometric
 *choice* with ethical weight — geometry can clarify or mislead (S-024). The
 **egalitarianism** lens: pattern and proportion are the geometry *everyone* can build —
-compass and straightedge need no wealth, which is why patterned design flourishes in every
-part of the world. The **global** lens: geometric design is genuinely worldwide — Islamic
-girih and zellige star-and-polygon tiling, African woven and beaded patterns documented in
-*Africa Counts* (S-024), and the Indian *Sulba Sutras'* altar-construction geometry
-(S-292, S-434). No one tradition is the default. The **technology** lens: the same
-symmetry and scaling rules drive computer-aided design and the maps on every phone. The
-**environment** lens: design geometry is also material geometry — a tile that repeats with
-less waste, a plan that uses local materials, a layout that fits its climate (S-395).
-Preview: Lesson 12 designs a shared space with access and sustainability in mind.
+compass and straightedge need no wealth, which is why patterned design flourishes in
+every part of the world. The **global** lens: geometric design is genuinely worldwide —
+Islamic girih and zellige star-and-polygon tiling, African woven and beaded patterns
+documented in *Africa Counts* (S-024), and the Indian *Sulba Sutras'* altar-construction
+geometry (S-292, S-434). No one tradition is the default. The **technology** lens: the
+same symmetry and scaling rules drive computer-aided design and the maps on every phone.
+The **environment** lens: design geometry is also material geometry — a tile that
+repeats with less waste, a plan that uses local materials, a layout that fits its
+climate (S-395). Preview: Lesson 12 designs a shared space with access and
+sustainability in mind.
 
 ## Procedure
 

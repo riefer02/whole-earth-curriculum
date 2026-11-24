@@ -115,15 +115,15 @@ everywhere people live side by side, in a village, a city, or a new school far f
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **friendship change
-is normal, not a failure** — and that "navigating" means naming the change and choosing a
-next step, not "winning" the friendship back. Peers matter enormously at this age
-(`docs/development.md`, 6–8 band), so loss and change feel big; honor that without
-dramatizing it. Two traps to avoid: framing the person who drifts away as a villain, and
-framing the person left behind as pitiable. Both people are simply **growing**, and both can
-act with care. Allow invented or story examples for anyone who prefers not to share their own
-life. This is a skill (Kirschner, Sweller & Clark, 2006), so model one worked example before
-independent reflection. See `docs/facilitation.md` on holding feelings safely.
+The idea to land is that **friendship change is normal, not a failure** — and that
+"navigating" means naming the change and choosing a next step, not "winning" the
+friendship back. Peers matter enormously at this age (`docs/development.md`, 6–8 band),
+so loss and change feel big; honor that without dramatizing it. Two traps to avoid:
+framing the person who drifts away as a villain, and framing the person left behind as
+pitiable. Both people are simply **growing**, and both can act with care. Allow invented
+or story examples for anyone who prefers not to share their own life. This is a skill
+(Kirschner, Sweller & Clark, 2006), so model one worked example before independent
+reflection. See `docs/facilitation.md` on holding feelings safely.
 
 ## Procedure
 

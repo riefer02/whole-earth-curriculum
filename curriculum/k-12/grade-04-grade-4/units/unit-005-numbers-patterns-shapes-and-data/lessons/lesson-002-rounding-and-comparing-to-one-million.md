@@ -121,20 +121,19 @@ number is larger.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Rounding is a **place-value skill**,
-not a memorized trick: teach it with a number line so learners *see* the two
-neighbors and the midpoint, then generalize to "look at the digit one place to the
-right" (Van de Walle, Karp & Bay-Williams, 2019). Model once as a **worked example**
-(philosophy §13), then guide practice before independent work. Comparing is the same
-left-to-right reading of digits they learned in Grade 3, grown to six digits. **A
-number's size is a fact about a collection, never a worth about a person; and
-rounding a number does not make a learner "careless" — it is a different, useful
-question.** The decimal system we use is one number system among many (Ifrah, 2000);
-where a home language reads numbers in a different order, honor that reading. For
-learners who are Deaf or hard of hearing, sign the comparison symbols and midpoint;
-for learners who are blind or have low vision, use a tactile number line and read
-places by touch. Learners with limited movement direct a partner to mark the line.
-Mastery arrives at its own pace.
+Rounding is a **place-value skill**, not a memorized trick: teach it with a number line
+so learners *see* the two neighbors and the midpoint, then generalize to "look at the
+digit one place to the right" (Van de Walle, Karp & Bay-Williams, 2019). Model once as a
+**worked example** (philosophy §13), then guide practice before independent work.
+Comparing is the same left-to-right reading of digits they learned in Grade 3, grown to
+six digits. **A number's size is a fact about a collection, never a worth about a
+person; and rounding a number does not make a learner "careless" — it is a different,
+useful question.** The decimal system we use is one number system among many (Ifrah,
+2000); where a home language reads numbers in a different order, honor that reading. For
+learners who are Deaf or hard of hearing, sign the comparison symbols and midpoint; for
+learners who are blind or have low vision, use a tactile number line and read places by
+touch. Learners with limited movement direct a partner to mark the line. Mastery arrives
+at its own pace.
 
 ## Procedure
 

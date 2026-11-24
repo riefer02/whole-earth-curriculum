@@ -113,14 +113,14 @@ spot that pattern, the text stops being a list of facts and becomes a chain you 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **structure is a tool
-authors choose** — a cause-and-effect text is organized as a chain, and spotting it helps a
-reader follow the reasoning. Teach the signal words explicitly (a novice skill), then let
-learners hunt for the chain themselves. Choose passages that reflect learners' own biomes and
-lives — flooding, drought, seed-to-plant, fishing seasons — and avoid any single region's
-default. Some effects are painful (a crop lost); hold them with the calm, hopeful tone in
-`docs/facilitation.md`, and always connect cause-and-effect thinking to agency: "if we change
-a cause, we can change an effect."
+The idea to land is that **structure is a tool authors choose** — a cause-and-effect
+text is organized as a chain, and spotting it helps a reader follow the reasoning. Teach
+the signal words explicitly (a novice skill), then let learners hunt for the chain
+themselves. Choose passages that reflect learners' own biomes and lives — flooding,
+drought, seed-to-plant, fishing seasons — and avoid any single region's default. Some
+effects are painful (a crop lost); hold them with the calm, hopeful tone in
+`docs/facilitation.md`, and always connect cause-and-effect thinking to agency: "if we
+change a cause, we can change an effect."
 
 ## Procedure
 

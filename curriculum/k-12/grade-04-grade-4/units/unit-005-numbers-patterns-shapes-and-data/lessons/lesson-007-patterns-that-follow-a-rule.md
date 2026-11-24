@@ -114,19 +114,19 @@ predict what comes next without building every step. That is the power of a patt
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It opens the **Patterns & Relationships**
-strand for Grade 4 — the new skill is generating a pattern *from a rule* and stating
-the rule in words. Teach with a **worked example** (philosophy §13): build 2, 5, 8,
-11 with counters and say "add three each time"; then build the squares 1, 4, 9, 16
-and notice the rule "add the next odd number: +3, +5, +7." The key move is
-**generalizing** — saying what the pattern *always* does, not just what it did
-(Clements & Sarama, 2014). **Seeing a pattern quickly is not a measure of smartness;
-a pattern is a fact about numbers or shapes, never about a person.** Patterns are a
-human and cross-cultural treasure — weaving, beading, lattice grids, and architecture
-carry patterns in many traditions (Zaslavsky, 1999). Count in the home language. For
-learners who are Deaf or hard of hearing, tap each term; for learners who are blind
-or have low vision, build with tactile pieces and read the pattern by touch. Learners
-with limited movement direct a partner to build. Mastery arrives at its own pace.
+It opens the **Patterns & Relationships** strand for Grade 4 — the new skill is
+generating a pattern *from a rule* and stating the rule in words. Teach with a **worked
+example** (philosophy §13): build 2, 5, 8, 11 with counters and say "add three each
+time"; then build the squares 1, 4, 9, 16 and notice the rule "add the next odd number:
++3, +5, +7." The key move is **generalizing** — saying what the pattern *always* does,
+not just what it did (Clements & Sarama, 2014). **Seeing a pattern quickly is not a
+measure of smartness; a pattern is a fact about numbers or shapes, never about a
+person.** Patterns are a human and cross-cultural treasure — weaving, beading, lattice
+grids, and architecture carry patterns in many traditions (Zaslavsky, 1999). Count in
+the home language. For learners who are Deaf or hard of hearing, tap each term; for
+learners who are blind or have low vision, build with tactile pieces and read the
+pattern by touch. Learners with limited movement direct a partner to build. Mastery
+arrives at its own pace.
 
 ## Procedure
 

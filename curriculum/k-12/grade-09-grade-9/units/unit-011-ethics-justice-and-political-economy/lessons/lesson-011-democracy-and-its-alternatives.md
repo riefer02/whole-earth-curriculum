@@ -111,21 +111,22 @@ compare them with open eyes.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Its goals: **(1) teach the ways societies decide,
-placed on a participation spectrum — rule by one (autocracy, monarchy), by a few (oligarchy,
-aristocracy), by many through voting and parties (democracy), and broad participation through
-deliberation and consensus (including Indigenous and other council traditions); (2) evaluate
-democracy honestly — its strengths (equal voice, peaceful transfer of power, accountability) and
-its limits (majorities can overlook minorities, wealth can capture voice, participation is unequal);
-(3) avoid dogma — democracy is *compared*, not preached; alternatives are described accurately, not
-caricatured, and learners may reach different conclusions about which arrangement best serves
-justice in a given place (philosophy §11).** The ethics lens: how a group decides is itself a moral
-question. The egalitarian lens: in every arrangement ask *who gets a real voice, and who is
-excluded.* The global lens: democracy and its alternatives appear in many cultural forms across
-societies — none is the default, and consensus traditions are living, not relics. Distinguish
-evidence from values: *that* participation is uneven is a documented fact (cite a dataset); *that*
-broader participation is better is a value we argue for. This is a portfolio artifact — keep the
-comparison.
+Its goals: **(1) teach the ways societies decide, placed on a participation spectrum —
+rule by one (autocracy, monarchy), by a few (oligarchy, aristocracy), by many through
+voting and parties (democracy), and broad participation through deliberation and
+consensus (including Indigenous and other council traditions); (2) evaluate democracy
+honestly — its strengths (equal voice, peaceful transfer of power, accountability) and
+its limits (majorities can overlook minorities, wealth can capture voice, participation
+is unequal); (3) avoid dogma — democracy is *compared*, not preached; alternatives are
+described accurately, not caricatured, and learners may reach different conclusions
+about which arrangement best serves justice in a given place (philosophy §11).** The
+ethics lens: how a group decides is itself a moral question. The egalitarian lens: in
+every arrangement ask *who gets a real voice, and who is excluded.* The global lens:
+democracy and its alternatives appear in many cultural forms across societies — none is
+the default, and consensus traditions are living, not relics. Distinguish evidence from
+values: *that* participation is uneven is a documented fact (cite a dataset); *that*
+broader participation is better is a value we argue for. This is a portfolio artifact —
+keep the comparison.
 
 ## Procedure
 

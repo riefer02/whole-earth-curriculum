@@ -111,13 +111,12 @@ people decide what medicine works, what is safe to eat, and what is actually tru
 
 ## Facilitator note
 
-Written to the learner ("you"). The heart of this lesson is the *sequence*, not the
-answer: predict → test → observe. Insist that every prediction is written or said
-**before** the test — a correct guess is not the point; the habit of predicting is.
-Keep the clay boat subtle: show how the same clay that sank as a ball floats as a
-boat shape. When learners give an explanation, ask "did you see that, or are you
-reasoning it out?" — this is how evidence and inference get separated. Do not rush
-the naming; let them wrestle with it.
+The heart of this lesson is the *sequence*, not the answer: predict → test → observe.
+Insist that every prediction is written or said **before** the test — a correct guess is
+not the point; the habit of predicting is. Keep the clay boat subtle: show how the same
+clay that sank as a ball floats as a boat shape. When learners give an explanation, ask
+"did you see that, or are you reasoning it out?" — this is how evidence and inference
+get separated. Do not rush the naming; let them wrestle with it.
 
 ## Procedure
 

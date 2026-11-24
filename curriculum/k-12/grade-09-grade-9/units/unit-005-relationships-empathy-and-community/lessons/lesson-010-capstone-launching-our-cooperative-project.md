@@ -119,16 +119,18 @@ motion: you launch.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The capstone has two jobs: **(1) launch — turn the design from
-Lesson 9 into a committed plan: a concrete goal, named roles, a short timeline with check-in points, and one
-first step someone will actually take this week; (2) reflect — retrieval across the unit, so the ideas are
-recalled, connected, and carried forward (spacing and retrieval, see docs/assessment.md).** Keep the launch
-small and real: the first step should be doable within days, not a grand plan that collapses. The egalitarian
-lens: check that the plan shares work and power — with the community, not for it (S-345). The ethics lens:
-cooperation over competition, and care for the people the project touches. The global lens: this same shape —
-people meeting a real need together — is how communities everywhere have thrived (S-163, S-164). The
-technology/environment lens: name what tools the project will use and what its effect on the environment will
-be. End with agency and hope, not exhaustion — the project is a beginning, not a final exam. Celebrate the
+The capstone has two jobs: **(1) launch — turn the design from Lesson 9 into a committed
+plan: a concrete goal, named roles, a short timeline with check-in points, and one first
+step someone will actually take this week; (2) reflect — retrieval across the unit, so
+the ideas are recalled, connected, and carried forward (spacing and retrieval, see
+docs/assessment.md).** Keep the launch small and real: the first step should be doable
+within days, not a grand plan that collapses. The egalitarian lens: check that the plan
+shares work and power — with the community, not for it (S-345). The ethics lens:
+cooperation over competition, and care for the people the project touches. The global
+lens: this same shape — people meeting a real need together — is how communities
+everywhere have thrived (S-163, S-164). The technology/environment lens: name what tools
+the project will use and what its effect on the environment will be. End with agency and
+hope, not exhaustion — the project is a beginning, not a final exam. Celebrate the
 launch.
 
 ## Procedure

@@ -118,14 +118,14 @@ leaves behind.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is the **three-way sort**:
-read a message, name its kind (news, opinion, or advertisement), and point to the clue. Model
-the park example fully as a worked example before independent sorting (Kirschner, Sweller &
-Clark, 2006). **Teach without cynicism:** the tone is "be clear-eyed, not suspicious" — news
-is still worth reading, opinions still worth hearing, and ads are honest when they say they
-are selling. Distinguish evidence from values: *which words and structures mark each kind* is
-observable; *that we should know which is which* is a value this curriculum holds. See
-`docs/philosophy.md` §5, §7 and `docs/facilitation.md`.
+The skill to land is the **three-way sort**: read a message, name its kind (news,
+opinion, or advertisement), and point to the clue. Model the park example fully as a
+worked example before independent sorting (Kirschner, Sweller & Clark, 2006). **Teach
+without cynicism:** the tone is "be clear-eyed, not suspicious" — news is still worth
+reading, opinions still worth hearing, and ads are honest when they say they are
+selling. Distinguish evidence from values: *which words and structures mark each kind*
+is observable; *that we should know which is which* is a value this curriculum holds.
+See `docs/philosophy.md` §5, §7 and `docs/facilitation.md`.
 
 ## Procedure
 

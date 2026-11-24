@@ -127,22 +127,22 @@ wrong.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the more-than-human
-world is the idea that the living community includes rivers, forests, animals, and
-mountains — not just people — and that these beings are owed care, not merely used;
-this is a living idea in traditions across the world (Kimmerer on Potawatomi animacy,
-S-427; Standing Rock's "water is life," S-485; Inuit kinship with land and animals,
-S-058).** The scientific register runs alongside, not against, it: human life depends
-on a living web, and its loss falls hardest on those closest to it (IPBES, S-437).
-Hold these as *accounts to understand*, never to rank against each other or against
-science — the philosophy here is inquiry over creed (see `docs/philosophy.md` §11).
+The idea to land: **the more-than-human world is the idea that the living community
+includes rivers, forests, animals, and mountains — not just people — and that these
+beings are owed care, not merely used; this is a living idea in traditions across the
+world (Kimmerer on Potawatomi animacy, S-427; Standing Rock's "water is life," S-485;
+Inuit kinship with land and animals, S-058).** The scientific register runs alongside,
+not against, it: human life depends on a living web, and its loss falls hardest on those
+closest to it (IPBES, S-437). Hold these as *accounts to understand*, never to rank
+against each other or against science — the philosophy here is inquiry over creed (see
+`docs/philosophy.md` §11).
 
 Guard against two errors. First, exoticizing: these are living traditions of real,
 contemporary peoples, not museum pieces or "ancient wisdom" to be borrowed as
-decoration. Second, flattening: no single concept ("animacy," "personhood," "water
-is life") stands for all Indigenous or place-based traditions — name specific
-peoples and their specific words, as the sources do. The respect the curriculum owes
-is to the *specificity*.
+decoration. Second, flattening: no single concept ("animacy," "personhood," "water is
+life") stands for all Indigenous or place-based traditions — name specific peoples and
+their specific words, as the sources do. The respect the curriculum owes is to the
+*specificity*.
 
 The **environment** lens is core. The **ethics** lens: what is owed to a being that
 cannot speak in a courtroom. The **egalitarianism** lens: this is a challenge to the

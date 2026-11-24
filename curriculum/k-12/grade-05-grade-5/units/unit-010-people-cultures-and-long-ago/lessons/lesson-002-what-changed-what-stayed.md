@@ -117,13 +117,12 @@ timeline we built yesterday is the map that shows both.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **change and
-continuity are both real and both normal** — a civilization is not "better" because it
-changed more or less. Model the first sort aloud (guided practice) so learners see the
-reasoning: a feature is "continuity" if it lasted and returned, "change" if it appeared,
-grew, or faded. Welcome disagreement and ask for reasons rather than one "right" answer;
-some features (a city, a craft) are both. Keep both civilizations at equal dignity. See
-`docs/facilitation.md`.
+The idea to land is that **change and continuity are both real and both normal** — a
+civilization is not "better" because it changed more or less. Model the first sort aloud
+(guided practice) so learners see the reasoning: a feature is "continuity" if it lasted
+and returned, "change" if it appeared, grew, or faded. Welcome disagreement and ask for
+reasons rather than one "right" answer; some features (a city, a craft) are both. Keep
+both civilizations at equal dignity. See `docs/facilitation.md`.
 
 ## Procedure
 

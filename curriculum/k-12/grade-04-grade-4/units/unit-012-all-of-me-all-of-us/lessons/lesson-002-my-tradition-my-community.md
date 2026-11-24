@@ -111,21 +111,20 @@ to a whole world. Today you trace your own thread and see how far it reaches.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Its commitment: **every family shape and
-every culture is honored, and no tradition is "better" or "more real" than another.** A
-learner's family may be parents, one parent, grandparents, extended kin, guardians,
-foster or group care, a chosen circle, or a blended family — and "tradition" may be
-anything *kept and passed on*, from a holiday to a weekly meal to a way of remembering
-someone who has died. Handle adoption, loss, and mobility gently: a child who has moved
-or lost someone may hold a tradition that feels far away or painful — invite, never
-demand, and let "the tradition I carry in my heart" be a full answer. Some learners may
-have no family tradition they can name; a *cultural* tradition (a language, a greeting,
-a food of a place) is equally valid. Model the abstraction aloud: "a tradition connects
-me to a larger community when other people, beyond my own home, share or honor it." For
-a learner who is blind or has low vision, describe the two circles aloud and trace the
-threads in words or on a raised line. For a non-speaking learner, accept a drawing, an
-object, signing, or a partner voicing. The goal is connection and belonging, not
-disclosure.
+Its commitment: **every family shape and every culture is honored, and no tradition is
+"better" or "more real" than another.** A learner's family may be parents, one parent,
+grandparents, extended kin, guardians, foster or group care, a chosen circle, or a
+blended family — and "tradition" may be anything *kept and passed on*, from a holiday to
+a weekly meal to a way of remembering someone who has died. Handle adoption, loss, and
+mobility gently: a child who has moved or lost someone may hold a tradition that feels
+far away or painful — invite, never demand, and let "the tradition I carry in my heart"
+be a full answer. Some learners may have no family tradition they can name; a *cultural*
+tradition (a language, a greeting, a food of a place) is equally valid. Model the
+abstraction aloud: "a tradition connects me to a larger community when other people,
+beyond my own home, share or honor it." For a learner who is blind or has low vision,
+describe the two circles aloud and trace the threads in words or on a raised line. For a
+non-speaking learner, accept a drawing, an object, signing, or a partner voicing. The
+goal is connection and belonging, not disclosure.
 
 ## Procedure
 

@@ -105,15 +105,13 @@ and finds the idea they are really trying to share.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Teach the five question words as explicit, worked instruction:
-name each word, model the question it makes, then guide practice (Kirschner, Sweller
-& Clark, 2006). The key idea to protect: a question is an act of attention, not a
-challenge. Model asking with a warm, curious voice, and model answering with patience.
-Questions may be spoken, signed, written, or shown by pointing to a card — all count
-fully. Keep the talk friendly and small; no learner's private life is put on display.
-This is an egalitarian moment: every question is worth an answer, and no question is
-"foolish."
+Teach the five question words as explicit, worked instruction: name each word, model the
+question it makes, then guide practice (Kirschner, Sweller & Clark, 2006). The key idea
+to protect: a question is an act of attention, not a challenge. Model asking with a
+warm, curious voice, and model answering with patience. Questions may be spoken, signed,
+written, or shown by pointing to a card — all count fully. Keep the talk friendly and
+small; no learner's private life is put on display. This is an egalitarian moment: every
+question is worth an answer, and no question is "foolish."
 
 ## Procedure
 

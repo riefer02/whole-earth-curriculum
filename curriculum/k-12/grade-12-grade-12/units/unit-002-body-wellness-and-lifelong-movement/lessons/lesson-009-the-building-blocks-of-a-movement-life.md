@@ -115,14 +115,14 @@ names, so you can build with them on purpose.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **evidence,
-hedged honestly**: a balanced routine includes aerobic (endurance) and muscle-
-strengthening activity, with balance and flexibility part of functional capacity across
-the lifespan — and balance/functional training matters especially for older adults
-(WHO, S-341). This is a *general guide, not a prescription*: intensity, form, and
-safety are individual, and every body adapts the blocks to its own needs. No single
-"correct" routine is imposed; a wheelchair user, a person with a chronic condition, and
-an elite athlete all use the same four blocks, differently.
+The idea to land, held as **evidence, hedged honestly**: a balanced routine includes
+aerobic (endurance) and muscle- strengthening activity, with balance and flexibility
+part of functional capacity across the lifespan — and balance/functional training
+matters especially for older adults (WHO, S-341). This is a *general guide, not a
+prescription*: intensity, form, and safety are individual, and every body adapts the
+blocks to its own needs. No single "correct" routine is imposed; a wheelchair user, a
+person with a chronic condition, and an elite athlete all use the same four blocks,
+differently.
 
 The **ethics** lens: the blocks are tools for health and joy, never a yardstick of
 worth. The **egalitarianism** lens: "exercise" is not only gyms and sports — carrying
@@ -130,7 +130,11 @@ water, farming, sweeping, dancing, and care work all build these blocks, and tho
 as real as any workout. The **global** lens: the same four blocks appear in countless
 forms worldwide, so no single form is the default. The **critical-thinking** lens: a
 claim about "the best exercise" is a claim to check against the four blocks and the
-person's own body. The **technology & environment** lens: the four blocks were once built invisibly by the physical work of daily environments — farming, carrying, climbing — and labor-saving technology has quietly removed much of that incidental movement, so most people must now add the blocks back on purpose. Preview: Lesson 10 turns the blocks into your own plan.
+person's own body. The **technology & environment** lens: the four blocks were once
+built invisibly by the physical work of daily environments — farming, carrying,
+climbing — and labor-saving technology has quietly removed much of that incidental
+movement, so most people must now add the blocks back on purpose. Preview: Lesson 10
+turns the blocks into your own plan.
 
 ## Procedure
 

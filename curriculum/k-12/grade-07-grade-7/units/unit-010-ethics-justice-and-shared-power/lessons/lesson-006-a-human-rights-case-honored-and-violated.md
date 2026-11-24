@@ -112,25 +112,25 @@ you analyze how that looks up close.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) the right to vote is
-a human right — the Universal Declaration of Human Rights (Article 21) says everyone has the
-right to take part in their country's government, directly or through freely chosen
-representatives, with equal voting; (2) for most of history this right was violated for most
-people — women were excluded nearly everywhere, and many men too; (3) the right was honored
-at different times in different places — New Zealand 1893 (the first self-governing country
-to grant women the national vote), Switzerland 1971, Saudi Arabia 2015 — so "honored" and
-"violated" can coexist in the world at the same moment; (4) analyzing the case means naming
-the right, the violation, the honoring, and what made the difference (movements, changing
-ideas, and law).** Cite the UDHR (S-149) for the right itself; the historical dates are
-documented in Encyclopaedia Britannica ("woman suffrage") and are stated with a "for example"
-hedge. The ethics lens: exclusion from voting is a moral wrong because it treats some people
-as less than full members of the community. The egalitarian lens: this is a story about who
-was counted as "the people" and who was left out — the heart of egalitarianism. The global
-lens: the case spans many world regions and shows no single country as the default or the
-hero; the vote arrived at different times everywhere. The critical-thinking lens: the right
-being honored in law does not by itself mean every person can exercise it freely — ask what
-still stands in the way. Handle with care and end on agency: these rights were won by
-ordinary people organizing.
+The ideas to land: **(1) the right to vote is a human right — the Universal Declaration
+of Human Rights (Article 21) says everyone has the right to take part in their country's
+government, directly or through freely chosen representatives, with equal voting; (2)
+for most of history this right was violated for most people — women were excluded nearly
+everywhere, and many men too; (3) the right was honored at different times in different
+places — New Zealand 1893 (the first self-governing country to grant women the national
+vote), Switzerland 1971, Saudi Arabia 2015 — so "honored" and "violated" can coexist in
+the world at the same moment; (4) analyzing the case means naming the right, the
+violation, the honoring, and what made the difference (movements, changing ideas, and
+law).** Cite the UDHR (S-149) for the right itself; the historical dates are documented
+in Encyclopaedia Britannica ("woman suffrage") and are stated with a "for example"
+hedge. The ethics lens: exclusion from voting is a moral wrong because it treats some
+people as less than full members of the community. The egalitarian lens: this is a story
+about who was counted as "the people" and who was left out — the heart of
+egalitarianism. The global lens: the case spans many world regions and shows no single
+country as the default or the hero; the vote arrived at different times everywhere. The
+critical-thinking lens: the right being honored in law does not by itself mean every
+person can exercise it freely — ask what still stands in the way. Handle with care and
+end on agency: these rights were won by ordinary people organizing.
 
 ## Procedure
 

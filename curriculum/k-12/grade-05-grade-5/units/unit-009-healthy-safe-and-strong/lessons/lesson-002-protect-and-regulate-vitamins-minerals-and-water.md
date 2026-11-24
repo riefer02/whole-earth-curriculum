@@ -121,11 +121,11 @@ cup of water — these are your body's protectors and regulators.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **vitamins protect,
-minerals build and regulate, and water carries** — three more jobs, all needed. Keep it concrete
-with a shield, a builder, and a river. Use food examples from many regions (citrus, guava, mango,
-leafy greens, tomatoes, sesame, beans, lentils, fish, dairy or its plant alternatives) and honor
-every way of eating. Water is available differently in different places; frame access to clean
+The idea to land is that **vitamins protect, minerals build and regulate, and water
+carries** — three more jobs, all needed. Keep it concrete with a shield, a builder, and
+a river. Use food examples from many regions (citrus, guava, mango, leafy greens,
+tomatoes, sesame, beans, lentils, fish, dairy or its plant alternatives) and honor every
+way of eating. Water is available differently in different places; frame access to clean
 water as a shared fairness issue, never a family's failing. See `docs/facilitation.md`.
 
 ## Procedure

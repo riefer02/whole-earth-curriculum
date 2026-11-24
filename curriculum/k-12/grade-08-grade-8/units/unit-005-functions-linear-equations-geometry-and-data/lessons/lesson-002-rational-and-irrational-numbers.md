@@ -112,19 +112,20 @@ are fractions, and some are not.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a rational number can be
-written as a/b where a and b are integers and b ≠ 0; its decimal terminates or repeats; (2) an
-irrational number cannot be written as a/b; its decimal never terminates or repeats; (3) √2 and π
-are irrational.** Because the a/b test is a foundational skill, use explicit instruction, worked
-examples, and guided practice before independent work (Kirschner, Sweller & Clark, 2006). Watch for
-the slips of calling every long decimal "irrational" (0.333… is rational — it repeats) and of
-thinking √9 is irrational (√9 = 3, rational). The critical-thinking lens: "irrational" is a
-*mathematical* fact about the number, not a slur — many learners first meet the word in everyday
-English, so name that clearly. The global lens: the realization that the diagonal is incommensurable
-with the side was made, as legend tells it, in the ancient Greek circle (Hippasus, 5th century BCE
-— S-353), but the number line is a shared human discovery, held side by side with other traditions
-(philosophy §11). The egalitarian lens: deciding "fraction or not" is a skill anyone can do with one
-clean test — mathematics as sense-making open to all.
+The ideas to land: **(1) a rational number can be written as a/b where a and b are
+integers and b ≠ 0; its decimal terminates or repeats; (2) an irrational number cannot
+be written as a/b; its decimal never terminates or repeats; (3) √2 and π are
+irrational.** Because the a/b test is a foundational skill, use explicit instruction,
+worked examples, and guided practice before independent work (Kirschner, Sweller &
+Clark, 2006). Watch for the slips of calling every long decimal "irrational" (0.333… is
+rational — it repeats) and of thinking √9 is irrational (√9 = 3, rational). The
+critical-thinking lens: "irrational" is a *mathematical* fact about the number, not a
+slur — many learners first meet the word in everyday English, so name that clearly. The
+global lens: the realization that the diagonal is incommensurable with the side was
+made, as legend tells it, in the ancient Greek circle (Hippasus, 5th century BCE —
+S-353), but the number line is a shared human discovery, held side by side with other
+traditions (philosophy §11). The egalitarian lens: deciding "fraction or not" is a skill
+anyone can do with one clean test — mathematics as sense-making open to all.
 
 ## Procedure
 

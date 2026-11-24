@@ -111,20 +111,19 @@ they feel and what they need. Today you will practice saying how *you* feel.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **expressing feelings, not
-winning**. Conflict is named as normal and okay — two people wanting different
-things — never as a child "being bad." No child is ever the problem; the conflict is
-the thing we solve together. Keep the conflict gentle (both want the same ball, the
-same swing) and free of blame. "Use your words" means *however a learner expresses
-themselves* — spoken words, sign, a gesture, pointing to a feeling on the board, eye
-gaze, or a communication board; a grown-up or peer can voice what they point to or
-sign. Learners who are deaf or hard of hearing follow the strip by sight and sign;
-learners who are blind or low-vision hear the sentence named and touch a textured
-feeling card; learners with a motor difference can point with a partner's help or
-direct the partner to move the puppets while they show the feeling. Never require
-anyone to speak or perform in front of the group; a learner may always pass. The
-sentence is a scaffold, not a script to obey — wonder together about other words
-that could work. (This lesson's partner, listening, comes next.)
+This lesson teaches **expressing feelings, not winning**. Conflict is named as normal
+and okay — two people wanting different things — never as a child "being bad." No child
+is ever the problem; the conflict is the thing we solve together. Keep the conflict
+gentle (both want the same ball, the same swing) and free of blame. "Use your words"
+means *however a learner expresses themselves* — spoken words, sign, a gesture, pointing
+to a feeling on the board, eye gaze, or a communication board; a grown-up or peer can
+voice what they point to or sign. Learners who are deaf or hard of hearing follow the
+strip by sight and sign; learners who are blind or low-vision hear the sentence named
+and touch a textured feeling card; learners with a motor difference can point with a
+partner's help or direct the partner to move the puppets while they show the feeling.
+Never require anyone to speak or perform in front of the group; a learner may always
+pass. The sentence is a scaffold, not a script to obey — wonder together about other
+words that could work. (This lesson's partner, listening, comes next.)
 
 ## Procedure
 

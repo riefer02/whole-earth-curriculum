@@ -114,20 +114,22 @@ gains and who pays?*
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a sustainability solution is judged on
-three questions — benefits (what good it does), limits (what it cannot do), and fairness (who gains and
-who pays) — and fairness is where solutions most often fail.** The **environment** lens is the spine. The
-**egalitarian** lens is decisive here: benefits and burdens rarely fall on the same people, and
-environmental justice is the discipline of noticing that (S-483, S-484). The **global** lens: the same
-solution (a plantation, a dam, a commons) succeeds or fails depending on local history and who holds the
-land. The **ethics** lens: fairness is a value judgment, not a measurement — say so plainly. The
-**technology** lens: high-tech and low-tech solutions both deserve the same three questions. Anchor the
-examples: sustainability defined as meeting today's needs without compromising the future (S-395);
-community-managed commons as a documented, effective pattern of stewardship (S-416); the Green Belt
-Movement as a real restoration effort led by communities (S-059); indigenous cultural burning as
-place-based stewardship (S-320). Distinguish evidence (what the solution does) from values (whether it is
-fair) (philosophy §5). Preview: next lesson assembles the whole unit into one portfolio and one
-synthesis.
+The idea to land: **a sustainability solution is judged on three questions — benefits
+(what good it does), limits (what it cannot do), and fairness (who gains and who pays) —
+and fairness is where solutions most often fail.** The **environment** lens is the
+spine. The **egalitarian** lens is decisive here: benefits and burdens rarely fall on
+the same people, and environmental justice is the discipline of noticing that (S-483,
+S-484). The **global** lens: the same solution (a plantation, a dam, a commons) succeeds
+or fails depending on local history and who holds the land. The **ethics** lens:
+fairness is a value judgment, not a measurement — say so plainly. The **technology**
+lens: high-tech and low-tech solutions both deserve the same three questions. Anchor the
+examples: sustainability defined as meeting today's needs without compromising the
+future (S-395); community-managed commons as a documented, effective pattern of
+stewardship (S-416); the Green Belt Movement as a real restoration effort led by
+communities (S-059); indigenous cultural burning as place-based stewardship (S-320).
+Distinguish evidence (what the solution does) from values (whether it is fair)
+(philosophy §5). Preview: next lesson assembles the whole unit into one portfolio and
+one synthesis.
 
 ## Procedure
 

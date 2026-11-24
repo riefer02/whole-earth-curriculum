@@ -109,13 +109,12 @@ body, and every family's way of eating is worth honoring.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, keep the message kind
-and never shame any food, body, or family. **No food shaming, ever** — this is a core
-guardrail. Talk about foods as *fuel and help*, not as "good" vs. "bad," and never tie
-food to a child's size or weight. Honor the wide world of eating: a food that one
-family eats daily may be rare for another, and both are fine. This lesson extends
-U.00.002's "Foods That Help Me Grow" by linking food to this unit's theme of movement
-and growth.
+As facilitator, keep the message kind and never shame any food, body, or family. **No
+food shaming, ever** — this is a core guardrail. Talk about foods as *fuel and help*,
+not as "good" vs. "bad," and never tie food to a child's size or weight. Honor the wide
+world of eating: a food that one family eats daily may be rare for another, and both are
+fine. This lesson extends U.00.002's "Foods That Help Me Grow" by linking food to this
+unit's theme of movement and growth.
 
 ## Procedure
 

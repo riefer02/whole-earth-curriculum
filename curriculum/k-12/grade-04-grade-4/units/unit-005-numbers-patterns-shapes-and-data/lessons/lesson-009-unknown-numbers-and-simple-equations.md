@@ -117,21 +117,20 @@ other, and the mystery number is what makes both sides equal.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is the learner's first formal
-meeting with a **variable** — a letter standing for an unknown. Teach it concretely as
-a **balance** (philosophy §13): both sides of an equation are equal, and the unknown
-is what makes them so (Van de Walle, Karp & Bay-Williams, 2019). Model *n* + 3 = 7
-with a worked example, find *n* = 4 by counting on or subtracting, then check by
-substitution. Build on Grade 3's missing-number problems (Carpenter, Fennema, Franke,
-Levi & Empson, 2015). **A letter is a tool for a job, not a scary symbol; and the
-pace at which a learner meets variables is not a measure of their worth. An equation
-is a fact about numbers, never about a person.** The idea of an unknown and of
-balancing quantities is found across mathematical traditions; the letters we use are
-one convention among many (Ifrah, 2000). Count in the home language. For learners who
-are Deaf or hard of hearing, sign the balance and the unknown; for learners who are
-blind or have low vision, feel a real balance and find the missing amount by touch.
-Learners with limited movement direct a partner to place counters. Mastery arrives at
-its own pace.
+This is the learner's first formal meeting with a **variable** — a letter standing for
+an unknown. Teach it concretely as a **balance** (philosophy §13): both sides of an
+equation are equal, and the unknown is what makes them so (Van de Walle, Karp &
+Bay-Williams, 2019). Model *n* + 3 = 7 with a worked example, find *n* = 4 by counting
+on or subtracting, then check by substitution. Build on Grade 3's missing-number
+problems (Carpenter, Fennema, Franke, Levi & Empson, 2015). **A letter is a tool for a
+job, not a scary symbol; and the pace at which a learner meets variables is not a
+measure of their worth. An equation is a fact about numbers, never about a person.** The
+idea of an unknown and of balancing quantities is found across mathematical traditions;
+the letters we use are one convention among many (Ifrah, 2000). Count in the home
+language. For learners who are Deaf or hard of hearing, sign the balance and the
+unknown; for learners who are blind or have low vision, feel a real balance and find the
+missing amount by touch. Learners with limited movement direct a partner to place
+counters. Mastery arrives at its own pace.
 
 ## Procedure
 

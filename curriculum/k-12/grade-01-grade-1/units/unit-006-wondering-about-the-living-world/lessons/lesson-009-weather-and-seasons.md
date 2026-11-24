@@ -112,15 +112,14 @@ every place's weather is a real and good one.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **No four-season default:** do not
-assume spring–summer–autumn–winter. Many places have two seasons (wet and dry), some
-are warm all year near the equator, some are cold most of the year near the poles,
-and the monsoon shapes life across South and Southeast Asia. Say plainly: there is no
-correct season, only the one that is home — and all of them are real. Name seasons in
-the learners' local language and calendar. This is a good place to be *global*: a
-child who has never seen snow can still wonder at it, and a child who has never seen
-a dry season can wonder at that. Honor every body: describe weather with skin and
-ears (warmth, wind sound) for a learner who cannot see; act it out for a learner who
+**No four-season default:** do not assume spring–summer–autumn–winter. Many places have
+two seasons (wet and dry), some are warm all year near the equator, some are cold most
+of the year near the poles, and the monsoon shapes life across South and Southeast Asia.
+Say plainly: there is no correct season, only the one that is home — and all of them are
+real. Name seasons in the learners' local language and calendar. This is a good place to
+be *global*: a child who has never seen snow can still wonder at it, and a child who has
+never seen a dry season can wonder at that. Honor every body: describe weather with skin
+and ears (warmth, wind sound) for a learner who cannot see; act it out for a learner who
 does not speak. Avoid frightening content: name storms matter-of-factly and keep the
 tone of wonder, never fear.
 

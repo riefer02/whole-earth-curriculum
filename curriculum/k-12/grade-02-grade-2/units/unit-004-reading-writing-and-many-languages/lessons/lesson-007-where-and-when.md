@@ -103,13 +103,12 @@ market stall sits on a particular street corner.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Build on yesterday's who/what: today adds where and when, and
-a quick recall of who/what at the start keeps earlier learning spaced and alive.
-Place and time can be told in words, pictures, or numbers; honor every way the
-learner's language and culture mark time — the question is "when," not "what does
-your clock say," and many ways of marking time are valid. A learner answers by
-speaking, signing, pointing, drawing, or writing. Work in the home language.
+Build on yesterday's who/what: today adds where and when, and a quick recall of who/what
+at the start keeps earlier learning spaced and alive. Place and time can be told in
+words, pictures, or numbers; honor every way the learner's language and culture mark
+time — the question is "when," not "what does your clock say," and many ways of marking
+time are valid. A learner answers by speaking, signing, pointing, drawing, or writing.
+Work in the home language.
 
 ## Procedure
 

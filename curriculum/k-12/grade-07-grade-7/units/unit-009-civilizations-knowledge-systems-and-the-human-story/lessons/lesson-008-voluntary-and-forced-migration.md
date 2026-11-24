@@ -114,25 +114,24 @@ side, with care.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) migration is
-the movement of people from one place to another; (2) voluntary migration is chosen —
-push factors (few jobs, hardship, danger at home) and pull factors (work, family,
-freedom, safety elsewhere); (3) forced migration is not chosen — people are taken or
-driven out, as in the transatlantic slave trade, in which at least 12 million Africans
-were forcibly transported across the Atlantic (a topic studied in full in Grade 8);
-(4) effects fall on the people who move (loss, separation, but also, in voluntary
-cases, opportunity) and on the places involved (both the places left and the places
-entered change).** These are documented facts (the transatlantic figure is standard in
-the Trans-Atlantic Slave Trade Database, slavevoyages.org; see also Encyclopaedia
-Britannica). Teach this with care: name feelings before facts, keep detail
-non-graphic, and always connect to dignity and survival, not despair (`docs/
+The ideas to land: **(1) migration is the movement of people from one place to another;
+(2) voluntary migration is chosen — push factors (few jobs, hardship, danger at home)
+and pull factors (work, family, freedom, safety elsewhere); (3) forced migration is not
+chosen — people are taken or driven out, as in the transatlantic slave trade, in which
+at least 12 million Africans were forcibly transported across the Atlantic (a topic
+studied in full in Grade 8); (4) effects fall on the people who move (loss, separation,
+but also, in voluntary cases, opportunity) and on the places involved (both the places
+left and the places entered change).** These are documented facts (the transatlantic
+figure is standard in the Trans-Atlantic Slave Trade Database, slavevoyages.org; see
+also Encyclopaedia Britannica). Teach this with care: name feelings before facts, keep
+detail non-graphic, and always connect to dignity and survival, not despair (`docs/
 facilitation.md`). The ethics lens: the difference between choice and coercion is a
 moral line — respecting it is why we treat the two kinds of movement differently. The
 egalitarian lens: forced migration is an injustice, not a "migration like any other";
 calling it by its right name honors the people who endured it. The global lens: both
-kinds of movement have happened across all continents and in all eras; no region is
-the default. The critical-thinking lens: question stories that say people "moved
-willingly" when records show they were taken — the word "migration" can hide coercion.
+kinds of movement have happened across all continents and in all eras; no region is the
+default. The critical-thinking lens: question stories that say people "moved willingly"
+when records show they were taken — the word "migration" can hide coercion.
 
 ## Procedure
 

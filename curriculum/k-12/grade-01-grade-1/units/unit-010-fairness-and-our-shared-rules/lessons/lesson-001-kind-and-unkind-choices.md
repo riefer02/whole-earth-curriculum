@@ -108,20 +108,18 @@ and unkind choices every day.
 
 ## Facilitator note
 
-Written to the learner ("you") so it works in a classroom and for a self-directed
-learner. The central commitment is **name the act, never the child**: say "that
-choice was unkind," never "you are a bad child." Unkind choices are things everyone
-makes sometimes, and we can choose again. Kind and unkind are offered as a question
-("what does this choice do for the other person?") rather than a fixed rule. Accept
-every learner's example — there is no single right answer, and a choice can be kind
-in one situation and unkind in another. A learner who does not speak aloud names the
-choice by pointing, signing, gesturing, or placing a marker on a card; a learner who
-is deaf or hard of hearing reads each situation from the picture cards or the
-acted-out scene and names the choice by signing or pointing; a learner who is blind
-or low-vision hears each situation described and names the choices aloud or by
-touch; a learner with a motor difference can direct a partner to act out the
-choice. Do not require anyone to speak in front of the group; a learner may always
-pass.
+The central commitment is **name the act, never the child**: say "that choice was
+unkind," never "you are a bad child." Unkind choices are things everyone makes
+sometimes, and we can choose again. Kind and unkind are offered as a question ("what
+does this choice do for the other person?") rather than a fixed rule. Accept every
+learner's example — there is no single right answer, and a choice can be kind in one
+situation and unkind in another. A learner who does not speak aloud names the choice by
+pointing, signing, gesturing, or placing a marker on a card; a learner who is deaf or
+hard of hearing reads each situation from the picture cards or the acted-out scene and
+names the choice by signing or pointing; a learner who is blind or low-vision hears each
+situation described and names the choices aloud or by touch; a learner with a motor
+difference can direct a partner to act out the choice. Do not require anyone to speak in
+front of the group; a learner may always pass.
 
 ## Procedure
 

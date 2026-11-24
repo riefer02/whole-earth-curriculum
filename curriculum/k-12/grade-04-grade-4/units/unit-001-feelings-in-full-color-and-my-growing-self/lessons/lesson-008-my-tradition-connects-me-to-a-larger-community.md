@@ -119,13 +119,12 @@ the boats is one thread in a worldwide web of people who honor the sea.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The aim is belonging without ranking: no
-tradition is "bigger" or "more connected" than another, and every thread is real. The
-key discovery is that the *same human needs* appear across cultures — which is an
-egalitarian and global point, not a competition. Model your own web first (worked
-example). Be ready for learners whose tradition connects them to a community they have
-left or lost; honor that thread gently as still real. See `docs/facilitation.md` on
-cultural power dynamics and difficult topics.
+The aim is belonging without ranking: no tradition is "bigger" or "more connected" than
+another, and every thread is real. The key discovery is that the *same human needs*
+appear across cultures — which is an egalitarian and global point, not a competition.
+Model your own web first (worked example). Be ready for learners whose tradition
+connects them to a community they have left or lost; honor that thread gently as still
+real. See `docs/facilitation.md` on cultural power dynamics and difficult topics.
 
 ## Procedure
 

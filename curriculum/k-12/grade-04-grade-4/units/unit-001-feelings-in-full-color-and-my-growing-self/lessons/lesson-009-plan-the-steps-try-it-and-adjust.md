@@ -117,13 +117,13 @@ a goal is a loop, not a straight line.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to coach is **adjustment** —
-treating a failed step as information, not failure. This mirrors evidence that learning
-is more effective when learners get feedback and act on it (mastery learning; Bloom
-1984). Model a real adjustment from your own life first (worked example), and keep the
-goal the *learner's own*. Watch for learners who fear a step "failing"; reframe loudly:
-"the plan changed — that means the plan is working, because now you know more." This is a
-portfolio artifact — have learners keep their goal-steps page for a follow-up check-in.
+The skill to coach is **adjustment** — treating a failed step as information, not
+failure. This mirrors evidence that learning is more effective when learners get
+feedback and act on it (mastery learning; Bloom 1984). Model a real adjustment from your
+own life first (worked example), and keep the goal the *learner's own*. Watch for
+learners who fear a step "failing"; reframe loudly: "the plan changed — that means the
+plan is working, because now you know more." This is a portfolio artifact — have
+learners keep their goal-steps page for a follow-up check-in.
 
 ## Procedure
 

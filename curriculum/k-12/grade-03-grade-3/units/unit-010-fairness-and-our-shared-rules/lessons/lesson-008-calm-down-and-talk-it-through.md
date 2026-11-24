@@ -123,23 +123,22 @@ way. Today you will practice the whole path, step by step.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **self-regulation + conflict
-talk** as one skill, not two. The order matters and is the point: the body must calm
-before the words can land, so Step 1 is always *stop and breathe* — never "just calm
-down" as a scolding, but a real, practiced breath (slow in through the nose, slower
-out through the mouth). Breathing is one way, not the only way: any slow calm that
-works counts — pressing feet to the floor, holding the calm anchor, or counting slowly
-— so a learner with breathing, sensory, or trauma-related difficulty never has to force
-a breath. Model the full five steps as a worked example, then let
-learners rehearse in pairs with a small, invented, blame-free conflict. The "I
-feel… I need…" words carry the blame-free move from Grade 2 forward — no one is "bad";
-each side names a feeling and a need, and the pair finds a solve that works for both.
-A learner who does not speak aloud points to each step on the strip or signs; a
-learner who is deaf or hard of hearing follows the steps through sign and the strip; a
-learner who is blind or low-vision hears each step described and names what comes
-next; a learner with a motor difference can direct a partner or hold the calm anchor.
-A learner may always pass. The aim is that every learner can say, in their own way, "I
-can calm down and talk it through."
+This lesson teaches **self-regulation + conflict talk** as one skill, not two. The order
+matters and is the point: the body must calm before the words can land, so Step 1 is
+always *stop and breathe* — never "just calm down" as a scolding, but a real, practiced
+breath (slow in through the nose, slower out through the mouth). Breathing is one way,
+not the only way: any slow calm that works counts — pressing feet to the floor, holding
+the calm anchor, or counting slowly — so a learner with breathing, sensory, or
+trauma-related difficulty never has to force a breath. Model the full five steps as a
+worked example, then let learners rehearse in pairs with a small, invented, blame-free
+conflict. The "I feel… I need…" words carry the blame-free move from Grade 2 forward —
+no one is "bad"; each side names a feeling and a need, and the pair finds a solve that
+works for both. A learner who does not speak aloud points to each step on the strip or
+signs; a learner who is deaf or hard of hearing follows the steps through sign and the
+strip; a learner who is blind or low-vision hears each step described and names what
+comes next; a learner with a motor difference can direct a partner or hold the calm
+anchor. A learner may always pass. The aim is that every learner can say, in their own
+way, "I can calm down and talk it through."
 
 ## Procedure
 

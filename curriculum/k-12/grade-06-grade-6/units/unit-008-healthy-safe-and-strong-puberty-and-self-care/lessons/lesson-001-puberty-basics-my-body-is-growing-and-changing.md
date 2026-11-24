@@ -130,20 +130,20 @@ own schedule.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is **factual, body-positive, and
-non-shaming** — the tone matters as much as the facts. Present the changes plainly, as
-normal biology, with no giggling invitation and no embarrassment; if a learner is
-embarrassed, meet it with calm warmth ("every adult you know went through this"). Use
-**inclusive, accurate language**: some bodies have a **uterus and ovaries** and will
-experience **menstruation**; some bodies have **testes** and will experience **erections**
-and sometimes **wet dreams**. Do not sort learners by sex, and never compare or rank
-bodies. Emphasize that these changes happen **gradually** and at **different times for
-different people** (the heart of the next lesson). Keep the reproductive content at the
-basic factual level of the standard — no graphic detail, no sexual content — and remind
-learners that a growing body is not ready to be a parent; these changes are the body
-*preparing* for a future that is still far off. Where family or community norms differ,
-adapt respectfully and encourage learners to take questions to a trusted adult at home.
-See `docs/facilitation.md` on holding sensitive topics safely and `docs/contexts.md`.
+It is **factual, body-positive, and non-shaming** — the tone matters as much as the
+facts. Present the changes plainly, as normal biology, with no giggling invitation and
+no embarrassment; if a learner is embarrassed, meet it with calm warmth ("every adult
+you know went through this"). Use **inclusive, accurate language**: some bodies have a
+**uterus and ovaries** and will experience **menstruation**; some bodies have **testes**
+and will experience **erections** and sometimes **wet dreams**. Do not sort learners by
+sex, and never compare or rank bodies. Emphasize that these changes happen **gradually**
+and at **different times for different people** (the heart of the next lesson). Keep the
+reproductive content at the basic factual level of the standard — no graphic detail, no
+sexual content — and remind learners that a growing body is not ready to be a parent;
+these changes are the body *preparing* for a future that is still far off. Where family
+or community norms differ, adapt respectfully and encourage learners to take questions
+to a trusted adult at home. See `docs/facilitation.md` on holding sensitive topics
+safely and `docs/contexts.md`.
 
 ## Procedure
 

@@ -122,16 +122,16 @@ that ate a plant.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Teach the chain with a **worked example**
-first — model Sun → grass → grasshopper → bird → worm, pointing at each card — then let
-learners order their own shuffled set (guided practice) before drawing alone. Guard
-against ranking: a food chain is a *circle of dependence*, not a ladder of importance;
-the worm and the lion are equal partners in keeping the whole alive (the egalitarian and
-ethics lenses). Use global examples so no one home is the default — rice and a person,
-seaweed and a fish, acacia leaves and a giraffe, maize and a hen. Note gently that
-scientists describe this chain from evidence gathered over many years; other traditions
-may tell the story of life's interdependence in their own words, and both can be honored
-(philosophy §11). Keep it factual and warm, with no fear.
+Teach the chain with a **worked example** first — model Sun → grass → grasshopper → bird
+→ worm, pointing at each card — then let learners order their own shuffled set (guided
+practice) before drawing alone. Guard against ranking: a food chain is a *circle of
+dependence*, not a ladder of importance; the worm and the lion are equal partners in
+keeping the whole alive (the egalitarian and ethics lenses). Use global examples so no
+one home is the default — rice and a person, seaweed and a fish, acacia leaves and a
+giraffe, maize and a hen. Note gently that scientists describe this chain from evidence
+gathered over many years; other traditions may tell the story of life's interdependence
+in their own words, and both can be honored (philosophy §11). Keep it factual and warm,
+with no fear.
 
 ## Procedure
 

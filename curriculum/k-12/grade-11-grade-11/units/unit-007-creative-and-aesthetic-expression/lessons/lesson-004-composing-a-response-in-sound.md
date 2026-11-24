@@ -120,24 +120,24 @@ one question: *what should this make a listener feel, and how do I build that wi
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **the elements of music
-are the levers a composer pulls — melody, rhythm, harmony, timbre, dynamics, tempo,
-texture, form (S-368); pulling a lever changes the listener's feeling, and the written
-explanation names which lever and why.** Teach the move "choose two elements → build a
-short piece → say the intended effect" with a worked example and guided practice (S-011);
-the issue and the feeling stay the learner's own.
+The ideas to land: **the elements of music are the levers a composer pulls — melody,
+rhythm, harmony, timbre, dynamics, tempo, texture, form (S-368); pulling a lever changes
+the listener's feeling, and the written explanation names which lever and why.** Teach
+the move "choose two elements → build a short piece → say the intended effect" with a
+worked example and guided practice (S-011); the issue and the feeling stay the learner's
+own.
 
 The **intellectual** lens: composing is reasoning in sound — a sequence of deliberate
-choices, not an accident. The **critical-thinking** lens: learners separate *observation*
-("the tempo is slow, the volume soft") from *judgment* ("it feels mournful"). The
-**global** lens: music that answers injustice exists across cultures — **reggae** grew
-among marginalized groups in western Kingston and became "a voice for all" on injustice,
-resistance, love, and humanity (S-450); **nueva canción** in Latin America fused folk
-forms with protest and social change, and its musicians faced censorship and violence
-under dictatorship (S-449). Meet these as living traditions to honor with respectful
-questions, never to imitate carelessly. The **environment** lens: sound can also *be* the
-issue — a piece built from recorded water, wind, or traffic lets the environment itself
-speak.
+choices, not an accident. The **critical-thinking** lens: learners separate
+*observation* ("the tempo is slow, the volume soft") from *judgment* ("it feels
+mournful"). The **global** lens: music that answers injustice exists across cultures —
+**reggae** grew among marginalized groups in western Kingston and became "a voice for
+all" on injustice, resistance, love, and humanity (S-450); **nueva canción** in Latin
+America fused folk forms with protest and social change, and its musicians faced
+censorship and violence under dictatorship (S-449). Meet these as living traditions to
+honor with respectful questions, never to imitate carelessly. The **environment** lens:
+sound can also *be* the issue — a piece built from recorded water, wind, or traffic lets
+the environment itself speak.
 
 ## Procedure
 

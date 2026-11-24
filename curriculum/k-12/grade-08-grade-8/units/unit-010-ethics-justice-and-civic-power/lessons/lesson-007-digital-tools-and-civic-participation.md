@@ -115,22 +115,23 @@ when you act with others*.
 
 ## Facilitator note
 
-This lesson is written to the learner. It delivers the second strand-3 goal, and it carries the
-**technology lens** explicitly (philosophy §4). Teach the change as a *trade-off* to weigh, not
-a hero/villain story: digital tools give **reach** (many people, cheaply), **speed** (instantly),
-and **coordination** (many hands organized at once) — and they also enable **misinformation**
-(false stories spread as fast as true ones), **surveillance** (the tools that connect can also
-be watched), and **harassment** (a loud crowd can drown or threaten a single voice). The
-egalitarianism lens: ask *who can use the tools and who cannot* — a digital divide means the
-same tools widen some voices and silence others. The critical-thinking lens: the skill here is
-the same source-checking habit from media literacy (S-063) — *check before you share*.
-The ethics lens: organizing online is a moral act; the organizer's duty includes protecting the
-people they organize with. The global lens: the Arab Spring is one well-documented case among
-many — do not present it as the only story, and note that digital organizing happens (and is
-blocked) on every continent (S-391). Keep the tone measured: these are real risks, but the
-lesson ends with **safeguards** so learners leave with agency, not fear (facilitation.md). The
-standard is a *reasoned judgment*, not a verdict that online organizing is always worth it or
-never worth it.
+It delivers the second strand-3 goal, and it carries the **technology lens** explicitly
+(philosophy §4). Teach the change as a *trade-off* to weigh, not a hero/villain story:
+digital tools give **reach** (many people, cheaply), **speed** (instantly), and
+**coordination** (many hands organized at once) — and they also enable
+**misinformation** (false stories spread as fast as true ones), **surveillance** (the
+tools that connect can also be watched), and **harassment** (a loud crowd can drown or
+threaten a single voice). The egalitarianism lens: ask *who can use the tools and who
+cannot* — a digital divide means the same tools widen some voices and silence others.
+The critical-thinking lens: the skill here is the same source-checking habit from media
+literacy (S-063) — *check before you share*. The ethics lens: organizing online is a
+moral act; the organizer's duty includes protecting the people they organize with. The
+global lens: the Arab Spring is one well-documented case among many — do not present it
+as the only story, and note that digital organizing happens (and is blocked) on every
+continent (S-391). Keep the tone measured: these are real risks, but the lesson ends
+with **safeguards** so learners leave with agency, not fear (facilitation.md). The
+standard is a *reasoned judgment*, not a verdict that online organizing is always worth
+it or never worth it.
 
 ## Procedure
 

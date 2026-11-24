@@ -116,27 +116,28 @@ now and the ones who come after.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a stewardship plan is six
-steps — name the place or resource, assess its condition, set the goal, choose actions, check
-fairness to present and future generations, and plan how to monitor and defend it — and a plan
-is defensible only when it names who gains, who gives something up, and what the future
-inherits.** Model one small plan explicitly, then let learners design their own (S-011). Grade
-the *thinking*, not the scale: a small, real, fair plan for a real place is worth more than a
-grand plan for nowhere.
+The idea to land: **a stewardship plan is six steps — name the place or resource, assess
+its condition, set the goal, choose actions, check fairness to present and future
+generations, and plan how to monitor and defend it — and a plan is defensible only when
+it names who gains, who gives something up, and what the future inherits.** Model one
+small plan explicitly, then let learners design their own (S-011). Grade the *thinking*,
+not the scale: a small, real, fair plan for a real place is worth more than a grand plan
+for nowhere.
 
-The **ethics** lens: a plan is where care becomes obligation — it names a duty to the place and
-to the people, present and future, who depend on it. The **egalitarianism** lens: every plan
-creates winners and losers of a sort — who gets water, who pays for upkeep, whose use is
-limited — so a fair plan says so honestly rather than pretending everyone gains equally
-(S-459). The **global** lens: communities worldwide have governed shared resources by their own
-common rules for centuries — the commons — and a good plan can learn from them without
-assuming any one model fits everywhere (S-416). The **technology** lens: technology can serve a
-plan (a pump, a sensor, a repair network) but is not the plan itself; the plan keeps the goal
-first and the tools in service of it (S-452). The **environment** lens: the fairness check is
-the Brundtland test — meeting today's needs without robbing the future — and real-world
-stewardship, from tree-planting movements to river protectors, shows the plan in action (S-395,
-S-059, S-328). Preview: Lesson 14 turns the plan inward and outward — your own responsibility as
-a steward of the Earth.
+The **ethics** lens: a plan is where care becomes obligation — it names a duty to the
+place and to the people, present and future, who depend on it. The **egalitarianism**
+lens: every plan creates winners and losers of a sort — who gets water, who pays for
+upkeep, whose use is limited — so a fair plan says so honestly rather than pretending
+everyone gains equally (S-459). The **global** lens: communities worldwide have governed
+shared resources by their own common rules for centuries — the commons — and a good plan
+can learn from them without assuming any one model fits everywhere (S-416). The
+**technology** lens: technology can serve a plan (a pump, a sensor, a repair network)
+but is not the plan itself; the plan keeps the goal first and the tools in service of it
+(S-452). The **environment** lens: the fairness check is the Brundtland test — meeting
+today's needs without robbing the future — and real-world stewardship, from
+tree-planting movements to river protectors, shows the plan in action (S-395, S-059,
+S-328). Preview: Lesson 14 turns the plan inward and outward — your own responsibility
+as a steward of the Earth.
 
 ## Procedure
 

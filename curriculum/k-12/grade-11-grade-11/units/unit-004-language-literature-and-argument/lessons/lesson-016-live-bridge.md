@@ -118,27 +118,26 @@ are unsure. That is enough to let two humans meet.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is the unit's capstone performance:
-**a live bridge between two speakers of different languages in a real setting, with a
-written reflection on what the bridge made possible.** The standard is *accuracy and
-care*, not fluency (S-237): a learner who checks back and admits uncertainty has met
-it fully. Where two real languages are not available, two *registers* or *ways of
-speaking* serve as a faithful low-threshold setting (egalitarian lens). The live bridge
-is also the unit's closing **retrieval and spacing** payoff — every earlier skill
-returns here: listening across difference (Lessons 1–2), carrying meaning (5–6),
-reading position (7–8), writing across languages (11–12), weighing policy (13–14),
-bridging (15) (S-039).
+This is the unit's capstone performance: **a live bridge between two speakers of
+different languages in a real setting, with a written reflection on what the bridge made
+possible.** The standard is *accuracy and care*, not fluency (S-237): a learner who
+checks back and admits uncertainty has met it fully. Where two real languages are not
+available, two *registers* or *ways of speaking* serve as a faithful low-threshold
+setting (egalitarian lens). The live bridge is also the unit's closing **retrieval and
+spacing** payoff — every earlier skill returns here: listening across difference
+(Lessons 1–2), carrying meaning (5–6), reading position (7–8), writing across languages
+(11–12), weighing policy (13–14), bridging (15) (S-039).
 
 Run the bridges in trios, then reflect (performance → reflection; S-011). The **ethics**
-lens: the bridge must serve both speakers equally — never "winning" for one side,
-never adding or dropping meaning. The **egalitarian** lens: every language in the room
-is a full language, and the bridge honors both, ranking neither. The **global** lens:
-this is a worldwide, ancient human act — in markets, clinics, courts, and families
-everywhere, people carry meaning across. The **social-emotional** lens: celebrate what
-the bridge made possible — connection — and name the care it took. The **community**
-lens: the bridge is an act of mutual aid; reflect on how it strengthens the group, not
-just the interpreter. Close by gathering the portfolio and honoring multilingualism as
-wealth, home language first.
+lens: the bridge must serve both speakers equally — never "winning" for one side, never
+adding or dropping meaning. The **egalitarian** lens: every language in the room is a
+full language, and the bridge honors both, ranking neither. The **global** lens: this is
+a worldwide, ancient human act — in markets, clinics, courts, and families everywhere,
+people carry meaning across. The **social-emotional** lens: celebrate what the bridge
+made possible — connection — and name the care it took. The **community** lens: the
+bridge is an act of mutual aid; reflect on how it strengthens the group, not just the
+interpreter. Close by gathering the portfolio and honoring multilingualism as wealth,
+home language first.
 
 ## Procedure
 

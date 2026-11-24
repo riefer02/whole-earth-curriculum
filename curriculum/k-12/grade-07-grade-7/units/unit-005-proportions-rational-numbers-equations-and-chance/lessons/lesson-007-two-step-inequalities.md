@@ -116,19 +116,20 @@ inequalities. Fair rules often live on one side of a line; inequalities are how 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) an **inequality** says one
-side is greater/less than (or equal to) the other, so it has a *range* of solutions, not one; (2)
-solve it exactly like a two-step equation — undo in reverse order on both sides; (3) **flip the
-sign** when you multiply or divide both sides by a negative; and (4) graph with a **closed circle**
-for ≤ or ≥ (boundary included) and an **open circle** for < or > (boundary not included), shading
-the solution side. Because solving inequalities is a foundational skill, use explicit instruction,
-worked examples, and guided practice before independent work (Kirschner, Sweller & Clark, 2006).
-Watch for the slips of forgetting to flip the sign when dividing by a negative, and of using an
-open circle for "≤". Retrieval: ask learners to recall two-step equations — the solving is the same;
-only the answer (a range) and the sign-flip rule differ. The egalitarian lens (`docs/philosophy.md`
-§4): inequalities name limits ("at most", "at least") so rules and budgets can be stated and
-checked fairly by everyone. The critical-thinking lens (`docs/philosophy.md` §7): testing a
-boundary value and one inside value is honest checking of a range.
+The ideas to land: (1) an **inequality** says one side is greater/less than (or equal
+to) the other, so it has a *range* of solutions, not one; (2) solve it exactly like a
+two-step equation — undo in reverse order on both sides; (3) **flip the sign** when you
+multiply or divide both sides by a negative; and (4) graph with a **closed circle** for
+≤ or ≥ (boundary included) and an **open circle** for < or > (boundary not included),
+shading the solution side. Because solving inequalities is a foundational skill, use
+explicit instruction, worked examples, and guided practice before independent work
+(Kirschner, Sweller & Clark, 2006). Watch for the slips of forgetting to flip the sign
+when dividing by a negative, and of using an open circle for "≤". Retrieval: ask
+learners to recall two-step equations — the solving is the same; only the answer (a
+range) and the sign-flip rule differ. The egalitarian lens (`docs/philosophy.md` §4):
+inequalities name limits ("at most", "at least") so rules and budgets can be stated and
+checked fairly by everyone. The critical-thinking lens (`docs/philosophy.md` §7):
+testing a boundary value and one inside value is honest checking of a range.
 
 ## Procedure
 

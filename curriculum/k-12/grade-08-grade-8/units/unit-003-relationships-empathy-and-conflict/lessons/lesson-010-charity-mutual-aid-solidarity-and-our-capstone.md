@@ -132,29 +132,32 @@ you learn that difference, and you write down the kind of person you want to be 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) charity and mutual aid both
-help, but they are not the same: charity is a one-way gift in which the giver keeps the power and
-the receiver stays passive and often must prove need; mutual aid is reciprocity among equals, where
-power and dignity are shared, and solidarity is the commitment to stand with others rather than
-only for them (Dean Spade, S-345; Kropotkin, S-163); (2) the difference is not "charity is bad" —
-it is that charity alone can leave inequality and the power imbalance untouched, while mutual aid
-aims to share power too; (3) the unit's eight ideas are one thing — living well with others — and
-the capstone turns them into a personal commitment.** Model the chart once (S-011). **Hold the
-value gently and without shame: a genuine gift is not wrong; the question is whether our helping
-also asks who decides and who is treated as an equal.** This is a **summative** moment, but mastery
-is personal, not ranked — celebrate growth, never compare learners. The ethics lens: how we help
-can honor or wound dignity. The egalitarian lens: the deepest test is whether the power is shared,
-not just the goods. The global & anthropological lens: mutual aid and solidarity have long histories
-in many places — from communal work (harambee, gotong royong, mink'a/minga, barn-raising) to
-movements of people standing together — and giving itself has many distinct traditions, held side by
-side, never as one correct way. Several traditions frame giving as a duty or a form of justice rather
-than a condescension from above: zakat and sadaqah in Islamic practice, tzedakah in Jewish tradition,
-and dāna and sevā in South Asian traditions. So "charity" is not one universal thing — the simple
-one-way contrast here is a starting lens to think with, not a verdict on any tradition's way of
-giving; invite learners to notice how the place they live names and practices giving. The technology & environment
-lens: tools can serve charity or mutual aid — a donation app versus a shared network of neighbors —
-and the same fairness questions from Lesson 9 apply. End on hope and agency, never despair: the
-learner is leaving with something they can *do*.
+The ideas to land: **(1) charity and mutual aid both help, but they are not the same:
+charity is a one-way gift in which the giver keeps the power and the receiver stays
+passive and often must prove need; mutual aid is reciprocity among equals, where power
+and dignity are shared, and solidarity is the commitment to stand with others rather
+than only for them (Dean Spade, S-345; Kropotkin, S-163); (2) the difference is not
+"charity is bad" — it is that charity alone can leave inequality and the power imbalance
+untouched, while mutual aid aims to share power too; (3) the unit's eight ideas are one
+thing — living well with others — and the capstone turns them into a personal
+commitment.** Model the chart once (S-011). **Hold the value gently and without shame: a
+genuine gift is not wrong; the question is whether our helping also asks who decides and
+who is treated as an equal.** This is a **summative** moment, but mastery is personal,
+not ranked — celebrate growth, never compare learners. The ethics lens: how we help can
+honor or wound dignity. The egalitarian lens: the deepest test is whether the power is
+shared, not just the goods. The global & anthropological lens: mutual aid and solidarity
+have long histories in many places — from communal work (harambee, gotong royong,
+mink'a/minga, barn-raising) to movements of people standing together — and giving itself
+has many distinct traditions, held side by side, never as one correct way. Several
+traditions frame giving as a duty or a form of justice rather than a condescension from
+above: zakat and sadaqah in Islamic practice, tzedakah in Jewish tradition, and dāna and
+sevā in South Asian traditions. So "charity" is not one universal thing — the simple
+one-way contrast here is a starting lens to think with, not a verdict on any tradition's
+way of giving; invite learners to notice how the place they live names and practices
+giving. The technology & environment lens: tools can serve charity or mutual aid — a
+donation app versus a shared network of neighbors — and the same fairness questions from
+Lesson 9 apply. End on hope and agency, never despair: the learner is leaving with
+something they can *do*.
 
 ## Procedure
 

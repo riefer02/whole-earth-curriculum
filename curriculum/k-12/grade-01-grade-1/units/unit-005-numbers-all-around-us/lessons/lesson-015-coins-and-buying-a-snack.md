@@ -149,21 +149,20 @@ to buy something you want, fairly.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's capstone — a
-celebration, not a test. The goal is that each learner can identify a few coins by
-their value and use them in a real "buying" exchange, while the four strands return
-together. **Honor money as one system among many**: before coins, people traded
-goods directly or used shells, cacao, salt, and beads; even today many exchanges are
-barter, gift, and sharing. Use the learners' actual local currency where possible;
-if using play tokens, keep values simple (1, 5, 10). Never rank currencies or treat
-money as a measure of a person's worth — **having more coins is a fact, not a
-worth.** Keep amounts within 20, and frame buying as fair exchange: the cost is
-agreed, and you pay what is asked. For learners who are blind or low-vision, make
-coins distinguishable by touch — size, edge, or texture — and count by feel and
-sound; for learners who are Deaf or hard of hearing, carry out the exchange in sign
-or with written prices. A learner who does not speak buys by pointing, placing
-coins, or using a communication device. Every learner buys and sells at their own
-pace, and every exchange is honored.
+It is the unit's capstone — a celebration, not a test. The goal is that each learner can
+identify a few coins by their value and use them in a real "buying" exchange, while the
+four strands return together. **Honor money as one system among many**: before coins,
+people traded goods directly or used shells, cacao, salt, and beads; even today many
+exchanges are barter, gift, and sharing. Use the learners' actual local currency where
+possible; if using play tokens, keep values simple (1, 5, 10). Never rank currencies or
+treat money as a measure of a person's worth — **having more coins is a fact, not a
+worth.** Keep amounts within 20, and frame buying as fair exchange: the cost is agreed,
+and you pay what is asked. For learners who are blind or low-vision, make coins
+distinguishable by touch — size, edge, or texture — and count by feel and sound; for
+learners who are Deaf or hard of hearing, carry out the exchange in sign or with written
+prices. A learner who does not speak buys by pointing, placing coins, or using a
+communication device. Every learner buys and sells at their own pace, and every exchange
+is honored.
 
 ## Procedure
 

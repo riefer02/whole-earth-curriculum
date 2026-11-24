@@ -123,19 +123,19 @@ a reason.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson lets learners **author** rules rather than
-only receive them — an egalitarian, civic act. The structure is a simple worked
-example: (1) name the shared space, (2) name the rule, (3) give the "so that…" reason.
-Model it fully once, then let each learner draft their own. Emphasize that a rule
-gains its fairness from its *reason* — a reason that everyone, not just the proposer,
-can hear and accept. Hold open the question of whether the group would actually agree
-to the rule; a proposed rule is a suggestion to the group, not a command. A learner
-who does not speak aloud fills the page by pointing to a picture and to their rule and
-reason, or signs; a learner who is deaf or hard of hearing drafts through sign and
-pictures; a learner who is blind or low-vision states the space, rule, and reason
-aloud and has them written down; a learner with a motor difference can direct a
-partner to write or draw. A learner may always pass. The goal is a real proposal — "In
-the ___, my rule is ___, so that ___" — in the learner's own words.
+This lesson lets learners **author** rules rather than only receive them — an
+egalitarian, civic act. The structure is a simple worked example: (1) name the shared
+space, (2) name the rule, (3) give the "so that…" reason. Model it fully once, then let
+each learner draft their own. Emphasize that a rule gains its fairness from its
+*reason* — a reason that everyone, not just the proposer, can hear and accept. Hold open
+the question of whether the group would actually agree to the rule; a proposed rule is a
+suggestion to the group, not a command. A learner who does not speak aloud fills the
+page by pointing to a picture and to their rule and reason, or signs; a learner who is
+deaf or hard of hearing drafts through sign and pictures; a learner who is blind or
+low-vision states the space, rule, and reason aloud and has them written down; a learner
+with a motor difference can direct a partner to write or draw. A learner may always
+pass. The goal is a real proposal — "In the ___, my rule is ___, so that ___" — in the
+learner's own words.
 
 ## Procedure
 

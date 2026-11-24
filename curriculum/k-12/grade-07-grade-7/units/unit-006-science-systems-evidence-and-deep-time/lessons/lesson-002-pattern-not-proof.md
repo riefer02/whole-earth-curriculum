@@ -117,20 +117,21 @@ you from being fooled.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a pattern is necessary
-but never sufficient — a cause also needs a plausible mechanism and, where possible, a fair
-test, and all causal claims stay revisable.** Use explicit instruction with the umbrella
-worked example first, then guided practice on one claim card before independent work
-(Kirschner, Sweller & Clark, 2006). The checklist is a simplified, learner-friendly version
-of the "Hill criteria" for causation used in epidemiology (e.g., strength, consistency,
-plausible mechanism, temporality — which came first). Keep it simple: pattern, third
-variable, mechanism, test. The egalitarian lens (`docs/philosophy.md` §4): the demand for a
-mechanism and a test is what stopped false blame — for example, in old medicine, illnesses
-were blamed on a person's character or group until careful tests found real microbial causes;
-the pattern "these people are sick" was real but the cause was mis-assigned. The global lens:
-different peoples developed careful causal reasoning independently — trial-and-error
-agriculture (which crop, which soil), traditional medicine, and navigation all demanded
-"what actually causes this?" — so the skill is a human universal, not one culture's.
+The idea to land: **a pattern is necessary but never sufficient — a cause also needs a
+plausible mechanism and, where possible, a fair test, and all causal claims stay
+revisable.** Use explicit instruction with the umbrella worked example first, then
+guided practice on one claim card before independent work (Kirschner, Sweller & Clark,
+2006). The checklist is a simplified, learner-friendly version of the "Hill criteria"
+for causation used in epidemiology (e.g., strength, consistency, plausible mechanism,
+temporality — which came first). Keep it simple: pattern, third variable, mechanism,
+test. The egalitarian lens (`docs/philosophy.md` §4): the demand for a mechanism and a
+test is what stopped false blame — for example, in old medicine, illnesses were blamed
+on a person's character or group until careful tests found real microbial causes; the
+pattern "these people are sick" was real but the cause was mis-assigned. The global
+lens: different peoples developed careful causal reasoning independently —
+trial-and-error agriculture (which crop, which soil), traditional medicine, and
+navigation all demanded "what actually causes this?" — so the skill is a human
+universal, not one culture's.
 
 ## Procedure
 

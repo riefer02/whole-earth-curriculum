@@ -115,21 +115,20 @@ and their work. Today you will practice telling the difference, and making a rea
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **apology as repair, not as
-words alone**. An apology is real when the person means it and tries to fix the harm —
-naming what happened, noticing how the other felt, and doing something to make it
-right. Hold this as a question ("what does this apology *do* for the other person?"),
-never as a forced ritual: never make a learner perform an apology or confess a real,
-private hurt — invented or acted harms are welcome, and a learner may always pass.
-Name the *act*, never the child; there are no "bad children," only hurts to repair.
-The goal is understanding, not shame: an empty "sorry" is a *starting* point, and a
-learner can always add the repair to make it real. A learner who does not speak aloud
-shows the steps by pointing or signing; a learner who is deaf or hard of hearing
-follows the strip and the acted apology by sign and gesture; a learner who is blind or
-low-vision hears the two apologies described and names which is real and why; a
-learner with a motor difference can direct a partner to do the repair while they
-choose it. The aim is that every learner can say, in their own way, "a real sorry
-fixes the harm."
+This lesson teaches **apology as repair, not as words alone**. An apology is real when
+the person means it and tries to fix the harm — naming what happened, noticing how the
+other felt, and doing something to make it right. Hold this as a question ("what does
+this apology *do* for the other person?"), never as a forced ritual: never make a
+learner perform an apology or confess a real, private hurt — invented or acted harms are
+welcome, and a learner may always pass. Name the *act*, never the child; there are no
+"bad children," only hurts to repair. The goal is understanding, not shame: an empty
+"sorry" is a *starting* point, and a learner can always add the repair to make it real.
+A learner who does not speak aloud shows the steps by pointing or signing; a learner who
+is deaf or hard of hearing follows the strip and the acted apology by sign and gesture;
+a learner who is blind or low-vision hears the two apologies described and names which
+is real and why; a learner with a motor difference can direct a partner to do the repair
+while they choose it. The aim is that every learner can say, in their own way, "a real
+sorry fixes the harm."
 
 ## Procedure
 

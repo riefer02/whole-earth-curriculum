@@ -118,20 +118,20 @@ in markets, kitchens, and journeys everywhere.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It builds on Grade 2's comparing of
-two-digit numbers and adds **rounding** — the new skill is deciding which ten or
-hundred a number is nearer to. Teach with a **worked example** (philosophy §13): put
-347 on the line, count the steps to 340 and to 350, and see that 350 is nearer; do the
-same for the nearest hundred. The picture is the point: rounding is "nearest mark,"
-not a memorized "five or more goes up." Comparing uses the same line. **A number being
-"more" is a fact about quantities, never a worth about a person; no one's speed at
-rounding measures their smartness.** The midpoint (five) rule is one convention used in
-many school systems; the underlying idea — nearer to this mark than that one — is
-universal. Count in the home language; number words differ and all are correct. For
-learners who are Deaf or hard of hearing, mark "nearer" with hand signs and arrows; for
-learners who are blind or low-vision, use a tactile string line with knots at tens and
-hundreds so the hands can feel which mark is closer. Learners with limited movement
-direct a partner to walk the line. Mastery arrives at its own pace for each child.
+It builds on Grade 2's comparing of two-digit numbers and adds **rounding** — the new
+skill is deciding which ten or hundred a number is nearer to. Teach with a **worked
+example** (philosophy §13): put 347 on the line, count the steps to 340 and to 350, and
+see that 350 is nearer; do the same for the nearest hundred. The picture is the point:
+rounding is "nearest mark," not a memorized "five or more goes up." Comparing uses the
+same line. **A number being "more" is a fact about quantities, never a worth about a
+person; no one's speed at rounding measures their smartness.** The midpoint (five) rule
+is one convention used in many school systems; the underlying idea — nearer to this mark
+than that one — is universal. Count in the home language; number words differ and all
+are correct. For learners who are Deaf or hard of hearing, mark "nearer" with hand signs
+and arrows; for learners who are blind or low-vision, use a tactile string line with
+knots at tens and hundreds so the hands can feel which mark is closer. Learners with
+limited movement direct a partner to walk the line. Mastery arrives at its own pace for
+each child.
 
 ## Procedure
 

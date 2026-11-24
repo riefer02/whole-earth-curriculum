@@ -123,19 +123,19 @@ any message with clear eyes.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is the Grade 3 upgrade of Grade 2's
-"who made it and who is it for": now learners name the **purpose** (inform, persuade,
-entertain, warn) and the **audience** of a message. Model the two questions — *what is it
-for? who is it for?* — on one message, then guide practice on a second before learners work
-independently (Kirschner, Sweller & Clark, 2006). Keep the media stance warm: reading a
-message's purpose and audience is not suspicion; it is understanding — the maker of a menu
-wants to help you eat, and the maker of a toy ad wants you to want the toy. Both are
-honest once you can see them. Use messages from many places and lives — a market notice, a
-road sign, a menu, a story told aloud — so no one home is the default; a spoken story or
-song is a real message with a purpose and audience too. Honor every body: read each message
-aloud for a learner who is blind or has low vision and let them name purpose and audience by
-voice; a non-speaking learner points to "inform," "persuade," "entertain," or "warn" and to
-the audience picture; acting out each message works for learners who learn best by moving.
+This is the Grade 3 upgrade of Grade 2's "who made it and who is it for": now learners
+name the **purpose** (inform, persuade, entertain, warn) and the **audience** of a
+message. Model the two questions — *what is it for? who is it for?* — on one message,
+then guide practice on a second before learners work independently (Kirschner, Sweller &
+Clark, 2006). Keep the media stance warm: reading a message's purpose and audience is
+not suspicion; it is understanding — the maker of a menu wants to help you eat, and the
+maker of a toy ad wants you to want the toy. Both are honest once you can see them. Use
+messages from many places and lives — a market notice, a road sign, a menu, a story told
+aloud — so no one home is the default; a spoken story or song is a real message with a
+purpose and audience too. Honor every body: read each message aloud for a learner who is
+blind or has low vision and let them name purpose and audience by voice; a non-speaking
+learner points to "inform," "persuade," "entertain," or "warn" and to the audience
+picture; acting out each message works for learners who learn best by moving.
 
 ## Procedure
 

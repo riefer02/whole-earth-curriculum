@@ -119,17 +119,17 @@ different people.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **communities
-change over time, and change is both hard and good — it brings loss and gain in the same
-breath, and it lands differently on different people**. Keep the examples global and
-ordinary (a road, a market, migration, a new building), never one region's "default" and
-never a story that ranks one culture above another. Guard the egalitarian lens: the same
-change often helps some and burdens others, and naming who carries the cost is part of
-caring — without making anyone a villain. Invite learners to name a change from their own
-community only if they wish; no one is required to share. Model one loss-and-gain pair as a
-worked example before independent work (Kirschner, Sweller & Clark, 2006). Note that grief
-for what is lost is real and legitimate — it is not "resisting progress." See
-`docs/facilitation.md` and `docs/art-style.md`.
+The idea to land is that **communities change over time, and change is both hard and
+good — it brings loss and gain in the same breath, and it lands differently on different
+people**. Keep the examples global and ordinary (a road, a market, migration, a new
+building), never one region's "default" and never a story that ranks one culture above
+another. Guard the egalitarian lens: the same change often helps some and burdens
+others, and naming who carries the cost is part of caring — without making anyone a
+villain. Invite learners to name a change from their own community only if they wish; no
+one is required to share. Model one loss-and-gain pair as a worked example before
+independent work (Kirschner, Sweller & Clark, 2006). Note that grief for what is lost is
+real and legitimate — it is not "resisting progress." See `docs/facilitation.md` and
+`docs/art-style.md`.
 
 ## Procedure
 

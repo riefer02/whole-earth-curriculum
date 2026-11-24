@@ -113,10 +113,10 @@ is the closest home you have.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, this is a celebration,
-not a test. Help each learner recall one thing from each part of the unit and add it to
-their picture or the class body outline. Keep the tone joyful and inclusive — every
-body, every ability, and every way of living is welcome here.
+As facilitator, this is a celebration, not a test. Help each learner recall one thing
+from each part of the unit and add it to their picture or the class body outline. Keep
+the tone joyful and inclusive — every body, every ability, and every way of living is
+welcome here.
 
 ## Procedure
 

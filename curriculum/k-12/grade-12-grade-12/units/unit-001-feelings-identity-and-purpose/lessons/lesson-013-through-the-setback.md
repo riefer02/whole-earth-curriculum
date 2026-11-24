@@ -118,13 +118,13 @@ surrender — it is the way forward that actually exists.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **setbacks are met with
-a detour, not despair or denial — and the first move is naming whether the barrier is
-one I made or one the system made.** Both errors are tempting: self-blame for structural
-barriers (which the egalitarian lens names as real and unequally distributed), and
-excusing personal failure as fate. The growth view (Dweck, S-096) and self-compassion
-(Neff, S-222) are offered as resources, honestly hedged — effort is not a guarantee, and
-self-compassion is kindness, not excuse.
+The idea to land: **setbacks are met with a detour, not despair or denial — and the
+first move is naming whether the barrier is one I made or one the system made.** Both
+errors are tempting: self-blame for structural barriers (which the egalitarian lens
+names as real and unequally distributed), and excusing personal failure as fate. The
+growth view (Dweck, S-096) and self-compassion (Neff, S-222) are offered as resources,
+honestly hedged — effort is not a guarantee, and self-compassion is kindness, not
+excuse.
 
 The **ethics** lens: how we treat ourselves in failure is an ethical question, and so is
 how a society treats those its structures block. The **egalitarianism** lens: some

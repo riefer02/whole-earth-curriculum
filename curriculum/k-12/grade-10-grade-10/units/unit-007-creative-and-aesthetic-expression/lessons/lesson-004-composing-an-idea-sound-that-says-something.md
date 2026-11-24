@@ -114,25 +114,24 @@ someone else could play it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **composing is
-choosing sound on purpose — a clear idea or feeling, expressed through deliberate
-choices of melody, rhythm, dynamics, and texture, and notated so the choice is
-visible.** A graphic score (any drawn map of sound over time) is a universal, low-tech
-notation that needs no staff-reading, so every learner can compose and *document*,
-not just perform. The unit's through-line holds: a motif (a short musical idea)
-developed across the piece is the sonic twin of the visual motif from Lesson 1.
+The idea to land: **composing is choosing sound on purpose — a clear idea or feeling,
+expressed through deliberate choices of melody, rhythm, dynamics, and texture, and
+notated so the choice is visible.** A graphic score (any drawn map of sound over time)
+is a universal, low-tech notation that needs no staff-reading, so every learner can
+compose and *document*, not just perform. The unit's through-line holds: a motif (a
+short musical idea) developed across the piece is the sonic twin of the visual motif
+from Lesson 1.
 
 The **ethics** lens: composing your own idea (rather than only copying) is the honest
-starting point — originality here means your *choice*, made visible. The
-**egalitarian** lens: the voice and body are instruments; no purchased instrument or
-training is required to be a composer. The **global** lens: every musical tradition
-has its own ways of organizing sound and of writing it down — the graphic score is one
-such system, alongside staff notation, Indian raga frameworks (S-366), and the oral
-transmission of West African griots (S-446); none is "the" one true system. The
-**technology** lens: recording and notation tools let a composer hear and revise
-instantly — but a pencil works too. The **environment** lens: found-object
-instruments remind us that sound comes from the world around us, with no footprint at
-all.
+starting point — originality here means your *choice*, made visible. The **egalitarian**
+lens: the voice and body are instruments; no purchased instrument or training is
+required to be a composer. The **global** lens: every musical tradition has its own ways
+of organizing sound and of writing it down — the graphic score is one such system,
+alongside staff notation, Indian raga frameworks (S-366), and the oral transmission of
+West African griots (S-446); none is "the" one true system. The **technology** lens:
+recording and notation tools let a composer hear and revise instantly — but a pencil
+works too. The **environment** lens: found-object instruments remind us that sound comes
+from the world around us, with no footprint at all.
 
 Model one worked example (worked example → guided practice → independent composition;
 S-011). Keep it short — a piece can be eight seconds and still express a clear idea.

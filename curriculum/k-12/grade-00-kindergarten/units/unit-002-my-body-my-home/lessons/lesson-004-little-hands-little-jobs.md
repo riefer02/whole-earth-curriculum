@@ -106,11 +106,10 @@ work. Practice makes hands strong and clever.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, keep the stations simple
-and the pace unhurried. **Honor every body:** a learner who cannot use their hands can
-do the same jobs with their feet, their mouth, or a helper tool, or use larger objects;
-a learner with low grip strength can start with bigger, softer items. Growth in control
-is the goal, not speed or perfection.
+As facilitator, keep the stations simple and the pace unhurried. **Honor every body:** a
+learner who cannot use their hands can do the same jobs with their feet, their mouth, or
+a helper tool, or use larger objects; a learner with low grip strength can start with
+bigger, softer items. Growth in control is the goal, not speed or perfection.
 
 ## Procedure
 

@@ -98,11 +98,11 @@ your place changes.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is the one place a temperate
-"four seasons" assumption can sneak in — do not let it. A learner near the equator
-has a wet/dry year; a learner near a desert or a coast or the poles has yet another
-pattern. Celebrate whatever pattern is true locally, and gently add that other places
-have different patterns. The science is observation, not a calendar.
+This is the one place a temperate "four seasons" assumption can sneak in — do not let
+it. A learner near the equator has a wet/dry year; a learner near a desert or a coast or
+the poles has yet another pattern. Celebrate whatever pattern is true locally, and
+gently add that other places have different patterns. The science is observation, not a
+calendar.
 
 ## Procedure
 

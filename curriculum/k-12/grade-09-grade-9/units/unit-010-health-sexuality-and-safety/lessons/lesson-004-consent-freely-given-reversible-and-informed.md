@@ -115,24 +115,29 @@ never changes: your body is yours, and so is everyone else's.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The concept to land: **consent is an agreement that is
-freely given, reversible, and informed — a real, unpressured "yes" — and it is never assumed from
-silence, from a past yes, from what someone wears, or from a relationship.** This is a skills lesson
-with a strong values core, so use explicit instruction for the principles (worked example) and
-role-play for the practice (S-011). Teach the principles plainly: **freely given** (not pressured,
-coerced, or guilted — a yes under pressure is not a yes); **reversible** (a person can change their
-mind at any moment, even mid-way, and the new answer stands); **informed** (a person needs the real
-facts to agree); **not assumed** (silence, sleep, intoxication, or an earlier yes do not equal yes —
-only a clear, ongoing yes does). The ethics lens: consent is how we honor another person's autonomy —
-their right to decide what happens to their own body — and autonomy is the floor of all dignity. The
-egalitarian lens: **consent belongs to everyone equally — every gender, every body, every
-relationship — and no one's "no" matters less because of who they are.** The global lens: cultures
-express agreement and refusal differently — some are direct, some indirect, some rely on gesture —
-but the underlying standard is the same: a real, unforced agreement (UNESCO CSE, S-412). The technology lens: phones and social media add new consent questions — a photo or message shared without consent is a violation of consent, and digital spaces follow the same freely-given, reversible, informed standard as every other space. Hold the
-room safely: **role-play is voluntary; a learner may always observe instead; and if anything a
-learner shares suggests coercion or harm, follow your safeguarding path — believe, do not promise
-secrecy, get help** (WHO, S-051). Keep the language clear and calm, and never frame consent as a
-burden — it is the opposite: it is what makes closeness safe and mutual.
+The concept to land: **consent is an agreement that is freely given, reversible, and
+informed — a real, unpressured "yes" — and it is never assumed from silence, from a past
+yes, from what someone wears, or from a relationship.** This is a skills lesson with a
+strong values core, so use explicit instruction for the principles (worked example) and
+role-play for the practice (S-011). Teach the principles plainly: **freely given** (not
+pressured, coerced, or guilted — a yes under pressure is not a yes); **reversible** (a
+person can change their mind at any moment, even mid-way, and the new answer stands);
+**informed** (a person needs the real facts to agree); **not assumed** (silence, sleep,
+intoxication, or an earlier yes do not equal yes — only a clear, ongoing yes does). The
+ethics lens: consent is how we honor another person's autonomy — their right to decide
+what happens to their own body — and autonomy is the floor of all dignity. The
+egalitarian lens: **consent belongs to everyone equally — every gender, every body,
+every relationship — and no one's "no" matters less because of who they are.** The
+global lens: cultures express agreement and refusal differently — some are direct, some
+indirect, some rely on gesture — but the underlying standard is the same: a real,
+unforced agreement (UNESCO CSE, S-412). The technology lens: phones and social media add
+new consent questions — a photo or message shared without consent is a violation of
+consent, and digital spaces follow the same freely-given, reversible, informed standard
+as every other space. Hold the room safely: **role-play is voluntary; a learner may
+always observe instead; and if anything a learner shares suggests coercion or harm,
+follow your safeguarding path — believe, do not promise secrecy, get help** (WHO,
+S-051). Keep the language clear and calm, and never frame consent as a burden — it is
+the opposite: it is what makes closeness safe and mutual.
 
 ## Procedure
 

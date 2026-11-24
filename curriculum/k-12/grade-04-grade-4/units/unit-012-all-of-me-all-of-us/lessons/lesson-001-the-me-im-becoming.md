@@ -117,19 +117,19 @@ recipe of yourself and notice the person it is making.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **opening reflection**,
-and it sets the tone for the whole closing: **every child is becoming someone, and no
-one is finished.** Two commitments matter most. First, keep the reflection *descriptive,
-not ranked* — there are no "best" interests or abilities; a love of caring for a pet is
-as real as a love of numbers. Second, hold every life story gently: a learner may have
-moved homes, changed caregivers, or lost someone, so "what I have lived" must always be
-the child's own choosing, never a demand to disclose. Give the sentence frame "I have
-lived through ___ , and it taught me ___" only as an *option*, and honor a pass. The
-phrase "sense of self" is the abstraction to unpack — model it aloud: "my sense of self
-is the story I tell myself about who I am." For a learner who is blind or has low
-vision, make the map in words or tactually (three folded corners or three raised dots).
-For a learner who does not use a speaking voice, accept pointing, drawing, signing, or a
-partner voicing. Keep the tone warm: this is wonder at a growing person, not a test.
+It is the unit's **opening reflection**, and it sets the tone for the whole closing:
+**every child is becoming someone, and no one is finished.** Two commitments matter
+most. First, keep the reflection *descriptive, not ranked* — there are no "best"
+interests or abilities; a love of caring for a pet is as real as a love of numbers.
+Second, hold every life story gently: a learner may have moved homes, changed
+caregivers, or lost someone, so "what I have lived" must always be the child's own
+choosing, never a demand to disclose. Give the sentence frame "I have lived through ___
+, and it taught me ___" only as an *option*, and honor a pass. The phrase "sense of
+self" is the abstraction to unpack — model it aloud: "my sense of self is the story I
+tell myself about who I am." For a learner who is blind or has low vision, make the map
+in words or tactually (three folded corners or three raised dots). For a learner who
+does not use a speaking voice, accept pointing, drawing, signing, or a partner voicing.
+Keep the tone warm: this is wonder at a growing person, not a test.
 
 ## Procedure
 

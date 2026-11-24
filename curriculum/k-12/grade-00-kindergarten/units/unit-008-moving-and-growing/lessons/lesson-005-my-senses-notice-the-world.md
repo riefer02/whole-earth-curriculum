@@ -108,13 +108,12 @@ to know it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, describe each sense
-aloud and name the body part so learners who cannot see the cards can still join.
-**Honor every body:** a learner with low vision or hearing is not "missing" a sense —
-they sense the world fully in their own way, often with stronger other senses. Frame
-all five senses as doors to the world, and celebrate the different ways people use
-them. Only taste should be limited for safety, and only with a safe, adult-approved
-food.
+As facilitator, describe each sense aloud and name the body part so learners who cannot
+see the cards can still join. **Honor every body:** a learner with low vision or hearing
+is not "missing" a sense — they sense the world fully in their own way, often with
+stronger other senses. Frame all five senses as doors to the world, and celebrate the
+different ways people use them. Only taste should be limited for safety, and only with a
+safe, adult-approved food.
 
 ## Procedure
 

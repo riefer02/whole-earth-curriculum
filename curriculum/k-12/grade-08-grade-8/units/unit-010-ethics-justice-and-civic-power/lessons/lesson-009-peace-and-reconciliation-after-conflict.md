@@ -113,23 +113,24 @@ this on a large scale, and you learn the path that peace actually takes.
 
 ## Facilitator note
 
-This lesson is written to the learner. It delivers the second strand-4 goal and closes the
-strand's arc from conflict (L08) to reconciliation (L09). Teach the **path** explicitly with a
-worked example (S-011): **stop the harm → tell the truth → listen → take responsibility →
-repair and rebuild trust.** Use South Africa's Truth and Reconciliation Commission (S-392) as
-the anchor: after apartheid ended, the TRC invited people to testify publicly about what
-happened — truth-telling — and, in defined cases, offered amnesty in exchange for full
-disclosure, alongside reparations — a real, documented, and *contested* attempt to trade some
-punishment for truth and repair. Present it as **one attempt, with real strengths and real
-limits** (philosophy §11): truth-telling helped some families learn what happened to loved ones,
-but many felt justice was incomplete and the harm of poverty and inequality remained — that
-honesty is the point, not a failure of the lesson. The egalitarianism lens: reconciliation only
-works when the less powerful are genuinely heard and their harm taken seriously. The global
-lens: reconciliation has been attempted on every continent; also name Indigenous peacemaking
-circles (S-161) so the story is not one region's export. The ethics lens: the aim is repair, not
-revenge — and the lesson is careful *not* to say reconciliation is easy, automatic, or always
-the right path in every case; it is *one* hard, honorable way. The community lens: connect to
-the small reconciliations learners already practice in families and friendships. Hold the topic
+It delivers the second strand-4 goal and closes the strand's arc from conflict (L08) to
+reconciliation (L09). Teach the **path** explicitly with a worked example (S-011):
+**stop the harm → tell the truth → listen → take responsibility → repair and rebuild
+trust.** Use South Africa's Truth and Reconciliation Commission (S-392) as the anchor:
+after apartheid ended, the TRC invited people to testify publicly about what happened —
+truth-telling — and, in defined cases, offered amnesty in exchange for full disclosure,
+alongside reparations — a real, documented, and *contested* attempt to trade some
+punishment for truth and repair. Present it as **one attempt, with real strengths and
+real limits** (philosophy §11): truth-telling helped some families learn what happened
+to loved ones, but many felt justice was incomplete and the harm of poverty and
+inequality remained — that honesty is the point, not a failure of the lesson. The
+egalitarianism lens: reconciliation only works when the less powerful are genuinely
+heard and their harm taken seriously. The global lens: reconciliation has been attempted
+on every continent; also name Indigenous peacemaking circles (S-161) so the story is not
+one region's export. The ethics lens: the aim is repair, not revenge — and the lesson is
+careful *not* to say reconciliation is easy, automatic, or always the right path in
+every case; it is *one* hard, honorable way. The community lens: connect to the small
+reconciliations learners already practice in families and friendships. Hold the topic
 with care (facilitation.md "holding difficult topics safely"): keep it honest but not
 sensational, and end with agency and hope — the path is real, and people have walked it.
 

@@ -116,24 +116,24 @@ one every person, in every place, can describe.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a limit describes
-where a quantity is heading as it gets arbitrarily close to a value — it does not require
-arrival; continuity means no gap and no jump.** Teach the worked example explicitly, then
-let learners describe limits in their own words (S-011). Hold the concept as description,
-not mystery: the limit of 1/2 + 1/4 + 1/8 + … is 1, a claim anyone can check.
+The idea to land: **a limit describes where a quantity is heading as it gets arbitrarily
+close to a value — it does not require arrival; continuity means no gap and no jump.**
+Teach the worked example explicitly, then let learners describe limits in their own
+words (S-011). Hold the concept as description, not mystery: the limit of 1/2 + 1/4 +
+1/8 + … is 1, a claim anyone can check.
 
-The **ethics** lens: "approaching a goal without arriving" is honest about what a limit is
-and is not — we never claim the sum *equals* 1 by fiat; we show what it approaches. The
-**egalitarianism** lens: a limit is checkable by anyone with a strip of paper — it needs no
-special instrument or status. The **global** lens: the "approaches but never quite reaches"
-puzzle appears in many traditions — the Greek Zeno's dichotomy paradox, and the infinite
-series for π and trigonometric quantities developed by the Kerala school in southern
-India (Madhava of Sangamagrama, 14th–15th c.), centuries before European calculus
-(S-272, S-240). The **technology** lens: every calculator and computer *approximates* —
-it stops after finitely many steps, which is exactly the limit idea made practical. The
-**environment** lens: a population growing toward its carrying capacity is a living limit —
-it approaches a ceiling rather than growing forever (S-436). Preview: Lesson 2 turns
-limits into rates of change.
+The **ethics** lens: "approaching a goal without arriving" is honest about what a limit
+is and is not — we never claim the sum *equals* 1 by fiat; we show what it approaches.
+The **egalitarianism** lens: a limit is checkable by anyone with a strip of paper — it
+needs no special instrument or status. The **global** lens: the "approaches but never
+quite reaches" puzzle appears in many traditions — the Greek Zeno's dichotomy paradox,
+and the infinite series for π and trigonometric quantities developed by the Kerala
+school in southern India (Madhava of Sangamagrama, 14th–15th c.), centuries before
+European calculus (S-272, S-240). The **technology** lens: every calculator and computer
+*approximates* — it stops after finitely many steps, which is exactly the limit idea
+made practical. The **environment** lens: a population growing toward its carrying
+capacity is a living limit — it approaches a ceiling rather than growing forever
+(S-436). Preview: Lesson 2 turns limits into rates of change.
 
 ## Procedure
 

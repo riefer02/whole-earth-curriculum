@@ -107,22 +107,21 @@ stories to wonder why others do what they do.
 
 ## Facilitator note
 
-Written to the learner ("you"). Keep the story small and everyday — no frightening or
-heavy content at this age. A sample story: **Amara and the water queue.** Amara waits
-in a long line to fill her family's water pot. Ahead of her, a smaller child drops
-her cup. Amara leaves her spot to help the child pick it up (a good choice). Later,
-tired and hot, Amara pushes past the person in front of her to the tap (a hurtful
-choice). Wonder together: why did she help? (she cared; the child was smaller and
-sad.) Why did she push? (she was tired and hot and wanted to be first.) Notice that
-the reason for the hurtful choice — being tired — helps us understand Amara, but it
-does not make pushing okay. Name the *act*, never the child; Amara is not "bad," she
-made a hurtful choice and can choose again. A learner who does not speak aloud gives
-a reason by pointing to a picture of the reason (a tired face, a caring heart) or by
-signing; a learner who is deaf or hard of hearing follows the story through sign,
-the drawn story strip, a picture book, or by watching the puppets, and gives the
-reason by signing or pointing; a learner who is blind or low-vision hears the story
-told clearly and gives the reason aloud; a learner with a motor difference can
-direct a partner to move the puppets. A learner may always pass.
+Keep the story small and everyday — no frightening or heavy content at this age. A
+sample story: **Amara and the water queue.** Amara waits in a long line to fill her
+family's water pot. Ahead of her, a smaller child drops her cup. Amara leaves her spot
+to help the child pick it up (a good choice). Later, tired and hot, Amara pushes past
+the person in front of her to the tap (a hurtful choice). Wonder together: why did she
+help? (she cared; the child was smaller and sad.) Why did she push? (she was tired and
+hot and wanted to be first.) Notice that the reason for the hurtful choice — being
+tired — helps us understand Amara, but it does not make pushing okay. Name the *act*,
+never the child; Amara is not "bad," she made a hurtful choice and can choose again. A
+learner who does not speak aloud gives a reason by pointing to a picture of the reason
+(a tired face, a caring heart) or by signing; a learner who is deaf or hard of hearing
+follows the story through sign, the drawn story strip, a picture book, or by watching
+the puppets, and gives the reason by signing or pointing; a learner who is blind or
+low-vision hears the story told clearly and gives the reason aloud; a learner with a
+motor difference can direct a partner to move the puppets. A learner may always pass.
 
 ## Procedure
 

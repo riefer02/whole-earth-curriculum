@@ -114,16 +114,15 @@ a market, or anywhere people are together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is a single, precise
-link: **a value (something a person cares about) shapes the choices they make.** Use
-explicit instruction and a worked example first — this is a reasoning skill, and novices
-learn it best by watching a model before they try it themselves (Kirschner, Sweller &
-Clark, 2006). Do **not** rank values ("kindness is better than looking out for oneself");
-instead notice that different people hold different values, and both shape real choices.
-Distinguish **evidence from values** (`docs/philosophy.md` §5): *that* values shape
-choices is something we can observe in stories; *which* values to hold is each person's
-and community's choice. Keep questions open — invite, never impose. See
-`docs/facilitation.md`.
+The idea to land is a single, precise link: **a value (something a person cares about)
+shapes the choices they make.** Use explicit instruction and a worked example first —
+this is a reasoning skill, and novices learn it best by watching a model before they try
+it themselves (Kirschner, Sweller & Clark, 2006). Do **not** rank values ("kindness is
+better than looking out for oneself"); instead notice that different people hold
+different values, and both shape real choices. Distinguish **evidence from values**
+(`docs/philosophy.md` §5): *that* values shape choices is something we can observe in
+stories; *which* values to hold is each person's and community's choice. Keep questions
+open — invite, never impose. See `docs/facilitation.md`.
 
 ## Procedure
 

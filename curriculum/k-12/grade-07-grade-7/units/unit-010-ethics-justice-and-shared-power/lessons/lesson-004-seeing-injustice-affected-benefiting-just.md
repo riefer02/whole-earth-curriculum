@@ -111,20 +111,20 @@ seeing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) inequality is a
-pattern where some people get more of something important (or carry more of a burden) than
-others; injustice is inequality that is also unfair; (2) to analyze a case you name who is
-affected, who benefits, and what would make it more just; (3) "more just" can mean a one-time
-fix or a change to a rule or system.** Model the water case once on the board (worked
-example, S-011), then let groups work a second case. The ethics lens: analysis here is
-descriptive first (who is affected, who benefits — these are observable) and normative
-second (what would be more just — this is a value claim, and learners may differ). The
-egalitarian lens: injustice usually falls hardest on those with the least power; notice whose
-voice is missing. The environment lens: clean water is an environmental and a justice issue
-at once. The critical-thinking lens: the fact (about 1 in 4 people globally still lack safely
-managed drinking water — WHO/UNICEF JMP, S-065) is evidence; the claim that this *should*
-change is a value — keep them distinct. The water case is a composite illustration, not a
-named real community, so no real place is misrepresented. Handle with care and hope: end on
+The ideas to land: **(1) inequality is a pattern where some people get more of something
+important (or carry more of a burden) than others; injustice is inequality that is also
+unfair; (2) to analyze a case you name who is affected, who benefits, and what would
+make it more just; (3) "more just" can mean a one-time fix or a change to a rule or
+system.** Model the water case once on the board (worked example, S-011), then let
+groups work a second case. The ethics lens: analysis here is descriptive first (who is
+affected, who benefits — these are observable) and normative second (what would be more
+just — this is a value claim, and learners may differ). The egalitarian lens: injustice
+usually falls hardest on those with the least power; notice whose voice is missing. The
+environment lens: clean water is an environmental and a justice issue at once. The
+critical-thinking lens: the fact (about 1 in 4 people globally still lack safely managed
+drinking water — WHO/UNICEF JMP, S-065) is evidence; the claim that this *should* change
+is a value — keep them distinct. The water case is a composite illustration, not a named
+real community, so no real place is misrepresented. Handle with care and hope: end on
 agency (what could be done), never despair.
 
 ## Procedure

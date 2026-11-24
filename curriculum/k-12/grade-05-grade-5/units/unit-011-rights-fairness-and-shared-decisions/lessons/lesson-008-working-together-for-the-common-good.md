@@ -117,20 +117,20 @@ you will plan one, do one, and think about what made it work.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is the **plan-do-reflect
-cycle applied to a real, small, doable collective action for the common good**. Keep the
-action genuinely small and completable within the session or one short follow-up window —
-the reflection matters as much as the deed. This is a *skill* (planning, dividing roles,
-following through), so model one worked plan briefly before teams plan their own
-(Kirschner, Sweller & Clark, 2006). The **common good** framing is a value of this
-curriculum (that acting for everyone's benefit is worth doing) — name it as a value, not
-a fact. Make reflection honest and non-judging: *what worked* and *what we would change*
-are information, never blame. Carry the **technology & environment lens** honestly: people
-organize and communicate to act together in different ways — face to face, on a shared
-board, or through digital tools — and each way shapes who can take part and how far the
-action reaches; the shared environment is itself part of the common good (a tidied space,
-watered plants, a cleared path). Name tools as helpers of people, never replacements for
-them. See `docs/facilitation.md`.
+The skill to land is the **plan-do-reflect cycle applied to a real, small, doable
+collective action for the common good**. Keep the action genuinely small and completable
+within the session or one short follow-up window — the reflection matters as much as the
+deed. This is a *skill* (planning, dividing roles, following through), so model one
+worked plan briefly before teams plan their own (Kirschner, Sweller & Clark, 2006). The
+**common good** framing is a value of this curriculum (that acting for everyone's
+benefit is worth doing) — name it as a value, not a fact. Make reflection honest and
+non-judging: *what worked* and *what we would change* are information, never blame.
+Carry the **technology & environment lens** honestly: people organize and communicate to
+act together in different ways — face to face, on a shared board, or through digital
+tools — and each way shapes who can take part and how far the action reaches; the shared
+environment is itself part of the common good (a tidied space, watered plants, a cleared
+path). Name tools as helpers of people, never replacements for them. See
+`docs/facilitation.md`.
 
 ## Procedure
 

@@ -114,21 +114,23 @@ the chill.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) an atom is a nucleus of
-protons (positive) and neutrons (neutral) with electrons (negative) arranged in shells; the outermost
-electrons are the ones that take part in bonding; (2) atoms bond by sharing or moving these outer
-electrons, forming molecules and compounds; (3) breaking a bond absorbs energy (endothermic) and
-forming a bond releases energy (exothermic) — a reaction's net feel of hot or cold is the balance
-between the two.** Use a worked example first (S-011): burning — bonds in the fuel and oxygen break
-(absorbing energy), new bonds in the products form (releasing more), so the net is heat released.
-The critical-thinking lens: the atom is a *model* — no one has seen an electron the way we see a
-stone; we infer the structure from many experiments, and the model keeps being refined, so hold it as
-a model with evidence, not a literal picture (philosophy §11). The technology lens: chemical energy
-is the stored power behind fuels, batteries, food, and living bodies — understanding bonding is
-understanding where our energy comes from (S-359, S-439). The environment lens: burning carbon-based
-fuel releases energy *and* carbon dioxide, tying this lesson to the next on greenhouse gases. The
-egalitarian lens: this chemistry belongs to everyone — the same atoms and bonds run every body on
-Earth regardless of wealth or nation; no one's atoms are "better." Cite the atoms-and-bonding sources
+The ideas to land: **(1) an atom is a nucleus of protons (positive) and neutrons
+(neutral) with electrons (negative) arranged in shells; the outermost electrons are the
+ones that take part in bonding; (2) atoms bond by sharing or moving these outer
+electrons, forming molecules and compounds; (3) breaking a bond absorbs energy
+(endothermic) and forming a bond releases energy (exothermic) — a reaction's net feel of
+hot or cold is the balance between the two.** Use a worked example first (S-011):
+burning — bonds in the fuel and oxygen break (absorbing energy), new bonds in the
+products form (releasing more), so the net is heat released. The critical-thinking lens:
+the atom is a *model* — no one has seen an electron the way we see a stone; we infer the
+structure from many experiments, and the model keeps being refined, so hold it as a
+model with evidence, not a literal picture (philosophy §11). The technology lens:
+chemical energy is the stored power behind fuels, batteries, food, and living bodies —
+understanding bonding is understanding where our energy comes from (S-359, S-439). The
+environment lens: burning carbon-based fuel releases energy *and* carbon dioxide, tying
+this lesson to the next on greenhouse gases. The egalitarian lens: this chemistry
+belongs to everyone — the same atoms and bonds run every body on Earth regardless of
+wealth or nation; no one's atoms are "better." Cite the atoms-and-bonding sources
 (S-359, S-439); endothermic/exothermic definitions are standard chemistry (S-439).
 
 ## Procedure

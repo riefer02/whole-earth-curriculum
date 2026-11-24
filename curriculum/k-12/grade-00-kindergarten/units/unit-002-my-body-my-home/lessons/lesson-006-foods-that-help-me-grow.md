@@ -106,11 +106,10 @@ a rooftop pot, a field, a fishing boat — it helps living things grow.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, keep the focus on what
-foods *do* for a body, not on amounts or weight. Never comment on a child's size or
-appetite. Be sensitive: some children have little food at home. Speak of food as
-something all living things need, and honor the many ways people get it — farming,
-fishing, gathering, buying, growing in pots.
+As facilitator, keep the focus on what foods *do* for a body, not on amounts or weight.
+Never comment on a child's size or appetite. Be sensitive: some children have little
+food at home. Speak of food as something all living things need, and honor the many ways
+people get it — farming, fishing, gathering, buying, growing in pots.
 
 ## Procedure
 

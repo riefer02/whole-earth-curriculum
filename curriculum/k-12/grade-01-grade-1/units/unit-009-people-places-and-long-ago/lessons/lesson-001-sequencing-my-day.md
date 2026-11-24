@@ -107,15 +107,13 @@ people tell the story of time — the same skill a historian uses for a whole wo
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. **Sequencing is a foundational skill, so teach it with a
-worked example first** (Kirschner, Sweller & Clark, 2006): model putting three day
-cards in order, saying "first... next... after that," before learners do their own.
-Honor every body: a learner who does not use a speaking voice points, acts, or
-orders cards; a learner who is blind or has low vision sequences real objects by
-touch and says or signs the order aloud. There is no "wrong" day — some learners
-wake, then pray, then eat; some help a grandparent before school; some nap midday.
-All orders are real.
+**Sequencing is a foundational skill, so teach it with a worked example first**
+(Kirschner, Sweller & Clark, 2006): model putting three day cards in order, saying
+"first... next... after that," before learners do their own. Honor every body: a learner
+who does not use a speaking voice points, acts, or orders cards; a learner who is blind
+or has low vision sequences real objects by touch and says or signs the order aloud.
+There is no "wrong" day — some learners wake, then pray, then eat; some help a
+grandparent before school; some nap midday. All orders are real.
 
 ## Procedure
 

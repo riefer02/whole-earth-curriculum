@@ -110,14 +110,14 @@ becomes *yours*. Today you build the framework and then prove you own it by teac
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a framework is only
-yours once you can explain it** — explaining is retrieval and elaboration, which is what
-makes learning durable (Dunlosky et al., S-039). The four spokes (notice → name →
-regulate → reflect) are offered as *one reusable pattern, not a universal law*: learners
-may rename, reorder, or swap spokes, so long as the framework is honest to the real
-body–mind connection and something they would actually use. Honor every body: the
-framework must work for a body that senses differently, moves differently, or needs
-different tools — no single "correct" calm-returning method is imposed.
+The idea to land: **a framework is only yours once you can explain it** — explaining is
+retrieval and elaboration, which is what makes learning durable (Dunlosky et al.,
+S-039). The four spokes (notice → name → regulate → reflect) are offered as *one
+reusable pattern, not a universal law*: learners may rename, reorder, or swap spokes, so
+long as the framework is honest to the real body–mind connection and something they
+would actually use. Honor every body: the framework must work for a body that senses
+differently, moves differently, or needs different tools — no single "correct"
+calm-returning method is imposed.
 
 The **ethics** lens: a framework is judged by what it lets you *do* for yourself and
 others, not by how impressive it sounds. The **egalitarianism** lens: the plain-language
@@ -125,7 +125,10 @@ version is the real one — if it cannot be explained to a child or a busy frien
 not yet owned. The **global** lens: learners may carry body–mind wisdom from their own
 tradition; the framework should make room for it rather than replace it. The
 **critical-thinking** lens: every step is a hypothesis to check against the body, not a
-ritual to obey. The **technology** lens: apps and trackers can prompt the first two spokes — notice and name — but a framework you can carry must work with no device, no signal, and no battery, because it lives in you, not in the tool. Preview: Lesson 5 turns from the present moment to the whole lifetime.
+ritual to obey. The **technology** lens: apps and trackers can prompt the first two
+spokes — notice and name — but a framework you can carry must work with no device, no
+signal, and no battery, because it lives in you, not in the tool. Preview: Lesson 5
+turns from the present moment to the whole lifetime.
 
 ## Procedure
 

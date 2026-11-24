@@ -111,19 +111,20 @@ a skill that works on every message in every language you hear.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a speaker shapes meaning
-with three moves — word choice (the words and their connotations), tone (the speaker's attitude
-carried by the words), and delivery (pace, volume, pitch, pause, gesture, expression); (2) all
-three work together to persuade; (3) analyzing them is a skill of attention, not a ranking of
-speakers.** Model the first pair once (worked example, S-011). The concept of persuasion as
-analyzed craft is ancient — Aristotle named three appeals (ethos, pathos, logos) in the Greek
-tradition (S-346), but it is one tradition among many; many cultures have their own arts of
-speaking. The ethics lens: persuasion can be used to help or to harm; noticing *how* it works is
-how we choose. The egalitarian lens: the same words persuade some people and leave others out —
-ask "who is this speaking to, and who is it leaving out?" The global lens: tone and delivery vary
-across cultures; a loud, fast delivery is respectful in one place and rude in another. The
-social-emotional lens: noticing tone is also noticing feeling — ours and the speaker's. Use a
-low-stakes example so the skill is practiced without fear.
+The ideas to land: **(1) a speaker shapes meaning with three moves — word choice (the
+words and their connotations), tone (the speaker's attitude carried by the words), and
+delivery (pace, volume, pitch, pause, gesture, expression); (2) all three work together
+to persuade; (3) analyzing them is a skill of attention, not a ranking of speakers.**
+Model the first pair once (worked example, S-011). The concept of persuasion as analyzed
+craft is ancient — Aristotle named three appeals (ethos, pathos, logos) in the Greek
+tradition (S-346), but it is one tradition among many; many cultures have their own arts
+of speaking. The ethics lens: persuasion can be used to help or to harm; noticing *how*
+it works is how we choose. The egalitarian lens: the same words persuade some people and
+leave others out — ask "who is this speaking to, and who is it leaving out?" The global
+lens: tone and delivery vary across cultures; a loud, fast delivery is respectful in one
+place and rude in another. The social-emotional lens: noticing tone is also noticing
+feeling — ours and the speaker's. Use a low-stakes example so the skill is practiced
+without fear.
 
 ## Procedure
 

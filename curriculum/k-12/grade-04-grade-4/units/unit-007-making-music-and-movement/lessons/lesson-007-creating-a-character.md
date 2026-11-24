@@ -111,18 +111,17 @@ you are **communicating** — sending a message without saying it out loud.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Creating a character is a **skill**, so
-model a worked example first (Kirschner, Sweller & Clark, 2006): become a character
-for a few seconds and narrate each choice — "I am an old tree-keeper, so my voice is
-slow and creaky, my body is bent, and I hold this stick like a walking staff." Then
-invite learners to try. Set a clear boundary: characters must be **invented**, not
-imitations of real people, accents, disabilities, or cultural stereotypes — those
-imitations can mock or misrepresent, which harms real people. A character can be a
-person, animal, object, or idea. After each performance, ask the two questions that
-matter: "What were you trying to communicate?" and "What did the audience read from
-it?" — the gap between them is the learning. Every body can perform: a wheelchair or
-a mobility aid can be part of the character, and a voice or a gesture alone can carry
-a whole character.
+Creating a character is a **skill**, so model a worked example first (Kirschner, Sweller
+& Clark, 2006): become a character for a few seconds and narrate each choice — "I am an
+old tree-keeper, so my voice is slow and creaky, my body is bent, and I hold this stick
+like a walking staff." Then invite learners to try. Set a clear boundary: characters
+must be **invented**, not imitations of real people, accents, disabilities, or cultural
+stereotypes — those imitations can mock or misrepresent, which harms real people. A
+character can be a person, animal, object, or idea. After each performance, ask the two
+questions that matter: "What were you trying to communicate?" and "What did the audience
+read from it?" — the gap between them is the learning. Every body can perform: a
+wheelchair or a mobility aid can be part of the character, and a voice or a gesture
+alone can carry a whole character.
 
 ## Procedure
 

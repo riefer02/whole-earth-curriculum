@@ -110,24 +110,28 @@ future. Today you learn the name for living inside that rule: **sustainability**
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **sustainability means meeting today's
-needs without robbing the future — using a resource no faster than it can renew, and leaving the systems
-that support life working.** The definition traces to the Brundtland Report, "Our Common Future" (1987):
-meeting "the needs of the present without compromising the ability of future generations to meet their own
-needs" (S-395). The application skill: **pick one resource, compare how fast it is used against how fast
-it renews, and judge whether that use is sustainable.** Worked example: **fresh water** — it renews
-through the water cycle, but we can draw an aquifer faster than rain refills it, so the balance, not the
-existence of water, is what decides. **Renewable** resources (sunlight, wind, regrowing forests, fish
-stocks *if* used gently) can renew in a human lifetime; **nonrenewable** resources (fossil fuels,
-minerals) cannot — using them is by definition spending the future's inheritance. The **environment**
-lens is this lesson's core: the Earth's systems are the account we are drawing on. The **egalitarian**
-lens: the "future" is not abstract — it is children everywhere, and the people least responsible for
-overuse are often hit first and hardest (S-005). The **ethics** lens: using more than your share of a
-shared resource is a question of fairness to others, now and later. The **global** lens: sustainability
-is a worldwide question with local answers — a well in one village and a forest in another are the same
-arithmetic in different places (S-004). The **technology** lens: technology can spend resources faster
-or help us use them more gently — it is a lever, not an answer by itself (S-371). Keep the numbers honest
-and cited; distinguish evidence (how fast resources renew) from values (what we owe the future).
+The idea to land: **sustainability means meeting today's needs without robbing the
+future — using a resource no faster than it can renew, and leaving the systems that
+support life working.** The definition traces to the Brundtland Report, "Our Common
+Future" (1987): meeting "the needs of the present without compromising the ability of
+future generations to meet their own needs" (S-395). The application skill: **pick one
+resource, compare how fast it is used against how fast it renews, and judge whether that
+use is sustainable.** Worked example: **fresh water** — it renews through the water
+cycle, but we can draw an aquifer faster than rain refills it, so the balance, not the
+existence of water, is what decides. **Renewable** resources (sunlight, wind, regrowing
+forests, fish stocks *if* used gently) can renew in a human lifetime; **nonrenewable**
+resources (fossil fuels, minerals) cannot — using them is by definition spending the
+future's inheritance. The **environment** lens is this lesson's core: the Earth's
+systems are the account we are drawing on. The **egalitarian** lens: the "future" is not
+abstract — it is children everywhere, and the people least responsible for overuse are
+often hit first and hardest (S-005). The **ethics** lens: using more than your share of
+a shared resource is a question of fairness to others, now and later. The **global**
+lens: sustainability is a worldwide question with local answers — a well in one village
+and a forest in another are the same arithmetic in different places (S-004). The
+**technology** lens: technology can spend resources faster or help us use them more
+gently — it is a lever, not an answer by itself (S-371). Keep the numbers honest and
+cited; distinguish evidence (how fast resources renew) from values (what we owe the
+future).
 
 ## Procedure
 

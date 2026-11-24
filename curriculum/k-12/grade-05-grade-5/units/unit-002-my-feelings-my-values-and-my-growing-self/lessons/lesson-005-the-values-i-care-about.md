@@ -117,13 +117,13 @@ any corner of the world.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that a **value is
-something you care about that guides choices** — and that values differ from person to
-person without one being "better." Avoid ranking values ("honesty is the best value");
-instead honor each learner's genuine values. Distinguish **evidence from values**
-(`docs/philosophy.md` §5): *what values exist* is a fact we can observe; *which values to
-hold* is a choice each person and community makes. This is a place for inquiry, not
-creed — invite, never impose. See `docs/facilitation.md` on inquiry over creed.
+The idea to land is that a **value is something you care about that guides choices** —
+and that values differ from person to person without one being "better." Avoid ranking
+values ("honesty is the best value"); instead honor each learner's genuine values.
+Distinguish **evidence from values** (`docs/philosophy.md` §5): *what values exist* is a
+fact we can observe; *which values to hold* is a choice each person and community makes.
+This is a place for inquiry, not creed — invite, never impose. See
+`docs/facilitation.md` on inquiry over creed.
 
 ## Procedure
 

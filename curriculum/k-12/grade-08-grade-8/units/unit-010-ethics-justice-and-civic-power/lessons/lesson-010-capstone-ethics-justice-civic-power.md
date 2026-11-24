@@ -118,20 +118,21 @@ after the lesson ends.
 
 ## Facilitator note
 
-This lesson is written to the learner. It is the unit's **closing retrieval-and-synthesis pass**,
-so its goals are modest and its tone is celebratory (S-039; Dunlosky et al. on spaced retrieval).
-**(1) Recall the eight goals** — one per strand: weigh consequences/duties/fairness and values
-differ across cultures (S1); compare ideas of justice and power/access shape rights (S2); analyze
-a movement and digital participation (S3); evaluate a conflict and pursue reconciliation (S4).
-**(2) Connect them** through the one habit: **ask, weigh, act.** **(3) Reflect** on the learner's
-own work and write a forward-looking sentence. Do **not** introduce new content or grade a
-"final answer" — this is mastery-through-recall and a portfolio celebration, not a ranking
-(philosophy §8, §11). The four lenses reappear as a summary: ethics (the habit of weighing),
-egalitarianism (always asking who is left out), global (the same questions, asked differently
-everywhere), critical-thinking (evidence vs. values, questions held open). If a learner has an
-incomplete artifact, invite them to finish it now rather than mark it "done" (mastery, not
-ranking). End with the unit's through-line, spoken plainly: *we hold questions as questions —
-and we act anyway, with care.*
+It is the unit's **closing retrieval-and-synthesis pass**, so its goals are modest and
+its tone is celebratory (S-039; Dunlosky et al. on spaced retrieval). **(1) Recall the
+eight goals** — one per strand: weigh consequences/duties/fairness and values differ
+across cultures (S1); compare ideas of justice and power/access shape rights (S2);
+analyze a movement and digital participation (S3); evaluate a conflict and pursue
+reconciliation (S4). **(2) Connect them** through the one habit: **ask, weigh, act.**
+**(3) Reflect** on the learner's own work and write a forward-looking sentence. Do
+**not** introduce new content or grade a "final answer" — this is mastery-through-recall
+and a portfolio celebration, not a ranking (philosophy §8, §11). The four lenses
+reappear as a summary: ethics (the habit of weighing), egalitarianism (always asking who
+is left out), global (the same questions, asked differently everywhere),
+critical-thinking (evidence vs. values, questions held open). If a learner has an
+incomplete artifact, invite them to finish it now rather than mark it "done" (mastery,
+not ranking). End with the unit's through-line, spoken plainly: *we hold questions as
+questions — and we act anyway, with care.*
 
 ## Procedure
 

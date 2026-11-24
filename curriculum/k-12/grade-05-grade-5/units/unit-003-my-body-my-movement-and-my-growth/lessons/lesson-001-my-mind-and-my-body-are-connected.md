@@ -117,12 +117,12 @@ body are always talking to each other.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The one idea to land is that **the mind and
-body are connected** — a thought or feeling can show up as a body sensation. Keep the
-examples **ordinary and safe**; a learner may live with real stress or illness, so do not
-push anyone to reveal more than they choose. The skill is *noticing* the signal with
-curiosity, never judging it as good or bad. If a learner names something heavy, honor it
-calmly and move gently. See `docs/facilitation.md` on holding difficult topics safely.
+The one idea to land is that **the mind and body are connected** — a thought or feeling
+can show up as a body sensation. Keep the examples **ordinary and safe**; a learner may
+live with real stress or illness, so do not push anyone to reveal more than they choose.
+The skill is *noticing* the signal with curiosity, never judging it as good or bad. If a
+learner names something heavy, honor it calmly and move gently. See
+`docs/facilitation.md` on holding difficult topics safely.
 
 ## Procedure
 

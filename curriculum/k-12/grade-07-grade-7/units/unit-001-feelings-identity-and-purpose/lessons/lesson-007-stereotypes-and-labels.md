@@ -116,20 +116,21 @@ whole story.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **a stereotype is a fixed,
-over-simple belief about a group — a few traits generalized to everyone in it; a label is a
-name or category stuck on a person that can crowd out the rest of who they are.** Both are
-*shortcuts*, and both can be true of a small part while missing the whole. Teach the
-distinction concretely: describing one person you actually know is different from generalizing
-"all ___ are ___." Keep the work safe: use everyday, low-stakes examples and media examples,
-never ask learners to air real slurs or personal wounds, and always restore agency and hope
-(the next lesson is "how they limit us and how we push back"). The *egalitarianism* lens asks
-who gets labeled and who gets to be seen as an individual; the *technology* lens notes that
-media and feeds repeat the same narrow images, teaching us to see types instead of people.
-Model spotting one label as a worked example (Kirschner, Sweller & Clark, 2006). Distinguish
-**evidence from values**: that stereotypes exist and over-generalize is observable; that every
-person deserves to be seen as a whole individual is a value this curriculum holds — name it as
-one. See `docs/facilitation.md` and `docs/art-style.md`.
+The ideas to land: **a stereotype is a fixed, over-simple belief about a group — a few
+traits generalized to everyone in it; a label is a name or category stuck on a person
+that can crowd out the rest of who they are.** Both are *shortcuts*, and both can be
+true of a small part while missing the whole. Teach the distinction concretely:
+describing one person you actually know is different from generalizing "all ___ are
+___." Keep the work safe: use everyday, low-stakes examples and media examples, never
+ask learners to air real slurs or personal wounds, and always restore agency and hope
+(the next lesson is "how they limit us and how we push back"). The *egalitarianism* lens
+asks who gets labeled and who gets to be seen as an individual; the *technology* lens
+notes that media and feeds repeat the same narrow images, teaching us to see types
+instead of people. Model spotting one label as a worked example (Kirschner, Sweller &
+Clark, 2006). Distinguish **evidence from values**: that stereotypes exist and
+over-generalize is observable; that every person deserves to be seen as a whole
+individual is a value this curriculum holds — name it as one. See `docs/facilitation.md`
+and `docs/art-style.md`.
 
 ## Procedure
 

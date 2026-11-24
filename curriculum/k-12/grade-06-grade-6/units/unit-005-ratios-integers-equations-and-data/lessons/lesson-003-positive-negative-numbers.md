@@ -117,18 +117,20 @@ of it we stand on.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) **positive** numbers are above
-the reference point and **negative** numbers are below it; (2) the reference point (0°C, sea level) is
-a chosen starting line, not "nothing"; and (3) the *sign* (＋ or −) carries the meaning of "above or
-below." Model one example aloud, then guide a second before independent work (Kirschner, Sweller &
-Clark, 2006). Watch for the slip of treating "−10" as "ten" without its sign — the sign is the whole
-point. Retrieval: ask learners to recall the number line and whole numbers from earlier grades; today
-the line grows downward too. The environment lens is live here (`docs/philosophy.md` §4): elevations
-and temperatures describe real, varied landscapes, and knowing them matters for farming, building, and
-travel. Note the global and historical point: negative numbers were used in ancient China (red and
-black counting rods for owing and having) and were given rules by Brahmagupta in India — the idea of
-"below zero" is a human discovery, not one culture's property. Distinguish evidence (the measured
-temperatures and elevations are facts) from values (that all places and peoples are worthy of study).
+The ideas to land: (1) **positive** numbers are above the reference point and
+**negative** numbers are below it; (2) the reference point (0°C, sea level) is a chosen
+starting line, not "nothing"; and (3) the *sign* (＋ or −) carries the meaning of "above
+or below." Model one example aloud, then guide a second before independent work
+(Kirschner, Sweller & Clark, 2006). Watch for the slip of treating "−10" as "ten"
+without its sign — the sign is the whole point. Retrieval: ask learners to recall the
+number line and whole numbers from earlier grades; today the line grows downward too.
+The environment lens is live here (`docs/philosophy.md` §4): elevations and temperatures
+describe real, varied landscapes, and knowing them matters for farming, building, and
+travel. Note the global and historical point: negative numbers were used in ancient
+China (red and black counting rods for owing and having) and were given rules by
+Brahmagupta in India — the idea of "below zero" is a human discovery, not one culture's
+property. Distinguish evidence (the measured temperatures and elevations are facts) from
+values (that all places and peoples are worthy of study).
 
 ## Procedure
 

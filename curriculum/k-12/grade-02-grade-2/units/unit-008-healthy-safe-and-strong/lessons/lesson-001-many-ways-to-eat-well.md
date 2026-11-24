@@ -112,16 +112,16 @@ notice the many wonderful ways families eat well.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Hold the line on no food shaming.** The
-goal is to recall the groups and notice *variety*, never to rank a food, a meal, or a
-family. A meal that is everyday for one family may be rare for another, and neither is
-wrong — the four groups are *one* way to sort, not the only right one. Do not comment on
-what or how much a learner eats, and never tie food to body size, weight, or appetite.
-A learner who is blind or has low vision sorts real foods by touch and scent; a learner
-who does not use a speaking voice sorts by pointing or signing. A learner who is deaf or
-hard of hearing sorts by pointing to the labeled mats and watching the demonstration from
-the front, since every step is shown, not only told. This lesson retrieves Grade 1's
-food groups (U.01.008) and opens the spiral toward this unit's balanced-meal work.
+**Hold the line on no food shaming.** The goal is to recall the groups and notice
+*variety*, never to rank a food, a meal, or a family. A meal that is everyday for one
+family may be rare for another, and neither is wrong — the four groups are *one* way to
+sort, not the only right one. Do not comment on what or how much a learner eats, and
+never tie food to body size, weight, or appetite. A learner who is blind or has low
+vision sorts real foods by touch and scent; a learner who does not use a speaking voice
+sorts by pointing or signing. A learner who is deaf or hard of hearing sorts by pointing
+to the labeled mats and watching the demonstration from the front, since every step is
+shown, not only told. This lesson retrieves Grade 1's food groups (U.01.008) and opens
+the spiral toward this unit's balanced-meal work.
 
 ## Procedure
 

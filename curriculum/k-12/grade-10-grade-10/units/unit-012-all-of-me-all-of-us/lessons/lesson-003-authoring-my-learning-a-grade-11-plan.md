@@ -111,26 +111,25 @@ on purpose instead of by accident.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **self-directed
-learning is a four-step loop — choose a goal, find resources, check progress, adjust —
-and the learner is the author at every step.** Goal-setting is well-evidenced
-(Locke & Latham, S-223): specific, checkable goals outperform vague wishes. Checking
-progress (self-testing) is one of the strongest learning techniques we know
-(Dunlosky et al., S-039; Roediger & Karpicke, S-228). The "adjust" step is where
-mastery lives: "not yet" is information, never a verdict (Dweck, S-096 — hold the
-growth-mindset claim honestly; effects are real but modest, and effort is not a
-guarantee).
+The idea to land: **self-directed learning is a four-step loop — choose a goal, find
+resources, check progress, adjust — and the learner is the author at every step.**
+Goal-setting is well-evidenced (Locke & Latham, S-223): specific, checkable goals
+outperform vague wishes. Checking progress (self-testing) is one of the strongest
+learning techniques we know (Dunlosky et al., S-039; Roediger & Karpicke, S-228). The
+"adjust" step is where mastery lives: "not yet" is information, never a verdict (Dweck,
+S-096 — hold the growth-mindset claim honestly; effects are real but modest, and effort
+is not a guarantee).
 
 The **ethics** lens: a plan you can check honestly is a plan you can be trusted with.
 The **egalitarian** lens: resources are not evenly distributed — a plan that names a
 fallback (a person, a free library, a neighbor's skill) works for more lives than one
-that assumes money and devices. The **global** lens: self-paced, low-resource
-schooling (Escuela Nueva, S-008) and teaching at the learner's level (TaRL, S-009)
-show that self-direction works across very different places — it is not a privilege of
-the few. The **technology** lens can appear briefly: a device is one resource among
-many, never the only one. Distinguish evidence from values: the four-step loop and the
-power of checking progress are descriptive; "every learner deserves to steer their own
-learning" is a value we hold.
+that assumes money and devices. The **global** lens: self-paced, low-resource schooling
+(Escuela Nueva, S-008) and teaching at the learner's level (TaRL, S-009) show that
+self-direction works across very different places — it is not a privilege of the few.
+The **technology** lens can appear briefly: a device is one resource among many, never
+the only one. Distinguish evidence from values: the four-step loop and the power of
+checking progress are descriptive; "every learner deserves to steer their own learning"
+is a value we hold.
 
 Model the loop once (worked example, S-011), then let learners plan their own. Keep it
 agentic and hopeful.

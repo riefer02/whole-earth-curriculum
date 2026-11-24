@@ -118,17 +118,16 @@ you learn to see the difference in your own measurements and to name it.
 
 ## Facilitator note
 
-Written to the learner ("you"). The distinction to land is **error is a spread, not a
-mistake** — careful measurements differ a little because of the tool, the reader, and
-the conditions, and that is normal and reducible. Model the worked example: measure
-one object at the front, read the value aloud, then point out *why* the next reading
-might differ (the mark falls between two lines). Three named sources: **tool limits**
-(coarse marks), **human reading** (angle of the eye, reaction time), and
-**conditions** (the object moved, wind, light). Three named fixes: **repeat** (more
-trials), **average** (the middle of the spread), and **standardize** (same tool, same
-method, steadier setup). Keep the word "error" gentle — it is not a grade or a
-judgment; it is information. This is a Grade 6 first pass; the statistical treatment
-of uncertainty comes later. See
+The distinction to land is **error is a spread, not a mistake** — careful measurements
+differ a little because of the tool, the reader, and the conditions, and that is normal
+and reducible. Model the worked example: measure one object at the front, read the value
+aloud, then point out *why* the next reading might differ (the mark falls between two
+lines). Three named sources: **tool limits** (coarse marks), **human reading** (angle of
+the eye, reaction time), and **conditions** (the object moved, wind, light). Three named
+fixes: **repeat** (more trials), **average** (the middle of the spread), and
+**standardize** (same tool, same method, steadier setup). Keep the word "error" gentle —
+it is not a grade or a judgment; it is information. This is a Grade 6 first pass; the
+statistical treatment of uncertainty comes later. See
 [`docs/facilitation.md`](../../../../../../docs/facilitation.md).
 
 ## Procedure

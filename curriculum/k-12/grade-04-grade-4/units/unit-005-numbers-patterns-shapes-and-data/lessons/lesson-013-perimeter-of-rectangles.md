@@ -113,19 +113,18 @@ needs to know.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Perimeter is the **distance around**:
-teach it by walking and measuring, then generalize to **2 × length + 2 × width** (or
-2 × (length + width)) as a shortcut (Van de Walle, Karp & Bay-Williams, 2019). Model
-once as a **worked example** (philosophy §13), then guide practice. Contrast
-perimeter (around) with area (cover) from Lesson 12 — naming the difference is a key
-retrieval-and-comparison moment. **A learner's pace at distinguishing area and
-perimeter is not a measure of their worth; a perimeter is a fact about a shape, never
-about a person.** Measuring the boundary of land is a human and cross-cultural
-practice, from ancient field markers to modern fences. Count in the home language.
-For learners who are Deaf or hard of hearing, sign the walk-around; for learners who
-are blind or have low vision, feel the four sides of a tactile rectangle and count
-along the edge. Learners with limited movement direct a partner to walk the border.
-Mastery arrives at its own pace.
+Perimeter is the **distance around**: teach it by walking and measuring, then generalize
+to **2 × length + 2 × width** (or 2 × (length + width)) as a shortcut (Van de Walle,
+Karp & Bay-Williams, 2019). Model once as a **worked example** (philosophy §13), then
+guide practice. Contrast perimeter (around) with area (cover) from Lesson 12 — naming
+the difference is a key retrieval-and-comparison moment. **A learner's pace at
+distinguishing area and perimeter is not a measure of their worth; a perimeter is a fact
+about a shape, never about a person.** Measuring the boundary of land is a human and
+cross-cultural practice, from ancient field markers to modern fences. Count in the home
+language. For learners who are Deaf or hard of hearing, sign the walk-around; for
+learners who are blind or have low vision, feel the four sides of a tactile rectangle
+and count along the edge. Learners with limited movement direct a partner to walk the
+border. Mastery arrives at its own pace.
 
 ## Procedure
 

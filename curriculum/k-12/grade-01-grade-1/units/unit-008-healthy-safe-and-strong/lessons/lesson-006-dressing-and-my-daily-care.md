@@ -115,21 +115,20 @@ that is okay too — care is never a test.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **No poverty judgment, ever.** Some
-learners have few clothes or need help dressing; some fasteners are hard for many hands.
-Celebrate effort, never compare outfits or resources, and never imply there is a "right"
-way to dress. Some clothing fastens with buttons, zips, and snaps; much of the world's
-clothing wraps, ties, or uses sashes and drawstrings instead — all are honored here.
-Honor motor differences: adaptive fasteners, Velcro, and help from a
-caregiver or peer are all fine — the goal is caring for the body, not doing it perfectly
-or alone. Weather and dress vary greatly around the world, and cultural dress is honored;
-there is no single "right" outfit for a season. A learner who is blind or has low vision
-practices fasteners by touch; a learner with a motor difference works on the fastener
-that fits their next step. A learner who is deaf or hard of hearing follows the
-demonstrations from the front, where the weather, clothing, and routine picture cards
-carry each step visually. **Care is never a test.** This lesson completes the
-S4.01.01 self-care trio (wash, brush, dress) and previews the unit's body-autonomy
-lessons that follow.
+**No poverty judgment, ever.** Some learners have few clothes or need help dressing;
+some fasteners are hard for many hands. Celebrate effort, never compare outfits or
+resources, and never imply there is a "right" way to dress. Some clothing fastens with
+buttons, zips, and snaps; much of the world's clothing wraps, ties, or uses sashes and
+drawstrings instead — all are honored here. Honor motor differences: adaptive fasteners,
+Velcro, and help from a caregiver or peer are all fine — the goal is caring for the
+body, not doing it perfectly or alone. Weather and dress vary greatly around the world,
+and cultural dress is honored; there is no single "right" outfit for a season. A learner
+who is blind or has low vision practices fasteners by touch; a learner with a motor
+difference works on the fastener that fits their next step. A learner who is deaf or
+hard of hearing follows the demonstrations from the front, where the weather, clothing,
+and routine picture cards carry each step visually. **Care is never a test.** This
+lesson completes the S4.01.01 self-care trio (wash, brush, dress) and previews the
+unit's body-autonomy lessons that follow.
 
 ## Procedure
 

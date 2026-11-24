@@ -116,30 +116,32 @@ a judgment that is reasoned — not a cheer, not a shrug.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **in a contested event, the account
-of those holding power and the account of those resisting describe the same act from different
-places; weighing them means asking who holds power, who resists and why, who benefits and who is
-harmed in each telling — and then forming a reasoned judgment while naming what stays unsettled.**
-Teach the weighing explicitly (S-011). Hold the Salt March accurately and with care: in 1930,
-Mahatma Gandhi led a march to the sea to make salt in defiance of a British colonial salt tax, an
-act of nonviolent resistance against colonial rule (S-087, S-205); the colonial account saw
-lawlessness and disruption, the marchers' account saw a refusal of an unjust order. Present both as
-genuine accounts — do not assert one verdict; the learner weighs and judges.
+The idea to land: **in a contested event, the account of those holding power and the
+account of those resisting describe the same act from different places; weighing them
+means asking who holds power, who resists and why, who benefits and who is harmed in
+each telling — and then forming a reasoned judgment while naming what stays unsettled.**
+Teach the weighing explicitly (S-011). Hold the Salt March accurately and with care: in
+1930, Mahatma Gandhi led a march to the sea to make salt in defiance of a British
+colonial salt tax, an act of nonviolent resistance against colonial rule (S-087, S-205);
+the colonial account saw lawlessness and disruption, the marchers' account saw a refusal
+of an unjust order. Present both as genuine accounts — do not assert one verdict; the
+learner weighs and judges.
 
-The **ethics** lens: the judgment is a *reasoned position*, and the lesson models that a judgment
-can be firm *and* admit what it cannot settle — firmness without humility is dogma. The
-**egalitarianism** lens: power is not only force — it is also the ability to set the agenda and to
-shape what counts as "lawful" (S-275), which is why the account of those holding power can sound
-neutral while still serving power. The **global** lens: the Salt March is one of many such moments —
-the Defiance Campaign in South Africa, the Montgomery bus boycott, the Aba Women's War — where
-ordinary people resisted unjust rule across continents (S-146, S-324, S-209); each is weighed in its
-own terms, not flattened into one template. The **technology** lens: how an event is recorded —
-whose account gets printed, broadcast, or archived — shapes whose telling survives; weighing means
-asking whose voice reached us and whose did not. The **environment** lens: many resistances are also
-defenses of land and water — the Chipko movement held trees against felling (S-328); the salt of the
-sea was, for the marchers, a resource the land and coast freely gave, taxed by a distant power.
-Preview: Lesson 14 turns the judgment into a reflection on one's own role in the *unfinished*
-struggle for freedom and dignity.
+The **ethics** lens: the judgment is a *reasoned position*, and the lesson models that a
+judgment can be firm *and* admit what it cannot settle — firmness without humility is
+dogma. The **egalitarianism** lens: power is not only force — it is also the ability to
+set the agenda and to shape what counts as "lawful" (S-275), which is why the account of
+those holding power can sound neutral while still serving power. The **global** lens:
+the Salt March is one of many such moments — the Defiance Campaign in South Africa, the
+Montgomery bus boycott, the Aba Women's War — where ordinary people resisted unjust rule
+across continents (S-146, S-324, S-209); each is weighed in its own terms, not flattened
+into one template. The **technology** lens: how an event is recorded — whose account
+gets printed, broadcast, or archived — shapes whose telling survives; weighing means
+asking whose voice reached us and whose did not. The **environment** lens: many
+resistances are also defenses of land and water — the Chipko movement held trees against
+felling (S-328); the salt of the sea was, for the marchers, a resource the land and
+coast freely gave, taxed by a distant power. Preview: Lesson 14 turns the judgment into
+a reflection on one's own role in the *unfinished* struggle for freedom and dignity.
 
 ## Procedure
 

@@ -128,16 +128,16 @@ your voice stand among the many voices in the room. That is the whole unit, in o
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) the unit's eight goals
-are one practice, not eight boxes — using words with other people; (2) the capstone is a
-retrieval-and-revision act, not a new task; (3) every voice is worth hearing, and the room holds
-many.** Spaced retrieval across the unit is deliberate (S-039). The ethics lens: we end by asking
-what is right in how we use words. The egalitarian lens: the circle of readings makes every voice
-equal — one after another, each given attention. The global lens: the pieces will come in many
-languages and scripts; honor every one. The technology lens: where a tool was used (a translation,
-a draft), it served the learner's voice — it did not replace it. The community and
-social-emotional lenses: this is a moment of belonging and pride; make it safe, warm, and
-unhurried. Celebrate mastery; do not rank.
+The ideas to land: **(1) the unit's eight goals are one practice, not eight boxes —
+using words with other people; (2) the capstone is a retrieval-and-revision act, not a
+new task; (3) every voice is worth hearing, and the room holds many.** Spaced retrieval
+across the unit is deliberate (S-039). The ethics lens: we end by asking what is right
+in how we use words. The egalitarian lens: the circle of readings makes every voice
+equal — one after another, each given attention. The global lens: the pieces will come
+in many languages and scripts; honor every one. The technology lens: where a tool was
+used (a translation, a draft), it served the learner's voice — it did not replace it.
+The community and social-emotional lenses: this is a moment of belonging and pride; make
+it safe, warm, and unhurried. Celebrate mastery; do not rank.
 
 ## Procedure
 

@@ -118,15 +118,14 @@ with your own two eyes, wherever you live.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). A life cycle is a *circle*, so the order
-can start anywhere — but at Grade 2 we anchor it at the seed and move forward, so the
-learner has a clear sequence to hold. Model the ordering once (worked example), then let
-learners re-order their own shuffled set. Planting a real seed makes the abstract cycle
-concrete, and revisiting it over the weeks builds in **spacing** — real growth takes
-time, which is itself the lesson. Note honestly that some plants are grown for food and
-medicine in different ways around the world, and that caring for a seed is caring for a
-living thing (a small ethical step). If a seed does not sprout, that too is information,
-not failure — wonder about why.
+A life cycle is a *circle*, so the order can start anywhere — but at Grade 2 we anchor
+it at the seed and move forward, so the learner has a clear sequence to hold. Model the
+ordering once (worked example), then let learners re-order their own shuffled set.
+Planting a real seed makes the abstract cycle concrete, and revisiting it over the weeks
+builds in **spacing** — real growth takes time, which is itself the lesson. Note
+honestly that some plants are grown for food and medicine in different ways around the
+world, and that caring for a seed is caring for a living thing (a small ethical step).
+If a seed does not sprout, that too is information, not failure — wonder about why.
 
 ## Procedure
 

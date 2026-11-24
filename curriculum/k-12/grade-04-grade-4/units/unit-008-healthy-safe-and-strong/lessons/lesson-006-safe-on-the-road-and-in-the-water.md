@@ -113,27 +113,26 @@ practice those rules.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Teach and practice; do not frighten.**
-Road rules: **stop, look left-right-left**, and cross at a safe place (a crosswalk or
-corner) with an adult or when it is clear; **walk, don't run**; and **wear a helmet**
-when cycling. Water rules: **swim only with an adult or lifeguard** and **never swim
-alone**; and if you see someone in trouble in the water, **reach or throw** something
-(a stick, a rope, a float) and **call an adult** — never go in yourself, because the
-person in trouble could pull a child under. Honor that roads and water look very
-different around the world — busy city streets, quiet lanes, rivers, seas, and wells —
-so adapt the specific "where to cross" and "where to swim" to the learner's own place. In
-places where cars drive on the **left** (much of Asia, Africa, and the United Kingdom,
-for example), reverse the look order: stop, look **right-left-right**, then cross —
-always look both ways and look again toward the nearest oncoming traffic. A
-learner who uses a wheelchair practices looking and a safe crossing route and the
-"reach or throw" rule with a rope; a learner who is blind or has low vision practices
-the steps by listening for traffic and being guided through the motions; a learner who
-is deaf or hard of hearing follows the demonstration and cards from the front, since
-every rule is shown, not only told. The road rules follow widely used pedestrian-safety
-guidance (look left-right-left, cross at a crosswalk), and the water rules follow
-lifesaving guidance (swim with a lifeguard, reach or throw — don't go in), as promoted
-by the World Health Organization and water-safety organizations. This lesson continues
-D03.S4.04.01 and leads into weather safety.
+**Teach and practice; do not frighten.** Road rules: **stop, look left-right-left**, and
+cross at a safe place (a crosswalk or corner) with an adult or when it is clear; **walk,
+don't run**; and **wear a helmet** when cycling. Water rules: **swim only with an adult
+or lifeguard** and **never swim alone**; and if you see someone in trouble in the water,
+**reach or throw** something (a stick, a rope, a float) and **call an adult** — never go
+in yourself, because the person in trouble could pull a child under. Honor that roads
+and water look very different around the world — busy city streets, quiet lanes, rivers,
+seas, and wells — so adapt the specific "where to cross" and "where to swim" to the
+learner's own place. In places where cars drive on the **left** (much of Asia, Africa,
+and the United Kingdom, for example), reverse the look order: stop, look
+**right-left-right**, then cross — always look both ways and look again toward the
+nearest oncoming traffic. A learner who uses a wheelchair practices looking and a safe
+crossing route and the "reach or throw" rule with a rope; a learner who is blind or has
+low vision practices the steps by listening for traffic and being guided through the
+motions; a learner who is deaf or hard of hearing follows the demonstration and cards
+from the front, since every rule is shown, not only told. The road rules follow widely
+used pedestrian-safety guidance (look left-right-left, cross at a crosswalk), and the
+water rules follow lifesaving guidance (swim with a lifeguard, reach or throw — don't go
+in), as promoted by the World Health Organization and water-safety organizations. This
+lesson continues D03.S4.04.01 and leads into weather safety.
 
 ## Procedure
 

@@ -116,18 +116,18 @@ something important.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **disagreement is
-healthy and necessary; disrespect is the problem, not the disagreement**. The core move is
-"**acknowledge before you disagree**" — name the other person's point fairly first, then state
-your own with a reason. Model a respectful and a hurtful version of the *same* disagreement and
-label the difference (a novice skill; worked example first — Kirschner, Sweller & Clark, 2006).
-This is a values-heavy lesson: we treat *every* person as worthy of respect even when their
-idea is wrong, and we never rank people by who agrees with us (`docs/philosophy.md` §4).
-Retrieval: connect back to Lesson 3's "build on" moves — disagreeing well often starts by
-acknowledging, which is itself a form of building. Honor every home language and every accent;
-respectful disagreement sounds different across cultures, and that variety is itself
-instructive. Hold the space gently — disagreement can feel scary, and the goal is safety with
-honesty.
+The idea to land is that **disagreement is healthy and necessary; disrespect is the
+problem, not the disagreement**. The core move is "**acknowledge before you
+disagree**" — name the other person's point fairly first, then state your own with a
+reason. Model a respectful and a hurtful version of the *same* disagreement and label
+the difference (a novice skill; worked example first — Kirschner, Sweller & Clark,
+2006). This is a values-heavy lesson: we treat *every* person as worthy of respect even
+when their idea is wrong, and we never rank people by who agrees with us
+(`docs/philosophy.md` §4). Retrieval: connect back to Lesson 3's "build on" moves —
+disagreeing well often starts by acknowledging, which is itself a form of building.
+Honor every home language and every accent; respectful disagreement sounds different
+across cultures, and that variety is itself instructive. Hold the space gently —
+disagreement can feel scary, and the goal is safety with honesty.
 
 ## Procedure
 

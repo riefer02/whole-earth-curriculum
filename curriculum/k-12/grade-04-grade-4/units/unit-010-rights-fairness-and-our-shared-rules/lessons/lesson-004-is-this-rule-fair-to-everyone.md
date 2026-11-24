@@ -120,22 +120,22 @@ put a rule on trial and judge, with a reason, whether it is fair to everyone.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **evaluating a rule's fairness to
-everyone it affects** — the unit's core fairness skill. Model the move first as a
-worked example: pick a rule, run the three questions out loud, and reach a judgment
-with a "because." Emphasize that an unfair rule is usually *not made with bad intent* —
-it is a rule that was never checked against everyone, so the fix is to **change the
-rule, not blame the person**. This keeps the lesson from shaming anyone. Use invented,
-gentle rules (the shelf, the game, the queue, the water tap); avoid rules that could
-single out a real child. Note that "fair" does not always mean "the same": fairness to
-everyone sometimes means *different* support for *different* needs (a low shelf, a
-ramp, a helper) — revisit Grade 2's "same treatment is not always fair." A learner who
-does not speak aloud points to a checkbox or to the affected figure; a learner who is
-deaf or hard of hearing follows the three questions through the chart and sign; a
-learner who is blind or low-vision hears the rule and its effects described and gives
-their judgment aloud; a learner with a motor difference can direct a partner to mark
-the sheet. A learner may always pass. The goal is a learner who can say, in their own
-way, "this rule is fair (or not) to everyone because..."
+This lesson teaches **evaluating a rule's fairness to everyone it affects** — the unit's
+core fairness skill. Model the move first as a worked example: pick a rule, run the
+three questions out loud, and reach a judgment with a "because." Emphasize that an
+unfair rule is usually *not made with bad intent* — it is a rule that was never checked
+against everyone, so the fix is to **change the rule, not blame the person**. This keeps
+the lesson from shaming anyone. Use invented, gentle rules (the shelf, the game, the
+queue, the water tap); avoid rules that could single out a real child. Note that "fair"
+does not always mean "the same": fairness to everyone sometimes means *different*
+support for *different* needs (a low shelf, a ramp, a helper) — revisit Grade 2's "same
+treatment is not always fair." A learner who does not speak aloud points to a checkbox
+or to the affected figure; a learner who is deaf or hard of hearing follows the three
+questions through the chart and sign; a learner who is blind or low-vision hears the
+rule and its effects described and gives their judgment aloud; a learner with a motor
+difference can direct a partner to mark the sheet. A learner may always pass. The goal
+is a learner who can say, in their own way, "this rule is fair (or not) to everyone
+because..."
 
 ## Procedure
 

@@ -123,16 +123,16 @@ wrote down what really happened.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The heart of it is the link between
-**observing**, **recording**, and **describing**: recording turns a blurry memory into
-**data**, and describing the data is where the learning lives. Model the table once
-(worked example) — put a tick in the right column, then read it back in a sentence —
-then guide pairs, then let learners record alone. Build in retrieval: begin by asking
-learners to recall their plan and prediction from Lesson 1. Keep the scientist's honesty
-front and center: if the result did not match the prediction, the data still win, and
-that is a discovery, not a defeat. A table need not be fancy — marks in dirt, tally
-lines, drawings, or words all count as recording. Repeating the trial three times is a
-first, gentle step toward "why we test more than once" (spaced for Grade 4).
+The heart of it is the link between **observing**, **recording**, and **describing**:
+recording turns a blurry memory into **data**, and describing the data is where the
+learning lives. Model the table once (worked example) — put a tick in the right column,
+then read it back in a sentence — then guide pairs, then let learners record alone.
+Build in retrieval: begin by asking learners to recall their plan and prediction from
+Lesson 1. Keep the scientist's honesty front and center: if the result did not match the
+prediction, the data still win, and that is a discovery, not a defeat. A table need not
+be fancy — marks in dirt, tally lines, drawings, or words all count as recording.
+Repeating the trial three times is a first, gentle step toward "why we test more than
+once" (spaced for Grade 4).
 
 ## Procedure
 

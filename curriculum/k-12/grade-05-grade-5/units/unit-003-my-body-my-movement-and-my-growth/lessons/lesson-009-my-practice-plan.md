@@ -118,12 +118,12 @@ forgotten.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that a **simple plan turns
-learning into action**, and that the plan should be **small, flexible, and kind to every body**.
-Interleaving — mixing the skill with heart-pumping movement — helps learning stick (spacing and
-interleaving). Keep goals **small and personal**, never competitive. If learners mention
-step-counters or fitness apps, frame them as **optional tools** — useful, but the body's own
-signals always come first, and no one needs a device to move well. Honor every body's pace and
+The idea to land is that a **simple plan turns learning into action**, and that the plan
+should be **small, flexible, and kind to every body**. Interleaving — mixing the skill
+with heart-pumping movement — helps learning stick (spacing and interleaving). Keep
+goals **small and personal**, never competitive. If learners mention step-counters or
+fitness apps, frame them as **optional tools** — useful, but the body's own signals
+always come first, and no one needs a device to move well. Honor every body's pace and
 ability; a seated movement is a full movement. See `docs/contexts.md`.
 
 ## Procedure

@@ -99,15 +99,13 @@ and answering.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the story and cards, then guide the answering
-practice. Answers can be short at first; gently stretch learners toward full
-sentences ("A little bird" → "A little bird was looking for water"). Honor every
-way of telling — there is no single correct accent or way of speaking. An answer
-can be spoken, signed, pointed to on a picture, or said through a device — all are
-answers. For a learner who is Deaf or hard of hearing, use a picture book or a
-signed or written telling of the story, and accept a signed or pointed answer as
-fully as a spoken one.
+Prepare the story and cards, then guide the answering practice. Answers can be short at
+first; gently stretch learners toward full sentences ("A little bird" → "A little bird
+was looking for water"). Honor every way of telling — there is no single correct accent
+or way of speaking. An answer can be spoken, signed, pointed to on a picture, or said
+through a device — all are answers. For a learner who is Deaf or hard of hearing, use a
+picture book or a signed or written telling of the story, and accept a signed or pointed
+answer as fully as a spoken one.
 
 ## Procedure
 

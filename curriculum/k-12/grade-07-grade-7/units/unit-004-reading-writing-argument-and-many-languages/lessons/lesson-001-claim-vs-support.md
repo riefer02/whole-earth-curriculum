@@ -115,14 +115,14 @@ listener is the same: name the claim, then look for its support.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **every argument
-has a claim and support, and the listener's first job is to separate them** — not yet to
-judge whether the support is good (that comes next lesson). Use worked examples: model
-naming a claim and its support aloud on the poster before learners try their own
-(Kirschner, Sweller & Clark, 2006). Choose examples from many places and languages so no
-region or accent is the "default"; translate each into the learners' home language. Keep
-the examples small and safe — market, weather, games — not loaded disputes. See
-`docs/facilitation.md` and `docs/art-style.md`.
+The idea to land is that **every argument has a claim and support, and the listener's
+first job is to separate them** — not yet to judge whether the support is good (that
+comes next lesson). Use worked examples: model naming a claim and its support aloud on
+the poster before learners try their own (Kirschner, Sweller & Clark, 2006). Choose
+examples from many places and languages so no region or accent is the "default";
+translate each into the learners' home language. Keep the examples small and safe —
+market, weather, games — not loaded disputes. See `docs/facilitation.md` and
+`docs/art-style.md`.
 
 ## Procedure
 

@@ -116,21 +116,20 @@ in units of the radius" — one natural way to measure a turn.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **the unit circle
-has radius 1, so any angle θ lands at the point (cos θ, sin θ); a radian is the angle
-whose arc equals the radius, so a full turn is 2π radians; sine is positive above the
-x-axis and cosine positive to the right of the y-axis.** Teach the two moves
-explicitly — *place the angle* (find the point) and *read the coordinates* (cos, sin)
-— with worked examples and guided practice (S-011).
+The ideas to land: **the unit circle has radius 1, so any angle θ lands at the point
+(cos θ, sin θ); a radian is the angle whose arc equals the radius, so a full turn is 2π
+radians; sine is positive above the x-axis and cosine positive to the right of the
+y-axis.** Teach the two moves explicitly — *place the angle* (find the point) and *read
+the coordinates* (cos, sin) — with worked examples and guided practice (S-011).
 
 The **intellectual** lens: the circle generalizes sine and cosine from a triangle's
 corner to any angle, and makes their repetition visible. The **global** lens: degrees
 descend from Babylonian base-60 counting, while radians come from the circle's own
-geometry — two languages for the same turn, both shared by everyone (S-291, S-429).
-The **critical-thinking** lens: learners check a coordinate by asking which quadrant
-the angle lands in and whether the signs match. The **environment** lens: every
-orbit, tide, and season is an angle going around the circle — the unit circle is the
-clock face of the natural world. Preview: Lesson 12 extends to general triangles.
+geometry — two languages for the same turn, both shared by everyone (S-291, S-429). The
+**critical-thinking** lens: learners check a coordinate by asking which quadrant the
+angle lands in and whether the signs match. The **environment** lens: every orbit, tide,
+and season is an angle going around the circle — the unit circle is the clock face of
+the natural world. Preview: Lesson 12 extends to general triangles.
 
 ## Procedure
 

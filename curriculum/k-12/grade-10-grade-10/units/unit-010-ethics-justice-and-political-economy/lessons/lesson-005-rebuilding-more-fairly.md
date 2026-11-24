@@ -113,18 +113,19 @@ names who it left out. Rebuilding is how critique becomes repair.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a critique is not finished until
-the argument is rebuilt — with the left-out people named, the sweeping claims qualified, and the
-hidden assumptions made visible.** Teach with a worked example, then guided practice (S-011). The
-**egalitarian** lens is the spine: rebuilding "more fairly" means asking who was left out and writing
-them back in. The **ethics** lens: a fairer argument is one a person unlike the speaker could also
-accept. The **global** lens: when we rebuild, we borrow the voice of someone from another place or
-tradition — and notice how the argument changes. Emphasize the **steelman** discipline: rebuild the
-strongest honest version of the argument, not a straw one — disagree with arguments at their best,
-not their worst. Keep questions open (philosophy §11); whether a rebuilt argument is "fair enough" is
-a values judgment, not a fact, and learners may disagree (philosophy §5). Preview: we leave the
-micro of single arguments and turn to global questions — who bears responsibility for climate harm
-and poverty.
+The idea to land: **a critique is not finished until the argument is rebuilt — with the
+left-out people named, the sweeping claims qualified, and the hidden assumptions made
+visible.** Teach with a worked example, then guided practice (S-011). The
+**egalitarian** lens is the spine: rebuilding "more fairly" means asking who was left
+out and writing them back in. The **ethics** lens: a fairer argument is one a person
+unlike the speaker could also accept. The **global** lens: when we rebuild, we borrow
+the voice of someone from another place or tradition — and notice how the argument
+changes. Emphasize the **steelman** discipline: rebuild the strongest honest version of
+the argument, not a straw one — disagree with arguments at their best, not their worst.
+Keep questions open (philosophy §11); whether a rebuilt argument is "fair enough" is a
+values judgment, not a fact, and learners may disagree (philosophy §5). Preview: we
+leave the micro of single arguments and turn to global questions — who bears
+responsibility for climate harm and poverty.
 
 ## Procedure
 

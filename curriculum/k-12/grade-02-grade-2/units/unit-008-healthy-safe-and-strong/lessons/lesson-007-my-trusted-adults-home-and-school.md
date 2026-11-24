@@ -115,7 +115,7 @@ you will name yours.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Read this note fully before teaching.**
+**Read this note fully before teaching.**
 
 - Keep the tone warm and reassuring. Asking for help is a strength, never a weakness, and
   telling is never wrong.

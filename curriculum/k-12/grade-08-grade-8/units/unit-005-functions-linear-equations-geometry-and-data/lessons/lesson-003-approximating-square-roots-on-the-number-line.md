@@ -108,19 +108,21 @@ such lengths — √2, √5, √10 — exactly where they belong on the number l
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) every square root can be
-located on the number line by bracketing it with perfect squares — √n is between the two integers
-whose squares sit just below and just above n; (2) you can refine the estimate by squaring nearby
-decimal values (1.4² = 1.96, 1.5² = 2.25 → √2 ≈ 1.4); (3) locating a square root is the same
-approximation skill as reading a map or a scale.** Because bracketing is a foundational skill, use
-explicit instruction, worked examples, and guided practice before independent work (Kirschner,
-Sweller & Clark, 2006). Watch for the slips of placing √10 between 4 and 5 (forgetting that 4² = 16
-already exceeds 10) and of thinking √2 ≈ 2. The critical-thinking lens: approximation is honest — we
-say *about*, never a false exactness. The egalitarian lens: anyone with a list of perfect squares
-can locate a square root — no special tool is required. The global lens: estimating and bracketing
-quantities between known values is a sense-making habit found across measurement traditions, not one
-culture's invention (philosophy §4). Retrieval: ask learners to recall the a/b test (Lesson 2) — √10
-is irrational, yet we can still *place* it precisely on the line.
+The ideas to land: **(1) every square root can be located on the number line by
+bracketing it with perfect squares — √n is between the two integers whose squares sit
+just below and just above n; (2) you can refine the estimate by squaring nearby decimal
+values (1.4² = 1.96, 1.5² = 2.25 → √2 ≈ 1.4); (3) locating a square root is the same
+approximation skill as reading a map or a scale.** Because bracketing is a foundational
+skill, use explicit instruction, worked examples, and guided practice before independent
+work (Kirschner, Sweller & Clark, 2006). Watch for the slips of placing √10 between 4
+and 5 (forgetting that 4² = 16 already exceeds 10) and of thinking √2 ≈ 2. The
+critical-thinking lens: approximation is honest — we say *about*, never a false
+exactness. The egalitarian lens: anyone with a list of perfect squares can locate a
+square root — no special tool is required. The global lens: estimating and bracketing
+quantities between known values is a sense-making habit found across measurement
+traditions, not one culture's invention (philosophy §4). Retrieval: ask learners to
+recall the a/b test (Lesson 2) — √10 is irrational, yet we can still *place* it
+precisely on the line.
 
 ## Procedure
 

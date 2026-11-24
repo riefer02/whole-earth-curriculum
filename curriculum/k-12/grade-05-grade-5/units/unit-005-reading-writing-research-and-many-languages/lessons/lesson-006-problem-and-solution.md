@@ -115,13 +115,13 @@ it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that a
-**problem-and-solution structure** is a second tool authors use, and that spotting it turns a
-reader from a receiver of facts into a follower of an argument. Teach the signal words
-explicitly, then let learners hunt. Choose problems from many places — water, soil, pests,
-transport, food storage — and never frame any community as helpless; the point is human
-agency and shared solutions. Connect the structure to hope: a problem named is a problem that
-can be met. See `docs/facilitation.md` on holding real-world difficulty with agency attached.
+The idea to land is that a **problem-and-solution structure** is a second tool authors
+use, and that spotting it turns a reader from a receiver of facts into a follower of an
+argument. Teach the signal words explicitly, then let learners hunt. Choose problems
+from many places — water, soil, pests, transport, food storage — and never frame any
+community as helpless; the point is human agency and shared solutions. Connect the
+structure to hope: a problem named is a problem that can be met. See
+`docs/facilitation.md` on holding real-world difficulty with agency attached.
 
 ## Procedure
 

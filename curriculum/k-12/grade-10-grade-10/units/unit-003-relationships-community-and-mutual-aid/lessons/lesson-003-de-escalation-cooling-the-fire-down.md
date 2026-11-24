@@ -121,29 +121,29 @@ is yourself.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **escalation is a
-climb we can read — and de-escalation is a set of teachable moves: regulate yourself
-first, lower your voice, slow the pace, listen, name the feeling without blame, and find
-one point of agreement.** The skill is well grounded: self-regulation and the "I-statement"
-habit (saying how *I* feel rather than blaming) are core conflict-resolution practices
-(S-148, S-001), and restorative practice frames conflict as something to listen through
-and repair rather than win (S-022). The physiology note is honest and hedged: a heated
-conflict raises arousal — heart and breath quicken — and calming the body first (a slow
-exhale) makes the calm voice possible; this is descriptive science, not a verdict.
+The idea to land: **escalation is a climb we can read — and de-escalation is a set of
+teachable moves: regulate yourself first, lower your voice, slow the pace, listen, name
+the feeling without blame, and find one point of agreement.** The skill is well
+grounded: self-regulation and the "I-statement" habit (saying how *I* feel rather than
+blaming) are core conflict-resolution practices (S-148, S-001), and restorative practice
+frames conflict as something to listen through and repair rather than win (S-022). The
+physiology note is honest and hedged: a heated conflict raises arousal — heart and
+breath quicken — and calming the body first (a slow exhale) makes the calm voice
+possible; this is descriptive science, not a verdict.
 
 Model the ramp once, then let learners practice (worked example → guided practice →
 independent work; S-011). The **social-emotional** lens is the spine: de-escalation
 begins with noticing *your own* body and feelings, and this topic can touch real hurts —
 invite, never force, and let learners share only what they choose. The **ethics** lens:
 de-escalation is not "letting someone walk over you" — it is refusing to add fuel while
-still being honest about your own needs. The **egalitarian** lens: the moves work the same
-for everyone, but the stakes are not equal — people who are routinely dismissed or
-punished more harshly may feel *less* safe to cool a conflict down, and that is a justice
-fact, not a personal failing. The **critical-thinking** lens: name your own pattern — what
-is your fuel, and what is your water? The **global** lens: every culture has its own ways
-of keeping peace and saving face; these moves are one toolkit among many, held with
-respect. Preview: Lesson 4 asks when a conflict is *too big* to cool alone — and who to
-ask.
+still being honest about your own needs. The **egalitarian** lens: the moves work the
+same for everyone, but the stakes are not equal — people who are routinely dismissed or
+punished more harshly may feel *less* safe to cool a conflict down, and that is a
+justice fact, not a personal failing. The **critical-thinking** lens: name your own
+pattern — what is your fuel, and what is your water? The **global** lens: every culture
+has its own ways of keeping peace and saving face; these moves are one toolkit among
+many, held with respect. Preview: Lesson 4 asks when a conflict is *too big* to cool
+alone — and who to ask.
 
 ## Procedure
 

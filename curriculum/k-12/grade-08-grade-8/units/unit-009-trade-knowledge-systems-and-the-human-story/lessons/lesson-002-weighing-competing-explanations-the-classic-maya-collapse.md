@@ -113,29 +113,32 @@ great change, deciding what the evidence best supports.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **historians evaluate competing
-explanations by weighing evidence, and a reasoned judgment says which explanation the evidence best
-supports — often several causes working together.** The worked historical example: the **Classic
-Maya civilization** flourished from about 250 to 900 CE across Mesoamerica (present-day southern
-Mexico, Guatemala, Belize, Honduras, and El Salvador), building great cities (Tikal, Calakmul,
-Copán, Palenque) with writing, astronomy, and a precise calendar (S-378, S-204). Then, beginning
-around 800–950 CE, many southern-lowland cities were abandoned — the "Classic Maya collapse." Three
-competing explanations: **(1) drought** — evidence from lake-sediment cores (for example, gypsum and
-oxygen-isotope records at Lake Chichancanab) points to severe, repeated droughts around 800–1000 CE;
-**(2) warfare and political instability** — monuments and inscriptions record mounting war between
-rival city-states; **(3) environmental stress and overpopulation** — intensive farming and growing
-populations may have worn down fragile tropical soils (S-378). Most scholars today hold that these
-worked **together**, with drought as a trigger that magnified the others (S-378). The **ethics**
-lens: it is honest and respectful to say "we are not certain; the evidence supports several causes"
-rather than pretending to one clean answer. The **egalitarian** lens: the Maya did not "vanish" — Maya
-peoples live today in the millions across the region, speaking Maya languages and carrying their
-traditions; the "collapse" was the decline of certain lowland cities, not of a people. The **global**
-lens: the Classic Maya are one of many brilliant civilizations (Mesoamerica, the Andes, West Africa,
-the Indian Ocean world) in this unit — the human story is many stories. The **environment** lens: a
-changing climate (drought) is a reminder that environmental change has shaped human history for
-thousands of years — a thread we will pick up later in the unit. Keep it honest: this is documented
-scholarship, and where scholars disagree, we hold the disagreement as a question, not a verdict
-(philosophy §11).
+The idea to land: **historians evaluate competing explanations by weighing evidence, and
+a reasoned judgment says which explanation the evidence best supports — often several
+causes working together.** The worked historical example: the **Classic Maya
+civilization** flourished from about 250 to 900 CE across Mesoamerica (present-day
+southern Mexico, Guatemala, Belize, Honduras, and El Salvador), building great cities
+(Tikal, Calakmul, Copán, Palenque) with writing, astronomy, and a precise calendar
+(S-378, S-204). Then, beginning around 800–950 CE, many southern-lowland cities were
+abandoned — the "Classic Maya collapse." Three competing explanations: **(1) drought** —
+evidence from lake-sediment cores (for example, gypsum and oxygen-isotope records at
+Lake Chichancanab) points to severe, repeated droughts around 800–1000 CE; **(2) warfare
+and political instability** — monuments and inscriptions record mounting war between
+rival city-states; **(3) environmental stress and overpopulation** — intensive farming
+and growing populations may have worn down fragile tropical soils (S-378). Most scholars
+today hold that these worked **together**, with drought as a trigger that magnified the
+others (S-378). The **ethics** lens: it is honest and respectful to say "we are not
+certain; the evidence supports several causes" rather than pretending to one clean
+answer. The **egalitarian** lens: the Maya did not "vanish" — Maya peoples live today in
+the millions across the region, speaking Maya languages and carrying their traditions;
+the "collapse" was the decline of certain lowland cities, not of a people. The
+**global** lens: the Classic Maya are one of many brilliant civilizations (Mesoamerica,
+the Andes, West Africa, the Indian Ocean world) in this unit — the human story is many
+stories. The **environment** lens: a changing climate (drought) is a reminder that
+environmental change has shaped human history for thousands of years — a thread we will
+pick up later in the unit. Keep it honest: this is documented scholarship, and where
+scholars disagree, we hold the disagreement as a question, not a verdict (philosophy
+§11).
 
 ## Procedure
 

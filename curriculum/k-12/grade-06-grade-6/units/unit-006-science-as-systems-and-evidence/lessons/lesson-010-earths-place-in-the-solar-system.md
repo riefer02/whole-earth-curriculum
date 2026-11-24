@@ -120,17 +120,16 @@ where Earth sits in that great family and just how small we are in it.
 
 ## Facilitator note
 
-Written to the learner ("you"). Two ideas to land: (1) **Earth is the third planet
-from the Sun**, one of eight, each with an orbit, and most planets have moons; (2)
-**scale** — the Sun is enormously bigger than the planets (about 100 times wider than
-Earth), and distances are vast. The honest teaching move is to be explicit that no
-single page can show size and distance to true scale at once — the diagram shows
-*order*, while the inset shows *relative size*; a distance model needs a long space.
-The Sun is a **star**, and stars are far bigger than planets. The fact that Earth is a
-planet orbiting a star is evidence-based science (observation, measurement, and
-spacecraft); the sense of wonder at our smallness can seed a global reflection, but
-hold it as a value, not a science claim. Keep "how do we know" alive: we know the
-distances by measurement, not by guess. See
+Two ideas to land: (1) **Earth is the third planet from the Sun**, one of eight, each
+with an orbit, and most planets have moons; (2) **scale** — the Sun is enormously bigger
+than the planets (about 100 times wider than Earth), and distances are vast. The honest
+teaching move is to be explicit that no single page can show size and distance to true
+scale at once — the diagram shows *order*, while the inset shows *relative size*; a
+distance model needs a long space. The Sun is a **star**, and stars are far bigger than
+planets. The fact that Earth is a planet orbiting a star is evidence-based science
+(observation, measurement, and spacecraft); the sense of wonder at our smallness can
+seed a global reflection, but hold it as a value, not a science claim. Keep "how do we
+know" alive: we know the distances by measurement, not by guess. See
 [`docs/facilitation.md`](../../../../../../docs/facilitation.md).
 
 ## Procedure

@@ -122,21 +122,20 @@ elder to child. Looking closely at a treasure — and naming what it says its pe
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Honor every treasure as living, not
-"folk art" or "ancient."** Kente is woven today; Aboriginal artists paint today; songs
-are sung today. Never call any of it "simple" or "primitive" — each is deep, careful
-knowledge passed from one generation to the next. **The skill is reading meaning:** the
-lesson's job is to move from "this is pretty" to "this shows what a people care about"
-— a pattern that means wisdom, a story that teaches caring for the land, a song that
-keeps memory alive. Model one full example first (Kirschner, Sweller & Clark, 2006):
-"Kente's patterns are not random; each one has a name and a meaning, like wisdom or
-unity. So kente shows that its people value wisdom and togetherness." Then guide the
-second treasure. **Use accurate names and hedges** (see Resources): say "the Akan
-peoples of Ghana," "Aboriginal peoples of Australia," and note that there are many
-Aboriginal nations, each with its own stories and art. Honor every body: describe the
-cards in words for a learner who cannot see them; a learner who does not use a
-speaking voice points or acts the value. A learner may also name a treasure from their
-own culture — every culture's treasures belong in this lesson.
+**Honor every treasure as living, not "folk art" or "ancient."** Kente is woven today;
+Aboriginal artists paint today; songs are sung today. Never call any of it "simple" or
+"primitive" — each is deep, careful knowledge passed from one generation to the next.
+**The skill is reading meaning:** the lesson's job is to move from "this is pretty" to
+"this shows what a people care about" — a pattern that means wisdom, a story that
+teaches caring for the land, a song that keeps memory alive. Model one full example
+first (Kirschner, Sweller & Clark, 2006): "Kente's patterns are not random; each one has
+a name and a meaning, like wisdom or unity. So kente shows that its people value wisdom
+and togetherness." Then guide the second treasure. **Use accurate names and hedges**
+(see Resources): say "the Akan peoples of Ghana," "Aboriginal peoples of Australia," and
+note that there are many Aboriginal nations, each with its own stories and art. Honor
+every body: describe the cards in words for a learner who cannot see them; a learner who
+does not use a speaking voice points or acts the value. A learner may also name a
+treasure from their own culture — every culture's treasures belong in this lesson.
 
 ## Procedure
 

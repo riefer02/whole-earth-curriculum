@@ -119,12 +119,11 @@ reach with a rope.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **because similar
-triangles keep the same side ratios, each angle has fixed ratios — sine
-(opposite/hypotenuse), cosine (adjacent/hypotenuse), tangent (opposite/adjacent) —
-and these let us find any side or angle of a right triangle from a few knowns.** Teach
-the definitions with worked examples (S-011), but first let learners *discover* that
-the ratios are the same across similar triangles by measuring.
+The idea to land: **because similar triangles keep the same side ratios, each angle has
+fixed ratios — sine (opposite/hypotenuse), cosine (adjacent/hypotenuse), tangent
+(opposite/adjacent) — and these let us find any side or angle of a right triangle from a
+few knowns.** Teach the definitions with worked examples (S-011), but first let learners
+*discover* that the ratios are the same across similar triangles by measuring.
 
 The **global** lens: trigonometry is a shared human achievement. The word "sine" is a
 chain of translation — the Indian mathematician Aryabhata (5th century) tabulated
@@ -133,9 +132,9 @@ half-chords (S-240), the Sanskrit *jyā* became the Arabic *jība*, and later th
 **intellectual** lens: the ratios are the *same number* for the same angle because of
 similarity — the proof is the reason, not the memory. The **critical-thinking** lens:
 choose the right ratio by asking "which two sides do I know or want?" The
-**egalitarian** lens: trigonometry was developed to measure land, build, and navigate
-— tools for ordinary work, available to everyone. Preview: Lesson 10 applies these
-ratios to real surveying and navigation.
+**egalitarian** lens: trigonometry was developed to measure land, build, and navigate —
+tools for ordinary work, available to everyone. Preview: Lesson 10 applies these ratios
+to real surveying and navigation.
 
 ## Procedure
 

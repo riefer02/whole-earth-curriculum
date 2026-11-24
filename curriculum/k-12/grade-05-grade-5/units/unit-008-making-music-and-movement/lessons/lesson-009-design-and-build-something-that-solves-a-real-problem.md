@@ -120,15 +120,15 @@ others can learn from your thinking.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **the design cycle with
-reasons**: every choice — material, shape, method — gets a "why," and the build is tested
-against a real problem. Model the worked example fully before learners begin (explicit
-instruction for a novice skill — Kirschner, Sweller & Clark, 2006). Let the problem be
-*real* — the class or community should actually have it (a wet floor, a hot classroom, a
-messy shared shelf, a wobbly table, a garden that dries out). Prototypes will be rough;
-that is the point — testing and improving are the learning, not perfection. Celebrate
-explanation as much as the build. This is the design lens: technology as a tool with
-effects, chosen on purpose. See `docs/facilitation.md` and `docs/contexts.md`.
+The idea to land is **the design cycle with reasons**: every choice — material, shape,
+method — gets a "why," and the build is tested against a real problem. Model the worked
+example fully before learners begin (explicit instruction for a novice skill —
+Kirschner, Sweller & Clark, 2006). Let the problem be *real* — the class or community
+should actually have it (a wet floor, a hot classroom, a messy shared shelf, a wobbly
+table, a garden that dries out). Prototypes will be rough; that is the point — testing
+and improving are the learning, not perfection. Celebrate explanation as much as the
+build. This is the design lens: technology as a tool with effects, chosen on purpose.
+See `docs/facilitation.md` and `docs/contexts.md`.
 
 ## Procedure
 

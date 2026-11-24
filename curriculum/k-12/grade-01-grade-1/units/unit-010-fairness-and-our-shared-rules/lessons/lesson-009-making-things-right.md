@@ -112,21 +112,21 @@ saying sorry to a friend. Today you will practice making things right.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **repair, not punishment**. After
-a small hurt, the goal is making things right — returning what was taken, fixing what
-was broken, a sorry that means it, checking the friend is okay — never shaming,
-excluding, or "getting in trouble." Name the *act* ("that word hurt"), never the
-child; there are no "bad children," only hurts to repair. An apology is real when it
-means something: the person names what happened, notices how the other felt, and
-tries to fix it. A learner may suggest any honest repair — a kind word, a returned
-toy, help rebuilding — there is no single correct answer. Keep hurts small and
-gentle (a knocked-over block tower, a grabbed turn, a hurtful word), never heavy or
-frightening, and never ask a learner to confess a real private hurt. A learner who
-does not speak aloud suggests a repair by pointing to a step or a picture, signing,
-or having a peer voice it; a learner who is blind or low-vision names the repair
-aloud and touches the repaired object; a learner with a motor difference can direct
-a partner to do the repair while they choose it. A learner may always pass. The aim
-is that every learner can say, in their own way, "I can help make it right."
+This lesson teaches **repair, not punishment**. After a small hurt, the goal is making
+things right — returning what was taken, fixing what was broken, a sorry that means it,
+checking the friend is okay — never shaming, excluding, or "getting in trouble." Name
+the *act* ("that word hurt"), never the child; there are no "bad children," only hurts
+to repair. An apology is real when it means something: the person names what happened,
+notices how the other felt, and tries to fix it. A learner may suggest any honest
+repair — a kind word, a returned toy, help rebuilding — there is no single correct
+answer. Keep hurts small and gentle (a knocked-over block tower, a grabbed turn, a
+hurtful word), never heavy or frightening, and never ask a learner to confess a real
+private hurt. A learner who does not speak aloud suggests a repair by pointing to a step
+or a picture, signing, or having a peer voice it; a learner who is blind or low-vision
+names the repair aloud and touches the repaired object; a learner with a motor
+difference can direct a partner to do the repair while they choose it. A learner may
+always pass. The aim is that every learner can say, in their own way, "I can help make
+it right."
 
 ## Procedure
 

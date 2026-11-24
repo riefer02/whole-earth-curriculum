@@ -118,26 +118,27 @@ preference.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **food choices carry
-consequences for other people and the living Earth, and we can weigh those honestly — by
-separating facts from values — without shaming anyone's plate.** Teach the trace-the-meal
-worked example explicitly, then let learners trace their own (S-011). This is the unit's
-highest-shame-risk lesson; name it out loud: a learner who is poor, food-insecure, or whose
-family's food is not "green" must never be made to feel at fault. The footprint belongs to
-*systems*, and the responsibility to change them is *shared*, never loaded onto one plate.
+The idea to land: **food choices carry consequences for other people and the living
+Earth, and we can weigh those honestly — by separating facts from values — without
+shaming anyone's plate.** Teach the trace-the-meal worked example explicitly, then let
+learners trace their own (S-011). This is the unit's highest-shame-risk lesson; name it
+out loud: a learner who is poor, food-insecure, or whose family's food is not "green"
+must never be made to feel at fault. The footprint belongs to *systems*, and the
+responsibility to change them is *shared*, never loaded onto one plate.
 
-The **ethics** lens: a food choice has consequences for others — farm workers, animals, future
-people — and ethics is simply the discipline of asking *who is affected and what do I owe
-them.* The **egalitarianism** lens: the costs of food are unevenly carried — the people who
-grow and pick food are often the people who can least afford it, and the places least
-responsible for climate change often feel it worst (S-006, S-005). The **global** lens:
-footprints differ by place and method — a food farmed one way in one region has a different
-footprint than the same food farmed differently elsewhere; there is no single "good" food. The
-**technology** lens: fertilizer, irrigation, refrigeration, and long-distance shipping changed
-footprints dramatically — some raising them, some lowering them. The **environment** lens:
-about one-fifth of the food available to consumers worldwide is wasted, wasting the water,
-land, and energy that made it (S-410). Preview: Lesson 4 traces the whole system from farm to
-table; Lesson 5 turns this understanding into advocacy.
+The **ethics** lens: a food choice has consequences for others — farm workers, animals,
+future people — and ethics is simply the discipline of asking *who is affected and what
+do I owe them.* The **egalitarianism** lens: the costs of food are unevenly carried —
+the people who grow and pick food are often the people who can least afford it, and the
+places least responsible for climate change often feel it worst (S-006, S-005). The
+**global** lens: footprints differ by place and method — a food farmed one way in one
+region has a different footprint than the same food farmed differently elsewhere; there
+is no single "good" food. The **technology** lens: fertilizer, irrigation,
+refrigeration, and long-distance shipping changed footprints dramatically — some raising
+them, some lowering them. The **environment** lens: about one-fifth of the food
+available to consumers worldwide is wasted, wasting the water, land, and energy that
+made it (S-410). Preview: Lesson 4 traces the whole system from farm to table; Lesson 5
+turns this understanding into advocacy.
 
 ## Procedure
 

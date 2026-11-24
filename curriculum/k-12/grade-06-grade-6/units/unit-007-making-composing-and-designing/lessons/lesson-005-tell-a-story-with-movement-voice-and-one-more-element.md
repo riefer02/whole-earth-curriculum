@@ -125,16 +125,16 @@ cannot. Today you put all three together to tell one small story from beginning 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **integration with
-clarity**: a performance works when movement, voice, and one more element all serve the
-*same story* and the story has a clear beginning, middle, and end. Model the seed-to-tree
-worked example fully first (explicit instruction for a novice skill — Kirschner, Sweller &
-Clark, 2006). Keep the stories small and safe — a seed, a journey, a message, a rescue —
-and invite only stories learners feel good sharing; performance can feel vulnerable at
-this age (identity and self-consciousness spike in grades 6–8, see `docs/development.md`),
-so make the audience kind, applause warm, and participation a choice. Celebrate every
-completed story; clarity, not virtuosity, is the goal. See `docs/facilitation.md` and
-`docs/contexts.md` on cooperative group work and emotional safety.
+The idea to land is **integration with clarity**: a performance works when movement,
+voice, and one more element all serve the *same story* and the story has a clear
+beginning, middle, and end. Model the seed-to-tree worked example fully first (explicit
+instruction for a novice skill — Kirschner, Sweller & Clark, 2006). Keep the stories
+small and safe — a seed, a journey, a message, a rescue — and invite only stories
+learners feel good sharing; performance can feel vulnerable at this age (identity and
+self-consciousness spike in grades 6–8, see `docs/development.md`), so make the audience
+kind, applause warm, and participation a choice. Celebrate every completed story;
+clarity, not virtuosity, is the goal. See `docs/facilitation.md` and `docs/contexts.md`
+on cooperative group work and emotional safety.
 
 ## Procedure
 

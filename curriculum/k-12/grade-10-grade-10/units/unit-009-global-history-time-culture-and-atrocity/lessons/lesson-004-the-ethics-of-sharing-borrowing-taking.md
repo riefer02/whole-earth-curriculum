@@ -109,22 +109,22 @@ people to another, who is credited, who consents, and who is harmed?
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the ethics of how
-knowledge and culture move turns on consent, credit, power, and harm — sharing is
-given and credited, borrowing is taken with credit and a continuing relationship, and
-taking is done without consent or credit, at the cost of the source people.** Model
-the three-way sort with a worked case before learners rule on their own (S-011).
+The idea to land: **the ethics of how knowledge and culture move turns on consent,
+credit, power, and harm — sharing is given and credited, borrowing is taken with credit
+and a continuing relationship, and taking is done without consent or credit, at the cost
+of the source people.** Model the three-way sort with a worked case before learners rule
+on their own (S-011).
 
-The **ethics** lens is the spine: the same object (a song, a medicine, a script) can
-be shared, borrowed, or taken depending on consent and credit. The **egalitarian**
-lens: power decides whose knowledge is valued and whose is taken as "raw material" —
+The **ethics** lens is the spine: the same object (a song, a medicine, a script) can be
+shared, borrowed, or taken depending on consent and credit. The **egalitarian** lens:
+power decides whose knowledge is valued and whose is taken as "raw material" —
 colonizers suppressed Maya codices while keeping what they learned from them, and
-renamed medicines and foods without the peoples who stewarded them (S-474, S-427).
-The **global** lens: examples span continents — the Maya bark-paper codices, African
-and Indigenous ecological knowledge, and languages under pressure to assimilate. The
-**critical-thinking** lens: "credit" and "harm" are judgments — name your criterion
-and test it against a hard case. Preview: Lesson 5 traces how knowledge actually
-*moved* across the world, and who got written out of the record.
+renamed medicines and foods without the peoples who stewarded them (S-474, S-427). The
+**global** lens: examples span continents — the Maya bark-paper codices, African and
+Indigenous ecological knowledge, and languages under pressure to assimilate. The
+**critical-thinking** lens: "credit" and "harm" are judgments — name your criterion and
+test it against a hard case. Preview: Lesson 5 traces how knowledge actually *moved*
+across the world, and who got written out of the record.
 
 ## Procedure
 

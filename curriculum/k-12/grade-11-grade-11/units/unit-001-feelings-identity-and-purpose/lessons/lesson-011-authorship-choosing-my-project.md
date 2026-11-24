@@ -108,26 +108,24 @@ plan, you begin, and you keep your own word to yourself.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **authorship means
-choosing, scoping, planning, and beginning a project of one's own — and a project that
-can actually be seen through is one that is small enough to start and real enough to
-matter.** Teach scoping with a worked example (S-011), then let learners choose
-freely.
+The idea to land: **authorship means choosing, scoping, planning, and beginning a
+project of one's own — and a project that can actually be seen through is one that is
+small enough to start and real enough to matter.** Teach scoping with a worked example
+(S-011), then let learners choose freely.
 
-The **social-emotional** lens: self-direction is a peak skill of adolescence, and
-agency is a developmental protective factor — contribution and responsibility build
-thriving (Search Institute developmental assets, S-156). The **ethics** lens: a chosen
-project carries the chooser's values; invite learners to pick something that *does
-something* for others or the world, not only for themselves — though the choice is
-theirs. The **egalitarian** lens: projects must be scoped to each learner's real
-constraints — time, resources, support — so no learner's plan is set up to fail; a
-small, honest project is worth more than a grand, abandoned one. The **global** lens:
-a personal project can be local and still connected — a shared garden, a language
-learned, a skill passed on — and learners can see their small work as a knot in the
-global web they mapped in Lesson 7. The **technology & environment** lens: projects
-may use technology as a tool (a document, a recording, a shared space) and may serve
-the living world (restore, plant, clean, teach) — but neither is required; what matters
-is that it is *theirs*.
+The **social-emotional** lens: self-direction is a peak skill of adolescence, and agency
+is a developmental protective factor — contribution and responsibility build thriving
+(Search Institute developmental assets, S-156). The **ethics** lens: a chosen project
+carries the chooser's values; invite learners to pick something that *does something*
+for others or the world, not only for themselves — though the choice is theirs. The
+**egalitarian** lens: projects must be scoped to each learner's real constraints — time,
+resources, support — so no learner's plan is set up to fail; a small, honest project is
+worth more than a grand, abandoned one. The **global** lens: a personal project can be
+local and still connected — a shared garden, a language learned, a skill passed on — and
+learners can see their small work as a knot in the global web they mapped in Lesson 7.
+The **technology & environment** lens: projects may use technology as a tool (a
+document, a recording, a shared space) and may serve the living world (restore, plant,
+clean, teach) — but neither is required; what matters is that it is *theirs*.
 
 **Emotional safety.** Choice must be real and free. No project is too small; no learner
 is judged for a modest scope. Some learners may not know what to choose — offer a menu

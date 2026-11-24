@@ -119,25 +119,26 @@ yourself, because you cannot act well in a community you cannot see.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **I am located inside
-nested communities, and the outermost ring — the community of all life — is not
-metaphorical; it is where my belonging actually ends.** The concept of the imagined
-community (a nation whose members never meet, Anderson, S-415) is a real, well-established
-idea; hold it as description, not as a claim that nations are unreal. Naming one's rings
-is a descriptive map, not a ranking of which belonging matters most.
+The idea to land: **I am located inside nested communities, and the outermost ring — the
+community of all life — is not metaphorical; it is where my belonging actually ends.**
+The concept of the imagined community (a nation whose members never meet, Anderson,
+S-415) is a real, well-established idea; hold it as description, not as a claim that
+nations are unreal. Naming one's rings is a descriptive map, not a ranking of which
+belonging matters most.
 
 The **ethics** lens: each ring carries a different "we" with different obligations — and
-the outermost ring quietly obliges me to all life, not only my own. The **egalitarianism**
-lens: belonging is uneven — some people are pushed to the margins of rings, some are
-told they do not belong at all; noticing that is part of mapping honestly. The **global**
-lens: the rings are not the same everywhere — in one place "region" is a valley, in
-another a language group, in another a diaspora — the map adapts, the nesting does not.
-The **technology** lens: online communities cut across the rings — a group of people on
-three continents who never meet, yet feel "we" — a new kind of imagined community made
-possible by networks (Britannica, S-481; Anderson's frame applied to the digital age).
-The **environment** lens: the outermost ring is the living Earth itself — soil, water,
-atmosphere, and every species — and it is the one ring every other ring depends on.
-Preview: Lesson 9 asks who is included in a ring and who is left out.
+the outermost ring quietly obliges me to all life, not only my own. The
+**egalitarianism** lens: belonging is uneven — some people are pushed to the margins of
+rings, some are told they do not belong at all; noticing that is part of mapping
+honestly. The **global** lens: the rings are not the same everywhere — in one place
+"region" is a valley, in another a language group, in another a diaspora — the map
+adapts, the nesting does not. The **technology** lens: online communities cut across the
+rings — a group of people on three continents who never meet, yet feel "we" — a new kind
+of imagined community made possible by networks (Britannica, S-481; Anderson's frame
+applied to the digital age). The **environment** lens: the outermost ring is the living
+Earth itself — soil, water, atmosphere, and every species — and it is the one ring every
+other ring depends on. Preview: Lesson 9 asks who is included in a ring and who is left
+out.
 
 **Safeguarding:** learners name their rings at whatever depth they choose; no one is
 required to name a family, a nation, or any identity they do not wish to claim.

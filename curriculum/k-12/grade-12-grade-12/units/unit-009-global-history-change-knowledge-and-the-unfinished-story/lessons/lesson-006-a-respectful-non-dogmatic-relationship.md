@@ -114,25 +114,28 @@ neither becomes a law.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a respectful, non-dogmatic
-relationship honors each tradition and treats none as beyond question — it names complement,
-difference, and the open questions it refuses to force shut.** Teach the statement explicitly
-(S-011). Two dogmatisms to avoid, and to name aloud: *scientific dogmatism* (only one tradition is
-real knowledge) and *relativist dogmatism* (all claims are equal, so nothing can be checked). The
-mature stance refuses both: traditions are held with dignity *and* claims are weighed with evidence.
+The idea to land: **a respectful, non-dogmatic relationship honors each tradition and
+treats none as beyond question — it names complement, difference, and the open questions
+it refuses to force shut.** Teach the statement explicitly (S-011). Two dogmatisms to
+avoid, and to name aloud: *scientific dogmatism* (only one tradition is real knowledge)
+and *relativist dogmatism* (all claims are equal, so nothing can be checked). The mature
+stance refuses both: traditions are held with dignity *and* claims are weighed with
+evidence.
 
-The **ethics** lens: the refusal to rank is not a refusal to judge — we can still ask of any
-tradition, "does this claim hold up, and does this practice do harm?" The **egalitarianism** lens:
-"two-eyed seeing" — seeing with Indigenous and scientific eyes together — is itself a teaching from
-Mi'kmaq Elder Albert Marshall, carried into science by Indigenous scholars such as Robin Wall
-Kimmerer (S-427), which is a quiet reversal of the idea that only one tradition gets to define the
-relationship. The **global** lens: complement-and-difference relationships exist worldwide — a
-doctor who is also a herbalist, a fisherman who is also a hydrologist — and each culture words the
-relation its own way. The **technology** lens: tools let one tradition borrow from another (a
-satellite map of a landscape an elder knows by foot), which is *relation*, not replacement. The
-**environment** lens: when fire science and cultural burning work together, the result is better
-land care than either alone (S-320, S-321) — a working model of the non-dogmatic relationship.
-Preview: Lesson 7 turns from the relationship to the act of *honoring* many traditions.
+The **ethics** lens: the refusal to rank is not a refusal to judge — we can still ask of
+any tradition, "does this claim hold up, and does this practice do harm?" The
+**egalitarianism** lens: "two-eyed seeing" — seeing with Indigenous and scientific eyes
+together — is itself a teaching from Mi'kmaq Elder Albert Marshall, carried into science
+by Indigenous scholars such as Robin Wall Kimmerer (S-427), which is a quiet reversal of
+the idea that only one tradition gets to define the relationship. The **global** lens:
+complement-and-difference relationships exist worldwide — a doctor who is also a
+herbalist, a fisherman who is also a hydrologist — and each culture words the relation
+its own way. The **technology** lens: tools let one tradition borrow from another (a
+satellite map of a landscape an elder knows by foot), which is *relation*, not
+replacement. The **environment** lens: when fire science and cultural burning work
+together, the result is better land care than either alone (S-320, S-321) — a working
+model of the non-dogmatic relationship. Preview: Lesson 7 turns from the relationship to
+the act of *honoring* many traditions.
 
 ## Procedure
 

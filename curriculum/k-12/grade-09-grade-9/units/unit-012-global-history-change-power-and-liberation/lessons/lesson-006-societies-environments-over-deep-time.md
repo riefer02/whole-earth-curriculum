@@ -111,25 +111,25 @@ Today we trace it over long spans of time.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **societies and their
-environments shape each other in both directions. People adapt — building terraces,
-canals, and reservoirs to manage their land — and environments also constrain people,
-through drought, flood, and soil. When societies decline, it is usually *many* causes at
-once, not one simple story.** Three documented cases: **(1) Angkor** — the Khmer built a
-vast water system of reservoirs and canals to manage the monsoons, an impressive
-adaptation; the city's decline in the 14th–15th centuries is debated, with evidence
-pointing to climate stress *and* strain on the water infrastructure together (S-471).
-**(2) The Maya lowlands** — the Classic Maya (~250–900 CE) adapted with terracing and
-reservoirs, but many southern-lowland cities were abandoned around 800–950 CE; scholars
-now see drought, warfare, and environmental stress working together, not a single cause
-(S-378). **(3) Great Zimbabwe** — the Shona built a stone city and a gold-trading economy
-in the 11th–15th centuries CE, an adaptation to the region's resources; its later decline
-is likewise multi-causal (S-199). The **environment** lens is the heart here. The
-**technology** lens: water and building engineering were the tools of adaptation. The
-**global** lens: this two-way story plays out on every continent. The **critical-thinking**
-lens: resist single-cause stories of "collapse" — good history weighs multiple causes and
-the evidence for each. Hold decline with care and accuracy, and end on the continuity of
-peoples, not only on ruin (facilitation.md).
+The idea to land: **societies and their environments shape each other in both
+directions. People adapt — building terraces, canals, and reservoirs to manage their
+land — and environments also constrain people, through drought, flood, and soil. When
+societies decline, it is usually *many* causes at once, not one simple story.** Three
+documented cases: **(1) Angkor** — the Khmer built a vast water system of reservoirs and
+canals to manage the monsoons, an impressive adaptation; the city's decline in the
+14th–15th centuries is debated, with evidence pointing to climate stress *and* strain on
+the water infrastructure together (S-471). **(2) The Maya lowlands** — the Classic Maya
+(~250–900 CE) adapted with terracing and reservoirs, but many southern-lowland cities
+were abandoned around 800–950 CE; scholars now see drought, warfare, and environmental
+stress working together, not a single cause (S-378). **(3) Great Zimbabwe** — the Shona
+built a stone city and a gold-trading economy in the 11th–15th centuries CE, an
+adaptation to the region's resources; its later decline is likewise multi-causal
+(S-199). The **environment** lens is the heart here. The **technology** lens: water and
+building engineering were the tools of adaptation. The **global** lens: this two-way
+story plays out on every continent. The **critical-thinking** lens: resist single-cause
+stories of "collapse" — good history weighs multiple causes and the evidence for each.
+Hold decline with care and accuracy, and end on the continuity of peoples, not only on
+ruin (facilitation.md).
 
 ## Procedure
 

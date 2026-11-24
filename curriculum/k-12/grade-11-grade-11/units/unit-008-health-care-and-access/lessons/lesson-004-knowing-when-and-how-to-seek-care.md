@@ -115,21 +115,20 @@ what to say when you do.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **health needs sit
-on an urgency ladder — self-manage, routine, urgent, emergency — and the skill is
-matching need to response.** Two anchored facts: **emergency numbers are set
-country-by-country (there is no single universal number; e.g., 112 across much of
-Europe, 999 in the UK, 000 in Australia, 911 in the US/Canada, 119/110/10111
-elsewhere — S-195)**, and **basic first aid — and knowing when a "minor" injury is not
-minor — is part of knowing when to seek care (S-082, S-313).** Keep it safety-first:
-help-seeking is *part* of first aid, never a sign of failure, and learners rehearse
-words, not medical procedures they are not trained to do.
+The ideas to land: **health needs sit on an urgency ladder — self-manage, routine,
+urgent, emergency — and the skill is matching need to response.** Two anchored facts:
+**emergency numbers are set country-by-country (there is no single universal number;
+e.g., 112 across much of Europe, 999 in the UK, 000 in Australia, 911 in the US/Canada,
+119/110/10111 elsewhere — S-195)**, and **basic first aid — and knowing when a "minor"
+injury is not minor — is part of knowing when to seek care (S-082, S-313).** Keep it
+safety-first: help-seeking is *part* of first aid, never a sign of failure, and learners
+rehearse words, not medical procedures they are not trained to do.
 
 The **physical** lens: reading the body's signals — what is serious, what is not. The
 **critical-thinking** lens: judging urgency without panic and without denial. The
 **social-emotional** lens: mental-health needs belong on the same ladder; seeking help
-for a mind is as normal as for a body. Watch the emotional register — normalize both
-"it is okay to rest" and "it is okay to ask." Preview: Lesson 5 turns to the rights a
+for a mind is as normal as for a body. Watch the emotional register — normalize both "it
+is okay to rest" and "it is okay to ask." Preview: Lesson 5 turns to the rights a
 learner has once they walk through the door.
 
 ## Procedure

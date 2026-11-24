@@ -113,26 +113,26 @@ built yesterday.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) paper was
-invented in China (fragments date to the 2nd century BCE; traditionally improved and
-standardized by Cai Lun around 105 CE); (2) it spread west — to Korea and Japan, then
-along the Silk Roads to Central Asia (Samarkand), to Baghdad, and on to Europe by the
-12th–15th centuries; (3) causes of the spread include cheaper/better material than
-bamboo, silk, or parchment, rising demand for records, the trade routes themselves,
-and — by tradition — papermakers captured at the Battle of Talas (751 CE) carrying the
-skill; (4) consequences include more books, wider literacy, cheaper record-keeping and
-administration, and, later, printing (movable type developed in China).** Model the
-first stop explicitly, then let learners complete the rest (Kirschner, Sweller & Clark,
-2006). These are established historical facts (see Encyclopaedia Britannica, "paper").
-The technology lens: paper is a technology — a made thing that changed how humans
-think, remember, and govern. The global lens: the spread ran east *and* west, through
-many peoples, not one; credit belongs to Chinese papermakers, and later to the many
-hands that carried and adapted the craft. The egalitarian lens: before paper, writing
-materials were costly, so reading and writing were held by the few; cheap paper widened
-access — a consequence that was not shared instantly or equally, but trended that way.
-The ethics lens: knowledge traveling is a good, but note that one route of travel was
-through war and capture (Talas); we can honor the invention while also noticing the
-costs and the unequal paths by which ideas move.
+The ideas to land: **(1) paper was invented in China (fragments date to the 2nd century
+BCE; traditionally improved and standardized by Cai Lun around 105 CE); (2) it spread
+west — to Korea and Japan, then along the Silk Roads to Central Asia (Samarkand), to
+Baghdad, and on to Europe by the 12th–15th centuries; (3) causes of the spread include
+cheaper/better material than bamboo, silk, or parchment, rising demand for records, the
+trade routes themselves, and — by tradition — papermakers captured at the Battle of
+Talas (751 CE) carrying the skill; (4) consequences include more books, wider literacy,
+cheaper record-keeping and administration, and, later, printing (movable type developed
+in China).** Model the first stop explicitly, then let learners complete the rest
+(Kirschner, Sweller & Clark, 2006). These are established historical facts (see
+Encyclopaedia Britannica, "paper"). The technology lens: paper is a technology — a made
+thing that changed how humans think, remember, and govern. The global lens: the spread
+ran east *and* west, through many peoples, not one; credit belongs to Chinese
+papermakers, and later to the many hands that carried and adapted the craft. The
+egalitarian lens: before paper, writing materials were costly, so reading and writing
+were held by the few; cheap paper widened access — a consequence that was not shared
+instantly or equally, but trended that way. The ethics lens: knowledge traveling is a
+good, but note that one route of travel was through war and capture (Talas); we can
+honor the invention while also noticing the costs and the unequal paths by which ideas
+move.
 
 ## Procedure
 

@@ -118,18 +118,18 @@ stall, in a comment section, or anywhere people talk.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is a precise,
-three-way distinction: a **fact** is a claim about how things are that *evidence can
-check* (true or false); a **belief** is a claim a person *holds* but cannot fully check
-right now (it might be true or false, but we cannot settle it with what we have); a
-**value** is a claim about what *ought* to be (it is neither true nor false in the
-factual sense — it is about what matters). Teach the sort as a worked example before
-independent practice (Kirschner, Sweller & Clark, 2006). Do **not** rank beliefs or
-values against each other — the point is to *tell the kinds apart*, not to say which is
-better. Distinguish **evidence from values** (`docs/philosophy.md` §5): a fact is
-settled by evidence; a belief is held when evidence is not yet enough; a value is a
-"should," not a "is." Keep the question open: this lesson teaches *classification*,
-not a verdict on anyone's beliefs or values. See `docs/facilitation.md`.
+The idea to land is a precise, three-way distinction: a **fact** is a claim about how
+things are that *evidence can check* (true or false); a **belief** is a claim a person
+*holds* but cannot fully check right now (it might be true or false, but we cannot
+settle it with what we have); a **value** is a claim about what *ought* to be (it is
+neither true nor false in the factual sense — it is about what matters). Teach the sort
+as a worked example before independent practice (Kirschner, Sweller & Clark, 2006). Do
+**not** rank beliefs or values against each other — the point is to *tell the kinds
+apart*, not to say which is better. Distinguish **evidence from values**
+(`docs/philosophy.md` §5): a fact is settled by evidence; a belief is held when evidence
+is not yet enough; a value is a "should," not a "is." Keep the question open: this
+lesson teaches *classification*, not a verdict on anyone's beliefs or values. See
+`docs/facilitation.md`.
 
 ## Procedure
 

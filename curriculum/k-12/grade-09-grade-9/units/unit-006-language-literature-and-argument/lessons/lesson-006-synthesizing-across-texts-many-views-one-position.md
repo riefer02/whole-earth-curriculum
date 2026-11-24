@@ -113,27 +113,30 @@ then say something that is *yours*, supported by theirs. Today you do that with 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **synthesizing across texts means (1)
-noting each text's idea and evidence, (2) naming what they share, (3) holding the tension where they
-differ — and only then (4) stating a position of your own that cites them.** The four texts on "home":
-**Neruda** (Chile) — an ode locating home in humble, loved things; **Mahmoud Darwish** (Palestine) — a poem
-locating home in exile and the refusal to be erased from it (S-423); **Joy Harjo** (Mvskoke) — "Remember"
-locating home in sky, earth, ancestors, and language (S-422); **Tagore** (Bengal) — a *Gitanjali* lyric
-locating home in the road and the small, everyday meeting (S-421). The shared idea: home is not only a
-building — it is carried in memory, people, and place. The tension: is home something you *have* (Neruda's
-loved things) or something you can be *cut off from* (Darwish's exile)? A mature synthesis holds both: home
-is precious *precisely because* it can be lost. This is a *skill*, so use a **worked example** of a
-two-text synthesis first, then let learners add the other two texts (S-011). The critical-thinking lens: a
-position that ignores the tension is weaker, not stronger — name it. The ethics lens: honor each writer's
-meaning; do not bend a poem to fit your position — if a text resists, say so. The egalitarian lens: a
-Palestinian, a Mvskoke, a Chilean, and a Bengali writer each speak of home; a synthesis that treats any one
-as "exotic" or any one as "universal default" fails them all. The global lens: "home" is one of the oldest
-and most widespread themes in human literature — and its meaning changes with each life. The technology &
-environment lens: a shared document lets a synthesis be written together across distance, and in these four
-poems "home" is often land and place as much as people — so what is lost with exile or displacement is also
-a piece of the living world. Keep the texts
-short and faithful; note that translation is a re-creation (as in Lesson 5). Cite by naming author and
-title, so a reader can find the poem.
+The idea to land: **synthesizing across texts means (1) noting each text's idea and
+evidence, (2) naming what they share, (3) holding the tension where they differ — and
+only then (4) stating a position of your own that cites them.** The four texts on
+"home": **Neruda** (Chile) — an ode locating home in humble, loved things; **Mahmoud
+Darwish** (Palestine) — a poem locating home in exile and the refusal to be erased from
+it (S-423); **Joy Harjo** (Mvskoke) — "Remember" locating home in sky, earth, ancestors,
+and language (S-422); **Tagore** (Bengal) — a *Gitanjali* lyric locating home in the
+road and the small, everyday meeting (S-421). The shared idea: home is not only a
+building — it is carried in memory, people, and place. The tension: is home something
+you *have* (Neruda's loved things) or something you can be *cut off from* (Darwish's
+exile)? A mature synthesis holds both: home is precious *precisely because* it can be
+lost. This is a *skill*, so use a **worked example** of a two-text synthesis first, then
+let learners add the other two texts (S-011). The critical-thinking lens: a position
+that ignores the tension is weaker, not stronger — name it. The ethics lens: honor each
+writer's meaning; do not bend a poem to fit your position — if a text resists, say so.
+The egalitarian lens: a Palestinian, a Mvskoke, a Chilean, and a Bengali writer each
+speak of home; a synthesis that treats any one as "exotic" or any one as "universal
+default" fails them all. The global lens: "home" is one of the oldest and most
+widespread themes in human literature — and its meaning changes with each life. The
+technology & environment lens: a shared document lets a synthesis be written together
+across distance, and in these four poems "home" is often land and place as much as
+people — so what is lost with exile or displacement is also a piece of the living world.
+Keep the texts short and faithful; note that translation is a re-creation (as in Lesson
+5). Cite by naming author and title, so a reader can find the poem.
 
 ## Procedure
 

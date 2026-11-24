@@ -117,19 +117,18 @@ and arguing well means holding both questions at once.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **responsibility has
-(at least) two seats — the person who chose and the structure that shaped the choice —
-and mature moral argument refuses to reduce a case to only one (a conceptual
-distinction, not a claim about any specific case).** The egalitarian turn: **the
-question "who is responsible?" is not neutral; it is often used to blame the poor for
-poverty or to excuse the powerful. Naming both seats is a fairness move (UNDP,
-S-283).** Hold the question open: the lesson's point is not to reach one answer but to
-argue well and notice what each answer assumes.
+The idea to land: **responsibility has (at least) two seats — the person who chose and
+the structure that shaped the choice — and mature moral argument refuses to reduce a
+case to only one (a conceptual distinction, not a claim about any specific case).** The
+egalitarian turn: **the question "who is responsible?" is not neutral; it is often used
+to blame the poor for poverty or to excuse the powerful. Naming both seats is a fairness
+move (UNDP, S-283).** Hold the question open: the lesson's point is not to reach one
+answer but to argue well and notice what each answer assumes.
 
 The **ethics** lens: responsibility is the heart of moral judgment — who answers for
 what. The **egalitarianism** lens: watch where "responsibility" talk lands — does it
-fall harder on people with shorter menus? The **global** lens: a far-away consumer and
-a far-away worker are linked by a supply chain neither fully controls (Amnesty cobalt
+fall harder on people with shorter menus? The **global** lens: a far-away consumer and a
+far-away worker are linked by a supply chain neither fully controls (Amnesty cobalt
 report, S-398). The **critical-thinking** lens: test each argument for the hidden
 assumption that the chooser was free. Distinguish evidence from value: *what happened*
 is evidence; *who should answer for it* is a value judgment.

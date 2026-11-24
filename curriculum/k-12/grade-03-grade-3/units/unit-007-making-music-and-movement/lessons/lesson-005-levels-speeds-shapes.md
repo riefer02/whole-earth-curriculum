@@ -119,16 +119,14 @@ speeds, and shapes.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. This is movement, so the heart is safety and welcome, not
-perfection. Honor every body: a learner who uses a wheelchair, walker, or other aid
-dances with the parts that move — reaching high with arms or chin, sinking low by
-bending or tilting, making shapes with hands and shoulders. A seated learner dances
-fully. A learner with limited mobility can be the "director" who chooses the level,
-speed, and shape while a partner or the group moves it. There is no "best" movement;
-the only test is whether the body made the level, speed, or shape it meant to. Keep
-movements gentle and give everyone room to move at their own range. Celebrate each
-dancer's choices.
+This is movement, so the heart is safety and welcome, not perfection. Honor every body:
+a learner who uses a wheelchair, walker, or other aid dances with the parts that move —
+reaching high with arms or chin, sinking low by bending or tilting, making shapes with
+hands and shoulders. A seated learner dances fully. A learner with limited mobility can
+be the "director" who chooses the level, speed, and shape while a partner or the group
+moves it. There is no "best" movement; the only test is whether the body made the level,
+speed, or shape it meant to. Keep movements gentle and give everyone room to move at
+their own range. Celebrate each dancer's choices.
 
 ## Procedure
 

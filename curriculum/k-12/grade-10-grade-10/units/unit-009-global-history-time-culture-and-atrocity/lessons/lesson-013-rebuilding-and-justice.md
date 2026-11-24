@@ -108,30 +108,29 @@ remember. Justice is not one act but these four things held together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **after atrocity,
-communities rebuild through four interlocking paths — truth, accountability, repair,
-and remembrance — and justice is not a single verdict but the holding of these
-together, each with its own reach and its own limits.** Model the four paths with a
-worked example before learners weigh them (S-011).
+The idea to land: **after atrocity, communities rebuild through four interlocking
+paths — truth, accountability, repair, and remembrance — and justice is not a single
+verdict but the holding of these together, each with its own reach and its own limits.**
+Model the four paths with a worked example before learners weigh them (S-011).
 
 **Emotional safety (non-negotiable):** (1) **Warning and opt-out:** re-state that
-learners may step out, pass, or write privately at any time. (2) **Referral:** name
-the trusted adult or support line. (3) **Grounding:** open and close with a slow
-breath. (4) **No graphic images or gratuitous detail:** discuss the *paths*, not the
-violence. (5) **Agency and hope:** this lesson is the turn toward repair — end by
-centering what communities *built*, not only what they suffered (S-495).
+learners may step out, pass, or write privately at any time. (2) **Referral:** name the
+trusted adult or support line. (3) **Grounding:** open and close with a slow breath. (4)
+**No graphic images or gratuitous detail:** discuss the *paths*, not the violence. (5)
+**Agency and hope:** this lesson is the turn toward repair — end by centering what
+communities *built*, not only what they suffered (S-495).
 
 The **ethics** lens is the spine: justice is a moral question — what is owed to the
 harmed and to the truth. The **egalitarian** lens: justice exists because every life
 counts equally, and repair seeks to restore dignity, not merely to punish. The
-**global** lens: truth commissions, courts, and reparations have been attempted in
-many places, and repair is often understood not as revenge but as restoring
-relationship — a principle shared by restorative-justice traditions (S-022) and
-echoed in Indigenous peacemaking and other world traditions. The
-**critical-thinking** lens: weigh what each path *can* and *cannot* do — truth
-without accountability can ring hollow, accountability without repair can feel
-empty, and remembrance without the others can fade into ceremony. Preview: Lesson 14
-synthesizes the whole unit into one many-voiced story.
+**global** lens: truth commissions, courts, and reparations have been attempted in many
+places, and repair is often understood not as revenge but as restoring relationship — a
+principle shared by restorative-justice traditions (S-022) and echoed in Indigenous
+peacemaking and other world traditions. The **critical-thinking** lens: weigh what each
+path *can* and *cannot* do — truth without accountability can ring hollow,
+accountability without repair can feel empty, and remembrance without the others can
+fade into ceremony. Preview: Lesson 14 synthesizes the whole unit into one many-voiced
+story.
 
 ## Procedure
 

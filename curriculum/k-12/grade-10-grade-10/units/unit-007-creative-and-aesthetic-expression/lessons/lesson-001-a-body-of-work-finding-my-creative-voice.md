@@ -121,26 +121,25 @@ the many things you make, again and again. Today you start the record of yours.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a personal style is
-not a flash of genius; it is a pattern that appears when you make many works around a
-recurring idea or concern, and it reflects your influences and choices.** Style is
-*observable* — in the motifs you return to, the marks you make, the questions you keep
-asking — so learners can notice their own style forming rather than waiting to be
-"talented" enough to have one. This is the unit's through-line: every strand asks
-learners to make a *body* of work, not a one-off.
+The idea to land: **a personal style is not a flash of genius; it is a pattern that
+appears when you make many works around a recurring idea or concern, and it reflects
+your influences and choices.** Style is *observable* — in the motifs you return to, the
+marks you make, the questions you keep asking — so learners can notice their own style
+forming rather than waiting to be "talented" enough to have one. This is the unit's
+through-line: every strand asks learners to make a *body* of work, not a one-off.
 
 The **ethics** lens appears as the honesty of the artist's record — keeping every
-version, not hiding the "failed" ones, because the arc is the point. The
-**egalitarian** lens: there is no gate to having a voice; style belongs to everyone,
-not to those with expensive materials (hence the low-tech path). The **global** lens:
-across cultures, artists have always worked in series — repeated motifs in Akan
-adinkra and kente cloth (S-084), Māori kōwhaiwhai rafter patterns (S-115), and Jacob
-Lawrence's 60-panel *Migration Series* (S-363) all show how a body of work carries a
-vision. The **technology** lens: digital tools let learners keep every variation and
-watch their style emerge side by side — but paper does too. The **environment** lens:
-a sketchbook made of reused paper is itself a small act of care; art materials carry a
-footprint worth noticing. Preview: Lesson 2 turns to the ethics of engaging with
-*other* people's visual traditions.
+version, not hiding the "failed" ones, because the arc is the point. The **egalitarian**
+lens: there is no gate to having a voice; style belongs to everyone, not to those with
+expensive materials (hence the low-tech path). The **global** lens: across cultures,
+artists have always worked in series — repeated motifs in Akan adinkra and kente cloth
+(S-084), Māori kōwhaiwhai rafter patterns (S-115), and Jacob Lawrence's 60-panel
+*Migration Series* (S-363) all show how a body of work carries a vision. The
+**technology** lens: digital tools let learners keep every variation and watch their
+style emerge side by side — but paper does too. The **environment** lens: a sketchbook
+made of reused paper is itself a small act of care; art materials carry a footprint
+worth noticing. Preview: Lesson 2 turns to the ethics of engaging with *other* people's
+visual traditions.
 
 ## Procedure
 

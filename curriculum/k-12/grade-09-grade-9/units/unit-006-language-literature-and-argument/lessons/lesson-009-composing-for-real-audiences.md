@@ -112,22 +112,26 @@ something in the world.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **form follows audience — the same core
-message is shaped differently for a letter (one reader, respectful, personal), a proposal (a decision-maker,
-practical, with a plan of action), and a published digital piece (many readers, clear, scannable, shareable).**
-This is a *skill*, so use **worked examples, then guided practice** (S-011): show the three model pieces on
-the same local issue side by side and have learners name *what changed* between them and *why* (audience and
-purpose). Then each learner chooses one form and reshapes their own Lesson 7 argument. The ethics lens:
-writing to a real reader is a relationship — be honest, do not inflate, do not misrepresent a source to
-persuade. The egalitarian lens: a real audience is also a question of access — who can read a long formal
-letter, who can reach a digital post, whose language is the piece written in? A writer for real readers
-thinks about who is being addressed and who is being left out, and may write in more than one language or
-add a plain-language version. The global lens: letters, petitions, proposals, and community notices are how
-people make change everywhere — in a village, a city, a school — and the same craft applies in any language.
-The technology lens: a published digital piece reaches farther and faster than paper, but it also lasts
-longer and can spread beyond the intended reader — so choose words with care (S-063). Emphasize **real
-sharing**: the piece is not finished until it is delivered or published, even if only to a class wall, a
-newsletter, or a real official. This lesson's artifact is the capstone of the writing strand.
+The idea to land: **form follows audience — the same core message is shaped differently
+for a letter (one reader, respectful, personal), a proposal (a decision-maker,
+practical, with a plan of action), and a published digital piece (many readers, clear,
+scannable, shareable).** This is a *skill*, so use **worked examples, then guided
+practice** (S-011): show the three model pieces on the same local issue side by side and
+have learners name *what changed* between them and *why* (audience and purpose). Then
+each learner chooses one form and reshapes their own Lesson 7 argument. The ethics lens:
+writing to a real reader is a relationship — be honest, do not inflate, do not
+misrepresent a source to persuade. The egalitarian lens: a real audience is also a
+question of access — who can read a long formal letter, who can reach a digital post,
+whose language is the piece written in? A writer for real readers thinks about who is
+being addressed and who is being left out, and may write in more than one language or
+add a plain-language version. The global lens: letters, petitions, proposals, and
+community notices are how people make change everywhere — in a village, a city, a
+school — and the same craft applies in any language. The technology lens: a published
+digital piece reaches farther and faster than paper, but it also lasts longer and can
+spread beyond the intended reader — so choose words with care (S-063). Emphasize **real
+sharing**: the piece is not finished until it is delivered or published, even if only to
+a class wall, a newsletter, or a real official. This lesson's artifact is the capstone
+of the writing strand.
 
 ## Procedure
 

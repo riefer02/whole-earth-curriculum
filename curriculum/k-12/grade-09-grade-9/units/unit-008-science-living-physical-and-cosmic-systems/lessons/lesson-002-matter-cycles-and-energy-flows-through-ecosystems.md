@@ -113,22 +113,24 @@ circles, energy in a one-way stream.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The two ideas to land, and not to conflate:
-**(1) energy flows one way — it enters mostly as sunlight, moves through producers, consumers, and
-decomposers, and leaves as heat, never returning; (2) matter cycles — the atoms of carbon, nitrogen,
-and water are reused, returned by decomposers and by respiration, and taken up again.** Use a worked
-example first (S-011): trace a single carbon atom through air → plant (photosynthesis) → animal
-(eaten) → soil (decomposed) → air again, then trace one packet of energy through the same path and
-show it leaving as heat. The critical-thinking lens: "flow" and "cycle" are different ideas; confusing
-them is the most common ecosystem mistake, so insist on the two-arrow diagram. The environment lens:
-because energy is always lost as heat, every level up a food chain holds less energy — which is why
-there are more plants than plant-eaters, more prey than predators, and why most human food comes from
-low on the chain. The egalitarian lens: that same energy arithmetic is why feeding people with grain
-goes further than feeding grain to animals and then eating the animals — a question of how a shared
-Earth feeds everyone, not just some. The global lens: this one rule operates identically in a rice
-paddy, a savanna, a kelp forest, and a coral reef — every ecosystem on Earth moves energy and cycles
-matter the same way (S-244). Cite the ecosystem energy-flow source (S-244) and the carbon-cycle source
-(S-253); the ~10% transfer figure is the standard ecological rule of thumb, stated as approximate.
+The two ideas to land, and not to conflate: **(1) energy flows one way — it enters
+mostly as sunlight, moves through producers, consumers, and decomposers, and leaves as
+heat, never returning; (2) matter cycles — the atoms of carbon, nitrogen, and water are
+reused, returned by decomposers and by respiration, and taken up again.** Use a worked
+example first (S-011): trace a single carbon atom through air → plant (photosynthesis) →
+animal (eaten) → soil (decomposed) → air again, then trace one packet of energy through
+the same path and show it leaving as heat. The critical-thinking lens: "flow" and
+"cycle" are different ideas; confusing them is the most common ecosystem mistake, so
+insist on the two-arrow diagram. The environment lens: because energy is always lost as
+heat, every level up a food chain holds less energy — which is why there are more plants
+than plant-eaters, more prey than predators, and why most human food comes from low on
+the chain. The egalitarian lens: that same energy arithmetic is why feeding people with
+grain goes further than feeding grain to animals and then eating the animals — a
+question of how a shared Earth feeds everyone, not just some. The global lens: this one
+rule operates identically in a rice paddy, a savanna, a kelp forest, and a coral reef —
+every ecosystem on Earth moves energy and cycles matter the same way (S-244). Cite the
+ecosystem energy-flow source (S-244) and the carbon-cycle source (S-253); the ~10%
+transfer figure is the standard ecological rule of thumb, stated as approximate.
 
 ## Procedure
 

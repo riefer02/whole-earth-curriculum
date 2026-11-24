@@ -115,24 +115,24 @@ decisions are made, from a village meeting to a national energy plan.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a four-step check —
-read the claim, estimate what the number should be, compare, and write a verdict — turns
-orders of magnitude into a working honesty tool.** Teach the worked example explicitly,
-then let learners run the loop on fresh claims (S-011). Keep two things distinct: the
-*factual* question (is the number even plausible?) and the *value* question (what should
-be done?), because conflating them is exactly what misleading claims exploit.
+The idea to land: **a four-step check — read the claim, estimate what the number should
+be, compare, and write a verdict — turns orders of magnitude into a working honesty
+tool.** Teach the worked example explicitly, then let learners run the loop on fresh
+claims (S-011). Keep two things distinct: the *factual* question (is the number even
+plausible?) and the *value* question (what should be done?), because conflating them is
+exactly what misleading claims exploit.
 
-The **ethics** lens: checking a number before repeating it is a small act of honesty that
-compounds in public life. The **egalitarianism** lens: the skill is free and universal — it
-puts a citizen and a headline on the same footing, and it protects the people a false
-number would harm (a mis-stated risk, an inflated benefit). The **global** lens: the same
-check applies in every place; a per-capita reading ("per person," not just "total") keeps
-big countries from dwarfing small ones by raw size (S-006). The **technology** lens: the
-numbers we check increasingly arrive through feeds and dashboards, so the skill scales to
-screens as much as to print. The **environment** lens: energy and carbon claims are where
-this matters most — gigatonnes, terawatt-hours, and "homes powered" are checkable against
-authoritative climate data (S-005, S-006). Preview: Lesson 5 begins modeling systems with
-equations.
+The **ethics** lens: checking a number before repeating it is a small act of honesty
+that compounds in public life. The **egalitarianism** lens: the skill is free and
+universal — it puts a citizen and a headline on the same footing, and it protects the
+people a false number would harm (a mis-stated risk, an inflated benefit). The
+**global** lens: the same check applies in every place; a per-capita reading ("per
+person," not just "total") keeps big countries from dwarfing small ones by raw size
+(S-006). The **technology** lens: the numbers we check increasingly arrive through feeds
+and dashboards, so the skill scales to screens as much as to print. The **environment**
+lens: energy and carbon claims are where this matters most — gigatonnes, terawatt-hours,
+and "homes powered" are checkable against authoritative climate data (S-005, S-006).
+Preview: Lesson 5 begins modeling systems with equations.
 
 ## Procedure
 

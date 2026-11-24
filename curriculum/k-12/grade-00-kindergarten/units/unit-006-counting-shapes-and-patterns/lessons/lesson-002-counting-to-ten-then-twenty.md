@@ -100,20 +100,18 @@ many still do. Counting to twenty is just counting to ten, and then ten more.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Counting to twenty is a bigger
-stretch than many five-year-olds find easy, and the "teen" numbers (eleven through
-nineteen) are irregular in many languages — they take time. Keep the tone playful and
-unhurried; **there is no such thing as "too slow" at counting**. Count in the home
-language, since number words differ across languages and all of them are correct. Some
-learners count on their fingers and toes as a physical anchor; others prefer objects
-or a spoken chant — honor every method. For learners who are deaf or hard of hearing,
-count in sign or by touching each object; for learners who are blind or low-vision,
-count by moving objects from one cup to another so the number grows by feel and sound.
-Learners with limited hand or body movement count by voice or sign, directing a
-partner to move each object, or indicating each one with eye-gaze or a mouth stick
-while the partner counts it.
-Do not rank learners by how high they can count; mastery arrives at its own pace for
-each child.
+Counting to twenty is a bigger stretch than many five-year-olds find easy, and the
+"teen" numbers (eleven through nineteen) are irregular in many languages — they take
+time. Keep the tone playful and unhurried; **there is no such thing as "too slow" at
+counting**. Count in the home language, since number words differ across languages and
+all of them are correct. Some learners count on their fingers and toes as a physical
+anchor; others prefer objects or a spoken chant — honor every method. For learners who
+are deaf or hard of hearing, count in sign or by touching each object; for learners who
+are blind or low-vision, count by moving objects from one cup to another so the number
+grows by feel and sound. Learners with limited hand or body movement count by voice or
+sign, directing a partner to move each object, or indicating each one with eye-gaze or a
+mouth stick while the partner counts it. Do not rank learners by how high they can
+count; mastery arrives at its own pace for each child.
 
 ## Procedure
 

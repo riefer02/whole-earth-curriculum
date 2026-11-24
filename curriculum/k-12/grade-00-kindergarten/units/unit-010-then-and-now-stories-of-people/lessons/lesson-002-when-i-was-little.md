@@ -99,11 +99,10 @@ too.
 
 ## Facilitator note
 
-Written to the learner ("you") so it works in a classroom and for a self-directed
-learner. **Sensitivity is essential here:** never require a baby photo or a story of
-early life. Some children were adopted, fostered, or separated from early caregivers;
-"little me" can mean any earlier time they remember or imagine. Never press a child
-who does not want to share. There is no "correct" family history.
+**Sensitivity is essential here:** never require a baby photo or a story of early life.
+Some children were adopted, fostered, or separated from early caregivers; "little me"
+can mean any earlier time they remember or imagine. Never press a child who does not
+want to share. There is no "correct" family history.
 
 ## Procedure
 

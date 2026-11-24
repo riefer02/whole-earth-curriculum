@@ -118,31 +118,29 @@ the first step to being persuaded *on purpose* instead of by accident.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **persuasion works
-through three appeals — ethos (character), pathos (feeling), and logos (reasoning) —
-named in the ancient Greek tradition (S-346), and these are one tradition among many;
-every culture has its own arts of speaking, and none is the "right" one.** Aristotle's
-*Rhetoric* (c. 350 BCE) organized persuasion into these three appeals — the speaker's
-character (êthos), the audience's emotional state (pathos), and the argument itself
-(logos) (S-346). Teach this as *description*, not as a universal law of all speaking:
-West African griots (jeli/jali) carry genealogy and history through oral performance
-(S-446); the Māori whaikōrero is a formal, structured oratory; the Indian nyāya
-tradition built careful rules of debate; the Islamic khuṭba addresses a congregation
-in its own register. Name these as *different arts with different strengths*, held
-side by side — never ranked.
+The idea to land: **persuasion works through three appeals — ethos (character), pathos
+(feeling), and logos (reasoning) — named in the ancient Greek tradition (S-346), and
+these are one tradition among many; every culture has its own arts of speaking, and none
+is the "right" one.** Aristotle's *Rhetoric* (c. 350 BCE) organized persuasion into
+these three appeals — the speaker's character (êthos), the audience's emotional state
+(pathos), and the argument itself (logos) (S-346). Teach this as *description*, not as a
+universal law of all speaking: West African griots (jeli/jali) carry genealogy and
+history through oral performance (S-446); the Māori whaikōrero is a formal, structured
+oratory; the Indian nyāya tradition built careful rules of debate; the Islamic khuṭba
+addresses a congregation in its own register. Name these as *different arts with
+different strengths*, held side by side — never ranked.
 
 Model the skill once, then let learners practice (worked example → guided practice →
 independent work; S-011). The **critical-thinking** lens is the spine: read *which*
-lever a speaker pulls and ask whether it carries the load or hides a missing reason.
-The **global** lens: treat the three appeals as one (ancient Greek) frame among many
+lever a speaker pulls and ask whether it carries the load or hides a missing reason. The
+**global** lens: treat the three appeals as one (ancient Greek) frame among many
 rhetorical traditions, and invite learners to name the speaking arts of their own
 community. The **ethics** lens: persuasion can serve care or harm — the same three
 levers build a fair argument or a con. The **egalitarian** lens: whose voices get to
 persuade publicly, and whose are kept out, is a question of power, not skill alone
 (S-281). The **social-emotional** lens: noticing when a feeling is being stirred *in
-you* is a kind of self-awareness; invite, never force, sharing. Preview: Lesson 2
-turns to the heart of the unit — telling emotional appeal apart from reasoned
-argument.
+you* is a kind of self-awareness; invite, never force, sharing. Preview: Lesson 2 turns
+to the heart of the unit — telling emotional appeal apart from reasoned argument.
 
 ## Procedure
 

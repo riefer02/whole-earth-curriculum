@@ -121,15 +121,15 @@ great movement of plants, animals, and people — and you hold both its gifts an
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is a **difficult topic, held with
-honesty and care**. The Columbian Exchange is often taught only as a list of crops "given"
-to the world; that telling hides the harm. Teach it whole: (1) what moved, (2) how it
-changed environments and societies, and (3) the honest truth that the exchange rode on
-**colonization and the transatlantic slave trade**, which brought disease, dispossession,
-and enslavement to Indigenous and African peoples. Spend real time on **what moved and
-changed**, and name the harm clearly but briefly, always centering the **dignity, knowledge,
-and agency** of Indigenous and African peoples — never victimhood. Respect a learner's right
-to pause; connect difficulty to hope (peoples kept their knowledge and adapted). See
+This is a **difficult topic, held with honesty and care**. The Columbian Exchange is
+often taught only as a list of crops "given" to the world; that telling hides the harm.
+Teach it whole: (1) what moved, (2) how it changed environments and societies, and (3)
+the honest truth that the exchange rode on **colonization and the transatlantic slave
+trade**, which brought disease, dispossession, and enslavement to Indigenous and African
+peoples. Spend real time on **what moved and changed**, and name the harm clearly but
+briefly, always centering the **dignity, knowledge, and agency** of Indigenous and
+African peoples — never victimhood. Respect a learner's right to pause; connect
+difficulty to hope (peoples kept their knowledge and adapted). See
 `docs/facilitation.md` on holding difficult topics safely.
 
 ## Procedure

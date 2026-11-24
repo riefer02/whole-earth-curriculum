@@ -120,21 +120,21 @@ what dignity means and name a moment it was honored or denied.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **dignity** — the worth every
-person has, simply by being a person. Hold it with care and **never as shame**: the
-"denied" examples are *invented and gentle* (ignored, talked over, left standing), and
-the point is the *act*, never the *person*. No learner is ever asked to confess a time
-they denied someone's dignity, and no learner is ever labeled as having denied it.
-Frame both panels as things that happen in the world, and hold "what does each way of
-treating someone do to their worth?" as a question. Emphasize that dignity cannot be
-*taken* — it can only be *denied* — so the learning ends in agency and hope: we can
-choose to honor it. A learner who does not speak aloud points to the honored panel or
-signs; a learner who is deaf or hard of hearing follows the strip through sign and
-caption; a learner who is blind or low-vision hears both panels described and names
-which honors and which denies worth, and why; a learner with a motor difference can
-direct a partner to act the scene. A learner may always pass. The aim is that every
-learner can say, in their own way, "dignity means being treated as a person of worth —
-here is a moment it was honored, and here is one it was denied."
+This lesson teaches **dignity** — the worth every person has, simply by being a person.
+Hold it with care and **never as shame**: the "denied" examples are *invented and
+gentle* (ignored, talked over, left standing), and the point is the *act*, never the
+*person*. No learner is ever asked to confess a time they denied someone's dignity, and
+no learner is ever labeled as having denied it. Frame both panels as things that happen
+in the world, and hold "what does each way of treating someone do to their worth?" as a
+question. Emphasize that dignity cannot be *taken* — it can only be *denied* — so the
+learning ends in agency and hope: we can choose to honor it. A learner who does not
+speak aloud points to the honored panel or signs; a learner who is deaf or hard of
+hearing follows the strip through sign and caption; a learner who is blind or low-vision
+hears both panels described and names which honors and which denies worth, and why; a
+learner with a motor difference can direct a partner to act the scene. A learner may
+always pass. The aim is that every learner can say, in their own way, "dignity means
+being treated as a person of worth — here is a moment it was honored, and here is one it
+was denied."
 
 ## Procedure
 

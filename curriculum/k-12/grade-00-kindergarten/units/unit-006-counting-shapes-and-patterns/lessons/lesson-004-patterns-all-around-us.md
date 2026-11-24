@@ -103,20 +103,19 @@ again and again. Today you will hunt for them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to plant is simply "a pattern
-repeats." Do not yet demand that learners extend or build patterns — that is the next
-lesson. Here, let them *see* patterns everywhere and feel the delight of recognition.
-Center patterns from many cultures as equals: woven baskets, kente and other striped
-and zigzag textiles, molas, beadwork, tile mosaics, and the repeating beats of drum
-music are all examples of people making order through repetition — none is "better,"
-each is beautiful in its own tradition. Be careful not to treat only printed or
-European patterns as "real" patterns. Honor sound and movement patterns (clapping,
-drumming, dance steps) as fully equal to visual ones, and invite learners who are
-blind or low-vision to find patterns by touch and sound, and learners who are deaf or
-hard of hearing to find them by sight and rhythm they can feel. Learners with limited
-movement find and share patterns by voice or sign — saying what repeats, or choosing
-examples with eye-gaze or a mouth stick — while a partner points or traces. There is
-no "wrong" pattern to notice.
+The idea to plant is simply "a pattern repeats." Do not yet demand that learners extend
+or build patterns — that is the next lesson. Here, let them *see* patterns everywhere
+and feel the delight of recognition. Center patterns from many cultures as equals: woven
+baskets, kente and other striped and zigzag textiles, molas, beadwork, tile mosaics, and
+the repeating beats of drum music are all examples of people making order through
+repetition — none is "better," each is beautiful in its own tradition. Be careful not to
+treat only printed or European patterns as "real" patterns. Honor sound and movement
+patterns (clapping, drumming, dance steps) as fully equal to visual ones, and invite
+learners who are blind or low-vision to find patterns by touch and sound, and learners
+who are deaf or hard of hearing to find them by sight and rhythm they can feel. Learners
+with limited movement find and share patterns by voice or sign — saying what repeats, or
+choosing examples with eye-gaze or a mouth stick — while a partner points or traces.
+There is no "wrong" pattern to notice.
 
 ## Procedure
 

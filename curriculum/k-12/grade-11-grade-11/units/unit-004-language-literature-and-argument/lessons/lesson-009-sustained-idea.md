@@ -113,22 +113,21 @@ opening. Today you find that idea and plant it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an extended work is
-built on one idea or story worth sustaining — the writer finds the seed, names the
-question it explores, and lets it grow across the work.** The genre is the learner's
-choice: analytical (an essay developing a claim), narrative (a story), or creative (a
-poem-sequence, a hybrid). Home language first — thought flows in the language the
-learner dreams in; translation and second-language work come later (Lesson 12). This
-lesson launches a *multi-day arc*: Lesson 9 plants, Lesson 10 develops, revises, and
-completes, with home time in between — the spacing itself is a science-of-learning
-feature (S-039).
+The idea to land: **an extended work is built on one idea or story worth sustaining —
+the writer finds the seed, names the question it explores, and lets it grow across the
+work.** The genre is the learner's choice: analytical (an essay developing a claim),
+narrative (a story), or creative (a poem-sequence, a hybrid). Home language first —
+thought flows in the language the learner dreams in; translation and second-language
+work come later (Lesson 12). This lesson launches a *multi-day arc*: Lesson 9 plants,
+Lesson 10 develops, revises, and completes, with home time in between — the spacing
+itself is a science-of-learning feature (S-039).
 
 Model the planner once, then let learners plan their own (worked example → guided
-practice → independent work; S-011). The **intellectual** lens: the discipline of
-naming "the one question" separates a sustained work from a pile of sentences. The
+practice → independent work; S-011). The **intellectual** lens: the discipline of naming
+"the one question" separates a sustained work from a pile of sentences. The
 **social-emotional** lens: writing long is vulnerable — the idea may be personal; make
-the room safe for half-formed seeds, and allow learners to choose fiction or analysis
-to keep distance if they need it. The **ethics** lens: an idea is a responsibility — a
+the room safe for half-formed seeds, and allow learners to choose fiction or analysis to
+keep distance if they need it. The **ethics** lens: an idea is a responsibility — a
 writer chooses what to sustain and thereby what to amplify; invite learners to notice
 what their idea values. The **global** lens: sustained works take many shapes across
 cultures — the griot's epic (S-269), the essay, the poem-cycle, the family chronicle —

@@ -113,23 +113,25 @@ your body come back to calm.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) acute stress — a short
-burst — is normal and useful: it sharpens attention and readies the body, then passes; (2) chronic
-stress — stress that does not pass — wears on the body over time: tense muscles, a racing heart,
-upset digestion, broken sleep, and low mood (S-338); (3) the body can be helped back to calm with
-healthy practices — slow breathing, movement, sleep, connection with others, time in nature, and
-talking to someone — and these are skills, not weaknesses.** Model the slow-breathing technique
-once (worked example, S-011), then practice together. The scientific account of chronic stress
-(S-338) is held alongside cultural breathing practices from many peoples (pranayama, qigong, and
-others) without ranking them (philosophy §11). The ethics lens: caring for a stressed body is a
-form of responsibility toward oneself. The egalitarian lens: stress does not fall evenly — poverty,
-violence, discrimination, and unsafe places add stress that is not anyone's fault, and no one
-should be blamed for being stressed. The global lens: every culture has its own ways of settling
-the body — breath, prayer, song, water, tea, rest — all worth honoring. The technology & environment
-lens: constant alerts, screens before sleep, and a lack of green or safe space can keep the alarm
-on; naming these is the first step to choosing differently. **Safeguarding:** some learners carry
-heavy stress; do not require disclosure — invite optional sharing, and remind learners a trusted
-adult is always a resource. Keep hope central: the lesson ends on agency, not on the weight of
+The ideas to land: **(1) acute stress — a short burst — is normal and useful: it
+sharpens attention and readies the body, then passes; (2) chronic stress — stress that
+does not pass — wears on the body over time: tense muscles, a racing heart, upset
+digestion, broken sleep, and low mood (S-338); (3) the body can be helped back to calm
+with healthy practices — slow breathing, movement, sleep, connection with others, time
+in nature, and talking to someone — and these are skills, not weaknesses.** Model the
+slow-breathing technique once (worked example, S-011), then practice together. The
+scientific account of chronic stress (S-338) is held alongside cultural breathing
+practices from many peoples (pranayama, qigong, and others) without ranking them
+(philosophy §11). The ethics lens: caring for a stressed body is a form of
+responsibility toward oneself. The egalitarian lens: stress does not fall evenly —
+poverty, violence, discrimination, and unsafe places add stress that is not anyone's
+fault, and no one should be blamed for being stressed. The global lens: every culture
+has its own ways of settling the body — breath, prayer, song, water, tea, rest — all
+worth honoring. The technology & environment lens: constant alerts, screens before
+sleep, and a lack of green or safe space can keep the alarm on; naming these is the
+first step to choosing differently. **Safeguarding:** some learners carry heavy stress;
+do not require disclosure — invite optional sharing, and remind learners a trusted adult
+is always a resource. Keep hope central: the lesson ends on agency, not on the weight of
 stress.
 
 ## Procedure

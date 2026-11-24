@@ -119,17 +119,18 @@ every body around you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) the four quadrants are one
-thing — sensing, unwinding, moving, and playing all meet in how we care for a body; (2) the four
-lenses (ethics, egalitarianism, global, technology & environment) are how we check those choices;
-(3) a plan is a promise to yourself, and it must fit your own body — no body is the wrong body.**
-This is a **summative** moment, but mastery is personal, not ranked — celebrate growth, never
-compare learners or bodies. The ethics lens: "what is right in how I treat my body and others'?"
-The egalitarian lens: "does my way of moving and playing welcome every body, or leave some out?"
-The global lens: "which practices from many cultures do I draw on, and do I honor them?" The
-technology & environment lens: "do my screens and my places help or hurt my body, and what will I
-choose?" Assess by what each learner can now *explain and choose*, not by a score. Keep hope and
-agency central — the unit ends on what each learner can do.
+The ideas to land: **(1) the four quadrants are one thing — sensing, unwinding, moving,
+and playing all meet in how we care for a body; (2) the four lenses (ethics,
+egalitarianism, global, technology & environment) are how we check those choices; (3) a
+plan is a promise to yourself, and it must fit your own body — no body is the wrong
+body.** This is a **summative** moment, but mastery is personal, not ranked — celebrate
+growth, never compare learners or bodies. The ethics lens: "what is right in how I treat
+my body and others'?" The egalitarian lens: "does my way of moving and playing welcome
+every body, or leave some out?" The global lens: "which practices from many cultures do
+I draw on, and do I honor them?" The technology & environment lens: "do my screens and
+my places help or hurt my body, and what will I choose?" Assess by what each learner can
+now *explain and choose*, not by a score. Keep hope and agency central — the unit ends
+on what each learner can do.
 
 ## Procedure
 

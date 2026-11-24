@@ -115,30 +115,31 @@ Learning to pause, check, and ask is a habit you will carry everywhere.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **respectful digital
-use is a practiced skill — pause, check the truth and the kindness of a message, ask
-before sharing others' words or images, and set boundaries for your own privacy.** The
-anchors are well established: online-safety guidance centers keeping personal information
-private and telling a trusted adult when something feels wrong (S-127, S-128); media
-literacy frames asking where information comes from and separating fact from persuasion
-as a core skill (S-063, S-217); and the reduced-cues picture from Lesson 1 (S-343)
-explains *why* a pause is needed. Present these as *skills to practice*, never as a list
-of forbidden things — the goal is a learner who acts with care, not fear.
+The idea to land: **respectful digital use is a practiced skill — pause, check the truth
+and the kindness of a message, ask before sharing others' words or images, and set
+boundaries for your own privacy.** The anchors are well established: online-safety
+guidance centers keeping personal information private and telling a trusted adult when
+something feels wrong (S-127, S-128); media literacy frames asking where information
+comes from and separating fact from persuasion as a core skill (S-063, S-217); and the
+reduced-cues picture from Lesson 1 (S-343) explains *why* a pause is needed. Present
+these as *skills to practice*, never as a list of forbidden things — the goal is a
+learner who acts with care, not fear.
 
 Model the flow once, then let learners practice (worked example → guided practice →
-independent work; S-011). The **ethics** lens: respect online is the same ethical work as
-respect offline — truthfulness, kindness, consent — with a new tool in hand. The
+independent work; S-011). The **ethics** lens: respect online is the same ethical work
+as respect offline — truthfulness, kindness, consent — with a new tool in hand. The
 **egalitarian** lens: "respectful use" must not become a lecture aimed only at some
 learners; everyone posts, everyone is posted about, and everyone's boundaries count
-equally. The **technology** lens: read the *defaults* — posts are often public-by-default,
-records persist, and audiences are invisible — and notice that respectful use often means
-changing a default. The **social-emotional** lens: this topic touches real moments of hurt,
-shame, and being left out; invite, never force, and let learners share only what they
-choose. The **critical-thinking** lens: "is it true?" means checking before sharing —
-rumors and edited images spread fast, and a respectful user does not pass them on
-unchecked (S-063). The **global** lens: norms of what is respectful differ across
-cultures and platforms; the three gates are a starting place, not a universal law.
-Preview: Lesson 3 moves from screens to conflict — how to cool a fire down.
+equally. The **technology** lens: read the *defaults* — posts are often
+public-by-default, records persist, and audiences are invisible — and notice that
+respectful use often means changing a default. The **social-emotional** lens: this topic
+touches real moments of hurt, shame, and being left out; invite, never force, and let
+learners share only what they choose. The **critical-thinking** lens: "is it true?"
+means checking before sharing — rumors and edited images spread fast, and a respectful
+user does not pass them on unchecked (S-063). The **global** lens: norms of what is
+respectful differ across cultures and platforms; the three gates are a starting place,
+not a universal law. Preview: Lesson 3 moves from screens to conflict — how to cool a
+fire down.
 
 ## Procedure
 

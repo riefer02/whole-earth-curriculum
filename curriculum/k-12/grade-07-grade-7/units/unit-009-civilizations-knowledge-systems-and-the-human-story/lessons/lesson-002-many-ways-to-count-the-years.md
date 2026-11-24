@@ -112,22 +112,21 @@ is "wrong" — they are different rulers for the same sky.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a solar
-calendar counts by the Sun's year (about 365 days); (2) a lunar calendar counts by the
-Moon's cycles (about 354 days, roughly 11 days shorter); (3) because the two years are
-different lengths, the same day has different numbers in each; and (4) "year one" is a
-choice each people makes.** Use the worked example (Gregorian vs. Hijri) with explicit
-instruction first, then let learners sort and compare (Kirschner, Sweller & Clark,
-2006). These are established facts: the Gregorian calendar is a solar calendar
-(introduced 1582, year counted from a traditional Christian starting point); the
-Islamic Hijri calendar is lunar (twelve lunar months, year 1 = the Hijra of 622 CE in
-the Gregorian calendar). The global lens: the same sky holds many calendars — Hebrew,
-Chinese, Buddhist, Maya, and others — none is the "real" one. The egalitarian lens:
-saying "the year is 2026" quietly centers one tradition; other peoples are living in
-different years right now, and their calendars are equally real. The critical-thinking
-lens: a calendar's starting point is a value-laden choice, not a discovery. The ethics
-lens: how we count shared time can include or exclude people; honoring many calendars
-is a small act of care.
+The ideas to land: **(1) a solar calendar counts by the Sun's year (about 365 days); (2)
+a lunar calendar counts by the Moon's cycles (about 354 days, roughly 11 days shorter);
+(3) because the two years are different lengths, the same day has different numbers in
+each; and (4) "year one" is a choice each people makes.** Use the worked example
+(Gregorian vs. Hijri) with explicit instruction first, then let learners sort and
+compare (Kirschner, Sweller & Clark, 2006). These are established facts: the Gregorian
+calendar is a solar calendar (introduced 1582, year counted from a traditional Christian
+starting point); the Islamic Hijri calendar is lunar (twelve lunar months, year 1 = the
+Hijra of 622 CE in the Gregorian calendar). The global lens: the same sky holds many
+calendars — Hebrew, Chinese, Buddhist, Maya, and others — none is the "real" one. The
+egalitarian lens: saying "the year is 2026" quietly centers one tradition; other peoples
+are living in different years right now, and their calendars are equally real. The
+critical-thinking lens: a calendar's starting point is a value-laden choice, not a
+discovery. The ethics lens: how we count shared time can include or exclude people;
+honoring many calendars is a small act of care.
 
 ## Procedure
 

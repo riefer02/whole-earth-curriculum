@@ -116,30 +116,31 @@ oldest question there is.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a considered position on
-origins has four honest parts — what the evidence supports, what other accounts offer, where
-I stand and why, and what remains open — and it holds evidence and other ways of knowing in
-respectful relation, never as creed.** Model the frame, then let learners compose (S-011).
-This lesson is emotionally and culturally delicate: every learner's tradition is to be held
-with dignity; no position is imposed, ranked, or mocked (philosophy §11). Sharing is always
-optional; use written or anonymous sharing if speaking up is not safe for some learners
-(contexts, cultural power dynamics). Distinguish evidence from values one last time: *what
-the evidence supports* is a factual claim; *where I stand and why* is a value, and each has
+The idea to land: **a considered position on origins has four honest parts — what the
+evidence supports, what other accounts offer, where I stand and why, and what remains
+open — and it holds evidence and other ways of knowing in respectful relation, never as
+creed.** Model the frame, then let learners compose (S-011). This lesson is emotionally
+and culturally delicate: every learner's tradition is to be held with dignity; no
+position is imposed, ranked, or mocked (philosophy §11). Sharing is always optional; use
+written or anonymous sharing if speaking up is not safe for some learners (contexts,
+cultural power dynamics). Distinguish evidence from values one last time: *what the
+evidence supports* is a factual claim; *where I stand and why* is a value, and each has
 its own kind of honesty.
 
-The **ethics** lens: the position is an ethical act — it refuses both dogmatism (pretending a
-model is certain truth) and contempt (pretending another's account is worthless), and chooses
-honesty and respect instead. The **egalitarianism** lens: every learner's position, from
-every tradition and no tradition, stands on equal footing — the exercise is not to find the
-one right answer but to let each person speak their considered mind with dignity (S-202,
-S-203). The **global** lens: origins have been held by every people, in every place — and a
-considered position honors that the scientific account is one among many, standing beside,
-not above (S-002, S-427). The **technology** lens: our knowledge of origins is mediated by
-instruments — telescopes, dating methods, sequencers — which is why the position names
-*what the evidence supports* as distinct from *what I believe*. The **environment** lens: to
-hold a position on origins is also to hold a position on the living world that is here now —
-awe at the cosmos is incomplete without care for the planet it produced (S-361, S-437).
-Preview: the position closes the unit and opens the lifelong question.
+The **ethics** lens: the position is an ethical act — it refuses both dogmatism
+(pretending a model is certain truth) and contempt (pretending another's account is
+worthless), and chooses honesty and respect instead. The **egalitarianism** lens: every
+learner's position, from every tradition and no tradition, stands on equal footing — the
+exercise is not to find the one right answer but to let each person speak their
+considered mind with dignity (S-202, S-203). The **global** lens: origins have been held
+by every people, in every place — and a considered position honors that the scientific
+account is one among many, standing beside, not above (S-002, S-427). The **technology**
+lens: our knowledge of origins is mediated by instruments — telescopes, dating methods,
+sequencers — which is why the position names *what the evidence supports* as distinct
+from *what I believe*. The **environment** lens: to hold a position on origins is also
+to hold a position on the living world that is here now — awe at the cosmos is
+incomplete without care for the planet it produced (S-361, S-437). Preview: the position
+closes the unit and opens the lifelong question.
 
 ## Procedure
 

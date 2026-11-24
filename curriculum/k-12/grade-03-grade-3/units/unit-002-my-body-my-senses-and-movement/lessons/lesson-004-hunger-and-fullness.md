@@ -109,18 +109,17 @@ care of it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the cards, then guide the matching and drawing. This
-spirals up from Grade 1, where learners first noticed hunger and thirst as body
-signals — now they add fullness and name a helpful response to each. Hold this topic
-with great care: food and bodies are sensitive. Never comment on how much or how
-little a learner eats, never praise or shame a body or an amount, and never make
-hunger a problem to be "fixed" by willpower. Bodies differ — in size, in hunger, in
-how often they need food — and different families eat on different schedules and in
-different ways; every pattern is to be respected. Some learners may not have enough
-food at home; frame hunger as a body signal to answer when we can, and respond with
-care if this comes up. The goal is noticing, never judgment. Learners with certain
-conditions may have different hunger signals; all observations are welcome.
+Prepare the cards, then guide the matching and drawing. This spirals up from Grade 1,
+where learners first noticed hunger and thirst as body signals — now they add fullness
+and name a helpful response to each. Hold this topic with great care: food and bodies
+are sensitive. Never comment on how much or how little a learner eats, never praise or
+shame a body or an amount, and never make hunger a problem to be "fixed" by willpower.
+Bodies differ — in size, in hunger, in how often they need food — and different families
+eat on different schedules and in different ways; every pattern is to be respected. Some
+learners may not have enough food at home; frame hunger as a body signal to answer when
+we can, and respond with care if this comes up. The goal is noticing, never judgment.
+Learners with certain conditions may have different hunger signals; all observations are
+welcome.
 
 ## Procedure
 

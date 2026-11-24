@@ -116,13 +116,13 @@ heart is getting its exercise.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that the **heart is a
-muscle strengthened by regular movement**. Keep the movement **short, joyful, and inclusive**:
-hopping in place, dancing, brisk walking, or arm circles — every body can move in its own way,
-and seated or adapted movement exercises the heart too. Some learners may have a heart
-condition or feel anxious about their heartbeat; reassure them that a faster beat after
-movement is normal and healthy. Do not push any learner beyond comfort. See
-`docs/facilitation.md` and `docs/contexts.md`.
+The idea to land is that the **heart is a muscle strengthened by regular movement**.
+Keep the movement **short, joyful, and inclusive**: hopping in place, dancing, brisk
+walking, or arm circles — every body can move in its own way, and seated or adapted
+movement exercises the heart too. Some learners may have a heart condition or feel
+anxious about their heartbeat; reassure them that a faster beat after movement is normal
+and healthy. Do not push any learner beyond comfort. See `docs/facilitation.md` and
+`docs/contexts.md`.
 
 ## Procedure
 

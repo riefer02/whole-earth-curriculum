@@ -120,13 +120,13 @@ tighten.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The one idea to land is that **emotions and
-body sensations connect — stress shows up as tension** — and that noticing this is a skill,
-not a problem to be ashamed of. Keep examples **ordinary and safe**; a learner may carry
-heavy or ongoing stress (family strain, illness, displacement), so invite only small, safe
-moments and never require anyone to reveal more than they choose. Present tension as
-*information*, never as weakness, and honor every body — tension can live in different spots
-for different people. See `docs/facilitation.md` on holding difficult topics safely.
+The one idea to land is that **emotions and body sensations connect — stress shows up as
+tension** — and that noticing this is a skill, not a problem to be ashamed of. Keep
+examples **ordinary and safe**; a learner may carry heavy or ongoing stress (family
+strain, illness, displacement), so invite only small, safe moments and never require
+anyone to reveal more than they choose. Present tension as *information*, never as
+weakness, and honor every body — tension can live in different spots for different
+people. See `docs/facilitation.md` on holding difficult topics safely.
 
 ## Procedure
 

@@ -116,23 +116,25 @@ hold three of them side by side.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **different traditions of justice —
-not only Western ones — give different, defensible answers to "who is responsible for poverty," and
-weighing them is the skill.** Present each tradition fairly and briefly: **capabilities** (Sen) asks
-whether people are actually *able* to do and be the things that make a life worth living — so
-responsibility falls on whoever can expand those freedoms (S-460); **fairness** (Rawls) asks what
-rules we would choose behind a "veil of ignorance" of our own position, so responsibility falls on
-arrangements that would be chosen by someone who did not know if they would be rich or poor (S-459);
-**ubuntu** (a Southern African ethic, often glossed "I am because we are") holds that a person's
-humanity is bound up with others', so poverty is everyone's concern and no one is fully themselves
-while another is left out. The **global** lens is the spine: this is the lesson where the curriculum
-most deliberately de-centers any single tradition — ubuntu, Confucian role ethics, Buddhist
-consequentialism, and dharma-based duty all carry ideas of justice as old and as serious as the
-Western canon (S-465, S-468, S-467, S-469). The **egalitarian** lens: every tradition here is being
-used to ask who is left out. The **community** lens: ubuntu names belonging itself as a good. Keep
-all three as *questions and frameworks*, not as the one correct answer (philosophy §11); distinguish
-the documented structural drivers of poverty (S-234) from the values each tradition adds (philosophy
-§5). Preview: next we turn to technology, data, and the right to privacy.
+The idea to land: **different traditions of justice — not only Western ones — give
+different, defensible answers to "who is responsible for poverty," and weighing them is
+the skill.** Present each tradition fairly and briefly: **capabilities** (Sen) asks
+whether people are actually *able* to do and be the things that make a life worth
+living — so responsibility falls on whoever can expand those freedoms (S-460);
+**fairness** (Rawls) asks what rules we would choose behind a "veil of ignorance" of our
+own position, so responsibility falls on arrangements that would be chosen by someone
+who did not know if they would be rich or poor (S-459); **ubuntu** (a Southern African
+ethic, often glossed "I am because we are") holds that a person's humanity is bound up
+with others', so poverty is everyone's concern and no one is fully themselves while
+another is left out. The **global** lens is the spine: this is the lesson where the
+curriculum most deliberately de-centers any single tradition — ubuntu, Confucian role
+ethics, Buddhist consequentialism, and dharma-based duty all carry ideas of justice as
+old and as serious as the Western canon (S-465, S-468, S-467, S-469). The
+**egalitarian** lens: every tradition here is being used to ask who is left out. The
+**community** lens: ubuntu names belonging itself as a good. Keep all three as
+*questions and frameworks*, not as the one correct answer (philosophy §11); distinguish
+the documented structural drivers of poverty (S-234) from the values each tradition adds
+(philosophy §5). Preview: next we turn to technology, data, and the right to privacy.
 
 ## Procedure
 

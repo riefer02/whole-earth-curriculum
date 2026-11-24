@@ -110,18 +110,17 @@ becomes a picture everyone can see — and a shape everyone can check by countin
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It reverses Lesson 10: now the
-attributes come first, and the learner draws the shape. Teach with a **worked example**
-(philosophy §13): hear "four equal sides," draw a square, count to check. Accept every
-drawing that honestly matches the attributes — a triangle can be wide or tall, and a
-rectangle can be long or short; there is no single "correct" drawing, only shapes that
-meet the attributes or do not. This is a gentle lesson in **precision without
-punishment**: checking sides and angles is how we know a drawing is right, and
-correcting a drawing is learning, not failing. **Every learner can draw; the goal is
-matching attributes, not making "pretty" pictures.** For learners who are Deaf or hard
-of hearing, show the attributes in writing or sign and let them draw; for learners who
-are blind or low-vision, build the shape with a geoboard or clay and describe it. A
-learner who does not speak draws the shape or builds it to answer.
+It reverses Lesson 10: now the attributes come first, and the learner draws the shape.
+Teach with a **worked example** (philosophy §13): hear "four equal sides," draw a
+square, count to check. Accept every drawing that honestly matches the attributes — a
+triangle can be wide or tall, and a rectangle can be long or short; there is no single
+"correct" drawing, only shapes that meet the attributes or do not. This is a gentle
+lesson in **precision without punishment**: checking sides and angles is how we know a
+drawing is right, and correcting a drawing is learning, not failing. **Every learner can
+draw; the goal is matching attributes, not making "pretty" pictures.** For learners who
+are Deaf or hard of hearing, show the attributes in writing or sign and let them draw;
+for learners who are blind or low-vision, build the shape with a geoboard or clay and
+describe it. A learner who does not speak draws the shape or builds it to answer.
 
 ## Procedure
 

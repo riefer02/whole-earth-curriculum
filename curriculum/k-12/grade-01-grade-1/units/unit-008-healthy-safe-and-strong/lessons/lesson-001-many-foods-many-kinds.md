@@ -113,17 +113,17 @@ seen.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Hold the line on no food shaming.** The
-goal is to name and celebrate the *variety* of foods, never to rank them. A food that is
-an everyday staple for one family may be rare or unavailable for another, and neither is
-wrong — every family's eating is honored. Do not comment on what or how much a learner
-eats, and never tie food to body size, weight, or appetite. For a learner who is blind or
-has low vision, pass real foods (or strongly scented ones) to touch and smell and name by
-feel. A learner who does not use a speaking voice names foods by pointing, signing, or
-drawing. A learner who is deaf or hard of hearing joins by watching the speaker or signer
-from the front and naming foods by pointing to the picture cards or signing the names.
-This lesson builds on Kindergarten's food lessons (U.00.002, U.00.008) and opens
-the spiral for this unit's food-group sorting.
+**Hold the line on no food shaming.** The goal is to name and celebrate the *variety* of
+foods, never to rank them. A food that is an everyday staple for one family may be rare
+or unavailable for another, and neither is wrong — every family's eating is honored. Do
+not comment on what or how much a learner eats, and never tie food to body size, weight,
+or appetite. For a learner who is blind or has low vision, pass real foods (or strongly
+scented ones) to touch and smell and name by feel. A learner who does not use a speaking
+voice names foods by pointing, signing, or drawing. A learner who is deaf or hard of
+hearing joins by watching the speaker or signer from the front and naming foods by
+pointing to the picture cards or signing the names. This lesson builds on Kindergarten's
+food lessons (U.00.002, U.00.008) and opens the spiral for this unit's food-group
+sorting.
 
 ## Procedure
 

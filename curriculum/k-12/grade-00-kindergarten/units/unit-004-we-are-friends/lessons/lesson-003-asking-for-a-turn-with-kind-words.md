@@ -103,12 +103,11 @@ asking fair and friendly.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, model the words warmly and often, and praise
-the asking — not just the outcome. If a learner says no to a request, honor that too:
-asking with kindness does not force a yes, and both voices matter. Every language and
-culture has its own kind words — invite learners to share how they ask kindly in the
-languages they speak at home, so the skill, not the English phrase, is the point.
+As facilitator, model the words warmly and often, and praise the asking — not just the
+outcome. If a learner says no to a request, honor that too: asking with kindness does
+not force a yes, and both voices matter. Every language and culture has its own kind
+words — invite learners to share how they ask kindly in the languages they speak at
+home, so the skill, not the English phrase, is the point.
 
 ## Procedure
 

@@ -112,22 +112,21 @@ it double in ten years?" — and roots are the tool that unlocks the backward qu
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **in exponential
-change, the base b is a factor — b = 1 + r for growth, b = 1 − r for decay — and roots
-let us solve backward for the base or the number of steps.** Teach the two directions
-explicitly: *forward* (apply the factor repeatedly) and *backward* (take a root to
-find the factor, or reason about the number of steps). Use worked examples and guided
-practice (S-011).
+The idea to land: **in exponential change, the base b is a factor — b = 1 + r for
+growth, b = 1 − r for decay — and roots let us solve backward for the base or the number
+of steps.** Teach the two directions explicitly: *forward* (apply the factor repeatedly)
+and *backward* (take a root to find the factor, or reason about the number of steps).
+Use worked examples and guided practice (S-011).
 
-The **intellectual** lens: the same equation bⁿ = c is read forward ("apply b, n
-times") and backward ("what b, or what n, gives c?"). The **critical-thinking** lens:
-learners check every backward answer by substituting forward — "does 1.05⁷ actually
-give about 1.4?" The **environment** lens: half-life and doubling are the real
-language of pollution decay, medicine in the body, and population pressure — reading
-them honestly matters for the planet. The **technology** lens: sensors and models
-report growth and decay as rates; converting a rate to a factor is the first step to
-understanding what a device or dashboard is telling you. Preview: Lessons 7 and 8
-build these same factors into full exponential *functions* and models.
+The **intellectual** lens: the same equation bⁿ = c is read forward ("apply b, n times")
+and backward ("what b, or what n, gives c?"). The **critical-thinking** lens: learners
+check every backward answer by substituting forward — "does 1.05⁷ actually give about
+1.4?" The **environment** lens: half-life and doubling are the real language of
+pollution decay, medicine in the body, and population pressure — reading them honestly
+matters for the planet. The **technology** lens: sensors and models report growth and
+decay as rates; converting a rate to a factor is the first step to understanding what a
+device or dashboard is telling you. Preview: Lessons 7 and 8 build these same factors
+into full exponential *functions* and models.
 
 ## Procedure
 

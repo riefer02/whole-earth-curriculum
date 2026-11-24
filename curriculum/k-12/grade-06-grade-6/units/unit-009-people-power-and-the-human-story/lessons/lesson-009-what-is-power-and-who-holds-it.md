@@ -119,14 +119,13 @@ power is and who holds it, in your world and across the human story.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to build is **describing power
-without loading it with judgment**: power is simply the ability to influence or decide, and
-it can be held many ways. Distinguish **power over** (one decides for others) from **power
-with** (deciding together), but keep both as descriptions, not verdicts — the fairness
-question comes in the next lesson. Use examples across societies and honor shared,
-consensual forms of power (a council, an assembly, a confederacy) as equal to any other.
-Anchor to the learner's own life so the abstraction lands concretely. See
-`docs/facilitation.md`.
+The skill to build is **describing power without loading it with judgment**: power is
+simply the ability to influence or decide, and it can be held many ways. Distinguish
+**power over** (one decides for others) from **power with** (deciding together), but
+keep both as descriptions, not verdicts — the fairness question comes in the next
+lesson. Use examples across societies and honor shared, consensual forms of power (a
+council, an assembly, a confederacy) as equal to any other. Anchor to the learner's own
+life so the abstraction lands concretely. See `docs/facilitation.md`.
 
 ## Procedure
 

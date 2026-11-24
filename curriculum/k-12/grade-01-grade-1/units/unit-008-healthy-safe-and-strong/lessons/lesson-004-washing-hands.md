@@ -112,18 +112,17 @@ doing it all by yourself.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Model the steps slowly, then **step back** —
-Grade 1 is about growing independence. Watch each learner and gently support, but let
-them do the washing. **Honor every context:** where water is scarce, teach the
-"wet, turn off (or put the jug down), lather, rinse" method that saves water, and note
-that ash can work when there is no soap. Where a learner cannot use their hands, a
-caregiver or older peer can help wash them — the goal is clean hands, not doing it
-alone. **Care is never a test** — celebrate effort, not perfection. A learner who does not
-use a speaking voice points or acts out the steps; a learner who is blind or has low
-vision is guided through each motion hand-over-hand. A learner who is deaf or hard of
-hearing follows the steps by watching the demonstration from the front and using picture
-step cards or hand-over-hand modeling, since every step is shown, not only told. The
-health facts here are from the
+Model the steps slowly, then **step back** — Grade 1 is about growing independence.
+Watch each learner and gently support, but let them do the washing. **Honor every
+context:** where water is scarce, teach the "wet, turn off (or put the jug down),
+lather, rinse" method that saves water, and note that ash can work when there is no
+soap. Where a learner cannot use their hands, a caregiver or older peer can help wash
+them — the goal is clean hands, not doing it alone. **Care is never a test** — celebrate
+effort, not perfection. A learner who does not use a speaking voice points or acts out
+the steps; a learner who is blind or has low vision is guided through each motion
+hand-over-hand. A learner who is deaf or hard of hearing follows the steps by watching
+the demonstration from the front and using picture step cards or hand-over-hand
+modeling, since every step is shown, not only told. The health facts here are from the
 World Health Organization: clean hands with soap remove germs that cause sickness. This
 lesson extends Kindergarten's "Washing Hands, Washing Me" (U.00.002) into independent
 practice.

@@ -114,21 +114,22 @@ a legal document, or a poem, a human is still needed. Today you learn to tell wh
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) machine translation is
-fast and useful for gist, but it does not understand meaning — it is limited by idioms,
-ambiguity, tone and nuance, and uneven quality across languages (low-resource languages fare
-worse); (2) human translation and interpretation remain necessary for high-stakes, nuanced, or
-sensitive text; (3) the learner's home language is the starting point — tools serve the person,
-not the other way around.** Model the first pair once (worked example, S-011). The factual claims
-about machine-translation limits are standard (S-350); translation always gains and loses
-(S-167); plurilingual competence — drawing on more than one language — is the real skill tools
-only assist (S-237). The technology lens is this lesson's heart: a tool is judged by what it
-serves. The ethics lens: using a tool carelessly can mislead or harm — in medicine, law, or
-safety, an error is not funny. The egalitarian lens: tools work better for big languages than for
-small ones — which means the tool itself can deepen the very inequality we are trying to undo;
-a human speaker of a small language is irreplaceable. The global lens: most of the world is
-multilingual, and tools are one more bridge among many. Invite learners to share idioms from
-their own languages as gifts, and let those who speak a language be its experts.
+The ideas to land: **(1) machine translation is fast and useful for gist, but it does
+not understand meaning — it is limited by idioms, ambiguity, tone and nuance, and uneven
+quality across languages (low-resource languages fare worse); (2) human translation and
+interpretation remain necessary for high-stakes, nuanced, or sensitive text; (3) the
+learner's home language is the starting point — tools serve the person, not the other
+way around.** Model the first pair once (worked example, S-011). The factual claims
+about machine-translation limits are standard (S-350); translation always gains and
+loses (S-167); plurilingual competence — drawing on more than one language — is the real
+skill tools only assist (S-237). The technology lens is this lesson's heart: a tool is
+judged by what it serves. The ethics lens: using a tool carelessly can mislead or harm —
+in medicine, law, or safety, an error is not funny. The egalitarian lens: tools work
+better for big languages than for small ones — which means the tool itself can deepen
+the very inequality we are trying to undo; a human speaker of a small language is
+irreplaceable. The global lens: most of the world is multilingual, and tools are one
+more bridge among many. Invite learners to share idioms from their own languages as
+gifts, and let those who speak a language be its experts.
 
 ## Procedure
 

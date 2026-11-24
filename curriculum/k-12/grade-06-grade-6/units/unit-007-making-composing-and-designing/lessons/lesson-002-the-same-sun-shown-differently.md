@@ -121,18 +121,17 @@ those choices is how we meet another time and place with respect and wonder.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **non-ranking
-comparison with a reason**: we look closely at what each image is *made of* and *shows*,
-connect those observations to a place, time, material, or belief, and offer a *reason*
-for the difference — never to call one "more advanced." These are **living and significant
-images**; the Egyptian winged disk and the Japanese rising-sun motif are meaningful to
-people today, and the Inca Inti belongs to Andean communities — present them with
-reverence, not as curiosities. Note for sensitivity: the Japanese rising-sun *motif*
-predates and is distinct from the modern flag's contested uses; keep the lesson on the
-artwork, not the flag. If a learner (or their family) belongs to a tradition shown here,
-invite them to be the authority on its meaning and never correct them about their own
-culture. See `docs/facilitation.md` on honoring living traditions and `docs/contexts.md`
-on cultural power dynamics.
+The idea to land is **non-ranking comparison with a reason**: we look closely at what
+each image is *made of* and *shows*, connect those observations to a place, time,
+material, or belief, and offer a *reason* for the difference — never to call one "more
+advanced." These are **living and significant images**; the Egyptian winged disk and the
+Japanese rising-sun motif are meaningful to people today, and the Inca Inti belongs to
+Andean communities — present them with reverence, not as curiosities. Note for
+sensitivity: the Japanese rising-sun *motif* predates and is distinct from the modern
+flag's contested uses; keep the lesson on the artwork, not the flag. If a learner (or
+their family) belongs to a tradition shown here, invite them to be the authority on its
+meaning and never correct them about their own culture. See `docs/facilitation.md` on
+honoring living traditions and `docs/contexts.md` on cultural power dynamics.
 
 ## Procedure
 

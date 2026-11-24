@@ -119,26 +119,28 @@ to *own* what we believe instead of merely carrying it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **values are formed by many
-influences — family, community, culture, faith, schooling, peers, media, experience — and coming
-to own one's values means noticing which were inherited, which were borrowed, and which are being
-chosen; the question of what one values is held open, not settled as a creed.** This is a
-reflection, not a confession and not a verdict. Protect privacy: learners may share as much or as
-little as they choose, and there is no "right" set of roots. Do not judge any learner's values or
-their sources; the skill is self-awareness, not agreement.
+The idea to land: **values are formed by many influences — family, community, culture,
+faith, schooling, peers, media, experience — and coming to own one's values means
+noticing which were inherited, which were borrowed, and which are being chosen; the
+question of what one values is held open, not settled as a creed.** This is a
+reflection, not a confession and not a verdict. Protect privacy: learners may share as
+much or as little as they choose, and there is no "right" set of roots. Do not judge any
+learner's values or their sources; the skill is self-awareness, not agreement.
 
-The **ethics** lens: reflecting on one's own values is itself an ethical act — the difference
-between values that are *examined* and values that are merely *carried*. The **egalitarianism**
-lens: ask *whose values get treated as the default and whose are dismissed* — a learner whose
-family's values are honored in public has a different starting point than one whose are mocked;
-the classroom must make room for every learner's roots without ranking them. The **global** lens:
-values differ across cultures, and that diversity is a shared human good (S-389); the lesson
-models that no single culture's values are the measuring stick. The **technology** lens: media and
-screens are now among the loudest teachers of values, and often the least examined — naming
-"media" as one root invites learners to ask what a feed is quietly teaching them (S-481, S-482).
-The **environment** lens: for many people, values are inseparable from a place — land, water,
-seasons — and the love of a place is a real root, one the map should make room for.
-Preview: Lesson 4 asks how these values will be *tested* in the world.
+The **ethics** lens: reflecting on one's own values is itself an ethical act — the
+difference between values that are *examined* and values that are merely *carried*. The
+**egalitarianism** lens: ask *whose values get treated as the default and whose are
+dismissed* — a learner whose family's values are honored in public has a different
+starting point than one whose are mocked; the classroom must make room for every
+learner's roots without ranking them. The **global** lens: values differ across
+cultures, and that diversity is a shared human good (S-389); the lesson models that no
+single culture's values are the measuring stick. The **technology** lens: media and
+screens are now among the loudest teachers of values, and often the least examined —
+naming "media" as one root invites learners to ask what a feed is quietly teaching them
+(S-481, S-482). The **environment** lens: for many people, values are inseparable from a
+place — land, water, seasons — and the love of a place is a real root, one the map
+should make room for. Preview: Lesson 4 asks how these values will be *tested* in the
+world.
 
 ## Procedure
 

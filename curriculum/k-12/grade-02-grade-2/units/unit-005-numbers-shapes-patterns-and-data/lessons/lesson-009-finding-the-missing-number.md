@@ -112,18 +112,17 @@ story when we only know the middle and the end.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the "missing number" lesson —
-the unknown can be at the start, middle, or end of the story, which is a genuine
-stretch for seven- and eight-year-olds. Teach with a **worked example** (philosophy
-§13): tell the story, act it out, write a sentence with a blank, find the missing
-number, and **check by putting it back**. The check is the key habit — the learner
-proves the answer, not just states it. Keep stories small, real, and fair (sharing and
-spending, never winning or losing as worth). **There is no "math person" and no
-"not-a-math person"; every learner can find a missing number, each in their own way
-and at their own pace.** For learners who are Deaf or hard of hearing, tell the story
-in sign or pictures and act it out with objects; for learners who are blind or
-low-vision, act it out with real objects by touch. A learner who does not speak shows
-the missing number by holding up objects or pointing.
+It is the "missing number" lesson — the unknown can be at the start, middle, or end of
+the story, which is a genuine stretch for seven- and eight-year-olds. Teach with a
+**worked example** (philosophy §13): tell the story, act it out, write a sentence with a
+blank, find the missing number, and **check by putting it back**. The check is the key
+habit — the learner proves the answer, not just states it. Keep stories small, real, and
+fair (sharing and spending, never winning or losing as worth). **There is no "math
+person" and no "not-a-math person"; every learner can find a missing number, each in
+their own way and at their own pace.** For learners who are Deaf or hard of hearing,
+tell the story in sign or pictures and act it out with objects; for learners who are
+blind or low-vision, act it out with real objects by touch. A learner who does not speak
+shows the missing number by holding up objects or pointing.
 
 ## Procedure
 

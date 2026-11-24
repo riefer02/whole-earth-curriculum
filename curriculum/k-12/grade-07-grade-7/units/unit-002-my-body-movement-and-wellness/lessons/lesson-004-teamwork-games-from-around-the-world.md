@@ -115,19 +115,19 @@ cleared beach — so the game fits the land, and the land shapes the game.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **teamwork is a
-universal human skill — sharing roles, communicating, and helping each other — and games from
-many cultures are one living proof of it**. Present each game as a real tradition with
-respect, never as a curiosity or a ranking: name its home region, and note that rules vary
-from place to place and are best learned from people who play it (the cards are a starting
-point, not the last word). The three games here are a sample, not the whole map: to span
-more continents, add one from Africa, Oceania, or the Americas — for example, lacrosse of the
-Indigenous nations of North America, kilikiti of Samoa, or genna of Ethiopia — and present it
-with the same respect: name its home, note that rules vary, and learn from people who play
-it. Adapt every game so all bodies and abilities join — tag can be a
-touch, a tap, or a call; kicking can be a pass with any part of the body; no one is forced
-into contact. Play cooperatively: the aim is for the *whole group* to experience each game,
-not to win. See `docs/contexts.md` and `docs/art-style.md`.
+The idea to land is that **teamwork is a universal human skill — sharing roles,
+communicating, and helping each other — and games from many cultures are one living
+proof of it**. Present each game as a real tradition with respect, never as a curiosity
+or a ranking: name its home region, and note that rules vary from place to place and are
+best learned from people who play it (the cards are a starting point, not the last
+word). The three games here are a sample, not the whole map: to span more continents,
+add one from Africa, Oceania, or the Americas — for example, lacrosse of the Indigenous
+nations of North America, kilikiti of Samoa, or genna of Ethiopia — and present it with
+the same respect: name its home, note that rules vary, and learn from people who play
+it. Adapt every game so all bodies and abilities join — tag can be a touch, a tap, or a
+call; kicking can be a pass with any part of the body; no one is forced into contact.
+Play cooperatively: the aim is for the *whole group* to experience each game, not to
+win. See `docs/contexts.md` and `docs/art-style.md`.
 
 ## Procedure
 

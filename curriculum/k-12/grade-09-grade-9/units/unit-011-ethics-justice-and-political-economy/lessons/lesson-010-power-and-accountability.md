@@ -110,19 +110,20 @@ you study both directions.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Its goals: **(1) teach power and accountability
-precisely — power is distributed unevenly across a society (government, companies, media,
-landowners, platforms), and accountability is the set of ways the governed answer back: elections,
-a free press, independent courts, protest, organizing, and other checks; (2) model once, then
-guide: analyze one case whole-group, then let learners analyze another (Kirschner, Sweller & Clark
-2006, S-011); (3) avoid dogma — present democracy's accountability tools as *some* ways, not the
-only ones, and do not rank one society's arrangements above another's (philosophy §11).** The
-ethics lens: power without accountability is a moral problem. The egalitarian lens: ask who has
-power, who is left out, and which accountability tools the least powerful can actually use. The
-global lens: accountability looks different across societies — formal checks in some, community
-and customary mechanisms in others — none is the default. Distinguish evidence from values: *that*
-power is unevenly distributed is a documented fact; *that* it should be held to account is a value
-we argue for. This is a portfolio artifact — keep the case study.
+Its goals: **(1) teach power and accountability precisely — power is distributed
+unevenly across a society (government, companies, media, landowners, platforms), and
+accountability is the set of ways the governed answer back: elections, a free press,
+independent courts, protest, organizing, and other checks; (2) model once, then guide:
+analyze one case whole-group, then let learners analyze another (Kirschner, Sweller &
+Clark 2006, S-011); (3) avoid dogma — present democracy's accountability tools as *some*
+ways, not the only ones, and do not rank one society's arrangements above another's
+(philosophy §11).** The ethics lens: power without accountability is a moral problem.
+The egalitarian lens: ask who has power, who is left out, and which accountability tools
+the least powerful can actually use. The global lens: accountability looks different
+across societies — formal checks in some, community and customary mechanisms in others —
+none is the default. Distinguish evidence from values: *that* power is unevenly
+distributed is a documented fact; *that* it should be held to account is a value we
+argue for. This is a portfolio artifact — keep the case study.
 
 ## Procedure
 

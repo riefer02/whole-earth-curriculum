@@ -120,18 +120,18 @@ the answer is not fair. Today you learn to spot the lean and straighten it.
 
 ## Facilitator note
 
-Written to the learner ("you"). The core distinction: **error is random** (yesterday),
-**bias is a steady lean in one direction**. Two kinds to land: **selection bias**
-(you sample only the easy, near, or familiar cases) and **observer bias** (you
-unconsciously read toward what you expect). Three fixes: **random sampling** (choose
-without a pattern), **blind measurement** (the reader does not know which sample is
-which), and **record before judging** (write all data down first, decide later). The
-sampling game makes it concrete: a handful that is mostly one color "leans" the same
-way a chosen sample does. This lesson carries the **egalitarian** lens directly —
-whose data counts and whose is left out is a fairness question, not just a technique —
-so name it as a value, while the mechanics of bias are the evidence-based part.
-Keep scenarios age-appropriate and connect every bias to a fix (agency, not despair).
-See [`docs/facilitation.md`](../../../../../../docs/facilitation.md).
+The core distinction: **error is random** (yesterday), **bias is a steady lean in one
+direction**. Two kinds to land: **selection bias** (you sample only the easy, near, or
+familiar cases) and **observer bias** (you unconsciously read toward what you expect).
+Three fixes: **random sampling** (choose without a pattern), **blind measurement** (the
+reader does not know which sample is which), and **record before judging** (write all
+data down first, decide later). The sampling game makes it concrete: a handful that is
+mostly one color "leans" the same way a chosen sample does. This lesson carries the
+**egalitarian** lens directly — whose data counts and whose is left out is a fairness
+question, not just a technique — so name it as a value, while the mechanics of bias are
+the evidence-based part. Keep scenarios age-appropriate and connect every bias to a fix
+(agency, not despair). See
+[`docs/facilitation.md`](../../../../../../docs/facilitation.md).
 
 ## Procedure
 

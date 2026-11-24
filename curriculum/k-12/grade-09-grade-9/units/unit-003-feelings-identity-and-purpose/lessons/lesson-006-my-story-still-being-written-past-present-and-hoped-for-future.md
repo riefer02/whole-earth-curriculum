@@ -111,24 +111,26 @@ connected life — not a finished book, but a story still being written.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is a **skill lesson**: building a coherent
-narrative is taught with a **worked example, then guided practice** (S-011), not left to blank-page
-discovery. The psychological idea behind it is **narrative identity** — people make sense of who
-they are by constructing an evolving story of the self that links the reconstructed past, the felt
-present, and the imagined future, and this story gives life unity and purpose (McAdams, S-404). The
-linked notion of **possible selves** — the selves a person imagines becoming, hoping to become, or
-fearing to become — sits between the present self and future motivation (Markus & Nurius, S-399).
-Hold these as **descriptive accounts, not a required genre or a verdict**: a learner's story may be
-fragmented, uncertain, or multiple — that is human, and it is fine. The **ethics** lens: a narrative
-is an interpretation, and the same life can be honestly told more than one way; teach learners to
-tell their own story with honesty *and* kindness to themselves, not to build a flattering myth. The
-**global** lens: cultures differ in how a life story is told — some center ancestors and lineage,
-some center place, some center individual achievement — and no one form is the right one. **Safety
-is paramount**: this can be tender material. Every sharing is optional; personal narratives are
-shared only in small, trusted groups, never demanded aloud; a learner who has experienced harm or
-loss may write only what feels safe, or write about a character instead. Connect difficulty to
-agency and hope, never to shame (philosophy §12). The future is a direction, not a deadline — "I
-don't know yet" is a complete and honest answer.
+It is a **skill lesson**: building a coherent narrative is taught with a **worked
+example, then guided practice** (S-011), not left to blank-page discovery. The
+psychological idea behind it is **narrative identity** — people make sense of who they
+are by constructing an evolving story of the self that links the reconstructed past, the
+felt present, and the imagined future, and this story gives life unity and purpose
+(McAdams, S-404). The linked notion of **possible selves** — the selves a person
+imagines becoming, hoping to become, or fearing to become — sits between the present
+self and future motivation (Markus & Nurius, S-399). Hold these as **descriptive
+accounts, not a required genre or a verdict**: a learner's story may be fragmented,
+uncertain, or multiple — that is human, and it is fine. The **ethics** lens: a narrative
+is an interpretation, and the same life can be honestly told more than one way; teach
+learners to tell their own story with honesty *and* kindness to themselves, not to build
+a flattering myth. The **global** lens: cultures differ in how a life story is told —
+some center ancestors and lineage, some center place, some center individual
+achievement — and no one form is the right one. **Safety is paramount**: this can be
+tender material. Every sharing is optional; personal narratives are shared only in
+small, trusted groups, never demanded aloud; a learner who has experienced harm or loss
+may write only what feels safe, or write about a character instead. Connect difficulty
+to agency and hope, never to shame (philosophy §12). The future is a direction, not a
+deadline — "I don't know yet" is a complete and honest answer.
 
 ## Procedure
 

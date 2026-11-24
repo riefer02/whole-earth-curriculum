@@ -109,21 +109,19 @@ in many beautiful ways, none above another.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Comparing languages is an act of noticing, not ranking: guide
-learners to hear and see that each language says the same idea in its own way, and
-that every version is equally good (UNESCO's mother-language value holds that every
-language is a bearer of dignity). Keep it script-agnostic — the idea may be written in
-any script, spoken, or signed; a sign language version stands exactly as high as any
-spoken one. Model the compare: "this one sounds like…, this one looks like…, yet both
-mean the same thing." Invite every learner's home language into the chart, each entry
-equal in size, none above another. This is an egalitarian and ethical moment: no
-language is "better" or "more correct," and no accent is wrong. A learner who is Deaf
-or hard of hearing contributes and compares in sign. Where a recording or a
-translation tool is used, notice what the tool does — it can bring many voices into
-the room — and what it cannot do: it cannot carry the warmth of the person who lives
-that language. A tool shows the words; the people in the circle carry the living
-voice. A tool is a helper, never a replacement.
+Comparing languages is an act of noticing, not ranking: guide learners to hear and see
+that each language says the same idea in its own way, and that every version is equally
+good (UNESCO's mother-language value holds that every language is a bearer of dignity).
+Keep it script-agnostic — the idea may be written in any script, spoken, or signed; a
+sign language version stands exactly as high as any spoken one. Model the compare: "this
+one sounds like…, this one looks like…, yet both mean the same thing." Invite every
+learner's home language into the chart, each entry equal in size, none above another.
+This is an egalitarian and ethical moment: no language is "better" or "more correct,"
+and no accent is wrong. A learner who is Deaf or hard of hearing contributes and
+compares in sign. Where a recording or a translation tool is used, notice what the tool
+does — it can bring many voices into the room — and what it cannot do: it cannot carry
+the warmth of the person who lives that language. A tool shows the words; the people in
+the circle carry the living voice. A tool is a helper, never a replacement.
 
 ## Procedure
 

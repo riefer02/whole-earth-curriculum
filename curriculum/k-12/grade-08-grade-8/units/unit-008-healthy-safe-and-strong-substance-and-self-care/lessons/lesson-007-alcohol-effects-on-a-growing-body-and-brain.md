@@ -111,28 +111,35 @@ still-growing body differently than an adult's. Alcohol is not a food and not a 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The tone must stay **factual, calm, and non-shaming —
-never moralizing, never fear, and never judgment of families or cultures where alcohol is present.** The
-facts to land: **(1) alcohol is a psychoactive substance that depresses the central nervous system — it
-slows brain activity, which is why it affects judgment, coordination, reaction time, and memory (S-375);
-(2) because a young person's body is smaller and their brain still developing, alcohol affects them
-more, and early drinking is linked to greater later harm — so delay is protective (S-375); (3) alcohol
-harms the liver and other organs with heavy, repeated use, and impairs the ability to judge danger
-(S-375).** Do not present a single drink as inevitably harmful or a sip as a catastrophe — that would be
-inaccurate and would cost the lesson its credibility with teens. Instead: the *developing* brain and the
-*legal age* are the anchors. Nearly every country sets a minimum age for buying and drinking alcohol
-(safety law, not a test of maturity), and the standard's own language is "safe, informed choices." The
-critical-thinking lens: connect to Grade 7's marketing literacy — alcohol advertising associates
-drinking with glamour and belonging, which is a claim to read, not to swallow. The egalitarian lens:
-alcohol's harms fall unequally — on poorer communities and on those marketed to most — a justice matter.
-The global lens: cultures hold alcohol very differently, from total avoidance to everyday moderation;
-this lesson honors all of them and ranks none. The technology & environment lens: alcohol also travels through tools and landscapes — it is promoted through the same screens and media the learner reads critically, and producing it uses land and water — so the choice touches more than the drinker alone. The ethics lens: a safe choice protects our own body and
-the people around us (drinking and driving or other risk puts others in danger). Teach **decision-making
-as a skill** (worked example: notice the situation → name the risk → choose a safe response → know who
-to call). Always include the **harm-reduction safety floor without endorsing use**: if someone has drunk
-too much and becomes unresponsive, this is an emergency — call for adult or medical help immediately;
-never leave an impaired person alone. That is knowledge that saves a life, and it is not the same as
-approving. A learner who has already tried alcohol is met with facts and care, never shame.
+The tone must stay **factual, calm, and non-shaming — never moralizing, never fear, and
+never judgment of families or cultures where alcohol is present.** The facts to land:
+**(1) alcohol is a psychoactive substance that depresses the central nervous system — it
+slows brain activity, which is why it affects judgment, coordination, reaction time, and
+memory (S-375); (2) because a young person's body is smaller and their brain still
+developing, alcohol affects them more, and early drinking is linked to greater later
+harm — so delay is protective (S-375); (3) alcohol harms the liver and other organs with
+heavy, repeated use, and impairs the ability to judge danger (S-375).** Do not present a
+single drink as inevitably harmful or a sip as a catastrophe — that would be inaccurate
+and would cost the lesson its credibility with teens. Instead: the *developing* brain
+and the *legal age* are the anchors. Nearly every country sets a minimum age for buying
+and drinking alcohol (safety law, not a test of maturity), and the standard's own
+language is "safe, informed choices." The critical-thinking lens: connect to Grade 7's
+marketing literacy — alcohol advertising associates drinking with glamour and belonging,
+which is a claim to read, not to swallow. The egalitarian lens: alcohol's harms fall
+unequally — on poorer communities and on those marketed to most — a justice matter. The
+global lens: cultures hold alcohol very differently, from total avoidance to everyday
+moderation; this lesson honors all of them and ranks none. The technology & environment
+lens: alcohol also travels through tools and landscapes — it is promoted through the
+same screens and media the learner reads critically, and producing it uses land and
+water — so the choice touches more than the drinker alone. The ethics lens: a safe
+choice protects our own body and the people around us (drinking and driving or other
+risk puts others in danger). Teach **decision-making as a skill** (worked example:
+notice the situation → name the risk → choose a safe response → know who to call).
+Always include the **harm-reduction safety floor without endorsing use**: if someone has
+drunk too much and becomes unresponsive, this is an emergency — call for adult or
+medical help immediately; never leave an impaired person alone. That is knowledge that
+saves a life, and it is not the same as approving. A learner who has already tried
+alcohol is met with facts and care, never shame.
 
 ## Procedure
 

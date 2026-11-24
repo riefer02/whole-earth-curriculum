@@ -50,6 +50,41 @@ Prefer these hues; keep saturation low and contrast high enough to read.
 - **Prints in grayscale** without losing meaning.
 - Use semantic SVG elements and a `role="img"` plus `<title>` where possible.
 
+## Diagrams: label what you point at
+
+A diagram earns its place by being *readable without the caption*. The most common
+failure is a well-meant one: a shape, a dot, a label written far away, and no line
+joining them. The learner sees three unrelated objects.
+
+- **Every callout gets a leader.** A marker with no line to its label is decoration
+  pretending to be information. Draw the leader *under* the artwork so it meets the
+  silhouette edge cleanly.
+- **Markers mark a thing, not a region.** A dot at the middle of a torso means
+  nothing. If the label is about the whole body, use a bracket or a dashed outline;
+  if it is about an organ, draw the organ the lesson names.
+- **Draw people as silhouettes, not stick figures.** A circle head on a rounded
+  rectangle with four bare lines for limbs reads as clip art. One soft silhouette
+  fill, limbs with weight, is calmer and more honest — and costs about the same to
+  write.
+- **Text stays inside the canvas, with room to breathe.** 4px minimum from any
+  edge. Never shrink type to 11.4px to make a long label fit: shorten the words, or
+  cut a line. Allowed sizes: 12, 12.5, 13, 14, 15, 24.
+- **Two messages per graphic, maximum.** A diagram that says everything says
+  nothing. Put the second-order point in the caption line, not in a fourth callout.
+
+## Render it before you ship it
+
+An SVG that has never been rendered is a guess. Always:
+
+```sh
+rsvg-convert -w 480 assets/images/<name>.svg -o /tmp/check.png   # then look at it
+rsvg-convert -w 480 assets/images/<name>.svg | magick - -colorspace Gray /tmp/check-gray.png
+```
+
+The grayscale pass is the print test: if the diagram still reads, it ships. `npm run
+audit` catches the mechanical half of this (text leaving the canvas, hand-shrunk type,
+markers with no leaders, stick-figure bodies) — but it cannot see, so look.
+
 ## SVG best practices
 
 - Inline shapes only — **no external fonts or images** (they break when ported).

@@ -117,26 +117,25 @@ where I am, and the path keeps rising.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **follow-through is
-not perfection — it is the discipline of checking in, adjusting, and keeping one's word
-to oneself; and a unit closes as a celebration of mastery-in-progress, never a
-ranking.** Guide the check-in with a worked example (S-011), then release learners to
-assemble and celebrate.
+The idea to land: **follow-through is not perfection — it is the discipline of checking
+in, adjusting, and keeping one's word to oneself; and a unit closes as a celebration of
+mastery-in-progress, never a ranking.** Guide the check-in with a worked example
+(S-011), then release learners to assemble and celebrate.
 
-The **social-emotional** lens: this is self-management and self-direction at their
-peak (CASEL, S-001), and mastery — not ranking — is the assessment stance (philosophy
-§8). The **ethics** lens: keeping one's word to oneself is an ethical act, and so is
-owning a slipped milestone and adjusting honestly. The **egalitarian** lens:
-celebration must not become comparison — every learner's path is their own, and a small
-kept promise is honored as fully as a large finished one. The **global** lens: the
-unit's work connects outward — a learner's small project is a knot in a global web, and
-their widening circle of care reaches past themselves. The **technology & environment**
-lens: invite one quiet reflection on how screens and the living world showed up in
-this unit's work — as tools, as pressures, as things owed care.
+The **social-emotional** lens: this is self-management and self-direction at their peak
+(CASEL, S-001), and mastery — not ranking — is the assessment stance (philosophy §8).
+The **ethics** lens: keeping one's word to oneself is an ethical act, and so is owning a
+slipped milestone and adjusting honestly. The **egalitarian** lens: celebration must not
+become comparison — every learner's path is their own, and a small kept promise is
+honored as fully as a large finished one. The **global** lens: the unit's work connects
+outward — a learner's small project is a knot in a global web, and their widening circle
+of care reaches past themselves. The **technology & environment** lens: invite one quiet
+reflection on how screens and the living world showed up in this unit's work — as tools,
+as pressures, as things owed care.
 
-**Emotional safety above all.** This is a celebration, not a test. No learner is
-ranked, and no project is judged by size. "Not yet" is spoken with pride. Any learner
-may pass on sharing. End on warmth and looking-forward, not on a verdict.
+**Emotional safety above all.** This is a celebration, not a test. No learner is ranked,
+and no project is judged by size. "Not yet" is spoken with pride. Any learner may pass
+on sharing. End on warmth and looking-forward, not on a verdict.
 
 ## Procedure
 

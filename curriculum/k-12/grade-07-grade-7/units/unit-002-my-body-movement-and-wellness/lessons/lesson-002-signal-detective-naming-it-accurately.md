@@ -119,15 +119,15 @@ message before you act on it is a skill that serves every life.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **accuracy is a
-skill you can practice** — a signal can be misread, and the point is not to be perfect but to
-get better at listening. Keep it shame-free: misreading a signal is ordinary, never a
-failing. Model the worked example ("I thought I was hungry; the clue was that water fixed
-it — so it was thirst") before pairs sort independently (Kirschner, Sweller & Clark, 2006).
-Remind learners that every body differs — one person's hunger feels like a hollow stomach,
-another's like a headache — so the "clue" is always *their own* body's pattern. This is
-egalitarian at its root: there is no single correct body, so there is no single correct
-clue-list. See `docs/facilitation.md`.
+The idea to land is that **accuracy is a skill you can practice** — a signal can be
+misread, and the point is not to be perfect but to get better at listening. Keep it
+shame-free: misreading a signal is ordinary, never a failing. Model the worked example
+("I thought I was hungry; the clue was that water fixed it — so it was thirst") before
+pairs sort independently (Kirschner, Sweller & Clark, 2006). Remind learners that every
+body differs — one person's hunger feels like a hollow stomach, another's like a
+headache — so the "clue" is always *their own* body's pattern. This is egalitarian at
+its root: there is no single correct body, so there is no single correct clue-list. See
+`docs/facilitation.md`.
 
 ## Procedure
 

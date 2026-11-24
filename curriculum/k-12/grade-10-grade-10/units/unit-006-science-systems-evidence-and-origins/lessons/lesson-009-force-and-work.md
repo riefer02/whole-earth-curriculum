@@ -112,17 +112,16 @@ much a pump must lift, and you how much a task will actually cost your muscles.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **force is measured
-in newtons; work = force × displacement in the direction of the force (W = F·d), in
-joules; and direction matters — perpendicular force does no work.** Teach the formula
-with a worked example and unit discipline (S-011), then let learners practice and
-check. Watch the common error: students multiply force by total path length even when
-the force and motion are not aligned — model the "force in the direction of motion"
-step explicitly.
+The idea to land: **force is measured in newtons; work = force × displacement in the
+direction of the force (W = F·d), in joules; and direction matters — perpendicular force
+does no work.** Teach the formula with a worked example and unit discipline (S-011),
+then let learners practice and check. Watch the common error: students multiply force by
+total path length even when the force and motion are not aligned — model the "force in
+the direction of motion" step explicitly.
 
-The **intellectual** lens: work is defined so that energy is conserved and transferable
-— the definition is a tool, not an arbitrary rule. The **technology** lens: every
-machine, from a hand pump to a crane, is a work calculation in physical form; the
+The **intellectual** lens: work is defined so that energy is conserved and
+transferable — the definition is a tool, not an arbitrary rule. The **technology** lens:
+every machine, from a hand pump to a crane, is a work calculation in physical form; the
 units (newtons, joules) are the shared language engineers use worldwide. The
 **egalitarian** lens: measuring work precisely is what lets us design tools that reduce
 human toil — the same force that once took many hands can be done by a motor, freeing

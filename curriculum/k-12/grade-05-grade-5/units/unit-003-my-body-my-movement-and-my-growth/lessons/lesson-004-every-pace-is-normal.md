@@ -117,13 +117,13 @@ single day.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **dignity for every body**:
-different sizes, paces, and abilities are all normal, and every body belongs. Model
-**person-first, non-shaming** language — "a child who uses a wheelchair," never labels that
-reduce a person to a condition. Guard against any teasing about bodies; interrupt it gently
-and turn it toward honor. Some learners in the room may have bodies that are different or
-disabilities; never make them the "example," and never put them on the spot. See
-`docs/facilitation.md` on assessing without ranking and holding difficult topics safely.
+The idea to land is **dignity for every body**: different sizes, paces, and abilities
+are all normal, and every body belongs. Model **person-first, non-shaming** language —
+"a child who uses a wheelchair," never labels that reduce a person to a condition. Guard
+against any teasing about bodies; interrupt it gently and turn it toward honor. Some
+learners in the room may have bodies that are different or disabilities; never make them
+the "example," and never put them on the spot. See `docs/facilitation.md` on assessing
+without ranking and holding difficult topics safely.
 
 ## Procedure
 

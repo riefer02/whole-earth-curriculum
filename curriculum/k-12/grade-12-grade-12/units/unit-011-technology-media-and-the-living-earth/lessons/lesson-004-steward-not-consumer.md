@@ -113,24 +113,25 @@ treats it as something to be kept. The difference is a choice you make, not a pr
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a consumer uses things up; a
-steward keeps them working and passing them on — and stewardship of technology means choosing,
-repairing, sharing, and caring so tools serve people and the living Earth now and later.** This
-is the strand's turn from reflection to commitment. Do not grade the size of the commitment; a
-small, real act of care is worth more than a grand vow.
+The idea to land: **a consumer uses things up; a steward keeps them working and passing
+them on — and stewardship of technology means choosing, repairing, sharing, and caring
+so tools serve people and the living Earth now and later.** This is the strand's turn
+from reflection to commitment. Do not grade the size of the commitment; a small, real
+act of care is worth more than a grand vow.
 
-The **ethics** lens: stewardship is an ethics of relationship — a thing, a tool, or a resource
-is treated as something owed care, not something owed to me alone. The **egalitarianism**
-lens: consumption in one place is often subsidized by labor and land elsewhere — the miner, the
-recycling yard — and stewardship asks whose cost I am quietly spending (S-398, S-397). The
-**global** lens: stewardship is not one culture's idea — communities worldwide have long managed
-shared resources by common rules so they last (the commons), a pattern documented across
-societies (S-416). The **technology** lens: tools can be *designed* for stewardship — repair,
-reuse, and returning materials to the loop rather than disposal — which is what a circular
-economy means (S-452, S-371). The **environment** lens: the steward path is the one that
-matches the Earth's limits — using things so that what is taken today does not rob tomorrow,
-the core idea of sustainable development (S-395). Preview: Lesson 5 shifts from tools to media —
-creating it responsibly.
+The **ethics** lens: stewardship is an ethics of relationship — a thing, a tool, or a
+resource is treated as something owed care, not something owed to me alone. The
+**egalitarianism** lens: consumption in one place is often subsidized by labor and land
+elsewhere — the miner, the recycling yard — and stewardship asks whose cost I am quietly
+spending (S-398, S-397). The **global** lens: stewardship is not one culture's idea —
+communities worldwide have long managed shared resources by common rules so they last
+(the commons), a pattern documented across societies (S-416). The **technology** lens:
+tools can be *designed* for stewardship — repair, reuse, and returning materials to the
+loop rather than disposal — which is what a circular economy means (S-452, S-371). The
+**environment** lens: the steward path is the one that matches the Earth's limits —
+using things so that what is taken today does not rob tomorrow, the core idea of
+sustainable development (S-395). Preview: Lesson 5 shifts from tools to media — creating
+it responsibly.
 
 ## Procedure
 

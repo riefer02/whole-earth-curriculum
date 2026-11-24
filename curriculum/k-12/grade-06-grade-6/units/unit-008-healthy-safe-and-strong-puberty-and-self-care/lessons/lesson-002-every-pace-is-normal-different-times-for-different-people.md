@@ -120,16 +120,16 @@ is no race. Every body keeps its own clock, and every pace is normal.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The one idea to land is that **timing
-varies and every pace is normal** — and that **comparing or ranking bodies is both false
-and unkind**. This is a tender subject at ages 11–14, when self-consciousness spikes, so
-guard against any sorting, ranking, or "who is ahead" framing; never ask learners to
-reveal or compare their own development. Use the **field of crops** image and the
-**worked example** of a wide range to make "normal" concrete. Watch for teasing and name
-it directly: making fun of someone's pace is unkind, and it is *wrong about the facts*,
-because every pace is healthy. If a learner is worried about being early or late, respond
-with calm reassurance and point them to a trusted adult if the worry feels big. See
-`docs/facilitation.md` and `docs/development.md` (the 6–8 band on self-consciousness).
+The one idea to land is that **timing varies and every pace is normal** — and that
+**comparing or ranking bodies is both false and unkind**. This is a tender subject at
+ages 11–14, when self-consciousness spikes, so guard against any sorting, ranking, or
+"who is ahead" framing; never ask learners to reveal or compare their own development.
+Use the **field of crops** image and the **worked example** of a wide range to make
+"normal" concrete. Watch for teasing and name it directly: making fun of someone's pace
+is unkind, and it is *wrong about the facts*, because every pace is healthy. If a
+learner is worried about being early or late, respond with calm reassurance and point
+them to a trusted adult if the worry feels big. See `docs/facilitation.md` and
+`docs/development.md` (the 6–8 band on self-consciousness).
 
 ## Procedure
 

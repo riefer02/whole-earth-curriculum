@@ -124,16 +124,15 @@ together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **accountability plus
-repair, never shame** — the learner is never a "bad kid"; a choice can be changed and a
-harm can be repaired. Use a **non-shaming frame** throughout: name the *behavior*, not the
-*person* ("that choice hurt someone," never "you are bad"). Model repair as strength, not
-weakness, and let the worked example show the *feeling behind* the choice (a thought
-shaping a feeling, from Lesson 1) so learners see the full picture, not a villain. Some
-learners live where "responsibility" has meant punishment; gently distinguish
-**accountability** (facing the truth and repairing) from **shame** (being told you are
-wrong as a person). See `docs/facilitation.md` on assessing without ranking and holding
-difficult topics safely.
+The idea to land is **accountability plus repair, never shame** — the learner is never a
+"bad kid"; a choice can be changed and a harm can be repaired. Use a **non-shaming
+frame** throughout: name the *behavior*, not the *person* ("that choice hurt someone,"
+never "you are bad"). Model repair as strength, not weakness, and let the worked example
+show the *feeling behind* the choice (a thought shaping a feeling, from Lesson 1) so
+learners see the full picture, not a villain. Some learners live where "responsibility"
+has meant punishment; gently distinguish **accountability** (facing the truth and
+repairing) from **shame** (being told you are wrong as a person). See
+`docs/facilitation.md` on assessing without ranking and holding difficult topics safely.
 
 ## Procedure
 

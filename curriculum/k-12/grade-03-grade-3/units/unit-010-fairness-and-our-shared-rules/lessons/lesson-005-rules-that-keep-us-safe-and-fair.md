@@ -120,18 +120,18 @@ class agrees how to share the crayons. Today you will find the reason behind eac
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson reframes **rules** as shared reasons, not
-commands from above — a key egalitarian move. A rule is fair when it protects everyone
-and its reason can be explained to anyone. Do not present rules as obedience ("because
-I said so"); invite learners to find the "so that…" behind each one, and hold open the
-question of whether a rule that cannot give a reason is really fair. Keep examples
-safe, everyday, and global — rules appear in every community, and everywhere a good
-rule has a reason. A learner who does not speak aloud matches a rule to its reason by
-pointing or signing; a learner who is deaf or hard of hearing follows each rule through
-sign and picture; a learner who is blind or low-vision hears each rule and reason
-described and pairs them aloud; a learner with a motor difference can direct a partner
-to match the cards. A learner may always pass. The goal is the learner's own
-explanation — "this rule keeps us safe/fair because…" — not a memorized list.
+This lesson reframes **rules** as shared reasons, not commands from above — a key
+egalitarian move. A rule is fair when it protects everyone and its reason can be
+explained to anyone. Do not present rules as obedience ("because I said so"); invite
+learners to find the "so that…" behind each one, and hold open the question of whether a
+rule that cannot give a reason is really fair. Keep examples safe, everyday, and
+global — rules appear in every community, and everywhere a good rule has a reason. A
+learner who does not speak aloud matches a rule to its reason by pointing or signing; a
+learner who is deaf or hard of hearing follows each rule through sign and picture; a
+learner who is blind or low-vision hears each rule and reason described and pairs them
+aloud; a learner with a motor difference can direct a partner to match the cards. A
+learner may always pass. The goal is the learner's own explanation — "this rule keeps us
+safe/fair because…" — not a memorized list.
 
 ## Procedure
 

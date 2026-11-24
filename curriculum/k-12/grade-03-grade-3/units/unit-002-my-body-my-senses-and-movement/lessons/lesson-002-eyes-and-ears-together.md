@@ -114,24 +114,23 @@ you watch it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the sound sources and space, then guide the three-step
-listen/watch/both activity. This spirals from Lesson 1's taste-and-smell team to a
-second pair of senses. Honor every body and every ability: a learner who is deaf or
-hard of hearing gets far more from eyes (and may read lips or use sign — that is sight
-doing extra work), and a learner with low vision gets far more from ears — and can gather
-the "sight" clue through touch instead, feeling the ball's bounce through the floor
-with a hand or foot, or having a friend guide their hand toward the sound. Frame
-this as a strength of teamwork, never as a lack: when one sense has less to work
-with, the others carry more. Let learners choose how to "cover" a sense — closing
-eyes or covering ears — in the way that is comfortable for them (never cover a
-hearing aid or cochlear implant; a learner who uses one may prefer to simply not
-listen for a moment, or watch a friend's silent motion instead).
+Prepare the sound sources and space, then guide the three-step listen/watch/both
+activity. This spirals from Lesson 1's taste-and-smell team to a second pair of senses.
+Honor every body and every ability: a learner who is deaf or hard of hearing gets far
+more from eyes (and may read lips or use sign — that is sight doing extra work), and a
+learner with low vision gets far more from ears — and can gather the "sight" clue
+through touch instead, feeling the ball's bounce through the floor with a hand or foot,
+or having a friend guide their hand toward the sound. Frame this as a strength of
+teamwork, never as a lack: when one sense has less to work with, the others carry more.
+Let learners choose how to "cover" a sense — closing eyes or covering ears — in the way
+that is comfortable for them (never cover a hearing aid or cochlear implant; a learner
+who uses one may prefer to simply not listen for a moment, or watch a friend's silent
+motion instead).
 
 Where a tablet or camera records the sound, notice what the tool can do — save and
-replay a sound — and what it cannot: it does not feel the clap through the floor, and
-it is made somewhere and needs power, while your own ears and hands sense with nothing
-but themselves. A tool is a helper, never a replacement for the senses.
+replay a sound — and what it cannot: it does not feel the clap through the floor, and it
+is made somewhere and needs power, while your own ears and hands sense with nothing but
+themselves. A tool is a helper, never a replacement for the senses.
 
 ## Procedure
 

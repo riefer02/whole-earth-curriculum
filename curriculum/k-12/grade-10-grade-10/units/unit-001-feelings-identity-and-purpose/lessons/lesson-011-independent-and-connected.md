@@ -115,15 +115,15 @@ asking for help are not enemies — they are two hands of the same capable perso
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) seeking help is
-a skill, not a weakness — and knowing when to seek it is part of mature independence;
-(2) the skill has concrete parts: try alone first, recognize the limit, choose who to
-ask, and ask clearly; (3) refusing help when it is needed is not strength but a
-different kind of getting stuck.** The evidence: mastery/feedback loops and
-relationships are among the strongest learning levers (S-007, S-012), and asking for
-help is how a self-directed learner gets *feedback* — so help-seeking is continuous with
-Lesson 10, not opposed to it. The "try alone first" instinct is honored; the point is
-*joint judgment*, not endless independence (philosophy §6, §8).
+The ideas to land: **(1) seeking help is a skill, not a weakness — and knowing when to
+seek it is part of mature independence; (2) the skill has concrete parts: try alone
+first, recognize the limit, choose who to ask, and ask clearly; (3) refusing help when
+it is needed is not strength but a different kind of getting stuck.** The evidence:
+mastery/feedback loops and relationships are among the strongest learning levers (S-007,
+S-012), and asking for help is how a self-directed learner gets *feedback* — so
+help-seeking is continuous with Lesson 10, not opposed to it. The "try alone first"
+instinct is honored; the point is *joint judgment*, not endless independence (philosophy
+§6, §8).
 
 Model the skill once, then let learners practice (S-011). The **ethics** lens: asking
 for help is also an act of fairness to oneself and to the task — pretending you don't

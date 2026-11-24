@@ -114,13 +114,13 @@ make sure they *understand* before they act, in a kitchen, a workshop, or a clas
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **asking for clarity
-is a strength, not a weakness** — it prevents errors and shows respect for the speaker's
-meaning. Some classrooms or homes teach children to stay silent rather than question; gently
-reframe asking as *wondering together*, and offer the "wonder box" for anonymous questions
-where speaking up feels unsafe (see `docs/contexts.md`). Distinguish a clarifying question
-(it stays on the speaker's meaning) from a new-topic question (it moves elsewhere). Model
-the starters and do guided practice before independent work.
+The idea to land is that **asking for clarity is a strength, not a weakness** — it
+prevents errors and shows respect for the speaker's meaning. Some classrooms or homes
+teach children to stay silent rather than question; gently reframe asking as *wondering
+together*, and offer the "wonder box" for anonymous questions where speaking up feels
+unsafe (see `docs/contexts.md`). Distinguish a clarifying question (it stays on the
+speaker's meaning) from a new-topic question (it moves elsewhere). Model the starters
+and do guided practice before independent work.
 
 ## Procedure
 

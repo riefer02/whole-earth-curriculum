@@ -114,27 +114,28 @@ Earth — each with a step I can actually take.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a changing climate is already
-moving people, and the places that emitted least often feel it worst; responsibility means three
-concrete circles — care, justice, and care for the Earth — each with a step within reach.** Teach the
-circles explicitly (S-011). Hold the weight with honesty and hope: name the facts (climate change is
-already reshaping where people can live — S-383, S-005; the people least responsible often bear the
-heaviest burden — S-006), and always attach agency, never guilt. The learner is not asked to solve
-the climate alone; they are asked to name the next small, real thing they can do (facilitation,
-holding difficult topics safely).
+The idea to land: **a changing climate is already moving people, and the places that
+emitted least often feel it worst; responsibility means three concrete circles — care,
+justice, and care for the Earth — each with a step within reach.** Teach the circles
+explicitly (S-011). Hold the weight with honesty and hope: name the facts (climate
+change is already reshaping where people can live — S-383, S-005; the people least
+responsible often bear the heaviest burden — S-006), and always attach agency, never
+guilt. The learner is not asked to solve the climate alone; they are asked to name the
+next small, real thing they can do (facilitation, holding difficult topics safely).
 
-The **ethics** lens: responsibility is not distributed evenly — those who emitted least owe no debt,
-and those who emitted most owe more; naming this is justice, not blame-gaming (S-006). The
-**egalitarianism** lens: the lesson refuses to put the whole burden on any one learner; a
-responsibility that only asks individuals to recycle while systems go unchanged is not justice —
-both the personal circle and the justice circle matter. The **global** lens: climate movement is
-global — within and across borders, and the responses must be rooted in care and justice, not in
-walls (S-383, S-005). The **technology** lens: tools cut both ways — the same machines that warmed
-the planet also measure it and connect the people organizing to protect it; technology is a choice,
-not a fate. The **environment** lens: this is the lesson's home — the living Earth is the one shared
-home, and caring for it is caring for the people on it (S-004). Preview: Lesson 13 turns to power
-and resistance — the struggles over who gets to decide what happens to the shared Earth and its
-people.
+The **ethics** lens: responsibility is not distributed evenly — those who emitted least
+owe no debt, and those who emitted most owe more; naming this is justice, not
+blame-gaming (S-006). The **egalitarianism** lens: the lesson refuses to put the whole
+burden on any one learner; a responsibility that only asks individuals to recycle while
+systems go unchanged is not justice — both the personal circle and the justice circle
+matter. The **global** lens: climate movement is global — within and across borders, and
+the responses must be rooted in care and justice, not in walls (S-383, S-005). The
+**technology** lens: tools cut both ways — the same machines that warmed the planet also
+measure it and connect the people organizing to protect it; technology is a choice, not
+a fate. The **environment** lens: this is the lesson's home — the living Earth is the
+one shared home, and caring for it is caring for the people on it (S-004). Preview:
+Lesson 13 turns to power and resistance — the struggles over who gets to decide what
+happens to the shared Earth and its people.
 
 ## Procedure
 

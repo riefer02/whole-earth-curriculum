@@ -112,14 +112,13 @@ place in it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **communities are
-nested — local, regional, national, global — and they connect in both directions, so a
-learner stands inside them, not beneath them.** "Nested communities, from family to
-the global community of all life" is the Grade-12 summit of this strand; here we build
-its foundation. A nation is, in Benedict Anderson's now-classic phrase, an "imagined
-community" — its members will never meet most of their fellow-members, yet the image
-of their communion lives in their minds (S-415). Held as description, not insult:
-"imagined" does not mean unreal.
+The idea to land: **communities are nested — local, regional, national, global — and
+they connect in both directions, so a learner stands inside them, not beneath them.**
+"Nested communities, from family to the global community of all life" is the Grade-12
+summit of this strand; here we build its foundation. A nation is, in Benedict Anderson's
+now-classic phrase, an "imagined community" — its members will never meet most of their
+fellow-members, yet the image of their communion lives in their minds (S-415). Held as
+description, not insult: "imagined" does not mean unreal.
 
 The **global/anthropological** lens is central: no community form is the default, and
 none ranks above another — some lives are organized around a village, some around a
@@ -129,8 +128,8 @@ power and resources move unevenly along it, and noticing who is connected and wh
 left out is part of reading it honestly. The **ethics** lens: seeing the chain means
 seeing that my choices ripple outward — a purchase, a vote, a kindness. The
 **environment/technology** lens: the clearest living example of the chain is the Earth
-itself — weather, water, and species cross every human border, and the technologies
-that move food, goods, and messages are the threads that tie the circles together.
+itself — weather, water, and species cross every human border, and the technologies that
+move food, goods, and messages are the threads that tie the circles together.
 Distinguish evidence from values: "communities connect from local to global" is
 descriptive; "every point in the web has dignity and a place to act" is a value.
 

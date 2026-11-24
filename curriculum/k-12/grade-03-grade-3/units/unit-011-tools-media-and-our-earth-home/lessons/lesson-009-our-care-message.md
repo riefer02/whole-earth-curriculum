@@ -121,21 +121,22 @@ cares tells the truth and asks people to help, not to buy.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is a **making and sharing** day, not a
-test. The heart of it is that a message can *care*: it can name a resource, its source, and
-one way to use less, made for a real audience. Retrieval: learners recall Lesson 4 (purpose
-and audience), Lesson 7 (runs out vs comes back), and Lesson 8 (one resource, where it comes
-from, use less). Keep the media stance warm — making a truthful, helpful message is the
-joyful opposite of fear, and it puts technology to work *caring* rather than *selling*.
-Honor all resources and all homes equally: a message about a village well is as worthy as
-one about a city tap; a message told aloud and acted out counts just as much as a printed
-card. Distinguish evidence from values gently: "water comes from rain" is evidence; wanting
-to share the message is a value of care — both are welcome. No wealth assumption: any scrap
-of paper, or a message spoken and acted, is enough. Honor every body: a non-speaking learner
-can draw and point while a partner writes, or share in sign; a learner who is blind or has
+This is a **making and sharing** day, not a test. The heart of it is that a message can
+*care*: it can name a resource, its source, and one way to use less, made for a real
+audience. Retrieval: learners recall Lesson 4 (purpose and audience), Lesson 7 (runs out
+vs comes back), and Lesson 8 (one resource, where it comes from, use less). Keep the
+media stance warm — making a truthful, helpful message is the joyful opposite of fear,
+and it puts technology to work *caring* rather than *selling*. Honor all resources and
+all homes equally: a message about a village well is as worthy as one about a city tap;
+a message told aloud and acted out counts just as much as a printed card. Distinguish
+evidence from values gently: "water comes from rain" is evidence; wanting to share the
+message is a value of care — both are welcome. No wealth assumption: any scrap of paper,
+or a message spoken and acted, is enough. Honor every body: a non-speaking learner can
+draw and point while a partner writes, or share in sign; a learner who is blind or has
 low vision can say the message aloud and have a partner scribe it, and feel the card's
-shape; a learner with motor differences can direct a partner's hands to write. Peer check:
-partners check each other's message for a clear purpose (persuade) and a real audience.
+shape; a learner with motor differences can direct a partner's hands to write. Peer
+check: partners check each other's message for a clear purpose (persuade) and a real
+audience.
 
 ## Procedure
 

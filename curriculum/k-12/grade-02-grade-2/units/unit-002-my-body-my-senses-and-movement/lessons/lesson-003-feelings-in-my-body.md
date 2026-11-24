@@ -107,16 +107,14 @@ you can read what your body is telling you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the cards and bell, then guide the body-check and
-acting game. This spirals up from Grade 1's body signals (hunger, thirst, tiredness)
-and from Grade 2 Unit 1's feeling vocabulary — now feelings and bodies come together.
-Handle feelings with care: never require a learner to share a private feeling aloud,
-and never make a feeling "good" or "bad." A fast heartbeat from excitement and one
-from fear are both okay to have. Offer writing or drawing as equal ways to share.
-Hold up each feeling card as you name it, so learners who are deaf or hard of hearing
-can follow the acting game without needing to hear the word. There is no correct
-answer — noticing is the skill.
+Prepare the cards and bell, then guide the body-check and acting game. This spirals up
+from Grade 1's body signals (hunger, thirst, tiredness) and from Grade 2 Unit 1's
+feeling vocabulary — now feelings and bodies come together. Handle feelings with care:
+never require a learner to share a private feeling aloud, and never make a feeling
+"good" or "bad." A fast heartbeat from excitement and one from fear are both okay to
+have. Offer writing or drawing as equal ways to share. Hold up each feeling card as you
+name it, so learners who are deaf or hard of hearing can follow the acting game without
+needing to hear the word. There is no correct answer — noticing is the skill.
 
 ## Procedure
 

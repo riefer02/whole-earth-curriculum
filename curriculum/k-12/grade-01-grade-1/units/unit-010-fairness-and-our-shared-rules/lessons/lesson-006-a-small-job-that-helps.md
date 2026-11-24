@@ -108,18 +108,17 @@ carrying water for an elder. Today you will do one small job and tell how it hel
 
 ## Facilitator note
 
-Written to the learner ("you"). The central commitment is **contributions, not
-rewards, and no ranking**: a job is something everyone can do to help, not a prize
-for the "best" child or a way to sort children into helpers and non-helpers. Every
-job matters equally — watering a plant helps as much as carrying a book; do not
-rank jobs as "big" or "small" in worth. Rotate jobs so everyone takes a turn, and
-celebrate the *helping*, never compare children. Keep jobs safe and concrete for age
-~6. A learner who does not speak aloud chooses a job by pointing to a card and tells
-how it helped by pointing, signing, or gesturing; a learner who is blind or
-low-vision does a job by touch and names how it helped aloud; a learner with a motor
-difference can do a job by directing a partner or by choosing a job that suits how
-they move, and their help counts fully. A learner may always pass. The aim is that
-every learner can say, in their own way, "I helped, and here is how."
+The central commitment is **contributions, not rewards, and no ranking**: a job is
+something everyone can do to help, not a prize for the "best" child or a way to sort
+children into helpers and non-helpers. Every job matters equally — watering a plant
+helps as much as carrying a book; do not rank jobs as "big" or "small" in worth. Rotate
+jobs so everyone takes a turn, and celebrate the *helping*, never compare children. Keep
+jobs safe and concrete for age ~6. A learner who does not speak aloud chooses a job by
+pointing to a card and tells how it helped by pointing, signing, or gesturing; a learner
+who is blind or low-vision does a job by touch and names how it helped aloud; a learner
+with a motor difference can do a job by directing a partner or by choosing a job that
+suits how they move, and their help counts fully. A learner may always pass. The aim is
+that every learner can say, in their own way, "I helped, and here is how."
 
 ## Procedure
 

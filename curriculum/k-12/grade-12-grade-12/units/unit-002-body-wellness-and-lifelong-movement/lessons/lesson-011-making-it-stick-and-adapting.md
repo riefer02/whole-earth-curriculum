@@ -111,14 +111,13 @@ for what happens when it breaks.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **skill plus
-value**: a habit is a cue–routine–reward loop, and a **setback plan** is what makes a
-habit durable — the restart, not the perfect streak, is the skill. Movement is one part
-of a healthy routine that also includes sleep (about 8–10 hours for teenagers, AASM,
-S-050), and adolescence is a formative time for building habits that persist (WHO,
-S-311). Teach the loop explicitly (worked example first: Kirschner, Sweller & Clark,
-S-011). No shame about broken streaks — the lesson itself treats a setback as
-information, never a verdict.
+The idea to land, held as **skill plus value**: a habit is a cue–routine–reward loop,
+and a **setback plan** is what makes a habit durable — the restart, not the perfect
+streak, is the skill. Movement is one part of a healthy routine that also includes sleep
+(about 8–10 hours for teenagers, AASM, S-050), and adolescence is a formative time for
+building habits that persist (WHO, S-311). Teach the loop explicitly (worked example
+first: Kirschner, Sweller & Clark, S-011). No shame about broken streaks — the lesson
+itself treats a setback as information, never a verdict.
 
 The **ethics** lens: a promise you restart after breaking is stronger than a promise you
 never break, because it is honest about being human. The **egalitarianism** lens: not
@@ -127,7 +126,11 @@ fit real, crowded, low-resource lives. The **global** lens: habits are anchored 
 specific textures of a life (a market day, a harvest, a commute, a call to prayer), so
 no single cue is universal. The **critical-thinking** lens: "I'm not a person who
 exercises" is a claim about identity, not a fact — check it against one small restart.
-The **technology** lens: habit apps and phone reminders are today's most common cue-and-reward scaffolds, and they can help — but a durable loop should also anchor to a real-world cue (a door, a tree, a time of day) so the habit survives a lost phone or a dead battery. Preview: Lesson 12 pivots from the plan to the *places* that help or block movement.
+The **technology** lens: habit apps and phone reminders are today's most common
+cue-and-reward scaffolds, and they can help — but a durable loop should also anchor to a
+real-world cue (a door, a tree, a time of day) so the habit survives a lost phone or a
+dead battery. Preview: Lesson 12 pivots from the plan to the *places* that help or block
+movement.
 
 ## Procedure
 

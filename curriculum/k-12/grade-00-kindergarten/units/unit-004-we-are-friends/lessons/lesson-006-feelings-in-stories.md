@@ -102,11 +102,9 @@ kind friends.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, choose a story from any culture — the point is
-the feeling, not the setting — and describe the pictures aloud for learners who cannot
-see them well. Honor every guess; ask "what makes you think so?" rather than "is that
-right?"
+As facilitator, choose a story from any culture — the point is the feeling, not the
+setting — and describe the pictures aloud for learners who cannot see them well. Honor
+every guess; ask "what makes you think so?" rather than "is that right?"
 
 ## Procedure
 

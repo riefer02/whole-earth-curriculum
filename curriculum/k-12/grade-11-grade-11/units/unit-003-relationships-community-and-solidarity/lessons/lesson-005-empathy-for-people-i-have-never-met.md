@@ -107,11 +107,10 @@ story, a shared need — and why they matter.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **empathy is real but
-partial — it fades with distance and numbers — so caring for distant others requires
-bridges: a name, a story, a shared need.** Teach the empathy/psychic-numbing distinction
-with a worked example; keep the value question open (how wide *should* care go is a
-choice, not a test).
+The idea to land: **empathy is real but partial — it fades with distance and numbers —
+so caring for distant others requires bridges: a name, a story, a shared need.** Teach
+the empathy/psychic-numbing distinction with a worked example; keep the value question
+open (how wide *should* care go is a choice, not a test).
 
 The **ethics** lens: whether distant strangers count in my choices is a core ethical
 question, and the lesson invites reasoning, not a single answer. The **egalitarian**

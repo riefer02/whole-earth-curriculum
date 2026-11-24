@@ -118,16 +118,15 @@ the **evidence**.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The heart of it is a scientist's
-**honesty about evidence**: hold up a "did not match" result with the same warmth as a
-"matched" one — "wonderful, now we know." Never shame a wrong prediction; a wrong
-prediction is what makes the test worth doing. Model the record once (worked example),
-then guide pairs through it, then let learners try alone. Retrieval is built in: begin by
-asking learners to recall their prediction from yesterday before testing it. Where
-learners cannot write, they may draw, point, or tell a partner who scribes. Some
-predictions take longer than one day to test (a seed growing); for those, set up a
-"watch and wait" record that learners revisit across the unit — that is real science
-too, and it spaces the learning.
+The heart of it is a scientist's **honesty about evidence**: hold up a "did not match"
+result with the same warmth as a "matched" one — "wonderful, now we know." Never shame a
+wrong prediction; a wrong prediction is what makes the test worth doing. Model the
+record once (worked example), then guide pairs through it, then let learners try alone.
+Retrieval is built in: begin by asking learners to recall their prediction from
+yesterday before testing it. Where learners cannot write, they may draw, point, or tell
+a partner who scribes. Some predictions take longer than one day to test (a seed
+growing); for those, set up a "watch and wait" record that learners revisit across the
+unit — that is real science too, and it spaces the learning.
 
 ## Procedure
 

@@ -119,17 +119,16 @@ every body can learn to help it settle.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **stress is a
-physiological alarm, and the harm is not in feeling it once but in never turning it
-off — the "wear-and-tear" of chronic stress.** The physiology is well documented: an
-acute stressor activates the sympathetic branch (fast heart, adrenaline/cortisol,
-tensed muscles), and the parasympathetic branch returns the body to calm; when the
-response stays on, the costs accumulate as muscle tension, cardiovascular strain,
-digestive and sleep disruption, and mood effects (S-338, S-339). Slow, deliberate
-breathing — especially a longer exhale — is one evidence-backed way to help the body
-return to calm (S-340), and tense-and-release practice has been used for a century to
-do the same (S-227). Present these as *descriptive science*, not as a verdict: feeling
-stressed is a real signal, never a personal failing.
+The idea to land: **stress is a physiological alarm, and the harm is not in feeling it
+once but in never turning it off — the "wear-and-tear" of chronic stress.** The
+physiology is well documented: an acute stressor activates the sympathetic branch (fast
+heart, adrenaline/cortisol, tensed muscles), and the parasympathetic branch returns the
+body to calm; when the response stays on, the costs accumulate as muscle tension,
+cardiovascular strain, digestive and sleep disruption, and mood effects (S-338, S-339).
+Slow, deliberate breathing — especially a longer exhale — is one evidence-backed way to
+help the body return to calm (S-340), and tense-and-release practice has been used for a
+century to do the same (S-227). Present these as *descriptive science*, not as a
+verdict: feeling stressed is a real signal, never a personal failing.
 
 Model the skill once, then let learners practice (worked example → guided practice →
 independent work; S-011). The **ethics** lens: the goal is *understanding and agency*,
@@ -138,8 +137,8 @@ never blame — a learner under chronic stress is not "doing it wrong." The
 discrimination, and unsafe conditions impose chronic stress on whole communities, so
 stress is a justice question as much as a personal one. The **global** lens: every
 culture has both words for distress and ways of settling the body; the science here is
-one account among many, and the calm-down we practice draws on breathing traditions
-held side by side with respect (S-340). The **technology & environment** lens: our
+one account among many, and the calm-down we practice draws on breathing traditions held
+side by side with respect (S-340). The **technology & environment** lens: our
 environments and devices can keep the alarm ringing — constant notifications, a
 never-ending feed, an always-on world — and noticing that is part of the analysis. The
 **social-emotional** lens: this topic can touch real hardship; invite, never force, and

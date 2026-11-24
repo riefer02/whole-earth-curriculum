@@ -116,19 +116,20 @@ answer, and today we weigh them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **responsibility for climate harm is
-a genuine, contested question, and weighing the answers — polluter pays, historical responsibility,
-capability, and common but differentiated responsibility — is the skill.** Hold the science as
-evidence and the answers as *values*: it is documented that emissions are unequally distributed and
-that harms fall hardest on the most exposed (S-005, S-006); *how much* each actor owes is a values
-question on which reasonable people disagree. The **egalitarian** lens: always ask who caused it,
-who is harmed, and whether the same people are both. The **global** lens is the spine: this is a
-question that crosses borders and generations, and the answers are debated in every region, from the
-"polluter pays" principle to "common but differentiated responsibilities" in international climate
-agreements. The **environment** lens: the "victims" include rivers, reefs, glaciers, and future
-generations, not only people alive today. Do not settle the question as dogma (philosophy §11);
-distinguish evidence from values (philosophy §5). Preview: next lesson we weigh the same question
-for poverty.
+The idea to land: **responsibility for climate harm is a genuine, contested question,
+and weighing the answers — polluter pays, historical responsibility, capability, and
+common but differentiated responsibility — is the skill.** Hold the science as evidence
+and the answers as *values*: it is documented that emissions are unequally distributed
+and that harms fall hardest on the most exposed (S-005, S-006); *how much* each actor
+owes is a values question on which reasonable people disagree. The **egalitarian** lens:
+always ask who caused it, who is harmed, and whether the same people are both. The
+**global** lens is the spine: this is a question that crosses borders and generations,
+and the answers are debated in every region, from the "polluter pays" principle to
+"common but differentiated responsibilities" in international climate agreements. The
+**environment** lens: the "victims" include rivers, reefs, glaciers, and future
+generations, not only people alive today. Do not settle the question as dogma
+(philosophy §11); distinguish evidence from values (philosophy §5). Preview: next lesson
+we weigh the same question for poverty.
 
 ## Procedure
 

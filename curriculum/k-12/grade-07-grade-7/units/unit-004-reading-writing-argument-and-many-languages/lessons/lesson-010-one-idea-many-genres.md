@@ -112,16 +112,15 @@ each needs precise language to do its job. Genre is not a cage; it is a tool you
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **genre is a
-choice of shape — narrative tells, argument persuades, information explains — and precise
-language serves each differently**. Model all three genres for one idea as a worked
-example before learners write their own (Kirschner, Sweller & Clark, 2006; Graham &
-Perin, 2007). Let the idea be small and safe; learners may choose their own. The four
-lenses: *ethics* (the truth of the idea stays the same across genres — no exaggerating to
-persuade); *egalitarianism* (every culture has these three ways of speaking — story,
-plea, account — in its own language); *global* (example ideas from many regions);
-*critical-thinking* (choosing a genre is matching shape to audience and purpose). See
-`docs/facilitation.md`.
+The idea to land is that **genre is a choice of shape — narrative tells, argument
+persuades, information explains — and precise language serves each differently**. Model
+all three genres for one idea as a worked example before learners write their own
+(Kirschner, Sweller & Clark, 2006; Graham & Perin, 2007). Let the idea be small and
+safe; learners may choose their own. The four lenses: *ethics* (the truth of the idea
+stays the same across genres — no exaggerating to persuade); *egalitarianism* (every
+culture has these three ways of speaking — story, plea, account — in its own language);
+*global* (example ideas from many regions); *critical-thinking* (choosing a genre is
+matching shape to audience and purpose). See `docs/facilitation.md`.
 
 ## Procedure
 

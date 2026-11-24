@@ -118,24 +118,25 @@ true about work made by someone far away in place or time, without flattening it
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **critique is a four-step
-climb — describe, analyze, interpret, evaluate — each step grounded in what is actually in
-the work, and each tradition met as a living one to honor, not a specimen to grade.** Teach
-the ladder explicitly with a worked example, then let learners climb it on a second work
-(S-011). Name the danger plainly: a critique that ranks another culture's art by one's own
-standards is not critique, it is flattening.
+The idea to land: **critique is a four-step climb — describe, analyze, interpret,
+evaluate — each step grounded in what is actually in the work, and each tradition met as
+a living one to honor, not a specimen to grade.** Teach the ladder explicitly with a
+worked example, then let learners climb it on a second work (S-011). Name the danger
+plainly: a critique that ranks another culture's art by one's own standards is not
+critique, it is flattening.
 
-The **ethics** lens: to critique fairly is to describe before judging and to ask respectful
-questions rather than pronounce. The **egalitarianism** lens: the ladder needs no special
-training — only careful looking and honest wording, open to anyone. The **global** lens: the
-same four moves work on a Japanese woodblock print (S-364), a Māori painted rafter pattern
-(S-115), and an Akan adinkra cloth stamped with proverbs (S-084) — each met as a living
-tradition carried by real people now. The **technology** lens: digital collections and
-image search put works from many cultures on one screen, but the screen is not the work —
-name that you are seeing a reproduction, and that the living context (place, people,
-occasion) matters. The **environment** lens: many traditions make art from local materials
-and respond to a local landscape, so "what is it made of and where is it from" is part of
-faithful description. Preview: Lesson 4 sharpens the final rung into a defended judgment.
+The **ethics** lens: to critique fairly is to describe before judging and to ask
+respectful questions rather than pronounce. The **egalitarianism** lens: the ladder
+needs no special training — only careful looking and honest wording, open to anyone. The
+**global** lens: the same four moves work on a Japanese woodblock print (S-364), a Māori
+painted rafter pattern (S-115), and an Akan adinkra cloth stamped with proverbs
+(S-084) — each met as a living tradition carried by real people now. The **technology**
+lens: digital collections and image search put works from many cultures on one screen,
+but the screen is not the work — name that you are seeing a reproduction, and that the
+living context (place, people, occasion) matters. The **environment** lens: many
+traditions make art from local materials and respond to a local landscape, so "what is
+it made of and where is it from" is part of faithful description. Preview: Lesson 4
+sharpens the final rung into a defended judgment.
 
 ## Procedure
 

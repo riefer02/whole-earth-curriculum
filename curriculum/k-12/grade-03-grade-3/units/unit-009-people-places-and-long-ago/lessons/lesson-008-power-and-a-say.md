@@ -124,21 +124,21 @@ them in, is how groups become fair.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Hold power as shared, not bossing.**
-For this age, "power in a group" is best explained as *the ability to help decide*, and
-"a say" as *a voice that is heard*. This is a values commitment, held as such — not a
-factual claim — and it carries the curriculum's egalitarian heart: power is meant to be
-shared, and a fair group makes room for every voice. **Keep it concrete and blame-free:**
-use a real classroom decision (what game to play, where to sit, how to share) and end
-with the fix — noticing who is left out and inviting them in. The unfairness is in the
-arrangement, never in a child. **The idea connects outward** to the wider world: the
-same noticing — who has a say, who is left out — is how fairness in the big human story
-begins to be studied in later grades. There is a real, citable anchor: the United
-Nations Convention on the Rights of the Child says children have the right to say what
-they think and to be listened to (see Resources). Honor every body: a learner who does
-not use a speaking voice points or signs; a learner who is blind or has low vision hears
-the scenes described clearly. **Never require a learner to share a real experience of
-being left out** — the given cards and circle are enough.
+**Hold power as shared, not bossing.** For this age, "power in a group" is best
+explained as *the ability to help decide*, and "a say" as *a voice that is heard*. This
+is a values commitment, held as such — not a factual claim — and it carries the
+curriculum's egalitarian heart: power is meant to be shared, and a fair group makes room
+for every voice. **Keep it concrete and blame-free:** use a real classroom decision
+(what game to play, where to sit, how to share) and end with the fix — noticing who is
+left out and inviting them in. The unfairness is in the arrangement, never in a child.
+**The idea connects outward** to the wider world: the same noticing — who has a say, who
+is left out — is how fairness in the big human story begins to be studied in later
+grades. There is a real, citable anchor: the United Nations Convention on the Rights of
+the Child says children have the right to say what they think and to be listened to (see
+Resources). Honor every body: a learner who does not use a speaking voice points or
+signs; a learner who is blind or has low vision hears the scenes described clearly.
+**Never require a learner to share a real experience of being left out** — the given
+cards and circle are enough.
 
 ## Procedure
 

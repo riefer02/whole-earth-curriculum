@@ -117,17 +117,16 @@ tell a whole story or feeling using only your body, and explain your choices.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Retelling with movement and explaining choices is a **skill**, so
-model it once — "I grow slowly from a crouch to tall to show the seed growing; I chose
-slow because seeds grow slowly" — before learners try (Kirschner, Sweller & Clark,
-2006). The heart is the **explanation of choices**, not the polish of the movement. Any
-story or feeling can be retold seated, with hands and face alone, or with the whole
-body. A learner with limited mobility retells fully with face, hands, and shoulders, or
-directs a partner's movement and explains the choice — directing is retelling. A
-learner who does not speak explains by pointing to a "choice" word card (big, slow,
-small, fast) or by showing the gesture twice with contrast. There is no wrong retelling
-as long as the learner can say (or show) why they moved that way.
+Retelling with movement and explaining choices is a **skill**, so model it once — "I
+grow slowly from a crouch to tall to show the seed growing; I chose slow because seeds
+grow slowly" — before learners try (Kirschner, Sweller & Clark, 2006). The heart is the
+**explanation of choices**, not the polish of the movement. Any story or feeling can be
+retold seated, with hands and face alone, or with the whole body. A learner with limited
+mobility retells fully with face, hands, and shoulders, or directs a partner's movement
+and explains the choice — directing is retelling. A learner who does not speak explains
+by pointing to a "choice" word card (big, slow, small, fast) or by showing the gesture
+twice with contrast. There is no wrong retelling as long as the learner can say (or
+show) why they moved that way.
 
 ## Procedure
 

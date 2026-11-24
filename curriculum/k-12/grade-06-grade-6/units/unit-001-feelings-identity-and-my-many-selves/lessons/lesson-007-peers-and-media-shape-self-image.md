@@ -118,17 +118,16 @@ out — is how you keep your own picture of yourself clear.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **notice the
-influence, without fear or shame** — media and peers are not villains to be feared, but
-forces to be read critically. Do not imply that using media is bad or that liking what
-peers like is weak; belonging is a real human need. The power move is *awareness*: knowing
-a feed is curated, that an ad has a goal, and that a peer's "in" opinion is one opinion.
-Carry the **egalitarian** lens lightly but clearly: media often shows a narrow idea of a
-"good" life (certain bodies, wealth, certain places) and quietly leaves everyone else out;
-asking *who is left out?* and *who benefits?* is how learners stay clear-eyed. Keep it
-hopeful: always end on agency — you can curate your own feed, choose your company, and
-remember that feeds are edited, not real lives. See `docs/facilitation.md` and
-`docs/philosophy.md` §4–5.
+The idea to land is **notice the influence, without fear or shame** — media and peers
+are not villains to be feared, but forces to be read critically. Do not imply that using
+media is bad or that liking what peers like is weak; belonging is a real human need. The
+power move is *awareness*: knowing a feed is curated, that an ad has a goal, and that a
+peer's "in" opinion is one opinion. Carry the **egalitarian** lens lightly but clearly:
+media often shows a narrow idea of a "good" life (certain bodies, wealth, certain
+places) and quietly leaves everyone else out; asking *who is left out?* and *who
+benefits?* is how learners stay clear-eyed. Keep it hopeful: always end on agency — you
+can curate your own feed, choose your company, and remember that feeds are edited, not
+real lives. See `docs/facilitation.md` and `docs/philosophy.md` §4–5.
 
 ## Procedure
 

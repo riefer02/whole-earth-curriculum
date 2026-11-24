@@ -124,15 +124,15 @@ proof).
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **evidence and belief
-are different kinds of thought, and each is legitimate in its own place — a claim about
-the world owes evidence and can be checked, while a value or conviction is held rather
-than proven, and we mislead ourselves when we swap them.** This distinction is a core of
-media and information literacy: UNESCO frames the ability to distinguish information
-from persuasion, and evidence from belief, as central to evaluating media (S-217); the
-media-literacy question-sets of NAMLE and the Center for Media Literacy build the same
-habit (S-151; S-442). The lesson's deeper commitment (philosophy §5) is that the
-curriculum itself distinguishes evidence from values and models the difference.
+The idea to land: **evidence and belief are different kinds of thought, and each is
+legitimate in its own place — a claim about the world owes evidence and can be checked,
+while a value or conviction is held rather than proven, and we mislead ourselves when we
+swap them.** This distinction is a core of media and information literacy: UNESCO frames
+the ability to distinguish information from persuasion, and evidence from belief, as
+central to evaluating media (S-217); the media-literacy question-sets of NAMLE and the
+Center for Media Literacy build the same habit (S-151; S-442). The lesson's deeper
+commitment (philosophy §5) is that the curriculum itself distinguishes evidence from
+values and models the difference.
 
 Hold the line gently and without ranking anyone's beliefs: the point is *clarity about
 the kind of claim*, not a verdict that beliefs are lesser. A belief can be deeply true
@@ -142,12 +142,12 @@ independent work; S-011). The **critical-thinking** lens is the spine: sort ever
 statement by "could I test this?" The **ethics** lens: it is dishonest to pass a value
 off as a fact, and it is also dishonest to sneer at a belief simply because it cannot be
 tested — respect the kind of claim being made. The **egalitarian** lens: the powerful
-often dress their values as facts ("it has always been this way") to close off challenge;
-asking "is that a claim or a belief?" reopens the door. The **global** lens: different
-cultures draw the evidence/belief line in different places, and both hold wisdom —
-describe, don't rank. The **social-emotional** lens: discovering a cherished belief is
-"not a claim" can feel like a loss; name that feeling and let it sit. Preview: Lesson 8
-begins the extended reading — tracking themes across a full work.
+often dress their values as facts ("it has always been this way") to close off
+challenge; asking "is that a claim or a belief?" reopens the door. The **global** lens:
+different cultures draw the evidence/belief line in different places, and both hold
+wisdom — describe, don't rank. The **social-emotional** lens: discovering a cherished
+belief is "not a claim" can feel like a loss; name that feeling and let it sit. Preview:
+Lesson 8 begins the extended reading — tracking themes across a full work.
 
 ## Procedure
 

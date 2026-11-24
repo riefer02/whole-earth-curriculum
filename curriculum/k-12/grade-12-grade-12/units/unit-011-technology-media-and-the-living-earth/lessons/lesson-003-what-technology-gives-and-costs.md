@@ -115,24 +115,25 @@ actually trading, so the choice is yours rather than the machine's.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **my relationship with
-technology has real gifts and real costs, and I can name both honestly — attention, time,
-privacy, rest, and the Earth's materials — so that my use is a choice, not a reflex.** Keep the
-"neither worship nor fear" stance: the point is a clear-eyed ledger, not a guilt trip and not a
-love letter. Respect privacy — learners record only what they choose to share.
+The idea to land: **my relationship with technology has real gifts and real costs, and I
+can name both honestly — attention, time, privacy, rest, and the Earth's materials — so
+that my use is a choice, not a reflex.** Keep the "neither worship nor fear" stance: the
+point is a clear-eyed ledger, not a guilt trip and not a love letter. Respect privacy —
+learners record only what they choose to share.
 
-The **ethics** lens: the cost side of the ledger is where unnoticed trade-offs live, and ethics
-is partly the discipline of noticing what we are giving up before we consent to give it. The
-**egalitarianism** lens: the ledger looks different by circumstance — a person who needs a
-screen for school or for accessibility gives and receives differently from one who uses it only
-for leisure — so no one's ledger is judged against another's (S-281). The **global** lens: the
-"cost" column extends beyond the user to people far away — the miner of cobalt, the worker at
-the recycling yard — whose lives carry costs the user's screen does not show (S-398, S-397).
-The **technology** lens: some costs are *designed* — feeds ranked for engagement hold attention
-on purpose, and personalization can quietly narrow what a person sees (S-481, S-482). The
-**environment** lens: the cost column has an Earth-sized line — every device is made of mined
-materials and becomes e-waste — so a full ledger includes what the planet pays (S-397).
-Preview: Lesson 4 turns the honest ledger into a choice — steward, not consumer.
+The **ethics** lens: the cost side of the ledger is where unnoticed trade-offs live, and
+ethics is partly the discipline of noticing what we are giving up before we consent to
+give it. The **egalitarianism** lens: the ledger looks different by circumstance — a
+person who needs a screen for school or for accessibility gives and receives differently
+from one who uses it only for leisure — so no one's ledger is judged against another's
+(S-281). The **global** lens: the "cost" column extends beyond the user to people far
+away — the miner of cobalt, the worker at the recycling yard — whose lives carry costs
+the user's screen does not show (S-398, S-397). The **technology** lens: some costs are
+*designed* — feeds ranked for engagement hold attention on purpose, and personalization
+can quietly narrow what a person sees (S-481, S-482). The **environment** lens: the cost
+column has an Earth-sized line — every device is made of mined materials and becomes
+e-waste — so a full ledger includes what the planet pays (S-397). Preview: Lesson 4
+turns the honest ledger into a choice — steward, not consumer.
 
 ## Procedure
 

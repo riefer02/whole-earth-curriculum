@@ -115,26 +115,25 @@ that trust or spends it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **delivery — voice,
-pacing, presence — is the vehicle, but fairness is the load; a persuasive speech that
-fairly addresses its counterargument is delivered as much with honesty as with
-technique.** Grade 11 learners are near-adult speakers; treat them as co-authors of
-the standard (development.md 9–12 band). Delivery skills (pacing, emphasis, volume,
-and — where comfortable — gaze) are explicit, coachable techniques — model them and
-give guided practice
-(S-011). But do not let polish outrank honesty: the single most important mark on the
-checklist is *was the counterargument stated at full strength, and answered?*
+The idea to land: **delivery — voice, pacing, presence — is the vehicle, but fairness is
+the load; a persuasive speech that fairly addresses its counterargument is delivered as
+much with honesty as with technique.** Grade 11 learners are near-adult speakers; treat
+them as co-authors of the standard (development.md 9–12 band). Delivery skills (pacing,
+emphasis, volume, and — where comfortable — gaze) are explicit, coachable techniques —
+model them and give guided practice (S-011). But do not let polish outrank honesty: the
+single most important mark on the checklist is *was the counterargument stated at full
+strength, and answered?*
 
 Model once, then let learners deliver (worked example → guided practice →
-independent/performance; S-011). The **ethics** lens is the spine: fairness to the
-other side is the moral content of persuasion — a speech can be smooth and still be a
-con. The **egalitarian** lens: a fair speech makes room for the objections of the
-less powerful, not just the loud. The **social-emotional** lens: public speaking
-raises real anxiety; name it, allow pauses, and treat a shaky delivery with a steady
-claim as fully successful — the reverse is not. The **critical-thinking** lens: the
-audience's job is to check whether the *counterargument* was a steelman or a straw
-man, and whether the response actually met it. Use peer feedback for fairness, not for
-ranking; celebrate mastery of the standard, not victory (philosophy §8).
+independent/performance; S-011). The **ethics** lens is the spine: fairness to the other
+side is the moral content of persuasion — a speech can be smooth and still be a con. The
+**egalitarian** lens: a fair speech makes room for the objections of the less powerful,
+not just the loud. The **social-emotional** lens: public speaking raises real anxiety;
+name it, allow pauses, and treat a shaky delivery with a steady claim as fully
+successful — the reverse is not. The **critical-thinking** lens: the audience's job is
+to check whether the *counterargument* was a steelman or a straw man, and whether the
+response actually met it. Use peer feedback for fairness, not for ranking; celebrate
+mastery of the standard, not victory (philosophy §8).
 
 **Access.** Delivery is *any* channel that carries the claim and the fair
 counterargument. A learner may deliver in sign language (with a written summary for
@@ -144,8 +143,8 @@ fairness of the steelman and the honesty of the response — never vocal ability
 contact is never required: learners who find it uncomfortable may look at the horizon,
 their notes, or a fixed point; gaze is offered as an option, not a mark.
 
-Preview:
-Lesson 5 turns from spoken argument to *reading across languages* — translation.
+Preview: Lesson 5 turns from spoken argument to *reading across languages* —
+translation.
 
 ## Procedure
 

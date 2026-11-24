@@ -111,12 +111,12 @@ something, and it did not happen. Both feel heavy. The difference is loss or hop
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Some scenarios touch real loss (a pet,
-a person moving away). Hold them gently and calmly — name the feeling, do not push for
-disclosure, and never require a learner to share a personal loss. A learner may pass
-or just listen. Reassure the group that sad feelings are not a problem to fix; they
-are a signal of what matters to us. Read scenarios aloud for learners still building
-reading fluency, and keep the tone warm, not heavy.
+Some scenarios touch real loss (a pet, a person moving away). Hold them gently and
+calmly — name the feeling, do not push for disclosure, and never require a learner to
+share a personal loss. A learner may pass or just listen. Reassure the group that sad
+feelings are not a problem to fix; they are a signal of what matters to us. Read
+scenarios aloud for learners still building reading fluency, and keep the tone warm, not
+heavy.
 
 ## Procedure
 

@@ -121,24 +121,22 @@ you both how water moves — and where our fingerprints are on it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **water cycles from
-ocean to cloud to rain to river and ground and back, driven by the Sun upward and
-gravity downward (USGS, S-212; NASA GPM, S-213), and human activity — dams,
-diversions, and pollution — has altered where it goes and who can reach it; billions
-still lack safely managed drinking water (WHO, S-049).** The water cycle is the
-clearest of the three for showing *direction*: energy (the Sun) moves water up, and
-gravity moves it down — which is why damming and diverting water is intervening in a
-flow that gravity already set.
+The idea to land: **water cycles from ocean to cloud to rain to river and ground and
+back, driven by the Sun upward and gravity downward (USGS, S-212; NASA GPM, S-213), and
+human activity — dams, diversions, and pollution — has altered where it goes and who can
+reach it; billions still lack safely managed drinking water (WHO, S-049).** The water
+cycle is the clearest of the three for showing *direction*: energy (the Sun) moves water
+up, and gravity moves it down — which is why damming and diverting water is intervening
+in a flow that gravity already set.
 
 The **environment** lens is core (a physical system). The **ethics** lens: altering a
 shared cycle is a choice with downstream consequences — literally — for people
-downstream. The **egalitarianism** lens: access to clean water is deeply uneven
-(WHO, S-049), and the people whose water is diverted or polluted are rarely the
-people who chose it. The **global** lens: water crosses borders (rivers, aquifers),
-so the cycle is a coordination problem, previewing Lesson 13. The
-**critical-thinking** lens: distinguishing "the cycle is well documented" (evidence)
-from "water is a right that should be shared" (value — a commitment, not a scientific
-claim).
+downstream. The **egalitarianism** lens: access to clean water is deeply uneven (WHO,
+S-049), and the people whose water is diverted or polluted are rarely the people who
+chose it. The **global** lens: water crosses borders (rivers, aquifers), so the cycle is
+a coordination problem, previewing Lesson 13. The **critical-thinking** lens:
+distinguishing "the cycle is well documented" (evidence) from "water is a right that
+should be shared" (value — a commitment, not a scientific claim).
 
 ## Procedure
 

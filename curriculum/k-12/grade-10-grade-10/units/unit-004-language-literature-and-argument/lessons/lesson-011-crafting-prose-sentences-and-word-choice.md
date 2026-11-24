@@ -118,15 +118,14 @@ the same question stands: *what should this sentence do, and how can I make it d
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **style is choice, not
-talent — sentence length creates rhythm and emphasis (short sentences land hard; long
-ones carry and build), and word choice controls precision and connotation (what a word
-means, and what it makes a reader feel).** This is the unit's writing-craft thread
-(Lessons 11–12). Effective adolescent writing is taught with explicit strategies —
-models, sentence-level practice, and revision — not left to intuition (S-102; the
-writing process and explicit strategy instruction are the evidence-backed core). A
-worked example of revision is the key move: show a flat sentence become a crafted one,
-and name *why* each change works.
+The idea to land: **style is choice, not talent — sentence length creates rhythm and
+emphasis (short sentences land hard; long ones carry and build), and word choice
+controls precision and connotation (what a word means, and what it makes a reader
+feel).** This is the unit's writing-craft thread (Lessons 11–12). Effective adolescent
+writing is taught with explicit strategies — models, sentence-level practice, and
+revision — not left to intuition (S-102; the writing process and explicit strategy
+instruction are the evidence-backed core). A worked example of revision is the key move:
+show a flat sentence become a crafted one, and name *why* each change works.
 
 Model the skill once, then let learners practice (worked example → guided practice →
 independent work; S-011). The **intellectual** lens is the spine: revision is where

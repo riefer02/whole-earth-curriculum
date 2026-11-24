@@ -113,21 +113,21 @@ fooled by a chart.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a trend is the
-direction a scatter plot leans; to judge whether data support a conclusion, weigh (1)
-how tight the points hug the trend, (2) how many points there are, and (3) whether the
-claim overreaches — correlation is not causation.** Model the judgment explicitly with
-one worked example (S-011), then let learners judge claims in pairs.
+The idea to land: **a trend is the direction a scatter plot leans; to judge whether data
+support a conclusion, weigh (1) how tight the points hug the trend, (2) how many points
+there are, and (3) whether the claim overreaches — correlation is not causation.** Model
+the judgment explicitly with one worked example (S-011), then let learners judge claims
+in pairs.
 
 The **critical-thinking** lens: the core move is "what would the data have to look like
-for this claim to be true — and does it?" The **ethics** lens: people use weak trends
-to sell products, win arguments, and make policy; reading a trend honestly is a
-protection against being misled and against misleading others. The **egalitarian**
-lens: the same chart-reading skill lets an ordinary person audit a claim made by a
-company or a government — it is a tool of accountability, not a privilege. The
-**technology** lens: charts, dashboards, and "the data says…" are everywhere on
-screens; a trend line is only as honest as the scatter behind it. Preview: Lesson 3
-asks how we know science as a whole is trustworthy.
+for this claim to be true — and does it?" The **ethics** lens: people use weak trends to
+sell products, win arguments, and make policy; reading a trend honestly is a protection
+against being misled and against misleading others. The **egalitarian** lens: the same
+chart-reading skill lets an ordinary person audit a claim made by a company or a
+government — it is a tool of accountability, not a privilege. The **technology** lens:
+charts, dashboards, and "the data says…" are everywhere on screens; a trend line is only
+as honest as the scatter behind it. Preview: Lesson 3 asks how we know science as a
+whole is trustworthy.
 
 ## Procedure
 

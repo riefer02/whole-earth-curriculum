@@ -110,22 +110,23 @@ the Earth takes both, and today you learn why.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) an individual action is one
-a person can do alone, now; a collective action needs many people — and often a rule, a group, or a
-system; (2) they do different jobs — individual actions model values and add up, while collective
-actions change the systems that shape everyone's choices; (3) both matter, and they feed each
-other.** Model the sort once (worked example, S-011). The environment & technology lens: systems
-(transport, energy, waste) are shaped by collective choices, so changing them is a collective act —
-this is the unit's bridge from tools to stewardship. The egalitarian lens: collective action is how
-people with little individual power get a voice; a rule protects everyone, not just those who can
-afford to act. The ethics lens: caring for the Earth is a question of what we owe each other and
-the future. The global lens: people everywhere act both ways — a Kenyan tree-planting movement
-(the Green Belt Movement, S-059) and a household habit are the same two kinds — and stewardship is
-far older than any of these: Indigenous and traditional peoples have cared for land and sea for
-thousands of years through their own knowledge traditions, such as Aboriginal and Torres Strait
-Islander cultural burning (S-320, S-321) and Māori kaitiakitanga (guardianship of the environment),
-held here side by side with modern environmental action, never beneath it. Hold hope and agency
-high; end on what learners *can* do, not despair.
+The ideas to land: **(1) an individual action is one a person can do alone, now; a
+collective action needs many people — and often a rule, a group, or a system; (2) they
+do different jobs — individual actions model values and add up, while collective actions
+change the systems that shape everyone's choices; (3) both matter, and they feed each
+other.** Model the sort once (worked example, S-011). The environment & technology lens:
+systems (transport, energy, waste) are shaped by collective choices, so changing them is
+a collective act — this is the unit's bridge from tools to stewardship. The egalitarian
+lens: collective action is how people with little individual power get a voice; a rule
+protects everyone, not just those who can afford to act. The ethics lens: caring for the
+Earth is a question of what we owe each other and the future. The global lens: people
+everywhere act both ways — a Kenyan tree-planting movement (the Green Belt Movement,
+S-059) and a household habit are the same two kinds — and stewardship is far older than
+any of these: Indigenous and traditional peoples have cared for land and sea for
+thousands of years through their own knowledge traditions, such as Aboriginal and Torres
+Strait Islander cultural burning (S-320, S-321) and Māori kaitiakitanga (guardianship of
+the environment), held here side by side with modern environmental action, never beneath
+it. Hold hope and agency high; end on what learners *can* do, not despair.
 
 ## Procedure
 

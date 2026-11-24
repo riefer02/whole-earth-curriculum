@@ -115,21 +115,23 @@ to ask those questions about the tools themselves.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **civic technology is not neutral —
-it can spread misinformation, enable surveillance, and include or exclude people, and a responsible
-digital citizen asks the five media-literacy questions of every message and platform.** Keep the
-facts hedged and balanced: digital tools genuinely helped organize protests during the 2010–11 Arab
-Spring uprisings, while the same tools also spread misinformation and enabled surveillance (S-391);
-synthetic media can now make it hard to tell real from false (S-393); and access to the internet is
-uneven by cost, geography, and disability (S-281). Present these as documented, weighed risks and
-benefits, not a simple verdict that technology is good or bad. The **technology** lens is the spine.
-The **egalitarian** lens: ask who is excluded — the digital divide means the loudest voices online
-are not the whole public. The **ethics** lens: the same act (sharing a post) can help or harm, so
-intent and care matter. The **global** lens: citizenship and its digital tools look different in
-every country and tradition — none is the default. Use the five questions from media literacy: who
-made this, why, for whom, with what evidence, what is left out (S-063, S-151). Keep questions open
-(philosophy §11); distinguish what a platform *does* (evidence) from what a citizen *should* do
-(values) (philosophy §5). Preview: next we turn to repairing a specific harm — designing a
+The idea to land: **civic technology is not neutral — it can spread misinformation,
+enable surveillance, and include or exclude people, and a responsible digital citizen
+asks the five media-literacy questions of every message and platform.** Keep the facts
+hedged and balanced: digital tools genuinely helped organize protests during the 2010–11
+Arab Spring uprisings, while the same tools also spread misinformation and enabled
+surveillance (S-391); synthetic media can now make it hard to tell real from false
+(S-393); and access to the internet is uneven by cost, geography, and disability
+(S-281). Present these as documented, weighed risks and benefits, not a simple verdict
+that technology is good or bad. The **technology** lens is the spine. The
+**egalitarian** lens: ask who is excluded — the digital divide means the loudest voices
+online are not the whole public. The **ethics** lens: the same act (sharing a post) can
+help or harm, so intent and care matter. The **global** lens: citizenship and its
+digital tools look different in every country and tradition — none is the default. Use
+the five questions from media literacy: who made this, why, for whom, with what
+evidence, what is left out (S-063, S-151). Keep questions open (philosophy §11);
+distinguish what a platform *does* (evidence) from what a citizen *should* do (values)
+(philosophy §5). Preview: next we turn to repairing a specific harm — designing a
 restorative process.
 
 ## Procedure

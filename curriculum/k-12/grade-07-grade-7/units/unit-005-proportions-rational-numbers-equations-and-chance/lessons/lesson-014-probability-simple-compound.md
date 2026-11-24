@@ -114,20 +114,21 @@ weather forecast to a medical decision — and naming it honestly helps everyone
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) **probability** = favourable
-outcomes ÷ total outcomes, always between 0 and 1 (or 0% and 100%); (2) the **sample space** lists
-all outcomes, and a **tree diagram** lays them out; and (3) for a **compound event** of two
-independent parts, multiply the two probabilities. Because probability is a foundational skill, use
-explicit instruction, worked examples, and guided practice before independent work (Kirschner,
-Sweller & Clark, 2006). Watch for the slips of counting outcomes incorrectly (HH and HT and TH and
-TT are four, not three) and of adding instead of multiplying for a compound event. Retrieval: ask
-learners to recall fractions (Lesson 4) — probability *is* a fraction of outcomes — and sampling
-(Lesson 13). The global lens: dice appear in ancient India, Egypt, and Mesopotamia, and probability
-theory grew from 17th-century questions answered by Pascal and Fermat — chance is a shared human
-study. The critical-thinking lens (`docs/philosophy.md` §7): a small number of trials can differ
-from the theory; probability predicts the *long run*, not any single flip. The egalitarian lens
-(`docs/philosophy.md` §4): understanding odds helps anyone judge a game or a claim fairly, and not
-be cheated.
+The ideas to land: (1) **probability** = favourable outcomes ÷ total outcomes, always
+between 0 and 1 (or 0% and 100%); (2) the **sample space** lists all outcomes, and a
+**tree diagram** lays them out; and (3) for a **compound event** of two independent
+parts, multiply the two probabilities. Because probability is a foundational skill, use
+explicit instruction, worked examples, and guided practice before independent work
+(Kirschner, Sweller & Clark, 2006). Watch for the slips of counting outcomes incorrectly
+(HH and HT and TH and TT are four, not three) and of adding instead of multiplying for a
+compound event. Retrieval: ask learners to recall fractions (Lesson 4) — probability
+*is* a fraction of outcomes — and sampling (Lesson 13). The global lens: dice appear in
+ancient India, Egypt, and Mesopotamia, and probability theory grew from 17th-century
+questions answered by Pascal and Fermat — chance is a shared human study. The
+critical-thinking lens (`docs/philosophy.md` §7): a small number of trials can differ
+from the theory; probability predicts the *long run*, not any single flip. The
+egalitarian lens (`docs/philosophy.md` §4): understanding odds helps anyone judge a game
+or a claim fairly, and not be cheated.
 
 ## Procedure
 

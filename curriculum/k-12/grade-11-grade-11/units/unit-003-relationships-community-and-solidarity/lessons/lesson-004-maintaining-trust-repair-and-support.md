@@ -108,11 +108,11 @@ lesson gives you the tools for both.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **repair is a teachable
-skill — listen, take responsibility without excuses, agree on making it right — and it is
-what keeps trust alive when it breaks; support is what keeps it strong between breaks.**
-Model the repair conversation with a worked example, then let learners role-play a
-*small, invented* mistake (never a real, unhealed harm).
+The idea to land: **repair is a teachable skill — listen, take responsibility without
+excuses, agree on making it right — and it is what keeps trust alive when it breaks;
+support is what keeps it strong between breaks.** Model the repair conversation with a
+worked example, then let learners role-play a *small, invented* mistake (never a real,
+unhealed harm).
 
 The **ethics** lens: repair is the moral opposite of defensiveness — it puts rightness
 and the other person ahead of my own pride. The **egalitarian** lens: a genuine apology

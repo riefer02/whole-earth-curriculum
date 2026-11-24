@@ -14,12 +14,18 @@ age-inappropriate.
 3. Check that IDs, fields, and required headings are complete and correct.
 4. Check age-appropriateness, that factual claims carry sources, and that the
    `## Connection` is present, concrete, and faithful to the concept.
-5. Return a concise verdict as your final message — the word `passed` or `blocked`,
-   then one specific note naming what you verified and one concrete observation
-   (which IDs/fields you checked, an example objective or heading). Boilerplate like
-   "passes checks" is a skip, not a review. Do NOT run `loop:review` yourself — the
-   orchestrator records the verdict. Keep it focused: validate + spot-check the
-   highest-risk items; do not exhaustively re-verify what the validator checks.
+5. Run `npm run audit -- --all` and check nothing in your scope *added* to it. The
+   recurring defects it catches are: a facilitator note over ~250 words or written as
+   one unbroken paragraph; a graphic whose labels float free of what they label
+   (marker dots with no leader lines); text running off the SVG canvas; a stick-figure
+   body. These are usability defects, not style preferences — a learner cannot read a
+   diagram whose labels point at nothing.
+Return a concise verdict as your final message — the word `passed` or `blocked`, then
+   one specific note naming what you verified and one concrete observation (which
+   IDs/fields you checked, an example objective or heading). Boilerplate like "passes
+   checks" is a skip, not a review. Do NOT run `loop:review` yourself — the orchestrator
+   records the verdict. Keep it focused: validate + spot-check the highest-risk items;
+   do not exhaustively re-verify what the validator checks.
 
 ## Guardrails
 

@@ -113,17 +113,19 @@ fever chart — the same idea everywhere, from a clinic in Nairobi to a field in
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) a **table** lists pairs of related
-quantities; (2) each pair becomes an **ordered pair (x, y)** on the **coordinate plane** — x across, y up;
-and (3) plotted points can reveal the **relationship** (here, liters = 3 × buckets, a straight line). Model
-a worked example first, then guide a second before independent work (Kirschner, Sweller & Clark, 2006).
-Two common slips: reversing the ordered pair (going up first), and connecting points when the situation
-does not allow in-between values. Retrieval: ask learners to recall first-quadrant plotting from Grade 5 —
-this lesson extends it to a *relationship between two quantities*, with the table feeding the graph. The
-critical-thinking lens: a graph is evidence — reading it carefully, not guessing a trend from one point, is
-honest reasoning (`docs/philosophy.md` §7). Note the global point: coordinate grids trace to Descartes, but
-locating a thing by two distances is older and appears in mapmaking traditions worldwide; data tables are
-as old as bookkeeping and calendars.
+The ideas to land: (1) a **table** lists pairs of related quantities; (2) each pair
+becomes an **ordered pair (x, y)** on the **coordinate plane** — x across, y up; and (3)
+plotted points can reveal the **relationship** (here, liters = 3 × buckets, a straight
+line). Model a worked example first, then guide a second before independent work
+(Kirschner, Sweller & Clark, 2006). Two common slips: reversing the ordered pair (going
+up first), and connecting points when the situation does not allow in-between values.
+Retrieval: ask learners to recall first-quadrant plotting from Grade 5 — this lesson
+extends it to a *relationship between two quantities*, with the table feeding the graph.
+The critical-thinking lens: a graph is evidence — reading it carefully, not guessing a
+trend from one point, is honest reasoning (`docs/philosophy.md` §7). Note the global
+point: coordinate grids trace to Descartes, but locating a thing by two distances is
+older and appears in mapmaking traditions worldwide; data tables are as old as
+bookkeeping and calendars.
 
 ## Procedure
 

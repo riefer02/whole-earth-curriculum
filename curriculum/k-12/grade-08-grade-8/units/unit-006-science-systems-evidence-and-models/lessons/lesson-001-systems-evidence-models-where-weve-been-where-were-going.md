@@ -114,19 +114,20 @@ is taking us.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **opening and retrieval pass**, so
-the goals are modest: **(1) recall three Grade-7 ideas — correlation is not causation (a pattern
-alone does not prove a cause), variation plus inheritance and natural selection shape populations,
-and evidence in fossils, rock layers, and ice cores tells the story of deep time; (2) preview the
-unit's four strands — inquiry, living systems, physical systems, Earth/space — and its eight goals;
-(3) plant the organizing idea: science studies *systems*, builds *models*, and tests them with
-*evidence*.** Do not try to teach the eight goals today; just name and locate them. The
-critical-thinking lens: "correlation is not causation" is the habit we carry forward (S-306, S-355).
-The global lens: the same way of asking questions works everywhere, though the questions and the
-living things differ by place. The ethics lens: honest science distinguishes what the evidence shows
-from what we value — that distinction runs through the whole unit (philosophy §5). Keep origins
-open: nothing here is creed (philosophy §11). Spacing note (S-039): this recall pass is what makes
-the unit's ideas stick later.
+It is the unit's **opening and retrieval pass**, so the goals are modest: **(1) recall
+three Grade-7 ideas — correlation is not causation (a pattern alone does not prove a
+cause), variation plus inheritance and natural selection shape populations, and evidence
+in fossils, rock layers, and ice cores tells the story of deep time; (2) preview the
+unit's four strands — inquiry, living systems, physical systems, Earth/space — and its
+eight goals; (3) plant the organizing idea: science studies *systems*, builds *models*,
+and tests them with *evidence*.** Do not try to teach the eight goals today; just name
+and locate them. The critical-thinking lens: "correlation is not causation" is the habit
+we carry forward (S-306, S-355). The global lens: the same way of asking questions works
+everywhere, though the questions and the living things differ by place. The ethics lens:
+honest science distinguishes what the evidence shows from what we value — that
+distinction runs through the whole unit (philosophy §5). Keep origins open: nothing here
+is creed (philosophy §11). Spacing note (S-039): this recall pass is what makes the
+unit's ideas stick later.
 
 ## Procedure
 

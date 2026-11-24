@@ -109,15 +109,14 @@ and one other place, and notice how they are not the same.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. **No travel is required** — the map and globe are found, not
-journeyed to. **Never rank places:** do not say the other place is more or less than
-home. "No correct place, only the one that is home" applies to every place on the
-map. A globe is the Earth as a ball; a map is one flattened view — both are real
-tools used by people everywhere. For a learner who is blind or has low vision, make
-the map **tactile** — raised lines of string or sand-glue for land, a smooth patch
-for water, a bump for home — so the places can be felt. "Another place" may be any
-place a learner is curious about; let them choose where possible.
+**No travel is required** — the map and globe are found, not journeyed to. **Never rank
+places:** do not say the other place is more or less than home. "No correct place, only
+the one that is home" applies to every place on the map. A globe is the Earth as a ball;
+a map is one flattened view — both are real tools used by people everywhere. For a
+learner who is blind or has low vision, make the map **tactile** — raised lines of
+string or sand-glue for land, a smooth patch for water, a bump for home — so the places
+can be felt. "Another place" may be any place a learner is curious about; let them
+choose where possible.
 
 ## Procedure
 

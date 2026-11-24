@@ -120,23 +120,23 @@ measuring a table, a dose of medicine, or a jump in a long-jump pit.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **every measurement
-carries uncertainty; replicates let you see the spread; the mean centers a set of
-trials and the range shows how much they scatter; random error is scatter around a
-true value, systematic error is a consistent push away from it; precision is how close
-repeats are to each other, accuracy is how close they are to the true value.** Teach
-each pair of terms with a worked example and guided practice (S-011), and model writing
-an uncertainty statement as "value ± spread, with units" (S-249).
+The ideas to land: **every measurement carries uncertainty; replicates let you see the
+spread; the mean centers a set of trials and the range shows how much they scatter;
+random error is scatter around a true value, systematic error is a consistent push away
+from it; precision is how close repeats are to each other, accuracy is how close they
+are to the true value.** Teach each pair of terms with a worked example and guided
+practice (S-011), and model writing an uncertainty statement as "value ± spread, with
+units" (S-249).
 
 The **intellectual** lens: uncertainty is not a flaw to hide but a fact to report —
-knowledge *states its limits*. The **critical-thinking** lens: learners ask "how
-spread out were the trials, and could the tool itself be biased?" before trusting any
-single number. The **ethics** lens: reporting a measurement as more exact than it is is
-a quiet dishonesty; stating uncertainty is honesty. The **egalitarianism** lens:
-everyone's careful measurement counts — pooling many hands' trials is a cooperative
-way to locate a truer value than any one hand can. Preview: Lesson 3 steps back from
-numbers to ask how *different ways of knowing* — scientific, indigenous, artistic —
-each generate and test knowledge.
+knowledge *states its limits*. The **critical-thinking** lens: learners ask "how spread
+out were the trials, and could the tool itself be biased?" before trusting any single
+number. The **ethics** lens: reporting a measurement as more exact than it is is a quiet
+dishonesty; stating uncertainty is honesty. The **egalitarianism** lens: everyone's
+careful measurement counts — pooling many hands' trials is a cooperative way to locate a
+truer value than any one hand can. Preview: Lesson 3 steps back from numbers to ask how
+*different ways of knowing* — scientific, indigenous, artistic — each generate and test
+knowledge.
 
 ## Procedure
 

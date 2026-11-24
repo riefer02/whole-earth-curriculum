@@ -119,14 +119,14 @@ and it is one of the oldest and most human things we do.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **mutual aid as a
-universal human practice, not a charity or a "quaint" custom**: people help because they
-belong to each other, in every culture and time — none is more "advanced" than another.
-Present each example with the same dignity; guard against ranking ("that is old-fashioned"
-or "that is exotic"). Distinguish the *fact* (these traditions exist and are documented)
-from the *value* (helping one another is good). If a learner shares an example from their
-own culture, receive it warmly and let them be its authority. This lesson produces the
-unit's **mutual-aid example** portfolio artifact. See `docs/facilitation.md`.
+The idea to land is **mutual aid as a universal human practice, not a charity or a
+"quaint" custom**: people help because they belong to each other, in every culture and
+time — none is more "advanced" than another. Present each example with the same dignity;
+guard against ranking ("that is old-fashioned" or "that is exotic"). Distinguish the
+*fact* (these traditions exist and are documented) from the *value* (helping one another
+is good). If a learner shares an example from their own culture, receive it warmly and
+let them be its authority. This lesson produces the unit's **mutual-aid example**
+portfolio artifact. See `docs/facilitation.md`.
 
 ## Procedure
 

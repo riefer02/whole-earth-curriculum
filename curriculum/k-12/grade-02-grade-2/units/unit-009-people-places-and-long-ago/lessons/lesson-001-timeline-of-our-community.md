@@ -115,18 +115,17 @@ people begin to tell the story of time.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. **Ordering is a foundational skill, so teach it with a worked
-example first** (Kirschner, Sweller & Clark, 2006): model placing three community
-events on the line, saying "this came first... then... then...," before learners do
-their own. **Keep events recent, local, and gentle** — a baby being born, a festival,
-a new road or school — never frightening or private material. Honor every body and
-every family shape: a learner who is blind or has low vision sequences real objects
-by touch and says or signs the order; a learner who does not use a speaking voice
-points or acts the order. Some families have moved, or have members far away — every
-family's order of recent events is real and worthy, and none is "correct." Remember
-that different peoples mark time in different ways (many calendars, many ways of
-naming years) — a timeline is one tool among many, not the only truth about time.
+**Ordering is a foundational skill, so teach it with a worked example first**
+(Kirschner, Sweller & Clark, 2006): model placing three community events on the line,
+saying "this came first... then... then...," before learners do their own. **Keep events
+recent, local, and gentle** — a baby being born, a festival, a new road or school —
+never frightening or private material. Honor every body and every family shape: a
+learner who is blind or has low vision sequences real objects by touch and says or signs
+the order; a learner who does not use a speaking voice points or acts the order. Some
+families have moved, or have members far away — every family's order of recent events is
+real and worthy, and none is "correct." Remember that different peoples mark time in
+different ways (many calendars, many ways of naming years) — a timeline is one tool
+among many, not the only truth about time.
 
 ## Procedure
 

@@ -119,20 +119,20 @@ is composing — and the medium is other people's art.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **curation has two
-deliberate moves — *selection* (choosing a set that serves a theme) and *order* (arranging
-it so the whole says something more than any part); the written reasoning makes both moves
-explicit.** Teach the two moves with a worked example and guided practice (S-011); the
-theme and the works stay the learner's own.
+The ideas to land: **curation has two deliberate moves — *selection* (choosing a set
+that serves a theme) and *order* (arranging it so the whole says something more than any
+part); the written reasoning makes both moves explicit.** Teach the two moves with a
+worked example and guided practice (S-011); the theme and the works stay the learner's
+own.
 
 The **intellectual** lens: the reasoning "why this, why now, why here" is argument — the
 same muscle as essay-writing, wielded in space. The **critical-thinking** lens: learners
 justify each placement with evidence ("this work comes first because its calm mood sets
 up the urgency of the next"), not just taste. The **global** lens: museums and galleries
-are one way to keep art before the public eye; markets, homes, shrines, and festivals are
-others — curation is a human practice, not a Western invention. The **community** lens:
-curation is a gift to an audience; a good exhibition is *for* someone, and learners name
-who they are curating for.
+are one way to keep art before the public eye; markets, homes, shrines, and festivals
+are others — curation is a human practice, not a Western invention. The **community**
+lens: curation is a gift to an audience; a good exhibition is *for* someone, and
+learners name who they are curating for.
 
 Honor living traditions: if learners include another culture's work, attribution and
 permission matter — the appreciation-versus-appropriation rule from Grade 10 governs

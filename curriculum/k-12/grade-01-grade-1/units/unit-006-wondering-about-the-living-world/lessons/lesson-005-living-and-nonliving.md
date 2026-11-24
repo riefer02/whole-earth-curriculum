@@ -108,17 +108,16 @@ for the living world around us.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The three clues — **grow, move,
-reproduce** — are a first map, not a strict rule; a seed does not look like it moves,
-and a cloud "moves" but is not living. Hold the clues loosely and welcome wonder:
-"living things do these three things — what about this one?" Do not frighten: there
-is no death or harm content here. Model **gentle care**: if a learner finds a live
-creature (an insect, a worm), watch without touching, and return it gently where it
-came from; never hurt a living thing. "Reproduce" is best said to this age as "make
-more of themselves" or "have babies" — with the seed–plant and chick–hen pairs kept
-gentle. Honor every body: sort by pointing, touching, or acting; speaking is one way,
-not the only way. Many cultures name and care for living things differently — honor
-local names and ways.
+The three clues — **grow, move, reproduce** — are a first map, not a strict rule; a seed
+does not look like it moves, and a cloud "moves" but is not living. Hold the clues
+loosely and welcome wonder: "living things do these three things — what about this one?"
+Do not frighten: there is no death or harm content here. Model **gentle care**: if a
+learner finds a live creature (an insect, a worm), watch without touching, and return it
+gently where it came from; never hurt a living thing. "Reproduce" is best said to this
+age as "make more of themselves" or "have babies" — with the seed–plant and chick–hen
+pairs kept gentle. Honor every body: sort by pointing, touching, or acting; speaking is
+one way, not the only way. Many cultures name and care for living things differently —
+honor local names and ways.
 
 ## Procedure
 

@@ -115,18 +115,17 @@ edged for as long as they have grown and built.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It introduces **perimeter** and the
-crucial distinction **perimeter vs. area** — the new skill is measuring around and
-adding the side lengths. Teach with a **worked example** (philosophy §13): lay string
-around a 7-by-3 rectangle, measure 20 units, then add 7 + 3 + 7 + 3 = 20. Emphasize
-the contrast: the string traces the *edge* (perimeter), while the tiles from yesterday
-covered the *inside* (area). Confusing the two is common and normal, so return to the
-fence-and-field picture often (Van de Walle et al., 2019). **No one's speed at
-measuring measures their smartness; walking the edge and adding the sides are both
-valid.** The words "perimeter" and "area" come to us from the Greek and Latin words
-for "around" and "open ground" — real measuring needs, not school inventions. Count in
-the home language. For learners who are Deaf or hard of hearing, trace the edge with
-signs and count steps; for learners who are blind or low-vision, run a finger along
+It introduces **perimeter** and the crucial distinction **perimeter vs. area** — the new
+skill is measuring around and adding the side lengths. Teach with a **worked example**
+(philosophy §13): lay string around a 7-by-3 rectangle, measure 20 units, then add 7 + 3
++ 7 + 3 = 20. Emphasize the contrast: the string traces the *edge* (perimeter), while
+the tiles from yesterday covered the *inside* (area). Confusing the two is common and
+normal, so return to the fence-and-field picture often (Van de Walle et al., 2019). **No
+one's speed at measuring measures their smartness; walking the edge and adding the sides
+are both valid.** The words "perimeter" and "area" come to us from the Greek and Latin
+words for "around" and "open ground" — real measuring needs, not school inventions.
+Count in the home language. For learners who are Deaf or hard of hearing, trace the edge
+with signs and count steps; for learners who are blind or low-vision, run a finger along
 string around the shape and feel the whole way around. Learners with limited movement
 direct a partner to walk or trace. Mastery arrives at its own pace.
 

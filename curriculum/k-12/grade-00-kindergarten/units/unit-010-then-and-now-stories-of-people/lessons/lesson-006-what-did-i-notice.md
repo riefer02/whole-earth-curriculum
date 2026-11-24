@@ -100,11 +100,10 @@ how people learn to understand each other.
 
 ## Facilitator note
 
-Written to the learner ("you") so it works in a classroom and for a self-directed
-learner. This lesson builds noticing as a skill: guide learners from "I liked it"
-toward "I noticed a sound/a word/a picture/a feeling." Honor every honest noticing;
-do not correct a child's response. Model "I noticed..." yourself, and keep turns
-kind so all voices are heard.
+This lesson builds noticing as a skill: guide learners from "I liked it" toward "I
+noticed a sound/a word/a picture/a feeling." Honor every honest noticing; do not correct
+a child's response. Model "I noticed..." yourself, and keep turns kind so all voices are
+heard.
 
 ## Procedure
 

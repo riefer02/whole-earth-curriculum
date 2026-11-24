@@ -115,20 +115,20 @@ power gives x?* — the exponent, written small.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **log_b(x) = y means
-b^y = x; a log turns multiplication into addition (log(x·y) = log x + log y); and a
-log scale spaces powers of ten evenly.** Teach the *inverse* relationship explicitly —
-write "log" as "what power?" — and connect it to the three real scales (S-011).
+The ideas to land: **log_b(x) = y means b^y = x; a log turns multiplication into
+addition (log(x·y) = log x + log y); and a log scale spaces powers of ten evenly.**
+Teach the *inverse* relationship explicitly — write "log" as "what power?" — and connect
+it to the three real scales (S-011).
 
 The **intellectual** lens: a logarithm is the question "what power?" — the inverse of
 "raise b to a power." The **global** lens: John Napier (1614) systematized logarithms
-for computation, but the underlying idea of using powers of ten to count huge
-quantities is far older, appearing in Archimedes' *Sand-Reckoner* — a shared, layered
-history (S-429). The **technology** lens: decibels, pH, and Richter are the log
-scales that instruments and sensors report — reading them is reading a device. The
-**environment** lens: pH measures acidity (rain, soil, oceans), and each unit is a
-tenfold change — a small pH change can mean a large chemical change. Preview: Lesson
-10 uses logs to solve growth and decay.
+for computation, but the underlying idea of using powers of ten to count huge quantities
+is far older, appearing in Archimedes' *Sand-Reckoner* — a shared, layered history
+(S-429). The **technology** lens: decibels, pH, and Richter are the log scales that
+instruments and sensors report — reading them is reading a device. The **environment**
+lens: pH measures acidity (rain, soil, oceans), and each unit is a tenfold change — a
+small pH change can mean a large chemical change. Preview: Lesson 10 uses logs to solve
+growth and decay.
 
 ## Procedure
 

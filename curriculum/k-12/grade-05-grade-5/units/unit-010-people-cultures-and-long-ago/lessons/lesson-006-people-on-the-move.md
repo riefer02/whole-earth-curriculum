@@ -122,15 +122,15 @@ trace how a whole people moved, step by step, across a vast ocean.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **migration is a
-human story of skill and hope, driven by pushes and pulls — not a tale of conquest or of
-"discovering" empty land.** The Polynesian settlement of the Pacific is a powerful example
-precisely because it shows courage, navigation knowledge, and gradual settlement over
-generations. Model the push–pull distinction explicitly (worked example) before learners
-work alone. Be careful with any example that involves one people displacing another: keep
-the focus on the moving people's skill, reasons, and agency, and avoid framing any place as
-"empty" or "waiting to be found." This lesson produces the unit's **migration note**
-portfolio artifact. See `docs/facilitation.md`.
+The idea to land is that **migration is a human story of skill and hope, driven by
+pushes and pulls — not a tale of conquest or of "discovering" empty land.** The
+Polynesian settlement of the Pacific is a powerful example precisely because it shows
+courage, navigation knowledge, and gradual settlement over generations. Model the
+push–pull distinction explicitly (worked example) before learners work alone. Be careful
+with any example that involves one people displacing another: keep the focus on the
+moving people's skill, reasons, and agency, and avoid framing any place as "empty" or
+"waiting to be found." This lesson produces the unit's **migration note** portfolio
+artifact. See `docs/facilitation.md`.
 
 ## Procedure
 

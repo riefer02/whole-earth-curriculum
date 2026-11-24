@@ -105,16 +105,15 @@ seeing clearly.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Comparing and contrasting is a taught skill: model it with a
-worked example — read a passage, then think aloud as you sort "same" and "different"
-details (Kirschner, Sweller & Clark, 2006). Keep the two moves distinct: **compare** =
-how they are alike; **contrast** = how they differ. Anchor every claim in the text: "I
-say they are alike because…" The goal is supported thinking, not right answers. This
-works in any language and writing system — the comparison is about meaning, not script.
-Honor comparisons made in the learner's own language, and invite comparisons that are
-faithful to the text even when worded differently. A learner who is blind or has low
-vision compares from a text heard aloud or read in braille or large print.
+Comparing and contrasting is a taught skill: model it with a worked example — read a
+passage, then think aloud as you sort "same" and "different" details (Kirschner, Sweller
+& Clark, 2006). Keep the two moves distinct: **compare** = how they are alike;
+**contrast** = how they differ. Anchor every claim in the text: "I say they are alike
+because…" The goal is supported thinking, not right answers. This works in any language
+and writing system — the comparison is about meaning, not script. Honor comparisons made
+in the learner's own language, and invite comparisons that are faithful to the text even
+when worded differently. A learner who is blind or has low vision compares from a text
+heard aloud or read in braille or large print.
 
 ## Procedure
 

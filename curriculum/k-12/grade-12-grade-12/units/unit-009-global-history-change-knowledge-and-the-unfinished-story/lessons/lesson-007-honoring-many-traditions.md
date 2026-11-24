@@ -114,27 +114,30 @@ its keepers, protect it from erasure, and help it live into the next generation.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **honoring a tradition is active —
-recognize it as knowledge, credit its keepers, protect it, and pass it on — and it is not the same
-as tolerating, and not the same as taking without credit.** Teach the four honoring acts explicitly
-(S-011). Keep each case accurate and centered on its own people: the griot (jeli/jali) carries
-genealogies and histories orally across generations in West Africa (S-446); the Andean khipu is a
-knotted-cord record-keeping system suppressed under colonial rule and now studied and revived
-(S-473); Timbuktu's manuscripts preserve centuries of scholarship in Arabic and African languages
-(S-201, S-268); language revitalization — kōhanga reo, Pūnana Leo, and others — brings languages
-home (S-428). None is a museum piece; each is living.
+The idea to land: **honoring a tradition is active — recognize it as knowledge, credit
+its keepers, protect it, and pass it on — and it is not the same as tolerating, and not
+the same as taking without credit.** Teach the four honoring acts explicitly (S-011).
+Keep each case accurate and centered on its own people: the griot (jeli/jali) carries
+genealogies and histories orally across generations in West Africa (S-446); the Andean
+khipu is a knotted-cord record-keeping system suppressed under colonial rule and now
+studied and revived (S-473); Timbuktu's manuscripts preserve centuries of scholarship in
+Arabic and African languages (S-201, S-268); language revitalization — kōhanga reo,
+Pūnana Leo, and others — brings languages home (S-428). None is a museum piece; each is
+living.
 
-The **ethics** lens: the line between honoring and taking is credit — using a tradition's knowledge
-while erasing its keepers is not honoring but extraction. The **egalitarianism** lens: these are not
-"minor" traditions of "minor" peoples; they are whole systems of knowledge whose bearers have the
-same dignity as any scholar (S-056). The **global** lens: honoring is recognized worldwide through
-living-heritage and memory-of-the-world frameworks (S-056, S-201) — a shared, cross-cultural
-practice, not one region's virtue. The **technology** lens: digital archives now photograph and
-index the Timbuktu manuscripts and record endangered languages, so tools can *serve* honoring — when
-the keepers, not the tools, decide what is shared. The **environment** lens: many traditions carry
-ecological knowledge (when to burn, plant, harvest) whose loss would also harm the land — honoring
-the tradition and caring for the Earth are one act. Preview: Lesson 8 turns honoring into a claim
-about a more just, flourishing shared story.
+The **ethics** lens: the line between honoring and taking is credit — using a
+tradition's knowledge while erasing its keepers is not honoring but extraction. The
+**egalitarianism** lens: these are not "minor" traditions of "minor" peoples; they are
+whole systems of knowledge whose bearers have the same dignity as any scholar (S-056).
+The **global** lens: honoring is recognized worldwide through living-heritage and
+memory-of-the-world frameworks (S-056, S-201) — a shared, cross-cultural practice, not
+one region's virtue. The **technology** lens: digital archives now photograph and index
+the Timbuktu manuscripts and record endangered languages, so tools can *serve*
+honoring — when the keepers, not the tools, decide what is shared. The **environment**
+lens: many traditions carry ecological knowledge (when to burn, plant, harvest) whose
+loss would also harm the land — honoring the tradition and caring for the Earth are one
+act. Preview: Lesson 8 turns honoring into a claim about a more just, flourishing shared
+story.
 
 ## Procedure
 

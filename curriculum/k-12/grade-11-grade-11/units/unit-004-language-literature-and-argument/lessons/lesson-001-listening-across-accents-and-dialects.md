@@ -119,39 +119,37 @@ the voice. That skill is the doorway to this whole unit.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **accent and dialect
-are natural, complete, rule-governed variation — no way of speaking is "incorrect" —
-and the skilled listener reaches for the main idea instead of grading the voice**
-(S-167). Every language and dialect is a full system of sounds and grammar; the
-varieties linguists call "non-standard" are no less systematic than the "standard"
-ones — the standard is just the variety that happened to be written down and given
-prestige. Linguistic prejudice (judging a speaker's intelligence or worth by their
-accent) is a real, documented form of exclusion, not a neutral preference. Hold this
-as *evidence about language* and *value about fairness* in the same breath, but keep
-them distinct (philosophy §5).
+The idea to land: **accent and dialect are natural, complete, rule-governed variation —
+no way of speaking is "incorrect" — and the skilled listener reaches for the main idea
+instead of grading the voice** (S-167). Every language and dialect is a full system of
+sounds and grammar; the varieties linguists call "non-standard" are no less systematic
+than the "standard" ones — the standard is just the variety that happened to be written
+down and given prestige. Linguistic prejudice (judging a speaker's intelligence or worth
+by their accent) is a real, documented form of exclusion, not a neutral preference. Hold
+this as *evidence about language* and *value about fairness* in the same breath, but
+keep them distinct (philosophy §5).
 
 Model the listening skill once, then let learners practice (worked example → guided
-practice → independent work; S-011). The **global** lens: there are roughly 7,000
-living languages and countless dialects (S-426) — plus signed languages, which are
-complete languages with their own grammars, not "gestured" versions of speech — so
-"one accent for everyone" is not how the world is. The **egalitarian** lens: whose accent is called "clear" and whose
-is called "thick" is a question of power and history, not of clarity itself — the
-same sounds are praised in one mouth and mocked in another. The **ethics** lens: to
-listen fairly is to treat the speaker as a full person, not a specimen of a voice.
-The **social-emotional** lens: noticing the reflex to tune out or mock — in *yourself*
-— is self-awareness; invite, never force, sharing about a time you felt judged for
-how you speak.
+practice → independent work; S-011). The **global** lens: there are roughly 7,000 living
+languages and countless dialects (S-426) — plus signed languages, which are complete
+languages with their own grammars, not "gestured" versions of speech — so "one accent
+for everyone" is not how the world is. The **egalitarian** lens: whose accent is called
+"clear" and whose is called "thick" is a question of power and history, not of clarity
+itself — the same sounds are praised in one mouth and mocked in another. The **ethics**
+lens: to listen fairly is to treat the speaker as a full person, not a specimen of a
+voice. The **social-emotional** lens: noticing the reflex to tune out or mock — in
+*yourself* — is self-awareness; invite, never force, sharing about a time you felt
+judged for how you speak.
 
 **Access.** "Listening" names *attention*, not the ear. Non-hearing learners run the
-same skill through the eyes — reading two written renditions of one message, or
-watching two signers with different signing styles, and catching the main idea from
-the page or the hands. Provide any audio clip with a transcript or captions, and offer
-record sheets in large print and high contrast. This principle — every skill open to
-every mode of attending — carries through the whole unit, from listening across voices
-to bridging between speakers.
+same skill through the eyes — reading two written renditions of one message, or watching
+two signers with different signing styles, and catching the main idea from the page or
+the hands. Provide any audio clip with a transcript or captions, and offer record sheets
+in large print and high contrast. This principle — every skill open to every mode of
+attending — carries through the whole unit, from listening across voices to bridging
+between speakers.
 
-Preview: Lesson 2 turns to the next layer — *assumptions* carried
-inside what is said.
+Preview: Lesson 2 turns to the next layer — *assumptions* carried inside what is said.
 
 ## Procedure
 

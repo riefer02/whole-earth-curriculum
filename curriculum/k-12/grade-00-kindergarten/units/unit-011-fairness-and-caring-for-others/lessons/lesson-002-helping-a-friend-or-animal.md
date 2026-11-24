@@ -101,11 +101,11 @@ matter."
 
 ## Facilitator note
 
-Written to the learner ("you"). Keep help *gentle and safe*: a child never touches a
-strange or wild animal without an adult, and never puts themselves in danger to help.
-Frame caring as a responsibility we *choose*, not a rule to obey. Across cultures
-people care for animals differently — as pets, as working partners, or as wild
-neighbors — and all are valid. Avoid ranking one kind of caring above another.
+Keep help *gentle and safe*: a child never touches a strange or wild animal without an
+adult, and never puts themselves in danger to help. Frame caring as a responsibility we
+*choose*, not a rule to obey. Across cultures people care for animals differently — as
+pets, as working partners, or as wild neighbors — and all are valid. Avoid ranking one
+kind of caring above another.
 
 ## Procedure
 

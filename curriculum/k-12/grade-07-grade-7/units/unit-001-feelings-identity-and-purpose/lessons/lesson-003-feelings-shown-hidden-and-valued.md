@@ -116,16 +116,16 @@ habits, passed down like recipes or songs. Every family, village, and city teach
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) **cultures teach
-"display rules"** — learned norms about which feelings to show, hide, or value — and these
-differ; (2) **norms differ *within* a culture too**, by family, region, and generation, so no
-culture is a single monolith; and (3) **no norm is ranked above another** — this is the
-unit's non-ranking, global-anthropological commitment (the display-rules concept traces to
-Ekman & Friesen, 1969). Use the "some places / other places" phrasing, and let learners
-always return to "it depends." Be careful never to teach one community's way as exotic or
-superior. Model the sort as a worked example (Kirschner, Sweller & Clark, 2006). Distinguish
-**evidence from values**: *that* norms differ is a documented fact; *that* we should honor
-every way without ranking is a value this curriculum holds — name it as one. See
+The ideas to land: (1) **cultures teach "display rules"** — learned norms about which
+feelings to show, hide, or value — and these differ; (2) **norms differ *within* a
+culture too**, by family, region, and generation, so no culture is a single monolith;
+and (3) **no norm is ranked above another** — this is the unit's non-ranking,
+global-anthropological commitment (the display-rules concept traces to Ekman & Friesen,
+1969). Use the "some places / other places" phrasing, and let learners always return to
+"it depends." Be careful never to teach one community's way as exotic or superior. Model
+the sort as a worked example (Kirschner, Sweller & Clark, 2006). Distinguish **evidence
+from values**: *that* norms differ is a documented fact; *that* we should honor every
+way without ranking is a value this curriculum holds — name it as one. See
 `docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure

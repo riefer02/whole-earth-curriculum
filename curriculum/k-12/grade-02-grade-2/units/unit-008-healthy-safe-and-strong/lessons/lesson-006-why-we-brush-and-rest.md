@@ -115,22 +115,22 @@ behind two habits you already practice.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Grade 1 taught the *how*; Grade 2 adds the
-*why* for both brushing and rest. Teach each reason as a worked example, then let learners
-say it back in their own words. **Honor every context:** where brushes or paste are
-unavailable, teach a clean-finger or chewing-stick method without shame. Where a learner
-cannot brush their own teeth, a caregiver or older peer can help — the goal is clean
-teeth, not doing it alone. **Honor every body's rest:** most children this age need about
-9 to 12 hours of sleep (per the American Academy of Sleep Medicine), but families rest in
-different ways and at different rhythms — no family is shamed for how or how much they
-rest. Some learners cannot sleep in a bed of their own; hold this gently and without
-comment. **Care is never a test.** A learner who does not use a speaking voice points or
-signs; a learner who is blind or has low vision is guided hand-over-hand and explains
-aloud. A learner who is deaf or hard of hearing follows the demonstration and picture
-charts from the front, since each step is shown, not only told. The health facts are from
-the World Health Organization (brushing removes food and plaque that can hurt teeth and
-gums) and the American Academy of Sleep Medicine (children 6–12 need about 9–12 hours of
-sleep). This lesson completes the D03.S4.02.01 "why" trio.
+Grade 1 taught the *how*; Grade 2 adds the *why* for both brushing and rest. Teach each
+reason as a worked example, then let learners say it back in their own words. **Honor
+every context:** where brushes or paste are unavailable, teach a clean-finger or
+chewing-stick method without shame. Where a learner cannot brush their own teeth, a
+caregiver or older peer can help — the goal is clean teeth, not doing it alone. **Honor
+every body's rest:** most children this age need about 9 to 12 hours of sleep (per the
+American Academy of Sleep Medicine), but families rest in different ways and at
+different rhythms — no family is shamed for how or how much they rest. Some learners
+cannot sleep in a bed of their own; hold this gently and without comment. **Care is
+never a test.** A learner who does not use a speaking voice points or signs; a learner
+who is blind or has low vision is guided hand-over-hand and explains aloud. A learner
+who is deaf or hard of hearing follows the demonstration and picture charts from the
+front, since each step is shown, not only told. The health facts are from the World
+Health Organization (brushing removes food and plaque that can hurt teeth and gums) and
+the American Academy of Sleep Medicine (children 6–12 need about 9–12 hours of sleep).
+This lesson completes the D03.S4.02.01 "why" trio.
 
 ## Procedure
 

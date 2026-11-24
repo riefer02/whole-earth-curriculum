@@ -113,18 +113,17 @@ once edited and published, just like this.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Editing is a taught step: model it on a shared paragraph with a
-worked example — checking spelling, capitals, and end marks one by one (Kirschner,
-Sweller & Clark, 2006). Remind learners of the difference: revision (last lesson) fixed
-the *ideas*; editing fixes the *mechanics*. A spell checker or dictionary is a helper,
-not a replacement for the learner's own careful eye — and a tool cannot decide for the
-writer what to say. Honor editing in the learner's home language and writing system, and
-honor editing by dictation, braille, or assistive technology. Publishing is the
-celebration: give the piece a real audience — a partner, a group, a class collection, a
-home reader — and honor every finished piece as a real accomplishment, never ranked
-against others. This piece is the unit's portfolio centerpiece: plan, draft, revision,
-and final copy together show the whole journey.
+Editing is a taught step: model it on a shared paragraph with a worked example —
+checking spelling, capitals, and end marks one by one (Kirschner, Sweller & Clark,
+2006). Remind learners of the difference: revision (last lesson) fixed the *ideas*;
+editing fixes the *mechanics*. A spell checker or dictionary is a helper, not a
+replacement for the learner's own careful eye — and a tool cannot decide for the writer
+what to say. Honor editing in the learner's home language and writing system, and honor
+editing by dictation, braille, or assistive technology. Publishing is the celebration:
+give the piece a real audience — a partner, a group, a class collection, a home reader —
+and honor every finished piece as a real accomplishment, never ranked against others.
+This piece is the unit's portfolio centerpiece: plan, draft, revision, and final copy
+together show the whole journey.
 
 ## Procedure
 

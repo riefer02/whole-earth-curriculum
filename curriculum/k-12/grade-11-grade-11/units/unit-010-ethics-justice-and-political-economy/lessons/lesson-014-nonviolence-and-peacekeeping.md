@@ -121,24 +121,24 @@ one of the hardest, questions of this unit.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **nonviolence and
-peacekeeping are two real strategies for meeting conflict without violence — nonviolent
-resistance by ordinary people (Salt March S-390; Defiance Campaign S-146; Montgomery
-S-324; Chipko S-328; Gandhi's satyagraha, S-205), and peacekeeping by an impartial
-third party — and both are to be evaluated, not idealized.** The honest caveat: **they
-succeed under some conditions and have failed in others; and "no war" is not yet
-"just peace" (Galtung's positive/negative peace, S-462).** Hold the question open:
-when nonviolence is *right* and when it is *enough* is a judgment, not a settled fact.
+The idea to land: **nonviolence and peacekeeping are two real strategies for meeting
+conflict without violence — nonviolent resistance by ordinary people (Salt March S-390;
+Defiance Campaign S-146; Montgomery S-324; Chipko S-328; Gandhi's satyagraha, S-205),
+and peacekeeping by an impartial third party — and both are to be evaluated, not
+idealized.** The honest caveat: **they succeed under some conditions and have failed in
+others; and "no war" is not yet "just peace" (Galtung's positive/negative peace,
+S-462).** Hold the question open: when nonviolence is *right* and when it is *enough* is
+a judgment, not a settled fact.
 
 The **ethics** lens: the morality of refusing violence — and of standing between armed
-sides — is the lesson's core. The **egalitarianism** lens: ask of nonviolence whether
-it can work for the powerless, and of peacekeeping whether it truly protects the weak
-or only freezes an unfair peace. The **global** lens: the campaigns span India, South
-Africa, the USA, and India again (Chipko) — nonviolence is no single nation's
-tradition. The **critical-thinking** lens: distinguishing the *fact* that a campaign
-succeeded (evidence) from the *value* that nonviolence is always right (a value to
-argue). This lesson closes the unit; tie it back to Lesson 1's question about
-structure and choice — nonviolence is one way people change structures.
+sides — is the lesson's core. The **egalitarianism** lens: ask of nonviolence whether it
+can work for the powerless, and of peacekeeping whether it truly protects the weak or
+only freezes an unfair peace. The **global** lens: the campaigns span India, South
+Africa, the USA, and India again (Chipko) — nonviolence is no single nation's tradition.
+The **critical-thinking** lens: distinguishing the *fact* that a campaign succeeded
+(evidence) from the *value* that nonviolence is always right (a value to argue). This
+lesson closes the unit; tie it back to Lesson 1's question about structure and choice —
+nonviolence is one way people change structures.
 
 ## Procedure
 

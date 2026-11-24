@@ -117,21 +117,21 @@ three fit — and where they split — is how you learn to tell "this is the law
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **justice, power, and
-law are three distinct things that usually overlap but can come apart — and the
-overlaps are where the interesting trouble is.** Then the critical turn: **law is not
-the same as justice; power is not the same as right. A law can be unjust, and power
-can serve itself (a conceptual point, illustrated with cases, not a claim about any
-specific state).** Introduce **structural violence** — harm built into systems rather
-than done by one hand (Galtung, S-462) — and note that power is distributed unevenly
-across societies (V-Dem, S-461), without ranking any society above another.
+The idea to land: **justice, power, and law are three distinct things that usually
+overlap but can come apart — and the overlaps are where the interesting trouble is.**
+Then the critical turn: **law is not the same as justice; power is not the same as
+right. A law can be unjust, and power can serve itself (a conceptual point, illustrated
+with cases, not a claim about any specific state).** Introduce **structural violence** —
+harm built into systems rather than done by one hand (Galtung, S-462) — and note that
+power is distributed unevenly across societies (V-Dem, S-461), without ranking any
+society above another.
 
 The **ethics** lens: "is this law just?" is the moral question at the center. The
-**egalitarianism** lens: ask of every law and power — who does it serve, and who does
-it leave out? The **global** lens: different societies organize the three differently;
-none is the default. The **critical-thinking** lens: distinguishing "what the law
-*is*" (fact) from "what it *ought* to be" (value). Preview: Lesson 6 argues for
-changing an unjust law.
+**egalitarianism** lens: ask of every law and power — who does it serve, and who does it
+leave out? The **global** lens: different societies organize the three differently; none
+is the default. The **critical-thinking** lens: distinguishing "what the law *is*"
+(fact) from "what it *ought* to be" (value). Preview: Lesson 6 argues for changing an
+unjust law.
 
 ## Procedure
 

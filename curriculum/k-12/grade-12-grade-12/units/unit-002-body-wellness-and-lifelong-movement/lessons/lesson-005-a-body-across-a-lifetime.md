@@ -114,14 +114,13 @@ adaptation and dignity.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description
-plus an explicit value**: the body changes across life — capacities shift and can be
-supported at every age (WHO's functional-capacity-across-the-lifespan framing, S-341) —
-*and* the judgment that every stage carries dignity is a **value we choose**, not a fact
-to prove. Keep the two distinct: "bodies change" is evidence; "aging is not decline" is
-partly evidence (some capacities hold or grow) and partly a values commitment against
-ageism. No single "ideal" body at any age; every stage is a whole stage, not a failed
-younger stage.
+The idea to land, held as **description plus an explicit value**: the body changes
+across life — capacities shift and can be supported at every age (WHO's
+functional-capacity-across-the-lifespan framing, S-341) — *and* the judgment that every
+stage carries dignity is a **value we choose**, not a fact to prove. Keep the two
+distinct: "bodies change" is evidence; "aging is not decline" is partly evidence (some
+capacities hold or grow) and partly a values commitment against ageism. No single
+"ideal" body at any age; every stage is a whole stage, not a failed younger stage.
 
 The **ethics** lens: how we treat aging bodies is a test of how we treat people. The
 **egalitarianism** lens: some bodies change early, some late, some through illness or
@@ -129,8 +128,12 @@ injury — the arc looks different for everyone, and no arc is "lesser." The **g
 lens: cultures honor elders and aging in sharply different ways — some center elders,
 some push them to the edge — and the lesson holds many ways side by side without
 ranking. The **critical-thinking** lens: "decline" is a claim to check, not a word to
-accept — ask *which* capacity, *when*, and *what supports it*. The **technology & environment** lens: a body changing across life meets a built world that either supports it — a rail, a bench, a ramp, a lift — or abandons it, and assistive and medical technology extend what an aging body can do; the difference between a hard old age and a full one is often design, not biology. Preview: Lesson 6 turns
-from the changing body to the dignity that stays constant.
+accept — ask *which* capacity, *when*, and *what supports it*. The **technology &
+environment** lens: a body changing across life meets a built world that either supports
+it — a rail, a bench, a ramp, a lift — or abandons it, and assistive and medical
+technology extend what an aging body can do; the difference between a hard old age and a
+full one is often design, not biology. Preview: Lesson 6 turns from the changing body to
+the dignity that stays constant.
 
 ## Procedure
 

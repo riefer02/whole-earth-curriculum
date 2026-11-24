@@ -117,25 +117,26 @@ a sign of strength; matching your confidence to your evidence is.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **confidence should track the
-evidence — I can say how sure I am and what would change my mind — and this is the middle path
-between dogmatism and cynicism.** Model the confidence sheet and the OPERA example explicitly
-(S-011). This is the unit's deepest "evidence not certainty" move; teach it as a habit of
-honesty, never as doubt for its own sake, and never as a weapon against a learner's values —
-beliefs held as *values* are treated with respect, while *factual* claims are held open to
+The idea to land: **confidence should track the evidence — I can say how sure I am and
+what would change my mind — and this is the middle path between dogmatism and
+cynicism.** Model the confidence sheet and the OPERA example explicitly (S-011). This is
+the unit's deepest "evidence not certainty" move; teach it as a habit of honesty, never
+as doubt for its own sake, and never as a weapon against a learner's values — beliefs
+held as *values* are treated with respect, while *factual* claims are held open to
 evidence.
 
-The **ethics** lens: intellectual honesty is an ethical virtue — the willingness to update a
-belief is respect for the truth over the comfort of being right. The **egalitarianism** lens:
-holding claims open is a leveler — it protects ordinary people from being certain into error by
-the loudest voices, because anyone can ask "what would change your mind?" (S-278). The
-**global** lens: the self-correcting habit is universal to science worldwide — peer review and
-replication are how a community, not any one authority, converges on what is true (S-489).
-The **technology** lens: the flood and the filter bubble reward certainty, because confident,
-simple claims travel fastest — which is exactly why the discipline of tracking evidence is a
-counterweight (S-481). The **environment** lens: on the living Earth, overconfidence about a
-risky claim can do lasting harm, while honest uncertainty lets people act carefully as evidence
-grows (S-005). Preview: Lesson 9 turns to the Earth itself as one interconnected system.
+The **ethics** lens: intellectual honesty is an ethical virtue — the willingness to
+update a belief is respect for the truth over the comfort of being right. The
+**egalitarianism** lens: holding claims open is a leveler — it protects ordinary people
+from being certain into error by the loudest voices, because anyone can ask "what would
+change your mind?" (S-278). The **global** lens: the self-correcting habit is universal
+to science worldwide — peer review and replication are how a community, not any one
+authority, converges on what is true (S-489). The **technology** lens: the flood and the
+filter bubble reward certainty, because confident, simple claims travel fastest — which
+is exactly why the discipline of tracking evidence is a counterweight (S-481). The
+**environment** lens: on the living Earth, overconfidence about a risky claim can do
+lasting harm, while honest uncertainty lets people act carefully as evidence grows
+(S-005). Preview: Lesson 9 turns to the Earth itself as one interconnected system.
 
 ## Procedure
 

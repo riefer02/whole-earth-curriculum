@@ -116,15 +116,15 @@ kitchen anywhere in the world.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **respect and honesty
-are partners, not enemies** — you can say the true thing *and* say it so the other person can
-hear it. Use **invented scenarios only**, never real classmates, so no learner is put on trial
-in front of peers. Model the worked example fully before pairs begin; this is a skill
-(Kirschner, Sweller & Clark, 2006). Watch for the two slips: suppressing the honest thing
-(which turns respect into silence) and blurting blame (which turns honesty into attack). The
-I-statement is the bridge. Note that "conflict" here is ordinary disagreement, not harm or
-bullying — if a learner raises something bigger, hold it privately and connect them to a
-trusted adult. See `docs/facilitation.md` on holding difficult topics safely.
+The idea to land is that **respect and honesty are partners, not enemies** — you can say
+the true thing *and* say it so the other person can hear it. Use **invented scenarios
+only**, never real classmates, so no learner is put on trial in front of peers. Model
+the worked example fully before pairs begin; this is a skill (Kirschner, Sweller &
+Clark, 2006). Watch for the two slips: suppressing the honest thing (which turns respect
+into silence) and blurting blame (which turns honesty into attack). The I-statement is
+the bridge. Note that "conflict" here is ordinary disagreement, not harm or bullying —
+if a learner raises something bigger, hold it privately and connect them to a trusted
+adult. See `docs/facilitation.md` on holding difficult topics safely.
 
 ## Procedure
 

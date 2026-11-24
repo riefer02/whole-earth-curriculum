@@ -122,15 +122,15 @@ four-step path: **recognize** that this is serious, **get safe**, **tell a trust
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is a **calm, empowering
-four-step response** — never fear. Keep every example mild and non-graphic: a bad fall, a fire,
-a person who cannot wake. Do **not** describe injuries in detail or scare learners. Emphasize
-agency: a child's job is to **get safe and get an adult**, and to know the number — not to fix
-the emergency alone. Emergency numbers are **not** the same everywhere: for example 112 (much of
-Europe and many phones worldwide), 999 (United Kingdom and several countries), 000 (Australia),
-911 (United States and Canada), and others (e.g., 119, 110, 10111) elsewhere. Give learners the
-number for **their** place and let families confirm it. Never have learners dial a real
-emergency number in practice. See `docs/facilitation.md` and `docs/contexts.md`.
+The idea to land is a **calm, empowering four-step response** — never fear. Keep every
+example mild and non-graphic: a bad fall, a fire, a person who cannot wake. Do **not**
+describe injuries in detail or scare learners. Emphasize agency: a child's job is to
+**get safe and get an adult**, and to know the number — not to fix the emergency alone.
+Emergency numbers are **not** the same everywhere: for example 112 (much of Europe and
+many phones worldwide), 999 (United Kingdom and several countries), 000 (Australia), 911
+(United States and Canada), and others (e.g., 119, 110, 10111) elsewhere. Give learners
+the number for **their** place and let families confirm it. Never have learners dial a
+real emergency number in practice. See `docs/facilitation.md` and `docs/contexts.md`.
 
 ## Procedure
 

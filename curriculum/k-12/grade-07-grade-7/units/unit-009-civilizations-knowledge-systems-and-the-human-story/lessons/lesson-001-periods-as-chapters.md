@@ -111,19 +111,18 @@ draw the lines.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) the past is
-one continuous line; (2) periods are chapters historians choose to make it manageable;
-(3) the lines are choices, not facts — different peoples draw them differently, and
-that is worth noticing.** Use explicit instruction with the book-chapter worked example
-first, then let learners draw their own lines (Kirschner, Sweller & Clark, 2006). The
-global lens (`docs/philosophy.md` §4): periodization is not universal — "ancient,
-middle, modern" is a mostly European frame; other traditions divide time by dynasties,
-by lunar cycles, by eras of a people's own story. The egalitarian lens: no people's way
-of slicing time is the "correct" one; calling one period scheme "the" timeline silently
-centers one perspective. The critical-thinking lens: question the answer — a period is
-a tool for thinking, not a fact about the world. The ethics lens: who gets to name the
-periods shapes whose story is remembered; naming is a small act of power, handled with
-care.
+The ideas to land: **(1) the past is one continuous line; (2) periods are chapters
+historians choose to make it manageable; (3) the lines are choices, not facts —
+different peoples draw them differently, and that is worth noticing.** Use explicit
+instruction with the book-chapter worked example first, then let learners draw their own
+lines (Kirschner, Sweller & Clark, 2006). The global lens (`docs/philosophy.md` §4):
+periodization is not universal — "ancient, middle, modern" is a mostly European frame;
+other traditions divide time by dynasties, by lunar cycles, by eras of a people's own
+story. The egalitarian lens: no people's way of slicing time is the "correct" one;
+calling one period scheme "the" timeline silently centers one perspective. The
+critical-thinking lens: question the answer — a period is a tool for thinking, not a
+fact about the world. The ethics lens: who gets to name the periods shapes whose story
+is remembered; naming is a small act of power, handled with care.
 
 ## Procedure
 

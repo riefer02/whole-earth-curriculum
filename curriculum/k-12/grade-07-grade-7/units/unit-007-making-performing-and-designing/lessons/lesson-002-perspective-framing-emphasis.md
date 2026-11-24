@@ -124,15 +124,15 @@ and to *make* it, deliberately, in your own, so your message is the one you actu
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Two ideas land together: (1) **perspective,
-framing, and emphasis are choices with effects**, and (2) **feedback is information that
-sharpens the work, not a verdict on the person** (see `docs/assessment.md` on mastery and
-feedback). Model the three choices on the poster, then model giving one *specific, kind*
-feedback note before learners give each other any. Keep the ethics lens visible: the same
-framing tools that make a hero look heroic can make a stranger look dangerous — ask learners
-to notice *who* benefits from an image's choices (egalitarianism), and hold that the tool
-itself is neutral while its *use* has consequences. Feedback stays about the artwork, never
-the learner, and a learner may always choose which feedback to act on.
+Two ideas land together: (1) **perspective, framing, and emphasis are choices with
+effects**, and (2) **feedback is information that sharpens the work, not a verdict on
+the person** (see `docs/assessment.md` on mastery and feedback). Model the three choices
+on the poster, then model giving one *specific, kind* feedback note before learners give
+each other any. Keep the ethics lens visible: the same framing tools that make a hero
+look heroic can make a stranger look dangerous — ask learners to notice *who* benefits
+from an image's choices (egalitarianism), and hold that the tool itself is neutral while
+its *use* has consequences. Feedback stays about the artwork, never the learner, and a
+learner may always choose which feedback to act on.
 
 ## Procedure
 

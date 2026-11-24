@@ -108,18 +108,21 @@ project that truly belongs to the community. Today you learn to design the secon
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **a good cooperative project (1) starts
-with listening — learn the need from the people who live it, not from assumptions ("with, not for"); (2)
-names the need clearly and who is affected; (3) sets a shared goal everyone can see; (4) divides roles so the
-work and the credit are shared fairly — with individual accountability (S-147); (5) builds shared
-decision-making, so power is held together, not by one leader — mutual aid is solidarity among equals, not
-charity from above (S-345); and (6) takes one concrete first step, because a design becomes real only in
-action.** This is a *skill*; use a worked example first, then guided practice (S-011). The egalitarian lens is
-the heart: with, not for — the people affected decide. The ethics lens: helping without listening can harm;
-the first act of care is to ask. The global lens: cooperative and mutual-aid projects exist in every culture
-(S-163, S-164), and this design works in a village or a city, with money or without. The technology/environment
-lens: the project can use tools to organize and reach people, and a good project asks what its effect is on
-the environment. Keep the projects small, doable, and local — the capstone lesson next will launch one.
+The ideas to land: **a good cooperative project (1) starts with listening — learn the
+need from the people who live it, not from assumptions ("with, not for"); (2) names the
+need clearly and who is affected; (3) sets a shared goal everyone can see; (4) divides
+roles so the work and the credit are shared fairly — with individual accountability
+(S-147); (5) builds shared decision-making, so power is held together, not by one
+leader — mutual aid is solidarity among equals, not charity from above (S-345); and (6)
+takes one concrete first step, because a design becomes real only in action.** This is a
+*skill*; use a worked example first, then guided practice (S-011). The egalitarian lens
+is the heart: with, not for — the people affected decide. The ethics lens: helping
+without listening can harm; the first act of care is to ask. The global lens:
+cooperative and mutual-aid projects exist in every culture (S-163, S-164), and this
+design works in a village or a city, with money or without. The technology/environment
+lens: the project can use tools to organize and reach people, and a good project asks
+what its effect is on the environment. Keep the projects small, doable, and local — the
+capstone lesson next will launch one.
 
 ## Procedure
 

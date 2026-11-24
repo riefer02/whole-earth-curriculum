@@ -116,14 +116,14 @@ across about a hundred years and see both at once.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to build is **holding change and
-continuity in view at the same time** — not listing events. Model the Songhai example fully,
-then have learners sort and record. Emphasize that *change and continuity are not opposites
-to choose between*; they happen together. The Songhai example is deliberately West African
-and non-European, and it honors oral tradition (the griots) as a real and enduring way of
-keeping history — a thread that returns in Lesson 5. Guard against the idea that "continuity
-= backward" or "change = progress": both are simply true, and whether a change is good or
-bad is a separate question. See `docs/facilitation.md`.
+The skill to build is **holding change and continuity in view at the same time** — not
+listing events. Model the Songhai example fully, then have learners sort and record.
+Emphasize that *change and continuity are not opposites to choose between*; they happen
+together. The Songhai example is deliberately West African and non-European, and it
+honors oral tradition (the griots) as a real and enduring way of keeping history — a
+thread that returns in Lesson 5. Guard against the idea that "continuity = backward" or
+"change = progress": both are simply true, and whether a change is good or bad is a
+separate question. See `docs/facilitation.md`.
 
 ## Procedure
 

@@ -117,26 +117,28 @@ it is a map — and a map is the first thing you need if you intend to steer.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **nine planetary boundaries
-define the safe operating space of the Holocene, and human activity has crossed several of
-them — an honest, evidence-based finding that must be met with agency, not despair.** Teach the
-boundaries with words, not figures, and pre-print the organizer to offload the numbers (see
-Differentiation). This is the unit's hardest truth; hold it carefully (development.md §9–12):
-name the strain truthfully, never dump despair, and always return to "here is what people are
+The idea to land: **nine planetary boundaries define the safe operating space of the
+Holocene, and human activity has crossed several of them — an honest, evidence-based
+finding that must be met with agency, not despair.** Teach the boundaries with words,
+not figures, and pre-print the organizer to offload the numbers (see Differentiation).
+This is the unit's hardest truth; hold it carefully (development.md §9–12): name the
+strain truthfully, never dump despair, and always return to "here is what people are
 doing and what you can do."
 
-The **ethics** lens: crossing a boundary harms people and other species who did not cause it, so
-knowing the boundaries is an ethical demand to act, not just to know. The **egalitarianism**
-lens: the burdens of crossed boundaries fall unevenly — those who contributed least often feel
-them first and worst — so the boundaries are a question of justice, not only of science (S-005,
-S-006). The **global** lens: boundaries are planetary by definition — the atmosphere, the ocean,
-and the nitrogen cycle do not respect borders, so the response must be shared across the world
-(S-005). The **technology** lens: technology is part of both sides — it powered the overshoot,
-and it also measures the boundaries and can help bring human activity back inside them — which
-is why the unit treats technology as neither savior nor villain (S-006). The **environment**
-lens: the framework is the unit's core environmental fact — climate change, biodiversity loss,
-and the other crossed boundaries are documented by the IPCC and IPBES, not speculation (S-005,
-S-437, S-507). Preview: Lesson 11 turns inward — your own place in this living world.
+The **ethics** lens: crossing a boundary harms people and other species who did not
+cause it, so knowing the boundaries is an ethical demand to act, not just to know. The
+**egalitarianism** lens: the burdens of crossed boundaries fall unevenly — those who
+contributed least often feel them first and worst — so the boundaries are a question of
+justice, not only of science (S-005, S-006). The **global** lens: boundaries are
+planetary by definition — the atmosphere, the ocean, and the nitrogen cycle do not
+respect borders, so the response must be shared across the world (S-005). The
+**technology** lens: technology is part of both sides — it powered the overshoot, and it
+also measures the boundaries and can help bring human activity back inside them — which
+is why the unit treats technology as neither savior nor villain (S-006). The
+**environment** lens: the framework is the unit's core environmental fact — climate
+change, biodiversity loss, and the other crossed boundaries are documented by the IPCC
+and IPBES, not speculation (S-005, S-437, S-507). Preview: Lesson 11 turns inward — your
+own place in this living world.
 
 ## Procedure
 

@@ -113,21 +113,21 @@ tell them apart. Today you learn to slow the storm down and name each part.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a strong reaction has
-three parts — event, thought, feeling — and the thought is the hinge between the event and
-the feeling.** This is a *skill* for novices, so teach it with explicit instruction: model
-the frame once, out loud and step by step (a worked example — Kirschner, Sweller & Clark
-2006, S-011), then guided practice before independent work. The frame draws on the ABC model
-of cognitive-behavioral approaches (activating event, beliefs, consequences — see S-332),
+The idea to land: **a strong reaction has three parts — event, thought, feeling — and
+the thought is the hinge between the event and the feeling.** This is a *skill* for
+novices, so teach it with explicit instruction: model the frame once, out loud and step
+by step (a worked example — Kirschner, Sweller & Clark 2006, S-011), then guided
+practice before independent work. The frame draws on the ABC model of
+cognitive-behavioral approaches (activating event, beliefs, consequences — see S-332),
 used here descriptively, not therapeutically. The *ethics* lens: separating parts lets a
-learner see that a reaction is not a single fact — it is partly a *story*, and stories can
-be checked before they hurt someone. The *egalitarian* lens: no learner's feeling is judged
-"too much" or "wrong"; the point is clarity, not ranking. The *global* lens: the same event
-(spilled water, a silence, a raised voice) is read through different thoughts in different
-families and cultures, so the *same* event really can mean different things to different
-people. The *critical-thinking* lens: the frame is a tool for questioning one's own first
-take, not for insisting on one "right" thought. Keep learners on small, safe reactions;
-never require disclosure of painful material.
+learner see that a reaction is not a single fact — it is partly a *story*, and stories
+can be checked before they hurt someone. The *egalitarian* lens: no learner's feeling is
+judged "too much" or "wrong"; the point is clarity, not ranking. The *global* lens: the
+same event (spilled water, a silence, a raised voice) is read through different thoughts
+in different families and cultures, so the *same* event really can mean different things
+to different people. The *critical-thinking* lens: the frame is a tool for questioning
+one's own first take, not for insisting on one "right" thought. Keep learners on small,
+safe reactions; never require disclosure of painful material.
 
 ## Procedure
 

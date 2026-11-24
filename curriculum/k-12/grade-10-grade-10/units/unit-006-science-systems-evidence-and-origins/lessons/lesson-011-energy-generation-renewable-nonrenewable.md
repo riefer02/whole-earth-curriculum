@@ -111,23 +111,23 @@ and **renewable** — and knowing how each works is the first step to choosing a
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **energy is never
-created or destroyed, only converted; most electricity comes from spinning a turbine to
-turn a generator; nonrenewable sources burn stored fuels or split atoms, while
-renewable sources tap flows that keep coming (sun, wind, water, Earth's heat,
-biomass).** Teach the turbine→generator step explicitly (S-011) and have learners trace
-the chain for each source. Keep it faithful: renewables are "flow-limited" and not
-without cost (a point for Lesson 12), but they do not run out the way fuels do (S-095).
+The idea to land: **energy is never created or destroyed, only converted; most
+electricity comes from spinning a turbine to turn a generator; nonrenewable sources burn
+stored fuels or split atoms, while renewable sources tap flows that keep coming (sun,
+wind, water, Earth's heat, biomass).** Teach the turbine→generator step explicitly
+(S-011) and have learners trace the chain for each source. Keep it faithful: renewables
+are "flow-limited" and not without cost (a point for Lesson 12), but they do not run out
+the way fuels do (S-095).
 
 The **technology** lens: the generator — magnets moving in a coil — is the shared
 machine behind nearly all electricity (S-360); photovoltaics are the direct-conversion
 exception. The **environment** lens: whether a source is renewable shapes its
-environmental footprint, which Lesson 12 weighs in full. The **egalitarian** lens:
-about one person in every ten on Earth still lives without electricity, and energy
-access is a justice question — who gets light, cooking fuel, and power, and who is left
-in the dark. The **global** lens: the same physics works everywhere, but what a region
-uses depends on what it has — sun, rivers, wind, coal, or uranium — so energy systems
-look different around the world. Preview: Lesson 12 turns to the trade-offs.
+environmental footprint, which Lesson 12 weighs in full. The **egalitarian** lens: about
+one person in every ten on Earth still lives without electricity, and energy access is a
+justice question — who gets light, cooking fuel, and power, and who is left in the dark.
+The **global** lens: the same physics works everywhere, but what a region uses depends
+on what it has — sun, rivers, wind, coal, or uranium — so energy systems look different
+around the world. Preview: Lesson 12 turns to the trade-offs.
 
 ## Procedure
 

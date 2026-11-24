@@ -124,18 +124,18 @@ choose on purpose instead of by accident.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **every design choice
-trades off cost, materials, function, and environmental impact, and a good designer names the
-trade-off rather than hiding from it** — a learner should be able to compare two objects on
-all four factors and defend a choice for a stated need. Model the bottle table fully (explicit
-instruction for a novice skill — Kirschner, Sweller & Clark, 2006). Keep the values honest and
-non-ranking: there is no single "right" material, and what is "best" depends on the need and
-the place — a clay pot makes sense where clay and fire are local, a metal pot where durability
-and long life matter. Hold the environment lens without doom: the point is agency, not guilt —
-a learner who can *name* the trade-off can make a better one. Note the egalitarian lens too:
-the cheapest option is often the only option some people can afford, so blaming individuals
-for "choosing plastic" misses the design-and-policy choices that made it the affordable
-default.
+The idea to land is that **every design choice trades off cost, materials, function, and
+environmental impact, and a good designer names the trade-off rather than hiding from
+it** — a learner should be able to compare two objects on all four factors and defend a
+choice for a stated need. Model the bottle table fully (explicit instruction for a
+novice skill — Kirschner, Sweller & Clark, 2006). Keep the values honest and
+non-ranking: there is no single "right" material, and what is "best" depends on the need
+and the place — a clay pot makes sense where clay and fire are local, a metal pot where
+durability and long life matter. Hold the environment lens without doom: the point is
+agency, not guilt — a learner who can *name* the trade-off can make a better one. Note
+the egalitarian lens too: the cheapest option is often the only option some people can
+afford, so blaming individuals for "choosing plastic" misses the design-and-policy
+choices that made it the affordable default.
 
 ## Procedure
 

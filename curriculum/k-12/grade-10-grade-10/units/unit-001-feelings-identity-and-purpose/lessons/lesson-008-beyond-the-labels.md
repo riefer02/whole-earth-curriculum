@@ -115,15 +115,15 @@ down and ask, quietly: *what is true of me, regardless of what I have been calle
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) labels and
-expectations are external — they say more about who is doing the labeling than about the
-truth of the person labeled; (2) a negative label, made salient, can become a real weight
-(stereotype threat) that shapes performance and self-image, which shows that labels have
-consequences and are not merely "words"; (3) inner worth is not the same as outside
-approval — and a considered position on what defines me stands on what is true of me, not
-on what I have been called.** The stereotype-threat claim is a well-replicated finding
-(S-284), presented as *descriptive*, not as a verdict about any learner; the
-worth-vs-approval distinction is a value commitment (philosophy §4, §8, §11).
+The ideas to land: **(1) labels and expectations are external — they say more about who
+is doing the labeling than about the truth of the person labeled; (2) a negative label,
+made salient, can become a real weight (stereotype threat) that shapes performance and
+self-image, which shows that labels have consequences and are not merely "words"; (3)
+inner worth is not the same as outside approval — and a considered position on what
+defines me stands on what is true of me, not on what I have been called.** The
+stereotype-threat claim is a well-replicated finding (S-284), presented as
+*descriptive*, not as a verdict about any learner; the worth-vs-approval distinction is
+a value commitment (philosophy §4, §8, §11).
 
 Model the skill once, then let learners practice (S-011). The **egalitarian** lens:
 labels are not handed out equally — some people are labeled more, and more harmfully,
@@ -133,12 +133,12 @@ another person can build or confine them, so we bear a small responsibility for 
 labels we pass on. The **global** lens: what counts as a "good" or "bad" label varies
 across cultures — the same trait praised in one place may be belittled in another —
 which shows how little a label tells you about a person's worth. The **technology &
-environment** lens: feeds and platforms sort people into categories and show them
-narrow images of "who someone like me is" (recall Lesson 3) — a digital version of
-labeling that a considered position must see through. The **social-emotional** lens:
-this lesson can touch real wounds; invite, never force, let "pass" stand, and watch for
-learners who may be carrying a heavy label. Keep the tone gentle and dignifying: the
-point is *freedom from* labels, not a new ranking of who has suffered most.
+environment** lens: feeds and platforms sort people into categories and show them narrow
+images of "who someone like me is" (recall Lesson 3) — a digital version of labeling
+that a considered position must see through. The **social-emotional** lens: this lesson
+can touch real wounds; invite, never force, let "pass" stand, and watch for learners who
+may be carrying a heavy label. Keep the tone gentle and dignifying: the point is
+*freedom from* labels, not a new ranking of who has suffered most.
 
 ## Procedure
 

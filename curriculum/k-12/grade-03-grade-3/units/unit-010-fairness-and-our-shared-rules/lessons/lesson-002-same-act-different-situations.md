@@ -118,20 +118,20 @@ changes what an act means.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **context**: an act's meaning
-depends on the situation and its effect on others, not on a fixed label. It builds
-directly on Grade 2's right-and-wrong with a reason, but complicates it honestly — the
-same act can sit on both sides of the line, and that is *why* we must think rather
-than follow a rule blindly. Use gentle, concrete pairs and wonder aloud rather than
-assert: "what does this act *do* in this situation?" Keep the framing blame-free; the
-point is never to excuse harm ("I was just warning them") but to teach that *meaning
-depends on effect and intent together*, and that is a question to keep open. A learner
-who does not speak aloud points to the two situations or signs; a learner who is deaf
-or hard of hearing follows each pair through the cards and sign; a learner who is blind
-or low-vision hears each situation described and names why the act changed meaning; a
-learner with a motor difference can direct a partner to act the puppets. A learner may
-always pass. The goal is the learner's own explanation — "the same act was good here
-and not good there because…" — not a memorized phrase.
+This lesson teaches **context**: an act's meaning depends on the situation and its
+effect on others, not on a fixed label. It builds directly on Grade 2's right-and-wrong
+with a reason, but complicates it honestly — the same act can sit on both sides of the
+line, and that is *why* we must think rather than follow a rule blindly. Use gentle,
+concrete pairs and wonder aloud rather than assert: "what does this act *do* in this
+situation?" Keep the framing blame-free; the point is never to excuse harm ("I was just
+warning them") but to teach that *meaning depends on effect and intent together*, and
+that is a question to keep open. A learner who does not speak aloud points to the two
+situations or signs; a learner who is deaf or hard of hearing follows each pair through
+the cards and sign; a learner who is blind or low-vision hears each situation described
+and names why the act changed meaning; a learner with a motor difference can direct a
+partner to act the puppets. A learner may always pass. The goal is the learner's own
+explanation — "the same act was good here and not good there because…" — not a memorized
+phrase.
 
 ## Procedure
 

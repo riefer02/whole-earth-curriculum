@@ -116,20 +116,21 @@ Stevin helped popularize them in Europe in 1585, but the idea is a shared human 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) **add/subtract** fractions
-by first making a **common denominator**, then adding the numerators; (2) **multiply** fractions
-by multiplying across (numerators × numerators, denominators × denominators), which is "a fraction
-of a fraction"; (3) **divide** by a fraction by **multiplying by its reciprocal** ("how many of
-these fit in that"); and (4) decimal operations follow whole-number rules plus **place value**.
-Because these are foundational skills, use explicit instruction, worked examples, and guided
-practice before independent work (Kirschner, Sweller & Clark, 2006). Watch for the slips of
-adding denominators when adding fractions, and of forgetting to flip the divisor when dividing.
-Retrieval: ask learners to recall ratios and unit rates — a unit rate like (2/3) ÷ (1/4) is
-fraction division in disguise. The global lens: decimal place-value notation developed in India
-(by the 7th century CE) and was transmitted through the Arab world to Europe; Simon Stevin's
-*De Thiende* (1585) argued for decimal fractions in commerce — the ideas are shared human
-achievements. The egalitarian lens (`docs/philosophy.md` §4): these operations are tools everyone
-can own; there is no "math person" — only people who have or haven't yet been shown the steps.
+The ideas to land: (1) **add/subtract** fractions by first making a **common
+denominator**, then adding the numerators; (2) **multiply** fractions by multiplying
+across (numerators × numerators, denominators × denominators), which is "a fraction of a
+fraction"; (3) **divide** by a fraction by **multiplying by its reciprocal** ("how many
+of these fit in that"); and (4) decimal operations follow whole-number rules plus
+**place value**. Because these are foundational skills, use explicit instruction, worked
+examples, and guided practice before independent work (Kirschner, Sweller & Clark,
+2006). Watch for the slips of adding denominators when adding fractions, and of
+forgetting to flip the divisor when dividing. Retrieval: ask learners to recall ratios
+and unit rates — a unit rate like (2/3) ÷ (1/4) is fraction division in disguise. The
+global lens: decimal place-value notation developed in India (by the 7th century CE) and
+was transmitted through the Arab world to Europe; Simon Stevin's *De Thiende* (1585)
+argued for decimal fractions in commerce — the ideas are shared human achievements. The
+egalitarian lens (`docs/philosophy.md` §4): these operations are tools everyone can own;
+there is no "math person" — only people who have or haven't yet been shown the steps.
 
 ## Procedure
 

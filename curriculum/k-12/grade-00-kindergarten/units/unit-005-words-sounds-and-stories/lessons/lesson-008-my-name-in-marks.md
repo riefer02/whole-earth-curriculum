@@ -103,12 +103,11 @@ you wherever it is written, and writing it is a way of saying "this is me."
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Write each name in the learner's **home writing system** — this
-may be Latin, Arabic, Devanagari, Chinese characters, Cyrillic, or another script. If
-a child's name uses more than one script, write it in each. Never "correct" a name's
-spelling into a different script or language. A name is a gift and a belonging; honor
-it exactly as the family gives it.
+Write each name in the learner's **home writing system** — this may be Latin, Arabic,
+Devanagari, Chinese characters, Cyrillic, or another script. If a child's name uses more
+than one script, write it in each. Never "correct" a name's spelling into a different
+script or language. A name is a gift and a belonging; honor it exactly as the family
+gives it.
 
 ## Procedure
 

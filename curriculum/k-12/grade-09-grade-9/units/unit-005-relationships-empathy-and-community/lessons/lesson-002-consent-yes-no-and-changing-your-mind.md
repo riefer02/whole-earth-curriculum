@@ -106,18 +106,21 @@ honestly, and hear "no" without making it hurt.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **consent is (1) freely given — not
-pressured, not assumed, not owed; (2) reversible — anyone can change their mind at any point, and a later
-"no" overrides an earlier "yes"; (3) informed — everyone knows what they are agreeing to; (4) enthusiastic — a genuine yes, not a reluctant shrug; and (5) specific — yes
-to one thing is not yes to everything.** Use the
-"FRIES" memory aid (freely given, reversible, informed, enthusiastic, specific). This is a *skill*, so model
-an ask-and-answer pair fully before learners practice (S-011). The ethics lens: respect for another's
-autonomy is the ground of care. The egalitarian lens: everyone's body, belongings, and choices deserve the
-same respect, no matter their age, status, or gender — and power differences (popularity, age, authority)
-can make a "yes" not truly free, so watch for them. The global lens: the *principle* — that a person must
-freely agree — is shared across cultures, even though customs about how to ask and show agreement differ.
-The technology lens: consent applies online too — asking before sharing a photo, tagging, or posting about
-someone. Keep it ordinary and non-frightening; this is about everyday autonomy, not only about sex.
+The ideas to land: **consent is (1) freely given — not pressured, not assumed, not owed;
+(2) reversible — anyone can change their mind at any point, and a later "no" overrides
+an earlier "yes"; (3) informed — everyone knows what they are agreeing to; (4)
+enthusiastic — a genuine yes, not a reluctant shrug; and (5) specific — yes to one thing
+is not yes to everything.** Use the "FRIES" memory aid (freely given, reversible,
+informed, enthusiastic, specific). This is a *skill*, so model an ask-and-answer pair
+fully before learners practice (S-011). The ethics lens: respect for another's autonomy
+is the ground of care. The egalitarian lens: everyone's body, belongings, and choices
+deserve the same respect, no matter their age, status, or gender — and power differences
+(popularity, age, authority) can make a "yes" not truly free, so watch for them. The
+global lens: the *principle* — that a person must freely agree — is shared across
+cultures, even though customs about how to ask and show agreement differ. The technology
+lens: consent applies online too — asking before sharing a photo, tagging, or posting
+about someone. Keep it ordinary and non-frightening; this is about everyday autonomy,
+not only about sex.
 
 ## Procedure
 

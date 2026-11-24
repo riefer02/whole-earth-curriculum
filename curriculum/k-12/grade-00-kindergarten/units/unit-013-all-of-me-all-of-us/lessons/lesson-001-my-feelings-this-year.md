@@ -106,11 +106,11 @@ movement. Remembering your feelings helps you see how much you have grown.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is a reflective close to the
-year, not a test. Help each learner recall feelings from across the year — their own,
-not a "correct" answer. Every feeling is welcome; there are no right or wrong
-feelings. Honor that families and cultures express feelings differently, and let each
-child show their feeling in the way that feels natural to them.
+This is a reflective close to the year, not a test. Help each learner recall feelings
+from across the year — their own, not a "correct" answer. Every feeling is welcome;
+there are no right or wrong feelings. Honor that families and cultures express feelings
+differently, and let each child show their feeling in the way that feels natural to
+them.
 
 ## Procedure
 

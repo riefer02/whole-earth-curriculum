@@ -117,17 +117,16 @@ labeling — it is *seeing* more clearly what you feel.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) emotion words
-vary across languages and cultures, and a culture's words shape what its members can
-easily notice and name; (2) precise emotion words ("emotional granularity") are
-associated with finer-grained experience and better regulation.** The first is a
-well-documented linguistic and anthropological fact; the second comes from the
-constructed-emotion literature, which holds that richer emotion vocabulary is
-associated with more differentiated experience and better regulation (S-401), and from
-the labeling tradition (S-015). Hold both as *descriptions*, not laws: a person with
-few emotion words still feels deeply, and **no language is "richer" or "better" than
-another — each opens some doors and, like all languages, leaves others to be opened by
-words or gestures** (philosophy §4, §11).
+The ideas to land: **(1) emotion words vary across languages and cultures, and a
+culture's words shape what its members can easily notice and name; (2) precise emotion
+words ("emotional granularity") are associated with finer-grained experience and better
+regulation.** The first is a well-documented linguistic and anthropological fact; the
+second comes from the constructed-emotion literature, which holds that richer emotion
+vocabulary is associated with more differentiated experience and better regulation
+(S-401), and from the labeling tradition (S-015). Hold both as *descriptions*, not laws:
+a person with few emotion words still feels deeply, and **no language is "richer" or
+"better" than another — each opens some doors and, like all languages, leaves others to
+be opened by words or gestures** (philosophy §4, §11).
 
 Model the skill once, then let learners practice (S-011). The **global** lens is the
 heart of this lesson: treat every home language as a bearer of dignity and wealth, and

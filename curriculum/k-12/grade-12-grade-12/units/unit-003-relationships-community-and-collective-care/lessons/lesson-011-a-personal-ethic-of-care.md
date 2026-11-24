@@ -122,12 +122,12 @@ asks you to write yours.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a personal ethic is a
-value plus a commitment — what I hold matters, and what I will therefore do — and putting
-it into words is what makes it liveable and examinable.** Mutual aid is a well-documented
-human practice (Kropotkin, S-163), and the care-vs-charity distinction (where the power
-sits) is a real one (Spade, S-345). Hold "care is good" as a value the curriculum
-affirms, distinct from the *fact* that mutual aid traditions are widespread.
+The idea to land: **a personal ethic is a value plus a commitment — what I hold matters,
+and what I will therefore do — and putting it into words is what makes it liveable and
+examinable.** Mutual aid is a well-documented human practice (Kropotkin, S-163), and the
+care-vs-charity distinction (where the power sits) is a real one (Spade, S-345). Hold
+"care is good" as a value the curriculum affirms, distinct from the *fact* that mutual
+aid traditions are widespread.
 
 The **ethics** lens: this is the lesson where the learner states, rather than only
 analyzes, what they hold right — the capstone of the unit's ethical strand. The

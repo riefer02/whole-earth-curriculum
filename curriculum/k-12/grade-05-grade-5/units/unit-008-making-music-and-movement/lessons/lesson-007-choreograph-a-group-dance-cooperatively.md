@@ -118,14 +118,14 @@ choreographers.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **cooperation as the
-craft**: the group shapes the piece together, and every body belongs. Model the
-beginning–middle–end structure in movement before groups begin (a worked example). Watch
-for one person dominating or others drifting out — name the norm gently: "in this piece,
-everyone has a part, and the lead passes around." Honor every body: some learners move
-differently or use chairs or wheels; a dance includes them fully, and their movement is
-the dance, not an exception. No ranking of "better dancers." See `docs/facilitation.md`
-and `docs/contexts.md` on cooperative group work and including all bodies.
+The idea to land is **cooperation as the craft**: the group shapes the piece together,
+and every body belongs. Model the beginning–middle–end structure in movement before
+groups begin (a worked example). Watch for one person dominating or others drifting
+out — name the norm gently: "in this piece, everyone has a part, and the lead passes
+around." Honor every body: some learners move differently or use chairs or wheels; a
+dance includes them fully, and their movement is the dance, not an exception. No ranking
+of "better dancers." See `docs/facilitation.md` and `docs/contexts.md` on cooperative
+group work and including all bodies.
 
 ## Procedure
 

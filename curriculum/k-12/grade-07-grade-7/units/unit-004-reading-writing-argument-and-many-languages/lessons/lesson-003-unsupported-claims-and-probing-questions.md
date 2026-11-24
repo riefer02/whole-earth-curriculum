@@ -116,16 +116,15 @@ A probing question is not an attack; it is a door you open together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **a probing
-question asks for the missing support or tests an assumption — and it can be asked
-kindly**. Model the tone as much as the words: "I wonder how we know that," not "prove
-it!" Use worked examples before practice (Kirschner, Sweller & Clark, 2006). Where
-questioning adults is culturally risky, frame questions as *wondering together*, and
-offer an anonymous "wonder box" for written questions (see `docs/contexts.md`). The four
-lenses: *ethics* (questioning to protect, not to wound); *egalitarianism* (anyone can ask;
-questioning power, gently, is a shared right); *global* (question-stems travel across
-languages); *social-emotional* (curiosity feels different from attack — practice the warm
-tone). Keep claims small and safe.
+The idea to land is that **a probing question asks for the missing support or tests an
+assumption — and it can be asked kindly**. Model the tone as much as the words: "I
+wonder how we know that," not "prove it!" Use worked examples before practice
+(Kirschner, Sweller & Clark, 2006). Where questioning adults is culturally risky, frame
+questions as *wondering together*, and offer an anonymous "wonder box" for written
+questions (see `docs/contexts.md`). The four lenses: *ethics* (questioning to protect,
+not to wound); *egalitarianism* (anyone can ask; questioning power, gently, is a shared
+right); *global* (question-stems travel across languages); *social-emotional* (curiosity
+feels different from attack — practice the warm tone). Keep claims small and safe.
 
 ## Procedure
 

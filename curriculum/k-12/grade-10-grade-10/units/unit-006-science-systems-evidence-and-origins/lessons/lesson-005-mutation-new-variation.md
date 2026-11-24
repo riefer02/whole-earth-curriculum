@@ -112,25 +112,25 @@ adapt when the world changes.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a mutation is a
-change in the DNA sequence; substitutions, insertions, and deletions have different
-effects; most are neutral, some are harmful, a few are beneficial; and mutagens raise
-the rate of change.** Teach the three types explicitly on a letter string (S-011), then
-let learners mutate and classify. Keep the values honest and non-eugenic: variation is
-normal, not a "defect," and a mutation's value depends on context — the same change can
-help in one environment and harm in another.
+The idea to land: **a mutation is a change in the DNA sequence; substitutions,
+insertions, and deletions have different effects; most are neutral, some are harmful, a
+few are beneficial; and mutagens raise the rate of change.** Teach the three types
+explicitly on a letter string (S-011), then let learners mutate and classify. Keep the
+values honest and non-eugenic: variation is normal, not a "defect," and a mutation's
+value depends on context — the same change can help in one environment and harm in
+another.
 
 The **ethics** lens: how we talk about genetic difference matters — calling a person
 "defective" because of a variant is a value judgment, not a fact. The **egalitarian**
-lens: genetic variation is ordinary and universal; disability and difference are part
-of the human range, and every person's worth is equal regardless of their sequence. The
+lens: genetic variation is ordinary and universal; disability and difference are part of
+the human range, and every person's worth is equal regardless of their sequence. The
 **technology** lens: mutagens (radiation, certain chemicals, some viruses) raise
 mutation rates, which is why safety rules and screening exist; and gene-editing tools
 now let us change sequences on purpose — a power with real ethical weight. The
 **global** lens: beneficial mutations — like the one that lets many adults digest milk
 (lactose tolerance) — spread differently in different human populations depending on
-history and diet (S-177). Preview: Lesson 6 asks how the environment shapes which
-genes are *used* — expression.
+history and diet (S-177). Preview: Lesson 6 asks how the environment shapes which genes
+are *used* — expression.
 
 ## Procedure
 

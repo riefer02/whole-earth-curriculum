@@ -123,17 +123,15 @@ means honest, the same idea as a fair game where everyone follows the same rules
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"), so it works in a classroom and for a
-self-directed learner. The core skill — *change one thing, keep the rest the same* — is
-a foundational inquiry skill, so teach it with a **worked example and guided practice**
-before independent planning (Kirschner, Sweller & Clark, 2006): you model the ramp
-test once, then pairs plan their own. Keep it joyful and honest: a fair test is about
-trust, not trickery, and it connects naturally to the fairness learners already care
-about in games and sharing (the egalitarian lens). Where a "right" answer is not known
-ahead of time — and sometimes we cannot test a thing at all — that is not a failure;
-it is the edge of what we can find out. This lesson sets up Lesson 2, where the same
-test is carried out and recorded; the two lessons deliberately space the planning and
-the doing.
+The core skill — *change one thing, keep the rest the same* — is a foundational inquiry
+skill, so teach it with a **worked example and guided practice** before independent
+planning (Kirschner, Sweller & Clark, 2006): you model the ramp test once, then pairs
+plan their own. Keep it joyful and honest: a fair test is about trust, not trickery, and
+it connects naturally to the fairness learners already care about in games and sharing
+(the egalitarian lens). Where a "right" answer is not known ahead of time — and
+sometimes we cannot test a thing at all — that is not a failure; it is the edge of what
+we can find out. This lesson sets up Lesson 2, where the same test is carried out and
+recorded; the two lessons deliberately space the planning and the doing.
 
 ## Procedure
 

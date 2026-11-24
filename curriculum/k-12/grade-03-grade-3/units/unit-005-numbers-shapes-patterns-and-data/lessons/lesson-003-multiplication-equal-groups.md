@@ -118,20 +118,20 @@ this idea to plan how much they need, even before it had a written symbol.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the learner's first formal
-**multiplication** — the new skill is reading an **array** (rows and columns) and
-writing the multiplication sentence. Teach with a **worked example** (philosophy §13):
-build three groups of four, line them into three rows of four, count by fours, and
-write 3 × 4 = 12 before learners try their own. Children make sense of multiplication
-through these informal strategies long before memorizing facts (Carpenter et al.,
-2015). Keep objects first, symbols last. **No one's speed at counting groups measures
-their smartness; some children see the total by skip-counting, some by counting every
-object, and all are valid paths.** The word "times" and the symbol × are one convention
-among many — the idea of equal groups is what matters, and peoples have counted in
-groups of two, five, ten, and more (Zaslavsky, 1999). Count in the home language. For
-learners who are Deaf or hard of hearing, count with sign or taps; for learners who are
-blind or low-vision, make groups in cups the hands can feel. Learners with limited
-movement direct a partner to move the objects. Mastery arrives at its own pace.
+It is the learner's first formal **multiplication** — the new skill is reading an
+**array** (rows and columns) and writing the multiplication sentence. Teach with a
+**worked example** (philosophy §13): build three groups of four, line them into three
+rows of four, count by fours, and write 3 × 4 = 12 before learners try their own.
+Children make sense of multiplication through these informal strategies long before
+memorizing facts (Carpenter et al., 2015). Keep objects first, symbols last. **No one's
+speed at counting groups measures their smartness; some children see the total by
+skip-counting, some by counting every object, and all are valid paths.** The word
+"times" and the symbol × are one convention among many — the idea of equal groups is
+what matters, and peoples have counted in groups of two, five, ten, and more (Zaslavsky,
+1999). Count in the home language. For learners who are Deaf or hard of hearing, count
+with sign or taps; for learners who are blind or low-vision, make groups in cups the
+hands can feel. Learners with limited movement direct a partner to move the objects.
+Mastery arrives at its own pace.
 
 ## Procedure
 

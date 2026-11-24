@@ -122,16 +122,16 @@ and it is a question you can ask of every room you ever stand in.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **technology both creates
-new communities — online spaces, diaspora ties, communities of shared need — and transforms
-offline belonging, while its design and its divides decide who is welcomed and who is left
-out.** The balance is the honest center: online community is a real, ordinary part of
-adolescent social life, not inherently harmful (S-226, S-311), yet access is unequal — cost,
-connectivity, disability, and geography change who can join (S-281) — and the *design* of a
-room (who moderates, who is amplified, who is banned) shapes belonging as much as the people
-in it. Putnam's account of declining shared life is one lens on how connection can thin
-(S-157); Anderson's "imagined communities" show how shared media can bind people who will
-never meet (S-415). Present these as *lenses to evaluate with*, not verdicts.
+The idea to land: **technology both creates new communities — online spaces, diaspora
+ties, communities of shared need — and transforms offline belonging, while its design
+and its divides decide who is welcomed and who is left out.** The balance is the honest
+center: online community is a real, ordinary part of adolescent social life, not
+inherently harmful (S-226, S-311), yet access is unequal — cost, connectivity,
+disability, and geography change who can join (S-281) — and the *design* of a room (who
+moderates, who is amplified, who is banned) shapes belonging as much as the people in
+it. Putnam's account of declining shared life is one lens on how connection can thin
+(S-157); Anderson's "imagined communities" show how shared media can bind people who
+will never meet (S-415). Present these as *lenses to evaluate with*, not verdicts.
 
 Model one example once, then let learners work (worked example → guided practice →
 independent work; S-011). The **technology** lens is the spine: read the room as a
@@ -142,11 +142,11 @@ divide, platform power, and harassment gate some people out, and that is a justi
 question, not a personal one. The **ethics** lens: a welcoming room is one a person has
 shaped to be fair; an exclusive room is one that has shaped the person to be cruel. The
 **critical-thinking** lens: ask *who is missing from this room, and why?* The
-**social-emotional** lens: belonging is deeply felt — being welcomed or shut out can shape
-a whole year; invite, never force, and let learners share only what they choose. The
-**global** lens: the same tools build different rooms in different places, each shaped by
-its culture and its history. Preview: Lesson 10 zooms out — how a local community connects
-to the regional, national, and global.
+**social-emotional** lens: belonging is deeply felt — being welcomed or shut out can
+shape a whole year; invite, never force, and let learners share only what they choose.
+The **global** lens: the same tools build different rooms in different places, each
+shaped by its culture and its history. Preview: Lesson 10 zooms out — how a local
+community connects to the regional, national, and global.
 
 ## Procedure
 

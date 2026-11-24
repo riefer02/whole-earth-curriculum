@@ -118,11 +118,11 @@ of — and what lets it be repaired when it cracks.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **trust is a structure
-of repeated small acts — honesty, reliability, respect — that survives because it can be
-repaired when it cracks.** This is a description of how trust works, not a demand that
-learners trust more or trust specific people. Keep the lesson about the *pattern*, not
-about any learner's private relationships.
+The idea to land: **trust is a structure of repeated small acts — honesty, reliability,
+respect — that survives because it can be repaired when it cracks.** This is a
+description of how trust works, not a demand that learners trust more or trust specific
+people. Keep the lesson about the *pattern*, not about any learner's private
+relationships.
 
 The **ethics** lens: what we owe someone who trusts us, and what we owe when we break
 trust, is the open question this lesson plants. The **egalitarianism** lens: respect —

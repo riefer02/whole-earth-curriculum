@@ -122,30 +122,32 @@ something. Hope is not pretending; hope is seeing a real seed and watering it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **contributing to peace and
-repair in a divided world means holding honesty (what is broken and hard to repair) together with
-hope (what is real to build on) — never despair, and never empty optimism. The learner names a
-concrete contribution, locally and globally, and the unit's artifacts are gathered as a record of
-a person who can disagree, repair, and build — with inquiry, not creed, as their guide.** Hold the
-case accurately and with care (S-392); present it as one real, contested attempt, not a perfect
-model. Do not prescribe what any learner's contribution must be; the skill is that it is honest
-*and* hopeful at once.
+The idea to land: **contributing to peace and repair in a divided world means holding
+honesty (what is broken and hard to repair) together with hope (what is real to build
+on) — never despair, and never empty optimism. The learner names a concrete
+contribution, locally and globally, and the unit's artifacts are gathered as a record of
+a person who can disagree, repair, and build — with inquiry, not creed, as their
+guide.** Hold the case accurately and with care (S-392); present it as one real,
+contested attempt, not a perfect model. Do not prescribe what any learner's contribution
+must be; the skill is that it is honest *and* hopeful at once.
 
-The **ethics** lens: honesty about harm is itself a moral commitment — reconciliation begins with
-the truth of what happened, and the TRC's trade of punishment for disclosure is a real ethical
-choice with real strengths and limits (S-392), held as a question, not a verdict. The
-**egalitarianism** lens: peace that papers over the imbalance between the powerful and the harmed
-is not peace — repair must center the people who were harmed, and a contribution that ignores
-power is only a wish. The **global** lens: reconciliation and repair are attempted worldwide — the
-TRC is one documented case, and humanitarian neutrality (the Red Cross and Red Crescent movement)
-is another real, global form of serving people in conflict regardless of side (S-329, S-392);
-neither is a universal template, and both are held as examples to learn from. The **technology**
-lens: in a connected world, both harm and repair now travel instantly — a lie can go global in
-seconds, and so can a truth or a gesture of repair — so a contribution must consider the tools it
-uses and who they reach (S-481, S-482). The **environment** lens: peace with one another is
-incomplete without peace with the living world — repairing a divided Earth is part of repairing a
-divided humanity, and a hopeful contribution can be as small and real as tending one place.
-Close: gather the unit's artifacts into the capstone journal.
+The **ethics** lens: honesty about harm is itself a moral commitment — reconciliation
+begins with the truth of what happened, and the TRC's trade of punishment for disclosure
+is a real ethical choice with real strengths and limits (S-392), held as a question, not
+a verdict. The **egalitarianism** lens: peace that papers over the imbalance between the
+powerful and the harmed is not peace — repair must center the people who were harmed,
+and a contribution that ignores power is only a wish. The **global** lens:
+reconciliation and repair are attempted worldwide — the TRC is one documented case, and
+humanitarian neutrality (the Red Cross and Red Crescent movement) is another real,
+global form of serving people in conflict regardless of side (S-329, S-392); neither is
+a universal template, and both are held as examples to learn from. The **technology**
+lens: in a connected world, both harm and repair now travel instantly — a lie can go
+global in seconds, and so can a truth or a gesture of repair — so a contribution must
+consider the tools it uses and who they reach (S-481, S-482). The **environment** lens:
+peace with one another is incomplete without peace with the living world — repairing a
+divided Earth is part of repairing a divided humanity, and a hopeful contribution can be
+as small and real as tending one place. Close: gather the unit's artifacts into the
+capstone journal.
 
 ## Procedure
 

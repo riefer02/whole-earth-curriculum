@@ -115,17 +115,18 @@ cups of rice need 6 cups of water.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) a **rate** is a ratio of two
-*different* units (flour per water, coins per kilogram); (2) a **unit rate** is the amount for *one*
-unit, found by division (8 coins ÷ 2 kg = 4 coins per kg); and (3) comparing unit rates, not sticker
-prices, reveals the **better buy**. Model a worked example first, then guide a second before
-independent work (Kirschner, Sweller & Clark, 2006). Two common slips: dividing the wrong way (kg ÷
-coins instead of coins ÷ kg) and comparing total prices instead of per-1 prices. Retrieval: ask
-learners to recall yesterday's ratio (2 : 3) — a rate is a ratio with units attached. The
-egalitarian lens is sharp here (`docs/philosophy.md` §4): the skill of finding a unit price protects
-buyers from overpaying, which matters most to people with the least to spend. Note the global point:
-the idea of a "per one" price is ancient and appears wherever people trade; we use "coins" as a
-stand-in so no single currency is treated as the default.
+The ideas to land: (1) a **rate** is a ratio of two *different* units (flour per water,
+coins per kilogram); (2) a **unit rate** is the amount for *one* unit, found by division
+(8 coins ÷ 2 kg = 4 coins per kg); and (3) comparing unit rates, not sticker prices,
+reveals the **better buy**. Model a worked example first, then guide a second before
+independent work (Kirschner, Sweller & Clark, 2006). Two common slips: dividing the
+wrong way (kg ÷ coins instead of coins ÷ kg) and comparing total prices instead of per-1
+prices. Retrieval: ask learners to recall yesterday's ratio (2 : 3) — a rate is a ratio
+with units attached. The egalitarian lens is sharp here (`docs/philosophy.md` §4): the
+skill of finding a unit price protects buyers from overpaying, which matters most to
+people with the least to spend. Note the global point: the idea of a "per one" price is
+ancient and appears wherever people trade; we use "coins" as a stand-in so no single
+currency is treated as the default.
 
 ## Procedure
 

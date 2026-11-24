@@ -116,15 +116,15 @@ understanding how a whole community lives together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **government is the
-people and groups who make and carry out decisions/rules for a whole community or
-country**, and it **does four kinds of things** — make rules and laws, provide services,
-settle disputes, and protect people and rights. Teach this **descriptively, not as one
-model**: governments around the world take many forms, and none is assumed to be "the"
-right one (this is the unit's no-single-model commitment). Distinguish **evidence from
-values**: *what governments do and what forms they take* are facts we can observe and
-compare; *what they should do* — including this curriculum's egalitarian view that they
-should serve everyone — is a value. Hold it open. See `docs/facilitation.md`.
+The ideas to land: **government is the people and groups who make and carry out
+decisions/rules for a whole community or country**, and it **does four kinds of
+things** — make rules and laws, provide services, settle disputes, and protect people
+and rights. Teach this **descriptively, not as one model**: governments around the world
+take many forms, and none is assumed to be "the" right one (this is the unit's
+no-single-model commitment). Distinguish **evidence from values**: *what governments do
+and what forms they take* are facts we can observe and compare; *what they should do* —
+including this curriculum's egalitarian view that they should serve everyone — is a
+value. Hold it open. See `docs/facilitation.md`.
 
 ## Procedure
 

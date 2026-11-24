@@ -118,29 +118,27 @@ what you decide and why.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **design is a
-process — find a need, research it, imagine, prototype, test — and documentation is
-not paperwork but the thing that makes a decision defensible and shareable.** A
-"community need" can be tiny (a shaded seat, a better path, a container that keeps
-food dry) — small is fine; real is what matters. The design log is the through-line
-that will let learners later defend their choices on sustainability and fairness
-(Lesson 11) and judge responsible versus harmful design (Lesson 12).
+The idea to land: **design is a process — find a need, research it, imagine, prototype,
+test — and documentation is not paperwork but the thing that makes a decision defensible
+and shareable.** A "community need" can be tiny (a shaded seat, a better path, a
+container that keeps food dry) — small is fine; real is what matters. The design log is
+the through-line that will let learners later defend their choices on sustainability and
+fairness (Lesson 11) and judge responsible versus harmful design (Lesson 12).
 
 The **ethics** lens: good design begins with serving people, not impressing a judge —
-the need is the moral center. The **egalitarian** lens: ask *who* is served and *who
-is left out* from the very first idea; a design that helps only the most able-bodied
-or the richest has already failed a fairness test. The **global** lens: needs differ
-by place and climate — a shade structure matters differently in a hot dry town than in
-a cold wet one — so design is always local before it is general. The **technology**
-lens: tools (digital or fabrication) can extend what a designer can make — but they
-never replace the noticing. The **environment** lens: from the first sketch, ask what
-the thing is made of and where it goes when it breaks (deepened in Lesson 11). The
-**community** lens is the spine: design is done *with* and *for* a community, never to
-it.
+the need is the moral center. The **egalitarian** lens: ask *who* is served and *who is
+left out* from the very first idea; a design that helps only the most able-bodied or the
+richest has already failed a fairness test. The **global** lens: needs differ by place
+and climate — a shade structure matters differently in a hot dry town than in a cold wet
+one — so design is always local before it is general. The **technology** lens: tools
+(digital or fabrication) can extend what a designer can make — but they never replace
+the noticing. The **environment** lens: from the first sketch, ask what the thing is
+made of and where it goes when it breaks (deepened in Lesson 11). The **community** lens
+is the spine: design is done *with* and *for* a community, never to it.
 
-Model one worked example (worked example → guided practice → independent design;
-S-011). Keep prototypes low-fidelity — the point is the thinking and the record, not a
-finished object.
+Model one worked example (worked example → guided practice → independent design; S-011).
+Keep prototypes low-fidelity — the point is the thinking and the record, not a finished
+object.
 
 ## Procedure
 

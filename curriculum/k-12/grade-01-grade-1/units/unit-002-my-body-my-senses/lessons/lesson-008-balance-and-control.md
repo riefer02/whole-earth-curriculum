@@ -102,18 +102,16 @@ carry, and play without toppling.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the line and beanbags, then model each balance slowly.
-Balance is about steadiness and control, never about "how long" — celebrate any
-successful steady moment. Honor every body: seated balance (a beanbag on the head or
-hand, a straight still back) is real balance too, and a learner who uses a wheelchair
-can practice keeping steady while gliding or holding a pose. Always offer a wall or a
-friend's hand as support; no one should feel they might fall. For the freeze game, use
-a visible signal too — a raised hand, a flag, or a flicked light — alongside the
-spoken "freeze," so learners who are deaf or hard of hearing join in fully. Invite
-learners with breathing differences (such as asthma) to rest and rejoin whenever they
-need, moving at their own pace; a calm, steady breath matters more than finishing the
-sequence.
+Prepare the line and beanbags, then model each balance slowly. Balance is about
+steadiness and control, never about "how long" — celebrate any successful steady moment.
+Honor every body: seated balance (a beanbag on the head or hand, a straight still back)
+is real balance too, and a learner who uses a wheelchair can practice keeping steady
+while gliding or holding a pose. Always offer a wall or a friend's hand as support; no
+one should feel they might fall. For the freeze game, use a visible signal too — a
+raised hand, a flag, or a flicked light — alongside the spoken "freeze," so learners who
+are deaf or hard of hearing join in fully. Invite learners with breathing differences
+(such as asthma) to rest and rejoin whenever they need, moving at their own pace; a
+calm, steady breath matters more than finishing the sequence.
 
 ## Procedure
 

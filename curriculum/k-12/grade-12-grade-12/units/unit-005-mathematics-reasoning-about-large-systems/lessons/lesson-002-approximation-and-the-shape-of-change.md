@@ -115,12 +115,11 @@ in mathematics.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an average rate of
-change (secant slope) becomes an instantaneous rate (tangent slope) in the limit as the
-interval shrinks to a point — this is the informal derivative, and it needs the curve to
-be continuous and smooth.** Teach the worked example explicitly — build the table of
-shrinking intervals, then let the number settle (S-011). The limit is what makes "at an
-instant" meaningful rather than mystical.
+The idea to land: **an average rate of change (secant slope) becomes an instantaneous
+rate (tangent slope) in the limit as the interval shrinks to a point — this is the
+informal derivative, and it needs the curve to be continuous and smooth.** Teach the
+worked example explicitly — build the table of shrinking intervals, then let the number
+settle (S-011). The limit is what makes "at an instant" meaningful rather than mystical.
 
 The **ethics** lens: honesty about what a speedometer *is* — a limit, not a direct
 measurement — is honesty about what numbers can and cannot claim. The **egalitarianism**

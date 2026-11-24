@@ -112,13 +112,13 @@ writer who masters register can carry one true idea into many rooms.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **register is the
-clothing an idea wears for its audience — the idea stays, while word choice, tone, and
-formality shift — and no register is "better," only more or less fitted to the reader.**
-This directly extends Grade 10's register work (D04.S3.10.01) into deliberate
-*adaptation* of a single idea. Hold the anti-ranking commitment: formal is not superior
-to informal, and a learner's home register is never "wrong" — the skill is *choosing* a
-register for a purpose, not abandoning one's own (egalitarian lens; philosophy §1).
+The idea to land: **register is the clothing an idea wears for its audience — the idea
+stays, while word choice, tone, and formality shift — and no register is "better," only
+more or less fitted to the reader.** This directly extends Grade 10's register work
+(D04.S3.10.01) into deliberate *adaptation* of a single idea. Hold the anti-ranking
+commitment: formal is not superior to informal, and a learner's home register is never
+"wrong" — the skill is *choosing* a register for a purpose, not abandoning one's own
+(egalitarian lens; philosophy §1).
 
 Model one adaptation, then let learners write the others (worked example → guided
 practice → independent work; S-011). The **global** lens: what counts as "formal" or

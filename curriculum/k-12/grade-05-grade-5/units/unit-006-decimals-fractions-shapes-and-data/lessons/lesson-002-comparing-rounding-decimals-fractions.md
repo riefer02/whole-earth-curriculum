@@ -117,16 +117,16 @@ decimals to something easier to think about — a price of 4.376 becomes about 4
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) **equivalent forms** —
-0.5, 0.50, 5/10, and 1/2 all name the same amount; (2) **comparing** by aligning place values
-(0.45 has 45 hundredths, 0.4 has 40, so 0.45 > 0.4); and (3) **rounding** by looking at the
-digit in the next place to the right — 5 or more rounds up. Model each as a **worked example**
-on the number line first (Kirschner, Sweller & Clark, 2006), then guide a second before
-independent practice. Two common slips to watch for: thinking more digits means a larger
-number (0.4 is *not* less than 0.45 just because it is shorter), and rounding without
-looking at the correct place. Reinforce with retrieval: ask "what did we build last lesson?"
-and have a learner name the places. The equivalence facts here are evidence; the habit of
-checking our own rounding is a value (`docs/philosophy.md` §7).
+The ideas to land: (1) **equivalent forms** — 0.5, 0.50, 5/10, and 1/2 all name the same
+amount; (2) **comparing** by aligning place values (0.45 has 45 hundredths, 0.4 has 40,
+so 0.45 > 0.4); and (3) **rounding** by looking at the digit in the next place to the
+right — 5 or more rounds up. Model each as a **worked example** on the number line first
+(Kirschner, Sweller & Clark, 2006), then guide a second before independent practice. Two
+common slips to watch for: thinking more digits means a larger number (0.4 is *not* less
+than 0.45 just because it is shorter), and rounding without looking at the correct
+place. Reinforce with retrieval: ask "what did we build last lesson?" and have a learner
+name the places. The equivalence facts here are evidence; the habit of checking our own
+rounding is a value (`docs/philosophy.md` §7).
 
 ## Procedure
 

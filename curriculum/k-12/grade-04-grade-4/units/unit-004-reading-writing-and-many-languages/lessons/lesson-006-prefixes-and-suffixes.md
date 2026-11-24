@@ -104,17 +104,16 @@ reading a plan.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Affixes are a taught skill: model building and taking apart words
-with a worked example, naming how the meaning changes each time (Kirschner, Sweller &
-Clark, 2006). Teach the pattern, not a memorized list — a **prefix** goes before and a
-**suffix** after, and each carries a meaning (un- = not, re- = again, -ful = full of,
--less = without). This is script- and language-agnostic: languages affix meaning in
-different ways, and learners may share examples from their own languages. The goal is
-meaning-making — a learner who can explain "unhelpful = not + full of help" has the
-skill. Honor explanations in the learner's own language, and treat a digital tool as a
-helper to check, not a substitute for thinking. Keep it playful: word-building is a
-game, and every new word is a small discovery.
+Affixes are a taught skill: model building and taking apart words with a worked example,
+naming how the meaning changes each time (Kirschner, Sweller & Clark, 2006). Teach the
+pattern, not a memorized list — a **prefix** goes before and a **suffix** after, and
+each carries a meaning (un- = not, re- = again, -ful = full of, -less = without). This
+is script- and language-agnostic: languages affix meaning in different ways, and
+learners may share examples from their own languages. The goal is meaning-making — a
+learner who can explain "unhelpful = not + full of help" has the skill. Honor
+explanations in the learner's own language, and treat a digital tool as a helper to
+check, not a substitute for thinking. Keep it playful: word-building is a game, and
+every new word is a small discovery.
 
 ## Procedure
 

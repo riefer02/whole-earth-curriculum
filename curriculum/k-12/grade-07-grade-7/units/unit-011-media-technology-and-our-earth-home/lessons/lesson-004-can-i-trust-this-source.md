@@ -111,18 +111,19 @@ source you can lean on from one you should hold lightly.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) trustworthiness is checked,
-not felt — five questions do the checking: who made it, why, what evidence, when, and whether a
-second source agrees; (2) comparing two sources means asking all five questions of each and then
-placing them side by side; (3) reliability is about the source, not whether we like its answer.**
-Model the first pair once (worked example, S-011). The critical-thinking lens: this is the unit's
-core "question the answer" habit, made into a checklist. The egalitarian lens: the ability to check
-a source is power — people who are lied to cannot act fairly; teaching everyone to check is a
-leveling act. The global lens: the five questions work on any source in any language and any
-place. The technology lens: digital tools make it easier than ever to publish — which makes
-checking *more* necessary, not less. Use a low-stakes, non-scary example pair (e.g., a claim about
-whether a plant is safe, or whether recycling works) so the skill is practiced without fear. The
-checklist is an age-appropriate version of source analysis (S-217; S-063).
+The ideas to land: **(1) trustworthiness is checked, not felt — five questions do the
+checking: who made it, why, what evidence, when, and whether a second source agrees; (2)
+comparing two sources means asking all five questions of each and then placing them side
+by side; (3) reliability is about the source, not whether we like its answer.** Model
+the first pair once (worked example, S-011). The critical-thinking lens: this is the
+unit's core "question the answer" habit, made into a checklist. The egalitarian lens:
+the ability to check a source is power — people who are lied to cannot act fairly;
+teaching everyone to check is a leveling act. The global lens: the five questions work
+on any source in any language and any place. The technology lens: digital tools make it
+easier than ever to publish — which makes checking *more* necessary, not less. Use a
+low-stakes, non-scary example pair (e.g., a claim about whether a plant is safe, or
+whether recycling works) so the skill is practiced without fear. The checklist is an
+age-appropriate version of source analysis (S-217; S-063).
 
 ## Procedure
 

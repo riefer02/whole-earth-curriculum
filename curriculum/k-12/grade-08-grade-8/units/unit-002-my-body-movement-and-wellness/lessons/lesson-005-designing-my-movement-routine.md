@@ -112,22 +112,24 @@ anywhere, and you will be able to say exactly why each part helps.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a routine has a shape —
-warm-up, a strength part, an endurance part, a flexibility part, and a cool-down; (2) each part
-has a job — strength works muscles against a load, endurance works heart and lungs over time,
-flexibility works range of motion; (3) a good routine is safe, gentle to start, and adaptable to
-any body.** Design is a skill — model one full routine as a worked example, then guide learners
-through building their own, then let them do it (explicit instruction → guided → independent,
-S-011). The WHO frames a balanced mix of movement (S-341). **Body dignity is non-negotiable: never
-rank routines against each other, never comment on a body's shape, never push anyone past comfort.
-"Your level is the right level." Ensure every movement on the menu has a seated or adapted version,
-and treat assistive devices as ordinary.** The ethics lens: designing for safety and self-care is
-acting responsibly toward one's own body. The egalitarian lens: a routine anyone can do — seated,
-standing, fast, slow — widens movement's door to every body. The global lens: routines can draw on
-movement from many cultures — dance, stretching, martial-arts forms such as capoeira (Brazil) or
-tai chi (China), and daily work — all valid sources. The technology & environment lens: a routine that needs no equipment, screen, or paid
-space works in more lives and more places. The critical-thinking lens: "this part builds endurance
-because it keeps my heart and lungs working over time" is a checkable reason, not a guess.
+The ideas to land: **(1) a routine has a shape — warm-up, a strength part, an endurance
+part, a flexibility part, and a cool-down; (2) each part has a job — strength works
+muscles against a load, endurance works heart and lungs over time, flexibility works
+range of motion; (3) a good routine is safe, gentle to start, and adaptable to any
+body.** Design is a skill — model one full routine as a worked example, then guide
+learners through building their own, then let them do it (explicit instruction → guided
+→ independent, S-011). The WHO frames a balanced mix of movement (S-341). **Body dignity
+is non-negotiable: never rank routines against each other, never comment on a body's
+shape, never push anyone past comfort. "Your level is the right level." Ensure every
+movement on the menu has a seated or adapted version, and treat assistive devices as
+ordinary.** The ethics lens: designing for safety and self-care is acting responsibly
+toward one's own body. The egalitarian lens: a routine anyone can do — seated, standing,
+fast, slow — widens movement's door to every body. The global lens: routines can draw on
+movement from many cultures — dance, stretching, martial-arts forms such as capoeira
+(Brazil) or tai chi (China), and daily work — all valid sources. The technology &
+environment lens: a routine that needs no equipment, screen, or paid space works in more
+lives and more places. The critical-thinking lens: "this part builds endurance because
+it keeps my heart and lungs working over time" is a checkable reason, not a guess.
 
 ## Procedure
 

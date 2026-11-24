@@ -115,16 +115,15 @@ part. Today your class becomes a team that can do what no single one of you coul
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It makes cooperation **real and
-physical**, not a slogan. Choose a task that is truly a one-person-cannot-do-it — if a
-child *could* do it alone, the lesson loses its point. Safety first: pick tasks with
-no pinch points or falls, and guide the lift (bend knees, lift together, on a count).
-The egalitarian note is that **every part matters and no part outranks another**: the
-person holding the far end is as needed as the one holding the near end. A learner who
-uses a wheelchair or has limited strength can direct, count, clear the path, steady
-the load, or cheer the team — all real parts. Make sure every learner has a part to
-point to in the reflection ("that was my part"). The reflection, not the lifting, is
-where the learning lands.
+It makes cooperation **real and physical**, not a slogan. Choose a task that is truly a
+one-person-cannot-do-it — if a child *could* do it alone, the lesson loses its point.
+Safety first: pick tasks with no pinch points or falls, and guide the lift (bend knees,
+lift together, on a count). The egalitarian note is that **every part matters and no
+part outranks another**: the person holding the far end is as needed as the one holding
+the near end. A learner who uses a wheelchair or has limited strength can direct, count,
+clear the path, steady the load, or cheer the team — all real parts. Make sure every
+learner has a part to point to in the reflection ("that was my part"). The reflection,
+not the lifting, is where the learning lands.
 
 ## Procedure
 

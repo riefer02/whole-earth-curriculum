@@ -115,31 +115,34 @@ you learn to read and send that hidden layer.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) meaning is carried by more
-than words — tone and body language change what the same sentence means; (2) tone and body language
-are patterned and learned, and the patterns differ across families and cultures — so we ask and
-check rather than assume (Ekman & Friesen 1969, S-160); (3) honesty and kindness ask us to make our
-tone and body match our words, and to check when they might not.** Model the mismatch once as a
-  worked example (S-011) before pairs practice. **Safety: no learner is asked to act out real anger
-  or real hurt; use the invented sentence and neutral examples only.** **Accessibility:** meaning
-  lives in more than words in *every* way of communicating, so no learner needs a speaking voice or
-  working eyes and ears to join. In a signed language, tone lives in the face, in how large, fast,
-  and sharp the signs are, and in body posture; in an AAC device or in writing, it lives in word
-  choice, punctuation, and emphasis. Offer each learner a path that fits: learners who are deaf or
-  hard of hearing read and send tone through facial expression, sign intensity, or written tone
-  markers (punctuation, a drawn face, a label like "warm" or "flat"); learners who are blind or low
-  vision name the tone aloud and learn posture by describing it in words or copying the shape with
-  their own body; learners who use AAC or do not speak convey tone by choosing words and emphasis on
-  their device or by pointing to a feelings word. Nobody is asked to produce a voice they do not use
-  or to read a face they cannot see. The ethics lens: a message can
-hurt or heal depending on *how* it is said, not only what is said. The egalitarian lens: the same
-words from someone with more power can land harder than from someone with less — noticing power is
-part of reading meaning. The global & anthropological lens: display rules for tone and body differ
-across cultures and even families (Ekman & Friesen, S-160) — eye contact, gesture, and silence mean
-different things in different places, so "read the room" means "check, don't assume." The
-technology & environment lens: this lesson sets up the next one — on a screen, tone and body are
-often missing, and meaning gets even more fragile. The critical-thinking lens: distinguish what a
-person *said* from what the message *meant*, and be willing to check your guess.
+The ideas to land: **(1) meaning is carried by more than words — tone and body language
+change what the same sentence means; (2) tone and body language are patterned and
+learned, and the patterns differ across families and cultures — so we ask and check
+rather than assume (Ekman & Friesen 1969, S-160); (3) honesty and kindness ask us to
+make our tone and body match our words, and to check when they might not.** Model the
+mismatch once as a worked example (S-011) before pairs practice. **Safety: no learner is
+asked to act out real anger or real hurt; use the invented sentence and neutral examples
+only.** **Accessibility:** meaning lives in more than words in *every* way of
+communicating, so no learner needs a speaking voice or working eyes and ears to join. In
+a signed language, tone lives in the face, in how large, fast, and sharp the signs are,
+and in body posture; in an AAC device or in writing, it lives in word choice,
+punctuation, and emphasis. Offer each learner a path that fits: learners who are deaf or
+hard of hearing read and send tone through facial expression, sign intensity, or written
+tone markers (punctuation, a drawn face, a label like "warm" or "flat"); learners who
+are blind or low vision name the tone aloud and learn posture by describing it in words
+or copying the shape with their own body; learners who use AAC or do not speak convey
+tone by choosing words and emphasis on their device or by pointing to a feelings word.
+Nobody is asked to produce a voice they do not use or to read a face they cannot see.
+The ethics lens: a message can hurt or heal depending on *how* it is said, not only what
+is said. The egalitarian lens: the same words from someone with more power can land
+harder than from someone with less — noticing power is part of reading meaning. The
+global & anthropological lens: display rules for tone and body differ across cultures
+and even families (Ekman & Friesen, S-160) — eye contact, gesture, and silence mean
+different things in different places, so "read the room" means "check, don't assume."
+The technology & environment lens: this lesson sets up the next one — on a screen, tone
+and body are often missing, and meaning gets even more fragile. The critical-thinking
+lens: distinguish what a person *said* from what the message *meant*, and be willing to
+check your guess.
 
 ## Procedure
 

@@ -118,18 +118,17 @@ to, *why* am I speaking, and *what evidence* will convince them?
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **a good
-presentation is built, not performed: audience, purpose, and evidence come first**. Model
-a 60-second talk once — stating the audience and purpose aloud, then giving two points
-with evidence — before learners plan their own (Kirschner, Sweller & Clark, 2006).
-Keep topics small and safe; offer a topic list so no one is stuck. The four lenses:
-*ethics* (support claims honestly, no invention); *egalitarianism* (every voice gets a
-turn and a respectful hearing — no ranking); *global* (topic list spans regions and
-languages); *technology* (if recording, use it for self-assessment, not to shame).
-**Expression modes:** "deliver" means express the argument however works best — spoken
-aloud, signed, written or typed and shown, drawn as a poster, or produced with a
-communication device (AAC). No mode is more correct than another; assess the argument,
-not the voice. See `docs/facilitation.md`.
+The idea to land is that **a good presentation is built, not performed: audience,
+purpose, and evidence come first**. Model a 60-second talk once — stating the audience
+and purpose aloud, then giving two points with evidence — before learners plan their own
+(Kirschner, Sweller & Clark, 2006). Keep topics small and safe; offer a topic list so no
+one is stuck. The four lenses: *ethics* (support claims honestly, no invention);
+*egalitarianism* (every voice gets a turn and a respectful hearing — no ranking);
+*global* (topic list spans regions and languages); *technology* (if recording, use it
+for self-assessment, not to shame). **Expression modes:** "deliver" means express the
+argument however works best — spoken aloud, signed, written or typed and shown, drawn as
+a poster, or produced with a communication device (AAC). No mode is more correct than
+another; assess the argument, not the voice. See `docs/facilitation.md`.
 
 ## Procedure
 

@@ -139,16 +139,16 @@ world and become its thoughtful *judge* — and, someday, its better maker.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is the **three-lens
-critique**: a good evaluation names (1) how well it works, (2) who it leaves out, and
-(3) its effect on the environment — and then proposes an improvement. This carries the
-egalitarian and environmental lenses explicitly (see `docs/philosophy.md` §4), and it
-plants the seed for Grade 7's accessibility standard (D07.S4.07.01). Keep the examples
-concrete and non-ranking; the point is not to shame any design but to see it fully. Be
-ready for learners to notice real inequities (a building with no ramp, a tap no one in a
-wheelchair can reach); meet these with calm honesty and always connect them to agency —
-"what could a better design do?" — never despair. The closing reflection is retrieval
-practice across the whole unit. See `docs/facilitation.md` and `docs/contexts.md`.
+The idea to land is the **three-lens critique**: a good evaluation names (1) how well it
+works, (2) who it leaves out, and (3) its effect on the environment — and then proposes
+an improvement. This carries the egalitarian and environmental lenses explicitly (see
+`docs/philosophy.md` §4), and it plants the seed for Grade 7's accessibility standard
+(D07.S4.07.01). Keep the examples concrete and non-ranking; the point is not to shame
+any design but to see it fully. Be ready for learners to notice real inequities (a
+building with no ramp, a tap no one in a wheelchair can reach); meet these with calm
+honesty and always connect them to agency — "what could a better design do?" — never
+despair. The closing reflection is retrieval practice across the whole unit. See
+`docs/facilitation.md` and `docs/contexts.md`.
 
 ## Procedure
 

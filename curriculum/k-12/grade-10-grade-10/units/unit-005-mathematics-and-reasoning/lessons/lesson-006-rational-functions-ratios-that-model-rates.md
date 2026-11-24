@@ -117,22 +117,22 @@ by another" wherever it appears.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a rational function
-is one quantity divided by another, and its asymptotes and domain are the algebra's
-way of saying "here the denominator is zero" and "here the ratio levels off."** Teach
-the asymptote-finding routine explicitly (vertical: denominator = 0 and not canceled;
-horizontal: compare degrees of numerator and denominator), then practice (S-011).
+The idea to land: **a rational function is one quantity divided by another, and its
+asymptotes and domain are the algebra's way of saying "here the denominator is zero" and
+"here the ratio levels off."** Teach the asymptote-finding routine explicitly (vertical:
+denominator = 0 and not canceled; horizontal: compare degrees of numerator and
+denominator), then practice (S-011).
 
 The **intellectual** lens: the vertical asymptote is a division-by-zero the graph
 *approaches* but never reaches; the horizontal asymptote is the ratio's long-run
 behavior. The **critical-thinking** lens: ask what each feature means in the real
-model — a vertical asymptote may mark a physically impossible point, and the domain
-must be read back into the real situation. The **egalitarian** lens: the shared-cost
-model is literally about fairness — dividing a burden among more people lowers each
-share; ask who can afford to be at the table at all. The **technology** lens: ratios
-are everywhere in tools and dashboards (rates, densities, per-capita figures); read
-them as rational functions, not magic numbers. Preview: Lesson 7 returns to
-exponential functions, the other great growth shape.
+model — a vertical asymptote may mark a physically impossible point, and the domain must
+be read back into the real situation. The **egalitarian** lens: the shared-cost model is
+literally about fairness — dividing a burden among more people lowers each share; ask
+who can afford to be at the table at all. The **technology** lens: ratios are everywhere
+in tools and dashboards (rates, densities, per-capita figures); read them as rational
+functions, not magic numbers. Preview: Lesson 7 returns to exponential functions, the
+other great growth shape.
 
 ## Procedure
 

@@ -111,26 +111,27 @@ with curiosity and care instead of judgment.
 
 ## Facilitator note
 
-This lesson is written to the learner. Its job is the second strand-1 goal: **explain that
-values and moral codes differ across cultures and argue for respectful engagement** — not to
-rank cultures. Hold the line on the three commitments that make this safe and honest
-(philosophy §4, §11, and facilitation.md "holding difficult topics safely"):
-**(1) description before judgment** — learners describe what a community values *before* they
-evaluate it; **(2) no ranking** — no culture's moral code is "better" or "more advanced" than
-another, and the lesson says so plainly; **(3) understanding ≠ agreement** — respectful
-engagement means listening and asking, not surrendering your own judgment; a learner may
-disagree with a practice and still treat its people with respect. The global lens is the whole
-lesson; use examples from many regions and from both cultural and faith traditions (Ubuntu in
-Southern Africa, filial respect in East Asian traditions, land stewardship in many Indigenous
-traditions, hospitality in Southwest Asian and Mediterranean traditions, *ahimsa* — do no harm —
-in Buddhist and Jain traditions, and the Golden Rule, which recurs across many of the world's
-religions and wisdom traditions). Hold these side by side as equals to be understood, never
-ranked (philosophy §11). The egalitarianism lens: notice that *within* any culture people
-disagree about values — no culture is one voice. The ethics lens: respect for persons across
-difference is itself a value we practice, not preach. If a learner makes a sweeping or
-dismissive claim about a people, name it gently and redirect to the specific value and its
-reason. Cite the UNESCO Universal Declaration on Cultural Diversity (S-389) as a shared
-international *commitment* (a value), not as a scientific fact. Keep the wonder box open.
+Its job is the second strand-1 goal: **explain that values and moral codes differ across
+cultures and argue for respectful engagement** — not to rank cultures. Hold the line on
+the three commitments that make this safe and honest (philosophy §4, §11, and
+facilitation.md "holding difficult topics safely"): **(1) description before
+judgment** — learners describe what a community values *before* they evaluate it; **(2)
+no ranking** — no culture's moral code is "better" or "more advanced" than another, and
+the lesson says so plainly; **(3) understanding ≠ agreement** — respectful engagement
+means listening and asking, not surrendering your own judgment; a learner may disagree
+with a practice and still treat its people with respect. The global lens is the whole
+lesson; use examples from many regions and from both cultural and faith traditions
+(Ubuntu in Southern Africa, filial respect in East Asian traditions, land stewardship in
+many Indigenous traditions, hospitality in Southwest Asian and Mediterranean traditions,
+*ahimsa* — do no harm — in Buddhist and Jain traditions, and the Golden Rule, which
+recurs across many of the world's religions and wisdom traditions). Hold these side by
+side as equals to be understood, never ranked (philosophy §11). The egalitarianism lens:
+notice that *within* any culture people disagree about values — no culture is one voice.
+The ethics lens: respect for persons across difference is itself a value we practice,
+not preach. If a learner makes a sweeping or dismissive claim about a people, name it
+gently and redirect to the specific value and its reason. Cite the UNESCO Universal
+Declaration on Cultural Diversity (S-389) as a shared international *commitment* (a
+value), not as a scientific fact. Keep the wonder box open.
 
 ## Procedure
 

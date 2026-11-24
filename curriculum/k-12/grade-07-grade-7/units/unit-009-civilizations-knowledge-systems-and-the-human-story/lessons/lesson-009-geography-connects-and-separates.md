@@ -114,24 +114,23 @@ civilization: geography is never just a backdrop; it is a player in the human st
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) rivers fed
-early civilizations and served as highways (the Nile, the Niger, the Ganges, the
-Indus); (2) oceans connected distant peoples — the Indian Ocean's monsoon winds made
-seasonal sailing possible, linking East Africa, Arabia, India, and Southeast Asia; (3)
-deserts could separate (the Sahara) but also be crossed by camel caravans carrying
-salt and gold; (4) mountains could divide (the Andes, the Himalayas) but passes and
-road systems (the Inka roads) linked their peoples; (5) the Silk Roads — a network of
-overland routes across deserts and mountains — carried silk, spices, paper, and ideas
-like Buddhism and numerals between East Asia and the Mediterranean.** These are
-established geographic-historical facts (see UNESCO's Silk Roads project and
-Encyclopaedia Britannica, "Silk Road" and "Indian Ocean trade"). Model tracing one
-route explicitly, then let learners trace and sort (Kirschner, Sweller & Clark, 2006).
-The environment lens: geography is the living Earth shaping human life, and humans
-shaping it back. The global lens: this is a world map with many centers — no single
-route or region is the default. The egalitarian lens: trade connected peoples as
+The ideas to land: **(1) rivers fed early civilizations and served as highways (the
+Nile, the Niger, the Ganges, the Indus); (2) oceans connected distant peoples — the
+Indian Ocean's monsoon winds made seasonal sailing possible, linking East Africa,
+Arabia, India, and Southeast Asia; (3) deserts could separate (the Sahara) but also be
+crossed by camel caravans carrying salt and gold; (4) mountains could divide (the Andes,
+the Himalayas) but passes and road systems (the Inka roads) linked their peoples; (5)
+the Silk Roads — a network of overland routes across deserts and mountains — carried
+silk, spices, paper, and ideas like Buddhism and numerals between East Asia and the
+Mediterranean.** These are established geographic-historical facts (see UNESCO's Silk
+Roads project and Encyclopaedia Britannica, "Silk Road" and "Indian Ocean trade"). Model
+tracing one route explicitly, then let learners trace and sort (Kirschner, Sweller &
+Clark, 2006). The environment lens: geography is the living Earth shaping human life,
+and humans shaping it back. The global lens: this is a world map with many centers — no
+single route or region is the default. The egalitarian lens: trade connected peoples as
 roughly equal partners; it also, at times, carried conquest — and noting who benefited
-and who did not keeps the story honest. The technology lens: the ship, the camel
-saddle, the road, the pass — technology is how people turned barriers into bridges.
+and who did not keeps the story honest. The technology lens: the ship, the camel saddle,
+the road, the pass — technology is how people turned barriers into bridges.
 
 ## Procedure
 

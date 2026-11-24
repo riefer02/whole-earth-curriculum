@@ -122,20 +122,21 @@ their clues.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Keep it fair and warm: **advertising is not
-bad, and noticing it is not suspicion.** People buy food, soap, and shoes, and sellers help
-them find these things. The skill is simply to *notice* when a message wants our money
-rather than only telling us a fact. That skill matters everywhere, and it protects families
-with little to spend just as much as anyone else — knowing the clue is a kind of fairness.
-This is the Grade 3 upgrade of Grade 2's "true information or selling": now learners use the
-word **advertisement** and name a **specific clue**. Hold the curriculum's stance: media is
+Keep it fair and warm: **advertising is not bad, and noticing it is not suspicion.**
+People buy food, soap, and shoes, and sellers help them find these things. The skill is
+simply to *notice* when a message wants our money rather than only telling us a fact.
+That skill matters everywhere, and it protects families with little to spend just as
+much as anyone else — knowing the clue is a kind of fairness. This is the Grade 3
+upgrade of Grade 2's "true information or selling": now learners use the word
+**advertisement** and name a **specific clue**. Hold the curriculum's stance: media is
 met with judgment, not fear. Use simple, everyday examples with no wealth assumption — a
 market stall, a street sign, a label on rice or soap — so every learner recognizes an ad
 from their own life. Distinguish evidence from values: "this message shows a price" is a
-fact; "ads are bad" is a value judgment we do not make. Honor every body: read each message
-aloud for a learner who is blind or has low vision, and let them name the clue by voice; a
-non-speaking learner points to "buy," "price," or "fact" on the clue chart; a learner who is
-Deaf or hard of hearing can read the printed messages and sign "buy" or "fact" to answer.
+fact; "ads are bad" is a value judgment we do not make. Honor every body: read each
+message aloud for a learner who is blind or has low vision, and let them name the clue
+by voice; a non-speaking learner points to "buy," "price," or "fact" on the clue chart;
+a learner who is Deaf or hard of hearing can read the printed messages and sign "buy" or
+"fact" to answer.
 
 ## Procedure
 

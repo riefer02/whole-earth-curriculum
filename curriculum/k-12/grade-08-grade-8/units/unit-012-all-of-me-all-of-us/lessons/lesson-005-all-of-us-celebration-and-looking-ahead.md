@@ -128,21 +128,23 @@ things you already built, see them as one, and choose what you will carry into w
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the **closing celebration and synthesis**. The
-goal: **each learner assembles the three closing artifacts, states what they learned from each, and
-names one thing they will carry forward into Grade 9.** The three artifacts are: (1) the whole-self
-map — intersecting identities shaping a whole self; (2) the choice-and-consequences note — pause,
-weigh now vs. later, choose; (3) the belonging-and-solidarity reflection — who gives, receives,
-decides, and how to stand *with* rather than *above*. Keep assessment **mastery, not ranking**: a
-learner missing an artifact simply completes it now — "not yet" is information, never a verdict.
-Looking ahead is framed as **purpose and possibility**, not pressure: naming one thing you want to
-carry forward is a step toward purpose, which grows by trying, not by being certain (S-400); identity
-remains a growing story, never a finished fact (S-155). The four lenses, gathered: the **ethics**
-lens asks what you will choose for others' sake; the **egalitarian** lens asks who you will stand
-with; the **global** lens remembers that this year's questions are asked, in different forms, by
-young people everywhere; the **technology & environment** lens asks how your choices touch people and
-the living Earth through the tools you use. Celebrate the collective — each learner's thread is part
-of one class web (S-233). End with hope, not a test.
+It is the **closing celebration and synthesis**. The goal: **each learner assembles the
+three closing artifacts, states what they learned from each, and names one thing they
+will carry forward into Grade 9.** The three artifacts are: (1) the whole-self map —
+intersecting identities shaping a whole self; (2) the choice-and-consequences note —
+pause, weigh now vs. later, choose; (3) the belonging-and-solidarity reflection — who
+gives, receives, decides, and how to stand *with* rather than *above*. Keep assessment
+**mastery, not ranking**: a learner missing an artifact simply completes it now — "not
+yet" is information, never a verdict. Looking ahead is framed as **purpose and
+possibility**, not pressure: naming one thing you want to carry forward is a step toward
+purpose, which grows by trying, not by being certain (S-400); identity remains a growing
+story, never a finished fact (S-155). The four lenses, gathered: the **ethics** lens
+asks what you will choose for others' sake; the **egalitarian** lens asks who you will
+stand with; the **global** lens remembers that this year's questions are asked, in
+different forms, by young people everywhere; the **technology & environment** lens asks
+how your choices touch people and the living Earth through the tools you use. Celebrate
+the collective — each learner's thread is part of one class web (S-233). End with hope,
+not a test.
 
 ## Procedure
 

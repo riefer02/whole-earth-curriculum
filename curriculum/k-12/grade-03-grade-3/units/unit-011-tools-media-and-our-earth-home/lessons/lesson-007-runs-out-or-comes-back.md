@@ -121,23 +121,23 @@ time. Knowing the difference is the first step of caring for our home.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Keep the tone hopeful, not frightening:
-this is the first step of **stewardship**, not a warning of doom. The core idea is two
-kinds of natural resource: one that **can run out** (coal, oil, gas, metal — made over
-millions of years, not replaced in a human lifetime) and one that **comes back** (sunlight,
-wind, rain/water, plants that regrow). Use the standard's own example — **sunlight** — as
-the anchor for "comes back." Be careful and honest at the edges: some "comes back" resources
-(clean water, trees) only come back if we use them slowly enough — but at Grade 3 we keep
-the two kinds clear and add that gentle note, saving "use it so it lasts" for Grade 4. Model
-the sort once, then guide practice (Kirschner, Sweller & Clark, 2006). Use examples from
-many places — a sunny field, a windy coast, a forest, a mine — so no single place is the
-default, and never imply one place wastes while another saves. Distinguish evidence from
-values: "coal is made over millions of years" is a fact; "we should use less" is a value of
+Keep the tone hopeful, not frightening: this is the first step of **stewardship**, not a
+warning of doom. The core idea is two kinds of natural resource: one that **can run
+out** (coal, oil, gas, metal — made over millions of years, not replaced in a human
+lifetime) and one that **comes back** (sunlight, wind, rain/water, plants that regrow).
+Use the standard's own example — **sunlight** — as the anchor for "comes back." Be
+careful and honest at the edges: some "comes back" resources (clean water, trees) only
+come back if we use them slowly enough — but at Grade 3 we keep the two kinds clear and
+add that gentle note, saving "use it so it lasts" for Grade 4. Model the sort once, then
+guide practice (Kirschner, Sweller & Clark, 2006). Use examples from many places — a
+sunny field, a windy coast, a forest, a mine — so no single place is the default, and
+never imply one place wastes while another saves. Distinguish evidence from values:
+"coal is made over millions of years" is a fact; "we should use less" is a value of
 care — both are welcome, and we name which is which. Honor every body: describe each
-resource for a learner who is blind or has low vision (feel a stone for metal, a leaf for a
-regrowing plant, sunlight and wind on the skin); a non-speaking learner points to the
-"runs out" or "comes back" column; acting out the sun rising and coal being used up works
-for learners who learn best by moving.
+resource for a learner who is blind or has low vision (feel a stone for metal, a leaf
+for a regrowing plant, sunlight and wind on the skin); a non-speaking learner points to
+the "runs out" or "comes back" column; acting out the sun rising and coal being used up
+works for learners who learn best by moving.
 
 ## Procedure
 

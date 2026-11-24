@@ -104,10 +104,9 @@ to make.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, keep the situations simple and free of blame —
-the aim is noticing, not shaming. Affirm that all people sometimes make friends sad
-by accident, and the caring thing is to notice and try again.
+As facilitator, keep the situations simple and free of blame — the aim is noticing, not
+shaming. Affirm that all people sometimes make friends sad by accident, and the caring
+thing is to notice and try again.
 
 ## Procedure
 

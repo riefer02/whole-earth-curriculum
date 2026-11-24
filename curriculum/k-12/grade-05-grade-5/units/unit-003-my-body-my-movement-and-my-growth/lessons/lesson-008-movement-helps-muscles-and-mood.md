@@ -116,13 +116,13 @@ gets its lift, everywhere on Earth.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land are that **movement builds
-muscles and lifts mood**, and that people everywhere move for **joy**, not just for exercise.
-Invite learners to share movement traditions from their own families and places, and honor
-every one with curiosity — never ranking one as better. Keep any shared movement gentle,
-optional, and inclusive of every body (seated and adapted versions count fully). Note that
-the mood lift is a real, chemical effect, not just a feeling — this is evidence, and it is for
-everyone. See `docs/facilitation.md` and `docs/contexts.md`.
+The ideas to land are that **movement builds muscles and lifts mood**, and that people
+everywhere move for **joy**, not just for exercise. Invite learners to share movement
+traditions from their own families and places, and honor every one with curiosity —
+never ranking one as better. Keep any shared movement gentle, optional, and inclusive of
+every body (seated and adapted versions count fully). Note that the mood lift is a real,
+chemical effect, not just a feeling — this is evidence, and it is for everyone. See
+`docs/facilitation.md` and `docs/contexts.md`.
 
 ## Procedure
 

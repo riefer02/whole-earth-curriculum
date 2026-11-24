@@ -120,11 +120,10 @@ That is what "we are friends" means.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, this is a celebration, not a test. Let learners
-show what they remember in their own way — words, pictures, movements — and affirm
-that friendship is practice, not perfection. Keep the four skills simple and let the
-shared creation hold the meaning.
+As facilitator, this is a celebration, not a test. Let learners show what they remember
+in their own way — words, pictures, movements — and affirm that friendship is practice,
+not perfection. Keep the four skills simple and let the shared creation hold the
+meaning.
 
 ## Procedure
 

@@ -111,23 +111,25 @@ instead of trusting it, because sometimes the algebra hands you a number that do
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **to solve a radical equation,
-(1) isolate the radical on one side; (2) square both sides (or raise to the power that matches the
-root) to undo it; (3) solve the resulting equation; (4) substitute every candidate answer back into
-the *original* equation, because squaring can create an extraneous solution — a number that solves
-the squared equation but not the original.** This is a *skill*, so use a **worked example first,
-then guided practice** (S-011). Model √(x+1) = 3 first (clean), then √(2x−3) = x−3, which produces
-two candidates, x = 6 and x = 2, of which only x = 6 checks. The critical-thinking lens: the check
-is what separates "I did algebra" from "I know it is true." The ethics lens: honesty about
-extraneous solutions is honesty about evidence — do not keep an answer just because the algebra
-produced it (philosophy §5). The global lens: solving by "undoing" and justifying steps with
-properties descends from the algebraic tradition named by al-Khwarizmi, whose title gave us the word
-*algebra* (from *al-jabr*, "the reuniting"); early arguments were carried by pictures as much as
-symbols (S-429, S-431). The egalitarian lens: checking every answer is a habit open to everyone —
-no "math gift" is required, only care; "not yet" — a step that needs fixing — is information, never
-a verdict (philosophy §8). The technology lens: a graphing tool can show why an extraneous solution
-does not appear on the graph, but it confirms the check — it does not replace the honest habit of
-substituting the answer back into the original equation.
+The skill to land: **to solve a radical equation, (1) isolate the radical on one side;
+(2) square both sides (or raise to the power that matches the root) to undo it; (3)
+solve the resulting equation; (4) substitute every candidate answer back into the
+*original* equation, because squaring can create an extraneous solution — a number that
+solves the squared equation but not the original.** This is a *skill*, so use a **worked
+example first, then guided practice** (S-011). Model √(x+1) = 3 first (clean), then
+√(2x−3) = x−3, which produces two candidates, x = 6 and x = 2, of which only x = 6
+checks. The critical-thinking lens: the check is what separates "I did algebra" from "I
+know it is true." The ethics lens: honesty about extraneous solutions is honesty about
+evidence — do not keep an answer just because the algebra produced it (philosophy §5).
+The global lens: solving by "undoing" and justifying steps with properties descends from
+the algebraic tradition named by al-Khwarizmi, whose title gave us the word *algebra*
+(from *al-jabr*, "the reuniting"); early arguments were carried by pictures as much as
+symbols (S-429, S-431). The egalitarian lens: checking every answer is a habit open to
+everyone — no "math gift" is required, only care; "not yet" — a step that needs fixing —
+is information, never a verdict (philosophy §8). The technology lens: a graphing tool
+can show why an extraneous solution does not appear on the graph, but it confirms the
+check — it does not replace the honest habit of substituting the answer back into the
+original equation.
 
 ## Procedure
 

@@ -119,22 +119,22 @@ reality*.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **the design process is
-an iterative cycle — name the problem, imagine, plan, create, test, improve — repeated as
-needed (S-370); a prototype is a rough, changeable first version, and its test against
-real conditions (and real users) is what turns an idea into a design.** Teach the cycle
-explicitly with a worked example and guided practice (S-011); the problem and the
-solution stay the learner's own.
+The ideas to land: **the design process is an iterative cycle — name the problem,
+imagine, plan, create, test, improve — repeated as needed (S-370); a prototype is a
+rough, changeable first version, and its test against real conditions (and real users)
+is what turns an idea into a design.** Teach the cycle explicitly with a worked example
+and guided practice (S-011); the problem and the solution stay the learner's own.
 
 The **intellectual** lens: a test is a small experiment — does the prototype do what it
-was meant to, for the person it was meant for? The **egalitarianism** lens: design either
-includes or leaves out. The **seven principles of universal design** — equitable use,
-flexibility in use, simple and intuitive use, perceptible information, tolerance for
-error, low physical effort, and size and space for approach and use — are a fairness
-frame: ask *who can't use this, and how do I widen the door* (S-369). The **environment**
-lens: a good solution does not just work today; it considers its materials and footprint
-(previewing Lesson 9's life-cycle lens). The **community** lens: real design is *with*
-users, not *at* them — learners test with a partner or a real person and listen.
+was meant to, for the person it was meant for? The **egalitarianism** lens: design
+either includes or leaves out. The **seven principles of universal design** — equitable
+use, flexibility in use, simple and intuitive use, perceptible information, tolerance
+for error, low physical effort, and size and space for approach and use — are a fairness
+frame: ask *who can't use this, and how do I widen the door* (S-369). The
+**environment** lens: a good solution does not just work today; it considers its
+materials and footprint (previewing Lesson 9's life-cycle lens). The **community** lens:
+real design is *with* users, not *at* them — learners test with a partner or a real
+person and listen.
 
 ## Procedure
 

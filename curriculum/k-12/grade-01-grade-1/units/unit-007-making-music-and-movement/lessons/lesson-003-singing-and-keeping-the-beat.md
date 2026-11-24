@@ -112,18 +112,16 @@ steady.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Singing and keeping a beat are **skills**, so teach them with
-explicit modeling and guided practice before independent trying (Kirschner, Sweller &
-Clark, 2006): you sing one short line, they echo; you clap one slow beat, they join.
-Keep the beat slow and visible. There is no "correct" voice — closeness to the beat
-grows with practice, and "not yet" is never "wrong." For a learner who is Deaf or
-hard of hearing, make the beat **visible and felt**: clap and pat where everyone can
-see, and invite them to feel the beat as **vibration** by resting a hand on a drum, a
-tabletop, or the floor while others tap — sound is vibration the body can feel. A
-learner who does not sing keeps the beat by clapping, tapping, or swaying, which is
-full participation. Never push a shy learner to sing alone; singing together is
-enough.
+Singing and keeping a beat are **skills**, so teach them with explicit modeling and
+guided practice before independent trying (Kirschner, Sweller & Clark, 2006): you sing
+one short line, they echo; you clap one slow beat, they join. Keep the beat slow and
+visible. There is no "correct" voice — closeness to the beat grows with practice, and
+"not yet" is never "wrong." For a learner who is Deaf or hard of hearing, make the beat
+**visible and felt**: clap and pat where everyone can see, and invite them to feel the
+beat as **vibration** by resting a hand on a drum, a tabletop, or the floor while others
+tap — sound is vibration the body can feel. A learner who does not sing keeps the beat
+by clapping, tapping, or swaying, which is full participation. Never push a shy learner
+to sing alone; singing together is enough.
 
 ## Procedure
 

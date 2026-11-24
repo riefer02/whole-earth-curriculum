@@ -115,25 +115,24 @@ how honest data speaks.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a sample estimates a
-population with uncertainty; the margin of error (roughly 1/√n for a poll) widens or
-narrows with sample size; a confidence interval is the honest range; and "significant"
-means "unlikely by chance alone," not "big" or "important."** Teach the margin-of-error
-computation explicitly (S-011), and keep the two words distinct — *significance* (a
-statistical claim about chance) vs *importance* (a value judgment) — because conflating
-them is a classic error.
+The idea to land: **a sample estimates a population with uncertainty; the margin of
+error (roughly 1/√n for a poll) widens or narrows with sample size; a confidence
+interval is the honest range; and "significant" means "unlikely by chance alone," not
+"big" or "important."** Teach the margin-of-error computation explicitly (S-011), and
+keep the two words distinct — *significance* (a statistical claim about chance) vs
+*importance* (a value judgment) — because conflating them is a classic error.
 
-The **ethics** lens: reporting the margin of error is honesty about uncertainty; hiding it
-is a way of overclaiming. The **egalitarianism** lens: a sample that leaves a group out is
-a biased estimate that misrepresents them — random, inclusive sampling is a fairness
-practice, not a technicality (S-242). The **global** lens: the mathematics of sampling is
-the same everywhere, but what gets sampled — and who is counted at all — differs by place
-and power; inference is global, but *who* is in the population is a local question (S-006).
-The **technology** lens: polls and A/B tests run inference at machine speed, which makes
-reading uncertainty more, not less, important. The **environment** lens: water and air
-quality, species counts, and climate trends are all claims from samples — a margin of error
-on a contaminant is a health decision (S-005). Preview: Lesson 14 turns to misleading
-statistics and defending with honest data.
+The **ethics** lens: reporting the margin of error is honesty about uncertainty; hiding
+it is a way of overclaiming. The **egalitarianism** lens: a sample that leaves a group
+out is a biased estimate that misrepresents them — random, inclusive sampling is a
+fairness practice, not a technicality (S-242). The **global** lens: the mathematics of
+sampling is the same everywhere, but what gets sampled — and who is counted at all —
+differs by place and power; inference is global, but *who* is in the population is a
+local question (S-006). The **technology** lens: polls and A/B tests run inference at
+machine speed, which makes reading uncertainty more, not less, important. The
+**environment** lens: water and air quality, species counts, and climate trends are all
+claims from samples — a margin of error on a contaminant is a health decision (S-005).
+Preview: Lesson 14 turns to misleading statistics and defending with honest data.
 
 ## Procedure
 

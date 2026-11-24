@@ -122,19 +122,18 @@ stand, cloth fit, and patterns repeat. Classifying is how you read a shape's fam
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Classification is the **analysis of
-attributes**: teach it by asking "how many pairs of parallel sides? how many right
-angles? how many equal sides?" (Van de Walle, Karp & Bay-Williams, 2019). Model the
-quadrilateral family as a **worked example** (philosophy §13): a parallelogram has
-two pairs of parallel sides; a rectangle is a parallelogram with four right angles;
-a square is a rectangle with four equal sides and a rhombus with four right angles.
-The key insight is **hierarchical classification** — one shape can belong to more
-than one group. **How quickly a learner names a category is not a measure of their
-worth; a shape's features are facts, never a judgment about a person.** Shape-sorting
-is a human and cross-cultural practice, from quilts and mosaics to roofs and maps
-(Zaslavsky, 1999). Use the home language's shape words; all are correct. For learners
-who are Deaf or hard of hearing, sign each feature; for learners who are blind or
-have low vision, feel shapes' sides and corners and sort by touch. Learners with
+Classification is the **analysis of attributes**: teach it by asking "how many pairs of
+parallel sides? how many right angles? how many equal sides?" (Van de Walle, Karp &
+Bay-Williams, 2019). Model the quadrilateral family as a **worked example** (philosophy
+§13): a parallelogram has two pairs of parallel sides; a rectangle is a parallelogram
+with four right angles; a square is a rectangle with four equal sides and a rhombus with
+four right angles. The key insight is **hierarchical classification** — one shape can
+belong to more than one group. **How quickly a learner names a category is not a measure
+of their worth; a shape's features are facts, never a judgment about a person.**
+Shape-sorting is a human and cross-cultural practice, from quilts and mosaics to roofs
+and maps (Zaslavsky, 1999). Use the home language's shape words; all are correct. For
+learners who are Deaf or hard of hearing, sign each feature; for learners who are blind
+or have low vision, feel shapes' sides and corners and sort by touch. Learners with
 limited movement direct a partner to sort. Mastery arrives at its own pace.
 
 ## Procedure

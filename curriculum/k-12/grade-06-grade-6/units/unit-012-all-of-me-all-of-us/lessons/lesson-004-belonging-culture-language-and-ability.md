@@ -119,14 +119,14 @@ each other.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It **retrieves** the belonging work from Unit 3
-(see L.06.003.07–08) and deepens it with reflection — a spiral, not a repeat. Handle with care:
-learners may disclose real experiences of exclusion or of being made to feel "different." Never
-ask anyone to perform their difference or to relive pain; invite, do not require, personal
-sharing. The idea to land is that **difference is ordinary and whole**, and that **belonging is
-built, not given** — so every learner has power to open the circle. Include ability naturally
-(wheelchairs, hearing aids, prosthetics) as ordinary, never as a "special case." See
-`docs/facilitation.md` and `docs/art-style.md`.
+It **retrieves** the belonging work from Unit 3 (see L.06.003.07–08) and deepens it with
+reflection — a spiral, not a repeat. Handle with care: learners may disclose real
+experiences of exclusion or of being made to feel "different." Never ask anyone to
+perform their difference or to relive pain; invite, do not require, personal sharing.
+The idea to land is that **difference is ordinary and whole**, and that **belonging is
+built, not given** — so every learner has power to open the circle. Include ability
+naturally (wheelchairs, hearing aids, prosthetics) as ordinary, never as a "special
+case." See `docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure
 

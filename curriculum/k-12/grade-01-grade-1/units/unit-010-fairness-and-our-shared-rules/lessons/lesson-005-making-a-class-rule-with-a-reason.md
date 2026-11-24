@@ -111,22 +111,21 @@ for your idea.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **making decisions together**, not
-obeying a teacher's rule. Rules here are questions about how we live well together,
-not commands to obey — invite learners to wonder what the class needs, then propose a
-rule and a reason. If you use a passing object so each person is heard, call it a
-**turn marker** — a small cloth, stone, or ball. People everywhere find ways to
-make sure one voice is heard at a time; a passing object is one simple, respectful
-way to do that. The marker reminds everyone to listen while one person speaks —
-it is not a decoration. Every voice matters — not just the loudest or fastest; invite quieter
-voices and show that a good idea can come from anyone. A learner who does not speak
-aloud proposes their rule by pointing to a picture, signing, or having a peer voice
-it; a learner who is blind or low-vision names their rule and reason aloud and hears
-the choices read back; a learner with a motor difference shows their choice by
-directing a partner or using eye gaze, and their idea is recorded. Choice can be
-shown many ways — a raised hand, a token, a step into a circle, a nod. Never require
-anyone to speak in front of the group; a learner may always pass. The goal is a rule
-the class *chose together* with reasons, not a rule handed down.
+This lesson teaches **making decisions together**, not obeying a teacher's rule. Rules
+here are questions about how we live well together, not commands to obey — invite
+learners to wonder what the class needs, then propose a rule and a reason. If you use a
+passing object so each person is heard, call it a **turn marker** — a small cloth,
+stone, or ball. People everywhere find ways to make sure one voice is heard at a time; a
+passing object is one simple, respectful way to do that. The marker reminds everyone to
+listen while one person speaks — it is not a decoration. Every voice matters — not just
+the loudest or fastest; invite quieter voices and show that a good idea can come from
+anyone. A learner who does not speak aloud proposes their rule by pointing to a picture,
+signing, or having a peer voice it; a learner who is blind or low-vision names their
+rule and reason aloud and hears the choices read back; a learner with a motor difference
+shows their choice by directing a partner or using eye gaze, and their idea is recorded.
+Choice can be shown many ways — a raised hand, a token, a step into a circle, a nod.
+Never require anyone to speak in front of the group; a learner may always pass. The goal
+is a rule the class *chose together* with reasons, not a rule handed down.
 
 ## Procedure
 

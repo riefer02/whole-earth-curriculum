@@ -112,13 +112,14 @@ apart is how you keep from being fooled — in a market, in the news, in a famil
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that the difference between
-fact and opinion is *how the claim behaves* — a fact can be checked, an opinion is held. Avoid
-framing opinions as "bad"; they are how we feel and choose, and they matter. The skill is
-*telling which is which* and knowing what each is for. Be careful with close calls (a taste
-judgment dressed up as fact, or a value stated as a fact) — those are the interesting ones to
-discuss, not to rush past. This is a critical-thinking habit, not a one-day module
-(`docs/philosophy.md` §7). Keep sorting non-competitive and let learners justify their choices.
+The idea to land is that the difference between fact and opinion is *how the claim
+behaves* — a fact can be checked, an opinion is held. Avoid framing opinions as "bad";
+they are how we feel and choose, and they matter. The skill is *telling which is which*
+and knowing what each is for. Be careful with close calls (a taste judgment dressed up
+as fact, or a value stated as a fact) — those are the interesting ones to discuss, not
+to rush past. This is a critical-thinking habit, not a one-day module
+(`docs/philosophy.md` §7). Keep sorting non-competitive and let learners justify their
+choices.
 
 ## Procedure
 

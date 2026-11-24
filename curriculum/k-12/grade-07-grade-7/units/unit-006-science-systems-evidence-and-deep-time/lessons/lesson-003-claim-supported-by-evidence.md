@@ -116,24 +116,24 @@ strength of the evidence**, and know what is still missing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **evaluate a claim by (1)
-naming exactly what is claimed, (2) weighing the evidence offered, and (3) naming what
-further evidence would settle it — and "not enough to say yet" is a precise, mature answer.**
-Use explicit instruction and a worked example first (Kirschner, Sweller & Clark, 2006), then
-guided practice. The concepts of sample size, control groups, and replication are standard
-ideas in scientific method and statistics. The technology lens (`docs/philosophy.md` §4): the
-internet makes claims travel faster than ever, so the *skill* of weighing evidence — not just
-the facts — is what learners most need to thrive in a media-saturated world. The egalitarian
-lens: advertising and misinformation often target people with the least access to good
-evidence; teaching everyone to evaluate claims is a way of evening the scales. The global
-and anthropological lens (`docs/philosophy.md` §4, §11): claims — and ways of knowing — come
-from every culture. A single anecdote about a herbal tea is not the same as a whole healing
-tradition: traditional and Indigenous medicines are knowledge systems in their own right,
-held respectfully alongside scientific medicine. This lesson teaches learners to weigh the
-evidence *for one claim*, never to dismiss a tradition; "not enough to say yet" is respect
-for the evidence, not disrespect for the people. Keep it
-age-appropriate and non-dogmatic: the goal is not to call all ads lies, but to ask "what is
-the evidence, and what is missing?"
+The idea to land: **evaluate a claim by (1) naming exactly what is claimed, (2) weighing
+the evidence offered, and (3) naming what further evidence would settle it — and "not
+enough to say yet" is a precise, mature answer.** Use explicit instruction and a worked
+example first (Kirschner, Sweller & Clark, 2006), then guided practice. The concepts of
+sample size, control groups, and replication are standard ideas in scientific method and
+statistics. The technology lens (`docs/philosophy.md` §4): the internet makes claims
+travel faster than ever, so the *skill* of weighing evidence — not just the facts — is
+what learners most need to thrive in a media-saturated world. The egalitarian lens:
+advertising and misinformation often target people with the least access to good
+evidence; teaching everyone to evaluate claims is a way of evening the scales. The
+global and anthropological lens (`docs/philosophy.md` §4, §11): claims — and ways of
+knowing — come from every culture. A single anecdote about a herbal tea is not the same
+as a whole healing tradition: traditional and Indigenous medicines are knowledge systems
+in their own right, held respectfully alongside scientific medicine. This lesson teaches
+learners to weigh the evidence *for one claim*, never to dismiss a tradition; "not
+enough to say yet" is respect for the evidence, not disrespect for the people. Keep it
+age-appropriate and non-dogmatic: the goal is not to call all ads lies, but to ask "what
+is the evidence, and what is missing?"
 
 ## Procedure
 

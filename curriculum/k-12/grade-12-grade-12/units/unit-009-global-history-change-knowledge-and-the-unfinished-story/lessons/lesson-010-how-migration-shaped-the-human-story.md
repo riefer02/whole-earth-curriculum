@@ -115,25 +115,27 @@ we come from. A full account must say both what movement *gave* the world and wh
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **migration shaped the human story
-by spreading crops, animals, technologies, languages, and ideas — and by carrying both dignity and
-trauma through forced movement; a full synthesis holds the spread and the loss together.** Teach the
-frame explicitly (S-011). Guard against the one-sided tellings: neither "migration is only a gift of
-exchange" nor "migration is only a wound." The mature synthesis says both, with evidence, and
-centers the experience of the people moved.
+The idea to land: **migration shaped the human story by spreading crops, animals,
+technologies, languages, and ideas — and by carrying both dignity and trauma through
+forced movement; a full synthesis holds the spread and the loss together.** Teach the
+frame explicitly (S-011). Guard against the one-sided tellings: neither "migration is
+only a gift of exchange" nor "migration is only a wound." The mature synthesis says
+both, with evidence, and centers the experience of the people moved.
 
-The **ethics** lens: the same movement that spread a crop also carried enslaved people — naming the
-trauma alongside the gift is an ethical requirement, not a mood. The **egalitarianism** lens: the
-Columbian Exchange is often told from the colonizer's side; told from the side of the peoples and
-lands it transformed, it is a story of both new foods and devastation (S-273) — and the enslaved
-who carried a crop's knowledge across the ocean are authors of the story, not background (S-322,
-S-274). The **global** lens: no region is untouched — the potato traveled from the Andes to become
-a staple on other continents (S-054), and the exchanges went in every direction, not one. The
-**technology** lens: what moved was not only people but *know-how* — weaving, metalwork, navigation
-— which is why a migration is also a transfer of technology. The **environment** lens: moving crops
-and animals between continents remade whole landscapes, for good and ill (S-273) — the human story
-and the Earth's story are one migration. Preview: Lesson 11 turns from the story of peoples to
-*your own* place in the movement of people and ideas.
+The **ethics** lens: the same movement that spread a crop also carried enslaved people —
+naming the trauma alongside the gift is an ethical requirement, not a mood. The
+**egalitarianism** lens: the Columbian Exchange is often told from the colonizer's side;
+told from the side of the peoples and lands it transformed, it is a story of both new
+foods and devastation (S-273) — and the enslaved who carried a crop's knowledge across
+the ocean are authors of the story, not background (S-322, S-274). The **global** lens:
+no region is untouched — the potato traveled from the Andes to become a staple on other
+continents (S-054), and the exchanges went in every direction, not one. The
+**technology** lens: what moved was not only people but *know-how* — weaving, metalwork,
+navigation — which is why a migration is also a transfer of technology. The
+**environment** lens: moving crops and animals between continents remade whole
+landscapes, for good and ill (S-273) — the human story and the Earth's story are one
+migration. Preview: Lesson 11 turns from the story of peoples to *your own* place in the
+movement of people and ideas.
 
 ## Procedure
 

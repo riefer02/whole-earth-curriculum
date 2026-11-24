@@ -129,19 +129,18 @@ and you celebrate it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the year's **capstone**, and its
-two commitments are **celebration, not competition** and **care helps everyone,
-including the giver**. No best-work awards, no winners, no ranking — every learner's
-work is displayed equally, and every child belongs. Honor every family shape too: a
-child's caring circle may be parents, one parent, grandparents, extended kin,
-guardians, foster or group care, or a trusted adult — and a learner may share their
-celebration with any of these, or pass. In the care-sharing circle,
-sharing is by choice; a learner may pass, and a pass is a full share. Let the question
-"why does helping help everyone?" stay open and personal — the answer is felt, not
-tested: helping connects us, warms us, and builds the group we want to live in. For a
-learner who is Deaf or hard of hearing, make the celebration visual — clapping,
-signing, a flag wave, a visual "bravo." For a learner who is blind or has low vision,
-describe work aloud or offer a spoken or tactile tour. Keep the tone warm and
+It is the year's **capstone**, and its two commitments are **celebration, not
+competition** and **care helps everyone, including the giver**. No best-work awards, no
+winners, no ranking — every learner's work is displayed equally, and every child
+belongs. Honor every family shape too: a child's caring circle may be parents, one
+parent, grandparents, extended kin, guardians, foster or group care, or a trusted
+adult — and a learner may share their celebration with any of these, or pass. In the
+care-sharing circle, sharing is by choice; a learner may pass, and a pass is a full
+share. Let the question "why does helping help everyone?" stay open and personal — the
+answer is felt, not tested: helping connects us, warms us, and builds the group we want
+to live in. For a learner who is Deaf or hard of hearing, make the celebration visual —
+clapping, signing, a flag wave, a visual "bravo." For a learner who is blind or has low
+vision, describe work aloud or offer a spoken or tactile tour. Keep the tone warm and
 generous: the class has grown together, and everyone belongs.
 
 ## Procedure

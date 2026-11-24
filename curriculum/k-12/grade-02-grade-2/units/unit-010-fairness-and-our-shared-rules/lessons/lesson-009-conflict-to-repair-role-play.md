@@ -117,22 +117,21 @@ repair.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson is **guided practice** — the learner has
-seen each piece (conflict and peaceful solve in Lesson 7; real apology in Lesson 8)
-and now puts them together with scaffolding. Model first: a small, gentle conflict (a
-knocked-over tower, both wanting the same ball), then name each step aloud as the
-group or a volunteer works it. Use the three-step strip as a worked example, then let
-learners rehearse in small groups or pairs. Keep conflicts small, invented, and
-blame-free; never ask a learner to act out a real, private hurt, and never require a
-forced apology — the apology in the role-play is practiced as a skill, not extracted
-as a confession. The helper role (a peer or a trusted grown-up) is optional and shows
-that getting help is a real peaceful solve, not a last resort. A learner who does not
-speak aloud points to each step on the strip or signs; a learner who is deaf or hard
-of hearing follows the role-play through the strip and sign; a learner who is blind
-or low-vision hears each step described and names what comes next; a learner with a
-motor difference can direct a partner or play the helper. Every learner may pass. The
-aim is that each learner can say, in their own way, "I can go from conflict to
-repair."
+This lesson is **guided practice** — the learner has seen each piece (conflict and
+peaceful solve in Lesson 7; real apology in Lesson 8) and now puts them together with
+scaffolding. Model first: a small, gentle conflict (a knocked-over tower, both wanting
+the same ball), then name each step aloud as the group or a volunteer works it. Use the
+three-step strip as a worked example, then let learners rehearse in small groups or
+pairs. Keep conflicts small, invented, and blame-free; never ask a learner to act out a
+real, private hurt, and never require a forced apology — the apology in the role-play is
+practiced as a skill, not extracted as a confession. The helper role (a peer or a
+trusted grown-up) is optional and shows that getting help is a real peaceful solve, not
+a last resort. A learner who does not speak aloud points to each step on the strip or
+signs; a learner who is deaf or hard of hearing follows the role-play through the strip
+and sign; a learner who is blind or low-vision hears each step described and names what
+comes next; a learner with a motor difference can direct a partner or play the helper.
+Every learner may pass. The aim is that each learner can say, in their own way, "I can
+go from conflict to repair."
 
 ## Procedure
 

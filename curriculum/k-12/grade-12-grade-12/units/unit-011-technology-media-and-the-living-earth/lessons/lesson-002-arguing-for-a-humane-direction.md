@@ -115,26 +115,27 @@ decided by people who show up with reasons. You can be one of them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an argument for a humane
-direction is a claim, a reason, evidence, an honest account of who benefits and who is harmed,
-a real counterargument, and a response — and "humane" means a direction that serves human
-flourishing and the living Earth, not just efficiency.** Model the argument structure
-explicitly, then let learners build their own (S-011). Keep evidence and values distinct: *who*
-benefits and *what* a technology does are factual; *which* direction we ought to choose is a
-value question to be argued, not assumed (S-236, S-459).
+The idea to land: **an argument for a humane direction is a claim, a reason, evidence,
+an honest account of who benefits and who is harmed, a real counterargument, and a
+response — and "humane" means a direction that serves human flourishing and the living
+Earth, not just efficiency.** Model the argument structure explicitly, then let learners
+build their own (S-011). Keep evidence and values distinct: *who* benefits and *what* a
+technology does are factual; *which* direction we ought to choose is a value question to
+be argued, not assumed (S-236, S-459).
 
-The **ethics** lens: arguing for a humane direction is the unit's central ethical move — the
-step from describing a system to taking responsibility for steering it. The **egalitarianism**
-lens: a humane direction is judged by how it treats the people who are usually left out — the
-miner, the person without access, the downstream neighbor — not only the loudest stakeholder
-(S-281, S-483). The **global** lens: what counts as "humane" is argued differently around the
-world — a direction good for one place may burden another — so the argument must name whose
-flourishing it serves (S-281). The **technology** lens: governance choices (a rule, a standard,
-a repair right, a design decision) are the concrete levers a humane direction pulls; the
-argument is about which levers to pull (S-481). The **environment** lens: a direction that
-serves people but destroys the Earth that sustains them is not humane in the long run, so the
-argument must weigh the living world alongside human convenience (S-395). Preview: Lesson 3
-turns inward — what technology gives you, and what it costs you.
+The **ethics** lens: arguing for a humane direction is the unit's central ethical move —
+the step from describing a system to taking responsibility for steering it. The
+**egalitarianism** lens: a humane direction is judged by how it treats the people who
+are usually left out — the miner, the person without access, the downstream neighbor —
+not only the loudest stakeholder (S-281, S-483). The **global** lens: what counts as
+"humane" is argued differently around the world — a direction good for one place may
+burden another — so the argument must name whose flourishing it serves (S-281). The
+**technology** lens: governance choices (a rule, a standard, a repair right, a design
+decision) are the concrete levers a humane direction pulls; the argument is about which
+levers to pull (S-481). The **environment** lens: a direction that serves people but
+destroys the Earth that sustains them is not humane in the long run, so the argument
+must weigh the living world alongside human convenience (S-395). Preview: Lesson 3 turns
+inward — what technology gives you, and what it costs you.
 
 ## Procedure
 

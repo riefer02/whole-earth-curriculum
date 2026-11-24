@@ -114,15 +114,15 @@ the text** does it say so?
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that an **interpretation
-must be anchored to the text** — and the anchor is an exact quote, not a vague memory. Teach
-the frame "**I think ___ because the text says '___'**" as a worked example (a novice skill;
-model then guide — Kirschner, Sweller & Clark, 2006). This is the ethical heart of reading
-too: we are honest about *where* our idea came from, and we can change our mind when the text
-disagrees (`docs/philosophy.md` §5 — evidence distinguished from belief). Honor every home
-language: learners may read and cite a passage in their strongest language; citing in a second
-language is advanced, valuable work. Keep the practice text short and global — a flood, a
-garden, a journey — so it lives anywhere.
+The idea to land is that an **interpretation must be anchored to the text** — and the
+anchor is an exact quote, not a vague memory. Teach the frame "**I think ___ because the
+text says '___'**" as a worked example (a novice skill; model then guide — Kirschner,
+Sweller & Clark, 2006). This is the ethical heart of reading too: we are honest about
+*where* our idea came from, and we can change our mind when the text disagrees
+(`docs/philosophy.md` §5 — evidence distinguished from belief). Honor every home
+language: learners may read and cite a passage in their strongest language; citing in a
+second language is advanced, valuable work. Keep the practice text short and global — a
+flood, a garden, a journey — so it lives anywhere.
 
 ## Procedure
 

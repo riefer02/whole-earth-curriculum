@@ -123,14 +123,14 @@ compare those answers and see the pattern: **the environment shapes the design**
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **environment shapes
-design**, read through comparison — never ranking. An igloo and an adobe house are each
-*perfect* for their place; neither is "better." Guard against framing any people's
-building as "primitive"; these are sophisticated, time-tested answers to real conditions,
-still built and valued by living communities. The closing reflection is the unit's
-retrieval practice: recall the plan-and-complete artwork, the composed and performed
-piece, and the cooperative dance — not as review but as a chance to see the whole. See
-`docs/facilitation.md` and `docs/contexts.md`.
+The idea to land is **environment shapes design**, read through comparison — never
+ranking. An igloo and an adobe house are each *perfect* for their place; neither is
+"better." Guard against framing any people's building as "primitive"; these are
+sophisticated, time-tested answers to real conditions, still built and valued by living
+communities. The closing reflection is the unit's retrieval practice: recall the
+plan-and-complete artwork, the composed and performed piece, and the cooperative dance —
+not as review but as a chance to see the whole. See `docs/facilitation.md` and
+`docs/contexts.md`.
 
 ## Procedure
 

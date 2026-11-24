@@ -127,12 +127,10 @@ the world — and every piece you made has a story worth hearing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, make this a true celebration, not a contest.
-There are no "best" pieces — the point is that every child shares and every child is
-heard. Let learners share in whatever form suits them: talk, point, sing, move, or
-show. Close by naming the unit's big idea together: making is a voice, and every
-voice matters.
+As facilitator, make this a true celebration, not a contest. There are no "best"
+pieces — the point is that every child shares and every child is heard. Let learners
+share in whatever form suits them: talk, point, sing, move, or show. Close by naming the
+unit's big idea together: making is a voice, and every voice matters.
 
 ## Procedure
 

@@ -112,20 +112,21 @@ humans have found.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) in a right triangle, the
-hypotenuse c is opposite the right angle; (2) a² + b² = c² — the squares on the two legs together
-equal the square on the hypotenuse; (3) use it to find a missing side or a straight-line distance,
-taking a square root to finish.** Because applying the theorem is a foundational skill, use explicit
-instruction, worked examples, and guided practice before independent work (Kirschner, Sweller &
-Clark, 2006). Watch for the slips of putting c on a leg (the hypotenuse is always the longest side,
-opposite the right angle) and of adding before squaring. The global lens is essential here: the
-relationship was known before Pythagoras — in Babylonian records (Plimpton 322, c. 1800 BCE, S-354),
-in India's Sulbasutras (rope rules for altars, c. 800 BCE, S-292), and in China as the gou-gu rule
-(S-289); "Pythagoras's theorem" is a widely used *name*, not a claim about who first knew it
-(philosophy §11). The technology lens: the theorem is the mathematics behind the distance a GPS or a
-map computes between two points. The egalitarian lens: a rope with 3-4-5 knots makes a true right
-angle for anyone, anywhere — the tool is open to all. The critical-thinking lens: check that the
-longest side is the hypotenuse before squaring.
+The ideas to land: **(1) in a right triangle, the hypotenuse c is opposite the right
+angle; (2) a² + b² = c² — the squares on the two legs together equal the square on the
+hypotenuse; (3) use it to find a missing side or a straight-line distance, taking a
+square root to finish.** Because applying the theorem is a foundational skill, use
+explicit instruction, worked examples, and guided practice before independent work
+(Kirschner, Sweller & Clark, 2006). Watch for the slips of putting c on a leg (the
+hypotenuse is always the longest side, opposite the right angle) and of adding before
+squaring. The global lens is essential here: the relationship was known before
+Pythagoras — in Babylonian records (Plimpton 322, c. 1800 BCE, S-354), in India's
+Sulbasutras (rope rules for altars, c. 800 BCE, S-292), and in China as the gou-gu rule
+(S-289); "Pythagoras's theorem" is a widely used *name*, not a claim about who first
+knew it (philosophy §11). The technology lens: the theorem is the mathematics behind the
+distance a GPS or a map computes between two points. The egalitarian lens: a rope with
+3-4-5 knots makes a true right angle for anyone, anywhere — the tool is open to all. The
+critical-thinking lens: check that the longest side is the hypotenuse before squaring.
 
 ## Procedure
 

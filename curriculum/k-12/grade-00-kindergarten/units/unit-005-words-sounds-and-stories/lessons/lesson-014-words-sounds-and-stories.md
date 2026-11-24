@@ -113,12 +113,11 @@ itself to you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. This is a celebration, not a test. Each learner shares in their
-own way — a story, a mark, a name, a greeting, or all of them — and the group's job is
-to listen with the warmth practiced all unit. Honor every language and every writing
-system. Capture the sharing (in memory or on a recording) as a portfolio keepsake, but
-keep the tone joyful and unpressured.
+This is a celebration, not a test. Each learner shares in their own way — a story, a
+mark, a name, a greeting, or all of them — and the group's job is to listen with the
+warmth practiced all unit. Honor every language and every writing system. Capture the
+sharing (in memory or on a recording) as a portfolio keepsake, but keep the tone joyful
+and unpressured.
 
 ## Procedure
 

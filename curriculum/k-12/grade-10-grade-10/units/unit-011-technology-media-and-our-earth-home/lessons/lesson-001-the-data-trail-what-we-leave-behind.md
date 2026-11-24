@@ -114,18 +114,19 @@ are comfortable with it — in a city, on a farm, or anywhere people carry cards
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **ordinary life leaves a trail of data
-— content and metadata — that others can collect, often without clear consent, and that trail is the raw
-material of surveillance and automation we study this unit.** Keep the facts hedged and non-panicky:
-data collection genuinely powers useful things (maps, weather, messaging), *and* it genuinely enables
-watching. The **technology** lens is the spine — data is the substrate of the digital systems we meet
-all unit. The **egalitarian** lens: who is collected from most and who is left out is uneven, and the
-digital divide means some people's data is over-collected while others are excluded from benefits
-(S-281). The **global** lens: laws and norms about what may be collected differ widely by country and
-culture — none is the default (S-281). The **environment** lens: the servers that store our trail use
-energy and water, so data is never weightless — previewing a thread we return to. Distinguish evidence
-(what is collected) from values (what *should* be collected) (philosophy §5). Preview: next lesson asks
-who holds power when the data flows to a few.
+The idea to land: **ordinary life leaves a trail of data — content and metadata — that
+others can collect, often without clear consent, and that trail is the raw material of
+surveillance and automation we study this unit.** Keep the facts hedged and non-panicky:
+data collection genuinely powers useful things (maps, weather, messaging), *and* it
+genuinely enables watching. The **technology** lens is the spine — data is the substrate
+of the digital systems we meet all unit. The **egalitarian** lens: who is collected from
+most and who is left out is uneven, and the digital divide means some people's data is
+over-collected while others are excluded from benefits (S-281). The **global** lens:
+laws and norms about what may be collected differ widely by country and culture — none
+is the default (S-281). The **environment** lens: the servers that store our trail use
+energy and water, so data is never weightless — previewing a thread we return to.
+Distinguish evidence (what is collected) from values (what *should* be collected)
+(philosophy §5). Preview: next lesson asks who holds power when the data flows to a few.
 
 ## Procedure
 

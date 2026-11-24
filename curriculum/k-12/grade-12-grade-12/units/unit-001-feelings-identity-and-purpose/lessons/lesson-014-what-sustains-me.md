@@ -116,11 +116,11 @@ loud, so they are there when you need them — which is the whole point of the w
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **what sustains a
-person is nameable and portable — people, practices, values, and hope — and naming them
-is a skill, not a confession.** Steady routines (sleep, movement, small rituals) are
-part of what carries people through hard stretches, which is the honest, hedged core of
-the "practices" anchor; it is not a claim that routine fixes suffering.
+The idea to land: **what sustains a person is nameable and portable — people, practices,
+values, and hope — and naming them is a skill, not a confession.** Steady routines
+(sleep, movement, small rituals) are part of what carries people through hard stretches,
+which is the honest, hedged core of the "practices" anchor; it is not a claim that
+routine fixes suffering.
 
 The **ethics** lens: what we owe ourselves in a hard stretch — care, not contempt — is
 an ethical claim. The **egalitarianism** lens: some people have more anchors available

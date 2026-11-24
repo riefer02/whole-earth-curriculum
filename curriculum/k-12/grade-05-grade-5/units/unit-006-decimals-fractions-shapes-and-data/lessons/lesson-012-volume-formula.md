@@ -113,14 +113,15 @@ water workers everywhere figure out how much a tank, a crate, or a silo can hold
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **volume = length × width ×
-height**, where length × width is the area of one layer and × height multiplies by the number of
-layers. Connect this back to last lesson's cube counting so the formula is not magic. Model a
-worked example first (Kirschner, Sweller & Clark, 2006), then guide a second. Common slips:
-multiplying only two numbers, or writing the answer in square units instead of cubic units.
-Retrieval: ask learners to recall the unit-cube lesson and restate why volume is counted in
-cubic units. The formula is evidence; the habit of computing capacity honestly (so a tank is
-correctly sized for everyone who depends on it) is a fairness value (`docs/philosophy.md` §4).
+The idea to land: **volume = length × width × height**, where length × width is the area
+of one layer and × height multiplies by the number of layers. Connect this back to last
+lesson's cube counting so the formula is not magic. Model a worked example first
+(Kirschner, Sweller & Clark, 2006), then guide a second. Common slips: multiplying only
+two numbers, or writing the answer in square units instead of cubic units. Retrieval:
+ask learners to recall the unit-cube lesson and restate why volume is counted in cubic
+units. The formula is evidence; the habit of computing capacity honestly (so a tank is
+correctly sized for everyone who depends on it) is a fairness value
+(`docs/philosophy.md` §4).
 
 ## Procedure
 

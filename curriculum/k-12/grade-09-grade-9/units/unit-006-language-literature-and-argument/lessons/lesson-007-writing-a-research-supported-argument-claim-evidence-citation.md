@@ -115,24 +115,27 @@ build the second kind.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **a research-supported argument has five
-parts — (1) claim (what I think, said clearly); (2) reason (why I think it); (3) evidence (fact or example
-from a source) *with a citation*; (4) an answer to a counterargument; and (5) a supported position that is
-recognizably yours.** This is a *skill*, so use a **worked example, then guided practice** (S-011). Teach
-citation **generically and globally**: a citation names *author, title, source, and date* so a reader can
-find the evidence — this is the shared purpose behind every citation style, and we teach the *purpose*, not
-one nation's format (a learner may use the style their region uses). Model the worked example fully — a
-claim about a real, local, low-heat topic (e.g., "our school should compost its food waste") with a reason,
-a cited piece of evidence, and an honest answer to a counterargument. The critical-thinking lens: evidence
-supports a claim; it does not *prove* it — teach learners to write "suggests" or "shows," not "proves"
-(philosophy §5, §7). The ethics lens: citing is an act of honesty — it separates your words from others'
-and gives credit; failing to cite is taking someone else's work (S-040 on separating one's words from
-others'). The egalitarian lens: whose knowledge counts as a citable "source" matters — a local elder's
-testimony and a government report are both sources, and a learner's home-language source is a real source,
-not a lesser one. The global lens: the topic menu spans many places and stakes, and learners may choose any
-topic they can research. The technology lens: where a device is available, a source is found and checked
-online; where not, printed articles and people's testimony serve the same purpose. Keep the topics real but
-not explosive; the point is the *skill*.
+The skill to land: **a research-supported argument has five parts — (1) claim (what I
+think, said clearly); (2) reason (why I think it); (3) evidence (fact or example from a
+source) *with a citation*; (4) an answer to a counterargument; and (5) a supported
+position that is recognizably yours.** This is a *skill*, so use a **worked example,
+then guided practice** (S-011). Teach citation **generically and globally**: a citation
+names *author, title, source, and date* so a reader can find the evidence — this is the
+shared purpose behind every citation style, and we teach the *purpose*, not one nation's
+format (a learner may use the style their region uses). Model the worked example fully —
+a claim about a real, local, low-heat topic (e.g., "our school should compost its food
+waste") with a reason, a cited piece of evidence, and an honest answer to a
+counterargument. The critical-thinking lens: evidence supports a claim; it does not
+*prove* it — teach learners to write "suggests" or "shows," not "proves" (philosophy §5,
+§7). The ethics lens: citing is an act of honesty — it separates your words from others'
+and gives credit; failing to cite is taking someone else's work (S-040 on separating
+one's words from others'). The egalitarian lens: whose knowledge counts as a citable
+"source" matters — a local elder's testimony and a government report are both sources,
+and a learner's home-language source is a real source, not a lesser one. The global
+lens: the topic menu spans many places and stakes, and learners may choose any topic
+they can research. The technology lens: where a device is available, a source is found
+and checked online; where not, printed articles and people's testimony serve the same
+purpose. Keep the topics real but not explosive; the point is the *skill*.
 
 ## Procedure
 

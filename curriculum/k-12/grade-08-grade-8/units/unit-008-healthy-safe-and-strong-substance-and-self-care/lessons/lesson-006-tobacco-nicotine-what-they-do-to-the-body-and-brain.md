@@ -113,28 +113,36 @@ yourself with clear eyes.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It opens the unit's substance strand, and the tone is
-everything: **factual, calm, and non-shaming — never moralizing, never fear, and never insulting people
-who use tobacco.** The facts to land: **(1) nicotine reaches the brain in seconds and is highly
-addictive (S-374); (2) tobacco smoke harms the lungs, heart, and blood vessels, and is a leading
-preventable cause of death worldwide (S-374); (3) second-hand smoke harms the people around the smoker,
-too (S-374); (4) the developing adolescent brain is especially sensitive to nicotine, so delaying use
-is protective.** The critical-thinking lens is central: connect to Grade 7's marketing literacy — the
-tobacco and vaping industries have a long history of designing products and ads to make use look
-glamorous and universal; learners already know how to tell claims from evidence. The WHO tobacco
-page documents this directly (tobacco advertising, promotion and sponsorship "increases and sustains
-tobacco use by effectively recruiting new tobacco users" — S-374); S-312 is the Grade-7
-food-marketing-literacy frame that taught the tell-claims-from-evidence skill itself. Deliver the **norms correction** that prevention science supports: *in most
-places, the large majority of teenagers do not smoke or vape* — "everyone does it" is a myth, and
-saying so is itself protective (S-374; frame as a general, hedged truth). The egalitarian lens: tobacco
-companies have historically marketed hardest to particular groups and to lower-income countries; the
-burden of tobacco falls unequally, which is a justice matter. The global lens: tobacco's harms are
-global, and many countries now restrict tobacco advertising and raise the age of sale — and this lesson
-honors Indigenous and ceremonial uses of tobacco as distinct from commercial smoking, without ranking
-them. The technology & environment lens: tobacco is also a story of tools and land — new devices such as vapes are a technology engineered to deliver nicotine quickly, and growing tobacco and discarding its waste leave a footprint on the environment — so the choice is never only personal. The ethics lens: a safe, informed choice protects our own body and the people who breathe the air
-around us. Teach **refusal as a skill** (worked examples: "No thanks, I don't smoke"; "I'm good — my
-lungs are for running"; walk away; suggest something else), and always point to a trusted adult for
-help. A learner who has already tried tobacco is never shamed — they are met with facts and support.
+It opens the unit's substance strand, and the tone is everything: **factual, calm, and
+non-shaming — never moralizing, never fear, and never insulting people who use
+tobacco.** The facts to land: **(1) nicotine reaches the brain in seconds and is highly
+addictive (S-374); (2) tobacco smoke harms the lungs, heart, and blood vessels, and is a
+leading preventable cause of death worldwide (S-374); (3) second-hand smoke harms the
+people around the smoker, too (S-374); (4) the developing adolescent brain is especially
+sensitive to nicotine, so delaying use is protective.** The critical-thinking lens is
+central: connect to Grade 7's marketing literacy — the tobacco and vaping industries
+have a long history of designing products and ads to make use look glamorous and
+universal; learners already know how to tell claims from evidence. The WHO tobacco page
+documents this directly (tobacco advertising, promotion and sponsorship "increases and
+sustains tobacco use by effectively recruiting new tobacco users" — S-374); S-312 is the
+Grade-7 food-marketing-literacy frame that taught the tell-claims-from-evidence skill
+itself. Deliver the **norms correction** that prevention science supports: *in most
+places, the large majority of teenagers do not smoke or vape* — "everyone does it" is a
+myth, and saying so is itself protective (S-374; frame as a general, hedged truth). The
+egalitarian lens: tobacco companies have historically marketed hardest to particular
+groups and to lower-income countries; the burden of tobacco falls unequally, which is a
+justice matter. The global lens: tobacco's harms are global, and many countries now
+restrict tobacco advertising and raise the age of sale — and this lesson honors
+Indigenous and ceremonial uses of tobacco as distinct from commercial smoking, without
+ranking them. The technology & environment lens: tobacco is also a story of tools and
+land — new devices such as vapes are a technology engineered to deliver nicotine
+quickly, and growing tobacco and discarding its waste leave a footprint on the
+environment — so the choice is never only personal. The ethics lens: a safe, informed
+choice protects our own body and the people who breathe the air around us. Teach
+**refusal as a skill** (worked examples: "No thanks, I don't smoke"; "I'm good — my
+lungs are for running"; walk away; suggest something else), and always point to a
+trusted adult for help. A learner who has already tried tobacco is never shamed — they
+are met with facts and support.
 
 ## Procedure
 

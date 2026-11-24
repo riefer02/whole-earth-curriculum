@@ -109,10 +109,10 @@ with.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **deep listening is
-a concrete, practiced skill — hear fully, pause, reflect back, check — and its point is
-understanding, not winning.** Teach the loop with a worked example, then let learners
-practice on a *low-stakes* disagreement (no forced disclosure of real conflicts).
+The idea to land: **deep listening is a concrete, practiced skill — hear fully, pause,
+reflect back, check — and its point is understanding, not winning.** Teach the loop with
+a worked example, then let learners practice on a *low-stakes* disagreement (no forced
+disclosure of real conflicts).
 
 The **ethics** lens: how we treat someone who disagrees with us is a moral choice, and
 listening well is one way we honor another person's dignity. The **egalitarian** lens:
@@ -125,14 +125,14 @@ decision-making — and is a skill, not the property of any one region. The
 "reflect back" is perspective-taking made audible.
 
 **Emotional safety.** Learners may have painful real conflicts. Use only invented,
-low-stakes practice disagreements (what to eat, which game, who should go first).
-No one is asked to disclose a real rift; "I'd rather not share" is always honored. Do
-not stage a debate with a "winner."
+low-stakes practice disagreements (what to eat, which game, who should go first). No one
+is asked to disclose a real rift; "I'd rather not share" is always honored. Do not stage
+a debate with a "winner."
 
-**Access.** "Deep listening" names *attention*, not the ear. Non-hearing learners run the
-same loop by reading fully or watching a signed account; non-speaking learners reflect
-back by writing, sign, or gesture. The loop is about presence, and it is open to every
-mode of attending — this principle carries through the whole unit.
+**Access.** "Deep listening" names *attention*, not the ear. Non-hearing learners run
+the same loop by reading fully or watching a signed account; non-speaking learners
+reflect back by writing, sign, or gesture. The loop is about presence, and it is open to
+every mode of attending — this principle carries through the whole unit.
 
 ## Procedure
 

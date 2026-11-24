@@ -111,20 +111,21 @@ polite while doing opposite things. Before you can reason *with* someone, it hel
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) what a person thinks
-is right is shaped by their background (how and where they grew up), their culture (the
-shared ways of a people), and their position (their role — parent or child, owner or worker,
-host or guest, powerful or powerless); (2) this shaping is not a flaw — it is simply true of
-everyone, including us; (3) understanding a view is not the same as agreeing with it.** Hold
-the difference between "understand" and "agree" carefully: learners may understand why
-someone holds a view and still disagree with it, and that is legitimate. The ethics lens: we
-reason about values more honestly when we know where they come from. The egalitarian lens:
-position matters — people with more power and people with less often see "fair" differently,
-and neither view is automatically right. The global lens: use examples from many places, and
-invite learners' own practices without ranking any tradition above another (see philosophy
-§11 — no one culture is the default). The critical-thinking lens: ask "where does that idea
-come from?" about every view, including our own. Do not require any learner to disclose
-personal or family information; the web may be completed with invented or general examples.
+The ideas to land: **(1) what a person thinks is right is shaped by their background
+(how and where they grew up), their culture (the shared ways of a people), and their
+position (their role — parent or child, owner or worker, host or guest, powerful or
+powerless); (2) this shaping is not a flaw — it is simply true of everyone, including
+us; (3) understanding a view is not the same as agreeing with it.** Hold the difference
+between "understand" and "agree" carefully: learners may understand why someone holds a
+view and still disagree with it, and that is legitimate. The ethics lens: we reason
+about values more honestly when we know where they come from. The egalitarian lens:
+position matters — people with more power and people with less often see "fair"
+differently, and neither view is automatically right. The global lens: use examples from
+many places, and invite learners' own practices without ranking any tradition above
+another (see philosophy §11 — no one culture is the default). The critical-thinking
+lens: ask "where does that idea come from?" about every view, including our own. Do not
+require any learner to disclose personal or family information; the web may be completed
+with invented or general examples.
 
 ## Procedure
 

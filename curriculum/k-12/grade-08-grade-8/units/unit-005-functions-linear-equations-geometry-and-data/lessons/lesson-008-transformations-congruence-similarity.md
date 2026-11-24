@@ -112,20 +112,21 @@ shapes are the same (congruent) or the same shape at a different size (similar).
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) four moves — translation
-(slide), rotation (turn), reflection (flip), dilation (scale); (2) the first three are rigid motions:
-they keep size and shape, so the image is congruent to the original; (3) a dilation keeps shape but
-changes size by a scale factor, so the image is similar to the original.** Because naming and applying
-the moves is a foundational skill, use explicit instruction, worked examples, and guided practice
-before independent work (Kirschner, Sweller & Clark, 2006). Watch for the slips of confusing
-reflection and rotation and of calling a dilation "congruent." The global lens: repeating tiles and
-scaled patterns are found across traditions — Islamic geometric tilings, Andean and West African
-woven and beaded symmetries (S-024), and architectural scale drawings worldwide — mathematics as a
-shared human art, held side by side (philosophy §11). The technology lens: computer graphics move
-every image on a screen with exactly these four transformations — zoom is a dilation, mirroring is a
-reflection. The egalitarian lens: a shape and a tracing are all anyone needs to *see* the move — no
-special tool required. The critical-thinking lens: "same shape" is checkable (compare angles and
-side ratios), not a guess.
+The ideas to land: **(1) four moves — translation (slide), rotation (turn), reflection
+(flip), dilation (scale); (2) the first three are rigid motions: they keep size and
+shape, so the image is congruent to the original; (3) a dilation keeps shape but changes
+size by a scale factor, so the image is similar to the original.** Because naming and
+applying the moves is a foundational skill, use explicit instruction, worked examples,
+and guided practice before independent work (Kirschner, Sweller & Clark, 2006). Watch
+for the slips of confusing reflection and rotation and of calling a dilation
+"congruent." The global lens: repeating tiles and scaled patterns are found across
+traditions — Islamic geometric tilings, Andean and West African woven and beaded
+symmetries (S-024), and architectural scale drawings worldwide — mathematics as a shared
+human art, held side by side (philosophy §11). The technology lens: computer graphics
+move every image on a screen with exactly these four transformations — zoom is a
+dilation, mirroring is a reflection. The egalitarian lens: a shape and a tracing are all
+anyone needs to *see* the move — no special tool required. The critical-thinking lens:
+"same shape" is checkable (compare angles and side ratios), not a guess.
 
 ## Procedure
 

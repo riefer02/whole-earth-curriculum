@@ -117,21 +117,23 @@ believe.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a fact-checking method is a habit, not
-a talent — Stop, Investigate the source, Find better coverage, Trace to the original — and it works by
-leaving the claim to see what others say (lateral reading) and by finding where it first came from.** This
-is an explicit-skill lesson: model the method with a worked example, then guided practice, then
-independent work (S-011). The **critical-thinking** lens is the spine. The **technology** lens: the flood
-of information — and the AI that now generates it — is exactly why the method matters (S-393). The
-**egalitarian** lens: everyone deserves the tool to tell a source apart from a rumor, not just
-professionals; media literacy is a shared good (S-217). The **global** lens: checking practices and what
-counts as a trustworthy source differ across cultures and media systems — no one tradition is the
-default. The **ethics** lens: sharing an unchecked claim can harm real people, so checking is a duty, not
-a chore. The **environment** lens: false claims about the environment — a broken dam, a fire, a drought,
-a polluted river — spread fast and can drive real harm or delay real care, so checking them is care for
-the Earth too. Note the method's roots in verification guides (S-394) and historical sourcing (S-316),
-and hold questions open (philosophy §11). Preview: next lesson we separate fact from interpretation on a
-real claim.
+The idea to land: **a fact-checking method is a habit, not a talent — Stop, Investigate
+the source, Find better coverage, Trace to the original — and it works by leaving the
+claim to see what others say (lateral reading) and by finding where it first came
+from.** This is an explicit-skill lesson: model the method with a worked example, then
+guided practice, then independent work (S-011). The **critical-thinking** lens is the
+spine. The **technology** lens: the flood of information — and the AI that now generates
+it — is exactly why the method matters (S-393). The **egalitarian** lens: everyone
+deserves the tool to tell a source apart from a rumor, not just professionals; media
+literacy is a shared good (S-217). The **global** lens: checking practices and what
+counts as a trustworthy source differ across cultures and media systems — no one
+tradition is the default. The **ethics** lens: sharing an unchecked claim can harm real
+people, so checking is a duty, not a chore. The **environment** lens: false claims about
+the environment — a broken dam, a fire, a drought, a polluted river — spread fast and
+can drive real harm or delay real care, so checking them is care for the Earth too. Note
+the method's roots in verification guides (S-394) and historical sourcing (S-316), and
+hold questions open (philosophy §11). Preview: next lesson we separate fact from
+interpretation on a real claim.
 
 ## Procedure
 

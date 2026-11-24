@@ -119,19 +119,20 @@ are part of the place, not separate from it — so every action, small as it loo
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Grade 2 followed litter to the right place; Grade 4
-**investigates** how one action helps or harms a **local** place — a step toward stewardship with
-agency. Model the before-and-after comparison once, then guide learners to observe or recall a
-real local action before they record (Kirschner, Sweller & Clark, 2006). **Keep it
-stewardship-framed and hope-full**: the point is not to shame anyone for litter (people often lack
-bins, time, or systems) but to show that each of us *has* power to help — and that many small
-helps add up. Connect to the ecosystems lessons: an action that harms the water harms the fish,
-the birds, and the people downstream, because all parts depend on each other. **Honor no-wealth
-and global contexts**: caring actions need no money — planting a seed, sweeping a path, keeping
-trash out of a stream, watering a plant, telling others kindly — and people everywhere practice
-these. If the local reality is that trash has no bin to go to, say so plainly and without blame,
-and focus on what *is* possible. Honor every body: describe the pictures aloud for a learner who
-is blind or has low vision; a non-speaking learner points to help or harm and to who is affected;
+Grade 2 followed litter to the right place; Grade 4 **investigates** how one action
+helps or harms a **local** place — a step toward stewardship with agency. Model the
+before-and-after comparison once, then guide learners to observe or recall a real local
+action before they record (Kirschner, Sweller & Clark, 2006). **Keep it
+stewardship-framed and hope-full**: the point is not to shame anyone for litter (people
+often lack bins, time, or systems) but to show that each of us *has* power to help — and
+that many small helps add up. Connect to the ecosystems lessons: an action that harms
+the water harms the fish, the birds, and the people downstream, because all parts depend
+on each other. **Honor no-wealth and global contexts**: caring actions need no money —
+planting a seed, sweeping a path, keeping trash out of a stream, watering a plant,
+telling others kindly — and people everywhere practice these. If the local reality is
+that trash has no bin to go to, say so plainly and without blame, and focus on what *is*
+possible. Honor every body: describe the pictures aloud for a learner who is blind or
+has low vision; a non-speaking learner points to help or harm and to who is affected;
 acting out the two actions works for learners who learn best by moving.
 
 ## Procedure

@@ -120,16 +120,16 @@ those marks — not to judge anyone, but to understand, so you can choose.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is the **footprint compare**:
-define the footprint, list each life's resources (food, travel, energy, things), and compare
-resource by resource. Model the two example lives fully as a worked example. **This comparison
-must never shame any lifestyle or region.** A rural family that cooks over wood, a city dweller
-who rides the bus, and a commuter who drives all face different realities and constraints —
-none is "better" as a person because of the resources they use. The footprint is a measurement
-of *systems and choices*, not a score on *character*. Distinguish evidence from values: *how
-much each life uses* is measurable; *that we should use resources with care for others and the
-future* is a value this curriculum holds. See `docs/philosophy.md` §4–5 and
-`docs/facilitation.md`.
+The skill to land is the **footprint compare**: define the footprint, list each life's
+resources (food, travel, energy, things), and compare resource by resource. Model the
+two example lives fully as a worked example. **This comparison must never shame any
+lifestyle or region.** A rural family that cooks over wood, a city dweller who rides the
+bus, and a commuter who drives all face different realities and constraints — none is
+"better" as a person because of the resources they use. The footprint is a measurement
+of *systems and choices*, not a score on *character*. Distinguish evidence from values:
+*how much each life uses* is measurable; *that we should use resources with care for
+others and the future* is a value this curriculum holds. See `docs/philosophy.md` §4–5
+and `docs/facilitation.md`.
 
 ## Procedure
 

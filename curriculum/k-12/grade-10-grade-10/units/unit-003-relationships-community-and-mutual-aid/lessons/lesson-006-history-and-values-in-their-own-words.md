@@ -117,25 +117,24 @@ others feel, but by listening to what they actually say.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the study itself is
-simple and repeatable — gather the community's own history, values, art and stories, and
-institutions from first-person sources, with consent and credit, and check your own
-assumptions as you go.** This is a method and a value, not a scientific claim: the
-**egalitarian** commitment is that a community is the authority on itself, and respectful
-study centers its own voices rather than repeating stereotypes (S-226 documents how
-repeated narrow images can flatten how whole groups are seen). The **ethics** of
-representation are real and teachable: ask permission before recording or quoting, give
-credit, and do not turn someone's story into a trophy — study *with*, not *on*. Be honest
-that "from within" is always approximate: even the most careful outsider stays partly
-outside, so the posture is humility, not ownership.
+The idea to land: **the study itself is simple and repeatable — gather the community's
+own history, values, art and stories, and institutions from first-person sources, with
+consent and credit, and check your own assumptions as you go.** This is a method and a
+value, not a scientific claim: the **egalitarian** commitment is that a community is the
+authority on itself, and respectful study centers its own voices rather than repeating
+stereotypes (S-226 documents how repeated narrow images can flatten how whole groups are
+seen). The **ethics** of representation are real and teachable: ask permission before
+recording or quoting, give credit, and do not turn someone's story into a trophy — study
+*with*, not *on*. Be honest that "from within" is always approximate: even the most
+careful outsider stays partly outside, so the posture is humility, not ownership.
 
 Model one spoke once, then let learners work (worked example → guided practice →
 independent work; S-011). The **global** lens is the spine: this is the discipline of
 meeting other peoples and times without flattening them. The **critical-thinking** lens:
 ask of every source *who made it and for whom*, and check where your own assumption has
-been filling a gap the community never said. The **egalitarian** lens: whose version of a
-community gets repeated is a question of power — citing inside voices is a small act of
-fairness. The **social-emotional** lens: sitting with another community's history can
+been filling a gap the community never said. The **egalitarian** lens: whose version of
+a community gets repeated is a question of power — citing inside voices is a small act
+of fairness. The **social-emotional** lens: sitting with another community's history can
 stir discomfort, admiration, and humility; invite, never force, and let learners share
 only what they choose. Note for the facilitator: if a learner's chosen community is
 Indigenous or otherwise marginalized, be especially careful to steer them to the

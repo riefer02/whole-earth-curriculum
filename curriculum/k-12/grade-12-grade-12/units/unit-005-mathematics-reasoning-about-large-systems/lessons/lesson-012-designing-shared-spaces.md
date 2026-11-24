@@ -113,24 +113,25 @@ right is how a space says "everyone is welcome here."
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **slope = rise ÷ run, and
-an accessible ramp needs a gentle slope (a common standard is 1:12 — one unit of rise for
-every twelve of run); area measures a space's footprint, and a sustainable layout fits its
-place and materials.** Teach the slope computation explicitly with a worked example
-(S-011), then let learners make design trade-offs and argue them with numbers. Keep the
-value claim (everyone should be able to enter) explicit as a value, and the numbers as the
-evidence for whether a design honors it.
+The idea to land: **slope = rise ÷ run, and an accessible ramp needs a gentle slope (a
+common standard is 1:12 — one unit of rise for every twelve of run); area measures a
+space's footprint, and a sustainable layout fits its place and materials.** Teach the
+slope computation explicitly with a worked example (S-011), then let learners make
+design trade-offs and argue them with numbers. Keep the value claim (everyone should be
+able to enter) explicit as a value, and the numbers as the evidence for whether a design
+honors it.
 
-The **ethics** lens: a ramp too steep to use is a design that quietly excludes — geometry
-carries moral weight. The **egalitarianism** lens: **universal design** asks who is left
-out and builds for the widest range of bodies from the start, not as an afterthought. The
-**global** lens: access standards and building traditions differ across the world, but the
-slope rule is the same physics everywhere — a 1:12 ramp in one place is a 1:12 ramp in
-another. The **technology** lens: slope and area are exactly what design software computes,
-but the reasoning must be human first. The **environment** lens: a sustainable space fits
-its climate and materials — drainage, shade, local stone — and the people who bear
-environmental burdens are often the same people a bad design excludes (S-483, S-484,
-S-395). Preview: Lesson 13 turns to inference from data.
+The **ethics** lens: a ramp too steep to use is a design that quietly excludes —
+geometry carries moral weight. The **egalitarianism** lens: **universal design** asks
+who is left out and builds for the widest range of bodies from the start, not as an
+afterthought. The **global** lens: access standards and building traditions differ
+across the world, but the slope rule is the same physics everywhere — a 1:12 ramp in one
+place is a 1:12 ramp in another. The **technology** lens: slope and area are exactly
+what design software computes, but the reasoning must be human first. The
+**environment** lens: a sustainable space fits its climate and materials — drainage,
+shade, local stone — and the people who bear environmental burdens are often the same
+people a bad design excludes (S-483, S-484, S-395). Preview: Lesson 13 turns to
+inference from data.
 
 ## Procedure
 

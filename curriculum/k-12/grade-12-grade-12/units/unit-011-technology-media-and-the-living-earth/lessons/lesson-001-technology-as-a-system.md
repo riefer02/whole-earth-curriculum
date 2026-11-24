@@ -118,26 +118,26 @@ people, materials, rules, and effects, and you are already inside it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a technology is a system —
-design, materials, making, use, governance, and effects — not a neutral object; seeing the
-whole system is the first step to judging it and steering it.** Model the map explicitly, then
-let learners map a technology of their own (S-011). Hold the "neither worship nor fear" stance:
-technology is neither a savior nor a monster but a human-made system with real, uneven effects
-that can be examined and changed.
+The idea to land: **a technology is a system — design, materials, making, use,
+governance, and effects — not a neutral object; seeing the whole system is the first
+step to judging it and steering it.** Model the map explicitly, then let learners map a
+technology of their own (S-011). Hold the "neither worship nor fear" stance: technology
+is neither a savior nor a monster but a human-made system with real, uneven effects that
+can be examined and changed.
 
-The **ethics** lens: a system that hides its costs lets us use it without consenting to those
-costs — the ethics of technology begins with making the hidden parts visible. The
-**egalitarianism** lens: the benefits of a technology and its harms rarely fall on the same
-people; the people who mine the minerals are not usually the people who enjoy the phone, a
-fact the map makes hard to ignore (S-398, S-281). The **global** lens: the same technology
-takes different shapes in different places — a shared well with community rules, a solar lamp
-where the grid does not reach, a smartphone in a crowded city — and the map looks different
-each time (S-281). The **technology** lens: recommendation and ranking algorithms, advertising
-models, and platform rules are part of the *governance* box of a system like social media, not
-accidents (S-481). The **environment** lens: every technology has a material life cycle —
-extraction, manufacture, use, and disposal — and e-waste is one of its real, documented harms
-(S-371, S-397). Preview: Lesson 2 turns the system map into an argument for a humane
-direction.
+The **ethics** lens: a system that hides its costs lets us use it without consenting to
+those costs — the ethics of technology begins with making the hidden parts visible. The
+**egalitarianism** lens: the benefits of a technology and its harms rarely fall on the
+same people; the people who mine the minerals are not usually the people who enjoy the
+phone, a fact the map makes hard to ignore (S-398, S-281). The **global** lens: the same
+technology takes different shapes in different places — a shared well with community
+rules, a solar lamp where the grid does not reach, a smartphone in a crowded city — and
+the map looks different each time (S-281). The **technology** lens: recommendation and
+ranking algorithms, advertising models, and platform rules are part of the *governance*
+box of a system like social media, not accidents (S-481). The **environment** lens:
+every technology has a material life cycle — extraction, manufacture, use, and
+disposal — and e-waste is one of its real, documented harms (S-371, S-397). Preview:
+Lesson 2 turns the system map into an argument for a humane direction.
 
 ## Procedure
 

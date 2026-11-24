@@ -118,8 +118,7 @@ kind, and exactly what to do if something feels wrong.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Empower, never frighten.** Teach the
-rules simply and positively:
+**Empower, never frighten.** Teach the rules simply and positively:
 
 - **Keep private information private.** Private information is what could let a stranger
   find or pretend to be you: your **full name**, **home address**, **school's name**,

@@ -119,21 +119,21 @@ and start seeing it as a chain of choices and consequences. Today you follow tha
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The concept to land: **a food system is a
-chain of stages — produce, process, transport, sell, eat, waste — and each stage has
-effects on health (what people eat and its quality), workers (who does the labor, under
-what conditions, for what pay), and the environment (water, soil, energy, emissions, and
-waste).** This is a *systems analysis* skill, so model the trace on one food, then guide
-learners through their own (S-011). The global lens: food moves farther and through more
-hands than it once did; the same plate now links a field on one continent to a kitchen on
-another (S-081). The environment lens: a large share of food is lost or wasted — roughly a
-fifth of the food available to consumers worldwide — which wastes the water, land, and
-energy used to produce it (S-410). The ethics and egalitarian lenses: the system does not
-treat everyone equally — farm and food workers often do hard, essential work for low pay
-and little protection, and the benefits and harms of the chain fall unevenly. The
-technology lens: processing, refrigeration, and long-distance transport changed what food
-is possible — and created the packaging and fuel costs the chain now carries. Hold the
-tone carefully: this is **not** a lesson in shaming anyone's food or family. Every family
+The concept to land: **a food system is a chain of stages — produce, process, transport,
+sell, eat, waste — and each stage has effects on health (what people eat and its
+quality), workers (who does the labor, under what conditions, for what pay), and the
+environment (water, soil, energy, emissions, and waste).** This is a *systems analysis*
+skill, so model the trace on one food, then guide learners through their own (S-011).
+The global lens: food moves farther and through more hands than it once did; the same
+plate now links a field on one continent to a kitchen on another (S-081). The
+environment lens: a large share of food is lost or wasted — roughly a fifth of the food
+available to consumers worldwide — which wastes the water, land, and energy used to
+produce it (S-410). The ethics and egalitarian lenses: the system does not treat
+everyone equally — farm and food workers often do hard, essential work for low pay and
+little protection, and the benefits and harms of the chain fall unevenly. The technology
+lens: processing, refrigeration, and long-distance transport changed what food is
+possible — and created the packaging and fuel costs the chain now carries. Hold the tone
+carefully: this is **not** a lesson in shaming anyone's food or family. Every family
 eats what it can, within its means and culture; the point is to *understand the system*,
 not to grade a plate. Distinguish evidence (how food moves, how much is wasted) from
 values (that workers deserve fair pay, that waste matters) throughout.

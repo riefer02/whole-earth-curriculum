@@ -119,30 +119,32 @@ names for the same wish. A vision worth having holds both, and names the role yo
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a more just world and a
-sustainable world are the same project, not rivals; sustainable development is meeting the needs
-of the present without compromising future generations' ability to meet their own, and
-environmental harm falls unequally on those who did least to cause it. A considered vision holds
-justice and sustainability together and names the concrete role the learner will play.** Hold the
-facts accurately: the definition of sustainable development comes from the 1987 Brundtland Report
-(S-395); environmental harm is unevenly distributed, with low-income and marginalized communities
-often bearing the most (S-483, S-484); climate change is real and human-caused, summarized by the
-IPCC (S-005). Present these as evidence; the *vision* that responds to them is a value, and it is
-the learner's own.
+The idea to land: **a more just world and a sustainable world are the same project, not
+rivals; sustainable development is meeting the needs of the present without compromising
+future generations' ability to meet their own, and environmental harm falls unequally on
+those who did least to cause it. A considered vision holds justice and sustainability
+together and names the concrete role the learner will play.** Hold the facts accurately:
+the definition of sustainable development comes from the 1987 Brundtland Report (S-395);
+environmental harm is unevenly distributed, with low-income and marginalized communities
+often bearing the most (S-483, S-484); climate change is real and human-caused,
+summarized by the IPCC (S-005). Present these as evidence; the *vision* that responds to
+them is a value, and it is the learner's own.
 
-The **ethics** lens: a vision is a claim about what *ought* to be, and the lesson keeps that
-distinct from what *is* — evidence (climate, inequality, environmental harm) supports the vision
-but does not dictate it (S-005, S-464, S-483). The **egalitarianism** lens: environmental justice
-names exactly the unfairness that the vision must answer — the burden of harm falls on those with
-the least power to refuse it (S-483, S-484, S-485), so a just vision is not "environment-first"
-or "people-first" but *both at once*. The **global** lens: the vision must account for the whole
-world, including future people and distant places not in the room — sustainability is
-intergenerational and global by definition (S-395). The **technology** lens: technology is
-two-edged here — it can help meet needs with less harm, and it can also deepen the gaps — so the
-vision should say how tools will serve justice, not just efficiency. The **environment** lens:
-this is the strand's most direct meeting with the living Earth — a livable planet is the floor
-beneath every other justice, and the vision treats it as such (S-005). Preview: Lesson 13 turns
-to peacemaking — listening, taking responsibility, and repairing.
+The **ethics** lens: a vision is a claim about what *ought* to be, and the lesson keeps
+that distinct from what *is* — evidence (climate, inequality, environmental harm)
+supports the vision but does not dictate it (S-005, S-464, S-483). The
+**egalitarianism** lens: environmental justice names exactly the unfairness that the
+vision must answer — the burden of harm falls on those with the least power to refuse it
+(S-483, S-484, S-485), so a just vision is not "environment-first" or "people-first" but
+*both at once*. The **global** lens: the vision must account for the whole world,
+including future people and distant places not in the room — sustainability is
+intergenerational and global by definition (S-395). The **technology** lens: technology
+is two-edged here — it can help meet needs with less harm, and it can also deepen the
+gaps — so the vision should say how tools will serve justice, not just efficiency. The
+**environment** lens: this is the strand's most direct meeting with the living Earth — a
+livable planet is the floor beneath every other justice, and the vision treats it as
+such (S-005). Preview: Lesson 13 turns to peacemaking — listening, taking
+responsibility, and repairing.
 
 ## Procedure
 

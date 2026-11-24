@@ -121,30 +121,29 @@ works.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a feeling is not a
-bare event in the body; it is experienced and named through the personal history a
-person brings to it.** That claim draws on the constructed-emotion account, which
-holds that emotion concepts are built from past experience, culture, and language
-(S-401), and on the broader emotional-literacy tradition that precise naming helps
-regulation (S-015). Both are *descriptive theories*, not verdicts: a learner's feeling
-is real and valid whether or not they can trace its history, and **"I can't find the
-link yet" is a complete and honest answer.** Do not rank lives; there is no "best"
-history to have had (philosophy §8, §11).
+The idea to land: **a feeling is not a bare event in the body; it is experienced and
+named through the personal history a person brings to it.** That claim draws on the
+constructed-emotion account, which holds that emotion concepts are built from past
+experience, culture, and language (S-401), and on the broader emotional-literacy
+tradition that precise naming helps regulation (S-015). Both are *descriptive theories*,
+not verdicts: a learner's feeling is real and valid whether or not they can trace its
+history, and **"I can't find the link yet" is a complete and honest answer.** Do not
+rank lives; there is no "best" history to have had (philosophy §8, §11).
 
 Model the skill once, then let learners practice (worked example → guided practice →
 independent work; S-011). The **ethics** lens: tracing history is about understanding,
 never about blaming someone in your past — the goal is agency over the present, not a
 verdict on the past. The **global** lens: every culture understands emotion through its
 own history and words; the "event → feeling" shape is one useful frame, not a universal
-law (S-401 is one account among many). The **egalitarian** lens: every learner's
-history is worth mapping and hearing; no history is more "interesting" than another.
-The **technology & environment** lens: the feeds and devices around us often present
-emotion as an instant, sharable reaction — a like, a react emoji — while a feeling
-actually arrives carrying years of history; noticing that depth is a small act of
-resistance to the instant-and-forget pull of the feed. The **social-emotional** lens:
-recalling the past can raise real feeling — invite, never force, and let learners
-choose what to share (facilitation.md). Keep the tone gentle and forward-looking: the
-point is a learner who feels like the *author* of their own emotional life.
+law (S-401 is one account among many). The **egalitarian** lens: every learner's history
+is worth mapping and hearing; no history is more "interesting" than another. The
+**technology & environment** lens: the feeds and devices around us often present emotion
+as an instant, sharable reaction — a like, a react emoji — while a feeling actually
+arrives carrying years of history; noticing that depth is a small act of resistance to
+the instant-and-forget pull of the feed. The **social-emotional** lens: recalling the
+past can raise real feeling — invite, never force, and let learners choose what to share
+(facilitation.md). Keep the tone gentle and forward-looking: the point is a learner who
+feels like the *author* of their own emotional life.
 
 ## Procedure
 

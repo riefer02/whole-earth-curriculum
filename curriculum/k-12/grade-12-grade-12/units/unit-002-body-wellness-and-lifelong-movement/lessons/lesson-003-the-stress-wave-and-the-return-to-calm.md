@@ -114,15 +114,14 @@ repair, and be ready for the next real thing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description,
-never as a claim that stress is a personal failing**: the stress wave is an adaptive
-response; **chronic** stress — when the response does not turn off — carries real costs
-(muscle tension, cardiovascular strain, sleep and mood disruption) (APA, S-338). The
-wave is raised by the sympathetic branch and settled by the parasympathetic branch
-(Cleveland Clinic, S-339); a slow, long-exhale breath is one evidence-supported way to
-help the return to calm (Harvard Health, S-340). Offer these as *one scientific account
-among others*, and hold breathing practices from many traditions (pranayama, qigong,
-and others) side by side without ranking them.
+The idea to land, held as **description, never as a claim that stress is a personal
+failing**: the stress wave is an adaptive response; **chronic** stress — when the
+response does not turn off — carries real costs (muscle tension, cardiovascular strain,
+sleep and mood disruption) (APA, S-338). The wave is raised by the sympathetic branch
+and settled by the parasympathetic branch (Cleveland Clinic, S-339); a slow, long-exhale
+breath is one evidence-supported way to help the return to calm (Harvard Health, S-340).
+Offer these as *one scientific account among others*, and hold breathing practices from
+many traditions (pranayama, qigong, and others) side by side without ranking them.
 
 The **ethics** lens: the skill of returning to calm lets us act on choice rather than
 alarm, which is also kinder to the people around us. The **egalitarianism** lens: who
@@ -130,7 +129,10 @@ gets to *rest* is not even across lives — some people live under constant stre
 no fault of their own, and the fix is partly social, not only personal technique. The
 **global** lens: calm-returning practices are found in many traditions and languages, so
 no single method is the default. The **critical-thinking** lens: not every racing heart
-means danger, and not every calm means safety — we read signals in context. The **technology** lens: screens, feeds, and constant alerts are among the most common reasons the stress wave never fully switches off — a body braced for messages, not for danger — so returning to calm includes learning when to put the device down. Preview:
+means danger, and not every calm means safety — we read signals in context. The
+**technology** lens: screens, feeds, and constant alerts are among the most common
+reasons the stress wave never fully switches off — a body braced for messages, not for
+danger — so returning to calm includes learning when to put the device down. Preview:
 Lesson 4 assembles the framework so far into something you can carry and explain.
 
 ## Procedure

@@ -119,22 +119,21 @@ what makes a fair and effective response possible.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **greenhouse gases
-trap heat near the surface, and human burning of fossil fuels has strengthened this
-effect (S-438); the resulting climate change is coupled to ecology and to human
-society — it shifts what grows, where water is, and where people can live (S-005); the
-burden is distributed unjustly — those who emitted least are often most exposed; and
-the responses are mitigation (cutting emissions), adaptation (adjusting to changes),
-and restoration (repairing ecosystems), which must be weighed for justice, not only
-effectiveness.** Always connect difficulty to agency (facilitation): this lesson
-ends in action, not despair.
+The ideas to land: **greenhouse gases trap heat near the surface, and human burning of
+fossil fuels has strengthened this effect (S-438); the resulting climate change is
+coupled to ecology and to human society — it shifts what grows, where water is, and
+where people can live (S-005); the burden is distributed unjustly — those who emitted
+least are often most exposed; and the responses are mitigation (cutting emissions),
+adaptation (adjusting to changes), and restoration (repairing ecosystems), which must be
+weighed for justice, not only effectiveness.** Always connect difficulty to agency
+(facilitation): this lesson ends in action, not despair.
 
-The **environment** lens: the living Earth is the lesson's center. The **ethics**
-lens: who should act, and who should be protected first, are moral questions. The
-**egalitarianism** lens: a just response protects those least able to protect
-themselves and does not let the powerful offload the cost. The **global** lens: the
-coupling is planetary, and the response must be cooperative across every border. This
-lesson also gathers the unit's portfolio into a whole — the closing artifact.
+The **environment** lens: the living Earth is the lesson's center. The **ethics** lens:
+who should act, and who should be protected first, are moral questions. The
+**egalitarianism** lens: a just response protects those least able to protect themselves
+and does not let the powerful offload the cost. The **global** lens: the coupling is
+planetary, and the response must be cooperative across every border. This lesson also
+gathers the unit's portfolio into a whole — the closing artifact.
 
 ## Procedure
 

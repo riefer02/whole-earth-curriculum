@@ -119,36 +119,36 @@ not all ours to make alone.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **different foods and
-diets carry different environmental footprints — greenhouse gases, land, and water —
-and food waste multiplies the cost, so food choices are also Earth choices.** The
-science is anchored by the IPCC, the authoritative intergovernmental summary of climate
-science, which documents that agriculture and food systems are a significant source of
-greenhouse gases and that land use is a major driver of ecosystem change (S-005). The
-**relative** footprint pattern is well established and stated with care: plant foods
-(grains, legumes, vegetables, fruits) generally carry *smaller* footprints than animal
-foods, and among animal foods, **ruminant meat** (beef, lamb, goat — animals that digest
-with methane-producing fermentation) generally carries the *largest* footprint per unit
-of food. Hold these as *general, well-documented patterns with real variation* (place,
-method, and transport all matter), not as precise numbers. The Ecological Footprint
-concept frames a footprint as the land and resources a product *demands* (S-277), and
-food waste — roughly a fifth of food available to consumers worldwide — wastes all the
-land, water, and energy that went into producing it (S-410).
+The idea to land: **different foods and diets carry different environmental footprints —
+greenhouse gases, land, and water — and food waste multiplies the cost, so food choices
+are also Earth choices.** The science is anchored by the IPCC, the authoritative
+intergovernmental summary of climate science, which documents that agriculture and food
+systems are a significant source of greenhouse gases and that land use is a major driver
+of ecosystem change (S-005). The **relative** footprint pattern is well established and
+stated with care: plant foods (grains, legumes, vegetables, fruits) generally carry
+*smaller* footprints than animal foods, and among animal foods, **ruminant meat** (beef,
+lamb, goat — animals that digest with methane-producing fermentation) generally carries
+the *largest* footprint per unit of food. Hold these as *general, well-documented
+patterns with real variation* (place, method, and transport all matter), not as precise
+numbers. The Ecological Footprint concept frames a footprint as the land and resources a
+product *demands* (S-277), and food waste — roughly a fifth of food available to
+consumers worldwide — wastes all the land, water, and energy that went into producing it
+(S-410).
 
 The **environment** lens is the spine: food is a link between our bodies and the living
-Earth. The **global** lens: what people eat is shaped by place, climate, and culture —
-a herding community, a rice-growing region, and a coastal fishing town all eat what
-their land offers, and no diet is "more moral" by geography alone. The **egalitarian**
-lens is essential: *choice* about food is not equally shared — hunger affects roughly 1
-in 11 people worldwide, and food insecurity constrains millions of choices (S-409) — so
-this lesson names footprint as a *systems* question, never a lecture aimed at the
-person with the fewest choices. The **ethics** lens: we weigh footprints of *food*, not
-worth of *people*; and those with the most choice carry the most responsibility to use
-it well. The **critical-thinking** lens: footprints vary by method and place, so beware
+Earth. The **global** lens: what people eat is shaped by place, climate, and culture — a
+herding community, a rice-growing region, and a coastal fishing town all eat what their
+land offers, and no diet is "more moral" by geography alone. The **egalitarian** lens is
+essential: *choice* about food is not equally shared — hunger affects roughly 1 in 11
+people worldwide, and food insecurity constrains millions of choices (S-409) — so this
+lesson names footprint as a *systems* question, never a lecture aimed at the person with
+the fewest choices. The **ethics** lens: we weigh footprints of *food*, not worth of
+*people*; and those with the most choice carry the most responsibility to use it well.
+The **critical-thinking** lens: footprints vary by method and place, so beware
 oversimplified "eat this, never that" rules — the honest picture is comparative, not
 absolute. The **social-emotional** lens: this topic can stir anxiety; always connect it
-to *agency and hope*, never despair — one real change, not a whole life rewritten.
-Close the unit gently: the body and the Earth are one system, cared for together.
+to *agency and hope*, never despair — one real change, not a whole life rewritten. Close
+the unit gently: the body and the Earth are one system, cared for together.
 
 ## Procedure
 

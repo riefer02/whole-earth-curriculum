@@ -118,25 +118,26 @@ two do not fight; they belong to the same table.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **food is culture, family,
-memory, and ritual — and a lifelong food decision holds that meaning alongside nutrition
-science without ranking any food above another.** Teach the foodway-trace worked example
-explicitly, then let learners trace their own (S-011). This is the unit's dignity anchor:
-never let a learner's food be called "unhealthy" or "weird." There is no single correct way
-to eat; there are many healthy tables (S-118).
+The idea to land: **food is culture, family, memory, and ritual — and a lifelong food
+decision holds that meaning alongside nutrition science without ranking any food above
+another.** Teach the foodway-trace worked example explicitly, then let learners trace
+their own (S-011). This is the unit's dignity anchor: never let a learner's food be
+called "unhealthy" or "weird." There is no single correct way to eat; there are many
+healthy tables (S-118).
 
 The **ethics** lens: honoring someone's food is honoring the person — a foodway is an
-inheritance, and we treat it with the same respect we owe any heritage. The **egalitarianism**
-lens: no cuisine is "backward" and none is "superior"; healthy traditional patterns exist in
-every region, and ranking them is a form of ranking people (S-118). The **global** lens: food
-traditions are living heritage, passed hand to hand — from Andean potato stews (S-054) to the
-many foodways UNESCO records as practices communities carry between generations (S-056). The
-**technology** lens: modern food systems can both preserve and erode foodways — refrigeration
-and migration carry dishes across the world, while mass-marketed convenience foods can crowd
-out local kitchens; both are worth naming. The **environment** lens: traditional foodways
-often encode deep ecological knowledge — what grows where, what the seasons offer — that
-industrial eating can forget. Preview: Lesson 4 steps back to the whole food system; Lesson 5
-turns this respect into advocacy.
+inheritance, and we treat it with the same respect we owe any heritage. The
+**egalitarianism** lens: no cuisine is "backward" and none is "superior"; healthy
+traditional patterns exist in every region, and ranking them is a form of ranking people
+(S-118). The **global** lens: food traditions are living heritage, passed hand to hand —
+from Andean potato stews (S-054) to the many foodways UNESCO records as practices
+communities carry between generations (S-056). The **technology** lens: modern food
+systems can both preserve and erode foodways — refrigeration and migration carry dishes
+across the world, while mass-marketed convenience foods can crowd out local kitchens;
+both are worth naming. The **environment** lens: traditional foodways often encode deep
+ecological knowledge — what grows where, what the seasons offer — that industrial eating
+can forget. Preview: Lesson 4 steps back to the whole food system; Lesson 5 turns this
+respect into advocacy.
 
 ## Procedure
 

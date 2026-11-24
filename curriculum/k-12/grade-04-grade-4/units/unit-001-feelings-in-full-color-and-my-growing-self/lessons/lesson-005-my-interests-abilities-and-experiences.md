@@ -118,13 +118,12 @@ different petals, same three-part flower.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The goal is a *positive, true* sense of
-self — not a boast and not a competition. Emphasize that every learner has all three
-petals, and no petal is "better" than another: an ability to be a good friend is as real
-as an ability to run fast. Model your own three petals first (worked example). Some
-learners may have experiences that are heavy or private; let them choose what to share
-and offer the option to keep a petal private. See `docs/facilitation.md` on holding
-difficult topics safely.
+The goal is a *positive, true* sense of self — not a boast and not a competition.
+Emphasize that every learner has all three petals, and no petal is "better" than
+another: an ability to be a good friend is as real as an ability to run fast. Model your
+own three petals first (worked example). Some learners may have experiences that are
+heavy or private; let them choose what to share and offer the option to keep a petal
+private. See `docs/facilitation.md` on holding difficult topics safely.
 
 ## Procedure
 

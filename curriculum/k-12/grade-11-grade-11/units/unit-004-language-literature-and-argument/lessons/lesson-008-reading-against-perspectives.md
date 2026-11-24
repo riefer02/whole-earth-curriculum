@@ -116,26 +116,25 @@ reading is stronger for it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a text is shaped by
-its author's position — and read against other perspectives, it reveals whose voice it
-excluded; a counter-reading does not erase the text but completes the picture.** This
-is the second half of the standard: reading the author *with* their position (Lesson 7)
-and *against* other positions (Lesson 8). Frame counter-reading as *addition and
-pressure*, never as destruction: the point is not to cancel a text but to notice the
-frame around it. This protects learners from both naïve acceptance and reflexive
-dismissal — the mature posture of the 9–12 band (development.md).
+The idea to land: **a text is shaped by its author's position — and read against other
+perspectives, it reveals whose voice it excluded; a counter-reading does not erase the
+text but completes the picture.** This is the second half of the standard: reading the
+author *with* their position (Lesson 7) and *against* other positions (Lesson 8). Frame
+counter-reading as *addition and pressure*, never as destruction: the point is not to
+cancel a text but to notice the frame around it. This protects learners from both naïve
+acceptance and reflexive dismissal — the mature posture of the 9–12 band
+(development.md).
 
 Model once, then let learners counter-read (worked example → guided practice →
 independent work; S-011). The **egalitarian** lens is the spine: whose voices a text
 includes and excludes is a question of power, and counter-reading is how the excluded
-get heard. The **ethics** lens: reading against a text is fair when it is precise
-("this passage assumes X") and unfair when it is a smear ("this author is simply bad")
-— teach the difference. The **global** lens: a text that is foundational in one
-culture may read very differently from another culture's position — hold both readings
-side by side without ranking them. The **critical-thinking** lens: weigh whether the
-counter-reading *overturns* the text's meaning or *deepens* it — often it does both at
-once. Preview: Lesson 9 turns from reading to *writing* — your own extended original
-work begins.
+get heard. The **ethics** lens: reading against a text is fair when it is precise ("this
+passage assumes X") and unfair when it is a smear ("this author is simply bad") — teach
+the difference. The **global** lens: a text that is foundational in one culture may read
+very differently from another culture's position — hold both readings side by side
+without ranking them. The **critical-thinking** lens: weigh whether the counter-reading
+*overturns* the text's meaning or *deepens* it — often it does both at once. Preview:
+Lesson 9 turns from reading to *writing* — your own extended original work begins.
 
 ## Procedure
 

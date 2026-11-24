@@ -119,16 +119,16 @@ people who made it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is a **difficult topic, held with
-dignity and hope — never victimhood**. Center the people as the heroes of their own story:
-name the injustice (colonial rule, which denied self-rule and dignity) briefly and
-factually, and spend most of the time on **what the people did** and **what they won**.
-Emphasize that the Indian independence movement was a **mass movement of millions** — women,
-workers, students, peasants, and leaders from many regions and faiths — not the act of one
-person; a single famous name (Mohandas Gandhi) is honored but never treated as the whole
-story. Offer Ghana's independence as a comparison that shows the same courage on another
-continent. Connect difficulty to hope and to something the learner can do. This lesson
-produces the unit's **rights-movement note** portfolio artifact. See `docs/facilitation.md`.
+This is a **difficult topic, held with dignity and hope — never victimhood**. Center the
+people as the heroes of their own story: name the injustice (colonial rule, which denied
+self-rule and dignity) briefly and factually, and spend most of the time on **what the
+people did** and **what they won**. Emphasize that the Indian independence movement was
+a **mass movement of millions** — women, workers, students, peasants, and leaders from
+many regions and faiths — not the act of one person; a single famous name (Mohandas
+Gandhi) is honored but never treated as the whole story. Offer Ghana's independence as a
+comparison that shows the same courage on another continent. Connect difficulty to hope
+and to something the learner can do. This lesson produces the unit's **rights-movement
+note** portfolio artifact. See `docs/facilitation.md`.
 
 ## Procedure
 

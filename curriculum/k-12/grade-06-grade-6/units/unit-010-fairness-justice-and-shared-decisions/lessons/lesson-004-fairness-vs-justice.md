@@ -116,18 +116,17 @@ and telling them apart is how we see both clearly.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The distinction to land: **fairness** is
-about *what people deserve* — a fair share, a fair turn, fair treatment; **justice** is
-about *correcting wrongs and protecting rights* — responding when harm has happened, and
-guarding what people are owed. They overlap (a fair share *is* part of justice) but they
-are not the same, and the standard asks learners to tell them apart with examples. Model
-the sort as a worked example (Kirschner, Sweller & Clark, 2006). Keep it **non-shaming**:
-examples of correcting wrongs are about *repair*, not blame. Distinguish **evidence from
-values**: *what happened and what was deserved or corrected* are observable; *that people
-should get a fair share and that wrongs should be made right* are values held by this
-curriculum and by the children it serves — name them as values. Hold the question open,
-and attach any example of wrong to hope: wrongs can be, and are, corrected. See
-`docs/facilitation.md`.
+The distinction to land: **fairness** is about *what people deserve* — a fair share, a
+fair turn, fair treatment; **justice** is about *correcting wrongs and protecting
+rights* — responding when harm has happened, and guarding what people are owed. They
+overlap (a fair share *is* part of justice) but they are not the same, and the standard
+asks learners to tell them apart with examples. Model the sort as a worked example
+(Kirschner, Sweller & Clark, 2006). Keep it **non-shaming**: examples of correcting
+wrongs are about *repair*, not blame. Distinguish **evidence from values**: *what
+happened and what was deserved or corrected* are observable; *that people should get a
+fair share and that wrongs should be made right* are values held by this curriculum and
+by the children it serves — name them as values. Hold the question open, and attach any
+example of wrong to hope: wrongs can be, and are, corrected. See `docs/facilitation.md`.
 
 ## Procedure
 

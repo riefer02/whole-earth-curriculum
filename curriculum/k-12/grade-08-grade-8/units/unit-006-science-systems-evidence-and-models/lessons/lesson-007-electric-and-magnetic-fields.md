@@ -109,22 +109,24 @@ life.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a field is a region where a
-force acts without touching — an electric field surrounds electric charge, a magnetic field
-surrounds a magnet; (2) an electric current is moving charge; (3) a current in a wire produces a
-magnetic field around it, and a changing or moving magnetic field can push charge to make a current
-— that is the interaction; (4) this link is the basis of motors (current → force → motion) and
-generators (motion → changing field → current).** Model the chain once (worked example, S-011),
-using the compass-and-wire demo if available (S-360). The technology lens: generators and motors
-run the modern world — but note that the *principle* is universal and was discovered and applied
-worldwide, not in one place. The egalitarian lens: electricity is not yet available to everyone —
-hundreds of millions still live without reliable power, and access is a matter of justice, not luck
-(S-052). The critical-thinking lens: "current makes a field, and a changing field makes a current"
-is a precise, checkable claim, not a story. The global lens: Earth itself has a magnetic field that
-guides compasses and has helped travelers and sailors find their way for centuries — the magnetic
-compass was first developed in China and then spread along the world's trade and sea routes (S-187). Keep
-the physics precise and cite the electromagnetism source (S-360); hold the field as a model with
-strong evidence, not a visible thing you can point to (philosophy §11).
+The ideas to land: **(1) a field is a region where a force acts without touching — an
+electric field surrounds electric charge, a magnetic field surrounds a magnet; (2) an
+electric current is moving charge; (3) a current in a wire produces a magnetic field
+around it, and a changing or moving magnetic field can push charge to make a current —
+that is the interaction; (4) this link is the basis of motors (current → force → motion)
+and generators (motion → changing field → current).** Model the chain once (worked
+example, S-011), using the compass-and-wire demo if available (S-360). The technology
+lens: generators and motors run the modern world — but note that the *principle* is
+universal and was discovered and applied worldwide, not in one place. The egalitarian
+lens: electricity is not yet available to everyone — hundreds of millions still live
+without reliable power, and access is a matter of justice, not luck (S-052). The
+critical-thinking lens: "current makes a field, and a changing field makes a current" is
+a precise, checkable claim, not a story. The global lens: Earth itself has a magnetic
+field that guides compasses and has helped travelers and sailors find their way for
+centuries — the magnetic compass was first developed in China and then spread along the
+world's trade and sea routes (S-187). Keep the physics precise and cite the
+electromagnetism source (S-360); hold the field as a model with strong evidence, not a
+visible thing you can point to (philosophy §11).
 
 ## Procedure
 

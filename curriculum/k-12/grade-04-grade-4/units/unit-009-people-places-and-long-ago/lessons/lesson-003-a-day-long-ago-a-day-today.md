@@ -126,17 +126,16 @@ matter.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Comparing is a foundational skill, so
-model one full row first** (Kirschner, Sweller & Clark, 2006): "Water — long ago, a
-child drew water from a brick well; today, many people turn a tap. That *changed*. But
-children still need water every day — that *stayed the same*." Then guide the other
-rows. **Hold the earlier society with respect:** Mohenjo-Daro was a real, clever city —
-brick houses, covered drains, wells, and a grid of streets — not "primitive." Do not
-rank "today" as better in every way; some things today are more convenient, and some
-things long ago were also wise and beautiful. Honor every body: describe the cards in
-words for a learner who cannot see them; a learner who does not use a speaking voice
-points or acts. Use the present for the learner's life and the past for the long-ago
-city.
+**Comparing is a foundational skill, so model one full row first** (Kirschner, Sweller &
+Clark, 2006): "Water — long ago, a child drew water from a brick well; today, many
+people turn a tap. That *changed*. But children still need water every day — that
+*stayed the same*." Then guide the other rows. **Hold the earlier society with
+respect:** Mohenjo-Daro was a real, clever city — brick houses, covered drains, wells,
+and a grid of streets — not "primitive." Do not rank "today" as better in every way;
+some things today are more convenient, and some things long ago were also wise and
+beautiful. Honor every body: describe the cards in words for a learner who cannot see
+them; a learner who does not use a speaking voice points or acts. Use the present for
+the learner's life and the past for the long-ago city.
 
 ## Procedure
 

@@ -119,19 +119,18 @@ skip counting and doubling. Today you make the map your own.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It builds on the meaning lessons
-(3 and 4) and turns to **fluency within 100** — the new skill is using **known facts
-and strategies** (doubling, halving, skip counting, fact families) rather than
-memorizing in isolation. Teach with a **worked example** (philosophy §13): show that
-5 × 4 = 20, so 5 × 6 is 20 plus two more fives; then show the fact family (5 × 6 = 30,
-6 × 5 = 30, 30 ÷ 5 = 6, 30 ÷ 6 = 5). **Fluency is not speed: a child who reasons to a
-fact is fluent; a child who races but cannot explain is not. No ranking, no timed
-tests — "not yet" is information, never a verdict (philosophy §8).** The multiplication
-table is a human invention shared across traditions; it is one tool, not a test of
-worth. Count in the home language. For learners who are Deaf or hard of hearing, count
-with sign and point to the table; for learners who are blind or low-vision, build
-arrays in rows of cups and read facts by touch. Learners with limited movement direct
-a partner. Mastery arrives at its own pace.
+It builds on the meaning lessons (3 and 4) and turns to **fluency within 100** — the new
+skill is using **known facts and strategies** (doubling, halving, skip counting, fact
+families) rather than memorizing in isolation. Teach with a **worked example**
+(philosophy §13): show that 5 × 4 = 20, so 5 × 6 is 20 plus two more fives; then show
+the fact family (5 × 6 = 30, 6 × 5 = 30, 30 ÷ 5 = 6, 30 ÷ 6 = 5). **Fluency is not
+speed: a child who reasons to a fact is fluent; a child who races but cannot explain is
+not. No ranking, no timed tests — "not yet" is information, never a verdict (philosophy
+§8).** The multiplication table is a human invention shared across traditions; it is one
+tool, not a test of worth. Count in the home language. For learners who are Deaf or hard
+of hearing, count with sign and point to the table; for learners who are blind or
+low-vision, build arrays in rows of cups and read facts by touch. Learners with limited
+movement direct a partner. Mastery arrives at its own pace.
 
 ## Procedure
 

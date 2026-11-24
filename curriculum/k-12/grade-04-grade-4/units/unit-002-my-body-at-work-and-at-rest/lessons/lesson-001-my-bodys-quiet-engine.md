@@ -113,15 +113,14 @@ signal you can read.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Model finding the pulse on yourself before learners try —
-**worked example first, then guided practice**. Remind learners to use two gentle
-fingers, never a thumb (the thumb has its own pulse), and to press lightly. Some
-children cannot easily find a pulse; that is normal and not a failure — offer the
-chest (hand flat over the heart) as an alternative, or let them count their breathing
-instead. Never press on the neck too hard or for long. Keep it calm and curious, not a
-test: there is no "correct" number, only each body's own number. This begins the
-body-signals strand of the unit and builds on Grade 3's body-signal map.
+Model finding the pulse on yourself before learners try — **worked example first, then
+guided practice**. Remind learners to use two gentle fingers, never a thumb (the thumb
+has its own pulse), and to press lightly. Some children cannot easily find a pulse; that
+is normal and not a failure — offer the chest (hand flat over the heart) as an
+alternative, or let them count their breathing instead. Never press on the neck too hard
+or for long. Keep it calm and curious, not a test: there is no "correct" number, only
+each body's own number. This begins the body-signals strand of the unit and builds on
+Grade 3's body-signal map.
 
 ## Procedure
 

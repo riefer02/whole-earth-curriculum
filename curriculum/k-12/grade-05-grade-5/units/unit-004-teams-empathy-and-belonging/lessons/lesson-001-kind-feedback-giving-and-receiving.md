@@ -120,14 +120,14 @@ what lets the gift land.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **feedback about the
-work, not the person** — kind, specific, and usable — and that **receiving is a skill
-too**. Model the contrast vividly and stop any comment about the person the moment it
-appears, redirecting to the work. Feedback is among the strongest influences on learning
-(Hattie, *Visible Learning*), but only when it is clear and kind. Honor every learner's
-pace: feedback is about a next step, never about ranking. Because giving and receiving
-feedback is a skill, model it explicitly and do guided practice before independent work
-(Kirschner, Sweller & Clark, 2006). See `docs/facilitation.md` and `docs/contexts.md`.
+The idea to land is **feedback about the work, not the person** — kind, specific, and
+usable — and that **receiving is a skill too**. Model the contrast vividly and stop any
+comment about the person the moment it appears, redirecting to the work. Feedback is
+among the strongest influences on learning (Hattie, *Visible Learning*), but only when
+it is clear and kind. Honor every learner's pace: feedback is about a next step, never
+about ranking. Because giving and receiving feedback is a skill, model it explicitly and
+do guided practice before independent work (Kirschner, Sweller & Clark, 2006). See
+`docs/facilitation.md` and `docs/contexts.md`.
 
 ## Procedure
 

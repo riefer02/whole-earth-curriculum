@@ -118,15 +118,15 @@ simply the strength to live well, the same two rules hold: push a little, then r
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **progress comes from
-progressive effort — small, steady increases — plus recovery, the rest in which the
-body adapts and grows stronger.** The WHO frames a balanced routine as aerobic plus
-muscle-strengthening activity, with balance and flexibility across life (S-341); the
-principle of **progressive overload** (increasing the load, duration, or intensity a
-little at a time) and the role of **recovery** in adaptation are foundational
-exercise-science ideas, presented here as the standard, well-established picture. Hold
-them as *description*, not as a demand on any body: "push a little" always means "within
-your own body's safe range," and every body has its own starting point and pace.
+The idea to land: **progress comes from progressive effort — small, steady increases —
+plus recovery, the rest in which the body adapts and grows stronger.** The WHO frames a
+balanced routine as aerobic plus muscle-strengthening activity, with balance and
+flexibility across life (S-341); the principle of **progressive overload** (increasing
+the load, duration, or intensity a little at a time) and the role of **recovery** in
+adaptation are foundational exercise-science ideas, presented here as the standard,
+well-established picture. Hold them as *description*, not as a demand on any body: "push
+a little" always means "within your own body's safe range," and every body has its own
+starting point and pace.
 
 Model once, then let learners practice (S-011). The **ethics** lens: training is offered
 as care and joy, never as punishment, and never as a way to "fix" a body that is not
@@ -139,12 +139,12 @@ the same two principles appear everywhere, in many languages. The **technology &
 environment** lens: where a body trains — a safe street, a green space, a gym, a single
 room — and the tools it uses (a timer, an app, a plan) shape what "progressive effort
 and recovery" can look like; Lesson 9 will ask how tracking tech helps or distorts that
-picture. The **critical-thinking**
-lens: watch for the myth that "more is always better" — overtraining is real, and the
-signs (persistent tiredness, worsening performance, low mood, poor sleep, frequent
-injury) are the body asking for rest. The **social-emotional** lens: rest can feel like
-guilt in a culture that praises hustle; name that feeling and reframe rest as part of
-the work. Preview: Lesson 8 turns these principles into each learner's own plan.
+picture. The **critical-thinking** lens: watch for the myth that "more is always
+better" — overtraining is real, and the signs (persistent tiredness, worsening
+performance, low mood, poor sleep, frequent injury) are the body asking for rest. The
+**social-emotional** lens: rest can feel like guilt in a culture that praises hustle;
+name that feeling and reframe rest as part of the work. Preview: Lesson 8 turns these
+principles into each learner's own plan.
 
 ## Procedure
 

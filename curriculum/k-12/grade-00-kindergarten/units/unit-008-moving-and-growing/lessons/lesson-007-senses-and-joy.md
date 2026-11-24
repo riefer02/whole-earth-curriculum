@@ -109,12 +109,11 @@ other.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, keep the mood warm and
-free of judgment — there are no "wrong" favorites. **Honor every body:** a learner
-with low vision may find joy in touch and sound; a learner with limited hearing may
-love color and texture. This is also a values moment: the lesson teaches that joy is
-shared and personal at once, and that every way of sensing and delighting is worthy.
-No one's favorites should be mocked or ranked.
+As facilitator, keep the mood warm and free of judgment — there are no "wrong"
+favorites. **Honor every body:** a learner with low vision may find joy in touch and
+sound; a learner with limited hearing may love color and texture. This is also a values
+moment: the lesson teaches that joy is shared and personal at once, and that every way
+of sensing and delighting is worthy. No one's favorites should be mocked or ranked.
 
 ## Procedure
 

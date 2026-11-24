@@ -100,11 +100,10 @@ stayed the same. People everywhere have found many good ways to do the same jobs
 
 ## Facilitator note
 
-Written to the learner ("you") so it works in a classroom and for a self-directed
-learner. **Hold all ways with respect:** never rank "old" as worse or "new" as
-better. Some learners' families still light rooms with candles or carry water — these
-are valid, living ways, not museum curiosities. The point is *change and sameness*,
-not progress or superiority.
+**Hold all ways with respect:** never rank "old" as worse or "new" as better. Some
+learners' families still light rooms with candles or carry water — these are valid,
+living ways, not museum curiosities. The point is *change and sameness*, not progress or
+superiority.
 
 ## Procedure
 

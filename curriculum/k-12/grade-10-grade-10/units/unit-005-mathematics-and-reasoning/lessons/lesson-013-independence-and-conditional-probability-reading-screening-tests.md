@@ -116,24 +116,22 @@ labeling — and it is exactly what conditional probability is for.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **conditional
-probability P(A|B) = P(A and B) / P(B) measures how knowing B changes the chance of A;
-independence means P(A|B) = P(A); and for screening tests the key insight is that with
-a rare condition, most positives are false — so the prevalence (base rate) matters as
-much as the test's accuracy.** Teach the computation with worked examples (S-011), and
-let the 2×2 table carry the reasoning.
+The idea to land: **conditional probability P(A|B) = P(A and B) / P(B) measures how
+knowing B changes the chance of A; independence means P(A|B) = P(A); and for screening
+tests the key insight is that with a rare condition, most positives are false — so the
+prevalence (base rate) matters as much as the test's accuracy.** Teach the computation
+with worked examples (S-011), and let the 2×2 table carry the reasoning.
 
 The **intellectual** lens: the formula is just "restrict to the cases where B is true,
-and ask what fraction are A." The **critical-thinking** lens: always ask "given what?"
-— a probability without its condition is incomplete. The **ethics** lens: a false
-alarm is not a harmless number — it is fear, cost, and sometimes treatment a person
-did not need; honest communication of risk is a duty, not a nicety. The
-**egalitarian** lens: who gets screened, who can afford follow-up, and how a "positive"
-label follows a person are questions of fairness — the same arithmetic lands
-differently on different people. The **technology** lens: screening, prediction, and
-risk scores are everywhere in health and beyond; the base-rate lesson applies to any
-"it flagged you" system. Preview: Lesson 14 ends the unit with expected value — the
-decision side of risk.
+and ask what fraction are A." The **critical-thinking** lens: always ask "given what?" —
+a probability without its condition is incomplete. The **ethics** lens: a false alarm is
+not a harmless number — it is fear, cost, and sometimes treatment a person did not need;
+honest communication of risk is a duty, not a nicety. The **egalitarian** lens: who gets
+screened, who can afford follow-up, and how a "positive" label follows a person are
+questions of fairness — the same arithmetic lands differently on different people. The
+**technology** lens: screening, prediction, and risk scores are everywhere in health and
+beyond; the base-rate lesson applies to any "it flagged you" system. Preview: Lesson 14
+ends the unit with expected value — the decision side of risk.
 
 ## Procedure
 

@@ -118,14 +118,14 @@ quiet village, on a screen, or in a crowded corridor.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It **retrieves and consolidates** the
-pressure-handling strategies from earlier in the year (see L.06.001.10 and the self-care work in
-Unit 8) into a portable anchor — a spiral, not a repeat. This is a skill, so **model each
-scenario step-by-step** before independent practice (Kirschner, Sweller & Clark, 2006). Name the
-**technology** lens explicitly — distraction is often a device, and the strategy is to *choose*
-when and how to use it, not to shame the tool. Values are personal; invite learners to share only
-what they choose, and never rank any value system. Frame peer pressure carefully: peers are not
-villains, and "staying true" includes saying no kindly and finding allies. See
+It **retrieves and consolidates** the pressure-handling strategies from earlier in the
+year (see L.06.001.10 and the self-care work in Unit 8) into a portable anchor — a
+spiral, not a repeat. This is a skill, so **model each scenario step-by-step** before
+independent practice (Kirschner, Sweller & Clark, 2006). Name the **technology** lens
+explicitly — distraction is often a device, and the strategy is to *choose* when and how
+to use it, not to shame the tool. Values are personal; invite learners to share only
+what they choose, and never rank any value system. Frame peer pressure carefully: peers
+are not villains, and "staying true" includes saying no kindly and finding allies. See
 `docs/facilitation.md` and `docs/contexts.md`.
 
 ## Procedure

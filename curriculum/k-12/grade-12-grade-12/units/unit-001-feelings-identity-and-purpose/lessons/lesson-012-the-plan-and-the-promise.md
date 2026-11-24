@@ -116,25 +116,25 @@ would fail.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a goal becomes real
-through a first step, a date, and an if-then plan for the hard moment — and the plan
-stays autonomous even while it is accountable.** Planning is a *skill*, so it is taught
-explicitly: model once, then guided practice (Kirschner, Sweller & Clark, S-011).
-If-then planning is a well-evidenced self-control strategy — with the honest caveat
-that willpower is not a muscle you can simply grow (Duckworth et al., S-097).
+The idea to land: **a goal becomes real through a first step, a date, and an if-then
+plan for the hard moment — and the plan stays autonomous even while it is accountable.**
+Planning is a *skill*, so it is taught explicitly: model once, then guided practice
+(Kirschner, Sweller & Clark, S-011). If-then planning is a well-evidenced self-control
+strategy — with the honest caveat that willpower is not a muscle you can simply grow
+(Duckworth et al., S-097).
 
 The **ethics** lens: accountability to oneself and to others is an ethical commitment —
 a promise, and promises are the material of ethics. The **egalitarianism** lens: a
-learner's plan must match their real constraints — time, money, care duties, access —
-so "autonomy" means a plan authored within one's actual conditions, never a generic
-template imposed on all. The **global** lens: what a "life goal" looks like — a trade,
-a calling, a family role, a craft — varies across cultures; the plan's *form* is
+learner's plan must match their real constraints — time, money, care duties, access — so
+"autonomy" means a plan authored within one's actual conditions, never a generic
+template imposed on all. The **global** lens: what a "life goal" looks like — a trade, a
+calling, a family role, a craft — varies across cultures; the plan's *form* is
 universal, its *content* is the learner's own. The **critical-thinking** lens: the
 accountability check is a way to verify one's own claim against what actually happens.
 
 **Safeguarding:** goals are the learner's own and may be modest or private. No one is
-required to share a goal that touches family precarity, health, or safety. A learner
-may plan a *short-term* goal if a life goal feels too exposed.
+required to share a goal that touches family precarity, health, or safety. A learner may
+plan a *short-term* goal if a life goal feels too exposed.
 
 ## Procedure
 

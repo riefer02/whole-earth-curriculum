@@ -114,18 +114,20 @@ quantities move together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a scatter plot places each
-item as a point with two coordinates — one for each variable; (2) the association describes how the
-two variables tend to move together: positive (both rise), negative (one rises as the other falls),
-or none; (3) outliers and clusters are features to name, not mistakes to erase.** Because reading a
-scatter plot is a foundational skill, use explicit instruction, worked examples, and guided practice
-before independent work (Kirschner, Sweller & Clark, 2006). Watch for the slips of describing
-association from a single point (look at the whole cloud) and of calling any visible pattern "cause"
-(hold that for Lesson 11 — association is *not yet* causation). The egalitarian lens: every dot is a
-person or thing, and the plot never ranks *people* — it describes a relationship, with care for the
-outliers the trend leaves out (philosophy §4). The global lens: reading data in two variables is how
-public-health workers, farmers, and researchers everywhere see real patterns, using data gathered
-fairly (S-006). The critical-thinking lens: the whole cloud, not one dot, is the evidence.
+The ideas to land: **(1) a scatter plot places each item as a point with two
+coordinates — one for each variable; (2) the association describes how the two variables
+tend to move together: positive (both rise), negative (one rises as the other falls), or
+none; (3) outliers and clusters are features to name, not mistakes to erase.** Because
+reading a scatter plot is a foundational skill, use explicit instruction, worked
+examples, and guided practice before independent work (Kirschner, Sweller & Clark,
+2006). Watch for the slips of describing association from a single point (look at the
+whole cloud) and of calling any visible pattern "cause" (hold that for Lesson 11 —
+association is *not yet* causation). The egalitarian lens: every dot is a person or
+thing, and the plot never ranks *people* — it describes a relationship, with care for
+the outliers the trend leaves out (philosophy §4). The global lens: reading data in two
+variables is how public-health workers, farmers, and researchers everywhere see real
+patterns, using data gathered fairly (S-006). The critical-thinking lens: the whole
+cloud, not one dot, is the evidence.
 
 ## Procedure
 

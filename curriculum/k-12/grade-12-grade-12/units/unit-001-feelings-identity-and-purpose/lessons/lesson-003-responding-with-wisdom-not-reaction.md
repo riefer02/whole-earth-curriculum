@@ -119,13 +119,12 @@ lesson teaches it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **response is a skill,
-not a personality trait.** Emotion can be *regulated* — its expression managed and its
-interpretation examined — and regulation is distinct from *suppression*, which
-decouples the felt emotion from the outward show at a cost (Gross, S-225). The
-appraisal idea — that a thought or interpretation shapes the feeling an event produces
-— is a well-established account, offered descriptively (Beck, S-159), *not as therapy
-and not as a command to feel differently.*
+The idea to land: **response is a skill, not a personality trait.** Emotion can be
+*regulated* — its expression managed and its interpretation examined — and regulation is
+distinct from *suppression*, which decouples the felt emotion from the outward show at a
+cost (Gross, S-225). The appraisal idea — that a thought or interpretation shapes the
+feeling an event produces — is a well-established account, offered descriptively (Beck,
+S-159), *not as therapy and not as a command to feel differently.*
 
 The **ethics** lens: a response that carries insight and care is partly an ethical
 claim — about what the other person is owed even when I am upset. The **egalitarianism**

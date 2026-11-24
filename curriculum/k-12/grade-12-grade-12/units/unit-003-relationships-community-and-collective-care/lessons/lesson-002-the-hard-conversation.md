@@ -125,23 +125,22 @@ around them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **honest communication
-names what happened, what I felt, what I need, and what I ask — without turning the other
-person into the villain.** The four-part form is a widely used, needs-based approach
-(Rosenberg, S-148); hold it as a useful tool, not the only way people speak honestly
-across cultures.
+The idea to land: **honest communication names what happened, what I felt, what I need,
+and what I ask — without turning the other person into the villain.** The four-part form
+is a widely used, needs-based approach (Rosenberg, S-148); hold it as a useful tool, not
+the only way people speak honestly across cultures.
 
 The **ethics** lens: honesty has a shape — it aims at the truth *and* at the
 relationship, not at wounding. The **egalitarianism** lens: blame puts one person above
-the other as judge; the four-part form treats both as equals with needs of their own. The
-**global** lens: how directly people speak hard truths differs across cultures — some
-value directness, some indirectness, some third-party mediation; the frame is a tool to
-adapt, not a universal script. The **technology** lens: a hard truth sent by text arrives
-without tone, face, or a chance to repair in real time, so digital honesty needs extra
-care — or a decision to speak in person (Suler, S-343). The **critical-thinking** lens:
-separate the *observation* (what happened) from the *story* you are telling yourself
-about it, and you are halfway to honest talk. Preview: Lesson 3 turns to repair after
-harm.
+the other as judge; the four-part form treats both as equals with needs of their own.
+The **global** lens: how directly people speak hard truths differs across cultures —
+some value directness, some indirectness, some third-party mediation; the frame is a
+tool to adapt, not a universal script. The **technology** lens: a hard truth sent by
+text arrives without tone, face, or a chance to repair in real time, so digital honesty
+needs extra care — or a decision to speak in person (Suler, S-343). The
+**critical-thinking** lens: separate the *observation* (what happened) from the *story*
+you are telling yourself about it, and you are halfway to honest talk. Preview: Lesson 3
+turns to repair after harm.
 
 **Safeguarding:** all scenarios are fictional. No learner is asked to script a real
 private conflict; they may always use a character.

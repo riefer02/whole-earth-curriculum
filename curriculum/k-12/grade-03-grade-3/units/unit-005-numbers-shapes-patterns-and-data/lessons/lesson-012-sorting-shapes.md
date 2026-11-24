@@ -119,19 +119,19 @@ every culture have sorted shapes this way to fit them together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It opens the **shape attributes** strand
-— the new skill is *classifying* shapes by an attribute and naming the rule. Teach with
-a **worked example** (philosophy §13): sort a mixed set into "three sides," "four
-sides," and "five or more sides," and state each rule aloud before learners sort their
-own. The key move is seeing that a **category is a shared attribute** — the same shape
-can be sorted by sides, by angles, or by straight-vs-curved, and belong in different
-piles depending on the rule (Van de Walle et al., 2019). **No one's speed at sorting
-measures their smartness; two children can sort by different rules and both be right.**
-Sorting is a universal human act — every culture sorts its plants, stones, and tools.
-Count in the home language. For learners who are Deaf or hard of hearing, sign each
-attribute and point to the sides; for learners who are blind or low-vision, use cut-out
-shapes the hands can feel and sort by touch. Learners with limited movement direct a
-partner to place each shape. Mastery arrives at its own pace.
+It opens the **shape attributes** strand — the new skill is *classifying* shapes by an
+attribute and naming the rule. Teach with a **worked example** (philosophy §13): sort a
+mixed set into "three sides," "four sides," and "five or more sides," and state each
+rule aloud before learners sort their own. The key move is seeing that a **category is a
+shared attribute** — the same shape can be sorted by sides, by angles, or by
+straight-vs-curved, and belong in different piles depending on the rule (Van de Walle et
+al., 2019). **No one's speed at sorting measures their smartness; two children can sort
+by different rules and both be right.** Sorting is a universal human act — every culture
+sorts its plants, stones, and tools. Count in the home language. For learners who are
+Deaf or hard of hearing, sign each attribute and point to the sides; for learners who
+are blind or low-vision, use cut-out shapes the hands can feel and sort by touch.
+Learners with limited movement direct a partner to place each shape. Mastery arrives at
+its own pace.
 
 ## Procedure
 

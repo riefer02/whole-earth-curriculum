@@ -118,11 +118,11 @@ not a verdict.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the integrated self
-is written, and it is written as a draft — a living story, not a verdict.** Identity is
-a lifelong, developing process (Erikson, S-155), and a life story is how people knit
-past, present, and future together (McAdams, S-404); both are offered as description.
-The statement is a capstone *artifact*, not a test of who is "more" integrated.
+The idea to land: **the integrated self is written, and it is written as a draft — a
+living story, not a verdict.** Identity is a lifelong, developing process (Erikson,
+S-155), and a life story is how people knit past, present, and future together (McAdams,
+S-404); both are offered as description. The statement is a capstone *artifact*, not a
+test of who is "more" integrated.
 
 The **ethics** lens: "how I will act" makes the statement an ethical commitment, not
 only self-description. The **egalitarianism** lens: every self is honored as a whole in

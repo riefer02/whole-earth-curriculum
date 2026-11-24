@@ -110,23 +110,22 @@ lasts and dignifies.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a mutual-aid or
-cooperative effort differs from charity because it shares the deciding as well as the
-giving — and a good design names who is helped, who helps, what is done, and how
-decisions are made.** Teach the charity/mutual-aid distinction with a worked example
-(Spade, S-345); hold "sharing power is better" as a value, distinct from the descriptive
-distinction.
+The idea to land: **a mutual-aid or cooperative effort differs from charity because it
+shares the deciding as well as the giving — and a good design names who is helped, who
+helps, what is done, and how decisions are made.** Teach the charity/mutual-aid
+distinction with a worked example (Spade, S-345); hold "sharing power is better" as a
+value, distinct from the descriptive distinction.
 
 The **ethics** lens: the difference between helping *at* someone and helping *with*
 someone is a moral difference about dignity and agency. The **egalitarian** lens: the
 core — where does the power sit? A design that lets the giver decide is charity; one
-that lets everyone decide is mutual aid. The **global** lens: mutual aid and cooperatives
-are widespread, documented forms across the world — communal-work traditions (harambee,
-gotong royong, mink'a/minga, S-164), worker cooperatives and credit unions (ICA, S-486;
-Mondragón, S-487) — not the invention of any one region. The **technology** lens:
-technology can carry a mutual-aid effort across distance (shared documents, group
-messages, digital collection) or concentrate decisions in a few hands — the design
-chooses which.
+that lets everyone decide is mutual aid. The **global** lens: mutual aid and
+cooperatives are widespread, documented forms across the world — communal-work
+traditions (harambee, gotong royong, mink'a/minga, S-164), worker cooperatives and
+credit unions (ICA, S-486; Mondragón, S-487) — not the invention of any one region. The
+**technology** lens: technology can carry a mutual-aid effort across distance (shared
+documents, group messages, digital collection) or concentrate decisions in a few hands —
+the design chooses which.
 
 **Emotional safety.** Designing a real effort can feel like a big commitment. Reassure
 learners: this is a *plan and a first beginning*, not a lifetime pledge, and it may be

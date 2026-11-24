@@ -128,19 +128,20 @@ are taking us.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **opening and retrieval pass**,
-so the goals are modest: **(1) recall four Grade-7 ideas — the helped/harmed/fair frame (S-001),
-human rights (S-060, S-149), ways people influence decisions, and restorative steps (S-022,
-S-161); (2) preview the unit's four strands — moral reasoning & values, fairness/justice/rights,
-civic participation & collective action, peace/conflict & restorative practice — and its eight
-goals; (3) plant the organizing idea: we *ask, weigh, and act*, and we hold questions open
-(philosophy §11).** Do not try to teach the eight goals today; just name and locate them. The
-ethics lens: the whole unit is one long practice in weighing what is right. The egalitarianism
-lens: every question asks *who benefits and who is left out*. The global lens: the same
-questions are asked differently in every culture, and none of those ways is the "default"
-(philosophy §4). The critical-thinking lens: we distinguish evidence from values all year
-(philosophy §5). Spacing note (S-039): this recall pass is what makes the unit's ideas stick
-later. Keep it warm and open — nothing here is a verdict, a ranking, or a creed.
+It is the unit's **opening and retrieval pass**, so the goals are modest: **(1) recall
+four Grade-7 ideas — the helped/harmed/fair frame (S-001), human rights (S-060, S-149),
+ways people influence decisions, and restorative steps (S-022, S-161); (2) preview the
+unit's four strands — moral reasoning & values, fairness/justice/rights, civic
+participation & collective action, peace/conflict & restorative practice — and its eight
+goals; (3) plant the organizing idea: we *ask, weigh, and act*, and we hold questions
+open (philosophy §11).** Do not try to teach the eight goals today; just name and locate
+them. The ethics lens: the whole unit is one long practice in weighing what is right.
+The egalitarianism lens: every question asks *who benefits and who is left out*. The
+global lens: the same questions are asked differently in every culture, and none of
+those ways is the "default" (philosophy §4). The critical-thinking lens: we distinguish
+evidence from values all year (philosophy §5). Spacing note (S-039): this recall pass is
+what makes the unit's ideas stick later. Keep it warm and open — nothing here is a
+verdict, a ranking, or a creed.
 
 ## Procedure
 

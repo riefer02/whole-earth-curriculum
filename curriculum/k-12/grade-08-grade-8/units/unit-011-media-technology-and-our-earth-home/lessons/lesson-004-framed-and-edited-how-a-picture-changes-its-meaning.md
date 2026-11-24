@@ -113,19 +113,21 @@ the frame, and to check what is outside it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **meaning lives in the frame, not only
-in the image.** Three moves change meaning without any "faking": **(1) cropping** — leaving out what is
-outside the frame; **(2) captioning** — telling the viewer what to think it shows; **(3) context** —
-pairing an image with the wrong place, time, or event (a real photo from one protest attached to a
-different one years later). The checking skill (S-217, S-151): **ask what is cropped out, what the caption
-claims, and where the picture really came from** — find the original with a reverse image search or by
-tracing the source, and check it against independent reporting. The **ethics** lens: changing a picture's
-meaning to mislead is a choice with consequences — it can inflame fear or blame real people. The
-**egalitarian** lens: who is shown, and who is cropped out, is never neutral — a crowd "of peaceful
-people" or "of rioters" changes whose story is believed. The **global** lens: the same framing tricks work
-in every language and country; media literacy is a global skill (S-217). The **technology** lens: editing
-tools that once needed a studio now sit in every pocket, which makes checking more necessary, not less.
-Keep examples real and age-appropriate; never ask learners to relive trauma. The goal is the *habit* of
+The idea to land: **meaning lives in the frame, not only in the image.** Three moves
+change meaning without any "faking": **(1) cropping** — leaving out what is outside the
+frame; **(2) captioning** — telling the viewer what to think it shows; **(3) context** —
+pairing an image with the wrong place, time, or event (a real photo from one protest
+attached to a different one years later). The checking skill (S-217, S-151): **ask what
+is cropped out, what the caption claims, and where the picture really came from** — find
+the original with a reverse image search or by tracing the source, and check it against
+independent reporting. The **ethics** lens: changing a picture's meaning to mislead is a
+choice with consequences — it can inflame fear or blame real people. The **egalitarian**
+lens: who is shown, and who is cropped out, is never neutral — a crowd "of peaceful
+people" or "of rioters" changes whose story is believed. The **global** lens: the same
+framing tricks work in every language and country; media literacy is a global skill
+(S-217). The **technology** lens: editing tools that once needed a studio now sit in
+every pocket, which makes checking more necessary, not less. Keep examples real and
+age-appropriate; never ask learners to relive trauma. The goal is the *habit* of
 checking, taught with worked examples before independent practice (S-011).
 
 ## Procedure

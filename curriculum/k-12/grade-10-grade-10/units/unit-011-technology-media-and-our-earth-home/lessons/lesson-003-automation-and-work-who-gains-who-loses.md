@@ -114,18 +114,20 @@ work (they always have); it is who benefits, who is left holding the cost, and w
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **automation rearranges work — it raises
-productivity and can free people from drudgery, but it can also displace and deskill workers, and the
-gains and losses fall on different people; the decisive question is who holds the power to decide.** Keep
-the facts hedged: automation's net effect on employment is debated and varies by sector and place, not a
-single verdict. The **technology** lens is the spine — this is what technology does to work. The
-**egalitarian** lens: the gains (profit, cheaper goods) often accrue to owners, while the losses (jobs,
-skills, wages) fall on workers, and the digital divide shapes who can adapt (S-281). The **global** lens:
-automation lands differently in a rice field, a garment factory, and an office — there is no single
-story. The **ethics** lens: deciding how work changes is a moral choice, not just an efficiency
-calculation. The **environment** lens: automation can use more energy and materials, or less — weigh both.
-Distinguish evidence (what changed) from values (whether the change is fair) (philosophy §5). Preview:
-next lesson we build a method for weighing an emerging technology's promises and risks.
+The idea to land: **automation rearranges work — it raises productivity and can free
+people from drudgery, but it can also displace and deskill workers, and the gains and
+losses fall on different people; the decisive question is who holds the power to
+decide.** Keep the facts hedged: automation's net effect on employment is debated and
+varies by sector and place, not a single verdict. The **technology** lens is the spine —
+this is what technology does to work. The **egalitarian** lens: the gains (profit,
+cheaper goods) often accrue to owners, while the losses (jobs, skills, wages) fall on
+workers, and the digital divide shapes who can adapt (S-281). The **global** lens:
+automation lands differently in a rice field, a garment factory, and an office — there
+is no single story. The **ethics** lens: deciding how work changes is a moral choice,
+not just an efficiency calculation. The **environment** lens: automation can use more
+energy and materials, or less — weigh both. Distinguish evidence (what changed) from
+values (whether the change is fair) (philosophy §5). Preview: next lesson we build a
+method for weighing an emerging technology's promises and risks.
 
 ## Procedure
 

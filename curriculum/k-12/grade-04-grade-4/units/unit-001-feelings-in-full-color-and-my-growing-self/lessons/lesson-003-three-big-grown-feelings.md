@@ -117,13 +117,12 @@ or good by themselves; they are **signals** that tell you what matters to you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The key teaching move is to frame each
-complex feeling as a *signal*, not a *verdict*: jealousy points to a want, guilt points
-to a past action, pride points to effort. This keeps the lesson warm and non-shaming —
-important, because jealousy and guilt can feel heavy. Teach all three aloud (worked
-example) before learners connect their own. Never label a learner "jealous" or "guilty";
-talk about the *feeling*, not the *person*. See `docs/facilitation.md` on holding
-difficult topics safely.
+The key teaching move is to frame each complex feeling as a *signal*, not a *verdict*:
+jealousy points to a want, guilt points to a past action, pride points to effort. This
+keeps the lesson warm and non-shaming — important, because jealousy and guilt can feel
+heavy. Teach all three aloud (worked example) before learners connect their own. Never
+label a learner "jealous" or "guilty"; talk about the *feeling*, not the *person*. See
+`docs/facilitation.md` on holding difficult topics safely.
 
 ## Procedure
 

@@ -116,12 +116,12 @@ that someone: the person who decides what a listener hears, in what order, and w
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **a listening program is
-a *curated sequence across cultures*; the written reasoning must honor each tradition
-(attribution, context) while explaining the selection and order.** Teach the two moves
-with a worked example and guided practice (S-011). Hold the hard rule from Grade 10:
-respectful engagement, not appropriation — music is met as a living tradition, credited
-and asked about, never taken (philosophy §4).
+The ideas to land: **a listening program is a *curated sequence across cultures*; the
+written reasoning must honor each tradition (attribution, context) while explaining the
+selection and order.** Teach the two moves with a worked example and guided practice
+(S-011). Hold the hard rule from Grade 10: respectful engagement, not appropriation —
+music is met as a living tradition, credited and asked about, never taken (philosophy
+§4).
 
 The **intellectual** lens: program notes are argument — each choice is defended with a
 reason about the music itself (its scale, rhythm, timbre, or mood), not just a feeling.
@@ -133,8 +133,8 @@ interlocking pairs and West African **djembe** drumming with layered rhythms and
 call-and-response (S-188). Each is a living way of making meaning in sound. The
 **egalitarianism** lens: no tradition is "better" or more "advanced" than another; a
 program that places them side by side treats each as a full voice. The **community**
-lens: where possible, invite the people of a tradition — classmates, families, neighbors —
-to play or speak, so the program is *with* a community, not *about* it.
+lens: where possible, invite the people of a tradition — classmates, families,
+neighbors — to play or speak, so the program is *with* a community, not *about* it.
 
 ## Procedure
 

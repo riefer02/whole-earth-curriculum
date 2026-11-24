@@ -114,27 +114,28 @@ not to worship it or to fear it, but to weigh it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **energy, materials, and
-computing each carry real promise and real risk, and honest weighing names both — including
-who bears the risk — rather than praising or damning a technology wholesale.** Teach the
-trace explicitly, then let learners weigh (S-011). Keep evidence and values distinct: *that*
-renewable and nonrenewable sources differ, that cobalt mining harms communities, and that
-e-waste is a growing hazard are factual, cited claims (S-095, S-398, S-397); *how much* risk
-we accept is a value choice to be argued, not hidden inside the physics.
+The idea to land: **energy, materials, and computing each carry real promise and real
+risk, and honest weighing names both — including who bears the risk — rather than
+praising or damning a technology wholesale.** Teach the trace explicitly, then let
+learners weigh (S-011). Keep evidence and values distinct: *that* renewable and
+nonrenewable sources differ, that cobalt mining harms communities, and that e-waste is a
+growing hazard are factual, cited claims (S-095, S-398, S-397); *how much* risk we
+accept is a value choice to be argued, not hidden inside the physics.
 
-The **ethics** lens: a technology's benefits and harms rarely land on the same people — the
-ethical question is whether the bargain is a fair one or a hidden transfer of cost (S-398).
-The **egalitarianism** lens: the digital divide means computing's promise is not equally
-distributed — the same device that empowers one person is unaffordable or unreachable for
-another (S-281). The **global** lens: supply chains are planetary — the cobalt in a battery,
-the lithium, the rare earths — so the risk of one country's convenience is another country's
-extraction (S-398); and renewable energy is now a global, rapidly growing share of power
-(S-095, S-006). The **technology** lens: this is the lens's home territory — computing's
-promise (modeling, medicine, connection) and its material underside (energy-hungry data
-centers, short-lived devices, e-waste) are the same technology seen whole (S-397, S-481).
-The **environment** lens: energy choices drive the climate (S-005), and the life cycle of a
-device — mine, make, use, discard — is an environmental story from start to finish (S-397).
-Preview: Lesson 12 turns weighing into a proposal for a just and sustainable physics.
+The **ethics** lens: a technology's benefits and harms rarely land on the same people —
+the ethical question is whether the bargain is a fair one or a hidden transfer of cost
+(S-398). The **egalitarianism** lens: the digital divide means computing's promise is
+not equally distributed — the same device that empowers one person is unaffordable or
+unreachable for another (S-281). The **global** lens: supply chains are planetary — the
+cobalt in a battery, the lithium, the rare earths — so the risk of one country's
+convenience is another country's extraction (S-398); and renewable energy is now a
+global, rapidly growing share of power (S-095, S-006). The **technology** lens: this is
+the lens's home territory — computing's promise (modeling, medicine, connection) and its
+material underside (energy-hungry data centers, short-lived devices, e-waste) are the
+same technology seen whole (S-397, S-481). The **environment** lens: energy choices
+drive the climate (S-005), and the life cycle of a device — mine, make, use, discard —
+is an environmental story from start to finish (S-397). Preview: Lesson 12 turns
+weighing into a proposal for a just and sustainable physics.
 
 ## Procedure
 

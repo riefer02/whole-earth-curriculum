@@ -125,19 +125,20 @@ eyes — you see *who* is speaking, *why*, and *to whom*.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Grade 3 named a message's **purpose** and
-**audience**; Grade 4 adds the **author** and, crucially, asks learners to **explain how author
-and audience shape the message**. Model the three questions — *who made it? what is it for? who
-is it for?* — and the "how it shapes it" sentence once, then guide a second message before
-independent work (Kirschner, Sweller & Clark, 2006). Keep the media stance warm, not suspicious:
-naming an author, purpose, and audience is *understanding*, not catching someone out — the
-health worker wants to help you stay well, and the toy company wants you to want the toy; both
-are honest once you can see them. Use messages from many places and lives — a market notice, a
-road sign, a song, a menu — so no one home is the default; a spoken story or song is a real
-message with an author, purpose, and audience too. Honor every body: read each message aloud
-for a learner who is blind or has low vision and let them name author, purpose, and audience by
-voice; a non-speaking learner points to the author, purpose word, and audience picture; acting
-out each message works for learners who learn best by moving.
+Grade 3 named a message's **purpose** and **audience**; Grade 4 adds the **author** and,
+crucially, asks learners to **explain how author and audience shape the message**. Model
+the three questions — *who made it? what is it for? who is it for?* — and the "how it
+shapes it" sentence once, then guide a second message before independent work
+(Kirschner, Sweller & Clark, 2006). Keep the media stance warm, not suspicious: naming
+an author, purpose, and audience is *understanding*, not catching someone out — the
+health worker wants to help you stay well, and the toy company wants you to want the
+toy; both are honest once you can see them. Use messages from many places and lives — a
+market notice, a road sign, a song, a menu — so no one home is the default; a spoken
+story or song is a real message with an author, purpose, and audience too. Honor every
+body: read each message aloud for a learner who is blind or has low vision and let them
+name author, purpose, and audience by voice; a non-speaking learner points to the
+author, purpose word, and audience picture; acting out each message works for learners
+who learn best by moving.
 
 ## Procedure
 

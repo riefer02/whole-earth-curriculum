@@ -114,17 +114,18 @@ everywhere.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to carry is **aligning the decimal
-points** so tenths add to tenths and hundredths to hundredths, then **regrouping** exactly as
-with whole numbers (ten hundredths make a tenth; ten tenths make a one). Because this is a
-foundational skill, **model a worked example step by step**, then guide a second together
-before independent practice (Kirschner, Sweller & Clark, 2006). Common slips to watch for:
-lining up numbers on the right edge instead of at the decimal point, and forgetting to write
-the decimal point in the answer. Retrieval: ask learners to recall last lesson's rounding rule
-and reuse it to estimate ("about 2.50 + 1.75 ≈ 4.25, so the answer should be near 4"). Using
-real local currency is fine; keep the math generic so it works with any currency, and avoid
-assuming one currency is the "default." The arithmetic is evidence; the habit of giving exact
-change so no one is cheated is a fairness value (`docs/philosophy.md` §4).
+The skill to carry is **aligning the decimal points** so tenths add to tenths and
+hundredths to hundredths, then **regrouping** exactly as with whole numbers (ten
+hundredths make a tenth; ten tenths make a one). Because this is a foundational skill,
+**model a worked example step by step**, then guide a second together before independent
+practice (Kirschner, Sweller & Clark, 2006). Common slips to watch for: lining up
+numbers on the right edge instead of at the decimal point, and forgetting to write the
+decimal point in the answer. Retrieval: ask learners to recall last lesson's rounding
+rule and reuse it to estimate ("about 2.50 + 1.75 ≈ 4.25, so the answer should be near
+4"). Using real local currency is fine; keep the math generic so it works with any
+currency, and avoid assuming one currency is the "default." The arithmetic is evidence;
+the habit of giving exact change so no one is cheated is a fairness value
+(`docs/philosophy.md` §4).
 
 ## Procedure
 

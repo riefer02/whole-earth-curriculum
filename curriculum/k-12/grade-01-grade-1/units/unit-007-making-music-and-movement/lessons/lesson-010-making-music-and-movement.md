@@ -140,14 +140,13 @@ story worth hearing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Make this a true celebration, not a contest. There are no
-"best" pieces — the point is that every child shares and every child is heard. Let
-learners share in whatever form suits them: talk, point, sing, move, or show. Sharing
-is a choice, never a duty — a learner may pass, and watching and clapping for others
-is full participation. Never single out a shy learner to share alone. Honor every
-culture's arts as living heritage, and every learner's work as belonging. Close by
-naming the unit's big idea together: making is a voice, and every voice matters.
+Make this a true celebration, not a contest. There are no "best" pieces — the point is
+that every child shares and every child is heard. Let learners share in whatever form
+suits them: talk, point, sing, move, or show. Sharing is a choice, never a duty — a
+learner may pass, and watching and clapping for others is full participation. Never
+single out a shy learner to share alone. Honor every culture's arts as living heritage,
+and every learner's work as belonging. Close by naming the unit's big idea together:
+making is a voice, and every voice matters.
 
 ## Procedure
 

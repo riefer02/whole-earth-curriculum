@@ -118,13 +118,12 @@ message: a letter that comforts, a call that moves, an argument that persuades.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **tone is the
-emotional register of a piece, chosen to serve a purpose and an audience; it is carried
-by word choice and rhythm, and it must hold steady or it loses the reader.** Tone and
-register (Lesson 4, S-237) are cousins: register is formality, tone is feeling. A
-deliberate writer plans both. The writing-craft evidence is explicit: adolescents write
-better when taught to plan for audience and purpose and to revise with models, not when
-left to intuition (S-102).
+The idea to land: **tone is the emotional register of a piece, chosen to serve a purpose
+and an audience; it is carried by word choice and rhythm, and it must hold steady or it
+loses the reader.** Tone and register (Lesson 4, S-237) are cousins: register is
+formality, tone is feeling. A deliberate writer plans both. The writing-craft evidence
+is explicit: adolescents write better when taught to plan for audience and purpose and
+to revise with models, not when left to intuition (S-102).
 
 Model the skill once, then let learners practice (worked example → guided practice →
 independent work; S-011). The **intellectual** lens is the spine: the tone-for-purpose
@@ -134,8 +133,8 @@ same facts, two tones, two effects; choosing tone is a moral choice as much as a
 one. The **egalitarian** lens: a reader's home language and dialect shape which tones
 feel warm or cold; there is no universal "professional" tone, and a learner's own way of
 putting things is not a defect to edit away. The **global** lens: cultures differ in
-what tone fits a given moment — what is polite in one may be cold in another — so tone is
-read *in context*, never as a fixed rule. The **social-emotional** lens: writing in a
+what tone fits a given moment — what is polite in one may be cold in another — so tone
+is read *in context*, never as a fixed rule. The **social-emotional** lens: writing in a
 tone that does not come naturally (firm when you are shy, warm when you are formal) is a
 real stretch; normalize it and let learners name the feeling. Preview: Lesson 13 widens
 the canvas — composing not just words, but image, sound, and design.

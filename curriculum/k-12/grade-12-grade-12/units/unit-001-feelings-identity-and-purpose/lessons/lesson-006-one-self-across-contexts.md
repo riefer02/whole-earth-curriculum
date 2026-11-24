@@ -117,17 +117,17 @@ do not change with the audience. Today you look for your constants.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an integrated self
-is a set of constants — values and commitments — that hold across contexts, not a rigid
-sameness in every room.** Identity is a *developing, lifelong process*, not a finished
-fact (Erikson, S-155); the "life story" account is one well-supported way to describe
-how we knit that process together (McAdams, S-404). Hold both as description, and
-never as a verdict: this unit must never hand a learner a label.
+The idea to land: **an integrated self is a set of constants — values and commitments —
+that hold across contexts, not a rigid sameness in every room.** Identity is a
+*developing, lifelong process*, not a finished fact (Erikson, S-155); the "life story"
+account is one well-supported way to describe how we knit that process together
+(McAdams, S-404). Hold both as description, and never as a verdict: this unit must never
+hand a learner a label.
 
 The **ethics** lens: the "how I will act" column is an ethical claim — about what kind
 of person one intends to be. The **egalitarianism** lens: some contexts let people show
-their full self and others force parts of it into hiding; the cost of that hiding is
-not evenly distributed. The **global** lens: what "the same person" means varies by
+their full self and others force parts of it into hiding; the cost of that hiding is not
+evenly distributed. The **global** lens: what "the same person" means varies by
 culture — some traditions center the individual self, others center the self-in-
 relationship; neither is the default. The **critical-thinking** lens: testing whether
 something is *truly* constant across contexts is a check on self-description, not a

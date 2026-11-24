@@ -116,15 +116,14 @@ through. Today you gather the pieces and see that they were always one thing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the four threads are
-one thing** — a way of living in a body that notices (body–mind), honors every body's
-worth (dignity), moves on purpose (movement plan), and widens the world's doors
-(environments). The capstone is a **retrieval-and-integration pass**, which is the
-highest-value kind of review (Dunlosky et al., S-039). Keep the tone open, not
-summative-in-the-punitive sense: this is a gathering, not a grading. Honor every body
-to the last line — the unit's closing claim is that dignity and joy belong to the whole
-arc of a life, at every age and every ability, and that the learner now carries the
-tools to protect that.
+The idea to land: **the four threads are one thing** — a way of living in a body that
+notices (body–mind), honors every body's worth (dignity), moves on purpose (movement
+plan), and widens the world's doors (environments). The capstone is a
+**retrieval-and-integration pass**, which is the highest-value kind of review (Dunlosky
+et al., S-039). Keep the tone open, not summative-in-the-punitive sense: this is a
+gathering, not a grading. Honor every body to the last line — the unit's closing claim
+is that dignity and joy belong to the whole arc of a life, at every age and every
+ability, and that the learner now carries the tools to protect that.
 
 The **ethics** lens: the four threads are all, at bottom, about care — for oneself, for
 others, for the shared world. The **egalitarianism** lens: the unit has insisted that
@@ -133,8 +132,11 @@ it as a commitment, not a slogan. The **global** lens: the learner may carry thi
 framework into a life that looks like any life on Earth — a city, a farm, a coast, a
 mountain — and it is built to travel. The **critical-thinking** lens: the integration
 sentence is a claim about your own life, offered to be tested and revised as the life
-unfolds. The **technology & environment** lens: the four threads come together in a body that lives in a particular place and time — among devices, buildings, and climates that help or hinder — so the whole arc is carried not in a vacuum but in a world, and part of the task is making that world easier for every body to move through. Close with a forward-looking note: this is the beginning of carrying it, not
-the end of learning it.
+unfolds. The **technology & environment** lens: the four threads come together in a body
+that lives in a particular place and time — among devices, buildings, and climates that
+help or hinder — so the whole arc is carried not in a vacuum but in a world, and part of
+the task is making that world easier for every body to move through. Close with a
+forward-looking note: this is the beginning of carrying it, not the end of learning it.
 
 ## Procedure
 

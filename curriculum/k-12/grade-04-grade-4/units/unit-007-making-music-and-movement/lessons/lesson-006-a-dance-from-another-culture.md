@@ -120,17 +120,17 @@ from the people who dance it every day.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Teaching another culture's dance is a
-responsibility: teach what is accurate, give credit, and be clear that the ideal
-teacher is a living dancer from that community — invite one if you can. Use a worked
-example for the foot pattern (Kirschner, Sweller & Clark, 2006): demonstrate
-"in, in, out" slowly while counting, then let learners mirror. If using real poles,
-clap them very slowly and flat to the ground, and never on anyone's feet — lines of
-tape are the safest first step. Do not turn the dance into a costume or a caricature;
-the meaning (a festive bird-like stepping dance for celebration) matters more than
-perfect steps. A learner who uses a wheelchair or has limited mobility can perform the
-upper-body rhythm and arm pattern, or clap the pole rhythm — every body joins the
-dance. If a learner cannot step, the rhythm role is a full role, not a lesser one.
+Teaching another culture's dance is a responsibility: teach what is accurate, give
+credit, and be clear that the ideal teacher is a living dancer from that community —
+invite one if you can. Use a worked example for the foot pattern (Kirschner, Sweller &
+Clark, 2006): demonstrate "in, in, out" slowly while counting, then let learners mirror.
+If using real poles, clap them very slowly and flat to the ground, and never on anyone's
+feet — lines of tape are the safest first step. Do not turn the dance into a costume or
+a caricature; the meaning (a festive bird-like stepping dance for celebration) matters
+more than perfect steps. A learner who uses a wheelchair or has limited mobility can
+perform the upper-body rhythm and arm pattern, or clap the pole rhythm — every body
+joins the dance. If a learner cannot step, the rhythm role is a full role, not a lesser
+one.
 
 ## Procedure
 

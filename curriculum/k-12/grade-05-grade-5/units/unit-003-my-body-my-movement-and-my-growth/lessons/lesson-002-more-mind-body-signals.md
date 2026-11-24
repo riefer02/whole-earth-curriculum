@@ -114,13 +114,12 @@ Noticing the signal — and what it is asking for — is a skill anyone can grow
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **body signals carry
-meaning, and each signal points to a helpful response**. Present the responses as *choices
-the learner can make*, never as rules — "you *could* rest" rather than "you *must* rest."
-Some learners live with bodies that signal differently (pain, fatigue, sensory differences);
-honor that every body speaks its own language. Keep examples ordinary and let each learner
-choose safe, real signals to share. See `docs/facilitation.md` on holding difficult topics
-safely.
+The idea to land is that **body signals carry meaning, and each signal points to a
+helpful response**. Present the responses as *choices the learner can make*, never as
+rules — "you *could* rest" rather than "you *must* rest." Some learners live with bodies
+that signal differently (pain, fatigue, sensory differences); honor that every body
+speaks its own language. Keep examples ordinary and let each learner choose safe, real
+signals to share. See `docs/facilitation.md` on holding difficult topics safely.
 
 ## Procedure
 

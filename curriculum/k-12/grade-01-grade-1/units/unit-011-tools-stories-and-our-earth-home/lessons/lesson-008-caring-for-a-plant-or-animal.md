@@ -115,19 +115,19 @@ what keeps it alive and well.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Make the caring real, not symbolic —
-learners should actually water, feed, or tidy for a living thing, with safe, clean
-hands and gentle touch. The core idea is **each day**: steady care is what living things
-need, and learners are helpers, not saviors or owners to command. Honor whatever living
-thing is at hand — a windowsill plant is every bit as worthy of care as a pet. Never
-frame a family without pets or plants as missing something; a wild bird given a dish of
-water, or a street tree watered in the dry season, is just as real. For a learner with
-motor differences, the choosing and the directing are the care — they may guide a
-partner's hands to pour the water or fill the dish while saying what the living thing
-needs; adapt the tool (a light cup, a long-spouted can). A learner who is blind or has
-low vision can feel the plant's dry or damp soil and the filled dish, and listen for
-the living thing's sounds. A non-speaking learner can point to the caring task and to
-pictures of water and food to show what the living thing needs each day.
+Make the caring real, not symbolic — learners should actually water, feed, or tidy for a
+living thing, with safe, clean hands and gentle touch. The core idea is **each day**:
+steady care is what living things need, and learners are helpers, not saviors or owners
+to command. Honor whatever living thing is at hand — a windowsill plant is every bit as
+worthy of care as a pet. Never frame a family without pets or plants as missing
+something; a wild bird given a dish of water, or a street tree watered in the dry
+season, is just as real. For a learner with motor differences, the choosing and the
+directing are the care — they may guide a partner's hands to pour the water or fill the
+dish while saying what the living thing needs; adapt the tool (a light cup, a
+long-spouted can). A learner who is blind or has low vision can feel the plant's dry or
+damp soil and the filled dish, and listen for the living thing's sounds. A non-speaking
+learner can point to the caring task and to pictures of water and food to show what the
+living thing needs each day.
 
 ## Procedure
 

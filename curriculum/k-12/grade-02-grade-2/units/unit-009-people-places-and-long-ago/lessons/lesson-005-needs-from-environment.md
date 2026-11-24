@@ -112,17 +112,16 @@ the same; the way is shaped by place.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Keep the needs universal and the
-ways many.** The four needs — water, food, shelter, materials — are shared by every
-human; this is a factual, cross-cultural claim (every person needs water, food, and
-shelter to live). What differs is *how*, and every way is a real adaptation, never a
-deficiency. **Do not rank:** a well is not "better" than a river; a tent is not
-"worse" than a house of wood; each fits its place and its climate. Use examples from
-many regions (a desert well, a forest home of wood, a high-mountain stone house, a
-coastal fish dinner) so no single region is the default. Honor every body: describe
-the cards in words for a learner who cannot see them; a learner who does not use a
-speaking voice points or acts. A learner whose own way of meeting a need differs is
-never "wrong" — their way belongs on the chart too.
+**Keep the needs universal and the ways many.** The four needs — water, food, shelter,
+materials — are shared by every human; this is a factual, cross-cultural claim (every
+person needs water, food, and shelter to live). What differs is *how*, and every way is
+a real adaptation, never a deficiency. **Do not rank:** a well is not "better" than a
+river; a tent is not "worse" than a house of wood; each fits its place and its climate.
+Use examples from many regions (a desert well, a forest home of wood, a high-mountain
+stone house, a coastal fish dinner) so no single region is the default. Honor every
+body: describe the cards in words for a learner who cannot see them; a learner who does
+not use a speaking voice points or acts. A learner whose own way of meeting a need
+differs is never "wrong" — their way belongs on the chart too.
 
 ## Procedure
 

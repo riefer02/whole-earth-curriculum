@@ -122,14 +122,14 @@ a set of parts that is complete and true, and none is more "real" than another.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It opens the year-end unit by **retrieving** the
-many-parts identity map learners built earlier in the year (see L.06.001.05) and adding the new
-idea that parts **shift by context** — a spiral, not a repeat. The tone is celebration and
-honoring: every family shape, culture, language, and belief system is ordinary and whole. Be
-explicit that **beliefs are personal and optional to share**; never rank any belief system or any
-family shape. The gallery walk must celebrate *difference*, never compare maps as better or
-worse. Keep the "how I have grown" line private if a learner prefers; it is their reflection to
-keep or share. See `docs/facilitation.md` and `docs/art-style.md`.
+It opens the year-end unit by **retrieving** the many-parts identity map learners built
+earlier in the year (see L.06.001.05) and adding the new idea that parts **shift by
+context** — a spiral, not a repeat. The tone is celebration and honoring: every family
+shape, culture, language, and belief system is ordinary and whole. Be explicit that
+**beliefs are personal and optional to share**; never rank any belief system or any
+family shape. The gallery walk must celebrate *difference*, never compare maps as better
+or worse. Keep the "how I have grown" line private if a learner prefers; it is their
+reflection to keep or share. See `docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure
 

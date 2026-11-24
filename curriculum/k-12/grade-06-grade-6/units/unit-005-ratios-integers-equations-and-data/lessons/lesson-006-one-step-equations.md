@@ -111,19 +111,21 @@ cooks, builders, and scientists reason backward from a result to its cause, all 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) an **equation** says two things are
-equal — like a balanced scale; (2) to **solve**, use the **inverse operation** (subtract to undo adding,
-divide to undo multiplying) *on both sides* so the equation stays true; and (3) always **check** by
-substituting the answer back. Because solving equations is a foundational skill, use explicit instruction
-and worked examples before independent work (Kirschner, Sweller & Clark, 2006): model x + 3 = 8 step by
-step, then guide 5x = 20 together. Two common slips: doing the operation to only one side, and picking the
-wrong inverse (adding when you should subtract). Retrieval: ask learners to recall expressions from last
-lesson (4t + 3) — an equation is two expressions with an equals sign between them, and solving finds the
-value that makes them equal. The balance image is not a gimmick; it is the *definition* of equality. Note
-the global and historical point: the word "algebra" comes from *al-jabr* in the title of al-Khwarizmi's
-9th-century book, and the method of balancing both sides is a human achievement shared across cultures.
-The critical-thinking lens: checking your answer rather than trusting a guess is honest reasoning
-(`docs/philosophy.md` §7).
+The ideas to land: (1) an **equation** says two things are equal — like a balanced
+scale; (2) to **solve**, use the **inverse operation** (subtract to undo adding, divide
+to undo multiplying) *on both sides* so the equation stays true; and (3) always
+**check** by substituting the answer back. Because solving equations is a foundational
+skill, use explicit instruction and worked examples before independent work (Kirschner,
+Sweller & Clark, 2006): model x + 3 = 8 step by step, then guide 5x = 20 together. Two
+common slips: doing the operation to only one side, and picking the wrong inverse
+(adding when you should subtract). Retrieval: ask learners to recall expressions from
+last lesson (4t + 3) — an equation is two expressions with an equals sign between them,
+and solving finds the value that makes them equal. The balance image is not a gimmick;
+it is the *definition* of equality. Note the global and historical point: the word
+"algebra" comes from *al-jabr* in the title of al-Khwarizmi's 9th-century book, and the
+method of balancing both sides is a human achievement shared across cultures. The
+critical-thinking lens: checking your answer rather than trusting a guess is honest
+reasoning (`docs/philosophy.md` §7).
 
 ## Procedure
 

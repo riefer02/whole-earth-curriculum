@@ -117,22 +117,22 @@ and air. That is why every living thing, deep down, depends on plants.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is a **new foundational idea** — the
-Grade 3 upgrade of Grade 2's "animals get energy from eating" — so teach it with a worked
-example and guided practice before learners draw their own (Kirschner, Sweller & Clark,
-2006). Keep the science simple and true: green plants use **sunlight**, **water**, and
-**air** to make their own food (this is photosynthesis, but at this age the words "plants
-make their own food using sunlight" are enough — do not demand the word *photosynthesis*).
-The big claim is that **all living things depend on plants, or on animals that eat them**:
-plant-eaters depend directly, animal-eaters depend indirectly (they eat an animal that ate a
-plant), and people depend on both. Use examples from many places and biomes — rice fields,
-grasslands, sea plants, forests — so no single place is the default; note that sea plants
-and tiny green plants in water make food the same way. Honor every body: describe each card
-in words for a learner who is blind or has low vision and let them feel a real leaf; a
-non-speaking learner points to sun, water, air, and leaf to tell the story; acting out a
-plant reaching for light and an animal eating works for learners who learn best by moving.
-Hold the ethics gently: plants feed the whole living world, so caring for plants is caring
-for every animal — this returns in Lessons 9–10.
+This is a **new foundational idea** — the Grade 3 upgrade of Grade 2's "animals get
+energy from eating" — so teach it with a worked example and guided practice before
+learners draw their own (Kirschner, Sweller & Clark, 2006). Keep the science simple and
+true: green plants use **sunlight**, **water**, and **air** to make their own food (this
+is photosynthesis, but at this age the words "plants make their own food using sunlight"
+are enough — do not demand the word *photosynthesis*). The big claim is that **all
+living things depend on plants, or on animals that eat them**: plant-eaters depend
+directly, animal-eaters depend indirectly (they eat an animal that ate a plant), and
+people depend on both. Use examples from many places and biomes — rice fields,
+grasslands, sea plants, forests — so no single place is the default; note that sea
+plants and tiny green plants in water make food the same way. Honor every body: describe
+each card in words for a learner who is blind or has low vision and let them feel a real
+leaf; a non-speaking learner points to sun, water, air, and leaf to tell the story;
+acting out a plant reaching for light and an animal eating works for learners who learn
+best by moving. Hold the ethics gently: plants feed the whole living world, so caring
+for plants is caring for every animal — this returns in Lessons 9–10.
 
 ## Procedure
 

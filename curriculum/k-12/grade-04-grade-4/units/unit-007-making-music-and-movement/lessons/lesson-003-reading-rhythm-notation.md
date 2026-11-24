@@ -111,14 +111,14 @@ can read it and play the very same thing. Today you learn to read that language.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Reading notation is a **skill**, so
-teach it with a worked example and guided practice before independent work
-(Kirschner, Sweller & Clark, 2006): model "ta ta ta ta," then "ti-ti ta rest," clapping
-each bar while pointing to the symbols, and have the group echo. Keep the beat steady
-by tapping a foot or using a drum. A learner who is deaf or hard of hearing can feel
-the beat through a drum on the floor or a partner's tap on their hand, and can show a
-rest as "no movement." A learner with limited hand use can nod, blink, or tap a finger.
-The goal is that the *symbols* match the *sounds* — correctness, not speed.
+Reading notation is a **skill**, so teach it with a worked example and guided practice
+before independent work (Kirschner, Sweller & Clark, 2006): model "ta ta ta ta," then
+"ti-ti ta rest," clapping each bar while pointing to the symbols, and have the group
+echo. Keep the beat steady by tapping a foot or using a drum. A learner who is deaf or
+hard of hearing can feel the beat through a drum on the floor or a partner's tap on
+their hand, and can show a rest as "no movement." A learner with limited hand use can
+nod, blink, or tap a finger. The goal is that the *symbols* match the *sounds* —
+correctness, not speed.
 
 ## Procedure
 

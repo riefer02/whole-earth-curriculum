@@ -119,14 +119,13 @@ actually met?
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **equality and care
-are two more theories of justice, and they can pull apart from each other and from
-freedom — equality asks "are shares fair?" and care asks "is each person met?"
-(SEP Distributive Justice, S-388; care ethics as a distinct tradition).** The
-methodological point: **these are lenses to evaluate, not answers to adopt.** Note
-carefully: care ethics names a tradition associated with feminist moral philosophy
-(Gilligan, Noddings) and with caregiving experience, and it is presented as one
-serious account among several — not as a "women's" or "soft" alternative, but as a
+The idea to land: **equality and care are two more theories of justice, and they can
+pull apart from each other and from freedom — equality asks "are shares fair?" and care
+asks "is each person met?" (SEP Distributive Justice, S-388; care ethics as a distinct
+tradition).** The methodological point: **these are lenses to evaluate, not answers to
+adopt.** Note carefully: care ethics names a tradition associated with feminist moral
+philosophy (Gilligan, Noddings) and with caregiving experience, and it is presented as
+one serious account among several — not as a "women's" or "soft" alternative, but as a
 full theory of what justice owes.
 
 The **ethics** lens: each theory is a claim about what people are owed. The

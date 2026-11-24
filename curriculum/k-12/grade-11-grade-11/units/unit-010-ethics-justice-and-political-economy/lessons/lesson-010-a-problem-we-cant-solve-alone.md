@@ -121,14 +121,13 @@ agreements, rules, and institutions that change what each actor finds sensible.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a collective-action
-problem is one where each actor's reasonable self-interested choice produces a
-collective ruin — the commons is used up — and the answer is coordination (rules and
-institutions), not just virtue.** Ground it: **climate change is a real collective-
-action problem, and who emitted most historically is not the same as who suffers most
-today (Our World in Data, S-006; IPCC, S-005) — so coordination raises a fairness
-question, not just a technical one.** The commons game is the worked example; play it
-before the abstraction (S-011).
+The idea to land: **a collective-action problem is one where each actor's reasonable
+self-interested choice produces a collective ruin — the commons is used up — and the
+answer is coordination (rules and institutions), not just virtue.** Ground it: **climate
+change is a real collective- action problem, and who emitted most historically is not
+the same as who suffers most today (Our World in Data, S-006; IPCC, S-005) — so
+coordination raises a fairness question, not just a technical one.** The commons game is
+the worked example; play it before the abstraction (S-011).
 
 The **ethics** lens: what each of us owes the shared world is a moral question. The
 **egalitarianism** lens: the who-emits / who-suffers gap is the fairness heart of the

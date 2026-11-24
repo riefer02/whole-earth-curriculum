@@ -113,13 +113,13 @@ both are true.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The key move is the little word **and**:
-"I feel happy *and* sad." Normalize mixed feelings as ordinary and healthy — this is
-what the unit is named for. Never tell a learner that a mixed feeling is "confusing" or
-that they should "pick one." Model the overlapping circles with your own body and voice
-first, then let learners build their own. Some learners will feel only one thing about a
-scenario; that is fine — invite, never force, a second feeling. Honor every family's
-moments of change (a move, a new sibling, a goodbye) as real, not as "right" examples.
+The key move is the little word **and**: "I feel happy *and* sad." Normalize mixed
+feelings as ordinary and healthy — this is what the unit is named for. Never tell a
+learner that a mixed feeling is "confusing" or that they should "pick one." Model the
+overlapping circles with your own body and voice first, then let learners build their
+own. Some learners will feel only one thing about a scenario; that is fine — invite,
+never force, a second feeling. Honor every family's moments of change (a move, a new
+sibling, a goodbye) as real, not as "right" examples.
 
 ## Procedure
 

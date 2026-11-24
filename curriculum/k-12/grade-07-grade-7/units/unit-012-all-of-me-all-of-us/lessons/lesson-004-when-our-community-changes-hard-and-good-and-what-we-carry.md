@@ -122,21 +122,23 @@ same breath.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **communities change over time, and
-change is both hard and good; the self changes *inside* that community change, so belonging is not a
-fixed seat but something we keep re-finding.** This deepens Unit 3, Lesson 9 (which named loss and
-gain in a community change) by connecting it to the "who I am becoming" work of this unit and adding
-the question "what do we carry forward?" Keep the examples global and ordinary (a road, a market,
-migration, a new building), never one region's "default" and never a story that ranks one culture above
-another. Guard the egalitarian lens: the same change often helps some and burdens others, and naming
-who carries the cost is part of caring — without making anyone a villain; also notice how belonging
-can include some and exclude others at once. The environment lens: many community changes are changes
-to the land and water people share. The technology lens: new tools and roads and phones change a
-community's shape and pace. Invite learners to name a change from their own community only if they
-wish; no one is required to share. Model one loss-and-gain pair as a worked example (Kirschner,
-Sweller & Clark, 2006, S-011). Note that grief for what is lost is real and legitimate — it is not
-"resisting progress." The retrieval here is spaced recall (Dunlosky et al., 2013, S-039); the
-both/and stance follows RULER's mixed-feelings framing (S-015).
+The idea to land: **communities change over time, and change is both hard and good; the
+self changes *inside* that community change, so belonging is not a fixed seat but
+something we keep re-finding.** This deepens Unit 3, Lesson 9 (which named loss and gain
+in a community change) by connecting it to the "who I am becoming" work of this unit and
+adding the question "what do we carry forward?" Keep the examples global and ordinary (a
+road, a market, migration, a new building), never one region's "default" and never a
+story that ranks one culture above another. Guard the egalitarian lens: the same change
+often helps some and burdens others, and naming who carries the cost is part of caring —
+without making anyone a villain; also notice how belonging can include some and exclude
+others at once. The environment lens: many community changes are changes to the land and
+water people share. The technology lens: new tools and roads and phones change a
+community's shape and pace. Invite learners to name a change from their own community
+only if they wish; no one is required to share. Model one loss-and-gain pair as a worked
+example (Kirschner, Sweller & Clark, 2006, S-011). Note that grief for what is lost is
+real and legitimate — it is not "resisting progress." The retrieval here is spaced
+recall (Dunlosky et al., 2013, S-039); the both/and stance follows RULER's
+mixed-feelings framing (S-015).
 
 ## Procedure
 

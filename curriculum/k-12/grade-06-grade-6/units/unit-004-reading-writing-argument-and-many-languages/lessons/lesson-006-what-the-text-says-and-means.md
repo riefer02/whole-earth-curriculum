@@ -115,13 +115,13 @@ a message, or the news.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **inference is not
-guessing — it is evidence-based**: what a text *means* must be bridged to what it *says* by
-real clue words. Retrieval: open by recalling Lesson 5's "because the text says" frame, then
-extend it to "and the clues are ___." Model the says-versus-means pair slowly (a novice skill;
-worked example first — Kirschner, Sweller & Clark, 2006). Guard against over-reading: an
-inference is only as good as the clues that support it, and two readers can defensibly differ
-— then the text, not the louder voice, decides (`docs/philosophy.md` §5). Honor every home
+The idea to land is that **inference is not guessing — it is evidence-based**: what a
+text *means* must be bridged to what it *says* by real clue words. Retrieval: open by
+recalling Lesson 5's "because the text says" frame, then extend it to "and the clues are
+___." Model the says-versus-means pair slowly (a novice skill; worked example first —
+Kirschner, Sweller & Clark, 2006). Guard against over-reading: an inference is only as
+good as the clues that support it, and two readers can defensibly differ — then the
+text, not the louder voice, decides (`docs/philosophy.md` §5). Honor every home
 language; inferring in one's strongest language is the real skill, and translating an
 inference is advanced work. Keep the passage short and global.
 

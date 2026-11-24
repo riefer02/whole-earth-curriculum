@@ -101,14 +101,13 @@ place you live in — with your whole body.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, choose a safe route and
-keep the pace gentle. Make the route work for every body: pick a path a wheelchair can
-roll, or let a learner who cannot walk do a "senses sit" — one comfortable spot where
-they notice with all their senses without moving. Describe each sense aloud as you go
-so learners who cannot see or hear fully can still collect finds with their other
-senses. The only sense we do **not**
-use freely outside is taste — make clear that tasting unknown plants or objects is not
-safe, and offer a safe food to taste afterward if you like.
+As facilitator, choose a safe route and keep the pace gentle. Make the route work for
+every body: pick a path a wheelchair can roll, or let a learner who cannot walk do a
+"senses sit" — one comfortable spot where they notice with all their senses without
+moving. Describe each sense aloud as you go so learners who cannot see or hear fully can
+still collect finds with their other senses. The only sense we do **not** use freely
+outside is taste — make clear that tasting unknown plants or objects is not safe, and
+offer a safe food to taste afterward if you like.
 
 ## Procedure
 

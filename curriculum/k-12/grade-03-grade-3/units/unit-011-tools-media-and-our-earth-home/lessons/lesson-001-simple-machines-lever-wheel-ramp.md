@@ -125,21 +125,21 @@ one.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Keep the message gentle and true: a simple
-machine is a **wonderful thing people make**, but it is neither magic nor anything to fear.
-It does not create strength out of nothing — it **changes how force is used** so a job
-feels easier (a lever changes where you push; a wheel changes sliding into rolling; a ramp
-spreads the lift over a longer, gentler path). This is a foundational idea, so **model each
-machine, then guide practice** before learners work independently (Kirschner, Sweller &
-Clark, 2006). Honor every tool and every people equally: a lever, a wheel, and a ramp are
-used by people everywhere, and none is "more modern" or "better" than another — a hand cart
-in one market and a lorry ramp in another solve the same kind of problem. Honor every body:
-a learner who is blind or has low vision can feel each machine (the ruler tipping on a
+Keep the message gentle and true: a simple machine is a **wonderful thing people make**,
+but it is neither magic nor anything to fear. It does not create strength out of
+nothing — it **changes how force is used** so a job feels easier (a lever changes where
+you push; a wheel changes sliding into rolling; a ramp spreads the lift over a longer,
+gentler path). This is a foundational idea, so **model each machine, then guide
+practice** before learners work independently (Kirschner, Sweller & Clark, 2006). Honor
+every tool and every people equally: a lever, a wheel, and a ramp are used by people
+everywhere, and none is "more modern" or "better" than another — a hand cart in one
+market and a lorry ramp in another solve the same kind of problem. Honor every body: a
+learner who is blind or has low vision can feel each machine (the ruler tipping on a
 pencil, the wheel rolling, the book's slope) and name the job it makes easier by feel; a
-non-speaking learner points to the machine and to the job; acting out lifting, rolling, and
-sliding works for learners who learn best by moving. Supervise all handling. Note for later:
-we are not ranking machines — the wheel is not "better" than the lever; each is the right
-tool for its own job.
+non-speaking learner points to the machine and to the job; acting out lifting, rolling,
+and sliding works for learners who learn best by moving. Supervise all handling. Note
+for later: we are not ranking machines — the wheel is not "better" than the lever; each
+is the right tool for its own job.
 
 ## Procedure
 

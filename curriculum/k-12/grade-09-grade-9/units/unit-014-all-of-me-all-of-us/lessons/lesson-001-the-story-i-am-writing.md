@@ -121,32 +121,31 @@ watching it happen.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a personal narrative is
-coherent when its parts — past, present, future — are held together by a thread of meaning,
-not just listed as events.** That thread is what McAdams calls *narrative identity*: an
-internalized, evolving life story that links the reconstructed past, the experienced present,
-and the imagined future to give a life unity and purpose (S-404). The future-facing part
-draws on Markus and Nurius's *possible selves* — the selves a person hopes, and fears, to
-become (S-399). Both are *descriptive theories*, not rules: a learner's story may be
-fragmented, uncertain, or multiple, and **"I don't know yet" is a complete and honest
-answer.** Do not rank stories; there is no "best" life to have lived (philosophy §8, §11).
+The idea to land: **a personal narrative is coherent when its parts — past, present,
+future — are held together by a thread of meaning, not just listed as events.** That
+thread is what McAdams calls *narrative identity*: an internalized, evolving life story
+that links the reconstructed past, the experienced present, and the imagined future to
+give a life unity and purpose (S-404). The future-facing part draws on Markus and
+Nurius's *possible selves* — the selves a person hopes, and fears, to become (S-399).
+Both are *descriptive theories*, not rules: a learner's story may be fragmented,
+uncertain, or multiple, and **"I don't know yet" is a complete and honest answer.** Do
+not rank stories; there is no "best" life to have lived (philosophy §8, §11).
 
 Model the skill once, then let learners practice (worked example → guided practice →
 independent work; S-011). The **ethics** lens: a truthful narrative includes the hard
 chapters without turning a life into a verdict — the point is agency, not blame. The
-**global** lens: every culture tells life stories, but in different shapes — some linear,
-some cyclical, some carried in song, genealogy, or land (S-404 is one framework among many;
-do not present the three-part arc as universal). The **egalitarian** lens: every learner's
-story is worth telling and hearing; no life is more "interesting" than another. The
-**technology & environment** lens: the feeds, platforms, and devices around us invite a
-polished, edited version of a life, while the places we live — land, water, weather, city
-or countryside — are part of the story too; a coherent narrative tells the *true* story of
-both, not a filter-perfect one, and the medium (paper, voice, screen, soil) should serve the
-truth rather than replace it. The
-**social-emotional** lens: recalling the past can raise real feeling — invite, never force,
-and let learners choose what to share (facilitation.md). Keep the tone gentle and
-forward-looking: this is the capstone, and the goal is a learner who feels like the *author*
-of their own life.
+**global** lens: every culture tells life stories, but in different shapes — some
+linear, some cyclical, some carried in song, genealogy, or land (S-404 is one framework
+among many; do not present the three-part arc as universal). The **egalitarian** lens:
+every learner's story is worth telling and hearing; no life is more "interesting" than
+another. The **technology & environment** lens: the feeds, platforms, and devices around
+us invite a polished, edited version of a life, while the places we live — land, water,
+weather, city or countryside — are part of the story too; a coherent narrative tells the
+*true* story of both, not a filter-perfect one, and the medium (paper, voice, screen,
+soil) should serve the truth rather than replace it. The **social-emotional** lens:
+recalling the past can raise real feeling — invite, never force, and let learners choose
+what to share (facilitation.md). Keep the tone gentle and forward-looking: this is the
+capstone, and the goal is a learner who feels like the *author* of their own life.
 
 ## Procedure
 

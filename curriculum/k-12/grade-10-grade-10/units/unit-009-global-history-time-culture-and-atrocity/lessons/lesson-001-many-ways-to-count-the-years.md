@@ -111,24 +111,22 @@ everywhere, in many ways.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a calendar is a
-chosen way of matching two rhythms — the Sun's year and the Moon's month — plus a
-people's seasons and events, and every society solved the mismatch differently**
-(S-315). Teach the difference between solar (Sun), lunar (Moon), and lunisolar (both,
-with an added month) with the worked chart before independent comparison; novices
-learn this kind of conceptual structure best through explicit modeling and guided
-practice (S-011).
+The idea to land: **a calendar is a chosen way of matching two rhythms — the Sun's year
+and the Moon's month — plus a people's seasons and events, and every society solved the
+mismatch differently** (S-315). Teach the difference between solar (Sun), lunar (Moon),
+and lunisolar (both, with an added month) with the worked chart before independent
+comparison; novices learn this kind of conceptual structure best through explicit
+modeling and guided practice (S-011).
 
 The **global** lens is the spine: the Gregorian (solar, year 1 tied to a religious
 reckoning), the Islamic Hijri (lunar, year 1 = the 622 CE Hijra), the Chinese
 (lunisolar, adding a month so festivals stay in season), and the Maya Long Count
-(counting days from a fixed creation epoch, with a 365-day Haab' and a 260-day
-Tzolk'in running together) are each held as valid, none above another (S-315, S-378,
-S-204). The **ethics** lens: asking whose calendar became the world's default and
-whose was sidelined is a question of power, not of accuracy. The
-**critical-thinking** lens: a calendar's "year one" is a choice, not a fact of
-nature. Preview: Lesson 2 turns from *how* time is counted to *what* each system
-made its people remember.
+(counting days from a fixed creation epoch, with a 365-day Haab' and a 260-day Tzolk'in
+running together) are each held as valid, none above another (S-315, S-378, S-204). The
+**ethics** lens: asking whose calendar became the world's default and whose was
+sidelined is a question of power, not of accuracy. The **critical-thinking** lens: a
+calendar's "year one" is a choice, not a fact of nature. Preview: Lesson 2 turns from
+*how* time is counted to *what* each system made its people remember.
 
 ## Procedure
 

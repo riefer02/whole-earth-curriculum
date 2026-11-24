@@ -114,14 +114,13 @@ never costs them their "yes" and "no."
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description
-plus value**: caregiving can protect or erode dignity, and the difference is whether the
-cared-for person's **agency** stays in charge — so the core skill is ask–listen–adapt.
-Assistive technology (wheelchairs, hearing aids, prosthetics, white canes) is common and
-ordinary, used worldwide (WHO, S-099), and the right to take part in recreation and
-sport regardless of disability is a shared human commitment (CRPD Article 30, S-100).
-Hold the value plainly as value. Normalize help: needing or giving care is not a mark of
-lesser worth on either side.
+The idea to land, held as **description plus value**: caregiving can protect or erode
+dignity, and the difference is whether the cared-for person's **agency** stays in
+charge — so the core skill is ask–listen–adapt. Assistive technology (wheelchairs,
+hearing aids, prosthetics, white canes) is common and ordinary, used worldwide (WHO,
+S-099), and the right to take part in recreation and sport regardless of disability is a
+shared human commitment (CRPD Article 30, S-100). Hold the value plainly as value.
+Normalize help: needing or giving care is not a mark of lesser worth on either side.
 
 The **ethics** lens: help that ignores a person's wishes is not help — it is control,
 even when kindly meant. The **egalitarianism** lens: care work falls unevenly across
@@ -129,8 +128,11 @@ gender, class, and family roles worldwide, and that distribution is a question o
 justice, not only of kindness. The **global** lens: cultures arrange care in many ways —
 extended family, community, institutions — and none is the single "right" model. The
 **critical-thinking** lens: "what is best for you" is a claim to check against the
-person's own stated wishes. The **technology** lens: assistive technology — a wheelchair, a hearing aid, a screen reader, a voice device — is dignity made mechanical, widening a person's own choices rather than replacing them; the ask–listen–adapt loop applies to choosing tools, not only to giving help. Preview: Lesson 8 pivots from dignity to movement as a
-lifelong plan.
+person's own stated wishes. The **technology** lens: assistive technology — a
+wheelchair, a hearing aid, a screen reader, a voice device — is dignity made mechanical,
+widening a person's own choices rather than replacing them; the ask–listen–adapt loop
+applies to choosing tools, not only to giving help. Preview: Lesson 8 pivots from
+dignity to movement as a lifelong plan.
 
 ## Procedure
 

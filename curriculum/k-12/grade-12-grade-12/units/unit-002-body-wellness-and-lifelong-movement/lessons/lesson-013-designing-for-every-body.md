@@ -114,25 +114,27 @@ Design is a way of caring for strangers at scale. Today you practice it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **skill plus
-value**: good design widens access, and the **seven principles of universal design**
-(equitable use, flexibility in use, simple and intuitive use, perceptible information,
-tolerance for error, low physical effort, size and space for approach and use — S-369)
-are one tested way to get there. The digital parallel — web accessibility standards
-(perceivable, operable, understandable, robust — W3C WCAG, S-280) — shows the same
-logic in another domain. The value: inclusive access to movement is a right (CRPD
-Article 30, S-100; UNESCO Charter, S-342). Teach the four-part proposal scaffold
-explicitly (worked example first: Kirschner, Sweller & Clark, S-011). Honor trade-offs:
-designs have costs and constraints, and the skill is to widen access within them, not to
-pretend constraints away.
+The idea to land, held as **skill plus value**: good design widens access, and the
+**seven principles of universal design** (equitable use, flexibility in use, simple and
+intuitive use, perceptible information, tolerance for error, low physical effort, size
+and space for approach and use — S-369) are one tested way to get there. The digital
+parallel — web accessibility standards (perceivable, operable, understandable, robust —
+W3C WCAG, S-280) — shows the same logic in another domain. The value: inclusive access
+to movement is a right (CRPD Article 30, S-100; UNESCO Charter, S-342). Teach the
+four-part proposal scaffold explicitly (worked example first: Kirschner, Sweller &
+Clark, S-011). Honor trade-offs: designs have costs and constraints, and the skill is to
+widen access within them, not to pretend constraints away.
 
 The **ethics** lens: design is ethics made concrete — a ramp is a moral statement about
 who belongs. The **egalitarianism** lens: universal design widens the door for everyone,
 not as a favor to a "special" few but as the baseline. The **global** lens: a change
 that works in a dense city may not fit a steep mountain village or a flood-prone coast —
 good design answers to its place. The **critical-thinking** lens: a "universal" solution
-is a claim to check — test it against bodies and lives unlike your own. The **technology & environment** lens: universal design and web accessibility are the same idea in two materials — a ramp widens a doorway and a screen reader widens a page — so designing for every body applies to the built world and the digital one alike. Preview:
-Lesson 14 gathers all four artifacts into one whole.
+is a claim to check — test it against bodies and lives unlike your own. The **technology
+& environment** lens: universal design and web accessibility are the same idea in two
+materials — a ramp widens a doorway and a screen reader widens a page — so designing for
+every body applies to the built world and the digital one alike. Preview: Lesson 14
+gathers all four artifacts into one whole.
 
 ## Procedure
 

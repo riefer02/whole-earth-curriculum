@@ -114,15 +114,15 @@ individual and real, not a number to compete over.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **energy needs are
-individual and differ by body size and activity — and this is neutral science, never a ranking
-of bodies**. The evidence: human energy requirements vary with age, sex, body size, and
-physical activity level, and rise steeply during the adolescent growth spurt, when energy is
-spent on growth itself (FAO/WHO/UNU, 2004). Keep it strictly non-judgmental: a bigger body
-needing more fuel is a fact, not a comment on anyone; no learner should be asked to count
-calories, weigh themselves, or compare bodies. Use "different, not better or worse" as the
-refrain. This lesson sets up the next one honestly: because a growing body needs fuel,
-restricting food harms it. See `docs/facilitation.md`.
+The idea to land is that **energy needs are individual and differ by body size and
+activity — and this is neutral science, never a ranking of bodies**. The evidence: human
+energy requirements vary with age, sex, body size, and physical activity level, and rise
+steeply during the adolescent growth spurt, when energy is spent on growth itself
+(FAO/WHO/UNU, 2004). Keep it strictly non-judgmental: a bigger body needing more fuel is
+a fact, not a comment on anyone; no learner should be asked to count calories, weigh
+themselves, or compare bodies. Use "different, not better or worse" as the refrain. This
+lesson sets up the next one honestly: because a growing body needs fuel, restricting
+food harms it. See `docs/facilitation.md`.
 
 ## Procedure
 

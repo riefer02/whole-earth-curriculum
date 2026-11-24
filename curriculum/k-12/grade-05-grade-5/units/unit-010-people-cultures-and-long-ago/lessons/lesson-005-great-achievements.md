@@ -118,14 +118,14 @@ people who made it. Today you read a few of those messages.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **non-European
-civilizations produced great achievements in building, art, and learning**, each showing
-what its society valued — a direct counter to any idea that accomplishment belongs to one
-region. Present each achievement with equal dignity; do not frame them as "surprisingly
-advanced" (which implies a low expectation). Distinguish the *fact* (these works exist and
-are documented) from the *value* (human accomplishment in all its variety is worth honoring).
-If a learner's own people or region has a great achievement, invite them to add it to the
-gallery. This lesson produces the unit's **non-European achievement** portfolio artifact. See
+The idea to land is that **non-European civilizations produced great achievements in
+building, art, and learning**, each showing what its society valued — a direct counter
+to any idea that accomplishment belongs to one region. Present each achievement with
+equal dignity; do not frame them as "surprisingly advanced" (which implies a low
+expectation). Distinguish the *fact* (these works exist and are documented) from the
+*value* (human accomplishment in all its variety is worth honoring). If a learner's own
+people or region has a great achievement, invite them to add it to the gallery. This
+lesson produces the unit's **non-European achievement** portfolio artifact. See
 `docs/facilitation.md`.
 
 ## Procedure

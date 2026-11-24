@@ -126,19 +126,18 @@ a real, clever answer.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Hold both peoples with respect, as
-homes, not costumes or curiosities.** The Inuit are a living people across the Arctic;
-Bedouin peoples live across the deserts of North Africa and the Middle East (see
-Resources). Neither is "primitive," and neither place is to be pitied — each place asks
-something of its people, and each people answers with deep knowledge, built over many
-generations. **Comparing is a foundational skill, so model one full row first**
-(Kirschner, Sweller & Clark, 2006): "Food — in the Arctic, people fish; in the desert,
-people eat dates and milk. The place shaped the food: a frozen sea gives fish; a hot,
-dry land gives date palms and herded animals." Then guide the shelter and clothing
-rows. **Never rank:** a parka is not better than a robe, and a snow house is not better
-than a tent — each fits its home. Honor every body: describe the cards in words for a
-learner who cannot see them; a learner who does not use a speaking voice points or
-acts. Use present tense for these living ways of life.
+**Hold both peoples with respect, as homes, not costumes or curiosities.** The Inuit are
+a living people across the Arctic; Bedouin peoples live across the deserts of North
+Africa and the Middle East (see Resources). Neither is "primitive," and neither place is
+to be pitied — each place asks something of its people, and each people answers with
+deep knowledge, built over many generations. **Comparing is a foundational skill, so
+model one full row first** (Kirschner, Sweller & Clark, 2006): "Food — in the Arctic,
+people fish; in the desert, people eat dates and milk. The place shaped the food: a
+frozen sea gives fish; a hot, dry land gives date palms and herded animals." Then guide
+the shelter and clothing rows. **Never rank:** a parka is not better than a robe, and a
+snow house is not better than a tent — each fits its home. Honor every body: describe
+the cards in words for a learner who cannot see them; a learner who does not use a
+speaking voice points or acts. Use present tense for these living ways of life.
 
 ## Procedure
 

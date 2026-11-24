@@ -116,25 +116,25 @@ are helping build the shared picture of the world, so the picture should be true
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **responsible media creation
-means three tests — accurate, fair, honest about sources — guided by five questions: who
-created it, what techniques attract attention, what is omitted, who benefits, and for what
-purpose.** Model checking a message against the tests, then let learners draft their own
-(S-011). Frame this as craft and ethics, not censorship: the goal is truthfulness, not
-self-silencing.
+The idea to land: **responsible media creation means three tests — accurate, fair,
+honest about sources — guided by five questions: who created it, what techniques attract
+attention, what is omitted, who benefits, and for what purpose.** Model checking a
+message against the tests, then let learners draft their own (S-011). Frame this as
+craft and ethics, not censorship: the goal is truthfulness, not self-silencing.
 
-The **ethics** lens: the creator's ethics is honesty — saying only what is true, showing the
-other side fairly, and telling readers where the information came from, so they can check it
-for themselves. The **egalitarianism** lens: fairness means not flattening anyone into a
-caricature — a message that shows only one story of a person or a place risks the "single
-story" that narrows how they are seen (S-417). The **global** lens: responsible creation is a
-global skill — UNESCO's media and information literacy frames the right and duty to create and
-share information critically and ethically across cultures (S-217). The **technology** lens:
-the tools that let anyone publish also let a message spread far and fast, which raises the
-stakes of the three tests rather than lowering them (S-481). The **environment** lens: media is
-how people learn about the living Earth — an accurate, fair message about a river or a forest
-can move people to care, while a false one can do real harm to the place and the people who
-depend on it (S-004). Preview: Lesson 6 turns the three tests into careful practice — verifying
+The **ethics** lens: the creator's ethics is honesty — saying only what is true, showing
+the other side fairly, and telling readers where the information came from, so they can
+check it for themselves. The **egalitarianism** lens: fairness means not flattening
+anyone into a caricature — a message that shows only one story of a person or a place
+risks the "single story" that narrows how they are seen (S-417). The **global** lens:
+responsible creation is a global skill — UNESCO's media and information literacy frames
+the right and duty to create and share information critically and ethically across
+cultures (S-217). The **technology** lens: the tools that let anyone publish also let a
+message spread far and fast, which raises the stakes of the three tests rather than
+lowering them (S-481). The **environment** lens: media is how people learn about the
+living Earth — an accurate, fair message about a river or a forest can move people to
+care, while a false one can do real harm to the place and the people who depend on it
+(S-004). Preview: Lesson 6 turns the three tests into careful practice — verifying
 facts, representing others fairly, and attributing sources precisely.
 
 ## Procedure

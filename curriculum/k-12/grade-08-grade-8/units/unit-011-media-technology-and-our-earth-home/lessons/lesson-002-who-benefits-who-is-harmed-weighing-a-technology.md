@@ -111,20 +111,23 @@ to **weigh** a technology by asking: *who benefits, and who is harmed?*
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a technology is never neutral — the
-same tool helps some people and burdens others, and "good" or "bad" is too simple.** Use the mobile phone
-as the worked example (S-211): *benefits* — a rural farmer receives and sends money by mobile phone
-(M-Pesa and similar services let people without a bank branch store and move money), a person with a
-disability uses voice and text to communicate, a migrant worker stays in touch with family. *Harms* — a
-child faces distraction and strangers; discarded phones become **e-waste**, toxic when dumped (S-397);
-and the minerals inside, such as cobalt, are sometimes mined in conditions that harm and exploit workers,
-including children (S-398). The **egalitarian** lens is central: the benefits and harms fall unevenly, and
-naming *who* carries each is the whole point. The **ethics** lens: once we see who is harmed, we can ask
-what is owed to them. The **global** lens: the phone is a global object — mined on one continent, built on
-another, sold and discarded across the world. The **technology & environment** lens: the same device that
-connects people also leaves a trail of e-waste and carbon. Keep the example factual and cite the sources;
-do not moralize — weigh honestly and let learners reach their own reasoned judgments (philosophy §11).
-The goal is mastery of the *skill of weighing*, not a single "correct" verdict (philosophy §8).
+The idea to land: **a technology is never neutral — the same tool helps some people and
+burdens others, and "good" or "bad" is too simple.** Use the mobile phone as the worked
+example (S-211): *benefits* — a rural farmer receives and sends money by mobile phone
+(M-Pesa and similar services let people without a bank branch store and move money), a
+person with a disability uses voice and text to communicate, a migrant worker stays in
+touch with family. *Harms* — a child faces distraction and strangers; discarded phones
+become **e-waste**, toxic when dumped (S-397); and the minerals inside, such as cobalt,
+are sometimes mined in conditions that harm and exploit workers, including children
+(S-398). The **egalitarian** lens is central: the benefits and harms fall unevenly, and
+naming *who* carries each is the whole point. The **ethics** lens: once we see who is
+harmed, we can ask what is owed to them. The **global** lens: the phone is a global
+object — mined on one continent, built on another, sold and discarded across the world.
+The **technology & environment** lens: the same device that connects people also leaves
+a trail of e-waste and carbon. Keep the example factual and cite the sources; do not
+moralize — weigh honestly and let learners reach their own reasoned judgments
+(philosophy §11). The goal is mastery of the *skill of weighing*, not a single "correct"
+verdict (philosophy §8).
 
 ## Procedure
 

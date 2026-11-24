@@ -119,19 +119,18 @@ what your body is for.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a fitness tracker or
-app is a tool that can support or distort a healthy relationship with movement and the
-body — and the learner can evaluate which, feature by feature, against what healthy
-movement actually is.** The anchor for "healthy" is the WHO picture of balanced activity
-(S-341); the cautionary anchor is the well-documented reality that media and technology
-can shape body image and self-worth (S-226 documents the research program on media and
-tech's impact on adolescent development; S-411 documents how media and social messages
-shape body image). Hold the *specific* claims about trackers honestly and with hedging:
-the research on wearables is **real but mixed and maturing** — devices can help some
-people build consistent habits, while their step counts, calorie estimates, and sleep
-scores are only *approximate*, and their streaks and comparisons can feed anxiety and
-negative body image for others. Present these as tendencies to evaluate, not as a
-verdict that "trackers are bad."
+The idea to land: **a fitness tracker or app is a tool that can support or distort a
+healthy relationship with movement and the body — and the learner can evaluate which,
+feature by feature, against what healthy movement actually is.** The anchor for
+"healthy" is the WHO picture of balanced activity (S-341); the cautionary anchor is the
+well-documented reality that media and technology can shape body image and self-worth
+(S-226 documents the research program on media and tech's impact on adolescent
+development; S-411 documents how media and social messages shape body image). Hold the
+*specific* claims about trackers honestly and with hedging: the research on wearables is
+**real but mixed and maturing** — devices can help some people build consistent habits,
+while their step counts, calorie estimates, and sleep scores are only *approximate*, and
+their streaks and comparisons can feed anxiety and negative body image for others.
+Present these as tendencies to evaluate, not as a verdict that "trackers are bad."
 
 The **technology** lens is the spine: read the tool as a *designed object* — every
 prompt, streak, and score was chosen by someone to shape behavior, sometimes helpfully,

@@ -117,14 +117,14 @@ directions lead through a busy city street or across a mountain field.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that a **paraphrase keeps
-the meaning and changes only the words** — it is not a shorter version (that is summarizing)
-and not a repeat (that is quoting). Model the worked example aloud and slow it down: listen,
-hold the idea, then say it back. Because paraphrasing is a skill, use explicit instruction
-and guided practice before independent work (Kirschner, Sweller & Clark, 2006). Honor every
-home language: learners may paraphrase into their strongest language, which is itself a
-valuable act of understanding. Stop any correction that shames a learner's word choice; the
-test is *meaning*, not grammar.
+The idea to land is that a **paraphrase keeps the meaning and changes only the words** —
+it is not a shorter version (that is summarizing) and not a repeat (that is quoting).
+Model the worked example aloud and slow it down: listen, hold the idea, then say it
+back. Because paraphrasing is a skill, use explicit instruction and guided practice
+before independent work (Kirschner, Sweller & Clark, 2006). Honor every home language:
+learners may paraphrase into their strongest language, which is itself a valuable act of
+understanding. Stop any correction that shames a learner's word choice; the test is
+*meaning*, not grammar.
 
 ## Procedure
 

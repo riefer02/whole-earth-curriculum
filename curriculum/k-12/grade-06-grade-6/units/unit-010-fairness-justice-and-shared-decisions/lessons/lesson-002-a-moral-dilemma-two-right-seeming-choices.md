@@ -115,19 +115,19 @@ well about it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is precise: a **moral
-dilemma** is *two right-seeming choices in conflict* — neither is obviously "the good
-one," and that is what makes it hard. Model one dilemma as a worked example before
-pairs try their own (Kirschner, Sweller & Clark, 2006). Keep it **non-shaming and
-open**: the point is to *describe* the dilemma, not to settle it — the weighing comes in
-the next lesson, and the unit holds questions as questions, never answered as dogma.
-Choose dilemmas that are age-appropriate and emotionally safe: keep a promise vs help
-someone in need, tell the truth vs protect a friend, share scarce food vs save it for
-family. Avoid dilemmas that force a child to choose between loyalties they cannot
-safely resolve alone — if a dilemma involves real risk of harm, the move is to bring in
-a trusted adult, and that is a right-seeming choice worth naming. Distinguish **evidence
-from values**: *that* two choices both seem right is observable; *which* to choose is a
-value question for the next lesson. See `docs/facilitation.md`.
+The idea to land is precise: a **moral dilemma** is *two right-seeming choices in
+conflict* — neither is obviously "the good one," and that is what makes it hard. Model
+one dilemma as a worked example before pairs try their own (Kirschner, Sweller & Clark,
+2006). Keep it **non-shaming and open**: the point is to *describe* the dilemma, not to
+settle it — the weighing comes in the next lesson, and the unit holds questions as
+questions, never answered as dogma. Choose dilemmas that are age-appropriate and
+emotionally safe: keep a promise vs help someone in need, tell the truth vs protect a
+friend, share scarce food vs save it for family. Avoid dilemmas that force a child to
+choose between loyalties they cannot safely resolve alone — if a dilemma involves real
+risk of harm, the move is to bring in a trusted adult, and that is a right-seeming
+choice worth naming. Distinguish **evidence from values**: *that* two choices both seem
+right is observable; *which* to choose is a value question for the next lesson. See
+`docs/facilitation.md`.
 
 ## Procedure
 

@@ -111,11 +111,10 @@ fast and slow, together and alone — to celebrate, to play, and to feel.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, make the changes in the music very clear —
-fast, slow, stop — and dance along. Freeze games are great for safety and delight.
-Never correct a learner's dance; every movement is a real response to the music.
-Dance is listening with the whole body, and there is no wrong answer.
+As facilitator, make the changes in the music very clear — fast, slow, stop — and dance
+along. Freeze games are great for safety and delight. Never correct a learner's dance;
+every movement is a real response to the music. Dance is listening with the whole body,
+and there is no wrong answer.
 
 ## Procedure
 

@@ -112,18 +112,18 @@ of your own and name its first step.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It spirals up from Grade 2's "choose a
-calm tool on my own," now into **choosing a direction and its first move**. The
-commitments: **a goal is the learner's own, not the adult's**, and **the first step is
-small enough to actually take** — a goal too big or too adult-chosen fails the lesson.
-Coach learners from "I want to be the best" toward something concrete and near (read
-one new book; learn to tie one knot; practice ten kind greetings; hold a pencil the new
-way for one week). Honor every goal as equal in worth — a goal about kindness is as
-real as a goal about reading. Some learners live with scarcity or instability; keep
-goals free of things that cost money. For a learner who is blind or has low vision,
-describe the staircase aloud and build it tactually; the goal and step live in words,
-not pictures. For a learner who does not use a speaking voice, accept drawing, pointing,
-signing, or a partner voicing. The first step is the lesson: naming it is the power.
+It spirals up from Grade 2's "choose a calm tool on my own," now into **choosing a
+direction and its first move**. The commitments: **a goal is the learner's own, not the
+adult's**, and **the first step is small enough to actually take** — a goal too big or
+too adult-chosen fails the lesson. Coach learners from "I want to be the best" toward
+something concrete and near (read one new book; learn to tie one knot; practice ten kind
+greetings; hold a pencil the new way for one week). Honor every goal as equal in worth —
+a goal about kindness is as real as a goal about reading. Some learners live with
+scarcity or instability; keep goals free of things that cost money. For a learner who is
+blind or has low vision, describe the staircase aloud and build it tactually; the goal
+and step live in words, not pictures. For a learner who does not use a speaking voice,
+accept drawing, pointing, signing, or a partner voicing. The first step is the lesson:
+naming it is the power.
 
 ## Procedure
 

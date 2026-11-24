@@ -116,18 +116,17 @@ the different ways — and who gets a voice in each — is how we understand our
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is **comparing how
-decisions are made in more than one country**, with three real, observable ways:
-**consensus** (talking until people agree — for example, the *kgotla*, a community
-assembly in Botswana where people gather and speak until a decision is reached);
-**direct votes** (for example, Switzerland, where citizens vote on many laws several
-times a year in referendums); and **choosing representatives** (as in many countries,
-including India, Japan, Brazil, and others, where adults vote for representatives who
-then decide in a parliament or congress). Present these **descriptively and
-non-hierarchically** — no single model is "the" right one (the unit's commitment).
-Distinguish **evidence from values**: *how decisions are made in each place* is
-observable fact; *whether everyone should have a voice* is a value this curriculum
-holds. Hold questions open. See `docs/facilitation.md`.
+The skill to land is **comparing how decisions are made in more than one country**, with
+three real, observable ways: **consensus** (talking until people agree — for example,
+the *kgotla*, a community assembly in Botswana where people gather and speak until a
+decision is reached); **direct votes** (for example, Switzerland, where citizens vote on
+many laws several times a year in referendums); and **choosing representatives** (as in
+many countries, including India, Japan, Brazil, and others, where adults vote for
+representatives who then decide in a parliament or congress). Present these
+**descriptively and non-hierarchically** — no single model is "the" right one (the
+unit's commitment). Distinguish **evidence from values**: *how decisions are made in
+each place* is observable fact; *whether everyone should have a voice* is a value this
+curriculum holds. Hold questions open. See `docs/facilitation.md`.
 
 ## Procedure
 

@@ -113,14 +113,14 @@ Earth.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **spacing and timing
-are learnable strategies, not inborn gifts** — and that everyone, of every body and ability,
-uses them. Model each drill as a worked example (find the open space yourself; freeze on the
-count; show "too early / on time / too late") before learners try it (Kirschner, Sweller &
-Clark, 2006). Adapt every activity so all bodies can join: spacing can be done by walking,
-rolling, wheeling, or pointing; timing can be marked by a nod or a hand signal as well as a
-run. Keep it cooperative — the goal is to *help the group find space and time*, never to
-eliminate anyone. See `docs/contexts.md`.
+The idea to land is that **spacing and timing are learnable strategies, not inborn
+gifts** — and that everyone, of every body and ability, uses them. Model each drill as a
+worked example (find the open space yourself; freeze on the count; show "too early / on
+time / too late") before learners try it (Kirschner, Sweller & Clark, 2006). Adapt every
+activity so all bodies can join: spacing can be done by walking, rolling, wheeling, or
+pointing; timing can be marked by a nod or a hand signal as well as a run. Keep it
+cooperative — the goal is to *help the group find space and time*, never to eliminate
+anyone. See `docs/contexts.md`.
 
 ## Procedure
 

@@ -118,14 +118,14 @@ you are not, and when to look for a third voice. That is today's skill.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is the **overlap-and-gap
-move**: name where sources *agree* (the overlap), name where they *disagree* (the gap), then
-state a verdict that respects both — and say "not sure yet" when the gap matters. Model the
-ocean example fully as a worked example. Teach that disagreement is normal and useful, not a
-failure: honest sources often differ on details, and a learner who notices the gap is thinking
-*well*, not badly. Keep the tone non-cynical: the goal is careful, fair judgment, not
-suspicion of everything. Distinguish evidence from values: *where sources overlap and where
-they split* is evidence; *that we should be honest about both* is a value we hold. See
+The skill to land is the **overlap-and-gap move**: name where sources *agree* (the
+overlap), name where they *disagree* (the gap), then state a verdict that respects
+both — and say "not sure yet" when the gap matters. Model the ocean example fully as a
+worked example. Teach that disagreement is normal and useful, not a failure: honest
+sources often differ on details, and a learner who notices the gap is thinking *well*,
+not badly. Keep the tone non-cynical: the goal is careful, fair judgment, not suspicion
+of everything. Distinguish evidence from values: *where sources overlap and where they
+split* is evidence; *that we should be honest about both* is a value we hold. See
 `docs/philosophy.md` §5 and `docs/facilitation.md`.
 
 ## Procedure

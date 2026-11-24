@@ -106,16 +106,15 @@ for another.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Keep it sensory and concrete — this is
-not about memorizing material names (wood, metal, plastic) but about *observing
-properties*: hard, soft, shiny, heavy, light, rough, smooth. All such words are
-welcome, including in learners' home languages. Honor every body: a learner who is
-blind or has low vision feels weight and texture; a learner who does not speak points
-or sorts; a learner with a motor difference may need objects brought close or a
-partner to lift and compare. The technology lens is quiet here: talk about how people
-everywhere choose materials for a job — a clay pot for water, a metal pan for
-cooking, a wooden bowl for food — and that no material is "better," only better *for
-something*. There is no correct answer for how a thing feels; notice differences
+Keep it sensory and concrete — this is not about memorizing material names (wood, metal,
+plastic) but about *observing properties*: hard, soft, shiny, heavy, light, rough,
+smooth. All such words are welcome, including in learners' home languages. Honor every
+body: a learner who is blind or has low vision feels weight and texture; a learner who
+does not speak points or sorts; a learner with a motor difference may need objects
+brought close or a partner to lift and compare. The technology lens is quiet here: talk
+about how people everywhere choose materials for a job — a clay pot for water, a metal
+pan for cooking, a wooden bowl for food — and that no material is "better," only better
+*for something*. There is no correct answer for how a thing feels; notice differences
 without ranking.
 
 ## Procedure

@@ -103,10 +103,9 @@ in it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, keep the focus on *togetherness* — not rules.
-The class community is built by shared activities, not by obedience. Name every
-learner as a member with something to contribute, so no one feels like a visitor.
+As facilitator, keep the focus on *togetherness* — not rules. The class community is
+built by shared activities, not by obedience. Name every learner as a member with
+something to contribute, so no one feels like a visitor.
 
 ## Procedure
 

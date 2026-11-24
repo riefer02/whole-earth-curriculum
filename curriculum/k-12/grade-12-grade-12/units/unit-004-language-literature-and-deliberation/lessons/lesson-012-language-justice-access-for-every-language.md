@@ -122,17 +122,16 @@ Language justice names that: public life should be legible to the people it serv
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held carefully: the
-*facts* — about 40% of people lack education in a language they speak (UNESCO, S-019),
-and there are roughly 7,000 living languages, many endangered (Ethnologue, S-426) — are
-documented and verifiable. The *value* — that public life should be legible to every
-person in their language, and that exclusion by language is unjust — is a commitment,
-not a fact, and should be taught as such. The lesson asks learners to argue *for* a value
-using *facts*, which is exactly the evidence-versus-values distinction the curriculum
-holds throughout.
+The idea to land, held carefully: the *facts* — about 40% of people lack education in a
+language they speak (UNESCO, S-019), and there are roughly 7,000 living languages, many
+endangered (Ethnologue, S-426) — are documented and verifiable. The *value* — that
+public life should be legible to every person in their language, and that exclusion by
+language is unjust — is a commitment, not a fact, and should be taught as such. The
+lesson asks learners to argue *for* a value using *facts*, which is exactly the
+evidence-versus-values distinction the curriculum holds throughout.
 
-The **ethics** lens: whose language is used in law, medicine, and school is a question of
-power, and advocacy asks "who is being left out, and what should be done?" The
+The **ethics** lens: whose language is used in law, medicine, and school is a question
+of power, and advocacy asks "who is being left out, and what should be done?" The
 **egalitarianism** lens: language justice treats multilingualism as the normal human
 condition, and monolingual public services as the problem to fix, not the other way
 around. The **global** lens: language exclusion happens everywhere, and the fixes differ
@@ -140,12 +139,12 @@ by place — a multilingual sign, an interpreter, a plain-language rewrite — n
 default. The **technology** lens: translation tools help but are uneven across languages
 and cannot carry nuance, so they are a *partial* fix, not a substitute for human
 translation and interpretation (machine translation's limits are documented — S-350).
-The **environment** lens: the highest-stakes public communication is often environmental
-— disaster warnings, water-quality notices, evacuation orders — so language justice is
-an *environmental* justice issue too. The **critical-thinking** lens: the audit asks
-"who can read this, and who cannot?" — a factual question that precedes any moral claim.
-Preview: Lesson 13 practices *bridging* across languages; Lesson 14 assembles the
-capstone.
+The **environment** lens: the highest-stakes public communication is often
+environmental — disaster warnings, water-quality notices, evacuation orders — so
+language justice is an *environmental* justice issue too. The **critical-thinking**
+lens: the audit asks "who can read this, and who cannot?" — a factual question that
+precedes any moral claim. Preview: Lesson 13 practices *bridging* across languages;
+Lesson 14 assembles the capstone.
 
 ## Procedure
 

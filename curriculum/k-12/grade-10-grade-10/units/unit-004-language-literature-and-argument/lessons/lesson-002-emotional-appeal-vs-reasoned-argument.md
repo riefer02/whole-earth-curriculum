@@ -114,15 +114,14 @@ funeral tribute, a sermon, a political rally on your street or on your screen.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a message can move
-feelings and offer reasons at the same time; the critique is to find where the feeling
-is doing the work that a reason should do — and to notice what the speaker wants you to
-do.** Emotional appeal is not wrong: courage, care, and grief are real, and speakers
-rightly reach them. The distinction to teach is between a feeling that *supports* a
-reasoned case and a feeling that *substitutes* for one. Reasoned argument, in the
-tradition that shapes this unit, means a claim backed by evidence and open to being
-checked (S-236). A strong feeling with no checkable claim is still a strong feeling —
-but it is not yet an argument.
+The idea to land: **a message can move feelings and offer reasons at the same time; the
+critique is to find where the feeling is doing the work that a reason should do — and to
+notice what the speaker wants you to do.** Emotional appeal is not wrong: courage, care,
+and grief are real, and speakers rightly reach them. The distinction to teach is between
+a feeling that *supports* a reasoned case and a feeling that *substitutes* for one.
+Reasoned argument, in the tradition that shapes this unit, means a claim backed by
+evidence and open to being checked (S-236). A strong feeling with no checkable claim is
+still a strong feeling — but it is not yet an argument.
 
 Model the skill once, then let learners practice (worked example → guided practice →
 independent work; S-011). Use a passage from your own context if you prefer; the worked
@@ -130,14 +129,14 @@ example should be short, real, and age-appropriate, never a trap for a learner's
 beliefs. The **critical-thinking** lens is the spine: mark *feeling-words* and
 *checkable claims* in the same text, then ask which is carrying the weight. The
 **ethics** lens: stirring fear or anger to sell a lie is manipulation; stirring hope to
-move people toward fairness is not the same thing — judge by what is being asked and
-for whom. The **egalitarian** lens: people with less power are often spoken *at* with
+move people toward fairness is not the same thing — judge by what is being asked and for
+whom. The **egalitarian** lens: people with less power are often spoken *at* with
 feeling and denied the reasons; demanding the reasons is a demand to be treated as an
 equal. The **technology** lens: digital feeds optimize for feeling — outrage and awe
 travel farther than careful reasoning (S-481) — so the skill is most needed exactly
-where you read most. The **social-emotional** lens: naming your own feeling as it
-rises ("I am being made afraid") is the first guard against being carried. Preview:
-Lesson 3 turns this sort into a full critique of one public speech.
+where you read most. The **social-emotional** lens: naming your own feeling as it rises
+("I am being made afraid") is the first guard against being carried. Preview: Lesson 3
+turns this sort into a full critique of one public speech.
 
 ## Procedure
 

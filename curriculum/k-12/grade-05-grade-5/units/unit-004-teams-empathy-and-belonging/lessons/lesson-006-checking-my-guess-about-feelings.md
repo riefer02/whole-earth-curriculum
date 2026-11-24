@@ -117,14 +117,14 @@ them differently than you would. So the kindest move is to hold your guess light
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **epistemic humility
-about others' feelings**: my guess is a guess, and the person is the authority on their own
-inner world — so I check. This is the anti-stereotyping lesson of the unit. Watch for two
-slips: assuming an expression always means one feeling, and assuming a *group* shares one
-feeling. Model checking as gentle and optional — never pressure someone to disclose; a
-person may say "I don't want to talk about it," and that is an answer to respect. Hold the
-question "how are you really doing?" as an invitation, not an interrogation. See
-`docs/facilitation.md` on holding feelings safely.
+The idea to land is **epistemic humility about others' feelings**: my guess is a guess,
+and the person is the authority on their own inner world — so I check. This is the
+anti-stereotyping lesson of the unit. Watch for two slips: assuming an expression always
+means one feeling, and assuming a *group* shares one feeling. Model checking as gentle
+and optional — never pressure someone to disclose; a person may say "I don't want to
+talk about it," and that is an answer to respect. Hold the question "how are you really
+doing?" as an invitation, not an interrogation. See `docs/facilitation.md` on holding
+feelings safely.
 
 ## Procedure
 

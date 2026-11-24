@@ -144,17 +144,16 @@ arts of every people.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is both a celebration and a
-**summative** review, so use it to retrieve the unit's key ideas (retrieval practice):
-ask learners to name the three depth tricks, read a rhythm aloud, describe one
-culture's music or dance, and recall the design cycle. Keep the tone celebratory and
-non-competitive — this is a gallery and a sharing, never a contest or ranking
-(`docs/philosophy.md` §8). Each learner shares at least one thing; a learner who is
-shy may share through a partner or by placing their work with a written label. Honor
-the unit's cross-cultural thread explicitly: invite learners to restate one respectful
-question they asked, and to say why learning *from* a living community matters more
-than borrowing *about* it. Capture the work in the portfolio — photos, recordings, or
-written reflections — so the unit's artifacts endure.
+It is both a celebration and a **summative** review, so use it to retrieve the unit's
+key ideas (retrieval practice): ask learners to name the three depth tricks, read a
+rhythm aloud, describe one culture's music or dance, and recall the design cycle. Keep
+the tone celebratory and non-competitive — this is a gallery and a sharing, never a
+contest or ranking (`docs/philosophy.md` §8). Each learner shares at least one thing; a
+learner who is shy may share through a partner or by placing their work with a written
+label. Honor the unit's cross-cultural thread explicitly: invite learners to restate one
+respectful question they asked, and to say why learning *from* a living community
+matters more than borrowing *about* it. Capture the work in the portfolio — photos,
+recordings, or written reflections — so the unit's artifacts endure.
 
 ## Procedure
 

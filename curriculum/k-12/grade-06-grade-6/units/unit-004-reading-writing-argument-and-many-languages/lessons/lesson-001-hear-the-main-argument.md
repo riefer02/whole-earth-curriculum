@@ -117,14 +117,14 @@ Whether the gathering is a village meeting or a city council, a strong listener 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that an **argument has a
-spine**: one main claim, supported by details (general reasons) and examples (specific
-instances). The skill is *separating* them when a speaker mixes them together — not judging
-whether the argument is good yet. Model the tree slowly and aloud; because this is a novice
-skill, use a worked example and guided practice before independent sorting (Kirschner, Sweller
-& Clark, 2006). Honor every home language: learners may listen to and sort arguments in their
-strongest language. Use real, local arguments as examples wherever you can, and keep the
-"whose claim is it?" question alive — a claim is a *person's* position, not a fact that needs
+The idea to land is that an **argument has a spine**: one main claim, supported by
+details (general reasons) and examples (specific instances). The skill is *separating*
+them when a speaker mixes them together — not judging whether the argument is good yet.
+Model the tree slowly and aloud; because this is a novice skill, use a worked example
+and guided practice before independent sorting (Kirschner, Sweller & Clark, 2006). Honor
+every home language: learners may listen to and sort arguments in their strongest
+language. Use real, local arguments as examples wherever you can, and keep the "whose
+claim is it?" question alive — a claim is a *person's* position, not a fact that needs
 no support (`docs/philosophy.md` §5).
 
 ## Procedure

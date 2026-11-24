@@ -109,15 +109,14 @@ things every person, even a child, can do.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. **This is the synthesis lesson: the two steps are the whole
-point.** Keep the story gentle and blame-free; the unfairness is mild and repairable
-(a child left out of a game, a smaller child skipped for a turn). The helper does two
-things — *notices* ("that's not fair") and *helps* (invites them in, sits with them,
-gets a grown-up). No child is ever the problem, and no learner must disclose a real
-experience. End in repair and warmth so learners leave with agency. Honor every
-body: non-speaking learners act the two steps or order picture cards; blind or
-low-vision learners hear the story told clearly and describe the two steps aloud.
+**This is the synthesis lesson: the two steps are the whole point.** Keep the story
+gentle and blame-free; the unfairness is mild and repairable (a child left out of a
+game, a smaller child skipped for a turn). The helper does two things — *notices*
+("that's not fair") and *helps* (invites them in, sits with them, gets a grown-up). No
+child is ever the problem, and no learner must disclose a real experience. End in repair
+and warmth so learners leave with agency. Honor every body: non-speaking learners act
+the two steps or order picture cards; blind or low-vision learners hear the story told
+clearly and describe the two steps aloud.
 
 ## Procedure
 

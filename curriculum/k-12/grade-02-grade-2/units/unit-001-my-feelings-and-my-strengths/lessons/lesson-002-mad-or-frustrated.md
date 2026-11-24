@@ -110,12 +110,11 @@ work.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Model the sorting with one clear
-example before learners sort on their own, then do several together (guided practice)
-before independent work. Both feelings are welcome here — never correct a learner for
-"having the wrong feeling." If a moment is genuinely both (a block *and* a trying that
-failed), say so and honor it; the clue question is a tool, not a test. Read scenarios
-aloud for learners still building reading fluency.
+Model the sorting with one clear example before learners sort on their own, then do
+several together (guided practice) before independent work. Both feelings are welcome
+here — never correct a learner for "having the wrong feeling." If a moment is genuinely
+both (a block *and* a trying that failed), say so and honor it; the clue question is a
+tool, not a test. Read scenarios aloud for learners still building reading fluency.
 
 ## Procedure
 

@@ -103,9 +103,8 @@ taking care of it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, prepare the cards, mirror, and circle, then
-guide the closing reflection — the learner follows the procedure directly.
+As facilitator, prepare the cards, mirror, and circle, then guide the closing
+reflection — the learner follows the procedure directly.
 
 ## Procedure
 

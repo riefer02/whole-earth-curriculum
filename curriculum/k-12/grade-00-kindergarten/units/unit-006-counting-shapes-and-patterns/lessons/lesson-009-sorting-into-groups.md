@@ -104,20 +104,20 @@ which group has more. Sorting is a way of caring for the things around you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The key skill is classification by one
-attribute and a simple comparison (which group has more). Let learners choose their
-own feature to sort by — color, size, or kind are all fine — and ask them to say the
-rule ("all the red ones here, all the blue ones there"). Comparing "more" is best done
-by matching one-to-one in two lines, or by counting each group; both are valid, and
-neither should be rushed. A central value point: **"more" is a fact, not a worth.**
-A smaller group is not "worse," and a bigger group is not "better" — we say "which has
-more" without ranking, so sorting stays a tool of care, not competition. Sorting is a
-human activity everywhere (seeds, laundry, market goods), so draw on many examples and
-honor each. Learners who are blind or low-vision can sort by touch (smooth vs. rough,
-big vs. small by feel); learners who are deaf or hard of hearing can sign the rule and
-count in sign. Learners with limited movement sort by voice or sign — directing a
-partner ("red here, blue there") or choosing each object with eye-gaze or a mouth
-stick while a partner moves it. Every learner's pace is honored.
+The key skill is classification by one attribute and a simple comparison (which group
+has more). Let learners choose their own feature to sort by — color, size, or kind are
+all fine — and ask them to say the rule ("all the red ones here, all the blue ones
+there"). Comparing "more" is best done by matching one-to-one in two lines, or by
+counting each group; both are valid, and neither should be rushed. A central value
+point: **"more" is a fact, not a worth.** A smaller group is not "worse," and a bigger
+group is not "better" — we say "which has more" without ranking, so sorting stays a tool
+of care, not competition. Sorting is a human activity everywhere (seeds, laundry, market
+goods), so draw on many examples and honor each. Learners who are blind or low-vision
+can sort by touch (smooth vs. rough, big vs. small by feel); learners who are deaf or
+hard of hearing can sign the rule and count in sign. Learners with limited movement sort
+by voice or sign — directing a partner ("red here, blue there") or choosing each object
+with eye-gaze or a mouth stick while a partner moves it. Every learner's pace is
+honored.
 
 ## Procedure
 

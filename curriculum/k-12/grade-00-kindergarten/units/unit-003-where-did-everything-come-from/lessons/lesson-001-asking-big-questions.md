@@ -107,11 +107,9 @@ the world.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Your main job is to *model wonder*: wonder aloud yourself, and
-treat every learner's question as a real question, never as a silly one. Do not judge
-answers as right or wrong. If a learner says "I don't know," say "I wonder too — what
-is your first idea?"
+Your main job is to *model wonder*: wonder aloud yourself, and treat every learner's
+question as a real question, never as a silly one. Do not judge answers as right or
+wrong. If a learner says "I don't know," say "I wonder too — what is your first idea?"
 
 ## Procedure
 

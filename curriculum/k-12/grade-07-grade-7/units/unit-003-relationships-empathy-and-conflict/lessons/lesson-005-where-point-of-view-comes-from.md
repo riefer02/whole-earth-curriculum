@@ -120,17 +120,16 @@ the tail like a rope. Each was partly right; no single one saw the whole.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **a point of view
-is a lens built from background, culture, and experience — and every lens shows a true
-part, never the whole, so differing views are usually not a contest of right versus
-wrong**. Tell the elephant story as a *story*, not as a test, and name it honestly as a
-traditional tale told in many versions across India (and echoed in other traditions) — a
-living story, not a single sacred text to get "right." Keep the egalitarian lens front and
-center: no lens is above another, and the goal is *more views, held together*, not a
-"correct" one. Invite learners to name their own lenses only if they wish; a learner may
-pass. Model filling one window of the lenses page as a worked example before independent
-work (Kirschner, Sweller & Clark, 2006). See `docs/facilitation.md` and
-`docs/art-style.md`.
+The idea to land is that **a point of view is a lens built from background, culture, and
+experience — and every lens shows a true part, never the whole, so differing views are
+usually not a contest of right versus wrong**. Tell the elephant story as a *story*, not
+as a test, and name it honestly as a traditional tale told in many versions across India
+(and echoed in other traditions) — a living story, not a single sacred text to get
+"right." Keep the egalitarian lens front and center: no lens is above another, and the
+goal is *more views, held together*, not a "correct" one. Invite learners to name their
+own lenses only if they wish; a learner may pass. Model filling one window of the lenses
+page as a worked example before independent work (Kirschner, Sweller & Clark, 2006). See
+`docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure
 

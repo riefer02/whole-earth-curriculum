@@ -112,23 +112,27 @@ more?", look at the place they live. That is the question today.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description
-plus value**: environments shape movement — design features widen or narrow who can
-move — and access is a matter of design choice, not of personal will (Universal Design
-principles, S-369; the access-to-technology parallel, World Bank WDR, S-281). The value:
-every person has the right to take part in recreation and sport regardless of ability
-(CRPD Article 30, S-100), and physical activity is a fundamental right for all, with
-opportunities that must be inclusive and accessible (UNESCO Charter, S-342). Keep the
-fact (design shapes access) distinct from the value (access should be wide). No blaming
-bodies; the environment is the object of scrutiny, never the person who cannot use it.
+The idea to land, held as **description plus value**: environments shape movement —
+design features widen or narrow who can move — and access is a matter of design choice,
+not of personal will (Universal Design principles, S-369; the access-to-technology
+parallel, World Bank WDR, S-281). The value: every person has the right to take part in
+recreation and sport regardless of ability (CRPD Article 30, S-100), and physical
+activity is a fundamental right for all, with opportunities that must be inclusive and
+accessible (UNESCO Charter, S-342). Keep the fact (design shapes access) distinct from
+the value (access should be wide). No blaming bodies; the environment is the object of
+scrutiny, never the person who cannot use it.
 
 The **ethics** lens: a barrier is not neutral — it silently says who belongs. The
-**egalitarianism** lens: the same neighborhood can be a wide-open field for one body
-and a wall for another, and that gap is a fairness question. The **global** lens:
+**egalitarianism** lens: the same neighborhood can be a wide-open field for one body and
+a wall for another, and that gap is a fairness question. The **global** lens:
 environments differ everywhere — a dense city, a farm, a coastal village, a steep
-mountain town — so no single "good street" is the model. The **critical-thinking**
-lens: "no one uses the path" can mean no one *can* — check the claim against the
-design. The **environment** lens: the physical environment itself — heat, air, terrain, shade, and the natural spaces a person can reach — acts on bodies directly, widening or narrowing movement through climate and geography as much as through design; a life's movement is shaped by the ground it stands on. Preview: Lesson 13 turns the audit into a design that widens access.
+mountain town — so no single "good street" is the model. The **critical-thinking** lens:
+"no one uses the path" can mean no one *can* — check the claim against the design. The
+**environment** lens: the physical environment itself — heat, air, terrain, shade, and
+the natural spaces a person can reach — acts on bodies directly, widening or narrowing
+movement through climate and geography as much as through design; a life's movement is
+shaped by the ground it stands on. Preview: Lesson 13 turns the audit into a design that
+widens access.
 
 ## Procedure
 

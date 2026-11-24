@@ -111,19 +111,17 @@ show a feeling on purpose, to music or a story.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Name the feelings clearly and move along with the learners —
-your body is a model, not a rule. There is no correct way to show a feeling; each
-learner's movement is their own and every movement belongs. Never single out a
-learner to perform alone. A learner who uses a wheelchair or moves with support shows
-the feeling from where they are — a "tired" body can be a heavy head and slow hands;
-a "happy" body can be a bright face and open arms. A learner who is blind or has low
-vision follows a spoken prompt ("let your arms get heavy and slow") or holds a
-partner's elbow to feel the movement. A learner who is Deaf or hard of hearing
-follows your modeled movement and a visible beat — tap a drum or the floor so the
-feeling's rhythm can be felt, and name feelings with sign or a gesture. A learner who
-does not speak shows the feeling with the body itself and "tells" how it felt by
-pointing or gesturing. Watching and copying is full participation.
+Name the feelings clearly and move along with the learners — your body is a model, not a
+rule. There is no correct way to show a feeling; each learner's movement is their own
+and every movement belongs. Never single out a learner to perform alone. A learner who
+uses a wheelchair or moves with support shows the feeling from where they are — a
+"tired" body can be a heavy head and slow hands; a "happy" body can be a bright face and
+open arms. A learner who is blind or has low vision follows a spoken prompt ("let your
+arms get heavy and slow") or holds a partner's elbow to feel the movement. A learner who
+is Deaf or hard of hearing follows your modeled movement and a visible beat — tap a drum
+or the floor so the feeling's rhythm can be felt, and name feelings with sign or a
+gesture. A learner who does not speak shows the feeling with the body itself and "tells"
+how it felt by pointing or gesturing. Watching and copying is full participation.
 
 ## Procedure
 

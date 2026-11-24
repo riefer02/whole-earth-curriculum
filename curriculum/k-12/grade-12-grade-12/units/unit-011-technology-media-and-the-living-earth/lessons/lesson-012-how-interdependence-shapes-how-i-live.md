@@ -116,27 +116,29 @@ against what it asks of everyone else, present and future.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **knowing I am interdependent
-turns my everyday choices visible — each one ripples to myself, other people, other species,
-future generations, and the Earth — so I can choose with care, weighing trade-offs honestly and
-changing one thing at a time.** Never rank learners by the size or purity of their change; a
-small, kept choice is worth more than a grand, abandoned one. Distinguish evidence from values:
-a choice's effects are measurable (a footprint), but *which* trade-offs are worth accepting is a
+The idea to land: **knowing I am interdependent turns my everyday choices visible — each
+one ripples to myself, other people, other species, future generations, and the Earth —
+so I can choose with care, weighing trade-offs honestly and changing one thing at a
+time.** Never rank learners by the size or purity of their change; a small, kept choice
+is worth more than a grand, abandoned one. Distinguish evidence from values: a choice's
+effects are measurable (a footprint), but *which* trade-offs are worth accepting is a
 values question for the learner to argue (S-277, S-395).
 
-The **ethics** lens: the ripple is an ethics of consequences made concrete — what happens to
-everyone affected by a choice, including those not yet born. The **egalitarianism** lens:
-some choices cost more elsewhere than where they are made — the water and labor embedded in a
-product are often borne far from the buyer — so choosing with care is partly a matter of
-justice (S-006, S-437). The **global** lens: what counts as a good choice differs by place —
-walking, sharing, growing, and mending look different in a city, a village, and a farm — so the
-lesson adapts rather than prescribing one "right" lifestyle (S-006). The **technology** lens:
-tools can make the ripple visible (a footprint estimator) and can also widen it (a supply chain
-that hides where things come from) — the same technology serves both, depending on how it is
-used (S-006, S-371). The **environment** lens: the footprint idea — how much nature a life uses
-— is a real measurement, and ordinary people acting together (a movement that planted millions
-of trees) shows that individual choices compound into collective change (S-277, S-059). Preview:
-Lesson 13 turns these choices into a designed stewardship plan for a real place or resource.
+The **ethics** lens: the ripple is an ethics of consequences made concrete — what
+happens to everyone affected by a choice, including those not yet born. The
+**egalitarianism** lens: some choices cost more elsewhere than where they are made — the
+water and labor embedded in a product are often borne far from the buyer — so choosing
+with care is partly a matter of justice (S-006, S-437). The **global** lens: what counts
+as a good choice differs by place — walking, sharing, growing, and mending look
+different in a city, a village, and a farm — so the lesson adapts rather than
+prescribing one "right" lifestyle (S-006). The **technology** lens: tools can make the
+ripple visible (a footprint estimator) and can also widen it (a supply chain that hides
+where things come from) — the same technology serves both, depending on how it is used
+(S-006, S-371). The **environment** lens: the footprint idea — how much nature a life
+uses — is a real measurement, and ordinary people acting together (a movement that
+planted millions of trees) shows that individual choices compound into collective change
+(S-277, S-059). Preview: Lesson 13 turns these choices into a designed stewardship plan
+for a real place or resource.
 
 ## Procedure
 

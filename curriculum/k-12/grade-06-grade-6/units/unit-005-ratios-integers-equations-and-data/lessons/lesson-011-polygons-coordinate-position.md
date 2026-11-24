@@ -112,17 +112,19 @@ real shapes on paper and on screens.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) the **coordinate plane** has two
-axes meeting at the **origin (0,0)**, splitting the plane into four **quadrants**; (2) a **polygon** is
-drawn by plotting each **vertex** as an **ordered pair (x, y)** — across x, then up y — and connecting them
-in order; and (3) the *signs* of x and y tell the quadrant (both positive = I, negative-x/positive-y = II,
-both negative = III, positive-x/negative-y = IV). Model a worked example first, then guide a second before
-independent work (Kirschner, Sweller & Clark, 2006). Two common slips: reversing the ordered pair, and
-connecting vertices in the wrong order (which changes the shape). Retrieval: ask learners to recall
-first-quadrant plotting from Grade 5 and signed numbers from earlier this unit — this lesson joins the two
-into the full plane. The critical-thinking lens: reading coordinates exactly — not guessing — is honest
-reasoning (`docs/philosophy.md` §7). Note the global point: coordinate grids trace to Descartes, but
-locating a place by two distances (latitude and longitude, grid squares on maps) is older and appears in
+The ideas to land: (1) the **coordinate plane** has two axes meeting at the **origin
+(0,0)**, splitting the plane into four **quadrants**; (2) a **polygon** is drawn by
+plotting each **vertex** as an **ordered pair (x, y)** — across x, then up y — and
+connecting them in order; and (3) the *signs* of x and y tell the quadrant (both
+positive = I, negative-x/positive-y = II, both negative = III, positive-x/negative-y =
+IV). Model a worked example first, then guide a second before independent work
+(Kirschner, Sweller & Clark, 2006). Two common slips: reversing the ordered pair, and
+connecting vertices in the wrong order (which changes the shape). Retrieval: ask
+learners to recall first-quadrant plotting from Grade 5 and signed numbers from earlier
+this unit — this lesson joins the two into the full plane. The critical-thinking lens:
+reading coordinates exactly — not guessing — is honest reasoning (`docs/philosophy.md`
+§7). Note the global point: coordinate grids trace to Descartes, but locating a place by
+two distances (latitude and longitude, grid squares on maps) is older and appears in
 surveying and navigation traditions worldwide.
 
 ## Procedure

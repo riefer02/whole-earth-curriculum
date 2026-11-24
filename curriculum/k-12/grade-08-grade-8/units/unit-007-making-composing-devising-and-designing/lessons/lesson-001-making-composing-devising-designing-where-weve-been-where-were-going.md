@@ -117,20 +117,21 @@ revising, and a way of critiquing that uses **evidence** — what is actually th
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **opening and retrieval pass**, so the
-goals are modest: **(1) recall four Grade-7 ideas — art with a message, revised after feedback;
-performance with dynamics and ensemble; performance with timing and expression; design with
-accessibility in mind; (2) preview the unit's four strands — visual arts, music & sound,
-movement/dance/drama, making & design — and its eight goals; (3) plant the organizing idea: we
-*make*, *compose*, *devise*, and *design* — then *critique* with evidence, separating observation from
-judgment.** Do not try to teach the eight goals today; just name and locate them. The
-critical-thinking lens: "observation vs. judgment" is the habit we carry through the whole unit. The
-global lens: every culture makes, composes, moves, and designs, though the forms differ — and the arts
-of other cultures are living traditions to honor with respectful questions, never specimens (S-056).
-The ethics lens: critique is honest and kind — it names what is there and separates fact from taste
-(philosophy §5). The egalitarian lens: every learner can make with what is at hand — paper, voice,
-body, found objects — so no one is locked out by equipment. Spacing note (S-039): this recall pass is
-what makes the unit's ideas stick later.
+It is the unit's **opening and retrieval pass**, so the goals are modest: **(1) recall
+four Grade-7 ideas — art with a message, revised after feedback; performance with
+dynamics and ensemble; performance with timing and expression; design with accessibility
+in mind; (2) preview the unit's four strands — visual arts, music & sound,
+movement/dance/drama, making & design — and its eight goals; (3) plant the organizing
+idea: we *make*, *compose*, *devise*, and *design* — then *critique* with evidence,
+separating observation from judgment.** Do not try to teach the eight goals today; just
+name and locate them. The critical-thinking lens: "observation vs. judgment" is the
+habit we carry through the whole unit. The global lens: every culture makes, composes,
+moves, and designs, though the forms differ — and the arts of other cultures are living
+traditions to honor with respectful questions, never specimens (S-056). The ethics lens:
+critique is honest and kind — it names what is there and separates fact from taste
+(philosophy §5). The egalitarian lens: every learner can make with what is at hand —
+paper, voice, body, found objects — so no one is locked out by equipment. Spacing note
+(S-039): this recall pass is what makes the unit's ideas stick later.
 
 ## Procedure
 

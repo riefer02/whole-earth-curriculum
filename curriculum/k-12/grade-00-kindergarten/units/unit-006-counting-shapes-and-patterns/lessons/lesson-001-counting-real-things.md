@@ -102,22 +102,20 @@ Today you will practice your own way of counting the real things in front of you
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. The single most important idea here is **one-to-one
-correspondence** — one number for one object — which is a well-documented first step
-in early counting (Clements & Sarama, 2014). Model it slowly: touch an object, say
-"one"; touch the next, say "two." Resist the urge to rush or to correct a learner who
-is still practicing; accuracy grows with time and many gentle tries. Counting is a
-skill everyone builds at their own pace, and **no one's speed is a measure of their
-smartness**. Always count in the language the learner understands best — the home
-language is welcome and just as "real" as any other way of counting. Learners who are
-blind or low-vision can count by touch (moving each object into a cup) or by sound
-(tapping, clicking); learners who are deaf or hard of hearing can count in sign, with
-each signed number matched to one object. All of these are genuine counting. Learners
-with limited hand or body movement count by voice or sign alone: a partner touches and
-moves each object while the learner names each number, or the learner chooses each
-object with eye-gaze or a mouth stick and the partner moves and counts it — the math
-is in matching number to thing, not in the moving.
+The single most important idea here is **one-to-one correspondence** — one number for
+one object — which is a well-documented first step in early counting (Clements & Sarama,
+2014). Model it slowly: touch an object, say "one"; touch the next, say "two." Resist
+the urge to rush or to correct a learner who is still practicing; accuracy grows with
+time and many gentle tries. Counting is a skill everyone builds at their own pace, and
+**no one's speed is a measure of their smartness**. Always count in the language the
+learner understands best — the home language is welcome and just as "real" as any other
+way of counting. Learners who are blind or low-vision can count by touch (moving each
+object into a cup) or by sound (tapping, clicking); learners who are deaf or hard of
+hearing can count in sign, with each signed number matched to one object. All of these
+are genuine counting. Learners with limited hand or body movement count by voice or sign
+alone: a partner touches and moves each object while the learner names each number, or
+the learner chooses each object with eye-gaze or a mouth stick and the partner moves and
+counts it — the math is in matching number to thing, not in the moving.
 
 ## Procedure
 

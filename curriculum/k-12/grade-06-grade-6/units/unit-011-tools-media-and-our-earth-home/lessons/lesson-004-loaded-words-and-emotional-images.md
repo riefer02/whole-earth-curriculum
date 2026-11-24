@@ -118,14 +118,14 @@ to ask where they came from.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is the **persuasion spot**:
-name the loaded word, name the emotional image, and say how each tries to shape a view. Model
-the drink ad fully as a worked example. **Teach awareness, not fear or cynicism:** persuasion
-is everywhere, some of it honest and useful; the goal is to *feel* the pull and still think
-clearly — to be moved but not tricked. Keep all examples age-safe (snacks, toys, a school
-candidate) and free of frightening content. Distinguish evidence from values: *which words and
-images carry feeling* is observable; *that we should notice how we are persuaded* is a value
-this curriculum holds. See `docs/philosophy.md` §5, §7 and `docs/facilitation.md`.
+The skill to land is the **persuasion spot**: name the loaded word, name the emotional
+image, and say how each tries to shape a view. Model the drink ad fully as a worked
+example. **Teach awareness, not fear or cynicism:** persuasion is everywhere, some of it
+honest and useful; the goal is to *feel* the pull and still think clearly — to be moved
+but not tricked. Keep all examples age-safe (snacks, toys, a school candidate) and free
+of frightening content. Distinguish evidence from values: *which words and images carry
+feeling* is observable; *that we should notice how we are persuaded* is a value this
+curriculum holds. See `docs/philosophy.md` §5, §7 and `docs/facilitation.md`.
 
 ## Procedure
 

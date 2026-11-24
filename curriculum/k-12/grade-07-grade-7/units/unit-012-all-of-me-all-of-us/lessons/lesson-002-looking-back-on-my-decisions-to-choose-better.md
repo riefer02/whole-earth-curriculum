@@ -116,22 +116,24 @@ Today you do not just read one ripple; you read the whole year's current, and st
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **reflection is a learnable loop —
-decision → consequence → reflection → better next choice — and it is most powerful when it runs over
-a *pattern* of choices, not one isolated mistake.** This deepens Unit 1, Lesson 9, which taught the
-loop on a single decision; here learners scan the year for a *habit of choosing* and convert it into a
-next step they will carry forward. The goal is never to shame the past but to extract its lesson; a
-past decision is information, never a verdict. Teach the loop as a worked example before independent
-practice (Kirschner, Sweller & Clark, 2006, S-011). The ethics lens asks what a pattern of choices
-did to others; the egalitarian lens asks whose needs it counted and whose it left out — and notices
-that some learners carry heavier constraints on their choices (work, care, travel) that are not
-personal failures. The global lens: reflecting on choices and adjusting course is a human practice
-everywhere, not one culture's habit. Let learners choose **small, safe, recent** decisions and offer a
-made-up example as an option; never require disclosure of painful material. Feedback is built in as a
-peer check that the "next time" step actually follows from the pattern found. The year-spanning
-retrieval is deliberate spacing (Dunlosky et al., 2013, S-039). Distinguish **evidence from values**:
-that reflection improves later judgment is supported by learning science; that a learner's past is
-never a verdict is a value this curriculum holds — name it as one.
+The idea to land: **reflection is a learnable loop — decision → consequence → reflection
+→ better next choice — and it is most powerful when it runs over a *pattern* of choices,
+not one isolated mistake.** This deepens Unit 1, Lesson 9, which taught the loop on a
+single decision; here learners scan the year for a *habit of choosing* and convert it
+into a next step they will carry forward. The goal is never to shame the past but to
+extract its lesson; a past decision is information, never a verdict. Teach the loop as a
+worked example before independent practice (Kirschner, Sweller & Clark, 2006, S-011).
+The ethics lens asks what a pattern of choices did to others; the egalitarian lens asks
+whose needs it counted and whose it left out — and notices that some learners carry
+heavier constraints on their choices (work, care, travel) that are not personal
+failures. The global lens: reflecting on choices and adjusting course is a human
+practice everywhere, not one culture's habit. Let learners choose **small, safe,
+recent** decisions and offer a made-up example as an option; never require disclosure of
+painful material. Feedback is built in as a peer check that the "next time" step
+actually follows from the pattern found. The year-spanning retrieval is deliberate
+spacing (Dunlosky et al., 2013, S-039). Distinguish **evidence from values**: that
+reflection improves later judgment is supported by learning science; that a learner's
+past is never a verdict is a value this curriculum holds — name it as one.
 
 ## Procedure
 

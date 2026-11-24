@@ -112,19 +112,20 @@ care, generosity — though they name and shade them differently.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Its goals: **(1) introduce the virtues lens honestly
-— virtue ethics is most associated with Aristotle (a virtue is a settled habit of character, built
-by practice, aimed at flourishing, *eudaimonia*), but the idea of character and a good life runs
-through many traditions, including Confucian, Buddhist, Islamic, and Indigenous frameworks; (2)
-model once, then guide: trace the loop — practice → habit → character → flourishing — for one
-virtue, then let learners trace another; (3) name the lens's limits — it says less about which
-specific act to choose right now, and "virtue" can be used to judge others harshly or to privilege
-one culture's list over another's.** The ethics lens: who we become matters as much as what we do.
-The egalitarian lens: ask whose list of virtues gets treated as normal, and whether the virtues
-named include care for the least powerful. The global lens: virtues are named and shaded
-differently across cultures — hold them side by side, never ranked (philosophy §11). Distinguish
-evidence from values: that cultures name virtues is a fact; that a particular virtue is good is a
-value we argue about, and there is room for more than one answer.
+Its goals: **(1) introduce the virtues lens honestly — virtue ethics is most associated
+with Aristotle (a virtue is a settled habit of character, built by practice, aimed at
+flourishing, *eudaimonia*), but the idea of character and a good life runs through many
+traditions, including Confucian, Buddhist, Islamic, and Indigenous frameworks; (2) model
+once, then guide: trace the loop — practice → habit → character → flourishing — for one
+virtue, then let learners trace another; (3) name the lens's limits — it says less about
+which specific act to choose right now, and "virtue" can be used to judge others harshly
+or to privilege one culture's list over another's.** The ethics lens: who we become
+matters as much as what we do. The egalitarian lens: ask whose list of virtues gets
+treated as normal, and whether the virtues named include care for the least powerful.
+The global lens: virtues are named and shaded differently across cultures — hold them
+side by side, never ranked (philosophy §11). Distinguish evidence from values: that
+cultures name virtues is a fact; that a particular virtue is good is a value we argue
+about, and there is room for more than one answer.
 
 ## Procedure
 

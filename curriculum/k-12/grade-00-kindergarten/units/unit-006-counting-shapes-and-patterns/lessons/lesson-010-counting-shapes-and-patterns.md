@@ -115,21 +115,20 @@ how many. Math is how you see the world more clearly.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is a celebration, not a test — the
-goal is for each learner to *show* what they can do and feel proud, never to be ranked
-against others. Run the four jobs as flexible stations (or as a self-directed checklist
-for one learner). Every child works at their own pace and may choose which job to
-linger on; mastery is individual, and the "museum" belongs to everyone together
-(philosophy §8). Keep the global lens alive: the same four moves — counting, sorting,
-patterning, shaping — live in weaving, building, farming, and music across the world,
-and no tradition is the model to copy. When learners share, praise the *thinking*
-("you counted carefully," "your pattern repeats") rather than speed or size. For
-learners who are blind or low-vision, counting, sorting, and patterning can all be
-done by touch and sound, and shapes by feel; for learners who are deaf or hard of
-hearing, the sharing can be signed or drawn. Learners with limited movement complete
-each job by voice or sign, directing a partner to move, sort, or pattern objects, or
-choosing with eye-gaze or a mouth stick — the thinking is theirs. The museum is for
-everyone, and every piece has a place.
+It is a celebration, not a test — the goal is for each learner to *show* what they can
+do and feel proud, never to be ranked against others. Run the four jobs as flexible
+stations (or as a self-directed checklist for one learner). Every child works at their
+own pace and may choose which job to linger on; mastery is individual, and the "museum"
+belongs to everyone together (philosophy §8). Keep the global lens alive: the same four
+moves — counting, sorting, patterning, shaping — live in weaving, building, farming, and
+music across the world, and no tradition is the model to copy. When learners share,
+praise the *thinking* ("you counted carefully," "your pattern repeats") rather than
+speed or size. For learners who are blind or low-vision, counting, sorting, and
+patterning can all be done by touch and sound, and shapes by feel; for learners who are
+deaf or hard of hearing, the sharing can be signed or drawn. Learners with limited
+movement complete each job by voice or sign, directing a partner to move, sort, or
+pattern objects, or choosing with eye-gaze or a mouth stick — the thinking is theirs.
+The museum is for everyone, and every piece has a place.
 
 ## Procedure
 

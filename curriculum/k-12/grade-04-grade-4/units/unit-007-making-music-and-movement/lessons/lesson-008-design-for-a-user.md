@@ -117,18 +117,17 @@ made, tried, and improved.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The design cycle is a **skill**, so
-walk through it as a worked example before independent work (Kirschner, Sweller &
-Clark, 2006): "My user is a grandparent whose hands tire — I'll make a fatter, softer
-handle for a pencil; here is my cardboard prototype; now let's have the grandparent
-try it and tell me what to change." Help learners choose a user they can actually
-interview (a classmate, sibling, or you). Feedback is the heart: schedule a moment
-when each learner asks their user to *try* the prototype and say one thing to keep and
-one thing to change. Emphasize **accessibility** and **fairness** — a design that
-serves someone often serves many (the "curb-cut effect"), and the best designers ask
-who is being left out. Keep the build simple; the thinking matters more than the
-finish. A learner with limited fine motor may design by directing a partner, or choose
-a need they can prototype with large pieces.
+The design cycle is a **skill**, so walk through it as a worked example before
+independent work (Kirschner, Sweller & Clark, 2006): "My user is a grandparent whose
+hands tire — I'll make a fatter, softer handle for a pencil; here is my cardboard
+prototype; now let's have the grandparent try it and tell me what to change." Help
+learners choose a user they can actually interview (a classmate, sibling, or you).
+Feedback is the heart: schedule a moment when each learner asks their user to *try* the
+prototype and say one thing to keep and one thing to change. Emphasize **accessibility**
+and **fairness** — a design that serves someone often serves many (the "curb-cut
+effect"), and the best designers ask who is being left out. Keep the build simple; the
+thinking matters more than the finish. A learner with limited fine motor may design by
+directing a partner, or choose a need they can prototype with large pieces.
 
 ## Procedure
 

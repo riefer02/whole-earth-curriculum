@@ -100,18 +100,17 @@ is how the story gets to live inside you too.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Tell the story slowly, with pauses and expression, so there is
-time to listen. Tell the story in the language the learners understand best — the home
-language is always welcome here. "Listening with the body" is a skill to name kindly,
-never to scold; some learners listen best while moving, and that is okay. "Watching
-with the eyes" also looks different across cultures — in many places a listener shows
-attention and respect by looking down or away, especially toward an elder — so honor
-every learner's own way of listening. For a learner who is deaf or hard of hearing,
-"listening" can mean watching a story told in sign, lip-reading, or following pictures —
-offer the story visually (signed, pictured, or acted out) so that learner "listens" with
-eyes and hands instead of ears. Retelling may be spoken, signed, pointed, drawn, or acted
-out; all of these are real retelling and all are welcome.
+Tell the story slowly, with pauses and expression, so there is time to listen. Tell the
+story in the language the learners understand best — the home language is always welcome
+here. "Listening with the body" is a skill to name kindly, never to scold; some learners
+listen best while moving, and that is okay. "Watching with the eyes" also looks
+different across cultures — in many places a listener shows attention and respect by
+looking down or away, especially toward an elder — so honor every learner's own way of
+listening. For a learner who is deaf or hard of hearing, "listening" can mean watching a
+story told in sign, lip-reading, or following pictures — offer the story visually
+(signed, pictured, or acted out) so that learner "listens" with eyes and hands instead
+of ears. Retelling may be spoken, signed, pointed, drawn, or acted out; all of these are
+real retelling and all are welcome.
 
 ## Procedure
 

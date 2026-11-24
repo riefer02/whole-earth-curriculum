@@ -116,21 +116,22 @@ begin to say who you are becoming.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the **opening and retrieval pass** of the
-capstone, so the goals are modest: **(1) recall that identity is many parts that intersect; (2) name
-the four intersecting identities the standard names — culture, gender, ability, and language — plus
-one of the learner's own choosing; (3) map them into one whole self.** Do not push for a finished
-autobiography today; the reflection deepens across the unit and is gathered in Lesson 5. The
-**critical-thinking** lens: "which parts of me are mine, and which are labels others stuck on me?" is
-the habit carried forward (S-334). The **egalitarian** lens: no identity ranks above another, and a
-person is never *just* one label — intersectionality names how overlapping identities shape
-experience *together*, not separately (S-334). The **global** lens: what counts as a core identity —
-clan, faith, nation, craft — differs across cultures; let learners name their own. The **technology**
-lens: online platforms often reduce a whole person to a few checkable labels; today we push back by
-mapping the whole. Identity is offered as a *growing story*, never a finished verdict (S-155); and
-"who I am becoming" names the *possible selves* a person imagines hoping to become and fearing to
-become — imagined possibilities, not a fixed verdict (S-399). Spacing note (S-039): this recall pass
-is what makes the capstone stick.
+It is the **opening and retrieval pass** of the capstone, so the goals are modest: **(1)
+recall that identity is many parts that intersect; (2) name the four intersecting
+identities the standard names — culture, gender, ability, and language — plus one of the
+learner's own choosing; (3) map them into one whole self.** Do not push for a finished
+autobiography today; the reflection deepens across the unit and is gathered in Lesson 5.
+The **critical-thinking** lens: "which parts of me are mine, and which are labels others
+stuck on me?" is the habit carried forward (S-334). The **egalitarian** lens: no
+identity ranks above another, and a person is never *just* one label — intersectionality
+names how overlapping identities shape experience *together*, not separately (S-334).
+The **global** lens: what counts as a core identity — clan, faith, nation, craft —
+differs across cultures; let learners name their own. The **technology** lens: online
+platforms often reduce a whole person to a few checkable labels; today we push back by
+mapping the whole. Identity is offered as a *growing story*, never a finished verdict
+(S-155); and "who I am becoming" names the *possible selves* a person imagines hoping to
+become and fearing to become — imagined possibilities, not a fixed verdict (S-399).
+Spacing note (S-039): this recall pass is what makes the capstone stick.
 
 ## Procedure
 

@@ -143,19 +143,18 @@ it, test it, and find out.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Open with the concrete — pour water over
-a mound of sand and watch it carve a little valley (concrete before abstract) — then
-name the three shapers: wind, water, ice. Hold the changing land with **hope, not
-fear**: erosion is a natural, slow shaping that has always happened; where people worry
-about soil washing away, there are real, doable responses (planting roots to hold soil,
-terracing, caring for the land), and that is agency a child can hold. The wonder fair
-is a **celebration of mastery, not a competition** — no winners, no rankings, no "best"
-work; every share is welcomed exactly as it is. Keep praise about effort and wonder,
-not comparison. Retrieval is built in: recalling and explaining to a peer is the
-deepest kind of remembering, spaced and interleaved across the whole unit. Honor every
-body: sharing may be by speaking, pointing, signing, acting, or displaying work. End by
-gathering "what do you still wonder?" — and honor that some questions we cannot answer
-yet, and that is wonderful.
+Open with the concrete — pour water over a mound of sand and watch it carve a little
+valley (concrete before abstract) — then name the three shapers: wind, water, ice. Hold
+the changing land with **hope, not fear**: erosion is a natural, slow shaping that has
+always happened; where people worry about soil washing away, there are real, doable
+responses (planting roots to hold soil, terracing, caring for the land), and that is
+agency a child can hold. The wonder fair is a **celebration of mastery, not a
+competition** — no winners, no rankings, no "best" work; every share is welcomed exactly
+as it is. Keep praise about effort and wonder, not comparison. Retrieval is built in:
+recalling and explaining to a peer is the deepest kind of remembering, spaced and
+interleaved across the whole unit. Honor every body: sharing may be by speaking,
+pointing, signing, acting, or displaying work. End by gathering "what do you still
+wonder?" — and honor that some questions we cannot answer yet, and that is wonderful.
 
 ## Procedure
 

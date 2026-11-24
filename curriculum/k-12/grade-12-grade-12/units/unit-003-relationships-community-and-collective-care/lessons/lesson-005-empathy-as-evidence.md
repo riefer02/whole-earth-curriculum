@@ -125,25 +125,25 @@ what to do from the outside. This lesson practices holding both at once.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **empathy is not the
-enemy of clear reasoning; it is one input, held alongside principles and consequences —
-and mature reasoning refuses to drop either.** The concern-versus-distress distinction is
-well evidenced (Batson, S-230), and perspective-taking is a well-studied route to
-prosocial judgment, not automatic (Decety & Cowell, S-231). Hold empathy as description
-of how we respond, not as a demand to feel a prescribed way.
+The idea to land: **empathy is not the enemy of clear reasoning; it is one input, held
+alongside principles and consequences — and mature reasoning refuses to drop either.**
+The concern-versus-distress distinction is well evidenced (Batson, S-230), and
+perspective-taking is a well-studied route to prosocial judgment, not automatic (Decety
+& Cowell, S-231). Hold empathy as description of how we respond, not as a demand to feel
+a prescribed way.
 
 The **ethics** lens: what is right here is decided by both — the inner facts empathy
 reveals and the outer principles that bind everyone. The **egalitarianism** lens: whose
 experience we are *willing* to imagine is uneven; reasoning is skewed when we only
 imagine the people who resemble us. The **global** lens: the same problem — housing,
 migration, water — looks different in a megacity, a village, a refugee camp, and a
-drought region; none is the default. The **technology** lens: media curates *whose* inner
-world we are shown, and feeds can narrow empathy into an echo of people like us
+drought region; none is the default. The **technology** lens: media curates *whose*
+inner world we are shown, and feeds can narrow empathy into an echo of people like us
 (Britannica, S-481), so perspective-taking must be sought, not received. The
 **critical-thinking** lens: mark clearly which parts of your conclusion are *evidence*
-(what is at stake) and which are *values* (what you believe matters) — and do not let one
-wear the other's clothes. Preview: Lesson 6 turns to deliberately taking many views of
-one problem.
+(what is at stake) and which are *values* (what you believe matters) — and do not let
+one wear the other's clothes. Preview: Lesson 6 turns to deliberately taking many views
+of one problem.
 
 **Safeguarding:** problems are described factually and gently, no graphic detail; a
 learner with a lived connection to a problem speaks only if they choose, and is honored,

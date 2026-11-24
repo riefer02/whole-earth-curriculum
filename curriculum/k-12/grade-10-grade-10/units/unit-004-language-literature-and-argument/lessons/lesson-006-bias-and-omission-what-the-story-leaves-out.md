@@ -121,20 +121,19 @@ market stall to the newsroom to your own phone.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **every media message
-is a selection made by someone for an audience; bias shows up as emphasis, framing, and
-especially omission — so the reader's job is to ask the five questions, not to hunt for
-a perfectly neutral outlet.** The five questions follow established media-literacy
-frameworks: the Center for Media Literacy's five core concepts (all media are
-constructed; media use creative language; different people experience the same message
-differently; media embed values and points of view; most media seek profit and/or
-power) (S-442); NAMLE's key questions (who created this, why, what techniques are used,
-how might others read it, what is omitted, who benefits) (S-151); and UNESCO's media
-and information literacy framing of access, evaluate, and engage (S-217). Omission is
-the subtle one: a report can be factually accurate and still mislead by what it never
-says. Note that even bias can be automatic rather than deliberate — people (and
-outlets) absorb the angles of their surroundings (S-344) — so the lesson asks learners
-to *catch* bias, not to assume bad faith.
+The idea to land: **every media message is a selection made by someone for an audience;
+bias shows up as emphasis, framing, and especially omission — so the reader's job is to
+ask the five questions, not to hunt for a perfectly neutral outlet.** The five questions
+follow established media-literacy frameworks: the Center for Media Literacy's five core
+concepts (all media are constructed; media use creative language; different people
+experience the same message differently; media embed values and points of view; most
+media seek profit and/or power) (S-442); NAMLE's key questions (who created this, why,
+what techniques are used, how might others read it, what is omitted, who benefits)
+(S-151); and UNESCO's media and information literacy framing of access, evaluate, and
+engage (S-217). Omission is the subtle one: a report can be factually accurate and still
+mislead by what it never says. Note that even bias can be automatic rather than
+deliberate — people (and outlets) absorb the angles of their surroundings (S-344) — so
+the lesson asks learners to *catch* bias, not to assume bad faith.
 
 Model the five questions once, then let learners work (worked example → guided practice
 → independent work; S-011). The **critical-thinking** lens is the spine: ask the five

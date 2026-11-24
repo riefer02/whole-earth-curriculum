@@ -122,25 +122,25 @@ common good is not a thing that happens to you; it is a thing you help choose.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **solidarity is a
-decision, made by honestly weighing loyalty to one's own against obligation to the whole
-— and the common good is chosen, not automatic.** The free-rider problem is a
-well-documented feature of shared resources (Ostrom, S-416); hold it as description, not
-as a claim that people are selfish. Ostrom's work shows communities *can* govern commons
-fairly by their own rules — so the dilemma is real but not hopeless.
+The idea to land: **solidarity is a decision, made by honestly weighing loyalty to one's
+own against obligation to the whole — and the common good is chosen, not automatic.**
+The free-rider problem is a well-documented feature of shared resources (Ostrom, S-416);
+hold it as description, not as a claim that people are selfish. Ostrom's work shows
+communities *can* govern commons fairly by their own rules — so the dilemma is real but
+not hopeless.
 
 The **ethics** lens: the weighing itself is the ethical act — naming the loyalties and
 costs before deciding. The **egalitarianism** lens: the common good is often invoked to
 hide who actually pays — so ask who bears the cost and who reaps the benefit. The
-**global** lens: the same dilemma recurs worldwide — water, borders, forests, fisheries —
-and communities answer it differently; none is the default. The **technology** lens:
-technology changes the commons — a global commons like the atmosphere or the ocean is
-harmed by actions in many places at once, and digital networks can either coordinate
-solidarity across borders or let free-riding hide in plain sight (IPCC, S-005; Britannica,
-S-481). The **environment** lens: the largest commons are environmental — clean air,
-stable climate, shared water — where one place's gain is everyone's loss, the purest
-case of the weighing. Preview: Lesson 11 turns the weighing into a personal ethic of
-care.
+**global** lens: the same dilemma recurs worldwide — water, borders, forests,
+fisheries — and communities answer it differently; none is the default. The
+**technology** lens: technology changes the commons — a global commons like the
+atmosphere or the ocean is harmed by actions in many places at once, and digital
+networks can either coordinate solidarity across borders or let free-riding hide in
+plain sight (IPCC, S-005; Britannica, S-481). The **environment** lens: the largest
+commons are environmental — clean air, stable climate, shared water — where one place's
+gain is everyone's loss, the purest case of the weighing. Preview: Lesson 11 turns the
+weighing into a personal ethic of care.
 
 **Safeguarding:** dilemmas are structural (water, borders, resources), never about a
 learner's identity; no one is asked to argue against their own people's survival.

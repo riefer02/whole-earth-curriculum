@@ -129,16 +129,16 @@ living thing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Teach the cycle with a **worked example** —
-run the warm-water model and name each stage as it appears — then let learners draw and
-label their own cycle (guided practice). Handle warm water yourself, never boiling, and
-never left where a learner could spill it. The core idea to protect: water is **reused**,
-not used up — the same water cycles for billions of years (evidence from Earth science),
-which carries a quiet ethics and environment message: water is shared and precious, and
-caring for it is caring for the whole loop (the ethics and environment lenses). Use water
-from many places — a rice paddy, a desert oasis, a mountain spring, a city tap — so every
-learner can see their own water in the cycle (global lens). Invite wonder alongside fact:
-the water in the bowl may once have been part of a cloud, a river, or an ancient sea.
+Teach the cycle with a **worked example** — run the warm-water model and name each stage
+as it appears — then let learners draw and label their own cycle (guided practice).
+Handle warm water yourself, never boiling, and never left where a learner could spill
+it. The core idea to protect: water is **reused**, not used up — the same water cycles
+for billions of years (evidence from Earth science), which carries a quiet ethics and
+environment message: water is shared and precious, and caring for it is caring for the
+whole loop (the ethics and environment lenses). Use water from many places — a rice
+paddy, a desert oasis, a mountain spring, a city tap — so every learner can see their
+own water in the cycle (global lens). Invite wonder alongside fact: the water in the
+bowl may once have been part of a cloud, a river, or an ancient sea.
 
 ## Procedure
 

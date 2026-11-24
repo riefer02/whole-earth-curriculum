@@ -120,30 +120,30 @@ who it leaves behind.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **communities are nested —
-local, regional, national, and global — and goods, people, ideas, and water flow across all
-four scales, connecting every street to the wider world while also deciding who benefits and
-who is left out.** The concept is well grounded: a nation is an "imagined community" whose
-members will never meet most of their co-members, yet hold an image of their communion —
-and shared media and institutions bind them (S-415). The concrete threads (goods, water,
-people, ideas) make the abstraction holdable: trade routes, watersheds, migration, and
-media all cross the very borders people draw (S-281 on how digital and economic flows both
-connect and divide). Present "nested communities" as a *useful map*, not a natural law —
-where the lines fall is a human choice, drawn differently in different places.
+The idea to land: **communities are nested — local, regional, national, and global — and
+goods, people, ideas, and water flow across all four scales, connecting every street to
+the wider world while also deciding who benefits and who is left out.** The concept is
+well grounded: a nation is an "imagined community" whose members will never meet most of
+their co-members, yet hold an image of their communion — and shared media and
+institutions bind them (S-415). The concrete threads (goods, water, people, ideas) make
+the abstraction holdable: trade routes, watersheds, migration, and media all cross the
+very borders people draw (S-281 on how digital and economic flows both connect and
+divide). Present "nested communities" as a *useful map*, not a natural law — where the
+lines fall is a human choice, drawn differently in different places.
 
 Model one journey once, then let learners work (worked example → guided practice →
 independent work; S-011). The **global** lens is the spine: trace one thread across all
-four scales and see the whole. The **community** lens: ask what holds each ring together —
-shared place, shared language and institutions, shared planet. The **egalitarian** lens is
-essential: the net does not serve everyone equally — the same supply chain that delivers a
-cheap shirt can underpay the worker who made it, and the same border that unites a nation
-can split a family — so tracing a thread is also tracing power. The **ethics** lens: once
-you see the net, the question becomes *what do I owe the people at the other end of the
-thread?* The **environment** lens: water, soil, and climate do not respect national
-borders — a river and the air are shared across every ring. The **critical-thinking**
-lens: check where the map simplifies — real life crosses scales in ways no neat set of
-circles captures. Preview: with the nested map in hand, Lessons 11–12 turn to cooperation
-and mutual aid across that whole.
+four scales and see the whole. The **community** lens: ask what holds each ring
+together — shared place, shared language and institutions, shared planet. The
+**egalitarian** lens is essential: the net does not serve everyone equally — the same
+supply chain that delivers a cheap shirt can underpay the worker who made it, and the
+same border that unites a nation can split a family — so tracing a thread is also
+tracing power. The **ethics** lens: once you see the net, the question becomes *what do
+I owe the people at the other end of the thread?* The **environment** lens: water, soil,
+and climate do not respect national borders — a river and the air are shared across
+every ring. The **critical-thinking** lens: check where the map simplifies — real life
+crosses scales in ways no neat set of circles captures. Preview: with the nested map in
+hand, Lessons 11–12 turn to cooperation and mutual aid across that whole.
 
 ## Procedure
 

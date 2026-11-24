@@ -101,15 +101,13 @@ happening, and everything else in a text hangs on those two hooks.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. The five questions (who, what, where, when, why) are taught
-two at a time so each gets real practice; today is who and what. Model answering
-once with evidence from the text, then guide, then release. "Who" may be a person,
-an animal, or a character in the learner's culture of stories; "what" is the main
-happening, not every small detail. A learner answers who/what by speaking, signing,
-pointing to a picture, or writing — the answer is what matters. Work in the learner's
-home language; every language asks these same questions, with its own words for
-them.
+The five questions (who, what, where, when, why) are taught two at a time so each gets
+real practice; today is who and what. Model answering once with evidence from the text,
+then guide, then release. "Who" may be a person, an animal, or a character in the
+learner's culture of stories; "what" is the main happening, not every small detail. A
+learner answers who/what by speaking, signing, pointing to a picture, or writing — the
+answer is what matters. Work in the learner's home language; every language asks these
+same questions, with its own words for them.
 
 ## Procedure
 

@@ -120,18 +120,19 @@ hand and a screen working together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Its goal is one finished mixed-media piece plus a
-short written reflection — **not** technical mastery of a specific program. Keep the tools minimal
-and free so no learner is left out (the egalitarian lens): Krita and GIMP are raster editors and
-Inkscape is a vector editor, all open source (S-440, S-441). The **worked example** in the Procedure
-models the full pipeline *before* independent work, because combining techniques is a new skill and
-novices need explicit instruction first (Kirschner, Sweller & Clark, 2006; S-011). The **ethics**
-lens: when you borrow an image, a texture, or a tradition's pattern, credit it and respect its
-license — the difference between learning from a tradition and taking it. The **global** lens: invite
-learners to draw inspiration from any living tradition they know (a kente cloth's woven geometry, a
-rangoli's symmetry, an ukiyo-e print's flat color, a mural's scale) as *questions*, not as patterns
-to copy without understanding. Keep the reflection honest: what did the tool let you do that your
-hand alone could not?
+Its goal is one finished mixed-media piece plus a short written reflection — **not**
+technical mastery of a specific program. Keep the tools minimal and free so no learner
+is left out (the egalitarian lens): Krita and GIMP are raster editors and Inkscape is a
+vector editor, all open source (S-440, S-441). The **worked example** in the Procedure
+models the full pipeline *before* independent work, because combining techniques is a
+new skill and novices need explicit instruction first (Kirschner, Sweller & Clark, 2006;
+S-011). The **ethics** lens: when you borrow an image, a texture, or a tradition's
+pattern, credit it and respect its license — the difference between learning from a
+tradition and taking it. The **global** lens: invite learners to draw inspiration from
+any living tradition they know (a kente cloth's woven geometry, a rangoli's symmetry, an
+ukiyo-e print's flat color, a mural's scale) as *questions*, not as patterns to copy
+without understanding. Keep the reflection honest: what did the tool let you do that
+your hand alone could not?
 
 ## Procedure
 

@@ -121,21 +121,22 @@ again. These three jobs keep every ecosystem going, in a circle with no waste.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Grade 3 explained that plants make their own food
-from sunlight and that animals eat plants or other animals; Grade 4 names the three **jobs**
-explicitly — **producer, consumer, decomposer** — and gives an example of each. The key new idea
-is the **cycle**: decomposers close the loop, turning dead things back into soil that producers
-use, so an ecosystem has no true waste. Model the cycle with the chart and arrows, then guide
-sorting before independent drawing (Kirschner, Sweller & Clark, 2006). Keep it **concrete and
-gentle**: say "breaks dead things down and returns them to the soil," not gory detail; frame
-decomposers as quiet helpers, not as "gross." Use examples from many biomes — grass and rabbit,
-sea plants and fish, rice plants and people, forest leaves and mushrooms — so no single place is
-the default. A light ethical thread: everything is food for something else, and nothing is
-wasted in a healthy ecosystem — this prepares the "reduce, reuse, recycle" idea in Lessons 7–8,
-where humans can choose to waste *less*, the way ecosystems already do. Honor every body:
-describe the cards in words for a learner who is blind or has low vision; a non-speaking learner
-sorts the cards and points the cycle arrows; acting out each role works for learners who learn
-best by moving.
+Grade 3 explained that plants make their own food from sunlight and that animals eat
+plants or other animals; Grade 4 names the three **jobs** explicitly — **producer,
+consumer, decomposer** — and gives an example of each. The key new idea is the
+**cycle**: decomposers close the loop, turning dead things back into soil that producers
+use, so an ecosystem has no true waste. Model the cycle with the chart and arrows, then
+guide sorting before independent drawing (Kirschner, Sweller & Clark, 2006). Keep it
+**concrete and gentle**: say "breaks dead things down and returns them to the soil," not
+gory detail; frame decomposers as quiet helpers, not as "gross." Use examples from many
+biomes — grass and rabbit, sea plants and fish, rice plants and people, forest leaves
+and mushrooms — so no single place is the default. A light ethical thread: everything is
+food for something else, and nothing is wasted in a healthy ecosystem — this prepares
+the "reduce, reuse, recycle" idea in Lessons 7–8, where humans can choose to waste
+*less*, the way ecosystems already do. Honor every body: describe the cards in words for
+a learner who is blind or has low vision; a non-speaking learner sorts the cards and
+points the cycle arrows; acting out each role works for learners who learn best by
+moving.
 
 ## Procedure
 

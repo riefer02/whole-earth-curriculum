@@ -117,18 +117,18 @@ This one idea explains a kick, a car braking, a rocket launch, and a falling lea
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **force, mass, and
-acceleration are linked — F = m × a — so (a) a bigger force gives a bigger acceleration, and
-(b) a bigger mass gives a smaller acceleration for the same force.** Use explicit instruction
-with the light-cart/heavy-cart worked example first, then hands-on guided practice (Kirschner,
+The idea to land: **force, mass, and acceleration are linked — F = m × a — so (a) a
+bigger force gives a bigger acceleration, and (b) a bigger mass gives a smaller
+acceleration for the same force.** Use explicit instruction with the
+light-cart/heavy-cart worked example first, then hands-on guided practice (Kirschner,
 Sweller & Clark, 2006). This is Newton's second law of motion (Isaac Newton, *Principia
-Mathematica*, 1687), foundational physics taught worldwide. Acceleration here means *any*
-change in motion — speeding up, slowing down, or turning — not just "going faster." The
-egalitarian lens (`docs/philosophy.md` §4): physics is everyone's — the same law pushes a
-donkey cart in one country and a bullet train in another; no group owns it. The global lens:
-people have applied force-and-motion ideas in every culture — from levers and wheels in
-ancient engineering to the arrows and sailing ships of many seafaring peoples — long before
-Newton named the law.
+Mathematica*, 1687), foundational physics taught worldwide. Acceleration here means
+*any* change in motion — speeding up, slowing down, or turning — not just "going
+faster." The egalitarian lens (`docs/philosophy.md` §4): physics is everyone's — the
+same law pushes a donkey cart in one country and a bullet train in another; no group
+owns it. The global lens: people have applied force-and-motion ideas in every culture —
+from levers and wheels in ancient engineering to the arrows and sailing ships of many
+seafaring peoples — long before Newton named the law.
 
 ## Procedure
 

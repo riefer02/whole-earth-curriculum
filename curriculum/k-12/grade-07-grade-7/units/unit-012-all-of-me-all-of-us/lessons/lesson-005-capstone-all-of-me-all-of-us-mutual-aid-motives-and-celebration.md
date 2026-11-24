@@ -129,22 +129,24 @@ that practice forward and celebrate all of it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **mutual aid is helping among equals
-— everyone gives and receives — and carrying it forward with honest motives (care, duty, recognition)
-is how "all of me" meets "all of us"; the year ends in celebration of each whole person, the caring
-community, and the living Earth, not in ranking.** This deepens Unit 3, Lesson 10 (which planned a
-mutual-aid action) by pointing it into Grade 8 and joining it to the unit's identity work. Present
-mutual-aid traditions with respect as living practices, never as curiosities or a ranking (harambee,
-gotong royong, mink'a/minga, barn raising — S-164; the term's canonical source is Kropotkin, S-163).
-Honor the egalitarian lens: mutual aid is solidarity among equals, not charity from above. Keep motives
-non-judged — all three are human and common, and naming them honestly is the skill (inquiry over
-creed). The ethics lens asks what is right toward others; the global lens holds many peoples' ways of
-helping side by side; the technology lens asks how tools and messages can help or hinder mutual aid;
-the environment lens grounds the action in care for the land people share. The action must be small,
-safe, and genuinely doable, with every learner offered a real part. Model the planner once as a worked
-example (Kirschner, Sweller & Clark, 2006, S-011). This is a **summative** moment, but mastery is
-personal, never ranked — celebrate growth, never compare learners. Assess by what each learner can now
-*explain, choose, and do*, not by a score.
+The idea to land: **mutual aid is helping among equals — everyone gives and receives —
+and carrying it forward with honest motives (care, duty, recognition) is how "all of me"
+meets "all of us"; the year ends in celebration of each whole person, the caring
+community, and the living Earth, not in ranking.** This deepens Unit 3, Lesson 10 (which
+planned a mutual-aid action) by pointing it into Grade 8 and joining it to the unit's
+identity work. Present mutual-aid traditions with respect as living practices, never as
+curiosities or a ranking (harambee, gotong royong, mink'a/minga, barn raising — S-164;
+the term's canonical source is Kropotkin, S-163). Honor the egalitarian lens: mutual aid
+is solidarity among equals, not charity from above. Keep motives non-judged — all three
+are human and common, and naming them honestly is the skill (inquiry over creed). The
+ethics lens asks what is right toward others; the global lens holds many peoples' ways
+of helping side by side; the technology lens asks how tools and messages can help or
+hinder mutual aid; the environment lens grounds the action in care for the land people
+share. The action must be small, safe, and genuinely doable, with every learner offered
+a real part. Model the planner once as a worked example (Kirschner, Sweller & Clark,
+2006, S-011). This is a **summative** moment, but mastery is personal, never ranked —
+celebrate growth, never compare learners. Assess by what each learner can now *explain,
+choose, and do*, not by a score.
 
 ## Procedure
 

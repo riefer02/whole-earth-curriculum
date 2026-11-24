@@ -115,23 +115,25 @@ other. Today you learn that job.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **facilitation has four moves — (1)
-invite: draw in the person who has not spoken ("Who hasn't had a turn?"); (2) echo: restate what someone
-said so they feel heard and the group stays on track ("So you're saying…"); (3) take turns: hold the space
-so one voice at a time is heard; (4) disagree kindly: redirect an attack from the person to the idea
-("Let's push on the idea, not on each other.").** This is a *skill*, so use a **worked example, then guided
-practice** (S-011). Model a short discussion once, playing the facilitator and narrating each move as you
-make it. The ethics lens: a facilitator does not win — they serve the fairness of the group, and they owe
-dignity to every speaker, including the one they disagree with. The egalitarian lens: in every room, power
-is uneven — some voices are louder, some are silent; facilitation is the deliberate act of rebalancing,
-and a good facilitator notices *who is not speaking* and asks why. The global lens: turn-taking customs —
-the talking stick, the speaking circle, the council where elders listen first — appear in Indigenous,
-African, Asian, and other traditions, and all share the same aim: every voice matters. The critical-thinking
-lens: managing disagreement fairly means separating the strength of a claim from the volume of the person
-making it. The technology & environment lens: a discussion held online or in text changes turn-taking —
-who can dominate, who gets queued, who is silenced — and a recording lets a group review how well it
-actually included every voice. Keep the practice questions real but not explosive; the point is the
-*skill*, not the outcome.
+The skill to land: **facilitation has four moves — (1) invite: draw in the person who
+has not spoken ("Who hasn't had a turn?"); (2) echo: restate what someone said so they
+feel heard and the group stays on track ("So you're saying…"); (3) take turns: hold the
+space so one voice at a time is heard; (4) disagree kindly: redirect an attack from the
+person to the idea ("Let's push on the idea, not on each other.").** This is a *skill*,
+so use a **worked example, then guided practice** (S-011). Model a short discussion
+once, playing the facilitator and narrating each move as you make it. The ethics lens: a
+facilitator does not win — they serve the fairness of the group, and they owe dignity to
+every speaker, including the one they disagree with. The egalitarian lens: in every
+room, power is uneven — some voices are louder, some are silent; facilitation is the
+deliberate act of rebalancing, and a good facilitator notices *who is not speaking* and
+asks why. The global lens: turn-taking customs — the talking stick, the speaking circle,
+the council where elders listen first — appear in Indigenous, African, Asian, and other
+traditions, and all share the same aim: every voice matters. The critical-thinking lens:
+managing disagreement fairly means separating the strength of a claim from the volume of
+the person making it. The technology & environment lens: a discussion held online or in
+text changes turn-taking — who can dominate, who gets queued, who is silenced — and a
+recording lets a group review how well it actually included every voice. Keep the
+practice questions real but not explosive; the point is the *skill*, not the outcome.
 
 ## Procedure
 

@@ -117,30 +117,30 @@ being pushed around by signals you do not understand.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The concept to land: **emotion and thought
-have a somatic basis — a body basis. The brain and body form a two-way loop: body state
-(heart rate, breathing, muscle tension, gut signals, hormones) shapes mood and thinking,
-and thoughts shape body state in return.** This builds directly on Grade 8's nervous
-system and stress work, deepening it from "stress happens in the body" to "all feeling and
-thinking happen *with* the body" (S-338). Use a **worked example first, then guided
-practice** — naming a body signal and tracing the loop is a skill, and explicit modeling
-carries skills for novices (S-011). Keep the science honest and hedged: the **somatic
-marker** idea (Damasio) holds that bodily responses help guide feeling and decision-making
-(S-406), and the **interoception** account (Barrett) holds that the brain integrates
-internal body signals to construct emotional experience (S-401) — these are two respected
-scientific stories, offered as stories, not gospel. The ethics lens: reading our own
-signals honestly is a form of self-respect, and it helps us avoid blaming ourselves for a
-body that is just tired or hungry. The egalitarian lens: every body reads signals
+The concept to land: **emotion and thought have a somatic basis — a body basis. The
+brain and body form a two-way loop: body state (heart rate, breathing, muscle tension,
+gut signals, hormones) shapes mood and thinking, and thoughts shape body state in
+return.** This builds directly on Grade 8's nervous system and stress work, deepening it
+from "stress happens in the body" to "all feeling and thinking happen *with* the body"
+(S-338). Use a **worked example first, then guided practice** — naming a body signal and
+tracing the loop is a skill, and explicit modeling carries skills for novices (S-011).
+Keep the science honest and hedged: the **somatic marker** idea (Damasio) holds that
+bodily responses help guide feeling and decision-making (S-406), and the
+**interoception** account (Barrett) holds that the brain integrates internal body
+signals to construct emotional experience (S-401) — these are two respected scientific
+stories, offered as stories, not gospel. The ethics lens: reading our own signals
+honestly is a form of self-respect, and it helps us avoid blaming ourselves for a body
+that is just tired or hungry. The egalitarian lens: every body reads signals
 differently — some bodies feel signals strongly, some faintly, and some people use
 assistive tools — and no way is more legitimate than another. The global lens: cultures
 worldwide have long mapped feeling to body parts (a "heavy heart," a "knotted stomach"),
 so this is not one region's idea but a widely shared human understanding (S-401). The
-technology lens: the devices that now measure our heart rate and breathing are just tools
-that make an always-on loop *visible*; the loop itself predates every device. Be careful
-and non-shaming: never tell a learner their body is "wrong"; the point is noticing, not
-correcting. If a learner notices something distressing (a racing heart that will not
-settle, chronic pain), normalize it and quietly route them toward a trusted adult or the
-help-seeking paths named in later units.
+technology lens: the devices that now measure our heart rate and breathing are just
+tools that make an always-on loop *visible*; the loop itself predates every device. Be
+careful and non-shaming: never tell a learner their body is "wrong"; the point is
+noticing, not correcting. If a learner notices something distressing (a racing heart
+that will not settle, chronic pain), normalize it and quietly route them toward a
+trusted adult or the help-seeking paths named in later units.
 
 ## Procedure
 

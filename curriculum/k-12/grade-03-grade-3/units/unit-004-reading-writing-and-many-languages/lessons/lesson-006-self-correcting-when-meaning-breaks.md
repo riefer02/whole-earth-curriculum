@@ -108,19 +108,17 @@ stay on it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Self-correction is comprehension in action: the reader notices
-meaning broke and repairs it. Teach it explicitly with a worked example — read a
-sentence, plant an error, model the "stop," the re-read, and the fix — then guide
-practice (Kirschner, Sweller & Clark, 2006). The routine is script-agnostic and
-language-neutral: it works in any writing system and any language. The key idea to
-protect: a mistake is not a failure; noticing your own mistake and fixing it is
-*skill*, and it is celebrated. A learner who is Deaf or hard of hearing monitors
-meaning in sign the same way — a sign that breaks the sense is stopped and fixed. A
-learner who is blind or has low vision monitors meaning in braille, large print, or
-by listening — a word that breaks the sense is stopped and fixed the same way. Never
-make this a test of reading aloud in front of peers against a timer; it is a
-quiet, private practice of attention.
+Self-correction is comprehension in action: the reader notices meaning broke and repairs
+it. Teach it explicitly with a worked example — read a sentence, plant an error, model
+the "stop," the re-read, and the fix — then guide practice (Kirschner, Sweller & Clark,
+2006). The routine is script-agnostic and language-neutral: it works in any writing
+system and any language. The key idea to protect: a mistake is not a failure; noticing
+your own mistake and fixing it is *skill*, and it is celebrated. A learner who is Deaf
+or hard of hearing monitors meaning in sign the same way — a sign that breaks the sense
+is stopped and fixed. A learner who is blind or has low vision monitors meaning in
+braille, large print, or by listening — a word that breaks the sense is stopped and
+fixed the same way. Never make this a test of reading aloud in front of peers against a
+timer; it is a quiet, private practice of attention.
 
 ## Procedure
 

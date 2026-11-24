@@ -123,20 +123,19 @@ told with respect.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **This is a retrieval-and-integration
-lesson and a portfolio artifact — practice, not a test.** Learners are recalling two
-skills they already practiced (comparing two peoples' needs; explaining how the land
-shaped settlement) and combining them — spaced retrieval across the unit (Dunlosky et
-al., 2013). Model one full column first (Kirschner, Sweller & Clark, 2006): fill the
-"Arctic people" column and say the "shaped by" sentence aloud — "The frozen sea and the
-cold shaped it: people fish and wear warm parkas and build snug homes." Then guide the
-desert column. **Honor both peoples, and never rank:** each place asks something of its
-people, and each people answers with deep knowledge. A learner may choose a different
-pair of peoples or places if that is more meaningful to them — the structure matters,
-not the specific example. Honor every body: a learner who is blind or has low vision
-lays objects in two rows by touch and says or signs the comparison; a learner who does
-not use a speaking voice draws or points. The artifact is evidence of growth, never a
-ranking.
+**This is a retrieval-and-integration lesson and a portfolio artifact — practice, not a
+test.** Learners are recalling two skills they already practiced (comparing two peoples'
+needs; explaining how the land shaped settlement) and combining them — spaced retrieval
+across the unit (Dunlosky et al., 2013). Model one full column first (Kirschner, Sweller
+& Clark, 2006): fill the "Arctic people" column and say the "shaped by" sentence aloud —
+"The frozen sea and the cold shaped it: people fish and wear warm parkas and build snug
+homes." Then guide the desert column. **Honor both peoples, and never rank:** each place
+asks something of its people, and each people answers with deep knowledge. A learner may
+choose a different pair of peoples or places if that is more meaningful to them — the
+structure matters, not the specific example. Honor every body: a learner who is blind or
+has low vision lays objects in two rows by touch and says or signs the comparison; a
+learner who does not use a speaking voice draws or points. The artifact is evidence of
+growth, never a ranking.
 
 ## Procedure
 

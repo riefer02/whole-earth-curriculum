@@ -118,26 +118,26 @@ give. Being able to care for another person is one of the most useful things a h
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **caregiving means helping
-another person's health and safety with dignity, consent, and respect for their autonomy —
-"help with, not instead of" — and knowing when to step in or get more help than you can give.**
-Teach one ring as a worked example, then let learners build their own circle (S-011). Keep it
-empowering and normal: learners already help people; we are naming and refining that. On the
-"safeguarding" moments, stay calm and clear, and always point to the adult/professional path —
-never leave a learner feeling they must carry a heavy secret alone (S-051).
+The idea to land: **caregiving means helping another person's health and safety with
+dignity, consent, and respect for their autonomy — "help with, not instead of" — and
+knowing when to step in or get more help than you can give.** Teach one ring as a worked
+example, then let learners build their own circle (S-011). Keep it empowering and
+normal: learners already help people; we are naming and refining that. On the
+"safeguarding" moments, stay calm and clear, and always point to the adult/professional
+path — never leave a learner feeling they must carry a heavy secret alone (S-051).
 
-The **ethics** lens: care respects the person — their dignity, their choices, their right to
-be heard and to say no; consent and autonomy are the floor of good care (S-060). The
-**egalitarianism** lens: people who need care — children, elders, people with disabilities —
-are not "burdens"; they are people whose dignity is equal to anyone's, and caring for them is
-honoring that equality. The **global** lens: caregiving is done everywhere, in families and
-communities, in many arrangements — multigenerational households, mutual aid, formal
-care-workers — and no one arrangement is "correct." The **technology** lens: tools from phones
-to monitoring devices can support care and summon help, but they can never replace a human
-who notices and stays. The **environment** lens: a safe, accessible environment is itself a
-form of care — and many people's need for care is shaped by the places they must live in.
-Preview: Lesson 10 adds the crisis skills — emergency response — that caregiving sometimes
-requires.
+The **ethics** lens: care respects the person — their dignity, their choices, their
+right to be heard and to say no; consent and autonomy are the floor of good care
+(S-060). The **egalitarianism** lens: people who need care — children, elders, people
+with disabilities — are not "burdens"; they are people whose dignity is equal to
+anyone's, and caring for them is honoring that equality. The **global** lens: caregiving
+is done everywhere, in families and communities, in many arrangements —
+multigenerational households, mutual aid, formal care-workers — and no one arrangement
+is "correct." The **technology** lens: tools from phones to monitoring devices can
+support care and summon help, but they can never replace a human who notices and stays.
+The **environment** lens: a safe, accessible environment is itself a form of care — and
+many people's need for care is shaped by the places they must live in. Preview: Lesson
+10 adds the crisis skills — emergency response — that caregiving sometimes requires.
 
 ## Procedure
 

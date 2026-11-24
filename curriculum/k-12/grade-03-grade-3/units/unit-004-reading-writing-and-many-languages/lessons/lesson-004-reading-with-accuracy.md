@@ -107,20 +107,18 @@ written words keep their promise.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Accuracy means reading the word that is actually written, not
-a guess that "looks close." Teach the three-step routine explicitly — say the sounds,
-blend, check it makes sense — as worked instruction, then guide practice before
-independent reading (Kirschner, Sweller & Clark, 2006). The routine is
-script-agnostic: the deeper rule — read what is really written, then check that it
-makes sense — holds in every writing system, though the exact step looks different in
-each. In a sound- or syllable-based script (Hangul, Devanagari, Ethiopic, Arabic, or
-the Latin alphabet), you read each part and put the parts together. In a
-character-based script (such as Chinese), you recognize each whole character and
-check its meaning. Never assume the Latin alphabet; a learner's "letters" may be
-characters, syllables, or marks of another kind. A learner who is Deaf or hard
-of hearing reads accurately in sign or fingerspelling; accuracy of the word is what
-counts. A learner who is blind or has low vision reads accurately in braille, in
+Accuracy means reading the word that is actually written, not a guess that "looks
+close." Teach the three-step routine explicitly — say the sounds, blend, check it makes
+sense — as worked instruction, then guide practice before independent reading
+(Kirschner, Sweller & Clark, 2006). The routine is script-agnostic: the deeper rule —
+read what is really written, then check that it makes sense — holds in every writing
+system, though the exact step looks different in each. In a sound- or syllable-based
+script (Hangul, Devanagari, Ethiopic, Arabic, or the Latin alphabet), you read each part
+and put the parts together. In a character-based script (such as Chinese), you recognize
+each whole character and check its meaning. Never assume the Latin alphabet; a learner's
+"letters" may be characters, syllables, or marks of another kind. A learner who is Deaf
+or hard of hearing reads accurately in sign or fingerspelling; accuracy of the word is
+what counts. A learner who is blind or has low vision reads accurately in braille, in
 large print, or by listening to the text read aloud and echoing it — braille is a
 writing system too, and accuracy is the goal in it just the same. Celebrate each
 learner's accuracy against their own yesterday, never against a peer.

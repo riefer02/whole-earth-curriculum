@@ -123,21 +123,20 @@ to tell the true story of a place.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Ordering is a foundational skill, so
-teach it with a worked example first** (Kirschner, Sweller & Clark, 2006): model
-placing three landmarks on the line, and for each one say the clue — "the photo shows
-the tree when it was small, so the tree was planted first; the plaque says the school
-was built in 1987, so it came later." Then guide the same two moves for a second set
-before learners work independently. **The evidence is the point of this grade:** Grade
-2 ordered events; Grade 3 adds "how do you know?" — a photo, a date, a memory, a
-building style. Keep landmarks local, real, and gentle (a tree, a bridge, a school, a
-market, a well), never frightening or private. Honor every body and every family
-shape: a learner who is blind or has low vision sequences real objects by touch and
-says or signs the order and the clue; a learner who does not use a speaking voice
-points or acts. Every place's order of landmarks is real and worthy — a town, a
-village, a farm, or a settlement all have their own. Remember that different peoples
-mark time in different ways (many calendars, many ways of naming years) — a timeline
-is one tool among many, not the only truth about time.
+**Ordering is a foundational skill, so teach it with a worked example first**
+(Kirschner, Sweller & Clark, 2006): model placing three landmarks on the line, and for
+each one say the clue — "the photo shows the tree when it was small, so the tree was
+planted first; the plaque says the school was built in 1987, so it came later." Then
+guide the same two moves for a second set before learners work independently. **The
+evidence is the point of this grade:** Grade 2 ordered events; Grade 3 adds "how do you
+know?" — a photo, a date, a memory, a building style. Keep landmarks local, real, and
+gentle (a tree, a bridge, a school, a market, a well), never frightening or private.
+Honor every body and every family shape: a learner who is blind or has low vision
+sequences real objects by touch and says or signs the order and the clue; a learner who
+does not use a speaking voice points or acts. Every place's order of landmarks is real
+and worthy — a town, a village, a farm, or a settlement all have their own. Remember
+that different peoples mark time in different ways (many calendars, many ways of naming
+years) — a timeline is one tool among many, not the only truth about time.
 
 ## Procedure
 

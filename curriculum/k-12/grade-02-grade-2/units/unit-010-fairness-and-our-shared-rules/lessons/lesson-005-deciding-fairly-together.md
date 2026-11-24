@@ -115,21 +115,20 @@ real decision together, fairly.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **deciding together**, not
-obeying a decision handed down. Offer two fair ways and let learners practice both:
-**talk it through** (everyone's idea and reason is heard before choosing) and **take a
-vote** (everyone shows a choice and the group counts; the choice most people picked
-wins, but the group also listens to the ones who did not win). Neither way is a
-dogma — a good group often does both. Use a passing object as a **turn marker** so one
-voice is heard at a time; it is a reminder to listen, not a decoration. Every voice
-matters — not just the loudest or fastest; invite quieter voices, and show that a good
-idea can come from anyone. A learner who does not speak aloud shows their choice with
-a token, a raised hand, a step into a circle, or by pointing; a learner who is deaf
-or hard of hearing follows the choices through the chart and sign; a learner who is
-blind or low-vision hears the choices read back and shows a choice by voice or touch;
-a learner with a motor difference shows their choice by directing a partner or by eye
-gaze, and their choice is counted. A learner may always pass. The goal is a decision
-the group *made together* — and can say how it was made.
+This lesson teaches **deciding together**, not obeying a decision handed down. Offer two
+fair ways and let learners practice both: **talk it through** (everyone's idea and
+reason is heard before choosing) and **take a vote** (everyone shows a choice and the
+group counts; the choice most people picked wins, but the group also listens to the ones
+who did not win). Neither way is a dogma — a good group often does both. Use a passing
+object as a **turn marker** so one voice is heard at a time; it is a reminder to listen,
+not a decoration. Every voice matters — not just the loudest or fastest; invite quieter
+voices, and show that a good idea can come from anyone. A learner who does not speak
+aloud shows their choice with a token, a raised hand, a step into a circle, or by
+pointing; a learner who is deaf or hard of hearing follows the choices through the chart
+and sign; a learner who is blind or low-vision hears the choices read back and shows a
+choice by voice or touch; a learner with a motor difference shows their choice by
+directing a partner or by eye gaze, and their choice is counted. A learner may always
+pass. The goal is a decision the group *made together* — and can say how it was made.
 
 ## Procedure
 

@@ -102,10 +102,9 @@ wants. And helping is a skill you can learn, one small act at a time.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, model the helping first ("watch, then try")
-and celebrate the *trying*, not the result. Keep helping voluntary and mutual —
-helping is something we offer each other as equals, not a favor from above.
+As facilitator, model the helping first ("watch, then try") and celebrate the *trying*,
+not the result. Keep helping voluntary and mutual — helping is something we offer each
+other as equals, not a favor from above.
 
 ## Procedure
 

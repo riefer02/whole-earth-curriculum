@@ -122,28 +122,30 @@ will I do about the harm I cannot avoid?"
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a real moral dilemma has no
-clean answer, and the mature response is to reason it through — name the dilemma, list the
-options, trace who is affected and how, and ask about consequences, duties, and character — then
-say honestly what stays unsettled. The frame is a tool, not a verdict machine; the conclusion is
-the learner's own, never the lesson's.** Teach the frame explicitly with a worked example (S-011),
-then let learners apply it — the reasoning, not the answer, is the learning. Do not supply a
-"correct" resolution to any dilemma; hold the question open (inquiry over creed).
+The idea to land: **a real moral dilemma has no clean answer, and the mature response is
+to reason it through — name the dilemma, list the options, trace who is affected and
+how, and ask about consequences, duties, and character — then say honestly what stays
+unsettled. The frame is a tool, not a verdict machine; the conclusion is the learner's
+own, never the lesson's.** Teach the frame explicitly with a worked example (S-011),
+then let learners apply it — the reasoning, not the answer, is the learning. Do not
+supply a "correct" resolution to any dilemma; hold the question open (inquiry over
+creed).
 
-The **ethics** lens: this is the heart of the strand — reasoning about what is right when the
-right thing is genuinely unclear; three questions recur across traditions: what happens
-(consequences), what is owed (duties), and who am I becoming (character) (S-456, S-457, S-458).
-The **egalitarianism** lens: in every dilemma, ask *who benefits and who is harmed, and whose
-voice is least heard* — a dilemma looks different from the position of the person with least
-power to choose. The **global** lens: the shape of a dilemma (loyalty vs. honesty, obedience vs.
-conscience, promise vs. harm) recurs across cultures and times, but what counts as a live option
-differs with a person's position — the frame is universal, the content is local. The
-**technology** lens: the whistleblower case is a technology-shaped dilemma — leaked documents,
-surveillance, and instant spread change what "speaking out" costs; reasoning must notice the
-tool, not just the choice. The **environment** lens: many of the most painful real dilemmas are
-about land, water, and shared resources, where the harm falls on people and places with the
-least power to refuse it. Preview: Lesson 2 weighs the three frameworks against each other and
-turns the frame into a *defended* position.
+The **ethics** lens: this is the heart of the strand — reasoning about what is right
+when the right thing is genuinely unclear; three questions recur across traditions: what
+happens (consequences), what is owed (duties), and who am I becoming (character) (S-456,
+S-457, S-458). The **egalitarianism** lens: in every dilemma, ask *who benefits and who
+is harmed, and whose voice is least heard* — a dilemma looks different from the position
+of the person with least power to choose. The **global** lens: the shape of a dilemma
+(loyalty vs. honesty, obedience vs. conscience, promise vs. harm) recurs across cultures
+and times, but what counts as a live option differs with a person's position — the frame
+is universal, the content is local. The **technology** lens: the whistleblower case is a
+technology-shaped dilemma — leaked documents, surveillance, and instant spread change
+what "speaking out" costs; reasoning must notice the tool, not just the choice. The
+**environment** lens: many of the most painful real dilemmas are about land, water, and
+shared resources, where the harm falls on people and places with the least power to
+refuse it. Preview: Lesson 2 weighs the three frameworks against each other and turns
+the frame into a *defended* position.
 
 ## Procedure
 

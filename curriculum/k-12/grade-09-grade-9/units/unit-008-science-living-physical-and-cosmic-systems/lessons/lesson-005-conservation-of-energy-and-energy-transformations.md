@@ -112,22 +112,23 @@ change drops a little energy as spread-out heat that is hard to use again.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The two ideas to land: **(1) conservation of energy —
-energy is neither created nor destroyed, only transformed from one form to another (kinetic,
-potential, thermal, chemical, electrical, light); (2) efficiency — in any real transformation, some
-energy always spreads as heat into the surroundings, so efficiency = useful energy out ÷ total energy
-in, always less than 100%.** Use a worked example first (S-011): a power plant chain
-chemical → thermal → kinetic → electrical → light, with heat leaving at each step. The
-critical-thinking lens: the word "lost" is a trap — the heat is not gone, it is *spread out* and no
-longer available to do useful work; say "spread as heat," not "destroyed." The technology lens:
-efficiency is where physics meets engineering — a more efficient engine, battery, or lamp does more
-with the same energy, which is why efficiency is a design goal everywhere (S-256, S-435). The
-environment lens: because no process is 100% efficient, every energy source carries a heat and waste
-cost — and choosing between sources is partly a question of how much energy we waste as heat and how
-we make the energy in the first place (S-256). The global lens: the same law governs a rice cooker in
-Asia, a wind turbine in Europe, and a body anywhere — energy conservation is universal. Keep the
-numbers honest and hedged; efficiency is always less than 1 (or 100%), never exactly, in any real
-machine.
+The two ideas to land: **(1) conservation of energy — energy is neither created nor
+destroyed, only transformed from one form to another (kinetic, potential, thermal,
+chemical, electrical, light); (2) efficiency — in any real transformation, some energy
+always spreads as heat into the surroundings, so efficiency = useful energy out ÷ total
+energy in, always less than 100%.** Use a worked example first (S-011): a power plant
+chain chemical → thermal → kinetic → electrical → light, with heat leaving at each step.
+The critical-thinking lens: the word "lost" is a trap — the heat is not gone, it is
+*spread out* and no longer available to do useful work; say "spread as heat," not
+"destroyed." The technology lens: efficiency is where physics meets engineering — a more
+efficient engine, battery, or lamp does more with the same energy, which is why
+efficiency is a design goal everywhere (S-256, S-435). The environment lens: because no
+process is 100% efficient, every energy source carries a heat and waste cost — and
+choosing between sources is partly a question of how much energy we waste as heat and
+how we make the energy in the first place (S-256). The global lens: the same law governs
+a rice cooker in Asia, a wind turbine in Europe, and a body anywhere — energy
+conservation is universal. Keep the numbers honest and hedged; efficiency is always less
+than 1 (or 100%), never exactly, in any real machine.
 
 ## Procedure
 

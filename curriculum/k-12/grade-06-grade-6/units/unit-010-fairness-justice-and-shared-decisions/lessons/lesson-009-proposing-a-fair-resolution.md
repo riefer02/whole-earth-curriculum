@@ -117,19 +117,18 @@ across together. Today you build bridges.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is a **fair-resolution
-routine**: (1) restate both sides' needs; (2) **brainstorm** two or three possible
-resolutions; (3) **test each for fairness** — does it honor both needs, or only one?; (4)
-**choose the one both sides accept**. This is a skill, so **model the full routine once**
-(Kirschner, Sweller & Clark, 2006). Keep it **non-shaming and genuinely mutual**: a fair
-resolution must be accepted by *both* sides — not imposed, not "majority rules," and not
-the quieter side giving in. The egalitarian move is that a resolution that only the louder
-side accepts is *not* fair, however reasonable it sounds. Distinguish **evidence from
-values**: *whether a resolution meets both sides' stated needs* can be checked; *that
-fairness requires both sides' acceptance* is a value this curriculum holds and names as
-such. Draw a clear safety boundary: if a conflict involves harm, threat, or real danger,
-the first move is a trusted adult — a peer never resolves serious harm alone. See
-`docs/facilitation.md`.
+The skill to land is a **fair-resolution routine**: (1) restate both sides' needs; (2)
+**brainstorm** two or three possible resolutions; (3) **test each for fairness** — does
+it honor both needs, or only one?; (4) **choose the one both sides accept**. This is a
+skill, so **model the full routine once** (Kirschner, Sweller & Clark, 2006). Keep it
+**non-shaming and genuinely mutual**: a fair resolution must be accepted by *both*
+sides — not imposed, not "majority rules," and not the quieter side giving in. The
+egalitarian move is that a resolution that only the louder side accepts is *not* fair,
+however reasonable it sounds. Distinguish **evidence from values**: *whether a
+resolution meets both sides' stated needs* can be checked; *that fairness requires both
+sides' acceptance* is a value this curriculum holds and names as such. Draw a clear
+safety boundary: if a conflict involves harm, threat, or real danger, the first move is
+a trusted adult — a peer never resolves serious harm alone. See `docs/facilitation.md`.
 
 ## Procedure
 

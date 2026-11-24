@@ -110,18 +110,19 @@ and learning to see both is part of using tools wisely.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) an intended effect is the
-result a designer planned for; an unintended effect is a consequence that happened anyway, planned
-or not; (2) "unintended" is not the same as "unimportant" — an unplanned harm is still a real harm;
-(3) seeing unintended effects is a skill, and it helps us design and choose better.** Model the
-plastic bag once (worked example, S-011). The technology lens: design always aims at some effects
-and misses others — that gap is exactly where unintended effects live. The environment lens: many
-unintended effects land on the living Earth (plastic in the ocean, S-216; animals mistaking
-plastic for food, S-066). The egalitarian lens: unintended harm often falls hardest on people with
-the least power to avoid it — ask "who is harmed?" The ethics lens: noticing an unintended effect
-raises a question — now that we know, what do we owe? Keep the distinction descriptive first
-(what happened) and normative second (what we should do about it). Distinguish evidence (plastic
-enters rivers and oceans and can harm wildlife — S-216) from value (we *should* reduce it).
+The ideas to land: **(1) an intended effect is the result a designer planned for; an
+unintended effect is a consequence that happened anyway, planned or not; (2)
+"unintended" is not the same as "unimportant" — an unplanned harm is still a real harm;
+(3) seeing unintended effects is a skill, and it helps us design and choose better.**
+Model the plastic bag once (worked example, S-011). The technology lens: design always
+aims at some effects and misses others — that gap is exactly where unintended effects
+live. The environment lens: many unintended effects land on the living Earth (plastic in
+the ocean, S-216; animals mistaking plastic for food, S-066). The egalitarian lens:
+unintended harm often falls hardest on people with the least power to avoid it — ask
+"who is harmed?" The ethics lens: noticing an unintended effect raises a question — now
+that we know, what do we owe? Keep the distinction descriptive first (what happened) and
+normative second (what we should do about it). Distinguish evidence (plastic enters
+rivers and oceans and can harm wildlife — S-216) from value (we *should* reduce it).
 
 ## Procedure
 

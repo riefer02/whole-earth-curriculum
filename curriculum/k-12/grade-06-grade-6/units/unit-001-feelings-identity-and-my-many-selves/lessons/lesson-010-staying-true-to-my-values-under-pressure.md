@@ -129,16 +129,15 @@ enough to remember what you stand for, then choosing the act you can stand behin
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **agency, not
-willpower shaming**: everyone feels pressure, and the skill is *pausing to choose*, not
-*never feeling tempted*. Never frame a learner as "weak" for feeling peer pressure —
-that is a normal, human pull, and this lesson makes it *nameable and manageable*, not
-shameful. Connect the three pressures to earlier lessons: a pressure often *triggers* a
-pattern (Lesson 2), and the *feeling behind* it can differ from what is shown (Lessons
-3–4). Reflect on the Lesson 9 goal with a mastery frame — progress, not verdict. The
-egalitarian lens asks: whose values win under group pressure, and is that fair? Keep the
-discussion open and non-dogmatic; a learner's values are their own. See `docs/facilitation.md`
-and `docs/philosophy.md` §11–12.
+The idea to land is **agency, not willpower shaming**: everyone feels pressure, and the
+skill is *pausing to choose*, not *never feeling tempted*. Never frame a learner as
+"weak" for feeling peer pressure — that is a normal, human pull, and this lesson makes
+it *nameable and manageable*, not shameful. Connect the three pressures to earlier
+lessons: a pressure often *triggers* a pattern (Lesson 2), and the *feeling behind* it
+can differ from what is shown (Lessons 3–4). Reflect on the Lesson 9 goal with a mastery
+frame — progress, not verdict. The egalitarian lens asks: whose values win under group
+pressure, and is that fair? Keep the discussion open and non-dogmatic; a learner's
+values are their own. See `docs/facilitation.md` and `docs/philosophy.md` §11–12.
 
 ## Procedure
 

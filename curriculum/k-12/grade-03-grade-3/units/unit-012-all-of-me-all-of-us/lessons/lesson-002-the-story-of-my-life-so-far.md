@@ -116,19 +116,18 @@ far, in order.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It spirals up from Grade 2's work on
-alike/different and strengths, now into **a coherent story of one whole life**. Two
-commitments carry it: **every family and home shape is honored**, and **the story has
-no "right" length or shape**. A learner's important people may be parents, one parent,
-grandparents, extended kin, guardians, foster or group care, a neighbor, or a trusted
-adult — all belong in a life story. A learner who was adopted, or who has moved homes,
-or who has lost someone, may need the story held gently: invite, never demand, and let
-them choose what to include. Honor a learner's *own* home-word for a person (abuela,
-bà, bibi, auntie) and their own place-names. For a learner who is blind or has low
-vision, tell the story by voice and touch — objects in order — rather than pictures.
-For a learner who does not use a speaking voice, accept drawing, pointing, signing, or
-a partner voicing the story. The point is a story that is *theirs*, in order, told in
-their own way.
+It spirals up from Grade 2's work on alike/different and strengths, now into **a
+coherent story of one whole life**. Two commitments carry it: **every family and home
+shape is honored**, and **the story has no "right" length or shape**. A learner's
+important people may be parents, one parent, grandparents, extended kin, guardians,
+foster or group care, a neighbor, or a trusted adult — all belong in a life story. A
+learner who was adopted, or who has moved homes, or who has lost someone, may need the
+story held gently: invite, never demand, and let them choose what to include. Honor a
+learner's *own* home-word for a person (abuela, bà, bibi, auntie) and their own
+place-names. For a learner who is blind or has low vision, tell the story by voice and
+touch — objects in order — rather than pictures. For a learner who does not use a
+speaking voice, accept drawing, pointing, signing, or a partner voicing the story. The
+point is a story that is *theirs*, in order, told in their own way.
 
 ## Procedure
 

@@ -121,21 +121,20 @@ we see that a root and a power are really one idea from two sides.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a root undoes a
-power, and a rational exponent like a^(1/n) or a^(m/n) shows that a root is just a
-fractional power — one operation, not two.** Teach the conversion with worked
-examples (S-011), then let learners practice. The historical note belongs to the
-**global** lens: the diagonal of a unit square was studied in many places — the
-Babylonian tablet YBC 7289 (c. 1800–1600 BCE) carries a sexagesimal approximation of
-√2 good to about six decimal places (S-430), and as legend tells it the irrationality
-of √2 was discovered in the Pythagorean circle (traditionally attributed to Hippasus,
-5th century BCE) (S-353). Teach the *proved fact* (√2 is irrational) and the *legend*
-(priority) as distinct. The **intellectual** lens: reasoning by contradiction — assume
-√2 = a/b, then show it breaks — is a reusable tool. The **critical-thinking** lens:
-"the decimals never end" is not the same as "irrational"; the proof is the reason.
-The **egalitarian** lens: these numbers are shared human discoveries, not the property
-of one culture — India, Mesopotamia, and Greece each contributed (S-240). Preview:
-Lesson 3 uses roots to *solve* growth and decay problems.
+The idea to land: **a root undoes a power, and a rational exponent like a^(1/n) or
+a^(m/n) shows that a root is just a fractional power — one operation, not two.** Teach
+the conversion with worked examples (S-011), then let learners practice. The historical
+note belongs to the **global** lens: the diagonal of a unit square was studied in many
+places — the Babylonian tablet YBC 7289 (c. 1800–1600 BCE) carries a sexagesimal
+approximation of √2 good to about six decimal places (S-430), and as legend tells it the
+irrationality of √2 was discovered in the Pythagorean circle (traditionally attributed
+to Hippasus, 5th century BCE) (S-353). Teach the *proved fact* (√2 is irrational) and
+the *legend* (priority) as distinct. The **intellectual** lens: reasoning by
+contradiction — assume √2 = a/b, then show it breaks — is a reusable tool. The
+**critical-thinking** lens: "the decimals never end" is not the same as "irrational";
+the proof is the reason. The **egalitarian** lens: these numbers are shared human
+discoveries, not the property of one culture — India, Mesopotamia, and Greece each
+contributed (S-240). Preview: Lesson 3 uses roots to *solve* growth and decay problems.
 
 ## Procedure
 

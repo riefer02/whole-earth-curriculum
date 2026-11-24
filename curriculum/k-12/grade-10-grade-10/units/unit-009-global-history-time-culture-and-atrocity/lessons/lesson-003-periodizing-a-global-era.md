@@ -109,23 +109,22 @@ not an answer you find.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **periodization is a
-claim about where the most important changes fall, and it is defended with evidence
-and by answering a counterclaim — there is no single "correct" dividing line.** This
-is a foundational skill, so teach it with an explicit worked example and guided
-practice before independent argument (S-011).
+The idea to land: **periodization is a claim about where the most important changes
+fall, and it is defended with evidence and by answering a counterclaim — there is no
+single "correct" dividing line.** This is a foundational skill, so teach it with an
+explicit worked example and guided practice before independent argument (S-011).
 
 The **critical-thinking** lens is the spine: a turning point is a *judgment about
-significance*, so two defensible periodizations can disagree. The **global** lens:
-the worked example divides a *global* era (roughly 1450–1800), so a turning point
-must matter across regions — the Columbian Exchange that joined the hemispheres and
-began colonizing the Americas (S-273, S-326) is a strong candidate, but so is the
-later industrial take-off, and a learner may defend a different one. The
-**egalitarian** lens: *whose* turning point counts? A line that marks "discovery" for
-one people marks invasion for another — ask learners to name for whom the turning
-point turned. The **ethics** lens: dividing the past is never neutral; it is a choice
-about what matters, so say what you are counting as significant. Preview: Lesson 4
-moves to the ethics of how knowledge and culture move between peoples.
+significance*, so two defensible periodizations can disagree. The **global** lens: the
+worked example divides a *global* era (roughly 1450–1800), so a turning point must
+matter across regions — the Columbian Exchange that joined the hemispheres and began
+colonizing the Americas (S-273, S-326) is a strong candidate, but so is the later
+industrial take-off, and a learner may defend a different one. The **egalitarian** lens:
+*whose* turning point counts? A line that marks "discovery" for one people marks
+invasion for another — ask learners to name for whom the turning point turned. The
+**ethics** lens: dividing the past is never neutral; it is a choice about what matters,
+so say what you are counting as significant. Preview: Lesson 4 moves to the ethics of
+how knowledge and culture move between peoples.
 
 ## Procedure
 

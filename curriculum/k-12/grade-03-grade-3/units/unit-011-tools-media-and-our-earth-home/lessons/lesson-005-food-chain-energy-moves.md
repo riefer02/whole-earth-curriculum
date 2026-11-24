@@ -119,20 +119,20 @@ the **arrows** show which way the energy is moving.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is the Grade 3 upgrade of Grade 2's
-"energy from eating": now learners **build or draw** the chain themselves and are explicit
-about **the direction the energy moves**, shown by the arrow. The arrow is the key new idea
-and the place beginners make mistakes — it points *from the eaten to the eater* (from grass
-to rabbit, from rabbit to fox), the direction the energy travels. Model the arrow once,
-then guide practice before learners build their own (Kirschner, Sweller & Clark, 2006).
-Keep it **concrete and gentle**: energy is what lets a body move, grow, and live; a food
-chain is a *story* of energy moving, not a scary story of eating — say "the fox gets energy
-from the rabbit," not gory detail. Offer chains from many biomes — grass → rabbit → fox;
-sea plants → fish → shark; grass → zebra → lion — so no single place is the default. A
-light ethical thread: every living thing takes energy to live, and all of it belongs to one
-connected living world (this returns in Lessons 6 and 9). Honor every body: describe each
-card in words for a learner who is blind or has low vision; a non-speaking learner places
-the cards in order and points the arrow to show the direction energy moves; acting out each
+This is the Grade 3 upgrade of Grade 2's "energy from eating": now learners **build or
+draw** the chain themselves and are explicit about **the direction the energy moves**,
+shown by the arrow. The arrow is the key new idea and the place beginners make
+mistakes — it points *from the eaten to the eater* (from grass to rabbit, from rabbit to
+fox), the direction the energy travels. Model the arrow once, then guide practice before
+learners build their own (Kirschner, Sweller & Clark, 2006). Keep it **concrete and
+gentle**: energy is what lets a body move, grow, and live; a food chain is a *story* of
+energy moving, not a scary story of eating — say "the fox gets energy from the rabbit,"
+not gory detail. Offer chains from many biomes — grass → rabbit → fox; sea plants → fish
+→ shark; grass → zebra → lion — so no single place is the default. A light ethical
+thread: every living thing takes energy to live, and all of it belongs to one connected
+living world (this returns in Lessons 6 and 9). Honor every body: describe each card in
+words for a learner who is blind or has low vision; a non-speaking learner places the
+cards in order and points the arrow to show the direction energy moves; acting out each
 part works for learners who learn best by moving.
 
 ## Procedure

@@ -112,18 +112,16 @@ staying steady.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the lines and cards, then model each pose and the
-tightrope walk slowly before learners try (explicit modeling, then guided practice).
-This continues the movement strand from Lesson 7's rhythm — now balance joins it, and
-the two come together in the capstone. The factual idea here — that balance uses a
-sense in the inner ear working with muscles and eyes — is well established (see
-Resources). Honor every body: balance can be practiced seated (holding a steady,
-upright core and lifting arms or a leg), with wheels, or with a hand lightly touching
-a wall or a partner's shoulder for support — and every version counts fully. Never
-pressure a learner to balance without support; staying safe is the first skill. Keep
-it joyful and non-competitive: falling or wobbling is how balance grows, and it is
-never a failure.
+Prepare the lines and cards, then model each pose and the tightrope walk slowly before
+learners try (explicit modeling, then guided practice). This continues the movement
+strand from Lesson 7's rhythm — now balance joins it, and the two come together in the
+capstone. The factual idea here — that balance uses a sense in the inner ear working
+with muscles and eyes — is well established (see Resources). Honor every body: balance
+can be practiced seated (holding a steady, upright core and lifting arms or a leg), with
+wheels, or with a hand lightly touching a wall or a partner's shoulder for support — and
+every version counts fully. Never pressure a learner to balance without support; staying
+safe is the first skill. Keep it joyful and non-competitive: falling or wobbling is how
+balance grows, and it is never a failure.
 
 ## Procedure
 

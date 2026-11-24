@@ -116,11 +116,10 @@ a bigger one that belongs to everyone.
 
 ## Facilitator note
 
-Written to the learner ("you") so it works in a classroom and for a self-directed
-learner. This is the unit's capstone: a chance for each child to author their own
-small piece of history. Keep all four boxes optional in depth — a word or a drawing
-counts. Never force disclosure of family details; a child may draw a place as "home"
-without naming it. Celebrate each page as a real contribution to the class story.
+This is the unit's capstone: a chance for each child to author their own small piece of
+history. Keep all four boxes optional in depth — a word or a drawing counts. Never force
+disclosure of family details; a child may draw a place as "home" without naming it.
+Celebrate each page as a real contribution to the class story.
 
 ## Procedure
 

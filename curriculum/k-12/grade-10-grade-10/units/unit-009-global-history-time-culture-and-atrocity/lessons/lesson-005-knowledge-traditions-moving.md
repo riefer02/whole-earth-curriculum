@@ -108,24 +108,23 @@ exchange and the quiet erasure that can ride with it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **knowledge moves
-through trade, translation, and apprenticeship — and while exchange enriches
-everyone, the record has often named the receiver and not the maker, which is a
-question of credit and power, not of accuracy.** Teach the three journeys as worked
-examples before learners weigh credit on their own (S-011).
+The idea to land: **knowledge moves through trade, translation, and apprenticeship — and
+while exchange enriches everyone, the record has often named the receiver and not the
+maker, which is a question of credit and power, not of accuracy.** Teach the three
+journeys as worked examples before learners weigh credit on their own (S-011).
 
-The **global** lens is the spine: paper was invented in China and refined around
-105 CE, carried along the Silk Roads through Central Asia to Baghdad's paper mills
-and into Europe by the 1100s (S-264); the decimal place-value system and zero were
-developed in India and transmitted through Arabic/Islamic scholars to Europe,
-changing calculation everywhere (S-272, S-023); and Timbuktu under Songhai rule
-(1464–1591) kept a great manuscript tradition of astronomy, mathematics, medicine,
-and law, preserved by families for centuries (S-268, S-201). The **ethics** and
-**egalitarian** lenses: ask learners *who is named* in each story — too often the
-last receiver, not the first maker — and what that erasure costs. The **technology**
-lens: paper and the decimal system are *technologies of knowledge* whose spread
-remade what people could record and compute. Preview: Lesson 6 turns to how global
-trade and technology transform cultural *traditions* today.
+The **global** lens is the spine: paper was invented in China and refined around 105 CE,
+carried along the Silk Roads through Central Asia to Baghdad's paper mills and into
+Europe by the 1100s (S-264); the decimal place-value system and zero were developed in
+India and transmitted through Arabic/Islamic scholars to Europe, changing calculation
+everywhere (S-272, S-023); and Timbuktu under Songhai rule (1464–1591) kept a great
+manuscript tradition of astronomy, mathematics, medicine, and law, preserved by families
+for centuries (S-268, S-201). The **ethics** and **egalitarian** lenses: ask learners
+*who is named* in each story — too often the last receiver, not the first maker — and
+what that erasure costs. The **technology** lens: paper and the decimal system are
+*technologies of knowledge* whose spread remade what people could record and compute.
+Preview: Lesson 6 turns to how global trade and technology transform cultural
+*traditions* today.
 
 ## Procedure
 

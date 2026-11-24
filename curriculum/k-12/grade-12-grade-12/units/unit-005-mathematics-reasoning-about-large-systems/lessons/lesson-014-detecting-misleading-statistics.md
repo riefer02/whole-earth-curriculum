@@ -117,28 +117,29 @@ target of misleading numbers into someone who can set the record straight.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **misleading statistics
-work through concrete tricks — a truncated axis, cherry-picked years, a spurious correlation
-(correlation ≠ causation), p-hacking, and algorithmic bias — and each has an honest
-counterpart: show the full axis, show all the data, state the third variable, and defend a
-conclusion with the whole dataset.** Teach the truncated-axis example explicitly (S-011),
-then let learners redraw and *argue* — the defense is the learning. Keep evidence and value
-distinct: the same honest chart can support different value judgments; honesty is about the
-data, not about winning the argument.
+The idea to land: **misleading statistics work through concrete tricks — a truncated
+axis, cherry-picked years, a spurious correlation (correlation ≠ causation), p-hacking,
+and algorithmic bias — and each has an honest counterpart: show the full axis, show all
+the data, state the third variable, and defend a conclusion with the whole dataset.**
+Teach the truncated-axis example explicitly (S-011), then let learners redraw and
+*argue* — the defense is the learning. Keep evidence and value distinct: the same honest
+chart can support different value judgments; honesty is about the data, not about
+winning the argument.
 
 The **ethics** lens: a chart that exaggerates a small effect is a lie of presentation —
-honesty is a choice made axis by axis. The **egalitarianism** lens: ask *who benefits when a
-number misleads* — misleading statistics are often aimed at the people with the least power
-to check them. The **global** lens: honest data visualization has a proud, worldwide lineage —
-W. E. B. Du Bois and his collaborators hand-drew charts for the 1900 Paris Exposition to
-show the real condition of Black Americans against racist claims (S-432), and Florence
-Nightingale used her "coxcomb" charts to argue for hospital reform (S-433). The
-**technology** lens: algorithmic ranking can bias what we see before any chart is drawn, so
-critique must start upstream of the pixels (S-481). The **environment** lens: climate and
-energy arguments are exactly where truncated axes and cherry-picked years are used to delay
-or deny — honest axes matter for the living Earth (S-005). The **critical-thinking** lens:
-correlation is not causation, and a spurious pair must be named, not believed (S-307).
-Preview: this closes the unit; gather the portfolio artifacts into a capstone.
+honesty is a choice made axis by axis. The **egalitarianism** lens: ask *who benefits
+when a number misleads* — misleading statistics are often aimed at the people with the
+least power to check them. The **global** lens: honest data visualization has a proud,
+worldwide lineage — W. E. B. Du Bois and his collaborators hand-drew charts for the 1900
+Paris Exposition to show the real condition of Black Americans against racist claims
+(S-432), and Florence Nightingale used her "coxcomb" charts to argue for hospital reform
+(S-433). The **technology** lens: algorithmic ranking can bias what we see before any
+chart is drawn, so critique must start upstream of the pixels (S-481). The
+**environment** lens: climate and energy arguments are exactly where truncated axes and
+cherry-picked years are used to delay or deny — honest axes matter for the living Earth
+(S-005). The **critical-thinking** lens: correlation is not causation, and a spurious
+pair must be named, not believed (S-307). Preview: this closes the unit; gather the
+portfolio artifacts into a capstone.
 
 ## Procedure
 

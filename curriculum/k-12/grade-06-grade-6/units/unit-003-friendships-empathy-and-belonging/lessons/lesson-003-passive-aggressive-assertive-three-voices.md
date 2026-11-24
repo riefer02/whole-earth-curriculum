@@ -117,23 +117,22 @@ share space — a schoolroom, a market stall, a shared kitchen.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **assertion is the
-voice that holds both people's dignity** — it states the need without trampling others
-(aggression) or erasing yourself (passivity). Model each voice with tone and body, not just
-words; the body carries the meaning and many learners read it faster than text. Be careful
-not to mock the passive or aggressive voices or the people who use them — everyone uses all
-three sometimes, and each voice is a *choice*, not a *character*. A note for global
-classrooms: the three-voices model comes from a Western, individually-spoken tradition, and
-what counts as *respectful* differs across cultures. In many cultures — across East Asia, much
-of Africa, Indigenous communities, and elsewhere — indirect speech, quietness, deference to
+The idea to land is that **assertion is the voice that holds both people's dignity** —
+it states the need without trampling others (aggression) or erasing yourself
+(passivity). Model each voice with tone and body, not just words; the body carries the
+meaning and many learners read it faster than text. Be careful not to mock the passive
+or aggressive voices or the people who use them — everyone uses all three sometimes, and
+each voice is a *choice*, not a *character*. A note for global classrooms: the
+three-voices model comes from a Western, individually-spoken tradition, and what counts
+as *respectful* differs across cultures. In many cultures — across East Asia, much of
+Africa, Indigenous communities, and elsewhere — indirect speech, quietness, deference to
 elders, and saving face are the respectful ways to keep a relationship, and they are not
-"passivity." Teach the three voices as a way to notice whether each person's needs get honored
-*within* a relationship, never as a ranking of any culture's way of speaking as better or
-worse. This is a foundational
-skill, so use explicit instruction with worked examples before independent sorting
-(Kirschner, Sweller & Clark, 2006). The egalitarian lens: assertion treats the other person
-as an equal whose needs count; aggression and passivity both fail that test. See
-`docs/facilitation.md`.
+"passivity." Teach the three voices as a way to notice whether each person's needs get
+honored *within* a relationship, never as a ranking of any culture's way of speaking as
+better or worse. This is a foundational skill, so use explicit instruction with worked
+examples before independent sorting (Kirschner, Sweller & Clark, 2006). The egalitarian
+lens: assertion treats the other person as an equal whose needs count; aggression and
+passivity both fail that test. See `docs/facilitation.md`.
 
 ## Procedure
 

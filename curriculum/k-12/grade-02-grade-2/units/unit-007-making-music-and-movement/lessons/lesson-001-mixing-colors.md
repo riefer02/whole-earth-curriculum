@@ -118,18 +118,16 @@ new color in a picture.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Mixing is a **skill**, so model it once — "watch: red and
-yellow make orange" — before learners try on their own (Kirschner, Sweller & Clark,
-2006). There is no wrong new color; a muddy brown is a real discovery, not a mistake.
-Name the colors learners make without judging them ("you made a warm orange!"). A
-learner who is blind or has low vision mixes by **feel and temperature and smell**:
-they feel the two blobs merge, and a partner or grown-up names the new color; they
-can still choose the picture's subject and feel the wet paint with a finger. A
-learner who does not speak names the new color by pointing to a color swatch or a
-matching object. A learner with limited fine motor mixes with a bigger brush, a
-sponge, or by directing a partner who does the brushwork — deciding the mix is
-mixing.
+Mixing is a **skill**, so model it once — "watch: red and yellow make orange" — before
+learners try on their own (Kirschner, Sweller & Clark, 2006). There is no wrong new
+color; a muddy brown is a real discovery, not a mistake. Name the colors learners make
+without judging them ("you made a warm orange!"). A learner who is blind or has low
+vision mixes by **feel and temperature and smell**: they feel the two blobs merge, and a
+partner or grown-up names the new color; they can still choose the picture's subject and
+feel the wet paint with a finger. A learner who does not speak names the new color by
+pointing to a color swatch or a matching object. A learner with limited fine motor mixes
+with a bigger brush, a sponge, or by directing a partner who does the brushwork —
+deciding the mix is mixing.
 
 ## Procedure
 

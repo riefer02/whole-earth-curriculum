@@ -115,26 +115,25 @@ at what people kept alive against it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) colonization
-is one people taking and ruling another's land and life; from the late 1400s onward,
-European powers colonized much of the Americas, Africa, Asia, and Oceania; (2) its
-effects include loss of land (dispossession of Indigenous peoples), loss of culture
-(languages and practices suppressed; in some places children were taken to distant
-boarding or residential schools where their languages were punished), and loss of
-self-rule (foreign governments and borders imposed, often ignoring existing peoples);
-(3) accuracy and care: we name these losses plainly but without gratuitous detail, and
-we always pair them with continuity — peoples kept their languages, stories, and
-resistance alive, and continue to.** These are documented facts (see Encyclopaedia
-Britannica, "colonialism"; UNESCO and Indigenous organizations document language loss
-and revitalization). Teach with care (`docs/facilitation.md`): name feelings before
-facts, keep detail non-graphic, and end in dignity and agency, never despair. The
-ethics lens: colonization was an injustice — the lesson's moral clarity is honest, not
-preachy. The egalitarian lens: telling this from the perspective of colonized peoples,
-not the colonizers, is the whole point — history from many sides, never one people's
-triumph. The global lens: colonization touched every inhabited continent; the examples
-are deliberately not one nation's story. The critical-thinking lens: question whose
-voice the history books use — "exploration" and "settlement" are words that can hide
-what colonized peoples called invasion.
+The ideas to land: **(1) colonization is one people taking and ruling another's land and
+life; from the late 1400s onward, European powers colonized much of the Americas,
+Africa, Asia, and Oceania; (2) its effects include loss of land (dispossession of
+Indigenous peoples), loss of culture (languages and practices suppressed; in some places
+children were taken to distant boarding or residential schools where their languages
+were punished), and loss of self-rule (foreign governments and borders imposed, often
+ignoring existing peoples); (3) accuracy and care: we name these losses plainly but
+without gratuitous detail, and we always pair them with continuity — peoples kept their
+languages, stories, and resistance alive, and continue to.** These are documented facts
+(see Encyclopaedia Britannica, "colonialism"; UNESCO and Indigenous organizations
+document language loss and revitalization). Teach with care (`docs/facilitation.md`):
+name feelings before facts, keep detail non-graphic, and end in dignity and agency,
+never despair. The ethics lens: colonization was an injustice — the lesson's moral
+clarity is honest, not preachy. The egalitarian lens: telling this from the perspective
+of colonized peoples, not the colonizers, is the whole point — history from many sides,
+never one people's triumph. The global lens: colonization touched every inhabited
+continent; the examples are deliberately not one nation's story. The critical-thinking
+lens: question whose voice the history books use — "exploration" and "settlement" are
+words that can hide what colonized peoples called invasion.
 
 ## Procedure
 

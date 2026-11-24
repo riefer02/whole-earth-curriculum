@@ -113,28 +113,29 @@ physics is not magic; it is a set of specific choices, and you can propose one.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a just and sustainable
-physics is honest about physical limits — the second law means no free energy, and every
-material has an embodied cost — and then makes concrete, checkable choices: efficiency and
-renewables, a circular economy, and a just transition.** Teach the proposal structure
-explicitly, then let learners write (S-011). Keep the distinction live: *that* no process is
-perfectly efficient and *that* extraction harms communities are factual, cited claims
-(S-256, S-398); *that* we should share the benefits fairly is a value we state openly, not a
-conclusion physics can reach by itself.
+The idea to land: **a just and sustainable physics is honest about physical limits — the
+second law means no free energy, and every material has an embodied cost — and then
+makes concrete, checkable choices: efficiency and renewables, a circular economy, and a
+just transition.** Teach the proposal structure explicitly, then let learners write
+(S-011). Keep the distinction live: *that* no process is perfectly efficient and *that*
+extraction harms communities are factual, cited claims (S-256, S-398); *that* we should
+share the benefits fairly is a value we state openly, not a conclusion physics can reach
+by itself.
 
-The **ethics** lens: the proposal is ethics made operational — naming the constraint, the
-change, and the measure is what turns "we should do better" into something checkable. The
-**egalitarianism** lens: "who is newly included?" is the egalitarian test — a transition that
-leaves the same people bearing the cost has not been just, however green it is painted
-(S-483). The **global** lens: the just transition is a global conversation — the countries
-that emitted least often bear the worst climate costs, so justice is not a local afterthought
-but the design problem (S-006, S-005); the circular economy is a worldwide movement
-(S-452). The **technology** lens: technology is the lever — efficiency, renewables, and
-circular design are physical technologies that *reduce* the trade-off rather than choosing a
-side (S-095, S-452). The **environment** lens: the second law and embodied energy are the
-environment's own arithmetic — waste heat and waste material are not sloppiness but the laws
-of thermodynamics, so the design problem is to work *with* them (S-256, S-397). Preview:
-Lesson 13 turns to the cosmos — cosmological models and geological evidence.
+The **ethics** lens: the proposal is ethics made operational — naming the constraint,
+the change, and the measure is what turns "we should do better" into something
+checkable. The **egalitarianism** lens: "who is newly included?" is the egalitarian
+test — a transition that leaves the same people bearing the cost has not been just,
+however green it is painted (S-483). The **global** lens: the just transition is a
+global conversation — the countries that emitted least often bear the worst climate
+costs, so justice is not a local afterthought but the design problem (S-006, S-005); the
+circular economy is a worldwide movement (S-452). The **technology** lens: technology is
+the lever — efficiency, renewables, and circular design are physical technologies that
+*reduce* the trade-off rather than choosing a side (S-095, S-452). The **environment**
+lens: the second law and embodied energy are the environment's own arithmetic — waste
+heat and waste material are not sloppiness but the laws of thermodynamics, so the design
+problem is to work *with* them (S-256, S-397). Preview: Lesson 13 turns to the cosmos —
+cosmological models and geological evidence.
 
 ## Procedure
 

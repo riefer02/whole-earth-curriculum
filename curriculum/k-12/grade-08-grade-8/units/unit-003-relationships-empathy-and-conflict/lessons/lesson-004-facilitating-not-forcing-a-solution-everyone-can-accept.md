@@ -117,30 +117,32 @@ finds it. Today you learn that skill.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) to facilitate is to guide a
-process, not to impose a solution — the facilitator stays neutral and the group owns the outcome;
-(2) the four steps are: set the ground, hear every side, name needs and interests (not just
-positions), and build a solution all can accept; (3) a solution "all can accept" is not "everyone
-got everything" — it is one nobody is left unable to live with.** The step shape follows
-restorative and mediation practice (IIRP, S-022) and the needs-language of Nonviolent Communication
-(Rosenberg, S-148); model once as a worked example (S-011). **Safety: use only invented, low-stakes
-  conflicts; never stage a real fight, and never force a learner to disclose a real dispute.**
-  **Accessibility:** the talking piece passes to *however each person communicates* — speech, sign,
-  writing, a device, or a gesture — and a facilitator may paraphrase by any of those modes; being
-  heard does not require a speaking voice, and the circle and passed object already support learners
-  who are deaf, non-speaking, or low vision (the turn is visible and tactile, not only audible). The
-  ethics lens: the point is fairness, not victory — a facilitator cares that the process is just, not
-that their own side wins. The egalitarian lens: a circle and a talking piece give the quieter and
-less powerful a turn, so the loudest does not decide; this is the heart of the method. The global &
-anthropological lens: the circle and talking piece have deep roots in Indigenous and community
-traditions of peacemaking — among them Māori and First Nations circle practice and Ubuntu-rooted
-reconciliation — and mediation appears across cultures in many forms; the four steps are one modern
-expression held side by side, not above, those older ways (S-022). The technology & environment
-lens: facilitation also works when the group is partly on a screen — the same steps (hear every
-side, name needs, build agreement) apply, with extra care for the missing cues from Lesson 3. The
-critical-thinking lens: a facilitator distinguishes a *position* ("I want the front seat") from the
-*need* behind it ("I get carsick in back") — the solution usually lives in the needs, not the
-positions.
+The ideas to land: **(1) to facilitate is to guide a process, not to impose a solution —
+the facilitator stays neutral and the group owns the outcome; (2) the four steps are:
+set the ground, hear every side, name needs and interests (not just positions), and
+build a solution all can accept; (3) a solution "all can accept" is not "everyone got
+everything" — it is one nobody is left unable to live with.** The step shape follows
+restorative and mediation practice (IIRP, S-022) and the needs-language of Nonviolent
+Communication (Rosenberg, S-148); model once as a worked example (S-011). **Safety: use
+only invented, low-stakes conflicts; never stage a real fight, and never force a learner
+to disclose a real dispute.** **Accessibility:** the talking piece passes to *however
+each person communicates* — speech, sign, writing, a device, or a gesture — and a
+facilitator may paraphrase by any of those modes; being heard does not require a
+speaking voice, and the circle and passed object already support learners who are deaf,
+non-speaking, or low vision (the turn is visible and tactile, not only audible). The
+ethics lens: the point is fairness, not victory — a facilitator cares that the process
+is just, not that their own side wins. The egalitarian lens: a circle and a talking
+piece give the quieter and less powerful a turn, so the loudest does not decide; this is
+the heart of the method. The global & anthropological lens: the circle and talking piece
+have deep roots in Indigenous and community traditions of peacemaking — among them Māori
+and First Nations circle practice and Ubuntu-rooted reconciliation — and mediation
+appears across cultures in many forms; the four steps are one modern expression held
+side by side, not above, those older ways (S-022). The technology & environment lens:
+facilitation also works when the group is partly on a screen — the same steps (hear
+every side, name needs, build agreement) apply, with extra care for the missing cues
+from Lesson 3. The critical-thinking lens: a facilitator distinguishes a *position* ("I
+want the front seat") from the *need* behind it ("I get carsick in back") — the solution
+usually lives in the needs, not the positions.
 
 ## Procedure
 

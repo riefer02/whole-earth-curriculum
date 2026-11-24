@@ -124,13 +124,13 @@ while everything else about the delivery adapts.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description**:
-public speech is a *craft* — word choice, tone, and delivery are analyzed and practiced
-— and one ancient tradition named three appeals (ethos, pathos, logos) as the means of
-persuasion (Aristotle, S-346). Hold that tradition as **one among many**: other cultures
-have their own arts of public speaking, and no single one is the default. The lesson's
-three commitments — clarity, care, integrity — are **values**, not facts; the craft of
-register-shifting is a describable skill.
+The idea to land, held as **description**: public speech is a *craft* — word choice,
+tone, and delivery are analyzed and practiced — and one ancient tradition named three
+appeals (ethos, pathos, logos) as the means of persuasion (Aristotle, S-346). Hold that
+tradition as **one among many**: other cultures have their own arts of public speaking,
+and no single one is the default. The lesson's three commitments — clarity, care,
+integrity — are **values**, not facts; the craft of register-shifting is a describable
+skill.
 
 The **ethics** lens: integrity is the line between *adapting* a message and *distorting*
 it; care asks who is affected by what we say. The **egalitarianism** lens: public speech

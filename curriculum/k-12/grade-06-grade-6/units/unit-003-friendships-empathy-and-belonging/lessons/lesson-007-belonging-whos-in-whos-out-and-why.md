@@ -117,12 +117,12 @@ every community humans build, everywhere.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **exclusion is often
-quiet and unintentional** — habits, unspoken rules, and unnoticed absence — and that the first
-step to inclusion is *noticing and asking why*. Use **invented scenarios**, never real
-classmates, so no learner is named as the excluder or the excluded. This lesson is the
-egalitarian heart of the unit: every person has an equal claim to belonging, and barriers are
-usually built by *systems of habit*, not by "bad people." Hold both truths — exclusion hurts,
+The idea to land is that **exclusion is often quiet and unintentional** — habits,
+unspoken rules, and unnoticed absence — and that the first step to inclusion is
+*noticing and asking why*. Use **invented scenarios**, never real classmates, so no
+learner is named as the excluder or the excluded. This lesson is the egalitarian heart
+of the unit: every person has an equal claim to belonging, and barriers are usually
+built by *systems of habit*, not by "bad people." Hold both truths — exclusion hurts,
 and it is usually not intended — so the analysis stays curious rather than blaming. If a
 learner raises a real, painful exclusion, hold it privately and gently. See
 `docs/facilitation.md` on holding difficult topics safely.

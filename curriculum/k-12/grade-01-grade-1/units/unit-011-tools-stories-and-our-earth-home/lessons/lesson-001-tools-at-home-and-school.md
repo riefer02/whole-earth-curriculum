@@ -112,18 +112,17 @@ and learn.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, keep the message gentle
-and true: tools are wonderful helpers, but they are not magic and they are not better
-just because they are new. Honor every tool equally — a mortar and pestle is just as
-much a tool as a phone, and a home's cooking pot matters just as much as a school's
-chalk. Avoid presenting any one tool as the "real" or "modern" one. Honor the tools of
-the learners' own homes, whatever they are, and never rank one home's or one place's
-tools above another's. Honor every body: name and sort can be done by voice, sign,
-touch, gesture, or a partner's hands, and each way counts equally. Supervise any
-handling of tools so everyone stays safe. For a learner who is blind or has low vision,
-let them hold and feel each tool and name it by shape and weight; a learner who does not
-use a speaking voice can point, gesture, or place the card in the correct tray instead
-of saying the answer aloud.
+As facilitator, keep the message gentle and true: tools are wonderful helpers, but they
+are not magic and they are not better just because they are new. Honor every tool
+equally — a mortar and pestle is just as much a tool as a phone, and a home's cooking
+pot matters just as much as a school's chalk. Avoid presenting any one tool as the
+"real" or "modern" one. Honor the tools of the learners' own homes, whatever they are,
+and never rank one home's or one place's tools above another's. Honor every body: name
+and sort can be done by voice, sign, touch, gesture, or a partner's hands, and each way
+counts equally. Supervise any handling of tools so everyone stays safe. For a learner
+who is blind or has low vision, let them hold and feel each tool and name it by shape
+and weight; a learner who does not use a speaking voice can point, gesture, or place the
+card in the correct tray instead of saying the answer aloud.
 
 ## Procedure
 

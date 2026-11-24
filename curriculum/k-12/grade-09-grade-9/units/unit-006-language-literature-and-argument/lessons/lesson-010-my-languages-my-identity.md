@@ -115,28 +115,32 @@ languages that made you, and you hear two writers who thought hard about their o
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a person's languages are part of their
-identity — each language carries memories, relationships, and ways of seeing, and a learner's own experience
-(even monolingual) is worth naming and reflecting on.** The two passages: **Ngũgĩ wa Thiong'o** (Kenya), in
-*Decolonising the Mind* (1986), describes how being made to use English instead of Gikuyu distanced him from
-his home world, and argues that language carries a people's culture and history (S-424); **Gloria Anzaldúa**
-(Chicana, US–Mexico borderlands), in "How to Tame a Wild Tongue" (*Borderlands/La Frontera*, 1987), writes of
-living in the between — Chicano Spanish, English, Nahuatl — and of being shamed for her tongue until she
-learned that her languages are her (S-425). Hold these as *invitations to reflection*, not as dogma: a
-learner who is monolingual has a real and worthy experience to reflect on too, and no learner's language
-situation is a "deficit" (D04 rationale; philosophy §4). This is *concept and reflection*, so use inquiry and
-story, not only instruction. The global lens: multilingualism is widespread the world over — the human
-norm, not the exception — and UNESCO holds mother-tongue and multilingual education as a shared commitment
-(S-019). The egalitarian lens: some languages are
-treated as "important" and others as "lesser"; this lesson deliberately flips that — every learner's home
-language is honored first, and a language is never "better" than another. The ethics lens: shaming someone's
-way of speaking is an injustice; honoring it is a form of respect. The social-emotional lens: language is
-intimate — treat learners' reflections with care, and never require a learner to share more than they choose
-(facilitation.md). The technology & environment lens: translation tools and a shared digital map can help a
-learner see and connect their languages, but digital spaces also tilt toward dominant languages — and a
-language is tied to the place it names. Keep the passages short, faithful, and gently introduced; the
-excerpts touch on colonial
-and linguistic harm, so name feelings before facts and keep hope and agency in view (development.md 9–12).
+The idea to land: **a person's languages are part of their identity — each language
+carries memories, relationships, and ways of seeing, and a learner's own experience
+(even monolingual) is worth naming and reflecting on.** The two passages: **Ngũgĩ wa
+Thiong'o** (Kenya), in *Decolonising the Mind* (1986), describes how being made to use
+English instead of Gikuyu distanced him from his home world, and argues that language
+carries a people's culture and history (S-424); **Gloria Anzaldúa** (Chicana, US–Mexico
+borderlands), in "How to Tame a Wild Tongue" (*Borderlands/La Frontera*, 1987), writes
+of living in the between — Chicano Spanish, English, Nahuatl — and of being shamed for
+her tongue until she learned that her languages are her (S-425). Hold these as
+*invitations to reflection*, not as dogma: a learner who is monolingual has a real and
+worthy experience to reflect on too, and no learner's language situation is a "deficit"
+(D04 rationale; philosophy §4). This is *concept and reflection*, so use inquiry and
+story, not only instruction. The global lens: multilingualism is widespread the world
+over — the human norm, not the exception — and UNESCO holds mother-tongue and
+multilingual education as a shared commitment (S-019). The egalitarian lens: some
+languages are treated as "important" and others as "lesser"; this lesson deliberately
+flips that — every learner's home language is honored first, and a language is never
+"better" than another. The ethics lens: shaming someone's way of speaking is an
+injustice; honoring it is a form of respect. The social-emotional lens: language is
+intimate — treat learners' reflections with care, and never require a learner to share
+more than they choose (facilitation.md). The technology & environment lens: translation
+tools and a shared digital map can help a learner see and connect their languages, but
+digital spaces also tilt toward dominant languages — and a language is tied to the place
+it names. Keep the passages short, faithful, and gently introduced; the excerpts touch
+on colonial and linguistic harm, so name feelings before facts and keep hope and agency
+in view (development.md 9–12).
 
 ## Procedure
 

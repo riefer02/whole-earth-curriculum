@@ -117,14 +117,14 @@ mode — in a crew, a classroom, a market, or a village sharing a harvest.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **neither mode is
-good or bad in itself — each is a tool that helps or harms depending on the goal and the
-spirit**. The curriculum's stance (`docs/philosophy.md` §8) values cooperation as the default
-for learning, while honoring fair play as a real and joyful kind of competition. Avoid
-moralizing: don't cast competition as villain and cooperation as saint. Instead, ask the
-*functional* question — what is the goal, and which mode serves it and every member of the
-group? This is a concept with a strong worked-example need (Kirschner, Sweller & Clark,
-2006); model the choice explicitly. See `docs/facilitation.md`.
+The idea to land is that **neither mode is good or bad in itself — each is a tool that
+helps or harms depending on the goal and the spirit**. The curriculum's stance
+(`docs/philosophy.md` §8) values cooperation as the default for learning, while honoring
+fair play as a real and joyful kind of competition. Avoid moralizing: don't cast
+competition as villain and cooperation as saint. Instead, ask the *functional*
+question — what is the goal, and which mode serves it and every member of the group?
+This is a concept with a strong worked-example need (Kirschner, Sweller & Clark, 2006);
+model the choice explicitly. See `docs/facilitation.md`.
 
 ## Procedure
 

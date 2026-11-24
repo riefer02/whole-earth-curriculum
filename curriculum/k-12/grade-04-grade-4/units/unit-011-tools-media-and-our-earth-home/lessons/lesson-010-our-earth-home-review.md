@@ -150,19 +150,19 @@ skills — they are one way of being a person on this one, shared Earth home.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **culminating review** — retrieval
-practice and connection, not new content. The science of learning says recalling and organizing
-is what makes learning last (retrieval practice; spacing); this lesson does that deliberately.
-Guide the four-corner sort, then let learners recall one idea per corner and write a **"my
-steward plan"** — one real, doable action — so the unit ends in agency, not a test. Keep it
-**hope-full and global**: the steward plan should cost nothing and work anywhere (pick up litter
-safely, plant or water a seed, carry a reusable bag, mend something, check a claim before
-sharing it, tell others kindly). Emphasize that these habits are practiced by people everywhere,
-with or without wealth — stewardship is not a product to buy. Honor every body: a learner who is
-blind or has low vision recalls ideas by voice; a non-speaking learner points to artifacts and
-corners; standing in four spots works for learners who learn best by moving; a learner who
-struggles with recall is invited to pick up their own artifact as a memory cue rather than
-answer from memory alone.
+It is the unit's **culminating review** — retrieval practice and connection, not new
+content. The science of learning says recalling and organizing is what makes learning
+last (retrieval practice; spacing); this lesson does that deliberately. Guide the
+four-corner sort, then let learners recall one idea per corner and write a **"my steward
+plan"** — one real, doable action — so the unit ends in agency, not a test. Keep it
+**hope-full and global**: the steward plan should cost nothing and work anywhere (pick
+up litter safely, plant or water a seed, carry a reusable bag, mend something, check a
+claim before sharing it, tell others kindly). Emphasize that these habits are practiced
+by people everywhere, with or without wealth — stewardship is not a product to buy.
+Honor every body: a learner who is blind or has low vision recalls ideas by voice; a
+non-speaking learner points to artifacts and corners; standing in four spots works for
+learners who learn best by moving; a learner who struggles with recall is invited to
+pick up their own artifact as a memory cue rather than answer from memory alone.
 
 ## Procedure
 

@@ -115,26 +115,27 @@ games so every body is welcomed.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) fair play is a set of
-habits — follow the rules, play honestly, respect everyone (teammates, opponents, and the spirit of
-the game), and win or lose with grace; (2) inclusion is a practice — adapt the equipment, rules,
-roles, or pace so every ability can join; (3) it is the game that should bend to fit people, never
-people who must bend to fit the game.** Model one adaptation as a worked example, then let learners
-adapt and play (S-011). The UNESCO International Charter frames physical activity and sport as a
-fundamental right for all, to be practiced inclusively (S-342); hold it as a shared value we act
-on. **This is the unit's heart for egalitarianism — who gets welcomed and who gets left out. Never
-frame inclusion as "helping the less able"; frame it as fixing a game whose rules were never
-designed for everyone. No ranking, no elimination games, no using bodies as the measure of worth.**
-The ethics lens: fair play is right conduct — honesty and respect are chosen, every time. The
-egalitarian lens: a game is only fair if every body can play; ask "who is left out, and how do we
-change the game, not the person?" The global lens: games differ across the world — mancala-family
-counting games such as Ayo (West Africa) and Pallanguli (South India), Kabaddi (South Asia), sepak
-takraw (Southeast Asia), and countless others — and many traditional games already mix ages and
-abilities, welcoming players of different ages and bodies. The technology &
-environment lens: some games need expensive equipment or special fields, which quietly exclude;
-low-tech, adaptable play opens the door wider. The critical-thinking lens: "the rules leave someone
-out" is a claim you can check and fix; "that person isn't suited to games" is a false claim we
-refuse.
+The ideas to land: **(1) fair play is a set of habits — follow the rules, play honestly,
+respect everyone (teammates, opponents, and the spirit of the game), and win or lose
+with grace; (2) inclusion is a practice — adapt the equipment, rules, roles, or pace so
+every ability can join; (3) it is the game that should bend to fit people, never people
+who must bend to fit the game.** Model one adaptation as a worked example, then let
+learners adapt and play (S-011). The UNESCO International Charter frames physical
+activity and sport as a fundamental right for all, to be practiced inclusively (S-342);
+hold it as a shared value we act on. **This is the unit's heart for egalitarianism — who
+gets welcomed and who gets left out. Never frame inclusion as "helping the less able";
+frame it as fixing a game whose rules were never designed for everyone. No ranking, no
+elimination games, no using bodies as the measure of worth.** The ethics lens: fair play
+is right conduct — honesty and respect are chosen, every time. The egalitarian lens: a
+game is only fair if every body can play; ask "who is left out, and how do we change the
+game, not the person?" The global lens: games differ across the world — mancala-family
+counting games such as Ayo (West Africa) and Pallanguli (South India), Kabaddi (South
+Asia), sepak takraw (Southeast Asia), and countless others — and many traditional games
+already mix ages and abilities, welcoming players of different ages and bodies. The
+technology & environment lens: some games need expensive equipment or special fields,
+which quietly exclude; low-tech, adaptable play opens the door wider. The
+critical-thinking lens: "the rules leave someone out" is a claim you can check and fix;
+"that person isn't suited to games" is a false claim we refuse.
 
 ## Procedure
 

@@ -101,13 +101,12 @@ messages, you can take good care of yourself.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the cards and bell, then guide the body check and
-guessing game. Handle hunger and thirst with care: never assume what a learner has or
-has not eaten or drunk today, and never make a learner feel that noticing hunger or
-thirst is a problem. A body signal is always okay to have. If a learner names a
-signal, respond warmly and help them think about what to do next; if food or water is
-not available, help them name a trusted adult to tell.
+Prepare the cards and bell, then guide the body check and guessing game. Handle hunger
+and thirst with care: never assume what a learner has or has not eaten or drunk today,
+and never make a learner feel that noticing hunger or thirst is a problem. A body signal
+is always okay to have. If a learner names a signal, respond warmly and help them think
+about what to do next; if food or water is not available, help them name a trusted adult
+to tell.
 
 ## Procedure
 

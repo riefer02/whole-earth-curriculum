@@ -120,21 +120,23 @@ say what you want.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) the **mean** is the balance point
-(sum ÷ count); the **median** is the middle value in order; the **mode** is the most common value; the
-**range** is the spread (largest − smallest); and (2) choosing the **best measure** depends on the question
-— the median or mode resists outliers, the mean uses every value. Because this is a capstone of foundational
-skills, use explicit instruction and worked examples before independent work (Kirschner, Sweller & Clark,
-2006). The classic slip is finding the mean of a data set with an outlier and reporting it as "typical"
-without noticing the pull. Retrieval: this lesson is a spiral review — have learners recall the unit's
-ratios, signed numbers, one-step equations, tables and graphs, and area/volume, and notice each one hiding
-in the data work (ordering the data uses signed-number order; the mean is a kind of "fair share" ratio;
-spread is range). The egalitarian lens is sharp (`docs/philosophy.md` §4): a single wealthy person can
-distort a country's *average* income, which is why fair summaries often report the median — choosing the
-measure is a question of honesty and fairness, not just arithmetic. Note the global point: "averages" and
-middle values appear in ancient record-keeping from Babylon to India; the modern care with outliers is a
-refinement of that old habit. Distinguish evidence (the computed measures) from values (which measure is
-"fairest" for a purpose).
+The ideas to land: (1) the **mean** is the balance point (sum ÷ count); the **median**
+is the middle value in order; the **mode** is the most common value; the **range** is
+the spread (largest − smallest); and (2) choosing the **best measure** depends on the
+question — the median or mode resists outliers, the mean uses every value. Because this
+is a capstone of foundational skills, use explicit instruction and worked examples
+before independent work (Kirschner, Sweller & Clark, 2006). The classic slip is finding
+the mean of a data set with an outlier and reporting it as "typical" without noticing
+the pull. Retrieval: this lesson is a spiral review — have learners recall the unit's
+ratios, signed numbers, one-step equations, tables and graphs, and area/volume, and
+notice each one hiding in the data work (ordering the data uses signed-number order; the
+mean is a kind of "fair share" ratio; spread is range). The egalitarian lens is sharp
+(`docs/philosophy.md` §4): a single wealthy person can distort a country's *average*
+income, which is why fair summaries often report the median — choosing the measure is a
+question of honesty and fairness, not just arithmetic. Note the global point: "averages"
+and middle values appear in ancient record-keeping from Babylon to India; the modern
+care with outliers is a refinement of that old habit. Distinguish evidence (the computed
+measures) from values (which measure is "fairest" for a purpose).
 
 ## Procedure
 

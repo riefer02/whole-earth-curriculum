@@ -112,22 +112,24 @@ see who benefits — which is the beginning of spotting fairness.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **in a linear model y = mx + b,
-the slope m is the rate of change — the amount the output changes per one unit of the input — and
-the intercept b is the starting value — the output when the input is zero.** Use a **worked example
-first** (S-011): a taxi fare y = 2.50x + 4, where the slope 2.50 is "cost per kilometer" and the
-intercept 4 is "the flag-down fee you pay before moving." The critical-thinking lens: units on the
-slope ("money per kilometer," "degrees per hour") are what give the number meaning — a slope without
-units is a number without a story. The egalitarian lens: two workers doing the same job at different
-hourly rates (different slopes) earn more and more apart over time, and a job with no base pay
-(intercept 0) leaves a worker with nothing when work stops — slope and intercept are where fairness
-shows up in a line. The global lens: reading a rate ("per liter," "per kilometer," "per hour") is
-the same act in every market and every country. The ethics lens: naming a slope and intercept
-honestly — not hiding a fee in the fine print or inflating a rate — is an act of truthfulness, the
-same honesty we met with precision (philosophy §5). The technology & environment lens: a rate like
-"liters per kilometer" or "energy per hour" is where a line meets the environment — the same slope
-that models a fare also models fuel use and emissions, so reading the rate is reading our effect on
-the Earth. Have learners *say* the meaning aloud in everyday words, not just compute the numbers.
+The skill to land: **in a linear model y = mx + b, the slope m is the rate of change —
+the amount the output changes per one unit of the input — and the intercept b is the
+starting value — the output when the input is zero.** Use a **worked example first**
+(S-011): a taxi fare y = 2.50x + 4, where the slope 2.50 is "cost per kilometer" and the
+intercept 4 is "the flag-down fee you pay before moving." The critical-thinking lens:
+units on the slope ("money per kilometer," "degrees per hour") are what give the number
+meaning — a slope without units is a number without a story. The egalitarian lens: two
+workers doing the same job at different hourly rates (different slopes) earn more and
+more apart over time, and a job with no base pay (intercept 0) leaves a worker with
+nothing when work stops — slope and intercept are where fairness shows up in a line. The
+global lens: reading a rate ("per liter," "per kilometer," "per hour") is the same act
+in every market and every country. The ethics lens: naming a slope and intercept
+honestly — not hiding a fee in the fine print or inflating a rate — is an act of
+truthfulness, the same honesty we met with precision (philosophy §5). The technology &
+environment lens: a rate like "liters per kilometer" or "energy per hour" is where a
+line meets the environment — the same slope that models a fare also models fuel use and
+emissions, so reading the rate is reading our effect on the Earth. Have learners *say*
+the meaning aloud in everyday words, not just compute the numbers.
 
 ## Procedure
 

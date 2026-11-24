@@ -126,31 +126,32 @@ peers.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description**:
-the four-type classification — alphabet, abjad, abugida, character — is the canonical
-scholarly typology (Daniels & Bright, S-165), and Chinese characters are best described
-as *morphosyllabic* (each stands for a syllable plus a meaning, a morpheme), **not** as
-"pictures of ideas" (DeFrancis, S-166). Writing emerged independently in more than one
-place (Mesopotamia, Egypt, China, Mesoamerica) (S-204). Guard the value explicitly: the
-word "abjad" and "abugida" are technical terms coined in one scholarly tradition — use
-them as a *map*, not as a ranking. **No script is more "logical" than another** (a value
-commitment, distinct from the descriptive typology). Present each example script with
-care and correctness; learners who read a script natively are experts, not novices.
+The idea to land, held as **description**: the four-type classification — alphabet,
+abjad, abugida, character — is the canonical scholarly typology (Daniels & Bright,
+S-165), and Chinese characters are best described as *morphosyllabic* (each stands for a
+syllable plus a meaning, a morpheme), **not** as "pictures of ideas" (DeFrancis, S-166).
+Writing emerged independently in more than one place (Mesopotamia, Egypt, China,
+Mesoamerica) (S-204). Guard the value explicitly: the word "abjad" and "abugida" are
+technical terms coined in one scholarly tradition — use them as a *map*, not as a
+ranking. **No script is more "logical" than another** (a value commitment, distinct from
+the descriptive typology). Present each example script with care and correctness;
+learners who read a script natively are experts, not novices.
 
 The **ethics** lens: how we describe another people's script can dignify or diminish
 them — calling a script "complicated" or "backward" is a value judgment, not a
 description. The **egalitarianism** lens: every script is a complete system, and a
 learner whose home script is not the classroom's majority script is a *resource*, not a
 gap. The **global** lens: the four types map onto scripts across many languages and
-continents — Arabic (abjad), Devanagari (abugida), Chinese (character), Greek and Cyrillic
-(alphabets) — none is the default. The **technology** lens: the *tools* of writing shaped
-the scripts (a wedge in wet clay gives cuneiform; a brush gives flowing strokes), and
-today computers encode all scripts in one standard (Unicode) so they can share a screen.
-The **environment** lens: writing's earliest surfaces came from the living world — clay,
-papyrus, bark, bamboo, animal skin, paper — so a script's look is partly an environmental
-story. The **critical-thinking** lens: "what does this mark stand for — a sound, or a
-sound-plus-meaning?" is a precise question that replaces vague ideas of "foreign letters."
-Preview: Lesson 7 places one idea across many scripts at once.
+continents — Arabic (abjad), Devanagari (abugida), Chinese (character), Greek and
+Cyrillic (alphabets) — none is the default. The **technology** lens: the *tools* of
+writing shaped the scripts (a wedge in wet clay gives cuneiform; a brush gives flowing
+strokes), and today computers encode all scripts in one standard (Unicode) so they can
+share a screen. The **environment** lens: writing's earliest surfaces came from the
+living world — clay, papyrus, bark, bamboo, animal skin, paper — so a script's look is
+partly an environmental story. The **critical-thinking** lens: "what does this mark
+stand for — a sound, or a sound-plus-meaning?" is a precise question that replaces vague
+ideas of "foreign letters." Preview: Lesson 7 places one idea across many scripts at
+once.
 
 ## Procedure
 

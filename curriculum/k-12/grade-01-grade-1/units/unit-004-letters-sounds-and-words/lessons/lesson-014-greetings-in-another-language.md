@@ -103,14 +103,13 @@ with big kindness, and it is how strangers become neighbors.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Where possible, learn from a fluent speaker so the sounds
-are right; if no speaker is available, use a careful recording. There is **no
-"correct" accent** — the goal is a respectful attempt, not perfection. Honor the
-language and its speakers; never reduce a language to a gimmick. Let learners who
-already know the language be the experts and teachers. Signed languages carry
-greetings and courtesy words too — a learner may greet in a sign language, or with
-a gesture, wave, or device; these are greetings, not lesser ones.
+Where possible, learn from a fluent speaker so the sounds are right; if no speaker is
+available, use a careful recording. There is **no "correct" accent** — the goal is a
+respectful attempt, not perfection. Honor the language and its speakers; never reduce a
+language to a gimmick. Let learners who already know the language be the experts and
+teachers. Signed languages carry greetings and courtesy words too — a learner may greet
+in a sign language, or with a gesture, wave, or device; these are greetings, not lesser
+ones.
 
 ## Procedure
 

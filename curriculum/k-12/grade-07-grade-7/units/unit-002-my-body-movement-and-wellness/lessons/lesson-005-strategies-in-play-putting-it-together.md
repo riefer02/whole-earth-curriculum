@@ -113,13 +113,13 @@ together, and it works in every game and every place.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **a strategy is a
-plan you can name, test, and improve — not a mystery talent**. Model the worked example: write
-a tiny plan aloud ("spacing — spread wide; timing — pass on the third count; teamwork — one
-caller, one helper") before teams write their own (Kirschner, Sweller & Clark, 2006). Keep
-teams mixed and the game cooperative wherever possible; ensure every body and ability has a
-role (planner, caller, timer, mover, helper), so no one is on the sidelines. The reflection
-("what worked, what would we change") is the mastery moment — feedback, not ranking. See
+The idea to land is that **a strategy is a plan you can name, test, and improve — not a
+mystery talent**. Model the worked example: write a tiny plan aloud ("spacing — spread
+wide; timing — pass on the third count; teamwork — one caller, one helper") before teams
+write their own (Kirschner, Sweller & Clark, 2006). Keep teams mixed and the game
+cooperative wherever possible; ensure every body and ability has a role (planner,
+caller, timer, mover, helper), so no one is on the sidelines. The reflection ("what
+worked, what would we change") is the mastery moment — feedback, not ranking. See
 `docs/facilitation.md` and `docs/assessment.md`.
 
 ## Procedure

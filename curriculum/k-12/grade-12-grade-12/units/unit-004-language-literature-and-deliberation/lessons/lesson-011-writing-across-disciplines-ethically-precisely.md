@@ -120,18 +120,17 @@ choosing, each time, the words that are *accurate* and *fair* to the person read
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description**:
-register and precision are teachable writing skills (IES, S-171; Graham & Perin, S-102),
-and accessibility — making text understandable to people with different languages,
-abilities, and backgrounds — is a documented standard (WCAG, S-280). Hold "clarity is
-care" and "using language ethically" as *values*; hold "register shifts with audience"
-as a *skill*. In a multilingual classroom, honor that a learner may write most precisely
-in their home language, and that writing in a second or third language is a strength, not
-a deficit.
+The idea to land, held as **description**: register and precision are teachable writing
+skills (IES, S-171; Graham & Perin, S-102), and accessibility — making text
+understandable to people with different languages, abilities, and backgrounds — is a
+documented standard (WCAG, S-280). Hold "clarity is care" and "using language ethically"
+as *values*; hold "register shifts with audience" as a *skill*. In a multilingual
+classroom, honor that a learner may write most precisely in their home language, and
+that writing in a second or third language is a strength, not a deficit.
 
-The **ethics** lens: language can confuse or harm — jargon excludes, euphemism hides, and
-a careless word can mislead a reader who trusts you; ethical writing asks "who will read
-this, and what do they need?" The **egalitarianism** lens: plain language is an
+The **ethics** lens: language can confuse or harm — jargon excludes, euphemism hides,
+and a careless word can mislead a reader who trusts you; ethical writing asks "who will
+read this, and what do they need?" The **egalitarianism** lens: plain language is an
 equalizer — it lets a neighbor, a non-specialist, and a second-language reader stand on
 the same ground as an expert. The **global** lens: what is "clear" differs across
 languages and cultures, so precision is re-negotiated in every language, not imported

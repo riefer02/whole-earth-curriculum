@@ -112,22 +112,24 @@ than the Earth can keep its usual balance.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, precisely: **the greenhouse effect is
-natural and essential — sunlight (shortwave) passes through the atmosphere and warms the surface; the
-surface re-radiates heat (infrared), and greenhouse gases absorb some of that outgoing heat and send
-part of it back, keeping Earth warmer than it would otherwise be. Human activity — chiefly burning
-fossil fuels, which adds carbon dioxide, and agriculture and waste, which add methane — has
-strengthened this effect, and the measured rise in greenhouse gases and warming is the observed
-result.** Use a worked example first (S-011): trace the incoming and outgoing arrows on the diagram.
-The environment lens: this is the mechanism behind the climate change learners met in Unit 1, now
-understood physically (S-005, S-438). The ethics lens: knowing the cause carries responsibility — the
-question is no longer *whether* we are changing the climate but *what we owe* each other as it changes.
-The egalitarian lens: the people who have burned the least fossil fuel are often the most exposed to
-the harm, so the climate is a fairness problem, not only a physical one (S-005; also D10
-environmental-justice lessons later this year). The global lens: the atmosphere is shared by every
-nation and has no border — emissions anywhere warm the whole planet, which is why it is a genuinely
-global question (S-005). Cite IPCC (S-005) and NASA Climate Kids (S-438); distinguish the mechanism
-(fact, well-evidenced) from what we ought to do about it (a values question, held open).
+The idea to land, precisely: **the greenhouse effect is natural and essential — sunlight
+(shortwave) passes through the atmosphere and warms the surface; the surface re-radiates
+heat (infrared), and greenhouse gases absorb some of that outgoing heat and send part of
+it back, keeping Earth warmer than it would otherwise be. Human activity — chiefly
+burning fossil fuels, which adds carbon dioxide, and agriculture and waste, which add
+methane — has strengthened this effect, and the measured rise in greenhouse gases and
+warming is the observed result.** Use a worked example first (S-011): trace the incoming
+and outgoing arrows on the diagram. The environment lens: this is the mechanism behind
+the climate change learners met in Unit 1, now understood physically (S-005, S-438). The
+ethics lens: knowing the cause carries responsibility — the question is no longer
+*whether* we are changing the climate but *what we owe* each other as it changes. The
+egalitarian lens: the people who have burned the least fossil fuel are often the most
+exposed to the harm, so the climate is a fairness problem, not only a physical one
+(S-005; also D10 environmental-justice lessons later this year). The global lens: the
+atmosphere is shared by every nation and has no border — emissions anywhere warm the
+whole planet, which is why it is a genuinely global question (S-005). Cite IPCC (S-005)
+and NASA Climate Kids (S-438); distinguish the mechanism (fact, well-evidenced) from
+what we ought to do about it (a values question, held open).
 
 ## Procedure
 

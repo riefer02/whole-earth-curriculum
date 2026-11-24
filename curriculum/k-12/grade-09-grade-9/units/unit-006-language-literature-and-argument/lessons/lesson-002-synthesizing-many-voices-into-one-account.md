@@ -111,26 +111,29 @@ honest account that does not pretend the differences are not there. Today you pr
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **synthesis is more than summarizing —
-it is (1) noting each source's main point and key detail, (2) finding the *overlap* (what they agree on),
-(3) naming the *difference* (where they conflict), and (4) composing one coherent account that honors both,
-before stating your own supported judgment.** This is a *skill*, so use a **worked example first, then
-guided practice** (explicit instruction carries skills for novices — S-011). Model it: take a simple,
-non-controversial topic (e.g., "should the school courtyard host a weekly market?") and show four one-line
-voices — a student who wants the music, a vendor who wants the income, a neighbor who wants quiet, a
-teacher who wants the space for study — then show how a synthesis sounds: "Several people value the market
-for different reasons (income, joy), while others worry about noise and lost space for study; what they
-share is that the courtyard matters to them, and what they disagree on is how it should be used." The
-critical-thinking lens: a synthesis that ignores a conflict is not synthesis — it is smoothing; hold the
-tension. The ethics lens: each speaker's stake deserves to be reported faithfully, even the one you
-disagree with. The egalitarian lens: notice *whose voice is missing* from the four sources — the person
-left out of the meeting, the child, the speaker of a minority language — and say so; synthesis is fairer
-when it names its own gaps. The global lens: this is how councils, elders, juries, and assemblies have made
-sense of many voices in every culture — oral and written. The technology & environment lens: recording
-lets a spoken source be re-heard and checked, and the accounts learners merge are often about a shared
-place — a market, a road, a school — so synthesis is also how a community decides about its shared world.
-Keep the worked example concrete and the four
-practice cards short enough to hold in memory.
+The skill to land: **synthesis is more than summarizing — it is (1) noting each source's
+main point and key detail, (2) finding the *overlap* (what they agree on), (3) naming
+the *difference* (where they conflict), and (4) composing one coherent account that
+honors both, before stating your own supported judgment.** This is a *skill*, so use a
+**worked example first, then guided practice** (explicit instruction carries skills for
+novices — S-011). Model it: take a simple, non-controversial topic (e.g., "should the
+school courtyard host a weekly market?") and show four one-line voices — a student who
+wants the music, a vendor who wants the income, a neighbor who wants quiet, a teacher
+who wants the space for study — then show how a synthesis sounds: "Several people value
+the market for different reasons (income, joy), while others worry about noise and lost
+space for study; what they share is that the courtyard matters to them, and what they
+disagree on is how it should be used." The critical-thinking lens: a synthesis that
+ignores a conflict is not synthesis — it is smoothing; hold the tension. The ethics
+lens: each speaker's stake deserves to be reported faithfully, even the one you disagree
+with. The egalitarian lens: notice *whose voice is missing* from the four sources — the
+person left out of the meeting, the child, the speaker of a minority language — and say
+so; synthesis is fairer when it names its own gaps. The global lens: this is how
+councils, elders, juries, and assemblies have made sense of many voices in every
+culture — oral and written. The technology & environment lens: recording lets a spoken
+source be re-heard and checked, and the accounts learners merge are often about a shared
+place — a market, a road, a school — so synthesis is also how a community decides about
+its shared world. Keep the worked example concrete and the four practice cards short
+enough to hold in memory.
 
 ## Procedure
 

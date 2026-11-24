@@ -113,21 +113,23 @@ this on purpose.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **a series is several works on one
-theme in which the *change* is the point — the learner plans three or four works, makes them, and then
-reflects in writing on what changed (line? color? scale? feeling?) and why.** This is a *making* skill,
-so model the pattern first, then let learners work independently (explicit instruction carries novice
-skills — S-011): show a quick three-frame example of one simple subject (a tree, a cup, a face) getting
-bolder across three tries, then invite learners to choose their own theme. The global lens: series are
-a worldwide practice — Jacob Lawrence's 60-panel _Migration Series_ (1940–41) told the story of the
-Great Migration of African Americans from the rural South to the urban North (S-363), and the Japanese
-printmaker Katsushika Hokusai made _Thirty-six Views of Mount Fuji_ (c. 1830–32), a series on one
-mountain seen many ways (S-364). Name these as *examples to honor with questions*, not specimens. The
-egalitarian lens: a series needs only paper and a mark-making tool; no expensive supplies are required.
-The intellectual lens: reflection — noticing *what changed and why* — is where the learning lives. The
-ethics lens: there is no single "right" way for the series to change; each learner's change is their
-own, and all are valid. Keep assessment mastery-based: a series that is not finished is "not yet,"
-never a failure.
+The skill to land: **a series is several works on one theme in which the *change* is the
+point — the learner plans three or four works, makes them, and then reflects in writing
+on what changed (line? color? scale? feeling?) and why.** This is a *making* skill, so
+model the pattern first, then let learners work independently (explicit instruction
+carries novice skills — S-011): show a quick three-frame example of one simple subject
+(a tree, a cup, a face) getting bolder across three tries, then invite learners to
+choose their own theme. The global lens: series are a worldwide practice — Jacob
+Lawrence's 60-panel _Migration Series_ (1940–41) told the story of the Great Migration
+of African Americans from the rural South to the urban North (S-363), and the Japanese
+printmaker Katsushika Hokusai made _Thirty-six Views of Mount Fuji_ (c. 1830–32), a
+series on one mountain seen many ways (S-364). Name these as *examples to honor with
+questions*, not specimens. The egalitarian lens: a series needs only paper and a
+mark-making tool; no expensive supplies are required. The intellectual lens:
+reflection — noticing *what changed and why* — is where the learning lives. The ethics
+lens: there is no single "right" way for the series to change; each learner's change is
+their own, and all are valid. Keep assessment mastery-based: a series that is not
+finished is "not yet," never a failure.
 
 ## Procedure
 

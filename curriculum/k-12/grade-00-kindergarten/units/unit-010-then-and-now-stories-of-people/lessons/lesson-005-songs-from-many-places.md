@@ -103,11 +103,10 @@ meeting those people.
 
 ## Facilitator note
 
-Written to the learner ("you") so it works in a classroom and for a self-directed
-learner. **Respect is the rule:** name the real singers and places; do not have
-learners mimic accents or "perform" another culture. Songs are not toys or costumes.
-Keep clapping and movement gentle and in time — joining in, not making fun. Choose
-recordings by artists from the culture wherever possible.
+**Respect is the rule:** name the real singers and places; do not have learners mimic
+accents or "perform" another culture. Songs are not toys or costumes. Keep clapping and
+movement gentle and in time — joining in, not making fun. Choose recordings by artists
+from the culture wherever possible.
 
 ## Procedure
 

@@ -112,24 +112,26 @@ learn to tell them apart and to write the model that matches the situation.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **a linear function has a constant
-difference — the same amount added each step — and fits the form y = mx + b; an exponential function
-has a constant ratio — the same factor multiplied each step — and fits the form y = a·bˣ, where b is
-the growth factor.** This is a *skill*, so use a **worked example first, then guided practice**
-(S-011). Model two situations side by side: pay of 12 currency units per hour (linear: 12, 24, 36,
-48…; y = 12x) and a sum that doubles each day (exponential: 1, 2, 4, 8, 16…; y = 1·2ˣ). The
-critical-thinking lens: the *rate of change* tells you which family you are in — check for constant
-difference or constant ratio, don't guess from two points alone. The global lens: the rice-and-
-chessboard legend — in which doubling a grain of rice on each square of a chessboard grows to more
-rice than the whole kingdom has — is a many-centuries-old story of exponential surprise (S-429).
-The egalitarian lens: exponential growth is why small differences in a growth rate (an interest rate,
-a disease's spread) compound into big gaps — a fairness question when one person's rate is slightly
-higher than another's. The ethics lens: naming growth honestly matters for decisions that affect
-others — a loan that doubles, a rumor that spreads, an epidemic that compounds — so we must not
-understate or overstate what the model predicts (philosophy §5). The technology & environment lens:
-exponential growth is also the mathematics of population, resource use, and carbon, and a
-spreadsheet or graphing tool makes the curve visible — but the human must read what the curve
-means for real people and the Earth. Keep the models tied to real things; no bare symbol-pushing.
+The skill to land: **a linear function has a constant difference — the same amount added
+each step — and fits the form y = mx + b; an exponential function has a constant ratio —
+the same factor multiplied each step — and fits the form y = a·bˣ, where b is the growth
+factor.** This is a *skill*, so use a **worked example first, then guided practice**
+(S-011). Model two situations side by side: pay of 12 currency units per hour (linear:
+12, 24, 36, 48…; y = 12x) and a sum that doubles each day (exponential: 1, 2, 4, 8, 16…;
+y = 1·2ˣ). The critical-thinking lens: the *rate of change* tells you which family you
+are in — check for constant difference or constant ratio, don't guess from two points
+alone. The global lens: the rice-and- chessboard legend — in which doubling a grain of
+rice on each square of a chessboard grows to more rice than the whole kingdom has — is a
+many-centuries-old story of exponential surprise (S-429). The egalitarian lens:
+exponential growth is why small differences in a growth rate (an interest rate, a
+disease's spread) compound into big gaps — a fairness question when one person's rate is
+slightly higher than another's. The ethics lens: naming growth honestly matters for
+decisions that affect others — a loan that doubles, a rumor that spreads, an epidemic
+that compounds — so we must not understate or overstate what the model predicts
+(philosophy §5). The technology & environment lens: exponential growth is also the
+mathematics of population, resource use, and carbon, and a spreadsheet or graphing tool
+makes the curve visible — but the human must read what the curve means for real people
+and the Earth. Keep the models tied to real things; no bare symbol-pushing.
 
 ## Procedure
 

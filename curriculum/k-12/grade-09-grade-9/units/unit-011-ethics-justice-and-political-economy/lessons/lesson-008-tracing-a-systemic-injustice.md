@@ -109,18 +109,19 @@ outcome** and ask the question every reformer asks: **where could this loop be b
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Its goals: **(1) move learners from the *idea* of
-systemic injustice (Lesson 7) to a *skill* — building a causal chain from a past rule → a structure
-→ repeated small actions → an unfair outcome; (2) model once, then guide: build one chain
-whole-group, then let each learner build their own from a dossier (Kirschner, Sweller & Clark 2006,
-S-011); (3) end in agency, not despair — the dashed arrow ("where could the loop be broken?")
-turns analysis into possible change (philosophy §12).** The ethics lens: naming an injustice
-accurately is an act of care. The egalitarian lens: the dossier set must be globally varied so no
-single region is framed as the site of injustice. The global lens: each case is one place's story —
-present it as an example, not as that people's essence. Distinguish evidence from values: the
-facts of each case are sourced and hedged; the judgment that they are unjust is argued, and
-learners may reach different conclusions about the best fix. Keep emotional safety: choose cases
-at a depth the age can hold, and always connect to what people have done and can do (development
+Its goals: **(1) move learners from the *idea* of systemic injustice (Lesson 7) to a
+*skill* — building a causal chain from a past rule → a structure → repeated small
+actions → an unfair outcome; (2) model once, then guide: build one chain whole-group,
+then let each learner build their own from a dossier (Kirschner, Sweller & Clark 2006,
+S-011); (3) end in agency, not despair — the dashed arrow ("where could the loop be
+broken?") turns analysis into possible change (philosophy §12).** The ethics lens:
+naming an injustice accurately is an act of care. The egalitarian lens: the dossier set
+must be globally varied so no single region is framed as the site of injustice. The
+global lens: each case is one place's story — present it as an example, not as that
+people's essence. Distinguish evidence from values: the facts of each case are sourced
+and hedged; the judgment that they are unjust is argued, and learners may reach
+different conclusions about the best fix. Keep emotional safety: choose cases at a depth
+the age can hold, and always connect to what people have done and can do (development
 "9–12"; facilitation "holding difficult topics safely").
 
 ## Procedure

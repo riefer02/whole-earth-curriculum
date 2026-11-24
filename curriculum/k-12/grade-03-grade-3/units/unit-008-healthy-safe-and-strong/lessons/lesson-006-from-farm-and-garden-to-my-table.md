@@ -120,21 +120,21 @@ finish.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Every meal is many people's work.** Lift
-up the farmers, gardeners, harvesters, transporters, millers, market sellers, and cooks —
-often underpaid and too often invisible — so learners meet food with gratitude and a sense
-of justice, not guilt. Teach that food can travel far (by truck, ship, or plane) or near
-(from a nearby farm or garden), and that **local** food connects people to the land around
-them and often uses less fuel. Honor that food reaches tables in many ways — grown on
-farms and gardens, gathered from wild places, fished from water, or herded with animals —
-and that each journey is real and worthy, not only the planted-field story. This is where **technology** enters honestly: tools,
-irrigation, mills, trucks, and refrigeration help move food to many tables, and they also
-use energy and affect the Earth — a seed for later grades, held lightly here. A learner
-who is blind or has low vision arranges the cards by feel or retells the journey aloud; a
-learner who does not use a speaking voice points or arranges the cards in order; a learner
-who is deaf or hard of hearing follows the cards and the acted-out journey from the front.
-This lesson completes D03.S3.03.02 (how food reaches a table) and the food-journey chart
-is a unit portfolio artifact.
+**Every meal is many people's work.** Lift up the farmers, gardeners, harvesters,
+transporters, millers, market sellers, and cooks — often underpaid and too often
+invisible — so learners meet food with gratitude and a sense of justice, not guilt.
+Teach that food can travel far (by truck, ship, or plane) or near (from a nearby farm or
+garden), and that **local** food connects people to the land around them and often uses
+less fuel. Honor that food reaches tables in many ways — grown on farms and gardens,
+gathered from wild places, fished from water, or herded with animals — and that each
+journey is real and worthy, not only the planted-field story. This is where
+**technology** enters honestly: tools, irrigation, mills, trucks, and refrigeration help
+move food to many tables, and they also use energy and affect the Earth — a seed for
+later grades, held lightly here. A learner who is blind or has low vision arranges the
+cards by feel or retells the journey aloud; a learner who does not use a speaking voice
+points or arranges the cards in order; a learner who is deaf or hard of hearing follows
+the cards and the acted-out journey from the front. This lesson completes D03.S3.03.02
+(how food reaches a table) and the food-journey chart is a unit portfolio artifact.
 
 ## Procedure
 

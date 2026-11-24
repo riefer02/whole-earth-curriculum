@@ -117,14 +117,13 @@ your own design.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **sustainability and
-fairness are the same question asked twice — what does it cost the Earth, and who
-bears that cost?** The life cycle (materials → making → use → end-of-life) is the
-concrete frame. Sustainability means the thing can keep going without exhausting the
-systems it depends on — the Brundtland definition of meeting present needs without
-compromising future generations (S-395). Fairness means the burdens and benefits are
-shared justly — not, for example, the profit going to the rich while the mining
-poison goes to the poor.
+The idea to land: **sustainability and fairness are the same question asked twice — what
+does it cost the Earth, and who bears that cost?** The life cycle (materials → making →
+use → end-of-life) is the concrete frame. Sustainability means the thing can keep going
+without exhausting the systems it depends on — the Brundtland definition of meeting
+present needs without compromising future generations (S-395). Fairness means the
+burdens and benefits are shared justly — not, for example, the profit going to the rich
+while the mining poison goes to the poor.
 
 Ground the facts: discarded electronics are hazardous when dumped or informally
 recycled, releasing toxic substances and involving child labor (S-397); cobalt for
@@ -132,21 +131,21 @@ batteries has been mined with documented human-rights abuses and child labor in 
 Democratic Republic of the Congo (S-398); the circular economy designs out waste so
 materials never become waste and nature is regenerated (S-452); universal design asks
 that a thing work for the widest range of people, not the "average" user (S-369). An
-Indigenous teaching voices the same care: take only what you need and give back
-(S-427). Accessibility is a fairness issue too — the UN Convention on the Rights of
-Persons with Disabilities affirms the right to take part in cultural life and to have
-places and things be usable (S-100).
+Indigenous teaching voices the same care: take only what you need and give back (S-427).
+Accessibility is a fairness issue too — the UN Convention on the Rights of Persons with
+Disabilities affirms the right to take part in cultural life and to have places and
+things be usable (S-100).
 
-The **environment** lens is the spine: the life cycle makes the Earth's cost visible
-at every stage. The **ethics** lens: a designer is responsible for consequences beyond
-the point of sale. The **egalitarian** lens: ask *who is affected and who benefits* —
+The **environment** lens is the spine: the life cycle makes the Earth's cost visible at
+every stage. The **ethics** lens: a designer is responsible for consequences beyond the
+point of sale. The **egalitarian** lens: ask *who is affected and who benefits* —
 burdens fall unevenly, and good design flattens that, not widens it. The **global**
-lens: supply chains are worldwide, so fairness is a global question — the minerals,
-the labor, the waste all cross borders. The **technology** lens: technology can
-*amplify* either harm (faster extraction, more waste) or repair (repairable design,
-shared tools) — the designer chooses. The **community** lens: the best designs are
-made with the people they affect. Preview: Lesson 12 turns to judging design —
-responsible versus harmful — and gathers the whole unit's portfolio.
+lens: supply chains are worldwide, so fairness is a global question — the minerals, the
+labor, the waste all cross borders. The **technology** lens: technology can *amplify*
+either harm (faster extraction, more waste) or repair (repairable design, shared
+tools) — the designer chooses. The **community** lens: the best designs are made with
+the people they affect. Preview: Lesson 12 turns to judging design — responsible versus
+harmful — and gathers the whole unit's portfolio.
 
 ## Procedure
 

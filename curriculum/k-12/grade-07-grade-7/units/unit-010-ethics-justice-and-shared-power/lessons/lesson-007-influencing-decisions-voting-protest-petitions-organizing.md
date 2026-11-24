@@ -113,24 +113,23 @@ and the limit of each is how you choose well.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) four common ways
-people influence decisions are voting, protest, petitions, and organizing; (2) each has real
-power and real limits; (3) limits are not reasons to give up — they are reasons to combine
-methods and to think clearly.** Model one method's strength-and-limit on the board (worked
-example, S-011), then let groups work the rest. The ethics lens: influencing decisions is
-itself a moral act — how we influence matters as much as what we want. The egalitarian lens:
-notice who *can* vote, who *can* safely protest, whose petition *gets read* — power shapes
-access to every method. The global lens: these methods exist in many forms across many
-countries, and no one country is the model; keep examples region-varied (a ballot in one
-country, a protest in another, a petition in a third, a union or neighborhood group in a
-fourth). The technology lens: these methods now also travel through digital tools — online
-petitions, messaging that gathers a crowd, organizing across distance — which can widen who
-gets heard and also let loud or false voices drown out the quiet; technology changes a
-method's *reach*, not its *rightness*. The critical-thinking lens: for every method, ask
-*who is left out* and *what it
-cannot do* — that is the discipline of the "limits" column. Present these as descriptions of
-how influence works, not as a ranking of political systems; do not teach any one method as
-always right or always enough.
+The ideas to land: **(1) four common ways people influence decisions are voting,
+protest, petitions, and organizing; (2) each has real power and real limits; (3) limits
+are not reasons to give up — they are reasons to combine methods and to think clearly.**
+Model one method's strength-and-limit on the board (worked example, S-011), then let
+groups work the rest. The ethics lens: influencing decisions is itself a moral act — how
+we influence matters as much as what we want. The egalitarian lens: notice who *can*
+vote, who *can* safely protest, whose petition *gets read* — power shapes access to
+every method. The global lens: these methods exist in many forms across many countries,
+and no one country is the model; keep examples region-varied (a ballot in one country, a
+protest in another, a petition in a third, a union or neighborhood group in a fourth).
+The technology lens: these methods now also travel through digital tools — online
+petitions, messaging that gathers a crowd, organizing across distance — which can widen
+who gets heard and also let loud or false voices drown out the quiet; technology changes
+a method's *reach*, not its *rightness*. The critical-thinking lens: for every method,
+ask *who is left out* and *what it cannot do* — that is the discipline of the "limits"
+column. Present these as descriptions of how influence works, not as a ranking of
+political systems; do not teach any one method as always right or always enough.
 
 ## Procedure
 

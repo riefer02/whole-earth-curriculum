@@ -116,21 +116,20 @@ the foods of its land, its history, and its traditions. Today you will see many 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **There is no single correct healthy
-meal, and no culture's food is better than another's.** Teach that what makes a meal
-healthy is that it feeds the body well — a mix of grains or roots, vegetables or fruits,
-and protein — and that every cuisine has its own beautiful way of doing this. Honor that
-some families grow, gather, fish, or herd their food, and some buy it; all are worthy.
-Be careful never to let "healthy" become a weapon: do not shame any food a learner's
-family eats, and remember that scarcity is real — a family may not always have a full
-"balanced" plate, and that is a question of access, never of worth. A learner who is
-blind or has low vision learns the meals by having each one described and named; a
-learner who does not use a speaking voice points to a card or draws their family's food;
-a learner who is deaf or hard of hearing follows the cards and the chart from the front,
-since every food is shown, not only told. The framing that healthy diets appear in many
-food cultures reflects FAO and WHO accounts that all regions have healthy traditional
-dietary patterns. This lesson opens D03.S3.04.02 and leads into treating every way of
-eating with respect.
+**There is no single correct healthy meal, and no culture's food is better than
+another's.** Teach that what makes a meal healthy is that it feeds the body well — a mix
+of grains or roots, vegetables or fruits, and protein — and that every cuisine has its
+own beautiful way of doing this. Honor that some families grow, gather, fish, or herd
+their food, and some buy it; all are worthy. Be careful never to let "healthy" become a
+weapon: do not shame any food a learner's family eats, and remember that scarcity is
+real — a family may not always have a full "balanced" plate, and that is a question of
+access, never of worth. A learner who is blind or has low vision learns the meals by
+having each one described and named; a learner who does not use a speaking voice points
+to a card or draws their family's food; a learner who is deaf or hard of hearing follows
+the cards and the chart from the front, since every food is shown, not only told. The
+framing that healthy diets appear in many food cultures reflects FAO and WHO accounts
+that all regions have healthy traditional dietary patterns. This lesson opens
+D03.S3.04.02 and leads into treating every way of eating with respect.
 
 ## Procedure
 

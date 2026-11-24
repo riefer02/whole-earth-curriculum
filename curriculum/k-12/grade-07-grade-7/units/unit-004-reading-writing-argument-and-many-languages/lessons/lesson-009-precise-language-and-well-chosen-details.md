@@ -111,16 +111,16 @@ and it is how you make a reader see what you see.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **precise writing
-chooses details that belong to the idea — relevant, concrete, sensory — and cuts details
-that wander off**. Model one worked example: take a vague sentence, revise it step by
-step, and say *why* each added detail belongs (Kirschner, Sweller & Clark, 2006; Graham
-& Perin, 2007). Emphasize "relevant" as much as "precise": a precise detail that does not
-fit the idea is clutter, not craft. The four lenses: *ethics* (precision is honesty — the
-writer refuses to blur); *egalitarianism* (every learner's language has precise words;
-none is "more precise" by nature); *global* (sensory details differ by place — a roof of
-tin, of thatch, of snow — and all can be precise); *critical-thinking* (choosing is
-judging: which detail earns its place?). See `docs/facilitation.md`.
+The idea to land is that **precise writing chooses details that belong to the idea —
+relevant, concrete, sensory — and cuts details that wander off**. Model one worked
+example: take a vague sentence, revise it step by step, and say *why* each added detail
+belongs (Kirschner, Sweller & Clark, 2006; Graham & Perin, 2007). Emphasize "relevant"
+as much as "precise": a precise detail that does not fit the idea is clutter, not craft.
+The four lenses: *ethics* (precision is honesty — the writer refuses to blur);
+*egalitarianism* (every learner's language has precise words; none is "more precise" by
+nature); *global* (sensory details differ by place — a roof of tin, of thatch, of snow —
+and all can be precise); *critical-thinking* (choosing is judging: which detail earns
+its place?). See `docs/facilitation.md`.
 
 ## Procedure
 

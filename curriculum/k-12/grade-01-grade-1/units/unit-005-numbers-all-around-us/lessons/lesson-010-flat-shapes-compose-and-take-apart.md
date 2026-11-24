@@ -110,17 +110,16 @@ apart again. That is the geometry of making and unmaking.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It spirals up from Kindergarten's
-"name and match shapes" to **composing and taking apart** shapes and describing
-their **sides and corners** — the new skill. Teach with a **worked example**
-(philosophy §13): place two triangles to make a square, then pull them apart again.
-Use the language of sides and corners with real shapes in hand. Honor geometry from
-many traditions — the tangram (China), patchwork quilts, and tile mosaics — without
-ranking any. For learners who are blind or low-vision, use tactile shapes (cut from
-thick card, felt, or wood) and trace sides and corners with the fingers; for
-learners who are Deaf or hard of hearing, name shapes in sign and count sides with
-the hands. A learner who does not speak points to sides and corners or traces them.
-Geometry is exploration, not a contest of speed.
+It spirals up from Kindergarten's "name and match shapes" to **composing and taking
+apart** shapes and describing their **sides and corners** — the new skill. Teach with a
+**worked example** (philosophy §13): place two triangles to make a square, then pull
+them apart again. Use the language of sides and corners with real shapes in hand. Honor
+geometry from many traditions — the tangram (China), patchwork quilts, and tile
+mosaics — without ranking any. For learners who are blind or low-vision, use tactile
+shapes (cut from thick card, felt, or wood) and trace sides and corners with the
+fingers; for learners who are Deaf or hard of hearing, name shapes in sign and count
+sides with the hands. A learner who does not speak points to sides and corners or traces
+them. Geometry is exploration, not a contest of speed.
 
 ## Procedure
 

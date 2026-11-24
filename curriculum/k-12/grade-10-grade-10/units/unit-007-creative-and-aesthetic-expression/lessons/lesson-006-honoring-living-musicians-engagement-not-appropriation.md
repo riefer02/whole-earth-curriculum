@@ -115,35 +115,33 @@ as a free library of sounds.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the same four
-questions from visual art govern music — did they ask? learn the context? credit? share
-benefit? — because music, too, is a living tradition made by living people.** Reggae
-originated among marginalized groups in western Kingston, Jamaica, and became "a voice
-for all" on injustice, resistance, love, and humanity (S-450; S-445). African American
-spirituals are religious folk songs born of enslavement that carry a people's history
-(S-385). West African griots are hereditary oral historians and musicians who *keep* a
-community's memory — their music is not decoration but archive (S-446). Because music
-travels and is sampled in one click, credit and permission are *more* urgent, not
-less.
+The idea to land: **the same four questions from visual art govern music — did they ask?
+learn the context? credit? share benefit? — because music, too, is a living tradition
+made by living people.** Reggae originated among marginalized groups in western
+Kingston, Jamaica, and became "a voice for all" on injustice, resistance, love, and
+humanity (S-450; S-445). African American spirituals are religious folk songs born of
+enslavement that carry a people's history (S-385). West African griots are hereditary
+oral historians and musicians who *keep* a community's memory — their music is not
+decoration but archive (S-446). Because music travels and is sampled in one click,
+credit and permission are *more* urgent, not less.
 
 Keep it concrete and never flatten a tradition into a stereotype. The ethical
 distinction is about power and consent: learning a tradition from its practitioners,
 crediting composers and performers, paying royalties where due, and amplifying the
 community's own voices is engagement; sampling or performing without permission or
 credit, claiming others' forms as your own "discovery," or profiting while the makers
-earn nothing is appropriation. UNESCO's living-heritage frame (S-056) and the
-Universal Declaration on Cultural Diversity (S-389) support treating music as owned
-and passed on by communities.
+earn nothing is appropriation. UNESCO's living-heritage frame (S-056) and the Universal
+Declaration on Cultural Diversity (S-389) support treating music as owned and passed on
+by communities.
 
-The **ethics** lens is the spine. The **egalitarian** lens: musical appropriation
-almost always flows from the less powerful to the more powerful — credit and shared
-benefit are how the balance is corrected. The **global** lens: traditions are
-*people's*, alive now, not "world music" free for the taking. The **technology** lens:
-sampling and streaming made reuse effortless, so the *ethical* work (permission,
-credit, royalty) is the part a machine cannot do. The **environment** lens: honoring a
-tradition includes honoring the places and materials it grew from, not extracting the
-sound and discarding the rest. Preview: Lesson 7 turns to the body — devising a
-movement piece.
+The **ethics** lens is the spine. The **egalitarian** lens: musical appropriation almost
+always flows from the less powerful to the more powerful — credit and shared benefit are
+how the balance is corrected. The **global** lens: traditions are *people's*, alive now,
+not "world music" free for the taking. The **technology** lens: sampling and streaming
+made reuse effortless, so the *ethical* work (permission, credit, royalty) is the part a
+machine cannot do. The **environment** lens: honoring a tradition includes honoring the
+places and materials it grew from, not extracting the sound and discarding the rest.
+Preview: Lesson 7 turns to the body — devising a movement piece.
 
 **Four scenarios** (adapt to your place; keep specific and respectful): 1. A musician
 studies with a community's players, learns the meaning of the form, credits them, and

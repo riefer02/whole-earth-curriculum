@@ -109,26 +109,27 @@ that **ripple**, and see how it can make a place poorer or richer, out of balanc
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **ecosystems are webs, so a change
-in one population ripples outward — and that ripple can *reduce* balance (a species removed, its
-prey multiply, the plants suffer) or *restore* it (a species returned, the web reweaves).** Worked
-example: **Yellowstone wolves** — wolves were removed by the early 1900s; elk grew numerous and
-browsed heavily; when wolves were reintroduced in 1995–1996, elk numbers and browsing fell, and some
-willow and aspen recovery followed (S-310). **Be accurate and hedged**: the real ecosystem response
-is complex and still debated — do *not* teach the oversimplified "wolves changed the rivers" story;
-state the documented elk-browsing reduction and partial plant recovery instead (S-310). Second
-example: **sea otters, sea urchins, kelp** — where otters were hunted away, urchins multiplied and
-ate the kelp forests; where otters returned, kelp recovered (S-176). The environment lens: the
-health of the whole place depends on its parts. The ethics lens: when people remove a species — for
-fur, for fear, for profit — the harm spreads; when people choose to restore it, the web can heal,
-and that healing is often slow and imperfect. The egalitarian lens: who benefits and who is harmed
-when an ecosystem changes is not distributed equally — fishing communities, herders, and farmers
-feel the ripple first. The global lens: this is the same process in a kelp forest off the Pacific
-coast, a savanna in Africa, or a reef in the tropics — for example, when rinderpest was driven out
-of the Serengeti in the mid-1900s, wildebeest numbers recovered and reshaped the savanna's grass and
-fire. The critical-thinking lens: cause-and-effect
-in a web is rarely a single clean line — the lesson's "because" chains are a model, and real webs
-have many threads (S-310).
+The idea to land: **ecosystems are webs, so a change in one population ripples outward —
+and that ripple can *reduce* balance (a species removed, its prey multiply, the plants
+suffer) or *restore* it (a species returned, the web reweaves).** Worked example:
+**Yellowstone wolves** — wolves were removed by the early 1900s; elk grew numerous and
+browsed heavily; when wolves were reintroduced in 1995–1996, elk numbers and browsing
+fell, and some willow and aspen recovery followed (S-310). **Be accurate and hedged**:
+the real ecosystem response is complex and still debated — do *not* teach the
+oversimplified "wolves changed the rivers" story; state the documented elk-browsing
+reduction and partial plant recovery instead (S-310). Second example: **sea otters, sea
+urchins, kelp** — where otters were hunted away, urchins multiplied and ate the kelp
+forests; where otters returned, kelp recovered (S-176). The environment lens: the health
+of the whole place depends on its parts. The ethics lens: when people remove a species —
+for fur, for fear, for profit — the harm spreads; when people choose to restore it, the
+web can heal, and that healing is often slow and imperfect. The egalitarian lens: who
+benefits and who is harmed when an ecosystem changes is not distributed equally —
+fishing communities, herders, and farmers feel the ripple first. The global lens: this
+is the same process in a kelp forest off the Pacific coast, a savanna in Africa, or a
+reef in the tropics — for example, when rinderpest was driven out of the Serengeti in
+the mid-1900s, wildebeest numbers recovered and reshaped the savanna's grass and fire.
+The critical-thinking lens: cause-and-effect in a web is rarely a single clean line —
+the lesson's "because" chains are a model, and real webs have many threads (S-310).
 
 ## Procedure
 

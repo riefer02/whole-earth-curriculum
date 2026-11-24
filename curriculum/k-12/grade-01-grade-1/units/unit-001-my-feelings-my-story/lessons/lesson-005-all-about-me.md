@@ -105,10 +105,10 @@ read to begin to know you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Prepare the page and supplies, then
-support learners as they fill each box. Family means many things — a parent, a
-grandparent, a guardian, siblings, chosen kin. Honor every shape; there is no
-"correct" family to draw. No two pages should look alike, and that is the point.
+Prepare the page and supplies, then support learners as they fill each box. Family means
+many things — a parent, a grandparent, a guardian, siblings, chosen kin. Honor every
+shape; there is no "correct" family to draw. No two pages should look alike, and that is
+the point.
 
 ## Procedure
 

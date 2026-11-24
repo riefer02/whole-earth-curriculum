@@ -116,19 +116,19 @@ make a problem easier.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Keep the message gentle and true: tools
-are wonderful, but they are not magic and they are not better just because they are new.
-The heart of the idea is *made by people, to solve a problem* — a rock is not a tool until
-a person picks it up to grind or dig; a spoon is a tool because a person made it. Honor
-every tool equally: a mortar and pestle solves the same kind of problem as a blender, and
-a water jug is just as real a tool as a pump. Never rank one people's tools above
-another's, and never present any one tool as "the real modern one." A machine is simply a
-tool with moving parts (a whisk, a pump, a bicycle); introduce it only as an extension of
-the same idea. Honor every body: naming and matching can be done by voice, sign, touch,
-gesture, or a partner's hands, and each way counts equally. Supervise any handling of
-tools. For a learner who is blind or has low vision, let them hold and feel each tool and
-name the problem it solves by its shape and weight; a learner who does not use a speaking
-voice can point, gesture, or place the card to show the answer.
+Keep the message gentle and true: tools are wonderful, but they are not magic and they
+are not better just because they are new. The heart of the idea is *made by people, to
+solve a problem* — a rock is not a tool until a person picks it up to grind or dig; a
+spoon is a tool because a person made it. Honor every tool equally: a mortar and pestle
+solves the same kind of problem as a blender, and a water jug is just as real a tool as
+a pump. Never rank one people's tools above another's, and never present any one tool as
+"the real modern one." A machine is simply a tool with moving parts (a whisk, a pump, a
+bicycle); introduce it only as an extension of the same idea. Honor every body: naming
+and matching can be done by voice, sign, touch, gesture, or a partner's hands, and each
+way counts equally. Supervise any handling of tools. For a learner who is blind or has
+low vision, let them hold and feel each tool and name the problem it solves by its shape
+and weight; a learner who does not use a speaking voice can point, gesture, or place the
+card to show the answer.
 
 ## Procedure
 

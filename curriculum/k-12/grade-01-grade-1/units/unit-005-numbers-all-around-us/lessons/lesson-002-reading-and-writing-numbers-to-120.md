@@ -114,19 +114,17 @@ that everyone who sees the marks can agree on what they mean.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The key commitment is **script
-awareness without ranking**: these Hindu-Arabic digits are taught because this
-curriculum uses them, but they are honored as *one* system among many — tally
-marks, knot records like the Inka quipu, and other numeral traditions all worked
-for the people who used them, and none is "better." Teach the one new skill —
-combining digits into a written number and reading tens-and-ones — as a worked
-example first. Connect every written number to a real quantity, never a bare
-symbol. For a learner who is blind or low-vision, form numerals with raised
-materials (string, clay, sand-glue) so the shape can be felt; for a learner who is
-Deaf or hard of hearing, read numbers in sign or by matching digits to bundles. A
-learner who does not use a speaking voice reads by pointing, tracing, or holding up
-digit cards. Never compare handwriting quality to smartness; messy numerals carry
-the same meaning as neat ones.
+The key commitment is **script awareness without ranking**: these Hindu-Arabic digits
+are taught because this curriculum uses them, but they are honored as *one* system among
+many — tally marks, knot records like the Inka quipu, and other numeral traditions all
+worked for the people who used them, and none is "better." Teach the one new skill —
+combining digits into a written number and reading tens-and-ones — as a worked example
+first. Connect every written number to a real quantity, never a bare symbol. For a
+learner who is blind or low-vision, form numerals with raised materials (string, clay,
+sand-glue) so the shape can be felt; for a learner who is Deaf or hard of hearing, read
+numbers in sign or by matching digits to bundles. A learner who does not use a speaking
+voice reads by pointing, tracing, or holding up digit cards. Never compare handwriting
+quality to smartness; messy numerals carry the same meaning as neat ones.
 
 ## Procedure
 

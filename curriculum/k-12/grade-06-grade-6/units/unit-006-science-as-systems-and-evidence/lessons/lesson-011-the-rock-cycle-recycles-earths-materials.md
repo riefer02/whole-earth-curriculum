@@ -116,18 +116,18 @@ cycle that makes every mountain, beach, and pebble part of one slow, endless sto
 
 ## Facilitator note
 
-Written to the learner ("you"). The one idea to land: **rock is recycled** — made,
-broken down, and made again, in a loop that has run for billions of years. Three rock
-types, each tied to a process: **igneous** (cooled from magma or lava), **sedimentary**
-(pressed from layers of sediment), **metamorphic** (changed by heat and pressure). The
-cycle is driven by Earth's internal heat (melting) and surface processes (weathering,
-erosion, deposition). Model the worked example with the clay/sand model and trace one
-rock around the diagram aloud. The deep-time scale is evidence-based (radiometric
-dating of rocks); the sense of wonder — that the ground under us is ancient and
-recycled — can seed an environmental reflection about caring for what is never truly
-"used up," but name it as a value. Keep the "how do we know" line: we cannot watch a
-cycle that takes millions of years, so we *infer* it from the rocks we can see and
-measure. See [`docs/facilitation.md`](../../../../../../docs/facilitation.md).
+The one idea to land: **rock is recycled** — made, broken down, and made again, in a
+loop that has run for billions of years. Three rock types, each tied to a process:
+**igneous** (cooled from magma or lava), **sedimentary** (pressed from layers of
+sediment), **metamorphic** (changed by heat and pressure). The cycle is driven by
+Earth's internal heat (melting) and surface processes (weathering, erosion, deposition).
+Model the worked example with the clay/sand model and trace one rock around the diagram
+aloud. The deep-time scale is evidence-based (radiometric dating of rocks); the sense of
+wonder — that the ground under us is ancient and recycled — can seed an environmental
+reflection about caring for what is never truly "used up," but name it as a value. Keep
+the "how do we know" line: we cannot watch a cycle that takes millions of years, so we
+*infer* it from the rocks we can see and measure. See
+[`docs/facilitation.md`](../../../../../../docs/facilitation.md).
 
 ## Procedure
 

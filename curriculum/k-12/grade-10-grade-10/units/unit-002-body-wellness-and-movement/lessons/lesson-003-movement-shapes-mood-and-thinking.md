@@ -120,25 +120,24 @@ moves with it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **movement is
-evidence-backed medicine for the mind — it improves mood, reduces symptoms of
-depression and anxiety, and supports focus — through mechanisms that include
-endorphins, monoamines, and BDNF, among others** (S-408). Hold the mechanism claims
-honestly and with hedging: endorphins are one piece, not the whole story; no single
-chemical explains the mood lift (S-408). The WHO frames a balanced routine as aerobic
-(endurance) activity plus muscle-strengthening activity, with balance and flexibility
-also mattering across life (S-341). These are *descriptions*, never a prescription for
-any particular body, and every body can move in ways that fit it.
+The idea to land: **movement is evidence-backed medicine for the mind — it improves
+mood, reduces symptoms of depression and anxiety, and supports focus — through
+mechanisms that include endorphins, monoamines, and BDNF, among others** (S-408). Hold
+the mechanism claims honestly and with hedging: endorphins are one piece, not the whole
+story; no single chemical explains the mood lift (S-408). The WHO frames a balanced
+routine as aerobic (endurance) activity plus muscle-strengthening activity, with balance
+and flexibility also mattering across life (S-341). These are *descriptions*, never a
+prescription for any particular body, and every body can move in ways that fit it.
 
 Model once, then let learners practice (S-011). The **egalitarian** lens: the
 opportunity to move is not shared equally — safe places to play, time, money, and
-ability all gate access — so "move more" must never become a lecture aimed only at
-those with the fewest choices. The **global** lens: movement traditions — dance, sport,
-play, work — differ richly across cultures, and all of them count. The **ethics** lens:
+ability all gate access — so "move more" must never become a lecture aimed only at those
+with the fewest choices. The **global** lens: movement traditions — dance, sport, play,
+work — differ richly across cultures, and all of them count. The **ethics** lens:
 movement is offered as joy and care, never as punishment or a way to "fix" a body; a
 body is not a problem to be solved. The **technology & environment** lens: our
-environments (walkable streets, green spaces, safe parks) shape whether movement is
-easy or hard — that is a community question, not only a personal one. The
+environments (walkable streets, green spaces, safe parks) shape whether movement is easy
+or hard — that is a community question, not only a personal one. The
 **social-emotional** lens: moving with others builds connection; invite, never force,
 and keep the burst inclusive of every ability. Preview: Lesson 7 will turn this into a
 training plan.

@@ -114,19 +114,19 @@ place and every time have made tools for exactly this reason.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The heart of it is the *comparison*, so
-let every learner actually try both ways and say the difference in their own words.
-Keep it hands-on and concrete: carrying, scooping, and sweeping are real tasks a
-six-year-old knows. Do not use water for the demonstration — in places where water is
-scarce, wasting even a little sends the wrong message and can be a real hardship; dry
-beans, pebbles, or seeds work perfectly. Reinforce the unit's commitment: a basket, a
-gourd, or a folded cloth is just as much a tool as anything new, and an older tool is
-not "less." For a learner with motor differences, the choosing and the saying are the
-task — they may direct a partner's hands and describe the difference; adapt the tool
-too (a wide, light cup, a handled basket). A learner who is blind or has low vision can
-feel how many dry things fit in cupped hands versus in the carrier, and describe the
-difference by weight and fullness. A non-speaking learner can point to the fuller
-carrier and to a picture for "easier" or "faster."
+The heart of it is the *comparison*, so let every learner actually try both ways and say
+the difference in their own words. Keep it hands-on and concrete: carrying, scooping,
+and sweeping are real tasks a six-year-old knows. Do not use water for the
+demonstration — in places where water is scarce, wasting even a little sends the wrong
+message and can be a real hardship; dry beans, pebbles, or seeds work perfectly.
+Reinforce the unit's commitment: a basket, a gourd, or a folded cloth is just as much a
+tool as anything new, and an older tool is not "less." For a learner with motor
+differences, the choosing and the saying are the task — they may direct a partner's
+hands and describe the difference; adapt the tool too (a wide, light cup, a handled
+basket). A learner who is blind or has low vision can feel how many dry things fit in
+cupped hands versus in the carrier, and describe the difference by weight and fullness.
+A non-speaking learner can point to the fuller carrier and to a picture for "easier" or
+"faster."
 
 ## Procedure
 

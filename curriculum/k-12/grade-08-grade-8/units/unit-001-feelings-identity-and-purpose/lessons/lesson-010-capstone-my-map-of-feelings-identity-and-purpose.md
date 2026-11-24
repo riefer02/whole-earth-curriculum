@@ -128,21 +128,21 @@ sail.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the unit's three
-movements are one integrated skill — analyze, know, steer — and the learner now owns a
-personal map of it.** Use spaced retrieval: have learners recall each movement's key idea
-*from memory before* opening their folders, because recall (not re-reading) is what makes
-learning stick (Dunlosky et al. 2013, S-039). This is a capstone, so assess *growth and
-integration*, not ranking. The *ethics* lens: the map is not only about the self — steering
-well means steering toward what is fair to others. The *egalitarian* lens: every learner's
-map is valid; there is no "best" map, and no learner's identities or choices are ranked
-against another's. The *global* lens: the map travels — the same three skills serve a person
-in a city, a village, a boat, or a field, even as the details of their life differ. The
-*critical-thinking* lens: the map is held as a living draft, open to revision as the learner
-grows — not a fixed verdict on who they are. Have learners return to the "one thing I am
-curious about" note from Lesson 1 and see how far they have come. Celebrate completion as a
-community; keep the tone warm and forward-looking. See `docs/facilitation.md` and
-`docs/art-style.md`.
+The idea to land: **the unit's three movements are one integrated skill — analyze, know,
+steer — and the learner now owns a personal map of it.** Use spaced retrieval: have
+learners recall each movement's key idea *from memory before* opening their folders,
+because recall (not re-reading) is what makes learning stick (Dunlosky et al. 2013,
+S-039). This is a capstone, so assess *growth and integration*, not ranking. The
+*ethics* lens: the map is not only about the self — steering well means steering toward
+what is fair to others. The *egalitarian* lens: every learner's map is valid; there is
+no "best" map, and no learner's identities or choices are ranked against another's. The
+*global* lens: the map travels — the same three skills serve a person in a city, a
+village, a boat, or a field, even as the details of their life differ. The
+*critical-thinking* lens: the map is held as a living draft, open to revision as the
+learner grows — not a fixed verdict on who they are. Have learners return to the "one
+thing I am curious about" note from Lesson 1 and see how far they have come. Celebrate
+completion as a community; keep the tone warm and forward-looking. See
+`docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure
 

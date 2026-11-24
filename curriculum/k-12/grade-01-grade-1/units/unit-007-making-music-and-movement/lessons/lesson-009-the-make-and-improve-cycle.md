@@ -116,17 +116,15 @@ travel the whole circle on one build.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. The cycle is a **skill structure**, so model it explicitly
-once — you imagine aloud, plan aloud, build, test, improve — before learners run it
-themselves (Kirschner, Sweller & Clark, 2006). Keep the five steps as pictures or
-spoken words; reading and writing are not required. Let learners travel the loop at
-their own speed — some will go around once, some several times; both are complete.
-Treat "improve" as a step that always exists, not a sign of earlier failure. A
-learner with limited fine motor narrates the cycle and directs a partner who builds.
-A learner who is blind or has low vision travels the cycle by feel and spoken steps;
-the cycle chart can be made tactile — a string circle with a stone marking each step.
-Honor every journey around the circle.
+The cycle is a **skill structure**, so model it explicitly once — you imagine aloud,
+plan aloud, build, test, improve — before learners run it themselves (Kirschner, Sweller
+& Clark, 2006). Keep the five steps as pictures or spoken words; reading and writing are
+not required. Let learners travel the loop at their own speed — some will go around
+once, some several times; both are complete. Treat "improve" as a step that always
+exists, not a sign of earlier failure. A learner with limited fine motor narrates the
+cycle and directs a partner who builds. A learner who is blind or has low vision travels
+the cycle by feel and spoken steps; the cycle chart can be made tactile — a string
+circle with a stone marking each step. Honor every journey around the circle.
 
 ## Procedure
 

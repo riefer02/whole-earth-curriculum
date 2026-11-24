@@ -115,23 +115,23 @@ go away, but it stops it from steering you in secret. Today you practice that li
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **noticing a body signal
-(hunger, fatigue, stress), naming it, and tracing how it steers mood and thinking — then
-choosing a small, non-judgmental response (water, food, a slow breath, rest).** This is a
-*skill*, so use a **worked example first, then guided practice** (S-011). The
-critical-thinking lens: this is the same move as checking a source before trusting a
-claim — check the body state before trusting a thought. The ethics lens: reading your own
-signals is self-respect, not self-indulgence; it is the opposite of the old message that
-we should "push through" and ignore the body. The egalitarian lens: bodies signal
-differently — some people feel hunger as a sudden crash, others as a slow fade; some
-people use assistive devices and cannot feel certain signals, and that is not a deficit.
-The global lens: every culture has words for reading the body's needs, and no one way of
-naming or responding is more legitimate. Hold the tone as **noticing, never judging**: a
-learner who notices they are stressed or tired is doing it right; the lesson never grades
-how "calm" anyone gets. Remind learners that a body scan can sometimes surface distress;
-if a learner becomes uncomfortable, they may pause or step out, and the facilitator or a
-trusted adult can follow up. Keep all examples free of weight, calories, or "should"
-language about food or rest — a small snack is fuel, not a moral act.
+The skill to land: **noticing a body signal (hunger, fatigue, stress), naming it, and
+tracing how it steers mood and thinking — then choosing a small, non-judgmental response
+(water, food, a slow breath, rest).** This is a *skill*, so use a **worked example
+first, then guided practice** (S-011). The critical-thinking lens: this is the same move
+as checking a source before trusting a claim — check the body state before trusting a
+thought. The ethics lens: reading your own signals is self-respect, not self-indulgence;
+it is the opposite of the old message that we should "push through" and ignore the body.
+The egalitarian lens: bodies signal differently — some people feel hunger as a sudden
+crash, others as a slow fade; some people use assistive devices and cannot feel certain
+signals, and that is not a deficit. The global lens: every culture has words for reading
+the body's needs, and no one way of naming or responding is more legitimate. Hold the
+tone as **noticing, never judging**: a learner who notices they are stressed or tired is
+doing it right; the lesson never grades how "calm" anyone gets. Remind learners that a
+body scan can sometimes surface distress; if a learner becomes uncomfortable, they may
+pause or step out, and the facilitator or a trusted adult can follow up. Keep all
+examples free of weight, calories, or "should" language about food or rest — a small
+snack is fuel, not a moral act.
 
 ## Procedure
 

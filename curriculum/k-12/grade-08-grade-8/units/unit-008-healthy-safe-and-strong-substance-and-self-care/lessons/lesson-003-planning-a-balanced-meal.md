@@ -111,21 +111,23 @@ foods you already know and love.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a balanced meal brings together
-several food groups so the body gets a mix of nutrients — vegetables and fruit, grains (starchy foods),
-protein foods (beans, lentils, eggs, fish, meat, nuts), and water to drink (S-038, S-120).** It is a
-*mix*, not a formula: no single food is "the" healthy food, and no family's meal is wrong. The standard
-does not ask for a specific diet, so honor every way of eating — vegetarian, vegan, halal, kosher,
-gluten-free, and the many food-based dietary guidelines that differ by country and culture (S-118). Use
-the plate as a *worked example*: build one plate together (rice + beans + greens + a fruit + water),
-then let learners build their own from their own family's foods (explicit instruction carries novice
-skills — S-011). The egalitarian lens: access to a full, varied plate is not equal everywhere, and food
-security is a matter of justice (S-120); the lesson never shames a learner for what is or is not on
-their table. The global lens: many cultures express "balanced" differently — combining a grain with a
-legume (rice + beans, maize + beans, bread + chickpeas) is a worldwide pattern that makes protein
-complete. The ethics lens: planning a meal for a family is an act of care. The environment lens: plant
-foods and foods grown nearby often cost the Earth less — a thread we pick up more in Grade 9. Keep the
-tone warm and practical; this is about nourishment, never weight or judgment.
+The idea to land: **a balanced meal brings together several food groups so the body gets
+a mix of nutrients — vegetables and fruit, grains (starchy foods), protein foods (beans,
+lentils, eggs, fish, meat, nuts), and water to drink (S-038, S-120).** It is a *mix*,
+not a formula: no single food is "the" healthy food, and no family's meal is wrong. The
+standard does not ask for a specific diet, so honor every way of eating — vegetarian,
+vegan, halal, kosher, gluten-free, and the many food-based dietary guidelines that
+differ by country and culture (S-118). Use the plate as a *worked example*: build one
+plate together (rice + beans + greens + a fruit + water), then let learners build their
+own from their own family's foods (explicit instruction carries novice skills — S-011).
+The egalitarian lens: access to a full, varied plate is not equal everywhere, and food
+security is a matter of justice (S-120); the lesson never shames a learner for what is
+or is not on their table. The global lens: many cultures express "balanced"
+differently — combining a grain with a legume (rice + beans, maize + beans, bread +
+chickpeas) is a worldwide pattern that makes protein complete. The ethics lens: planning
+a meal for a family is an act of care. The environment lens: plant foods and foods grown
+nearby often cost the Earth less — a thread we pick up more in Grade 9. Keep the tone
+warm and practical; this is about nourishment, never weight or judgment.
 
 ## Procedure
 

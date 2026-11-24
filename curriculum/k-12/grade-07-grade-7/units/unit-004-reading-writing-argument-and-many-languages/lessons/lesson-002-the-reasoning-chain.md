@@ -115,16 +115,15 @@ you can check.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **reasoning is a
-chain, and evaluating it means finding the weak link — not rejecting the person**.
-Model one full chain and one broken chain as worked examples before independent practice
-(Kirschner, Sweller & Clark, 2006). Keep arguments small and safe; translate everything
-into the home language; vary accents and regions so no voice is "the correct one." The
-four lenses: *ethics* (is the reasoning honest?); *egalitarianism* (does a weak chain
-hurt some people more — e.g., a false health claim spread to those with less access to
-doctors?); *global* (reasoning patterns appear everywhere); *technology* (radio, phone,
-and internet carry claims faster, so checking chains matters more). See
-`docs/facilitation.md`.
+The idea to land is that **reasoning is a chain, and evaluating it means finding the
+weak link — not rejecting the person**. Model one full chain and one broken chain as
+worked examples before independent practice (Kirschner, Sweller & Clark, 2006). Keep
+arguments small and safe; translate everything into the home language; vary accents and
+regions so no voice is "the correct one." The four lenses: *ethics* (is the reasoning
+honest?); *egalitarianism* (does a weak chain hurt some people more — e.g., a false
+health claim spread to those with less access to doctors?); *global* (reasoning patterns
+appear everywhere); *technology* (radio, phone, and internet carry claims faster, so
+checking chains matters more). See `docs/facilitation.md`.
 
 ## Procedure
 

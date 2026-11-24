@@ -117,21 +117,20 @@ Today you will feel both in your own body.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **No body or pace is judged.** Every body
-moves and rests in its own way, and some bodies move with wheels, aids, or help — all
-movement counts. Do not turn movement into a contest or tie it to body size; the goal is
-the felt sense of moving and resting. Sleep needs vary, too — most children aged 6–12
-need about 9–12 hours a night (American Academy of Sleep Medicine), but families and
-bodies differ, and rest is never a rule to be shamed over. A learner who uses a
-wheelchair or has motor differences moves in their own way — celebrate it; a learner who
-does not use a speaking voice points or acts out rest and motion; a learner who is blind
-or has low vision feels the heartbeat after moving and the body slowing at rest; a
-learner who is deaf or hard of hearing follows the cards and the demonstration, and can
-feel the fast-then-slow heartbeat by touching their chest. This lesson finishes the four
-needs and sets up the unit's later food-origins and safety lessons. Health facts: the
-World Health Organization recommends regular physical activity for children's health,
-and the American Academy of Sleep Medicine recommends about 9–12 hours of sleep for
-children aged 6–12.
+**No body or pace is judged.** Every body moves and rests in its own way, and some
+bodies move with wheels, aids, or help — all movement counts. Do not turn movement into
+a contest or tie it to body size; the goal is the felt sense of moving and resting.
+Sleep needs vary, too — most children aged 6–12 need about 9–12 hours a night (American
+Academy of Sleep Medicine), but families and bodies differ, and rest is never a rule to
+be shamed over. A learner who uses a wheelchair or has motor differences moves in their
+own way — celebrate it; a learner who does not use a speaking voice points or acts out
+rest and motion; a learner who is blind or has low vision feels the heartbeat after
+moving and the body slowing at rest; a learner who is deaf or hard of hearing follows
+the cards and the demonstration, and can feel the fast-then-slow heartbeat by touching
+their chest. This lesson finishes the four needs and sets up the unit's later
+food-origins and safety lessons. Health facts: the World Health Organization recommends
+regular physical activity for children's health, and the American Academy of Sleep
+Medicine recommends about 9–12 hours of sleep for children aged 6–12.
 
 ## Procedure
 

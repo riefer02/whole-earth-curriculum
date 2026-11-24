@@ -110,25 +110,24 @@ time?" Weighing that honestly is what this lesson is for.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **every energy source
-has environmental and social trade-offs — emissions, air and water quality, land, waste,
-cost, and who bears the burden; evaluating a source means weighing all of these, and
-the burden falls unevenly, which makes energy a justice question.** Model scoring one
-source (S-011), then let learners score the rest and defend their rankings. Keep the
-tone honest but not despairing: the point is informed choice and agency.
+The idea to land: **every energy source has environmental and social trade-offs —
+emissions, air and water quality, land, waste, cost, and who bears the burden;
+evaluating a source means weighing all of these, and the burden falls unevenly, which
+makes energy a justice question.** Model scoring one source (S-011), then let learners
+score the rest and defend their rankings. Keep the tone honest but not despairing: the
+point is informed choice and agency.
 
 The **environment** lens: burning fossil fuels is the main human driver of the added
-greenhouse gases changing the climate (S-438, S-005). The **ethics** lens: a choice
-that poisons someone else's air or home is a moral choice, not just an efficiency one.
-The **egalitarian** lens: the costs of energy fall hardest on the poor — households
+greenhouse gases changing the climate (S-438, S-005). The **ethics** lens: a choice that
+poisons someone else's air or home is a moral choice, not just an efficiency one. The
+**egalitarian** lens: the costs of energy fall hardest on the poor — households
 breathing indoor smoke from cooking fires, communities downwind of plants, and the
 hundreds of millions still without electricity — while the benefits often flow to
-others; that mismatch is the heart of **environmental justice** (S-483). The
-**global** lens: no
-single source fits every place; a fair energy future is a *mix* chosen locally — sun
-where it shines, wind where it blows, rivers where they run — not one answer imposed
-everywhere. Preview: Lesson 13 turns from energy to the cosmos — the Big Bang model
-and its evidence.
+others; that mismatch is the heart of **environmental justice** (S-483). The **global**
+lens: no single source fits every place; a fair energy future is a *mix* chosen
+locally — sun where it shines, wind where it blows, rivers where they run — not one
+answer imposed everywhere. Preview: Lesson 13 turns from energy to the cosmos — the Big
+Bang model and its evidence.
 
 ## Procedure
 

@@ -126,20 +126,19 @@ many — that people count and record time.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Sequencing by date is a foundational
-skill, so teach it with a worked example first** (Kirschner, Sweller & Clark, 2006):
-model placing two cards, saying the date and checking "2560 BCE is further back than
-2500 BCE, so the pyramid goes before the city." Then guide the rest before learners
-work independently. **Teach BCE/CE simply and honestly:** "CE means Common Era — the
-years most of the world now counts forward from; BCE means Before Common Era, the
-years before that point." **This is one calendar among many** — different peoples mark
-years in their own ways (Islamic, Hebrew, Chinese, and many others), and a timeline
-using BCE/CE is a shared tool, not the only truth about time. This is a **global
-story, never one people's triumph**: the events are chosen from Africa, South Asia,
-and the Americas so no single region is the "main" story. Honor every body: describe
-each card in words for a learner who cannot see it; a learner who does not use a
-speaking voice points or places the card. Dates are approximate ("about") — that
-honesty is part of doing history well.
+**Sequencing by date is a foundational skill, so teach it with a worked example first**
+(Kirschner, Sweller & Clark, 2006): model placing two cards, saying the date and
+checking "2560 BCE is further back than 2500 BCE, so the pyramid goes before the city."
+Then guide the rest before learners work independently. **Teach BCE/CE simply and
+honestly:** "CE means Common Era — the years most of the world now counts forward from;
+BCE means Before Common Era, the years before that point." **This is one calendar among
+many** — different peoples mark years in their own ways (Islamic, Hebrew, Chinese, and
+many others), and a timeline using BCE/CE is a shared tool, not the only truth about
+time. This is a **global story, never one people's triumph**: the events are chosen from
+Africa, South Asia, and the Americas so no single region is the "main" story. Honor
+every body: describe each card in words for a learner who cannot see it; a learner who
+does not use a speaking voice points or places the card. Dates are approximate
+("about") — that honesty is part of doing history well.
 
 ## Procedure
 

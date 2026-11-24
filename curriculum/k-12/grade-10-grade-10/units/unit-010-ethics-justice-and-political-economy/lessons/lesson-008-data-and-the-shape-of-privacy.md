@@ -112,19 +112,20 @@ arguing about what should be protected.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **technology and data do not have a
-single effect on privacy — they expand it for some and limit it for others, often at once; the skill
-is seeing which and for whom.** Frame privacy as a real, recognized right: the Universal Declaration
-of Human Rights affirms protection from arbitrary interference with privacy, family, home, and
-correspondence (S-149). Keep the facts hedged and non-panicky: data tools genuinely help (mobile
-money where banks are scarce, S-211; remote care; connection), and genuinely risk exposure
-(surveillance, data that outlives consent). The **technology** lens is the spine. The **egalitarian**
-lens: the people whose privacy shrinks are often the least powerful — and the digital divide means
-some are excluded from the benefits while others are over-exposed (S-281). The **global** lens:
-privacy is understood differently across cultures, and protections differ by law and custom — none is
-the default. Distinguish evidence (what data is collected) from values (what should be protected)
-(philosophy §5), and hold questions open (philosophy §11). Preview: next lesson we build an argument
-for protections.
+The idea to land: **technology and data do not have a single effect on privacy — they
+expand it for some and limit it for others, often at once; the skill is seeing which and
+for whom.** Frame privacy as a real, recognized right: the Universal Declaration of
+Human Rights affirms protection from arbitrary interference with privacy, family, home,
+and correspondence (S-149). Keep the facts hedged and non-panicky: data tools genuinely
+help (mobile money where banks are scarce, S-211; remote care; connection), and
+genuinely risk exposure (surveillance, data that outlives consent). The **technology**
+lens is the spine. The **egalitarian** lens: the people whose privacy shrinks are often
+the least powerful — and the digital divide means some are excluded from the benefits
+while others are over-exposed (S-281). The **global** lens: privacy is understood
+differently across cultures, and protections differ by law and custom — none is the
+default. Distinguish evidence (what data is collected) from values (what should be
+protected) (philosophy §5), and hold questions open (philosophy §11). Preview: next
+lesson we build an argument for protections.
 
 ## Procedure
 

@@ -121,26 +121,32 @@ the same calm dignity you would use for any other part of you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The concept to land: **every part of the body,
-including the reproductive system, has an accurate name, and knowing and using those names — without
-shame or giggling — is a health skill and an act of dignity.** This is foundational knowledge, so use
-explicit instruction and worked examples: model labeling one diagram completely before learners work
-independently (S-011). Use the accurate terms and say them calmly and matter-of-factly; your own
-comfort sets the room's comfort. Key accurate terms to teach — **with a uterus and ovaries:** vulva
-(the external parts: clitoris, inner and outer labia, the urethral and vaginal openings), vagina,
-cervix, uterus, fallopian tubes, ovaries; **with testes:** penis, scrotum, testes, epididymis, vas
-deferens, urethra, prostate. Bodies vary, so describe parts by their presence ("people with a
-uterus") rather than assuming parts equal gender; a person's parts do not define who they are. The
-egalitarian lens: **there is no "normal" body — bodies vary in size, shape, and how they are made,
-including intersex variations and differences of ability — and every one is a full, legitimate body.**
-The ethics lens: accurate names protect people — a person who can name a part can report pain or
-harm precisely and get care. The global lens: every language has words for these parts, and in many
-cultures they are named plainly by parents, elders, and healers; the whisper-and-slang habit is one
-cultural style, not a universal rule. The critical-thinking lens: slang and euphemism are not the
-problem; the problem is *not knowing the real name when it matters.* The technology lens: medical imaging — from the labeled diagrams you hold today to ultrasound and other scans — is how we see inside a living body without opening it, and it has made reproductive health safer and more knowable; the same technology can also be turned to judge or police bodies, so we use it to inform, never to shame. Keep it factual and calm, cite
-the anatomy/reproductive-health authority (WHO adolescent health, S-261; UNESCO CSE, S-412), and
-remember: a learner may always pass; never require anyone to point at or name anything aloud if they
-are not ready.
+The concept to land: **every part of the body, including the reproductive system, has an
+accurate name, and knowing and using those names — without shame or giggling — is a
+health skill and an act of dignity.** This is foundational knowledge, so use explicit
+instruction and worked examples: model labeling one diagram completely before learners
+work independently (S-011). Use the accurate terms and say them calmly and
+matter-of-factly; your own comfort sets the room's comfort. Key accurate terms to
+teach — **with a uterus and ovaries:** vulva (the external parts: clitoris, inner and
+outer labia, the urethral and vaginal openings), vagina, cervix, uterus, fallopian
+tubes, ovaries; **with testes:** penis, scrotum, testes, epididymis, vas deferens,
+urethra, prostate. Bodies vary, so describe parts by their presence ("people with a
+uterus") rather than assuming parts equal gender; a person's parts do not define who
+they are. The egalitarian lens: **there is no "normal" body — bodies vary in size,
+shape, and how they are made, including intersex variations and differences of ability —
+and every one is a full, legitimate body.** The ethics lens: accurate names protect
+people — a person who can name a part can report pain or harm precisely and get care.
+The global lens: every language has words for these parts, and in many cultures they are
+named plainly by parents, elders, and healers; the whisper-and-slang habit is one
+cultural style, not a universal rule. The critical-thinking lens: slang and euphemism
+are not the problem; the problem is *not knowing the real name when it matters.* The
+technology lens: medical imaging — from the labeled diagrams you hold today to
+ultrasound and other scans — is how we see inside a living body without opening it, and
+it has made reproductive health safer and more knowable; the same technology can also be
+turned to judge or police bodies, so we use it to inform, never to shame. Keep it
+factual and calm, cite the anatomy/reproductive-health authority (WHO adolescent health,
+S-261; UNESCO CSE, S-412), and remember: a learner may always pass; never require anyone
+to point at or name anything aloud if they are not ready.
 
 ## Procedure
 

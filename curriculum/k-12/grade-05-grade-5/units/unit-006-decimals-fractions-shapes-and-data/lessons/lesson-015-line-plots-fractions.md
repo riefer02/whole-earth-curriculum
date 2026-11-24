@@ -112,14 +112,15 @@ rare.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) a **line plot** shows each
-data point as an **X above a number line**, so repeated values stack up; (2) the **tallest stack**
-shows the most common value; (3) the **range** is largest minus smallest. Model building one plot
-step by step as a worked example (Kirschner, Sweller & Clark, 2006), then guide a second. Common
-slips: putting X marks between the marks instead of on them, and confusing "most common" with
-"largest." Retrieval: ask learners to recall the number line from Lesson 2 and the fraction work
-from Lessons 4–6 and reuse them. Data display is evidence; the habit of showing data honestly —
-every point, no hiding — is a critical-thinking and fairness value (`docs/philosophy.md` §4, §7).
+The ideas to land: (1) a **line plot** shows each data point as an **X above a number
+line**, so repeated values stack up; (2) the **tallest stack** shows the most common
+value; (3) the **range** is largest minus smallest. Model building one plot step by step
+as a worked example (Kirschner, Sweller & Clark, 2006), then guide a second. Common
+slips: putting X marks between the marks instead of on them, and confusing "most common"
+with "largest." Retrieval: ask learners to recall the number line from Lesson 2 and the
+fraction work from Lessons 4–6 and reuse them. Data display is evidence; the habit of
+showing data honestly — every point, no hiding — is a critical-thinking and fairness
+value (`docs/philosophy.md` §4, §7).
 
 ## Procedure
 

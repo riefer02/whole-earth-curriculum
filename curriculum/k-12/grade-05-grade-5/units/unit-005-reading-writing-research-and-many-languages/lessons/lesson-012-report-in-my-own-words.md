@@ -115,13 +115,13 @@ century." Own words plus credit — that is a report you can be proud of.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The two ideas to land are **own words** and
-**credit** — and that copying without credit is plagiarism, which is about honesty and fairness
-to the person who did the work, not just a school rule. Frame it through the ethics lens: we
-give credit because we value people's work. Model restating one note in own words (a novice
-skill — use a worked example and guided practice; Kirschner, Sweller & Clark, 2006). Honor
-home languages: writing the report in a home language is welcome, and paraphrasing into a
-second language is advanced, valuable work. Keep the credit format simple and age-appropriate.
+The two ideas to land are **own words** and **credit** — and that copying without credit
+is plagiarism, which is about honesty and fairness to the person who did the work, not
+just a school rule. Frame it through the ethics lens: we give credit because we value
+people's work. Model restating one note in own words (a novice skill — use a worked
+example and guided practice; Kirschner, Sweller & Clark, 2006). Honor home languages:
+writing the report in a home language is welcome, and paraphrasing into a second
+language is advanced, valuable work. Keep the credit format simple and age-appropriate.
 
 ## Procedure
 

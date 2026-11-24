@@ -115,18 +115,18 @@ you can practice until it feels calm and automatic.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Teach choking response **safely and
-factually**, and lead with the rule: **call for emergency help and get an adult
-immediately.** The facts to land: if someone is choking and cannot breathe, talk, or
-cough — the "universal sign" is hands clutching the throat — call the emergency number
-and get an adult at once; back blows and abdominal thrusts can help but must be learned
-from a certified instructor, and learners at this age should be taught to seek help and,
-if trained, assist (IFRC Global First Aid Reference Centre). Do **not** have learners
-practice thrusts on each other — use a manikin or instructor demonstration only. Teach
-the emergency call: say your name, where you are, and what happened, and stay on the line
-until told to hang up. Emergency numbers differ by country (112, 999, 911, and local
-numbers) — teach the correct one for the region. Frame getting help as skill and courage,
-never as weakness. See `docs/facilitation.md`.
+Teach choking response **safely and factually**, and lead with the rule: **call for
+emergency help and get an adult immediately.** The facts to land: if someone is choking
+and cannot breathe, talk, or cough — the "universal sign" is hands clutching the
+throat — call the emergency number and get an adult at once; back blows and abdominal
+thrusts can help but must be learned from a certified instructor, and learners at this
+age should be taught to seek help and, if trained, assist (IFRC Global First Aid
+Reference Centre). Do **not** have learners practice thrusts on each other — use a
+manikin or instructor demonstration only. Teach the emergency call: say your name, where
+you are, and what happened, and stay on the line until told to hang up. Emergency
+numbers differ by country (112, 999, 911, and local numbers) — teach the correct one for
+the region. Frame getting help as skill and courage, never as weakness. See
+`docs/facilitation.md`.
 
 ## Procedure
 

@@ -106,18 +106,17 @@ same window — that is fair, and it is not the same.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson introduces *equity* gently: fair is not
-always equal. Use the stool-and-window or snack-and-hunger examples; keep it concrete
-and never abstract. Some learners will insist "same amount" is the only fair way —
-honor that as one real way, and hold the "what you need" idea alongside it as a
-question to wonder about, not a correction. Turn-taking should feel cooperative, not
-competitive; no one wins or loses. The passing object echoes talking circles used
-by many Indigenous peoples around the world, where an object passes from speaker to
-speaker so each voice is heard — we use it respectfully, not as decoration. A learner
-who cannot hold or pass the object still takes a turn: a partner passes it for them,
-or they point to a picture, sign, or nod their name or the thing they like. Sharing
-your name or one thing you like can be spoken, signed, pointed to, or shown with a
-gesture — no one is required to speak aloud.
+This lesson introduces *equity* gently: fair is not always equal. Use the
+stool-and-window or snack-and-hunger examples; keep it concrete and never abstract. Some
+learners will insist "same amount" is the only fair way — honor that as one real way,
+and hold the "what you need" idea alongside it as a question to wonder about, not a
+correction. Turn-taking should feel cooperative, not competitive; no one wins or loses.
+The passing object echoes talking circles used by many Indigenous peoples around the
+world, where an object passes from speaker to speaker so each voice is heard — we use it
+respectfully, not as decoration. A learner who cannot hold or pass the object still
+takes a turn: a partner passes it for them, or they point to a picture, sign, or nod
+their name or the thing they like. Sharing your name or one thing you like can be
+spoken, signed, pointed to, or shown with a gesture — no one is required to speak aloud.
 
 ## Procedure
 

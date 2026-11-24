@@ -110,23 +110,25 @@ oceans. Today you learn how the face of the Earth was sculpted, one slow inch at
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) Earth's outer layer is
-broken into large plates that move very slowly; (2) at a divergent boundary plates pull apart and
-new crust forms — mid-ocean ridges and widening ocean basins; (3) at a convergent boundary plates
-collide — mountains rise, and where one plate sinks, deep ocean trenches and volcanoes form; (4) at
-a transform boundary plates slide past each other — faults and earthquakes; (5) this has been
-reshaping continents, mountains, and ocean basins for millions of years.** Use the plate-tectonics
-source (S-186) and the erosion source for the slow-change context (S-185). The critical-thinking
-lens and a beautiful cross-link: **plate tectonics is itself a model-revision story** — Alfred
-Wegener proposed "continental drift" early in the 1900s, but it was mostly rejected until new
-evidence (matching rocks and fossils across oceans, sea-floor mapping) revised and strengthened it
-into the theory of plate tectonics (S-186). The global lens: the same plates shape every continent,
-and the Ring of Fire — a belt of earthquakes and volcanoes around the Pacific — is where millions
-of people live with the land's power, and many cultures have long understood and adapted to it. The
-ethics lens: living with earthquakes and volcanoes is not evenly distributed — some communities
-carry more risk, and preparedness and safe housing are matters of justice. The environment lens: the
-slow drift also shapes climate and habitats over millions of years. Keep the timescale honest —
-"millions of years" is a model of deep time built from evidence (S-185).
+The ideas to land: **(1) Earth's outer layer is broken into large plates that move very
+slowly; (2) at a divergent boundary plates pull apart and new crust forms — mid-ocean
+ridges and widening ocean basins; (3) at a convergent boundary plates collide —
+mountains rise, and where one plate sinks, deep ocean trenches and volcanoes form; (4)
+at a transform boundary plates slide past each other — faults and earthquakes; (5) this
+has been reshaping continents, mountains, and ocean basins for millions of years.** Use
+the plate-tectonics source (S-186) and the erosion source for the slow-change context
+(S-185). The critical-thinking lens and a beautiful cross-link: **plate tectonics is
+itself a model-revision story** — Alfred Wegener proposed "continental drift" early in
+the 1900s, but it was mostly rejected until new evidence (matching rocks and fossils
+across oceans, sea-floor mapping) revised and strengthened it into the theory of plate
+tectonics (S-186). The global lens: the same plates shape every continent, and the Ring
+of Fire — a belt of earthquakes and volcanoes around the Pacific — is where millions of
+people live with the land's power, and many cultures have long understood and adapted to
+it. The ethics lens: living with earthquakes and volcanoes is not evenly distributed —
+some communities carry more risk, and preparedness and safe housing are matters of
+justice. The environment lens: the slow drift also shapes climate and habitats over
+millions of years. Keep the timescale honest — "millions of years" is a model of deep
+time built from evidence (S-185).
 
 ## Procedure
 

@@ -101,11 +101,11 @@ you are proud of helps you know yourself.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Keep pride personal: each learner's
-proud moment is *their* moment, and none is "bigger" than another. Model naming the
-effort behind your own proud moment ("I am proud of finishing my garden because I
-watered it every day"). Watch for learners who struggle to find something — offer
-small, real examples (shared a toy, tried a new food, climbed higher).
+Keep pride personal: each learner's proud moment is *their* moment, and none is "bigger"
+than another. Model naming the effort behind your own proud moment ("I am proud of
+finishing my garden because I watered it every day"). Watch for learners who struggle to
+find something — offer small, real examples (shared a toy, tried a new food, climbed
+higher).
 
 ## Procedure
 

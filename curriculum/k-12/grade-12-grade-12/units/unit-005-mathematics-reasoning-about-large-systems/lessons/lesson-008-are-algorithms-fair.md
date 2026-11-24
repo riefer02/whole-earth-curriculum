@@ -118,26 +118,27 @@ but only if we look.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an algorithm can be
-correct yet unfair; bias can enter through the input, through the rule itself, or through a
-proxy that stands in for a protected attribute — and we can see all three by tracing the
-same rule on different inputs.** Teach the trace explicitly (S-011), then let learners
-argue about fairness — that argument *is* the learning, so hold it open rather than closing
-it with one verdict. Keep the descriptive question (does the output differ by group?) apart
-from the value question (is that difference acceptable?), per philosophy §5.
+The idea to land: **an algorithm can be correct yet unfair; bias can enter through the
+input, through the rule itself, or through a proxy that stands in for a protected
+attribute — and we can see all three by tracing the same rule on different inputs.**
+Teach the trace explicitly (S-011), then let learners argue about fairness — that
+argument *is* the learning, so hold it open rather than closing it with one verdict.
+Keep the descriptive question (does the output differ by group?) apart from the value
+question (is that difference acceptable?), per philosophy §5.
 
-The **ethics** lens: a rule that is correct but harmful still carries moral weight; naming
-that is the whole point of the lesson. The **egalitarianism** lens: fairness is judged by
-who is left out — a rule is not fair just because its author intended it to be; check the
-outputs, not the intentions. The **global** lens: the same mechanism appears everywhere
-algorithms gate scarce things — credit, housing, jobs, migration, school places — across
-many legal and cultural contexts, none of which is the default. The **technology** lens:
-recommendation and ranking systems shape what we see and get; personalization can wrap a
-person in a "filter bubble" of what confirms their existing views (S-482, S-481). The
-**environment** lens: allocation algorithms decide who gets water, land, or disaster
-relief, so a biased rule can mean real ecological and bodily harm to one group (S-483).
-The **critical-thinking** lens: distinguishing input bias, a biased rule, and a biased
-proxy is careful analysis, not slogan. Preview: Lesson 9 turns to coordinates and vectors.
+The **ethics** lens: a rule that is correct but harmful still carries moral weight;
+naming that is the whole point of the lesson. The **egalitarianism** lens: fairness is
+judged by who is left out — a rule is not fair just because its author intended it to
+be; check the outputs, not the intentions. The **global** lens: the same mechanism
+appears everywhere algorithms gate scarce things — credit, housing, jobs, migration,
+school places — across many legal and cultural contexts, none of which is the default.
+The **technology** lens: recommendation and ranking systems shape what we see and get;
+personalization can wrap a person in a "filter bubble" of what confirms their existing
+views (S-482, S-481). The **environment** lens: allocation algorithms decide who gets
+water, land, or disaster relief, so a biased rule can mean real ecological and bodily
+harm to one group (S-483). The **critical-thinking** lens: distinguishing input bias, a
+biased rule, and a biased proxy is careful analysis, not slogan. Preview: Lesson 9 turns
+to coordinates and vectors.
 
 ## Procedure
 

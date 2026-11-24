@@ -98,11 +98,10 @@ the one that helps you be understood.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, honor every "language" — a quiet learner may
-prefer drawing to dancing. The point is choice and expression, not performance. If
-learners speak different languages at home, invite them to share a feeling word in
-their home language — every word is welcome.
+As facilitator, honor every "language" — a quiet learner may prefer drawing to dancing.
+The point is choice and expression, not performance. If learners speak different
+languages at home, invite them to share a feeling word in their home language — every
+word is welcome.
 
 ## Procedure
 

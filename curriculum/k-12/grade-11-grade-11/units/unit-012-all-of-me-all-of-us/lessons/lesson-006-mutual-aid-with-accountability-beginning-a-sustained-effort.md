@@ -121,29 +121,28 @@ year later.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **mutual aid is people
-meeting one another's needs together as equals — sharing the giving and the deciding — and
-accountability is what makes a single act into a sustained effort.** Dean Spade's *Mutual
-Aid* (S-345) makes the charity-vs-solidarity distinction precisely, and it is a
-*descriptive* distinction: saying they differ is not saying "charity is bad." The term
-"mutual aid" was popularized by Kropotkin's 1902 *Mutual Aid: A Factor of Evolution*
-(S-163). Named traditions of communal work span the world: harambee (East Africa),
-gotong royong (Indonesia), mink'a/minga (the Andes), and barn raising (North America),
-among others (S-164) — present each as one named tradition in one place, never as "all
-people there do this," and invite learners to verify local details with their own
-community.
+The idea to land: **mutual aid is people meeting one another's needs together as
+equals — sharing the giving and the deciding — and accountability is what makes a single
+act into a sustained effort.** Dean Spade's *Mutual Aid* (S-345) makes the
+charity-vs-solidarity distinction precisely, and it is a *descriptive* distinction:
+saying they differ is not saying "charity is bad." The term "mutual aid" was popularized
+by Kropotkin's 1902 *Mutual Aid: A Factor of Evolution* (S-163). Named traditions of
+communal work span the world: harambee (East Africa), gotong royong (Indonesia),
+mink'a/minga (the Andes), and barn raising (North America), among others (S-164) —
+present each as one named tradition in one place, never as "all people there do this,"
+and invite learners to verify local details with their own community.
 
-The **egalitarian** lens is central: who keeps the power is the difference between the two
-forms, and a shared accountability loop (rotating roles, open plans, a named checker) keeps
-power from re-concentrating inside even a well-meant effort. The **ethics** lens: dignity
-matters as much as the roof. The **global/anthropological** lens: these traditions are
-living practices on every continent, not ranked and not a Western export. The
-**critical-thinking** lens: "what keeps this honest and alive past next month?" is careful
-planning, not optimism. Distinguish evidence from values: "mutual-aid traditions are
-widespread and documented, and accountability structures help cooperation thrive" is
-descriptive (see also Slavin, S-147, and Johnson & Johnson, S-233, on cooperative
-structures); "sharing the deciding is a fairer way to help" is a value learners weigh.
-Model the plan once (S-011), then let learners plan.
+The **egalitarian** lens is central: who keeps the power is the difference between the
+two forms, and a shared accountability loop (rotating roles, open plans, a named
+checker) keeps power from re-concentrating inside even a well-meant effort. The
+**ethics** lens: dignity matters as much as the roof. The **global/anthropological**
+lens: these traditions are living practices on every continent, not ranked and not a
+Western export. The **critical-thinking** lens: "what keeps this honest and alive past
+next month?" is careful planning, not optimism. Distinguish evidence from values:
+"mutual-aid traditions are widespread and documented, and accountability structures help
+cooperation thrive" is descriptive (see also Slavin, S-147, and Johnson & Johnson,
+S-233, on cooperative structures); "sharing the deciding is a fairer way to help" is a
+value learners weigh. Model the plan once (S-011), then let learners plan.
 
 ## Procedure
 

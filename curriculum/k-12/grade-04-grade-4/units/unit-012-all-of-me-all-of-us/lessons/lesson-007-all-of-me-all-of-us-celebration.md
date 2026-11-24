@@ -140,21 +140,21 @@ look ahead. You are not finished; you are only beginning Grade 5.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's and year's **capstone**,
-with two commitments: **celebration, not competition**, and **every child belongs.** No
-best-work awards, no winners, no ranking — every learner's work is displayed equally, and
-every child shares or passes as they choose. Honor every family shape, tradition, and
-identity: a child's caring circle may be parents, one parent, grandparents, extended kin,
-guardians, foster or group care, a chosen family, or a trusted adult — and a learner may
-share with any of these, or pass. Handle adoption, loss, and mobility gently: the
-tradition and "what I have lived" pages are the learner's own, and a pass is a full
-share. In the circle, sharing is by choice; help learners name *concrete* things (the
-role they actually did, the care act they actually carried out) so the standards are met
-in the everyday, not the grand. Keep the Grade 5 goal small and real, with a first step —
-the habit from Lesson 3. For a learner who is Deaf or hard of hearing, make the
-celebration visual — clapping, signing, a flag wave, a visual "bravo." For a learner who
-is blind or has low vision, offer a spoken or tactile tour of the gallery. Keep the tone
-warm and generous: the class has grown together, and everyone belongs.
+It is the unit's and year's **capstone**, with two commitments: **celebration, not
+competition**, and **every child belongs.** No best-work awards, no winners, no
+ranking — every learner's work is displayed equally, and every child shares or passes as
+they choose. Honor every family shape, tradition, and identity: a child's caring circle
+may be parents, one parent, grandparents, extended kin, guardians, foster or group care,
+a chosen family, or a trusted adult — and a learner may share with any of these, or
+pass. Handle adoption, loss, and mobility gently: the tradition and "what I have lived"
+pages are the learner's own, and a pass is a full share. In the circle, sharing is by
+choice; help learners name *concrete* things (the role they actually did, the care act
+they actually carried out) so the standards are met in the everyday, not the grand. Keep
+the Grade 5 goal small and real, with a first step — the habit from Lesson 3. For a
+learner who is Deaf or hard of hearing, make the celebration visual — clapping, signing,
+a flag wave, a visual "bravo." For a learner who is blind or has low vision, offer a
+spoken or tactile tour of the gallery. Keep the tone warm and generous: the class has
+grown together, and everyone belongs.
 
 ## Procedure
 

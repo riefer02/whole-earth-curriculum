@@ -117,31 +117,29 @@ you made this unit.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **responsible design
-is judged by consequences, not appearance — four questions: who does it help, who does
-it harm, what does it cost the Earth, and could it be done better.** The same evidence
-base from Lesson 11 applies: e-waste toxicity (S-397), cobalt supply-chain abuses
-(S-398), the circular-economy alternative (S-452), universal design (S-369), and the
-Brundtland definition of sustainability (S-395). A judgment that names *evidence* is
-the difference between an opinion and a defended conclusion — the unit's capstone in
-critical thinking.
+The idea to land: **responsible design is judged by consequences, not appearance — four
+questions: who does it help, who does it harm, what does it cost the Earth, and could it
+be done better.** The same evidence base from Lesson 11 applies: e-waste toxicity
+(S-397), cobalt supply-chain abuses (S-398), the circular-economy alternative (S-452),
+universal design (S-369), and the Brundtland definition of sustainability (S-395). A
+judgment that names *evidence* is the difference between an opinion and a defended
+conclusion — the unit's capstone in critical thinking.
 
-Then the lesson turns inward: the portfolio is the unit's real product, and the
-closing reflection lets each learner see their own arc across all four strands — a
-body of visual work and an artist's explanation, a composed-and-recorded piece, a
+Then the lesson turns inward: the portfolio is the unit's real product, and the closing
+reflection lets each learner see their own arc across all four strands — a body of
+visual work and an artist's explanation, a composed-and-recorded piece, a
 devised-and-performed piece, and a documented design — each one carrying the
 appreciation-not-appropriation and responsible-not-harmful distinctions they practiced.
 
-The **ethics** lens: judging design is an ethical act — naming harm is the first step
-to preventing it. The **egalitarian** lens: always ask who is helped and who is left
-out; that question is the fairness test. The **global** lens: consequences cross
-borders — the harm and the benefit are distributed unevenly across the world. The
-**technology** lens: technology can serve or harm, and the designer (and the
-judge) decides which. The **environment** lens is the spine: the Earth's cost is real
-and measurable, and it is always on the sheet. The **community** lens: the portfolio
-sharing is a community act — each learner's work seen and honored by peers who want
-them to succeed. This is a summative close, kept low-stakes and celebratory (mastery,
-not ranking).
+The **ethics** lens: judging design is an ethical act — naming harm is the first step to
+preventing it. The **egalitarian** lens: always ask who is helped and who is left out;
+that question is the fairness test. The **global** lens: consequences cross borders —
+the harm and the benefit are distributed unevenly across the world. The **technology**
+lens: technology can serve or harm, and the designer (and the judge) decides which. The
+**environment** lens is the spine: the Earth's cost is real and measurable, and it is
+always on the sheet. The **community** lens: the portfolio sharing is a community act —
+each learner's work seen and honored by peers who want them to succeed. This is a
+summative close, kept low-stakes and celebratory (mastery, not ranking).
 
 ## Procedure
 

@@ -116,15 +116,15 @@ world, people live full, joyful lives with them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The goal is dignity and accurate
-language, not pity: an aid is a tool, and a person is never defined by it. Use
-person-first language naturally ("a person who uses a wheelchair," not "a
-wheelchair-bound person") and model respectful curiosity. Invite learners who use aids
-to share only if they want to — never put anyone on the spot. Keep the frame global:
-aids look different across cultures and resources, from a wooden walking stick to a
-high-tech hearing aid, and all are worthy of respect. This lesson retrieves Grade 3's
-sense work (two senses team up) and opens the unit's second strand: honoring diverse
-bodies. It also prepares for the next lesson on welcoming every body into play.
+The goal is dignity and accurate language, not pity: an aid is a tool, and a person is
+never defined by it. Use person-first language naturally ("a person who uses a
+wheelchair," not "a wheelchair-bound person") and model respectful curiosity. Invite
+learners who use aids to share only if they want to — never put anyone on the spot. Keep
+the frame global: aids look different across cultures and resources, from a wooden
+walking stick to a high-tech hearing aid, and all are worthy of respect. This lesson
+retrieves Grade 3's sense work (two senses team up) and opens the unit's second strand:
+honoring diverse bodies. It also prepares for the next lesson on welcoming every body
+into play.
 
 ## Procedure
 

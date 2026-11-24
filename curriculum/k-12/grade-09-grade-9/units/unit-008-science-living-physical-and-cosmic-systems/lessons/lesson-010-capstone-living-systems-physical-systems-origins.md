@@ -129,23 +129,26 @@ all. The capstone is not learning something new; it is seeing the whole.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Its job is **synthesis and honest self-assessment, not
-new content.** The idea to land: **the six ideas connect — matter cycles and energy flows in living
-systems; disruptions move carrying capacity; biodiversity buffers those disruptions; energy is
-conserved as it transforms in physical systems; atoms bond with energy in and out; greenhouse gases
-and deep time frame the Earth and the cosmos — and every one is held as an evidence-based explanation
-with stated limits.** Use a worked example first (S-011): link two ideas aloud (carbon atoms move
-through living systems by photosynthesis and respiration, into physical systems as fuel, and into the
-atmosphere as a greenhouse gas — one atom, three systems). The critical-thinking lens: a synthesis is
-only as honest as its limits, so the closing paragraph must state what the learner does *not* yet know
-or is uncertain about. The environment lens: the connected picture is also a stewardship picture — the
-carbon that flows through all three systems is the same carbon whose balance we have disturbed. The
-egalitarian and global lenses: the natural world's rules are everyone's inheritance and everyone's
-responsibility — no one owns the carbon cycle or the conservation of energy, and the burdens of
-disrupting them fall unevenly, so caring for these systems is a shared, fair, worldwide task. The
-ethics lens: holding origins as models with evidence, never creed, and stating limits honestly, is
-the intellectual integrity the whole unit has practiced. This is a mastery moment, not a ranking: a
-learner who has not yet got it revisits and tries again ("not yet" is information, never a verdict).
+Its job is **synthesis and honest self-assessment, not new content.** The idea to land:
+**the six ideas connect — matter cycles and energy flows in living systems; disruptions
+move carrying capacity; biodiversity buffers those disruptions; energy is conserved as
+it transforms in physical systems; atoms bond with energy in and out; greenhouse gases
+and deep time frame the Earth and the cosmos — and every one is held as an
+evidence-based explanation with stated limits.** Use a worked example first (S-011):
+link two ideas aloud (carbon atoms move through living systems by photosynthesis and
+respiration, into physical systems as fuel, and into the atmosphere as a greenhouse
+gas — one atom, three systems). The critical-thinking lens: a synthesis is only as
+honest as its limits, so the closing paragraph must state what the learner does *not*
+yet know or is uncertain about. The environment lens: the connected picture is also a
+stewardship picture — the carbon that flows through all three systems is the same carbon
+whose balance we have disturbed. The egalitarian and global lenses: the natural world's
+rules are everyone's inheritance and everyone's responsibility — no one owns the carbon
+cycle or the conservation of energy, and the burdens of disrupting them fall unevenly,
+so caring for these systems is a shared, fair, worldwide task. The ethics lens: holding
+origins as models with evidence, never creed, and stating limits honestly, is the
+intellectual integrity the whole unit has practiced. This is a mastery moment, not a
+ranking: a learner who has not yet got it revisits and tries again ("not yet" is
+information, never a verdict).
 
 ## Procedure
 

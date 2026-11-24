@@ -110,19 +110,20 @@ a pattern no individual chose. That is what "systemic" means: the unfairness liv
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Its goals: **(1) introduce "systemic injustice"
-precisely — an unfair outcome produced by the interaction of (a) individual actions, (b) rules and
-norms, and (c) durable structures/institutions, often with no single bad actor; (2) model once,
-then guide: trace one case through the three nested layers, then let learners trace another
-(Kirschner, Sweller & Clark 2006, S-011); (3) hold a crucial distinction — systemic analysis
-explains a *pattern*, not every individual case, and it assigns responsibility to arrangements,
-not blame to whole groups.** The ethics lens: unfairness can be real even when no one intends it.
-The egalitarian lens: always ask who the arrangement benefits and who it leaves out, and who has
-the power to change it. The global lens: systemic injustice takes different forms in different
-societies — do not assume one country's pattern is the world's pattern. Distinguish evidence from
-values: *that* unequal access is documented is a factual claim (cite a source); *that* it is unjust
-is a value claim we argue for, and there is room for more than one answer. Keep hope attached:
-systems are human-made, so they can be re-made (philosophy §12).
+Its goals: **(1) introduce "systemic injustice" precisely — an unfair outcome produced
+by the interaction of (a) individual actions, (b) rules and norms, and (c) durable
+structures/institutions, often with no single bad actor; (2) model once, then guide:
+trace one case through the three nested layers, then let learners trace another
+(Kirschner, Sweller & Clark 2006, S-011); (3) hold a crucial distinction — systemic
+analysis explains a *pattern*, not every individual case, and it assigns responsibility
+to arrangements, not blame to whole groups.** The ethics lens: unfairness can be real
+even when no one intends it. The egalitarian lens: always ask who the arrangement
+benefits and who it leaves out, and who has the power to change it. The global lens:
+systemic injustice takes different forms in different societies — do not assume one
+country's pattern is the world's pattern. Distinguish evidence from values: *that*
+unequal access is documented is a factual claim (cite a source); *that* it is unjust is
+a value claim we argue for, and there is room for more than one answer. Keep hope
+attached: systems are human-made, so they can be re-made (philosophy §12).
 
 ## Procedure
 

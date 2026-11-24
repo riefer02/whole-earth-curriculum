@@ -124,17 +124,17 @@ science is behind the lights, the wires, and the safe covers in your home.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Building a circuit is a **foundational
-skill**, so teach it with a **worked example** — model connecting battery, wires, and bulb
-once, then let pairs build their own (guided practice) before independent testing.
-Safety first: use only a single low-voltage battery (a 1.5V or 3V cell); never mains
-electricity, and never let wires touch both battery ends directly for long (they can get
-warm). The conceptual point to protect: a conductor lets electricity *through*; an
-insulator *stops* it — and the two always work together, which is why a wire is metal
-wrapped in plastic (the technology and environment lenses). Keep the egalitarian lens:
-this science belongs to everyone, and it is the same principle behind lighting a home in
-any country, from a city grid to a single solar panel. If a pair's bulb does not light,
-treat it as a puzzle, not a failure — check the loop is closed, one connection at a time.
+Building a circuit is a **foundational skill**, so teach it with a **worked example** —
+model connecting battery, wires, and bulb once, then let pairs build their own (guided
+practice) before independent testing. Safety first: use only a single low-voltage
+battery (a 1.5V or 3V cell); never mains electricity, and never let wires touch both
+battery ends directly for long (they can get warm). The conceptual point to protect: a
+conductor lets electricity *through*; an insulator *stops* it — and the two always work
+together, which is why a wire is metal wrapped in plastic (the technology and
+environment lenses). Keep the egalitarian lens: this science belongs to everyone, and it
+is the same principle behind lighting a home in any country, from a city grid to a
+single solar panel. If a pair's bulb does not light, treat it as a puzzle, not a
+failure — check the loop is closed, one connection at a time.
 
 ## Procedure
 

@@ -115,25 +115,26 @@ location on a map; it is a web of relationships you are already woven into.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **I am a living being among
-living beings, bound to them by the same air, water, soil, and sun — my place is a web of
-relationships, and I can name the beings I depend on and that depend on me.** Keep the tone of
-belonging and wonder, not guilt. Treat Indigenous and place-based traditions with respect —
-each is a distinct, living tradition, offered here as an example, never reduced to a single
-concept or ranked against science.
+The idea to land: **I am a living being among living beings, bound to them by the same
+air, water, soil, and sun — my place is a web of relationships, and I can name the
+beings I depend on and that depend on me.** Keep the tone of belonging and wonder, not
+guilt. Treat Indigenous and place-based traditions with respect — each is a distinct,
+living tradition, offered here as an example, never reduced to a single concept or
+ranked against science.
 
-The **ethics** lens: naming what you depend on is the seed of care — you tend what you know you
-owe your life to. The **egalitarianism** lens: the web includes every being, not only the ones
-useful to humans, and this is a leveling idea — a beetle and a person are both threads, though
-different threads (S-437). The **global** lens: cultures around the world have long named this
-kinship — many Indigenous and place-based traditions treat land, water, and other species as
-relatives owed care, a way of seeing the unit holds alongside science, not beneath it (S-427,
-S-320). The **technology** lens: some traditions and some tools both reveal the web — a
-botanist's lens and an elder's plant-knowledge each name real relationships, and both matter
-(S-427). The **environment** lens: the web is not metaphor but fact — species are declining
-because the threads are being cut, and ecosystem services like pollination and clean water are
-the web doing its work (S-437, S-176). Preview: Lesson 12 turns the web into choices — how
-knowing you are interdependent changes how you live.
+The **ethics** lens: naming what you depend on is the seed of care — you tend what you
+know you owe your life to. The **egalitarianism** lens: the web includes every being,
+not only the ones useful to humans, and this is a leveling idea — a beetle and a person
+are both threads, though different threads (S-437). The **global** lens: cultures around
+the world have long named this kinship — many Indigenous and place-based traditions
+treat land, water, and other species as relatives owed care, a way of seeing the unit
+holds alongside science, not beneath it (S-427, S-320). The **technology** lens: some
+traditions and some tools both reveal the web — a botanist's lens and an elder's
+plant-knowledge each name real relationships, and both matter (S-427). The
+**environment** lens: the web is not metaphor but fact — species are declining because
+the threads are being cut, and ecosystem services like pollination and clean water are
+the web doing its work (S-437, S-176). Preview: Lesson 12 turns the web into choices —
+how knowing you are interdependent changes how you live.
 
 ## Procedure
 

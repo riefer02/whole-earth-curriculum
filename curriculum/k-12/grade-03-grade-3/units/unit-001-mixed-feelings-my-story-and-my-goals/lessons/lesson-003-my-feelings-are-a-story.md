@@ -114,13 +114,13 @@ yourself.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is a consolidation lesson: the goal
-is that learners *use* the two earlier ideas together, not learn a new fact. Model the
-worked example aloud, then release learners to their own events. Some learners will mix
-feelings in the middle, some in the ending — there is no single correct shape. Keep the
-order (beginning, middle, end) as the one thing to check, because sequencing is the
-skill being practiced. Honor a learner's right to keep a private event private; invite
-them to choose any event, including a small or everyday one.
+It is a consolidation lesson: the goal is that learners *use* the two earlier ideas
+together, not learn a new fact. Model the worked example aloud, then release learners to
+their own events. Some learners will mix feelings in the middle, some in the ending —
+there is no single correct shape. Keep the order (beginning, middle, end) as the one
+thing to check, because sequencing is the skill being practiced. Honor a learner's right
+to keep a private event private; invite them to choose any event, including a small or
+everyday one.
 
 ## Procedure
 

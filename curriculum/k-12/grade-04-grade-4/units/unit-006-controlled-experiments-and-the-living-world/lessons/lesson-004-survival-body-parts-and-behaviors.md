@@ -123,16 +123,15 @@ water. Every living thing solves the problem of its own environment.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Teach the idea with a **worked example** —
-model one animal ("a bird's beak helps it reach food") — then let learners sort the cards
-(guided practice) before describing their own animal. Guard against ranking: an
-adaptation is not a "superpower" that makes one animal better than another; every animal
-is fitted to *its* environment, and a camel and a polar bear each solve a different
-problem brilliantly (the egalitarian and ethics lenses). Use animals from many biomes and
-continents so no single region is the default (global lens). This is a factual,
-evidence-based idea — scientists describe adaptations from long observation of animals in
-the wild — and it is also a way to wonder at the living world with care. Keep it warm,
-never frightening.
+Teach the idea with a **worked example** — model one animal ("a bird's beak helps it
+reach food") — then let learners sort the cards (guided practice) before describing
+their own animal. Guard against ranking: an adaptation is not a "superpower" that makes
+one animal better than another; every animal is fitted to *its* environment, and a camel
+and a polar bear each solve a different problem brilliantly (the egalitarian and ethics
+lenses). Use animals from many biomes and continents so no single region is the default
+(global lens). This is a factual, evidence-based idea — scientists describe adaptations
+from long observation of animals in the wild — and it is also a way to wonder at the
+living world with care. Keep it warm, never frightening.
 
 ## Procedure
 

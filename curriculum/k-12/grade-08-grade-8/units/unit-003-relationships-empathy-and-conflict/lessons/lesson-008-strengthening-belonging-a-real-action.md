@@ -113,23 +113,24 @@ one real thing that makes it stronger where you live.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) belonging is shaped by how
-identity is received — inclusive settings treat difference as ordinary, not deficient (UNESCO,
-S-235); (2) belonging is something you can actively strengthen, not only receive; (3) a good
-belonging action names a real person or group who feels outside, the barrier, one concrete action,
-and one way to know it helped.** Model the planner once (S-011). **Keep actions small, safe, and
-consensual — an invitation, a greeting, a shared activity, a changed routine; nothing that
-endangers, overpromises, or turns a classmate into a "project."** The ethics lens: including the
-excluded is right, and it must be done with their dignity, not by making them a spectacle. The
-egalitarian lens: the deepest belonging actions remove barriers (a rule, a routine, an assumption),
-not just add one-off kindness — though kindness is a real start. The global & anthropological lens:
-people everywhere welcome newcomers in their own ways — a meal, a name, a place at the table, a
-greeting in the newcomer's own language; borrow, do not rank. The technology & environment lens:
-belonging also happens online (a group chat that includes the newcomer, a shared message) — but the
-screen can also quietly exclude (the group no one is added to); ask both. The social-emotional
-lens: inviting someone in takes courage, and being the one outside is painful — hold both with
-gentleness. Assess by what the learner *does*, and by whether the action respects the other
-person's freedom to say no.
+The ideas to land: **(1) belonging is shaped by how identity is received — inclusive
+settings treat difference as ordinary, not deficient (UNESCO, S-235); (2) belonging is
+something you can actively strengthen, not only receive; (3) a good belonging action
+names a real person or group who feels outside, the barrier, one concrete action, and
+one way to know it helped.** Model the planner once (S-011). **Keep actions small, safe,
+and consensual — an invitation, a greeting, a shared activity, a changed routine;
+nothing that endangers, overpromises, or turns a classmate into a "project."** The
+ethics lens: including the excluded is right, and it must be done with their dignity,
+not by making them a spectacle. The egalitarian lens: the deepest belonging actions
+remove barriers (a rule, a routine, an assumption), not just add one-off kindness —
+though kindness is a real start. The global & anthropological lens: people everywhere
+welcome newcomers in their own ways — a meal, a name, a place at the table, a greeting
+in the newcomer's own language; borrow, do not rank. The technology & environment lens:
+belonging also happens online (a group chat that includes the newcomer, a shared
+message) — but the screen can also quietly exclude (the group no one is added to); ask
+both. The social-emotional lens: inviting someone in takes courage, and being the one
+outside is painful — hold both with gentleness. Assess by what the learner *does*, and
+by whether the action respects the other person's freedom to say no.
 
 ## Procedure
 

@@ -117,21 +117,21 @@ better. Choosing is not about being "good" or "bad"; it is about picking what he
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Model the comparison step-by-step before
-independent work** (a worked example for a new skill): read the serving size of both,
-compare fiber, compare sugar, compare salt, then decide. The rule is gentle and honest:
-for many bodies, **more fiber and less added sugar and salt** is a helpful direction —
-but no single food is "bad," a treat now and then is a normal part of life, and different
-bodies, budgets, and lives make different choices, all worthy of respect. Never let the
-lesson slide into ranking a learner, a family, or a body by what they eat; the choice is
-about the *food's* label, not the *person*. Honor food scarcity: a family that eats what
-is available and affordable is not making a "wrong" choice — access is not the same as
-preference, and every fed child is a win. A learner who is blind or has low vision
-compares by hearing the numbers read in the same order each time; a learner who does not
-use a speaking voice points to the label or fills the frame on a card; a learner who is
-deaf or hard of hearing follows the side-by-side labels and the demonstration, since
-every step is shown. This lesson practices D03.S3.04.01 toward mastery and leads into
-the cultural-foodways lessons that follow.
+**Model the comparison step-by-step before independent work** (a worked example for a
+new skill): read the serving size of both, compare fiber, compare sugar, compare salt,
+then decide. The rule is gentle and honest: for many bodies, **more fiber and less added
+sugar and salt** is a helpful direction — but no single food is "bad," a treat now and
+then is a normal part of life, and different bodies, budgets, and lives make different
+choices, all worthy of respect. Never let the lesson slide into ranking a learner, a
+family, or a body by what they eat; the choice is about the *food's* label, not the
+*person*. Honor food scarcity: a family that eats what is available and affordable is
+not making a "wrong" choice — access is not the same as preference, and every fed child
+is a win. A learner who is blind or has low vision compares by hearing the numbers read
+in the same order each time; a learner who does not use a speaking voice points to the
+label or fills the frame on a card; a learner who is deaf or hard of hearing follows the
+side-by-side labels and the demonstration, since every step is shown. This lesson
+practices D03.S3.04.01 toward mastery and leads into the cultural-foodways lessons that
+follow.
 
 ## Procedure
 

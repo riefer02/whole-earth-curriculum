@@ -122,22 +122,21 @@ and care.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **language carries
-power — in law, medicine, and school, the language that is official, technical, or
-"standard" is one group's language, and everyone else must translate themselves into it;
-so language is a gate that includes some and excludes others, and noticing it is the
-first step toward language justice.** This is analysis *plus* values: the factual claim
-is that official and technical language privileges certain speakers; the value is that
-every language deserves to be a language of power and care. The curriculum holds
-multilingualism as wealth and home language first (S-019): globally, about 40 per cent
-of people do not have access to education in a language they speak or understand
-(S-019). Writers from colonized contexts have named this directly — Ngũgĩ wa Thiong'o
-argues that being made to write in the colonizer's language distanced him from his home
-world (S-424), and Gloria Anzaldúa describes living between languages and the demand to
-"tame" one's tongue (S-425) — present these as *lived arguments* to reflect on, not
-verdicts to adopt. Languages shape habitual thought in moderate, well-supported ways
-(the Sapir–Whorf tradition, held in its moderate form, S-168), which is *why* whose
-language is used matters.
+The idea to land: **language carries power — in law, medicine, and school, the language
+that is official, technical, or "standard" is one group's language, and everyone else
+must translate themselves into it; so language is a gate that includes some and excludes
+others, and noticing it is the first step toward language justice.** This is analysis
+*plus* values: the factual claim is that official and technical language privileges
+certain speakers; the value is that every language deserves to be a language of power
+and care. The curriculum holds multilingualism as wealth and home language first
+(S-019): globally, about 40 per cent of people do not have access to education in a
+language they speak or understand (S-019). Writers from colonized contexts have named
+this directly — Ngũgĩ wa Thiong'o argues that being made to write in the colonizer's
+language distanced him from his home world (S-424), and Gloria Anzaldúa describes living
+between languages and the demand to "tame" one's tongue (S-425) — present these as
+*lived arguments* to reflect on, not verdicts to adopt. Languages shape habitual thought
+in moderate, well-supported ways (the Sapir–Whorf tradition, held in its moderate form,
+S-168), which is *why* whose language is used matters.
 
 Model the skill once, then let learners practice (worked example → guided practice →
 independent work; S-011). The **egalitarian** lens is the spine: ask of every setting

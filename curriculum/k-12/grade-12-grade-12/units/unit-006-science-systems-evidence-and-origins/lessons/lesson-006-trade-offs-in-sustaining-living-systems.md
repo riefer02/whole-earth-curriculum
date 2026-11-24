@@ -113,27 +113,28 @@ seeing it clearly and asking who pays for it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **sustaining a living
-system is a weighing of trade-offs — who gains, who loses, over what time, and whether the
-change is reversible — and honest weighing names all four rather than hiding any.** Teach
-the matrix explicitly, then let learners run it (S-011). Keep two things distinct: *factual*
-claims (fire suppression changed forests; Indigenous cultural burning sustains them, S-320,
-S-321) are cited; *value* claims (which trade-off is worth accepting) are argued openly and
-never disguised as science.
+The idea to land: **sustaining a living system is a weighing of trade-offs — who gains,
+who loses, over what time, and whether the change is reversible — and honest weighing
+names all four rather than hiding any.** Teach the matrix explicitly, then let learners
+run it (S-011). Keep two things distinct: *factual* claims (fire suppression changed
+forests; Indigenous cultural burning sustains them, S-320, S-321) are cited; *value*
+claims (which trade-off is worth accepting) are argued openly and never disguised as
+science.
 
-The **ethics** lens: a trade-off hidden is a cost imposed without consent — naming who loses
-is the ethical minimum of any decision about shared living systems. The **egalitarianism**
-lens: the matrix's first question, "who gains, who loses?", is the egalitarian question —
-and it often reveals that the same people gain while the same people lose, generation after
-generation (S-483). The **global** lens: stewardship traditions differ and overlap — many
-Indigenous fire practices sustain landscapes rather than merely suppressing fire, a practice
-documented in Australia and beyond (S-320, S-321); the Convention on Biological Diversity
-frames sustaining biodiversity as a shared global responsibility (S-279). The **technology**
-lens: technology can widen or narrow a trade-off — a better tool may need less land, but its
-materials have their own costs (S-397). The **environment** lens: reversibility is the
-deepest environmental question — a forest cut may regrow in decades; a species lost does not
-come back, which is why extinction weighs differently from a temporary cost (S-437).
-Preview: Lesson 7 turns from managing systems to the accounts we give of how life began.
+The **ethics** lens: a trade-off hidden is a cost imposed without consent — naming who
+loses is the ethical minimum of any decision about shared living systems. The
+**egalitarianism** lens: the matrix's first question, "who gains, who loses?", is the
+egalitarian question — and it often reveals that the same people gain while the same
+people lose, generation after generation (S-483). The **global** lens: stewardship
+traditions differ and overlap — many Indigenous fire practices sustain landscapes rather
+than merely suppressing fire, a practice documented in Australia and beyond (S-320,
+S-321); the Convention on Biological Diversity frames sustaining biodiversity as a
+shared global responsibility (S-279). The **technology** lens: technology can widen or
+narrow a trade-off — a better tool may need less land, but its materials have their own
+costs (S-397). The **environment** lens: reversibility is the deepest environmental
+question — a forest cut may regrow in decades; a species lost does not come back, which
+is why extinction weighs differently from a temporary cost (S-437). Preview: Lesson 7
+turns from managing systems to the accounts we give of how life began.
 
 ## Procedure
 

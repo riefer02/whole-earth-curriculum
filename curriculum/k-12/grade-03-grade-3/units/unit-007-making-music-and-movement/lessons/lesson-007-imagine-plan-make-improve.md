@@ -116,18 +116,17 @@ build something that meets a need.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. The design loop is a **skill**, so model it once — "we need a
-pencil holder; I imagine a cup; I plan paper folded around a box; I make it; I test it
-and it tips over, so I improve it by adding a wider base" — before learners run their
-own loop (Kirschner, Sweller & Clark, 2006). The key idea is the **loop**: improve
-comes from testing, not from getting it right the first time. "Improve" can be one
-small change. The plan may change as the learner builds — that is the loop working. A
-learner with limited fine motor directs a partner who handles the materials — imagining,
-planning, and deciding the improvement are the heart of the task. A learner who does
-not speak points to the four boxes and to the change they made. A learner who is blind
-or has low vision plans by feel and names the steps aloud, and tests the build with
-their hands. Every loop belongs.
+The design loop is a **skill**, so model it once — "we need a pencil holder; I imagine a
+cup; I plan paper folded around a box; I make it; I test it and it tips over, so I
+improve it by adding a wider base" — before learners run their own loop (Kirschner,
+Sweller & Clark, 2006). The key idea is the **loop**: improve comes from testing, not
+from getting it right the first time. "Improve" can be one small change. The plan may
+change as the learner builds — that is the loop working. A learner with limited fine
+motor directs a partner who handles the materials — imagining, planning, and deciding
+the improvement are the heart of the task. A learner who does not speak points to the
+four boxes and to the change they made. A learner who is blind or has low vision plans
+by feel and names the steps aloud, and tests the build with their hands. Every loop
+belongs.
 
 ## Procedure
 

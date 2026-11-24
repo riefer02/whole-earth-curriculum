@@ -121,19 +121,19 @@ suits the dryness.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Learners met a habitat earlier this year in
-another unit; this lesson **deepens** the idea by asking *why each living thing suits its
-home* — the first gentle step toward how living things fit their places. Keep it
-**concrete before abstract**: begin with the learner's own home, then widen to the homes of
-other living things. Model one habitat aloud — "this pond has water and mud; the reed
-grows in the wet mud, and the frog's wet skin suits the water" — then let learners try. Use
-habitats from many biomes (pond, desert, forest, seashore, savanna) so no single landscape
-or climate is the default, and learners in Lagos, Lima, or Lahore can find a home that
-looks like the one they know. A light ethical thread: a habitat is not ours to spoil —
-caring for a home means caring for its living things (this returns in Lessons 7–8). Honor
-every body: describe each card in words for a learner who is blind or has low vision; a
-non-speaking learner points to the plant and the animal and to a picture for "water" or
-"dry" to show why each suits.
+Learners met a habitat earlier this year in another unit; this lesson **deepens** the
+idea by asking *why each living thing suits its home* — the first gentle step toward how
+living things fit their places. Keep it **concrete before abstract**: begin with the
+learner's own home, then widen to the homes of other living things. Model one habitat
+aloud — "this pond has water and mud; the reed grows in the wet mud, and the frog's wet
+skin suits the water" — then let learners try. Use habitats from many biomes (pond,
+desert, forest, seashore, savanna) so no single landscape or climate is the default, and
+learners in Lagos, Lima, or Lahore can find a home that looks like the one they know. A
+light ethical thread: a habitat is not ours to spoil — caring for a home means caring
+for its living things (this returns in Lessons 7–8). Honor every body: describe each
+card in words for a learner who is blind or has low vision; a non-speaking learner
+points to the plant and the animal and to a picture for "water" or "dry" to show why
+each suits.
 
 ## Procedure
 

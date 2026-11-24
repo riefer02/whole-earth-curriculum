@@ -99,12 +99,11 @@ are already writing, because they carry meaning from you to someone else.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. The deep idea is egalitarian and global: **writing began as
-marks that carry meaning**, and every writing system — from pictograms to alphabets to
-character scripts — is a beautiful, equal achievement. No mark is "scribble" that
-should be corrected; every mark a child makes with intent is writing. Ask learners what
-their marks mean rather than what they "should" mean.
+The deep idea is egalitarian and global: **writing began as marks that carry meaning**,
+and every writing system — from pictograms to alphabets to character scripts — is a
+beautiful, equal achievement. No mark is "scribble" that should be corrected; every mark
+a child makes with intent is writing. Ask learners what their marks mean rather than
+what they "should" mean.
 
 ## Procedure
 

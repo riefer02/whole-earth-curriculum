@@ -109,25 +109,26 @@ put a real decision of your own onto the scale and choose deliberately.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **weighing short-term
-against long-term consequences means naming both, saying what is given up either way, and
-choosing with a reason.** This is a *skill*, so model the full decision note once (worked
-example — Kirschner, Sweller & Clark 2006, S-011), then guided practice before independent
-work. The *ethics* lens: a good weighing includes consequences for *other people*, not only
-for oneself — the friend's trust, the family's need. The *egalitarian* lens: there is no
-single "correct" weighing; two reasonable people can weigh the same now-and-later
-differently, and both reasonings can be sound — what we assess is the *reasoning*, not the
-answer. The *global* lens: what counts as "short" and "long" differs by life — for a family
-planting a crop the long term is a season; for a student it may be a year — so the tool is
-the same while the numbers differ. The *environment* lens: some of our most important
-decisions — how much to take from a commons today — are now/later weighings whose "later" is
-a whole community and a whole ecosystem. The *critical-thinking* lens: the decision note
-makes the reasoning *visible* so it can be questioned and improved — your own, and a
-partner's. Let learners choose small, safe decisions; never require disclosure of painful or
-private choices, and offer a made-up decision as a fully acceptable option. Distinguish
-evidence from values: that making a weighing explicit improves the quality of a decision is
-a skill claim (S-011); that every learner is the rightful author of their own small
-decisions is a value this curriculum holds — name it as one.
+The idea to land: **weighing short-term against long-term consequences means naming
+both, saying what is given up either way, and choosing with a reason.** This is a
+*skill*, so model the full decision note once (worked example — Kirschner, Sweller &
+Clark 2006, S-011), then guided practice before independent work. The *ethics* lens: a
+good weighing includes consequences for *other people*, not only for oneself — the
+friend's trust, the family's need. The *egalitarian* lens: there is no single "correct"
+weighing; two reasonable people can weigh the same now-and-later differently, and both
+reasonings can be sound — what we assess is the *reasoning*, not the answer. The
+*global* lens: what counts as "short" and "long" differs by life — for a family planting
+a crop the long term is a season; for a student it may be a year — so the tool is the
+same while the numbers differ. The *environment* lens: some of our most important
+decisions — how much to take from a commons today — are now/later weighings whose
+"later" is a whole community and a whole ecosystem. The *critical-thinking* lens: the
+decision note makes the reasoning *visible* so it can be questioned and improved — your
+own, and a partner's. Let learners choose small, safe decisions; never require
+disclosure of painful or private choices, and offer a made-up decision as a fully
+acceptable option. Distinguish evidence from values: that making a weighing explicit
+improves the quality of a decision is a skill claim (S-011); that every learner is the
+rightful author of their own small decisions is a value this curriculum holds — name it
+as one.
 
 ## Procedure
 

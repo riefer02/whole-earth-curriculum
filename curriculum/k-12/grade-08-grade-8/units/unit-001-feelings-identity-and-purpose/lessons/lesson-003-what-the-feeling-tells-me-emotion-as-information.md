@@ -109,20 +109,20 @@ message a feeling is carrying.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **emotion can inform
-judgment — a feeling is a signal carrying information, not a command to obey.** Research on
-emotion and decision-making shows emotion is not the opposite of good judgment; it is often
-an input to it (Lerner et al. 2015, S-333). Teach the signal-mapping as a worked example
-(Kirschner, Sweller & Clark 2006, S-011) before independent work. The *ethics* lens: a
-feeling can alert me to a wrong being done — anger at unfairness is moral information. The
-*egalitarian* lens: whose feelings are *listened to* and whose are dismissed is not equal
-everywhere; honoring a feeling as information is part of honoring a person. The *global*
-lens: the *messages* feelings carry (danger, injustice, unease, care) travel across
-cultures, even though the *expressions* differ — what is shown in one place may be hidden in
-another. The *critical-thinking* lens: a signal can be wrong — next lesson we learn to check
-it. Distinguish evidence from values: that emotion can carry information is a scientific
-claim (S-333); that every learner's feeling deserves to be heard is a value this curriculum
-holds — name it as one.
+The idea to land: **emotion can inform judgment — a feeling is a signal carrying
+information, not a command to obey.** Research on emotion and decision-making shows
+emotion is not the opposite of good judgment; it is often an input to it (Lerner et al.
+2015, S-333). Teach the signal-mapping as a worked example (Kirschner, Sweller & Clark
+2006, S-011) before independent work. The *ethics* lens: a feeling can alert me to a
+wrong being done — anger at unfairness is moral information. The *egalitarian* lens:
+whose feelings are *listened to* and whose are dismissed is not equal everywhere;
+honoring a feeling as information is part of honoring a person. The *global* lens: the
+*messages* feelings carry (danger, injustice, unease, care) travel across cultures, even
+though the *expressions* differ — what is shown in one place may be hidden in another.
+The *critical-thinking* lens: a signal can be wrong — next lesson we learn to check it.
+Distinguish evidence from values: that emotion can carry information is a scientific
+claim (S-333); that every learner's feeling deserves to be heard is a value this
+curriculum holds — name it as one.
 
 ## Procedure
 

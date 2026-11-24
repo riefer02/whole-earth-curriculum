@@ -123,18 +123,17 @@ almost disappears, the same chain — teacher to learner — can bring it back.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Teach the four-step chain as a worked
-example first** (Kirschner, Sweller & Clark, 2006): model "watch → practice → remember
-→ teach" with a simple skill, then connect it to the Hōkūleʻa story. **Tell the
-Hōkūleʻa story accurately and with respect** (see Resources): the Polynesian Voyaging
-Society built Hōkūleʻa and, in 1976, sailed her from Hawaiʻi to Tahiti using
-traditional wayfinding; the master navigator Mau Piailug of Satawal taught the art to
-others, reviving a tradition that had nearly been lost. **This is a story of survival
-and revival, not a museum piece** — hold the navigators as living experts, and never
-suggest their knowledge was "beaten by" modern tools. Honor every body: describe the
-cards in words for a learner who cannot see them; a learner who does not use a speaking
-voice points or acts. If a learner's own family has a passed-down skill, celebrate it
-as a living knowledge tradition.
+**Teach the four-step chain as a worked example first** (Kirschner, Sweller & Clark,
+2006): model "watch → practice → remember → teach" with a simple skill, then connect it
+to the Hōkūleʻa story. **Tell the Hōkūleʻa story accurately and with respect** (see
+Resources): the Polynesian Voyaging Society built Hōkūleʻa and, in 1976, sailed her from
+Hawaiʻi to Tahiti using traditional wayfinding; the master navigator Mau Piailug of
+Satawal taught the art to others, reviving a tradition that had nearly been lost. **This
+is a story of survival and revival, not a museum piece** — hold the navigators as living
+experts, and never suggest their knowledge was "beaten by" modern tools. Honor every
+body: describe the cards in words for a learner who cannot see them; a learner who does
+not use a speaking voice points or acts. If a learner's own family has a passed-down
+skill, celebrate it as a living knowledge tradition.
 
 ## Procedure
 

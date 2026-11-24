@@ -109,28 +109,27 @@ colonization has two halves: what was taken, and what was never lost.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **colonization took
-land, language, and self-rule from Indigenous peoples, but it did not take their
-continuity — peoples endured, resisted, and revived, and any honest account centers
-both halves.** Model the two-column chart with worked examples, then let learners
-center agency (S-011).
+The idea to land: **colonization took land, language, and self-rule from Indigenous
+peoples, but it did not take their continuity — peoples endured, resisted, and revived,
+and any honest account centers both halves.** Model the two-column chart with worked
+examples, then let learners center agency (S-011).
 
 **Emotional safety:** this lesson names real loss (land, language, self-rule) but its
-center of gravity is endurance. Give a brief warning, allow stepping out, name a
-trusted adult, and ground afterward. Use no graphic detail. Frame loss and continuity
-*side by side*, so learners meet Indigenous peoples as agents and knowledge-holders,
-never only as victims (philosophy §4; see also the framing in `docs/facilitation.md`).
+center of gravity is endurance. Give a brief warning, allow stepping out, name a trusted
+adult, and ground afterward. Use no graphic detail. Frame loss and continuity *side by
+side*, so learners meet Indigenous peoples as agents and knowledge-holders, never only
+as victims (philosophy §4; see also the framing in `docs/facilitation.md`).
 
-The **egalitarian** lens is the spine: who was dispossessed, and who kept their
-dignity and self-determination, is the question. The **global** lens: examples span
-the Americas, Africa, Asia, and Oceania — the Inuit Circumpolar Council represents
-peoples across four Arctic regions (S-058); Maya peoples still speak their languages
-and, with scholars, revive Maya mathematics and astronomy after colonial authorities
-destroyed most codices (S-474); the Haudenosaunee Confederacy's consensus councils
-are a living way of governing (S-203). The **technology** and **ethics** lenses:
-written and digital technologies now aid language revitalization — a tool turned
-toward repair — and naming the harm accurately is a duty to truth, not a verdict.
-Preview: Lesson 9 turns to modern migration and displacement.
+The **egalitarian** lens is the spine: who was dispossessed, and who kept their dignity
+and self-determination, is the question. The **global** lens: examples span the
+Americas, Africa, Asia, and Oceania — the Inuit Circumpolar Council represents peoples
+across four Arctic regions (S-058); Maya peoples still speak their languages and, with
+scholars, revive Maya mathematics and astronomy after colonial authorities destroyed
+most codices (S-474); the Haudenosaunee Confederacy's consensus councils are a living
+way of governing (S-203). The **technology** and **ethics** lenses: written and digital
+technologies now aid language revitalization — a tool turned toward repair — and naming
+the harm accurately is a duty to truth, not a verdict. Preview: Lesson 9 turns to modern
+migration and displacement.
 
 ## Procedure
 

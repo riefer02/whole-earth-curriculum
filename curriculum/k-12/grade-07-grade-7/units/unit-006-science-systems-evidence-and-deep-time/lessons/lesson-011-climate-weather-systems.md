@@ -118,19 +118,20 @@ mood of this system; climate is its long-term personality.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) the climate system is
-the Sun + atmosphere + ocean + land interacting; (2) weather is short-term, climate is the
-long-term pattern; and (3) oceans move huge amounts of heat, so they shape climate far beyond
-their shores.** Use explicit instruction with the weather-vs-climate worked example first, then
-hands-on assembly (Kirschner, Sweller & Clark, 2006). These are established Earth-science
-facts; the greenhouse effect (atmospheric gases holding heat) is described by the
-Intergovernmental Panel on Climate Change (IPCC) and NOAA. The environment lens
-(`docs/philosophy.md` §4): this is the system human activity is now warming — the same
-greenhouse layer that keeps Earth livable can be thickened by burning fuels (a Grade 9 topic,
-introduced lightly here). The global lens: climate looks different everywhere — monsoons in
-South Asia, wet and dry seasons in the tropics, cold winters in high latitudes — but it is all
-one connected system. The egalitarian lens: the people least responsible for climate change are
-often hit hardest by it; understanding the system is a step toward fairness and care.
+The ideas to land: **(1) the climate system is the Sun + atmosphere + ocean + land
+interacting; (2) weather is short-term, climate is the long-term pattern; and (3) oceans
+move huge amounts of heat, so they shape climate far beyond their shores.** Use explicit
+instruction with the weather-vs-climate worked example first, then hands-on assembly
+(Kirschner, Sweller & Clark, 2006). These are established Earth-science facts; the
+greenhouse effect (atmospheric gases holding heat) is described by the Intergovernmental
+Panel on Climate Change (IPCC) and NOAA. The environment lens (`docs/philosophy.md` §4):
+this is the system human activity is now warming — the same greenhouse layer that keeps
+Earth livable can be thickened by burning fuels (a Grade 9 topic, introduced lightly
+here). The global lens: climate looks different everywhere — monsoons in South Asia, wet
+and dry seasons in the tropics, cold winters in high latitudes — but it is all one
+connected system. The egalitarian lens: the people least responsible for climate change
+are often hit hardest by it; understanding the system is a step toward fairness and
+care.
 
 ## Procedure
 

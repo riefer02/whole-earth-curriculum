@@ -118,23 +118,22 @@ practice the skill that makes every table a kind table: **respect**.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **The heart of the lesson is kindness, not
-judgment.** Teach the five reasons people eat differently — **culture**, **religion**,
-**health or allergy**, **preference**, and **access** (what is available and affordable)
-— and that every one of them deserves respect. Be especially careful with **food
-scarcity**: a child whose family has little food, or whose meals differ from the class
-"norm," must never be made to feel less. Never ask learners to disclose their own hunger
-or scarcity, and never single anyone out; if a child shares something hard, respond with
-quiet care and follow your local safeguarding practice. Model kind words ("That looks
-delicious for your body," "What do you like about it?", "I'd love to learn about your
-food") and kind silence when a friend does not want to talk about food. A learner who is
-blind or has low vision hears each scenario and the kind response described; a learner
-who does not use a speaking voice points to the kind response picture or signs; a learner
-who is deaf or hard of hearing follows the cards and demonstration from the front, since
-every response is shown, not only told. The framing that diets vary by culture, religion,
-health need, preference, and access reflects WHO and FAO accounts of dietary diversity
-and food security. This lesson completes D03.S3.04.02 and turns to the unit's safety
-strand next.
+**The heart of the lesson is kindness, not judgment.** Teach the five reasons people eat
+differently — **culture**, **religion**, **health or allergy**, **preference**, and
+**access** (what is available and affordable) — and that every one of them deserves
+respect. Be especially careful with **food scarcity**: a child whose family has little
+food, or whose meals differ from the class "norm," must never be made to feel less.
+Never ask learners to disclose their own hunger or scarcity, and never single anyone
+out; if a child shares something hard, respond with quiet care and follow your local
+safeguarding practice. Model kind words ("That looks delicious for your body," "What do
+you like about it?", "I'd love to learn about your food") and kind silence when a friend
+does not want to talk about food. A learner who is blind or has low vision hears each
+scenario and the kind response described; a learner who does not use a speaking voice
+points to the kind response picture or signs; a learner who is deaf or hard of hearing
+follows the cards and demonstration from the front, since every response is shown, not
+only told. The framing that diets vary by culture, religion, health need, preference,
+and access reflects WHO and FAO accounts of dietary diversity and food security. This
+lesson completes D03.S3.04.02 and turns to the unit's safety strand next.
 
 ## Procedure
 

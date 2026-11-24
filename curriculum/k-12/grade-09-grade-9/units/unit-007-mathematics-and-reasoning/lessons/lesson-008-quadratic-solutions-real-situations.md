@@ -115,23 +115,25 @@ know which answers matter.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **the roots of a quadratic are the
-input values where the output is zero (x-intercepts); the vertex is the maximum or minimum; and in
-context you must decide whether each solution is meaningful — a negative time, a negative length, or
-a length larger than the available space is real algebra but false in the story.** Use a **worked
-example first** (S-011): a ball's height h = −5t² + 20t (in meters, t in seconds). Set h = 0: −5t² +
-20t = 0 → −5t(t − 4) = 0 → t = 0 (launch) or t = 4 (lands). The vertex is at t = 2, h = 20 m
-(maximum height). The critical-thinking lens: the *context* decides which solutions count — math
-gives candidates, the situation picks the winners. The ethics lens: reporting a "solution" that the
-situation rules out is the same over-claiming we met with precision — honesty means saying what the
-number can and cannot mean (philosophy §5). The environment lens: the same quadratic reasoning
-models a water jet or a rocket, and a model is always an approximation of a real, messy thing — name
-what the model leaves out (air resistance, wind). The egalitarian lens: reading a solution back
-into its story is a skill every learner can practice — it needs care, not special equipment. The
-global lens: a thrown ball, a water jet, and a garden plot arch the same parabola everywhere — the
-quadratic is one shape shared across every place that measures. The technology lens: a graphing
-tool draws the arch instantly, but the human must still decide which solutions the story accepts
-and which it rejects. Keep the tone: modeling is sense-making, not magic.
+The skill to land: **the roots of a quadratic are the input values where the output is
+zero (x-intercepts); the vertex is the maximum or minimum; and in context you must
+decide whether each solution is meaningful — a negative time, a negative length, or a
+length larger than the available space is real algebra but false in the story.** Use a
+**worked example first** (S-011): a ball's height h = −5t² + 20t (in meters, t in
+seconds). Set h = 0: −5t² + 20t = 0 → −5t(t − 4) = 0 → t = 0 (launch) or t = 4 (lands).
+The vertex is at t = 2, h = 20 m (maximum height). The critical-thinking lens: the
+*context* decides which solutions count — math gives candidates, the situation picks the
+winners. The ethics lens: reporting a "solution" that the situation rules out is the
+same over-claiming we met with precision — honesty means saying what the number can and
+cannot mean (philosophy §5). The environment lens: the same quadratic reasoning models a
+water jet or a rocket, and a model is always an approximation of a real, messy thing —
+name what the model leaves out (air resistance, wind). The egalitarian lens: reading a
+solution back into its story is a skill every learner can practice — it needs care, not
+special equipment. The global lens: a thrown ball, a water jet, and a garden plot arch
+the same parabola everywhere — the quadratic is one shape shared across every place that
+measures. The technology lens: a graphing tool draws the arch instantly, but the human
+must still decide which solutions the story accepts and which it rejects. Keep the tone:
+modeling is sense-making, not magic.
 
 ## Procedure
 

@@ -111,20 +111,20 @@ reflection. Breaking out is a skill: stepping toward voices that are not your ow
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a feed that ranks by
-engagement tends to show a person more of what they already respond to, which can narrow
-what they see into an "echo chamber" — the same views repeated, opposing views out of
-sight — and the way to break out is to seek different sources on purpose.** The "filter
-bubble" term is from Pariser (S-482); hold it as a *concept to examine*, and note honestly
-that scholars debate how strong the effect really is — it is a tendency, not an iron law.
-The **technology** lens: personalization is the mechanism. The **ethics** lens: is it fair
-to others — and to one's own judgment — to hear only one side? The **egalitarian** lens:
-whose voices get left out of a personalized feed, and whose get amplified? The **global**
-lens: break-out moves include reading outlets from other countries and languages — the
-world is wider than one feed. The **critical-thinking** lens: "my feed is not the world"
-is a habit, not a one-time lesson. Model one break-out move explicitly, then let learners
-plan their own (S-011). Keep it non-judgmental — everyone's feed narrows; the question is
-what we do about it (facilitation.md).
+The idea to land: **a feed that ranks by engagement tends to show a person more of what
+they already respond to, which can narrow what they see into an "echo chamber" — the
+same views repeated, opposing views out of sight — and the way to break out is to seek
+different sources on purpose.** The "filter bubble" term is from Pariser (S-482); hold
+it as a *concept to examine*, and note honestly that scholars debate how strong the
+effect really is — it is a tendency, not an iron law. The **technology** lens:
+personalization is the mechanism. The **ethics** lens: is it fair to others — and to
+one's own judgment — to hear only one side? The **egalitarian** lens: whose voices get
+left out of a personalized feed, and whose get amplified? The **global** lens: break-out
+moves include reading outlets from other countries and languages — the world is wider
+than one feed. The **critical-thinking** lens: "my feed is not the world" is a habit,
+not a one-time lesson. Model one break-out move explicitly, then let learners plan their
+own (S-011). Keep it non-judgmental — everyone's feed narrows; the question is what we
+do about it (facilitation.md).
 
 ## Procedure
 

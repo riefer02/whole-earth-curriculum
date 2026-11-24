@@ -117,14 +117,14 @@ farmyard or a crowded bus anywhere in the world.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **perspective-taking
-adds angles, it does not excuse harm** — understanding why and holding someone accountable
-are both possible at once. This protects learners from two traps: assuming the worst about a
-peer, and excusing real hurt with "they must have had a reason." Use **invented scenarios
-only**; never analyze a real classmate's behavior in front of peers. Model the worked
-example fully; this is a skill (Kirschner, Sweller & Clark, 2006). This lesson builds
-directly on Grade 5's "check my guess about feelings" and the unit's earlier lessons — make
-the connection explicit so the spiral is felt. See `docs/facilitation.md`.
+The idea to land is that **perspective-taking adds angles, it does not excuse harm** —
+understanding why and holding someone accountable are both possible at once. This
+protects learners from two traps: assuming the worst about a peer, and excusing real
+hurt with "they must have had a reason." Use **invented scenarios only**; never analyze
+a real classmate's behavior in front of peers. Model the worked example fully; this is a
+skill (Kirschner, Sweller & Clark, 2006). This lesson builds directly on Grade 5's
+"check my guess about feelings" and the unit's earlier lessons — make the connection
+explicit so the spiral is felt. See `docs/facilitation.md`.
 
 ## Procedure
 

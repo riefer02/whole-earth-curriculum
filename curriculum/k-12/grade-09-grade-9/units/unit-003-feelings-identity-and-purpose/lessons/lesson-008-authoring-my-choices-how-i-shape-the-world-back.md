@@ -113,22 +113,24 @@ receiver.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It completes the fourth goal (D01.S2.09.02) by
-flipping the arrow: **identity shapes choices, and choices shape the world and, in a feedback loop,
-the self.** The core ideas: **(1) values → choices** — what a person values and believes steers what
-they do (who they defend, how they spend time, whom they help or hurt); **(2) effects** — choices
-have consequences for the self, for others, and for the community; **(3) the feedback loop** — small
-choices, repeated, harden into habits, and habits become identity (what a person does comes to be
-part of who they are). These are taught with a **worked example and guided practice** (S-011). The
-**ethics** lens is central: a choice's rightness is judged by its effects on others, not only by how
-it feels — and the same choice can look different from another person's side. The **egalitarian**
-lens: agency is not equally distributed — not everyone has the same freedom to act on their values,
-because of money, safety, or prejudice — so we honor effort without blaming those with fewer choices.
-The **community** lens: a person's choices ripple through the people around them, so authorship is
-also responsibility. Keep the balance honest: this is about *agency*, not *blame* — a learner is the
-author of their choices but not of everything that happens to them. Emphasize hope and the
-possibility of change: a habit can be re-authored. No learner is judged for the choices they trace;
-invented examples are always welcome.
+It completes the fourth goal (D01.S2.09.02) by flipping the arrow: **identity shapes
+choices, and choices shape the world and, in a feedback loop, the self.** The core
+ideas: **(1) values → choices** — what a person values and believes steers what they do
+(who they defend, how they spend time, whom they help or hurt); **(2) effects** —
+choices have consequences for the self, for others, and for the community; **(3) the
+feedback loop** — small choices, repeated, harden into habits, and habits become
+identity (what a person does comes to be part of who they are). These are taught with a
+**worked example and guided practice** (S-011). The **ethics** lens is central: a
+choice's rightness is judged by its effects on others, not only by how it feels — and
+the same choice can look different from another person's side. The **egalitarian** lens:
+agency is not equally distributed — not everyone has the same freedom to act on their
+values, because of money, safety, or prejudice — so we honor effort without blaming
+those with fewer choices. The **community** lens: a person's choices ripple through the
+people around them, so authorship is also responsibility. Keep the balance honest: this
+is about *agency*, not *blame* — a learner is the author of their choices but not of
+everything that happens to them. Emphasize hope and the possibility of change: a habit
+can be re-authored. No learner is judged for the choices they trace; invented examples
+are always welcome.
 
 ## Procedure
 

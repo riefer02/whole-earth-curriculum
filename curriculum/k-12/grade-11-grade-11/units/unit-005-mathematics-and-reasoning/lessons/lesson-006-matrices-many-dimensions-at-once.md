@@ -113,22 +113,21 @@ matrices, the way a machine combines many pieces of information in one step.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **a matrix has
-rows × columns (an m×n matrix has m rows, n columns); addition and scalar
-multiplication work element by element; multiplication combines rows of the first
-with columns of the second, so the inside dimensions must match.** Teach the moves
-explicitly — *name* (dimensions), *combine by element* (add/scale), and *row-times-
-column* (multiply) — with worked examples and guided practice (S-011).
+The ideas to land: **a matrix has rows × columns (an m×n matrix has m rows, n columns);
+addition and scalar multiplication work element by element; multiplication combines rows
+of the first with columns of the second, so the inside dimensions must match.** Teach
+the moves explicitly — *name* (dimensions), *combine by element* (add/scale), and
+*row-times- column* (multiply) — with worked examples and guided practice (S-011).
 
 The **intellectual** lens: a matrix is a single object that holds many numbers; its
-power is doing many operations at once. The **global** lens: the Lo Shu square — a
-3×3 arrangement whose rows, columns, and diagonals all sum to 15 — is an ancient
-Chinese array-like object, one root of a global story (S-496, S-429). The
-**technology** lens: matrices are the working language of computer graphics, search,
-and machine learning — the grid that a screen or a model actually computes. The
-**egalitarianism** lens: a census table, a voting tally, a resource grid — matrices
-let everyone's row be counted on the same footing; reading them is a shared-skill,
-not a ranking ritual. Preview: Lesson 7 turns to trigonometric functions.
+power is doing many operations at once. The **global** lens: the Lo Shu square — a 3×3
+arrangement whose rows, columns, and diagonals all sum to 15 — is an ancient Chinese
+array-like object, one root of a global story (S-496, S-429). The **technology** lens:
+matrices are the working language of computer graphics, search, and machine learning —
+the grid that a screen or a model actually computes. The **egalitarianism** lens: a
+census table, a voting tally, a resource grid — matrices let everyone's row be counted
+on the same footing; reading them is a shared-skill, not a ranking ritual. Preview:
+Lesson 7 turns to trigonometric functions.
 
 ## Procedure
 

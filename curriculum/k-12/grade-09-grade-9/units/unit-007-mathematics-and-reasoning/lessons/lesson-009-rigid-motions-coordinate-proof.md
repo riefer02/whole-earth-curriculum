@@ -114,23 +114,26 @@ learn to *prove* congruence with motions and with coordinates.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **congruence means "carried onto
-by a sequence of rigid motions (translations, rotations, reflections)," and on a coordinate grid you
-can prove two figures congruent either by naming that sequence or by using the distance formula to
-show corresponding side lengths are equal.** Use a **worked example first, then guided practice**
-(S-011): two triangles with vertices such that a single translation maps one onto the other, and a
-distance-formula check that each corresponding side has the same length. The critical-thinking lens: "it looks the same" is not a proof — the sequence of motions or
-the distance calculation is. The global lens: rigid motion is the mathematics behind tiling and
-symmetry art worldwide — Islamic girih, South Asian rangoli and kolam, and woven/beaded African
-patterns are built from a few shapes moved by rigid motions (S-024, S-429). The egalitarian lens:
-proof here needs no expensive tool — tracing paper, a cut-out, or a coordinate grid all carry the
-same argument, so no learner is locked out by equipment. The ethics lens: claiming "congruent" only
-when a sequence of motions actually maps one figure onto the other is intellectual honesty — "it
-looks the same" without a check is over-claiming (philosophy §5). The technology & environment
-lens: dynamic geometry software can animate the motions, but the reasoning is the learner's; and
-the same rigid symmetries appear in crystals, leaf arrangements, and the structures around us — a
-proof is also a way of seeing the order in the natural world. Emphasize that a proof is a clear,
-checkable argument, not a performance for the "mathy."
+The skill to land: **congruence means "carried onto by a sequence of rigid motions
+(translations, rotations, reflections)," and on a coordinate grid you can prove two
+figures congruent either by naming that sequence or by using the distance formula to
+show corresponding side lengths are equal.** Use a **worked example first, then guided
+practice** (S-011): two triangles with vertices such that a single translation maps one
+onto the other, and a distance-formula check that each corresponding side has the same
+length. The critical-thinking lens: "it looks the same" is not a proof — the sequence of
+motions or the distance calculation is. The global lens: rigid motion is the mathematics
+behind tiling and symmetry art worldwide — Islamic girih, South Asian rangoli and kolam,
+and woven/beaded African patterns are built from a few shapes moved by rigid motions
+(S-024, S-429). The egalitarian lens: proof here needs no expensive tool — tracing
+paper, a cut-out, or a coordinate grid all carry the same argument, so no learner is
+locked out by equipment. The ethics lens: claiming "congruent" only when a sequence of
+motions actually maps one figure onto the other is intellectual honesty — "it looks the
+same" without a check is over-claiming (philosophy §5). The technology & environment
+lens: dynamic geometry software can animate the motions, but the reasoning is the
+learner's; and the same rigid symmetries appear in crystals, leaf arrangements, and the
+structures around us — a proof is also a way of seeing the order in the natural world.
+Emphasize that a proof is a clear, checkable argument, not a performance for the
+"mathy."
 
 ## Procedure
 

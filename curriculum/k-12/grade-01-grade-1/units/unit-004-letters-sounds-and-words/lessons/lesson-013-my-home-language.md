@@ -103,17 +103,15 @@ sharing a piece of your home, and every language is a treasure to its people.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. This is a **values-critical** lesson: honor each learner's
-home language first, and treat multilingualism as wealth, never a deficit. Do not
-rank languages or scripts, and remember that oral and signed traditions are full
-languages too — a learner's language may not have a written form, and that is
-fine. Celebrate every word with genuine warmth, and let the home language lead.
-Sharing is by invitation, never requirement: a learner may pass, draw a word
-instead, or share only with a trusted partner — no one is ever made to perform
-their language. A learner may also share by signing, pointing to a picture, or
-using a device; their home language may be a signed or spoken (not written) one,
-and that is a full language to celebrate.
+This is a **values-critical** lesson: honor each learner's home language first, and
+treat multilingualism as wealth, never a deficit. Do not rank languages or scripts, and
+remember that oral and signed traditions are full languages too — a learner's language
+may not have a written form, and that is fine. Celebrate every word with genuine warmth,
+and let the home language lead. Sharing is by invitation, never requirement: a learner
+may pass, draw a word instead, or share only with a trusted partner — no one is ever
+made to perform their language. A learner may also share by signing, pointing to a
+picture, or using a device; their home language may be a signed or spoken (not written)
+one, and that is a full language to celebrate.
 
 ## Procedure
 

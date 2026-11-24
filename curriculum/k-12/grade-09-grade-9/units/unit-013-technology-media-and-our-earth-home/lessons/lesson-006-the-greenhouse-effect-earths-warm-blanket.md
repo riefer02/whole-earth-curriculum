@@ -114,35 +114,35 @@ of knowing the same warmth.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The mechanism to land, step by step: **(1)
-sunlight passes through the atmosphere and warms the surface; (2) the warm surface
-radiates heat (infrared) back up; (3) greenhouse gases — carbon dioxide, methane, water
-vapor, nitrous oxide — absorb and re-radiate some of that heat, keeping Earth about 33 °C
-warmer than it would otherwise be; (4) extra greenhouse gases from human activity thicken
-the blanket, holding in too much heat.** These steps are the consensus account (S-438;
-S-005). Name the gases and their main human sources: carbon dioxide from burning coal, oil,
-and gas; methane from livestock, leaks, and waste; nitrous oxide from fertilizers. Be
-careful to *separate the established mechanism from the values*: the greenhouse effect is
-a fact of physics; *what we ought to do about it* is a values question (philosophy §5). The
-**environment** lens is the heart here. The **technology** lens: the extra gases come
-largely from our energy and industrial choices (to be compared in Lesson 9). The **ethics**
-lens: the effect is real and its burdens fall unevenly — a preview of Lesson 10. The
-**global** lens: one shared atmosphere wraps everyone; no country's gases stay at home. The
-**critical-thinking** lens: "greenhouse gases trap heat" is an evidence-backed model, not a
-slogan — teach the mechanism so learners can *explain*, not just repeat.
+The mechanism to land, step by step: **(1) sunlight passes through the atmosphere and
+warms the surface; (2) the warm surface radiates heat (infrared) back up; (3) greenhouse
+gases — carbon dioxide, methane, water vapor, nitrous oxide — absorb and re-radiate some
+of that heat, keeping Earth about 33 °C warmer than it would otherwise be; (4) extra
+greenhouse gases from human activity thicken the blanket, holding in too much heat.**
+These steps are the consensus account (S-438; S-005). Name the gases and their main
+human sources: carbon dioxide from burning coal, oil, and gas; methane from livestock,
+leaks, and waste; nitrous oxide from fertilizers. Be careful to *separate the
+established mechanism from the values*: the greenhouse effect is a fact of physics;
+*what we ought to do about it* is a values question (philosophy §5). The **environment**
+lens is the heart here. The **technology** lens: the extra gases come largely from our
+energy and industrial choices (to be compared in Lesson 9). The **ethics** lens: the
+effect is real and its burdens fall unevenly — a preview of Lesson 10. The **global**
+lens: one shared atmosphere wraps everyone; no country's gases stay at home. The
+**critical-thinking** lens: "greenhouse gases trap heat" is an evidence-backed model,
+not a slogan — teach the mechanism so learners can *explain*, not just repeat.
 
 **Multiple knowledge traditions (philosophy §11).** The four-step mechanism above is
-Western climate science (S-438; S-005). Hold it *side by side*, not above, the ecological
-knowledge carried by Indigenous traditions, which read the same shared air and its
-seasons through long, place-based observation and through a relationship of reciprocity
-rather than a mechanism alone. The Potawatomi botanist Robin Wall Kimmerer
-(*Braiding Sweetgrass*) names this: the Honorable Harvest's guidance to take only what is
-needed and to give back ("all flourishing is mutual"), and the knowledge of plants,
+Western climate science (S-438; S-005). Hold it *side by side*, not above, the
+ecological knowledge carried by Indigenous traditions, which read the same shared air
+and its seasons through long, place-based observation and through a relationship of
+reciprocity rather than a mechanism alone. The Potawatomi botanist Robin Wall Kimmerer
+(*Braiding Sweetgrass*) names this: the Honorable Harvest's guidance to take only what
+is needed and to give back ("all flourishing is mutual"), and the knowledge of plants,
 animals, weather, and place that the Potawatomi language and tradition carry (S-427).
 Present it as a *living* tradition of a specific nation (the Citizen Potawatomi Nation),
 not as a specimen or a single slogan. The two accounts are not rivals to rank: science
-answers *how* the blanket works; the Indigenous tradition answers *what we owe the living
-world that warms us*. Let learners hold both, per philosophy §4 and §11.
+answers *how* the blanket works; the Indigenous tradition answers *what we owe the
+living world that warms us*. Let learners hold both, per philosophy §4 and §11.
 
 ## Procedure
 

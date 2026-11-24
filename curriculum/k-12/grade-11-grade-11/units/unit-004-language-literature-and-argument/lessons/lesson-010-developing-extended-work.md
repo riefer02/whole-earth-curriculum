@@ -114,19 +114,18 @@ earning its place in service of the one idea you planted.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an extended work is
-finished not when it is long enough but when the idea is carried whole — structure and
-voice serve the idea, and revision (especially reading aloud) is how the writer finds
-where the idea dropped.** Structure and voice are craft skills: model them and give
-guided practice (S-011). The read-aloud is a concrete, low-tech revision technique —
-where the reader stumbles, the structure is weak. Feedback is "what serves the idea /
-what to try next," never ranking (philosophy §8).
+The idea to land: **an extended work is finished not when it is long enough but when the
+idea is carried whole — structure and voice serve the idea, and revision (especially
+reading aloud) is how the writer finds where the idea dropped.** Structure and voice are
+craft skills: model them and give guided practice (S-011). The read-aloud is a concrete,
+low-tech revision technique — where the reader stumbles, the structure is weak. Feedback
+is "what serves the idea / what to try next," never ranking (philosophy §8).
 
 Model one revision, then let learners revise (worked example → guided practice →
 independent work; S-011). The **intellectual** lens: coherence is the discipline — every
 part must *earn* its place in the arc. The **critical-thinking** lens: revision is
-self-critique made routine — the writer asks of their own sentences what they asked of
-a text in Lessons 7–8. The **social-emotional** lens: sharing a draft is vulnerable;
+self-critique made routine — the writer asks of their own sentences what they asked of a
+text in Lessons 7–8. The **social-emotional** lens: sharing a draft is vulnerable;
 read-alouds are in pairs or small circles, and "not yet" is information, not a verdict.
 The **egalitarian** lens: every learner's voice is worth completing, and the work is
 judged by whether it carries *its own* idea — not by whose idea is "better." Preview:

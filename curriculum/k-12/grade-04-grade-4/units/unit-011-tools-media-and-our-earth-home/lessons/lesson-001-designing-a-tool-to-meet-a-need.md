@@ -116,18 +116,18 @@ began as someone's answer to a need.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is the Grade 4 upgrade of Grade 3's
-"name a simple machine": now learners name what **design** is (making something to meet a
-need) and can **describe one step** in the process. Teach the steps with explicit instruction
-and a worked example before learners work independently (Kirschner, Sweller & Clark, 2006):
-model "find the need → imagine → make → test → improve" on the grain scoop once, then guide a
-second example together. Keep it **global and egalitarian**: use needs and tools from many
-lives — a water carrier, a sunshade, a basket, a pump — so no single, wealthy, modern home is
-the default; design is a human skill, not a store-bought one. A light values thread: a good
-design meets a need for *someone* — ask "who does this help, and who is left out?" Honor every
-body: describe the chart aloud for a learner who is blind or has low vision; a non-speaking
-learner points to a step or draws the idea; acting out the steps works for learners who learn
-best by moving.
+This is the Grade 4 upgrade of Grade 3's "name a simple machine": now learners name what
+**design** is (making something to meet a need) and can **describe one step** in the
+process. Teach the steps with explicit instruction and a worked example before learners
+work independently (Kirschner, Sweller & Clark, 2006): model "find the need → imagine →
+make → test → improve" on the grain scoop once, then guide a second example together.
+Keep it **global and egalitarian**: use needs and tools from many lives — a water
+carrier, a sunshade, a basket, a pump — so no single, wealthy, modern home is the
+default; design is a human skill, not a store-bought one. A light values thread: a good
+design meets a need for *someone* — ask "who does this help, and who is left out?" Honor
+every body: describe the chart aloud for a learner who is blind or has low vision; a
+non-speaking learner points to a step or draws the idea; acting out the steps works for
+learners who learn best by moving.
 
 ## Procedure
 

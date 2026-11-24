@@ -109,18 +109,18 @@ and share an amount with anyone.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It deepens Lesson 1: now the tens and
-ones become **digits** with a place. Teach with a **worked example** (philosophy §13):
-show 47, build it, say "four tens and seven ones," then write 40 + 7. The key idea is
-that the *same number* has three written forms, and reading is translating among them.
-Writing conventions differ by language — in some languages the ones are said before
-the tens, and in some cultures numbers are written differently — and every way is
-correct for the people who use it. Emphasize matching, not speed. **There is no single
-"right" way to say a number, and a learner who needs more time is not behind — they
-are still learning, which is exactly where learning lives.** For learners who are Deaf
-or hard of hearing, sign the number names and point to digits; for learners who are
-blind or low-vision, use raised bundles and braille or large print numerals. A learner
-who does not speak points, signs, or matches cards to show reading.
+It deepens Lesson 1: now the tens and ones become **digits** with a place. Teach with a
+**worked example** (philosophy §13): show 47, build it, say "four tens and seven ones,"
+then write 40 + 7. The key idea is that the *same number* has three written forms, and
+reading is translating among them. Writing conventions differ by language — in some
+languages the ones are said before the tens, and in some cultures numbers are written
+differently — and every way is correct for the people who use it. Emphasize matching,
+not speed. **There is no single "right" way to say a number, and a learner who needs
+more time is not behind — they are still learning, which is exactly where learning
+lives.** For learners who are Deaf or hard of hearing, sign the number names and point
+to digits; for learners who are blind or low-vision, use raised bundles and braille or
+large print numerals. A learner who does not speak points, signs, or matches cards to
+show reading.
 
 ## Procedure
 

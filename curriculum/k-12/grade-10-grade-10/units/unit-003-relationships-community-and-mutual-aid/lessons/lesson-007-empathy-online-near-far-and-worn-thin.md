@@ -119,34 +119,34 @@ world.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **digital platforms both
-extend and flatten empathy — they carry distant voices to us, yet empathy runs strongest
-toward one identifiable person and weakens under a constant stream of suffering, a
-wearing-down called compassion fatigue — so sustaining care is a deliberate choice, not an
-automatic result of seeing more.** The distinctions are well grounded: researchers
-separate *empathic concern* (other-oriented care) from *personal distress* (self-oriented
-overwhelm), with different motivational consequences (S-230), and document that empathy is
-*narrow and biased* — strongest toward those who resemble us and toward single
-identifiable victims, weaker toward large numbers — a descriptive claim about how empathy
-actually works, not a verdict that empathy is bad (S-413). The "identifiable victim" and
-"psychic numbing" effects are standard findings in this literature. The WHO frames
-adolescence as a formative time whose digital habits can shape wellbeing, and notes media
-can help or weigh down (S-311). Present all of this as *description*, and hold the value
-(choose where your care goes) as a value.
+The idea to land: **digital platforms both extend and flatten empathy — they carry
+distant voices to us, yet empathy runs strongest toward one identifiable person and
+weakens under a constant stream of suffering, a wearing-down called compassion fatigue —
+so sustaining care is a deliberate choice, not an automatic result of seeing more.** The
+distinctions are well grounded: researchers separate *empathic concern* (other-oriented
+care) from *personal distress* (self-oriented overwhelm), with different motivational
+consequences (S-230), and document that empathy is *narrow and biased* — strongest
+toward those who resemble us and toward single identifiable victims, weaker toward large
+numbers — a descriptive claim about how empathy actually works, not a verdict that
+empathy is bad (S-413). The "identifiable victim" and "psychic numbing" effects are
+standard findings in this literature. The WHO frames adolescence as a formative time
+whose digital habits can shape wellbeing, and notes media can help or weigh down
+(S-311). Present all of this as *description*, and hold the value (choose where your
+care goes) as a value.
 
 Model the curve once, then let learners work (worked example → guided practice →
 independent work; S-011). The **technology** lens is the spine: read the feed as a
 *designed* object — endless scroll and autoplay are choices that keep the stream coming.
-The **social-emotional** lens: this topic touches real exhaustion and grief; invite, never
-force, and let learners share only what they choose. The **ethics** lens: compassion
-fatigue is not a moral failure — it is a predictable limit, and the ethical question is
-how to care *sustainably* rather than feel guilty for going numb. The **egalitarian**
-lens: whose suffering reaches us (and whose does not) is shaped by algorithms, geography,
-and power — some people's pain is endlessly shown, others' is invisible. The
-**critical-thinking** lens: ask *how many crises can I actually hold, and what does acting
-on one look like?* The **global** lens: the same mechanism operates for everyone online,
-but its weight falls unevenly. Preview: Lesson 8 turns to the echo chamber — the other
-way platforms shape empathy.
+The **social-emotional** lens: this topic touches real exhaustion and grief; invite,
+never force, and let learners share only what they choose. The **ethics** lens:
+compassion fatigue is not a moral failure — it is a predictable limit, and the ethical
+question is how to care *sustainably* rather than feel guilty for going numb. The
+**egalitarian** lens: whose suffering reaches us (and whose does not) is shaped by
+algorithms, geography, and power — some people's pain is endlessly shown, others' is
+invisible. The **critical-thinking** lens: ask *how many crises can I actually hold, and
+what does acting on one look like?* The **global** lens: the same mechanism operates for
+everyone online, but its weight falls unevenly. Preview: Lesson 8 turns to the echo
+chamber — the other way platforms shape empathy.
 
 ## Procedure
 

@@ -116,21 +116,19 @@ story.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Choose a story whose characters are kind and recognizable, and
-tell it as a story to play with — never co-opting sacred or ceremonial roles. Use a
-neutral **turn marker** (a stone or cloth knot) rather than any single culture's
-ceremonial object. Never push a shy learner to perform; watching and copying is full
-participation, and a learner may join a group of actors instead of acting alone. A
-learner who uses a wheelchair or moves with support plays the whole character from
-where they are — a "walk" becomes a lean, a nod, or a hand gesture, and the face and
-voice carry the character fully. A learner who does not speak shows the character with
-face and body, or signs the character's key action. A learner who is blind or has low
-vision receives the story by ear and plays the character fully with voice and body —
-seeing is not needed to become the character. A learner who is Deaf or hard of hearing
-receives the story through sign, gesture, or pictures and plays the character with
-face, body, and movement. Celebrate every character; there
-is no correct way to play one.
+Choose a story whose characters are kind and recognizable, and tell it as a story to
+play with — never co-opting sacred or ceremonial roles. Use a neutral **turn marker** (a
+stone or cloth knot) rather than any single culture's ceremonial object. Never push a
+shy learner to perform; watching and copying is full participation, and a learner may
+join a group of actors instead of acting alone. A learner who uses a wheelchair or moves
+with support plays the whole character from where they are — a "walk" becomes a lean, a
+nod, or a hand gesture, and the face and voice carry the character fully. A learner who
+does not speak shows the character with face and body, or signs the character's key
+action. A learner who is blind or has low vision receives the story by ear and plays the
+character fully with voice and body — seeing is not needed to become the character. A
+learner who is Deaf or hard of hearing receives the story through sign, gesture, or
+pictures and plays the character with face, body, and movement. Celebrate every
+character; there is no correct way to play one.
 
 ## Procedure
 

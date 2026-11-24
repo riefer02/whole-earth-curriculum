@@ -118,30 +118,31 @@ others. Learning to read that trade is a skill you will use for the rest of your
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **every medium shapes
-what a message can carry — screens keep words and speed but drop tone, face, and body,
-and add reach, permanence, and an invisible audience — so misreading is ordinary, not a
-personal failure, and checking is a skill.** The reduced-cues account is well documented:
-online communication removes or delays the social cues that carry meaning (tone, facial
-expression, gesture, immediate reaction) and can loosen self-restraint — the "online
-disinhibition effect" (S-343). The gains are real too: messages cross distance instantly,
-persist for later, and reach audiences we choose or never see (S-481 documents what social
-media platforms are and how their feeds work). Present both sides as *description*, not as
-a verdict that "screens are bad" — the same affordances that connect also mislead.
+The idea to land: **every medium shapes what a message can carry — screens keep words
+and speed but drop tone, face, and body, and add reach, permanence, and an invisible
+audience — so misreading is ordinary, not a personal failure, and checking is a skill.**
+The reduced-cues account is well documented: online communication removes or delays the
+social cues that carry meaning (tone, facial expression, gesture, immediate reaction)
+and can loosen self-restraint — the "online disinhibition effect" (S-343). The gains are
+real too: messages cross distance instantly, persist for later, and reach audiences we
+choose or never see (S-481 documents what social media platforms are and how their feeds
+work). Present both sides as *description*, not as a verdict that "screens are bad" —
+the same affordances that connect also mislead.
 
 Model the skill once, then let learners practice (worked example → guided practice →
 independent work; S-011). The **technology** lens is the spine: read the medium as a
-*designed thing* — persistence, public-by-default audiences, and disappearing stories are
-all choices someone built, and each shapes what we dare to say. The **critical-thinking**
-lens: ask *which cues survive and which are dropped, and how does that change the meaning?*
-The **social-emotional** lens: misreads and hurtful replies are real and common; invite,
-never force, and let learners share only what they choose. The **ethics** lens: a screen
-that hides the other person's face can make cruelty feel costless — noticing that is the
-first guard against it. The **egalitarian** lens: access to these tools is not equal —
-cost, connectivity, disability, and language shape who can reach whom (S-281) — and the
-"norms" of one platform are not universal truths. The **global** lens: people everywhere
-weave screens into daily talk differently; no single way of being online is the right one.
-Preview: Lesson 2 turns from *what screens change* to *how to use them respectfully*.
+*designed thing* — persistence, public-by-default audiences, and disappearing stories
+are all choices someone built, and each shapes what we dare to say. The
+**critical-thinking** lens: ask *which cues survive and which are dropped, and how does
+that change the meaning?* The **social-emotional** lens: misreads and hurtful replies
+are real and common; invite, never force, and let learners share only what they choose.
+The **ethics** lens: a screen that hides the other person's face can make cruelty feel
+costless — noticing that is the first guard against it. The **egalitarian** lens: access
+to these tools is not equal — cost, connectivity, disability, and language shape who can
+reach whom (S-281) — and the "norms" of one platform are not universal truths. The
+**global** lens: people everywhere weave screens into daily talk differently; no single
+way of being online is the right one. Preview: Lesson 2 turns from *what screens change*
+to *how to use them respectfully*.
 
 ## Procedure
 

@@ -121,21 +121,20 @@ braid them into one story, told from many sides.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) the unit's
-threads connect — time, calendars, achievement, knowledge systems, migration,
-geography, resistance, and colonization are not separate facts but one braided story;
-(2) telling it from many sides, never one people's triumph, is the whole discipline;
-(3) the learner is now an author of that story.** Use spaced retrieval — ask learners
-to *recall* each lesson's idea before looking at any card (Dunlosky et al., 2013), and
-let them build their own synthesis (Kirschner, Sweller & Clark, 2006). The global
-lens: the unit deliberately visited India, the Islamic world, Aboriginal Australia,
-the Silk Roads and Indian Ocean, the Americas, Africa, and Oceania — many centers, no
-default. The egalitarian lens: every people's thread is equally part of the braid;
-none is the whole. The ethics lens: telling history fairly — naming loss and survival,
-resistance and continuity — is itself an ethical act. The critical-thinking lens:
-question any story told as one people's triumph; ask whose voice is missing and whose
-is centered. This is the unit's capstone; keep it a celebration of the learner's own
-gathering, not a test.
+The ideas to land: **(1) the unit's threads connect — time, calendars, achievement,
+knowledge systems, migration, geography, resistance, and colonization are not separate
+facts but one braided story; (2) telling it from many sides, never one people's triumph,
+is the whole discipline; (3) the learner is now an author of that story.** Use spaced
+retrieval — ask learners to *recall* each lesson's idea before looking at any card
+(Dunlosky et al., 2013), and let them build their own synthesis (Kirschner, Sweller &
+Clark, 2006). The global lens: the unit deliberately visited India, the Islamic world,
+Aboriginal Australia, the Silk Roads and Indian Ocean, the Americas, Africa, and
+Oceania — many centers, no default. The egalitarian lens: every people's thread is
+equally part of the braid; none is the whole. The ethics lens: telling history fairly —
+naming loss and survival, resistance and continuity — is itself an ethical act. The
+critical-thinking lens: question any story told as one people's triumph; ask whose voice
+is missing and whose is centered. This is the unit's capstone; keep it a celebration of
+the learner's own gathering, not a test.
 
 ## Procedure
 

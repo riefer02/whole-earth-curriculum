@@ -121,15 +121,14 @@ sentence at a time.**
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **public speaking is a
-practiced skill with visible parts — preparation (purpose, audience, one point, one
-piece of evidence), and delivery (breath, pace, volume, posture, eye line) — and
-nervousness is normal and manageable, not a verdict.** The register work of Lesson 4
-(S-237) now becomes a choice made *for a real listener*: the same message is said
-differently to peers than to a formal body, and the skilled speaker reads the audience
-and adapts. Confidence, in the developmental picture for ages 14–18, is partly a matter
-of practice and feedback — the more a learner speaks and hears themselves improve, the
-more the fear recedes.
+The idea to land: **public speaking is a practiced skill with visible parts —
+preparation (purpose, audience, one point, one piece of evidence), and delivery (breath,
+pace, volume, posture, eye line) — and nervousness is normal and manageable, not a
+verdict.** The register work of Lesson 4 (S-237) now becomes a choice made *for a real
+listener*: the same message is said differently to peers than to a formal body, and the
+skilled speaker reads the audience and adapts. Confidence, in the developmental picture
+for ages 14–18, is partly a matter of practice and feedback — the more a learner speaks
+and hears themselves improve, the more the fear recedes.
 
 Model the skill once, then let learners practice (worked example → guided practice →
 independent work; S-011). Keep stakes low: everyone speaks to a partner before anyone
@@ -137,18 +136,18 @@ speaks to the whole room, and a recording can replace a live audience where that
 safer. Delivery may be oral, signed, or through a communication device (AAC) — the craft
 being assessed is purpose, audience, one point, one piece of evidence, and a register
 matched to the audience, not the voice or the standing posture. The **social-emotional**
-lens is the spine: name the physical signs of
-nervousness (racing heart, shallow breath, shaking hands) as the body's preparation,
-not a failure; teach a slow breath as a real tool. The **egalitarian** lens: the
-"right" accent or register is a gate — every voice, every dialect, every first language
-is welcome on this stage, and confidence should not require a learner to erase their
-own way of speaking. The **global** lens: every culture has its own arts of public
-address — formal oratory, call-and-response, story — and a learner may draw on their own
-tradition's strengths. The **ethics** lens: with an audience comes responsibility — say
-what is true, own your sources, and do not use the platform to harm. The
-**critical-thinking** lens: keep the address *reasoned* — one claim, one piece of
-evidence — so confidence is built on substance, not just polish. Preview: Lesson 6
-turns from speaking to *reading* — evaluating media for bias and omission.
+lens is the spine: name the physical signs of nervousness (racing heart, shallow breath,
+shaking hands) as the body's preparation, not a failure; teach a slow breath as a real
+tool. The **egalitarian** lens: the "right" accent or register is a gate — every voice,
+every dialect, every first language is welcome on this stage, and confidence should not
+require a learner to erase their own way of speaking. The **global** lens: every culture
+has its own arts of public address — formal oratory, call-and-response, story — and a
+learner may draw on their own tradition's strengths. The **ethics** lens: with an
+audience comes responsibility — say what is true, own your sources, and do not use the
+platform to harm. The **critical-thinking** lens: keep the address *reasoned* — one
+claim, one piece of evidence — so confidence is built on substance, not just polish.
+Preview: Lesson 6 turns from speaking to *reading* — evaluating media for bias and
+omission.
 
 ## Procedure
 

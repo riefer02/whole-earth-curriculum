@@ -124,15 +124,15 @@ living thing its food, water, shelter, and a safe place to raise its young.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Keep it **concrete before abstract**:
-begin with the learner's own home, then widen to the homes of other living things.
-Model describing one habitat aloud — "this pond has water, mud, and plants; the frog
-finds food and shelter here" — then let learners try. Use habitats from many biomes
-(pond, forest, desert, seashore, meadow, savanna, rainforest, tundra) so no single
-landscape or climate is treated as the default, and learners in Lagos, Lima, or Lahore
-can find a home that looks like the one they know. A light ethical thread: a habitat is not ours to spoil — caring for a home means
-caring for its living things. Where learners cannot go outside, a clear picture or a
-story works just as well; where they can, a few minutes of close looking outdoors is the
+Keep it **concrete before abstract**: begin with the learner's own home, then widen to
+the homes of other living things. Model describing one habitat aloud — "this pond has
+water, mud, and plants; the frog finds food and shelter here" — then let learners try.
+Use habitats from many biomes (pond, forest, desert, seashore, meadow, savanna,
+rainforest, tundra) so no single landscape or climate is treated as the default, and
+learners in Lagos, Lima, or Lahore can find a home that looks like the one they know. A
+light ethical thread: a habitat is not ours to spoil — caring for a home means caring
+for its living things. Where learners cannot go outside, a clear picture or a story
+works just as well; where they can, a few minutes of close looking outdoors is the
 richest version. Retrieval: link back to Lesson 3's sorting by "where it lives" — this
 is that idea, grown.
 

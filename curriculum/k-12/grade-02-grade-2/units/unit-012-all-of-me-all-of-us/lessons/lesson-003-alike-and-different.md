@@ -111,16 +111,16 @@ languages and different ways. Alike helps us feel "you are like me." Different m
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It spirals back to the opening unit's
-"alike and different" work, now with the added question *why both matter*. The
-egalitarian commitment is firm: **difference is never a ranking**. No way of being is
-better than another — alike is not "better" than different, and no learner's fact is
-above another's. Guide pairs to find *true, kind* facts (likes, abilities, families,
-languages, ways of moving) and steer away from facts that sort people into higher and
-lower. For a learner who is blind or has low vision, focus on facts heard, felt, and
-spoken rather than seen. For a learner who does not use a speaking voice, accept
-pointing, signing, drawing, or a partner voicing. The goal is that every learner can
-say, in their own way, one alike thing and one different thing that both matter.
+It spirals back to the opening unit's "alike and different" work, now with the added
+question *why both matter*. The egalitarian commitment is firm: **difference is never a
+ranking**. No way of being is better than another — alike is not "better" than
+different, and no learner's fact is above another's. Guide pairs to find *true, kind*
+facts (likes, abilities, families, languages, ways of moving) and steer away from facts
+that sort people into higher and lower. For a learner who is blind or has low vision,
+focus on facts heard, felt, and spoken rather than seen. For a learner who does not use
+a speaking voice, accept pointing, signing, drawing, or a partner voicing. The goal is
+that every learner can say, in their own way, one alike thing and one different thing
+that both matter.
 
 ## Procedure
 

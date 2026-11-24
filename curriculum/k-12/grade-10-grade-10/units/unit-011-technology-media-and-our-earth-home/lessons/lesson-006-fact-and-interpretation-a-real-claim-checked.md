@@ -114,20 +114,23 @@ notice when someone is smuggling a conclusion inside a fact.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a claim often bundles a checkable fact
-with an interpretation — a meaning given to that fact — and the skill is to separate them, verify the
-fact, and say plainly where the interpretation begins.** This extends Lesson 5 from "is it true?" to "which
-part is true, and which part is a reading of the truth?" The **critical-thinking** lens is the spine. The
-**ethics** lens: honest communication names its interpretations instead of hiding them inside facts
-(S-442). The **egalitarian** lens: the habit of separating fact from interpretation protects ordinary
-people from being led; it is a democratic skill, not an elite one. The **global** lens: different media
-traditions blend fact and commentary differently — recognizing the blend, not imposing one style, is the
-aim. The **technology** lens: algorithmically boosted feeds reward strong interpretation over careful
-fact, which is why the split matters (S-482). The **environment** lens: environmental claims — a drought,
-a harvest, a river's health — are where fact and interpretation most often tangle, so the split is a form
-of care for the Earth too. Use real, hedged language and distinguish evidence from values (philosophy §5).
-Model "the evidence shows X; whether that is good or bad is a judgment." Preview:
-next lesson asks who owns the media that deliver these claims, and how that shapes what we even see.
+The idea to land: **a claim often bundles a checkable fact with an interpretation — a
+meaning given to that fact — and the skill is to separate them, verify the fact, and say
+plainly where the interpretation begins.** This extends Lesson 5 from "is it true?" to
+"which part is true, and which part is a reading of the truth?" The
+**critical-thinking** lens is the spine. The **ethics** lens: honest communication names
+its interpretations instead of hiding them inside facts (S-442). The **egalitarian**
+lens: the habit of separating fact from interpretation protects ordinary people from
+being led; it is a democratic skill, not an elite one. The **global** lens: different
+media traditions blend fact and commentary differently — recognizing the blend, not
+imposing one style, is the aim. The **technology** lens: algorithmically boosted feeds
+reward strong interpretation over careful fact, which is why the split matters (S-482).
+The **environment** lens: environmental claims — a drought, a harvest, a river's
+health — are where fact and interpretation most often tangle, so the split is a form of
+care for the Earth too. Use real, hedged language and distinguish evidence from values
+(philosophy §5). Model "the evidence shows X; whether that is good or bad is a
+judgment." Preview: next lesson asks who owns the media that deliver these claims, and
+how that shapes what we even see.
 
 ## Procedure
 

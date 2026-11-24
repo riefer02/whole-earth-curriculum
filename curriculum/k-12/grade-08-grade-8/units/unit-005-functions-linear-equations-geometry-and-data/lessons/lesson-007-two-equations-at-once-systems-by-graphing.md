@@ -110,20 +110,21 @@ both and reading the crossing point is how you find the one place both statement
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a system is two equations
-whose solution must satisfy both at once; (2) graphing both lines shows the solution as the point of
-intersection; (3) check the point by substituting into both equations, and recognize that parallel
-lines mean no solution.** Because graphing and reading the intersection is a foundational skill, use
-explicit instruction, worked examples, and guided practice before independent work (Kirschner,
-Sweller & Clark, 2006). Watch for the slips of misreading the sign of the slope and of accepting a
-point that satisfies only one equation. The technology lens: a graphing tool makes the intersection
-visible instantly — but the learner must still *interpret* what the crossing means. The egalitarian
-lens: two honest rules and one grid are all anyone needs to find where two plans agree — the method
-is open to everyone, not reserved for experts (philosophy §4). The critical-thinking lens: always
-check the crossing point in *both* equations — a point on one line is not enough. The global lens:
-the coordinate grid traces to Descartes (1637) while locating a place by two distances is far older,
-from latitude/longitude to grid squares (S-240). Retrieval: y = kx (Grade 7) is the line through the
-origin; today's lines are its grown-up relatives.
+The ideas to land: **(1) a system is two equations whose solution must satisfy both at
+once; (2) graphing both lines shows the solution as the point of intersection; (3) check
+the point by substituting into both equations, and recognize that parallel lines mean no
+solution.** Because graphing and reading the intersection is a foundational skill, use
+explicit instruction, worked examples, and guided practice before independent work
+(Kirschner, Sweller & Clark, 2006). Watch for the slips of misreading the sign of the
+slope and of accepting a point that satisfies only one equation. The technology lens: a
+graphing tool makes the intersection visible instantly — but the learner must still
+*interpret* what the crossing means. The egalitarian lens: two honest rules and one grid
+are all anyone needs to find where two plans agree — the method is open to everyone, not
+reserved for experts (philosophy §4). The critical-thinking lens: always check the
+crossing point in *both* equations — a point on one line is not enough. The global lens:
+the coordinate grid traces to Descartes (1637) while locating a place by two distances
+is far older, from latitude/longitude to grid squares (S-240). Retrieval: y = kx (Grade
+7) is the line through the origin; today's lines are its grown-up relatives.
 
 ## Procedure
 

@@ -121,20 +121,20 @@ and agree on what comes next.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **repair is a
-three-step skill — an accountable apology, real listening, and an agreed next step — and it
-restores a relationship rather than only ending the conflict**. Use invented, safe
-disagreements (a forgotten promise, a borrowed item, an overheard remark), never a real
-classmate's conflict, and never require a learner to confess anything. Hold the
-global/anthropological lens honestly: present restorative practices, Diné peacemaking, and
-related traditions side by side as living knowledge, never as curiosities or a ranking;
-the "what happened / who was harmed / how do we make it right" questions are a modern
-restorative frame (Zehr; IIRP), and Diné hózhó is a real principle of balance — teach both
-with respect and invite learners to name repair practices from their own cultures. Model
-the full conversation once as a worked example before pairs practice (Kirschner, Sweller &
-Clark, 2006). Note that an apology is not the same as being forgiven — the other person
-chooses; our job is the honest offer and the changed next step. See `docs/facilitation.md`
-and `docs/art-style.md`.
+The idea to land is that **repair is a three-step skill — an accountable apology, real
+listening, and an agreed next step — and it restores a relationship rather than only
+ending the conflict**. Use invented, safe disagreements (a forgotten promise, a borrowed
+item, an overheard remark), never a real classmate's conflict, and never require a
+learner to confess anything. Hold the global/anthropological lens honestly: present
+restorative practices, Diné peacemaking, and related traditions side by side as living
+knowledge, never as curiosities or a ranking; the "what happened / who was harmed / how
+do we make it right" questions are a modern restorative frame (Zehr; IIRP), and Diné
+hózhó is a real principle of balance — teach both with respect and invite learners to
+name repair practices from their own cultures. Model the full conversation once as a
+worked example before pairs practice (Kirschner, Sweller & Clark, 2006). Note that an
+apology is not the same as being forgiven — the other person chooses; our job is the
+honest offer and the changed next step. See `docs/facilitation.md` and
+`docs/art-style.md`.
 
 ## Procedure
 

@@ -105,17 +105,16 @@ your whole self.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, model attention yourself and narrate it: "I am
-turning toward you and giving you my attention; I will let you finish." Say the
-important part aloud: different bodies listen differently. Some keep their eyes on
-the speaker, some look away or close their eyes to hear better; some keep their hands
-still, some need to move a little. No one way is more correct — what matters is being
-present and letting the speaker finish. Never insist on eye contact or a fixed
-posture: in some cultures and for some autistic learners, looking away *is* listening.
-For learners who listen with their eyes (sign language or lip-reading), "listening"
-means watching the speaker's face and hands — honor that as full listening too. Keep
-speaking turns short at this age — one sentence is plenty.
+As facilitator, model attention yourself and narrate it: "I am turning toward you and
+giving you my attention; I will let you finish." Say the important part aloud: different
+bodies listen differently. Some keep their eyes on the speaker, some look away or close
+their eyes to hear better; some keep their hands still, some need to move a little. No
+one way is more correct — what matters is being present and letting the speaker finish.
+Never insist on eye contact or a fixed posture: in some cultures and for some autistic
+learners, looking away *is* listening. For learners who listen with their eyes (sign
+language or lip-reading), "listening" means watching the speaker's face and hands —
+honor that as full listening too. Keep speaking turns short at this age — one sentence
+is plenty.
 
 ## Procedure
 

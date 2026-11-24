@@ -108,18 +108,20 @@ Today you learn that way.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **communicating across difference has
-three moves — (1) paraphrase: say back what you heard, in your own words, to check you understood; (2)
-acknowledge: name what is reasonable or real in their view before you respond; (3) ask: ask a genuine
-question from curiosity, not as a trap.** This is a *skill*, so use a **worked example first, then guided
-practice** (explicit instruction carries skills for novices — S-011). The ethics lens: we owe people dignity
-even when we disagree — understanding someone is not agreeing with them. The egalitarian lens: in any
-conversation, some voices are louder and some are quieter; across difference, notice who has more power and
-make room. The global lens: norms of disagreement differ across cultures — in some places, direct
-disagreement is rude and indirect hints are respectful; there is no single "right" way, only the shared goal
-of being heard. The technology lens: online, tone and body language vanish, so the same three moves matter
-even more in text. Model the worked example fully before pairs practice. Emphasize that the goal is
-understanding, not winning or giving up.
+The skill to land: **communicating across difference has three moves — (1) paraphrase:
+say back what you heard, in your own words, to check you understood; (2) acknowledge:
+name what is reasonable or real in their view before you respond; (3) ask: ask a genuine
+question from curiosity, not as a trap.** This is a *skill*, so use a **worked example
+first, then guided practice** (explicit instruction carries skills for novices — S-011).
+The ethics lens: we owe people dignity even when we disagree — understanding someone is
+not agreeing with them. The egalitarian lens: in any conversation, some voices are
+louder and some are quieter; across difference, notice who has more power and make room.
+The global lens: norms of disagreement differ across cultures — in some places, direct
+disagreement is rude and indirect hints are respectful; there is no single "right" way,
+only the shared goal of being heard. The technology lens: online, tone and body language
+vanish, so the same three moves matter even more in text. Model the worked example fully
+before pairs practice. Emphasize that the goal is understanding, not winning or giving
+up.
 
 ## Procedure
 

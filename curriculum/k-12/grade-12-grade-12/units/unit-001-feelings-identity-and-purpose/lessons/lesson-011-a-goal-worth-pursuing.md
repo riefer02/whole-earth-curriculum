@@ -115,21 +115,20 @@ fully formed; it is grown by trying, reflecting, and being supported along the w
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a meaningful goal is
-chosen, tested, and worth its cost — and not having one yet is normal, not a deficit.**
-Possible selves are the bridge between the present self and future motivation (Markus &
-Nurius, S-399). Purpose grows by trying, reflecting, and being supported, and only a
-minority of young people report a clear sense of it — so the lesson must relieve
-pressure, not add it (Damon, S-400).
+The idea to land: **a meaningful goal is chosen, tested, and worth its cost — and not
+having one yet is normal, not a deficit.** Possible selves are the bridge between the
+present self and future motivation (Markus & Nurius, S-399). Purpose grows by trying,
+reflecting, and being supported, and only a minority of young people report a clear
+sense of it — so the lesson must relieve pressure, not add it (Damon, S-400).
 
 The **ethics** lens: what makes a goal *worth pursuing* is partly an ethical question —
 what it does for others, not only for oneself. The **egalitarianism** lens: the menu of
-possible selves is not the same length for everyone — a goal is only genuinely "mine"
-if I chose it among real options, and some learners have had fewer; honor that rather
-than moralizing about ambition. The **global** lens: what counts as a worthy goal — a
-trade, a calling, a role in family, a craft — varies across cultures; none is the
-default or the "higher" path. The **critical-thinking** lens: the four tests are a check
-that separates a borrowed goal from an authored one.
+possible selves is not the same length for everyone — a goal is only genuinely "mine" if
+I chose it among real options, and some learners have had fewer; honor that rather than
+moralizing about ambition. The **global** lens: what counts as a worthy goal — a trade,
+a calling, a role in family, a craft — varies across cultures; none is the default or
+the "higher" path. The **critical-thinking** lens: the four tests are a check that
+separates a borrowed goal from an authored one.
 
 **Safeguarding:** no learner is required to commit publicly or to reveal a feared self
 rooted in trauma. Feared selves may stay private; the map's feared path can be drawn

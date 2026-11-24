@@ -116,14 +116,13 @@ rests.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. This is the unit's portfolio artifact — the "my body at work and
-at rest" record named in the assessment plan — and it closes the body-signals strand.
-Guide the marking and keep it gentle: there is no "correct" number, and no body is
-praised or shamed for how fast or warm it gets. A learner's dashboard is a record of
-their noticing, never a grade. Honor each body's own pace — a fast, slow, or differently
-feeling heart is all fine. If a learner cannot feel a signal, they may describe it or
-use a partner's help. Dashboards are shared only if the learner chooses.
+This is the unit's portfolio artifact — the "my body at work and at rest" record named
+in the assessment plan — and it closes the body-signals strand. Guide the marking and
+keep it gentle: there is no "correct" number, and no body is praised or shamed for how
+fast or warm it gets. A learner's dashboard is a record of their noticing, never a
+grade. Honor each body's own pace — a fast, slow, or differently feeling heart is all
+fine. If a learner cannot feel a signal, they may describe it or use a partner's help.
+Dashboards are shared only if the learner chooses.
 
 ## Procedure
 

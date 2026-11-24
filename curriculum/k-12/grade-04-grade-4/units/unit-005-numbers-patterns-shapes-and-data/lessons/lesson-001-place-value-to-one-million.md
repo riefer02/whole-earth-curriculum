@@ -120,19 +120,18 @@ thousands make a million. It is the same counting idea, just bigger.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It builds directly on Grade 3, where
-learners read and wrote numbers to 1,000; today the same unitizing move reaches one
-million — **ten of any place makes one of the next place** (Clements & Sarama, 2014).
-Teach the one new idea as a **worked example** (philosophy §13): show that ten tens is
-a hundred, ten hundreds is a thousand, ten thousands is a ten-thousand, and so on,
-then read 463,215 aloud in its periods. Keep it concrete: groups and charts first,
-symbols last. **The speed at which a learner reads a big number is not a measure of
-their worth; a number is a fact about a collection, never about a person.** The
-digits 0–9 we use today are one number system among many — they reached the wider
-world through Arabic-speaking scholars from India, while other peoples counted with
-tallies, knots, and many other ways (Ifrah, 2000; Zaslavsky, 1999). Count and read in
-the home language; number words differ across languages and all are correct. For
-learners who are Deaf or hard of hearing, sign each place or tap each column; for
+It builds directly on Grade 3, where learners read and wrote numbers to 1,000; today the
+same unitizing move reaches one million — **ten of any place makes one of the next
+place** (Clements & Sarama, 2014). Teach the one new idea as a **worked example**
+(philosophy §13): show that ten tens is a hundred, ten hundreds is a thousand, ten
+thousands is a ten-thousand, and so on, then read 463,215 aloud in its periods. Keep it
+concrete: groups and charts first, symbols last. **The speed at which a learner reads a
+big number is not a measure of their worth; a number is a fact about a collection, never
+about a person.** The digits 0–9 we use today are one number system among many — they
+reached the wider world through Arabic-speaking scholars from India, while other peoples
+counted with tallies, knots, and many other ways (Ifrah, 2000; Zaslavsky, 1999). Count
+and read in the home language; number words differ across languages and all are correct.
+For learners who are Deaf or hard of hearing, sign each place or tap each column; for
 learners who are blind or have low vision, use a tactile chart and read by touch.
 Learners with limited movement direct a partner to place counters. Mastery arrives at
 its own pace.

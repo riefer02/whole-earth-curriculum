@@ -97,12 +97,11 @@ theirs.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. The central value is **egalitarian**: no language is "better"
-or "more correct" than another, and multilingualism is wealth, not a problem. Treat
-every home language as a treasure the learner gives, never as a barrier. This is a
-value we teach by modeling — never rank languages, never mock an accent, and let the
-learners' own languages fill the room. For the factual claim below, cite UNESCO.
+The central value is **egalitarian**: no language is "better" or "more correct" than
+another, and multilingualism is wealth, not a problem. Treat every home language as a
+treasure the learner gives, never as a barrier. This is a value we teach by modeling —
+never rank languages, never mock an accent, and let the learners' own languages fill the
+room. For the factual claim below, cite UNESCO.
 
 ## Procedure
 

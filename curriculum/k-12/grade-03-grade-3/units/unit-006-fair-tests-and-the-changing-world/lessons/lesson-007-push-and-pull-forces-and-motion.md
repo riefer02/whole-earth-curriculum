@@ -118,16 +118,15 @@ village.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea is simple and physical, so let
-learners *do* it — but teach the five motion changes explicitly first with a **worked
-example** (push the car: "it started and sped up; now I stop it"), then let pairs
-explore (guided practice). Frame force as neutral and useful — forces are not violent;
-the same push that throws a ball also holds a door open gently. Keep it safe and
-cooperative: the tug-of-war is gentle and even, and learners feel both the push and the
-pull rather than competing. This lesson sets up Lesson 8 on friction — for now, hold the
-question "why does the car eventually stop on its own?" open, and let it be answered
-tomorrow. Include every body: forces can be felt and described by any learner, seated or
-standing.
+The idea is simple and physical, so let learners *do* it — but teach the five motion
+changes explicitly first with a **worked example** (push the car: "it started and sped
+up; now I stop it"), then let pairs explore (guided practice). Frame force as neutral
+and useful — forces are not violent; the same push that throws a ball also holds a door
+open gently. Keep it safe and cooperative: the tug-of-war is gentle and even, and
+learners feel both the push and the pull rather than competing. This lesson sets up
+Lesson 8 on friction — for now, hold the question "why does the car eventually stop on
+its own?" open, and let it be answered tomorrow. Include every body: forces can be felt
+and described by any learner, seated or standing.
 
 ## Procedure
 

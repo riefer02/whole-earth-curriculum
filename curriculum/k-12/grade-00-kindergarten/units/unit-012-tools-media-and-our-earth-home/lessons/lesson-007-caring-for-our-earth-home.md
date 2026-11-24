@@ -106,12 +106,12 @@ One small act of care, done by many hands, keeps our home healthy.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, make the act real, not
-symbolic — learners should actually water, turn off, or tidy something, with safe,
-clean hands. Keep the tone hopeful, never frightening: the Earth is our shared home and
-we are its helpers, not its saviors or its enemies. Small acts matter, and no learner's
-act is too small. If water is scarce where you are, adapt — turning off a tap or
-shading a plant can be the act of care, and is just as real.
+As facilitator, make the act real, not symbolic — learners should actually water, turn
+off, or tidy something, with safe, clean hands. Keep the tone hopeful, never
+frightening: the Earth is our shared home and we are its helpers, not its saviors or its
+enemies. Small acts matter, and no learner's act is too small. If water is scarce where
+you are, adapt — turning off a tap or shading a plant can be the act of care, and is
+just as real.
 
 ## Procedure
 

@@ -115,25 +115,24 @@ feeling into movement with a plan.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **devising means
-starting from a concept and choosing movement to serve it — gesture, level (high/mid/
-low), and timing (fast/slow, still/moving) — then storyboarding so the concept is
-visible in the choices.** A storyboard (drawn frames with captions) is to movement
-what the graphic score was to music in Lesson 4: a universal, low-tech way to document
-an idea before it is polished. The unit's through-line holds again — one motif,
-developed.
+The idea to land: **devising means starting from a concept and choosing movement to
+serve it — gesture, level (high/mid/ low), and timing (fast/slow, still/moving) — then
+storyboarding so the concept is visible in the choices.** A storyboard (drawn frames
+with captions) is to movement what the graphic score was to music in Lesson 4: a
+universal, low-tech way to document an idea before it is polished. The unit's
+through-line holds again — one motif, developed.
 
 The **ethics** lens: devising your own concept is the honest starting point; it is the
 opposite of copying another culture's dance and calling it yours (Lesson 9 makes this
 explicit). The **egalitarian** lens: every body is an instrument and every body can
-devise; the piece is built from *your* movement vocabulary, not a single imposed
-ideal. The **global** lens: across cultures, movement carries meaning — gesture,
-posture, and spacing communicate without words in performance and daily life alike
-(S-189). The **technology** lens: a camera lets a deviser watch and revise — but the
-storyboard does too, with no device. The **environment** lens: devising outdoors
-reminds us the body is part of place — terrain becomes part of the concept. The
-**physical** and **social-emotional** lenses: moving is how the body and feeling join;
-name the feeling first, then let the body speak it.
+devise; the piece is built from *your* movement vocabulary, not a single imposed ideal.
+The **global** lens: across cultures, movement carries meaning — gesture, posture, and
+spacing communicate without words in performance and daily life alike (S-189). The
+**technology** lens: a camera lets a deviser watch and revise — but the storyboard does
+too, with no device. The **environment** lens: devising outdoors reminds us the body is
+part of place — terrain becomes part of the concept. The **physical** and
+**social-emotional** lenses: moving is how the body and feeling join; name the feeling
+first, then let the body speak it.
 
 Model one worked example (worked example → guided practice → independent devising;
 S-011). Keep it short — four moments are enough to hold a concept.

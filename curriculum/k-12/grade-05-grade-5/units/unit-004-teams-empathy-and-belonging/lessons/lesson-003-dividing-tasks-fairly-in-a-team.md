@@ -116,14 +116,14 @@ one person carrying it all. In a sports team, a garden, or a shop, the same tric
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **fair division of
-work**: list all the jobs, match them to people by skill and interest, and make sure
-nobody is left out and nobody is overloaded. Fairness here is a practice, not a slogan —
-model one worked example before teams work independently (Kirschner, Sweller & Clark,
-2006; Slavin's cooperative-learning structures). Watch for the two failures: one child
-does everything, or one child gets nothing. Name them gently and redirect to "everyone
-has a real part." Cooperative learning is a strong lever for achievement and belonging
-(Bloom, 1984; Hattie's relationships finding). See `docs/contexts.md`.
+The idea to land is **fair division of work**: list all the jobs, match them to people
+by skill and interest, and make sure nobody is left out and nobody is overloaded.
+Fairness here is a practice, not a slogan — model one worked example before teams work
+independently (Kirschner, Sweller & Clark, 2006; Slavin's cooperative-learning
+structures). Watch for the two failures: one child does everything, or one child gets
+nothing. Name them gently and redirect to "everyone has a real part." Cooperative
+learning is a strong lever for achievement and belonging (Bloom, 1984; Hattie's
+relationships finding). See `docs/contexts.md`.
 
 ## Procedure
 

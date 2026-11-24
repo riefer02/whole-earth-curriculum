@@ -113,23 +113,22 @@ you can draw that ladder for *your* life, you can find care when you need it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a health system is
-a set of levels — self/home care, community helpers, primary clinic, hospital — and
-knowing your own local version is the practical core of "navigating health systems"
-(D03.S4.11.01).** The levels here are a teaching scaffold, not a universal truth:
-every place orders them differently, and **traditional medicine is a real, valued
-knowledge tradition that sits alongside clinics, not beneath them (WHO traditional
-medicine, S-145).** Community health volunteers are part of this landscape in many
-countries — the Red Cross and Red Crescent movement alone links millions of them
-across the world (S-329).
+The idea to land: **a health system is a set of levels — self/home care, community
+helpers, primary clinic, hospital — and knowing your own local version is the practical
+core of "navigating health systems" (D03.S4.11.01).** The levels here are a teaching
+scaffold, not a universal truth: every place orders them differently, and **traditional
+medicine is a real, valued knowledge tradition that sits alongside clinics, not beneath
+them (WHO traditional medicine, S-145).** Community health volunteers are part of this
+landscape in many countries — the Red Cross and Red Crescent movement alone links
+millions of them across the world (S-329).
 
 The **community** lens: this lesson is explicitly about the learner's own community —
 its doors, its people, its distances. The **global** lens: learners compare their map
 with a partner's or a different place's, seeing that systems differ widely. The
-**intellectual** lens: building a structured map is organization — a transferable
-skill. Watch for learners who have no easy access at any level; treat that not as
-their failure but as the fairness problem from Lesson 2 made visible. Preview: Lesson
-4 asks *when* to use each door.
+**intellectual** lens: building a structured map is organization — a transferable skill.
+Watch for learners who have no easy access at any level; treat that not as their failure
+but as the fairness problem from Lesson 2 made visible. Preview: Lesson 4 asks *when* to
+use each door.
 
 ## Procedure
 

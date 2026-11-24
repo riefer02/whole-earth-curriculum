@@ -115,19 +115,19 @@ you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **in y = A·sin(B(x
-− C)) + D, A is amplitude (height from midline), the period is 2π/B (and frequency is
-its reciprocal), C is phase shift (left/right), and D is the midline (up/down).**
-Teach the four features one at a time, each with a graph, then combine them (S-011).
+The ideas to land: **in y = A·sin(B(x − C)) + D, A is amplitude (height from midline),
+the period is 2π/B (and frequency is its reciprocal), C is phase shift (left/right), and
+D is the midline (up/down).** Teach the four features one at a time, each with a graph,
+then combine them (S-011).
 
-The **intellectual** lens: four numbers (A, B, C, D) control a whole repeating shape —
-a small alphabet for a huge family of waves. The **global** lens: the word "sine"
-comes from a mistranslation of the Sanskrit *jya* (chord/half-chord) through Arabic
-*jiba* to Latin *sinus* — trigonometry grew in India and the Islamic world, not one
-place (S-240, S-429). The **critical-thinking** lens: learners check each feature by
-marking it on the graph. The **environment** lens: day length, tides, and seasonal
-temperature are real periodic signals — reading their amplitude and frequency is
-reading the planet's rhythm. Preview: Lesson 8 fits these features to real data.
+The **intellectual** lens: four numbers (A, B, C, D) control a whole repeating shape — a
+small alphabet for a huge family of waves. The **global** lens: the word "sine" comes
+from a mistranslation of the Sanskrit *jya* (chord/half-chord) through Arabic *jiba* to
+Latin *sinus* — trigonometry grew in India and the Islamic world, not one place (S-240,
+S-429). The **critical-thinking** lens: learners check each feature by marking it on the
+graph. The **environment** lens: day length, tides, and seasonal temperature are real
+periodic signals — reading their amplitude and frequency is reading the planet's rhythm.
+Preview: Lesson 8 fits these features to real data.
 
 ## Procedure
 

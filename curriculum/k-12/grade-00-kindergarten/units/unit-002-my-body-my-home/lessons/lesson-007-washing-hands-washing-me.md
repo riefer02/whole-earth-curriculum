@@ -101,12 +101,11 @@ is the same: soap, water, and a good scrub.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, model the steps slowly,
-then watch each learner and gently correct. **Honor every context:** where water is
-scarce, teach the "wet, turn off, lather, rinse" method that saves water, and mention
-that ash can work when there is no soap. Where a learner cannot use their hands, a
-caregiver or older peer can help wash them. This is care, never a test — celebrate the
-effort, not perfection.
+As facilitator, model the steps slowly, then watch each learner and gently correct.
+**Honor every context:** where water is scarce, teach the "wet, turn off, lather, rinse"
+method that saves water, and mention that ash can work when there is no soap. Where a
+learner cannot use their hands, a caregiver or older peer can help wash them. This is
+care, never a test — celebrate the effort, not perfection.
 
 ## Procedure
 

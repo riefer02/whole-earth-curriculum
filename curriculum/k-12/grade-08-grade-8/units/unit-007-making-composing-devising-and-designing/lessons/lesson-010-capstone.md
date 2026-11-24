@@ -126,23 +126,26 @@ medium. Today you build that one picture of your own craft.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the **closing capstone and synthesis**. The goal:
-**each learner recalls all eight goals and connects them into one web around *make, compose, devise,
-design* — plus *critique with evidence*.** The eight goals are: (1) create a series on one theme and
-reflect on its change; (2) critique an artwork with evidence, separating observation from judgment; (3)
-compose in a chosen style and reflect on the choices; (4) critique a musical work with evidence about
-elements, context, and effect; (5) devise a piece on one theme and reflect on its change through
-rehearsal; (6) critique a performance with evidence about movement, expression, context, and purpose;
-(7) design and make a working prototype and revise it through testing; (8) critique a design with
-evidence about function, materials, fairness, and footprint. This is a **retrieval and spacing** moment
-— having learners recall rather than re-read is what makes the learning durable (S-039). Keep assessment
-**mastery, not ranking**: a learner who cannot yet recall a goal simply revisits that lesson's artifact
-and tries again — "not yet" is information, never a verdict. The four lenses, together: the
-**critical-thinking** lens asks what evidence supports each claim; the **ethics** lens asks what is
-right and who is affected; the **egalitarian** lens asks who benefits and who is left out; the
-**global** lens asks how this looks in other cultures and traditions — always honoring living traditions
-with respectful questions (S-056); the **environment** lens asks what the made thing costs the Earth.
-Celebrate the collective: each learner's map is a thread in one class web.
+It is the **closing capstone and synthesis**. The goal: **each learner recalls all eight
+goals and connects them into one web around *make, compose, devise, design* — plus
+*critique with evidence*.** The eight goals are: (1) create a series on one theme and
+reflect on its change; (2) critique an artwork with evidence, separating observation
+from judgment; (3) compose in a chosen style and reflect on the choices; (4) critique a
+musical work with evidence about elements, context, and effect; (5) devise a piece on
+one theme and reflect on its change through rehearsal; (6) critique a performance with
+evidence about movement, expression, context, and purpose; (7) design and make a working
+prototype and revise it through testing; (8) critique a design with evidence about
+function, materials, fairness, and footprint. This is a **retrieval and spacing**
+moment — having learners recall rather than re-read is what makes the learning durable
+(S-039). Keep assessment **mastery, not ranking**: a learner who cannot yet recall a
+goal simply revisits that lesson's artifact and tries again — "not yet" is information,
+never a verdict. The four lenses, together: the **critical-thinking** lens asks what
+evidence supports each claim; the **ethics** lens asks what is right and who is
+affected; the **egalitarian** lens asks who benefits and who is left out; the **global**
+lens asks how this looks in other cultures and traditions — always honoring living
+traditions with respectful questions (S-056); the **environment** lens asks what the
+made thing costs the Earth. Celebrate the collective: each learner's map is a thread in
+one class web.
 
 ## Procedure
 

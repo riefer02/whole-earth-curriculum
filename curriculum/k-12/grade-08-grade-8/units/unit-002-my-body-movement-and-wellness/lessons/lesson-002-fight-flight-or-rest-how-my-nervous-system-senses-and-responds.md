@@ -117,28 +117,30 @@ trace how it works.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) the nervous system senses
-(senses pick up information), sends it to the brain and spinal cord, and responds by changing the
-body; (2) the automatic response has two branches — sympathetic (fight-or-flight: faster heart and
-breath, tensed muscles, wide pupils, digestion paused) and parasympathetic (rest-and-digest: slower
-heart and breath, relaxed muscles, digestion resumed); (3) both are healthy and necessary — danger
-needs alarm, safety needs calm; neither is "bad."** Model the signal path once as a worked example
-(S-011): sense → brain/spinal cord → response. The scientific account (S-339, S-338) describes the
-sympathetic and parasympathetic branches; hold it as a well-supported scientific story, and note
-that many cultures have long described the body's alarm and calm in their own words (philosophy
-§11) — held side by side, not ranked. The ethics lens: knowing our own alarm is the first step to
-meeting it kindly. The egalitarian lens: bodies sense and respond in varied ways — some nervous
-systems alarm more easily, and that is a fact about a person, never a fault. The global lens: every
-human body shares this wiring, whatever the place or culture. The technology & environment lens:
-loud screens, alerts, and unsafe places can keep the alarm switched on — a preview of Lesson 3.
-The critical-thinking lens: "the brain readies the body before conscious thought" is a checkable
-  scientific fact (S-339), not a guess. **Safeguarding:** never deliberately startle a learner to
-  demonstrate this; use recalled examples and the diagram instead. **Accessibility:** the startle
-  example can be told in any mode — a sudden movement, a bright light, or a tap on the shoulder — so
-  learners who are deaf or hard of hearing follow it as fully as those who hear a bang; and the
-  diagram's meaning lives in its labels and in your spoken trace of the path, so a learner who
-  cannot see the diagram can follow the same signal path in words, by sorting the response cards
-  aloud, or with a tactile two-column chart.
+The ideas to land: **(1) the nervous system senses (senses pick up information), sends
+it to the brain and spinal cord, and responds by changing the body; (2) the automatic
+response has two branches — sympathetic (fight-or-flight: faster heart and breath,
+tensed muscles, wide pupils, digestion paused) and parasympathetic (rest-and-digest:
+slower heart and breath, relaxed muscles, digestion resumed); (3) both are healthy and
+necessary — danger needs alarm, safety needs calm; neither is "bad."** Model the signal
+path once as a worked example (S-011): sense → brain/spinal cord → response. The
+scientific account (S-339, S-338) describes the sympathetic and parasympathetic
+branches; hold it as a well-supported scientific story, and note that many cultures have
+long described the body's alarm and calm in their own words (philosophy §11) — held side
+by side, not ranked. The ethics lens: knowing our own alarm is the first step to meeting
+it kindly. The egalitarian lens: bodies sense and respond in varied ways — some nervous
+systems alarm more easily, and that is a fact about a person, never a fault. The global
+lens: every human body shares this wiring, whatever the place or culture. The technology
+& environment lens: loud screens, alerts, and unsafe places can keep the alarm switched
+on — a preview of Lesson 3. The critical-thinking lens: "the brain readies the body
+before conscious thought" is a checkable scientific fact (S-339), not a guess.
+**Safeguarding:** never deliberately startle a learner to demonstrate this; use recalled
+examples and the diagram instead. **Accessibility:** the startle example can be told in
+any mode — a sudden movement, a bright light, or a tap on the shoulder — so learners who
+are deaf or hard of hearing follow it as fully as those who hear a bang; and the
+diagram's meaning lives in its labels and in your spoken trace of the path, so a learner
+who cannot see the diagram can follow the same signal path in words, by sorting the
+response cards aloud, or with a tactile two-column chart.
 
 ## Procedure
 

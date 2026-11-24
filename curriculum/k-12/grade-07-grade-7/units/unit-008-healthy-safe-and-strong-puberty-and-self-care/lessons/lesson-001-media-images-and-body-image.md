@@ -119,19 +119,18 @@ noticing that is a skill you can build.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Hold it with care: **no learner's body is
-ever compared, ranked, or commented on** — every example is about *images*, never about a
-person in the room. The factual ground to land: media images of bodies are routinely
-constructed — subjects are selected for a narrow "ideal," then digitally altered
-(retouched, filtered, re-proportioned) and repeated at scale, so the images people see
-over-represent one body type that most real bodies do not match (UNESCO media and
-information literacy; WHO adolescent health). The value held *as value, distinct from
-that fact*: every body is real and worthy, and no one's body is a problem to fix. Heavy
-exposure to idealized, edited images is linked in research to body dissatisfaction, and
-the WHO notes that media influence can widen the gap between how adolescents see
-themselves and the ideals they are shown (WHO adolescent mental health) — name this as a
-*risk to notice*, not as fear. Watch for distress; keep the closing
-private and never require disclosure. See `docs/facilitation.md`.
+Hold it with care: **no learner's body is ever compared, ranked, or commented on** —
+every example is about *images*, never about a person in the room. The factual ground to
+land: media images of bodies are routinely constructed — subjects are selected for a
+narrow "ideal," then digitally altered (retouched, filtered, re-proportioned) and
+repeated at scale, so the images people see over-represent one body type that most real
+bodies do not match (UNESCO media and information literacy; WHO adolescent health). The
+value held *as value, distinct from that fact*: every body is real and worthy, and no
+one's body is a problem to fix. Heavy exposure to idealized, edited images is linked in
+research to body dissatisfaction, and the WHO notes that media influence can widen the
+gap between how adolescents see themselves and the ideals they are shown (WHO adolescent
+mental health) — name this as a *risk to notice*, not as fear. Watch for distress; keep
+the closing private and never require disclosure. See `docs/facilitation.md`.
 
 ## Procedure
 

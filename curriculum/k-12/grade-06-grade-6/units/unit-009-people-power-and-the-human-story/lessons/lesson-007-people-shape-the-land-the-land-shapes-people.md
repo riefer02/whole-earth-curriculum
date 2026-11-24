@@ -115,13 +115,13 @@ place where the land is especially strong: the Andes mountains of South America.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to build is **holding both
-directions at once**: environment shapes people, and people shape environment. Model the
-Andes example fully, then have learners sort and record. Guard against one-directional
-thinking ("nature controls people" or "people conquer nature"): the point is a two-way
-relationship. The Andes example honors Andean peoples' skill and knowledge — terraces and
-canals are engineering, not mere "adapting to survive." A quick retrieval note (the Nile)
-spirals back to Grade 5. See `docs/facilitation.md`.
+The skill to build is **holding both directions at once**: environment shapes people,
+and people shape environment. Model the Andes example fully, then have learners sort and
+record. Guard against one-directional thinking ("nature controls people" or "people
+conquer nature"): the point is a two-way relationship. The Andes example honors Andean
+peoples' skill and knowledge — terraces and canals are engineering, not mere "adapting
+to survive." A quick retrieval note (the Nile) spirals back to Grade 5. See
+`docs/facilitation.md`.
 
 ## Procedure
 

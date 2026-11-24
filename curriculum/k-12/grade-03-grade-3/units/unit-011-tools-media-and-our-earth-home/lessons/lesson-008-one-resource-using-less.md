@@ -116,20 +116,20 @@ first step to caring for it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is the Grade 3 upgrade of Grade 2's
-"name one way to save water or energy": now learners also name **where the resource comes
-from**. The three-part frame — *name the resource, where it comes from, one way to use
-less* — is a foundational skill, so model it once and guide practice before learners work
-independently (Kirschner, Sweller & Clark, 2006). Keep the tone gentle and empowering: this
-is agency, not guilt. A learner uses less *because they understand* the resource, not
-because they are told to obey. Use examples with no wealth assumption and no blame: a
-village well and a city tap both trace back to rain; a family with little water already
-saves carefully, and the lesson honors that. Distinguish evidence from values: "water comes
-from rain, rivers, and wells" is a fact; "we should turn off the tap" is a value of care —
-we name both. Honor every body: describe each card and let a learner who is blind or has
-low vision feel a cup of water or a leaf and name where it comes from; a non-speaking
-learner points to the source and to the "use less" action; acting out turning off a tap or
-a light works for learners who learn best by moving.
+This is the Grade 3 upgrade of Grade 2's "name one way to save water or energy": now
+learners also name **where the resource comes from**. The three-part frame — *name the
+resource, where it comes from, one way to use less* — is a foundational skill, so model
+it once and guide practice before learners work independently (Kirschner, Sweller &
+Clark, 2006). Keep the tone gentle and empowering: this is agency, not guilt. A learner
+uses less *because they understand* the resource, not because they are told to obey. Use
+examples with no wealth assumption and no blame: a village well and a city tap both
+trace back to rain; a family with little water already saves carefully, and the lesson
+honors that. Distinguish evidence from values: "water comes from rain, rivers, and
+wells" is a fact; "we should turn off the tap" is a value of care — we name both. Honor
+every body: describe each card and let a learner who is blind or has low vision feel a
+cup of water or a leaf and name where it comes from; a non-speaking learner points to
+the source and to the "use less" action; acting out turning off a tap or a light works
+for learners who learn best by moving.
 
 ## Procedure
 

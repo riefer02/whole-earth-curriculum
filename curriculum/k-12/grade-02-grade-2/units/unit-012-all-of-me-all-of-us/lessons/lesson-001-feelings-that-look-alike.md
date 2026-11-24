@@ -111,21 +111,19 @@ the words and body clues to tell these cousins apart. Today you put that power t
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. It is a **spiral-back**: the year opened by learning to tell
-mad from frustrated and sad from disappointed, and now we gather that skill with
-confidence. The deepest commitment here is that **a feeling is never wrong** — only a
-guess about someone else's feeling can miss, and these two feelings look alike on
-purpose, so a careful guess is a kind guess. Honor whatever a learner names, even if
-it is a different word; wonder together about which clue led them there. Feeling words
-live differently in every language and culture: invite a learner to share a home-word
-for one of these feelings, and notice how some languages keep two feelings apart that
-others fold together. For a learner who is blind or has low vision, describe the
-body-sense of each pair aloud (mad = hot and tight; frustrated = stuck and blocked;
-sad = heavy and slow; disappointed = a let-down in the chest) so the difference can be
-*felt*. A learner who does not use a speaking voice shows the feeling with face and
-body and a partner names it; a learner who is Deaf or hard of hearing reads and shows
-the difference through face, body, and sign.
+It is a **spiral-back**: the year opened by learning to tell mad from frustrated and sad
+from disappointed, and now we gather that skill with confidence. The deepest commitment
+here is that **a feeling is never wrong** — only a guess about someone else's feeling
+can miss, and these two feelings look alike on purpose, so a careful guess is a kind
+guess. Honor whatever a learner names, even if it is a different word; wonder together
+about which clue led them there. Feeling words live differently in every language and
+culture: invite a learner to share a home-word for one of these feelings, and notice how
+some languages keep two feelings apart that others fold together. For a learner who is
+blind or has low vision, describe the body-sense of each pair aloud (mad = hot and
+tight; frustrated = stuck and blocked; sad = heavy and slow; disappointed = a let-down
+in the chest) so the difference can be *felt*. A learner who does not use a speaking
+voice shows the feeling with face and body and a partner names it; a learner who is Deaf
+or hard of hearing reads and shows the difference through face, body, and sign.
 
 ## Procedure
 

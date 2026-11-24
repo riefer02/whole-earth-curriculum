@@ -122,29 +122,28 @@ carries the harm?
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a technology's
-benefits and harms are not distributed evenly — the benefits tend to land near buyers
-and the harms near the extraction and disposal ends of the chain, far from those who
-buy (Amnesty, S-398).** Even the *benefit* side is uneven: hundreds of millions still
-light the dark with flame and lamp while others carry instant light and instant
-information in a pocket (Our World in Data, S-052); the "digital divide" is a
-documented global pattern, not a phrase (World Bank, S-281). Hold the point as
-*description and analysis*, not yet prescription — arguing for fairer access is
+The idea to land: **a technology's benefits and harms are not distributed evenly — the
+benefits tend to land near buyers and the harms near the extraction and disposal ends of
+the chain, far from those who buy (Amnesty, S-398).** Even the *benefit* side is uneven:
+hundreds of millions still light the dark with flame and lamp while others carry instant
+light and instant information in a pocket (Our World in Data, S-052); the "digital
+divide" is a documented global pattern, not a phrase (World Bank, S-281). Hold the point
+as *description and analysis*, not yet prescription — arguing for fairer access is
 Lesson 4.
 
 Keep the tone honest but not hopeless: the point is that the unevenness is *made by
 choices* (who pays, where factories go, what is subsidized), and what is made can be
-remade. Guard against two temptations at this age: guilt about owning things (the
-lesson is about systems, not individual blame) and numbness ("it's all bad, so
-nothing matters"). Neither is true; both are ways of looking away.
+remade. Guard against two temptations at this age: guilt about owning things (the lesson
+is about systems, not individual blame) and numbness ("it's all bad, so nothing
+matters"). Neither is true; both are ways of looking away.
 
 The **ethics** lens: who is responsible for a harm they never see? The
-**egalitarianism** lens is the core here: the gap between who benefits and who is
-harmed is a fairness question. The **global** lens: the chain crosses borders, but
-accountability often stops at them. The **technology** and **environment** lenses:
-the same device that connects people also mines, burns, and dumps. The
-**critical-thinking** lens: distinguishing what the chain *is* (evidence) from what
-we *owe* the people on its far end (value).
+**egalitarianism** lens is the core here: the gap between who benefits and who is harmed
+is a fairness question. The **global** lens: the chain crosses borders, but
+accountability often stops at them. The **technology** and **environment** lenses: the
+same device that connects people also mines, burns, and dumps. The **critical-thinking**
+lens: distinguishing what the chain *is* (evidence) from what we *owe* the people on its
+far end (value).
 
 ## Procedure
 

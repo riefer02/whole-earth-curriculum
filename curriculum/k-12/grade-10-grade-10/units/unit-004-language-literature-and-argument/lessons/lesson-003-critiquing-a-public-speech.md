@@ -121,29 +121,28 @@ box, at a market, and in front of any screen.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a critique is a
-*fair reading* that names what a speech claims, what evidence it offers, which appeal
-it leans on, and what it asks — then weighs strengths and gaps without mocking the
-speaker.** A reasoned argument is a claim backed by evidence, open to checking (S-236);
-a critique asks whether the evidence actually supports the claim and whether a
-counter-point is fairly handled. Wangari Maathai's 2004 Nobel Peace Prize lecture is a
-strong worked example: it makes real claims (the Green Belt Movement planted over
-thirty million trees; started in 1977; spread to other African countries) that can be
-checked (S-059), and it also reaches the audience's feeling about land, dignity, and
-future. It lets learners see a speaker use *both* appeals well — which is the honest,
-non-cynical conclusion this lesson should reach.
+The idea to land: **a critique is a *fair reading* that names what a speech claims, what
+evidence it offers, which appeal it leans on, and what it asks — then weighs strengths
+and gaps without mocking the speaker.** A reasoned argument is a claim backed by
+evidence, open to checking (S-236); a critique asks whether the evidence actually
+supports the claim and whether a counter-point is fairly handled. Wangari Maathai's 2004
+Nobel Peace Prize lecture is a strong worked example: it makes real claims (the Green
+Belt Movement planted over thirty million trees; started in 1977; spread to other
+African countries) that can be checked (S-059), and it also reaches the audience's
+feeling about land, dignity, and future. It lets learners see a speaker use *both*
+appeals well — which is the honest, non-cynical conclusion this lesson should reach.
 
 Model the first two rows, then let learners work (worked example → guided practice →
 independent work; S-011). The **critical-thinking** lens is the spine: hold the speech
-to the question "does the evidence support the claim?" The **ethics** lens: critique
-the *argument*, never the *person*; the goal is truth and fairness, not humiliation.
-The **egalitarian** lens: critique is a power — it treats every speaker, however
-powerful, as accountable to reason; and it belongs to everyone, not just experts. The
-**global** lens: choose speeches from many traditions, and let learners critique a
-speaker from their own community or language — the skill transfers across every art of
-speaking. The **technology** lens: the same scaffold reads a viral video, a campaign
-ad, or a politician's clip — media are speeches too. Preview: Lesson 4 shifts from
-*reading* a speaker to *being* one, beginning with register.
+to the question "does the evidence support the claim?" The **ethics** lens: critique the
+*argument*, never the *person*; the goal is truth and fairness, not humiliation. The
+**egalitarian** lens: critique is a power — it treats every speaker, however powerful,
+as accountable to reason; and it belongs to everyone, not just experts. The **global**
+lens: choose speeches from many traditions, and let learners critique a speaker from
+their own community or language — the skill transfers across every art of speaking. The
+**technology** lens: the same scaffold reads a viral video, a campaign ad, or a
+politician's clip — media are speeches too. Preview: Lesson 4 shifts from *reading* a
+speaker to *being* one, beginning with register.
 
 ## Procedure
 

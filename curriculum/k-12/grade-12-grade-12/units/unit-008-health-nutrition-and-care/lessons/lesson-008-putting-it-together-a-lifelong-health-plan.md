@@ -119,25 +119,26 @@ one plan — yours, for life, and yours to revise.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **independent health
-management is not five separate rules but one integrated, revisable plan — and revisiting it is
-part of the plan, not a failure of it.** Model one spoke's keep/adjust as a worked example,
-then let learners assemble their own wheel, retrieving the unit's earlier work (S-011, S-039).
-Celebrate the plan as a living thing: a learner who revises is succeeding, not slipping. Never
-grade a body, a number, or a habit; grade the *integration* — that all five areas are present
+The idea to land: **independent health management is not five separate rules but one
+integrated, revisable plan — and revisiting it is part of the plan, not a failure of
+it.** Model one spoke's keep/adjust as a worked example, then let learners assemble
+their own wheel, retrieving the unit's earlier work (S-011, S-039). Celebrate the plan
+as a living thing: a learner who revises is succeeding, not slipping. Never grade a
+body, a number, or a habit; grade the *integration* — that all five areas are present
 and thoughtfully connected.
 
-The **ethics** lens: a plan you make for your own life is a promise to yourself — make it one
-you can keep and one that treats you with kindness rather than punishment. The
-**egalitarianism** lens: every body, every ability, every budget can hold a lifelong plan —
-the plan adapts to the person, never the person to some fixed ideal. The **global** lens: a
-lifelong plan looks different in every culture and climate — a plan that works in one place
-may not in another, and that variety is health, not failure. The **technology** lens: tools
-can *log* your plan, but the plan is yours — a tool should serve it, not run it, and no
-tracker knows your life better than you do. The **environment** lens: your environment —
-housing, air, green space, safety — shapes what plan is even possible, so the plan must
-include tending the *conditions* of health, not only the habits. Preview: Lessons 9 and 10
-turn outward, to caring for others and emergency response.
+The **ethics** lens: a plan you make for your own life is a promise to yourself — make
+it one you can keep and one that treats you with kindness rather than punishment. The
+**egalitarianism** lens: every body, every ability, every budget can hold a lifelong
+plan — the plan adapts to the person, never the person to some fixed ideal. The
+**global** lens: a lifelong plan looks different in every culture and climate — a plan
+that works in one place may not in another, and that variety is health, not failure. The
+**technology** lens: tools can *log* your plan, but the plan is yours — a tool should
+serve it, not run it, and no tracker knows your life better than you do. The
+**environment** lens: your environment — housing, air, green space, safety — shapes what
+plan is even possible, so the plan must include tending the *conditions* of health, not
+only the habits. Preview: Lessons 9 and 10 turn outward, to caring for others and
+emergency response.
 
 ## Procedure
 

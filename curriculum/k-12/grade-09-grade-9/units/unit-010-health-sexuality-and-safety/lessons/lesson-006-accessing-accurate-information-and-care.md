@@ -117,27 +117,33 @@ way.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The concept to land: **access to accurate information
-and care is a right, and the pathway is knowable — a trusted adult, a health worker, or a clinic can
-answer questions, provide methods, testing, vaccines, and referrals, and a young person's care is
-generally confidential, with important exceptions where safety is at risk.** This is a
-knowledge-and-skills lesson, so use explicit instruction (the worked-example pathway) and role-play
-for asking (S-011). Teach the steps plainly: **(1) start with a trusted adult or a health worker you
-can ask without shame; (2) find a service — a clinic, a school counselor, a youth-friendly service, a
-pharmacist, a hotline — depending on what is available where you live; (3) get accurate information;
-(4) decide for yourself, with consent, what you want; (5) follow up.** Teach the rights: to accurate
-information, to privacy and confidentiality, to be treated without judgment, and to give or withhold
-consent over your own body — grounded in the right to health and to decide freely over one's own body
-(UNESCO CSE, S-412; WHO, S-261). Be honest about confidentiality: in most settings a young person's
-health matters are private, **but privacy has limits when a person's safety is at risk — then a
-trusted adult or service must act to protect them.** The ethics lens: seeking care and honoring a person's rights — to accurate information, to privacy, and to decide over their own body — is how we uphold their dignity and autonomy; access to care is a moral matter, not merely a practical one. The egalitarian lens: **access is not equal —
-cost, distance, stigma, and law differ wildly around the world, and the same care that is easy for
-one person is out of reach for another; that is an injustice to name, not a reason anyone is less
-deserving.** The global lens: services take many forms — a community health worker under a tree, a
-mobile clinic, a hospital, a phone hotline — and all are real parts of the pathway. The technology
-lens: official websites and hotlines can reach people far from any clinic, but they must be checked
-like any source. Keep it practical and hopeful; a learner may always pass; and if a learner names a
-specific unmet need or risk, connect them to real local help rather than leaving it abstract.
+The concept to land: **access to accurate information and care is a right, and the
+pathway is knowable — a trusted adult, a health worker, or a clinic can answer
+questions, provide methods, testing, vaccines, and referrals, and a young person's care
+is generally confidential, with important exceptions where safety is at risk.** This is
+a knowledge-and-skills lesson, so use explicit instruction (the worked-example pathway)
+and role-play for asking (S-011). Teach the steps plainly: **(1) start with a trusted
+adult or a health worker you can ask without shame; (2) find a service — a clinic, a
+school counselor, a youth-friendly service, a pharmacist, a hotline — depending on what
+is available where you live; (3) get accurate information; (4) decide for yourself, with
+consent, what you want; (5) follow up.** Teach the rights: to accurate information, to
+privacy and confidentiality, to be treated without judgment, and to give or withhold
+consent over your own body — grounded in the right to health and to decide freely over
+one's own body (UNESCO CSE, S-412; WHO, S-261). Be honest about confidentiality: in most
+settings a young person's health matters are private, **but privacy has limits when a
+person's safety is at risk — then a trusted adult or service must act to protect them.**
+The ethics lens: seeking care and honoring a person's rights — to accurate information,
+to privacy, and to decide over their own body — is how we uphold their dignity and
+autonomy; access to care is a moral matter, not merely a practical one. The egalitarian
+lens: **access is not equal — cost, distance, stigma, and law differ wildly around the
+world, and the same care that is easy for one person is out of reach for another; that
+is an injustice to name, not a reason anyone is less deserving.** The global lens:
+services take many forms — a community health worker under a tree, a mobile clinic, a
+hospital, a phone hotline — and all are real parts of the pathway. The technology lens:
+official websites and hotlines can reach people far from any clinic, but they must be
+checked like any source. Keep it practical and hopeful; a learner may always pass; and
+if a learner names a specific unmet need or risk, connect them to real local help rather
+than leaving it abstract.
 
 ## Procedure
 

@@ -122,21 +122,21 @@ human story of moving, from long ago to today.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Hold every move with dignity, never
-pity.** Moving is one of the oldest and most ordinary things people do — for family,
-work, safety, or the environment (see Resources). Many families in the room may have
-moved, or have relatives who moved; frame moving as a normal, strong thing people do,
-not as loss or lack. **Keep the safety example gentle and age-appropriate:** "a place
-became unsafe — a flood, a fire, a danger — so the family moved to be safe." Do not
-dwell on frightening detail; the lesson's power is in naming reasons and honoring
-journeys. **Model one full example first** (Kirschner, Sweller & Clark, 2006): tell the
-herding-family story and think aloud — "The grass dried up and the water shrank, so
-they moved to where the grass and water were. The reason was the **environment**." Then
-guide the other three reasons. Distinguish evidence from values: *that* people move for
-these reasons is a factual, cross-cultural claim (see Resources); *that* moving is
-worthy of respect is a value we hold together. Honor every body: describe the cards in
-words for a learner who cannot see them; a learner who does not use a speaking voice
-points or acts. A learner may tell their own family's move — invite, never require.
+**Hold every move with dignity, never pity.** Moving is one of the oldest and most
+ordinary things people do — for family, work, safety, or the environment (see
+Resources). Many families in the room may have moved, or have relatives who moved; frame
+moving as a normal, strong thing people do, not as loss or lack. **Keep the safety
+example gentle and age-appropriate:** "a place became unsafe — a flood, a fire, a
+danger — so the family moved to be safe." Do not dwell on frightening detail; the
+lesson's power is in naming reasons and honoring journeys. **Model one full example
+first** (Kirschner, Sweller & Clark, 2006): tell the herding-family story and think
+aloud — "The grass dried up and the water shrank, so they moved to where the grass and
+water were. The reason was the **environment**." Then guide the other three reasons.
+Distinguish evidence from values: *that* people move for these reasons is a factual,
+cross-cultural claim (see Resources); *that* moving is worthy of respect is a value we
+hold together. Honor every body: describe the cards in words for a learner who cannot
+see them; a learner who does not use a speaking voice points or acts. A learner may tell
+their own family's move — invite, never require.
 
 ## Procedure
 

@@ -120,21 +120,21 @@ and that is the honest thing to notice.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: a **democracy** is a
-way of deciding where the *many* decide (often by vote); an **autocracy** is a way where
-*one person or a small group* holds the power to decide; and there are **other ways**,
-such as **consensus** (talk until everyone agrees), used by many peoples and communities
-around the world. Teach each **with strengths AND limits — never as "the good one vs the
-bad one."** This is the unit's no-single-model commitment: democracy is *not* assumed
-superior, autocracy is *not* cartoon villainy, and consensus is *not* the hidden "right"
-answer — each fits some situations and strains in others (a vote includes many voices but
-can overlook a minority; one-person rule is fast but crowds out other voices; consensus
-honors everyone but can be slow). Model the compare as a worked example (Kirschner,
-Sweller & Clark, 2006). Distinguish **evidence from values**: *that* these ways differ
-and have these tendencies is descriptive and observable across societies; *which* to
-prefer is a value question — and this curriculum's own egalitarian value (that every
-person's voice deserves to matter) is a value, not a fact, so it is named as one. For the
-"other ways" panel, name **consensus** honestly and with a real example — the Haudenosaunee
+The ideas to land: a **democracy** is a way of deciding where the *many* decide (often
+by vote); an **autocracy** is a way where *one person or a small group* holds the power
+to decide; and there are **other ways**, such as **consensus** (talk until everyone
+agrees), used by many peoples and communities around the world. Teach each **with
+strengths AND limits — never as "the good one vs the bad one."** This is the unit's
+no-single-model commitment: democracy is *not* assumed superior, autocracy is *not*
+cartoon villainy, and consensus is *not* the hidden "right" answer — each fits some
+situations and strains in others (a vote includes many voices but can overlook a
+minority; one-person rule is fast but crowds out other voices; consensus honors everyone
+but can be slow). Model the compare as a worked example (Kirschner, Sweller & Clark,
+2006). Distinguish **evidence from values**: *that* these ways differ and have these
+tendencies is descriptive and observable across societies; *which* to prefer is a value
+question — and this curriculum's own egalitarian value (that every person's voice
+deserves to matter) is a value, not a fact, so it is named as one. For the "other ways"
+panel, name **consensus** honestly and with a real example — the Haudenosaunee
 (Iroquois) Confederacy and its Great Law of Peace use councils that deliberate until
 agreement, a living tradition, not a museum piece. See `docs/facilitation.md`.
 

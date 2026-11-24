@@ -125,17 +125,16 @@ sunny window, a ringing bell, and a warm fire are all the same story: energy on 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Teach the transfer idea with a **worked
-example** — model one transfer ("the lamp is the source, light moves, the wall is the
-receiver") — then let learners find their own transfers (guided practice) before recording
-independently. The key science to protect: energy is **never destroyed**; when it seems to
-"disappear" (the sound fades, the stone cools), it has only spread out into the
-surroundings (the conservation-of-energy idea, held simply and honestly — evidence, not
-dogma). Keep the technology and environment lenses alive: every light, machine, and fire
-we use is energy on the move, and that is why we care where our energy comes from and
-where it goes. Keep hands safe — warm, never scalding. Invite wonder alongside fact:
-energy's endless journey is something scientists describe from centuries of careful
-measurement, and it is also a thing to marvel at.
+Teach the transfer idea with a **worked example** — model one transfer ("the lamp is the
+source, light moves, the wall is the receiver") — then let learners find their own
+transfers (guided practice) before recording independently. The key science to protect:
+energy is **never destroyed**; when it seems to "disappear" (the sound fades, the stone
+cools), it has only spread out into the surroundings (the conservation-of-energy idea,
+held simply and honestly — evidence, not dogma). Keep the technology and environment
+lenses alive: every light, machine, and fire we use is energy on the move, and that is
+why we care where our energy comes from and where it goes. Keep hands safe — warm, never
+scalding. Invite wonder alongside fact: energy's endless journey is something scientists
+describe from centuries of careful measurement, and it is also a thing to marvel at.
 
 ## Procedure
 

@@ -115,23 +115,23 @@ is built.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a proof expresses points
-as position vectors and shows a geometric claim by algebra — every step reversible, every
-reason stated, so the result holds for all cases, not just the drawing.** Teach the worked
-proof explicitly (S-011), insisting on a reason beside each equals sign. Distinguish
-*evidence* (measurement, one example) from *proof* (a checkable argument), per philosophy
-§5 — both have value, but only one is a proof.
+The idea to land: **a proof expresses points as position vectors and shows a geometric
+claim by algebra — every step reversible, every reason stated, so the result holds for
+all cases, not just the drawing.** Teach the worked proof explicitly (S-011), insisting
+on a reason beside each equals sign. Distinguish *evidence* (measurement, one example)
+from *proof* (a checkable argument), per philosophy §5 — both have value, but only one
+is a proof.
 
 The **ethics** lens: a proof is an honest argument — it says exactly what it assumes and
-exposes every step to checking, rather than asking for trust. The **egalitarianism** lens:
-because every step is public and reversible, a proof can be verified by anyone, anywhere,
-with no authority required — mathematical certainty is not reserved for a few. The
-**global** lens: geometric proof has deep and varied roots — the Indian *Sulba Sutras*
-stated the right-triangle relationship for altar construction, and the Chinese *Nine
-Chapters* proved geometric rules in its own way (S-292, S-289, S-429); no single tradition
-owns proof. The **technology** lens: the same vector equations run computer graphics and
-engineering simulation — a screen's polygons are parallelograms of vectors. The
-**environment** lens: a bridge, a wind brace, a roof truss hold because their vector
+exposes every step to checking, rather than asking for trust. The **egalitarianism**
+lens: because every step is public and reversible, a proof can be verified by anyone,
+anywhere, with no authority required — mathematical certainty is not reserved for a few.
+The **global** lens: geometric proof has deep and varied roots — the Indian *Sulba
+Sutras* stated the right-triangle relationship for altar construction, and the Chinese
+*Nine Chapters* proved geometric rules in its own way (S-292, S-289, S-429); no single
+tradition owns proof. The **technology** lens: the same vector equations run computer
+graphics and engineering simulation — a screen's polygons are parallelograms of vectors.
+The **environment** lens: a bridge, a wind brace, a roof truss hold because their vector
 reasoning is sound — a structure that fails the algebra can fail in the world (S-005).
 Preview: Lesson 11 applies geometry to real design.
 

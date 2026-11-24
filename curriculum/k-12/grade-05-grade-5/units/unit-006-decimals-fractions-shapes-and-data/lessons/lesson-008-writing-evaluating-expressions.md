@@ -113,17 +113,18 @@ what to do with it. Cooks, builders, and shopkeepers use such recipes every day.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) a **variable** is a
-letter that stands for an unknown or changing amount; (2) an **expression** combines numbers,
-variables, and operations (3n + 2 means "three times n, then add 2"); and (3) to **evaluate**,
-you **substitute** a number for the variable and do the operations in order. Model a worked
-example first (Kirschner, Sweller & Clark, 2006), then guide a second before independent work.
-Two common slips: treating "3n" as "3 + n" (it means 3 × n), and doing operations out of
-order. Retrieval: ask learners to recall the coordinate relationship y = 2x from last lesson —
-that is itself an expression, now given a name. The algebra here is evidence; the habit of
-writing a rule clearly so anyone can follow it is an egalitarian value (clear rules are shareable
-rules, `docs/philosophy.md` §4). Note: variables are a human convention — different traditions
-use different symbols, but the idea of "a number you do not know yet" is universal.
+The ideas to land: (1) a **variable** is a letter that stands for an unknown or changing
+amount; (2) an **expression** combines numbers, variables, and operations (3n + 2 means
+"three times n, then add 2"); and (3) to **evaluate**, you **substitute** a number for
+the variable and do the operations in order. Model a worked example first (Kirschner,
+Sweller & Clark, 2006), then guide a second before independent work. Two common slips:
+treating "3n" as "3 + n" (it means 3 × n), and doing operations out of order. Retrieval:
+ask learners to recall the coordinate relationship y = 2x from last lesson — that is
+itself an expression, now given a name. The algebra here is evidence; the habit of
+writing a rule clearly so anyone can follow it is an egalitarian value (clear rules are
+shareable rules, `docs/philosophy.md` §4). Note: variables are a human convention —
+different traditions use different symbols, but the idea of "a number you do not know
+yet" is universal.
 
 ## Procedure
 

@@ -114,18 +114,18 @@ looks like.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **identity changes over time
-and is still continuous** — the person I was and the person I am are one story, not two
-strangers. This is developmentally real (Erikson describes identity as a lifelong process, not
-a finished fact) and it is the opposite of "you were always like this." Frame change as normal
-and good, never as a betrayal of an earlier self. Let learners choose *small, safe* examples;
-identity work can brush against sensitive material (family change, migration, loss), so keep
-it low-stakes and voluntary. The four parts — interests, abilities, values, relationships — are
-a scaffold, not a cage; learners may name other parts (place, language, faith, body). Model the
-then/now comparison as a worked example (Kirschner, Sweller & Clark, 2006). Distinguish
-**evidence from values**: that identity changes is observable; that change should be welcomed
-and never used to rank people is a value this curriculum holds — name it as one. See
-`docs/facilitation.md` and `docs/art-style.md`.
+The idea to land: **identity changes over time and is still continuous** — the person I
+was and the person I am are one story, not two strangers. This is developmentally real
+(Erikson describes identity as a lifelong process, not a finished fact) and it is the
+opposite of "you were always like this." Frame change as normal and good, never as a
+betrayal of an earlier self. Let learners choose *small, safe* examples; identity work
+can brush against sensitive material (family change, migration, loss), so keep it
+low-stakes and voluntary. The four parts — interests, abilities, values, relationships —
+are a scaffold, not a cage; learners may name other parts (place, language, faith,
+body). Model the then/now comparison as a worked example (Kirschner, Sweller & Clark,
+2006). Distinguish **evidence from values**: that identity changes is observable; that
+change should be welcomed and never used to rank people is a value this curriculum
+holds — name it as one. See `docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure
 

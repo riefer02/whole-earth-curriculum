@@ -122,20 +122,19 @@ it, credit it, and share it is.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **appreciation and
-appropriation differ in permission, context, credit, and benefit — not in whether you
-admire something.** Appreciation means learning *from* the living people who make the
-art — asking when something is owned or sacred, understanding what it means, naming
-the makers, and sharing benefit (paying, supporting, or amplifying them).
-Appropriation takes *without* those things: copying a form while stripping its
-meaning, wearing sacred or ceremonial designs as fashion, or profiting while the
-community who created it earns nothing. Because the difference is about power and
-consent, it is not a neat two-column rule but a set of respectful questions.
+The idea to land: **appreciation and appropriation differ in permission, context,
+credit, and benefit — not in whether you admire something.** Appreciation means learning
+*from* the living people who make the art — asking when something is owned or sacred,
+understanding what it means, naming the makers, and sharing benefit (paying, supporting,
+or amplifying them). Appropriation takes *without* those things: copying a form while
+stripping its meaning, wearing sacred or ceremonial designs as fashion, or profiting
+while the community who created it earns nothing. Because the difference is about power
+and consent, it is not a neat two-column rule but a set of respectful questions.
 
 Keep this concrete and specific, never a cartoon of any culture. Ground examples in
 real, living traditions and their documented meanings: Akan kente and adinkra cloth of
-Ghana and Côte d'Ivoire, whose named patterns and colors encode proverbs and values
-and are worn at important occasions (S-084); Māori kōwhaiwhai painted rafter patterns,
+Ghana and Côte d'Ivoire, whose named patterns and colors encode proverbs and values and
+are worn at important occasions (S-084); Māori kōwhaiwhai painted rafter patterns,
 whakairo carving, and the koru (unfurling fern) spiral, tied to whakapapa — belonging
 through ancestry (S-115); and Mexico's Day of the Dead, an Indigenous festivity that
 commemorates the return of deceased loved ones and fuses pre-Hispanic rites with
@@ -147,11 +146,11 @@ The **ethics** lens is the spine: what is right when we borrow? The **egalitaria
 lens: appropriation usually flows *uphill* — from the less powerful to the more
 powerful — so credit and shared benefit matter. The **global** lens: traditions are
 *people's*, not "the world's"; they live in communities who still make them. The
-**technology** lens: copying and remixing are one click away now, which makes
-permission and credit *more*, not less, important. The **environment** lens: a
-tradition often carries knowledge of materials and place (plant dyes, local fibers)
-that mass copying erases. Preview: Lesson 3 asks learners to write the artist's
-explanation that names influences honestly — the skill they are building here.
+**technology** lens: copying and remixing are one click away now, which makes permission
+and credit *more*, not less, important. The **environment** lens: a tradition often
+carries knowledge of materials and place (plant dyes, local fibers) that mass copying
+erases. Preview: Lesson 3 asks learners to write the artist's explanation that names
+influences honestly — the skill they are building here.
 
 **Four scenarios to use** (adapt to your place; keep them specific and respectful):
 1. A designer visits a weaving community, learns the patterns' meanings from the

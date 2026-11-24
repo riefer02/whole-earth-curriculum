@@ -128,22 +128,24 @@ each other, and setting a goal, it is how you become the author of your own life
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the **final skill lesson and the unit's
-capstone**. The skill — **self-advocacy** — is taught with a **worked example and guided practice**
-(S-011). The core frame is **assertiveness**: expressing one's own needs and boundaries directly and
-respectfully, distinct from **passive** (suppressing one's needs) and **aggressive** (trampling
-others') styles (Alberti & Emmons, S-405). The **I-statement** pattern — "I feel… when… because…
-what I need is…" — carries it (related to Rosenberg's nonviolent communication, S-148). The
-**ethics** lens: advocacy that honors the other person is a moral skill, not just a social one. The
-**egalitarian** lens: some people's needs are heard more readily than others' — because of status,
-gender, disability, or prejudice — so teaching every learner to advocate is itself an act of
-leveling; and advocacy can be collective, not only individual. The **global** lens: cultures differ
-in how directly a need is stated; the lesson offers the I-statement as *one* respectful form, not
-the only right one — a learner whose culture values indirectness should be honored, not "corrected."
-**Safety:** role-plays are low-stakes and invented; no learner is made to disclose a real need. The
-closing **gathering** retrieves all six goals (S-039) and celebrates mastery as collective, never a
-ranking (S-007): a learner who has not yet got a goal simply revisits it — "not yet" is information.
-Close with warmth: the unit has been inward work, and it lands in care and agency, not pressure.
+It is the **final skill lesson and the unit's capstone**. The skill —
+**self-advocacy** — is taught with a **worked example and guided practice** (S-011). The
+core frame is **assertiveness**: expressing one's own needs and boundaries directly and
+respectfully, distinct from **passive** (suppressing one's needs) and **aggressive**
+(trampling others') styles (Alberti & Emmons, S-405). The **I-statement** pattern — "I
+feel… when… because… what I need is…" — carries it (related to Rosenberg's nonviolent
+communication, S-148). The **ethics** lens: advocacy that honors the other person is a
+moral skill, not just a social one. The **egalitarian** lens: some people's needs are
+heard more readily than others' — because of status, gender, disability, or prejudice —
+so teaching every learner to advocate is itself an act of leveling; and advocacy can be
+collective, not only individual. The **global** lens: cultures differ in how directly a
+need is stated; the lesson offers the I-statement as *one* respectful form, not the only
+right one — a learner whose culture values indirectness should be honored, not
+"corrected." **Safety:** role-plays are low-stakes and invented; no learner is made to
+disclose a real need. The closing **gathering** retrieves all six goals (S-039) and
+celebrates mastery as collective, never a ranking (S-007): a learner who has not yet got
+a goal simply revisits it — "not yet" is information. Close with warmth: the unit has
+been inward work, and it lands in care and agency, not pressure.
 
 ## Procedure
 

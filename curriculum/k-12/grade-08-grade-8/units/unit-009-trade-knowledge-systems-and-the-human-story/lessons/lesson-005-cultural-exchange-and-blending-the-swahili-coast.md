@@ -113,27 +113,30 @@ you study one of the world's great stories of that blending.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **cultural exchange is not one
-culture replacing another; it is peoples meeting and something new growing from the meeting.** The
-worked case: the **Swahili coast** — the East African coast (present-day Somalia to Mozambique), where
-**Bantu-speaking African peoples** met traders from **Arabia, Persia, India, and China** across the
-Indian Ocean monsoon network (S-207, S-380). What **met**: African languages, farming, and traditions;
-Arabic and Persian languages, writing, and Islam; Indian cloth; Chinese porcelain. What **grew**: (1)
-the **Kiswahili language** — a Bantu language in grammar and core, with many **Arabic loanwords**
-(and later Persian, Portuguese, and English ones), long written in Arabic script, and today spoken by
-tens of millions (S-381); (2) **stone cities** such as **Kilwa Kisiwani**, which from the 13th to
-16th centuries traded African gold and ivory for Chinese porcelain, Persian ceramics, and Indian
-cloth, and minted its own coins; the traveler Ibn Battuta stopped there in 1331–32 and called Kilwa
-"one of the most beautiful cities in the world" (S-380); (3) a **shared coastal culture** — dhow
-sailing, Swahili architecture built of coral stone, and a cuisine and music that blend inland African
-and Indian Ocean traditions. This is a story of **mutual exchange between trading partners**, not
-conquest — an important contrast with the colonialism we study later. The **ethics** lens: honoring a
-blended culture means crediting *everyone* who contributed, not one side only. The **egalitarian**
-lens: the Swahili coast is a reminder that African peoples were not isolated or "discovered" by
-outsiders — they were central, creative partners in a vast Indian Ocean world. The **global** lens:
-the same pattern of meeting-and-growing happened everywhere — food crops moving across oceans,
-music mixing, languages borrowing. The **community** lens: blended cultures are living proof that
-people can build together. Keep it honest: this is documented history, told as mutual exchange
+The idea to land: **cultural exchange is not one culture replacing another; it is
+peoples meeting and something new growing from the meeting.** The worked case: the
+**Swahili coast** — the East African coast (present-day Somalia to Mozambique), where
+**Bantu-speaking African peoples** met traders from **Arabia, Persia, India, and China**
+across the Indian Ocean monsoon network (S-207, S-380). What **met**: African languages,
+farming, and traditions; Arabic and Persian languages, writing, and Islam; Indian cloth;
+Chinese porcelain. What **grew**: (1) the **Kiswahili language** — a Bantu language in
+grammar and core, with many **Arabic loanwords** (and later Persian, Portuguese, and
+English ones), long written in Arabic script, and today spoken by tens of millions
+(S-381); (2) **stone cities** such as **Kilwa Kisiwani**, which from the 13th to 16th
+centuries traded African gold and ivory for Chinese porcelain, Persian ceramics, and
+Indian cloth, and minted its own coins; the traveler Ibn Battuta stopped there in
+1331–32 and called Kilwa "one of the most beautiful cities in the world" (S-380); (3) a
+**shared coastal culture** — dhow sailing, Swahili architecture built of coral stone,
+and a cuisine and music that blend inland African and Indian Ocean traditions. This is a
+story of **mutual exchange between trading partners**, not conquest — an important
+contrast with the colonialism we study later. The **ethics** lens: honoring a blended
+culture means crediting *everyone* who contributed, not one side only. The
+**egalitarian** lens: the Swahili coast is a reminder that African peoples were not
+isolated or "discovered" by outsiders — they were central, creative partners in a vast
+Indian Ocean world. The **global** lens: the same pattern of meeting-and-growing
+happened everywhere — food crops moving across oceans, music mixing, languages
+borrowing. The **community** lens: blended cultures are living proof that people can
+build together. Keep it honest: this is documented history, told as mutual exchange
 (S-380, S-381, S-207).
 
 ## Procedure

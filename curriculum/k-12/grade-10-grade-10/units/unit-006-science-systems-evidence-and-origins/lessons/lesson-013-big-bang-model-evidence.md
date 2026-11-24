@@ -118,15 +118,14 @@ accepted.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the Big Bang model
-says the universe expanded from a hot, dense early state ~13.8 billion years ago; three
-lines of evidence support it — galaxies receding (redshift), the cosmic microwave
-background, and the abundance of light elements; and a model is a testable, revisable
-account grounded in evidence, not a revealed truth.** Hold the tone of philosophy §11
-carefully: this is a story scientists tell *because of the evidence*, held alongside
-other peoples' origin stories, never ranked over them, and never taught as dogma. The
-balloon demo makes expansion concrete: every dot recedes from every other, with no
-center.
+The idea to land: **the Big Bang model says the universe expanded from a hot, dense
+early state ~13.8 billion years ago; three lines of evidence support it — galaxies
+receding (redshift), the cosmic microwave background, and the abundance of light
+elements; and a model is a testable, revisable account grounded in evidence, not a
+revealed truth.** Hold the tone of philosophy §11 carefully: this is a story scientists
+tell *because of the evidence*, held alongside other peoples' origin stories, never
+ranked over them, and never taught as dogma. The balloon demo makes expansion concrete:
+every dot recedes from every other, with no center.
 
 The **critical-thinking** lens: the key move is "what would I have to observe for this
 model to be true — and do I observe it?" The **global** lens: every culture has origin
@@ -134,9 +133,9 @@ stories; the Big Bang is one account among many, distinguished not by being "tru
 some final sense but by being built from publicly checkable evidence. The **ethics**
 lens: honesty about what we know and don't know — and about the difference between
 evidence and belief — is a form of respect for learners and for other traditions. The
-**intellectual** lens: a model that predicts observations (like the afterglow of the
-Big Bang) is the heart of how science works. Preview: Lesson 14 turns from the cosmos
-to our own planet and how human activity is changing Earth systems.
+**intellectual** lens: a model that predicts observations (like the afterglow of the Big
+Bang) is the heart of how science works. Preview: Lesson 14 turns from the cosmos to our
+own planet and how human activity is changing Earth systems.
 
 ## Procedure
 

@@ -117,15 +117,15 @@ a farm, or anywhere there is something you want to grow.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **a reachable
-goal is small, specific, and tracked** — not that a learner "failed" if they don't meet
-it. Frame missing a goal as *information* ("what made it hard? what would I change?"), the
-spirit of mastery learning: revisit and adjust, never a verdict. Let learners choose goals
-in *any* domain — a school skill, a sport, a craft, a habit, a kindness — so no one's goal
-is ranked against another's. The tracker is personal and private; progress is compared only
-to the learner's own start. Plan for the goal to run over the days *between* this lesson
-and Lesson 10, and prompt learners to touch their tracker daily. See `docs/facilitation.md`
-and `docs/contexts.md` (mastery learning, TaRL).
+The idea to land is that **a reachable goal is small, specific, and tracked** — not that
+a learner "failed" if they don't meet it. Frame missing a goal as *information* ("what
+made it hard? what would I change?"), the spirit of mastery learning: revisit and
+adjust, never a verdict. Let learners choose goals in *any* domain — a school skill, a
+sport, a craft, a habit, a kindness — so no one's goal is ranked against another's. The
+tracker is personal and private; progress is compared only to the learner's own start.
+Plan for the goal to run over the days *between* this lesson and Lesson 10, and prompt
+learners to touch their tracker daily. See `docs/facilitation.md` and `docs/contexts.md`
+(mastery learning, TaRL).
 
 ## Procedure
 

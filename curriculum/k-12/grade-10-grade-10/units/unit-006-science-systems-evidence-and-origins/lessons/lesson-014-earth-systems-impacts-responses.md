@@ -113,24 +113,23 @@ lesson matters: there are real responses, and the future is not yet written.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **Earth's systems are
-coupled; human activity — burning fossil fuels, changing land, polluting — pushes them
-out of balance (warming air, acidifying and warming oceans, melting ice); and we can
-respond with mitigation (cut the drivers) and adaptation (cope with the changes),
-which is where hope and agency live.** Keep the emotional frame honest and hopeful:
-name the seriousness, but always attach agency — there are real, working responses, and
-learners are part of them (development.md 9–12 band).
+The idea to land: **Earth's systems are coupled; human activity — burning fossil fuels,
+changing land, polluting — pushes them out of balance (warming air, acidifying and
+warming oceans, melting ice); and we can respond with mitigation (cut the drivers) and
+adaptation (cope with the changes), which is where hope and agency live.** Keep the
+emotional frame honest and hopeful: name the seriousness, but always attach agency —
+there are real, working responses, and learners are part of them (development.md 9–12
+band).
 
 The **environment** lens: added greenhouse gases trap heat near the surface, changing
 the whole coupled system (S-438, S-005, S-309). The **ethics** lens: the people who
-contributed least to the problem are often hit hardest by it — a moral fact that
-demands fairness in every response. The **egalitarian** lens: responses must not ask
-the poor to bear the cost of a problem made by the wealthy; climate action is a justice
-project (S-124). The **global** lens: this is a planetary, shared problem with no
-single country's answer — and solutions are emerging everywhere, from mangrove
-restoration to solar villages, not from one place alone. Preview: Lesson 15 closes the
-unit by holding the scientific accounts of origins and change alongside other ways of
-knowing.
+contributed least to the problem are often hit hardest by it — a moral fact that demands
+fairness in every response. The **egalitarian** lens: responses must not ask the poor to
+bear the cost of a problem made by the wealthy; climate action is a justice project
+(S-124). The **global** lens: this is a planetary, shared problem with no single
+country's answer — and solutions are emerging everywhere, from mangrove restoration to
+solar villages, not from one place alone. Preview: Lesson 15 closes the unit by holding
+the scientific accounts of origins and change alongside other ways of knowing.
 
 ## Procedure
 

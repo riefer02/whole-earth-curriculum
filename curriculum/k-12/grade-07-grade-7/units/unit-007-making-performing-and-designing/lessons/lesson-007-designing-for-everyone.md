@@ -121,17 +121,17 @@ before finishing, *who might be blocked here — and how do I let them in?*
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **accessibility is
-design for the widest range of bodies and minds, and barriers are found by testing, not by
-guessing** — a learner should be able to name at least one barrier, one fix, and one way to
-test the fix. Model the doorway worked example fully (explicit instruction for a novice skill
-— Kirschner, Sweller & Clark, 2006). Keep the egalitarian lens central: the question is never
-"what's wrong with this person" but "what did the design assume, and who did it leave out."
-Draw on the full range of disability — mobility, vision, hearing, cognition, language,
-height, strength, and more — and note that most people will be disabled at some point in a
-life, temporarily or permanently, so this is designing for *all of us* (the social model of
-disability, held as a frame). Digital examples (captions, alt text, screen-reader support)
-tie to the technology lens; WCAG names four principles — perceivable, operable,
+The idea to land is that **accessibility is design for the widest range of bodies and
+minds, and barriers are found by testing, not by guessing** — a learner should be able
+to name at least one barrier, one fix, and one way to test the fix. Model the doorway
+worked example fully (explicit instruction for a novice skill — Kirschner, Sweller &
+Clark, 2006). Keep the egalitarian lens central: the question is never "what's wrong
+with this person" but "what did the design assume, and who did it leave out." Draw on
+the full range of disability — mobility, vision, hearing, cognition, language, height,
+strength, and more — and note that most people will be disabled at some point in a life,
+temporarily or permanently, so this is designing for *all of us* (the social model of
+disability, held as a frame). Digital examples (captions, alt text, screen-reader
+support) tie to the technology lens; WCAG names four principles — perceivable, operable,
 understandable, robust — that learners can apply to any design.
 
 ## Procedure

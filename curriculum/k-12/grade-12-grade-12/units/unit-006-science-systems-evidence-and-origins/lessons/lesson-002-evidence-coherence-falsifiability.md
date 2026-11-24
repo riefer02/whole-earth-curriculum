@@ -115,26 +115,27 @@ already use when you ask "but does that actually follow?"
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **evidence means repeated,
-checked observations; coherence means fitting the wider web of knowledge; falsifiability
-means some possible observation could show the claim wrong — and a claim that cannot be
-wrong under any observation is not yet science.** Teach each criterion explicitly, then let
-learners apply them (S-011). Keep the distinction crisp: "is it true?" (evidence) is
-different from "is it good?" (values).
+The idea to land: **evidence means repeated, checked observations; coherence means
+fitting the wider web of knowledge; falsifiability means some possible observation could
+show the claim wrong — and a claim that cannot be wrong under any observation is not yet
+science.** Teach each criterion explicitly, then let learners apply them (S-011). Keep
+the distinction crisp: "is it true?" (evidence) is different from "is it good?"
+(values).
 
-The **ethics** lens: a claim that is unfalsifiable is a closed door — it cannot be corrected,
-which is why we owe each other testable claims when we speak about how the world works. The
-**egalitarianism** lens: falsifiability puts every speaker on the same footing — the
-powerful and the powerless must both say what would prove them wrong. The **global** lens:
-the criteria are not one culture's invention; they are the shared grammar of weighing
-evidence that appears wherever people have tested a claim against the world (S-306, S-250).
-The **technology** lens: instruments and replication are what let science *correct itself* —
-the 2011 "faster-than-light neutrinos" result, which would have overturned relativity if
-true, was traced to a loose fiber-optic cable and withdrawn, an honesty made possible by
-open checking (S-488, S-489). The **environment** lens: environmental claims are a
-falsifiability gymnasium — "this chemical is safe," "this species is recovering" — each must
-say what observation would show it wrong. Preview: Lesson 3 turns from *how* we weigh to
-*who* asks the questions and *who* benefits.
+The **ethics** lens: a claim that is unfalsifiable is a closed door — it cannot be
+corrected, which is why we owe each other testable claims when we speak about how the
+world works. The **egalitarianism** lens: falsifiability puts every speaker on the same
+footing — the powerful and the powerless must both say what would prove them wrong. The
+**global** lens: the criteria are not one culture's invention; they are the shared
+grammar of weighing evidence that appears wherever people have tested a claim against
+the world (S-306, S-250). The **technology** lens: instruments and replication are what
+let science *correct itself* — the 2011 "faster-than-light neutrinos" result, which
+would have overturned relativity if true, was traced to a loose fiber-optic cable and
+withdrawn, an honesty made possible by open checking (S-488, S-489). The **environment**
+lens: environmental claims are a falsifiability gymnasium — "this chemical is safe,"
+"this species is recovering" — each must say what observation would show it wrong.
+Preview: Lesson 3 turns from *how* we weigh to *who* asks the questions and *who*
+benefits.
 
 ## Procedure
 

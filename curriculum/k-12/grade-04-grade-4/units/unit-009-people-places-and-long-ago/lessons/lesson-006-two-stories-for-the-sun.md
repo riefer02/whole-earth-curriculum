@@ -123,19 +123,19 @@ different, beautiful stories about it. Both are ways of honoring the same myster
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **This is the unit's most sensitive
-lesson — treat both stories with full respect, and never rank "myth" against
-"science."** These are two peoples' living cultural stories, told to make meaning of
-the Sun, not "wrong guesses" that science later "corrected." The Japanese and Egyptian
-peoples also observed the sky with real care (temples aligned to sunrise; solstices
-marked for rice-growing and the seasons). Modern astronomy observes the same Sun and
-explains the apparent rising and setting by Earth's rotation. **Hold all three — story,
-careful observation, and modern astronomy — side by side, as different ways people make
-sense of the same event, none "better" than the others.** This follows philosophy §11
-(inquiry, not creed). Tell both stories warmly and without ranking; let learners weigh
-them with growing respect. Honor every body: tell the stories aloud in words for a
-learner who cannot see the cards; a learner who does not use a speaking voice acts or
-draws. If a learner's own culture has a Sun story, welcome it with honor.
+**This is the unit's most sensitive lesson — treat both stories with full respect, and
+never rank "myth" against "science."** These are two peoples' living cultural stories,
+told to make meaning of the Sun, not "wrong guesses" that science later "corrected." The
+Japanese and Egyptian peoples also observed the sky with real care (temples aligned to
+sunrise; solstices marked for rice-growing and the seasons). Modern astronomy observes
+the same Sun and explains the apparent rising and setting by Earth's rotation. **Hold
+all three — story, careful observation, and modern astronomy — side by side, as
+different ways people make sense of the same event, none "better" than the others.**
+This follows philosophy §11 (inquiry, not creed). Tell both stories warmly and without
+ranking; let learners weigh them with growing respect. Honor every body: tell the
+stories aloud in words for a learner who cannot see the cards; a learner who does not
+use a speaking voice acts or draws. If a learner's own culture has a Sun story, welcome
+it with honor.
 
 ## Procedure
 

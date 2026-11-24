@@ -114,25 +114,28 @@ and the honest thing is to say "we do not know yet." Today you learn to weigh, n
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **when sources disagree, weigh them on
-four criteria — (1) author (do they know this? do they gain from a certain answer?), (2) purpose (to inform
-or to persuade?), (3) evidence (data and named facts, or only assertions?), and (4) currency (still true
-today?) — then state a verdict: lean toward one source *with reasons*, or hold the question unsettled.** This
-is a *skill*, so use a **worked example, then guided practice** (S-011). Model it on one conflict set, showing
-that weighing is *not* "the fancier source always wins" — a company's polished report can lose to a
-researcher's plain study on the evidence criterion, and a decades-old figure can lose to a recent one on
-currency. The critical-thinking lens is the spine of the lesson: a mature mind can hold two contradictory
-claims at once and judge between them *on criteria*, not on feeling (philosophy §7). The ethics lens: honest
-weighing means naming when your own preference is pulling you — and resisting the temptation to let it. The
-egalitarian lens: power shapes which sources look credible — a well-funded campaign can out-shout a local
-community's testimony; weighing fairly means asking whose evidence is being dismissed and why. The global
-lens: whose knowledge counts as credible has differed across times and places — oral testimony, an elder's
-word, a written record — and weighing evidence fairly means not assuming one culture's standard of proof is
-the only one. The technology lens: online, speed and polish masquerade as credibility; the same four
-questions are the
-antidote, and cross-checking against an independent source is the strongest single move (S-063). Keep the
-conflict sets real but low-heat, and model the honest third outcome — "the evidence is not settled yet" — as
-a strength, never a failure (philosophy §11, §5). This lesson feeds Lesson 7's draft: learners will return
+The skill to land: **when sources disagree, weigh them on four criteria — (1) author (do
+they know this? do they gain from a certain answer?), (2) purpose (to inform or to
+persuade?), (3) evidence (data and named facts, or only assertions?), and (4) currency
+(still true today?) — then state a verdict: lean toward one source *with reasons*, or
+hold the question unsettled.** This is a *skill*, so use a **worked example, then guided
+practice** (S-011). Model it on one conflict set, showing that weighing is *not* "the
+fancier source always wins" — a company's polished report can lose to a researcher's
+plain study on the evidence criterion, and a decades-old figure can lose to a recent one
+on currency. The critical-thinking lens is the spine of the lesson: a mature mind can
+hold two contradictory claims at once and judge between them *on criteria*, not on
+feeling (philosophy §7). The ethics lens: honest weighing means naming when your own
+preference is pulling you — and resisting the temptation to let it. The egalitarian
+lens: power shapes which sources look credible — a well-funded campaign can out-shout a
+local community's testimony; weighing fairly means asking whose evidence is being
+dismissed and why. The global lens: whose knowledge counts as credible has differed
+across times and places — oral testimony, an elder's word, a written record — and
+weighing evidence fairly means not assuming one culture's standard of proof is the only
+one. The technology lens: online, speed and polish masquerade as credibility; the same
+four questions are the antidote, and cross-checking against an independent source is the
+strongest single move (S-063). Keep the conflict sets real but low-heat, and model the
+honest third outcome — "the evidence is not settled yet" — as a strength, never a
+failure (philosophy §11, §5). This lesson feeds Lesson 7's draft: learners will return
 to their own argument and weigh its conflicting sources.
 
 ## Procedure

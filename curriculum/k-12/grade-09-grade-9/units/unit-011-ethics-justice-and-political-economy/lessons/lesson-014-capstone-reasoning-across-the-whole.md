@@ -129,18 +129,19 @@ decide what you will carry with you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **capstone and spaced retrieval
-pass**: recall all eight goals, connect them into one web, then synthesize (Dunlosky et al. 2013,
-S-039). The goals: **(1) retrieve each idea from memory before opening notes; (2) connect the eight
-into a single web, so learners see them as one discipline rather than eight lessons; (3) write a
-short synthesis on one real question — the unit's summative demonstration; (4) celebrate mastery
-without ranking (philosophy §8).** Keep it open: learners may weigh the ideas differently and reach
-different conclusions — the standard is *reasoned synthesis*, not a single right answer (philosophy
-§11). The ethics lens: the whole is a way of asking "what is right, and for whom?" The egalitarian
-lens: the synthesis must keep asking who benefits and who is left out. The global lens: the
-synthesis should honor that these ideas appear in many cultural forms. The community lens: close
-with what each learner will *do* — agency, never nihilism (philosophy §12). This is the unit's
-final portfolio artifact.
+It is the unit's **capstone and spaced retrieval pass**: recall all eight goals, connect
+them into one web, then synthesize (Dunlosky et al. 2013, S-039). The goals: **(1)
+retrieve each idea from memory before opening notes; (2) connect the eight into a single
+web, so learners see them as one discipline rather than eight lessons; (3) write a short
+synthesis on one real question — the unit's summative demonstration; (4) celebrate
+mastery without ranking (philosophy §8).** Keep it open: learners may weigh the ideas
+differently and reach different conclusions — the standard is *reasoned synthesis*, not
+a single right answer (philosophy §11). The ethics lens: the whole is a way of asking
+"what is right, and for whom?" The egalitarian lens: the synthesis must keep asking who
+benefits and who is left out. The global lens: the synthesis should honor that these
+ideas appear in many cultural forms. The community lens: close with what each learner
+will *do* — agency, never nihilism (philosophy §12). This is the unit's final portfolio
+artifact.
 
 ## Procedure
 

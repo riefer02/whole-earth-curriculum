@@ -104,21 +104,20 @@ Today you will be the one who makes the pattern and keeps it alive.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Building and extending a simple
-repeating pattern (like AB or AAB) is the target skill here; keep the patterns simple
-and let learners work with two, and then three, elements at their own pace. The
-magic question is always "what comes next?" — asked with curiosity, never as a trick.
-Learners will make "mistakes" (two reds in a row, a skipped element); ask them to
-read their pattern aloud ("red-blue-red-blue...") and let the rhythm reveal the fix —
-do not rush to correct. Sound and movement patterns are fully equal to object
-patterns and are a gift for learners who learn best with their bodies and ears.
-Learners who are blind or low-vision can build patterns by feel (smooth-bumpy-smooth)
-and by sound; learners who are deaf or hard of hearing can build visual patterns and
-feel a drumbeat through a surface. Learners with limited hand or body movement build
-patterns by voice or sign — saying the sequence aloud while a partner lays each piece,
-or choosing each next piece with eye-gaze or a mouth stick. Every learner's pace is
-honored, and no one's
-pattern is "better" — a correct pattern made slowly is just as true as a fast one.
+Building and extending a simple repeating pattern (like AB or AAB) is the target skill
+here; keep the patterns simple and let learners work with two, and then three, elements
+at their own pace. The magic question is always "what comes next?" — asked with
+curiosity, never as a trick. Learners will make "mistakes" (two reds in a row, a skipped
+element); ask them to read their pattern aloud ("red-blue-red-blue...") and let the
+rhythm reveal the fix — do not rush to correct. Sound and movement patterns are fully
+equal to object patterns and are a gift for learners who learn best with their bodies
+and ears. Learners who are blind or low-vision can build patterns by feel
+(smooth-bumpy-smooth) and by sound; learners who are deaf or hard of hearing can build
+visual patterns and feel a drumbeat through a surface. Learners with limited hand or
+body movement build patterns by voice or sign — saying the sequence aloud while a
+partner lays each piece, or choosing each next piece with eye-gaze or a mouth stick.
+Every learner's pace is honored, and no one's pattern is "better" — a correct pattern
+made slowly is just as true as a fast one.
 
 ## Procedure
 

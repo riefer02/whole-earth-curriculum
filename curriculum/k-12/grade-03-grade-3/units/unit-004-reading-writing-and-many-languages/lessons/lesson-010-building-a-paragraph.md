@@ -104,18 +104,17 @@ in every language, on every table.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Building a paragraph is a foundational skill, so teach it
-explicitly with a worked example — model a complete three-part paragraph, then guide
-learners to build their own (Kirschner, Sweller & Clark, 2006). The structure to
-protect: topic sentence, at least two supporting details, closing sentence. Learners
-write in their home language and their own writing system — script-agnostic, no Latin
-alphabet assumed. Details may be facts, examples, or small reasons; the closing may
-restate the idea or give a final feeling. A learner who is Deaf or hard of hearing
-writes, signs, or dictates the paragraph; the thinking is the writing. A learner who
-is blind or has low vision builds the paragraph by dictation, on a braille writer, or
-by typing and listening back — the thinking is the writing. Celebrate a complete,
-honest paragraph in any wording; there is no single "correct" paragraph.
+Building a paragraph is a foundational skill, so teach it explicitly with a worked
+example — model a complete three-part paragraph, then guide learners to build their own
+(Kirschner, Sweller & Clark, 2006). The structure to protect: topic sentence, at least
+two supporting details, closing sentence. Learners write in their home language and
+their own writing system — script-agnostic, no Latin alphabet assumed. Details may be
+facts, examples, or small reasons; the closing may restate the idea or give a final
+feeling. A learner who is Deaf or hard of hearing writes, signs, or dictates the
+paragraph; the thinking is the writing. A learner who is blind or has low vision builds
+the paragraph by dictation, on a braille writer, or by typing and listening back — the
+thinking is the writing. Celebrate a complete, honest paragraph in any wording; there is
+no single "correct" paragraph.
 
 ## Procedure
 

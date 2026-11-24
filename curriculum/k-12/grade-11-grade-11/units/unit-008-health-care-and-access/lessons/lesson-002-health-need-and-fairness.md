@@ -116,14 +116,13 @@ answer sits a second question: what does getting care actually let a person *do*
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **there is no single
-answer to "what is fair?" — equal treatment, need, and desert (here, ability to pay)
-are three long-standing, competing answers in the theory of distributive justice
-(S-388, S-459).** Then the capabilities test: **judge a rule by what it lets a person
-actually do and be — freedom as real capability, not just formal right (S-460).**
-Finally the dignity anchor: **every person is born equal in dignity and rights
-(S-149, Article 1).** Hold the value question open (philosophy §11); the lesson's job
-is to help learners *reason*, not to decree that one rule is correct.
+The ideas to land: **there is no single answer to "what is fair?" — equal treatment,
+need, and desert (here, ability to pay) are three long-standing, competing answers in
+the theory of distributive justice (S-388, S-459).** Then the capabilities test: **judge
+a rule by what it lets a person actually do and be — freedom as real capability, not
+just formal right (S-460).** Finally the dignity anchor: **every person is born equal in
+dignity and rights (S-149, Article 1).** Hold the value question open (philosophy §11);
+the lesson's job is to help learners *reason*, not to decree that one rule is correct.
 
 The **ethics** lens: this is the lesson's center — reasoning about right and wrong in
 distribution. The **egalitarianism** lens: who benefits and who is left out under each

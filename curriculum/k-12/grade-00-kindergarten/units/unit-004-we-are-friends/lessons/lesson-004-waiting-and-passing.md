@@ -103,11 +103,10 @@ whole circle.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, keep the beat slow and steady — a calm rhythm
-helps young bodies wait. If a learner grabs, stay warm: a gentle reminder and a smile
-return the game to its rhythm. This lesson closes Strand S1; celebrate how far the
-learners have come in taking turns and sharing.
+As facilitator, keep the beat slow and steady — a calm rhythm helps young bodies wait.
+If a learner grabs, stay warm: a gentle reminder and a smile return the game to its
+rhythm. This lesson closes Strand S1; celebrate how far the learners have come in taking
+turns and sharing.
 
 ## Procedure
 

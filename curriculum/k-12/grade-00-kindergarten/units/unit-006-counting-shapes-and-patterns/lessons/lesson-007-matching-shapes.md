@@ -105,19 +105,19 @@ match shapes all day long, so everything fits together. Today you will be the ma
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Matching is a step toward noticing
-attributes — what makes a triangle a triangle even when it is big, small, or turned
-on its side. Keep the focus on *shape* (sides and corners), not on color or size,
-and include rotated or different-sized shapes so learners learn that a triangle is
-still a triangle when it points down. Match real objects too — a plate with a plate,
-a box with a box — so matching stays grounded in life. Draw on global craft examples
-without ranking: basket-weavers, tile-layers, and cloth-cutters in many cultures
-match and fit shapes every day; none is the model to copy, all are real. Learners who
-are blind or low-vision can match shapes by feel, fitting each shape into its outline
-or finding two shapes with the same number of sides and corners by touch. Learners
-with limited movement match by voice or sign — telling a partner which shapes go
-together, or choosing each pair with eye-gaze or a mouth stick. Never turn
-matching into a race; careful matching is the goal, and every pace is honored.
+Matching is a step toward noticing attributes — what makes a triangle a triangle even
+when it is big, small, or turned on its side. Keep the focus on *shape* (sides and
+corners), not on color or size, and include rotated or different-sized shapes so
+learners learn that a triangle is still a triangle when it points down. Match real
+objects too — a plate with a plate, a box with a box — so matching stays grounded in
+life. Draw on global craft examples without ranking: basket-weavers, tile-layers, and
+cloth-cutters in many cultures match and fit shapes every day; none is the model to
+copy, all are real. Learners who are blind or low-vision can match shapes by feel,
+fitting each shape into its outline or finding two shapes with the same number of sides
+and corners by touch. Learners with limited movement match by voice or sign — telling a
+partner which shapes go together, or choosing each pair with eye-gaze or a mouth stick.
+Never turn matching into a race; careful matching is the goal, and every pace is
+honored.
 
 ## Procedure
 

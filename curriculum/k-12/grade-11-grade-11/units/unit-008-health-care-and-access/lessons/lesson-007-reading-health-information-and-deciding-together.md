@@ -115,21 +115,20 @@ two halves of the same skill.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **any health claim
-opens with five questions — who made it, why (help, belong, or sell), for whom, what
-evidence, what is left out (NAMLE's key questions, S-151; the five core concepts,
-S-442).** Then shared decision-making: **a clinician contributes knowledge; the
-learner contributes their life, values, and preferences; the decision is made
-together, and a second opinion is always available.** Traditional medicine is held
-respectfully: **it is a real, valued knowledge tradition that many people use
-alongside formal care (S-145)** — the lesson weighs it on the same five questions, not
-as an enemy. Claims-and-evidence structure follows Toulmin's claim/data/warrant
-(S-236).
+The ideas to land: **any health claim opens with five questions — who made it, why
+(help, belong, or sell), for whom, what evidence, what is left out (NAMLE's key
+questions, S-151; the five core concepts, S-442).** Then shared decision-making: **a
+clinician contributes knowledge; the learner contributes their life, values, and
+preferences; the decision is made together, and a second opinion is always available.**
+Traditional medicine is held respectfully: **it is a real, valued knowledge tradition
+that many people use alongside formal care (S-145)** — the lesson weighs it on the same
+five questions, not as an enemy. Claims-and-evidence structure follows Toulmin's
+claim/data/warrant (S-236).
 
 The **critical-thinking** lens: this is the lesson's spine — source, motive, evidence,
 omission. The **global** lens: different cultures hold different traditions of healing,
-all worth a fair hearing. The **ethics** lens: deciding *together* is an ethical stance
-— the learner's life is not a clinician's to override. Model the five questions
+all worth a fair hearing. The **ethics** lens: deciding *together* is an ethical
+stance — the learner's life is not a clinician's to override. Model the five questions
 explicitly (S-011). Preview: Lesson 8 pivots to living with long-term conditions.
 
 ## Procedure

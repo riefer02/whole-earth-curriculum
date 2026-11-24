@@ -115,27 +115,28 @@ power to decide*.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **peoples have moved across the
-Earth since our species began, and the power to decide where and how people live has moved with
-them — so migration must be read through the question of who chose and who was forced.** Teach the
-tracing explicitly (S-011). Hold the hard parts with care and accuracy, and never reduce the
-transatlantic slave trade to a statistic: at least 12 million Africans were forcibly transported,
-in a trade built on the denial of human dignity (S-322, S-274); today, tens of millions of people
-are forcibly displaced by conflict, persecution, and violence (S-493). Name these as facts, with
-the feeling named first, and connect them to the agency of the people who endured and resisted —
-never to despair.
+The idea to land: **peoples have moved across the Earth since our species began, and the
+power to decide where and how people live has moved with them — so migration must be
+read through the question of who chose and who was forced.** Teach the tracing
+explicitly (S-011). Hold the hard parts with care and accuracy, and never reduce the
+transatlantic slave trade to a statistic: at least 12 million Africans were forcibly
+transported, in a trade built on the denial of human dignity (S-322, S-274); today, tens
+of millions of people are forcibly displaced by conflict, persecution, and violence
+(S-493). Name these as facts, with the feeling named first, and connect them to the
+agency of the people who endured and resisted — never to despair.
 
-The **ethics** lens: the difference between *chosen* and *forced* movement is a moral difference,
-and blurring it hides the harm of forced migration. The **egalitarianism** lens: the map is not
-"explorers discovering" — peoples moved and knew these routes before any empire claimed them; the
-Silk Roads and Indian Ocean were made by many peoples, not by any single power (S-265, S-207). The
-**global** lens: this is one human story — our shared ancestry began in Africa (S-506) and fanned
-out to every continent, so no place and no people is "more native" than another on the scale of
-deep time. The **technology** lens: the astrolabe, the sail, the rail line, and the jet each
-changed *how far and how fast* people and power could move — and who could afford to (S-379). The
-**environment** lens: movement has always been partly driven by environment — drought, flood, and
-climate shift push people, past and present (S-383). Preview: Lesson 10 synthesizes *how* this
-movement shaped the human story.
+The **ethics** lens: the difference between *chosen* and *forced* movement is a moral
+difference, and blurring it hides the harm of forced migration. The **egalitarianism**
+lens: the map is not "explorers discovering" — peoples moved and knew these routes
+before any empire claimed them; the Silk Roads and Indian Ocean were made by many
+peoples, not by any single power (S-265, S-207). The **global** lens: this is one human
+story — our shared ancestry began in Africa (S-506) and fanned out to every continent,
+so no place and no people is "more native" than another on the scale of deep time. The
+**technology** lens: the astrolabe, the sail, the rail line, and the jet each changed
+*how far and how fast* people and power could move — and who could afford to (S-379).
+The **environment** lens: movement has always been partly driven by environment —
+drought, flood, and climate shift push people, past and present (S-383). Preview: Lesson
+10 synthesizes *how* this movement shaped the human story.
 
 ## Procedure
 

@@ -117,32 +117,31 @@ yourself that you can do both.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **The capstone has two parts,** each
-mapped to one objective: **(1) A risks-and-responsibilities analysis** — take a
-fictional scenario and name at least one risk (pregnancy, infection, emotional or
-relational outcome), one responsibility (consent, communication, protection, care),
-and one evidence-based option using accurate information about contraception and
-infection prevention (S-453, S-454). **(2) A source evaluation** — take a real health
-claim (online, peer, or marketing) and run it through the five questions and the four
-lateral-reading moves, naming its source, motive, evidence, and bias. Both are
-assessed on *reasoning and accuracy*, never on the learner's values or conclusion
-(inquiry over creed).
+**The capstone has two parts,** each mapped to one objective: **(1) A
+risks-and-responsibilities analysis** — take a fictional scenario and name at least one
+risk (pregnancy, infection, emotional or relational outcome), one responsibility
+(consent, communication, protection, care), and one evidence-based option using accurate
+information about contraception and infection prevention (S-453, S-454). **(2) A source
+evaluation** — take a real health claim (online, peer, or marketing) and run it through
+the five questions and the four lateral-reading moves, naming its source, motive,
+evidence, and bias. Both are assessed on *reasoning and accuracy*, never on the
+learner's values or conclusion (inquiry over creed).
 
 **Sensitive-topic guidance:** learners complete the capstone **privately** and share
 **only by choice**. Use fictional scenarios and pre-selected (or self-found, with
 personal info removed) claims; no learner discloses their own experience. Normalize
 delay and abstinence as complete, valid options. If any work or question suggests a
-learner is unsafe or at risk, respond privately and follow your safeguarding
-procedure to a **trusted adult or health service**. Celebrate mastery of the *skill*,
-never any particular choice.
+learner is unsafe or at risk, respond privately and follow your safeguarding procedure
+to a **trusted adult or health service**. Celebrate mastery of the *skill*, never any
+particular choice.
 
-The **ethics** lens: the capstone is the unit's evidence that a learner can reason
-with honesty and care. The **egalitarian** lens: these two skills are distributed
-unequally in the world, and learning them is a small equalizer. The **global** lens:
-the same skills apply to a claim in any language, any market, any family. The
-**technology** lens: the source-check half exists because the internet made both
-truth and falsehood cheap to publish. The **critical-thinking** lens: the capstone is
-the unit's whole skill, shown.
+The **ethics** lens: the capstone is the unit's evidence that a learner can reason with
+honesty and care. The **egalitarian** lens: these two skills are distributed unequally
+in the world, and learning them is a small equalizer. The **global** lens: the same
+skills apply to a claim in any language, any market, any family. The **technology**
+lens: the source-check half exists because the internet made both truth and falsehood
+cheap to publish. The **critical-thinking** lens: the capstone is the unit's whole
+skill, shown.
 
 ## Procedure
 

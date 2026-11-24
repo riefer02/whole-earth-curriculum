@@ -115,14 +115,13 @@ shaped by several groups, and no one's shaping is better than another's.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The key is the *how*: learners must
-explain a connection ("my family gave me this word"), not just list. Model the worked
-example first, then release. Guard against ranking groups: no group's gifts are "better"
-or "more important" — a game is as much a gift as a sacred song. This is also an
-egalitarian and global moment: every culture's gifts are honored side by side. Where
-natural, acknowledge that a group may be online or far away, reached through technology,
-and still shape the learner. Honor every family's and community's practices without
-stereotyping.
+The key is the *how*: learners must explain a connection ("my family gave me this
+word"), not just list. Model the worked example first, then release. Guard against
+ranking groups: no group's gifts are "better" or "more important" — a game is as much a
+gift as a sacred song. This is also an egalitarian and global moment: every culture's
+gifts are honored side by side. Where natural, acknowledge that a group may be online or
+far away, reached through technology, and still shape the learner. Honor every family's
+and community's practices without stereotyping.
 
 ## Procedure
 

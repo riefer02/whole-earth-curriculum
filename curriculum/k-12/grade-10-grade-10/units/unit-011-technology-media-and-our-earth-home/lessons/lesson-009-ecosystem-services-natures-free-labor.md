@@ -114,20 +114,23 @@ destroying it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **ecosystem services are the benefits
-people receive from living systems — provisioning (food, water), regulating (climate, flood, disease),
-supporting (soil, nutrient cycling), and cultural (meaning, recreation) — and they are provided for free
-by biodiversity, so losing biodiversity loses the services.** The **environment** lens is the spine. The
-**egalitarian** lens: the people who depend most directly on these services — smallholder farmers, fishers,
-foragers — are often the least able to pay for a replacement, so their loss is a justice question
-(S-437). The **global** lens: every place has its own services (a mangrove nursery, a mountain watershed,
-a desert's shade), and no single ecosystem is the default. The **ethics** lens: treating free services as
-worthless is a moral error — they have value beyond price. The **technology** lens: machines can
-substitute for *some* services (a water-treatment plant for a wetland) but often at great cost and never
-for all — the natural version is often irreplaceable. Anchor the science: pollination as the transfer of
-pollen that makes seeds (S-330); soil as the living surface that supports growth (S-259); clean water
-through the water cycle and filtration (S-212). Distinguish evidence (what services exist) from values
-(what they are worth) (philosophy §5). Preview: next lesson asks how biodiversity underpins all of these.
+The idea to land: **ecosystem services are the benefits people receive from living
+systems — provisioning (food, water), regulating (climate, flood, disease), supporting
+(soil, nutrient cycling), and cultural (meaning, recreation) — and they are provided for
+free by biodiversity, so losing biodiversity loses the services.** The **environment**
+lens is the spine. The **egalitarian** lens: the people who depend most directly on
+these services — smallholder farmers, fishers, foragers — are often the least able to
+pay for a replacement, so their loss is a justice question (S-437). The **global** lens:
+every place has its own services (a mangrove nursery, a mountain watershed, a desert's
+shade), and no single ecosystem is the default. The **ethics** lens: treating free
+services as worthless is a moral error — they have value beyond price. The
+**technology** lens: machines can substitute for *some* services (a water-treatment
+plant for a wetland) but often at great cost and never for all — the natural version is
+often irreplaceable. Anchor the science: pollination as the transfer of pollen that
+makes seeds (S-330); soil as the living surface that supports growth (S-259); clean
+water through the water cycle and filtration (S-212). Distinguish evidence (what
+services exist) from values (what they are worth) (philosophy §5). Preview: next lesson
+asks how biodiversity underpins all of these.
 
 ## Procedure
 

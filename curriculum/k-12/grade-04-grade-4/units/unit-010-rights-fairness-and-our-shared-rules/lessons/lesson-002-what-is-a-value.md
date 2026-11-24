@@ -120,20 +120,20 @@ really yours.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson introduces **values** gently — as things a
-person genuinely cares about, not as a list to be graded. Model naming a value yourself
-first ("I value honesty — because I care about people being able to trust my word"),
-then invite learners to name their own. A value is personal, and there is no correct
-answer: a learner may name anything from "my family" to "fairness" to "the river."
-Hold values as *questions and guides*, never as a ranking — no learner's value is
-"better" than another's, and we never shame a value that differs from our own. Some
-values conflict (honesty vs. kindness), and that is worth wondering about later in the
-unit. A learner who does not speak aloud points to a values card or draws their value;
-a learner who is deaf or hard of hearing follows the cards through sign; a learner who
-is blind or low-vision hears each value described and names their own aloud; a learner
-with a motor difference can direct a partner to circle their value. A learner may
-always pass, or name a value privately to a grown-up. The goal is a learner who can
-say, in their own way, "this is something I care about — this is a value of mine."
+This lesson introduces **values** gently — as things a person genuinely cares about, not
+as a list to be graded. Model naming a value yourself first ("I value honesty — because
+I care about people being able to trust my word"), then invite learners to name their
+own. A value is personal, and there is no correct answer: a learner may name anything
+from "my family" to "fairness" to "the river." Hold values as *questions and guides*,
+never as a ranking — no learner's value is "better" than another's, and we never shame a
+value that differs from our own. Some values conflict (honesty vs. kindness), and that
+is worth wondering about later in the unit. A learner who does not speak aloud points to
+a values card or draws their value; a learner who is deaf or hard of hearing follows the
+cards through sign; a learner who is blind or low-vision hears each value described and
+names their own aloud; a learner with a motor difference can direct a partner to circle
+their value. A learner may always pass, or name a value privately to a grown-up. The
+goal is a learner who can say, in their own way, "this is something I care about — this
+is a value of mine."
 
 ## Procedure
 

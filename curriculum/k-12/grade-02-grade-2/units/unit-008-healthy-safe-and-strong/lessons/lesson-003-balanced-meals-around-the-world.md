@@ -111,19 +111,19 @@ you will travel the world's kitchens and find that idea everywhere.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Celebrate variety; rank nothing.** The
-point is that "several groups" shows up in every food tradition, not that one tradition
-eats "better." Some learners' families may not have all foods available; honor what they
-do have, and never imply a family is failing. Vegetarian, plant-based, and fish- and
-meat-eating families are all honored — beans, lentils, eggs, and fish are proteins, so no
-meal needs meat to be balanced. If a learner's family sometimes has little food, hold
-this gently and without comment on their family; the lesson speaks of variety and choice,
-never of scarcity as shame. A learner who is blind or has low vision explores the meals by
-touching real foods and hearing each food named; a learner who does not use a speaking
-voice points to the foods and groups. A learner who is deaf or hard of hearing follows
-the meal cards and group labels visually, since every food is shown and labeled. The
-balanced-meal plate drawing is a unit portfolio artifact — keep it. This lesson completes
-the D03.S3.02.01 meal-building strand before the unit turns to water.
+**Celebrate variety; rank nothing.** The point is that "several groups" shows up in
+every food tradition, not that one tradition eats "better." Some learners' families may
+not have all foods available; honor what they do have, and never imply a family is
+failing. Vegetarian, plant-based, and fish- and meat-eating families are all honored —
+beans, lentils, eggs, and fish are proteins, so no meal needs meat to be balanced. If a
+learner's family sometimes has little food, hold this gently and without comment on
+their family; the lesson speaks of variety and choice, never of scarcity as shame. A
+learner who is blind or has low vision explores the meals by touching real foods and
+hearing each food named; a learner who does not use a speaking voice points to the foods
+and groups. A learner who is deaf or hard of hearing follows the meal cards and group
+labels visually, since every food is shown and labeled. The balanced-meal plate drawing
+is a unit portfolio artifact — keep it. This lesson completes the D03.S3.02.01
+meal-building strand before the unit turns to water.
 
 ## Procedure
 

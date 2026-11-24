@@ -126,20 +126,21 @@ do, and see where the story is taking us.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **opening and retrieval pass**, so
-the goals are modest: **(1) recall the Grade-7 ideas that this unit builds on; (2) preview the
-unit's four strands — change and continuity, knowledge traditions, migration and trade, power and
-resistance — and its eight goals; (3) plant the organizing idea: history is a global story told
-from many perspectives.** Do not try to teach the eight goals today; just name and locate them.
-The **critical-thinking** lens: weighing competing explanations and checking sources is the habit
-we carry forward (S-011). The **global** lens: this unit moves across many regions — Mesoamerica,
-the Pacific, the Indian Ocean, East and West Africa, the Andes, the Americas — because the human
-story is one story in many places. The **ethics** lens: we hold hard topics (slavery, colonization)
-with honesty and care, never as spectacle, and we name the dignity of the people in the story
-(philosophy §5, facilitation "Holding difficult topics safely"). The **egalitarian** lens: we ask,
-at every turn, who benefits, who is left out, and whose voice is heard. Keep big questions open:
-origins and meaning are held as questions, never answered as creed (philosophy §11). Spacing note
-(S-039): this recall pass is what makes the unit's ideas stick later.
+It is the unit's **opening and retrieval pass**, so the goals are modest: **(1) recall
+the Grade-7 ideas that this unit builds on; (2) preview the unit's four strands — change
+and continuity, knowledge traditions, migration and trade, power and resistance — and
+its eight goals; (3) plant the organizing idea: history is a global story told from many
+perspectives.** Do not try to teach the eight goals today; just name and locate them.
+The **critical-thinking** lens: weighing competing explanations and checking sources is
+the habit we carry forward (S-011). The **global** lens: this unit moves across many
+regions — Mesoamerica, the Pacific, the Indian Ocean, East and West Africa, the Andes,
+the Americas — because the human story is one story in many places. The **ethics** lens:
+we hold hard topics (slavery, colonization) with honesty and care, never as spectacle,
+and we name the dignity of the people in the story (philosophy §5, facilitation "Holding
+difficult topics safely"). The **egalitarian** lens: we ask, at every turn, who
+benefits, who is left out, and whose voice is heard. Keep big questions open: origins
+and meaning are held as questions, never answered as creed (philosophy §11). Spacing
+note (S-039): this recall pass is what makes the unit's ideas stick later.
 
 ## Procedure
 

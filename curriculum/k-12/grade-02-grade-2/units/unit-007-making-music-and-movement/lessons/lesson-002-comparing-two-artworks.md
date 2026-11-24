@@ -114,16 +114,14 @@ you will compare two artworks and name what is alike and what is different.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. The goal is careful looking, never ranking — there is no
-"better" artwork, only two works each worth noticing. Honor both makers and the
-cultures the works come from as living peoples' work, not museum pieces. Accept
-every answer; "they are both blue" is as true a likeness as "they both have circles."
-A learner who is blind or has low vision compares by **touch or description**: feel
-two cloths and find a rough-and-rough or a rough-and-smooth pair, or hear two careful
-spoken descriptions and name the likeness and difference. A learner who does not
-speak compares by pointing to the part they mean, or holding up the "alike" and
-"different" cards.
+The goal is careful looking, never ranking — there is no "better" artwork, only two
+works each worth noticing. Honor both makers and the cultures the works come from as
+living peoples' work, not museum pieces. Accept every answer; "they are both blue" is as
+true a likeness as "they both have circles." A learner who is blind or has low vision
+compares by **touch or description**: feel two cloths and find a rough-and-rough or a
+rough-and-smooth pair, or hear two careful spoken descriptions and name the likeness and
+difference. A learner who does not speak compares by pointing to the part they mean, or
+holding up the "alike" and "different" cards.
 
 ## Procedure
 

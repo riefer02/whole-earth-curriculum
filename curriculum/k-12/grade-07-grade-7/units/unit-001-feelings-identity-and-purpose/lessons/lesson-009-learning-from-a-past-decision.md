@@ -116,19 +116,19 @@ market, or anywhere choices get made.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **reflection is a learnable
-loop — decision → consequence → reflection → better next choice — and it feeds forward, not
-backward.** The goal is never to shame a past choice but to *extract its lesson* and convert it
-into a precise next step. Teach the loop as a worked example before independent practice
-(Kirschner, Sweller & Clark, 2006). The *ethics* lens asks what a choice did to others; the
-*egalitarianism* lens asks whose needs it counted and whose it left out. Let learners choose
-**small, safe, recent** decisions (not their heaviest regrets); never require disclosure of
-painful material, and offer the option to use a made-up or role-played decision. Feedback is
-built in as a peer check: the partner confirms that the "next time" step actually follows from
-what was learned. Distinguish **evidence from values**: that reflection improves later judgment
-is supported by learning science (retrieval and spacing deepen it); that a learner's past is
-never a verdict — only information — is a value this curriculum holds — name it as one. See
-`docs/facilitation.md` and `docs/art-style.md`.
+The idea to land: **reflection is a learnable loop — decision → consequence → reflection
+→ better next choice — and it feeds forward, not backward.** The goal is never to shame
+a past choice but to *extract its lesson* and convert it into a precise next step. Teach
+the loop as a worked example before independent practice (Kirschner, Sweller & Clark,
+2006). The *ethics* lens asks what a choice did to others; the *egalitarianism* lens
+asks whose needs it counted and whose it left out. Let learners choose **small, safe,
+recent** decisions (not their heaviest regrets); never require disclosure of painful
+material, and offer the option to use a made-up or role-played decision. Feedback is
+built in as a peer check: the partner confirms that the "next time" step actually
+follows from what was learned. Distinguish **evidence from values**: that reflection
+improves later judgment is supported by learning science (retrieval and spacing deepen
+it); that a learner's past is never a verdict — only information — is a value this
+curriculum holds — name it as one. See `docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure
 

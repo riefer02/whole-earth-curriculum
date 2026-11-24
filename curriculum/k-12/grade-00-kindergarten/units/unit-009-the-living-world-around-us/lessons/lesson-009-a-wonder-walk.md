@@ -99,12 +99,11 @@ neighborhood, field, or path is as full of wonder as any place on Earth.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It works best outside, but a hallway
-or window walk works too. Learners who use wheels or tire easily can hold a "sit
-spot" or "window wonder" — stay in one place and let the world come to them. The
-ethical heart is care: look with eyes, touch softly, and return living things to where
-you found them. Every learner's local place is worth wondering about — there is no
-"correct" environment, only the one that is home.
+It works best outside, but a hallway or window walk works too. Learners who use wheels
+or tire easily can hold a "sit spot" or "window wonder" — stay in one place and let the
+world come to them. The ethical heart is care: look with eyes, touch softly, and return
+living things to where you found them. Every learner's local place is worth wondering
+about — there is no "correct" environment, only the one that is home.
 
 ## Procedure
 

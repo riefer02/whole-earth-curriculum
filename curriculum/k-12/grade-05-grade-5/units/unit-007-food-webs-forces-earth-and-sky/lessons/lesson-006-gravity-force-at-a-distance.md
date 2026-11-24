@@ -116,17 +116,16 @@ is gravity.
 
 ## Facilitator note
 
-Written to the learner ("you"). Two ideas to land: (1) gravity is a **pull toward
-Earth's center that acts at a distance** — no contact; (2) the drop test separates
-**gravity** (pulls on everything) from **air resistance** (why a leaf falls slowly).
-The worked example here is the classic one: predict "heavier falls faster," then
-drop a heavy and a light *compact* object (same air effect) and observe they hit
-together — the habit of predicting before testing is the point. Gravity being
-stronger for more massive objects is a Grade 7 topic; keep it simple now: everything
-is pulled, and the pull is toward the center, and it reaches across space. The claim
-that gravity pulls on all objects is evidence-based science; the idea that "down" is
-the same direction for every human being can also seed a gentle global/egalitarian
-reflection — but keep that as a value, not a science claim
+Two ideas to land: (1) gravity is a **pull toward Earth's center that acts at a
+distance** — no contact; (2) the drop test separates **gravity** (pulls on everything)
+from **air resistance** (why a leaf falls slowly). The worked example here is the
+classic one: predict "heavier falls faster," then drop a heavy and a light *compact*
+object (same air effect) and observe they hit together — the habit of predicting before
+testing is the point. Gravity being stronger for more massive objects is a Grade 7
+topic; keep it simple now: everything is pulled, and the pull is toward the center, and
+it reaches across space. The claim that gravity pulls on all objects is evidence-based
+science; the idea that "down" is the same direction for every human being can also seed
+a gentle global/egalitarian reflection — but keep that as a value, not a science claim
 ([`docs/facilitation.md`](../../../../../../docs/facilitation.md)).
 
 ## Procedure

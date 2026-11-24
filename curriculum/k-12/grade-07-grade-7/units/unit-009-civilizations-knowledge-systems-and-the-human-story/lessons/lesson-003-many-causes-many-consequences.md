@@ -114,19 +114,18 @@ famous one.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a major change
-has multiple causes; (2) it has multiple consequences; (3) some consequences are
-intended, some are not, and consequences fall on different people unequally.** Model
-the worked example explicitly before independent work (Kirschner, Sweller & Clark,
-2006); this is a skill, and skills are taught with a worked example and guided
-practice. The critical-thinking lens: resist single-cause and single-effect stories —
-they flatten the real, tangled past. The global lens: the same change looks different
-from different places; a road is a blessing to a trader and a loss to a displaced
-family, and both views are true. The egalitarian lens: always ask *who* gains and *who*
-is left out of a consequence — consequences are not shared equally. The technology
-lens: inventions are a frequent "change" in this frame, and their spread (next lesson)
-is a model case of many causes and consequences. Keep it concrete; the abstract
-diagram is earned through the familiar examples first.
+The ideas to land: **(1) a major change has multiple causes; (2) it has multiple
+consequences; (3) some consequences are intended, some are not, and consequences fall on
+different people unequally.** Model the worked example explicitly before independent
+work (Kirschner, Sweller & Clark, 2006); this is a skill, and skills are taught with a
+worked example and guided practice. The critical-thinking lens: resist single-cause and
+single-effect stories — they flatten the real, tangled past. The global lens: the same
+change looks different from different places; a road is a blessing to a trader and a
+loss to a displaced family, and both views are true. The egalitarian lens: always ask
+*who* gains and *who* is left out of a consequence — consequences are not shared
+equally. The technology lens: inventions are a frequent "change" in this frame, and
+their spread (next lesson) is a model case of many causes and consequences. Keep it
+concrete; the abstract diagram is earned through the familiar examples first.
 
 ## Procedure
 

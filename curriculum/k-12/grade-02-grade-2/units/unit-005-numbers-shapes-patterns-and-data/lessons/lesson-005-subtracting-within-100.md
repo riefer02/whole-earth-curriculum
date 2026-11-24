@@ -110,17 +110,16 @@ big groups from big groups, little ones from little ones.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It introduces **subtracting within 100
-by place value**, the reverse of Lesson 4. Teach with a **worked example** (philosophy
-§13): build 57, take away 3 tens and 4 ones, count what is left. Keep numbers without
-regrouping at first, so the strategy is clear before regrouping arrives later. The
-goal is *sense-making*, not speed: a learner may count every object today and use a
-written method tomorrow — both are correct, and explaining one's own way is the real
-measure. **There is no single "right" strategy; every clear strategy is honored.** For
-learners who are Deaf or hard of hearing, model with bundles and write each step; for
-learners who are blind or low-vision, take away real objects and count what is left by
-touch. A learner who does not speak records by moving bundles or pointing to the
-difference.
+It introduces **subtracting within 100 by place value**, the reverse of Lesson 4. Teach
+with a **worked example** (philosophy §13): build 57, take away 3 tens and 4 ones, count
+what is left. Keep numbers without regrouping at first, so the strategy is clear before
+regrouping arrives later. The goal is *sense-making*, not speed: a learner may count
+every object today and use a written method tomorrow — both are correct, and explaining
+one's own way is the real measure. **There is no single "right" strategy; every clear
+strategy is honored.** For learners who are Deaf or hard of hearing, model with bundles
+and write each step; for learners who are blind or low-vision, take away real objects
+and count what is left by touch. A learner who does not speak records by moving bundles
+or pointing to the difference.
 
 ## Procedure
 

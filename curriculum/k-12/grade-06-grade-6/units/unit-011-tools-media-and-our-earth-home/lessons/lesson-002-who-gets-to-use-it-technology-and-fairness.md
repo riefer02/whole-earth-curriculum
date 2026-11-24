@@ -120,15 +120,15 @@ and asking how to open the door wider.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is the **access analysis**:
-name a technology, name who is in and who is out, name the barrier (cost, ability,
-availability), and ask a fairness question. Model the entrance example fully as a worked
-example. **Frame access as a fairness question, never a deficit story:** do not describe
-people or regions as "lacking" or "behind"; describe *designs and prices* that leave people
-out, and the real solutions — ramps, low-cost water kiosks, shared community phones, mobile
-clinics — that people everywhere have already built. Distinguish evidence from values: *who
-can and cannot use a tool* is observable; *that everyone deserves fair access* is a value this
-curriculum holds. See `docs/philosophy.md` §4 (egalitarianism) and `docs/facilitation.md`.
+The skill to land is the **access analysis**: name a technology, name who is in and who
+is out, name the barrier (cost, ability, availability), and ask a fairness question.
+Model the entrance example fully as a worked example. **Frame access as a fairness
+question, never a deficit story:** do not describe people or regions as "lacking" or
+"behind"; describe *designs and prices* that leave people out, and the real solutions —
+ramps, low-cost water kiosks, shared community phones, mobile clinics — that people
+everywhere have already built. Distinguish evidence from values: *who can and cannot use
+a tool* is observable; *that everyone deserves fair access* is a value this curriculum
+holds. See `docs/philosophy.md` §4 (egalitarianism) and `docs/facilitation.md`.
 
 ## Procedure
 

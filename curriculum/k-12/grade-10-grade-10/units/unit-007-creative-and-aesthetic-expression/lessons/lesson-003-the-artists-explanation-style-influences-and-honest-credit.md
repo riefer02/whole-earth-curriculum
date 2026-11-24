@@ -119,29 +119,28 @@ made. Today you write that public, honest explanation for your own work.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a body of work plus
-an honest explanation is what turns "I drew some things" into a personal style with a
-traceable history.** The artist's explanation has four moves — the recurring idea, the
-change across the work, the influences (named and credited), and how any living
-tradition was honored. The fourth move is the ethics check from Lesson 2, made
-routine: an artist *says* where their forms came from.
+The idea to land: **a body of work plus an honest explanation is what turns "I drew some
+things" into a personal style with a traceable history.** The artist's explanation has
+four moves — the recurring idea, the change across the work, the influences (named and
+credited), and how any living tradition was honored. The fourth move is the ethics check
+from Lesson 2, made routine: an artist *says* where their forms came from.
 
-The **ethics** lens: honest credit is a habit, not a penalty — it is how a community
-of makers stays fair. The **egalitarian** lens: anyone can have a style and an
-explanation; the statement needs no expensive materials, only honest looking at your
-own work. The **global** lens: real artist statements across cultures name lineage and
-place — the makers they learned from — rather than claiming to have invented
-everything alone; kente and adinkra carry meaning *because* their makers name what
-each pattern means (S-084), and Māori arts tie form to whakapapa, belonging through
-ancestry (S-115). The **technology** lens: a digital record lets learners see their
-whole series at once, which is exactly what makes the through-line visible. The
-**environment** lens: a body of work made from reused materials is a statement of care
-too. Preview: Lesson 4 moves to sound — composing an idea in music.
+The **ethics** lens: honest credit is a habit, not a penalty — it is how a community of
+makers stays fair. The **egalitarian** lens: anyone can have a style and an explanation;
+the statement needs no expensive materials, only honest looking at your own work. The
+**global** lens: real artist statements across cultures name lineage and place — the
+makers they learned from — rather than claiming to have invented everything alone; kente
+and adinkra carry meaning *because* their makers name what each pattern means (S-084),
+and Māori arts tie form to whakapapa, belonging through ancestry (S-115). The
+**technology** lens: a digital record lets learners see their whole series at once,
+which is exactly what makes the through-line visible. The **environment** lens: a body
+of work made from reused materials is a statement of care too. Preview: Lesson 4 moves
+to sound — composing an idea in music.
 
 Model the four moves once (worked example → guided practice → independent writing;
-S-011). Keep this low-stakes: the statement is a draft the learner can revisit all
-unit. Assessment is about whether the four moves are *present and honest*, never about
-ranking the art.
+S-011). Keep this low-stakes: the statement is a draft the learner can revisit all unit.
+Assessment is about whether the four moves are *present and honest*, never about ranking
+the art.
 
 ## Procedure
 

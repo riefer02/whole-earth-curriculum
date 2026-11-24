@@ -115,16 +115,14 @@ change one thing to improve it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Frame every test as a **question, not a verdict**. When a build
-falls or tips, say "interesting — what does that tell us?" and guide the learner to
-one change. Protect the culture of "not yet": there are no broken ideas, only builds
-that are not finished improving. Celebrate the *change* as much as the result. A
-learner with limited fine motor can decide the change and have a partner carry it out
-— deciding is building. A learner who is blind or has low vision tests by feel and
-sound — feel the wobble, hear the splash, the thud, or the silence — and a partner or
-grown-up describes what happened. Keep tests gentle and safe so no one fears the
-"test" itself.
+Frame every test as a **question, not a verdict**. When a build falls or tips, say
+"interesting — what does that tell us?" and guide the learner to one change. Protect the
+culture of "not yet": there are no broken ideas, only builds that are not finished
+improving. Celebrate the *change* as much as the result. A learner with limited fine
+motor can decide the change and have a partner carry it out — deciding is building. A
+learner who is blind or has low vision tests by feel and sound — feel the wobble, hear
+the splash, the thud, or the silence — and a partner or grown-up describes what
+happened. Keep tests gentle and safe so no one fears the "test" itself.
 
 ## Procedure
 

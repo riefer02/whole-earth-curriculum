@@ -138,16 +138,14 @@ you are now a traveler with many ways to do it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. This is a **summative celebration**, not a ranking — assess
-what each learner can *do* and celebrate it. Keep every commitment alive: honor
-home language first, treat multilingualism as wealth, remain script-agnostic, and
-never rank languages, scripts, or accents. Where possible, invite families or
-community members to share in the festival. Oral and signed traditions are
-welcomed as full equals. Every station honors every way of communicating: a
-learner may read by signing or by pointing while a partner or device voices, ask
-and answer by signing or pointing, write by dictating or typing, and greet by
-signing or gesturing — each is a full success at the festival.
+This is a **summative celebration**, not a ranking — assess what each learner can *do*
+and celebrate it. Keep every commitment alive: honor home language first, treat
+multilingualism as wealth, remain script-agnostic, and never rank languages, scripts, or
+accents. Where possible, invite families or community members to share in the festival.
+Oral and signed traditions are welcomed as full equals. Every station honors every way
+of communicating: a learner may read by signing or by pointing while a partner or device
+voices, ask and answer by signing or pointing, write by dictating or typing, and greet
+by signing or gesturing — each is a full success at the festival.
 
 ## Procedure
 

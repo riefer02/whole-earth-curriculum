@@ -120,19 +120,19 @@ them, and everyone else is asked to respect it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **a boundary is a
-person's own line between comfortable and uncomfortable, and it is always the person's
-right to set it — while a "no" from anyone is complete and needs no explanation to be
-respected**. Keep the topic safe: invite only small, everyday examples (borrowing,
-standing close, touching, messaging), never require a learner to disclose anything
-private, and never push into pain. Name the cultural range of greetings (bow, handshake,
-nod) side by side, never ranked, and do not hold any custom up as the "normal" one. Model
-one clear boundary sentence as a worked example before learners write their own
-(Kirschner, Sweller & Clark, 2006). Note honestly that in some homes and cultures
-asserting a boundary to an older person is hard or unsafe — the right to set a limit is
-real even when it is hard to exercise, and a trusted adult can help. If a learner
-discloses harm, follow your safeguarding duty (believe them, do not promise secrecy, tell
-a trusted adult). See `docs/facilitation.md` and `docs/art-style.md`.
+The idea to land is that **a boundary is a person's own line between comfortable and
+uncomfortable, and it is always the person's right to set it — while a "no" from anyone
+is complete and needs no explanation to be respected**. Keep the topic safe: invite only
+small, everyday examples (borrowing, standing close, touching, messaging), never require
+a learner to disclose anything private, and never push into pain. Name the cultural
+range of greetings (bow, handshake, nod) side by side, never ranked, and do not hold any
+custom up as the "normal" one. Model one clear boundary sentence as a worked example
+before learners write their own (Kirschner, Sweller & Clark, 2006). Note honestly that
+in some homes and cultures asserting a boundary to an older person is hard or unsafe —
+the right to set a limit is real even when it is hard to exercise, and a trusted adult
+can help. If a learner discloses harm, follow your safeguarding duty (believe them, do
+not promise secrecy, tell a trusted adult). See `docs/facilitation.md` and
+`docs/art-style.md`.
 
 ## Procedure
 

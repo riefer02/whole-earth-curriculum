@@ -110,20 +110,19 @@ the act.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **consequence for others** at the
-level of feeling: before deciding, learners pause to ask "how will this act reach
-them?" Keep the framing blame-free — the point is not to accuse but to *see* the other
-person. Name the *act* ("that push reached them as hurt"), never the child. Feelings
-are held as the person's own truth: two people can feel differently about the same
-act, and the one who was affected gets to name how it felt — we listen, not argue. A
-learner who does not speak aloud shows the feeling by pointing to a face card or by
-signing; a learner who is deaf or hard of hearing follows each act by sign or the
-feeling cards and answers by pointing or signing; a learner who is blind or low-vision
-hears each act described and names the feeling aloud; a learner with a motor
-difference can direct a partner to move the puppets. Never require anyone to share a
-real, private feeling — invented or acted feelings are welcome, and a learner may
-always pass. The aim is that every learner can say, in their own way, "my act reaches
-you."
+This lesson teaches **consequence for others** at the level of feeling: before deciding,
+learners pause to ask "how will this act reach them?" Keep the framing blame-free — the
+point is not to accuse but to *see* the other person. Name the *act* ("that push reached
+them as hurt"), never the child. Feelings are held as the person's own truth: two people
+can feel differently about the same act, and the one who was affected gets to name how
+it felt — we listen, not argue. A learner who does not speak aloud shows the feeling by
+pointing to a face card or by signing; a learner who is deaf or hard of hearing follows
+each act by sign or the feeling cards and answers by pointing or signing; a learner who
+is blind or low-vision hears each act described and names the feeling aloud; a learner
+with a motor difference can direct a partner to move the puppets. Never require anyone
+to share a real, private feeling — invented or acted feelings are welcome, and a learner
+may always pass. The aim is that every learner can say, in their own way, "my act
+reaches you."
 
 ## Procedure
 

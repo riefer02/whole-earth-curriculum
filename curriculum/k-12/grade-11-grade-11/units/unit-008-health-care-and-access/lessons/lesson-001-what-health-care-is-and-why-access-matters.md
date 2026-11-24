@@ -115,21 +115,20 @@ and noticing who can actually reach them — is the first step in planning your 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **health care has
-five broad kinds — prevent, treat (primary), emergency, rehabilitate, comfort
-(palliative) — and mental health weaves through all of them, not beside them (WHO as
-general authority, S-003).** Then the egalitarian turn: **access to these kinds is
-uneven — shaped by income, place, and policy — so "who can get care" is a fairness
-question, not a personal failing (UNDP inequality data, S-283).** Hold the five
-types as a useful scaffold, not a fixed taxonomy; learners may argue about edge
-cases, and that argument is the learning.
+The ideas to land: **health care has five broad kinds — prevent, treat (primary),
+emergency, rehabilitate, comfort (palliative) — and mental health weaves through all of
+them, not beside them (WHO as general authority, S-003).** Then the egalitarian turn:
+**access to these kinds is uneven — shaped by income, place, and policy — so "who can
+get care" is a fairness question, not a personal failing (UNDP inequality data,
+S-283).** Hold the five types as a useful scaffold, not a fixed taxonomy; learners may
+argue about edge cases, and that argument is the learning.
 
 The **ethics** lens: who deserves care is a question of right and wrong, opened not
-closed. The **egalitarianism** lens: access is distributed unevenly; naming that is
-the unit's first move toward fairness. The **global** lens: every country, and every
+closed. The **egalitarianism** lens: access is distributed unevenly; naming that is the
+unit's first move toward fairness. The **global** lens: every country, and every
 community, organizes these five kinds differently; none is the default. The
-**intellectual** lens: sorting examples into kinds is categorization — a thinking
-skill used across subjects. Preview: Lesson 2 asks the fairness question head-on.
+**intellectual** lens: sorting examples into kinds is categorization — a thinking skill
+used across subjects. Preview: Lesson 2 asks the fairness question head-on.
 
 ## Procedure
 

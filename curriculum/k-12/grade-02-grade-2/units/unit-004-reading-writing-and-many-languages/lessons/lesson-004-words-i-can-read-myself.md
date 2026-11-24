@@ -105,16 +105,15 @@ locks.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. "Regularly spelled" means the word follows the sound rules of
-the learner's own language and script — the rules differ across writing systems, so
-choose words that are regular in the learner's system, and never assume an alphabet.
-Sounding out is a foundational skill taught with explicit instruction and guided
-practice (Kirschner, Sweller & Clark, 2006): model one word fully, guide a second
-together, then release learners to practice. The point is independence — the learner
-reads a new word without being told it. A learner who is Deaf or hard of hearing can
-map the written word to a signed word and to mouth shapes; a learner who reads
-braille sounds out by touch. Every path to the word is honored.
+"Regularly spelled" means the word follows the sound rules of the learner's own language
+and script — the rules differ across writing systems, so choose words that are regular
+in the learner's system, and never assume an alphabet. Sounding out is a foundational
+skill taught with explicit instruction and guided practice (Kirschner, Sweller & Clark,
+2006): model one word fully, guide a second together, then release learners to practice.
+The point is independence — the learner reads a new word without being told it. A
+learner who is Deaf or hard of hearing can map the written word to a signed word and to
+mouth shapes; a learner who reads braille sounds out by touch. Every path to the word is
+honored.
 
 ## Procedure
 

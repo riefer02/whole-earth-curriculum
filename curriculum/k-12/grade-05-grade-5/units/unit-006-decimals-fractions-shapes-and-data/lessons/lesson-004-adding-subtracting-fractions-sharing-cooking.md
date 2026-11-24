@@ -114,15 +114,15 @@ Andes, or a soup kitchen serving a neighborhood.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) with **like
-denominators**, add or subtract the numerators and keep the denominator (the size of the
-pieces does not change); (2) with **unlike denominators**, rename to a common denominator using
-equivalent fractions before combining. Model each as a **worked example with bar models**
-first, then guide a second together (Kirschner, Sweller & Clark, 2006). The most common slip
-is adding denominators too (1/2 + 1/4 = 2/6); the bar model shows why that is wrong — the
-pieces are not the same size. Retrieval: ask learners to recall decimal–fraction equivalence
-(0.5 = 1/2) and reuse it to check that 1/2 + 1/4 = 3/4 = 0.75. Sharing food fairly is a
-fairness value woven through the unit (`docs/philosophy.md` §4); the arithmetic itself is
+The ideas to land: (1) with **like denominators**, add or subtract the numerators and
+keep the denominator (the size of the pieces does not change); (2) with **unlike
+denominators**, rename to a common denominator using equivalent fractions before
+combining. Model each as a **worked example with bar models** first, then guide a second
+together (Kirschner, Sweller & Clark, 2006). The most common slip is adding denominators
+too (1/2 + 1/4 = 2/6); the bar model shows why that is wrong — the pieces are not the
+same size. Retrieval: ask learners to recall decimal–fraction equivalence (0.5 = 1/2)
+and reuse it to check that 1/2 + 1/4 = 3/4 = 0.75. Sharing food fairly is a fairness
+value woven through the unit (`docs/philosophy.md` §4); the arithmetic itself is
 evidence.
 
 ## Procedure

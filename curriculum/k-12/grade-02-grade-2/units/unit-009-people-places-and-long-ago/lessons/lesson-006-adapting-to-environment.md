@@ -111,18 +111,17 @@ time.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Hold each adaptation with respect,
-as ingenuity, not struggle.** Deserts, coasts, and cold regions are homes where
-people have lived for thousands of years, not places to feel sorry about. Be accurate
-and name the peoples where you can, without overclaiming: in deserts, people often
-wear long, loose, light robes that shield from sun and sand, live in tents that let
-cool air through, and know where the wells and oases are (see Resources); on coasts,
-people fish, build boats, and sometimes raise homes on stilts above the tide; in cold
-regions, Inuit peoples make warm parkas, kayaks, and winter shelters, and hunt and
-fish (see Resources). **Never say any place is "hard to live in" in a pitying way** —
-say instead: each place asks something, and people answer with knowledge. Honor every
-body: describe the cards in words for a learner who cannot see them; a learner who
-does not use a speaking voice points or acts the adaptations.
+**Hold each adaptation with respect, as ingenuity, not struggle.** Deserts, coasts, and
+cold regions are homes where people have lived for thousands of years, not places to
+feel sorry about. Be accurate and name the peoples where you can, without overclaiming:
+in deserts, people often wear long, loose, light robes that shield from sun and sand,
+live in tents that let cool air through, and know where the wells and oases are (see
+Resources); on coasts, people fish, build boats, and sometimes raise homes on stilts
+above the tide; in cold regions, Inuit peoples make warm parkas, kayaks, and winter
+shelters, and hunt and fish (see Resources). **Never say any place is "hard to live in"
+in a pitying way** — say instead: each place asks something, and people answer with
+knowledge. Honor every body: describe the cards in words for a learner who cannot see
+them; a learner who does not use a speaking voice points or acts the adaptations.
 
 ## Procedure
 

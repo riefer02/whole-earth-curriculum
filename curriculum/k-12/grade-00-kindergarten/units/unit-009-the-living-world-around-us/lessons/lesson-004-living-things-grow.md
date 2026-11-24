@@ -96,11 +96,11 @@ know they are alive.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, keep it gentle and
-concrete. Growth differs everywhere: a learner's local plants and animals grow in
-their own way and at their own pace — honor that. If the "baby to grown-up person"
-pair feels tender for any learner (for example, a new sibling), let them choose a
-plant or animal pair instead. Care for living things is the quiet through-line.
+As facilitator, keep it gentle and concrete. Growth differs everywhere: a learner's
+local plants and animals grow in their own way and at their own pace — honor that. If
+the "baby to grown-up person" pair feels tender for any learner (for example, a new
+sibling), let them choose a plant or animal pair instead. Care for living things is the
+quiet through-line.
 
 ## Procedure
 

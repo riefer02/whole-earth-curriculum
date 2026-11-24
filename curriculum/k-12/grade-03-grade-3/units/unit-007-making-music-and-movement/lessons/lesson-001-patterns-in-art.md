@@ -117,17 +117,15 @@ carved shells and beads in a third. Today you will make a pattern of your own.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Making a repeating pattern is a **skill**, so model one aloud
-and on the board first — "triangle, triangle, circle; triangle, triangle, circle" —
-before learners try their own (Kirschner, Sweller & Clark, 2006). A pattern is a
-repeat, not a perfect drawing; if the repeat stays the same, it is a pattern. A
-learner who is blind or has low vision makes a pattern by **touch and placement**: they
-arrange repeated objects (two stones, one leaf; two stones, one leaf) in a row, or
-press a repeated shape into clay, and a partner names the sequence. A learner with
-limited fine motor repeats with a big sponge stamp, a cut-out stencil, or by directing
-a partner who places the shapes. A learner who does not speak points to the elements
-and shows the repeat. Every pattern belongs.
+Making a repeating pattern is a **skill**, so model one aloud and on the board first —
+"triangle, triangle, circle; triangle, triangle, circle" — before learners try their own
+(Kirschner, Sweller & Clark, 2006). A pattern is a repeat, not a perfect drawing; if the
+repeat stays the same, it is a pattern. A learner who is blind or has low vision makes a
+pattern by **touch and placement**: they arrange repeated objects (two stones, one leaf;
+two stones, one leaf) in a row, or press a repeated shape into clay, and a partner names
+the sequence. A learner with limited fine motor repeats with a big sponge stamp, a
+cut-out stencil, or by directing a partner who places the shapes. A learner who does not
+speak points to the elements and shows the repeat. Every pattern belongs.
 
 ## Procedure
 

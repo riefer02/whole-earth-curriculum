@@ -109,31 +109,29 @@ choice at a time.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **ordinary people —
-neighbors, strangers, whole communities — resisted and sheltered others during
-genocide, and their choices show that agency and courage lived even inside atrocity;
-remembrance and justice honor that agency.** Model one case before learners study the
-rest (S-011).
+The idea to land: **ordinary people — neighbors, strangers, whole communities — resisted
+and sheltered others during genocide, and their choices show that agency and courage
+lived even inside atrocity; remembrance and justice honor that agency.** Model one case
+before learners study the rest (S-011).
 
 **Emotional safety (non-negotiable):** (1) **Warning and opt-out:** re-state that
-learners may step out, pass, or write privately at any time. (2) **Referral:** name
-the trusted adult or support line. (3) **Grounding:** open and close with a slow
-breath. (4) **No graphic images or gratuitous detail:** tell the cases in brief,
-dignified summary, focused on the *choice* and its cost, never on violence. (5)
-**Agency and hope:** this lesson *is* the agency-and-hope turn — center the ordinary
-people who chose courage (S-495).
+learners may step out, pass, or write privately at any time. (2) **Referral:** name the
+trusted adult or support line. (3) **Grounding:** open and close with a slow breath. (4)
+**No graphic images or gratuitous detail:** tell the cases in brief, dignified summary,
+focused on the *choice* and its cost, never on violence. (5) **Agency and hope:** this
+lesson *is* the agency-and-hope turn — center the ordinary people who chose courage
+(S-495).
 
-The **ethics** lens is the spine: sheltering is an ethical act — choosing another's
-life over one's own safety — and studying it asks what we ourselves would count as a
-duty. The **egalitarian** lens: rescuers came from every background, which teaches
-that dignity and courage are not the property of any rank or class. The **global**
-lens: ordinary people sheltered and resisted in many places and eras — the Righteous
-Among the Nations, honored by Yad Vashem, are non-Jews across Europe who risked
-their lives to rescue Jews (S-492), and Rwandans who sheltered neighbors are honored
-in Rwanda's remembrance (S-494). The **critical-thinking** lens: ask *why* some
-chose courage and others did not — not to judge, but to understand how choices are
-made under pressure. Preview: Lesson 13 turns to rebuilding and what justice
-requires.
+The **ethics** lens is the spine: sheltering is an ethical act — choosing another's life
+over one's own safety — and studying it asks what we ourselves would count as a duty.
+The **egalitarian** lens: rescuers came from every background, which teaches that
+dignity and courage are not the property of any rank or class. The **global** lens:
+ordinary people sheltered and resisted in many places and eras — the Righteous Among the
+Nations, honored by Yad Vashem, are non-Jews across Europe who risked their lives to
+rescue Jews (S-492), and Rwandans who sheltered neighbors are honored in Rwanda's
+remembrance (S-494). The **critical-thinking** lens: ask *why* some chose courage and
+others did not — not to judge, but to understand how choices are made under pressure.
+Preview: Lesson 13 turns to rebuilding and what justice requires.
 
 ## Procedure
 

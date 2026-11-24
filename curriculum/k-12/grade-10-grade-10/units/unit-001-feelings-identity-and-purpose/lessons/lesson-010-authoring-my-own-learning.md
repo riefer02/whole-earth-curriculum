@@ -116,29 +116,28 @@ getting there.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **self-directed
-learning is a skill with a structure — choose a goal, gather resources, check progress,
-adjust — and it is teachable, not a mysterious gift.** The evidence: self-paced,
-self-directed learning works in real classrooms, especially when learners have clear
-guides and when they are grouped and supported appropriately (Escuela Nueva, S-008;
-Montessori's mixed-age self-directed model, S-014), and mastery/feedback loops are among
-the strongest learning levers (Bloom's 2-sigma work, S-007). Hold the nuance: the
-"Hole-in-the-Wall" version of unsupervised self-teaching is *contested* — treat
-self-direction as a *structured, supported* skill, not a miracle (S-013; philosophy §6,
-§13). This lesson is the explicit-instruction side of a skill (S-011): model the plan,
-then guide, then release.
+The idea to land: **self-directed learning is a skill with a structure — choose a goal,
+gather resources, check progress, adjust — and it is teachable, not a mysterious gift.**
+The evidence: self-paced, self-directed learning works in real classrooms, especially
+when learners have clear guides and when they are grouped and supported appropriately
+(Escuela Nueva, S-008; Montessori's mixed-age self-directed model, S-014), and
+mastery/feedback loops are among the strongest learning levers (Bloom's 2-sigma work,
+S-007). Hold the nuance: the "Hole-in-the-Wall" version of unsupervised self-teaching is
+*contested* — treat self-direction as a *structured, supported* skill, not a miracle
+(S-013; philosophy §6, §13). This lesson is the explicit-instruction side of a skill
+(S-011): model the plan, then guide, then release.
 
-Model a complete worked example, then let learners practice (S-011). The **intellectual**
-lens: this is metacognition made concrete — planning, monitoring, and adjusting one's own
-learning. The **ethics** lens: a good goal is chosen with honesty (is it really mine, and
-is it fair to my own limits?) — not inflated to impress. The **egalitarian** lens:
-self-direction is for *everyone*, not just the already-advantaged; a goal can be to read
-one book, fix one thing, or learn one song — worth is not measured in scale. The
-**global** lens: self-paced learning guides are a real, widely used method across the
-world (Escuela Nueva, S-008) — this is not one culture's luxury but a global practice.
-The **technology & environment** lens: digital tools can be powerful resources (and
-distractions) — choose resources that serve the goal, and name the distraction you will
-manage. The **social-emotional** lens: choosing a goal can stir both hope and
+Model a complete worked example, then let learners practice (S-011). The
+**intellectual** lens: this is metacognition made concrete — planning, monitoring, and
+adjusting one's own learning. The **ethics** lens: a good goal is chosen with honesty
+(is it really mine, and is it fair to my own limits?) — not inflated to impress. The
+**egalitarian** lens: self-direction is for *everyone*, not just the already-advantaged;
+a goal can be to read one book, fix one thing, or learn one song — worth is not measured
+in scale. The **global** lens: self-paced learning guides are a real, widely used method
+across the world (Escuela Nueva, S-008) — this is not one culture's luxury but a global
+practice. The **technology & environment** lens: digital tools can be powerful resources
+(and distractions) — choose resources that serve the goal, and name the distraction you
+will manage. The **social-emotional** lens: choosing a goal can stir both hope and
 self-doubt; keep the goal small enough to start and real enough to matter, and honor
 "not sure yet" as a valid place to begin.
 

@@ -114,27 +114,26 @@ read a translation well is to read it as one voice's choices — not as the text
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **translation shapes
-meaning — it is an art of choices in which every version gains, loses, and changes
-something, so a translation is read as one translator's decisions, not as the text
-itself.** Words carry culture (S-167), and languages sort the world differently in a
-moderate, well-supported sense (S-168) — so no translation is a perfect copy. Treat
-this as *description of how language works*, and hold "translation is an art with gain
-and loss" as the unit's guiding value — never ranking one language or one translation
-above another (global + egalitarian lenses).
+The idea to land: **translation shapes meaning — it is an art of choices in which every
+version gains, loses, and changes something, so a translation is read as one
+translator's decisions, not as the text itself.** Words carry culture (S-167), and
+languages sort the world differently in a moderate, well-supported sense (S-168) — so no
+translation is a perfect copy. Treat this as *description of how language works*, and
+hold "translation is an art with gain and loss" as the unit's guiding value — never
+ranking one language or one translation above another (global + egalitarian lenses).
 
-Model the comparison once, then let learners compare (worked example → guided practice
-→ independent work; S-011). The **global** lens is the spine: choose examples beyond
-one region's literature — a Persian line of Rūmī (S-419/S-352), a Sundiata proverb
-carried by griots (S-269), a line from a sacred text, a market proverb — so learners
-see translation as a worldwide practice, not a Western one. The **critical-thinking**
-lens: compare *specific choices* — a word, a rhythm, a grammatical marker — not vague
+Model the comparison once, then let learners compare (worked example → guided practice →
+independent work; S-011). The **global** lens is the spine: choose examples beyond one
+region's literature — a Persian line of Rūmī (S-419/S-352), a Sundiata proverb carried
+by griots (S-269), a line from a sacred text, a market proverb — so learners see
+translation as a worldwide practice, not a Western one. The **critical-thinking** lens:
+compare *specific choices* — a word, a rhythm, a grammatical marker — not vague
 "feelings" about the versions. The **egalitarian** lens: no language is "richer" or
-"poorer"; each encodes its own distinctions (kinship terms, honorifics, animacy),
-which is why translation gains *and* loses in both directions. The **ethics** lens: a
-faithful translation owes the author care — a careless one can misrepresent a person
-or a people. Preview: Lesson 6 asks who *does* the translating — machine or human —
-and when each is trustworthy.
+"poorer"; each encodes its own distinctions (kinship terms, honorifics, animacy), which
+is why translation gains *and* loses in both directions. The **ethics** lens: a faithful
+translation owes the author care — a careless one can misrepresent a person or a people.
+Preview: Lesson 6 asks who *does* the translating — machine or human — and when each is
+trustworthy.
 
 ## Procedure
 

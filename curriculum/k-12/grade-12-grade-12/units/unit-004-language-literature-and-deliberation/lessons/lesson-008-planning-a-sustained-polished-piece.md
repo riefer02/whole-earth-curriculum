@@ -119,25 +119,25 @@ lifetime of writing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description**:
-the writing process — plan, draft, revise, edit, publish — with explicit strategy
-instruction is a well-supported pedagogy for adolescent writers (Graham & Perin, S-102;
-IES, S-171). Hold the *process* as evidence-based practice, and the *audience-first
-ethic* as a value. Emphasize that the plan serves the writer, not the reverse — a plan
-that outlives its usefulness is to be revised, not obeyed.
+The idea to land, held as **description**: the writing process — plan, draft, revise,
+edit, publish — with explicit strategy instruction is a well-supported pedagogy for
+adolescent writers (Graham & Perin, S-102; IES, S-171). Hold the *process* as
+evidence-based practice, and the *audience-first ethic* as a value. Emphasize that the
+plan serves the writer, not the reverse — a plan that outlives its usefulness is to be
+revised, not obeyed.
 
 The **ethics** lens: choosing an audience is a promise — the piece owes that audience
 clarity and honesty, not just style. The **egalitarianism** lens: a plan makes a long
-piece *doable* in steps, which means sustained writing is not reserved for the
-naturally fluent. The **global** lens: what counts as a well-structured piece differs
-across cultures and traditions — a plan can honor many structures, not one. The
-**technology** lens: digital outlines and citation tools are scaffolds, but the *thinking*
-(what to say, to whom, why) is not automatable — the tool serves the plan. The
-**environment** lens: invite topics that weigh human and ecological goods, and note that
-a piece's *form* (paper, screen, spoken) carries a small environmental footprint worth
-choosing deliberately. The **critical-thinking** lens: "what evidence will I need, and
-where will it come from?" is a question of rigor asked *before* the writing, where it is
-cheap. Preview: Lesson 9 turns the plan into a draft.
+piece *doable* in steps, which means sustained writing is not reserved for the naturally
+fluent. The **global** lens: what counts as a well-structured piece differs across
+cultures and traditions — a plan can honor many structures, not one. The **technology**
+lens: digital outlines and citation tools are scaffolds, but the *thinking* (what to
+say, to whom, why) is not automatable — the tool serves the plan. The **environment**
+lens: invite topics that weigh human and ecological goods, and note that a piece's
+*form* (paper, screen, spoken) carries a small environmental footprint worth choosing
+deliberately. The **critical-thinking** lens: "what evidence will I need, and where will
+it come from?" is a question of rigor asked *before* the writing, where it is cheap.
+Preview: Lesson 9 turns the plan into a draft.
 
 ## Procedure
 

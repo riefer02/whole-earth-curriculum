@@ -115,13 +115,13 @@ signals are part of how feelings come to be — everywhere in the world.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that memory and body
-are **two more shapers** of feeling, alongside the thoughts met in Lesson 1. Invite a
-range of memories — joyful and tender — but let each learner choose a *safe* one to
-share; memories can touch loss, and a learner's right to keep a memory private must be
-protected. Model your own example first, and keep it ordinary. Watch for learners who
-reveal a heavy memory; honor it calmly and move gently, never pressing for detail. See
-`docs/facilitation.md` on holding difficult topics safely.
+The idea to land is that memory and body are **two more shapers** of feeling, alongside
+the thoughts met in Lesson 1. Invite a range of memories — joyful and tender — but let
+each learner choose a *safe* one to share; memories can touch loss, and a learner's
+right to keep a memory private must be protected. Model your own example first, and keep
+it ordinary. Watch for learners who reveal a heavy memory; honor it calmly and move
+gently, never pressing for detail. See `docs/facilitation.md` on holding difficult
+topics safely.
 
 ## Procedure
 

@@ -134,16 +134,15 @@ observations that anyone can check.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"), so it works in a classroom and for a
-self-directed learner. The core skill — reading a tool and writing a number *with a
-unit* — is foundational, so teach it with a **worked example and guided practice**
-(Kirschner, Sweller & Clark, 2006): model measuring the shared object once on each tool,
-say the number and unit aloud, then let pairs measure their own object before recording
-alone. Emphasize the *unit*; a number without a unit is half a measurement. Use units
-that are shared worldwide — centimeters, grams, degrees Celsius — so a record is legible
-to a learner in any country (the global and egalitarian lenses); note gently that people
-have used many units across history and places, and standard units exist so everyone can
-trust and compare. Where learners still find a tool hard, "not yet" is information, not a
+The core skill — reading a tool and writing a number *with a unit* — is foundational, so
+teach it with a **worked example and guided practice** (Kirschner, Sweller & Clark,
+2006): model measuring the shared object once on each tool, say the number and unit
+aloud, then let pairs measure their own object before recording alone. Emphasize the
+*unit*; a number without a unit is half a measurement. Use units that are shared
+worldwide — centimeters, grams, degrees Celsius — so a record is legible to a learner in
+any country (the global and egalitarian lenses); note gently that people have used many
+units across history and places, and standard units exist so everyone can trust and
+compare. Where learners still find a tool hard, "not yet" is information, not a
 verdict — they try again tomorrow.
 
 ## Procedure

@@ -122,24 +122,23 @@ between seeing a cycle and seeing a problem in it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **carbon cycles
-between reservoirs — atmosphere, living things, soil and ocean, and buried fossil
-fuels — through fluxes like photosynthesis, respiration, and decomposition, and the
-amount of carbon is constant (National Geographic, S-253); human burning of fossil
-fuels has moved a huge amount of it from the slow reservoir into the atmosphere very
-fast (IPCC, S-005), strengthening the greenhouse effect (NASA, S-438).** The
-greenhouse effect is itself a good thing — Earth would be frozen without it — so the
-teaching is about *altering a balance*, not "carbon is bad." Carbon is life's
-backbone; the issue is rate and direction, not the element.
+The idea to land: **carbon cycles between reservoirs — atmosphere, living things, soil
+and ocean, and buried fossil fuels — through fluxes like photosynthesis, respiration,
+and decomposition, and the amount of carbon is constant (National Geographic, S-253);
+human burning of fossil fuels has moved a huge amount of it from the slow reservoir into
+the atmosphere very fast (IPCC, S-005), strengthening the greenhouse effect (NASA,
+S-438).** The greenhouse effect is itself a good thing — Earth would be frozen without
+it — so the teaching is about *altering a balance*, not "carbon is bad." Carbon is
+life's backbone; the issue is rate and direction, not the element.
 
-The **environment** lens is core: this is a system, and the skill is tracing a
-system. The **ethics** lens: the people who burn the most and the people who feel the
-change most are not the same — hold that for Lessons 13–14. The **egalitarianism**
-lens: the alteration is distributed unevenly across the world. The **global** lens:
-the cycle has no borders; it is the definition of a shared system. The
-**critical-thinking** lens: distinguishing "the carbon cycle is real and well
-documented" (evidence) from "what we should do about it" (value). Preview: Lessons
-10–11 do the same tracing for water and nitrogen; the skill is transferable.
+The **environment** lens is core: this is a system, and the skill is tracing a system.
+The **ethics** lens: the people who burn the most and the people who feel the change
+most are not the same — hold that for Lessons 13–14. The **egalitarianism** lens: the
+alteration is distributed unevenly across the world. The **global** lens: the cycle has
+no borders; it is the definition of a shared system. The **critical-thinking** lens:
+distinguishing "the carbon cycle is real and well documented" (evidence) from "what we
+should do about it" (value). Preview: Lessons 10–11 do the same tracing for water and
+nitrogen; the skill is transferable.
 
 ## Procedure
 

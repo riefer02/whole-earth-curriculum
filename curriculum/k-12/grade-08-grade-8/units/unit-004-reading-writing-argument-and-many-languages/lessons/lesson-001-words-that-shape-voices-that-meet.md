@@ -129,17 +129,18 @@ languages meet — always with *your* language honored first.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) this unit has three
-clusters — Listening & Speaking, Reading, and Writing & Languages — and they all meet in one
-central idea: "my voice among many voices"; (2) we are building on Grade 7, not starting over;
-(3) wondering is the engine — learners begin by asking, not by being told.** Retrieval practice
-here is deliberate (spaced recall of last year's ideas — see Dunlosky et al. 2013, S-039); do not
-skip it. The ethics lens: how we use words toward others is a question of right and wrong. The
-egalitarian lens: ask early "who is included and who is left out by the way this is said?" — it
-returns every lesson. The global lens: language is many languages, many scripts, many ways of
-speaking — keep the frame broad, never one language's default. The technology lens: digital tools
-now carry and translate our words, which makes the unit's questions more urgent, not less. Hold
-every wonder as valid; the goal is the asking, not the answer.
+The ideas to land: **(1) this unit has three clusters — Listening & Speaking, Reading,
+and Writing & Languages — and they all meet in one central idea: "my voice among many
+voices"; (2) we are building on Grade 7, not starting over; (3) wondering is the
+engine — learners begin by asking, not by being told.** Retrieval practice here is
+deliberate (spaced recall of last year's ideas — see Dunlosky et al. 2013, S-039); do
+not skip it. The ethics lens: how we use words toward others is a question of right and
+wrong. The egalitarian lens: ask early "who is included and who is left out by the way
+this is said?" — it returns every lesson. The global lens: language is many languages,
+many scripts, many ways of speaking — keep the frame broad, never one language's
+default. The technology lens: digital tools now carry and translate our words, which
+makes the unit's questions more urgent, not less. Hold every wonder as valid; the goal
+is the asking, not the answer.
 
 ## Procedure
 

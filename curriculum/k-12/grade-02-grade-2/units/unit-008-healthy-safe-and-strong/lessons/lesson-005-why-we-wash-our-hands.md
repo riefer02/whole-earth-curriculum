@@ -111,20 +111,19 @@ already know how to do.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Grade 1 taught the *how*; Grade 2 adds the
-*why*, so this is explanation building on a known skill — use explicit instruction and a
-worked example of the reason ("soap lifts germs off the skin, and water carries them
-away"), then let learners explain it back in their own words. **Honor every context:**
-where water is scarce, teach the "wet, lather, rinse" method that saves water, and note
-that ash can work when there is no soap. Where a learner cannot wash their own hands, a
-caregiver or older peer can help — the goal is clean hands, not doing it alone. **Care is
-never a test.** A learner who does not use a speaking voice points or signs; a learner who
-is blind or has low vision is guided hand-over-hand and explains the reason aloud. A
-learner who is deaf or hard of hearing follows the demonstration and picture step cards
-from the front, since every step is shown, not only told. The health facts are from the
-World Health Organization: washing hands with soap removes germs and is one of the most
-effective ways to prevent the spread of sickness. This lesson starts the D03.S4.02.01
-"why" trio (wash, brush, rest).
+Grade 1 taught the *how*; Grade 2 adds the *why*, so this is explanation building on a
+known skill — use explicit instruction and a worked example of the reason ("soap lifts
+germs off the skin, and water carries them away"), then let learners explain it back in
+their own words. **Honor every context:** where water is scarce, teach the "wet, lather,
+rinse" method that saves water, and note that ash can work when there is no soap. Where
+a learner cannot wash their own hands, a caregiver or older peer can help — the goal is
+clean hands, not doing it alone. **Care is never a test.** A learner who does not use a
+speaking voice points or signs; a learner who is blind or has low vision is guided
+hand-over-hand and explains the reason aloud. A learner who is deaf or hard of hearing
+follows the demonstration and picture step cards from the front, since every step is
+shown, not only told. The health facts are from the World Health Organization: washing
+hands with soap removes germs and is one of the most effective ways to prevent the
+spread of sickness. This lesson starts the D03.S4.02.01 "why" trio (wash, brush, rest).
 
 ## Procedure
 

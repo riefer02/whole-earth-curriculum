@@ -111,22 +111,22 @@ play, and to learn.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Hold the line on no food shaming.** Keep
-the focus on what foods *do* — give energy — never on amounts, weight, or appetite, and
-never comment on what or how much a learner eats. Speak of food as fuel that all living
-things need, and honor the many ways people get it — farming, fishing, gathering,
-buying, growing in pots. Some children have little food at home; keep the tone warm and
-matter-of-fact. It is basic biology that the body breaks food down and turns it into
-energy for moving, thinking, and growing — a fact, not a value. The value we add is that
-every body and every family's food is honored. The "foods that give me energy" chart is a
-unit portfolio artifact; keep learners' additions. **Every body and every way of moving
-is honored.** A learner who does not use a speaking voice points, signs, or draws their
-foods and energy jobs; a learner who is deaf or hard of hearing follows the demonstration
-from the front, where the picture cards and acted-out grow-play-learn motions carry the
-meaning visually. A learner who is blind or has low vision feels the seed or plant, names
-the three energy jobs aloud, and can model their energy-food in clay or choose a real food
-to hold instead of drawing. This lesson extends Kindergarten's
-"Foods That Help Me Grow" (U.00.002) and "Food for My Growing Body" (U.00.008).
+**Hold the line on no food shaming.** Keep the focus on what foods *do* — give energy —
+never on amounts, weight, or appetite, and never comment on what or how much a learner
+eats. Speak of food as fuel that all living things need, and honor the many ways people
+get it — farming, fishing, gathering, buying, growing in pots. Some children have little
+food at home; keep the tone warm and matter-of-fact. It is basic biology that the body
+breaks food down and turns it into energy for moving, thinking, and growing — a fact,
+not a value. The value we add is that every body and every family's food is honored. The
+"foods that give me energy" chart is a unit portfolio artifact; keep learners'
+additions. **Every body and every way of moving is honored.** A learner who does not use
+a speaking voice points, signs, or draws their foods and energy jobs; a learner who is
+deaf or hard of hearing follows the demonstration from the front, where the picture
+cards and acted-out grow-play-learn motions carry the meaning visually. A learner who is
+blind or has low vision feels the seed or plant, names the three energy jobs aloud, and
+can model their energy-food in clay or choose a real food to hold instead of drawing.
+This lesson extends Kindergarten's "Foods That Help Me Grow" (U.00.002) and "Food for My
+Growing Body" (U.00.008).
 
 ## Procedure
 

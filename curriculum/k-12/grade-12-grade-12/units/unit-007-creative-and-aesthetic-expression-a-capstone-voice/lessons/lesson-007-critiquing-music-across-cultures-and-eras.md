@@ -117,24 +117,25 @@ your own, without flattening it into "good" or "bad" by your own habits.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **musical critique is a
-four-step climb — describe, analyze, interpret, evaluate — each step grounded in what is
-actually heard, and each tradition met as a living one to honor, not a specimen to grade.**
-Teach the ladder explicitly with a worked example, then let learners climb it on a second
-piece (S-011). Name the danger plainly: ranking another culture's music by one's own scale or
-tuning is not critique, it is flattening.
+The idea to land: **musical critique is a four-step climb — describe, analyze,
+interpret, evaluate — each step grounded in what is actually heard, and each tradition
+met as a living one to honor, not a specimen to grade.** Teach the ladder explicitly
+with a worked example, then let learners climb it on a second piece (S-011). Name the
+danger plainly: ranking another culture's music by one's own scale or tuning is not
+critique, it is flattening.
 
-The **ethics** lens: to critique fairly is to describe before judging and to ask respectful
-questions rather than pronounce. The **egalitarianism** lens: the ladder needs no training —
-only careful listening and honest wording, open to anyone, instrument or none. The **global**
-lens: the same four moves work on an Indian raga (S-366), a Middle Eastern maqam (S-367), an
-African American spiritual (S-385), and Jamaican reggae (S-450) — each met as a living
-tradition carried by real musicians now. The **technology** lens: recordings and streaming
-put many traditions on one device, but a recording is not the occasion — name that you are
-hearing a reproduction, and that the living context (place, people, event) matters. The
-**environment** lens: much music is made from and about a place — work-songs of a harvest, a
-song of the sea — so "where and when is this sung, and with what" is part of faithful
-description. Preview: Lesson 8 sharpens the final rung into a defended judgment.
+The **ethics** lens: to critique fairly is to describe before judging and to ask
+respectful questions rather than pronounce. The **egalitarianism** lens: the ladder
+needs no training — only careful listening and honest wording, open to anyone,
+instrument or none. The **global** lens: the same four moves work on an Indian raga
+(S-366), a Middle Eastern maqam (S-367), an African American spiritual (S-385), and
+Jamaican reggae (S-450) — each met as a living tradition carried by real musicians now.
+The **technology** lens: recordings and streaming put many traditions on one device, but
+a recording is not the occasion — name that you are hearing a reproduction, and that the
+living context (place, people, event) matters. The **environment** lens: much music is
+made from and about a place — work-songs of a harvest, a song of the sea — so "where and
+when is this sung, and with what" is part of faithful description. Preview: Lesson 8
+sharpens the final rung into a defended judgment.
 
 ## Procedure
 

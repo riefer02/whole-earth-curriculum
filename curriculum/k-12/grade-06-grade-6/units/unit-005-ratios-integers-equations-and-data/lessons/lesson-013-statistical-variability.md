@@ -115,17 +115,19 @@ monsoon village to a growth chart in a clinic.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) **variability** means the data are
-not all the same — that difference is what statistics studies; (2) we describe a data set by its **center**
-(where it piles up), its **spread** (the range from smallest to largest), and its **shape** (peaks,
-symmetry or skew, gaps); and (3) a **dot plot** makes all three visible. Model a worked example first, then
-guide a second before independent work (Kirschner, Sweller & Clark, 2006). A common slip is reporting only
-one number (usually the biggest) and missing the spread — variability is the whole point. Retrieval: ask
-learners to recall ordering signed numbers (finding smallest and largest) — that skill now feeds "spread."
-The critical-thinking lens is central (`docs/philosophy.md` §7): one number never tells the whole story of
-a data set; describing center *and* spread *and* shape is the honest way to summarize. Note the global
-point: recording and reading variability — rainfall, harvest, river height — is an ancient human practice
-in every farming and fishing culture, long before "statistics" had a name.
+The ideas to land: (1) **variability** means the data are not all the same — that
+difference is what statistics studies; (2) we describe a data set by its **center**
+(where it piles up), its **spread** (the range from smallest to largest), and its
+**shape** (peaks, symmetry or skew, gaps); and (3) a **dot plot** makes all three
+visible. Model a worked example first, then guide a second before independent work
+(Kirschner, Sweller & Clark, 2006). A common slip is reporting only one number (usually
+the biggest) and missing the spread — variability is the whole point. Retrieval: ask
+learners to recall ordering signed numbers (finding smallest and largest) — that skill
+now feeds "spread." The critical-thinking lens is central (`docs/philosophy.md` §7): one
+number never tells the whole story of a data set; describing center *and* spread *and*
+shape is the honest way to summarize. Note the global point: recording and reading
+variability — rainfall, harvest, river height — is an ancient human practice in every
+farming and fishing culture, long before "statistics" had a name.
 
 ## Procedure
 

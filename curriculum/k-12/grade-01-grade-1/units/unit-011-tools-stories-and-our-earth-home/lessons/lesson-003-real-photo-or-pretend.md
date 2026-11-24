@@ -113,21 +113,20 @@ them apart.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Keep it warm and wonder-full, never
-cynical. A photo is a picture a camera makes of something that was really there; a
-drawing is a picture a person makes by hand, and it may be of something real or
-something imagined. That is the whole distinction at this age — noticing, not judging.
-Make-believe is not "bad" or "a lie"; it is one of the great gifts of being human. If a
-learner insists a dragon could be real, honor the wonder: "What a wonderful story! Some
-people tell stories about dragons." Then gently return to "a photo is made by a camera
-of something really there, and a drawing is made by a person's hand." Do not shame any
-media or screen; frame everything as noticing. If a learner names a story their family
-holds as true — a sacred story or a tale of their people — honor it and do not call it
-make-believe; steer the practice back to clearly fictional examples like talking
-animals and flying houses. For a learner who is blind or has low vision, use a real
-object and a raised-texture drawing of it, and let them tell which was made by a camera
-(a partner describes the photo) and which was made by hand (they feel the texture). A
-non-speaking learner can point or gesture to show the answer.
+Keep it warm and wonder-full, never cynical. A photo is a picture a camera makes of
+something that was really there; a drawing is a picture a person makes by hand, and it
+may be of something real or something imagined. That is the whole distinction at this
+age — noticing, not judging. Make-believe is not "bad" or "a lie"; it is one of the
+great gifts of being human. If a learner insists a dragon could be real, honor the
+wonder: "What a wonderful story! Some people tell stories about dragons." Then gently
+return to "a photo is made by a camera of something really there, and a drawing is made
+by a person's hand." Do not shame any media or screen; frame everything as noticing. If
+a learner names a story their family holds as true — a sacred story or a tale of their
+people — honor it and do not call it make-believe; steer the practice back to clearly
+fictional examples like talking animals and flying houses. For a learner who is blind or
+has low vision, use a real object and a raised-texture drawing of it, and let them tell
+which was made by a camera (a partner describes the photo) and which was made by hand
+(they feel the texture). A non-speaking learner can point or gesture to show the answer.
 
 ## Procedure
 

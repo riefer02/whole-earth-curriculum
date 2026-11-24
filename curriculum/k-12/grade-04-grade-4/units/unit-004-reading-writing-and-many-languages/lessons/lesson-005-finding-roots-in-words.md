@@ -105,18 +105,16 @@ strange word into a familiar one.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Roots are a taught skill, so model the word tree with a worked
-example, thinking aloud about how the root's meaning lives inside each word (Kirschner,
-Sweller & Clark, 2006). Use roots that clearly carry meaning, such as **port** ("carry"),
-**struct** ("build"), or **spect** ("look"). This is script- and language-agnostic: every
-language builds words from meaningful parts, though the parts differ; invite learners to
-share roots from their own languages too. The goal is meaning-making, not memorizing a
-list — a learner who can explain *why* a word means what it does has the skill. Honor
-guesses and explanations in the learner's own language, and be generous: a reasonable
-connection between root and word is success, not a perfect etymology. Where a digital
-word-part tool is used, treat it as a helper to confirm, not a substitute for the
-thinking.
+Roots are a taught skill, so model the word tree with a worked example, thinking aloud
+about how the root's meaning lives inside each word (Kirschner, Sweller & Clark, 2006).
+Use roots that clearly carry meaning, such as **port** ("carry"), **struct** ("build"),
+or **spect** ("look"). This is script- and language-agnostic: every language builds
+words from meaningful parts, though the parts differ; invite learners to share roots
+from their own languages too. The goal is meaning-making, not memorizing a list — a
+learner who can explain *why* a word means what it does has the skill. Honor guesses and
+explanations in the learner's own language, and be generous: a reasonable connection
+between root and word is success, not a perfect etymology. Where a digital word-part
+tool is used, treat it as a helper to confirm, not a substitute for the thinking.
 
 ## Procedure
 

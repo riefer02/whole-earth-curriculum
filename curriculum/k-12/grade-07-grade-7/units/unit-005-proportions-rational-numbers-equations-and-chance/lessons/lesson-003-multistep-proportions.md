@@ -116,19 +116,20 @@ kitchen.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) a **proportional
-relationship** keeps a constant ratio — both quantities multiply by the same factor; (2) a
-**multi-step** problem is a chain where each step is itself a proportion; and (3) laying each
-step on a **double number line** keeps the reasoning visible and checkable. Because this is the
-unit's capstone for S1, use a worked example first, then guided practice, then independent work
-(Kirschner, Sweller & Clark, 2006). Watch for the slips of multiplying one quantity but not the
-other, and of applying a percentage to the wrong (pre-scale) amount. Retrieval: ask learners to
-recall unit rates and percentages — this lesson joins them. The critical-thinking lens
-(`docs/philosophy.md` §7): naming *which* step comes first (scale, then reduce) is honest
-reasoning; different orders can give different answers, so order matters. The global lens:
-proportional "chain" problems — scaling a share, then taking a fraction — appear in the Rhind
-Papyrus's bread-and-beer problems and in the proportional rules for scaling altars in the Indian
-*Baudhayana Sulba Sutra*; chaining proportions is a human universal.
+The ideas to land: (1) a **proportional relationship** keeps a constant ratio — both
+quantities multiply by the same factor; (2) a **multi-step** problem is a chain where
+each step is itself a proportion; and (3) laying each step on a **double number line**
+keeps the reasoning visible and checkable. Because this is the unit's capstone for S1,
+use a worked example first, then guided practice, then independent work (Kirschner,
+Sweller & Clark, 2006). Watch for the slips of multiplying one quantity but not the
+other, and of applying a percentage to the wrong (pre-scale) amount. Retrieval: ask
+learners to recall unit rates and percentages — this lesson joins them. The
+critical-thinking lens (`docs/philosophy.md` §7): naming *which* step comes first
+(scale, then reduce) is honest reasoning; different orders can give different answers,
+so order matters. The global lens: proportional "chain" problems — scaling a share, then
+taking a fraction — appear in the Rhind Papyrus's bread-and-beer problems and in the
+proportional rules for scaling altars in the Indian *Baudhayana Sulba Sutra*; chaining
+proportions is a human universal.
 
 ## Procedure
 

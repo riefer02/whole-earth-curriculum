@@ -102,15 +102,14 @@ is how letters, recipes, and stories have traveled across the world.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Use **explicit instruction and guided practice** (philosophy
-§13): model each mark's strokes, then guide. Remain **script-agnostic** — a
-learner's system may be Latin, Arabic, Devanagari, Chinese characters, Cyrillic,
-Ethiopic, Hangul, or another; teach the strokes of the learner's actual system and
-never rank scripts. Encourage slow, careful forming over speed. Writing is about
-keeping the idea, not perfect marks: a learner may also dictate to a scribe, choose
-marks on a letter board, type on any device, or trace with the whole arm, a foot,
-or a mouth stick — handwriting is never judged as "correct."
+Use **explicit instruction and guided practice** (philosophy §13): model each mark's
+strokes, then guide. Remain **script-agnostic** — a learner's system may be Latin,
+Arabic, Devanagari, Chinese characters, Cyrillic, Ethiopic, Hangul, or another; teach
+the strokes of the learner's actual system and never rank scripts. Encourage slow,
+careful forming over speed. Writing is about keeping the idea, not perfect marks: a
+learner may also dictate to a scribe, choose marks on a letter board, type on any
+device, or trace with the whole arm, a foot, or a mouth stick — handwriting is never
+judged as "correct."
 
 ## Procedure
 

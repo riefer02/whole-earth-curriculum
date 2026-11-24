@@ -121,21 +121,20 @@ it there is something anyone can do.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Keep it **hopeful and full of agency, never
-fearful or shaming**: litter is a problem every child can help with, and the message is "I
-can put it in the right place," not "the Earth is ruined." Follow the litter *faithfully*:
-rain washes litter into gutters, rivers, and the sea; some kinds (especially plastic) last
-a very long time and can be eaten by animals that mistake it for food (see Resources). But
-the right place — a bin — lets it be reused, recycled, or composted, and keeps living
-things safe. Distinguish evidence from values: "rain can wash litter into the sea" is a
-fact; "we should put litter in the right place" is a value we hold because we care for
-living things — say it that way. No wealth assumption: a bin, a basket, or a cloth bag all
-count as the right place, and in some places people reuse or compost nearly everything
-already. Honor every body: for a learner with motor differences, the choosing and the
-pointing to the right place are the act, and they may direct a partner's hands to carry
-the litter; a learner who is blind or has low vision can feel the litter and the bin and
-follow the path by listening to the story; a non-speaking learner points to each step of
-the path in order.
+Keep it **hopeful and full of agency, never fearful or shaming**: litter is a problem
+every child can help with, and the message is "I can put it in the right place," not
+"the Earth is ruined." Follow the litter *faithfully*: rain washes litter into gutters,
+rivers, and the sea; some kinds (especially plastic) last a very long time and can be
+eaten by animals that mistake it for food (see Resources). But the right place — a bin —
+lets it be reused, recycled, or composted, and keeps living things safe. Distinguish
+evidence from values: "rain can wash litter into the sea" is a fact; "we should put
+litter in the right place" is a value we hold because we care for living things — say it
+that way. No wealth assumption: a bin, a basket, or a cloth bag all count as the right
+place, and in some places people reuse or compost nearly everything already. Honor every
+body: for a learner with motor differences, the choosing and the pointing to the right
+place are the act, and they may direct a partner's hands to carry the litter; a learner
+who is blind or has low vision can feel the litter and the bin and follow the path by
+listening to the story; a non-speaking learner points to each step of the path in order.
 
 ## Procedure
 

@@ -115,19 +115,18 @@ and heat warms your skin. You can sense all three with your own body, right now.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Keep energy **concrete**: name the sense
-that tells us about each form — ear (sound), eye (light), skin (heat). The one careful
-scientific step is that **sound comes from vibration** — a drum's skin shakes, a ruler
-twanged on a desk wiggles, your throat hums when you touch it; you can offer this as a
-wonder ("what do you feel on the drum when it booms?") rather than a definition to
-memorize. Heat and light we describe by what they *do* (warm, brighten) at this age —
-their deeper story (electromagnetic waves, molecules) waits for later grades. Model the
-three-column sort once (worked example), then let learners find their own examples.
-Distinguish evidence from values: "the Sun warms our skin" is something we can observe
-and agree on; "I like sunny days" is a feeling, not evidence — both are fine, and they are
-different. A technology and environment lens: people everywhere have made tools for
-sound, light, and heat — drums, lamps, fires — and the Sun gives light and warmth for
-free.
+Keep energy **concrete**: name the sense that tells us about each form — ear (sound),
+eye (light), skin (heat). The one careful scientific step is that **sound comes from
+vibration** — a drum's skin shakes, a ruler twanged on a desk wiggles, your throat hums
+when you touch it; you can offer this as a wonder ("what do you feel on the drum when it
+booms?") rather than a definition to memorize. Heat and light we describe by what they
+*do* (warm, brighten) at this age — their deeper story (electromagnetic waves,
+molecules) waits for later grades. Model the three-column sort once (worked example),
+then let learners find their own examples. Distinguish evidence from values: "the Sun
+warms our skin" is something we can observe and agree on; "I like sunny days" is a
+feeling, not evidence — both are fine, and they are different. A technology and
+environment lens: people everywhere have made tools for sound, light, and heat — drums,
+lamps, fires — and the Sun gives light and warmth for free.
 
 ## Procedure
 

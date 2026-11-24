@@ -117,20 +117,19 @@ big numbers: break it into parts you can see.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The new skill is multiplying a
-two-digit by a two-digit number; the key move is **distributing across place value**
-— breaking a factor into tens and ones and finding partial products (Van de Walle,
-Karp & Bay-Williams, 2019). Teach the **area model** as a worked example (philosophy
-§13) before the compact algorithm: the rectangle shows *why* the partial products
-exist. Build on Grade 3's multiplication within 100; the facts stay the same, only
-the numbers grow. **The speed of a learner's recall of facts is not a measure of
-their worth, and a product is a fact about quantities, never about a person.** The
-decimal system that makes this tidy is one system among many (Ifrah, 2000); people
-have multiplied by doubling, by grouping, and with lattice and other methods across
-traditions. Count in the home language. For learners who are Deaf or hard of
-hearing, sign each partial product; for learners who are blind or have low vision,
-use a tactile grid and count sections by touch. Learners with limited movement
-direct a partner to draw. Mastery arrives at its own pace.
+The new skill is multiplying a two-digit by a two-digit number; the key move is
+**distributing across place value** — breaking a factor into tens and ones and finding
+partial products (Van de Walle, Karp & Bay-Williams, 2019). Teach the **area model** as
+a worked example (philosophy §13) before the compact algorithm: the rectangle shows
+*why* the partial products exist. Build on Grade 3's multiplication within 100; the
+facts stay the same, only the numbers grow. **The speed of a learner's recall of facts
+is not a measure of their worth, and a product is a fact about quantities, never about a
+person.** The decimal system that makes this tidy is one system among many (Ifrah,
+2000); people have multiplied by doubling, by grouping, and with lattice and other
+methods across traditions. Count in the home language. For learners who are Deaf or hard
+of hearing, sign each partial product; for learners who are blind or have low vision,
+use a tactile grid and count sections by touch. Learners with limited movement direct a
+partner to draw. Mastery arrives at its own pace.
 
 ## Procedure
 

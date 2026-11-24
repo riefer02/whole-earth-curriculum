@@ -120,29 +120,36 @@ life, and sort accurate information from myth.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The concept to land: **the menstrual cycle is a
-normal, recurring rhythm in bodies with a uterus — roughly a month long but widely variable — and
-pregnancy can begin when a released egg is fertilized by sperm and implants in the uterus.** This is
-foundational biology, so use explicit instruction and worked examples: model the cycle wheel and the
-conception sequence once, in order, before learners work (S-011). Accurate, appropriately hedged
-facts to teach: a typical cycle averages about **28 days but ranges widely (about 21 to 35 days is
-common, and more variation is normal)**; **ovulation** (an egg's release) usually happens around the
-middle of the cycle; the uterine **lining thickens** to prepare for a possible pregnancy and is shed
-as **menstruation** (a period) if none occurs; if **sperm** meets the egg in the fallopian tube,
-**fertilization** can occur, and the fertilized egg can **implant** in the uterus and grow — a
-**pregnancy**, which typically lasts about **40 weeks** (about nine months). Sperm can survive in the
-body for several days, and an egg lives about a day after release, which is why timing matters for
-both conceiving and avoiding pregnancy (WHO, S-261; UNESCO CSE, S-412). The egalitarian lens: **the
-cycle is a normal, healthy function, not an illness or a curse, and it varies — some bodies do not
-have a cycle, and that does not make them any less whole; some people cannot become pregnant, and
-that is a fact of biology, not a failing.** The ethics lens: accurate knowledge about reproduction is
-what lets a person make their own informed choices; no one else's shame or silence should decide for
-them. The global lens: cultures worldwide have named and made sense of menstruation in many ways —
-some celebrate it, some keep it quiet, some attach rules to it — and all deserve respectful
-curiosity, while the *biology* is the same everywhere. And where accurate information and services
-are missing, unplanned and adolescent pregnancy is more common — which is why this knowledge matters
-(WHO, S-455). The technology lens: medical technology — from the ultrasound that watches a pregnancy grow to assisted-reproduction techniques that help people conceive when they could not otherwise — has changed what people can know and choose about reproduction, and it is spread very unevenly across the world, which is itself a matter of justice. Keep it factual, calm, and free of fear; cite the sources; and hold the door open for
-questions without ever requiring a learner to share anything personal.
+The concept to land: **the menstrual cycle is a normal, recurring rhythm in bodies with
+a uterus — roughly a month long but widely variable — and pregnancy can begin when a
+released egg is fertilized by sperm and implants in the uterus.** This is foundational
+biology, so use explicit instruction and worked examples: model the cycle wheel and the
+conception sequence once, in order, before learners work (S-011). Accurate,
+appropriately hedged facts to teach: a typical cycle averages about **28 days but ranges
+widely (about 21 to 35 days is common, and more variation is normal)**; **ovulation**
+(an egg's release) usually happens around the middle of the cycle; the uterine **lining
+thickens** to prepare for a possible pregnancy and is shed as **menstruation** (a
+period) if none occurs; if **sperm** meets the egg in the fallopian tube,
+**fertilization** can occur, and the fertilized egg can **implant** in the uterus and
+grow — a **pregnancy**, which typically lasts about **40 weeks** (about nine months).
+Sperm can survive in the body for several days, and an egg lives about a day after
+release, which is why timing matters for both conceiving and avoiding pregnancy (WHO,
+S-261; UNESCO CSE, S-412). The egalitarian lens: **the cycle is a normal, healthy
+function, not an illness or a curse, and it varies — some bodies do not have a cycle,
+and that does not make them any less whole; some people cannot become pregnant, and that
+is a fact of biology, not a failing.** The ethics lens: accurate knowledge about
+reproduction is what lets a person make their own informed choices; no one else's shame
+or silence should decide for them. The global lens: cultures worldwide have named and
+made sense of menstruation in many ways — some celebrate it, some keep it quiet, some
+attach rules to it — and all deserve respectful curiosity, while the *biology* is the
+same everywhere. And where accurate information and services are missing, unplanned and
+adolescent pregnancy is more common — which is why this knowledge matters (WHO, S-455).
+The technology lens: medical technology — from the ultrasound that watches a pregnancy
+grow to assisted-reproduction techniques that help people conceive when they could not
+otherwise — has changed what people can know and choose about reproduction, and it is
+spread very unevenly across the world, which is itself a matter of justice. Keep it
+factual, calm, and free of fear; cite the sources; and hold the door open for questions
+without ever requiring a learner to share anything personal.
 
 ## Procedure
 

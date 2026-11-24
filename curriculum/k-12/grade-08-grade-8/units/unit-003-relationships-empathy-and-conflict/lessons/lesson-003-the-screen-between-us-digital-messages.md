@@ -111,28 +111,31 @@ people and hides the cues we rely on. Today you learn to read through that scree
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) digital messages remove
-most nonverbal cues — tone, face, gesture, and immediate back-and-forth — so the same words can be
-read several ways (reduced-cues communication; Suler 2004, S-343); (2) because the cues are gone,
-misreading is common, not a personal failure — the skill is to notice and check, not to assume; (3)
-the screen can also loosen self-restraint (Suler's "online disinhibition," S-343), so a pause before
-sending is a form of care.** Model the decoding once as a worked example (S-011). **Safety: use only
-invented, neutral messages; do not ask learners to share real, painful threads.** **Accessibility:**
-this lesson's object is the written word, so learners who are deaf or hard of hearing meet it on
-equal terms — the "missing cues" are named and written, never only heard. For learners who are
-blind or low vision, read the messages aloud or offer large-print cards, and decode by speaking the
-possible meanings rather than writing. For learners who cannot easily write by hand, decode aloud,
-point to a cue on the chart, or answer with a device. The "said aloud versus written" comparison in
-the outdoor variant should be offered visually or by touch (a written note passed hand to hand) for
-learners who do not use a hearing voice. The ethics lens: a
-message that is meant kindly but read harshly can still cause real hurt — so senders and readers
-both have a responsibility. The egalitarian lens: digital access is not equal — some people share a
-device, have expensive data, or cannot read and write the same language comfortably; the "text
-thread" is not everyone's default. The global & anthropological lens: the same short message is read
-through different languages, cultures, and norms, which multiplies the ways it can be misread. The
-technology & environment lens: the screen is a technology that reshapes relationships — we use it,
-so we must learn its risks as well as its gifts. The critical-thinking lens: for any ambiguous
-message, list the possible readings *before* you choose one, then check.
+The ideas to land: **(1) digital messages remove most nonverbal cues — tone, face,
+gesture, and immediate back-and-forth — so the same words can be read several ways
+(reduced-cues communication; Suler 2004, S-343); (2) because the cues are gone,
+misreading is common, not a personal failure — the skill is to notice and check, not to
+assume; (3) the screen can also loosen self-restraint (Suler's "online disinhibition,"
+S-343), so a pause before sending is a form of care.** Model the decoding once as a
+worked example (S-011). **Safety: use only invented, neutral messages; do not ask
+learners to share real, painful threads.** **Accessibility:** this lesson's object is
+the written word, so learners who are deaf or hard of hearing meet it on equal terms —
+the "missing cues" are named and written, never only heard. For learners who are blind
+or low vision, read the messages aloud or offer large-print cards, and decode by
+speaking the possible meanings rather than writing. For learners who cannot easily write
+by hand, decode aloud, point to a cue on the chart, or answer with a device. The "said
+aloud versus written" comparison in the outdoor variant should be offered visually or by
+touch (a written note passed hand to hand) for learners who do not use a hearing voice.
+The ethics lens: a message that is meant kindly but read harshly can still cause real
+hurt — so senders and readers both have a responsibility. The egalitarian lens: digital
+access is not equal — some people share a device, have expensive data, or cannot read
+and write the same language comfortably; the "text thread" is not everyone's default.
+The global & anthropological lens: the same short message is read through different
+languages, cultures, and norms, which multiplies the ways it can be misread. The
+technology & environment lens: the screen is a technology that reshapes relationships —
+we use it, so we must learn its risks as well as its gifts. The critical-thinking lens:
+for any ambiguous message, list the possible readings *before* you choose one, then
+check.
 
 ## Procedure
 

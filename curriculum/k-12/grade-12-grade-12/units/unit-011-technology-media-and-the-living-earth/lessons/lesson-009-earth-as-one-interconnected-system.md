@@ -116,24 +116,25 @@ its moving parts.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **Earth is one system —
-atmosphere, water, land, and life — coupled through cycles of matter and energy from the Sun,
-and human activity is now altering those cycles.** Model the carbon cycle explicitly, then let
-learners trace water and a local flow (S-011). Keep evidence and values distinct: *that* the
-system is coupled and *that* humans are altering it are factual, cited claims (S-253, S-212,
-S-005); *what* we ought to do about it is argued in later lessons.
+The idea to land: **Earth is one system — atmosphere, water, land, and life — coupled
+through cycles of matter and energy from the Sun, and human activity is now altering
+those cycles.** Model the carbon cycle explicitly, then let learners trace water and a
+local flow (S-011). Keep evidence and values distinct: *that* the system is coupled and
+*that* humans are altering it are factual, cited claims (S-253, S-212, S-005); *what* we
+ought to do about it is argued in later lessons.
 
-The **ethics** lens: seeing the whole system makes the consequences of a choice travel — the
-carbon burned here warms the air everywhere — so the system view is an ethical demand to notice
-what reaches others. The **egalitarianism** lens: a changed cycle does not fall evenly — the
-people who contributed least to altering it often feel it first and worst (S-005, S-006). The
-**global** lens: the cycles are planetary by nature, so they cannot be understood or fixed one
-country at a time — the ocean, the wind, and the carbon all cross every border (S-214). The
-**technology** lens: technology both reveals the system (satellites and data that show the whole
-planet) and alters it (the burning that loads the atmosphere with carbon) — the same tools that
-measure are also part of the story (S-006). The **environment** lens: the greenhouse effect is
-a natural, life-giving process that human emissions are strengthening, and the biosphere is
-losing species because of it and of other drivers (S-438, S-437). Preview: Lesson 10 names the
+The **ethics** lens: seeing the whole system makes the consequences of a choice travel —
+the carbon burned here warms the air everywhere — so the system view is an ethical
+demand to notice what reaches others. The **egalitarianism** lens: a changed cycle does
+not fall evenly — the people who contributed least to altering it often feel it first
+and worst (S-005, S-006). The **global** lens: the cycles are planetary by nature, so
+they cannot be understood or fixed one country at a time — the ocean, the wind, and the
+carbon all cross every border (S-214). The **technology** lens: technology both reveals
+the system (satellites and data that show the whole planet) and alters it (the burning
+that loads the atmosphere with carbon) — the same tools that measure are also part of
+the story (S-006). The **environment** lens: the greenhouse effect is a natural,
+life-giving process that human emissions are strengthening, and the biosphere is losing
+species because of it and of other drivers (S-438, S-437). Preview: Lesson 10 names the
 planetary boundaries this system is pressing against.
 
 ## Procedure

@@ -114,19 +114,18 @@ your teeth all by yourself.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Never share toothbrushes, and supervise
-so toothpaste is not swallowed. **Honor every context:** where brushes or paste are
-unavailable, teach a clean-finger or chewing-stick method without shame. Where a learner
-cannot brush their own teeth, a caregiver or older peer can help — the goal is clean
-teeth, not doing it alone. **Care is never a test** — celebrate effort, not perfection. A
-learner who does not use a speaking voice points or acts out the steps; a learner who is
-blind or has low vision is guided hand-over-hand through the motion. A learner who is
-deaf or hard of hearing watches the demonstration from the front and follows picture step
-cards or a hand-over-hand model; each brushing step is shown on the mouth, not only told.
-The health facts are
-from the World Health Organization: brushing removes food and plaque that can hurt teeth
-and gums. This lesson extends Kindergarten's "Brushing My Teeth" (U.00.002) into
-independent, self-checked practice.
+Never share toothbrushes, and supervise so toothpaste is not swallowed. **Honor every
+context:** where brushes or paste are unavailable, teach a clean-finger or chewing-stick
+method without shame. Where a learner cannot brush their own teeth, a caregiver or older
+peer can help — the goal is clean teeth, not doing it alone. **Care is never a test** —
+celebrate effort, not perfection. A learner who does not use a speaking voice points or
+acts out the steps; a learner who is blind or has low vision is guided hand-over-hand
+through the motion. A learner who is deaf or hard of hearing watches the demonstration
+from the front and follows picture step cards or a hand-over-hand model; each brushing
+step is shown on the mouth, not only told. The health facts are from the World Health
+Organization: brushing removes food and plaque that can hurt teeth and gums. This lesson
+extends Kindergarten's "Brushing My Teeth" (U.00.002) into independent, self-checked
+practice.
 
 ## Procedure
 

@@ -114,20 +114,23 @@ feed.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **media ownership can be concentrated —
-many outlets, few owners — and that concentration shapes what is reported and left out, because owners
-set priorities and resources; plurality of independent voices is what protects a public's right to know.**
-Keep the analysis structural, not conspiratorial: owners influence through staffing, budgets, and
-editorial direction, not usually by direct command. The **egalitarian** lens: whose stories get told and
-whose are dropped tracks power — the voices that own the megaphone are heard; the rest are not (S-442,
-S-417). The **global** lens: media systems differ — public-service broadcasting, community radio, and
-press-freedom arrangements vary widely, and none is the human default (S-217). The **technology** lens:
-digital platforms have become the new gatekeepers, and their ownership and algorithms shape the feed
-(S-481, S-482). The **ethics** lens: journalism has a duty to inform fairly, and ownership that narrows
-that duty is an ethical problem. The **environment** lens: media ownership also shapes *which* stories
-are told — including environmental stories that threaten powerful interests. Distinguish evidence (who
-owns what) from values (what a fair media system should look like) (philosophy §5). Preview: next lesson
-analyzes what gets reported and what gets left out, as a portfolio artifact.
+The idea to land: **media ownership can be concentrated — many outlets, few owners — and
+that concentration shapes what is reported and left out, because owners set priorities
+and resources; plurality of independent voices is what protects a public's right to
+know.** Keep the analysis structural, not conspiratorial: owners influence through
+staffing, budgets, and editorial direction, not usually by direct command. The
+**egalitarian** lens: whose stories get told and whose are dropped tracks power — the
+voices that own the megaphone are heard; the rest are not (S-442, S-417). The **global**
+lens: media systems differ — public-service broadcasting, community radio, and
+press-freedom arrangements vary widely, and none is the human default (S-217). The
+**technology** lens: digital platforms have become the new gatekeepers, and their
+ownership and algorithms shape the feed (S-481, S-482). The **ethics** lens: journalism
+has a duty to inform fairly, and ownership that narrows that duty is an ethical problem.
+The **environment** lens: media ownership also shapes *which* stories are told —
+including environmental stories that threaten powerful interests. Distinguish evidence
+(who owns what) from values (what a fair media system should look like) (philosophy §5).
+Preview: next lesson analyzes what gets reported and what gets left out, as a portfolio
+artifact.
 
 ## Procedure
 

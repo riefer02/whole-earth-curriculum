@@ -107,12 +107,11 @@ traditions, and each one is different.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Honor every family shape — a family
-may be two parents, one parent, grandparents, guardians, siblings, or chosen kin.
-Traditions may be cultural, religious, seasonal, or simply a family's private habit;
-none is "better" than another. If a learner cannot name one, offer gentle examples
-(a bedtime routine, a birthday way, a favorite food). Keep sharing warm and
-non-competitive; there is no ranking of traditions.
+Honor every family shape — a family may be two parents, one parent, grandparents,
+guardians, siblings, or chosen kin. Traditions may be cultural, religious, seasonal, or
+simply a family's private habit; none is "better" than another. If a learner cannot name
+one, offer gentle examples (a bedtime routine, a birthday way, a favorite food). Keep
+sharing warm and non-competitive; there is no ranking of traditions.
 
 ## Procedure
 

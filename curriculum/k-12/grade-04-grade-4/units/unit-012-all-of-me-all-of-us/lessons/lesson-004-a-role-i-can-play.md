@@ -113,20 +113,19 @@ just talk about it, but do it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It moves the year's care work from
-**helping when asked** to **holding a role** — a small, ongoing responsibility. The
-central commitment is **egalitarian**: every role is equal in worth. Greeting is not less
-than leading; watering a plant is not less than writing a notice. Model this by listing
-roles without ranking them, and by noticing the quiet roles too. Choose roles that are
-real and free — no role should require money or privilege. Some learners live with
-instability or may be new themselves; a role that makes them feel settled (arranging the
-reading corner, feeding a class pet) is as valid as a public one. For a learner with a
-mobility, sensory, or communication difference, find a role that fits *their* body and
-voice — and say so plainly: the point is contribution, not a standard shape of it. Carry
-out the role *in this lesson* (or begin it) so "carry it out" is performed, not
-promised. For a self-directed learner, the role may be at home or in the neighborhood;
-the card records what they actually did. Keep the tone practical and warm: a role is a
-way to belong.
+It moves the year's care work from **helping when asked** to **holding a role** — a
+small, ongoing responsibility. The central commitment is **egalitarian**: every role is
+equal in worth. Greeting is not less than leading; watering a plant is not less than
+writing a notice. Model this by listing roles without ranking them, and by noticing the
+quiet roles too. Choose roles that are real and free — no role should require money or
+privilege. Some learners live with instability or may be new themselves; a role that
+makes them feel settled (arranging the reading corner, feeding a class pet) is as valid
+as a public one. For a learner with a mobility, sensory, or communication difference,
+find a role that fits *their* body and voice — and say so plainly: the point is
+contribution, not a standard shape of it. Carry out the role *in this lesson* (or begin
+it) so "carry it out" is performed, not promised. For a self-directed learner, the role
+may be at home or in the neighborhood; the card records what they actually did. Keep the
+tone practical and warm: a role is a way to belong.
 
 ## Procedure
 

@@ -109,31 +109,30 @@ reading** — is how fact-checkers separate signal from noise.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Land the four moves** (lateral
-reading; the verification habit documented by First Draft, S-394, and framed for
-learners by Common Sense, S-063): **(1) Stop** — pause before believing or sharing;
-**(2) Investigate the source** — open a new tab and find out who is actually behind
-the page (not what the page says about itself); **(3) Find better coverage** — see
-whether trustworthy sources report the same thing; **(4) Trace claims** — click
-through to the original study or quote rather than trusting the summary. A memory aid
-calls these **SIFT** (Stop, Investigate, Find, Trace). **Red flags:** miracle cures,
-fear and urgency, no author or date, anonymous sources, "doctors hate this," a page
-that is really an ad (sponsored content), and claims that only one site makes.
+**Land the four moves** (lateral reading; the verification habit documented by First
+Draft, S-394, and framed for learners by Common Sense, S-063): **(1) Stop** — pause
+before believing or sharing; **(2) Investigate the source** — open a new tab and find
+out who is actually behind the page (not what the page says about itself); **(3) Find
+better coverage** — see whether trustworthy sources report the same thing; **(4) Trace
+claims** — click through to the original study or quote rather than trusting the
+summary. A memory aid calls these **SIFT** (Stop, Investigate, Find, Trace). **Red
+flags:** miracle cures, fear and urgency, no author or date, anonymous sources, "doctors
+hate this," a page that is really an ad (sponsored content), and claims that only one
+site makes.
 
 **Sensitive-topic guidance:** some health misinformation targets sexual health and
-bodies; keep examples non-graphic, treat claims as material to *verify* (never to
-try), and let learners **opt out**. If a claim raises a real concern, respond
-privately and follow your safeguarding procedure to a **trusted adult or health
-service**. The point is protection through skill, not fear of the internet.
+bodies; keep examples non-graphic, treat claims as material to *verify* (never to try),
+and let learners **opt out**. If a claim raises a real concern, respond privately and
+follow your safeguarding procedure to a **trusted adult or health service**. The point
+is protection through skill, not fear of the internet.
 
-The **ethics** lens: sharing only what you have checked is a form of honesty to
-everyone who trusts your feed. The **egalitarian** lens: misinformation spreads
-fastest where trust in institutions is lowest — checking is a skill that protects the
-most vulnerable first. The **global** lens: the same false health claim can be
-translated and re-posted across countries; the moves work in any language. The
-**technology** lens: recommendation feeds rank by engagement, not accuracy, so a
-compelling falsehood can out-travel a dull truth — exactly why *we* must be the
-filter.
+The **ethics** lens: sharing only what you have checked is a form of honesty to everyone
+who trusts your feed. The **egalitarian** lens: misinformation spreads fastest where
+trust in institutions is lowest — checking is a skill that protects the most vulnerable
+first. The **global** lens: the same false health claim can be translated and re-posted
+across countries; the moves work in any language. The **technology** lens:
+recommendation feeds rank by engagement, not accuracy, so a compelling falsehood can
+out-travel a dull truth — exactly why *we* must be the filter.
 
 ## Procedure
 

@@ -144,20 +144,20 @@ you will put them all together.
 
 ## Facilitator note
 
-Written to the learner ("you"). This is the unit's capstone: each learner authors their
-own small statement of rights, fairness, and shared rules. Keep all eight boxes
-optional in depth — a word, a mark, or a drawing counts. This is a celebration of what
-learners can *do*, not a test of what they know; there is no "correct" page. Celebrate
-each page as a real contribution, and never rank pages against one another. Hold the
-dignity and restorative boxes with the same care as in Lessons 3 and 9: no shaming, no
-forced confession, no performed apology — invented examples and "always may pass"
-apply here too. A learner who does not speak aloud shares by pointing to a box and a
-picture, or by signing; a learner who is blind or low-vision describes their page aloud
-and the boxes are read back to them; a learner with a motor difference can have a
-partner draw while they choose and direct. Every voice matters — not just the loudest
-or fastest — and a learner may always pass. The page stays live after this lesson, so
-the unit's habits continue beyond the paper. Questions stay questions: rights,
-fairness, and shared rules are practiced, not preached.
+This is the unit's capstone: each learner authors their own small statement of rights,
+fairness, and shared rules. Keep all eight boxes optional in depth — a word, a mark, or
+a drawing counts. This is a celebration of what learners can *do*, not a test of what
+they know; there is no "correct" page. Celebrate each page as a real contribution, and
+never rank pages against one another. Hold the dignity and restorative boxes with the
+same care as in Lessons 3 and 9: no shaming, no forced confession, no performed
+apology — invented examples and "always may pass" apply here too. A learner who does not
+speak aloud shares by pointing to a box and a picture, or by signing; a learner who is
+blind or low-vision describes their page aloud and the boxes are read back to them; a
+learner with a motor difference can have a partner draw while they choose and direct.
+Every voice matters — not just the loudest or fastest — and a learner may always pass.
+The page stays live after this lesson, so the unit's habits continue beyond the paper.
+Questions stay questions: rights, fairness, and shared rules are practiced, not
+preached.
 
 ## Procedure
 

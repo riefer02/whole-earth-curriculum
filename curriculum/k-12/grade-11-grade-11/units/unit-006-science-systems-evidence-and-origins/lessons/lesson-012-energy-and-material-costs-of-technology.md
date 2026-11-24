@@ -118,19 +118,18 @@ device.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **a technology's
-true cost is its life-cycle cost — the energy and materials spent in extracting raw
-materials, manufacturing, using, and disposing of it; embodied energy is the energy
-already invested before use; renewable inputs (sun, wind, water) replenish, while
-nonrenewable inputs (fossil fuels, mined minerals) run down (S-095); and the disposal
-stage is a real, growing burden — e-waste is the world's fastest-growing waste stream
-and carries health and environmental harms concentrated on poorer communities
-(S-397).** Teach the four stages with a worked example (S-011), and hold the *trade-off*
-honestly: no technology is cost-free; the question is which costs, borne by whom, for
-what benefit.
+The ideas to land: **a technology's true cost is its life-cycle cost — the energy and
+materials spent in extracting raw materials, manufacturing, using, and disposing of it;
+embodied energy is the energy already invested before use; renewable inputs (sun, wind,
+water) replenish, while nonrenewable inputs (fossil fuels, mined minerals) run down
+(S-095); and the disposal stage is a real, growing burden — e-waste is the world's
+fastest-growing waste stream and carries health and environmental harms concentrated on
+poorer communities (S-397).** Teach the four stages with a worked example (S-011), and
+hold the *trade-off* honestly: no technology is cost-free; the question is which costs,
+borne by whom, for what benefit.
 
-The **technology** lens: this is the lesson's center — judging tools by their full
-life, not their sticker price. The **environment** lens: every stage draws on Earth's
+The **technology** lens: this is the lesson's center — judging tools by their full life,
+not their sticker price. The **environment** lens: every stage draws on Earth's
 materials and returns waste and heat to it. The **ethics** lens: the costs and benefits
 are distributed unevenly — a justice question, not only an efficiency one. The
 **egalitarianism** lens: asking *who* mines, *who* disposes, and *who* benefits is how

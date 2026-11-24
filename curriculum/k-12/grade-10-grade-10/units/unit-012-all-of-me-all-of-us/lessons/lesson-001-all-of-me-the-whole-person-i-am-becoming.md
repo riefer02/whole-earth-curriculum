@@ -112,24 +112,23 @@ all of you — and celebrate it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, warmly and without
-pressure: **a considered position is not a single label but a whole person made of
-many parts — values, story, choices, relationships, body, and dreams — and none of
-them is defined by an outside label.** Identity is a developing story, not a finished
-fact (Erikson, S-155); thinking of it as parts that can shift by context is the
-mature, accurate view (this is the spiral of D01.S2 across grades). Research on
-"possible selves" (Markus & Nurius, S-399) reminds us the self includes imagined
-futures, which is why "dreams" belongs on the map.
+The idea to land, warmly and without pressure: **a considered position is not a single
+label but a whole person made of many parts — values, story, choices, relationships,
+body, and dreams — and none of them is defined by an outside label.** Identity is a
+developing story, not a finished fact (Erikson, S-155); thinking of it as parts that can
+shift by context is the mature, accurate view (this is the spiral of D01.S2 across
+grades). Research on "possible selves" (Markus & Nurius, S-399) reminds us the self
+includes imagined futures, which is why "dreams" belongs on the map.
 
-Hold the **ethics** lens: treating a person as a whole is a way of respecting them.
-The **egalitarian** lens: labels flatten everyone, but they land hardest on people who
-are already stereotyped — naming the parts labels cannot touch is an act of dignity.
-The **global** lens: what counts as "the right parts" differs across cultures; let
-learners choose their own six, and honor that difference. The **technology** lens can
-appear as an optional reflection: feeds and profiles ask us to shrink into a single
-image — the whole-person map pushes back. Distinguish evidence from values: identity
-as a developing, many-parted story is descriptive; "every whole person deserves to be
-seen" is a value we hold together.
+Hold the **ethics** lens: treating a person as a whole is a way of respecting them. The
+**egalitarian** lens: labels flatten everyone, but they land hardest on people who are
+already stereotyped — naming the parts labels cannot touch is an act of dignity. The
+**global** lens: what counts as "the right parts" differs across cultures; let learners
+choose their own six, and honor that difference. The **technology** lens can appear as
+an optional reflection: feeds and profiles ask us to shrink into a single image — the
+whole-person map pushes back. Distinguish evidence from values: identity as a
+developing, many-parted story is descriptive; "every whole person deserves to be seen"
+is a value we hold together.
 
 Model once (worked example, S-011), then let learners build their own. Keep the tone
 celebratory. This is the first artifact of the closing portfolio.

@@ -122,20 +122,21 @@ a scientist checking a result.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Grade 3 learned that messages have purposes and
-audiences; Grade 4 learns the core fact-checking habit: **check a claim against a second source
-and compare**. Teach this as an explicit skill with a worked example first, then guided practice
-(Kirschner, Sweller & Clark, 2006): model "read the claim → read Source 1 → read Source 2 → do
-they agree? → conclude" once, then do a second claim together. Keep the stance calm and
-empowering, not fearful: checking is not distrust of people; it is care for the truth, and two
-sources that agree make us *more* confident, not less trusting. Use claims from many places and
-lives — about animals, weather, plants, food — so no single culture's knowledge is the default,
-and honor that oral knowledge (a grandparent's account) is a real source that can be checked
-against a book just as a book can be checked against another book. Be honest about uncertainty:
-if two sources disagree, the conclusion may be "I am not sure yet — I need a third source," and
-that is a fine, honest answer. Honor every body: read sources aloud for a learner who is blind
-or has low vision; a non-speaking learner points to "agree" or "disagree" and to the conclusion;
-acting out "one voice vs. two voices" works for learners who learn best by moving.
+Grade 3 learned that messages have purposes and audiences; Grade 4 learns the core
+fact-checking habit: **check a claim against a second source and compare**. Teach this
+as an explicit skill with a worked example first, then guided practice (Kirschner,
+Sweller & Clark, 2006): model "read the claim → read Source 1 → read Source 2 → do they
+agree? → conclude" once, then do a second claim together. Keep the stance calm and
+empowering, not fearful: checking is not distrust of people; it is care for the truth,
+and two sources that agree make us *more* confident, not less trusting. Use claims from
+many places and lives — about animals, weather, plants, food — so no single culture's
+knowledge is the default, and honor that oral knowledge (a grandparent's account) is a
+real source that can be checked against a book just as a book can be checked against
+another book. Be honest about uncertainty: if two sources disagree, the conclusion may
+be "I am not sure yet — I need a third source," and that is a fine, honest answer. Honor
+every body: read sources aloud for a learner who is blind or has low vision; a
+non-speaking learner points to "agree" or "disagree" and to the conclusion; acting out
+"one voice vs. two voices" works for learners who learn best by moving.
 
 ## Procedure
 

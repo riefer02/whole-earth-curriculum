@@ -114,24 +114,26 @@ so that next time you can see the second: how you make the world back.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It opens the fourth goal (D01.S2.09.02), analyzing
-how society shapes identity. The core ideas: **(1) socialization** — identity is formed inside
-society, through family, school, peers, media, language, rules, and history; **(2) given versus
-chosen** — some parts of identity are handed to a person at birth (language, family, place, group
-memberships, expectations), and some are chosen or still being chosen; **(3) identity as a two-way
-making** — society shapes the self, and the self shapes society back, partly by deciding what to
-keep, question, or change. For the developmental frame, Erikson's account of identity as a lifelong
-process (S-155) and Marcia's identity statuses — that exploration ("moratorium") is a normal and
-healthy part of forming identity before commitment (S-403) — support teaching that **uncertainty and
-open exploration are not failure; they are the work itself**. The **global** lens is central:
-identity is shaped differently in every society, and no single society's way is the default or the
-best — invite learners to compare, never rank. The **egalitarian** lens: some people are given
-identities that are *not equally valued* by their society — identities that are stereotyped,
-excluded, or denied — and that inequality is something society built, not something the person
-deserves (see stereotype threat, S-284). The **ethics** lens: noticing what you were given is the
-first step toward deciding, with care for yourself and others, what to do with it. **Safety:** do not
-require learners to disclose painful parts of their given identities; invented examples and optional
-sharing are the norm. Emphasize agency and hope: what is given is real, but it is not a cage.
+It opens the fourth goal (D01.S2.09.02), analyzing how society shapes identity. The core
+ideas: **(1) socialization** — identity is formed inside society, through family,
+school, peers, media, language, rules, and history; **(2) given versus chosen** — some
+parts of identity are handed to a person at birth (language, family, place, group
+memberships, expectations), and some are chosen or still being chosen; **(3) identity as
+a two-way making** — society shapes the self, and the self shapes society back, partly
+by deciding what to keep, question, or change. For the developmental frame, Erikson's
+account of identity as a lifelong process (S-155) and Marcia's identity statuses — that
+exploration ("moratorium") is a normal and healthy part of forming identity before
+commitment (S-403) — support teaching that **uncertainty and open exploration are not
+failure; they are the work itself**. The **global** lens is central: identity is shaped
+differently in every society, and no single society's way is the default or the best —
+invite learners to compare, never rank. The **egalitarian** lens: some people are given
+identities that are *not equally valued* by their society — identities that are
+stereotyped, excluded, or denied — and that inequality is something society built, not
+something the person deserves (see stereotype threat, S-284). The **ethics** lens:
+noticing what you were given is the first step toward deciding, with care for yourself
+and others, what to do with it. **Safety:** do not require learners to disclose painful
+parts of their given identities; invented examples and optional sharing are the norm.
+Emphasize agency and hope: what is given is real, but it is not a cage.
 
 ## Procedure
 

@@ -121,13 +121,12 @@ you able to act.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **care at a distance
-needs a route to action, or it turns into distress or numbness.** The
-concern-versus-distress distinction is well evidenced — other-oriented empathic
-concern motivates helping, while self-oriented distress motivates escape (Batson,
-S-230); empathy is a real, well-studied route to prosocial behavior, and it is *not*
-automatic (Decety & Cowell, S-231). Hold this as description, not as a demand that
-learners feel a prescribed way about distant suffering.
+The idea to land: **care at a distance needs a route to action, or it turns into
+distress or numbness.** The concern-versus-distress distinction is well evidenced —
+other-oriented empathic concern motivates helping, while self-oriented distress
+motivates escape (Batson, S-230); empathy is a real, well-studied route to prosocial
+behavior, and it is *not* automatic (Decety & Cowell, S-231). Hold this as description,
+not as a demand that learners feel a prescribed way about distant suffering.
 
 The **ethics** lens: whether and how to respond to distant suffering is a question of
 what we owe strangers. The **egalitarianism** lens: whose suffering gets noticed and
@@ -139,8 +138,8 @@ crisis before your feeling commits you to a response.
 
 **Safeguarding:** describe situations factually and gently; no graphic or gratuitous
 detail; always connect to agency (something the learner can do). If a learner has a
-lived connection to a crisis, let them speak only if they choose, and hold it as
-honored experience, not a case study.
+lived connection to a crisis, let them speak only if they choose, and hold it as honored
+experience, not a case study.
 
 ## Procedure
 

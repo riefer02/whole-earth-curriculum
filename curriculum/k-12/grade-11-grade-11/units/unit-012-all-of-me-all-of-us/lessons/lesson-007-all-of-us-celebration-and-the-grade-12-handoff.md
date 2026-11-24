@@ -132,26 +132,27 @@ toward Grade 12 — where purpose becomes an integrated way of being and acting 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the year's work gathers
-into one whole — a purpose, a project, a belonging plan, and a mutual-aid effort — and that
-whole is worth celebrating and worth handing forward into Grade 12.** This is the summative
-close, but the tone is celebration, not grading. Assessment here is a portfolio and a shared
-performance, in the spirit of the philosophy (assessment serves the learner; success is
-collective — philosophy §§8–9).
+The idea to land: **the year's work gathers into one whole — a purpose, a project, a
+belonging plan, and a mutual-aid effort — and that whole is worth celebrating and worth
+handing forward into Grade 12.** This is the summative close, but the tone is
+celebration, not grading. Assessment here is a portfolio and a shared performance, in
+the spirit of the philosophy (assessment serves the learner; success is collective —
+philosophy §§8–9).
 
 Hold the lenses visibly. **Ethics:** naming a handoff intention — a promise to carry
-something forward — is an ethical act, and it is kept small and doable. **Egalitarianism:**
-the celebration honors every learner's artifacts as equally worthy; no one's purpose
-outranks another's. **Global/anthropological:** gathering at a year's end to thank and look
-ahead is a human pattern across cultures — let learners bring their own traditions of
-marking endings and beginnings. **Environment:** the living Earth is in the circle itself —
-the tree, the growing thing, the weather that carried the year — and stewardship is one of
-the intentions learners may name. Distinguish evidence from values: "recalling and
-celebrating work strengthens memory and meaning" is descriptive (Dunlosky et al., S-039);
-"every person's purpose is worth honoring" is a value we hold.
+something forward — is an ethical act, and it is kept small and doable.
+**Egalitarianism:** the celebration honors every learner's artifacts as equally worthy;
+no one's purpose outranks another's. **Global/anthropological:** gathering at a year's
+end to thank and look ahead is a human pattern across cultures — let learners bring
+their own traditions of marking endings and beginnings. **Environment:** the living
+Earth is in the circle itself — the tree, the growing thing, the weather that carried
+the year — and stewardship is one of the intentions learners may name. Distinguish
+evidence from values: "recalling and celebrating work strengthens memory and meaning" is
+descriptive (Dunlosky et al., S-039); "every person's purpose is worth honoring" is a
+value we hold.
 
-Keep it spacious and warm. Let quiet learners share in writing or not at all; presence is
-enough.
+Keep it spacious and warm. Let quiet learners share in writing or not at all; presence
+is enough.
 
 ## Procedure
 

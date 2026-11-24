@@ -114,20 +114,18 @@ it means to grow your feelings: more names, more knowing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. It is a **spiral-back**: it revisits the opening unit's
-feelings rather than introducing them fresh. The deepest commitment here is that **a
-feeling is never wrong** — only a guess about someone else's feeling can miss. Honor
-every feeling a learner names, even one outside the list, and wonder together about
-it. Feeling words live differently in every language and culture: invite a learner to
-share a feeling word from their home language, even one English has no single word
-for — every language carries feelings in its own way. For a learner who is blind or
-has low vision, name the body-sense of each feeling
-aloud (proud = warm and tall; lonely = heavy and quiet; excited = buzzy and bright)
-so the feeling can be *felt* rather than seen. A learner who does not use a speaking
-voice shows the feeling with their face or body and a partner names it. A learner who
-is Deaf or hard of hearing shows and reads feelings through the face, body, and sign —
-no spoken voice is needed to name or read a feeling.
+It is a **spiral-back**: it revisits the opening unit's feelings rather than introducing
+them fresh. The deepest commitment here is that **a feeling is never wrong** — only a
+guess about someone else's feeling can miss. Honor every feeling a learner names, even
+one outside the list, and wonder together about it. Feeling words live differently in
+every language and culture: invite a learner to share a feeling word from their home
+language, even one English has no single word for — every language carries feelings in
+its own way. For a learner who is blind or has low vision, name the body-sense of each
+feeling aloud (proud = warm and tall; lonely = heavy and quiet; excited = buzzy and
+bright) so the feeling can be *felt* rather than seen. A learner who does not use a
+speaking voice shows the feeling with their face or body and a partner names it. A
+learner who is Deaf or hard of hearing shows and reads feelings through the face, body,
+and sign — no spoken voice is needed to name or read a feeling.
 
 ## Procedure
 

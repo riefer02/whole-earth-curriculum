@@ -113,29 +113,29 @@ wind. Today you learn to tell them apart — and to notice which one you lean on
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **self-esteem has two
-sources — inner worth and outside approval — and inner worth is the steadier one.** The
-distinction draws on research on *contingent self-esteem* — self-worth that depends on
-meeting external standards is more fragile than worth that is less contingent (Crocker &
-Wolfe 2001, S-335). Teach the sort as a worked example (Kirschner, Sweller & Clark 2006,
-S-011) before independent work. The *ethics* lens: worth built on kindness and honesty is
-worth that also serves others — it is not self-centered to be steady. The *egalitarian*
-lens: approval is distributed unequally — some people get more likes, praise, and high
-grades for reasons that have nothing to do with their worth — so building worth on approval
-is building on an unfair floor. The *global* lens: what earns approval differs wildly by
-place — one culture prizes marks, another courage, another service — so borrowed worth
-depends on *where you happen to stand*. Many traditions also ground a person's worth in
-*relationship* — kinship, belonging, and duty, as in the southern African idea of *ubuntu*
-("a person is a person through other persons") or the Confucian self rooted in family and
-community — and this relational worth is not the same thing as the fickle like count. Hold
-both ways of grounding worth side by side and let learners weigh them (see
-`docs/philosophy.md` §11). The *technology* lens: feeds and like counts are a
-designed, always-on approval machine; naming them as a weather vane helps learners see the
-machine for what it is. The *critical-thinking* lens: neither source is entirely right or
-wrong — approval is real information — the skill is *weighing* which source you let decide
-your worth. Distinguish evidence from values: that contingent self-esteem is more fragile is
-a research finding (S-335); that every learner has equal worth regardless of any approval is
-a value this curriculum holds — name it as one.
+The idea to land: **self-esteem has two sources — inner worth and outside approval — and
+inner worth is the steadier one.** The distinction draws on research on *contingent
+self-esteem* — self-worth that depends on meeting external standards is more fragile
+than worth that is less contingent (Crocker & Wolfe 2001, S-335). Teach the sort as a
+worked example (Kirschner, Sweller & Clark 2006, S-011) before independent work. The
+*ethics* lens: worth built on kindness and honesty is worth that also serves others — it
+is not self-centered to be steady. The *egalitarian* lens: approval is distributed
+unequally — some people get more likes, praise, and high grades for reasons that have
+nothing to do with their worth — so building worth on approval is building on an unfair
+floor. The *global* lens: what earns approval differs wildly by place — one culture
+prizes marks, another courage, another service — so borrowed worth depends on *where you
+happen to stand*. Many traditions also ground a person's worth in *relationship* —
+kinship, belonging, and duty, as in the southern African idea of *ubuntu* ("a person is
+a person through other persons") or the Confucian self rooted in family and community —
+and this relational worth is not the same thing as the fickle like count. Hold both ways
+of grounding worth side by side and let learners weigh them (see `docs/philosophy.md`
+§11). The *technology* lens: feeds and like counts are a designed, always-on approval
+machine; naming them as a weather vane helps learners see the machine for what it is.
+The *critical-thinking* lens: neither source is entirely right or wrong — approval is
+real information — the skill is *weighing* which source you let decide your worth.
+Distinguish evidence from values: that contingent self-esteem is more fragile is a
+research finding (S-335); that every learner has equal worth regardless of any approval
+is a value this curriculum holds — name it as one.
 
 ## Procedure
 

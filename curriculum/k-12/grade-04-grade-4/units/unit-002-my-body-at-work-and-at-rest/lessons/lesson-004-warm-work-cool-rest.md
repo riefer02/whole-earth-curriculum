@@ -114,14 +114,13 @@ rest.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Model the worked example — feel cheeks at
-rest, move, feel again — then let learners try. Feeling warmth with hands is enough; a
-thermometer is an optional enrichment, not a requirement. Keep the movement inclusive:
-seated arm-circles warm the body too. Be warm and matter-of-fact about sweat — it is a
-healthy cooling system, never something to be embarrassed about, and no body is judged
-for how much it sweats. Some bodies run warmer or cooler than others; all are normal.
-This lesson retrieves the heartbeat and breathing signals from Lessons 1–3 and adds the
-third: warmth.
+Model the worked example — feel cheeks at rest, move, feel again — then let learners
+try. Feeling warmth with hands is enough; a thermometer is an optional enrichment, not a
+requirement. Keep the movement inclusive: seated arm-circles warm the body too. Be warm
+and matter-of-fact about sweat — it is a healthy cooling system, never something to be
+embarrassed about, and no body is judged for how much it sweats. Some bodies run warmer
+or cooler than others; all are normal. This lesson retrieves the heartbeat and breathing
+signals from Lessons 1–3 and adds the third: warmth.
 
 ## Procedure
 

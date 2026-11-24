@@ -108,11 +108,10 @@ the same. Reading the difference is how we see people, not statistics.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **modern migration
-is driven by three forces — conflict, economy, and climate — and the difference
-between moving by choice and being forced to flee changes everything about the human
-weight of the story.** Model the three drivers with worked examples before
-independent analysis (S-011).
+The idea to land: **modern migration is driven by three forces — conflict, economy, and
+climate — and the difference between moving by choice and being forced to flee changes
+everything about the human weight of the story.** Model the three drivers with worked
+examples before independent analysis (S-011).
 
 **Emotional safety:** this lesson touches real hardship (war, displacement, climate
 loss) but without graphic detail. Give a brief warning, allow stepping out, name a
@@ -121,15 +120,15 @@ dignified — a family, a place, a choice or a forced flight — never only coun
 
 The **global** lens is the spine: displacement is worldwide — UNHCR documents tens of
 millions of forcibly displaced people (refugees, asylum-seekers, and internally
-displaced people), driven primarily by conflict and persecution, with climate a
-growing driver (S-493, S-383, S-005); IOM documents that migration is longstanding
-human behavior with economic, family, safety, and environmental drivers (S-086). The
+displaced people), driven primarily by conflict and persecution, with climate a growing
+driver (S-493, S-383, S-005); IOM documents that migration is longstanding human
+behavior with economic, family, safety, and environmental drivers (S-086). The
 **egalitarian** and **ethics** lenses: who can move safely and legally, and who is
-turned away or trapped, is a question of power and justice — hold it as a question.
-The **technology** lens: climate-driven displacement is partly a consequence of
-technologies and energy systems that warmed the planet, which places the question of
-responsibility across borders. Preview: Lesson 10 begins the unit's most careful
-section — studying atrocity and remembrance.
+turned away or trapped, is a question of power and justice — hold it as a question. The
+**technology** lens: climate-driven displacement is partly a consequence of technologies
+and energy systems that warmed the planet, which places the question of responsibility
+across borders. Preview: Lesson 10 begins the unit's most careful section — studying
+atrocity and remembrance.
 
 ## Procedure
 

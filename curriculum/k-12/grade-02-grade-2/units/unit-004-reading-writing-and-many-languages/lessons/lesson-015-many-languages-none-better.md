@@ -124,17 +124,15 @@ we say the truest thing about people: we are many, and we belong together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. The capstone celebrates, reviews, and cements the unit's
-deepest value: multilingualism is wealth, and no language — spoken or signed — is
-better than another. UNESCO holds that valuing every child's language strengthens
-learning and dignity; this festival is that value made visible. Keep it a
-celebration, never a contest: no ranking, no "best" greeting, no high-stakes
-anything. Every voice, accent, and way of speaking is honored equally. Review is
-light and joyful — a glance back at the portfolio, a few of the five questions, one
-story read aloud — not a test. A learner who is Deaf or hard of hearing shares in
-sign, and a sign language greeting stands on the wall exactly as high as any spoken
-one.
+The capstone celebrates, reviews, and cements the unit's deepest value: multilingualism
+is wealth, and no language — spoken or signed — is better than another. UNESCO holds
+that valuing every child's language strengthens learning and dignity; this festival is
+that value made visible. Keep it a celebration, never a contest: no ranking, no "best"
+greeting, no high-stakes anything. Every voice, accent, and way of speaking is honored
+equally. Review is light and joyful — a glance back at the portfolio, a few of the five
+questions, one story read aloud — not a test. A learner who is Deaf or hard of hearing
+shares in sign, and a sign language greeting stands on the wall exactly as high as any
+spoken one.
 
 ## Procedure
 

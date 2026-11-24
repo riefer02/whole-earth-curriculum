@@ -98,13 +98,12 @@ what is inside is what you meant to give.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Model reading back a word while pointing to each mark, then
-guide practice. Celebrate the connection between writing and reading — a learner
-reading their own marks is a milestone. Do not grade handwriting or spelling here;
-the goal is that the writer can read their own writing and confirm its meaning. A learner may have composed their word
-by dictating to a scribe, typing, or choosing marks — reading back that word is
-still reading their own writing, and it counts equally.
+Model reading back a word while pointing to each mark, then guide practice. Celebrate
+the connection between writing and reading — a learner reading their own marks is a
+milestone. Do not grade handwriting or spelling here; the goal is that the writer can
+read their own writing and confirm its meaning. A learner may have composed their word
+by dictating to a scribe, typing, or choosing marks — reading back that word is still
+reading their own writing, and it counts equally.
 
 ## Procedure
 

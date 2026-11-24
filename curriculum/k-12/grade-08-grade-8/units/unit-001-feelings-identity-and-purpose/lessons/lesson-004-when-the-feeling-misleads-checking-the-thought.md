@@ -113,23 +113,23 @@ Today you learn to check the story before you believe it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **emotion can distort
-judgment, and the remedy is to check the thought behind the feeling.** Emotion shapes
-judgment in both directions — it informs and it biases (Lerner et al. 2015, S-333); fast,
-emotionally charged first reactions can be vivid and wrong, which is why a slower check
-matters (Kahneman's System 1/System 2 distinction, S-337). Teach the check as a worked
-example (Kirschner, Sweller & Clark 2006, S-011) before independent practice. The *ethics*
-lens: an unchecked thought can hurt other people — I accuse a friend of something she never
-did. The *egalitarian* lens: no learner's thought error is a character flaw; distortion is a
-normal human habit, and everyone gets to practice catching it. The *global* lens: what a
-silence or a glance "means" differs by culture, so the check question — *is this thought true
-and fair here?* — protects us from misreading people across difference. The *technology*
+The idea to land: **emotion can distort judgment, and the remedy is to check the thought
+behind the feeling.** Emotion shapes judgment in both directions — it informs and it
+biases (Lerner et al. 2015, S-333); fast, emotionally charged first reactions can be
+vivid and wrong, which is why a slower check matters (Kahneman's System 1/System 2
+distinction, S-337). Teach the check as a worked example (Kirschner, Sweller & Clark
+2006, S-011) before independent practice. The *ethics* lens: an unchecked thought can
+hurt other people — I accuse a friend of something she never did. The *egalitarian*
+lens: no learner's thought error is a character flaw; distortion is a normal human
+habit, and everyone gets to practice catching it. The *global* lens: what a silence or a
+glance "means" differs by culture, so the check question — *is this thought true and
+fair here?* — protects us from misreading people across difference. The *technology*
 lens: feeds, likes, and edited images are built to trigger exactly these distortions —
-comparison and catastrophizing — so the check is a shield against a designed pressure, not
-only against our own minds. The *critical-thinking* lens: checking a thought is questioning
-one's own first take — the same habit we apply to any claim. Keep examples small and safe;
-never require disclosure of painful material, and hold that a learner is never judged for a
-thought.
+comparison and catastrophizing — so the check is a shield against a designed pressure,
+not only against our own minds. The *critical-thinking* lens: checking a thought is
+questioning one's own first take — the same habit we apply to any claim. Keep examples
+small and safe; never require disclosure of painful material, and hold that a learner is
+never judged for a thought.
 
 ## Procedure
 

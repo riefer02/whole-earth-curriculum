@@ -115,15 +115,15 @@ not depend on who you are or where you live.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **universality**:
-rights apply to every child because the needs they protect are shared by every child.
-Two careful distinctions keep the lesson honest. First, **evidence vs. values**
-(`docs/philosophy.md` §5): *that* the UNCRC says rights apply to every child is a fact;
-*that they should* is a value held by the countries that signed — teach it as a shared
-promise, not a law of nature. Second, and crucially for emotional safety: **"applies to
-all" is not the same as "is honored everywhere."** A right can be real and still be
-broken somewhere; that is exactly why people keep working. Name this gently and attach
-it to hope and agency, never to a child's shame. See `docs/facilitation.md`.
+The idea to land is **universality**: rights apply to every child because the needs they
+protect are shared by every child. Two careful distinctions keep the lesson honest.
+First, **evidence vs. values** (`docs/philosophy.md` §5): *that* the UNCRC says rights
+apply to every child is a fact; *that they should* is a value held by the countries that
+signed — teach it as a shared promise, not a law of nature. Second, and crucially for
+emotional safety: **"applies to all" is not the same as "is honored everywhere."** A
+right can be real and still be broken somewhere; that is exactly why people keep
+working. Name this gently and attach it to hope and agency, never to a child's shame.
+See `docs/facilitation.md`.
 
 ## Procedure
 

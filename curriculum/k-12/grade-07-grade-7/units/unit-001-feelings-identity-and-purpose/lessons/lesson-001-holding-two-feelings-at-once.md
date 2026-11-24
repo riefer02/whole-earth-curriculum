@@ -115,15 +115,15 @@ high-rise city or a mountain village, this is a feeling every person knows.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **two opposite
-feelings can be true at once, and "and" is the honest word for it** — not that a mixed
-feeling is a problem to solve. Normalize it without pathologizing: holding two feelings is
-a sign of growing emotional complexity, and it appears in every culture, though the words
-for it differ (English's "bittersweet," the idea of "mono no aware" — a gentle sadness at
-the passing of things — in Japanese tradition, and many others). Keep cultures side by side,
-never ranked. Model one both/and sentence as a worked example before learners try their own
-(Kirschner, Sweller & Clark, 2006). Invite only small, safe moments; never push a learner to
-reveal a deep grief. See `docs/facilitation.md` and `docs/art-style.md`.
+The idea to land is that **two opposite feelings can be true at once, and "and" is the
+honest word for it** — not that a mixed feeling is a problem to solve. Normalize it
+without pathologizing: holding two feelings is a sign of growing emotional complexity,
+and it appears in every culture, though the words for it differ (English's
+"bittersweet," the idea of "mono no aware" — a gentle sadness at the passing of things —
+in Japanese tradition, and many others). Keep cultures side by side, never ranked. Model
+one both/and sentence as a worked example before learners try their own (Kirschner,
+Sweller & Clark, 2006). Invite only small, safe moments; never push a learner to reveal
+a deep grief. See `docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure
 

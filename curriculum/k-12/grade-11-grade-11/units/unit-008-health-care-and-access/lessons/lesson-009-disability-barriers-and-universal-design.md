@@ -116,19 +116,19 @@ doors, the assumptions" — is the single biggest idea in understanding disabili
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **disability is
-produced by the fit between a person and their environment — the social model — rather
-than by the body alone (the medical model); changing steps, doors, and attitudes
-changes what is disabling.** Two anchored supports: **assistive technology — glasses,
-wheelchairs, hearing aids, prosthetics, white canes — is common, ordinary, and used
-worldwide (S-099)**, and **the seven principles of universal design (equitable use,
-flexibility, simple and intuitive, perceptible information, tolerance for error, low
-physical effort, size and space) turn "access" into "everyone" (S-369).** The rights
-floor: **people with disabilities have a recognized right to take part in recreation,
-leisure, and sport (CRPD, Article 30 — S-100), and inclusion means removing barriers
-and treating difference as ordinary (S-235, S-092).** Hold "the social model" as a
-widely used *framework*, not a verdict that the body never matters — real bodies and
-real needs remain, and both models describe different pieces.
+The ideas to land: **disability is produced by the fit between a person and their
+environment — the social model — rather than by the body alone (the medical model);
+changing steps, doors, and attitudes changes what is disabling.** Two anchored supports:
+**assistive technology — glasses, wheelchairs, hearing aids, prosthetics, white canes —
+is common, ordinary, and used worldwide (S-099)**, and **the seven principles of
+universal design (equitable use, flexibility, simple and intuitive, perceptible
+information, tolerance for error, low physical effort, size and space) turn "access"
+into "everyone" (S-369).** The rights floor: **people with disabilities have a
+recognized right to take part in recreation, leisure, and sport (CRPD, Article 30 —
+S-100), and inclusion means removing barriers and treating difference as ordinary
+(S-235, S-092).** Hold "the social model" as a widely used *framework*, not a verdict
+that the body never matters — real bodies and real needs remain, and both models
+describe different pieces.
 
 The **egalitarianism** lens: this is the lesson's center — who is included, who is left
 out, and why. The **ethics** lens: removing barriers is a question of what we owe each

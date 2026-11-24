@@ -113,17 +113,17 @@ is not just kind, it is the way we live together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It introduces **equal shares** — the
-first real meeting with fractions, taught through the ethics of fair sharing. Teach
-with **worked examples** (philosophy §13): fold a circle into two equal parts and say
-"two halves make the whole." Emphasize that shares must be **equal** for sharing to be
-fair, and connect halves, thirds, and fourths to sharing among two, three, and four
-people. This is a values lesson as much as a math lesson: **fairness means each person
-gets the same, and no one is worth more than another** (egalitarianism). Avoid ranking
-"good" and "bad" folders. For learners who are Deaf or hard of hearing, show folding
-and name each share in sign; for learners who are blind or low-vision, fold real cloth
-or a flatbread and feel the equal parts. A learner who does not speak points to the
-share or holds up the number of parts. Every learner can share fairly.
+It introduces **equal shares** — the first real meeting with fractions, taught through
+the ethics of fair sharing. Teach with **worked examples** (philosophy §13): fold a
+circle into two equal parts and say "two halves make the whole." Emphasize that shares
+must be **equal** for sharing to be fair, and connect halves, thirds, and fourths to
+sharing among two, three, and four people. This is a values lesson as much as a math
+lesson: **fairness means each person gets the same, and no one is worth more than
+another** (egalitarianism). Avoid ranking "good" and "bad" folders. For learners who are
+Deaf or hard of hearing, show folding and name each share in sign; for learners who are
+blind or low-vision, fold real cloth or a flatbread and feel the equal parts. A learner
+who does not speak points to the share or holds up the number of parts. Every learner
+can share fairly.
 
 ## Procedure
 

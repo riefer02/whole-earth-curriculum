@@ -122,19 +122,19 @@ it on purpose — and to remember that not every body reads it the same way.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **the body is a
-language, and like any language its meanings are learned, not universal** — a learner should
-be able to name a gesture, a posture, and a spacing choice and the meaning each carries, and
-to note that the same cue can mean different things to different people. Model the five poses
-and the spacing strip (explicit instruction for a novice skill — Kirschner, Sweller & Clark,
-2006). Hold two careful distinctions: (1) **sign languages are complete languages** with
-their own grammar, not "just gestures," and are the first language of millions of people —
-never reduce them to pantomime; (2) **gesture meanings differ across cultures** — a
-thumbs-up or a head-shake is not the same everywhere, and eye contact, personal space, and
-bowing all vary — so keep the stance "we ask, we don't assume" (global/anthropological lens).
-Performance here is open to every body: meaning can be shown from a seated position, with one
-hand, or with the eyes, and no learner must stand, leap, or move in a way their body does not
-do.
+The idea to land is that **the body is a language, and like any language its meanings
+are learned, not universal** — a learner should be able to name a gesture, a posture,
+and a spacing choice and the meaning each carries, and to note that the same cue can
+mean different things to different people. Model the five poses and the spacing strip
+(explicit instruction for a novice skill — Kirschner, Sweller & Clark, 2006). Hold two
+careful distinctions: (1) **sign languages are complete languages** with their own
+grammar, not "just gestures," and are the first language of millions of people — never
+reduce them to pantomime; (2) **gesture meanings differ across cultures** — a thumbs-up
+or a head-shake is not the same everywhere, and eye contact, personal space, and bowing
+all vary — so keep the stance "we ask, we don't assume" (global/anthropological lens).
+Performance here is open to every body: meaning can be shown from a seated position,
+with one hand, or with the eyes, and no learner must stand, leap, or move in a way their
+body does not do.
 
 ## Procedure
 

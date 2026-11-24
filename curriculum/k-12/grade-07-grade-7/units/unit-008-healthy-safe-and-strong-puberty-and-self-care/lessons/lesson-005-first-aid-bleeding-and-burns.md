@@ -115,16 +115,16 @@ about being *ready*, and about being willing to ask for help.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Teach first aid **factually and safely**,
-and lead with the rule: **when unsure, get an adult or medical help.** The facts to land:
-for bleeding, apply direct pressure with a clean cloth and keep pressing, and get medical
-help if bleeding is heavy, spurting, or will not stop; for burns, cool the burn under cool
-running water (not ice) for about 20 minutes if possible, remove tight items such as rings,
-do not pop blisters, and get medical help for large or deep burns or burns to the face,
-hands, feet, or joints (IFRC Global First Aid Reference Centre; WHO burns fact sheet). Do
-not teach advanced or uncertain techniques; this age needs the safe basics plus the help-
-seeking reflex. Reassure learners that getting help is part of first aid, not a failure.
-Remind them that hands-on practice with a certified instructor (Red Cross/Red Crescent or
+Teach first aid **factually and safely**, and lead with the rule: **when unsure, get an
+adult or medical help.** The facts to land: for bleeding, apply direct pressure with a
+clean cloth and keep pressing, and get medical help if bleeding is heavy, spurting, or
+will not stop; for burns, cool the burn under cool running water (not ice) for about 20
+minutes if possible, remove tight items such as rings, do not pop blisters, and get
+medical help for large or deep burns or burns to the face, hands, feet, or joints (IFRC
+Global First Aid Reference Centre; WHO burns fact sheet). Do not teach advanced or
+uncertain techniques; this age needs the safe basics plus the help- seeking reflex.
+Reassure learners that getting help is part of first aid, not a failure. Remind them
+that hands-on practice with a certified instructor (Red Cross/Red Crescent or
 equivalent) is the best way to build confidence. See `docs/facilitation.md`.
 
 ## Procedure

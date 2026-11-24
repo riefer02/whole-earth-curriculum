@@ -115,16 +115,16 @@ your honest thinking to other people, in your own words, in your own language.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **revision is
-re-seeing** — checking the *thinking* (claim, support, evidence, counterargument), while
-editing checks the *surface* (spelling, punctuation). Model one revision on the board — take a
-real draft sentence and improve it with the checklist (a novice skill; worked example first —
-Kirschner, Sweller & Clark, 2006). Retrieval: this lesson pulls together Lessons 9 and 10 and
-revisits the listening and evidence skills of Lessons 1–6. Frame publishing cooperatively: the
-goal is a strong, honest piece shared for real readers, never a ranking (`docs/philosophy.md`
-§8). Honor every home language — publish in the learner's strongest language, and celebrate a
-published piece in any language as complete and worthy. Keep peer feedback specific and kind:
-one thing that works, one thing to try.
+The idea to land is that **revision is re-seeing** — checking the *thinking* (claim,
+support, evidence, counterargument), while editing checks the *surface* (spelling,
+punctuation). Model one revision on the board — take a real draft sentence and improve
+it with the checklist (a novice skill; worked example first — Kirschner, Sweller &
+Clark, 2006). Retrieval: this lesson pulls together Lessons 9 and 10 and revisits the
+listening and evidence skills of Lessons 1–6. Frame publishing cooperatively: the goal
+is a strong, honest piece shared for real readers, never a ranking (`docs/philosophy.md`
+§8). Honor every home language — publish in the learner's strongest language, and
+celebrate a published piece in any language as complete and worthy. Keep peer feedback
+specific and kind: one thing that works, one thing to try.
 
 ## Procedure
 

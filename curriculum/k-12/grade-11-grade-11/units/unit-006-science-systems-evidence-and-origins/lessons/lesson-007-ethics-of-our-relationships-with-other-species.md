@@ -121,23 +121,23 @@ pretending one answers the other.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **evidence claims
-(descriptive — "populations change") and value claims (normative — "animals deserve
-care") are different kinds of claim, settled by different means; the evidence for
-evolution establishes the first and is silent on the second (S-303).** Then the ethics
-analysis: a species can have **instrumental value** (what it gives us) and/or
-**intrinsic value** (worth in itself), and different ethical stances weigh these
-differently. Hold the value questions open (philosophy §11) — the lesson's job is to
-help learners *reason* about them, not to decree an answer. Meet a reciprocity ethic
-from an Indigenous tradition as a living way of relating (S-427), not as a specimen.
+The ideas to land: **evidence claims (descriptive — "populations change") and value
+claims (normative — "animals deserve care") are different kinds of claim, settled by
+different means; the evidence for evolution establishes the first and is silent on the
+second (S-303).** Then the ethics analysis: a species can have **instrumental value**
+(what it gives us) and/or **intrinsic value** (worth in itself), and different ethical
+stances weigh these differently. Hold the value questions open (philosophy §11) — the
+lesson's job is to help learners *reason* about them, not to decree an answer. Meet a
+reciprocity ethic from an Indigenous tradition as a living way of relating (S-427), not
+as a specimen.
 
 The **ethics** lens: this is the lesson's center — reasoning about what we owe others.
 The **egalitarianism** lens: the question "who counts?" is an egalitarian question —
 whether moral standing extends beyond the human. The **critical-thinking** lens:
-learners separate the two claim types before arguing, so evidence is never stretched
-to settle values. The **global** lens: many cultures hold different, serious ethics
-toward other species; all deserve a fair hearing. Preview: Lesson 8 extends this
-ethics to whole ecosystems — conservation and restoration.
+learners separate the two claim types before arguing, so evidence is never stretched to
+settle values. The **global** lens: many cultures hold different, serious ethics toward
+other species; all deserve a fair hearing. Preview: Lesson 8 extends this ethics to
+whole ecosystems — conservation and restoration.
 
 ## Procedure
 

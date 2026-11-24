@@ -116,20 +116,22 @@ crests are is the difference between steering a system and being carried over it
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a tipping point is a threshold past
-which a system shifts into a new state that is hard to reverse, because once crossed, feedback loops hold
-it in the new state (hysteresis) — the system does not simply return when the original pressure is
-removed.** The **environment** lens is the spine. The **global** lens: tipping points exist at every
-scale and place — a lake that flips, a reef that bleaches, an ice sheet that slides — and people
-experience them differently depending on where they live (S-005). The **egalitarian** lens: the people
-who cross a threshold are often not the people who caused it, and the poorest feel a flipped system
-hardest. The **ethics** lens: if a change is hard to reverse, we owe the future more care *before* the
-crest — prevention outranks repair. The **technology** lens: human technology is often what pushes a
-system toward the crest, and technology cannot easily pull it back. Anchor the science: coral bleaching
-as the loss of the algae that color and feed the coral, driven by warming (S-215); the IPCC as the
-authority on climate thresholds and feedbacks (S-005); and the hedged Yellowstone example as a reminder
-that real systems are complex and contested, not a simple story (S-310). Distinguish evidence (a
-threshold exists) from values (how much risk to accept). Preview: next lesson moves to solutions — the
+The idea to land: **a tipping point is a threshold past which a system shifts into a new
+state that is hard to reverse, because once crossed, feedback loops hold it in the new
+state (hysteresis) — the system does not simply return when the original pressure is
+removed.** The **environment** lens is the spine. The **global** lens: tipping points
+exist at every scale and place — a lake that flips, a reef that bleaches, an ice sheet
+that slides — and people experience them differently depending on where they live
+(S-005). The **egalitarian** lens: the people who cross a threshold are often not the
+people who caused it, and the poorest feel a flipped system hardest. The **ethics**
+lens: if a change is hard to reverse, we owe the future more care *before* the crest —
+prevention outranks repair. The **technology** lens: human technology is often what
+pushes a system toward the crest, and technology cannot easily pull it back. Anchor the
+science: coral bleaching as the loss of the algae that color and feed the coral, driven
+by warming (S-215); the IPCC as the authority on climate thresholds and feedbacks
+(S-005); and the hedged Yellowstone example as a reminder that real systems are complex
+and contested, not a simple story (S-310). Distinguish evidence (a threshold exists)
+from values (how much risk to accept). Preview: next lesson moves to solutions — the
 circular economy.
 
 ## Procedure

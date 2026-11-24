@@ -137,6 +137,14 @@ In addition to valid frontmatter, the Markdown body must include certain heading
 The validator checks these. Content that fails frontmatter or heading checks will
 not pass CI.
 
+Two more budgets are checked by `npm run audit` (see `npm run audit -- --all`):
+
+- **`## Facilitator note` — 250 words, in labelled blocks.** See
+  [`facilitation.md`](facilitation.md) § "Writing a facilitator note".
+- **Graphics — text inside the viewBox, no hand-shrunk type, no free-floating
+  callout dots.** See [`art-style.md`](art-style.md) § "Diagrams: label what you
+  point at".
+
 ## Voice: learner-first
 
 The `## Procedure` is written **to the learner** ("you"), so a lesson works in a

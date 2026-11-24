@@ -113,13 +113,13 @@ reaches goals the same way: first step first.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The goal must be the *learner's own*, not
-assigned, and there is no ranking of goals — a goal to be kinder is as real as a goal to
-read faster. The one skill to coach is the **first step**: it should be small and doable
-today or tomorrow ("I will ask for one knot lesson" not "I will learn every knot").
-Model your own goal and first step first (worked example), then let learners write
-theirs, then use a quick peer/self check to make the first step smaller if needed. Keep
-it light — this is the beginning of agency, not a contract.
+The goal must be the *learner's own*, not assigned, and there is no ranking of goals — a
+goal to be kinder is as real as a goal to read faster. The one skill to coach is the
+**first step**: it should be small and doable today or tomorrow ("I will ask for one
+knot lesson" not "I will learn every knot"). Model your own goal and first step first
+(worked example), then let learners write theirs, then use a quick peer/self check to
+make the first step smaller if needed. Keep it light — this is the beginning of agency,
+not a contract.
 
 ## Procedure
 

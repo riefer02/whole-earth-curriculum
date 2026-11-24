@@ -108,14 +108,13 @@ and that is completely okay — it just means they want to try alone.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Its commitments: help is **mutual aid,
-not pity** — no one is only a helper or only the helped — and **consent matters**:
-"no thank you" is always okay and must be honored calmly. Model the offer with warm,
-plain words ("Would you like help?" or "Can I help you with that?") and the calm
-reply when the answer is no. For a learner who does not use a speaking voice, an offer
-can be a point, a sign, a gesture, or a gentle touch to get attention — practice these
-as real offers, not lesser ones. Keep this about noticing and caring, never about
-being the "best" helper.
+Its commitments: help is **mutual aid, not pity** — no one is only a helper or only the
+helped — and **consent matters**: "no thank you" is always okay and must be honored
+calmly. Model the offer with warm, plain words ("Would you like help?" or "Can I help
+you with that?") and the calm reply when the answer is no. For a learner who does not
+use a speaking voice, an offer can be a point, a sign, a gesture, or a gentle touch to
+get attention — practice these as real offers, not lesser ones. Keep this about noticing
+and caring, never about being the "best" helper.
 
 ## Procedure
 

@@ -122,20 +122,19 @@ table of judgment, where it can testify, without letting it grab the gavel.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **feeling is an
-input to ethical judgment, not its replacement** — it can carry moral information
-(empathic concern) while also needing a check against reasons and evidence (Decety &
-Cowell, S-231, on the relation between empathy and morality; Lerner et al., S-333, on
-emotion as both informing and biasing). Hold the two together rather than collapsing
-into "feelings are facts" or "feelings are irrelevant."
+The idea to land: **feeling is an input to ethical judgment, not its replacement** — it
+can carry moral information (empathic concern) while also needing a check against
+reasons and evidence (Decety & Cowell, S-231, on the relation between empathy and
+morality; Lerner et al., S-333, on emotion as both informing and biasing). Hold the two
+together rather than collapsing into "feelings are facts" or "feelings are irrelevant."
 
-The **ethics** lens: this *is* the ethics question — how a right judgment is built.
-The **egalitarianism** lens: ask who gets to be heard in the dilemma and whose feeling
-tends to be discounted — the quieter person, the less powerful person. The **global**
-lens: moral traditions worldwide weight feeling differently (some center care and
-relationship, some center duty, some center consequences), and none is the default.
-The **critical-thinking** lens: the triangle is a *check* on judgment, not a calculator
-— it forces you to name your inputs before you announce a verdict.
+The **ethics** lens: this *is* the ethics question — how a right judgment is built. The
+**egalitarianism** lens: ask who gets to be heard in the dilemma and whose feeling tends
+to be discounted — the quieter person, the less powerful person. The **global** lens:
+moral traditions worldwide weight feeling differently (some center care and
+relationship, some center duty, some center consequences), and none is the default. The
+**critical-thinking** lens: the triangle is a *check* on judgment, not a calculator — it
+forces you to name your inputs before you announce a verdict.
 
 **Safeguarding:** use the provided dilemmas or equivalents that stay one step removed
 from learners' private pain. Do not require any learner to disclose their own trauma or

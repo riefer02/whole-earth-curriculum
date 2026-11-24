@@ -103,21 +103,20 @@ it, and find your own way in the world.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Position words are spatial reasoning
-made speakable, and young children learn them best by *doing* — putting a body or an
-object in the position and saying the word at the same time. Teach each word with a
-clear, repeated action (hand **over** head, hand **under** the table, hand **beside** a
-friend) so the word and the place stick together. Model with your own body first, then
-invite learners to do it. Notice that position words are relative — "beside me" is
-different from "beside you" — and let learners discover this by standing in different
-places. This relativity is the same in every language and culture, so the concept is
-global even when the words differ. Learners who are blind or low-vision can feel the
-positions (a hand on a hand that is over, under, beside); learners who are deaf or hard
-of hearing can act out and sign each position. Learners with limited movement describe
-positions by voice or sign — telling a partner where to place an object, or choosing a
-position with eye-gaze or a mouth stick — instead of moving it themselves. Keep it
-playful and never quiz-like; naming where things are is a skill that grows with lots of
-joyful practice.
+Position words are spatial reasoning made speakable, and young children learn them best
+by *doing* — putting a body or an object in the position and saying the word at the same
+time. Teach each word with a clear, repeated action (hand **over** head, hand **under**
+the table, hand **beside** a friend) so the word and the place stick together. Model
+with your own body first, then invite learners to do it. Notice that position words are
+relative — "beside me" is different from "beside you" — and let learners discover this
+by standing in different places. This relativity is the same in every language and
+culture, so the concept is global even when the words differ. Learners who are blind or
+low-vision can feel the positions (a hand on a hand that is over, under, beside);
+learners who are deaf or hard of hearing can act out and sign each position. Learners
+with limited movement describe positions by voice or sign — telling a partner where to
+place an object, or choosing a position with eye-gaze or a mouth stick — instead of
+moving it themselves. Keep it playful and never quiz-like; naming where things are is a
+skill that grows with lots of joyful practice.
 
 ## Procedure
 

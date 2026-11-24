@@ -109,18 +109,17 @@ sharing a harvest. Today you will try it yourself and say which way is fair.
 
 ## Facilitator note
 
-Written to the learner ("you"). Hold two ideas open, not as a rule: **equality** —
-fair is the same amount for everyone — and **equity** — fair is what each person
-needs (a smaller child may need help reaching, a hungrier person may need more food).
-Both are real ideas about fairness; the lesson wonders about them without deciding
-for the learner. There is no single "correct" share. Keep examples gentle: no one is
-punished or shamed for an unfair share; unfairness is simply named and then made
-fair. Name the *act* ("that share left someone out"), never the child. Learners from
-more communal traditions may share without counting ("we just share"); honor that as
-a fair way too, not a lesser one. A learner who does not speak aloud names a fair or
-unfair share by pointing or signing; a learner who is blind or low-vision feels and
-counts the objects by touch; a learner with a motor difference can direct a partner
-to move the objects. A learner may always pass.
+Hold two ideas open, not as a rule: **equality** — fair is the same amount for
+everyone — and **equity** — fair is what each person needs (a smaller child may need
+help reaching, a hungrier person may need more food). Both are real ideas about
+fairness; the lesson wonders about them without deciding for the learner. There is no
+single "correct" share. Keep examples gentle: no one is punished or shamed for an unfair
+share; unfairness is simply named and then made fair. Name the *act* ("that share left
+someone out"), never the child. Learners from more communal traditions may share without
+counting ("we just share"); honor that as a fair way too, not a lesser one. A learner
+who does not speak aloud names a fair or unfair share by pointing or signing; a learner
+who is blind or low-vision feels and counts the objects by touch; a learner with a motor
+difference can direct a partner to move the objects. A learner may always pass.
 
 ## Procedure
 

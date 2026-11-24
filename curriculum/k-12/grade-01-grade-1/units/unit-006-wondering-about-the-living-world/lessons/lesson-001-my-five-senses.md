@@ -106,15 +106,14 @@ they are the very first tools of a scientist, wherever you live.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Safety first: never put anything in a mouth unless you have
-checked it is clean and safe, and be alert to allergies and cultural food rules — the
-"taste" step is optional and can be skipped entirely. Honor every body: a learner who
-is blind or has low vision observes by hearing, smell, and touch; a learner who does
-not use a speaking voice reports by pointing, touching, or acting; a learner with a
-motor difference may need a partner to bring objects close. Remind learners gently
-that senses differ from person to person — some people see differently, hear
-differently, or feel differently — and every way of sensing is a valid way of knowing.
+Safety first: never put anything in a mouth unless you have checked it is clean and
+safe, and be alert to allergies and cultural food rules — the "taste" step is optional
+and can be skipped entirely. Honor every body: a learner who is blind or has low vision
+observes by hearing, smell, and touch; a learner who does not use a speaking voice
+reports by pointing, touching, or acting; a learner with a motor difference may need a
+partner to bring objects close. Remind learners gently that senses differ from person to
+person — some people see differently, hear differently, or feel differently — and every
+way of sensing is a valid way of knowing.
 
 ## Procedure
 

@@ -113,23 +113,25 @@ the adaptations written on their living things.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a biome is a large region with a
-characteristic climate and community of life, and the living things there are adapted — their bodies and
-behaviors fit their conditions** (S-396, S-106). The worked comparison is **desert vs. rainforest**:
-*desert* — hot, dry, water scarce; plants store water (thick stems), have shallow wide roots or deep
-taproots, small or spiny leaves to limit water loss; animals are often nocturnal, conserve water, and
-shed heat. *Rainforest* — hot, wet, light scarce at the ground; plants grow tall toward light, with
-broad leaves and "drip tips" to shed rain; animals live in layers (canopy, understory, floor) and many
-are adapted to climb or glide. The **environment** lens is this lesson's core: adaptation is the living
-world's answer to its conditions. The **global** lens: biomes repeat across continents — deserts on
-every landmass, rainforests near the equator — so the same problems draw the same kinds of answers
-everywhere (S-396). The **egalitarian** lens: human life is adapted too — people living in deserts,
-tundra, and rainforests have built knowledge and practices fitted to those places, and no place's people
-are "behind" any other. The **ethics** lens: when we change a biome — clearing a forest or damming a
-river — we change the conditions the life there was fitted to, and must ask what that costs. The
-**technology** lens: maps, satellites, and climate data let us see and compare biomes across the whole
-Earth. Keep the biology precise and cited; adaptation is evidence-based, and origins remain open as
-models with evidence (philosophy §11).
+The idea to land: **a biome is a large region with a characteristic climate and
+community of life, and the living things there are adapted — their bodies and behaviors
+fit their conditions** (S-396, S-106). The worked comparison is **desert vs.
+rainforest**: *desert* — hot, dry, water scarce; plants store water (thick stems), have
+shallow wide roots or deep taproots, small or spiny leaves to limit water loss; animals
+are often nocturnal, conserve water, and shed heat. *Rainforest* — hot, wet, light
+scarce at the ground; plants grow tall toward light, with broad leaves and "drip tips"
+to shed rain; animals live in layers (canopy, understory, floor) and many are adapted to
+climb or glide. The **environment** lens is this lesson's core: adaptation is the living
+world's answer to its conditions. The **global** lens: biomes repeat across continents —
+deserts on every landmass, rainforests near the equator — so the same problems draw the
+same kinds of answers everywhere (S-396). The **egalitarian** lens: human life is
+adapted too — people living in deserts, tundra, and rainforests have built knowledge and
+practices fitted to those places, and no place's people are "behind" any other. The
+**ethics** lens: when we change a biome — clearing a forest or damming a river — we
+change the conditions the life there was fitted to, and must ask what that costs. The
+**technology** lens: maps, satellites, and climate data let us see and compare biomes
+across the whole Earth. Keep the biology precise and cited; adaptation is
+evidence-based, and origins remain open as models with evidence (philosophy §11).
 
 ## Procedure
 

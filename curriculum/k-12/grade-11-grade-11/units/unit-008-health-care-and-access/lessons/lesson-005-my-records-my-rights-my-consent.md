@@ -115,22 +115,21 @@ now.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **a learner carries
-two things into care — their own health information (conditions, allergies, medicines,
-emergency contact) and their rights (to understand, to agree, to privacy).** The
-rights rest on two anchors: **consent is informed, freely given, and reversible
-(UNESCO's international guidance on sexuality education names exactly these three
-features of consent — S-412)**, and **privacy from arbitrary interference is a
-recognized right (UDHR, Article 12 — S-149).** Emphasize that these are *starting
-points a learner can lean on*, never a legal lecture; keep all personal information
-private and optional to share.
+The ideas to land: **a learner carries two things into care — their own health
+information (conditions, allergies, medicines, emergency contact) and their rights (to
+understand, to agree, to privacy).** The rights rest on two anchors: **consent is
+informed, freely given, and reversible (UNESCO's international guidance on sexuality
+education names exactly these three features of consent — S-412)**, and **privacy from
+arbitrary interference is a recognized right (UDHR, Article 12 — S-149).** Emphasize
+that these are *starting points a learner can lean on*, never a legal lecture; keep all
+personal information private and optional to share.
 
 The **ethics** lens: consent and confidentiality are ethics in action. The
-**critical-thinking** lens: reading a form and asking "what am I actually agreeing
-to?" The **professional** lens: learners practice the stance they will need with
-clinicians — clear, prepared, entitled to ask. Guard confidentiality in the room:
-learners may complete the card privately and share nothing. Preview: Lesson 6 turns
-these rights into words — self-advocacy in a care visit.
+**critical-thinking** lens: reading a form and asking "what am I actually agreeing to?"
+The **professional** lens: learners practice the stance they will need with clinicians —
+clear, prepared, entitled to ask. Guard confidentiality in the room: learners may
+complete the card privately and share nothing. Preview: Lesson 6 turns these rights into
+words — self-advocacy in a care visit.
 
 ## Procedure
 

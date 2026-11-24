@@ -113,12 +113,12 @@ the world interesting — and makes you, you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Keep the frame egalitarian: differences
-are facts to notice and celebrate, never a ranking — no skin tone, language, home, or
-food is "better." If a learner shares a difference that carries stigma (a disability,
-a different family shape), receive it as simply another part of who they are, with
-warmth, not pity. Use the wide word "people" so every family and community shape is
-honored. Both circles matter equally; there is no "best" circle to be in.
+Keep the frame egalitarian: differences are facts to notice and celebrate, never a
+ranking — no skin tone, language, home, or food is "better." If a learner shares a
+difference that carries stigma (a disability, a different family shape), receive it as
+simply another part of who they are, with warmth, not pity. Use the wide word "people"
+so every family and community shape is honored. Both circles matter equally; there is no
+"best" circle to be in.
 
 ## Procedure
 

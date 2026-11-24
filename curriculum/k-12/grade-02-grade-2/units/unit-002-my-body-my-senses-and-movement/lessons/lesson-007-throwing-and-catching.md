@@ -107,15 +107,14 @@ and over, is how your hands learn to be ready and sure.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the targets and line, then model a two-hand throw and a
-ready-hands catch slowly before learners try. This is skill-building, not competition:
-celebrate control and growing accuracy, never distance or speed. Honor every body: a
-learner who uses a wheelchair throws and catches seated, and that counts fully; a
-learner who needs a larger, softer ball or a scoop catches with a tool, and that counts
-too. Offer adapted versions as real choices. Supervise throws so everyone faces the
-same direction and no one is hit. Pair learners so a more confident catcher can toss
-gently to a partner still learning.
+Prepare the targets and line, then model a two-hand throw and a ready-hands catch slowly
+before learners try. This is skill-building, not competition: celebrate control and
+growing accuracy, never distance or speed. Honor every body: a learner who uses a
+wheelchair throws and catches seated, and that counts fully; a learner who needs a
+larger, softer ball or a scoop catches with a tool, and that counts too. Offer adapted
+versions as real choices. Supervise throws so everyone faces the same direction and no
+one is hit. Pair learners so a more confident catcher can toss gently to a partner still
+learning.
 
 ## Procedure
 

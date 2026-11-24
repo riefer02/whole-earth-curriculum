@@ -109,17 +109,18 @@ what each shows.**
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Its goals: **(1) consolidate the three lenses into a
-single skill — analyze one question three ways, then compare; (2) model once, then guide: work one
-question whole-group across all three columns, then let each learner choose their own question and
-work it (Kirschner, Sweller & Clark 2006, S-011); (3) hold the outcome open — the goal is a
-*reasoned* comparison, not a single "right" answer, and learners may legitimately weigh the three
-answers differently (philosophy §11).** The ethics lens: more than one framework, held together,
-is what honest moral reasoning looks like. The egalitarian lens: in every column, keep asking who
-benefits and who is left out. The global lens: the frameworks themselves travel across cultures and
-are argued about within each — present them as tools, not as one tradition's property. Distinguish
-evidence from values: what a framework *shows* is a matter of careful reasoning; what we *value*
-more is a choice we defend, not prove. This is the first portfolio artifact — keep it.
+Its goals: **(1) consolidate the three lenses into a single skill — analyze one question
+three ways, then compare; (2) model once, then guide: work one question whole-group
+across all three columns, then let each learner choose their own question and work it
+(Kirschner, Sweller & Clark 2006, S-011); (3) hold the outcome open — the goal is a
+*reasoned* comparison, not a single "right" answer, and learners may legitimately weigh
+the three answers differently (philosophy §11).** The ethics lens: more than one
+framework, held together, is what honest moral reasoning looks like. The egalitarian
+lens: in every column, keep asking who benefits and who is left out. The global lens:
+the frameworks themselves travel across cultures and are argued about within each —
+present them as tools, not as one tradition's property. Distinguish evidence from
+values: what a framework *shows* is a matter of careful reasoning; what we *value* more
+is a choice we defend, not prove. This is the first portfolio artifact — keep it.
 
 ## Procedure
 

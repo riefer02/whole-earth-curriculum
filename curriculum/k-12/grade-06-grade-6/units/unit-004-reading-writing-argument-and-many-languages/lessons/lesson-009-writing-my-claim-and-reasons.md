@@ -114,15 +114,15 @@ same move you made when you disagreed respectfully, now written down, in any lan
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **an argument is a
-claim plus reasons** — and a reason is only a reason if it *supports* the claim, not just
-restates it or wanders. Use the worked example fully and slowly; this is a foundational
-writing skill, so model it step-by-step before independent drafting (Kirschner, Sweller &
-Clark, 2006). Retrieval: connect back to Lesson 1's claim/detail/example tree — writing an
-argument is making your own tree. Hold the ethical frame firmly: argument is *reasoned claim*,
-never winning or rhetoric (`docs/philosophy.md` §4, §7). Honor every home language: draft in
-the strongest language. The modeled example — planting shade and fruit trees — is adaptable;
-invite learners to argue for what *their* community actually needs.
+The idea to land is that **an argument is a claim plus reasons** — and a reason is only
+a reason if it *supports* the claim, not just restates it or wanders. Use the worked
+example fully and slowly; this is a foundational writing skill, so model it step-by-step
+before independent drafting (Kirschner, Sweller & Clark, 2006). Retrieval: connect back
+to Lesson 1's claim/detail/example tree — writing an argument is making your own tree.
+Hold the ethical frame firmly: argument is *reasoned claim*, never winning or rhetoric
+(`docs/philosophy.md` §4, §7). Honor every home language: draft in the strongest
+language. The modeled example — planting shade and fruit trees — is adaptable; invite
+learners to argue for what *their* community actually needs.
 
 ## Procedure
 

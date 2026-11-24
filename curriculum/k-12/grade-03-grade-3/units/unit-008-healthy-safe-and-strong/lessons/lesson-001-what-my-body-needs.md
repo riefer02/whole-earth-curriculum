@@ -115,20 +115,20 @@ one matters, so you can care for the body that carries you through every day.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **The four needs are equals.** Do not rank
-them, and do not turn any of them into a rule about amounts, schedules, or body size.
-Food, water, sleep, and movement each matter, and different bodies need different amounts
-at different times — that range is normal and is never a measure of a person's worth. This
-lesson retrieves Grade 2's balanced-meal and water work (U.02.008) and opens the spiral
-for this unit's deeper looks at food, water, sleep, movement, and safety. A learner who
-does not use a speaking voice acts out or points to each need; a learner who is blind or
-has low vision feels a cup, a blanket, and their own moving body to anchor each need; a
-learner who is deaf or hard of hearing follows the picture cards and demonstrations from
-the front, since every idea is shown, not only told. Some learners may not have steady
-access to food, water, or safe sleep at home — frame needs as what every body deserves,
-without making any learner feel singled out, and respond with care if a learner shares
-something hard. The health facts are from the World Health Organization: health is
-supported by adequate food, safe water, sleep, and regular physical activity.
+**The four needs are equals.** Do not rank them, and do not turn any of them into a rule
+about amounts, schedules, or body size. Food, water, sleep, and movement each matter,
+and different bodies need different amounts at different times — that range is normal
+and is never a measure of a person's worth. This lesson retrieves Grade 2's
+balanced-meal and water work (U.02.008) and opens the spiral for this unit's deeper
+looks at food, water, sleep, movement, and safety. A learner who does not use a speaking
+voice acts out or points to each need; a learner who is blind or has low vision feels a
+cup, a blanket, and their own moving body to anchor each need; a learner who is deaf or
+hard of hearing follows the picture cards and demonstrations from the front, since every
+idea is shown, not only told. Some learners may not have steady access to food, water,
+or safe sleep at home — frame needs as what every body deserves, without making any
+learner feel singled out, and respond with care if a learner shares something hard. The
+health facts are from the World Health Organization: health is supported by adequate
+food, safe water, sleep, and regular physical activity.
 
 ## Procedure
 

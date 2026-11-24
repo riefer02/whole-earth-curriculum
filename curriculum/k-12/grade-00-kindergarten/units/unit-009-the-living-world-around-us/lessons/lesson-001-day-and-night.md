@@ -103,12 +103,10 @@ again.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, hold the core idea lightly: day and night are
-a repeating change of light and dark. If learners ask, you may add that near the
-equator day and night are about equal all year, while near the poles some seasons
-have very long days or very long nights — but only if the question comes up; the
-goal is wonder, not a diagram.
+As facilitator, hold the core idea lightly: day and night are a repeating change of
+light and dark. If learners ask, you may add that near the equator day and night are
+about equal all year, while near the poles some seasons have very long days or very long
+nights — but only if the question comes up; the goal is wonder, not a diagram.
 
 ## Procedure
 

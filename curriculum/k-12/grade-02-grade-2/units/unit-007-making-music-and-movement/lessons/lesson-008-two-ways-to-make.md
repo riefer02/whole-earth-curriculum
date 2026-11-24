@@ -112,17 +112,15 @@ Today you will solve one small making problem two ways, compare them, and choose
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. The goal is the **reason**, not the "right" answer — a choice
-with a reason is the learning, and either way may be a fine choice. Model the compare
-once — "way A sags, way B holds; I choose B because it is stronger" — before learners
-compare their own (Kirschner, Sweller & Clark, 2006). Frame a failed attempt as
-information, never a verdict. A learner with limited fine motor tries each way by
-directing a partner and decides the choice — deciding is making. A learner who is
-blind or has low vision compares by feel and sound (which holds, which bends, which
-makes a solid thud) with a partner describing what happened. A learner who does not
-speak points to the chosen way and to the reason on a picture card. Every reason is
-welcome.
+The goal is the **reason**, not the "right" answer — a choice with a reason is the
+learning, and either way may be a fine choice. Model the compare once — "way A sags, way
+B holds; I choose B because it is stronger" — before learners compare their own
+(Kirschner, Sweller & Clark, 2006). Frame a failed attempt as information, never a
+verdict. A learner with limited fine motor tries each way by directing a partner and
+decides the choice — deciding is making. A learner who is blind or has low vision
+compares by feel and sound (which holds, which bends, which makes a solid thud) with a
+partner describing what happened. A learner who does not speak points to the chosen way
+and to the reason on a picture card. Every reason is welcome.
 
 ## Procedure
 

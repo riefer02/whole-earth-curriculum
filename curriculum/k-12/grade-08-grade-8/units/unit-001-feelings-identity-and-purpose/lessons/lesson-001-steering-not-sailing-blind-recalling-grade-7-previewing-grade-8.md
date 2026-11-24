@@ -114,20 +114,20 @@ course on purpose.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) Grade 7 named
-feelings, identities, and choices; Grade 8 analyzes and steers them; (2) the year has three
-movements — analyze reactions, know a whole self, steer choices; (3) a reaction can be
-previewed as three parts — event, thought, feeling.** Keep this light: it is a retrieval
-and a preview, not a deep lesson. Retrieval practice is one of the strongest learning
-techniques we have (Dunlosky et al. 2013, S-039), so spend real time *recalling*, not
-re-reading. The *ethics* lens: steering is not just about my comfort but about the
-consequences my reactions have for others. The *egalitarian* lens: every learner's Grade 7
-memory is valid — there is no single "right" feeling or identity to recall. The *global*
-lens: feelings are shown, hidden, and valued differently across cultures, and that variety
-is exactly what makes a shared map useful. The *critical-thinking* lens: the three parts
-(event, thought, feeling) are held as a question to explore, not an answer to accept. Do
-not grade the recall; celebrate it. Where questioning adults is unsafe, frame the preview
-as wondering together (see `docs/contexts.md`).
+The ideas to land: **(1) Grade 7 named feelings, identities, and choices; Grade 8
+analyzes and steers them; (2) the year has three movements — analyze reactions, know a
+whole self, steer choices; (3) a reaction can be previewed as three parts — event,
+thought, feeling.** Keep this light: it is a retrieval and a preview, not a deep lesson.
+Retrieval practice is one of the strongest learning techniques we have (Dunlosky et al.
+2013, S-039), so spend real time *recalling*, not re-reading. The *ethics* lens:
+steering is not just about my comfort but about the consequences my reactions have for
+others. The *egalitarian* lens: every learner's Grade 7 memory is valid — there is no
+single "right" feeling or identity to recall. The *global* lens: feelings are shown,
+hidden, and valued differently across cultures, and that variety is exactly what makes a
+shared map useful. The *critical-thinking* lens: the three parts (event, thought,
+feeling) are held as a question to explore, not an answer to accept. Do not grade the
+recall; celebrate it. Where questioning adults is unsafe, frame the preview as wondering
+together (see `docs/contexts.md`).
 
 ## Procedure
 

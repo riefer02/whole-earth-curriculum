@@ -117,23 +117,24 @@ become someone who can *hear how* it works — and that skill deepens every song
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **a musical critique names the
-elements heard — melody (the tune), rhythm (beats and rests), harmony (notes sounding together),
-timbre (tone color), dynamics (loud and soft), tempo (fast and slow), texture (how parts layer), and
-form (the shape) — then states the work's context and its effect, and separates observation from
-judgment, with judgment citing evidence.** The eight elements are standard music-education vocabulary
-(S-368). This is a *skill*, so **model the critique once on a first work, then let learners practice in
-pairs** (explicit instruction carries novice skills — S-011). The critical-thinking lens: "name what
-you hear, then say what effect it has" is the evidence habit applied to sound. The ethics lens: a
-critique describes the work, never the musicians, and can disagree without disrespect — and when a
-classmate's piece is the subject, it is critiqued only with their consent, saying what is true and kind. The egalitarian
-lens: every listener's evidence-based judgment is valid; no one's taste is "better." Music is felt and
-read as well as heard — vibration, a score, or a drawn shape are full ways in for Deaf and
-hard-of-hearing learners, and the same elements apply. The global lens:
-the same eight elements help you listen across traditions, but *context matters* — a rhythm or scale
-means something inside its own tradition, so honor the work's context rather than ranking it by one
-tradition's rules (S-056). Keep the tone generative: critique deepens listening, it does not shut it
-down.
+The skill to land: **a musical critique names the elements heard — melody (the tune),
+rhythm (beats and rests), harmony (notes sounding together), timbre (tone color),
+dynamics (loud and soft), tempo (fast and slow), texture (how parts layer), and form
+(the shape) — then states the work's context and its effect, and separates observation
+from judgment, with judgment citing evidence.** The eight elements are standard
+music-education vocabulary (S-368). This is a *skill*, so **model the critique once on a
+first work, then let learners practice in pairs** (explicit instruction carries novice
+skills — S-011). The critical-thinking lens: "name what you hear, then say what effect
+it has" is the evidence habit applied to sound. The ethics lens: a critique describes
+the work, never the musicians, and can disagree without disrespect — and when a
+classmate's piece is the subject, it is critiqued only with their consent, saying what
+is true and kind. The egalitarian lens: every listener's evidence-based judgment is
+valid; no one's taste is "better." Music is felt and read as well as heard — vibration,
+a score, or a drawn shape are full ways in for Deaf and hard-of-hearing learners, and
+the same elements apply. The global lens: the same eight elements help you listen across
+traditions, but *context matters* — a rhythm or scale means something inside its own
+tradition, so honor the work's context rather than ranking it by one tradition's rules
+(S-056). Keep the tone generative: critique deepens listening, it does not shut it down.
 
 ## Procedure
 

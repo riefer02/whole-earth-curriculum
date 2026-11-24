@@ -114,25 +114,26 @@ damage — so learning to read and test one is a survival skill in a world run b
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an algorithm is a
-finite, ordered, unambiguous set of steps that turns an input into an output; we analyze it
-for termination (it always stops) and correctness (it stops on the right answer).** Teach
-tracing by hand as the skill — read each step, write the state, repeat — with a worked
-example and guided practice (S-011). Debugging a flawed algorithm is the deepest learning;
-let learners *find* the flaw rather than only receiving it.
+The idea to land: **an algorithm is a finite, ordered, unambiguous set of steps that
+turns an input into an output; we analyze it for termination (it always stops) and
+correctness (it stops on the right answer).** Teach tracing by hand as the skill — read
+each step, write the state, repeat — with a worked example and guided practice (S-011).
+Debugging a flawed algorithm is the deepest learning; let learners *find* the flaw
+rather than only receiving it.
 
-The **ethics** lens: an algorithm that is *correct* is a promise kept — but correctness is
-only one virtue, and a procedure can be correct yet cruel; naming that distinction prepares
-Lesson 8. The **egalitarianism** lens: because an algorithm is written in steps anyone can
-follow and check, it can be inspected and questioned by anyone — transparency is the
-egalitarian heart of procedure. The **global** lens: the word *algorithm* comes from the
-name of Muhammad ibn Musa al-Khwarizmi (c. 780–850, Baghdad), whose book on calculation by
-completion and balancing also gave us the word *algebra* (S-431, S-293) — a reminder that
-the idea of explicit procedure has deep, multi-rooted history. The **technology** lens:
-algorithms *are* what runs — every recommendation, every search, every payment. The
-**environment** lens: resource-sharing and allocation algorithms (who gets water, how a
-harvest is divided) decide real environmental outcomes, so their correctness is a matter of
-survival, not just arithmetic. Preview: Lesson 8 asks whether an algorithm is *fair*.
+The **ethics** lens: an algorithm that is *correct* is a promise kept — but correctness
+is only one virtue, and a procedure can be correct yet cruel; naming that distinction
+prepares Lesson 8. The **egalitarianism** lens: because an algorithm is written in steps
+anyone can follow and check, it can be inspected and questioned by anyone — transparency
+is the egalitarian heart of procedure. The **global** lens: the word *algorithm* comes
+from the name of Muhammad ibn Musa al-Khwarizmi (c. 780–850, Baghdad), whose book on
+calculation by completion and balancing also gave us the word *algebra* (S-431, S-293) —
+a reminder that the idea of explicit procedure has deep, multi-rooted history. The
+**technology** lens: algorithms *are* what runs — every recommendation, every search,
+every payment. The **environment** lens: resource-sharing and allocation algorithms (who
+gets water, how a harvest is divided) decide real environmental outcomes, so their
+correctness is a matter of survival, not just arithmetic. Preview: Lesson 8 asks whether
+an algorithm is *fair*.
 
 ## Procedure
 

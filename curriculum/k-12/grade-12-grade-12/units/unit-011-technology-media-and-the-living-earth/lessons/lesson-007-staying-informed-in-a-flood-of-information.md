@@ -115,26 +115,27 @@ mind is true and varied rather than just loud and familiar.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **staying informed in a flood
-means a personal media diet — pause before sharing, check the source, seek more than one view,
-and choose a balanced mix — and it means knowing that feeds can narrow what you see (the filter
-bubble) and that false information can be a mistake (misinformation) or deliberate
-(disinformation).** Hold the "no cynicism, no nihilism" line: the response to a flood is not to
-trust nothing, but to check and diversify. Keep partisan framing out — the skills are the same
+The idea to land: **staying informed in a flood means a personal media diet — pause
+before sharing, check the source, seek more than one view, and choose a balanced mix —
+and it means knowing that feeds can narrow what you see (the filter bubble) and that
+false information can be a mistake (misinformation) or deliberate (disinformation).**
+Hold the "no cynicism, no nihilism" line: the response to a flood is not to trust
+nothing, but to check and diversify. Keep partisan framing out — the skills are the same
 in every direction.
 
-The **ethics** lens: sharing before checking makes you an unwitting carrier of what is false, so
-pausing is a small ethical act you can do every day. The **egalitarianism** lens: the flood
-does not hit everyone equally — people with less time, less access, or fewer sources are more
-exposed to what is loudest, so a good media diet is also a question of who gets to be informed
-(S-281). The **global** lens: the same habits — trace the claim, check independent reporting —
-are taught by news-literacy programs around the world, because the flood is global (S-217,
-S-278). The **technology** lens: feeds ranked for engagement and personalized recommendations
-can quietly surround you with what you already believe — the filter bubble, a real effect whose
-strength is still debated (S-481, S-482). The **environment** lens: environmental information
-is especially flooded with rumor, so the media diet directly affects whether people can act on
-the real state of the living Earth (S-004). Preview: Lesson 8 goes deeper — holding claims open
-to evidence rather than settling into certainty.
+The **ethics** lens: sharing before checking makes you an unwitting carrier of what is
+false, so pausing is a small ethical act you can do every day. The **egalitarianism**
+lens: the flood does not hit everyone equally — people with less time, less access, or
+fewer sources are more exposed to what is loudest, so a good media diet is also a
+question of who gets to be informed (S-281). The **global** lens: the same habits —
+trace the claim, check independent reporting — are taught by news-literacy programs
+around the world, because the flood is global (S-217, S-278). The **technology** lens:
+feeds ranked for engagement and personalized recommendations can quietly surround you
+with what you already believe — the filter bubble, a real effect whose strength is still
+debated (S-481, S-482). The **environment** lens: environmental information is
+especially flooded with rumor, so the media diet directly affects whether people can act
+on the real state of the living Earth (S-004). Preview: Lesson 8 goes deeper — holding
+claims open to evidence rather than settling into certainty.
 
 ## Procedure
 

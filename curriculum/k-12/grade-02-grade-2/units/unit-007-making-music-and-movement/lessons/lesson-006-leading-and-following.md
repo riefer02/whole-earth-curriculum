@@ -116,20 +116,18 @@ with a partner, leading and following in turn.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Keep the scene simple and everyday, and never co-opt sacred or
-ceremonial roles from any culture. Use a neutral **turn marker** (a stone or cloth
-knot) so no single culture's object carries the turn. Model leading and following once
-— you move, a learner mirrors — before pairs try (Kirschner, Sweller & Clark, 2006).
-Emphasize that following is active, not passive: a good follower watches, listens,
-and matches. Never push a shy learner to perform; watching and mirroring is full
-participation. A learner who uses a wheelchair or moves with support leads and follows
-from where they are — a raised hand, a nod, a lean, and their partner mirrors it. A
-learner who does not speak leads with movement and face, and follows the same way. A
-learner who is blind or has low vision leads with voice and touch (a partner mirrors
-the sound or holds a hand to feel the move). A learner who is Deaf or hard of hearing
-leads and follows through visible movement and gesture. Celebrate both roles equally —
-there is no "better" part.
+Keep the scene simple and everyday, and never co-opt sacred or ceremonial roles from any
+culture. Use a neutral **turn marker** (a stone or cloth knot) so no single culture's
+object carries the turn. Model leading and following once — you move, a learner
+mirrors — before pairs try (Kirschner, Sweller & Clark, 2006). Emphasize that following
+is active, not passive: a good follower watches, listens, and matches. Never push a shy
+learner to perform; watching and mirroring is full participation. A learner who uses a
+wheelchair or moves with support leads and follows from where they are — a raised hand,
+a nod, a lean, and their partner mirrors it. A learner who does not speak leads with
+movement and face, and follows the same way. A learner who is blind or has low vision
+leads with voice and touch (a partner mirrors the sound or holds a hand to feel the
+move). A learner who is Deaf or hard of hearing leads and follows through visible
+movement and gesture. Celebrate both roles equally — there is no "better" part.
 
 ## Procedure
 

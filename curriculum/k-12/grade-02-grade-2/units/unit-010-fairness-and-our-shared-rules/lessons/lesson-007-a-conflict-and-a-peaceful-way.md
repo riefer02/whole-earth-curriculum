@@ -111,20 +111,20 @@ elder to help. Today you will describe a conflict and name a peaceful way.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson separates **conflict** (a disagreement,
-which is normal and healthy) from **violence** (hurting, which is not needed to solve
-it). Keep conflicts small, everyday, and blame-free — no one is "bad" for wanting the
-same swing; the question is only *how* we solve it. Offer three peaceful ways and let
-learners choose: **talk it through** (both sides say what they need), **take turns**
-(share the thing or the time), and **get help** (ask a trusted grown-up or peer to
-help both be heard). Getting help is strength, not weakness — people everywhere turn
-to an elder, a neighbor, or a friend. A learner who does not speak aloud describes
-the conflict by pointing to a card and shows the peaceful way by pointing, signing,
-or acting; a learner who is deaf or hard of hearing follows each conflict through the
-cards and sign; a learner who is blind or low-vision hears the conflict described and
-names the peaceful way aloud; a learner with a motor difference can direct a partner
-to move the puppets. Never ask a learner to confess a real, private conflict; invented
-or acted conflicts are welcome, and a learner may always pass.
+This lesson separates **conflict** (a disagreement, which is normal and healthy) from
+**violence** (hurting, which is not needed to solve it). Keep conflicts small, everyday,
+and blame-free — no one is "bad" for wanting the same swing; the question is only *how*
+we solve it. Offer three peaceful ways and let learners choose: **talk it through**
+(both sides say what they need), **take turns** (share the thing or the time), and **get
+help** (ask a trusted grown-up or peer to help both be heard). Getting help is strength,
+not weakness — people everywhere turn to an elder, a neighbor, or a friend. A learner
+who does not speak aloud describes the conflict by pointing to a card and shows the
+peaceful way by pointing, signing, or acting; a learner who is deaf or hard of hearing
+follows each conflict through the cards and sign; a learner who is blind or low-vision
+hears the conflict described and names the peaceful way aloud; a learner with a motor
+difference can direct a partner to move the puppets. Never ask a learner to confess a
+real, private conflict; invented or acted conflicts are welcome, and a learner may
+always pass.
 
 ## Procedure
 

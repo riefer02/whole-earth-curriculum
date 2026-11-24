@@ -121,14 +121,14 @@ body looks. Bodies come in every size and shape, and every one of them deserves 
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **"too much, over time"
-affects the inside of the body — and this must never be used to judge a body's size or shape**.
-This is the lesson's moral heart, and it is non-negotiable. Never link food to weight, shape, or
-attractiveness; never shame any body or any family's food culture. Keep the language strictly
-about **systems**: teeth, blood sugar, heart, blood vessels. A "treat" or a salty meal is fine
-in a varied pattern; the concern is only a repeated excess over time. Affirm that bodies of all
-sizes are healthy and worthy. Model the worked example once, then guide the sort. See
-`docs/facilitation.md` and the unit's "without judging any body" commitment.
+The idea to land is **"too much, over time" affects the inside of the body — and this
+must never be used to judge a body's size or shape**. This is the lesson's moral heart,
+and it is non-negotiable. Never link food to weight, shape, or attractiveness; never
+shame any body or any family's food culture. Keep the language strictly about
+**systems**: teeth, blood sugar, heart, blood vessels. A "treat" or a salty meal is fine
+in a varied pattern; the concern is only a repeated excess over time. Affirm that bodies
+of all sizes are healthy and worthy. Model the worked example once, then guide the sort.
+See `docs/facilitation.md` and the unit's "without judging any body" commitment.
 
 ## Procedure
 

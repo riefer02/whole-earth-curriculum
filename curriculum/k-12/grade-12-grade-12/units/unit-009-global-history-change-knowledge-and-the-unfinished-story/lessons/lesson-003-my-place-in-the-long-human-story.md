@@ -115,26 +115,28 @@ endpoint and starts looking like a *place* — a point from which the story keep
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the human story is far longer
-than written history, and locating yourself on it — in proportion — turns "the past" from a
-finished list into an unfinished story you are inside.** Model the proportional strip explicitly
-(S-011). Handle the "deep time" numbers with care: humans evolved in Africa roughly 300,000 years
-ago (S-506); writing is about 5,000 years old (S-264); most people came to live in cities only
-within recent decades (S-089); electric light within a few generations (S-052). Hold these as
-*proportions*, not as a memorization test, and keep the number access scaffold in place.
+The idea to land: **the human story is far longer than written history, and locating
+yourself on it — in proportion — turns "the past" from a finished list into an
+unfinished story you are inside.** Model the proportional strip explicitly (S-011).
+Handle the "deep time" numbers with care: humans evolved in Africa roughly 300,000 years
+ago (S-506); writing is about 5,000 years old (S-264); most people came to live in
+cities only within recent decades (S-089); electric light within a few generations
+(S-052). Hold these as *proportions*, not as a memorization test, and keep the number
+access scaffold in place.
 
-The **ethics** lens: knowing the story is longer than the records is a caution against treating
-the written past — and its winners — as the whole of what mattered. The **egalitarianism** lens:
-every person alive is a descendant of that long story, and no line of descent is more "history"
-than another; the unrecorded billions were not extras — they *are* the story (S-506). The
-**global** lens: this is not any one nation's origin — all living people share ancestry rooted in
-Africa, and the story fans out to every continent (S-506). The **technology** lens: writing,
-printing, electricity, and the internet each arrived astonishingly recently, which is why "modern"
-feels breakneck — and why we should not mistake recency for destiny. The **environment** lens:
-for almost the whole of the story, humans lived *within* landscapes that outlived them; only in
-the last sliver did our tools begin to reshape the whole planet — a change of scale worth sitting
-with. Preview: Lesson 4 carries the story from the past through the present toward possible
-futures.
+The **ethics** lens: knowing the story is longer than the records is a caution against
+treating the written past — and its winners — as the whole of what mattered. The
+**egalitarianism** lens: every person alive is a descendant of that long story, and no
+line of descent is more "history" than another; the unrecorded billions were not
+extras — they *are* the story (S-506). The **global** lens: this is not any one nation's
+origin — all living people share ancestry rooted in Africa, and the story fans out to
+every continent (S-506). The **technology** lens: writing, printing, electricity, and
+the internet each arrived astonishingly recently, which is why "modern" feels
+breakneck — and why we should not mistake recency for destiny. The **environment** lens:
+for almost the whole of the story, humans lived *within* landscapes that outlived them;
+only in the last sliver did our tools begin to reshape the whole planet — a change of
+scale worth sitting with. Preview: Lesson 4 carries the story from the past through the
+present toward possible futures.
 
 ## Procedure
 

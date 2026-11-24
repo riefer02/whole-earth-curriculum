@@ -117,20 +117,19 @@ see how food powers every part of your day.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **No food moralizing, no "good" or "bad"
-foods, and no talk of body size or weight.** Food's job is to give energy, and different
-families get that energy from different foods — rice, maize, wheat, millet, beans, roots,
-fish, eggs, fruits, and greens all fuel bodies well. A food that is everyday for one
-family may be rare for another, and neither is wrong. This lesson retrieves Grade 2's
-food groups (U.02.008) and deepens it with the *why*: energy for growth, play, and
-learning. A learner who does not use a speaking voice points, signs, or acts out the
-energy a food gives; a learner who is blind or has low vision feels real or textured
-foods and names the energy each gives; a learner who is deaf or hard of hearing follows
-the cards and demonstrations from the front, since every idea is shown, not only told.
-Some learners may not have enough food at home — frame food as energy every body
-deserves, and respond with care if a learner shares something hard. The health facts are
-from the World Health Organization: food provides the energy and nutrients the body needs
-to grow and stay healthy.
+**No food moralizing, no "good" or "bad" foods, and no talk of body size or weight.**
+Food's job is to give energy, and different families get that energy from different
+foods — rice, maize, wheat, millet, beans, roots, fish, eggs, fruits, and greens all
+fuel bodies well. A food that is everyday for one family may be rare for another, and
+neither is wrong. This lesson retrieves Grade 2's food groups (U.02.008) and deepens it
+with the *why*: energy for growth, play, and learning. A learner who does not use a
+speaking voice points, signs, or acts out the energy a food gives; a learner who is
+blind or has low vision feels real or textured foods and names the energy each gives; a
+learner who is deaf or hard of hearing follows the cards and demonstrations from the
+front, since every idea is shown, not only told. Some learners may not have enough food
+at home — frame food as energy every body deserves, and respond with care if a learner
+shares something hard. The health facts are from the World Health Organization: food
+provides the energy and nutrients the body needs to grow and stay healthy.
 
 ## Procedure
 

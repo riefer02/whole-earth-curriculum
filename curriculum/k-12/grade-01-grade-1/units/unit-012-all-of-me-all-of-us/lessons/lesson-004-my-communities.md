@@ -110,14 +110,14 @@ just different ways people belong.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Its commitment is that **no community
-is "correct" and none is better** — the goal is belonging, not ranking. Honor every
-community a learner names, including ones outside the usual list (a language group, a
-market, a place of worship, a team, a care circle). Keep the global view visible:
-communities vary worldwide, and each has its own way. For a learner who is blind or
-has low vision, build the web tactually — place an object for each community around a
-center object that stands for the learner, and name each one aloud. A learner who
-does not use a speaking voice names communities by pointing to pictures or objects.
+Its commitment is that **no community is "correct" and none is better** — the goal is
+belonging, not ranking. Honor every community a learner names, including ones outside
+the usual list (a language group, a market, a place of worship, a team, a care circle).
+Keep the global view visible: communities vary worldwide, and each has its own way. For
+a learner who is blind or has low vision, build the web tactually — place an object for
+each community around a center object that stands for the learner, and name each one
+aloud. A learner who does not use a speaking voice names communities by pointing to
+pictures or objects.
 
 ## Procedure
 

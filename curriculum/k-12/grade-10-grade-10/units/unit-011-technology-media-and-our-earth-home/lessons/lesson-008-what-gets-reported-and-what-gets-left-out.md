@@ -115,18 +115,19 @@ left out.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **every report is framed — a selection of
-what to show and what to omit — and the frame shapes what people conclude; media literacy is the habit of
-noticing the frame and asking what it left out.** The **critical-thinking** lens is the spine. The
-**ethics** lens: fair reporting names its angle and seeks what it might be missing (S-442). The
-**egalitarian** lens: framing decides whose experience is centered and whose is omitted — a question of
-who gets to be the "we" of a story (S-417). The **global** lens: the same event is framed differently by
-different media systems and cultures, and reading across them widens the frame. The **technology** lens:
-the feed amplifies the most engaging frame, not the most complete one (S-482). The **environment** lens:
-environmental stories are especially vulnerable to framing — a drought framed as "weather" omits the
-long human causes; notice what the frame hides. Use the event example with care and keep claims hedged.
-Preview: we now pivot to the Earth itself — ecosystem services and tipping points — the environment half
-of the unit.
+The idea to land: **every report is framed — a selection of what to show and what to
+omit — and the frame shapes what people conclude; media literacy is the habit of
+noticing the frame and asking what it left out.** The **critical-thinking** lens is the
+spine. The **ethics** lens: fair reporting names its angle and seeks what it might be
+missing (S-442). The **egalitarian** lens: framing decides whose experience is centered
+and whose is omitted — a question of who gets to be the "we" of a story (S-417). The
+**global** lens: the same event is framed differently by different media systems and
+cultures, and reading across them widens the frame. The **technology** lens: the feed
+amplifies the most engaging frame, not the most complete one (S-482). The
+**environment** lens: environmental stories are especially vulnerable to framing — a
+drought framed as "weather" omits the long human causes; notice what the frame hides.
+Use the event example with care and keep claims hedged. Preview: we now pivot to the
+Earth itself — ecosystem services and tipping points — the environment half of the unit.
 
 ## Procedure
 

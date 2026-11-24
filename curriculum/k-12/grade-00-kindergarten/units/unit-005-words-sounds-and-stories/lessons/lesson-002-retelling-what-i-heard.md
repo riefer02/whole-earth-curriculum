@@ -97,13 +97,11 @@ they are yours.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Celebrate every retelling — a one-sentence retelling is a real
-retelling. Learners may retell in their home language; that counts fully. A retelling may
-also be signed, drawn, pointed to on sequence cards, or acted out — all are real
-retelling, so a learner who does not speak aloud is never asked to. The goal is
-"one important part in my own words," not a perfect summary, and never a memorized
-script.
+Celebrate every retelling — a one-sentence retelling is a real retelling. Learners may
+retell in their home language; that counts fully. A retelling may also be signed, drawn,
+pointed to on sequence cards, or acted out — all are real retelling, so a learner who
+does not speak aloud is never asked to. The goal is "one important part in my own
+words," not a perfect summary, and never a memorized script.
 
 ## Procedure
 

@@ -118,15 +118,14 @@ Learning to *notice* which is which — in a classroom, at a market stall, or un
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **monitoring, not
-judging**: learners notice where attention goes and name helpers and hurts, without being
-called "lazy" or "unfocused." Normalize wandering attention — everyone's mind wanders;
-the skill is *noticing* and *returning*. Include bodily hurts (hunger, thirst, tiredness)
-alongside environmental ones (noise, devices) — many learners cannot remove a hunger or a
-noisy home, and the goal is *naming* what affects them, not blaming them for it. The
-**technology lens** invites a real question: when do devices help focus, and when do they
-hurt it? Let learners answer from their own experience. See `docs/contexts.md` on
-self-paced, low-tech structures.
+The idea to land is **monitoring, not judging**: learners notice where attention goes
+and name helpers and hurts, without being called "lazy" or "unfocused." Normalize
+wandering attention — everyone's mind wanders; the skill is *noticing* and *returning*.
+Include bodily hurts (hunger, thirst, tiredness) alongside environmental ones (noise,
+devices) — many learners cannot remove a hunger or a noisy home, and the goal is
+*naming* what affects them, not blaming them for it. The **technology lens** invites a
+real question: when do devices help focus, and when do they hurt it? Let learners answer
+from their own experience. See `docs/contexts.md` on self-paced, low-tech structures.
 
 ## Procedure
 

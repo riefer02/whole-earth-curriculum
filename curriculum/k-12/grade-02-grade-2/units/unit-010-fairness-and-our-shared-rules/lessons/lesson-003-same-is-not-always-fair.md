@@ -114,20 +114,19 @@ who carries. Today you will practice telling *same* from *fair*.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson holds two ideas open, side by side, as a
-question: **equality** — same for everyone — and **equity** — what each one needs. The
-lesson does *not* teach that sameness is wrong; it teaches that sameness is not the
-*whole* of fairness. Keep the examples gentle and real: reaching a shelf, seeing over
-a wall, reading a sign, drinking from a fountain. Never single out or shame a learner
-for a need — frame needs as ordinary and universal (everyone has needs; some are just
-easier to see). Include ability naturally: a ramp and a step stool are just two ways
-people get where they need to go, not a "special" case. A learner who does not speak
-aloud shows which support matches which person by pointing or placing blocks; a
-learner who is blind or low-vision feels the different heights of the blocks and
-hears the scene described; a learner with a motor difference can direct a partner to
-place the supports. The goal is the learner's own explanation — "the same box is not
-fair because they have different needs" — not a memorized phrase. A learner may
-always pass.
+This lesson holds two ideas open, side by side, as a question: **equality** — same for
+everyone — and **equity** — what each one needs. The lesson does *not* teach that
+sameness is wrong; it teaches that sameness is not the *whole* of fairness. Keep the
+examples gentle and real: reaching a shelf, seeing over a wall, reading a sign, drinking
+from a fountain. Never single out or shame a learner for a need — frame needs as
+ordinary and universal (everyone has needs; some are just easier to see). Include
+ability naturally: a ramp and a step stool are just two ways people get where they need
+to go, not a "special" case. A learner who does not speak aloud shows which support
+matches which person by pointing or placing blocks; a learner who is blind or low-vision
+feels the different heights of the blocks and hears the scene described; a learner with
+a motor difference can direct a partner to place the supports. The goal is the learner's
+own explanation — "the same box is not fair because they have different needs" — not a
+memorized phrase. A learner may always pass.
 
 ## Procedure
 

@@ -118,19 +118,18 @@ trick into understanding.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It deepens yesterday's pattern work by
-adding the **properties of operations** as *explanations* — the new skill is
-connecting a pattern to the property that causes it. Teach with **worked examples**
-(philosophy §13): build 3 × 4, turn it to 4 × 3 (commutative); build 7 × 6, split it
-into 5 × 6 and 2 × 6 (distributive); group (2 + 3) + 4 and 2 + (3 + 4) (associative).
-The goal is the *why*, not the vocabulary — children can say "turn it" and "split it"
-and still be doing real mathematics (Van de Walle et al., 2019). **Understanding a
-property is not a race; a child who can show it with objects but not name it has
-understood it.** These properties are human discoveries shared across traditions; no
-single people owns them. Count in the home language. For learners who are Deaf or hard
-of hearing, show the turn and split with signs and arrays; for learners who are blind
-or low-vision, turn and split tactile arrays in the hands. Learners with limited
-movement direct a partner. Mastery arrives at its own pace.
+It deepens yesterday's pattern work by adding the **properties of operations** as
+*explanations* — the new skill is connecting a pattern to the property that causes it.
+Teach with **worked examples** (philosophy §13): build 3 × 4, turn it to 4 × 3
+(commutative); build 7 × 6, split it into 5 × 6 and 2 × 6 (distributive); group (2 + 3)
++ 4 and 2 + (3 + 4) (associative). The goal is the *why*, not the vocabulary — children
+can say "turn it" and "split it" and still be doing real mathematics (Van de Walle et
+al., 2019). **Understanding a property is not a race; a child who can show it with
+objects but not name it has understood it.** These properties are human discoveries
+shared across traditions; no single people owns them. Count in the home language. For
+learners who are Deaf or hard of hearing, show the turn and split with signs and arrays;
+for learners who are blind or low-vision, turn and split tactile arrays in the hands.
+Learners with limited movement direct a partner. Mastery arrives at its own pace.
 
 ## Procedure
 

@@ -117,20 +117,20 @@ question is the same — and it is a question of respect, not disrespect, to ask
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **we can honor a
-tradition and still weigh its evidence honestly — the two are not enemies.** The
-evidence ladder is the core skill: an **anecdote** (one person's story) is weak evidence;
-a **correlation** (two things travel together) is suggestive but proves no cause; a
-**randomized controlled trial** (people assigned to practice or control) is strong; a
-**systematic review** (many trials pooled and assessed) is the strongest. For mind-body
-practices, the honest summary is *mixed and maturing*: there is evidence that breath
-control can help the body return to calm (S-340), that physical activity improves mood
-and reduces symptoms of depression and anxiety through real mechanisms (S-408), and
-that the stress response itself is physiological (S-338) — while many specific claims
-(about particular teas, "detoxes," or a single practice curing illness) rest on far
-weaker ground. Hold this with **humility and respect**: "weak evidence" describes the
-*claim*, never the *people* who hold it, and a tradition may carry value (community,
-meaning, rest) that a trial does not measure (philosophy §5, §11).
+The idea to land: **we can honor a tradition and still weigh its evidence honestly — the
+two are not enemies.** The evidence ladder is the core skill: an **anecdote** (one
+person's story) is weak evidence; a **correlation** (two things travel together) is
+suggestive but proves no cause; a **randomized controlled trial** (people assigned to
+practice or control) is strong; a **systematic review** (many trials pooled and
+assessed) is the strongest. For mind-body practices, the honest summary is *mixed and
+maturing*: there is evidence that breath control can help the body return to calm
+(S-340), that physical activity improves mood and reduces symptoms of depression and
+anxiety through real mechanisms (S-408), and that the stress response itself is
+physiological (S-338) — while many specific claims (about particular teas, "detoxes," or
+a single practice curing illness) rest on far weaker ground. Hold this with **humility
+and respect**: "weak evidence" describes the *claim*, never the *people* who hold it,
+and a tradition may carry value (community, meaning, rest) that a trial does not measure
+(philosophy §5, §11).
 
 The **ethics** lens: asking for evidence is a form of care, not contempt — but it must
 never be used to sneer at another culture's wisdom; distinguish "what the evidence
@@ -138,15 +138,15 @@ supports" from "what is worthy of respect" (they are different questions). The
 **global** lens: scientific methods are themselves one cultural tradition, now shared
 across the world — not a superior one, but a useful tool we can all wield. The
 **egalitarian** lens: everyone deserves the same honest standard, whether the claim
-comes from a clinic or a market stall. The **technology & environment** lens: the
-feeds, search engines, and social platforms that spread claims reward what grabs
-attention, not always what is true — so the evidence ladder matters more, not less, in
-a connected world — and the "wellness" products many claims sell also carry
-environmental costs worth asking about. The **critical-thinking** lens: watch for the
-**placebo effect** (feeling better because you expect to) and for the leap from
-"anecdote" to "proof." The **social-emotional** lens: weighing a practice someone
-loves can feel personal; keep the tone respectful and let learners choose their
-example. Preview: this same evidence skill returns in Lesson 10 for diets.
+comes from a clinic or a market stall. The **technology & environment** lens: the feeds,
+search engines, and social platforms that spread claims reward what grabs attention, not
+always what is true — so the evidence ladder matters more, not less, in a connected
+world — and the "wellness" products many claims sell also carry environmental costs
+worth asking about. The **critical-thinking** lens: watch for the **placebo effect**
+(feeling better because you expect to) and for the leap from "anecdote" to "proof." The
+**social-emotional** lens: weighing a practice someone loves can feel personal; keep the
+tone respectful and let learners choose their example. Preview: this same evidence skill
+returns in Lesson 10 for diets.
 
 ## Procedure
 

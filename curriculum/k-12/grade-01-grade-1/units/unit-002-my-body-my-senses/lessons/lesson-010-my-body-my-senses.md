@@ -127,13 +127,11 @@ is a day to notice and celebrate yours.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Set up the four stations, run the rotation, then lead the
-closing celebration. The capstone is a celebration of growth, not a test: observe
-what each learner can now do, and note it for the portfolio without ranking anyone.
-Honor every body in its own way — adapted movement and adapted hand tasks count fully.
-Keep hunger, thirst, and tiredness responses gentle and non-shaming, as in the earlier
-lessons.
+Set up the four stations, run the rotation, then lead the closing celebration. The
+capstone is a celebration of growth, not a test: observe what each learner can now do,
+and note it for the portfolio without ranking anyone. Honor every body in its own way —
+adapted movement and adapted hand tasks count fully. Keep hunger, thirst, and tiredness
+responses gentle and non-shaming, as in the earlier lessons.
 
 ## Procedure
 

@@ -114,26 +114,26 @@ the gap and choose what fills it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an impulse is a signal to
-act, but you can pause and choose your response instead of reacting — and practice makes the
-pause faster.** The hot/cool framing — a fast, emotional "hot" system and a slower,
-deliberate "cool" system — comes from Mischel's delay-of-gratification work (S-336); note
-the honest caveat that the famous marshmallow findings have been challenged by later, more
-careful studies, so we teach the *pause skill*, not a claim that one childhood test predicts
-a life. Teach the path as a worked example (Kirschner, Sweller & Clark 2006, S-011) before
-independent practice. The *ethics* lens: the pause protects *other people* — it is the
-difference between a sharp word that wounds and a chosen response that respects. The
-*egalitarian* lens: every learner has impulses; the skill is learnable by anyone, and no one
-is "just hot-headed" — that is a verdict, not information. The *global* lens: what counts as
-an appropriate pause differs by culture — some traditions value a long, silent beat before
-speaking, others a quick response — so the *tool* is shared even where the *style* differs.
-The pause itself — watching an impulse arise without acting — is also a long-practiced skill
-in contemplative traditions across South and East Asia, held here side by side with the
-psychological account (`docs/philosophy.md` §11).
-The *technology* lens: notifications and feeds are engineered to trigger impulse; the pause
-is a human brake on a machine that wants you to tap now. The *critical-thinking* lens: the
-pause is not suppressing feeling — it is the moment you run the check from Lesson 4. Keep
-journal moments small and safe; never require disclosure of conflict that is still painful.
+The idea to land: **an impulse is a signal to act, but you can pause and choose your
+response instead of reacting — and practice makes the pause faster.** The hot/cool
+framing — a fast, emotional "hot" system and a slower, deliberate "cool" system — comes
+from Mischel's delay-of-gratification work (S-336); note the honest caveat that the
+famous marshmallow findings have been challenged by later, more careful studies, so we
+teach the *pause skill*, not a claim that one childhood test predicts a life. Teach the
+path as a worked example (Kirschner, Sweller & Clark 2006, S-011) before independent
+practice. The *ethics* lens: the pause protects *other people* — it is the difference
+between a sharp word that wounds and a chosen response that respects. The *egalitarian*
+lens: every learner has impulses; the skill is learnable by anyone, and no one is "just
+hot-headed" — that is a verdict, not information. The *global* lens: what counts as an
+appropriate pause differs by culture — some traditions value a long, silent beat before
+speaking, others a quick response — so the *tool* is shared even where the *style*
+differs. The pause itself — watching an impulse arise without acting — is also a
+long-practiced skill in contemplative traditions across South and East Asia, held here
+side by side with the psychological account (`docs/philosophy.md` §11). The *technology*
+lens: notifications and feeds are engineered to trigger impulse; the pause is a human
+brake on a machine that wants you to tap now. The *critical-thinking* lens: the pause is
+not suppressing feeling — it is the moment you run the check from Lesson 4. Keep journal
+moments small and safe; never require disclosure of conflict that is still painful.
 
 ## Procedure
 

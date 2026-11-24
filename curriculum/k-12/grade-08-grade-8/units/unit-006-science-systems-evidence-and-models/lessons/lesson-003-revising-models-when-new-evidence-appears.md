@@ -109,28 +109,29 @@ things can make us sick." Today you follow that very revision, step by step.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a scientific model is a simplified
-picture of how something works; when new evidence appears that the model cannot explain, the model
-is *revised* — kept where it still fits, changed where it does not — rather than thrown away
-entirely.** The worked historical example: **(1) the old "miasma" model said disease came from bad
-air; (2) Semmelweis (Vienna, 1847) showed that washing hands with a chlorine solution sharply cut
-deaths from childbed fever — evidence the "air" model could not explain (S-357); (3) Snow (London,
-1854) mapped cholera cases and traced them to one water pump, showing the cause moved through water,
-not air (S-358); (4) the model was revised to the germ model — tiny living things cause disease —
-which kept the useful idea that disease *spreads* while replacing the wrong idea about *how*.** The
-ethics lens: Semmelweis's evidence was dismissed for years — an honest reminder that *who* speaks
-can delay what is true, and that science is a human, sometimes unjust, practice. The egalitarian
-lens: Snow's map showed cholera struck the people who shared a pump — clean water is a matter of
-justice, not only of health. The global lens: cholera pandemics crossed borders, and the germ model
-was built by evidence gathered in many places — long before 1800s Europe, other traditions had
-reached toward the same idea: Ibn Sina (Avicenna), in Persia around 1025 CE, wrote that sickness
-could spread through water and soil by unseen agents, and smallpox variolation — a deliberate,
-evidence-based inoculation — was practiced in China, India, and parts of Africa centuries before it
-reached Europe. The germ model is a shared human achievement, not one region's alone. The
-critical-thinking lens: notice the model was
-revised *because of evidence*, not authority — that is what makes it trustworthy. Keep it honest:
-the story is documented history, told as a model-revision example, and it is held as evidence, not
-creed (philosophy §11).
+The idea to land: **a scientific model is a simplified picture of how something works;
+when new evidence appears that the model cannot explain, the model is *revised* — kept
+where it still fits, changed where it does not — rather than thrown away entirely.** The
+worked historical example: **(1) the old "miasma" model said disease came from bad air;
+(2) Semmelweis (Vienna, 1847) showed that washing hands with a chlorine solution sharply
+cut deaths from childbed fever — evidence the "air" model could not explain (S-357); (3)
+Snow (London, 1854) mapped cholera cases and traced them to one water pump, showing the
+cause moved through water, not air (S-358); (4) the model was revised to the germ
+model — tiny living things cause disease — which kept the useful idea that disease
+*spreads* while replacing the wrong idea about *how*.** The ethics lens: Semmelweis's
+evidence was dismissed for years — an honest reminder that *who* speaks can delay what
+is true, and that science is a human, sometimes unjust, practice. The egalitarian lens:
+Snow's map showed cholera struck the people who shared a pump — clean water is a matter
+of justice, not only of health. The global lens: cholera pandemics crossed borders, and
+the germ model was built by evidence gathered in many places — long before 1800s Europe,
+other traditions had reached toward the same idea: Ibn Sina (Avicenna), in Persia around
+1025 CE, wrote that sickness could spread through water and soil by unseen agents, and
+smallpox variolation — a deliberate, evidence-based inoculation — was practiced in
+China, India, and parts of Africa centuries before it reached Europe. The germ model is
+a shared human achievement, not one region's alone. The critical-thinking lens: notice
+the model was revised *because of evidence*, not authority — that is what makes it
+trustworthy. Keep it honest: the story is documented history, told as a model-revision
+example, and it is held as evidence, not creed (philosophy §11).
 
 ## Procedure
 

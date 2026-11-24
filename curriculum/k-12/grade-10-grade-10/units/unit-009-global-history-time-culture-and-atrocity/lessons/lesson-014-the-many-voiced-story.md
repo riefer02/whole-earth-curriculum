@@ -121,20 +121,19 @@ accuracy, and to know that your own voice now joins the long, unfinished story.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the unit's four
-strands — time, culture, migration, and remembrance — weave into one many-voiced
-story, and the learner's own voice now joins it; the capstone is retrieval, not new
-content.** Keep the tone calm and affirming; this is a portfolio and reflection day,
-not an exam (philosophy §8: mastery, never ranking).
+The idea to land: **the unit's four strands — time, culture, migration, and
+remembrance — weave into one many-voiced story, and the learner's own voice now joins
+it; the capstone is retrieval, not new content.** Keep the tone calm and affirming; this
+is a portfolio and reflection day, not an exam (philosophy §8: mastery, never ranking).
 
 The **global** lens is the spine: history is told from many perspectives, never as a
 single nation's triumph. The **egalitarian** lens: the voices centered all unit were
 those too often left out — Indigenous peoples, the displaced, the enslaved, the
-resisters and survivors. The **ethics** lens: how we remember is itself an ethical
-act. The **critical-thinking** lens: the learner's synthesis should show evidence and
-values distinguished, questions held open, and more than one perspective kept in
-view. Feedback is the close: give each learner one specific thing they did well and
-one next step, in the spirit of mastery (S-007, S-011).
+resisters and survivors. The **ethics** lens: how we remember is itself an ethical act.
+The **critical-thinking** lens: the learner's synthesis should show evidence and values
+distinguished, questions held open, and more than one perspective kept in view. Feedback
+is the close: give each learner one specific thing they did well and one next step, in
+the spirit of mastery (S-007, S-011).
 
 ## Procedure
 

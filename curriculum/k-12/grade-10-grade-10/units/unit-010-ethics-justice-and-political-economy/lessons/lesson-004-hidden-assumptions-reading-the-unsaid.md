@@ -113,18 +113,20 @@ advertisement, a speech, a news report, or your own reasoning.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an argument's visible part is
-small; its hidden assumptions and bias are the part below the water — find them, test them, and the
-argument is no longer invisible.** Teach the skill with a worked example, then guided practice
-(S-011). Frame critique as *care*, not attack: we read an argument closely to understand it better,
-and to notice who is left out. The **critical-thinking** lens is the spine: ask "what must be true
-for this to be true, and is it?" The **egalitarian** lens: bias often hides in the question of who
-is assumed to matter — "everyone" can silently mean "people like the speaker." The **global** lens:
-arguments are shaped by where they are made; an assumption that is obvious in one place is strange in
-another, and that difference is information, not a mistake. Keep questions open (philosophy §11) and
-distinguish evidence from values (philosophy §5): finding an assumption is a claim about *what the
-argument says*; judging whether that assumption is fair is a question of values. Preview: next lesson
-we rebuild the argument with the assumptions brought into the light.
+The idea to land: **an argument's visible part is small; its hidden assumptions and bias
+are the part below the water — find them, test them, and the argument is no longer
+invisible.** Teach the skill with a worked example, then guided practice (S-011). Frame
+critique as *care*, not attack: we read an argument closely to understand it better, and
+to notice who is left out. The **critical-thinking** lens is the spine: ask "what must
+be true for this to be true, and is it?" The **egalitarian** lens: bias often hides in
+the question of who is assumed to matter — "everyone" can silently mean "people like the
+speaker." The **global** lens: arguments are shaped by where they are made; an
+assumption that is obvious in one place is strange in another, and that difference is
+information, not a mistake. Keep questions open (philosophy §11) and distinguish
+evidence from values (philosophy §5): finding an assumption is a claim about *what the
+argument says*; judging whether that assumption is fair is a question of values.
+Preview: next lesson we rebuild the argument with the assumptions brought into the
+light.
 
 ## Procedure
 

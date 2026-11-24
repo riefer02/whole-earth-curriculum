@@ -111,21 +111,21 @@ how to do and see where it is taking us.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's **opening and retrieval
-pass**, so the goals are modest: **(1) recall four Grade-8 ideas — trade networks (S-323),
-colonization (S-326), slavery and the transatlantic trade (S-322, S-274), and resistance;
-(2) preview the unit's four strands — time/change/continuity, world cultures & knowledge
-traditions, geography & migration, power/resistance/liberation — and its seven goals;
-(3) plant the organizing idea: global history traces *change and continuity* and is told
-from *many voices*.** Do not try to teach the seven goals today; just name and locate
-them. The **global** lens: the same human story looks different depending on whose
-records, songs, and memories we read — so we hold many side by side. The **egalitarian**
-lens: whose voices have been left out of the textbooks, and whose have been centered?
-The **ethics** lens: telling history honestly means naming harm and giving credit
-accurately, not glorifying one nation. The **critical-thinking** lens: "change and
-continuity" is the analytic habit we carry forward all unit. Keep questions open: history
-is offered as questions and competing accounts, not a single revealed story (philosophy
-§11). Spacing note (S-039): this recall pass is what makes the unit's ideas stick later.
+It is the unit's **opening and retrieval pass**, so the goals are modest: **(1) recall
+four Grade-8 ideas — trade networks (S-323), colonization (S-326), slavery and the
+transatlantic trade (S-322, S-274), and resistance; (2) preview the unit's four
+strands — time/change/continuity, world cultures & knowledge traditions, geography &
+migration, power/resistance/liberation — and its seven goals; (3) plant the organizing
+idea: global history traces *change and continuity* and is told from *many voices*.** Do
+not try to teach the seven goals today; just name and locate them. The **global** lens:
+the same human story looks different depending on whose records, songs, and memories we
+read — so we hold many side by side. The **egalitarian** lens: whose voices have been
+left out of the textbooks, and whose have been centered? The **ethics** lens: telling
+history honestly means naming harm and giving credit accurately, not glorifying one
+nation. The **critical-thinking** lens: "change and continuity" is the analytic habit we
+carry forward all unit. Keep questions open: history is offered as questions and
+competing accounts, not a single revealed story (philosophy §11). Spacing note (S-039):
+this recall pass is what makes the unit's ideas stick later.
 
 ## Procedure
 

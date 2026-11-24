@@ -116,26 +116,26 @@ what you will do with them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **my responsibility as a
-steward of the Earth is to act — individually and with others — for all life, and I can say how,
-because the unit has given me four directions: care for technology, honest media, the living
-world, and shared action.** This is the unit's capstone reflection. Do not grade the grandness
-of the vision; grade the *specificity and honesty* of it. Honor each learner's vision as their
-own, never rank them, and keep the door open: stewardship is a practice begun, not a test
-passed.
+The idea to land: **my responsibility as a steward of the Earth is to act — individually
+and with others — for all life, and I can say how, because the unit has given me four
+directions: care for technology, honest media, the living world, and shared action.**
+This is the unit's capstone reflection. Do not grade the grandness of the vision; grade
+the *specificity and honesty* of it. Honor each learner's vision as their own, never
+rank them, and keep the door open: stewardship is a practice begun, not a test passed.
 
-The **ethics** lens: stewardship is an ethics of relationship and reciprocity — because I am
-given to, I give back, and my responsibility extends to beings and generations I will never
-meet (S-427). The **egalitarianism** lens: a steward acts *with* others, not above them —
-solidarity and mutual aid, where people meet one another's needs as equals, is the shape
-stewardship takes among humans (S-345). The **global** lens: the four directions are lived
-differently everywhere — a tree-planting movement in Kenya, river protectors, commons keepers —
-but they are the same four compass points the world over (S-059, S-416). The **technology**
-lens: the unit's whole stance returns here — technology neither worshiped nor feared, but
-stewarded, chosen with clear eyes for what it gives and costs (S-281). The **environment** lens:
-the compass's center is the unit's deepest claim — that human flourishing and the flourishing of
-the living Earth are not rivals but the same project, and acting for all life is acting for
-ourselves too (S-004, S-395).
+The **ethics** lens: stewardship is an ethics of relationship and reciprocity — because
+I am given to, I give back, and my responsibility extends to beings and generations I
+will never meet (S-427). The **egalitarianism** lens: a steward acts *with* others, not
+above them — solidarity and mutual aid, where people meet one another's needs as equals,
+is the shape stewardship takes among humans (S-345). The **global** lens: the four
+directions are lived differently everywhere — a tree-planting movement in Kenya, river
+protectors, commons keepers — but they are the same four compass points the world over
+(S-059, S-416). The **technology** lens: the unit's whole stance returns here —
+technology neither worshiped nor feared, but stewarded, chosen with clear eyes for what
+it gives and costs (S-281). The **environment** lens: the compass's center is the unit's
+deepest claim — that human flourishing and the flourishing of the living Earth are not
+rivals but the same project, and acting for all life is acting for ourselves too (S-004,
+S-395).
 
 ## Procedure
 

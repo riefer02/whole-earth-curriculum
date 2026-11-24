@@ -115,22 +115,22 @@ rules.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Empower, never frighten.** Teach the
-rules plainly and practice them so they become automatic: never touch matches, lighters,
-or a cooking flame without an adult; if you see smoke or fire, **tell an adult** and get
-out; if your clothes catch fire, **stop, drop, and roll** (stop moving, drop to the
-ground, cover your face, roll back and forth); if there is smoke, **crawl low** under it;
-and **know two ways out** of every room. Stress that these are grown-up jobs first — a
-child's job is to get out and get help, not to fight a fire. Adapt every motion for every
-body: a learner who uses a wheelchair practices the "two ways out" plan and how to alert
-an adult; a learner with limited movement learns to "drop and cover, then call" in a way
-that works for them. A learner who is deaf or hard of hearing must know a smoke alarm
-signal they can feel or see (a flashing strobe alarm or a trusted person); a learner who
-is blind or has low vision practices the route hand-over-hand and says the rules aloud.
-Practice the motions in the open, never near a real flame. The fire-safety steps follow
-widely taught guidance (stop-drop-roll, crawl low under smoke, know two ways out), as
-recommended by fire-safety and Red Cross organizations. This lesson opens D03.S4.04.01
-and leads into road and water safety.
+**Empower, never frighten.** Teach the rules plainly and practice them so they become
+automatic: never touch matches, lighters, or a cooking flame without an adult; if you
+see smoke or fire, **tell an adult** and get out; if your clothes catch fire, **stop,
+drop, and roll** (stop moving, drop to the ground, cover your face, roll back and
+forth); if there is smoke, **crawl low** under it; and **know two ways out** of every
+room. Stress that these are grown-up jobs first — a child's job is to get out and get
+help, not to fight a fire. Adapt every motion for every body: a learner who uses a
+wheelchair practices the "two ways out" plan and how to alert an adult; a learner with
+limited movement learns to "drop and cover, then call" in a way that works for them. A
+learner who is deaf or hard of hearing must know a smoke alarm signal they can feel or
+see (a flashing strobe alarm or a trusted person); a learner who is blind or has low
+vision practices the route hand-over-hand and says the rules aloud. Practice the motions
+in the open, never near a real flame. The fire-safety steps follow widely taught
+guidance (stop-drop-roll, crawl low under smoke, know two ways out), as recommended by
+fire-safety and Red Cross organizations. This lesson opens D03.S4.04.01 and leads into
+road and water safety.
 
 ## Procedure
 

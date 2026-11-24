@@ -111,16 +111,16 @@ that climbing and falling path.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Reading pitch is a **skill**, so use a
-worked example and guided practice (Kirschner, Sweller & Clark, 2006): point to each
-note, sing its name, and trace the shape with your hand before learners try alone. The
-five-note melody in the guide (C–D–E–F–G, or "do–re–mi–fa–sol") rises by steps — a
-friendly first melody. Learners may sing note names, solfège, or any neutral syllable.
-A learner who is deaf or hard of hearing can *see* the rising shape and match it by
-moving a hand or a set of colored bars up and down, or feel a pitched bar's vibration
-compared to another. A learner who is blind or has low vision can feel a row of chime
-bars or tuned bottles from low to high and play the pattern by touch. A learner who
-does not sing may play or trace the melody. Every voice and body reads music.
+Reading pitch is a **skill**, so use a worked example and guided practice (Kirschner,
+Sweller & Clark, 2006): point to each note, sing its name, and trace the shape with your
+hand before learners try alone. The five-note melody in the guide (C–D–E–F–G, or
+"do–re–mi–fa–sol") rises by steps — a friendly first melody. Learners may sing note
+names, solfège, or any neutral syllable. A learner who is deaf or hard of hearing can
+*see* the rising shape and match it by moving a hand or a set of colored bars up and
+down, or feel a pitched bar's vibration compared to another. A learner who is blind or
+has low vision can feel a row of chime bars or tuned bottles from low to high and play
+the pattern by touch. A learner who does not sing may play or trace the melody. Every
+voice and body reads music.
 
 ## Procedure
 

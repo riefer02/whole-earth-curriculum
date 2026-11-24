@@ -114,20 +114,20 @@ holding the door open. Today you learn to see which words open the door and whic
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) language can welcome or
-shut out — through jargon (words only insiders know), register (how formal or casual), in-group
-slang, and using one language over another in a mixed room; (2) exclusion is usually not meant,
-but it is real, and we can notice it; (3) the fix is not "never use technical words" but "make
-sure everyone can come in" — explain, translate, invite, and honor every language.** The ethics
-lens: whether we hold the door open is a question of right and wrong. The egalitarian lens is
-this lesson's heart: language is a gate, and an equal world keeps the gate open — 40 per cent of
-people globally cannot learn in a language they understand (S-019), which is why home language
-first matters. The global lens: many-language rooms are the normal human condition, not an
-exception. The community lens: a group that includes everyone in its words is a stronger group.
-The social-emotional lens: being shut out by words *hurts* — name that feeling gently, and do
-not ask anyone to relive it if they do not wish. Use scenarios that are real but not pointed at
-any one learner. Hold "everyone deserves to come in" as a value, distinct from the descriptive
-claim that language can exclude.
+The ideas to land: **(1) language can welcome or shut out — through jargon (words only
+insiders know), register (how formal or casual), in-group slang, and using one language
+over another in a mixed room; (2) exclusion is usually not meant, but it is real, and we
+can notice it; (3) the fix is not "never use technical words" but "make sure everyone
+can come in" — explain, translate, invite, and honor every language.** The ethics lens:
+whether we hold the door open is a question of right and wrong. The egalitarian lens is
+this lesson's heart: language is a gate, and an equal world keeps the gate open — 40 per
+cent of people globally cannot learn in a language they understand (S-019), which is why
+home language first matters. The global lens: many-language rooms are the normal human
+condition, not an exception. The community lens: a group that includes everyone in its
+words is a stronger group. The social-emotional lens: being shut out by words *hurts* —
+name that feeling gently, and do not ask anyone to relive it if they do not wish. Use
+scenarios that are real but not pointed at any one learner. Hold "everyone deserves to
+come in" as a value, distinct from the descriptive claim that language can exclude.
 
 ## Procedure
 

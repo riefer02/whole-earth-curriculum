@@ -116,18 +116,17 @@ mark. That page is a little history of the people closest to you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **This is a retrieval-and-integration
-lesson, and a portfolio artifact — but it is practice, not a test.** Learners are
-recalling two skills they already practiced (ordering events; comparing then and now)
-and combining them — spaced retrieval across the unit (Dunlosky et al., 2013). Model
-one full example first (Kirschner, Sweller & Clark, 2006): place three events on the
-line, then mark one "changed" and one "stayed the same" beside a chosen event, saying
-your reasoning aloud. **Honor every family shape:** no family is "correct," and a
-learner may use events from their *community* (a new building, a festival, a harvest)
-if family events feel private. Honor every body: a learner who is blind or has low
-vision sequences objects by touch and says or signs the order; a learner who does not
-use a speaking voice points, acts, or draws. The artifact is evidence of growth, never
-a ranking.
+**This is a retrieval-and-integration lesson, and a portfolio artifact — but it is
+practice, not a test.** Learners are recalling two skills they already practiced
+(ordering events; comparing then and now) and combining them — spaced retrieval across
+the unit (Dunlosky et al., 2013). Model one full example first (Kirschner, Sweller &
+Clark, 2006): place three events on the line, then mark one "changed" and one "stayed
+the same" beside a chosen event, saying your reasoning aloud. **Honor every family
+shape:** no family is "correct," and a learner may use events from their *community* (a
+new building, a festival, a harvest) if family events feel private. Honor every body: a
+learner who is blind or has low vision sequences objects by touch and says or signs the
+order; a learner who does not use a speaking voice points, acts, or draws. The artifact
+is evidence of growth, never a ranking.
 
 ## Procedure
 

@@ -117,16 +117,15 @@ picture honestly.
 
 ## Facilitator note
 
-Written to the learner ("you"). Two moves to land: (1) the **parts of a bar graph**
-(labeled axes, an even scale, equal-width bars) and (2) the habit of **support or
-revise** — the data answers the question, not the other way around. This is the
-unit's ethics anchor: we teach learners to *let the data answer*, not to bend data to
-a hoped-for answer. Model the worked example: read the tallest bar, say aloud what it
-means, then check the claim against it. The graph in the asset deliberately revises
-the claim (thin cotton beats the thick cloth), because that is the more honest — and
-more common — outcome, and it normalizes revision rather than treating a "wrong"
-claim as failure. Distinguish evidence ("the cotton bar is tallest") from a value
-("revision is good, not shameful"). See
+Two moves to land: (1) the **parts of a bar graph** (labeled axes, an even scale,
+equal-width bars) and (2) the habit of **support or revise** — the data answers the
+question, not the other way around. This is the unit's ethics anchor: we teach learners
+to *let the data answer*, not to bend data to a hoped-for answer. Model the worked
+example: read the tallest bar, say aloud what it means, then check the claim against it.
+The graph in the asset deliberately revises the claim (thin cotton beats the thick
+cloth), because that is the more honest — and more common — outcome, and it normalizes
+revision rather than treating a "wrong" claim as failure. Distinguish evidence ("the
+cotton bar is tallest") from a value ("revision is good, not shameful"). See
 [`docs/facilitation.md`](../../../../../../docs/facilitation.md).
 
 ## Procedure

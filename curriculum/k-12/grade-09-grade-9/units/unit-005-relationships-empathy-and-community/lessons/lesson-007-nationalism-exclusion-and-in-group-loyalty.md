@@ -107,22 +107,25 @@ can also exclude, dehumanize, and burn. Today you look honestly at both faces of
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) in-group loyalty is a deep human
-tendency — even arbitrary group labels produce favoritism toward "us" (the minimal-group experiments,
-S-232); (2) this loyalty *builds* community: belonging, trust, shared purpose, and the solidarity that wins
-liberation; (3) it also *limits* community: an out-group is excluded, stereotyped, and sometimes dehumanized;
-(4) nationalism is a modern form of in-group loyalty built around an "imagined community" — a nation whose
-members will never meet but imagine themselves as one (S-415); (5) the same nationalism can liberate a
-colonized people *and* become a new exclusion — so the honest question is not "is loyalty good or bad?" but
-"who does this 'us' include, who does it leave out, and at what cost?"** This is a *concept* with real moral
-weight, so use inquiry and careful discussion, not drill (philosophy §13). The global/anthropological lens:
-nationalism is historically recent and culturally specific — for most of human history people belonged by
-kinship, place, faith, or empire, not nation-state. The ethics lens: loyalty to one's own is good, but it
-does not license harm to outsiders. The egalitarian lens: every person outside the line is as fully human as
-everyone inside it. The technology lens: online platforms can harden "us versus them" by showing us only our
-side and feeding outrage against the out-group. Hold this topic with care — learners may hold deep national
-or ethnic loyalties; honor them while inviting honest reflection, and keep the posture of questions, not
-verdicts.
+The ideas to land: **(1) in-group loyalty is a deep human tendency — even arbitrary
+group labels produce favoritism toward "us" (the minimal-group experiments, S-232); (2)
+this loyalty *builds* community: belonging, trust, shared purpose, and the solidarity
+that wins liberation; (3) it also *limits* community: an out-group is excluded,
+stereotyped, and sometimes dehumanized; (4) nationalism is a modern form of in-group
+loyalty built around an "imagined community" — a nation whose members will never meet
+but imagine themselves as one (S-415); (5) the same nationalism can liberate a colonized
+people *and* become a new exclusion — so the honest question is not "is loyalty good or
+bad?" but "who does this 'us' include, who does it leave out, and at what cost?"** This
+is a *concept* with real moral weight, so use inquiry and careful discussion, not drill
+(philosophy §13). The global/anthropological lens: nationalism is historically recent
+and culturally specific — for most of human history people belonged by kinship, place,
+faith, or empire, not nation-state. The ethics lens: loyalty to one's own is good, but
+it does not license harm to outsiders. The egalitarian lens: every person outside the
+line is as fully human as everyone inside it. The technology lens: online platforms can
+harden "us versus them" by showing us only our side and feeding outrage against the
+out-group. Hold this topic with care — learners may hold deep national or ethnic
+loyalties; honor them while inviting honest reflection, and keep the posture of
+questions, not verdicts.
 
 ## Procedure
 

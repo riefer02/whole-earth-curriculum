@@ -115,18 +115,16 @@ people who use it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. The leap from twenty to one hundred twenty is large, so keep
-the tone playful and unhurried. **There is no such thing as "too slow" at counting,
-and no learner's speed measures their smartness.** Count in the home language; number
-words differ across languages and all are correct. Model the one new skill —
-bundling ten and counting by tens — as a worked example before learners try it on
-their own (philosophy §13). For learners who are Deaf or hard of hearing, count in
-sign or by tapping each bundle; for learners who are blind or low-vision, count by
-moving objects into cups so the number grows by feel and sound. Learners with limited
-hand or body movement count by voice or sign and direct a partner to move each
-object. Do not rank learners by how high they can count; mastery arrives at its own
-pace for each child.
+The leap from twenty to one hundred twenty is large, so keep the tone playful and
+unhurried. **There is no such thing as "too slow" at counting, and no learner's speed
+measures their smartness.** Count in the home language; number words differ across
+languages and all are correct. Model the one new skill — bundling ten and counting by
+tens — as a worked example before learners try it on their own (philosophy §13). For
+learners who are Deaf or hard of hearing, count in sign or by tapping each bundle; for
+learners who are blind or low-vision, count by moving objects into cups so the number
+grows by feel and sound. Learners with limited hand or body movement count by voice or
+sign and direct a partner to move each object. Do not rank learners by how high they can
+count; mastery arrives at its own pace for each child.
 
 ## Procedure
 

@@ -116,14 +116,13 @@ see. Welcoming every body is not just kind; it makes the game better for everyon
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The key move is *adapting the game, not
-the child*: a rule that leaves someone out is the problem, not the body. Model one
-worked example aloud — "if we only pass over our heads, someone seated can't reach, so
-let's pass to the side" — then let learners design. Keep it joyful and concrete. If a
-learner uses an aid, honor their expertise: they know best what works for them, and
-their ideas lead. Never single anyone out as "the example." This lesson carries forward
-Lesson 6's respect for diverse bodies and sets up the next two lessons on rules and fair
-play.
+The key move is *adapting the game, not the child*: a rule that leaves someone out is
+the problem, not the body. Model one worked example aloud — "if we only pass over our
+heads, someone seated can't reach, so let's pass to the side" — then let learners
+design. Keep it joyful and concrete. If a learner uses an aid, honor their expertise:
+they know best what works for them, and their ideas lead. Never single anyone out as
+"the example." This lesson carries forward Lesson 6's respect for diverse bodies and
+sets up the next two lessons on rules and fair play.
 
 ## Procedure
 

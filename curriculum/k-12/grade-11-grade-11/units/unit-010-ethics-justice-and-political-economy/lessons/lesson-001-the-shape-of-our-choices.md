@@ -119,22 +119,22 @@ step of this unit — because you cannot change a structure you cannot see.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **we choose, but we
-choose inside structures — rules, resources, and roles — that shape the menu of
-options (concept, held as description, not as a claim that choice is an illusion).**
-Then the egalitarian turn: **those structures distribute resources unevenly, so the
-menu is not the same length for everyone (UNDP Human Development Report, S-283).** Keep
-the two ideas held together — agency *and* structure — rather than collapsing into
-"everything is determined" or "everything is free choice." Both extremes are false and
-both are tempting at this age; hold the tension as the learning.
+The idea to land: **we choose, but we choose inside structures — rules, resources, and
+roles — that shape the menu of options (concept, held as description, not as a claim
+that choice is an illusion).** Then the egalitarian turn: **those structures distribute
+resources unevenly, so the menu is not the same length for everyone (UNDP Human
+Development Report, S-283).** Keep the two ideas held together — agency *and*
+structure — rather than collapsing into "everything is determined" or "everything is
+free choice." Both extremes are false and both are tempting at this age; hold the
+tension as the learning.
 
-The **ethics** lens: who is responsible for an outcome when choice is shaped is
-exactly the open question we carry into Lesson 2. The **egalitarianism** lens: notice
-whose menu is longer and whose is shorter. The **global** lens: structures differ from
-place to place (a farm's rules, a city's market, a small island's transport) — none is
-the default. The **critical-thinking** lens: distinguishing the *choices I can
-imagine* from the *choices actually open to me* is an act of careful description, not
-opinion. Preview: Lesson 2 takes up responsibility head-on.
+The **ethics** lens: who is responsible for an outcome when choice is shaped is exactly
+the open question we carry into Lesson 2. The **egalitarianism** lens: notice whose menu
+is longer and whose is shorter. The **global** lens: structures differ from place to
+place (a farm's rules, a city's market, a small island's transport) — none is the
+default. The **critical-thinking** lens: distinguishing the *choices I can imagine* from
+the *choices actually open to me* is an act of careful description, not opinion.
+Preview: Lesson 2 takes up responsibility head-on.
 
 ## Procedure
 

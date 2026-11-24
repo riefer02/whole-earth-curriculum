@@ -119,14 +119,13 @@ harbor town alike.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The heart of it is the *signal → next
-step* chain: jealousy → notice and name what I want; guilt → make it right; pride →
-share and celebrate. That chain is what turns a feeling from something that happens *to*
-a learner into something they can *use*. Keep the next steps gentle and real — "make it
-right" might mean an apology, returning a thing, or simply deciding to do better next
-time; it is not a punishment. Some learners may share situations that are heavy; stay
-calm, name the feeling with them, and honor their right to pass. See
-`docs/facilitation.md` on holding difficult topics.
+The heart of it is the *signal → next step* chain: jealousy → notice and name what I
+want; guilt → make it right; pride → share and celebrate. That chain is what turns a
+feeling from something that happens *to* a learner into something they can *use*. Keep
+the next steps gentle and real — "make it right" might mean an apology, returning a
+thing, or simply deciding to do better next time; it is not a punishment. Some learners
+may share situations that are heavy; stay calm, name the feeling with them, and honor
+their right to pass. See `docs/facilitation.md` on holding difficult topics.
 
 ## Procedure
 

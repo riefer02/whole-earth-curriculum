@@ -116,23 +116,24 @@ becomes theirs.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a body of music is
-several pieces united by one voice — a recurring motif, a shared framework, a consistent
-feel — showing skill that develops across the set.** Teach motif-and-variation explicitly,
-then let learners make three pieces (S-011). Remind learners that "skill" here is audible
-*intention* — a repeated rhythm, a chosen scale, a returning phrase — not only virtuosity.
+The idea to land: **a body of music is several pieces united by one voice — a recurring
+motif, a shared framework, a consistent feel — showing skill that develops across the
+set.** Teach motif-and-variation explicitly, then let learners make three pieces
+(S-011). Remind learners that "skill" here is audible *intention* — a repeated rhythm, a
+chosen scale, a returning phrase — not only virtuosity.
 
-The **ethics** lens: a musical voice is a responsibility — when a body of work borrows from
-a tradition, the maker must credit it and its living keepers. The **egalitarianism** lens:
-a body of music can be made with nothing but the voice and body — clapped, hummed, tapped —
-so no instrument and no money is a barrier. The **global** lens: the raga of Indian
-classical music is a melodic framework with a scale, characteristic phrases, and an
-associated mood and time, from which performers have generated countless pieces across
-centuries — a living tradition, honored with respectful questions, never imitated carelessly
-(S-366). The **technology** lens: recording tools let a maker hear their own voice back and
-build a body over time; free tools such as BandLab put this in any learner's hands (S-443).
-The **environment** lens: found sound — rain, wind, footsteps, work — can be the material of
-a body of music, tying the voice to a place. Preview: Lesson 6 puts the body into words.
+The **ethics** lens: a musical voice is a responsibility — when a body of work borrows
+from a tradition, the maker must credit it and its living keepers. The
+**egalitarianism** lens: a body of music can be made with nothing but the voice and
+body — clapped, hummed, tapped — so no instrument and no money is a barrier. The
+**global** lens: the raga of Indian classical music is a melodic framework with a scale,
+characteristic phrases, and an associated mood and time, from which performers have
+generated countless pieces across centuries — a living tradition, honored with
+respectful questions, never imitated carelessly (S-366). The **technology** lens:
+recording tools let a maker hear their own voice back and build a body over time; free
+tools such as BandLab put this in any learner's hands (S-443). The **environment** lens:
+found sound — rain, wind, footsteps, work — can be the material of a body of music,
+tying the voice to a place. Preview: Lesson 6 puts the body into words.
 
 ## Procedure
 

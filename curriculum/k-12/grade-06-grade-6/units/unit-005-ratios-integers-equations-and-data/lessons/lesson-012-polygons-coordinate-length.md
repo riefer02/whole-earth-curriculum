@@ -114,18 +114,20 @@ for a house in Lagos, a terrace farm in the Andes, or a canal in the Netherlands
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) a **horizontal** side's endpoints
-share the same y-value, so its length is the difference of the x-values (subtract, larger minus smaller);
-(2) a **vertical** side's endpoints share the same x-value, so its length is the difference of the
-y-values; and (3) length is always positive — distance has no direction, so we take the larger coordinate
-minus the smaller (or the absolute value of the difference). Model a worked example first, then guide a
-second before independent work (Kirschner, Sweller & Clark, 2006). The classic slip is subtracting in the
-wrong order and getting a negative length — fix it by always saying "distance is positive." Retrieval:
-ask learners to recall yesterday's polygon drawing and the signed numbers from earlier — subtracting
-negative coordinates is where both skills meet. The critical-thinking lens: checking a subtraction against
-a visual count of the grid is honest reasoning (`docs/philosophy.md` §7). Note the global point: reading
-distance from coordinates is the same idea as reading a map's grid, used in surveying and navigation
-traditions worldwide.
+The ideas to land: (1) a **horizontal** side's endpoints share the same y-value, so its
+length is the difference of the x-values (subtract, larger minus smaller); (2) a
+**vertical** side's endpoints share the same x-value, so its length is the difference of
+the y-values; and (3) length is always positive — distance has no direction, so we take
+the larger coordinate minus the smaller (or the absolute value of the difference). Model
+a worked example first, then guide a second before independent work (Kirschner, Sweller
+& Clark, 2006). The classic slip is subtracting in the wrong order and getting a
+negative length — fix it by always saying "distance is positive." Retrieval: ask
+learners to recall yesterday's polygon drawing and the signed numbers from earlier —
+subtracting negative coordinates is where both skills meet. The critical-thinking lens:
+checking a subtraction against a visual count of the grid is honest reasoning
+(`docs/philosophy.md` §7). Note the global point: reading distance from coordinates is
+the same idea as reading a map's grid, used in surveying and navigation traditions
+worldwide.
 
 ## Procedure
 

@@ -114,21 +114,24 @@ ecosystems recover, and what helps them bounce back.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a disturbance — fire, flood, drought —
-is not the end of an ecosystem but a change, and resilience is the ecosystem's capacity to recover and
-regain its structure and function.** The worked example is a **forest after fire** (S-152, S-107): the
-fire clears old growth; **surviving seeds, roots, and soil life** sprout first; then grasses, shrubs, and
-young trees return in a sequence called **succession**; animals follow the food; and over years a fuller
-forest returns. **What helps recovery:** surviving seeds and roots in the soil; seeds and animals arriving
-from nearby healthy land (so connection matters); and conditions like moisture and soil that the fire left
-behind. The **environment** lens is this lesson's core: ecosystems are living systems we are part of, not
-backdrops. The **global** lens: some ecosystems are adapted to fire and *depend* on it — many grasslands
-and some forests need occasional fire to renew, and many Indigenous peoples have used fire to care for
-land for thousands of years (S-320, S-321) — which we will revisit in Lesson 9. The **ethics** lens: how
-humans respond to a disturbance — letting land recover, or building over it — is a choice about the living
-world. The **technology** lens: satellites and sensors now help people watch recovery happen and plan for
-it. Keep claims precise and cited; distinguish what evidence shows from what we value (philosophy §5).
-Resilience is not "indestructible" — a system pushed too far can change permanently, a caution for the
+The idea to land: **a disturbance — fire, flood, drought — is not the end of an
+ecosystem but a change, and resilience is the ecosystem's capacity to recover and regain
+its structure and function.** The worked example is a **forest after fire** (S-152,
+S-107): the fire clears old growth; **surviving seeds, roots, and soil life** sprout
+first; then grasses, shrubs, and young trees return in a sequence called **succession**;
+animals follow the food; and over years a fuller forest returns. **What helps
+recovery:** surviving seeds and roots in the soil; seeds and animals arriving from
+nearby healthy land (so connection matters); and conditions like moisture and soil that
+the fire left behind. The **environment** lens is this lesson's core: ecosystems are
+living systems we are part of, not backdrops. The **global** lens: some ecosystems are
+adapted to fire and *depend* on it — many grasslands and some forests need occasional
+fire to renew, and many Indigenous peoples have used fire to care for land for thousands
+of years (S-320, S-321) — which we will revisit in Lesson 9. The **ethics** lens: how
+humans respond to a disturbance — letting land recover, or building over it — is a
+choice about the living world. The **technology** lens: satellites and sensors now help
+people watch recovery happen and plan for it. Keep claims precise and cited; distinguish
+what evidence shows from what we value (philosophy §5). Resilience is not
+"indestructible" — a system pushed too far can change permanently, a caution for the
 next lessons.
 
 ## Procedure

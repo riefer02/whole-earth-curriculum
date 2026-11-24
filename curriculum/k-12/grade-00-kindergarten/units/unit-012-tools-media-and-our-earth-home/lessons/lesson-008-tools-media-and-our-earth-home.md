@@ -120,11 +120,11 @@ Earth we share.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, this is a celebration,
-not a test. Help each learner recall one thing from each part of the unit and add it to
-the shared Earth home picture. Keep the tone joyful, hopeful, and inclusive — every
-tool, every story, every living thing, and every act of care is welcome. The Earth is
-our shared home, and we meet it with care, never with worship or fear.
+As facilitator, this is a celebration, not a test. Help each learner recall one thing
+from each part of the unit and add it to the shared Earth home picture. Keep the tone
+joyful, hopeful, and inclusive — every tool, every story, every living thing, and every
+act of care is welcome. The Earth is our shared home, and we meet it with care, never
+with worship or fear.
 
 ## Procedure
 

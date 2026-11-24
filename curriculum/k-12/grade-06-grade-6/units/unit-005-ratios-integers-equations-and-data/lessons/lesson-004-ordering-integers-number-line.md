@@ -115,17 +115,18 @@ numbers is how people everywhere decide what is higher, colder, deeper, or farth
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) **integers** are the whole
-numbers plus their negatives and zero; (2) on a horizontal line, **left is smaller, right is larger**;
-and (3) among negatives, the one *farther* from zero is smaller (−4 < −1, even though 4 > 1). Model a
-worked example, then guide a second before independent work (Kirschner, Sweller & Clark, 2006). The
-classic slip is saying "−4 is bigger than −1" because 4 > 1 — fix it by always returning to the line.
-Retrieval: ask learners to recall yesterday's vertical line (temperature/elevation) — today the same
-integers lie on a horizontal line and get ordered. The global point worth naming: the horizontal number
-line with negatives became standard through work across cultures (notably in India and the
-Persian/Arabic world), and the idea of "below zero" is older than any single notation. The critical
-thinking lens: reading order carefully — not guessing by the size of the digit — is an honest-reasoning
-habit (`docs/philosophy.md` §7).
+The ideas to land: (1) **integers** are the whole numbers plus their negatives and zero;
+(2) on a horizontal line, **left is smaller, right is larger**; and (3) among negatives,
+the one *farther* from zero is smaller (−4 < −1, even though 4 > 1). Model a worked
+example, then guide a second before independent work (Kirschner, Sweller & Clark, 2006).
+The classic slip is saying "−4 is bigger than −1" because 4 > 1 — fix it by always
+returning to the line. Retrieval: ask learners to recall yesterday's vertical line
+(temperature/elevation) — today the same integers lie on a horizontal line and get
+ordered. The global point worth naming: the horizontal number line with negatives became
+standard through work across cultures (notably in India and the Persian/Arabic world),
+and the idea of "below zero" is older than any single notation. The critical thinking
+lens: reading order carefully — not guessing by the size of the digit — is an
+honest-reasoning habit (`docs/philosophy.md` §7).
 
 ## Procedure
 

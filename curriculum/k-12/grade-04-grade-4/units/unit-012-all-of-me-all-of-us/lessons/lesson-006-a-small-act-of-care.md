@@ -116,21 +116,20 @@ act and do it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It moves from **planning** (Lesson 3's
-plan-try-adjust) and **roles** (Lesson 4) into **organized care** — the unit's action
-heart. The commitment: **care is organized, not random, and it serves the common good,
-not just ourselves.** Choose an act that is real, free, and safe — tidying a shared
-space, watering a class plant, wiping tables, helping carry for a neighbor, clearing a
-path. Model the planning as a worked example first (what/where/who/when) before
-independent work, since organizing is a new procedural skill. Keep it egalitarian: every
-task within the act matters equally, and no one's part is "more important" because it is
-more visible. Handle ability gently — find a part for every body (a learner with limited
-mobility can be the "checker" or "caller" who verifies each part is done). The
-"environment" lens is natural here: caring for a shared space is also caring for the
-living world. For a learner who is blind or has low vision, assign a part that uses touch,
-hearing, or verbal checking. For a non-speaking learner, accept acting, pointing, or a
-partner voicing the plan. Close by recording the act — the celebration (Lesson 7) will
-show what care looked like.
+It moves from **planning** (Lesson 3's plan-try-adjust) and **roles** (Lesson 4) into
+**organized care** — the unit's action heart. The commitment: **care is organized, not
+random, and it serves the common good, not just ourselves.** Choose an act that is real,
+free, and safe — tidying a shared space, watering a class plant, wiping tables, helping
+carry for a neighbor, clearing a path. Model the planning as a worked example first
+(what/where/who/when) before independent work, since organizing is a new procedural
+skill. Keep it egalitarian: every task within the act matters equally, and no one's part
+is "more important" because it is more visible. Handle ability gently — find a part for
+every body (a learner with limited mobility can be the "checker" or "caller" who
+verifies each part is done). The "environment" lens is natural here: caring for a shared
+space is also caring for the living world. For a learner who is blind or has low vision,
+assign a part that uses touch, hearing, or verbal checking. For a non-speaking learner,
+accept acting, pointing, or a partner voicing the plan. Close by recording the act — the
+celebration (Lesson 7) will show what care looked like.
 
 ## Procedure
 

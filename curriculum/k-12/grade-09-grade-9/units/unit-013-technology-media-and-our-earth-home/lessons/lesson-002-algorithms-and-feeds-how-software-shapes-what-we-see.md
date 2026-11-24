@@ -110,20 +110,19 @@ choosing for yourself instead of being chosen for.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a recommendation
-algorithm ranks a flood of possible content using signals about the user — clicks, watch
-time, shares — and shows only a ranked slice; the effect is that feeds hold attention,
-but they do not show the whole picture.** Keep the mechanism concrete and honest: an
-algorithm is just a set of steps a computer follows, and a feed is the ranked list those
-steps produce. The signals named (clicks, watch time, shares) are the ones platforms
-commonly describe (S-481). The **technology** lens is the heart here. The **ethics**
-lens: is it right that the content most likely to hold attention — not the most true or
-most important — rises to the top, and who decides? The **egalitarian** lens: feeds treat
-people as audiences to be kept engaged; ask who profits and who is served. The
-**critical-thinking** lens: "what I see" is not "all there is" — a claim to hold open,
-not a fact to accept. Model the ranking step once, then let learners practice (worked
-example → guided practice, S-011). Do not moralize about screen use; invite honest
-noticing (facilitation.md).
+The idea to land: **a recommendation algorithm ranks a flood of possible content using
+signals about the user — clicks, watch time, shares — and shows only a ranked slice; the
+effect is that feeds hold attention, but they do not show the whole picture.** Keep the
+mechanism concrete and honest: an algorithm is just a set of steps a computer follows,
+and a feed is the ranked list those steps produce. The signals named (clicks, watch
+time, shares) are the ones platforms commonly describe (S-481). The **technology** lens
+is the heart here. The **ethics** lens: is it right that the content most likely to hold
+attention — not the most true or most important — rises to the top, and who decides? The
+**egalitarian** lens: feeds treat people as audiences to be kept engaged; ask who
+profits and who is served. The **critical-thinking** lens: "what I see" is not "all
+there is" — a claim to hold open, not a fact to accept. Model the ranking step once,
+then let learners practice (worked example → guided practice, S-011). Do not moralize
+about screen use; invite honest noticing (facilitation.md).
 
 ## Procedure
 

@@ -116,20 +116,20 @@ answer your own thirst.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Water is a human need and a question of
-justice, not a personal failing.** Teach why water matters and how to answer thirst, then
-hold the global truth gently: many people do not have clean water to drink, and that is a
-fairness problem we can work on — not something to make any learner feel ashamed of their
-own home. Never shame a learner for being thirsty or for having little water at home. How
-much water a body needs varies with weather, activity, and the person, so "drink when
-thirsty" is the rule, not a fixed amount. A learner who cannot drink on their own is
-helped without comment; a learner who does not use a speaking voice signs or points
-"drink" and shows thirst; a learner who is blind or has low vision feels the cup and the
-water's coolness and hears thirst named by body signs; a learner who is deaf or hard of
-hearing follows the picture and demonstrations from the front, since every idea is shown,
-not only told. The health facts are from the World Health Organization: water is
-essential to life, and safe drinking-water keeps bodies well. This lesson deepens Grade
-2's water objective (U.02.008) into the unit's "why water matters" look.
+**Water is a human need and a question of justice, not a personal failing.** Teach why
+water matters and how to answer thirst, then hold the global truth gently: many people
+do not have clean water to drink, and that is a fairness problem we can work on — not
+something to make any learner feel ashamed of their own home. Never shame a learner for
+being thirsty or for having little water at home. How much water a body needs varies
+with weather, activity, and the person, so "drink when thirsty" is the rule, not a fixed
+amount. A learner who cannot drink on their own is helped without comment; a learner who
+does not use a speaking voice signs or points "drink" and shows thirst; a learner who is
+blind or has low vision feels the cup and the water's coolness and hears thirst named by
+body signs; a learner who is deaf or hard of hearing follows the picture and
+demonstrations from the front, since every idea is shown, not only told. The health
+facts are from the World Health Organization: water is essential to life, and safe
+drinking-water keeps bodies well. This lesson deepens Grade 2's water objective
+(U.02.008) into the unit's "why water matters" look.
 
 ## Procedure
 

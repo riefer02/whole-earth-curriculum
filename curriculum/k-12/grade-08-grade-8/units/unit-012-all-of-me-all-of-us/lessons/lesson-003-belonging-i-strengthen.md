@@ -110,20 +110,22 @@ Today you choose to be someone who makes room.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The goal: **each learner analyzes who is included and
-who is left out, and plans one concrete, doable act to strengthen belonging this week.** The act must
-be small enough to actually happen — a saved seat, a learned name, an invitation — not a grand scheme.
-The **critical-thinking** lens: noticing that circles form almost by habit is the first step to
-widening them; in-groups and out-groups can arise from nothing more than a shared label (S-232). The
-**egalitarian** lens: the question is never only "are we friendly?" but "who is always left out, and
-why?" — belonging is shaped by how a person's identity is received, and inclusive settings treat
-difference as ordinary rather than deficient (S-235). The **ethics** lens: welcoming the stranger is
-treated across cultures as a core duty, not a nicety. The **global** lens: what "welcome" looks like
-differs — a shared meal, a spoken greeting, a place made at the fire — but the underlying act of
-making room recurs everywhere. The **technology** lens: online spaces can include (a group that
-welcomes a newcomer in a shared language) or exclude (a chat that ignores or mocks). Keep this safe:
-no one is required to confess a moment of being excluded; use the case cards as the shared examples.
-Celebrate collective action — many small welcomes add up to one wider circle (S-233).
+The goal: **each learner analyzes who is included and who is left out, and plans one
+concrete, doable act to strengthen belonging this week.** The act must be small enough
+to actually happen — a saved seat, a learned name, an invitation — not a grand scheme.
+The **critical-thinking** lens: noticing that circles form almost by habit is the first
+step to widening them; in-groups and out-groups can arise from nothing more than a
+shared label (S-232). The **egalitarian** lens: the question is never only "are we
+friendly?" but "who is always left out, and why?" — belonging is shaped by how a
+person's identity is received, and inclusive settings treat difference as ordinary
+rather than deficient (S-235). The **ethics** lens: welcoming the stranger is treated
+across cultures as a core duty, not a nicety. The **global** lens: what "welcome" looks
+like differs — a shared meal, a spoken greeting, a place made at the fire — but the
+underlying act of making room recurs everywhere. The **technology** lens: online spaces
+can include (a group that welcomes a newcomer in a shared language) or exclude (a chat
+that ignores or mocks). Keep this safe: no one is required to confess a moment of being
+excluded; use the case cards as the shared examples. Celebrate collective action — many
+small welcomes add up to one wider circle (S-233).
 
 ## Procedure
 

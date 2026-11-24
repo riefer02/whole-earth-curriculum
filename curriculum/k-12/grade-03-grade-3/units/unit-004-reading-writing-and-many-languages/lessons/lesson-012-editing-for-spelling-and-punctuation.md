@@ -109,22 +109,20 @@ writing system.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Editing is a taught skill: model it explicitly with a worked
-example — fix a misspelled word, add a missing period, add a capital — then guide
-practice (Kirschner, Sweller & Clark, 2006). Keep editing distinct from revising:
-revising makes meaning clearer; editing makes the marks correct. The punctuation
-marks to teach at this level are the period, question mark, and exclamation mark, plus
-a capital to start a sentence — in whatever writing system the learner uses, since
-some scripts have no capitals and different end marks. Script-agnostic: honor the
-learner's own system's conventions. A learner who is Deaf or hard of hearing edits in
-writing or sign the same way. A learner who is blind or has low vision edits by
-dictation, on a braille writer, or by listening to the text read back and naming the
-fixes. Never make editing a hunt for "wrongness" to shame; it is care for the reader,
-and it is celebrated. Where a spelling check is used, notice what it does — it
-catches some slips and saves time — and what it cannot do: it does not always know
-which word you meant, so the writer's own eyes and care finish the job. A tool is a
-helper, never a judge.
+Editing is a taught skill: model it explicitly with a worked example — fix a misspelled
+word, add a missing period, add a capital — then guide practice (Kirschner, Sweller &
+Clark, 2006). Keep editing distinct from revising: revising makes meaning clearer;
+editing makes the marks correct. The punctuation marks to teach at this level are the
+period, question mark, and exclamation mark, plus a capital to start a sentence — in
+whatever writing system the learner uses, since some scripts have no capitals and
+different end marks. Script-agnostic: honor the learner's own system's conventions. A
+learner who is Deaf or hard of hearing edits in writing or sign the same way. A learner
+who is blind or has low vision edits by dictation, on a braille writer, or by listening
+to the text read back and naming the fixes. Never make editing a hunt for "wrongness" to
+shame; it is care for the reader, and it is celebrated. Where a spelling check is used,
+notice what it does — it catches some slips and saves time — and what it cannot do: it
+does not always know which word you meant, so the writer's own eyes and care finish the
+job. A tool is a helper, never a judge.
 
 ## Procedure
 

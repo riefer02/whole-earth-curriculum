@@ -111,23 +111,23 @@ once.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **global trade and
-media technology spread traditions, and they transform them in two ways at once —
-fusion creates new, credited blends, while homogenization thins distinct traditions
-toward sameness; the home tradition also keeps living and adapting.** Model the two
-outcomes with one worked example before learners analyze their own (S-011).
+The idea to land: **global trade and media technology spread traditions, and they
+transform them in two ways at once — fusion creates new, credited blends, while
+homogenization thins distinct traditions toward sameness; the home tradition also keeps
+living and adapting.** Model the two outcomes with one worked example before learners
+analyze their own (S-011).
 
 The **global** lens is the spine: Haitian Creole is a full language born of contact
 between enslaved Africans and French colonists, now spoken by millions — not a broken
-version of anything (S-475); a food like the potato moved from the Andes into
-countless cuisines, becoming "native" to new tables (S-054); music, dance, and craft
-travel through recordings and screens, protected as living heritage by UNESCO's
+version of anything (S-475); a food like the potato moved from the Andes into countless
+cuisines, becoming "native" to new tables (S-054); music, dance, and craft travel
+through recordings and screens, protected as living heritage by UNESCO's
 intangible-heritage framework (S-056). The **technology** lens: the printing press,
 radio, recording, and streaming each changed *how* a tradition spreads — faster and
-further, but also more filtered through whoever controls the channel. The **ethics**
-and **egalitarian** lenses: fusion with credit is exchange; fusion without credit is
-taking (recall Lesson 4); and homogenization often favors the powerful. Preview:
-Lesson 7 turns to how colonization reshaped populations, environments, and borders.
+further, but also more filtered through whoever controls the channel. The **ethics** and
+**egalitarian** lenses: fusion with credit is exchange; fusion without credit is taking
+(recall Lesson 4); and homogenization often favors the powerful. Preview: Lesson 7 turns
+to how colonization reshaped populations, environments, and borders.
 
 ## Procedure
 

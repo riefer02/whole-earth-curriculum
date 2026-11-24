@@ -114,18 +114,17 @@ sequence and repeat it the same way.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. A sequence is a **skill structure**, so model it once — a start
-pose, two moves, an end pose — before learners make their own (Kirschner, Sweller &
-Clark, 2006). There is no correct sequence; a learner's own order is their dance, and
-every body tells its own story. A learner who uses a wheelchair or moves with support
-does the whole sequence from where they are — a "start" can be hands on knees, a
-"move" a raised arm or a turn of the head, an "end" open hands, still. A learner who
-is blind or has low vision follows spoken counts ("one, reach up; two, turn") or holds
-a partner's elbow to feel the moves. A learner who is Deaf or hard of hearing follows
-a visible beat — a tap on a drum or the floor — and your modeled moves. A learner who
-does not speak shows the sequence with the body itself and tells the order by
-pointing. Watching and copying is full participation.
+A sequence is a **skill structure**, so model it once — a start pose, two moves, an end
+pose — before learners make their own (Kirschner, Sweller & Clark, 2006). There is no
+correct sequence; a learner's own order is their dance, and every body tells its own
+story. A learner who uses a wheelchair or moves with support does the whole sequence
+from where they are — a "start" can be hands on knees, a "move" a raised arm or a turn
+of the head, an "end" open hands, still. A learner who is blind or has low vision
+follows spoken counts ("one, reach up; two, turn") or holds a partner's elbow to feel
+the moves. A learner who is Deaf or hard of hearing follows a visible beat — a tap on a
+drum or the floor — and your modeled moves. A learner who does not speak shows the
+sequence with the body itself and tells the order by pointing. Watching and copying is
+full participation.
 
 ## Procedure
 

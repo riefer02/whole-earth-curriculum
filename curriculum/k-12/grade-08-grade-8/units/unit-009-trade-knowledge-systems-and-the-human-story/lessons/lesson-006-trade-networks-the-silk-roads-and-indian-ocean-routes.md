@@ -113,25 +113,28 @@ traveled along them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **long-distance trade networks
-connected peoples across vast distances and moved not only goods but ideas and beliefs.** The two
-networks: **(1) the Silk Roads** — overland routes across Central Asia linking East Asia (China) with
-the Mediterranean world, carrying silk, spices, paper, and glass, and moving **Buddhism** from India
-into Central and East Asia and **paper and the decimal numerals** westward (S-323, S-317, S-318,
-S-264). **(2) the Indian Ocean routes** — a sea network driven by the **monsoon** (a seasonal wind
-that reverses direction), sailed by **dhows** with lateen sails, linking East Africa, Arabia, India,
-Southeast Asia, and China, carrying spices, gold, ivory, porcelain, and cloth, and moving **Islam**,
-other beliefs, and later technologies across the ocean (S-207, S-323, S-265). The Ming Chinese fleets
-of **Zheng He** (1405–1433) sailed this network as far as Arabia and East Africa (S-265, S-264). The
-**global** lens: these networks made the medieval world far more connected than a one-region story
-suggests — goods and ideas crossed between China, India, Persia, East Africa, and beyond. The
-**technology** lens: the network itself was shaped by technology — camel caravans and oasis stops on
-land, the dhow and the monsoon calendar at sea. The **ethics** lens: exchange was mostly mutual and
-peaceful, but we are honest that not all movement was free (later in this unit we face the slave
-trade that some routes later carried). The **egalitarian** lens: the people who actually moved the
-goods — caravan guides, sailors, porters, merchants of many languages — were the real makers of the
-network, often left unnamed in old records; we name them. Keep it honest: this is documented history,
-told as connection, not as one people's triumph (philosophy §11).
+The idea to land: **long-distance trade networks connected peoples across vast distances
+and moved not only goods but ideas and beliefs.** The two networks: **(1) the Silk
+Roads** — overland routes across Central Asia linking East Asia (China) with the
+Mediterranean world, carrying silk, spices, paper, and glass, and moving **Buddhism**
+from India into Central and East Asia and **paper and the decimal numerals** westward
+(S-323, S-317, S-318, S-264). **(2) the Indian Ocean routes** — a sea network driven by
+the **monsoon** (a seasonal wind that reverses direction), sailed by **dhows** with
+lateen sails, linking East Africa, Arabia, India, Southeast Asia, and China, carrying
+spices, gold, ivory, porcelain, and cloth, and moving **Islam**, other beliefs, and
+later technologies across the ocean (S-207, S-323, S-265). The Ming Chinese fleets of
+**Zheng He** (1405–1433) sailed this network as far as Arabia and East Africa (S-265,
+S-264). The **global** lens: these networks made the medieval world far more connected
+than a one-region story suggests — goods and ideas crossed between China, India, Persia,
+East Africa, and beyond. The **technology** lens: the network itself was shaped by
+technology — camel caravans and oasis stops on land, the dhow and the monsoon calendar
+at sea. The **ethics** lens: exchange was mostly mutual and peaceful, but we are honest
+that not all movement was free (later in this unit we face the slave trade that some
+routes later carried). The **egalitarian** lens: the people who actually moved the
+goods — caravan guides, sailors, porters, merchants of many languages — were the real
+makers of the network, often left unnamed in old records; we name them. Keep it honest:
+this is documented history, told as connection, not as one people's triumph (philosophy
+§11).
 
 ## Procedure
 

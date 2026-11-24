@@ -115,23 +115,21 @@ the rate tells you which curve you are on and where it is headed.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the exponential
-function y = a·bˣ grows by a fixed factor each step — its features are the initial
-value a (the y-intercept), the base b (the growth or decay factor), the rate r = b − 1,
-and a horizontal asymptote — and the base, not the starting value, decides how fast it
-runs.** Teach with worked examples and guided practice (S-011), and let the
-linear-vs-exponential contrast do the motivating.
+The idea to land: **the exponential function y = a·bˣ grows by a fixed factor each
+step — its features are the initial value a (the y-intercept), the base b (the growth or
+decay factor), the rate r = b − 1, and a horizontal asymptote — and the base, not the
+starting value, decides how fast it runs.** Teach with worked examples and guided
+practice (S-011), and let the linear-vs-exponential contrast do the motivating.
 
 The **intellectual** lens: "multiply by a fixed factor" is the whole story; every
 feature is a restatement of it. The **critical-thinking** lens: ask learners to test
 which offer is better at year 1, 5, and 20 — a small difference in rate becomes a huge
-difference over time, so the time horizon matters. The **environment** lens:
-exponential growth is the shape behind compounding problems — a warning, not just a
-number — and it is why small rates over long times deserve respect. The
-**egalitarian** lens: two people offered 4% and 6% returns live different futures; who
-gets which rate is often about access, not merit — a fairness question, not only a
-math one. Preview: Lesson 8 applies this function to population, finance, and the
-environment, and to the *limit* of growth.
+difference over time, so the time horizon matters. The **environment** lens: exponential
+growth is the shape behind compounding problems — a warning, not just a number — and it
+is why small rates over long times deserve respect. The **egalitarian** lens: two people
+offered 4% and 6% returns live different futures; who gets which rate is often about
+access, not merit — a fairness question, not only a math one. Preview: Lesson 8 applies
+this function to population, finance, and the environment, and to the *limit* of growth.
 
 ## Procedure
 

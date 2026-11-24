@@ -108,19 +108,22 @@ how it begins to mend. Today you learn both halves — building it and repairing
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) trust is built by small, repeated
-behaviors — reliability (doing what you said), honesty (telling the truth, kindly), respect (honoring
-boundaries and differences), care (showing up for the other), and owning mistakes (admitting and repairing
-them); (2) a rupture — a hurt or a breach — is normal in close relationships, and trust is rebuilt through
-repair, not silence; (3) honest talk about feelings uses the I-statement — "I feel ___ when ___, because I
-need ___" — which owns your feeling without blaming.** Model the I-statement frame fully, then guided
-practice (S-011). The ethics lens: honesty is a form of care, not a weapon; repair is a duty we owe people
-we love. The egalitarian lens: trust should be mutual, not one-way — in healthy relationships, both people
-can speak and both are heard, across differences of age, gender, or status. The global lens: how openly
-feelings are spoken varies across cultures and families — some name feelings directly, some show them through
-action; neither is "better," and honest talk can happen in many registers. The technology lens: in text,
-tone vanishes, so honest talk about feelings needs extra care and sometimes a spoken follow-up. Keep this
-gentle and normalizing — every close relationship has ruptures.
+The ideas to land: **(1) trust is built by small, repeated behaviors — reliability
+(doing what you said), honesty (telling the truth, kindly), respect (honoring boundaries
+and differences), care (showing up for the other), and owning mistakes (admitting and
+repairing them); (2) a rupture — a hurt or a breach — is normal in close relationships,
+and trust is rebuilt through repair, not silence; (3) honest talk about feelings uses
+the I-statement — "I feel ___ when ___, because I need ___" — which owns your feeling
+without blaming.** Model the I-statement frame fully, then guided practice (S-011). The
+ethics lens: honesty is a form of care, not a weapon; repair is a duty we owe people we
+love. The egalitarian lens: trust should be mutual, not one-way — in healthy
+relationships, both people can speak and both are heard, across differences of age,
+gender, or status. The global lens: how openly feelings are spoken varies across
+cultures and families — some name feelings directly, some show them through action;
+neither is "better," and honest talk can happen in many registers. The technology lens:
+in text, tone vanishes, so honest talk about feelings needs extra care and sometimes a
+spoken follow-up. Keep this gentle and normalizing — every close relationship has
+ruptures.
 
 ## Procedure
 

@@ -111,18 +111,17 @@ shapes every day.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It extends the last lesson's flat
-shapes into **solids**, and the new skill is finding and counting **faces, sides
-(edges), and corners (vertices)**. Teach with a **worked example** (philosophy §13):
-feel a cube, count its six square faces, twelve edges, and eight corners. Connect
-each solid to a flat shape — the cube's face is a square, the cylinder's face is a
-circle. Use everyday objects (boxes, balls, cans, clay) so the lesson is universally
-available. For learners who are blind or low-vision, this lesson is naturally rich —
-the hands are the tool; pass each solid and let the learner feel faces, edges, and
-corners, and use a "feely bag." For learners who are Deaf or hard of hearing, name
-shapes in sign and count features with the hands. A learner who does not speak
-traces or points to each feature. Solid shapes are felt, not just seen — every body
-can study them.
+It extends the last lesson's flat shapes into **solids**, and the new skill is finding
+and counting **faces, sides (edges), and corners (vertices)**. Teach with a **worked
+example** (philosophy §13): feel a cube, count its six square faces, twelve edges, and
+eight corners. Connect each solid to a flat shape — the cube's face is a square, the
+cylinder's face is a circle. Use everyday objects (boxes, balls, cans, clay) so the
+lesson is universally available. For learners who are blind or low-vision, this lesson
+is naturally rich — the hands are the tool; pass each solid and let the learner feel
+faces, edges, and corners, and use a "feely bag." For learners who are Deaf or hard of
+hearing, name shapes in sign and count features with the hands. A learner who does not
+speak traces or points to each feature. Solid shapes are felt, not just seen — every
+body can study them.
 
 ## Procedure
 

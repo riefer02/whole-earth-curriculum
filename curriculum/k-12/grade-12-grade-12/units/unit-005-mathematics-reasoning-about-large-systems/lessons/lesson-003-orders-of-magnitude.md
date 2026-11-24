@@ -114,25 +114,24 @@ and a little practice.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an order of magnitude
-is a factor of ten; reasoning about large systems means rounding a quantity to its nearest
-power of ten and checking whether that is even plausible.** Teach the ladder and one Fermi
-problem explicitly, then let learners estimate freely and compare (S-011). Estimation is a
-skill with a right answer range, not a guess — feedback comes from comparing to a known
-anchor.
+The idea to land: **an order of magnitude is a factor of ten; reasoning about large
+systems means rounding a quantity to its nearest power of ten and checking whether that
+is even plausible.** Teach the ladder and one Fermi problem explicitly, then let
+learners estimate freely and compare (S-011). Estimation is a skill with a right answer
+range, not a guess — feedback comes from comparing to a known anchor.
 
 The **ethics** lens: an order-of-magnitude check is an honesty tool — it catches claims
 that are ten or a hundred times off before they spread. The **egalitarianism** lens:
-powers of ten need only a place-value chart; they put a billion and a hundred on the same
-ladder for anyone to compare. The **global** lens: the decimal place-value system with ten
-symbols and a zero was developed in India and carried through the Arabic-speaking world to
-Europe (S-023, S-272, S-295); the Inka recorded decimal quantities on knotted cords, the
-quipu (S-473); the Maya wrote a place-value system with zero of their own (S-378). No
-single tradition owns "ten." The **technology** lens: computing is built on powers of two
-that we still speak of in powers of ten — kilobytes, megabytes, giga-, tera-. The
-**environment** lens: carbon and energy are talked about in gigatonnes and terawatt-hours —
-orders of magnitude are the natural units of the living Earth (S-005, S-006). Preview:
-Lesson 4 uses these tools to critique a public claim.
+powers of ten need only a place-value chart; they put a billion and a hundred on the
+same ladder for anyone to compare. The **global** lens: the decimal place-value system
+with ten symbols and a zero was developed in India and carried through the
+Arabic-speaking world to Europe (S-023, S-272, S-295); the Inka recorded decimal
+quantities on knotted cords, the quipu (S-473); the Maya wrote a place-value system with
+zero of their own (S-378). No single tradition owns "ten." The **technology** lens:
+computing is built on powers of two that we still speak of in powers of ten — kilobytes,
+megabytes, giga-, tera-. The **environment** lens: carbon and energy are talked about in
+gigatonnes and terawatt-hours — orders of magnitude are the natural units of the living
+Earth (S-005, S-006). Preview: Lesson 4 uses these tools to critique a public claim.
 
 ## Procedure
 

@@ -110,17 +110,16 @@ things that are steady and true.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It extends Lesson 7 from *seeing* growth
-to *predicting* it: the learner names the rule and uses it to go further. Teach with a
-**worked example** (philosophy §13): show 2, 4, 6, 8 dots, state "it grows by two,"
-and build the next step to check. The rule is a sentence, not a symbol — honor every
-clear wording. Patterns appear in weaving, music, and building across cultures, and
-naming a pattern's rule is a small act of shared understanding. **A learner who
-predicts a step and then corrects it has not failed — they have used feedback, which
-is exactly how learning works.** For learners who are Deaf or hard of hearing, extend
-patterns with objects and point to each change; for learners who are blind or
-low-vision, build by touch and say the rule aloud. A learner who does not speak shows
-the rule by adding the next step or pointing.
+It extends Lesson 7 from *seeing* growth to *predicting* it: the learner names the rule
+and uses it to go further. Teach with a **worked example** (philosophy §13): show 2, 4,
+6, 8 dots, state "it grows by two," and build the next step to check. The rule is a
+sentence, not a symbol — honor every clear wording. Patterns appear in weaving, music,
+and building across cultures, and naming a pattern's rule is a small act of shared
+understanding. **A learner who predicts a step and then corrects it has not failed —
+they have used feedback, which is exactly how learning works.** For learners who are
+Deaf or hard of hearing, extend patterns with objects and point to each change; for
+learners who are blind or low-vision, build by touch and say the rule aloud. A learner
+who does not speak shows the rule by adding the next step or pointing.
 
 ## Procedure
 

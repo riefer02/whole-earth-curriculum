@@ -118,15 +118,14 @@ runner beside her; she runs her own race — on a track, a trail, or a village r
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **comparison is
-normal and the healthy move is self-compassion and growth — never winning, and never
-shame**. Do not frame comparison as a "bad habit" learners should be ashamed of; frame it
-as a *natural* pull they can learn to notice and redirect. Never rank learners or imply
-anyone is "better" or "worse." The reframe must never become "at least I'm better than X"
-— that would trade self-criticism for unkindness toward others, which violates the
-egalitarian lens. The goal is *returning to one's own lane*: compare today to one's own
-yesterday, and treat both oneself and the other person with kindness. See
-`docs/facilitation.md` and `docs/philosophy.md` §8.
+The idea to land is that **comparison is normal and the healthy move is self-compassion
+and growth — never winning, and never shame**. Do not frame comparison as a "bad habit"
+learners should be ashamed of; frame it as a *natural* pull they can learn to notice and
+redirect. Never rank learners or imply anyone is "better" or "worse." The reframe must
+never become "at least I'm better than X" — that would trade self-criticism for
+unkindness toward others, which violates the egalitarian lens. The goal is *returning to
+one's own lane*: compare today to one's own yesterday, and treat both oneself and the
+other person with kindness. See `docs/facilitation.md` and `docs/philosophy.md` §8.
 
 ## Procedure
 

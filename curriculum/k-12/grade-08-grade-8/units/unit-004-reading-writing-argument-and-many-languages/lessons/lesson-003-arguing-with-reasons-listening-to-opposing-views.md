@@ -115,19 +115,20 @@ fairer decision.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) deliberation is arguing a
-position with reasons *and* listening to the opposing view — not just waiting to talk; (2) the
-four-step flow — state position, give reasons, paraphrase the other side, respond — keeps it
-fair; (3) "listening is not losing" — hearing the other side is how we decide together.** Model
-the flow once with a learner or co-facilitator (worked example, S-011). Structured discussion of
-contested issues is a core democratic skill with a real research base (Hess 2009, S-349); the
-lesson holds "listening is not losing" as a value, distinct from that descriptive claim. The
-ethics lens: how we disagree is a matter of right and wrong — we can argue without wounding. The
-egalitarian lens: deliberation only works when every voice can speak; ask "whose view is not in
-the room, and why?" The global lens: cultures deliberate differently — some speak in turn with a
-talking object, some seek consensus, some vote; this is one fair structure among many. The
-community lens: this skill builds the shared decisions that hold a community together. Choose a
-question where learners can genuinely disagree without fear (a park vs. a clinic, not a question
+The ideas to land: **(1) deliberation is arguing a position with reasons *and* listening
+to the opposing view — not just waiting to talk; (2) the four-step flow — state
+position, give reasons, paraphrase the other side, respond — keeps it fair; (3)
+"listening is not losing" — hearing the other side is how we decide together.** Model
+the flow once with a learner or co-facilitator (worked example, S-011). Structured
+discussion of contested issues is a core democratic skill with a real research base
+(Hess 2009, S-349); the lesson holds "listening is not losing" as a value, distinct from
+that descriptive claim. The ethics lens: how we disagree is a matter of right and
+wrong — we can argue without wounding. The egalitarian lens: deliberation only works
+when every voice can speak; ask "whose view is not in the room, and why?" The global
+lens: cultures deliberate differently — some speak in turn with a talking object, some
+seek consensus, some vote; this is one fair structure among many. The community lens:
+this skill builds the shared decisions that hold a community together. Choose a question
+where learners can genuinely disagree without fear (a park vs. a clinic, not a question
 that divides the group along identity lines). Watch that quieter learners get the floor.
 
 ## Procedure

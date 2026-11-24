@@ -119,20 +119,20 @@ learn who is related to whom.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It deepens sorting by showing that
-categories **nest** — the new skill is seeing that a shape can belong to several
-categories at once because each name marks a shared property. Teach with a **worked
-example** (philosophy §13): build a square, ask "is it a rectangle? (four right angles
-— yes) is it a rhombus? (four equal sides — yes)," and conclude **a square is both**.
-The key move is *hierarchical* classification, which children grow into slowly — do
-not rush it (Van de Walle et al., 2019). **A shape wearing many names is not "wrong";
-it is precise. And no learner's speed at naming shapes measures their smartness — some
-see the nesting quickly, some need to hold and turn each shape, and both are
-mathematical.** Quadrilaterals appear in tiling and design across many cultures. Count
-in the home language. For learners who are Deaf or hard of hearing, sign each property
-and point to sides and corners; for learners who are blind or low-vision, feel the
-sides and corners of each shape and fold a paper square to test equal sides. Learners
-with limited movement direct a partner. Mastery arrives at its own pace.
+It deepens sorting by showing that categories **nest** — the new skill is seeing that a
+shape can belong to several categories at once because each name marks a shared
+property. Teach with a **worked example** (philosophy §13): build a square, ask "is it a
+rectangle? (four right angles — yes) is it a rhombus? (four equal sides — yes)," and
+conclude **a square is both**. The key move is *hierarchical* classification, which
+children grow into slowly — do not rush it (Van de Walle et al., 2019). **A shape
+wearing many names is not "wrong"; it is precise. And no learner's speed at naming
+shapes measures their smartness — some see the nesting quickly, some need to hold and
+turn each shape, and both are mathematical.** Quadrilaterals appear in tiling and design
+across many cultures. Count in the home language. For learners who are Deaf or hard of
+hearing, sign each property and point to sides and corners; for learners who are blind
+or low-vision, feel the sides and corners of each shape and fold a paper square to test
+equal sides. Learners with limited movement direct a partner. Mastery arrives at its own
+pace.
 
 ## Procedure
 

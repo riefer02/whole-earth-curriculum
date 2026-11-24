@@ -103,11 +103,11 @@ tools everywhere.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, guide the tool hunt
-but let learners do the finding — noticing is the learning. Keep the lens wide and
-equal: a farmer's hoe and a cook's pot and a road's bicycle are all real tools, and no
-place's tools are more important than another's. A phone is one tool among many, not
-the star. Honor the tools of the learners' own homes, whatever they are.
+As facilitator, guide the tool hunt but let learners do the finding — noticing is the
+learning. Keep the lens wide and equal: a farmer's hoe and a cook's pot and a road's
+bicycle are all real tools, and no place's tools are more important than another's. A
+phone is one tool among many, not the star. Honor the tools of the learners' own homes,
+whatever they are.
 
 ## Procedure
 

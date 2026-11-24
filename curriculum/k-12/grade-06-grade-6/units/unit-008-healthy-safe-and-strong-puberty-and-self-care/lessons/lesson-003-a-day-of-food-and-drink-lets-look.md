@@ -123,16 +123,15 @@ clearly — because you can only care for what you notice.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The one idea to land is that **analyzing
-starts with honestly noticing** — recording a real day, not an idealized one. Guard the
-**no-shame** rule at every step: there are no "good" or "bad" foods in this activity,
-only *information*. A learner's day reflects what their family has, can afford, and eats
-by culture and habit — never a personal failing. Use **food examples from many regions**
-(rice, maize, cassava, plantain, bread, beans, lentils, chickpeas, tofu, fish, eggs,
-milk, fruit, vegetables, nuts, tea, water) so every home's table belongs. Model one day
-as a **worked example** before learners record their own, and never require anyone to
-share their day aloud if they do not wish to. See `docs/facilitation.md` and
-`docs/contexts.md`.
+The one idea to land is that **analyzing starts with honestly noticing** — recording a
+real day, not an idealized one. Guard the **no-shame** rule at every step: there are no
+"good" or "bad" foods in this activity, only *information*. A learner's day reflects
+what their family has, can afford, and eats by culture and habit — never a personal
+failing. Use **food examples from many regions** (rice, maize, cassava, plantain, bread,
+beans, lentils, chickpeas, tofu, fish, eggs, milk, fruit, vegetables, nuts, tea, water)
+so every home's table belongs. Model one day as a **worked example** before learners
+record their own, and never require anyone to share their day aloud if they do not wish
+to. See `docs/facilitation.md` and `docs/contexts.md`.
 
 ## Procedure
 

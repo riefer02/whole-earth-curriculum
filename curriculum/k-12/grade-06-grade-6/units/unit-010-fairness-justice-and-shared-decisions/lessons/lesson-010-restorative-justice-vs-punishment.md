@@ -126,24 +126,25 @@ when each helps — is the last skill of this unit, and it draws on everything b
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **restorative justice**
-aims to *repair harm, meet the needs of the person harmed, and have the person who harmed
-take responsibility* — its limits include that it *takes time and everyone's willingness*,
-and may not fit every harm. **Punishment** aims at *a clear consequence for the wrong and
-accountability* — its limits include that *the harm and the harmed person's needs may go
-unrepaired*, and it may not teach how to do better. Compare them **non-shamingly and
-honestly**: neither is "good" and the other "bad"; each has aims and limits, and the unit
-holds the question — *which response fits this harm?* — as a question, never answered as
-dogma. This is a **capstone**, so build in **spaced retrieval** of the unit's threads: a
-quick recall of fact/belief/value, fairness vs justice, and conflict analysis, interleaved
-with the new comparison (see `docs/contexts.md`; Dunlosky et al. note practice testing and
+The ideas to land: **restorative justice** aims to *repair harm, meet the needs of the
+person harmed, and have the person who harmed take responsibility* — its limits include
+that it *takes time and everyone's willingness*, and may not fit every harm.
+**Punishment** aims at *a clear consequence for the wrong and accountability* — its
+limits include that *the harm and the harmed person's needs may go unrepaired*, and it
+may not teach how to do better. Compare them **non-shamingly and honestly**: neither is
+"good" and the other "bad"; each has aims and limits, and the unit holds the question —
+*which response fits this harm?* — as a question, never answered as dogma. This is a
+**capstone**, so build in **spaced retrieval** of the unit's threads: a quick recall of
+fact/belief/value, fairness vs justice, and conflict analysis, interleaved with the new
+comparison (see `docs/contexts.md`; Dunlosky et al. note practice testing and
 distributed practice as high-utility). Model the comparison once (Kirschner, Sweller &
-Clark, 2006). Distinguish **evidence from values**: *what each approach aims at and where
-its limits are* is observable in real practices; *that repair and dignity matter* is a
-value this curriculum holds and names as such. Keep restorative examples **non-shaming** —
-the focus is repair and dignity, never humiliation. If a learner brings up serious harm,
-hold the boundary: serious harm needs adults and proper systems, and this lesson is about
-understanding the *ideas*, not resolving real cases. See `docs/facilitation.md`.
+Clark, 2006). Distinguish **evidence from values**: *what each approach aims at and
+where its limits are* is observable in real practices; *that repair and dignity matter*
+is a value this curriculum holds and names as such. Keep restorative examples
+**non-shaming** — the focus is repair and dignity, never humiliation. If a learner
+brings up serious harm, hold the boundary: serious harm needs adults and proper systems,
+and this lesson is about understanding the *ideas*, not resolving real cases. See
+`docs/facilitation.md`.
 
 ## Procedure
 

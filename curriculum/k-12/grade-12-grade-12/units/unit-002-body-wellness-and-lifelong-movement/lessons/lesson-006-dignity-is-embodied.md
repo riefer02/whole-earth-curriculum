@@ -112,13 +112,12 @@ own "yes" and "no."
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **value,
-plainly labeled as value**: every person is born with dignity and worth (UDHR Article 1,
-S-149), and every person has the right to take part in recreation and sport regardless
-of disability (CRPD Article 30, S-100). These are *shared human commitments*, not
-scientific facts — the lesson must keep that distinction clean. The three fields
-(autonomy, consent, care) are one way to organize the practice of dignity, not a
-universal law.
+The idea to land, held as **value, plainly labeled as value**: every person is born with
+dignity and worth (UDHR Article 1, S-149), and every person has the right to take part
+in recreation and sport regardless of disability (CRPD Article 30, S-100). These are
+*shared human commitments*, not scientific facts — the lesson must keep that distinction
+clean. The three fields (autonomy, consent, care) are one way to organize the practice
+of dignity, not a universal law.
 
 The **ethics** lens: dignity is about what we owe — to ourselves and to others — before
 any question of what we can *do*. The **egalitarianism** lens: dignity is not graded by
@@ -126,8 +125,11 @@ ability, age, appearance, or productivity; a body that needs help is not a body 
 less worth. The **global** lens: how dignity is expressed differs across cultures and
 families, so no single expression is the default — but the underlying claim of equal
 worth is the shared ground. The **critical-thinking** lens: "care" and "control" can
-look alike, and we learn to tell them apart by asking whose "yes" and "no" count.
-The **technology** lens: bodily autonomy now extends beyond touch to data — who tracks, stores, and shares information about our bodies — so consent and dignity apply to devices and records as much as to hands. Preview: Lesson 7 extends dignity from oneself to caring for another.
+look alike, and we learn to tell them apart by asking whose "yes" and "no" count. The
+**technology** lens: bodily autonomy now extends beyond touch to data — who tracks,
+stores, and shares information about our bodies — so consent and dignity apply to
+devices and records as much as to hands. Preview: Lesson 7 extends dignity from oneself
+to caring for another.
 
 ## Procedure
 

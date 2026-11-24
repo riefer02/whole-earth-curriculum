@@ -115,20 +115,21 @@ decimal places, in the 5th century. π belongs to everyone.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) **circumference** is the
-distance around a circle; **diameter** is the distance across through the centre (twice the
-**radius**); (2) for *every* circle, C ÷ d is the same constant, **π ≈ 3.14**; and (3) the formulas
-**C = πd** and **C = 2πr** turn that fact into a problem-solving tool. Because circumference is a
-foundational skill, use explicit instruction, worked examples, and guided practice before
-independent work (Kirschner, Sweller & Clark, 2006). Watch for the slips of confusing radius and
-diameter (d = 2r), and of using the wrong formula. Retrieval: ask learners to recall the constant
-of proportionality (Lessons 8–9) — π is the constant of proportionality between circumference and
-diameter: C = πd is a y = kx relationship. The global lens: π has been approximated across cultures
-— Egypt (256/81), Archimedes (bounded by 22/7), Zu Chongzhi in China (355/113, c. 5th century) —
-a shared human achievement, not one culture's. The egalitarian lens (`docs/philosophy.md` §4): one
+The ideas to land: (1) **circumference** is the distance around a circle; **diameter**
+is the distance across through the centre (twice the **radius**); (2) for *every*
+circle, C ÷ d is the same constant, **π ≈ 3.14**; and (3) the formulas **C = πd** and
+**C = 2πr** turn that fact into a problem-solving tool. Because circumference is a
+foundational skill, use explicit instruction, worked examples, and guided practice
+before independent work (Kirschner, Sweller & Clark, 2006). Watch for the slips of
+confusing radius and diameter (d = 2r), and of using the wrong formula. Retrieval: ask
+learners to recall the constant of proportionality (Lessons 8–9) — π is the constant of
+proportionality between circumference and diameter: C = πd is a y = kx relationship. The
+global lens: π has been approximated across cultures — Egypt (256/81), Archimedes
+(bounded by 22/7), Zu Chongzhi in China (355/113, c. 5th century) — a shared human
+achievement, not one culture's. The egalitarian lens (`docs/philosophy.md` §4): one
 string and one ruler are enough for anyone to find π — the discovery is open to all. The
-critical-thinking lens (`docs/philosophy.md` §7): measuring several circles and *testing* whether
-the ratio really is constant is doing science honestly.
+critical-thinking lens (`docs/philosophy.md` §7): measuring several circles and
+*testing* whether the ratio really is constant is doing science honestly.
 
 ## Procedure
 

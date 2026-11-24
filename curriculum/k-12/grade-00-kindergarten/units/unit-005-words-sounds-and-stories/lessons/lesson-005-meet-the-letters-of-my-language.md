@@ -101,16 +101,14 @@ you thought.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. This lesson is **script-agnostic**: a learner's home writing
-system may use the Latin alphabet, Arabic script, Devanagari, Chinese characters,
-Cyrillic, Ethiopic, Hangul, or another system entirely. Never assume the English
-alphabet. Ask families which marks their child uses at home, and prepare those. Teach
-the lesson in the learners' home language where possible. No writing system is "the
-right one" — each is a complete, equal way of writing. For a learner with low or no
-vision, offer the marks as raised or three-dimensional shapes (traced in sand, built from
-loose parts, or molded in clay) so a mark can be known by touch and by its spoken name,
-not only by sight.
+This lesson is **script-agnostic**: a learner's home writing system may use the Latin
+alphabet, Arabic script, Devanagari, Chinese characters, Cyrillic, Ethiopic, Hangul, or
+another system entirely. Never assume the English alphabet. Ask families which marks
+their child uses at home, and prepare those. Teach the lesson in the learners' home
+language where possible. No writing system is "the right one" — each is a complete,
+equal way of writing. For a learner with low or no vision, offer the marks as raised or
+three-dimensional shapes (traced in sand, built from loose parts, or molded in clay) so
+a mark can be known by touch and by its spoken name, not only by sight.
 
 ## Procedure
 

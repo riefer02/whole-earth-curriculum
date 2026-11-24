@@ -117,23 +117,24 @@ not decoration; it is care made into an object or a place.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a substantial design
-serves a real need, is shaped by a repeated cycle — ask, imagine, plan, create, test,
-improve — and is presented with a written rationale that names its purpose and craft.** Teach
-the cycle explicitly, then let learners run it and build a prototype (S-011). Design is
-iterative: the cycle loops, and "improve" is the heart of it, not an afterthought.
+The idea to land: **a substantial design serves a real need, is shaped by a repeated
+cycle — ask, imagine, plan, create, test, improve — and is presented with a written
+rationale that names its purpose and craft.** Teach the cycle explicitly, then let
+learners run it and build a prototype (S-011). Design is iterative: the cycle loops, and
+"improve" is the heart of it, not an afterthought.
 
-The **ethics** lens: a designer is accountable for who is served and who is left out — the
-universal-design questions ("who can use this, and who cannot?") turn that care into a check,
-not a wish (S-369). The **egalitarianism** lens: substantial design needs no factory — a
-working prototype can be made from scrap with a knife, string, and patience, so the means of
-making belong to everyone. The **global** lens: design traditions worldwide — the shaped
-tool, the fitted vessel, the planned home — are living practices of fitting a thing to a need
-and a place, to honor with respectful attention, never to copy carelessly. The **technology**
-lens: digital fabrication and community fab labs put powerful making tools in ordinary hands,
-but the tools do not design — the purpose does (S-451). The **environment** lens: a
-substantial design names where its materials come from and where they go, so craft includes
-stewardship, not just form (S-452). Preview: Lesson 14 turns from making to evaluating design.
+The **ethics** lens: a designer is accountable for who is served and who is left out —
+the universal-design questions ("who can use this, and who cannot?") turn that care into
+a check, not a wish (S-369). The **egalitarianism** lens: substantial design needs no
+factory — a working prototype can be made from scrap with a knife, string, and patience,
+so the means of making belong to everyone. The **global** lens: design traditions
+worldwide — the shaped tool, the fitted vessel, the planned home — are living practices
+of fitting a thing to a need and a place, to honor with respectful attention, never to
+copy carelessly. The **technology** lens: digital fabrication and community fab labs put
+powerful making tools in ordinary hands, but the tools do not design — the purpose does
+(S-451). The **environment** lens: a substantial design names where its materials come
+from and where they go, so craft includes stewardship, not just form (S-452). Preview:
+Lesson 14 turns from making to evaluating design.
 
 ## Procedure
 

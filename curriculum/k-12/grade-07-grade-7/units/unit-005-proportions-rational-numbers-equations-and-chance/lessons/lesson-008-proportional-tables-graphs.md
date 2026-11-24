@@ -114,20 +114,21 @@ two signs: a constant ratio and a straight line from nothing.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) in a **proportional
-relationship**, the ratio *y/x* is the **same** in every row of a table (the **constant of
-proportionality**); (2) its graph is a **straight line through the origin**; and (3) either test
-can classify a relationship, but both tell the same story. Because recognizing proportionality is
-a foundational skill, use explicit instruction, worked examples, and guided practice before
-independent work (Kirschner, Sweller & Clark, 2006). Watch for the slip of calling any straight
-line "proportional" — it must also pass through the origin, and of checking only one row's ratio
-instead of every row. Retrieval: ask learners to recall unit rates (Lesson 1) — the constant of
-proportionality *is* the unit rate. The global lens: the coordinate grid and straight-line
-reasoning build on ideas recorded by many traditions — for example, the Persian scholar Omar
-Khayyam used geometric methods for equations, and graphs grew from coordinate ideas across
-cultures; reading a line through the origin is a shared human tool. The egalitarian lens
-(`docs/philosophy.md` §4): the two tests are simple enough that *anyone* can check a price or a
-rate for fairness — no special status needed.
+The ideas to land: (1) in a **proportional relationship**, the ratio *y/x* is the
+**same** in every row of a table (the **constant of proportionality**); (2) its graph is
+a **straight line through the origin**; and (3) either test can classify a relationship,
+but both tell the same story. Because recognizing proportionality is a foundational
+skill, use explicit instruction, worked examples, and guided practice before independent
+work (Kirschner, Sweller & Clark, 2006). Watch for the slip of calling any straight line
+"proportional" — it must also pass through the origin, and of checking only one row's
+ratio instead of every row. Retrieval: ask learners to recall unit rates (Lesson 1) —
+the constant of proportionality *is* the unit rate. The global lens: the coordinate grid
+and straight-line reasoning build on ideas recorded by many traditions — for example,
+the Persian scholar Omar Khayyam used geometric methods for equations, and graphs grew
+from coordinate ideas across cultures; reading a line through the origin is a shared
+human tool. The egalitarian lens (`docs/philosophy.md` §4): the two tests are simple
+enough that *anyone* can check a price or a rate for fairness — no special status
+needed.
 
 ## Procedure
 

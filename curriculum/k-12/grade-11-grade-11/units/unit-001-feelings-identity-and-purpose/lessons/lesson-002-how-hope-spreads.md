@@ -107,11 +107,10 @@ single step forward. Hope is a *shared* feeling, and it has a shape we can read.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **collective hope has
-a structure — shared history + shared conditions + a real opening → a shared feeling —
-and reading that structure lets a learner both explain and (carefully) cultivate
-hope.** Teach the flow with a worked example first (S-011), then let learners trace
-their own.
+The idea to land: **collective hope has a structure — shared history + shared conditions
++ a real opening → a shared feeling — and reading that structure lets a learner both
+explain and (carefully) cultivate hope.** Teach the flow with a worked example first
+(S-011), then let learners trace their own.
 
 The **social-emotional** lens: hope is an emotion, but here it is a *collective* one,
 read in a group's words and postures (CASEL social awareness, S-001). The **ethics**
@@ -119,12 +118,12 @@ lens: there is a difference between hope grounded in a real opening and hope tha
 glosses over harm — honest hope does not demand that people ignore what is wrong. The
 **egalitarian** lens: openings do not open equally — who gets to *feel* hope about a
 change often tracks who will actually benefit from it. The **global** lens: liberation
-movements, harvests, and rebuilds across the world are living laboratories of
-collective hope; read them as examples, never as one people's possession. The
-**technology & environment** lens: screens can spread hope fast (a livestreamed
-victory, a shared image of recovery), and the living world is itself a source of
-shared hope (a returning species, a healed field) — but an environment under strain
-can also drain hope, and that, too, is a climate to read honestly.
+movements, harvests, and rebuilds across the world are living laboratories of collective
+hope; read them as examples, never as one people's possession. The **technology &
+environment** lens: screens can spread hope fast (a livestreamed victory, a shared image
+of recovery), and the living world is itself a source of shared hope (a returning
+species, a healed field) — but an environment under strain can also drain hope, and
+that, too, is a climate to read honestly.
 
 **Emotional safety.** Hope is real but fragile; some learners may be in a place where
 hope feels far away. Do not require anyone to manufacture or perform hope. Frame the

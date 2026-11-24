@@ -120,22 +120,23 @@ village house, the pattern is the same.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a routine is how a goal
-becomes days — it is built, not wished; (2) it rests on three evidence-backed blocks — study
-(with breaks, spaced and retrieved), sleep (about 8–10 hours for teens, 9–12 for younger
-children — AASM), and daily movement (WHO) — plus rest and meals; and (3) it must be *followed
-and adjusted*, not just written.** Use if-then planning for the hard moments (Duckworth, Gendler
-& Gross, 2016) and keep amounts flexible — every family, shift, and body differs, and a routine
-that cannot bend will break. The *egalitarianism* lens is explicit: a learner with chores, care
-duties, or long travel has different hours than one without, so teach the routine as "within
-your real day," never as a middle-class default schedule. The *environment* lens: sleep and
-movement are tied to daylight and season, and many people's days follow the sun and the land,
-not a clock. Model one routine as a worked example (Kirschner, Sweller & Clark, 2006). This
-lesson also closes the unit, so build in a brief **retrieval practice** pass across all four
-strands (spacing/retrieval strengthen memory — Dunlosky et al., 2013). Distinguish **evidence
-from values**: that sleep, movement, and spaced study support health and learning is documented;
-that every learner's goals deserve equal honor is a value this curriculum holds — name it as
-one. See `docs/facilitation.md` and `docs/art-style.md`.
+The ideas to land: **(1) a routine is how a goal becomes days — it is built, not wished;
+(2) it rests on three evidence-backed blocks — study (with breaks, spaced and
+retrieved), sleep (about 8–10 hours for teens, 9–12 for younger children — AASM), and
+daily movement (WHO) — plus rest and meals; and (3) it must be *followed and adjusted*,
+not just written.** Use if-then planning for the hard moments (Duckworth, Gendler &
+Gross, 2016) and keep amounts flexible — every family, shift, and body differs, and a
+routine that cannot bend will break. The *egalitarianism* lens is explicit: a learner
+with chores, care duties, or long travel has different hours than one without, so teach
+the routine as "within your real day," never as a middle-class default schedule. The
+*environment* lens: sleep and movement are tied to daylight and season, and many
+people's days follow the sun and the land, not a clock. Model one routine as a worked
+example (Kirschner, Sweller & Clark, 2006). This lesson also closes the unit, so build
+in a brief **retrieval practice** pass across all four strands (spacing/retrieval
+strengthen memory — Dunlosky et al., 2013). Distinguish **evidence from values**: that
+sleep, movement, and spaced study support health and learning is documented; that every
+learner's goals deserve equal honor is a value this curriculum holds — name it as one.
+See `docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure
 

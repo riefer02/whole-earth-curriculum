@@ -109,32 +109,31 @@ Knowing the facts — and getting care — is ordinary self-care, like any other
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Land the accurate, non-shaming
-facts** (from WHO, S-454): STIs are caused by **bacteria, viruses, or parasites**
-and can pass during sex; some are **curable** with medicine (syphilis, gonorrhoea,
-chlamydia, trichomoniasis) and some are **manageable** with treatment (the viral
-ones — hepatitis B, herpes/HSV, HIV, HPV). Many STIs are **asymptomatic** — a person
-can have one and not know. **Condoms offer one of the most effective protections**
-against STIs, including HIV, and **vaccines exist for hepatitis B and HPV**. The
-three-step frame: **prevent** (condoms, vaccines), **test** (regular testing,
-especially with a new partner), **treat** (medicine, and telling partners so they
-can be cared for too).
+**Land the accurate, non-shaming facts** (from WHO, S-454): STIs are caused by
+**bacteria, viruses, or parasites** and can pass during sex; some are **curable** with
+medicine (syphilis, gonorrhoea, chlamydia, trichomoniasis) and some are **manageable**
+with treatment (the viral ones — hepatitis B, herpes/HSV, HIV, HPV). Many STIs are
+**asymptomatic** — a person can have one and not know. **Condoms offer one of the most
+effective protections** against STIs, including HIV, and **vaccines exist for hepatitis
+B and HPV**. The three-step frame: **prevent** (condoms, vaccines), **test** (regular
+testing, especially with a new partner), **treat** (medicine, and telling partners so
+they can be cared for too).
 
 **Sensitive-topic guidance (essential):** keep this **non-frightening and
-non-stigmatizing.** Do not show graphic images. Emphasize that having an STI is
-common, treatable, and never a mark on a person's worth — the opposite of the shame
-many cultures attach to it. Learners may **opt out** of discussion. If a learner
-discloses a possible infection or unsafe circumstances, respond privately, without
-alarm, and follow your safeguarding procedure to a **trusted adult or health
-service** where they can get confidential testing and care.
+non-stigmatizing.** Do not show graphic images. Emphasize that having an STI is common,
+treatable, and never a mark on a person's worth — the opposite of the shame many
+cultures attach to it. Learners may **opt out** of discussion. If a learner discloses a
+possible infection or unsafe circumstances, respond privately, without alarm, and follow
+your safeguarding procedure to a **trusted adult or health service** where they can get
+confidential testing and care.
 
-The **ethics** lens: protecting a partner and telling them if there is risk is a form
-of honesty and care. The **egalitarian** lens: access to testing and treatment is
-unequal worldwide, and shame falls unevenly — both are justice problems, not moral
-verdicts on any person. The **global** lens: prevention, testing, and treatment
-availability differ hugely by country; the facts are the same everywhere. The
-**social-emotional** lens: talking about testing with a partner takes courage and
-clarity — a skill this unit builds.
+The **ethics** lens: protecting a partner and telling them if there is risk is a form of
+honesty and care. The **egalitarian** lens: access to testing and treatment is unequal
+worldwide, and shame falls unevenly — both are justice problems, not moral verdicts on
+any person. The **global** lens: prevention, testing, and treatment availability differ
+hugely by country; the facts are the same everywhere. The **social-emotional** lens:
+talking about testing with a partner takes courage and clarity — a skill this unit
+builds.
 
 ## Procedure
 

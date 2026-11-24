@@ -106,11 +106,10 @@ is the living world around you. And you are part of it, too.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the unit's capstone — celebrate
-what learners have noticed and wondered, and resist the urge to "review facts." The
-unit's promise is science as observation and wonder. Honor every learner's local
-world: there is no correct sky, season, or growing thing — only the one that is home.
-Close with genuine delight at their questions.
+It is the unit's capstone — celebrate what learners have noticed and wondered, and
+resist the urge to "review facts." The unit's promise is science as observation and
+wonder. Honor every learner's local world: there is no correct sky, season, or growing
+thing — only the one that is home. Close with genuine delight at their questions.
 
 ## Procedure
 

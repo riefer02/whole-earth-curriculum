@@ -116,17 +116,15 @@ look at pictures, name their mood, and point to what makes them feel that way.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Naming mood and pointing to evidence is a **skill**, so model it
-once — "this picture feels calm; the smooth line and light color make it calm" — before
-learners try on their own (Kirschner, Sweller & Clark, 2006). There is no single
-"right" mood; two learners may feel two things about one picture, and both can be true
-— ask "what in the picture makes you feel that?" rather than "is that the correct
-mood?" A learner who is blind or has low vision reads mood through a **spoken
-description** of the color, line, and shape, and through touch (raised-line or textured
-versions); they name the mood and point to the described clue. A learner who does not
-speak points to a mood word card or to the part of the picture. Mood is a feeling, and
-everyone's feeling is welcome.
+Naming mood and pointing to evidence is a **skill**, so model it once — "this picture
+feels calm; the smooth line and light color make it calm" — before learners try on their
+own (Kirschner, Sweller & Clark, 2006). There is no single "right" mood; two learners
+may feel two things about one picture, and both can be true — ask "what in the picture
+makes you feel that?" rather than "is that the correct mood?" A learner who is blind or
+has low vision reads mood through a **spoken description** of the color, line, and
+shape, and through touch (raised-line or textured versions); they name the mood and
+point to the described clue. A learner who does not speak points to a mood word card or
+to the part of the picture. Mood is a feeling, and everyone's feeling is welcome.
 
 ## Procedure
 

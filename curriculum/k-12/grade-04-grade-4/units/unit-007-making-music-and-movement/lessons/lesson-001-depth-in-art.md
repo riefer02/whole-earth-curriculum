@@ -113,15 +113,14 @@ like you could walk into it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Showing depth is a **skill**, so model
-each trick as a worked example on the board — draw a circle in front of a square, a
-big tree and a small tree, a low tree and a high mountain — before learners try their
-own (Kirschner, Sweller & Clark, 2006). A learner who is blind or has low vision can
-feel depth in a **collage**: layered cut shapes (overlap), a big and a small shape
-(size), and a shape placed low or high on a page (placement) with a partner naming
-each. A learner with limited fine motor may direct a partner who places the shapes.
-The goal is that a viewer can *name* where each trick appears, not that the drawing is
-polished.
+Showing depth is a **skill**, so model each trick as a worked example on the board —
+draw a circle in front of a square, a big tree and a small tree, a low tree and a high
+mountain — before learners try their own (Kirschner, Sweller & Clark, 2006). A learner
+who is blind or has low vision can feel depth in a **collage**: layered cut shapes
+(overlap), a big and a small shape (size), and a shape placed low or high on a page
+(placement) with a partner naming each. A learner with limited fine motor may direct a
+partner who places the shapes. The goal is that a viewer can *name* where each trick
+appears, not that the drawing is polished.
 
 ## Procedure
 

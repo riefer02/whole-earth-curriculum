@@ -135,17 +135,17 @@ wonders, predicts, tests, and finds out. Today you celebrate that, together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is a **celebration of mastery, not a
-competition** — there are no winners, no rankings, no "best" work. Every learner shares;
-every share is welcomed exactly as it is. Keep praise about effort and wonder, not
-comparison ("you tested so carefully," not "yours is the best"). If a learner has gaps or
-"not yet" moments, this is not the time to surface them — the fair is about what they
-*did* learn and what they *still wonder*. Retrieval is built in: recalling and explaining
-to a peer is the deepest kind of remembering, spaced and interleaved across the whole
-unit. Honor every body: sharing may be by speaking, pointing, signing, acting, or simply
-displaying work; a learner who prefers not to speak can point to their work while a peer
-or adult reads a label. End by gathering the unit's questions — "what do you still
-wonder?" — and honor that some questions we cannot answer yet, and that is wonderful.
+This is a **celebration of mastery, not a competition** — there are no winners, no
+rankings, no "best" work. Every learner shares; every share is welcomed exactly as it
+is. Keep praise about effort and wonder, not comparison ("you tested so carefully," not
+"yours is the best"). If a learner has gaps or "not yet" moments, this is not the time
+to surface them — the fair is about what they *did* learn and what they *still wonder*.
+Retrieval is built in: recalling and explaining to a peer is the deepest kind of
+remembering, spaced and interleaved across the whole unit. Honor every body: sharing may
+be by speaking, pointing, signing, acting, or simply displaying work; a learner who
+prefers not to speak can point to their work while a peer or adult reads a label. End by
+gathering the unit's questions — "what do you still wonder?" — and honor that some
+questions we cannot answer yet, and that is wonderful.
 
 ## Procedure
 

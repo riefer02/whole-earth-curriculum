@@ -121,17 +121,16 @@ and the month.
 
 ## Facilitator note
 
-Written to the learner ("you"). Two movements, two effects: **rotation** → day and
-night (~24 hours, so "day length" is about one full turn); **the Moon's orbit** →
-phases. The key insight to land is that the Moon does **not** make its own light — it
-**reflects** the Sun's light, and its lit half always faces the Sun. The phases are
-just our changing view of that lit half, not Earth's shadow on the Moon (that
-misconception is exactly what the next lesson, eclipses, corrects — preview it). The
-ball-and-lamp model is the worked example: model one full orbit slowly, and have
-learners *predict* the phase before you reveal each position. This honors the
-predict → test → observe loop. Keep the lunar-calendar mention respectful and
-factual: many cultures use lunar calendars, and none is "better" — that is a value we
-hold ([`docs/facilitation.md`](../../../../../../docs/facilitation.md)).
+Two movements, two effects: **rotation** → day and night (~24 hours, so "day length" is
+about one full turn); **the Moon's orbit** → phases. The key insight to land is that the
+Moon does **not** make its own light — it **reflects** the Sun's light, and its lit half
+always faces the Sun. The phases are just our changing view of that lit half, not
+Earth's shadow on the Moon (that misconception is exactly what the next lesson,
+eclipses, corrects — preview it). The ball-and-lamp model is the worked example: model
+one full orbit slowly, and have learners *predict* the phase before you reveal each
+position. This honors the predict → test → observe loop. Keep the lunar-calendar mention
+respectful and factual: many cultures use lunar calendars, and none is "better" — that
+is a value we hold ([`docs/facilitation.md`](../../../../../../docs/facilitation.md)).
 
 ## Procedure
 

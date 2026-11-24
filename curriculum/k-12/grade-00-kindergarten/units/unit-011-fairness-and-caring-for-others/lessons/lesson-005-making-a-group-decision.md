@@ -101,21 +101,20 @@ matters, and so does what everyone else thinks.
 
 ## Facilitator note
 
-Written to the learner ("you"). This is *real* decision-making, not a simulation —
-carry out the choice the group makes. Every voice matters equally: no one's idea is
-worth more because of age, status, or volume. Guide but do not impose; if a quiet
-child has not spoken, make gentle space without forcing. Across cultures, groups
-decide in many ways — talking it through, raising hands, stepping to a corner — and
-none is "the" right way. The talking object echoes talking circles used by many
-Indigenous peoples around the world, where an object passes from speaker to speaker
-so each voice is heard — we use it with respect, not as decoration. Keep the decision
-small enough to finish and honor today. "Voice" means *however a learner shows their
-choice* — spoken words, sign, a nod, a gesture, pointing to or tapping a choice card,
-eye-gaze, or a communication board. A learner who does not speak aloud still shares a
-choice; a grown-up or peer can voice it. A learner who cannot hold or pass the talking
-object, raise a hand, or step to a corner can point, nod, or eye-gaze to their choice,
-and a partner can move or pass for them. Never force anyone to speak aloud or to move —
-pointing and signing are full participation.
+This is *real* decision-making, not a simulation — carry out the choice the group makes.
+Every voice matters equally: no one's idea is worth more because of age, status, or
+volume. Guide but do not impose; if a quiet child has not spoken, make gentle space
+without forcing. Across cultures, groups decide in many ways — talking it through,
+raising hands, stepping to a corner — and none is "the" right way. The talking object
+echoes talking circles used by many Indigenous peoples around the world, where an object
+passes from speaker to speaker so each voice is heard — we use it with respect, not as
+decoration. Keep the decision small enough to finish and honor today. "Voice" means
+*however a learner shows their choice* — spoken words, sign, a nod, a gesture, pointing
+to or tapping a choice card, eye-gaze, or a communication board. A learner who does not
+speak aloud still shares a choice; a grown-up or peer can voice it. A learner who cannot
+hold or pass the talking object, raise a hand, or step to a corner can point, nod, or
+eye-gaze to their choice, and a partner can move or pass for them. Never force anyone to
+speak aloud or to move — pointing and signing are full participation.
 
 ## Procedure
 

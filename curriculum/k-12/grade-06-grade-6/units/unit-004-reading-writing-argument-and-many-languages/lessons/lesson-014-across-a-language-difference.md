@@ -127,16 +127,16 @@ languages, now put to use with a real human being across from you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **communication across
-a language difference is possible and human**, and that the four bridges — gestures, drawings,
-translation tools, and patience — are tools, not magic. Hold the anti-deficit heart firmly:
-not sharing a language is *ordinary*, never a *failure*, and multilingualism is wealth
-(`docs/philosophy.md` §4). Be honest about translation tools — they help and they flatten
-(nuance, tone, a proverb), which connects back to Lesson 13's "gained and lost." This is the
-capstone, so build in retrieval: learners draw on the discussion moves (Lessons 3–4), the
-argument and evidence skills (Lessons 9–11), and language comparison (Lesson 13) as they
-reflect. Keep scenarios safe and everyday; celebrate every successful bridge, however small.
-Honor every home language and accent in the room.
+The idea to land is that **communication across a language difference is possible and
+human**, and that the four bridges — gestures, drawings, translation tools, and
+patience — are tools, not magic. Hold the anti-deficit heart firmly: not sharing a
+language is *ordinary*, never a *failure*, and multilingualism is wealth
+(`docs/philosophy.md` §4). Be honest about translation tools — they help and they
+flatten (nuance, tone, a proverb), which connects back to Lesson 13's "gained and lost."
+This is the capstone, so build in retrieval: learners draw on the discussion moves
+(Lessons 3–4), the argument and evidence skills (Lessons 9–11), and language comparison
+(Lesson 13) as they reflect. Keep scenarios safe and everyday; celebrate every
+successful bridge, however small. Honor every home language and accent in the room.
 
 ## Procedure
 

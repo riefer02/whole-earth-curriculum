@@ -120,28 +120,28 @@ meeting its rivals fairly.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **taking a rival view at
-its strongest — not its weakest — is a discipline that makes reasoning more honest, and it
-is a learnable skill, not a gift.** Perspective-taking is well evidenced as a route to
-better judgment and prosocial behavior (Decety & Cowell, S-231); our first views are
-biased toward themselves (Banaji & Greenwald on implicit bias — see Resources). Hold this
-as description of how minds work, not as a claim that every view is equally right.
+The idea to land: **taking a rival view at its strongest — not its weakest — is a
+discipline that makes reasoning more honest, and it is a learnable skill, not a gift.**
+Perspective-taking is well evidenced as a route to better judgment and prosocial
+behavior (Decety & Cowell, S-231); our first views are biased toward themselves (Banaji
+& Greenwald on implicit bias — see Resources). Hold this as description of how minds
+work, not as a claim that every view is equally right.
 
-The **ethics** lens: fairness to a view is not agreeing with it; it is the minimum respect
-reasoning owes the people who hold it. The **egalitarianism** lens: which stakeholders we
-are willing to steelman is itself a choice — the powerful are easy to imagine, the quiet
-and the poor and the more-than-human are easy to skip. The **global** lens: the same
-problem (a dam, a road, a land use) plays out differently in a river valley on each
-continent; the method travels, the details differ. The **technology** lens: media and
-feeds decide which rival views you even see, and algorithms can hand you only strawmen of
-the other side (Britannica, S-481) — steelmanning is a counter to that. The
-**critical-thinking** lens: distinguish *understanding* a view from *endorsing* it, and
-show both in your writing. Preview: Lesson 7 extends perspective-taking beyond humans, to
-the more-than-human world.
+The **ethics** lens: fairness to a view is not agreeing with it; it is the minimum
+respect reasoning owes the people who hold it. The **egalitarianism** lens: which
+stakeholders we are willing to steelman is itself a choice — the powerful are easy to
+imagine, the quiet and the poor and the more-than-human are easy to skip. The **global**
+lens: the same problem (a dam, a road, a land use) plays out differently in a river
+valley on each continent; the method travels, the details differ. The **technology**
+lens: media and feeds decide which rival views you even see, and algorithms can hand you
+only strawmen of the other side (Britannica, S-481) — steelmanning is a counter to that.
+The **critical-thinking** lens: distinguish *understanding* a view from *endorsing* it,
+and show both in your writing. Preview: Lesson 7 extends perspective-taking beyond
+humans, to the more-than-human world.
 
-**Safeguarding:** keep disagreements about the problem (water, land, jobs), never about a
-learner's identity or private life; no one is made to argue against their own safety or
-dignity.
+**Safeguarding:** keep disagreements about the problem (water, land, jobs), never about
+a learner's identity or private life; no one is made to argue against their own safety
+or dignity.
 
 ## Procedure
 

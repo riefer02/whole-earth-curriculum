@@ -118,20 +118,19 @@ Earth.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the learner's first formal
-**two-step problem** — the new skill is *decomposing* a story into a first step and a
-then-step, choosing the right operation for each. Teach with a **worked example**
-(philosophy §13): read the story, act it out with objects, draw a bar diagram, then
-record step 1 and step 2 before learners try their own. Children make sense of word
-problems by acting them out and drawing them, long before symbols (Carpenter et al.,
-2015). The story, the drawing, and the numbers are three ways to the same meaning.
-**No one's speed at solving measures their smartness; a child who acts it out and
-tells the story has understood it even before writing numbers.** Choose stories from
-many real lives — market, farm, sea, kitchen, bus — so no single world is the default.
-Count in the home language. For learners who are Deaf or hard of hearing, act the
-story in sign and pictures; for learners who are blind or low-vision, move objects in
-two steps the hands can follow. Learners with limited movement direct a partner.
-Mastery arrives at its own pace.
+It is the learner's first formal **two-step problem** — the new skill is *decomposing* a
+story into a first step and a then-step, choosing the right operation for each. Teach
+with a **worked example** (philosophy §13): read the story, act it out with objects,
+draw a bar diagram, then record step 1 and step 2 before learners try their own.
+Children make sense of word problems by acting them out and drawing them, long before
+symbols (Carpenter et al., 2015). The story, the drawing, and the numbers are three ways
+to the same meaning. **No one's speed at solving measures their smartness; a child who
+acts it out and tells the story has understood it even before writing numbers.** Choose
+stories from many real lives — market, farm, sea, kitchen, bus — so no single world is
+the default. Count in the home language. For learners who are Deaf or hard of hearing,
+act the story in sign and pictures; for learners who are blind or low-vision, move
+objects in two steps the hands can follow. Learners with limited movement direct a
+partner. Mastery arrives at its own pace.
 
 ## Procedure
 

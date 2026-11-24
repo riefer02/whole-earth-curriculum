@@ -115,18 +115,20 @@ a market stall folding boxes in Cairo to a cooper measuring staves for a barrel.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) a **net** is a three-dimensional
-shape unfolded into flat **faces**; (2) **surface area** is the total area of all the faces — for a
-rectangular prism, the six faces come in three matching pairs; and (3) the formula **2(lw) + 2(lh) +
-2(wh)** is just fast counting of those six faces. Model a worked example first, then guide a second before
-independent work (Kirschner, Sweller & Clark, 2006). Two common slips: counting a face twice or missing
-one (the top and bottom are easy to forget), and confusing surface area (the *outside*) with volume (the
-*inside*). Retrieval: ask learners to recall yesterday's area and volume — surface area is area applied to
-each face of a solid. The environment lens is live here (`docs/philosophy.md` §4): knowing surface area
-matters for not wasting paint, cloth, or wrapping — measuring honestly saves materials, which is a care
-for the Earth as well as for the pocket. Note the global point: nets and unfolding are used in packaging
-and craft traditions worldwide — from paper lanterns in East Asia to folded baskets in many cultures —
-geometry in the hands of makers.
+The ideas to land: (1) a **net** is a three-dimensional shape unfolded into flat
+**faces**; (2) **surface area** is the total area of all the faces — for a rectangular
+prism, the six faces come in three matching pairs; and (3) the formula **2(lw) + 2(lh) +
+2(wh)** is just fast counting of those six faces. Model a worked example first, then
+guide a second before independent work (Kirschner, Sweller & Clark, 2006). Two common
+slips: counting a face twice or missing one (the top and bottom are easy to forget), and
+confusing surface area (the *outside*) with volume (the *inside*). Retrieval: ask
+learners to recall yesterday's area and volume — surface area is area applied to each
+face of a solid. The environment lens is live here (`docs/philosophy.md` §4): knowing
+surface area matters for not wasting paint, cloth, or wrapping — measuring honestly
+saves materials, which is a care for the Earth as well as for the pocket. Note the
+global point: nets and unfolding are used in packaging and craft traditions worldwide —
+from paper lanterns in East Asia to folded baskets in many cultures — geometry in the
+hands of makers.
 
 ## Procedure
 

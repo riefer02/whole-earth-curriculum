@@ -112,20 +112,22 @@ crop's growth, a medicine's dose: functions are how dependence becomes a languag
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a function is a rule that
-gives each input exactly one output; (2) function notation f(x) reads "f of x" and means the output
-when the input is x — f(3) = 7 says "input 3 → output 7"; (3) the input is the independent variable
-and the output the dependent variable, because the output *depends on* the input.** Because reading
-and evaluating f(x) is a foundational skill, use explicit instruction, worked examples, and guided
-practice before independent work (Kirschner, Sweller & Clark, 2006). Watch for the slips of reading
-f(x) as "f times x" and of thinking a function can give two outputs for one input (it cannot, by
-definition). The technology lens: a graphing tool makes the rule-table-graph connection visible in
-one move — but the *understanding* is in the learner, not the tool. The egalitarian lens: a function
-is a compact, portable truth — once you can read f(x), you can check any claim that says "this
-depends on that," whoever makes it (philosophy §4). The global lens: describing how one quantity
-depends on another appears across traditions (e.g., the proportional "per one" reasoning of the
-Rhind Papyrus, S-288) and grows into the modern universal form. Retrieval: y = kx (Grade 7) is the
-special function where the output is a constant multiple of the input.
+The ideas to land: **(1) a function is a rule that gives each input exactly one output;
+(2) function notation f(x) reads "f of x" and means the output when the input is x —
+f(3) = 7 says "input 3 → output 7"; (3) the input is the independent variable and the
+output the dependent variable, because the output *depends on* the input.** Because
+reading and evaluating f(x) is a foundational skill, use explicit instruction, worked
+examples, and guided practice before independent work (Kirschner, Sweller & Clark,
+2006). Watch for the slips of reading f(x) as "f times x" and of thinking a function can
+give two outputs for one input (it cannot, by definition). The technology lens: a
+graphing tool makes the rule-table-graph connection visible in one move — but the
+*understanding* is in the learner, not the tool. The egalitarian lens: a function is a
+compact, portable truth — once you can read f(x), you can check any claim that says
+"this depends on that," whoever makes it (philosophy §4). The global lens: describing
+how one quantity depends on another appears across traditions (e.g., the proportional
+"per one" reasoning of the Rhind Papyrus, S-288) and grows into the modern universal
+form. Retrieval: y = kx (Grade 7) is the special function where the output is a constant
+multiple of the input.
 
 ## Procedure
 

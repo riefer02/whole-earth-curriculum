@@ -109,20 +109,20 @@ matters.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson introduces **children's rights** gently
-and universally. Ground the idea in the United Nations Convention on the Rights of
-the Child, which says every child has the right to things like play, learning, safety,
-rest, and being heard — but keep it concrete for age 7–8: a right is something every
-child should be able to do or have. Emphasize that rights belong to *every* child
-everywhere — this is an egalitarian, global claim, not one nation's rule. Hold it as a
-*should* (a shared hope and agreement) rather than a claim that every child already
-has these things honored; learners may notice that not every child gets to play or
-learn, and that noticing is welcome — it is the beginning of caring. Do not frighten;
-connect any gap to agency and hope ("we can help make it true"). A learner who does
-not speak aloud points to a rights card or signs; a learner who is deaf or hard of
-hearing follows the rights through the cards and sign; a learner who is blind or
-low-vision hears each right described and names it aloud; a learner with a motor
-difference can direct a partner to act out the right. A learner may always pass.
+This lesson introduces **children's rights** gently and universally. Ground the idea in
+the United Nations Convention on the Rights of the Child, which says every child has the
+right to things like play, learning, safety, rest, and being heard — but keep it
+concrete for age 7–8: a right is something every child should be able to do or have.
+Emphasize that rights belong to *every* child everywhere — this is an egalitarian,
+global claim, not one nation's rule. Hold it as a *should* (a shared hope and agreement)
+rather than a claim that every child already has these things honored; learners may
+notice that not every child gets to play or learn, and that noticing is welcome — it is
+the beginning of caring. Do not frighten; connect any gap to agency and hope ("we can
+help make it true"). A learner who does not speak aloud points to a rights card or
+signs; a learner who is deaf or hard of hearing follows the rights through the cards and
+sign; a learner who is blind or low-vision hears each right described and names it
+aloud; a learner with a motor difference can direct a partner to act out the right. A
+learner may always pass.
 
 ## Procedure
 

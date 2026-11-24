@@ -117,20 +117,19 @@ conversation about shape and space.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It opens the **Geometry** strand for
-Grade 4 — the new skill is the precise vocabulary of points, lines, segments, rays,
-and angles, and the three angle sizes. Teach each figure with a **worked example**
-(philosophy §13) and let learners act it out with their bodies (Van de Walle, Karp &
-Bay-Williams, 2019). The key distinctions are *finite vs infinite* (a segment has two
-endpoints; a ray has one; a line has none) and *angle size* (right is a square
-corner, acute is smaller, obtuse is larger). **Geometry vocabulary is learned at each
-learner's own pace; naming a figure quickly is not a measure of smartness, and a
-shape is a fact about the world, never about a person.** Geometry is a human and
-cross-cultural achievement — land-measuring, building, and star-mapping appear across
-many traditions, not one. Use the home language's words for these figures; all are
-correct. For learners who are Deaf or hard of hearing, sign each figure; for learners
-who are blind or have low vision, feel string and sticks and trace each figure by
-touch. Learners with limited movement direct a partner to draw. Mastery arrives at
+It opens the **Geometry** strand for Grade 4 — the new skill is the precise vocabulary
+of points, lines, segments, rays, and angles, and the three angle sizes. Teach each
+figure with a **worked example** (philosophy §13) and let learners act it out with their
+bodies (Van de Walle, Karp & Bay-Williams, 2019). The key distinctions are *finite vs
+infinite* (a segment has two endpoints; a ray has one; a line has none) and *angle size*
+(right is a square corner, acute is smaller, obtuse is larger). **Geometry vocabulary is
+learned at each learner's own pace; naming a figure quickly is not a measure of
+smartness, and a shape is a fact about the world, never about a person.** Geometry is a
+human and cross-cultural achievement — land-measuring, building, and star-mapping appear
+across many traditions, not one. Use the home language's words for these figures; all
+are correct. For learners who are Deaf or hard of hearing, sign each figure; for
+learners who are blind or have low vision, feel string and sticks and trace each figure
+by touch. Learners with limited movement direct a partner to draw. Mastery arrives at
 its own pace.
 
 ## Procedure

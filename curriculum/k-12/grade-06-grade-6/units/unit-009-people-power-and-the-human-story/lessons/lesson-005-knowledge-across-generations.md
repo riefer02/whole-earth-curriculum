@@ -118,15 +118,15 @@ knowing, and no single way is "better." Today you meet all three, held side by s
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to build is **explaining how
-knowledge passes in each tradition, and holding all three as equal**. This is a values and
-perspective lesson as much as a knowledge lesson: guard firmly against ranking ("written is
-more advanced than oral"). Oral tradition is not a lesser version of history; it is a
-complete knowledge system, and it has kept land, law, science, and story alive for many
-generations. The three examples span three continents and honor Indigenous and non-European
-knowledge traditions. Learners may share their own traditions — welcome that; a learner's
-own way of knowing is part of the human story. This lesson produces the unit's
-**knowledge-transmission example** portfolio artifact. See `docs/facilitation.md`.
+The skill to build is **explaining how knowledge passes in each tradition, and holding
+all three as equal**. This is a values and perspective lesson as much as a knowledge
+lesson: guard firmly against ranking ("written is more advanced than oral"). Oral
+tradition is not a lesser version of history; it is a complete knowledge system, and it
+has kept land, law, science, and story alive for many generations. The three examples
+span three continents and honor Indigenous and non-European knowledge traditions.
+Learners may share their own traditions — welcome that; a learner's own way of knowing
+is part of the human story. This lesson produces the unit's **knowledge-transmission
+example** portfolio artifact. See `docs/facilitation.md`.
 
 ## Procedure
 

@@ -109,21 +109,19 @@ question mark says rise.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Fluency means accuracy plus a smooth, expressive pace — the
-goal is meaning, not speed, and there is no competition and no "correct" accent.
-Reading should sound like the learner's own natural way of speaking, in their own
-language. Re-reading is the engine of fluency; the National Reading Panel's
-evidence base points to re-reading and guided oral reading as the core practice, so
-keep the text easy enough to be enjoyed, not struggled with. Teach punctuation as
-explicit signposts: period, comma, question mark. A learner who is Deaf or hard of
-hearing builds fluency in sign — a smooth, expressive signing of the text is fluent
-reading. A learner who is blind or has low vision builds fluency in braille, in large
-print, or by listening — a smooth, expressive re-reading by touch or ear is fluent
-reading too. Celebrate each learner's growth against their own yesterday, never
-against a peer. Where a timer or a recording is used, notice what the tool does — a
-timer counts words but does not race you, and a recording lets you hear your own
-voice like a patient friend — and what it cannot do: it cannot feel whether the
+Fluency means accuracy plus a smooth, expressive pace — the goal is meaning, not speed,
+and there is no competition and no "correct" accent. Reading should sound like the
+learner's own natural way of speaking, in their own language. Re-reading is the engine
+of fluency; the National Reading Panel's evidence base points to re-reading and guided
+oral reading as the core practice, so keep the text easy enough to be enjoyed, not
+struggled with. Teach punctuation as explicit signposts: period, comma, question mark. A
+learner who is Deaf or hard of hearing builds fluency in sign — a smooth, expressive
+signing of the text is fluent reading. A learner who is blind or has low vision builds
+fluency in braille, in large print, or by listening — a smooth, expressive re-reading by
+touch or ear is fluent reading too. Celebrate each learner's growth against their own
+yesterday, never against a peer. Where a timer or a recording is used, notice what the
+tool does — a timer counts words but does not race you, and a recording lets you hear
+your own voice like a patient friend — and what it cannot do: it cannot feel whether the
 reading made sense; your own mind does that. A tool is a helper, never a judge.
 
 ## Procedure

@@ -121,14 +121,14 @@ to a festival stage.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **nonfiction and drama
-have different shapes and different standards**: nonfiction is organized with headings and
-built from facts you can check; drama is built from characters, dialogue, and stage directions
-and is meant to be performed. Retrieval: recall Lesson 7's genre shapes, and recall the
-fact/opinion distinction from Grade 5. Keep the examples original and short; read the scene
-aloud with parts — drama is for the voice and body. Honor home languages above all: read and
-map in the strongest language, and never rank genres or languages. Nonfiction and drama exist
-in every human culture; they are not any one region's invention.
+The idea to land is that **nonfiction and drama have different shapes and different
+standards**: nonfiction is organized with headings and built from facts you can check;
+drama is built from characters, dialogue, and stage directions and is meant to be
+performed. Retrieval: recall Lesson 7's genre shapes, and recall the fact/opinion
+distinction from Grade 5. Keep the examples original and short; read the scene aloud
+with parts — drama is for the voice and body. Honor home languages above all: read and
+map in the strongest language, and never rank genres or languages. Nonfiction and drama
+exist in every human culture; they are not any one region's invention.
 
 ## Procedure
 

@@ -114,14 +114,14 @@ café, a skipping game on a Hanoi street — the game means more when it is play
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Fair play is a skill and a value — teach
-it explicitly with worked examples (model each fair act), then let learners practice in
-the game. Keep it non-judging: an "unfair" scene is about the *act*, never the *child*,
-and a learner who has not yet got it revisits and tries again — "not yet" is
-information. Watch for the learner who always lets others go first but never gets a
-turn themselves; fair play includes taking your own turn too. Celebrate every honest
-admission and every encouraging word out loud. This lesson deepens Lesson 8's rules
-with the heart of fairness, and leads into the final lesson on movement skills.
+Fair play is a skill and a value — teach it explicitly with worked examples (model each
+fair act), then let learners practice in the game. Keep it non-judging: an "unfair"
+scene is about the *act*, never the *child*, and a learner who has not yet got it
+revisits and tries again — "not yet" is information. Watch for the learner who always
+lets others go first but never gets a turn themselves; fair play includes taking your
+own turn too. Celebrate every honest admission and every encouraging word out loud. This
+lesson deepens Lesson 8's rules with the heart of fairness, and leads into the final
+lesson on movement skills.
 
 ## Procedure
 

@@ -116,22 +116,21 @@ the world than any single ruler ever did.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **ordinary people,
-working together, can change something unfair** — and history is full of it. Teach the
-four-part frame — *the unfair thing / the ordinary people / what they did together / what
-changed* — as a worked example (Kirschner, Sweller & Clark, 2006). Use **true,
-age-appropriate, non-shaming** examples: the Green Belt Movement (founded 1977 by Wangari
-Maathai with other women in Kenya, planting trees against deforestation — later spreading
-to other African countries and planting over thirty million trees; she won the 2004 Nobel
-Peace Prize); or a local story your learners know (a crossing fixed, a well won, a space
-reclaimed). The point is *how ordinary people do it*, not hero-worship — name the many,
-not one name. Attach hope, not despair: unfair things *are* changed. Distinguish
-**evidence from values**: *what happened, who acted, and what changed* are facts we can
-check; *that people should act together against unfairness* is a value this curriculum
-holds and offers to learners as a value, not a command. Carry the **environment lens**
-honestly: some of the most famous collective actions protect the shared environment —
-trees, water, land — because the environment is part of the common good. See
-`docs/facilitation.md`.
+The idea to land: **ordinary people, working together, can change something unfair** —
+and history is full of it. Teach the four-part frame — *the unfair thing / the ordinary
+people / what they did together / what changed* — as a worked example (Kirschner,
+Sweller & Clark, 2006). Use **true, age-appropriate, non-shaming** examples: the Green
+Belt Movement (founded 1977 by Wangari Maathai with other women in Kenya, planting trees
+against deforestation — later spreading to other African countries and planting over
+thirty million trees; she won the 2004 Nobel Peace Prize); or a local story your
+learners know (a crossing fixed, a well won, a space reclaimed). The point is *how
+ordinary people do it*, not hero-worship — name the many, not one name. Attach hope, not
+despair: unfair things *are* changed. Distinguish **evidence from values**: *what
+happened, who acted, and what changed* are facts we can check; *that people should act
+together against unfairness* is a value this curriculum holds and offers to learners as
+a value, not a command. Carry the **environment lens** honestly: some of the most famous
+collective actions protect the shared environment — trees, water, land — because the
+environment is part of the common good. See `docs/facilitation.md`.
 
 ## Procedure
 

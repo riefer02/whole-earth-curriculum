@@ -115,22 +115,24 @@ can name.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **a radical √a is the non-negative
-number whose square is a; real numbers are rational and irrational together; and radicals simplify
-by two properties — the product property √(ab) = √a·√b (for non-negative a, b) and the fact that
-√(a²) = a for non-negative a.** This is a *skill*, so use a **worked example first, then guided
-practice** (explicit instruction carries skills for novices — S-011). Model √50 = √(25·2) = √25·√2 =
-5√2 fully, naming each property, then have learners simplify their own before independent work. The
-critical-thinking lens: justifying each step with a named property is the seed of proof. The global
-lens: irrationals were discovered, not invented — Babylonian scribes approximated √2 on the clay
-tablet YBC 7289 (~1800 BCE) to about six decimal places, and the idea that √2 cannot be written as a
-ratio of whole numbers shook Greek mathematics (S-429, S-430). The ethics/egalitarian lens: the name
-"irrational" once meant "unsayable," and people were uncomfortable — but an irrational number is not
-broken or wrong; it is a real number like any other. Mathematics is sense-making open to all; naming
-a property is not a gate, it is a tool everyone can pick up. The technology lens: a calculator
-shows √2 and π to many digits but never the whole non-repeating decimal — the machine's display is
-finite while the number is not, so the human must know what the display actually means. Keep the
-"is it rational?" question a matter of evidence (does the decimal repeat?), not authority.
+The skill to land: **a radical √a is the non-negative number whose square is a; real
+numbers are rational and irrational together; and radicals simplify by two properties —
+the product property √(ab) = √a·√b (for non-negative a, b) and the fact that √(a²) = a
+for non-negative a.** This is a *skill*, so use a **worked example first, then guided
+practice** (explicit instruction carries skills for novices — S-011). Model √50 =
+√(25·2) = √25·√2 = 5√2 fully, naming each property, then have learners simplify their
+own before independent work. The critical-thinking lens: justifying each step with a
+named property is the seed of proof. The global lens: irrationals were discovered, not
+invented — Babylonian scribes approximated √2 on the clay tablet YBC 7289 (~1800 BCE) to
+about six decimal places, and the idea that √2 cannot be written as a ratio of whole
+numbers shook Greek mathematics (S-429, S-430). The ethics/egalitarian lens: the name
+"irrational" once meant "unsayable," and people were uncomfortable — but an irrational
+number is not broken or wrong; it is a real number like any other. Mathematics is
+sense-making open to all; naming a property is not a gate, it is a tool everyone can
+pick up. The technology lens: a calculator shows √2 and π to many digits but never the
+whole non-repeating decimal — the machine's display is finite while the number is not,
+so the human must know what the display actually means. Keep the "is it rational?"
+question a matter of evidence (does the decimal repeat?), not authority.
 
 ## Procedure
 

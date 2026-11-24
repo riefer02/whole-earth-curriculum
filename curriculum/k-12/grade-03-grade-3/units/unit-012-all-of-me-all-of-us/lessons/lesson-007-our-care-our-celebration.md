@@ -134,21 +134,20 @@ celebrate it all.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the year's **capstone**, and its
-two commitments are **celebration, not competition** and **a community is made of
-people helping one another**. No best-work awards, no winners, no ranking — every
-learner's work is displayed equally, and every child belongs. Honor every family shape:
-a child's caring circle may be parents, one parent, grandparents, extended kin,
-guardians, foster or group care, or a trusted adult — and a learner may share their
-celebration with any of these, or pass. In the sharing circle, sharing is by choice; a
-pass is a full share. Help learners name *concrete* examples of community help (a
-neighbor watching the baby, a market seller keeping fair change, a friend sharing a
-book, a classmate tying a shoe) so the standard is met in the everyday, not the
-grand. Keep the goal-ahead small and real, with a first step — the habit from Lesson 4.
-For a learner who is Deaf or hard of hearing, make the celebration visual — clapping,
-signing, a flag wave, a visual "bravo." For a learner who is blind or has low vision,
-offer a spoken or tactile tour of the gallery. Keep the tone warm and generous: the
-class has grown together, and everyone belongs.
+It is the year's **capstone**, and its two commitments are **celebration, not
+competition** and **a community is made of people helping one another**. No best-work
+awards, no winners, no ranking — every learner's work is displayed equally, and every
+child belongs. Honor every family shape: a child's caring circle may be parents, one
+parent, grandparents, extended kin, guardians, foster or group care, or a trusted
+adult — and a learner may share their celebration with any of these, or pass. In the
+sharing circle, sharing is by choice; a pass is a full share. Help learners name
+*concrete* examples of community help (a neighbor watching the baby, a market seller
+keeping fair change, a friend sharing a book, a classmate tying a shoe) so the standard
+is met in the everyday, not the grand. Keep the goal-ahead small and real, with a first
+step — the habit from Lesson 4. For a learner who is Deaf or hard of hearing, make the
+celebration visual — clapping, signing, a flag wave, a visual "bravo." For a learner who
+is blind or has low vision, offer a spoken or tactile tour of the gallery. Keep the tone
+warm and generous: the class has grown together, and everyone belongs.
 
 ## Procedure
 

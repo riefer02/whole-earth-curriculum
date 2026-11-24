@@ -113,22 +113,23 @@ fairly. Today you practice seeing through eyes that are not your own.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a conflict has parties, and
-each party has a view (what they think), needs (what they want or fear losing), and evidence (the
-strongest reasons for their view); (2) analyzing means reconstructing each party's case as its
-holder would state it — "charitably" — before evaluating; (3) understanding a view is not agreeing
-with it.** Perspective-taking is a well-studied route to prosocial behavior and reduced aggression
-(Decety & Cowell 2014, S-231); model the map once as a worked example (S-011). **Safety: use
-invented conflicts, and do not press learners to "defend" a real view that harms them or others;
-the skill is analysis, not endorsement.** The ethics lens: fairness requires hearing the strongest
-version of every side, not a straw-man. The egalitarian lens: in a conflict, some parties have more
-power or louder voices — mapping every side gives the quieter parties their turn on the page. The
-global & anthropological lens: the same conflict would be read differently in different places and
-traditions — name whose perspective is still missing from the map. The technology & environment
-lens: conflicts now also happen on screens and across distances, where the parties never meet — the
-same mapping works, with extra care from Lesson 3. The critical-thinking lens: separate the task of
-*understanding* a view from the task of *evaluating* it — you may understand fully and still
-disagree.
+The ideas to land: **(1) a conflict has parties, and each party has a view (what they
+think), needs (what they want or fear losing), and evidence (the strongest reasons for
+their view); (2) analyzing means reconstructing each party's case as its holder would
+state it — "charitably" — before evaluating; (3) understanding a view is not agreeing
+with it.** Perspective-taking is a well-studied route to prosocial behavior and reduced
+aggression (Decety & Cowell 2014, S-231); model the map once as a worked example
+(S-011). **Safety: use invented conflicts, and do not press learners to "defend" a real
+view that harms them or others; the skill is analysis, not endorsement.** The ethics
+lens: fairness requires hearing the strongest version of every side, not a straw-man.
+The egalitarian lens: in a conflict, some parties have more power or louder voices —
+mapping every side gives the quieter parties their turn on the page. The global &
+anthropological lens: the same conflict would be read differently in different places
+and traditions — name whose perspective is still missing from the map. The technology &
+environment lens: conflicts now also happen on screens and across distances, where the
+parties never meet — the same mapping works, with extra care from Lesson 3. The
+critical-thinking lens: separate the task of *understanding* a view from the task of
+*evaluating* it — you may understand fully and still disagree.
 
 ## Procedure
 

@@ -112,20 +112,22 @@ order. Today you design one for something you care about.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a collective-action plan is
-concrete — a goal you could verify, allies who share it or can help, and steps you can actually take
-— and it is built from real patterns, not invented from nothing.** Ground the pattern in two
-documented movements: the Green Belt Movement, founded 1977 by Wangari Maathai, which organized
-people — many of them women — to plant trees, countering deforestation and planting over thirty
-million trees (S-059); and the 1930 Salt March, a nonviolent act of civil disobedience led by
-Gandhi against the British salt monopoly, part of India's independence movement (S-390). Let learners
-extract goals, allies, and steps from each rather than being told. The **community** lens is the
-spine: action is done *with* others, not to them. The **egalitarian** lens: ask whose voices are in
-the plan and whose are missing — a plan made only by the powerful is not collective. The **global**
-lens: draw examples from many regions and causes, and let learners choose issues from their own
-context. The **ethics** lens: the means should match the goal — a plan that harms people to help them
-is not a plan worth having. Distinguish evidence (what these movements did) from values (what makes a
-goal worth pursuing) (philosophy §5). Preview: next lesson we evaluate the plan's likely effects.
+The idea to land: **a collective-action plan is concrete — a goal you could verify,
+allies who share it or can help, and steps you can actually take — and it is built from
+real patterns, not invented from nothing.** Ground the pattern in two documented
+movements: the Green Belt Movement, founded 1977 by Wangari Maathai, which organized
+people — many of them women — to plant trees, countering deforestation and planting over
+thirty million trees (S-059); and the 1930 Salt March, a nonviolent act of civil
+disobedience led by Gandhi against the British salt monopoly, part of India's
+independence movement (S-390). Let learners extract goals, allies, and steps from each
+rather than being told. The **community** lens is the spine: action is done *with*
+others, not to them. The **egalitarian** lens: ask whose voices are in the plan and
+whose are missing — a plan made only by the powerful is not collective. The **global**
+lens: draw examples from many regions and causes, and let learners choose issues from
+their own context. The **ethics** lens: the means should match the goal — a plan that
+harms people to help them is not a plan worth having. Distinguish evidence (what these
+movements did) from values (what makes a goal worth pursuing) (philosophy §5). Preview:
+next lesson we evaluate the plan's likely effects.
 
 ## Procedure
 

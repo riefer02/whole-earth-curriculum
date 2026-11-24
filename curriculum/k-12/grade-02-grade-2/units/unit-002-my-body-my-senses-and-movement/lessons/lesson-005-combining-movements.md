@@ -109,16 +109,15 @@ put two movements together on purpose.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the space, then model each two-movement sequence slowly
-before learners try. This spirals up from Grade 1's single movements (skip, gallop,
-hop, jump) — now two movements join into a sequence. This is movement, not a race:
-celebrate control and order, never speed or distance. Honor every body: a learner who
-uses a wheelchair can run with their wheels and catch with a lap tray; a learner who
-needs support can do the sequence seated or with a partner's help. Model adapted
-versions as real choices, never second choices. Call the order out loud and keep a
-visual beat going (a bouncing hand) so learners who are deaf or hard of hearing can
-follow. Invite everyone to rest and go at their own pace.
+Prepare the space, then model each two-movement sequence slowly before learners try.
+This spirals up from Grade 1's single movements (skip, gallop, hop, jump) — now two
+movements join into a sequence. This is movement, not a race: celebrate control and
+order, never speed or distance. Honor every body: a learner who uses a wheelchair can
+run with their wheels and catch with a lap tray; a learner who needs support can do the
+sequence seated or with a partner's help. Model adapted versions as real choices, never
+second choices. Call the order out loud and keep a visual beat going (a bouncing hand)
+so learners who are deaf or hard of hearing can follow. Invite everyone to rest and go
+at their own pace.
 
 ## Procedure
 

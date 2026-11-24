@@ -113,20 +113,22 @@ living world gives us.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **biodiversity — the variety of living
-things — underpins every ecosystem service, because more kinds of life mean more ways for the system to
-keep working when one part fails (redundancy and resilience); thinning the base of species thins the
-services.** The **environment** lens is the spine. The **egalitarian** lens: the loss of biodiversity
-falls hardest on people who depend most directly on wild species for food, medicine, and livelihood
-(S-437). The **global** lens: biodiversity is distributed unevenly across the planet, and the places
-richest in species are often the places with the least money to protect them — a question of shared
-responsibility (S-279). The **ethics** lens: other species have value beyond their usefulness to us —
-a claim many traditions hold and one we can weigh alongside the services argument (S-427). The
-**technology** lens: technology can mimic a few services but cannot rebuild a thinned web of life.
-Anchor the science: a keystone species is one whose effect is large for its abundance (S-176); IPBES
-documents that species decline is driven by land-use change, direct exploitation, climate change,
-pollution, and invasive species (S-437). Keep the wolf/aspens example hedged — recovery has been complex
-and contested (S-310). Preview: next lesson asks what happens at a *threshold* — the tipping point.
+The idea to land: **biodiversity — the variety of living things — underpins every
+ecosystem service, because more kinds of life mean more ways for the system to keep
+working when one part fails (redundancy and resilience); thinning the base of species
+thins the services.** The **environment** lens is the spine. The **egalitarian** lens:
+the loss of biodiversity falls hardest on people who depend most directly on wild
+species for food, medicine, and livelihood (S-437). The **global** lens: biodiversity is
+distributed unevenly across the planet, and the places richest in species are often the
+places with the least money to protect them — a question of shared responsibility
+(S-279). The **ethics** lens: other species have value beyond their usefulness to us — a
+claim many traditions hold and one we can weigh alongside the services argument (S-427).
+The **technology** lens: technology can mimic a few services but cannot rebuild a
+thinned web of life. Anchor the science: a keystone species is one whose effect is large
+for its abundance (S-176); IPBES documents that species decline is driven by land-use
+change, direct exploitation, climate change, pollution, and invasive species (S-437).
+Keep the wolf/aspens example hedged — recovery has been complex and contested (S-310).
+Preview: next lesson asks what happens at a *threshold* — the tipping point.
 
 ## Procedure
 

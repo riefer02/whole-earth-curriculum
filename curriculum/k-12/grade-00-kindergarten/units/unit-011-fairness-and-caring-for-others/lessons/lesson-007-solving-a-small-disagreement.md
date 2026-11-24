@@ -105,22 +105,21 @@ right — the hurt is repaired and everyone can play again.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches *repair, not punishment*: after a
-small hurt, the goal is making things right — a kind word, returning what was taken,
-checking the friend is okay — not shaming or excluding anyone. Name feelings before
-fixes; both sides get heard. The three steps are a scaffold, not a script to obey;
-wonder together about what might work in each case. Where an adult is present, the
-adult's help is welcome and safe — asking for help is strength, not weakness. Keep
-examples small, everyday, and free of blame. "Use your words" means *however a
-learner expresses themselves* — spoken words, sign, a gesture, pointing to a feeling
-or a picture on the strip, or a communication board. A learner who does not speak
-aloud still "uses words": a grown-up or peer can voice what they point to or sign.
-Learners who are deaf or hard of hearing follow the strip by sight and sign; learners
-who are blind or low-vision hear the steps named and touch or feel the toys. Acting
-out with the toys is one way to practice, not the only way — a learner with limited
-movement can point to the step on the strip, or direct a partner or adult to move the
-toys while they show the feeling and choose the repair. Never require anyone to speak
-or to act in front of the group.
+This lesson teaches *repair, not punishment*: after a small hurt, the goal is making
+things right — a kind word, returning what was taken, checking the friend is okay — not
+shaming or excluding anyone. Name feelings before fixes; both sides get heard. The three
+steps are a scaffold, not a script to obey; wonder together about what might work in
+each case. Where an adult is present, the adult's help is welcome and safe — asking for
+help is strength, not weakness. Keep examples small, everyday, and free of blame. "Use
+your words" means *however a learner expresses themselves* — spoken words, sign, a
+gesture, pointing to a feeling or a picture on the strip, or a communication board. A
+learner who does not speak aloud still "uses words": a grown-up or peer can voice what
+they point to or sign. Learners who are deaf or hard of hearing follow the strip by
+sight and sign; learners who are blind or low-vision hear the steps named and touch or
+feel the toys. Acting out with the toys is one way to practice, not the only way — a
+learner with limited movement can point to the step on the strip, or direct a partner or
+adult to move the toys while they show the feeling and choose the repair. Never require
+anyone to speak or to act in front of the group.
 
 ## Procedure
 

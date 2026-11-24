@@ -121,22 +121,21 @@ tens is one hundred.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It builds directly on Grade 2, where
-learners bundled tens and ones to read two-digit numbers; today the bundle grows to the
-**hundred** — the key idea is that ten tens make one hundred, the same unitizing move
-as before, one step bigger (Clements & Sarama, 2014). Teach the one new skill as a
-**worked example** (philosophy §13): bundle ten, bundle ten tens into a hundred, then
-read hundreds, tens, and ones aloud before learners try it themselves. Keep it
-concrete: objects first, symbols last. **No one's speed at bundling measures their
-smartness, and a number is a fact about a collection, never a worth about a person.**
-The digits 0–9 we use today are one number system among many — they reached the wider
-world through Arabic-speaking scholars from India, while other peoples used tally
-marks, knots, and many other ways (Ifrah, 2000; Zaslavsky, 1999). Count in the home
-language; number words differ across languages and all are correct. For learners who
-are Deaf or hard of hearing, count in sign or by tapping each bundle; for learners who
-are blind or low-vision, move objects into cups so the number grows by feel and sound.
-Learners with limited hand or body movement direct a partner to move each object.
-Mastery arrives at its own pace for each child.
+It builds directly on Grade 2, where learners bundled tens and ones to read two-digit
+numbers; today the bundle grows to the **hundred** — the key idea is that ten tens make
+one hundred, the same unitizing move as before, one step bigger (Clements & Sarama,
+2014). Teach the one new skill as a **worked example** (philosophy §13): bundle ten,
+bundle ten tens into a hundred, then read hundreds, tens, and ones aloud before learners
+try it themselves. Keep it concrete: objects first, symbols last. **No one's speed at
+bundling measures their smartness, and a number is a fact about a collection, never a
+worth about a person.** The digits 0–9 we use today are one number system among many —
+they reached the wider world through Arabic-speaking scholars from India, while other
+peoples used tally marks, knots, and many other ways (Ifrah, 2000; Zaslavsky, 1999).
+Count in the home language; number words differ across languages and all are correct.
+For learners who are Deaf or hard of hearing, count in sign or by tapping each bundle;
+for learners who are blind or low-vision, move objects into cups so the number grows by
+feel and sound. Learners with limited hand or body movement direct a partner to move
+each object. Mastery arrives at its own pace for each child.
 
 ## Procedure
 

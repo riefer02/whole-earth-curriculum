@@ -107,15 +107,14 @@ shelter**.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Keep it gentle and concrete. Use the
-word "alive and healthy," and let learners lead with their own lives. Be sensitive: a
-learner may live somewhere food, water, or a safe home is not always certain. Hold
-this without shame — say that everyone needs these four things, and that people
-everywhere work hard so that all living things can have them; that is why caring for
-each other and the Earth matters. Different living things meet the four needs
-differently (a fish "breathes" water's air; a cactus finds water in dry places) — let
-that be wonder, not a quiz. Honor every body: act, point, or draw rather than speak
-if that is easier.
+Keep it gentle and concrete. Use the word "alive and healthy," and let learners lead
+with their own lives. Be sensitive: a learner may live somewhere food, water, or a safe
+home is not always certain. Hold this without shame — say that everyone needs these four
+things, and that people everywhere work hard so that all living things can have them;
+that is why caring for each other and the Earth matters. Different living things meet
+the four needs differently (a fish "breathes" water's air; a cactus finds water in dry
+places) — let that be wonder, not a quiz. Honor every body: act, point, or draw rather
+than speak if that is easier.
 
 ## Procedure
 

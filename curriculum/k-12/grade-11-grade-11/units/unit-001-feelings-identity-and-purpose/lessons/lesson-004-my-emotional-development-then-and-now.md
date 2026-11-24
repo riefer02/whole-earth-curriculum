@@ -108,31 +108,28 @@ author of your own inner life.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **emotional
-development is real, ongoing, and nameable — a learner can name a strength and a
-growth area without judgment, because "not yet" is information, never a verdict.**
-Model the reflection with a worked example of your own (S-011), then release learners
-to write privately.
+The idea to land: **emotional development is real, ongoing, and nameable — a learner can
+name a strength and a growth area without judgment, because "not yet" is information,
+never a verdict.** Model the reflection with a worked example of your own (S-011), then
+release learners to write privately.
 
 The **social-emotional** lens is the core: this is self-awareness applied over time
-(CASEL, S-001), using the precise-labeling skill from RULER (S-015) and the idea that
-a richer emotion vocabulary enables finer feeling and better regulation (Barrett's
+(CASEL, S-001), using the precise-labeling skill from RULER (S-015) and the idea that a
+richer emotion vocabulary enables finer feeling and better regulation (Barrett's
 "emotional granularity," S-401 — offered as one well-supported account, not a creed).
-The **ethics** lens: naming our own growth honestly — strengths without arrogance,
-gaps without shame — is a discipline of truthfulness toward oneself. The
-**egalitarian** lens: growth looks different for everyone and depends on the support a
-person had; no one's pace is a measure of their worth, and we never rank one
-learner's story against another's. The **global** lens: what counts as emotional
-maturity, and which feelings are shown or hidden, is shaped by culture — so honor your
-own context rather than measuring yourself against a single standard. The
-**technology & environment** lens: notice how screens and environments have shaped
-your emotional life (what a feed does to your mood, what a quiet place does to your
-body) — those are part of your story too.
+The **ethics** lens: naming our own growth honestly — strengths without arrogance, gaps
+without shame — is a discipline of truthfulness toward oneself. The **egalitarian**
+lens: growth looks different for everyone and depends on the support a person had; no
+one's pace is a measure of their worth, and we never rank one learner's story against
+another's. The **global** lens: what counts as emotional maturity, and which feelings
+are shown or hidden, is shaped by culture — so honor your own context rather than
+measuring yourself against a single standard. The **technology & environment** lens:
+notice how screens and environments have shaped your emotional life (what a feed does to
+your mood, what a quiet place does to your body) — those are part of your story too.
 
-**Emotional safety is the whole point.** This is private, vulnerable work. Never
-require sharing; "pass" is complete. Frame the reflection as *celebration plus
-curiosity*, never as a score. Remind learners that a growth area is not a defect — it
-is a direction.
+**Emotional safety is the whole point.** This is private, vulnerable work. Never require
+sharing; "pass" is complete. Frame the reflection as *celebration plus curiosity*, never
+as a score. Remind learners that a growth area is not a defect — it is a direction.
 
 ## Procedure
 

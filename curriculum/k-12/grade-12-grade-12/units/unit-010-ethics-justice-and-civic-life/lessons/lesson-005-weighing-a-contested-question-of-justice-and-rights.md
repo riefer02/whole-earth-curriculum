@@ -120,30 +120,32 @@ belonging, between openness and self-rule — can be seen and argued honestly.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a contested question of justice
-and rights — here, the right to move and seek safety weighed against a state's control of its
-borders — is weighed, not settled; the work is to map the perspectives (the person seeking safety,
-the receiving community, the sending country, international law), name the value each appeals to,
-and separate evidence about displacement from values about what should be done. No single verdict
-is asserted.** Hold the facts accurately: the Universal Declaration affirms a right to seek and
-enjoy asylum (Articles 13–14) (S-149); forced displacement is large and global, driven mainly by
-conflict and persecution, with climate a growing driver (S-493); people have always moved (S-086).
-Present every perspective as genuine; the learner weighs and judges.
+The idea to land: **a contested question of justice and rights — here, the right to move
+and seek safety weighed against a state's control of its borders — is weighed, not
+settled; the work is to map the perspectives (the person seeking safety, the receiving
+community, the sending country, international law), name the value each appeals to, and
+separate evidence about displacement from values about what should be done. No single
+verdict is asserted.** Hold the facts accurately: the Universal Declaration affirms a
+right to seek and enjoy asylum (Articles 13–14) (S-149); forced displacement is large
+and global, driven mainly by conflict and persecution, with climate a growing driver
+(S-493); people have always moved (S-086). Present every perspective as genuine; the
+learner weighs and judges.
 
-The **ethics** lens: the question is a genuine clash of *duties* — a duty to the stranger in
-danger and a duty to one's own community — and ethical reasoning means holding both, not choosing
-the easier one to dismiss. The **egalitarianism** lens: ask *who has the power to be heard* in this
-debate and whose voice is loudest or quietest; a state speaks with institutions behind it, a
-person fleeing often speaks with none — weighing fairly means noticing that imbalance (S-275).
-The **global** lens: the right to move and seek asylum is framed in global documents (S-149), yet
-the African Charter adds *duties* and *peoples'* rights to the picture (S-465), showing the idea
-of rights is amended and extended across traditions, not simply accepted. The **technology** lens:
-how movement is governed is now mediated by technology — borders tracked by data, identity by
-documents and databases — and who is included or excluded is partly decided by systems, not only
-by people. The **environment** lens: some movement is *driven* by a changing climate — drought,
-flood, lost harvests — which makes the question one about shared responsibility for a shared
-Earth, not only about borders (S-493). Preview: Lesson 6 asks the learner to *defend* a reasoned
-position across these perspectives.
+The **ethics** lens: the question is a genuine clash of *duties* — a duty to the
+stranger in danger and a duty to one's own community — and ethical reasoning means
+holding both, not choosing the easier one to dismiss. The **egalitarianism** lens: ask
+*who has the power to be heard* in this debate and whose voice is loudest or quietest; a
+state speaks with institutions behind it, a person fleeing often speaks with none —
+weighing fairly means noticing that imbalance (S-275). The **global** lens: the right to
+move and seek asylum is framed in global documents (S-149), yet the African Charter adds
+*duties* and *peoples'* rights to the picture (S-465), showing the idea of rights is
+amended and extended across traditions, not simply accepted. The **technology** lens:
+how movement is governed is now mediated by technology — borders tracked by data,
+identity by documents and databases — and who is included or excluded is partly decided
+by systems, not only by people. The **environment** lens: some movement is *driven* by a
+changing climate — drought, flood, lost harvests — which makes the question one about
+shared responsibility for a shared Earth, not only about borders (S-493). Preview:
+Lesson 6 asks the learner to *defend* a reasoned position across these perspectives.
 
 ## Procedure
 

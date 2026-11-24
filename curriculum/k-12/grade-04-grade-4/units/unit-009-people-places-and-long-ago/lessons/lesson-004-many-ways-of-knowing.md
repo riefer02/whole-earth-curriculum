@@ -122,20 +122,19 @@ observing, trying, and passing on — and each deserves respect.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Hold all three traditions as real
-knowledge, never as "primitive" or "less than" science.** Herbal medicine, star
-navigation, and oral history are careful, tested ways of knowing, built over
-generations — and modern medicine, astronomy, and history still learn from them.
-(UNESCO calls such living knowledge "intangible cultural heritage" — see Resources.)
-This is exactly the philosophy commitment to **holding many ways of knowing side by
-side, never ranking one above another.** Introduce the concept with a worked example
-first (Kirschner, Sweller & Clark, 2006): model one tradition fully, then guide the
-others. Use the names of real peoples where you can — Ayurveda and other South Asian
-traditions, Traditional Chinese Medicine, Amazonian and Aboriginal plant knowledge;
-Polynesian and Micronesian wayfinding; West African griots and Aboriginal Australian
-songlines. Honor every body: describe each card in words for a learner who cannot see
-it; a learner who does not use a speaking voice points or acts. If a learner's own
-family has a knowledge tradition, welcome it with honor.
+**Hold all three traditions as real knowledge, never as "primitive" or "less than"
+science.** Herbal medicine, star navigation, and oral history are careful, tested ways
+of knowing, built over generations — and modern medicine, astronomy, and history still
+learn from them. (UNESCO calls such living knowledge "intangible cultural heritage" —
+see Resources.) This is exactly the philosophy commitment to **holding many ways of
+knowing side by side, never ranking one above another.** Introduce the concept with a
+worked example first (Kirschner, Sweller & Clark, 2006): model one tradition fully, then
+guide the others. Use the names of real peoples where you can — Ayurveda and other South
+Asian traditions, Traditional Chinese Medicine, Amazonian and Aboriginal plant
+knowledge; Polynesian and Micronesian wayfinding; West African griots and Aboriginal
+Australian songlines. Honor every body: describe each card in words for a learner who
+cannot see it; a learner who does not use a speaking voice points or acts. If a
+learner's own family has a knowledge tradition, welcome it with honor.
 
 ## Procedure
 

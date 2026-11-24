@@ -103,15 +103,14 @@ recipe stirs several steps at once.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Choose groups that are real in the learners' **home writing
-system** — in an alphabetic system, a letter group such as a common vowel pair; in
-a syllabic or character system, a syllable block or a two-mark combination.
-Remain script-agnostic; do not import English-specific groups into a different
-system. Explicitly model, then guide practice (philosophy §13). For a learner who
-is blind or has low vision, make the group **tactile** (raised string, sand-glue,
-or clay) so it can be felt and found by touch; a learner who does not use a
-speaking voice spots and says the group by pointing, tapping, or using a device.
+Choose groups that are real in the learners' **home writing system** — in an alphabetic
+system, a letter group such as a common vowel pair; in a syllabic or character system, a
+syllable block or a two-mark combination. Remain script-agnostic; do not import
+English-specific groups into a different system. Explicitly model, then guide practice
+(philosophy §13). For a learner who is blind or has low vision, make the group
+**tactile** (raised string, sand-glue, or clay) so it can be felt and found by touch; a
+learner who does not use a speaking voice spots and says the group by pointing, tapping,
+or using a device.
 
 ## Procedure
 

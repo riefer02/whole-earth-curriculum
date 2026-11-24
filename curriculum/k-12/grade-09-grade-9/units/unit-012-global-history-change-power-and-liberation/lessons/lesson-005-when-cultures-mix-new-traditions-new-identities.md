@@ -110,26 +110,25 @@ three famous mixings and the new things that grew from them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **when peoples meet —
-through trade, migration, or empire — they create new traditions and identities that are
-more than the sum of their parts. Mixing is creative, not a loss.** Three documented
-examples: **(1) The Swahili coast.** Over centuries, Bantu-speaking East Africans met
-Arab, Persian, and Indian Ocean traders, and from that contact grew the **Swahili**
-language and a coastal culture of stone towns, trade, and literature (S-381, S-207).
-**(2) Haitian Creole.** On the island that became Haiti, enslaved Africans and French
-colonists were forced into contact, and from that meeting grew **Haitian Creole** — a full
-new language, not a broken version of either, now spoken by millions (S-475). **(3) The
-Columbian Exchange.** After 1492, plants, animals, and people moved between the Americas
-and Afro-Eurasia: maize, potatoes, tomatoes, cacao, and chilies went one way; wheat,
-rice, horses, and cattle the other — and the world's cuisines were remade (S-273). This
-is a *concept* lesson, so let inquiry and story carry it (philosophy §13). The **global**
-lens: mixing happens on every continent, in every language family. The **egalitarian**
-lens: ask who gets credited for a "new" tradition — and whose contribution is erased. The
-**ethics** lens: be honest that some mixing was *forced* (slavery, colonization) — the new
-thing that grew can be beautiful and still born of harm; hold both truths. The
-**technology** lens: ships and trade routes were the tools that brought cultures into
-contact. Keep it honest and specific, and never romanticize the violence that sometimes
-forced the meeting.
+The idea to land: **when peoples meet — through trade, migration, or empire — they
+create new traditions and identities that are more than the sum of their parts. Mixing
+is creative, not a loss.** Three documented examples: **(1) The Swahili coast.** Over
+centuries, Bantu-speaking East Africans met Arab, Persian, and Indian Ocean traders, and
+from that contact grew the **Swahili** language and a coastal culture of stone towns,
+trade, and literature (S-381, S-207). **(2) Haitian Creole.** On the island that became
+Haiti, enslaved Africans and French colonists were forced into contact, and from that
+meeting grew **Haitian Creole** — a full new language, not a broken version of either,
+now spoken by millions (S-475). **(3) The Columbian Exchange.** After 1492, plants,
+animals, and people moved between the Americas and Afro-Eurasia: maize, potatoes,
+tomatoes, cacao, and chilies went one way; wheat, rice, horses, and cattle the other —
+and the world's cuisines were remade (S-273). This is a *concept* lesson, so let inquiry
+and story carry it (philosophy §13). The **global** lens: mixing happens on every
+continent, in every language family. The **egalitarian** lens: ask who gets credited for
+a "new" tradition — and whose contribution is erased. The **ethics** lens: be honest
+that some mixing was *forced* (slavery, colonization) — the new thing that grew can be
+beautiful and still born of harm; hold both truths. The **technology** lens: ships and
+trade routes were the tools that brought cultures into contact. Keep it honest and
+specific, and never romanticize the violence that sometimes forced the meeting.
 
 ## Procedure
 

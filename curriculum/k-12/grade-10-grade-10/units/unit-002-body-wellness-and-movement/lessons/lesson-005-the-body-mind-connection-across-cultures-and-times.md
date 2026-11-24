@@ -121,27 +121,26 @@ from many places and times, and you hold them with respect.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the body-mind
-connection is not one culture's idea — many peoples across time have built sophisticated
-understandings of it, and we hold them side by side with respect, not rank them.** The
-lesson's examples are offered accurately and humbly: breathing practices such as
-**pranayama** (South Asia) and **qigong** (China) are named, alongside meditation and
-movement arts, as practices the scientific literature now also studies for their calming
-effects (S-340 explicitly holds pranayama and qigong side by side as breathing traditions
-from many cultures). Humoral medicine (the ancient idea of balancing the body's humors —
-in Greek, Islamic, South Asian, and other traditions) is presented as a *historical
-theory* that shaped medicine for centuries, distinct from what modern evidence supports.
-The UNESCO International Charter frames physical activity and sport as a **fundamental
-right for all**, inclusive of every ability — the egalitarian anchor for this lesson
-(S-342).
+The idea to land: **the body-mind connection is not one culture's idea — many peoples
+across time have built sophisticated understandings of it, and we hold them side by side
+with respect, not rank them.** The lesson's examples are offered accurately and humbly:
+breathing practices such as **pranayama** (South Asia) and **qigong** (China) are named,
+alongside meditation and movement arts, as practices the scientific literature now also
+studies for their calming effects (S-340 explicitly holds pranayama and qigong side by
+side as breathing traditions from many cultures). Humoral medicine (the ancient idea of
+balancing the body's humors — in Greek, Islamic, South Asian, and other traditions) is
+presented as a *historical theory* that shaped medicine for centuries, distinct from
+what modern evidence supports. The UNESCO International Charter frames physical activity
+and sport as a **fundamental right for all**, inclusive of every ability — the
+egalitarian anchor for this lesson (S-342).
 
 The **global** lens is the spine here: treat every tradition as a *living practice* to
 honor with respectful questions, never as a specimen to be dissected (philosophy §11;
 art-style representation note). The **ethics** lens: borrowing a practice from another
 culture calls for care — name where it comes from, and do not strip it of its context.
 The **egalitarian** lens: no tradition is "more advanced" than another; each is a real
-answer to a real question. The **critical-thinking** lens: *understanding* a tradition is
-not the same as *evidence for it* — we will weigh evidence next lesson, and today we
+answer to a real question. The **critical-thinking** lens: *understanding* a tradition
+is not the same as *evidence for it* — we will weigh evidence next lesson, and today we
 simply describe honestly. The **social-emotional** lens: practicing a calm-down may
 surface feeling; go gently, and let learners opt out. The **technology & environment**
 lens: modern life often separates body from mind (desk, screen, stillness); these

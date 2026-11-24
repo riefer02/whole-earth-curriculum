@@ -110,13 +110,12 @@ words.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Some learners will feel a feeling
-everywhere or nowhere, and some bodies signal differently — honor both. There is no
-"wrong" spot; the goal is *noticing*, not matching a chart. Frame every description as
-a possibility ("many people feel mad as tense shoulders — where do *you* feel it?").
-Model the body scan with your own body. For learners with limited sensation or
-mobility, the spot can be named and pointed to on the poster or on a partner's body
-with consent.
+Some learners will feel a feeling everywhere or nowhere, and some bodies signal
+differently — honor both. There is no "wrong" spot; the goal is *noticing*, not matching
+a chart. Frame every description as a possibility ("many people feel mad as tense
+shoulders — where do *you* feel it?"). Model the body scan with your own body. For
+learners with limited sensation or mobility, the spot can be named and pointed to on the
+poster or on a partner's body with consent.
 
 ## Procedure
 

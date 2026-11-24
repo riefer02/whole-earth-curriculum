@@ -121,16 +121,15 @@ than another.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **identity has
-many connected parts, and every shape of family, culture, language, and belief is whole
-and worthy**. This is the unit's deepest "honor every family" moment: be explicit that
-families come in many shapes — two parents, one parent, grandparents, adoptive or foster
-parents, siblings, chosen family, blended families — and that all belong; model adoption,
-moving, and multilingualism as ordinary, not "special cases." **Beliefs are personal and
-optional to share** — invite learners to include beliefs (values, faith, worldview) only if
-they choose, and never rank any belief system. The gallery walk should celebrate
-*difference*, never compare maps as better or worse. See `docs/facilitation.md` and
-`docs/art-style.md`.
+The idea to land is that **identity has many connected parts, and every shape of family,
+culture, language, and belief is whole and worthy**. This is the unit's deepest "honor
+every family" moment: be explicit that families come in many shapes — two parents, one
+parent, grandparents, adoptive or foster parents, siblings, chosen family, blended
+families — and that all belong; model adoption, moving, and multilingualism as ordinary,
+not "special cases." **Beliefs are personal and optional to share** — invite learners to
+include beliefs (values, faith, worldview) only if they choose, and never rank any
+belief system. The gallery walk should celebrate *difference*, never compare maps as
+better or worse. See `docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure
 

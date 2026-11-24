@@ -115,24 +115,25 @@ a goal you would actually keep, and you build the tiny tracking habit that keeps
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **a good movement goal
-is (1) specific and measurable, (2) realistic — a small step you can actually do this
-week, (3) built on function, feeling, or skill rather than weight or appearance, and (4)
-tracked simply, with a planned check-in and a kind response when a week is missed.** This
-is a *skill*, so use a **worked example first, then guided practice** (S-011). The
-critical lens here is ethical and egalitarian: hold the line firmly that goals must never
-target weight, body size, or appearance — the curriculum is weight-neutral by design, and
-a "goal" to shrink a body is not wellness, it is harm (S-407). The egalitarian lens: a
-movement goal must fit *any* body and ability — walking, rolling, swimming, gardening,
-dancing, stretching, carrying, cycling — and the UNESCO charter holds that physical
-activity is a right for all, practiced inclusively without discrimination (S-342). The
-global lens: movement traditions worldwide (dance, games, martial arts such as tai chi, capoeira, and kalaripayattu, manual work) all
-count as movement; the goal is health and joy, not any single sport. The technology lens:
-trackers and apps can help record, but they can also distort a healthy relationship with
-movement by making it about numbers and comparison — use them only if they help, and never
-to rank bodies (see Grade 10's fuller treatment). Emphasize **mastery, not ranking**: a
-missed week is information, not a verdict — the learner simply restarts, smaller. Model a
-goal that is genuinely small, so no learner is set up to fail.
+The skill to land: **a good movement goal is (1) specific and measurable, (2)
+realistic — a small step you can actually do this week, (3) built on function, feeling,
+or skill rather than weight or appearance, and (4) tracked simply, with a planned
+check-in and a kind response when a week is missed.** This is a *skill*, so use a
+**worked example first, then guided practice** (S-011). The critical lens here is
+ethical and egalitarian: hold the line firmly that goals must never target weight, body
+size, or appearance — the curriculum is weight-neutral by design, and a "goal" to shrink
+a body is not wellness, it is harm (S-407). The egalitarian lens: a movement goal must
+fit *any* body and ability — walking, rolling, swimming, gardening, dancing, stretching,
+carrying, cycling — and the UNESCO charter holds that physical activity is a right for
+all, practiced inclusively without discrimination (S-342). The global lens: movement
+traditions worldwide (dance, games, martial arts such as tai chi, capoeira, and
+kalaripayattu, manual work) all count as movement; the goal is health and joy, not any
+single sport. The technology lens: trackers and apps can help record, but they can also
+distort a healthy relationship with movement by making it about numbers and comparison —
+use them only if they help, and never to rank bodies (see Grade 10's fuller treatment).
+Emphasize **mastery, not ranking**: a missed week is information, not a verdict — the
+learner simply restarts, smaller. Model a goal that is genuinely small, so no learner is
+set up to fail.
 
 ## Procedure
 

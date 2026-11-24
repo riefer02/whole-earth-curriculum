@@ -124,11 +124,10 @@ notice that the showing is itself the last work of art.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a portfolio is not a
-pile; it is a curated whole — the learner selects, arranges, and explains their works as
-one statement, then reflects on intended versus actual effect.** This is the unit's
-capstone and its spaced-retrieval payoff (S-039); keep it a celebration of mastery, never
-a ranking (philosophy §8).
+The idea to land: **a portfolio is not a pile; it is a curated whole — the learner
+selects, arranges, and explains their works as one statement, then reflects on intended
+versus actual effect.** This is the unit's capstone and its spaced-retrieval payoff
+(S-039); keep it a celebration of mastery, never a ranking (philosophy §8).
 
 The **intellectual** lens: the reflection asks the learner to compare *intention* with
 *outcome* — the same evidence-versus-judgment discipline the unit has practiced. The

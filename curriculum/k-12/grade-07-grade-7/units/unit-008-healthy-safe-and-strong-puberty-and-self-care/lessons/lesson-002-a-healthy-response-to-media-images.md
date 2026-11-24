@@ -117,15 +117,15 @@ you back in charge of your own feelings about your own body.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The goal is a *usable skill*, not a lecture
-on self-esteem. The facts to land: a person's body image — how they feel about their body —
-is shaped in part by the images around them, and a person can respond in ways that protect
-their wellbeing (UNESCO media and information literacy; WHO adolescent health). The
-healthy responses to teach: **pause and question** (is it edited? who chose it? what is it
-selling?), **kind self-talk** (speak to yourself as you would to a friend), **curating**
-(choose what and who you follow), and **talking to a trusted adult** when it feels heavy.
-These are framed as self-care, never as blame, and never as pressure to "love" a body. Hold
-body neutrality as a valid option: it is enough to respect your body and treat it well
+The goal is a *usable skill*, not a lecture on self-esteem. The facts to land: a
+person's body image — how they feel about their body — is shaped in part by the images
+around them, and a person can respond in ways that protect their wellbeing (UNESCO media
+and information literacy; WHO adolescent health). The healthy responses to teach:
+**pause and question** (is it edited? who chose it? what is it selling?), **kind
+self-talk** (speak to yourself as you would to a friend), **curating** (choose what and
+who you follow), and **talking to a trusted adult** when it feels heavy. These are
+framed as self-care, never as blame, and never as pressure to "love" a body. Hold body
+neutrality as a valid option: it is enough to respect your body and treat it well
 without feeling positive about it every day. Never comment on any learner's body, never
 compare learners, and keep all practice general. See `docs/facilitation.md`.
 

@@ -113,26 +113,26 @@ that connection every time you eat, drink, work, or breathe.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **ecosystem, economy, and
-health are coupled — a change in one moves through the others, often through feedback loops
-— so they must be understood together.** Teach the cascade explicitly, then let learners
-map a local coupling (S-011). Keep evidence and values distinct: *that* ecosystems provide
-services and are coupled is a factual, cited claim (S-310, S-437); *how much* we should
-weigh a forest against a road is a value question to be argued, not assumed.
+The idea to land: **ecosystem, economy, and health are coupled — a change in one moves
+through the others, often through feedback loops — so they must be understood
+together.** Teach the cascade explicitly, then let learners map a local coupling
+(S-011). Keep evidence and values distinct: *that* ecosystems provide services and are
+coupled is a factual, cited claim (S-310, S-437); *how much* we should weigh a forest
+against a road is a value question to be argued, not assumed.
 
-The **ethics** lens: seeing the coupling makes the consequences of a choice visible on other
-people and other species — an ethical demand, because hidden consequences are the ones we
-cannot consent to. The **egalitarianism** lens: the costs of a broken coupling are rarely
-borne evenly — the people downstream of pollution, or dependent on a declining fishery, are
-often the least able to buy their way out (S-483, S-006). The **global** lens: coupled
-systems look different everywhere but are everywhere — a potato field in the Andes, a
-fishery in the Pacific, a market garden in a city (S-054); the One Health idea, that human,
-animal, and environmental health are one, is now a global framework (S-003). The
-**technology** lens: technology both tightens couplings (a global supply chain) and reveals
-them (satellite and data tools that show the loop, S-006). The **environment** lens: the
-trophic cascade — wolves returning to Yellowstone changed elk browsing, and streamside
-willows and aspens recovered — is a vivid, documented coupling (S-310). Preview: Lesson 6
-turns the coupling into a structured weighing of trade-offs.
+The **ethics** lens: seeing the coupling makes the consequences of a choice visible on
+other people and other species — an ethical demand, because hidden consequences are the
+ones we cannot consent to. The **egalitarianism** lens: the costs of a broken coupling
+are rarely borne evenly — the people downstream of pollution, or dependent on a
+declining fishery, are often the least able to buy their way out (S-483, S-006). The
+**global** lens: coupled systems look different everywhere but are everywhere — a potato
+field in the Andes, a fishery in the Pacific, a market garden in a city (S-054); the One
+Health idea, that human, animal, and environmental health are one, is now a global
+framework (S-003). The **technology** lens: technology both tightens couplings (a global
+supply chain) and reveals them (satellite and data tools that show the loop, S-006). The
+**environment** lens: the trophic cascade — wolves returning to Yellowstone changed elk
+browsing, and streamside willows and aspens recovered — is a vivid, documented coupling
+(S-310). Preview: Lesson 6 turns the coupling into a structured weighing of trade-offs.
 
 ## Procedure
 

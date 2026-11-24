@@ -117,14 +117,13 @@ plan that lasts is planted the same way — chosen for your soil, your season, y
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a movement plan that
-lasts is built on enjoyment, small starts, rest, and honest check-ins — and it belongs
-to the learner.** The plan operationalizes the training principles from Lesson 7
-(progressive effort and recovery) and the balanced-routine picture from Lesson 3
-(aerobic plus muscle-strengthening; S-341). It is also framed by the UNESCO charter's
-commitment that movement is a **fundamental right for all**, inclusive of every ability
-(S-342): the plan is not a ladder for the already-fit but a welcome for every body, in
-adapted, seated, or everyday forms.
+The idea to land: **a movement plan that lasts is built on enjoyment, small starts,
+rest, and honest check-ins — and it belongs to the learner.** The plan operationalizes
+the training principles from Lesson 7 (progressive effort and recovery) and the
+balanced-routine picture from Lesson 3 (aerobic plus muscle-strengthening; S-341). It is
+also framed by the UNESCO charter's commitment that movement is a **fundamental right
+for all**, inclusive of every ability (S-342): the plan is not a ladder for the
+already-fit but a welcome for every body, in adapted, seated, or everyday forms.
 
 Model once, then let learners build (S-011). The **ethics** lens: a plan is a tool of
 care, never a contract to punish oneself for missing; missing a day is information, not
@@ -132,8 +131,8 @@ failure. The **egalitarian** lens: plans must fit real constraints — money, ti
 space, ability, family duties — so the lesson insists on *sustainability over heroics*,
 and treats free, everyday movement (walking, carrying, gardening, play, chores, dance)
 as every bit as valid as a gym. The **global** lens: movement traditions and settings
-differ everywhere — a plan might center a dance, a walk to a field, a swim, a game, or
-a seated practice; no one form is "the" way. The **critical-thinking** lens: a plan that
+differ everywhere — a plan might center a dance, a walk to a field, a swim, a game, or a
+seated practice; no one form is "the" way. The **critical-thinking** lens: a plan that
 asks for too much too soon is a plan designed to fail; learners are taught to *design
 against* their own enthusiasm. The **social-emotional** lens: enjoyment is the glue —
 the plan that feels good is the one that survives; invite learners to choose what they

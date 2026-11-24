@@ -112,15 +112,15 @@ a plan that is honest to your own life, not someone else's.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **skill plus
-value**: a plan is built from four levers (frequency, intensity, time, type), and it is
-only good if it is **individual and adaptable** — energy needs and capacities differ
-among bodies by age, size, sex, and activity level (FAO, S-285), and a balanced routine
-draws on aerobic and muscle-strengthening activity with balance and flexibility across
-the lifespan (WHO, S-341). Teach the FITT scaffold explicitly (worked example first:
-Kirschner, Sweller & Clark, S-011), then release to design. No body-shaming, no
-calorie-talk, no single "ideal" plan: the criterion is *does it serve this learner's
-health and joy across time*, not *does it look impressive*.
+The idea to land, held as **skill plus value**: a plan is built from four levers
+(frequency, intensity, time, type), and it is only good if it is **individual and
+adaptable** — energy needs and capacities differ among bodies by age, size, sex, and
+activity level (FAO, S-285), and a balanced routine draws on aerobic and
+muscle-strengthening activity with balance and flexibility across the lifespan (WHO,
+S-341). Teach the FITT scaffold explicitly (worked example first: Kirschner, Sweller &
+Clark, S-011), then release to design. No body-shaming, no calorie-talk, no single
+"ideal" plan: the criterion is *does it serve this learner's health and joy across
+time*, not *does it look impressive*.
 
 The **ethics** lens: a plan is a promise to yourself, and an honest promise beats a
 heroic one you will break. The **egalitarianism** lens: plans must fit real lives — no
@@ -128,8 +128,11 @@ money for equipment, no safe place to run, long work hours — and a good plan w
 what is actually there. The **global** lens: movement forms differ everywhere, and the
 plan should use the forms the learner's own life already contains (walking, dancing,
 farming, games). The **critical-thinking** lens: "you should exercise X minutes" is a
-general guide, not a law for every body — read it, then adapt it. The **technology** lens: apps and trackers can scaffold the FITT levers — they count frequency, intensity, time, and type — but access to them is uneven, and a plan that depends on a device fails the moment the device is gone; the plan must live in the life, not in the app. Preview: Lesson 11
-makes the plan stick and teaches it to bend.
+general guide, not a law for every body — read it, then adapt it. The **technology**
+lens: apps and trackers can scaffold the FITT levers — they count frequency, intensity,
+time, and type — but access to them is uneven, and a plan that depends on a device fails
+the moment the device is gone; the plan must live in the life, not in the app. Preview:
+Lesson 11 makes the plan stick and teaches it to bend.
 
 ## Procedure
 

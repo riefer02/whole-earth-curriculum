@@ -111,18 +111,17 @@ rhythm made precise.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). For grade 1, the standard is reading
-time to the **hour** and **half hour** — not minutes yet. Teach with a **worked
-example** (philosophy §13): set the clock to 3 o'clock, note the short hand on the 3
-and the long hand on the 12; then move the long hand to the 6 for "half past." The
-new skill is reading the *position* of the two hands, so always work on a real,
-movable clock face. Honor that timekeeping has many traditions — sundials, water
-clocks, bells, and calls to prayer — and that the clock is one tool, not the only
-truth about time. For learners who are blind or low-vision, use a tactile clock with
-raised numbers and hands the fingers can feel; for learners who are Deaf or hard of
-hearing, set and read times in sign and with the hands. A learner who does not speak
-sets the hands or points to the written time. Reading a clock is a skill of the
-hands and eyes together, and everyone can build it at their own pace.
+For grade 1, the standard is reading time to the **hour** and **half hour** — not
+minutes yet. Teach with a **worked example** (philosophy §13): set the clock to 3
+o'clock, note the short hand on the 3 and the long hand on the 12; then move the long
+hand to the 6 for "half past." The new skill is reading the *position* of the two hands,
+so always work on a real, movable clock face. Honor that timekeeping has many
+traditions — sundials, water clocks, bells, and calls to prayer — and that the clock is
+one tool, not the only truth about time. For learners who are blind or low-vision, use a
+tactile clock with raised numbers and hands the fingers can feel; for learners who are
+Deaf or hard of hearing, set and read times in sign and with the hands. A learner who
+does not speak sets the hands or points to the written time. Reading a clock is a skill
+of the hands and eyes together, and everyone can build it at their own pace.
 
 ## Procedure
 

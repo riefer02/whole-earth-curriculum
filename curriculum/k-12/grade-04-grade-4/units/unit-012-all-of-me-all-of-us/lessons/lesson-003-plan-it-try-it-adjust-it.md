@@ -112,20 +112,19 @@ skill of changing course when a step doesn't work.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It spirals up from Grade 3's "set a goal
-and name the first step" to the fuller cycle — **plan, try, adjust**. Two commitments
-matter. First, **the adjustment is the lesson, not a failure**: normalize it explicitly
-with your own example ("I planned to read every night, but evenings were too tired, so I
-moved it to mornings"). Second, **the goal is the learner's own and costs no money** —
-some learners live with scarcity, so coach toward concrete, free, near goals (read one
-new book; learn a new knot; water the class plant for a week; greet three people kindly
-each day). Model the plan-try-adjust sequence as a worked example *before* independent
-work — this is a new procedural skill, and novices need to see it done (Kirschner,
-Sweller & Clark, 2006). Give the sentence frames: "My first step is…" / "When I tried,
-I noticed…" / "So I will change…". For a learner who is blind or has low vision, do the
-cycle aloud or with objects in a line. For a non-speaking learner, accept pointing,
-drawing, signing, or a partner voicing. Keep the tone light: adjusting is clever, not
-shameful.
+It spirals up from Grade 3's "set a goal and name the first step" to the fuller cycle —
+**plan, try, adjust**. Two commitments matter. First, **the adjustment is the lesson,
+not a failure**: normalize it explicitly with your own example ("I planned to read every
+night, but evenings were too tired, so I moved it to mornings"). Second, **the goal is
+the learner's own and costs no money** — some learners live with scarcity, so coach
+toward concrete, free, near goals (read one new book; learn a new knot; water the class
+plant for a week; greet three people kindly each day). Model the plan-try-adjust
+sequence as a worked example *before* independent work — this is a new procedural skill,
+and novices need to see it done (Kirschner, Sweller & Clark, 2006). Give the sentence
+frames: "My first step is…" / "When I tried, I noticed…" / "So I will change…". For a
+learner who is blind or has low vision, do the cycle aloud or with objects in a line.
+For a non-speaking learner, accept pointing, drawing, signing, or a partner voicing.
+Keep the tone light: adjusting is clever, not shameful.
 
 ## Procedure
 

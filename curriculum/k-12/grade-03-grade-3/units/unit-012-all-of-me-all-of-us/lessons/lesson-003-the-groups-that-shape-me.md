@@ -115,20 +115,19 @@ and each one leaves its mark. Today you name yours.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It spirals up from Grade 2's "alike and
-different" and the "welcoming circle," now into **the groups that make one whole self**.
-Two commitments carry it: **every group shape is honored** (a learner's family may be
-parents, one parent, grandparents, kin, guardians, foster or group care, or a trusted
-adult; a "team" may be a play group, a faith community, a club, or none at all), and
-**no group outranks another** — a neighborhood shapes a child as truly as a language
-does. Invite learners to share their home-words for a group or place; names carry
-belonging. Some learners live between places or have moved; honor that a learner can
-belong to a place they no longer live and a place they live now. For a learner who is
-blind or has low vision, name and feel the rings — count them aloud, and let the
-learner say each group by voice rather than by sight. For a learner who does not use a
-speaking voice, accept drawing, pointing, signing, or a partner voicing. The goal is
-that every learner can say, in their own way: *I belong to these groups, and each one
-shapes me.*
+It spirals up from Grade 2's "alike and different" and the "welcoming circle," now into
+**the groups that make one whole self**. Two commitments carry it: **every group shape
+is honored** (a learner's family may be parents, one parent, grandparents, kin,
+guardians, foster or group care, or a trusted adult; a "team" may be a play group, a
+faith community, a club, or none at all), and **no group outranks another** — a
+neighborhood shapes a child as truly as a language does. Invite learners to share their
+home-words for a group or place; names carry belonging. Some learners live between
+places or have moved; honor that a learner can belong to a place they no longer live and
+a place they live now. For a learner who is blind or has low vision, name and feel the
+rings — count them aloud, and let the learner say each group by voice rather than by
+sight. For a learner who does not use a speaking voice, accept drawing, pointing,
+signing, or a partner voicing. The goal is that every learner can say, in their own way:
+*I belong to these groups, and each one shapes me.*
 
 ## Procedure
 

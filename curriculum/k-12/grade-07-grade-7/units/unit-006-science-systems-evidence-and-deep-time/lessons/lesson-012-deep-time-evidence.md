@@ -118,20 +118,20 @@ dinosaurs, ice ages, and life far older than any human.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) in undisturbed rock,
-deeper layers are older (superposition); (2) fossils in those layers tell us what lived then;
-(3) ice cores record past air, year by year; and (4) all together they reveal deep time — an
-Earth about 4.6 billion years old.** Use explicit instruction with the layer-stack worked
-example first, then hands-on building (Kirschner, Sweller & Clark, 2006). The superposition
-principle, the fossil record, and ice-core science (e.g., the Vostok and Greenland cores) are
-established geology, summarized by the USGS and IPCC. Critically, hold origins as the Overview
-directs: these are **models with evidence**, held as inquiry *alongside* other ways of knowing,
-never as creed (`docs/philosophy.md` §11). Different peoples hold different stories of how the
-world and life began; this lesson teaches how scientists read *evidence*, not what anyone
-*must* believe. The global lens: every culture has looked at fossils (found shells on
-mountaintops, bones in the earth) and wondered; science gives one rigorous way to read them.
-The environment lens: deep time gives perspective on how slowly — and how fast — Earth can
-change, which matters for how we care for it now.
+The ideas to land: **(1) in undisturbed rock, deeper layers are older (superposition);
+(2) fossils in those layers tell us what lived then; (3) ice cores record past air, year
+by year; and (4) all together they reveal deep time — an Earth about 4.6 billion years
+old.** Use explicit instruction with the layer-stack worked example first, then hands-on
+building (Kirschner, Sweller & Clark, 2006). The superposition principle, the fossil
+record, and ice-core science (e.g., the Vostok and Greenland cores) are established
+geology, summarized by the USGS and IPCC. Critically, hold origins as the Overview
+directs: these are **models with evidence**, held as inquiry *alongside* other ways of
+knowing, never as creed (`docs/philosophy.md` §11). Different peoples hold different
+stories of how the world and life began; this lesson teaches how scientists read
+*evidence*, not what anyone *must* believe. The global lens: every culture has looked at
+fossils (found shells on mountaintops, bones in the earth) and wondered; science gives
+one rigorous way to read them. The environment lens: deep time gives perspective on how
+slowly — and how fast — Earth can change, which matters for how we care for it now.
 
 ## Procedure
 

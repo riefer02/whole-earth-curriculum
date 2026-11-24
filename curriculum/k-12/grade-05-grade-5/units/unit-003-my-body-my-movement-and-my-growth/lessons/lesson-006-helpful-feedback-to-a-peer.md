@@ -117,12 +117,12 @@ the people who help us grow are the ones who tell us the truth **kindly**.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **feedback about the
-action, not the person** — specific, kind, and usable. Model the difference vividly and stop
-any feedback that is about the person ("you're slow," "you're bad") the moment it appears,
-redirecting to the action. Feedback is the strongest lever in learning (Hattie, *Visible
-Learning*), but only when it is clear and kind. Honor every body's pace: feedback is about a
-next step, never about ranking. See `docs/contexts.md` and `docs/facilitation.md`.
+The idea to land is **feedback about the action, not the person** — specific, kind, and
+usable. Model the difference vividly and stop any feedback that is about the person
+("you're slow," "you're bad") the moment it appears, redirecting to the action. Feedback
+is the strongest lever in learning (Hattie, *Visible Learning*), but only when it is
+clear and kind. Honor every body's pace: feedback is about a next step, never about
+ranking. See `docs/contexts.md` and `docs/facilitation.md`.
 
 ## Procedure
 

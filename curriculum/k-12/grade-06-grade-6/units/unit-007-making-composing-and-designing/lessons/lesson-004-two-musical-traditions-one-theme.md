@@ -125,17 +125,16 @@ the call-and-answer — is how we hear another community's joy with respect.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is **comparison, not
-ranking**: we name observable features (instruments, rhythm, unison vs groove, form) and
-connect them to how each tradition expresses celebration — never calling one "more
-advanced." Both **samba** and **taiko** are living traditions made by living people; samba
-de roda (Bahia) is inscribed on UNESCO's Intangible Cultural Heritage list. If a learner
-belongs to one of these traditions, invite them to be the authority and never correct them
-about their own music. Keep the focus on celebration (joyful and age-appropriate); if a
-learner asks about grief, offer the extension pairing (Irish keening vs New Orleans jazz
-funeral) gently and with reverence, and always attach agency and hope. See
-`docs/facilitation.md` on honoring living traditions and `docs/contexts.md` on cultural
-power dynamics.
+The idea to land is **comparison, not ranking**: we name observable features
+(instruments, rhythm, unison vs groove, form) and connect them to how each tradition
+expresses celebration — never calling one "more advanced." Both **samba** and **taiko**
+are living traditions made by living people; samba de roda (Bahia) is inscribed on
+UNESCO's Intangible Cultural Heritage list. If a learner belongs to one of these
+traditions, invite them to be the authority and never correct them about their own
+music. Keep the focus on celebration (joyful and age-appropriate); if a learner asks
+about grief, offer the extension pairing (Irish keening vs New Orleans jazz funeral)
+gently and with reverence, and always attach agency and hope. See `docs/facilitation.md`
+on honoring living traditions and `docs/contexts.md` on cultural power dynamics.
 
 ## Procedure
 

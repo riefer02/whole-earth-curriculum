@@ -121,17 +121,17 @@ one room.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **formatting is
-reader-care, not decoration** — headings, paragraphs, and intentional bold/italic make text
-easier to enter and navigate. Teach each move with a demonstration (a novice skill; model then
-guide — Kirschner, Sweller & Clark, 2006). This is the technology lens in action, held
-ethically and egalitarianly: a device is a *tool*, not a mark of worth; no learner is behind
-for lacking one, and the "paper as a screen" path teaches the exact same decisions
-(`docs/philosophy.md` §4). Also name access honestly: not everyone has a device or power or
-connectivity, and a tool only serves if it is accessible — a font someone can read, a size
-that works for everyone. Retrieval: connect back to the published argument from Lesson 11 —
-now you are giving it a readable digital shape. Honor every language and script; formatting
-supports any of them.
+The idea to land is that **formatting is reader-care, not decoration** — headings,
+paragraphs, and intentional bold/italic make text easier to enter and navigate. Teach
+each move with a demonstration (a novice skill; model then guide — Kirschner, Sweller &
+Clark, 2006). This is the technology lens in action, held ethically and egalitarianly: a
+device is a *tool*, not a mark of worth; no learner is behind for lacking one, and the
+"paper as a screen" path teaches the exact same decisions (`docs/philosophy.md` §4).
+Also name access honestly: not everyone has a device or power or connectivity, and a
+tool only serves if it is accessible — a font someone can read, a size that works for
+everyone. Retrieval: connect back to the published argument from Lesson 11 — now you are
+giving it a readable digital shape. Honor every language and script; formatting supports
+any of them.
 
 ## Procedure
 

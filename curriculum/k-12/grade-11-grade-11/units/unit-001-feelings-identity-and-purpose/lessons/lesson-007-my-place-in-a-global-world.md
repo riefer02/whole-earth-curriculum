@@ -108,18 +108,18 @@ people who do not look or live like you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **daily life is made
-of concrete threads to people far away, and tracing those threads — with an honest eye
-to where benefit and burden fall — grounds the abstract idea of a "global world" in
-something real.** Teach with a worked example of one object's journey (S-011).
+The idea to land: **daily life is made of concrete threads to people far away, and
+tracing those threads — with an honest eye to where benefit and burden fall — grounds
+the abstract idea of a "global world" in something real.** Teach with a worked example
+of one object's journey (S-011).
 
 The **global & anthropological** lens is the core: this is interdependence as lived
 fact, traced through real goods and systems, never romanticized. The **ethics** lens:
 once the thread is visible, the question "what do I owe the people on the other end?"
-becomes real rather than abstract. The **egalitarian** lens: the benefits and burdens
-of these threads are *unevenly* distributed — where one is born, the work available,
-and the risks carried are shaped largely by structure, not individual worth (World
-Bank poverty/inequality data, S-234; UNDP human-development data, S-283). Keep that
+becomes real rather than abstract. The **egalitarian** lens: the benefits and burdens of
+these threads are *unevenly* distributed — where one is born, the work available, and
+the risks carried are shaped largely by structure, not individual worth (World Bank
+poverty/inequality data, S-234; UNDP human-development data, S-283). Keep that
 distinction explicit: this is about *systems*, never about ranking people. The
 **technology** lens: much of the web runs on technology — global supply chains,
 shipping, and screens that carry news and feeling across borders in an hour. The

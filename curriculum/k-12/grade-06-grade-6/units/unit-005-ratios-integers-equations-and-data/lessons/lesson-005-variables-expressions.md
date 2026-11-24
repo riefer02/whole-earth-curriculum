@@ -112,19 +112,21 @@ to do with it. Sellers, builders, cooks, and bus drivers use such recipes all da
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) a **variable** is a letter that
-stands for an unknown or changing amount; (2) an **expression** combines numbers, variables, and
-operations — **4t + 3** means "4 times t, then add 3" (the number next to the variable is a
-**coefficient**); and (3) to **evaluate**, substitute a number for the variable and do the operations in
-order. Model a worked example first, then guide a second before independent work (Kirschner, Sweller &
-Clark, 2006). Two common slips: reading "4t" as "4 plus t" (it means 4 × t), and doing the operations
-out of order. Retrieval: ask learners to recall the rates and unit prices from earlier lessons — "4
-coins per cup" is a rate, and now the variable turns it into a reusable recipe. The critical-thinking
-lens: writing a rule clearly so *anyone* can follow it is a shareable, egalitarian value
-(`docs/philosophy.md` §4). Note the global point: variables are a human convention — different
-traditions have used different symbols, and algebra grew from the work of al-Khwarizmi and others
-across the Persian and Arabic world, building on Indian and Greek number ideas. The letter we choose is
-ours; the idea of "a number you do not know yet" is universal.
+The ideas to land: (1) a **variable** is a letter that stands for an unknown or changing
+amount; (2) an **expression** combines numbers, variables, and operations — **4t + 3**
+means "4 times t, then add 3" (the number next to the variable is a **coefficient**);
+and (3) to **evaluate**, substitute a number for the variable and do the operations in
+order. Model a worked example first, then guide a second before independent work
+(Kirschner, Sweller & Clark, 2006). Two common slips: reading "4t" as "4 plus t" (it
+means 4 × t), and doing the operations out of order. Retrieval: ask learners to recall
+the rates and unit prices from earlier lessons — "4 coins per cup" is a rate, and now
+the variable turns it into a reusable recipe. The critical-thinking lens: writing a rule
+clearly so *anyone* can follow it is a shareable, egalitarian value
+(`docs/philosophy.md` §4). Note the global point: variables are a human convention —
+different traditions have used different symbols, and algebra grew from the work of
+al-Khwarizmi and others across the Persian and Arabic world, building on Indian and
+Greek number ideas. The letter we choose is ours; the idea of "a number you do not know
+yet" is universal.
 
 ## Procedure
 

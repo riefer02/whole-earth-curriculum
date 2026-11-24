@@ -117,26 +117,27 @@ the difference.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) a system of care is a
-standing arrangement for meeting needs — a clinic, a co-op, a savings group, a neighborhood
-network; mutual aid is people meeting one another's needs together, in reciprocity, rather than
-through a top-down giver and a passive receiver; (2) to judge fairness, map who gives, who
-receives, and who decides, then run a three-point checklist: access (can everyone who needs it
-reach it?), dignity (are people treated as equals, not shamed?), and inclusion (do the people
-served have a say?); (3) mutual aid is widespread and documented across cultures and times
-(Kropotkin 1902, S-163; communal-work traditions such as harambee, gotong royong, mink'a/minga,
-and barn-raising, S-164).** Model the map once (S-011). **Hold the value commitment separately:
-"people meeting one another's needs is good" is a value; "mutual-aid traditions are widespread and
-documented" is a fact — teach them as distinct.** The ethics lens: a care system can be generous
-and still unjust if it shames or excludes. The egalitarian lens: the fairness test is not only
-"were goods given" but "was power shared" — the people served must help decide. The global &
-anthropological lens: the examples are many and specific — harambee (Kenya), gotong royong
-(Indonesia), mink'a/minga (the Andes), barn-raising (North America) — presented as living
-traditions, never ranked, with local details to verify with community members. The technology &
-environment lens: tools change care systems — mobile money, a shared group chat, a map of who
-needs help — and each tool also raises a fairness question of access. The critical-thinking lens:
-separate a system's *intentions* from its *outcomes* — a system can mean well and still leave
-people out.
+The ideas to land: **(1) a system of care is a standing arrangement for meeting needs —
+a clinic, a co-op, a savings group, a neighborhood network; mutual aid is people meeting
+one another's needs together, in reciprocity, rather than through a top-down giver and a
+passive receiver; (2) to judge fairness, map who gives, who receives, and who decides,
+then run a three-point checklist: access (can everyone who needs it reach it?), dignity
+(are people treated as equals, not shamed?), and inclusion (do the people served have a
+say?); (3) mutual aid is widespread and documented across cultures and times (Kropotkin
+1902, S-163; communal-work traditions such as harambee, gotong royong, mink'a/minga, and
+barn-raising, S-164).** Model the map once (S-011). **Hold the value commitment
+separately: "people meeting one another's needs is good" is a value; "mutual-aid
+traditions are widespread and documented" is a fact — teach them as distinct.** The
+ethics lens: a care system can be generous and still unjust if it shames or excludes.
+The egalitarian lens: the fairness test is not only "were goods given" but "was power
+shared" — the people served must help decide. The global & anthropological lens: the
+examples are many and specific — harambee (Kenya), gotong royong (Indonesia),
+mink'a/minga (the Andes), barn-raising (North America) — presented as living traditions,
+never ranked, with local details to verify with community members. The technology &
+environment lens: tools change care systems — mobile money, a shared group chat, a map
+of who needs help — and each tool also raises a fairness question of access. The
+critical-thinking lens: separate a system's *intentions* from its *outcomes* — a system
+can mean well and still leave people out.
 
 ## Procedure
 

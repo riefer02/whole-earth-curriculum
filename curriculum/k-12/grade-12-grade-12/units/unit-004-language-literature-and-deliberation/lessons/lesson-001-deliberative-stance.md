@@ -124,14 +124,14 @@ name — **deliberation** — and it is a skill, not a temperament.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description**:
-structured discussion of contested issues — with reasons and genuine engagement with
-opposing views — is a core, learnable civic skill (Hess, S-349), and productive
-discussion rests on named "talk moves" that build on others' ideas and disagree
-respectfully (Michaels & O'Connor, S-238). Deliberation is **not** a single culture's
-invention: consensus-based councils are a living, centuries-old way of deciding among
-the Haudenosaunee, whose Grand Council deliberates until members agree (S-142). Offer
-this as one tradition among many, never as "the original" or the only model.
+The idea to land, held as **description**: structured discussion of contested issues —
+with reasons and genuine engagement with opposing views — is a core, learnable civic
+skill (Hess, S-349), and productive discussion rests on named "talk moves" that build on
+others' ideas and disagree respectfully (Michaels & O'Connor, S-238). Deliberation is
+**not** a single culture's invention: consensus-based councils are a living,
+centuries-old way of deciding among the Haudenosaunee, whose Grand Council deliberates
+until members agree (S-142). Offer this as one tradition among many, never as "the
+original" or the only model.
 
 The **ethics** lens: deliberation asks not only "who has the better case?" but "what
 should we, together, do — and what are the consequences for others?" The

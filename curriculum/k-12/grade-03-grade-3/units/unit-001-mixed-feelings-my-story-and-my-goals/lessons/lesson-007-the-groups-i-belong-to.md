@@ -110,14 +110,13 @@ middle.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The goal is breadth — that a learner can
-name *several* groups, not just one or two. Normalize that everyone belongs to many
-groups, and that some groups are chosen (a club, a team) while others are given (a
-family, a birthplace, a language). Honor every kind of group without ranking: a faith
-community is not "better" than a sports team, and a child with no formal club still
-belongs to their family, class, and community. Where natural, invite learners to name a
-group that meets far away or online — belonging can cross distance. Keep the web open
-and welcoming; there is no "correct" number of groups.
+The goal is breadth — that a learner can name *several* groups, not just one or two.
+Normalize that everyone belongs to many groups, and that some groups are chosen (a club,
+a team) while others are given (a family, a birthplace, a language). Honor every kind of
+group without ranking: a faith community is not "better" than a sports team, and a child
+with no formal club still belongs to their family, class, and community. Where natural,
+invite learners to name a group that meets far away or online — belonging can cross
+distance. Keep the web open and welcoming; there is no "correct" number of groups.
 
 ## Procedure
 

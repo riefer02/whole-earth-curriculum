@@ -113,21 +113,24 @@ that lives inside every design.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **every design trades one good for
-another; there is no perfect design, only designs that are honest about what they trade.** The worked
-example: **lighting a home without grid electricity.** A **kerosene lamp** is cheap to buy — low upfront
-**cost** — but it is a fire **hazard** (unsafe), its smoke harms health (WHO household air pollution,
-S-219), and burning kerosene pollutes the **environment** and emits carbon. A **solar lamp** is clean and
-safe — better on **safety** and **environment** — but it costs more upfront, which limits **access** for
-people who cannot afford it, and it depends on sunlight and a battery that will one day be waste. So the
-trade-off is real: *low cost now* versus *safety and a clean environment*, with *access* caught in the
-middle. The **egalitarian** lens: "access" is the corner that asks who is left out — a lamp that costs
-too much stays out of the hands that need it most. The **ethics** lens: a designer who ignores safety or
-the environment to save cost is making a moral choice, not just a technical one. The **global** lens: this
-exact trade-off is being made right now in homes from Nairobi to the Himalayas, where off-grid solar is
-growing fast. The **technology & environment** lens: the "environment" corner is not optional decoration —
-it is one of the four things every real design must weigh (S-095, S-371). Keep the example factual; let
-learners argue which corner matters most and why, without forcing a single answer (philosophy §11).
+The idea to land: **every design trades one good for another; there is no perfect
+design, only designs that are honest about what they trade.** The worked example:
+**lighting a home without grid electricity.** A **kerosene lamp** is cheap to buy — low
+upfront **cost** — but it is a fire **hazard** (unsafe), its smoke harms health (WHO
+household air pollution, S-219), and burning kerosene pollutes the **environment** and
+emits carbon. A **solar lamp** is clean and safe — better on **safety** and
+**environment** — but it costs more upfront, which limits **access** for people who
+cannot afford it, and it depends on sunlight and a battery that will one day be waste.
+So the trade-off is real: *low cost now* versus *safety and a clean environment*, with
+*access* caught in the middle. The **egalitarian** lens: "access" is the corner that
+asks who is left out — a lamp that costs too much stays out of the hands that need it
+most. The **ethics** lens: a designer who ignores safety or the environment to save cost
+is making a moral choice, not just a technical one. The **global** lens: this exact
+trade-off is being made right now in homes from Nairobi to the Himalayas, where off-grid
+solar is growing fast. The **technology & environment** lens: the "environment" corner
+is not optional decoration — it is one of the four things every real design must weigh
+(S-095, S-371). Keep the example factual; let learners argue which corner matters most
+and why, without forcing a single answer (philosophy §11).
 
 ## Procedure
 

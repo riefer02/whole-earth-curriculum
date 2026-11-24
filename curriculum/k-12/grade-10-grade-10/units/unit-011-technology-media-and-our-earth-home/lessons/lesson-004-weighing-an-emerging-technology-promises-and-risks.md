@@ -115,19 +115,21 @@ and decide with your eyes open. That weighing, not a verdict, is the skill.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a technology is judged by weighing its
-promises and risks for humanity and the environment — not by worshipping it or fearing it — and the
-weighing must ask *for whom* and *at what cost to the Earth*.** This is the unit's central stance
-(neither worship nor fear). The **technology** and **environment** lenses are the twin pans of the
-scale. The **egalitarian** lens: promises and risks are distributed unevenly — who gains access and who
-bears harm is a question of justice (S-281). The **global** lens: an emerging technology lands
-differently where infrastructure, law, and wealth differ. The **ethics** lens: whether a risk is
-acceptable is a value judgment, not a measurement. Ground the examples in sources: generative AI's
-real capabilities and limits (machine translation as a concrete case, S-350; synthetic media and
-deepfakes, S-393), and genetic tools' real foundations in heredity and crop genetic resources (S-177,
-S-178). Model the discipline of hedging — say "may," "can," "some evidence suggests," not certainty.
-Distinguish evidence from values (philosophy §5). Preview: next lesson we turn to the media strand —
-how to check a claim in the flood of information these very tools produce.
+The idea to land: **a technology is judged by weighing its promises and risks for
+humanity and the environment — not by worshipping it or fearing it — and the weighing
+must ask *for whom* and *at what cost to the Earth*.** This is the unit's central stance
+(neither worship nor fear). The **technology** and **environment** lenses are the twin
+pans of the scale. The **egalitarian** lens: promises and risks are distributed
+unevenly — who gains access and who bears harm is a question of justice (S-281). The
+**global** lens: an emerging technology lands differently where infrastructure, law, and
+wealth differ. The **ethics** lens: whether a risk is acceptable is a value judgment,
+not a measurement. Ground the examples in sources: generative AI's real capabilities and
+limits (machine translation as a concrete case, S-350; synthetic media and deepfakes,
+S-393), and genetic tools' real foundations in heredity and crop genetic resources
+(S-177, S-178). Model the discipline of hedging — say "may," "can," "some evidence
+suggests," not certainty. Distinguish evidence from values (philosophy §5). Preview:
+next lesson we turn to the media strand — how to check a claim in the flood of
+information these very tools produce.
 
 ## Procedure
 

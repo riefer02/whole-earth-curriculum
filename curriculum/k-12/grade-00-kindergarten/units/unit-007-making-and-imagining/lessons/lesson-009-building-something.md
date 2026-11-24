@@ -111,11 +111,9 @@ some materials into something useful.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, ask "what does it do?" rather than "what is
-it?" — purpose is the heart of this strand. If a build falls over, treat it as data,
-not failure: "what could you change so it stands?" Honor every structure; a wobbly
-tower is still a thinker's tower.
+As facilitator, ask "what does it do?" rather than "what is it?" — purpose is the heart
+of this strand. If a build falls over, treat it as data, not failure: "what could you
+change so it stands?" Honor every structure; a wobbly tower is still a thinker's tower.
 
 ## Procedure
 

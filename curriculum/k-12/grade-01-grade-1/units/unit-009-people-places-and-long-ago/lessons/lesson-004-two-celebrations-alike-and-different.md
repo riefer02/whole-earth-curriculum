@@ -108,15 +108,14 @@ is a way to see both what makes each one special and what all people share.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. **The discipline is equal respect.** Compare, never rank:
-do not say one celebration is bigger, better, or more "correct." Describe each from
-inside its meaning — a Lunar New Year in an East or Southeast Asian community means
-family and a fresh start; a harvest festival in a West African community means
-gratitude for the land; Nowruz in a Persian or Central Asian community means spring
-and renewal. Both are complete and worthy exactly as they are. Avoid costumes and
-caricature entirely; no learner is asked to dress up or "perform" a culture. Honor
-adopted, fostered, and chosen families, and let a learner pass on sharing their own.
+**The discipline is equal respect.** Compare, never rank: do not say one celebration is
+bigger, better, or more "correct." Describe each from inside its meaning — a Lunar New
+Year in an East or Southeast Asian community means family and a fresh start; a harvest
+festival in a West African community means gratitude for the land; Nowruz in a Persian
+or Central Asian community means spring and renewal. Both are complete and worthy
+exactly as they are. Avoid costumes and caricature entirely; no learner is asked to
+dress up or "perform" a culture. Honor adopted, fostered, and chosen families, and let a
+learner pass on sharing their own.
 
 ## Procedure
 

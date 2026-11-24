@@ -122,15 +122,15 @@ message that reaches *some* people and one that reaches *everyone*.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a multimodal text
-combines writing, image, sound, and design into one message, and accessibility — alt
-text, captions, readable contrast, clear structure, and a text version of sound — is a
-design requirement, not a favor.** The international standard is WCAG, organized around
-four principles: content must be **perceivable**, **operable**, **understandable**, and
-**robust** (S-280). At this level, learners meet a practical subset: every image has a
-caption and alt text; color is never the only signal; contrast is readable; headings
-give structure; and any sound has a text version. These are the same skills the
-curriculum's own graphics follow (see `docs/art-style.md`).
+The idea to land: **a multimodal text combines writing, image, sound, and design into
+one message, and accessibility — alt text, captions, readable contrast, clear structure,
+and a text version of sound — is a design requirement, not a favor.** The international
+standard is WCAG, organized around four principles: content must be **perceivable**,
+**operable**, **understandable**, and **robust** (S-280). At this level, learners meet a
+practical subset: every image has a caption and alt text; color is never the only
+signal; contrast is readable; headings give structure; and any sound has a text version.
+These are the same skills the curriculum's own graphics follow (see
+`docs/art-style.md`).
 
 Model the skill once, then let learners practice (worked example → guided practice →
 independent work; S-011). The **technology** lens is the spine: read the *medium* — how

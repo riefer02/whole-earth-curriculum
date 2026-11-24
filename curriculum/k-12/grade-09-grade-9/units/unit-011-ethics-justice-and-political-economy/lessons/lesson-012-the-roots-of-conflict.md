@@ -112,21 +112,22 @@ see the roots — and the remedies that match them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Its goals: **(1) teach the root causes of conflict
-and violence — inequality (unequal share and unequal voice), fear (threat, mistrust, rumor), and
-scarcity (genuine shortage or unfair division) — as *causes*, distinct from the surface *trigger*
-that ignites them; (2) model once, then guide: trace one case from roots to conflict to remedy,
-then let learners trace another (Kirschner, Sweller & Clark 2006, S-011); (3) keep it
-non-dogmatic — these are among the best-supported causes, not the only ones, and "addressing the
-root" is offered as a strategy to evaluate, not a formula to accept (philosophy §11).** The ethics
-lens: understanding causes is not excusing violence — it is the precondition for ending it. The
-egalitarian lens: ask whose fear and whose scarcity are centered, and whether the remedies would
-share power, not just resources. The environment lens: scarcity is often *environmental* — water,
-land, a changing climate — so peace and stewardship are linked. The global lens: conflict looks
-different across societies; present each case as one place's story. Distinguish evidence from
-values: *that* inequality and scarcity correlate with conflict is a documented finding (cite a
-source); *that* we should reduce them is a value we argue for. This is a portfolio artifact — keep
-the analysis.
+Its goals: **(1) teach the root causes of conflict and violence — inequality (unequal
+share and unequal voice), fear (threat, mistrust, rumor), and scarcity (genuine shortage
+or unfair division) — as *causes*, distinct from the surface *trigger* that ignites
+them; (2) model once, then guide: trace one case from roots to conflict to remedy, then
+let learners trace another (Kirschner, Sweller & Clark 2006, S-011); (3) keep it
+non-dogmatic — these are among the best-supported causes, not the only ones, and
+"addressing the root" is offered as a strategy to evaluate, not a formula to accept
+(philosophy §11).** The ethics lens: understanding causes is not excusing violence — it
+is the precondition for ending it. The egalitarian lens: ask whose fear and whose
+scarcity are centered, and whether the remedies would share power, not just resources.
+The environment lens: scarcity is often *environmental* — water, land, a changing
+climate — so peace and stewardship are linked. The global lens: conflict looks different
+across societies; present each case as one place's story. Distinguish evidence from
+values: *that* inequality and scarcity correlate with conflict is a documented finding
+(cite a source); *that* we should reduce them is a value we argue for. This is a
+portfolio artifact — keep the analysis.
 
 ## Procedure
 

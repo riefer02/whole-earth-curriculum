@@ -128,12 +128,12 @@ size, shape, or way of living.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It has two jobs: (1) land **respect for others'
-boundaries** — ask, listen, respect, and accept a "no" as full — and (2) **review the unit**
-into one portfolio artifact. Keep the consent content at the same age-appropriate level as
-Lesson 7 (everyday touch and personal space; no sexual content). Model the ask–listen–respect
-flow as a worked example before pairs role-play, and watch that every "no" in role-play is met
-with a graceful "Okay!" — that is the skill. The review page is a chance to catch any learner
+It has two jobs: (1) land **respect for others' boundaries** — ask, listen, respect, and
+accept a "no" as full — and (2) **review the unit** into one portfolio artifact. Keep
+the consent content at the same age-appropriate level as Lesson 7 (everyday touch and
+personal space; no sexual content). Model the ask–listen–respect flow as a worked
+example before pairs role-play, and watch that every "no" in role-play is met with a
+graceful "Okay!" — that is the skill. The review page is a chance to catch any learner
 who has not yet got a concept and let them revisit it ("not yet" is information, never a
 verdict). See `docs/facilitation.md` and `docs/contexts.md`.
 

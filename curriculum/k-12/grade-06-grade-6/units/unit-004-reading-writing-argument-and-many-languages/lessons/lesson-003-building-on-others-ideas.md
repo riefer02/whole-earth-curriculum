@@ -115,14 +115,15 @@ conversation where everyone only waits for their turn and nobody's words touch a
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **discussion is a
-shared construction, not a sequence of separate speeches** — a good turn *connects* to the last
-one. Teach the sentence starters explicitly (a novice skill; model then guide — Kirschner,
-Sweller & Clark, 2006), and hold the discussion lightly: the goal is *connection*, not
-coverage or correctness. Honor every home language — learners may build on ideas in their
-strongest language, and code-switching between languages in one discussion is welcome, not a
-mistake. Watch for quiet learners and invite them with a gentle, genuine question; "build on"
-starters give everyone a way in. Cooperation over competition (`docs/philosophy.md` §8).
+The idea to land is that **discussion is a shared construction, not a sequence of
+separate speeches** — a good turn *connects* to the last one. Teach the sentence
+starters explicitly (a novice skill; model then guide — Kirschner, Sweller & Clark,
+2006), and hold the discussion lightly: the goal is *connection*, not coverage or
+correctness. Honor every home language — learners may build on ideas in their strongest
+language, and code-switching between languages in one discussion is welcome, not a
+mistake. Watch for quiet learners and invite them with a gentle, genuine question;
+"build on" starters give everyone a way in. Cooperation over competition
+(`docs/philosophy.md` §8).
 
 ## Procedure
 

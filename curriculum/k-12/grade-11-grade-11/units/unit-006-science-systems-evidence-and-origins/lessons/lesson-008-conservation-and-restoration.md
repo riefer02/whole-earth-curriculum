@@ -116,15 +116,15 @@ these systems) and ethical (they matter in themselves).
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **an ecosystem's
-parts are linked, so a change to one ripples to others (S-244); biodiversity — the
-variety of living things — makes a system resilient to shock, and its loss is the
-central threat to ecosystems and human well-being (S-437); conservation protects what
-remains, restoration helps a damaged system recover.** Frame both as real, ongoing
-human work — hopeful, not despairing (facilitation: always connect difficulty to
-agency). Meet a keystone-species example (S-176) and carrying capacity (S-436) as the
-system ideas they are. Hold the *ethics* open: the practical and the intrinsic reasons
-for care are both legitimate, and learners reason toward their own position.
+The ideas to land: **an ecosystem's parts are linked, so a change to one ripples to
+others (S-244); biodiversity — the variety of living things — makes a system resilient
+to shock, and its loss is the central threat to ecosystems and human well-being (S-437);
+conservation protects what remains, restoration helps a damaged system recover.** Frame
+both as real, ongoing human work — hopeful, not despairing (facilitation: always connect
+difficulty to agency). Meet a keystone-species example (S-176) and carrying capacity
+(S-436) as the system ideas they are. Hold the *ethics* open: the practical and the
+intrinsic reasons for care are both legitimate, and learners reason toward their own
+position.
 
 The **environment** lens: this is the lesson's center — living systems and our
 responsibility to them. The **ethics** lens: care for a system, not just its parts, is

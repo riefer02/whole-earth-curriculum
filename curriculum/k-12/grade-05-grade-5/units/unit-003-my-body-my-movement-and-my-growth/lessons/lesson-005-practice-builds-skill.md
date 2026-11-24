@@ -117,14 +117,14 @@ kicking a ball, the rule is the same everywhere — **repetition refines**.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **skill improves with
-repeated practice**, and the learner can *see* it in their own tally. Teach the skill with
-**explicit steps and a worked example** (this is a novice skill, not a discovery). Keep it
-**non-competitive**: the learner compares their *own* first round to their own last round,
-never to a peer. Offer the balance line as an equal choice for learners who cannot or prefer
-not to throw, and offer a seated or adapted version of either skill (throw from a chair, trace
-a line with a finger, balance a soft object on a flat hand) so every body can practice; honor
-every body's pace — a learner may improve slowly or not yet, and that is information, never a
+The idea to land is that **skill improves with repeated practice**, and the learner can
+*see* it in their own tally. Teach the skill with **explicit steps and a worked
+example** (this is a novice skill, not a discovery). Keep it **non-competitive**: the
+learner compares their *own* first round to their own last round, never to a peer. Offer
+the balance line as an equal choice for learners who cannot or prefer not to throw, and
+offer a seated or adapted version of either skill (throw from a chair, trace a line with
+a finger, balance a soft object on a flat hand) so every body can practice; honor every
+body's pace — a learner may improve slowly or not yet, and that is information, never a
 verdict. See `docs/contexts.md` and `docs/facilitation.md`.
 
 ## Procedure

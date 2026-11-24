@@ -117,24 +117,23 @@ small moves that make any repeated multiplication manageable.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **an exponent is
-repeated multiplication, and the five power rules (product, quotient, power, zero,
-negative) let us rewrite and simplify those repetitions honestly — each rule is a
-shortcut, not a new kind of magic.** Teach the rules with explicit worked examples and
-guided practice before independent work; the evidence is clear that novices learn
-foundational procedures this way (S-011). Model once, then let learners practice and
-check each other (worked example → guided practice → independent work).
+The idea to land: **an exponent is repeated multiplication, and the five power rules
+(product, quotient, power, zero, negative) let us rewrite and simplify those repetitions
+honestly — each rule is a shortcut, not a new kind of magic.** Teach the rules with
+explicit worked examples and guided practice before independent work; the evidence is
+clear that novices learn foundational procedures this way (S-011). Model once, then let
+learners practice and check each other (worked example → guided practice → independent
+work).
 
 The **intellectual** lens is the spine: every rule can be *shown* by writing out the
 multiplications, so a learner who forgets a rule can rebuild it. The
 **critical-thinking** lens: ask learners to *verify* a rule by expansion rather than
-trust it. The **technology** lens: exponents are how we express the enormous (carbon
-in the atmosphere, data storage) and the microscopic (cell size, virus size) — a
-single notation reaches across those scales. The **egalitarian** lens: scientific
-notation and the power rules are shared tools, free to everyone, that let any person
-read numbers about the whole Earth — not a gate kept for a few. Preview: Lesson 2
-turns to roots — the "undo" of a power — and the numbers that sit between the
-fractions.
+trust it. The **technology** lens: exponents are how we express the enormous (carbon in
+the atmosphere, data storage) and the microscopic (cell size, virus size) — a single
+notation reaches across those scales. The **egalitarian** lens: scientific notation and
+the power rules are shared tools, free to everyone, that let any person read numbers
+about the whole Earth — not a gate kept for a few. Preview: Lesson 2 turns to roots —
+the "undo" of a power — and the numbers that sit between the fractions.
 
 ## Procedure
 

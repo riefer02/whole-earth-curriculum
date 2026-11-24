@@ -110,21 +110,19 @@ down together.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson is about **every person**, not "most
-people" — the heart of egalitarianism is that needs are universal. Keep it concrete
-for age ~6: a kind word, being listened to, space for one's body, a name said
-kindly, no one hurting you, a turn to speak. If you use a passing object so each
-person is heard, call it a **turn marker** — a small cloth, stone, or ball. People
-everywhere in the world find ways to make sure one voice is heard at a time; a
-passing object is one simple, respectful way to do that. The marker is a reminder
-to listen while someone else speaks, not a decoration. The
-marker also serves accessibility: a learner who does not speak aloud holds the
-marker and points, signs, or gestures their idea; a learner who is blind or
-low-vision feels the marker pass into their hands and names their need aloud; a
-learner with a motor difference can have a partner place the marker for them while
-they show their idea. Every voice matters — not just the loudest or fastest. A
-learner may always pass. This is not a test of right answers; every need offered is
-a real contribution.
+This lesson is about **every person**, not "most people" — the heart of egalitarianism
+is that needs are universal. Keep it concrete for age ~6: a kind word, being listened
+to, space for one's body, a name said kindly, no one hurting you, a turn to speak. If
+you use a passing object so each person is heard, call it a **turn marker** — a small
+cloth, stone, or ball. People everywhere in the world find ways to make sure one voice
+is heard at a time; a passing object is one simple, respectful way to do that. The
+marker is a reminder to listen while someone else speaks, not a decoration. The marker
+also serves accessibility: a learner who does not speak aloud holds the marker and
+points, signs, or gestures their idea; a learner who is blind or low-vision feels the
+marker pass into their hands and names their need aloud; a learner with a motor
+difference can have a partner place the marker for them while they show their idea.
+Every voice matters — not just the loudest or fastest. A learner may always pass. This
+is not a test of right answers; every need offered is a real contribution.
 
 ## Procedure
 

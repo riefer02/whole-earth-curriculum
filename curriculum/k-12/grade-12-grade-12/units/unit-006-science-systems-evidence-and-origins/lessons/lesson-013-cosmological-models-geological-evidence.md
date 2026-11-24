@@ -117,29 +117,29 @@ reading the rocks, is how we answer the old question with our best honesty.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the Big Bang and the
-steady-state theory competed as cosmological models, and evidence — galaxies receding, the
-cosmic microwave background, and light-element abundances — favored the Big Bang; geological
-evidence (age, tectonics, fossils) reads as deep time; and scientific models of origins are
-held as models, not revealed certainties, beside other ways of knowing.** Teach the weigh
-explicitly, then let learners run it (S-011). This is the inquiry-over-creed commitment made
-concrete (philosophy §11): the model is offered as evidence-grounded, never as dogma.
+The idea to land: **the Big Bang and the steady-state theory competed as cosmological
+models, and evidence — galaxies receding, the cosmic microwave background, and
+light-element abundances — favored the Big Bang; geological evidence (age, tectonics,
+fossils) reads as deep time; and scientific models of origins are held as models, not
+revealed certainties, beside other ways of knowing.** Teach the weigh explicitly, then
+let learners run it (S-011). This is the inquiry-over-creed commitment made concrete
+(philosophy §11): the model is offered as evidence-grounded, never as dogma.
 
-The **ethics** lens: holding a model as a model — revisable, not certain — is intellectual
-honesty, and it forbids using any account of origins to rank or coerce people (S-018, S-497).
-The **egalitarianism** lens: the evidence is public light and public rock — anyone can look
-up or down and begin to weigh it; no account requires a title to be examined. The **global**
-lens: origin stories belong to every people — the Māori tell of Ranginui and Papatūānuku
-(S-202), the Haudenosaunee of Sky Woman (S-203), the Yoruba of Olorun (S-500), the Inca of
-Viracocha (S-501), the Rig Veda's Hymn of Creation of an origin still wondered at (S-502),
-and the Qur'an of one God who made the heavens and the earth (S-503) — and the scientific
-model stands beside these, not above them; the steady-state theory itself was championed by
-scientists who preferred an eternal universe, a reminder that preference shapes hypotheses
-until evidence decides (S-497). The **technology** lens: telescopes and radiometric dating
-are the
-instruments that turned cosmological and geological questions into checkable ones — the
-microwave background was found with a radio antenna (S-002, S-308). The **environment**
-lens: plate tectonics and deep time are the Earth's own story — mountains rise, continents
+The **ethics** lens: holding a model as a model — revisable, not certain — is
+intellectual honesty, and it forbids using any account of origins to rank or coerce
+people (S-018, S-497). The **egalitarianism** lens: the evidence is public light and
+public rock — anyone can look up or down and begin to weigh it; no account requires a
+title to be examined. The **global** lens: origin stories belong to every people — the
+Māori tell of Ranginui and Papatūānuku (S-202), the Haudenosaunee of Sky Woman (S-203),
+the Yoruba of Olorun (S-500), the Inca of Viracocha (S-501), the Rig Veda's Hymn of
+Creation of an origin still wondered at (S-502), and the Qur'an of one God who made the
+heavens and the earth (S-503) — and the scientific model stands beside these, not above
+them; the steady-state theory itself was championed by scientists who preferred an
+eternal universe, a reminder that preference shapes hypotheses until evidence decides
+(S-497). The **technology** lens: telescopes and radiometric dating are the instruments
+that turned cosmological and geological questions into checkable ones — the microwave
+background was found with a radio antenna (S-002, S-308). The **environment** lens:
+plate tectonics and deep time are the Earth's own story — mountains rise, continents
 drift, and fossils record life's changes over billions of years (S-186, S-111). Preview:
 Lesson 14 asks you to articulate your own considered position.
 

@@ -102,20 +102,19 @@ up. Today you will learn their names and find them all around you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The goal is naming and recognizing
-four shapes by their attributes — a circle is round with no corners; a square has four
-equal sides and four corners; a triangle has three sides; a rectangle has four sides
-with two long and two short. Teach the shapes through *touch and feel first* — sides
-and corners are the real, physical facts of a shape, before names or marks. Use real
-objects from the learners' world (a plate, a door, a tent, a woven mat). Draw on
-global examples without ranking: roundhouses, pyramid shapes, triangular roofs, and
-rectangular doorways exist in many traditions, and none is "the" right way to build.
-Learners who are blind or low-vision should feel each shape's sides and corners and
-count them by touch; learners who are deaf or hard of hearing can name shapes in sign.
-Learners with limited movement can feel shapes hand-under-hand with a partner (the
-partner's hand under theirs, guiding) or name and count sides and corners aloud while
-a partner traces.
-Never quiz or rush; naming shapes is a beginning, and every learner's pace is honored.
+The goal is naming and recognizing four shapes by their attributes — a circle is round
+with no corners; a square has four equal sides and four corners; a triangle has three
+sides; a rectangle has four sides with two long and two short. Teach the shapes through
+*touch and feel first* — sides and corners are the real, physical facts of a shape,
+before names or marks. Use real objects from the learners' world (a plate, a door, a
+tent, a woven mat). Draw on global examples without ranking: roundhouses, pyramid
+shapes, triangular roofs, and rectangular doorways exist in many traditions, and none is
+"the" right way to build. Learners who are blind or low-vision should feel each shape's
+sides and corners and count them by touch; learners who are deaf or hard of hearing can
+name shapes in sign. Learners with limited movement can feel shapes hand-under-hand with
+a partner (the partner's hand under theirs, guiding) or name and count sides and corners
+aloud while a partner traces. Never quiz or rush; naming shapes is a beginning, and
+every learner's pace is honored.
 
 ## Procedure
 

@@ -118,30 +118,32 @@ than one question at the same time — and refusing to flatten a hard choice int
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the three lenses —
-consequences, duties, and character — are not competitors to rank; they are questions to weigh
-together. A nuanced position is one that reasons with more than one lens, credits what the others
-see, and names what it cannot fully settle. The lenses appear across world traditions — they are
-not the property of one culture — and none is offered as the correct answer.** Teach the weighing
-explicitly (S-011); the defense is the learning. Do not rank the frameworks for the learner; a
-position is the learner's own, defended with reasons.
+The idea to land: **the three lenses — consequences, duties, and character — are not
+competitors to rank; they are questions to weigh together. A nuanced position is one
+that reasons with more than one lens, credits what the others see, and names what it
+cannot fully settle. The lenses appear across world traditions — they are not the
+property of one culture — and none is offered as the correct answer.** Teach the
+weighing explicitly (S-011); the defense is the learning. Do not rank the frameworks for
+the learner; a position is the learner's own, defended with reasons.
 
-The **ethics** lens: consequentialism judges by results (S-456, S-386); deontology by duty and
-respect for persons (S-457, S-387); virtue ethics by the kind of person an act builds (S-458).
-The **global** lens is essential here: consequentialist reasoning is as old as Chinese Mohism's
-inclusive care (S-466) and Buddhist concern to reduce suffering for all beings (S-467); duty-based
-reasoning runs through Confucian role ethics (S-468) and Hindu and Buddhist accounts of dharma
-(S-469). Holding these side by side models that ethics is a shared human work, not one tradition's
-invention. The **egalitarianism** lens: ask which lens is easiest to speak *from power* — a
-"consequences" calculation can quietly discount the people who are hardest to see, which is why
-the duty lens insists every person counts, and why the virtue lens asks who a habit of overlooking
-them turns you into. The **technology** lens: new tools sharpen old dilemmas — a data platform can
-calculate consequences at a scale no single conscience can check, so weighing frameworks is also a
-guard against letting a machine settle a question that needs all three lenses. The
-**environment** lens: environmental choices are exactly where consequences (for future people,
-for other species), duties (to a river, a forest, a generation not yet born), and character (a
-habit of care or of waste) must be weighed together, because no single lens is enough.
-Preview: Lesson 3 turns inward — how the learner's own values formed.
+The **ethics** lens: consequentialism judges by results (S-456, S-386); deontology by
+duty and respect for persons (S-457, S-387); virtue ethics by the kind of person an act
+builds (S-458). The **global** lens is essential here: consequentialist reasoning is as
+old as Chinese Mohism's inclusive care (S-466) and Buddhist concern to reduce suffering
+for all beings (S-467); duty-based reasoning runs through Confucian role ethics (S-468)
+and Hindu and Buddhist accounts of dharma (S-469). Holding these side by side models
+that ethics is a shared human work, not one tradition's invention. The
+**egalitarianism** lens: ask which lens is easiest to speak *from power* — a
+"consequences" calculation can quietly discount the people who are hardest to see, which
+is why the duty lens insists every person counts, and why the virtue lens asks who a
+habit of overlooking them turns you into. The **technology** lens: new tools sharpen old
+dilemmas — a data platform can calculate consequences at a scale no single conscience
+can check, so weighing frameworks is also a guard against letting a machine settle a
+question that needs all three lenses. The **environment** lens: environmental choices
+are exactly where consequences (for future people, for other species), duties (to a
+river, a forest, a generation not yet born), and character (a habit of care or of waste)
+must be weighed together, because no single lens is enough. Preview: Lesson 3 turns
+inward — how the learner's own values formed.
 
 ## Procedure
 

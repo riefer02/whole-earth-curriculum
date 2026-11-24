@@ -112,17 +112,16 @@ Americas, and Asia — in a courtyard, a beach, a field, or a schoolyard.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the targets and line, then model a gentle toss-and-
-catch and an aimed throw slowly before learners try (explicit modeling, then guided
-practice). This builds on Grade 2's throw-and-catch and now adds aiming — the eyes and
-hands working together, which also returns to the unit's senses-teaming idea. The
-skill, not the score, is the goal: celebrate control and growing accuracy, never
-distance or speed, and never rank learners. Honor every body: a learner who uses a
-wheelchair throws and catches seated, a learner who needs a larger or softer ball or a
-scoop uses one, and every version counts fully. Offer adapted versions as real
-choices. Supervise throws so everyone faces the same direction and no one is hit; pair
-learners so a confident partner can toss gently to one still learning.
+Prepare the targets and line, then model a gentle toss-and- catch and an aimed throw
+slowly before learners try (explicit modeling, then guided practice). This builds on
+Grade 2's throw-and-catch and now adds aiming — the eyes and hands working together,
+which also returns to the unit's senses-teaming idea. The skill, not the score, is the
+goal: celebrate control and growing accuracy, never distance or speed, and never rank
+learners. Honor every body: a learner who uses a wheelchair throws and catches seated, a
+learner who needs a larger or softer ball or a scoop uses one, and every version counts
+fully. Offer adapted versions as real choices. Supervise throws so everyone faces the
+same direction and no one is hit; pair learners so a confident partner can toss gently
+to one still learning.
 
 ## Procedure
 

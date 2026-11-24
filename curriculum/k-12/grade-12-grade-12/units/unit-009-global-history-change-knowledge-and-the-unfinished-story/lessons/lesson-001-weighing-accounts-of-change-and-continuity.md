@@ -118,25 +118,26 @@ learning to hold two tellings at once and ask, fairly, which parts are best supp
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **two accounts of one change
-can both be true and still differ, because each weighs change against continuity differently —
-and weighing means asking who is telling, what they notice, what they leave out, and where the
-accounts agree.** Teach the weighing move explicitly (S-011), then let learners work a pair.
-This is the "history from many perspectives" commitment made concrete: we never crown one
-telling as the only true one, and we never pretend the differences away either.
+The idea to land: **two accounts of one change can both be true and still differ,
+because each weighs change against continuity differently — and weighing means asking
+who is telling, what they notice, what they leave out, and where the accounts agree.**
+Teach the weighing move explicitly (S-011), then let learners work a pair. This is the
+"history from many perspectives" commitment made concrete: we never crown one telling as
+the only true one, and we never pretend the differences away either.
 
-The **ethics** lens: weighing is a duty of fairness — we owe every account a careful hearing,
-and we owe the reader honesty about what we cannot settle. The **egalitarianism** lens: the
-account of an elder in a village and the account of a planner in a capital are both evidence;
-neither is discounted because of who speaks (S-417). The **global** lens: the village-to-city
-shift is not one country's story — for the first time in history, more than half of humanity
-now lives in cities, a crossing that happened only within recent decades (S-089), and it is
-told differently in Lagos, Jakarta, and La Paz than in older industrial cities. The
-**technology** lens: the tools of a change — the road, the rail line, the phone — appear in
-some accounts as progress and in others as loss; both are real readings of the same machine.
-The **environment** lens: an account that says "the land stayed the same" and one that says
-"the river changed" can both be true about different scales of time — weigh the scale, not
-just the words. Preview: Lesson 2 turns a weighing into a reasoned synthesis.
+The **ethics** lens: weighing is a duty of fairness — we owe every account a careful
+hearing, and we owe the reader honesty about what we cannot settle. The
+**egalitarianism** lens: the account of an elder in a village and the account of a
+planner in a capital are both evidence; neither is discounted because of who speaks
+(S-417). The **global** lens: the village-to-city shift is not one country's story — for
+the first time in history, more than half of humanity now lives in cities, a crossing
+that happened only within recent decades (S-089), and it is told differently in Lagos,
+Jakarta, and La Paz than in older industrial cities. The **technology** lens: the tools
+of a change — the road, the rail line, the phone — appear in some accounts as progress
+and in others as loss; both are real readings of the same machine. The **environment**
+lens: an account that says "the land stayed the same" and one that says "the river
+changed" can both be true about different scales of time — weigh the scale, not just the
+words. Preview: Lesson 2 turns a weighing into a reasoned synthesis.
 
 ## Procedure
 

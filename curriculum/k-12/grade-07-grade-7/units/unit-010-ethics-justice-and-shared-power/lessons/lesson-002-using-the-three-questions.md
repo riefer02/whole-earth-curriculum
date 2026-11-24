@@ -109,19 +109,20 @@ right and here is why* — a skill you will use in a family argument, a job, and
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **applying the framework
-means answering all three questions in writing, then giving a reason for your answer — and
-it is normal, not failure, to find more than one fair answer.** Model the full worksheet
-once on the board before independent work (worked example, S-011), then use guided
-practice: do one scenario together, let groups do the rest, and give feedback in the moment.
-The ethics lens: a reason matters as much as an answer; "because it feels right" is a start,
-not a finish. The egalitarian lens: some dilemmas have a voice that is easy to forget (the
-person who owns the borrowed item, the quiet member of the group) — check whether you heard
-them. The global lens: the scenarios are deliberately set in everyday, low-cost settings
-(water, borrowing, group work, a secret) so they travel across city and village, coast and
-mountain. The critical-thinking lens: when learners disagree on "fair," do not arbitrate to
-one right answer; ask each to give their reason, and let the disagreement stand as evidence
-that fairness is reasoned, not obvious. Keep the written work; it is a portfolio artifact.
+The idea to land: **applying the framework means answering all three questions in
+writing, then giving a reason for your answer — and it is normal, not failure, to find
+more than one fair answer.** Model the full worksheet once on the board before
+independent work (worked example, S-011), then use guided practice: do one scenario
+together, let groups do the rest, and give feedback in the moment. The ethics lens: a
+reason matters as much as an answer; "because it feels right" is a start, not a finish.
+The egalitarian lens: some dilemmas have a voice that is easy to forget (the person who
+owns the borrowed item, the quiet member of the group) — check whether you heard them.
+The global lens: the scenarios are deliberately set in everyday, low-cost settings
+(water, borrowing, group work, a secret) so they travel across city and village, coast
+and mountain. The critical-thinking lens: when learners disagree on "fair," do not
+arbitrate to one right answer; ask each to give their reason, and let the disagreement
+stand as evidence that fairness is reasoned, not obvious. Keep the written work; it is a
+portfolio artifact.
 
 ## Procedure
 

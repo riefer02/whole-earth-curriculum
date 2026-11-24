@@ -117,16 +117,16 @@ speak it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **dialect and
-accent are natural, rule-governed variation — every variety is "correct" for its speakers
-— and the "one correct way" story is about prestige and power, not language itself**
-(Everett, 2012). Model respect first: share your own way of speaking before asking
-learners to share theirs. Guard against ranking — no "better" or "worse," ever (see
-`docs/facilitation.md`). The four lenses: *egalitarianism* (whose way gets called
-"standard" is a question of power, not merit); *ethics* (mocking an accent is harm, not
-humor); *global* (every language has varieties — name several respectfully);
-*social-emotional* (a learner's accent may be a tender part of identity — handle with
-care). This closes the unit: evaluation, writing, and now honoring every voice.
+The idea to land is that **dialect and accent are natural, rule-governed variation —
+every variety is "correct" for its speakers — and the "one correct way" story is about
+prestige and power, not language itself** (Everett, 2012). Model respect first: share
+your own way of speaking before asking learners to share theirs. Guard against ranking —
+no "better" or "worse," ever (see `docs/facilitation.md`). The four lenses:
+*egalitarianism* (whose way gets called "standard" is a question of power, not merit);
+*ethics* (mocking an accent is harm, not humor); *global* (every language has
+varieties — name several respectfully); *social-emotional* (a learner's accent may be a
+tender part of identity — handle with care). This closes the unit: evaluation, writing,
+and now honoring every voice.
 
 ## Procedure
 

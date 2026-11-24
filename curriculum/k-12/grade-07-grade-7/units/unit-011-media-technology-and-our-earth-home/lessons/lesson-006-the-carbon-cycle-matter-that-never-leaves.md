@@ -111,21 +111,23 @@ one loop through a forest.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) matter (like carbon) cycles
-— it is reused again and again, never created new; energy flows in and is released as heat, but the
-atoms themselves go round; (2) four steps carry carbon in a forest — photosynthesis (plants take
-CO₂ from the air), eating (animals take in plant matter), respiration (living things release CO₂
-back), and decomposition (dead matter returns carbon to the soil and air); (3) the loop closes —
-that is why the amount of carbon on Earth stays the same while it moves around.** Model the loop
-once (worked example, S-011). The environment lens: this is the ground truth of "our Earth home" —
-nothing is truly thrown away. The global lens: the cycle is the same everywhere, though the living
-things differ by place — and many peoples have long observed and honored this recycling of matter
-through their own knowledge traditions, held side by side with the science here (philosophy §11).
-The technology lens: human activity (burning buried carbon as fuel) pushes
-extra carbon into the air faster than the loop removes it — a preview of Lesson 8. The
-critical-thinking lens: "reused, not created new" is a checkable scientific fact, not a guess
-(S-253). Keep the claim precise: Earth is effectively a closed system for carbon, so its total
-carbon is nearly constant (S-253); energy, by contrast, flows through and is not recycled.
+The ideas to land: **(1) matter (like carbon) cycles — it is reused again and again,
+never created new; energy flows in and is released as heat, but the atoms themselves go
+round; (2) four steps carry carbon in a forest — photosynthesis (plants take CO₂ from
+the air), eating (animals take in plant matter), respiration (living things release CO₂
+back), and decomposition (dead matter returns carbon to the soil and air); (3) the loop
+closes — that is why the amount of carbon on Earth stays the same while it moves
+around.** Model the loop once (worked example, S-011). The environment lens: this is the
+ground truth of "our Earth home" — nothing is truly thrown away. The global lens: the
+cycle is the same everywhere, though the living things differ by place — and many
+peoples have long observed and honored this recycling of matter through their own
+knowledge traditions, held side by side with the science here (philosophy §11). The
+technology lens: human activity (burning buried carbon as fuel) pushes extra carbon into
+the air faster than the loop removes it — a preview of Lesson 8. The critical-thinking
+lens: "reused, not created new" is a checkable scientific fact, not a guess (S-253).
+Keep the claim precise: Earth is effectively a closed system for carbon, so its total
+carbon is nearly constant (S-253); energy, by contrast, flows through and is not
+recycled.
 
 ## Procedure
 

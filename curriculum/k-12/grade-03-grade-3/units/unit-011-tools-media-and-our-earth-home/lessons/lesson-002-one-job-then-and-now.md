@@ -121,19 +121,19 @@ now.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Hold the unit's stance carefully: teach
-technology with **neither worship nor fear**. A new machine is not "better" just because it
-is new — it often makes a job faster or easier, and it often needs electricity, running
-water, or fuel that not everyone has. An old tool is not "worse" just because it is old — it
-works anywhere and never runs out of power. Both are real tools made by people to solve a
-problem (retrieval: link back to Lesson 1's simple machines). Use examples from many places
-so no one home is the default: a hand pump in a village, a water jug carried from a river, a
-washing machine in a city flat. Distinguish evidence from values gently: "the machine is
-faster" is a fact; "the machine is better" is a value judgment — and at this age we hold
-them apart. Honor every body: a learner who is blind or has low vision can feel the old
-tool and hear the new one described; a non-speaking learner can point to "then" or "now"
-and to a picture for "faster" or "needs electricity." Keep the change concrete, not scary —
-a job made easier, not a world lost.
+Hold the unit's stance carefully: teach technology with **neither worship nor fear**. A
+new machine is not "better" just because it is new — it often makes a job faster or
+easier, and it often needs electricity, running water, or fuel that not everyone has. An
+old tool is not "worse" just because it is old — it works anywhere and never runs out of
+power. Both are real tools made by people to solve a problem (retrieval: link back to
+Lesson 1's simple machines). Use examples from many places so no one home is the
+default: a hand pump in a village, a water jug carried from a river, a washing machine
+in a city flat. Distinguish evidence from values gently: "the machine is faster" is a
+fact; "the machine is better" is a value judgment — and at this age we hold them apart.
+Honor every body: a learner who is blind or has low vision can feel the old tool and
+hear the new one described; a non-speaking learner can point to "then" or "now" and to a
+picture for "faster" or "needs electricity." Keep the change concrete, not scary — a job
+made easier, not a world lost.
 
 ## Procedure
 

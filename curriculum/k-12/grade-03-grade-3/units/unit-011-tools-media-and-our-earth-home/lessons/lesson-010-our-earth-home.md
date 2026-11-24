@@ -149,18 +149,17 @@ the same home — the Earth we share.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is a **celebration, not a test.** Help
-each learner recall one thing from each of the four strands and add it to the shared Earth
-home picture. Keep the tone joyful, hopeful, and inclusive — every machine, every message,
-every living thing, and every act of care is welcome, and none is ranked. Hold the unit's
-whole stance gently: technology met with neither worship nor fear, media met with judgment
-not suspicion, the Earth met as home not storehouse, and learners met as helpers not
-saviors. Let retrieval do its quiet work: each learner naming one thing from each strand is
-spaced practice of the whole unit. Honor every body: a learner who is blind or has low
-vision may add a found object by feel to each part while a partner describes the part; a
-non-speaking learner adds marks and points while a partner names them; a learner with motor
-differences directs a partner's hands. Every body is honored, and every body's contribution
-counts.
+This is a **celebration, not a test.** Help each learner recall one thing from each of
+the four strands and add it to the shared Earth home picture. Keep the tone joyful,
+hopeful, and inclusive — every machine, every message, every living thing, and every act
+of care is welcome, and none is ranked. Hold the unit's whole stance gently: technology
+met with neither worship nor fear, media met with judgment not suspicion, the Earth met
+as home not storehouse, and learners met as helpers not saviors. Let retrieval do its
+quiet work: each learner naming one thing from each strand is spaced practice of the
+whole unit. Honor every body: a learner who is blind or has low vision may add a found
+object by feel to each part while a partner describes the part; a non-speaking learner
+adds marks and points while a partner names them; a learner with motor differences
+directs a partner's hands. Every body is honored, and every body's contribution counts.
 
 ## Procedure
 

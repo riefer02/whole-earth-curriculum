@@ -110,11 +110,10 @@ voice that does not need words.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, frame art as communication, not decoration:
-"your picture is saying something." When guessing, never say a feeling is wrong —
-say "I see something a little different; tell me what it says to you." Honor
-non-speaking learners fully; a pointing guess is a real guess.
+As facilitator, frame art as communication, not decoration: "your picture is saying
+something." When guessing, never say a feeling is wrong — say "I see something a little
+different; tell me what it says to you." Honor non-speaking learners fully; a pointing
+guess is a real guess.
 
 ## Procedure
 

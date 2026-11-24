@@ -111,15 +111,15 @@ and things they are still growing into. Both are real parts of you, and both mat
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It spirals back to the opening unit's
-work on strengths and on "what I'm still learning." The heart of it is the reframe
-**"not yet"**: a thing a learner cannot do is not a verdict on them; it is a direction
-of growth. Celebrate strengths broadly — a strength can be a skill (counting, drawing,
-running) or a quality of care (sharing, comforting, listening) — so every learner
-finds at least one that is true of them, and no one's strength outranks another's.
-Honor the growing edge too: naming it aloud is itself a strength. For a learner who
-cannot write, accept drawing, dictation, pointing, signing, or a found object. The
-page can be made many ways; the whole self is the point, not a perfect page.
+It spirals back to the opening unit's work on strengths and on "what I'm still
+learning." The heart of it is the reframe **"not yet"**: a thing a learner cannot do is
+not a verdict on them; it is a direction of growth. Celebrate strengths broadly — a
+strength can be a skill (counting, drawing, running) or a quality of care (sharing,
+comforting, listening) — so every learner finds at least one that is true of them, and
+no one's strength outranks another's. Honor the growing edge too: naming it aloud is
+itself a strength. For a learner who cannot write, accept drawing, dictation, pointing,
+signing, or a found object. The page can be made many ways; the whole self is the point,
+not a perfect page.
 
 ## Procedure
 

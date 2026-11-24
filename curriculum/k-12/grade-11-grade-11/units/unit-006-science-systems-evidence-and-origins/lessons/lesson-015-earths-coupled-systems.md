@@ -118,21 +118,21 @@ for — the whole.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **Earth's four
-spheres — atmosphere, hydrosphere, geosphere, and biosphere — are coupled, so a change
-in one propagates to the others; the carbon cycle is a concrete thread linking all
-four (S-253); and feedbacks (reinforcing or balancing) determine whether a change
-grows or is damped.** Teach the four-sphere map and one carbon trace explicitly with a
-worked example (S-011). Emphasize that "coupled" is not a metaphor but a measurable
-fact: carbon moves between air, life, land, and water in known amounts.
+The ideas to land: **Earth's four spheres — atmosphere, hydrosphere, geosphere, and
+biosphere — are coupled, so a change in one propagates to the others; the carbon cycle
+is a concrete thread linking all four (S-253); and feedbacks (reinforcing or balancing)
+determine whether a change grows or is damped.** Teach the four-sphere map and one
+carbon trace explicitly with a worked example (S-011). Emphasize that "coupled" is not a
+metaphor but a measurable fact: carbon moves between air, life, land, and water in known
+amounts.
 
-The **environment** lens: this is the lesson's center — the living Earth as one
-system. The **intellectual** lens: systems thinking — naming parts *and* their links —
-is the organizing skill. The **critical-thinking** lens: learners ask "what else does
-this change touch?" before judging any single effect. The **global** lens: the same
-four spheres wrap every country and people; the couplings do not respect borders.
-Preview: Lesson 16 brings the human into the system — how climate, ecology, and
-society shape one another.
+The **environment** lens: this is the lesson's center — the living Earth as one system.
+The **intellectual** lens: systems thinking — naming parts *and* their links — is the
+organizing skill. The **critical-thinking** lens: learners ask "what else does this
+change touch?" before judging any single effect. The **global** lens: the same four
+spheres wrap every country and people; the couplings do not respect borders. Preview:
+Lesson 16 brings the human into the system — how climate, ecology, and society shape one
+another.
 
 ## Procedure
 

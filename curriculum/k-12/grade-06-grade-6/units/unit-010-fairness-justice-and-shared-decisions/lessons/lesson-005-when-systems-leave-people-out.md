@@ -116,22 +116,21 @@ that is why we have to look at the steps.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a rule, law, or system
-can treat some groups unfairly even when no one person intends harm** — the unfairness
-lives in the *steps* of the system, not (necessarily) in anyone's intention. Teach the
-tracing routine — *who is affected? who is left out? at which step? did anyone intend
-it?* — as a worked example (Kirschner, Sweller & Clark, 2006). Keep it **non-shaming and
-precise**: the point is *not* to blame designers (often there is no single villain), but
-to see that *outcomes* can be unfair even when *intentions* are not. That is why the
-egalitarian question "who is left out?" matters — we must ask it, because the system will
-not tell us by itself. Distinguish **evidence from values**: *that a rule leaves some
-people out, and at which step* is observable; *that leaving people out is wrong and
-should be fixed* is a value held by this curriculum and its learners. Carry the
-**technology & environment lens** honestly: systems include *built things* (a staircase,
-a door, a screen, a form), and design choices — physical or digital — can include or
-exclude; a small change (a ramp, a translation, a different time, a spoken option) often
-repairs a lot. Attach every example to hope: unfair systems can be, and are, changed.
-See `docs/facilitation.md`.
+The idea to land: **a rule, law, or system can treat some groups unfairly even when no
+one person intends harm** — the unfairness lives in the *steps* of the system, not
+(necessarily) in anyone's intention. Teach the tracing routine — *who is affected? who
+is left out? at which step? did anyone intend it?* — as a worked example (Kirschner,
+Sweller & Clark, 2006). Keep it **non-shaming and precise**: the point is *not* to blame
+designers (often there is no single villain), but to see that *outcomes* can be unfair
+even when *intentions* are not. That is why the egalitarian question "who is left out?"
+matters — we must ask it, because the system will not tell us by itself. Distinguish
+**evidence from values**: *that a rule leaves some people out, and at which step* is
+observable; *that leaving people out is wrong and should be fixed* is a value held by
+this curriculum and its learners. Carry the **technology & environment lens** honestly:
+systems include *built things* (a staircase, a door, a screen, a form), and design
+choices — physical or digital — can include or exclude; a small change (a ramp, a
+translation, a different time, a spoken option) often repairs a lot. Attach every
+example to hope: unfair systems can be, and are, changed. See `docs/facilitation.md`.
 
 ## Procedure
 

@@ -106,17 +106,15 @@ Asking a question is how everyone, everywhere, learns new things.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the story, cards, and circle, then guide the
-question practice — the learner follows the procedure directly. No question is
-"silly"; every honest question is welcome, and the wonder box lets quieter
-learners ask without speaking up. There is no one "correct" accent or way of
-speaking; every way of telling is honored. For a learner who is Deaf or hard of
-hearing, tell the story with pictures, a written summary, or a fluent signer —
-watching faces and hands *is* listening, and a question can be signed, pointed
-to, or drawn. A learner who does not use a speaking voice asks by signing,
-pointing to a starter card, showing a picture, or using a communication device —
-all of these are asking.
+Prepare the story, cards, and circle, then guide the question practice — the learner
+follows the procedure directly. No question is "silly"; every honest question is
+welcome, and the wonder box lets quieter learners ask without speaking up. There is no
+one "correct" accent or way of speaking; every way of telling is honored. For a learner
+who is Deaf or hard of hearing, tell the story with pictures, a written summary, or a
+fluent signer — watching faces and hands *is* listening, and a question can be signed,
+pointed to, or drawn. A learner who does not use a speaking voice asks by signing,
+pointing to a starter card, showing a picture, or using a communication device — all of
+these are asking.
 
 ## Procedure
 

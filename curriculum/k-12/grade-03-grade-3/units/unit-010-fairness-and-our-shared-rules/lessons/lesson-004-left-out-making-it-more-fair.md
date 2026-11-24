@@ -115,21 +115,20 @@ making it more fair.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **inclusion as an act**: fairness
-is not only seeing inequality but *doing* something to change it. Keep examples
-gentle, everyday, and blame-free — the point is never to shame anyone but to notice
-systems and situations ("a sign in one language," "a table too high") as well as
-choices ("not invited"). Include ability naturally: a ramp, a lowered table, a
-translated sign are just ordinary ways everyone takes part, not "special" cases. This
-is an egalitarian, global claim: everywhere, people who are left out can be brought in
-by a change we can describe and make. Connect any gap to agency and hope ("we can
-change this"), not fear. A learner who does not speak aloud points to who is left out
-and to the change; a learner who is deaf or hard of hearing follows each card through
-sign and picture; a learner who is blind or low-vision hears each situation described
-and names the change aloud; a learner with a motor difference can direct a partner to
-act the change. A learner may always pass. The goal is the learner's own description —
-"this person was left out because…, and it would be more fair if…" — not a memorized
-phrase.
+This lesson teaches **inclusion as an act**: fairness is not only seeing inequality but
+*doing* something to change it. Keep examples gentle, everyday, and blame-free — the
+point is never to shame anyone but to notice systems and situations ("a sign in one
+language," "a table too high") as well as choices ("not invited"). Include ability
+naturally: a ramp, a lowered table, a translated sign are just ordinary ways everyone
+takes part, not "special" cases. This is an egalitarian, global claim: everywhere,
+people who are left out can be brought in by a change we can describe and make. Connect
+any gap to agency and hope ("we can change this"), not fear. A learner who does not
+speak aloud points to who is left out and to the change; a learner who is deaf or hard
+of hearing follows each card through sign and picture; a learner who is blind or
+low-vision hears each situation described and names the change aloud; a learner with a
+motor difference can direct a partner to act the change. A learner may always pass. The
+goal is the learner's own description — "this person was left out because…, and it would
+be more fair if…" — not a memorized phrase.
 
 ## Procedure
 

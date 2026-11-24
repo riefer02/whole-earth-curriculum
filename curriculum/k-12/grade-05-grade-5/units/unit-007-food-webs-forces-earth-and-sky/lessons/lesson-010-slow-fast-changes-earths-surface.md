@@ -130,18 +130,18 @@ chapters.
 
 ## Facilitator note
 
-Written to the learner ("you"). This capstone has two jobs: teach the last standard
-(slow vs. fast surface change, and the plate-boundary pattern), and close the unit's
-through-line (predict → test → observe → separate evidence from inference). Two key
-distinctions: **slow vs. fast** (time scale), and **evidence vs. inference** (we can
-*watch* a flood or a sand model erode; we *infer* that a canyon took very long
-because we cannot watch it form). The plate idea is introduced lightly: Earth's
-surface is broken into large **plates** that move slowly, and most earthquakes and
-volcanoes happen where plates meet — the "Ring of Fire" around the Pacific is the
-clearest example, but plate boundaries circle the whole Earth. The ethics lens:
-knowing where earthquakes and volcanoes happen helps people choose safer places to
-build and prepare — a real, hopeful use of science. Keep heavy disaster content
-gentle and connect it to agency ([`docs/facilitation.md`](../../../../../../docs/facilitation.md)).
+This capstone has two jobs: teach the last standard (slow vs. fast surface change, and
+the plate-boundary pattern), and close the unit's through-line (predict → test → observe
+→ separate evidence from inference). Two key distinctions: **slow vs. fast** (time
+scale), and **evidence vs. inference** (we can *watch* a flood or a sand model erode; we
+*infer* that a canyon took very long because we cannot watch it form). The plate idea is
+introduced lightly: Earth's surface is broken into large **plates** that move slowly,
+and most earthquakes and volcanoes happen where plates meet — the "Ring of Fire" around
+the Pacific is the clearest example, but plate boundaries circle the whole Earth. The
+ethics lens: knowing where earthquakes and volcanoes happen helps people choose safer
+places to build and prepare — a real, hopeful use of science. Keep heavy disaster
+content gentle and connect it to agency
+([`docs/facilitation.md`](../../../../../../docs/facilitation.md)).
 
 ## Procedure
 

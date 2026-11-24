@@ -114,18 +114,19 @@ not one person's or one region's invention.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) a **two-step equation** has
-two operations on the unknown; (2) to **solve**, undo them in **reverse order** — the opposite of
-"add/subtract first, then multiply/divide" is "undo multiply/divide *last*"; concretely, undo the
-addition first, then the multiplication; and (3) always **check** by substitution. Because solving
-equations is a foundational skill, use explicit instruction, worked examples, and guided practice
-before independent work (Kirschner, Sweller & Clark, 2006). Watch for the slip of undoing in the
-wrong order (dividing before subtracting) and of doing a step to only one side. Retrieval: ask
-learners to recall one-step equations from Grade 6 — a two-step equation is two one-steps chained.
-The global lens: "algebra" derives from *al-jabr* in al-Khwarizmi's 9th-century work; balancing
-both sides is a shared human method. The critical-thinking lens (`docs/philosophy.md` §7): checking
-by substitution is honest reasoning, never trusting a guess. The egalitarian lens: equations turn a
-fair price or wage into solvable form — a tool of clear dealing for everyone.
+The ideas to land: (1) a **two-step equation** has two operations on the unknown; (2) to
+**solve**, undo them in **reverse order** — the opposite of "add/subtract first, then
+multiply/divide" is "undo multiply/divide *last*"; concretely, undo the addition first,
+then the multiplication; and (3) always **check** by substitution. Because solving
+equations is a foundational skill, use explicit instruction, worked examples, and guided
+practice before independent work (Kirschner, Sweller & Clark, 2006). Watch for the slip
+of undoing in the wrong order (dividing before subtracting) and of doing a step to only
+one side. Retrieval: ask learners to recall one-step equations from Grade 6 — a two-step
+equation is two one-steps chained. The global lens: "algebra" derives from *al-jabr* in
+al-Khwarizmi's 9th-century work; balancing both sides is a shared human method. The
+critical-thinking lens (`docs/philosophy.md` §7): checking by substitution is honest
+reasoning, never trusting a guess. The egalitarian lens: equations turn a fair price or
+wage into solvable form — a tool of clear dealing for everyone.
 
 ## Procedure
 

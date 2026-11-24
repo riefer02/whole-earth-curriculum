@@ -116,20 +116,19 @@ catch a mistake before it spills.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It introduces **liquid volume** with
-the **liter** and **milliliter** — the new skill is *estimating* capacity before
-*measuring* it with standard units. Teach with a **worked example** (philosophy §13):
-fill a 250-mL cup four times to fill the liter bottle, counting aloud, and conclude
-1 L = 1,000 mL. The estimation-before-measurement habit is the real lesson: a good
-estimate is a thinking tool, not a guess (Van de Walle et al., 2019). **No one's
-accuracy at pouring measures their smartness; estimation grows with practice, and
-"not yet" is information, never a verdict.** The liter and milliliter are shared
-international units — one among several systems people have used, but the one most of
-the world agrees on today, which makes medicine and trade safer everywhere. Measure in
-the home language. For learners who are Deaf or hard of hearing, mark the water level
-with signs and count fills; for learners who are blind or low-vision, feel the water
-rise in the cup and pour to a finger-marked line. Learners with limited movement
-direct a partner to pour. Mastery arrives at its own pace.
+It introduces **liquid volume** with the **liter** and **milliliter** — the new skill is
+*estimating* capacity before *measuring* it with standard units. Teach with a **worked
+example** (philosophy §13): fill a 250-mL cup four times to fill the liter bottle,
+counting aloud, and conclude 1 L = 1,000 mL. The estimation-before-measurement habit is
+the real lesson: a good estimate is a thinking tool, not a guess (Van de Walle et al.,
+2019). **No one's accuracy at pouring measures their smartness; estimation grows with
+practice, and "not yet" is information, never a verdict.** The liter and milliliter are
+shared international units — one among several systems people have used, but the one
+most of the world agrees on today, which makes medicine and trade safer everywhere.
+Measure in the home language. For learners who are Deaf or hard of hearing, mark the
+water level with signs and count fills; for learners who are blind or low-vision, feel
+the water rise in the cup and pour to a finger-marked line. Learners with limited
+movement direct a partner to pour. Mastery arrives at its own pace.
 
 ## Procedure
 

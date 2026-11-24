@@ -118,17 +118,17 @@ interview, the skill is the same: read the room, then match it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **register is the
-dimension of language — formality, address, tone — that we vary to fit a setting; it is
-a skill of respect and clarity, and every culture marks it differently.** The Common
-European Framework and its companion volume treat adapting register (formal/informal)
-and forms of address as a core of communicative competence, alongside knowing more than
-one language (S-237). Many languages mark respect *inside the grammar itself* —
-honorifics, polite verb endings, titles — so "register" is not just word choice but
-sometimes grammar. Hold this as description and appreciation: no register is "better";
-the skilled speaker matches the room. Frame code-switching (moving between languages or
-registers) as a resource, not a deficit — a speaker who shifts between home language and
-formal language is doing something *harder*, not something lesser.
+The idea to land: **register is the dimension of language — formality, address, tone —
+that we vary to fit a setting; it is a skill of respect and clarity, and every culture
+marks it differently.** The Common European Framework and its companion volume treat
+adapting register (formal/informal) and forms of address as a core of communicative
+competence, alongside knowing more than one language (S-237). Many languages mark
+respect *inside the grammar itself* — honorifics, polite verb endings, titles — so
+"register" is not just word choice but sometimes grammar. Hold this as description and
+appreciation: no register is "better"; the skilled speaker matches the room. Frame
+code-switching (moving between languages or registers) as a resource, not a deficit — a
+speaker who shifts between home language and formal language is doing something
+*harder*, not something lesser.
 
 Model the skill once, then let learners practice (worked example → guided practice →
 independent work; S-011). The **global** lens is the spine: compare how different

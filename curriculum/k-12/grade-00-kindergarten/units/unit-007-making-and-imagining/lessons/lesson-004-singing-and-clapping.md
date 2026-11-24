@@ -113,10 +113,9 @@ together. Your hands and your voice are an instrument you always carry with you.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, keep patterns very short and repeat them many
-times. There is no "wrong" clap — closeness to the beat is something that grows. Let
-every learner lead a pattern if they want to; leadership in rhythm is for everyone.
+As facilitator, keep patterns very short and repeat them many times. There is no "wrong"
+clap — closeness to the beat is something that grows. Let every learner lead a pattern
+if they want to; leadership in rhythm is for everyone.
 
 ## Procedure
 

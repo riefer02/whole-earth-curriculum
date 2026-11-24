@@ -119,15 +119,16 @@ stop, tell a **trusted adult** — always, and it is never your fault.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **a child's body is
-their own, "no" and "stop" must always be respected, and a trusted adult is there to help**. It
-is developmentally appropriate and **contains no sexual content**: we talk only about everyday
-touch (hugs, handshakes, high-fives, pats) and personal space. Do **not** introduce sexual
-topics at this grade. Keep it empowering, never frightening: the child's right to say no, and to
-get help, is the whole point. Reassure learners that if something ever feels wrong, telling a
-trusted adult is always the right thing and never their fault. Some learners may disclose
+The idea to land is that **a child's body is their own, "no" and "stop" must always be
+respected, and a trusted adult is there to help**. It is developmentally appropriate and
+**contains no sexual content**: we talk only about everyday touch (hugs, handshakes,
+high-fives, pats) and personal space. Do **not** introduce sexual topics at this grade.
+Keep it empowering, never frightening: the child's right to say no, and to get help, is
+the whole point. Reassure learners that if something ever feels wrong, telling a trusted
+adult is always the right thing and never their fault. Some learners may disclose
 something difficult — respond calmly, thank them for telling you, and follow your local
-child-protection/safeguarding procedure. See `docs/facilitation.md` on holding difficult topics.
+child-protection/safeguarding procedure. See `docs/facilitation.md` on holding difficult
+topics.
 
 ## Procedure
 

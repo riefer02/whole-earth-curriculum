@@ -115,12 +115,12 @@ little patience.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **stress, sleep, and
-movement are not separate; they act together on mood and thinking, and a learner can
-read the pattern in their own life — while staying honest about what the pattern does
-and does not prove.** This is the unit's retrieval-and-application pass (spacing and
-retrieval practice are among the most effective learning techniques, S-039): the three
-lessons just learned are pulled back together and *used*.
+The idea to land: **stress, sleep, and movement are not separate; they act together on
+mood and thinking, and a learner can read the pattern in their own life — while staying
+honest about what the pattern does and does not prove.** This is the unit's
+retrieval-and-application pass (spacing and retrieval practice are among the most
+effective learning techniques, S-039): the three lessons just learned are pulled back
+together and *used*.
 
 The key intellectual move is **correlation vs. causation.** A learner might notice
 "short sleep goes with a foggy morning," but a careful observer does not leap to "sleep
@@ -130,16 +130,17 @@ Model it: *"On days I slept under six hours, I also felt low — but those were 
 days I was most stressed, so I can't say sleep alone did it. That is a correlation, not
 yet a cause."*
 
-The **ethics** lens: self-observation is for *care and agency*, never for self-punishment
-or a grade on oneself; a learner who finds no pattern yet has still done the work.
-The **egalitarian** lens: what a learner can observe is bounded by what life allows —
-work, caregiving, housing, and safety all shape the data; a "bad" pattern is often a
-*context*, not a *character flaw*. The **global** lens: people have tracked body rhythms
-by season, moon, and labor for thousands of years; this is an ancient human practice in
-modern form. The **technology & environment** lens: apps and wearables can help — or can
-turn self-observation into self-surveillance; we return to that question in Lesson 9. The
-**social-emotional** lens: noticing mood can bring up real feeling; invite, never force,
-and let learners share only what they choose. Keep the tone curious and kind.
+The **ethics** lens: self-observation is for *care and agency*, never for
+self-punishment or a grade on oneself; a learner who finds no pattern yet has still done
+the work. The **egalitarian** lens: what a learner can observe is bounded by what life
+allows — work, caregiving, housing, and safety all shape the data; a "bad" pattern is
+often a *context*, not a *character flaw*. The **global** lens: people have tracked body
+rhythms by season, moon, and labor for thousands of years; this is an ancient human
+practice in modern form. The **technology & environment** lens: apps and wearables can
+help — or can turn self-observation into self-surveillance; we return to that question
+in Lesson 9. The **social-emotional** lens: noticing mood can bring up real feeling;
+invite, never force, and let learners share only what they choose. Keep the tone curious
+and kind.
 
 ## Procedure
 

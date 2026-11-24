@@ -31,6 +31,17 @@ author one or more original SVG assets and wire them into the lesson.
 - No lesson may require wealth, devices, or able-bodiedness to understand a graphic —
   pair every visual with a non-visual path.
 
+## Diagrams must be readable, not merely present
+
+- **A callout marker needs a leader line.** A dot with a label floating elsewhere is
+  the single most common defect in this repo: the learner sees unrelated shapes.
+- **Draw a silhouette, not a stick figure** — circle head plus bare lines is clip art.
+- **Never shrink type to fit.** 12px floor; shorten the label instead.
+- **Render every asset and look at it**, in colour and in grayscale:
+  `rsvg-convert -w 480 <file> -o /tmp/check.png`. An unrendered SVG is a guess.
+- `npm run audit` flags text leaving the canvas, hand-fit font sizes, orphan markers
+  and stick-figure bodies.
+
 ## How to work
 
 1. Read the assigned unit's lessons (the backlog item names them).

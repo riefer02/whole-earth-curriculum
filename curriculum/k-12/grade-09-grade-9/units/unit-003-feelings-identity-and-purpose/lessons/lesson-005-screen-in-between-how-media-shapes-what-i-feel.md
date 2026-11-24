@@ -111,23 +111,25 @@ machine behind the feeling, so you can keep your own measure.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It completes the second emotional-literacy goal
-(D01.S1.09.02) by focusing on **media**. The core ideas: **(1) curation** — feeds are chosen,
-edited, and filtered, so they show a highlight reel, not a full life; **(2) social comparison** —
-people naturally compare themselves to others, and curated content skews that comparison upward
-(Festinger, S-221; Common Sense Media's research on media and adolescent development, S-226); **(3)
-emotional contagion** — the feelings shown in media can spread to the viewer; **(4) the balanced
-picture** — digital media can also connect, teach, and lift, and adolescence is a time when digital
-habits are being formed (WHO adolescent mental-health framing, S-311). The stance is **neither
-demonizing nor worshipping media** (philosophy §4, technology lens): the lesson's goal is *noticing
-the pull and choosing*, not quitting screens. The **egalitarian** lens: the same feed is not equally
-harmful to everyone — those already excluded or under pressure can feel the comparison more sharply,
-and the platforms' incentives (keep you scrolling) fall unevenly. The **social-emotional** lens: a
-boundary is self-care, not weakness. Keep it concrete and agency-filled: the lesson ends with a
-*doable* boundary, never despair. Be sensitive: do not pressure learners to disclose their own
-screen habits or feelings; make all sharing optional and invented examples welcome. Evidence is
-distinguished from values: that feeds are curated is a fact; that one *should* limit them is a value
-the learner weighs for themselves (philosophy §5).
+It completes the second emotional-literacy goal (D01.S1.09.02) by focusing on **media**.
+The core ideas: **(1) curation** — feeds are chosen, edited, and filtered, so they show
+a highlight reel, not a full life; **(2) social comparison** — people naturally compare
+themselves to others, and curated content skews that comparison upward (Festinger,
+S-221; Common Sense Media's research on media and adolescent development, S-226); **(3)
+emotional contagion** — the feelings shown in media can spread to the viewer; **(4) the
+balanced picture** — digital media can also connect, teach, and lift, and adolescence is
+a time when digital habits are being formed (WHO adolescent mental-health framing,
+S-311). The stance is **neither demonizing nor worshipping media** (philosophy §4,
+technology lens): the lesson's goal is *noticing the pull and choosing*, not quitting
+screens. The **egalitarian** lens: the same feed is not equally harmful to everyone —
+those already excluded or under pressure can feel the comparison more sharply, and the
+platforms' incentives (keep you scrolling) fall unevenly. The **social-emotional** lens:
+a boundary is self-care, not weakness. Keep it concrete and agency-filled: the lesson
+ends with a *doable* boundary, never despair. Be sensitive: do not pressure learners to
+disclose their own screen habits or feelings; make all sharing optional and invented
+examples welcome. Evidence is distinguished from values: that feeds are curated is a
+fact; that one *should* limit them is a value the learner weighs for themselves
+(philosophy §5).
 
 ## Procedure
 

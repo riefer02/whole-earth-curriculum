@@ -115,23 +115,22 @@ are never perfectly efficient, and it sits at the heart of every technology's co
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **the first law of
-thermodynamics says energy is conserved — it changes form but is never destroyed
-(S-256, S-245); the second law says that in real changes some energy always spreads
-out as heat that cannot be fully recovered — entropy increases — so no real process is
-perfectly efficient.** Teach both laws explicitly with a worked example, then apply
-them by tracing energy in, useful work out, and heat lost in a real device (S-011).
-Keep the entropy idea qualitative and honest: it is *not* "things always get messier"
-in a shallow sense, but that energy disperses in ways we cannot fully reverse.
+The ideas to land: **the first law of thermodynamics says energy is conserved — it
+changes form but is never destroyed (S-256, S-245); the second law says that in real
+changes some energy always spreads out as heat that cannot be fully recovered — entropy
+increases — so no real process is perfectly efficient.** Teach both laws explicitly with
+a worked example, then apply them by tracing energy in, useful work out, and heat lost
+in a real device (S-011). Keep the entropy idea qualitative and honest: it is *not*
+"things always get messier" in a shallow sense, but that energy disperses in ways we
+cannot fully reverse.
 
-The **intellectual** lens: two short laws organize an enormous range of experience —
-the deep economy of energy. The **critical-thinking** lens: every "100% efficient"
-claim is a red flag — the second law says to ask where the heat goes. The
-**technology** lens: the second law is the quiet tax on every engine, charger, and
-computer. The **environment** lens: because energy always partly spreads out as heat,
-every technology has an irreducible material and energy cost (previewing Lesson 12).
-Preview: Lesson 12 turns this into an evaluation of technology's energy and material
-costs.
+The **intellectual** lens: two short laws organize an enormous range of experience — the
+deep economy of energy. The **critical-thinking** lens: every "100% efficient" claim is
+a red flag — the second law says to ask where the heat goes. The **technology** lens:
+the second law is the quiet tax on every engine, charger, and computer. The
+**environment** lens: because energy always partly spreads out as heat, every technology
+has an irreducible material and energy cost (previewing Lesson 12). Preview: Lesson 12
+turns this into an evaluation of technology's energy and material costs.
 
 ## Procedure
 

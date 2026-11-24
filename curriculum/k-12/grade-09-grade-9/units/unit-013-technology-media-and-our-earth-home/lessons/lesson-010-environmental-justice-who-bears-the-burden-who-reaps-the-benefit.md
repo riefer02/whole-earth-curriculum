@@ -114,31 +114,31 @@ that unevenness clearly — and asking whether it is fair — is environmental j
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **environmental change is
-not felt evenly. Its burdens — pollution, resource extraction, floods, heat — fall
-disproportionately on low-income, Indigenous, and marginalized communities and on the
-Global South, while its benefits (energy, profit, comfort) often accrue to others.
-Environmental justice is the analysis of that unevenness and the demand that burdens and
-benefits be shared fairly.** The term's formal definition comes from the U.S. EPA
-(S-483); the field's scholarship was founded in part by Robert Bullard's documentation of
-hazardous-waste siting in Black communities (S-484); the *global* unevenness is documented
-by the IPCC (S-005). Use at least one **non-U.S. / global** case (e.g., a small island
-state facing sea-level rise it did little to cause; a community near extraction in the
-Global South) so the lens is planetary, not one nation's story. The **egalitarian** lens is
-the heart here. The **ethics** lens: fairness is a *values* question — distinguish the
-documented *facts* of unevenness from the *judgment* that it is unjust (philosophy §5). The
-**environment** lens: the burdens are real, measurable harms. The **global** lens: the
-pattern repeats worldwide. End on agency, not despair — stewardship is something learners
-can practice (facilitation.md). Close with the unit's retrieval pass: all eight goals
-recalled in one breath (S-039).
+The idea to land: **environmental change is not felt evenly. Its burdens — pollution,
+resource extraction, floods, heat — fall disproportionately on low-income, Indigenous,
+and marginalized communities and on the Global South, while its benefits (energy,
+profit, comfort) often accrue to others. Environmental justice is the analysis of that
+unevenness and the demand that burdens and benefits be shared fairly.** The term's
+formal definition comes from the U.S. EPA (S-483); the field's scholarship was founded
+in part by Robert Bullard's documentation of hazardous-waste siting in Black communities
+(S-484); the *global* unevenness is documented by the IPCC (S-005). Use at least one
+**non-U.S. / global** case (e.g., a small island state facing sea-level rise it did
+little to cause; a community near extraction in the Global South) so the lens is
+planetary, not one nation's story. The **egalitarian** lens is the heart here. The
+**ethics** lens: fairness is a *values* question — distinguish the documented *facts* of
+unevenness from the *judgment* that it is unjust (philosophy §5). The **environment**
+lens: the burdens are real, measurable harms. The **global** lens: the pattern repeats
+worldwide. End on agency, not despair — stewardship is something learners can practice
+(facilitation.md). Close with the unit's retrieval pass: all eight goals recalled in one
+breath (S-039).
 
 **Indigenous peoples as stewards and defenders, not only victims.** Always teach the
 Standing Rock case (S-485) alongside the burden cases: the Standing Rock Sioux Tribe —
 Lakota and Dakota people of what is now North and South Dakota — defended the Missouri
 River against the Dakota Access Pipeline, grounding the 2016–2017 "water protector"
 gatherings in Mní wičhóni ("water is life"). Frame it as a case of *agency and
-stewardship*: here Indigenous peoples are **knowledge-holders** (their relationship to the
-river, its water, and treaty lands), **stewards** (protecting water for future
+stewardship*: here Indigenous peoples are **knowledge-holders** (their relationship to
+the river, its water, and treaty lands), **stewards** (protecting water for future
 generations), and **defenders** (organizing and acting) — not passive victims. This
 corrects the flattening that would otherwise leave Indigenous peoples appearing only as
 burden-bearers, and it models stewardship as something learners can themselves practice.

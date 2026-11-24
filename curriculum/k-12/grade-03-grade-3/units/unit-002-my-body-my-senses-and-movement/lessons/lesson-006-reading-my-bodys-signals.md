@@ -114,16 +114,15 @@ them before they get loud.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the body outlines and signal cards, then guide the
-mapping. This is the unit's second portfolio artifact — the body-signal drawing named
-in the assessment plan — and it closes the body-signals strand of the unit. Keep every
-response gentle and non-judging: there is no "correct" amount to eat, drink, or sleep,
-and no body is praised or shamed. A learner's map is a record of their noticing, never
-a grade. Some learners may show signals in different spots than the cards — that is
-fine; their own body is the authority. If a learner shares that their body feels
-hungry, thirsty, or tired right now, honor it: offer water, food, or a rest as the
-situation allows. Maps may be shared only if the learner chooses.
+Prepare the body outlines and signal cards, then guide the mapping. This is the unit's
+second portfolio artifact — the body-signal drawing named in the assessment plan — and
+it closes the body-signals strand of the unit. Keep every response gentle and
+non-judging: there is no "correct" amount to eat, drink, or sleep, and no body is
+praised or shamed. A learner's map is a record of their noticing, never a grade. Some
+learners may show signals in different spots than the cards — that is fine; their own
+body is the authority. If a learner shares that their body feels hungry, thirsty, or
+tired right now, honor it: offer water, food, or a rest as the situation allows. Maps
+may be shared only if the learner chooses.
 
 ## Procedure
 

@@ -121,21 +121,20 @@ disagreement fairly.
 
 ## Facilitator note
 
-Written to the learner ("you"). This is a **skill** lesson, so teach it with a worked
-example and guided practice (Kirschner, Sweller & Clark, 2006): model the exchange
-with puppets once, then have learners rehearse in pairs before any independent use.
-Name the two moves clearly: **"I" statement** (I feel ___ when ___ because ___; I need
-___.) and **active listening** (face the speaker, hear them, reflect back "I hear that
-you feel ___"). Emphasize that "I" statements name *feelings and needs*, not blame —
-they are not a magic script, and sometimes the first try is clumsy; practice makes
-them real. Use only invented, gentle disagreements; never have learners role-play a
-real, live conflict in the class (that could embarrass someone). A learner who does
-not speak aloud fills the frame by pointing to feeling-word cards or signing; a learner
-who is deaf or hard of hearing follows the frames through sign and the cards; a learner
-who is blind or low-vision hears the frames read and practices aloud; a learner with a
-motor difference can direct a partner or use a communication aid. A learner may always
-pass. The goal is a learner who can, in their own way, say "I feel ___" and then
-listen — the two halves of a fair talk.
+This is a **skill** lesson, so teach it with a worked example and guided practice
+(Kirschner, Sweller & Clark, 2006): model the exchange with puppets once, then have
+learners rehearse in pairs before any independent use. Name the two moves clearly: **"I"
+statement** (I feel ___ when ___ because ___; I need ___.) and **active listening**
+(face the speaker, hear them, reflect back "I hear that you feel ___"). Emphasize that
+"I" statements name *feelings and needs*, not blame — they are not a magic script, and
+sometimes the first try is clumsy; practice makes them real. Use only invented, gentle
+disagreements; never have learners role-play a real, live conflict in the class (that
+could embarrass someone). A learner who does not speak aloud fills the frame by pointing
+to feeling-word cards or signing; a learner who is deaf or hard of hearing follows the
+frames through sign and the cards; a learner who is blind or low-vision hears the frames
+read and practices aloud; a learner with a motor difference can direct a partner or use
+a communication aid. A learner may always pass. The goal is a learner who can, in their
+own way, say "I feel ___" and then listen — the two halves of a fair talk.
 
 ## Procedure
 

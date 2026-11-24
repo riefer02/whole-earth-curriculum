@@ -118,26 +118,25 @@ human shapes, alive on every continent under many names.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **mutual aid is
-people meeting one another's needs together as equals — sharing both the giving and the
-deciding — which is what separates it from charity, where the giver keeps the power.**
-Dean Spade's *Mutual Aid* (S-345) makes this distinction precisely, and it is a
-*descriptive* distinction: saying they differ is not saying "charity is bad." The term
-"mutual aid" was popularized by Peter Kropotkin's 1902 *Mutual Aid: A Factor of
-Evolution*, a collection of accounts of cooperation and reciprocity across human and
-animal societies (S-163). Named traditions of communal work span the world: harambee
-(Swahili, "all pull together," East Africa), gotong royong (Indonesia), mink'a/minga
-(the Andes), and barn raising (North America), among many others (S-164) — present
-each as one named tradition in one place, never as "all people there do this," and
-invite learners to verify local details with their own community.
+The idea to land: **mutual aid is people meeting one another's needs together as
+equals — sharing both the giving and the deciding — which is what separates it from
+charity, where the giver keeps the power.** Dean Spade's *Mutual Aid* (S-345) makes this
+distinction precisely, and it is a *descriptive* distinction: saying they differ is not
+saying "charity is bad." The term "mutual aid" was popularized by Peter Kropotkin's 1902
+*Mutual Aid: A Factor of Evolution*, a collection of accounts of cooperation and
+reciprocity across human and animal societies (S-163). Named traditions of communal work
+span the world: harambee (Swahili, "all pull together," East Africa), gotong royong
+(Indonesia), mink'a/minga (the Andes), and barn raising (North America), among many
+others (S-164) — present each as one named tradition in one place, never as "all people
+there do this," and invite learners to verify local details with their own community.
 
 The **egalitarian** lens is central: who keeps the power, and who is treated as a full
 equal, is the difference between the two forms. The **ethics** lens: dignity matters as
 much as the roof. The **global/anthropological** lens: these traditions are not ranked
 against one another and not a Western export — they are living practices on every
 continent. The **technology** lens: modern mutual-aid networks often run on group
-messages and shared documents — technology can coordinate solidarity across distance,
-or it can be used to surveil and sort the "deserving" from the "undeserving." Distinguish
+messages and shared documents — technology can coordinate solidarity across distance, or
+it can be used to surveil and sort the "deserving" from the "undeserving." Distinguish
 evidence from values: "mutual aid traditions are widespread and documented" is
 descriptive; "sharing the deciding is a fairer way to help" is a value learners weigh.
 

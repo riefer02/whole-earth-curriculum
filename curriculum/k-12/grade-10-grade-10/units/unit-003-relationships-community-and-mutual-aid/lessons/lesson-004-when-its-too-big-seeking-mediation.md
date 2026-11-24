@@ -119,29 +119,28 @@ skill that keeps small harms from becoming large ones.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **de-escalation is the
-first move, but some conflicts are too big to solve alone — and seeking mediation is a
-mature, skilled choice, not a failure.** The "too big" signs to teach are concrete:
-**safety** (someone could be hurt), **power imbalance** (one side cannot speak freely),
-**repeated harm** (it keeps happening), and **stuck pattern** (the same fight loops with
-no resolution). Mediation is a structured process: a **neutral** third party lets each
-side speak and be restated, then helps them find a fair solution both accept (S-022,
-S-148). The restorative frame adds: the goal is to repair harm and restore relationship,
-not only to punish (S-022, S-161).
+The idea to land: **de-escalation is the first move, but some conflicts are too big to
+solve alone — and seeking mediation is a mature, skilled choice, not a failure.** The
+"too big" signs to teach are concrete: **safety** (someone could be hurt), **power
+imbalance** (one side cannot speak freely), **repeated harm** (it keeps happening), and
+**stuck pattern** (the same fight loops with no resolution). Mediation is a structured
+process: a **neutral** third party lets each side speak and be restated, then helps them
+find a fair solution both accept (S-022, S-148). The restorative frame adds: the goal is
+to repair harm and restore relationship, not only to punish (S-022, S-161).
 
 Model the process once, then let learners practice (worked example → guided practice →
-independent work; S-011). The **social-emotional** lens is the spine: naming "this is too
-big for me" requires honest self-awareness, and the topic can touch real hurt — invite,
-never force, and let learners share only what they choose. The **ethics** lens: seeking
-mediation is an ethical act — it protects the more vulnerable side and refuses to let harm
-go unaddressed. The **egalitarian** lens is essential: when power is unequal, "just talk it
-out" can itself be unfair, because the less powerful person cannot speak freely — that is
-precisely when a neutral third party matters most. The **critical-thinking** lens: learn
-to read the *signs* — not every disagreement is too big, and not every "too big" is
-obvious at first. The **global** lens: every culture has its own forms of third-party
-peacemaking — elders, councils, restorative circles — and mediation is one widely shared
-form among many. Preview: with conflict skills in hand, the unit turns to empathy — first
-across cultures (Lessons 5–6).
+independent work; S-011). The **social-emotional** lens is the spine: naming "this is
+too big for me" requires honest self-awareness, and the topic can touch real hurt —
+invite, never force, and let learners share only what they choose. The **ethics** lens:
+seeking mediation is an ethical act — it protects the more vulnerable side and refuses
+to let harm go unaddressed. The **egalitarian** lens is essential: when power is
+unequal, "just talk it out" can itself be unfair, because the less powerful person
+cannot speak freely — that is precisely when a neutral third party matters most. The
+**critical-thinking** lens: learn to read the *signs* — not every disagreement is too
+big, and not every "too big" is obvious at first. The **global** lens: every culture has
+its own forms of third-party peacemaking — elders, councils, restorative circles — and
+mediation is one widely shared form among many. Preview: with conflict skills in hand,
+the unit turns to empathy — first across cultures (Lessons 5–6).
 
 ## Procedure
 

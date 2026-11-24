@@ -1,37 +1,87 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t d">
-  <title id="t">How alcohol affects a growing body</title>
-  <desc id="d">A body outline with labeled spots showing alcohol slows the brain — affecting judgment, coordination, and memory — and can harm the liver and a still-growing body.</desc>
-  <rect x="0" y="0" width="512" height="512" fill="#fdfbf7"/>
-  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="25" font-weight="bold" fill="#2b3a42">Alcohol &amp; a Growing Body</text>
+  <title id="t">How alcohol affects a growing body and brain</title>
+  <desc id="d">A human figure inside a dashed outline marked “still growing”. The brain is labelled:
+    slows judgment, coordination, memory, and reaction time. The liver is labelled: harm from heavy,
+    repeated use. Below, a note reads: delay protects a young, still-developing brain.</desc>
 
-  <!-- body outline -->
-  <circle cx="256" cy="120" r="42" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <rect x="196" y="164" width="120" height="230" rx="34" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <line x1="196" y1="300" x2="140" y2="420" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <line x1="316" y1="300" x2="372" y2="420" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <line x1="216" y1="182" x2="176" y2="300" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <line x1="296" y1="182" x2="336" y2="300" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <rect x="0" y="0" width="512" height="512" fill="#fdfbf7"/>
+
+  <!-- title -->
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="24"
+        font-weight="bold" fill="#2b3a42">Alcohol and a Growing Body</text>
+  <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="13"
+        fill="#4f6d7a">A depressant: it slows the brain and body down</text>
+
+  <!-- "still growing" ring -->
+  <rect x="172" y="74" width="168" height="366" rx="34" fill="none" stroke="#6b93b6"
+        stroke-width="2" stroke-dasharray="7 7"/>
+
+  <!-- leader lines: under the figure, so each meets the body edge cleanly -->
+  <g stroke="#4f6d7a" stroke-width="1.4">
+    <line x1="277" y1="116" x2="340" y2="100"/>
+    <line x1="172" y1="336" x2="158" y2="336"/>
+  </g>
+
+  <!-- figure -->
+  <g transform="translate(256 256) scale(0.92) translate(-256 -256)" fill="#d9e3e9">
+    <circle cx="256" cy="112" r="31"/>
+    <rect x="248" y="138" width="16" height="22" rx="6"/>
+    <rect x="214" y="156" width="84" height="176" rx="34"/>
+    <line x1="219" y1="178" x2="203" y2="304" stroke="#d9e3e9" stroke-width="21"
+          stroke-linecap="round"/>
+    <line x1="293" y1="178" x2="309" y2="304" stroke="#d9e3e9" stroke-width="21"
+          stroke-linecap="round"/>
+    <line x1="234" y1="326" x2="228" y2="420" stroke="#d9e3e9" stroke-width="28"
+          stroke-linecap="round"/>
+    <line x1="278" y1="326" x2="284" y2="420" stroke="#d9e3e9" stroke-width="28"
+          stroke-linecap="round"/>
+    <ellipse cx="224" cy="426" rx="15" ry="7"/>
+    <ellipse cx="288" cy="426" rx="15" ry="7"/>
+  </g>
+
+  <!-- organs -->
+  <g transform="translate(256 256) scale(0.92) translate(-256 -256)" stroke-width="1.6"
+     stroke-linejoin="round">
+    <ellipse cx="256" cy="108" rx="16" ry="12" fill="#f7e6cc" stroke="#e0a458"/>
+    <path d="M 220,226 C 232,219 244,219 252,223 C 263,228 275,235 275,242
+             C 275,249 258,253 244,253 C 230,253 220,240 220,226 Z" fill="#eef5ec"
+          stroke="#7a9e7e"/>
+  </g>
+
+  <!-- liver leader, drawn over the body so it visibly meets the organ -->
+  <line x1="238" y1="240" x2="174" y2="240" stroke="#4f6d7a" stroke-width="1.4"/>
+  <circle cx="239" cy="240" r="2.6" fill="#2b3a42"/>
 
   <!-- brain label -->
-  <circle cx="256" cy="120" r="6" fill="#e0a458"/>
-  <text x="336" y="104" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Brain slows</text>
-  <text x="336" y="122" font-family="sans-serif" font-size="12" fill="#222222">judgment, coordination,</text>
-  <text x="336" y="138" font-family="sans-serif" font-size="12" fill="#222222">memory all slow down</text>
+  <text x="348" y="90" font-family="sans-serif" font-size="15" font-weight="bold"
+        fill="#2b3a42">Brain</text>
+  <text x="348" y="109" font-family="sans-serif" font-size="12.5" fill="#222222">slows judgment,</text>
+  <text x="348" y="126" font-family="sans-serif" font-size="12.5" fill="#222222">coordination, memory,</text>
+  <text x="348" y="143" font-family="sans-serif" font-size="12.5" fill="#222222">and reaction time</text>
 
   <!-- liver label -->
-  <circle cx="256" cy="300" r="6" fill="#7a9e7e"/>
-  <text x="336" y="296" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Liver</text>
-  <text x="336" y="314" font-family="sans-serif" font-size="12" fill="#222222">heavy use harms it</text>
+  <text x="152" y="232" text-anchor="end" font-family="sans-serif" font-size="15"
+        font-weight="bold" fill="#2b3a42">Liver</text>
+  <text x="152" y="251" text-anchor="end" font-family="sans-serif" font-size="12.5"
+        fill="#222222">harm from heavy,</text>
+  <text x="152" y="268" text-anchor="end" font-family="sans-serif" font-size="12.5"
+        fill="#222222">repeated use</text>
 
-  <!-- growing body label -->
-  <circle cx="256" cy="210" r="6" fill="#6b93b6"/>
-  <text x="120" y="250" text-anchor="end" font-family="sans-serif" font-size="13.9" font-weight="bold" fill="#2b3a42">Growing body</text>
-  <text x="120" y="268" text-anchor="end" font-family="sans-serif" font-size="12" fill="#222222">smaller body,</text>
-  <text x="120" y="284" text-anchor="end" font-family="sans-serif" font-size="11.1" fill="#222222">developing brain —</text>
-  <text x="120" y="300" text-anchor="end" font-family="sans-serif" font-size="12" fill="#222222">greater effect</text>
+  <!-- still growing label -->
+  <text x="152" y="331" text-anchor="end" font-family="sans-serif" font-size="15"
+        font-weight="bold" fill="#2b3a42">Still growing</text>
+  <text x="152" y="350" text-anchor="end" font-family="sans-serif" font-size="12.5"
+        fill="#222222">smaller and still</text>
+  <text x="152" y="367" text-anchor="end" font-family="sans-serif" font-size="12.5"
+        fill="#222222">developing — so</text>
+  <text x="152" y="384" text-anchor="end" font-family="sans-serif" font-size="12.5"
+        fill="#222222">alcohol hits harder</text>
 
-  <!-- delay note -->
-  <rect x="28" y="436" width="456" height="56" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="460" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Delay protects a young, still-developing brain.</text>
-  <text x="256" y="480" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Nearly every country sets a minimum drinking age — a safety law, not a test.</text>
+  <!-- takeaway band -->
+  <rect x="24" y="452" width="464" height="52" rx="12" fill="#fdfbf7" stroke="#2b3a42"
+        stroke-width="2"/>
+  <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="14"
+        font-weight="bold" fill="#2b3a42">Delay protects a young, still-developing brain.</text>
+  <text x="256" y="493" text-anchor="middle" font-family="sans-serif" font-size="12"
+        fill="#4f6d7a">Nearly every country sets a minimum drinking age — a safety law, not a test.</text>
 </svg>

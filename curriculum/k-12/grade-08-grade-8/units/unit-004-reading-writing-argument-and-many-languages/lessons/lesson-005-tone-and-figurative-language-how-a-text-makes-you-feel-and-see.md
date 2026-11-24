@@ -113,18 +113,19 @@ a text means but *how* it makes you feel that meaning.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) figurative language says
-one thing by way of another — metaphor (implicit comparison), simile (comparison with "like/as"),
-personification (human traits to non-human things), hyperbole (deliberate exaggeration); (2) tone
-is the attitude or mood the words carry; (3) both shape what a reader understands and feels.**
-Model the first pair once (worked example, S-011). These are standard literary terms (S-347). The
-ethics lens: figurative language can lift people up or cut them down — a metaphor can wound or
-heal, so we choose figures with care. The egalitarian lens: figurative language is everywhere, in
-every language and every social class — it is not "fancy" writing; it is human thinking. The
-global lens: different languages make different pictures ("it's raining cats and dogs" is one
-language's picture; others say "it's raining ropes" or "raining pitchers") — no language's
-figures are more correct. The social-emotional lens: naming tone is naming feeling, in a text and
-in ourselves. Invite learners to share figures from their own languages as gifts.
+The ideas to land: **(1) figurative language says one thing by way of another — metaphor
+(implicit comparison), simile (comparison with "like/as"), personification (human traits
+to non-human things), hyperbole (deliberate exaggeration); (2) tone is the attitude or
+mood the words carry; (3) both shape what a reader understands and feels.** Model the
+first pair once (worked example, S-011). These are standard literary terms (S-347). The
+ethics lens: figurative language can lift people up or cut them down — a metaphor can
+wound or heal, so we choose figures with care. The egalitarian lens: figurative language
+is everywhere, in every language and every social class — it is not "fancy" writing; it
+is human thinking. The global lens: different languages make different pictures ("it's
+raining cats and dogs" is one language's picture; others say "it's raining ropes" or
+"raining pitchers") — no language's figures are more correct. The social-emotional lens:
+naming tone is naming feeling, in a text and in ourselves. Invite learners to share
+figures from their own languages as gifts.
 
 ## Procedure
 

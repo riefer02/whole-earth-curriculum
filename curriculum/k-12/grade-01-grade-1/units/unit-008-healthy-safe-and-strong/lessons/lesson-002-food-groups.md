@@ -109,19 +109,18 @@ many different foods that help our bodies. Today you will sort foods into four g
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Hold the line on no food shaming.** The
-four groups are *one way* to sort, not the only right one — different schools and
-cultures sort foods differently, and some families add a milk-foods group or group foods
-by where they come from. Honor all of it. Let learners sort by their own family's real
-foods, and celebrate differences. Do not rank any group or any food, and never tie food
-to a child's size or appetite. A food may feel at home in more than one group (beans are
-proteins, and some also think of them as a grain-like food) — that is fine; sorting is a
-tool, not a test. A learner who is blind or has low vision sorts by touch (real foods or
-textured cards); a learner who does not use a speaking voice sorts by pointing. A learner
-who is deaf or hard of hearing sorts by pointing to the labeled baskets and watching the
-demonstration from the front, since sorting here is shown with cards and baskets, not only
-told. This lesson extends Kindergarten's everyday/sometimes sorting (U.00.002,
-U.00.008) into naming food groups.
+**Hold the line on no food shaming.** The four groups are *one way* to sort, not the
+only right one — different schools and cultures sort foods differently, and some
+families add a milk-foods group or group foods by where they come from. Honor all of it.
+Let learners sort by their own family's real foods, and celebrate differences. Do not
+rank any group or any food, and never tie food to a child's size or appetite. A food may
+feel at home in more than one group (beans are proteins, and some also think of them as
+a grain-like food) — that is fine; sorting is a tool, not a test. A learner who is blind
+or has low vision sorts by touch (real foods or textured cards); a learner who does not
+use a speaking voice sorts by pointing. A learner who is deaf or hard of hearing sorts
+by pointing to the labeled baskets and watching the demonstration from the front, since
+sorting here is shown with cards and baskets, not only told. This lesson extends
+Kindergarten's everyday/sometimes sorting (U.00.002, U.00.008) into naming food groups.
 
 ## Procedure
 

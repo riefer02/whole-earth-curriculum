@@ -121,22 +121,21 @@ tasks fairly, with every voice heard.
 
 ## Facilitator note
 
-Written to the learner ("you"). This lesson teaches **fair task division and listening**
-— the planning half of the shared-project standard. Model the move first as a worked
-example: name a project, list its tasks, and show how to offer tasks and hear each
-person ("What would you like to do? What can you do well?") before writing a name by
-each task. The core fairness test is **listening**: every person is asked, every voice
-counts, and the load is shared — not the quickest or loudest person deciding. Keep
-projects small and blame-free; the goal is the *process*, not a perfect product.
-Emphasize that fair does not mean "everyone does exactly the same amount" — it means
-each person contributes in a way that fits them, and no one is left out or overloaded.
-A learner who does not speak aloud points to a task or passes the stone to signal
-their turn is done; a learner who is deaf or hard of hearing follows the plan through
-the sheet and sign; a learner who is blind or low-vision hears the task list read and
-chooses aloud; a learner with a motor difference can be the scribe's director or the
-checker. A learner may always pass or take a small, quiet task. The aim is a group
-that can say, in its own way, "we planned this together, every voice was heard, and
-the tasks are fairly shared."
+This lesson teaches **fair task division and listening** — the planning half of the
+shared-project standard. Model the move first as a worked example: name a project, list
+its tasks, and show how to offer tasks and hear each person ("What would you like to do?
+What can you do well?") before writing a name by each task. The core fairness test is
+**listening**: every person is asked, every voice counts, and the load is shared — not
+the quickest or loudest person deciding. Keep projects small and blame-free; the goal is
+the *process*, not a perfect product. Emphasize that fair does not mean "everyone does
+exactly the same amount" — it means each person contributes in a way that fits them, and
+no one is left out or overloaded. A learner who does not speak aloud points to a task or
+passes the stone to signal their turn is done; a learner who is deaf or hard of hearing
+follows the plan through the sheet and sign; a learner who is blind or low-vision hears
+the task list read and chooses aloud; a learner with a motor difference can be the
+scribe's director or the checker. A learner may always pass or take a small, quiet task.
+The aim is a group that can say, in its own way, "we planned this together, every voice
+was heard, and the tasks are fairly shared."
 
 ## Procedure
 

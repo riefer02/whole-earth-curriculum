@@ -112,19 +112,18 @@ Naming *why* a rule is fair or unfair is the first step toward making things fai
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **The skill is reasoning about
-fairness, not moralizing about the learners.** Keep examples blame-free and end with
-repair: an unfair rule is something we can notice and change together — the unfairness
-is in the rule, never in a child. **The "why" is the point:** fair means everyone gets
-the same chance and there is a good reason; unfair means someone is left out for no
-good reason. (This is a values commitment, held as such — not a factual claim.) Honor
-every body: a learner who does not use a speaking voice points to the fair/unfair
-spots or acts the rule; a learner who is blind or has low vision hears each rule
-stated clearly and describes why aloud. **Never require a learner to share a real
-unfairness from their own life** — the given cards and stories are enough. Note the
-gentle bridge to the wider world: the same noticing of fair and unfair, applied to
-communities and peoples, is how fairness in the big human story begins to be studied
-in later grades.
+**The skill is reasoning about fairness, not moralizing about the learners.** Keep
+examples blame-free and end with repair: an unfair rule is something we can notice and
+change together — the unfairness is in the rule, never in a child. **The "why" is the
+point:** fair means everyone gets the same chance and there is a good reason; unfair
+means someone is left out for no good reason. (This is a values commitment, held as
+such — not a factual claim.) Honor every body: a learner who does not use a speaking
+voice points to the fair/unfair spots or acts the rule; a learner who is blind or has
+low vision hears each rule stated clearly and describes why aloud. **Never require a
+learner to share a real unfairness from their own life** — the given cards and stories
+are enough. Note the gentle bridge to the wider world: the same noticing of fair and
+unfair, applied to communities and peoples, is how fairness in the big human story
+begins to be studied in later grades.
 
 ## Procedure
 

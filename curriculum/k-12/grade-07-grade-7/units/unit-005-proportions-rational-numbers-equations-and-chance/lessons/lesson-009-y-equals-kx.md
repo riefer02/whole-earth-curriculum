@@ -113,20 +113,21 @@ every culture where quantity is measured.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) a proportional relationship
-can be written **y = kx**, where **k** is the **constant of proportionality** (the unit rate); (2)
-*k* is found by dividing any *y* by its *x* (k = y/x); and (3) once you have y = kx you can
-**predict** a new value by multiplying. Because writing y = kx is a foundational skill, use explicit
-instruction, worked examples, and guided practice before independent work (Kirschner, Sweller &
-Clark, 2006). Watch for the slips of putting k on the wrong side (writing x = ky) and of computing
-k as x/y instead of y/x. Retrieval: ask learners to recall Lesson 8's tests — y = kx is the
-*equation* form of the same relationship; its graph is a straight line through the origin with
-steepness k. The technology lens: with a calculator or graphing tool, changing k and watching the
-line steepen is a quick way to *feel* the rate. The egalitarian lens (`docs/philosophy.md` §4):
-writing a rule as y = kx lets anyone predict fairly and check a claim — the equation is a compact,
-portable truth, not a secret. The global lens: expressing a relationship as a single equation
-generalizes the proportional "per one" thinking recorded across traditions (e.g., the Rhind
-Papyrus's unit divisions) into one modern, universal form.
+The ideas to land: (1) a proportional relationship can be written **y = kx**, where
+**k** is the **constant of proportionality** (the unit rate); (2) *k* is found by
+dividing any *y* by its *x* (k = y/x); and (3) once you have y = kx you can **predict**
+a new value by multiplying. Because writing y = kx is a foundational skill, use explicit
+instruction, worked examples, and guided practice before independent work (Kirschner,
+Sweller & Clark, 2006). Watch for the slips of putting k on the wrong side (writing x =
+ky) and of computing k as x/y instead of y/x. Retrieval: ask learners to recall Lesson
+8's tests — y = kx is the *equation* form of the same relationship; its graph is a
+straight line through the origin with steepness k. The technology lens: with a
+calculator or graphing tool, changing k and watching the line steepen is a quick way to
+*feel* the rate. The egalitarian lens (`docs/philosophy.md` §4): writing a rule as y =
+kx lets anyone predict fairly and check a claim — the equation is a compact, portable
+truth, not a secret. The global lens: expressing a relationship as a single equation
+generalizes the proportional "per one" thinking recorded across traditions (e.g., the
+Rhind Papyrus's unit divisions) into one modern, universal form.
 
 ## Procedure
 

@@ -127,28 +127,29 @@ practice.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the habits of an engaged
-citizen are concrete skills — research an issue honestly (check sources), build a coalition across
-difference (people agree on one shared thing, not on everything), and listen across disagreement
-(hear the other side's real reasons). Coalitions are built by listening, not by sameness.** Teach
-the source-check explicitly (S-011); the Chipko case is the worked example (S-328). Do not turn
-the case into a script every learner must copy; it is one real instance of a worldwide pattern
-(also suffrage coalitions S-327, the Salt March S-390).
+The idea to land: **the habits of an engaged citizen are concrete skills — research an
+issue honestly (check sources), build a coalition across difference (people agree on one
+shared thing, not on everything), and listen across disagreement (hear the other side's
+real reasons). Coalitions are built by listening, not by sameness.** Teach the
+source-check explicitly (S-011); the Chipko case is the worked example (S-328). Do not
+turn the case into a script every learner must copy; it is one real instance of a
+worldwide pattern (also suffrage coalitions S-327, the Salt March S-390).
 
-The **ethics** lens: research and listening are ethical acts — an engaged citizen owes others the
-accuracy of checking a claim and the respect of hearing their reasons before answering. The
-**egalitarianism** lens: coalitions work only when they are not built on sameness of power — the
-Chipko movement drew its strength from women and villagers who had been left out of decisions
-about their own forests; a coalition that centers the least heard is the one that holds (S-328).
-The **global** lens: the pattern recurs worldwide — people who differ on much joining on one
-shared thing (suffrage coalitions, S-327; the Salt March, S-390) — and each coalition is weighed
-in its own terms, not flattened into one template. The **technology** lens: research today is
-shaped by tools — search, feeds, and social platforms can surface one side and bury the other, so
-a source-check (who is speaking, who benefits, what does a second source say) is now a basic civic
-skill (S-278, S-217, S-481). The **environment** lens: the Chipko case is an environmental
-justice case — the forest was a commons the community depended on, and its defense was also
-defense of a shared, life-giving place (S-328, S-416). Preview: Lesson 10 turns the habits into a
-designed collective action.
+The **ethics** lens: research and listening are ethical acts — an engaged citizen owes
+others the accuracy of checking a claim and the respect of hearing their reasons before
+answering. The **egalitarianism** lens: coalitions work only when they are not built on
+sameness of power — the Chipko movement drew its strength from women and villagers who
+had been left out of decisions about their own forests; a coalition that centers the
+least heard is the one that holds (S-328). The **global** lens: the pattern recurs
+worldwide — people who differ on much joining on one shared thing (suffrage coalitions,
+S-327; the Salt March, S-390) — and each coalition is weighed in its own terms, not
+flattened into one template. The **technology** lens: research today is shaped by
+tools — search, feeds, and social platforms can surface one side and bury the other, so
+a source-check (who is speaking, who benefits, what does a second source say) is now a
+basic civic skill (S-278, S-217, S-481). The **environment** lens: the Chipko case is an
+environmental justice case — the forest was a commons the community depended on, and its
+defense was also defense of a shared, life-giving place (S-328, S-416). Preview: Lesson
+10 turns the habits into a designed collective action.
 
 ## Procedure
 

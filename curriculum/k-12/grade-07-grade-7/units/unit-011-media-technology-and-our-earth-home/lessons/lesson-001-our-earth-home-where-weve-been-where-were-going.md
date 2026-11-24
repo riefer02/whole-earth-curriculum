@@ -125,18 +125,18 @@ change the living Earth, and how we care for it — alone and together.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) this unit has four
-strands — Technology & Society, Media & Information, Ecology & Earth Systems, and Stewardship &
-Action — and they all meet in one shared "Earth home"; (2) we are building on Grade 6, not
-starting over; (3) wondering is the engine — learners begin by asking, not by being told.**
-Retrieval practice here is deliberate (spaced recall of last year's ideas — see Dunlosky et al.
-2013, S-039); do not skip it. The ethics lens: stewardship is a question of what is right toward
-people now and in the future. The egalitarian lens: ask early "who is included and who is left
-out" — it will return every lesson. The global lens: the Earth home is one place seen from many
-peoples and places; keep the frame broad, never one region's default. The technology &
-environment lens: these two strands are the unit's heart — tools change the living Earth, and the
-living Earth is what all tools depend on. Hold every wonder as valid; the goal is the asking, not
-the answer.
+The ideas to land: **(1) this unit has four strands — Technology & Society, Media &
+Information, Ecology & Earth Systems, and Stewardship & Action — and they all meet in
+one shared "Earth home"; (2) we are building on Grade 6, not starting over; (3)
+wondering is the engine — learners begin by asking, not by being told.** Retrieval
+practice here is deliberate (spaced recall of last year's ideas — see Dunlosky et al.
+2013, S-039); do not skip it. The ethics lens: stewardship is a question of what is
+right toward people now and in the future. The egalitarian lens: ask early "who is
+included and who is left out" — it will return every lesson. The global lens: the Earth
+home is one place seen from many peoples and places; keep the frame broad, never one
+region's default. The technology & environment lens: these two strands are the unit's
+heart — tools change the living Earth, and the living Earth is what all tools depend on.
+Hold every wonder as valid; the goal is the asking, not the answer.
 
 ## Procedure
 

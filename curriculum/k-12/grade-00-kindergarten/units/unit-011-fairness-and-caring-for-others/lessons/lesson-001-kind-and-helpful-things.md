@@ -99,12 +99,10 @@ carrying something heavy for a neighbor, watering a plant, or comforting a frien
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Kindness here is framed as *mutual* — it is good for the
-person helped *and* for the person helping — not as obedience or earning praise.
-Avoid labeling children "good" or "bad"; describe the *act* ("that was kind") rather
-than the child ("you are kind"). Accept every learner's example; there is no single
-right kind act.
+Kindness here is framed as *mutual* — it is good for the person helped *and* for the
+person helping — not as obedience or earning praise. Avoid labeling children "good" or
+"bad"; describe the *act* ("that was kind") rather than the child ("you are kind").
+Accept every learner's example; there is no single right kind act.
 
 ## Procedure
 

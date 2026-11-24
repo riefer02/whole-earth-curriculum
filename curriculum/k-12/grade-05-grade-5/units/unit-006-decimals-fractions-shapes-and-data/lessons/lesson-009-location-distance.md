@@ -114,15 +114,15 @@ or a hiker uses to figure out how far apart two spots are.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) **same y-coordinate** →
-the two points sit on a horizontal line, so the distance is the difference in x (|4 − 1| = 3);
-(2) **same x-coordinate** → the points sit on a vertical line, so the distance is the
-difference in y (|5 − 1| = 4). Emphasize counting units along the grid line and connecting it
-back to subtraction. Model a worked example first, then guide a second (Kirschner, Sweller &
-Clark, 2006). Common slip: mixing up x and y, or counting the spaces wrong (count the gaps, not
-the points). Retrieval: ask learners to recall "across first, then up" from Lesson 7 and reuse
-it. Coordinates are evidence; the habit of measuring distance honestly (not guessing) is a
-critical-thinking value (`docs/philosophy.md` §7).
+The ideas to land: (1) **same y-coordinate** → the two points sit on a horizontal line,
+so the distance is the difference in x (|4 − 1| = 3); (2) **same x-coordinate** → the
+points sit on a vertical line, so the distance is the difference in y (|5 − 1| = 4).
+Emphasize counting units along the grid line and connecting it back to subtraction.
+Model a worked example first, then guide a second (Kirschner, Sweller & Clark, 2006).
+Common slip: mixing up x and y, or counting the spaces wrong (count the gaps, not the
+points). Retrieval: ask learners to recall "across first, then up" from Lesson 7 and
+reuse it. Coordinates are evidence; the habit of measuring distance honestly (not
+guessing) is a critical-thinking value (`docs/philosophy.md` §7).
 
 ## Procedure
 

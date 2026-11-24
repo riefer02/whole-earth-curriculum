@@ -117,19 +117,19 @@ does this.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It spirals up from Grade 2's "welcoming
-circle," now into **the *why* of fairness**: a routine is fair when it serves everyone,
-not just the fast or the loud. The egalitarian commitment is firm: **a fair routine
-includes the ones who are easy to miss** — a learner who moves slowly, who uses a
-wheelchair, who is shy, who does not speak the room's main language. Test each routine
-against that question: *does this work for everyone, or only for some?* Be tender: some
-learners have seen routines used unfairly against them (a rule that favors some over
-others). Honor that honestly and turn it into agency — "what would make it fair for
-everyone?" A rule is not sacred; a community can change a rule that is not fair. For a
-learner who is blind or has low vision, act the scenes out so the difference is felt —
-crowding bodies versus a patient line — and describe it aloud. For a learner who does
-not use a speaking voice, accept pointing, signing, drawing, or acting out a turn. The
-line between "order" and "fairness" is the lesson's heart.
+It spirals up from Grade 2's "welcoming circle," now into **the *why* of fairness**: a
+routine is fair when it serves everyone, not just the fast or the loud. The egalitarian
+commitment is firm: **a fair routine includes the ones who are easy to miss** — a
+learner who moves slowly, who uses a wheelchair, who is shy, who does not speak the
+room's main language. Test each routine against that question: *does this work for
+everyone, or only for some?* Be tender: some learners have seen routines used unfairly
+against them (a rule that favors some over others). Honor that honestly and turn it into
+agency — "what would make it fair for everyone?" A rule is not sacred; a community can
+change a rule that is not fair. For a learner who is blind or has low vision, act the
+scenes out so the difference is felt — crowding bodies versus a patient line — and
+describe it aloud. For a learner who does not use a speaking voice, accept pointing,
+signing, drawing, or acting out a turn. The line between "order" and "fairness" is the
+lesson's heart.
 
 ## Procedure
 

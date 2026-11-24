@@ -110,12 +110,12 @@ it, and no one can take it away from you. It is help, never a punishment.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Frame calming as help, never as
-discipline — never send a learner to calm down as a punishment. Model both strategies
-with your own body first, then guide practice, then let each learner *choose* — the
-choice is the point of this objective. Some bodies calm with movement rather than
-stillness; if the two stillness strategies do not fit a learner, offer a movement
-option (slow sway, gentle stretch) as an equally good choice. The choice is theirs.
+Frame calming as help, never as discipline — never send a learner to calm down as a
+punishment. Model both strategies with your own body first, then guide practice, then
+let each learner *choose* — the choice is the point of this objective. Some bodies calm
+with movement rather than stillness; if the two stillness strategies do not fit a
+learner, offer a movement option (slow sway, gentle stretch) as an equally good choice.
+The choice is theirs.
 
 ## Procedure
 

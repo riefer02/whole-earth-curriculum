@@ -117,14 +117,14 @@ your thinking.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill here is not just sorting — it is
-**explaining the rule** ("I grouped them by shape"), which is where thinking becomes
-visible. Model once aloud (worked example), then guide, then release. Honor that there is
-no single "right" way: the same leaf could go with "green things" or with "long things,"
-and both are good — what matters is that the learner can say the rule. Include objects
-and living things from many places (desert, sea, forest, mountain) so sorting carries a
-global lens. Sorting by "where it lives" quietly previews habitats, which arrive in
-Lesson 5 — this is intentional spacing.
+The skill here is not just sorting — it is **explaining the rule** ("I grouped them by
+shape"), which is where thinking becomes visible. Model once aloud (worked example),
+then guide, then release. Honor that there is no single "right" way: the same leaf could
+go with "green things" or with "long things," and both are good — what matters is that
+the learner can say the rule. Include objects and living things from many places
+(desert, sea, forest, mountain) so sorting carries a global lens. Sorting by "where it
+lives" quietly previews habitats, which arrive in Lesson 5 — this is intentional
+spacing.
 
 ## Procedure
 

@@ -116,19 +116,19 @@ farm, or anywhere people dream.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **the future self is open,
-not fixed — and the learner is its author, not its audience.** This builds directly on Lesson
-5's "identity changes" to reach the objective's second half ("predict ways it may keep
-growing"). Frame prediction as *direction* (values and skills to grow toward), never as a
-single destiny that would pressure or narrow a learner — a learner's possible selves are many,
-and none is a verdict. The growth-mindset framing (Dweck, 2006) is real but should be held
-honestly: the research shows modest effects, and effort alone is not a guarantee, so do not
-teach "you can be anything if you just try" as a promise. Say instead: **your self can keep
-growing, and what you practice shapes the direction of that growth.** Model the growing-arrow
-as a worked example (Kirschner, Sweller & Clark, 2006). Distinguish **evidence from values**:
-that identity can keep developing is observable; that every learner's open future deserves to
-be honored equally is a value this curriculum holds — name it as one. See `docs/facilitation.md`
-and `docs/art-style.md`.
+The idea to land: **the future self is open, not fixed — and the learner is its author,
+not its audience.** This builds directly on Lesson 5's "identity changes" to reach the
+objective's second half ("predict ways it may keep growing"). Frame prediction as
+*direction* (values and skills to grow toward), never as a single destiny that would
+pressure or narrow a learner — a learner's possible selves are many, and none is a
+verdict. The growth-mindset framing (Dweck, 2006) is real but should be held honestly:
+the research shows modest effects, and effort alone is not a guarantee, so do not teach
+"you can be anything if you just try" as a promise. Say instead: **your self can keep
+growing, and what you practice shapes the direction of that growth.** Model the
+growing-arrow as a worked example (Kirschner, Sweller & Clark, 2006). Distinguish
+**evidence from values**: that identity can keep developing is observable; that every
+learner's open future deserves to be honored equally is a value this curriculum holds —
+name it as one. See `docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure
 

@@ -103,15 +103,13 @@ what lets the ideas come out. You can always fix it later; first, get it down.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Drafting is a taught step in the writing process: model turning
-one plan branch into a paragraph, thinking aloud about how one idea becomes one
-paragraph (Kirschner, Sweller & Clark, 2006). Emphasize that the draft is a "sloppy
-copy" — do not correct spelling now; that belongs to editing. This keeps the focus on
-ideas and protects fluency. One idea per paragraph is the organizing rule. Honor drafts
-in the learner's home language and writing system, and honor drafting by dictation,
-braille, or assistive technology. Every draft is a step, never a verdict — the goal is
-ideas on the page, not perfection.
+Drafting is a taught step in the writing process: model turning one plan branch into a
+paragraph, thinking aloud about how one idea becomes one paragraph (Kirschner, Sweller &
+Clark, 2006). Emphasize that the draft is a "sloppy copy" — do not correct spelling now;
+that belongs to editing. This keeps the focus on ideas and protects fluency. One idea
+per paragraph is the organizing rule. Honor drafts in the learner's home language and
+writing system, and honor drafting by dictation, braille, or assistive technology. Every
+draft is a step, never a verdict — the goal is ideas on the page, not perfection.
 
 ## Procedure
 

@@ -113,16 +113,16 @@ world.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: (1) "a fraction of a group"
-means multiply — 1/4 of 12 = 12 ÷ 4 = 3; (2) **fraction × fraction** uses an **area model**
-where the product is the overlapping region (1/2 × 1/3 = 1/6); and (3) **decimal × whole
-number** works like whole-number multiplication, then place the decimal point in the product.
-Model each as a **worked example**, then guide a second together (Kirschner, Sweller & Clark,
-2006). Common slips: adding instead of multiplying, and misplacing the decimal point (0.5 × 6 =
-30 instead of 3). Retrieval: ask learners to recall the last two lessons' fraction and decimal
-skills and reuse them to check answers. Multiplication here is evidence; the habit of scaling
-fairly (so a doubled recipe feeds everyone equally) is a fairness value (`docs/philosophy.md`
-§4).
+The ideas to land: (1) "a fraction of a group" means multiply — 1/4 of 12 = 12 ÷ 4 = 3;
+(2) **fraction × fraction** uses an **area model** where the product is the overlapping
+region (1/2 × 1/3 = 1/6); and (3) **decimal × whole number** works like whole-number
+multiplication, then place the decimal point in the product. Model each as a **worked
+example**, then guide a second together (Kirschner, Sweller & Clark, 2006). Common
+slips: adding instead of multiplying, and misplacing the decimal point (0.5 × 6 = 30
+instead of 3). Retrieval: ask learners to recall the last two lessons' fraction and
+decimal skills and reuse them to check answers. Multiplication here is evidence; the
+habit of scaling fairly (so a doubled recipe feeds everyone equally) is a fairness value
+(`docs/philosophy.md` §4).
 
 ## Procedure
 

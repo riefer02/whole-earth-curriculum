@@ -111,21 +111,20 @@ water matters and practice listening to your own thirst.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Water is a human need and a question of
-justice, not a personal failing.** Teach why water matters and how to answer thirst,
-then hold the global truth gently: many people do not have clean water to drink, and that
-is a fairness problem we can work on — not something to make any learner feel ashamed of
-their own home. Never shame a learner for being thirsty or for having little water at
-home. How much water a body needs varies with weather, activity, and the person, so
-"drink when thirsty" is the rule, not a fixed amount. A learner who cannot drink on their
-own is helped without comment; a learner who does not use a speaking voice signs or
-points "drink" and shows thirst. A learner who is blind or has low vision feels the
-cup and the water's coolness and hears thirst named by body signs — a dry mouth, a warm
-tired feeling — so the idea lives in the body, not only in the chart. A learner who is
-deaf or hard of hearing follows the chart and demonstrations from the front, since every
-idea is shown in pictures. The
-health facts are from the World Health Organization: water is essential to life, and
-safe drinking-water keeps bodies well. This lesson begins the unit's D03.S3.02.02 water
+**Water is a human need and a question of justice, not a personal failing.** Teach why
+water matters and how to answer thirst, then hold the global truth gently: many people
+do not have clean water to drink, and that is a fairness problem we can work on — not
+something to make any learner feel ashamed of their own home. Never shame a learner for
+being thirsty or for having little water at home. How much water a body needs varies
+with weather, activity, and the person, so "drink when thirsty" is the rule, not a fixed
+amount. A learner who cannot drink on their own is helped without comment; a learner who
+does not use a speaking voice signs or points "drink" and shows thirst. A learner who is
+blind or has low vision feels the cup and the water's coolness and hears thirst named by
+body signs — a dry mouth, a warm tired feeling — so the idea lives in the body, not only
+in the chart. A learner who is deaf or hard of hearing follows the chart and
+demonstrations from the front, since every idea is shown in pictures. The health facts
+are from the World Health Organization: water is essential to life, and safe
+drinking-water keeps bodies well. This lesson begins the unit's D03.S3.02.02 water
 objective and links forward to handwashing, which also needs clean water.
 
 ## Procedure

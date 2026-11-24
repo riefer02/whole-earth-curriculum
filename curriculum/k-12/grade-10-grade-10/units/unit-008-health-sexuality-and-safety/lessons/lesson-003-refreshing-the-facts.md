@@ -112,31 +112,28 @@ particular position, not a first time, not a lucky day — changes that basic fa
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **Land the accurate, non-shaming
-facts:** a pregnancy can begin only when a **sperm** meets an **egg (ovum)** and the
-fertilized egg **implants** in the **uterus**. The egg is released around
-**ovulation**, roughly mid-cycle for people who ovulate; sperm can survive in the
-body for several days. Use correct anatomical terms plainly and without giggling or
-shame — the body is taught with dignity. This is a *review* of Grade 9 anatomy, not a
-new graphic deep-dive; keep it simple and correct. Keep it inclusive too: pregnancy
-can begin only this way, but sexual intimacy is broader than egg-meets-sperm, and
-the consent and infection-prevention skills this unit teaches apply to every kind of
+**Land the accurate, non-shaming facts:** a pregnancy can begin only when a **sperm**
+meets an **egg (ovum)** and the fertilized egg **implants** in the **uterus**. The egg
+is released around **ovulation**, roughly mid-cycle for people who ovulate; sperm can
+survive in the body for several days. Use correct anatomical terms plainly and without
+giggling or shame — the body is taught with dignity. This is a *review* of Grade 9
+anatomy, not a new graphic deep-dive; keep it simple and correct. Keep it inclusive too:
+pregnancy can begin only this way, but sexual intimacy is broader than egg-meets-sperm,
+and the consent and infection-prevention skills this unit teaches apply to every kind of
 relationship — learners of any gender or sexuality are neither assumed nor ranked.
 
 **Sensitive-topic guidance:** no learner is asked to share anything personal. If a
-question suggests a learner is pregnant or unsafe, respond privately and with care —
-do not announce it, do not shame, and follow your safeguarding procedure to connect
-them with a **trusted adult or health service**. Correct rumors without ridiculing
-anyone who believed them; rumor is common because accurate education is not evenly
-available.
+question suggests a learner is pregnant or unsafe, respond privately and with care — do
+not announce it, do not shame, and follow your safeguarding procedure to connect them
+with a **trusted adult or health service**. Correct rumors without ridiculing anyone who
+believed them; rumor is common because accurate education is not evenly available.
 
 The **ethics** lens: giving people true information is a form of respect. The
-**egalitarian** lens: unequal access to accurate education is a justice problem — not
-a personal failing of the learner who heard a rumor. The **global** lens: what is
+**egalitarian** lens: unequal access to accurate education is a justice problem — not a
+personal failing of the learner who heard a rumor. The **global** lens: what is
 considered "known" or "acceptable to say" about bodies varies widely across cultures;
-accuracy is a tool everyone deserves. The **critical-thinking** lens: every claim
-about bodies should be checked against a source — the exact skill this unit sharpens
-next.
+accuracy is a tool everyone deserves. The **critical-thinking** lens: every claim about
+bodies should be checked against a source — the exact skill this unit sharpens next.
 
 ## Procedure
 

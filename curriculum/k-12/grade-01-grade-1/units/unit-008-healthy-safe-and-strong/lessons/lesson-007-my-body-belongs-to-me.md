@@ -118,8 +118,8 @@ belongs to me.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). **This is the unit's most sensitive
-lesson. Read this note fully and prepare yourself before teaching.**
+**This is the unit's most sensitive lesson. Read this note fully and prepare yourself
+before teaching.**
 
 - Keep it gentle and brief. The message is empowering — **"tell a trusted adult"** — never
   "be afraid of everyone." Do not use frightening or graphic content, and do not go

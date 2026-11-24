@@ -116,19 +116,19 @@ planted — counting how many equal squares fit. Today you measure area the same
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It introduces **area** — the new skill
-is *tiling* a rectangle with unit squares and seeing that **rows × columns** equals the
-count of squares. Teach with a **worked example** (philosophy §13): tile a 4-by-6
-rectangle, count 24 squares, then count 6 per row and 4 rows and multiply — same 24.
-The key move is connecting **covering** (tiling) to **structure** (rows × columns),
-the bridge from measurement to multiplication (Van de Walle et al., 2019). Keep it
-concrete: cover first, multiply after. **No one's speed at tiling measures their
-smartness; a child who counts every square and a child who multiplies have both found
-the area.** Area is a real human need — the word "area" came to us from the measuring
-of threshing floors and fields. Count in the home language. For learners who are Deaf
-or hard of hearing, count squares with signs and taps; for learners who are blind or
-low-vision, tile a tray with tactile squares and count by touch. Learners with limited
-movement direct a partner to place squares. Mastery arrives at its own pace.
+It introduces **area** — the new skill is *tiling* a rectangle with unit squares and
+seeing that **rows × columns** equals the count of squares. Teach with a **worked
+example** (philosophy §13): tile a 4-by-6 rectangle, count 24 squares, then count 6 per
+row and 4 rows and multiply — same 24. The key move is connecting **covering** (tiling)
+to **structure** (rows × columns), the bridge from measurement to multiplication (Van de
+Walle et al., 2019). Keep it concrete: cover first, multiply after. **No one's speed at
+tiling measures their smartness; a child who counts every square and a child who
+multiplies have both found the area.** Area is a real human need — the word "area" came
+to us from the measuring of threshing floors and fields. Count in the home language. For
+learners who are Deaf or hard of hearing, count squares with signs and taps; for
+learners who are blind or low-vision, tile a tray with tactile squares and count by
+touch. Learners with limited movement direct a partner to place squares. Mastery arrives
+at its own pace.
 
 ## Procedure
 

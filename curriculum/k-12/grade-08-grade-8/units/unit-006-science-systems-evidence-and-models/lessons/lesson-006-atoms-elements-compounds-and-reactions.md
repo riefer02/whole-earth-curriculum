@@ -109,22 +109,23 @@ see those invisible rearrangements.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) an atom is the smallest
-piece of an element — with a nucleus of protons and neutrons, and electrons around it; (2) an
-element is a substance made of one kind of atom, and elements are organized on the periodic table;
-(3) a compound is a substance made of two or more different elements chemically joined (a molecule
-is a group of atoms bonded together); (4) in a chemical reaction, atoms are *rearranged* to form new
-substances, and no atoms are created or destroyed — that is why the total count is the same before
-and after.** Worked example: **hydrogen + oxygen → water** (2 H₂ + O₂ → 2 H₂O) — model it with
-tiles, counting atoms on each side (S-359). The critical-thinking lens: "atoms are conserved" is a
-checkable fact, not a guess — the same idea as Grade 7's "matter is reused, not created new." The
-technology lens: every material we make — metals, plastics, medicines — is atoms rearranged; the
-same atoms can become a medicine or a poison depending on how they are joined. The environment
-lens: reactions like rusting, burning, and photosynthesis are atoms rearranging, and the atoms stay
-on Earth (S-253). The global lens: the same elements make up every place on Earth — the oxygen in
-the air of one country is the same element as the oxygen in another. Keep claims precise and cite
-the atoms/elements/reactions source (S-359); hold the invisible atom as a model with overwhelming
-evidence, not creed (philosophy §11).
+The ideas to land: **(1) an atom is the smallest piece of an element — with a nucleus of
+protons and neutrons, and electrons around it; (2) an element is a substance made of one
+kind of atom, and elements are organized on the periodic table; (3) a compound is a
+substance made of two or more different elements chemically joined (a molecule is a
+group of atoms bonded together); (4) in a chemical reaction, atoms are *rearranged* to
+form new substances, and no atoms are created or destroyed — that is why the total count
+is the same before and after.** Worked example: **hydrogen + oxygen → water** (2 H₂ + O₂
+→ 2 H₂O) — model it with tiles, counting atoms on each side (S-359). The
+critical-thinking lens: "atoms are conserved" is a checkable fact, not a guess — the
+same idea as Grade 7's "matter is reused, not created new." The technology lens: every
+material we make — metals, plastics, medicines — is atoms rearranged; the same atoms can
+become a medicine or a poison depending on how they are joined. The environment lens:
+reactions like rusting, burning, and photosynthesis are atoms rearranging, and the atoms
+stay on Earth (S-253). The global lens: the same elements make up every place on Earth —
+the oxygen in the air of one country is the same element as the oxygen in another. Keep
+claims precise and cite the atoms/elements/reactions source (S-359); hold the invisible
+atom as a model with overwhelming evidence, not creed (philosophy §11).
 
 ## Procedure
 

@@ -120,25 +120,26 @@ to see it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a food system is a chain of
-stages — production, processing, distribution, retail, consumption, waste — and each stage
-touches people and the Earth, so each stage is a place where health and dignity can be helped
-or harmed.** Teach the trace-the-chain worked example explicitly, then let learners trace a
-food of their own (S-011). Keep the frame descriptive and hopeful: we name harm in order to
-find the place to act, never to despair.
+The idea to land: **a food system is a chain of stages — production, processing,
+distribution, retail, consumption, waste — and each stage touches people and the Earth,
+so each stage is a place where health and dignity can be helped or harmed.** Teach the
+trace-the-chain worked example explicitly, then let learners trace a food of their own
+(S-011). Keep the frame descriptive and hopeful: we name harm in order to find the place
+to act, never to despair.
 
 The **ethics** lens: mapping a system means noticing who is affected at each stage — the
-worker who is underpaid, the community whose water is used, the eater who cannot afford the
-result. The **egalitarianism** lens: food security has four pillars — availability, access,
-utilization, and stability — and "access" is where inequality bites: enough food can exist in
-a region while some people still go hungry (S-409). The **global** lens: the same food moves
-through very different systems in different places — a smallholder's field, a vast
-export plantation, a neighborhood garden — and no one system is "the" system. The
-**technology** lens: refrigeration, roads, and processing lengthened the chain and lowered
-some prices while concentrating power in a few links; technology is a lever whose direction we
-choose. The **environment** lens: the chain ends in waste — about a fifth of food available to
-consumers is wasted, carrying the land, water, and energy that made it (S-410). Preview:
-Lesson 5 turns this map into a proposal for change.
+worker who is underpaid, the community whose water is used, the eater who cannot afford
+the result. The **egalitarianism** lens: food security has four pillars — availability,
+access, utilization, and stability — and "access" is where inequality bites: enough food
+can exist in a region while some people still go hungry (S-409). The **global** lens:
+the same food moves through very different systems in different places — a smallholder's
+field, a vast export plantation, a neighborhood garden — and no one system is "the"
+system. The **technology** lens: refrigeration, roads, and processing lengthened the
+chain and lowered some prices while concentrating power in a few links; technology is a
+lever whose direction we choose. The **environment** lens: the chain ends in waste —
+about a fifth of food available to consumers is wasted, carrying the land, water, and
+energy that made it (S-410). Preview: Lesson 5 turns this map into a proposal for
+change.
 
 ## Procedure
 

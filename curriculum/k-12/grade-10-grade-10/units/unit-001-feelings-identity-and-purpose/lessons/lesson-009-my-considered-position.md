@@ -117,18 +117,17 @@ authors know how to revise. What matters is that it is *yours*.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a considered position
-on what defines me is built from what is mine — my values, my story, my choices — is
-supported by evidence from my own life, and is held as revisable, not final.** The
-three-pillar frame is a teaching structure, not a psychological law; it gathers the
-unit's threads (values, narrative identity, agency) into one writable artifact. Narrative
-identity (S-404) and the exploratory, non-final nature of identity formation (S-403) are
-the descriptive anchors; "you are the author, and you may revise" is the value
-commitment (philosophy §6, §8, §11).
+The idea to land: **a considered position on what defines me is built from what is
+mine — my values, my story, my choices — is supported by evidence from my own life, and
+is held as revisable, not final.** The three-pillar frame is a teaching structure, not a
+psychological law; it gathers the unit's threads (values, narrative identity, agency)
+into one writable artifact. Narrative identity (S-404) and the exploratory, non-final
+nature of identity formation (S-403) are the descriptive anchors; "you are the author,
+and you may revise" is the value commitment (philosophy §6, §8, §11).
 
-Model a complete worked example, then let learners practice (S-011). The **ethics** lens:
-a considered position is honest — it names real evidence, including the parts still
-undecided, and does not claim a certainty the learner does not yet have. The
+Model a complete worked example, then let learners practice (S-011). The **ethics**
+lens: a considered position is honest — it names real evidence, including the parts
+still undecided, and does not claim a certainty the learner does not yet have. The
 **egalitarian** lens: every learner's position is worth writing and hearing; there is no
 "best" way to be a person, and no position outranks another. The **global** lens: the
 shape of a self is drawn differently in different cultures (recall Lesson 7) — a

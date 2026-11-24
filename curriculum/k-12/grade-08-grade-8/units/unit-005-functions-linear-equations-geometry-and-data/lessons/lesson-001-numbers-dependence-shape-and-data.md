@@ -125,18 +125,18 @@ strength.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) mathematics is four habits
-that grow together — number, relationship, shape, and data; (2) Grade 7 already built the
-foundation (rational numbers, y = kx, circles and π, scale drawings, sampling, probability); (3)
-Grade 8 extends each one — numbers beyond the rational and scientific notation, functions and
-linear equations and systems, transformations and the Pythagorean theorem, and scatter plots with
-lines of fit.** This is a **recall-and-preview**, not a test — celebrate what learners can already
-name, never rank them. The global lens: mathematics has grown in many lands (numerals from India
-through the Arab world, π approximated in Egypt, China, and Greece — S-023, S-291); hold those
-traditions side by side (philosophy §11). The egalitarian lens: mathematics is sense-making open to
-everyone, not a gate (S-009, S-008). The technology lens: tools (calculator, graphing tool) speed
-the work but do not replace the sense-making. Keep the map: learners will return to it at the
-capstone.
+The ideas to land: **(1) mathematics is four habits that grow together — number,
+relationship, shape, and data; (2) Grade 7 already built the foundation (rational
+numbers, y = kx, circles and π, scale drawings, sampling, probability); (3) Grade 8
+extends each one — numbers beyond the rational and scientific notation, functions and
+linear equations and systems, transformations and the Pythagorean theorem, and scatter
+plots with lines of fit.** This is a **recall-and-preview**, not a test — celebrate what
+learners can already name, never rank them. The global lens: mathematics has grown in
+many lands (numerals from India through the Arab world, π approximated in Egypt, China,
+and Greece — S-023, S-291); hold those traditions side by side (philosophy §11). The
+egalitarian lens: mathematics is sense-making open to everyone, not a gate (S-009,
+S-008). The technology lens: tools (calculator, graphing tool) speed the work but do not
+replace the sense-making. Keep the map: learners will return to it at the capstone.
 
 ## Procedure
 

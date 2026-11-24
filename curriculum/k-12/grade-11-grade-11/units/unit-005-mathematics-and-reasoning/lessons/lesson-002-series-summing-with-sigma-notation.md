@@ -112,21 +112,19 @@ up every term from here to here."
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **sigma notation
-Σ sums a general term from a start index to an end index; an arithmetic series sums
-to Sₙ = n/2·(a₁ + aₙ) (first-plus-last pairing); a finite geometric series sums to
-Sₙ = a₁·(1 − rⁿ)/(1 − r).** Teach the pairing as a concrete move first — fold the
-list in half — then compress it into the formula (S-011).
+The ideas to land: **sigma notation Σ sums a general term from a start index to an end
+index; an arithmetic series sums to Sₙ = n/2·(a₁ + aₙ) (first-plus-last pairing); a
+finite geometric series sums to Sₙ = a₁·(1 − rⁿ)/(1 − r).** Teach the pairing as a
+concrete move first — fold the list in half — then compress it into the formula (S-011).
 
 The **intellectual** lens: a series compresses a long addition into one formula; the
-sigma symbol says "sum this rule." The **critical-thinking** lens: learners check
-every closed formula against adding a few terms directly. The **global** lens: the
-first-plus-last pairing is a discovery credited to several traditions, not one
-person alone (S-429, S-240) — treat it as shared mathematics. The **egalitarianism**
-lens: the same sum that counts a king's treasury can count a village's shared
-harvest; the tool serves everyone equally, and "mastery, not ranking" applies here
-too. Preview: Lessons 3–4 apply these sums to compound interest/debt and to
-environmental accumulation.
+sigma symbol says "sum this rule." The **critical-thinking** lens: learners check every
+closed formula against adding a few terms directly. The **global** lens: the
+first-plus-last pairing is a discovery credited to several traditions, not one person
+alone (S-429, S-240) — treat it as shared mathematics. The **egalitarianism** lens: the
+same sum that counts a king's treasury can count a village's shared harvest; the tool
+serves everyone equally, and "mastery, not ranking" applies here too. Preview: Lessons
+3–4 apply these sums to compound interest/debt and to environmental accumulation.
 
 ## Procedure
 

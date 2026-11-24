@@ -125,24 +125,26 @@ story — and can see themselves in it. Today you build that picture.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the **closing capstone and synthesis**. The
-goal: **each learner recalls all eight goals and connects them into one web around "the human story,
-told from many perspectives."** The eight goals are: (1) evaluate competing explanations for a major
-change (the Classic Maya collapse); (2) analyze change and continuity in a long-running practice
-(trade); (3) compare two knowledge traditions (Polynesian wayfinding and Indian Ocean navigation);
-(4) analyze cultural blending (the Swahili coast); (5) analyze trade networks (Silk Roads and Indian
-Ocean routes); (6) analyze environmental migration (Ancestral Pueblo, past and present); (7) analyze
-slavery and the transatlantic slave trade and resistance; (8) explain how enslaved and colonized
-peoples kept humanity, culture, and hope. This is a **retrieval and spacing** moment — recalling
-rather than re-reading is what makes learning durable (S-039). Keep assessment **mastery, not
-ranking**: a learner who cannot yet recall a goal simply revisits that lesson's artifact and tries
-again — "not yet" is information, never a verdict. The four lenses, together: the **critical-thinking**
-lens asks what evidence supports each claim; the **ethics** lens asks what is right and who is
-affected; the **egalitarian** lens asks who benefits and who is left out; the **global** lens asks
-how this looks in many places and times; the **environment** lens asks what the living Earth has to
-do with it. History is told as a global story from many perspectives, never one people's triumph
-(philosophy §11). Celebrate the collective: each learner's map is a thread in one class web — the
-human story itself.
+It is the **closing capstone and synthesis**. The goal: **each learner recalls all eight
+goals and connects them into one web around "the human story, told from many
+perspectives."** The eight goals are: (1) evaluate competing explanations for a major
+change (the Classic Maya collapse); (2) analyze change and continuity in a long-running
+practice (trade); (3) compare two knowledge traditions (Polynesian wayfinding and Indian
+Ocean navigation); (4) analyze cultural blending (the Swahili coast); (5) analyze trade
+networks (Silk Roads and Indian Ocean routes); (6) analyze environmental migration
+(Ancestral Pueblo, past and present); (7) analyze slavery and the transatlantic slave
+trade and resistance; (8) explain how enslaved and colonized peoples kept humanity,
+culture, and hope. This is a **retrieval and spacing** moment — recalling rather than
+re-reading is what makes learning durable (S-039). Keep assessment **mastery, not
+ranking**: a learner who cannot yet recall a goal simply revisits that lesson's artifact
+and tries again — "not yet" is information, never a verdict. The four lenses, together:
+the **critical-thinking** lens asks what evidence supports each claim; the **ethics**
+lens asks what is right and who is affected; the **egalitarian** lens asks who benefits
+and who is left out; the **global** lens asks how this looks in many places and times;
+the **environment** lens asks what the living Earth has to do with it. History is told
+as a global story from many perspectives, never one people's triumph (philosophy §11).
+Celebrate the collective: each learner's map is a thread in one class web — the human
+story itself.
 
 ## Procedure
 

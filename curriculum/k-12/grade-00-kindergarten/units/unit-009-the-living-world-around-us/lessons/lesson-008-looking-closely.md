@@ -107,11 +107,11 @@ good questions are born.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, keep the looking slow
-and unhurried — a full minute feels long at age five, so count together or watch a
-timer. "Looking" here means noticing with whatever senses a learner has: eyes, fingers,
-nose, ears. If the object is a living thing (an insect, a flower still attached), teach
-gentleness: look with eyes, touch softly, and return it where it was found.
+As facilitator, keep the looking slow and unhurried — a full minute feels long at age
+five, so count together or watch a timer. "Looking" here means noticing with whatever
+senses a learner has: eyes, fingers, nose, ears. If the object is a living thing (an
+insect, a flower still attached), teach gentleness: look with eyes, touch softly, and
+return it where it was found.
 
 ## Procedure
 

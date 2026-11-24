@@ -114,19 +114,18 @@ every land have named shapes by what they *are* — how many sides and corners t
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It builds on Grade 1's composing and
-taking apart shapes and now asks learners to **name shapes by attributes**. Teach with
-a **worked example** (philosophy §13): take a triangle, count three sides and three
-angles, and say its name. The key ideas are that **attributes (not color or size)
-decide the name**, and that a square is a special rectangle (a rectangle with four
-equal sides). Keep this gentle — the goal is counting sides and angles and matching
-them to names, not memorizing definitions. Shapes and their names appear in the
-geometry of many cultures — from Islamic star patterns to the kente cloth patterns of
-West Africa to the hexagons bees build everywhere. **No one's speed at naming shapes
-measures their smartness; shapes are for everyone to see and build.** For learners who
-are Deaf or hard of hearing, count sides in sign and point; for learners who are blind
-or low-vision, feel cut-out shapes and count corners by touch. A learner who does not
-speak points to the shape or holds up the number of sides.
+It builds on Grade 1's composing and taking apart shapes and now asks learners to **name
+shapes by attributes**. Teach with a **worked example** (philosophy §13): take a
+triangle, count three sides and three angles, and say its name. The key ideas are that
+**attributes (not color or size) decide the name**, and that a square is a special
+rectangle (a rectangle with four equal sides). Keep this gentle — the goal is counting
+sides and angles and matching them to names, not memorizing definitions. Shapes and
+their names appear in the geometry of many cultures — from Islamic star patterns to the
+kente cloth patterns of West Africa to the hexagons bees build everywhere. **No one's
+speed at naming shapes measures their smartness; shapes are for everyone to see and
+build.** For learners who are Deaf or hard of hearing, count sides in sign and point;
+for learners who are blind or low-vision, feel cut-out shapes and count corners by
+touch. A learner who does not speak points to the shape or holds up the number of sides.
 
 ## Procedure
 

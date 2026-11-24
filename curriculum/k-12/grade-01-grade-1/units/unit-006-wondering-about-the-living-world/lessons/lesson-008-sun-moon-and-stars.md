@@ -106,19 +106,18 @@ these lights — and told stories about them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Two commitments are non-negotiable
-here. **First, no geocentrism:** day and night happen because the Earth slowly turns,
-so one side faces the Sun (day) while the other faces away (night); the Sun only
-*seems* to move across the sky. Use appearance language — "the Sun seems to rise and
-set" — never "the Sun goes around the Earth." (This is the factual model taught by
-NASA and space agencies worldwide; see the NASA Space Place resource below.) **Second,
-inquiry over creed:** the origins of the Sun, Moon, and stars are held as wonder, not
-dogma. Honor many peoples' sky stories side by side — an Indigenous story of the Sun,
-a story about the Moon from Africa, Asia, or the Pacific, a Greek or Norse tale — as
-*stories people tell*, without ranking any as more true. Never mock a family's
-beliefs. Honor every body: describe the sky in words for a learner who cannot see it,
-and let movement tell the story (the slow turning). Some questions — why the stars
-are there — we cannot answer yet, and that is wonderful.
+Two commitments are non-negotiable here. **First, no geocentrism:** day and night happen
+because the Earth slowly turns, so one side faces the Sun (day) while the other faces
+away (night); the Sun only *seems* to move across the sky. Use appearance language —
+"the Sun seems to rise and set" — never "the Sun goes around the Earth." (This is the
+factual model taught by NASA and space agencies worldwide; see the NASA Space Place
+resource below.) **Second, inquiry over creed:** the origins of the Sun, Moon, and stars
+are held as wonder, not dogma. Honor many peoples' sky stories side by side — an
+Indigenous story of the Sun, a story about the Moon from Africa, Asia, or the Pacific, a
+Greek or Norse tale — as *stories people tell*, without ranking any as more true. Never
+mock a family's beliefs. Honor every body: describe the sky in words for a learner who
+cannot see it, and let movement tell the story (the slow turning). Some questions — why
+the stars are there — we cannot answer yet, and that is wonderful.
 
 ## Procedure
 

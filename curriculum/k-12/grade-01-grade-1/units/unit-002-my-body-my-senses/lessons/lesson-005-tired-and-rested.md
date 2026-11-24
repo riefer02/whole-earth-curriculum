@@ -103,13 +103,11 @@ can play and learn again.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. Prepare the cards and a calm resting space, then lead the
-rest-and-breathe pause. Be gentle about tiredness: never blame a learner for being
-tired or sleepy, and never assume how much rest a learner got last night — homes
-differ. Rest here is framed as kind care, not as a punishment or a fix for
-misbehavior. A short quiet pause is enough; it can be done sitting, lying, or with
-eyes closed or open.
+Prepare the cards and a calm resting space, then lead the rest-and-breathe pause. Be
+gentle about tiredness: never blame a learner for being tired or sleepy, and never
+assume how much rest a learner got last night — homes differ. Rest here is framed as
+kind care, not as a punishment or a fix for misbehavior. A short quiet pause is enough;
+it can be done sitting, lying, or with eyes closed or open.
 
 ## Procedure
 

@@ -116,22 +116,22 @@ truly matters.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Make the action **real, not symbolic** —
-learners should actually turn off a tap or a light, or pour just enough water. Keep the
-tone hopeful, never shaming: saving is care and agency, not guilt, and no act is too
-small. This is especially true where water is scarce — in such places, "wasting less
-water" may be the single most important act, and it is just as real as any other; adapt
-the examples to the learners' own lives (a precious jug of water used carefully, a lamp
-used only when needed, a walk instead of a ride). Never frame any family as wasteful;
-honor the care people already show. State plainly that many people around the world still
-lack safely managed drinking water (see Resources), and that saving water is an act of
-fairness to them. Distinguish evidence from values: "turning off the tap saves water" is a
-fact; "we should save water" is a value we hold because we care for all life — say it
-that way. Honor every body: for a learner with motor differences, the choosing and the
-saying are the act — they may direct a partner's hands to turn off the tap while saying
-why it helps; adapt the tool (a long-handled tap, a light switch within reach). A learner
-who is blind or has low vision can feel the tap turned, hear the water stop, and touch the
-light switch; a non-speaking learner points to the action and to a picture for "saves."
+Make the action **real, not symbolic** — learners should actually turn off a tap or a
+light, or pour just enough water. Keep the tone hopeful, never shaming: saving is care
+and agency, not guilt, and no act is too small. This is especially true where water is
+scarce — in such places, "wasting less water" may be the single most important act, and
+it is just as real as any other; adapt the examples to the learners' own lives (a
+precious jug of water used carefully, a lamp used only when needed, a walk instead of a
+ride). Never frame any family as wasteful; honor the care people already show. State
+plainly that many people around the world still lack safely managed drinking water (see
+Resources), and that saving water is an act of fairness to them. Distinguish evidence
+from values: "turning off the tap saves water" is a fact; "we should save water" is a
+value we hold because we care for all life — say it that way. Honor every body: for a
+learner with motor differences, the choosing and the saying are the act — they may
+direct a partner's hands to turn off the tap while saying why it helps; adapt the tool
+(a long-handled tap, a light switch within reach). A learner who is blind or has low
+vision can feel the tap turned, hear the water stop, and touch the light switch; a
+non-speaking learner points to the action and to a picture for "saves."
 
 ## Procedure
 

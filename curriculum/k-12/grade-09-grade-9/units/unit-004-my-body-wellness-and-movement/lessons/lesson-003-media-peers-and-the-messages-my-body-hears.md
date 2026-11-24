@@ -117,26 +117,26 @@ from a person the message happens *to* into a person who reads it and chooses.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land: **decode a body-image
-message with four questions — (1) Who made it? (2) What does it want me to think, feel, or
-buy? (3) What is left out — which bodies, which realities? (4) How does it make me feel
-about my own body? — then separate the message's factual claim from its value message.**
-This is a *skill*, so model the decode on one example before learners try it themselves
-(S-011). Keep the emotional temperature safe: choose sample messages that are analyzable
-without being cruel, and never show a learner an image chosen to make them feel bad. The
-critical-thinking lens: decoding is the same source-checking habit as fact-checking a
-claim (S-063, S-217). The ethics lens: a message that profits from making people feel
-their bodies are wrong is a question of values, not evidence. The egalitarian lens: the
-"ideal" body is historically and culturally specific — it changes by decade and by place —
-so no single body type is the truth (S-401, S-407). The global lens: different cultures
-have prized very different bodies, and beauty standards are local, shifting, and often
-imported with power attached. The technology lens: retouching and filters now make the
-"ideal" literally impossible to match — even the person in the image does not look like
-the image. Be explicit that the point is **never** to shame anyone's appearance, choices,
-or culture, and never to rank bodies; the point is to loosen a message's grip. Remind
-learners that if a message ever hurts, they can step away, and that media influence on how
-adolescents see themselves is real and worth taking seriously (S-311). Body image is
-sensitive; hold it with care and route distress toward a trusted adult.
+The skill to land: **decode a body-image message with four questions — (1) Who made it?
+(2) What does it want me to think, feel, or buy? (3) What is left out — which bodies,
+which realities? (4) How does it make me feel about my own body? — then separate the
+message's factual claim from its value message.** This is a *skill*, so model the decode
+on one example before learners try it themselves (S-011). Keep the emotional temperature
+safe: choose sample messages that are analyzable without being cruel, and never show a
+learner an image chosen to make them feel bad. The critical-thinking lens: decoding is
+the same source-checking habit as fact-checking a claim (S-063, S-217). The ethics lens:
+a message that profits from making people feel their bodies are wrong is a question of
+values, not evidence. The egalitarian lens: the "ideal" body is historically and
+culturally specific — it changes by decade and by place — so no single body type is the
+truth (S-401, S-407). The global lens: different cultures have prized very different
+bodies, and beauty standards are local, shifting, and often imported with power
+attached. The technology lens: retouching and filters now make the "ideal" literally
+impossible to match — even the person in the image does not look like the image. Be
+explicit that the point is **never** to shame anyone's appearance, choices, or culture,
+and never to rank bodies; the point is to loosen a message's grip. Remind learners that
+if a message ever hurts, they can step away, and that media influence on how adolescents
+see themselves is real and worth taking seriously (S-311). Body image is sensitive; hold
+it with care and route distress toward a trusted adult.
 
 ## Procedure
 

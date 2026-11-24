@@ -110,15 +110,15 @@ is how you understand what the author really wants you to carry away.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land is that **a central idea
-is developed, not announced — through repetition, examples, and contrast — and the reader
-traces it with evidence**. Model one worked example: read the first text aloud, state its
-central idea in one sentence, and point to two places the author develops it (Kirschner,
-Sweller & Clark, 2006; Duke & Pearson, 2002). The texts are original teaching passages;
-treat them as examples, and invite learners to bring their own. The four lenses: *ethics*
-(what the author believes matters); *egalitarianism* (whose story is centered, whose is
-left out); *global* (central ideas appear in every tradition); *critical-thinking* (a
-central idea needs evidence, not a feeling). See `docs/facilitation.md`.
+The idea to land is that **a central idea is developed, not announced — through
+repetition, examples, and contrast — and the reader traces it with evidence**. Model one
+worked example: read the first text aloud, state its central idea in one sentence, and
+point to two places the author develops it (Kirschner, Sweller & Clark, 2006; Duke &
+Pearson, 2002). The texts are original teaching passages; treat them as examples, and
+invite learners to bring their own. The four lenses: *ethics* (what the author believes
+matters); *egalitarianism* (whose story is centered, whose is left out); *global*
+(central ideas appear in every tradition); *critical-thinking* (a central idea needs
+evidence, not a feeling). See `docs/facilitation.md`.
 
 ## Procedure
 

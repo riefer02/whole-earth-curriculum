@@ -116,19 +116,19 @@ clearly. That seeing is what you will practice today.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The skill to land is a **conflict-analysis
-routine**: for *each* side, name the **feeling** (what this side is experiencing) and the
-**need** (what this side needs or cares about underneath the feeling). Model it once as a
-worked example (Kirschner, Sweller & Clark, 2006). Keep it **non-shaming and even-handed**:
-no side is "the bad one" — the analysis is about *seeing*, not judging, and both sides'
-needs are usually partly legitimate. The egalitarian move is that **every side gets
-named**, including the quieter or less powerful one — a conflict where one side's voice is
-missing cannot be analyzed fairly. Distinguish **evidence from values**: *what each side
-feels and needs* is observable and inferable; *that both sides' needs deserve to be heard*
-is a value this curriculum holds and offers as such. Draw a clear safety boundary: if a
-conflict involves harm, threat, or real danger, the first move is to bring in a trusted
-adult — analysis and resolution of serious harm is *not* a child's solo task. Resolution
-comes next lesson; today is only *seeing*. See `docs/facilitation.md`.
+The skill to land is a **conflict-analysis routine**: for *each* side, name the
+**feeling** (what this side is experiencing) and the **need** (what this side needs or
+cares about underneath the feeling). Model it once as a worked example (Kirschner,
+Sweller & Clark, 2006). Keep it **non-shaming and even-handed**: no side is "the bad
+one" — the analysis is about *seeing*, not judging, and both sides' needs are usually
+partly legitimate. The egalitarian move is that **every side gets named**, including the
+quieter or less powerful one — a conflict where one side's voice is missing cannot be
+analyzed fairly. Distinguish **evidence from values**: *what each side feels and needs*
+is observable and inferable; *that both sides' needs deserve to be heard* is a value
+this curriculum holds and offers as such. Draw a clear safety boundary: if a conflict
+involves harm, threat, or real danger, the first move is to bring in a trusted adult —
+analysis and resolution of serious harm is *not* a child's solo task. Resolution comes
+next lesson; today is only *seeing*. See `docs/facilitation.md`.
 
 ## Procedure
 

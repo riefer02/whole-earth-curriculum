@@ -121,22 +121,22 @@ the picture you have been carrying.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **visions of a good
-society are real, old, and diverse — consensus and the long view (Haudenosaunee Great
-Law of Peace, S-142), collective rights with duties (African Charter / Banjul
-Charter, S-465), harmony through roles (Confucius, S-468), and welfare for all
-(Buddhist kingship ideal).** The methodological point: **these are visions to evaluate
-by *who they include* and *how they decide* — the egalitarian question — not to rank by
-which is "most advanced."** Guard against treating any one (especially a Western one)
-as the standard; the lesson deliberately centers non-Western and Indigenous visions.
+The idea to land: **visions of a good society are real, old, and diverse — consensus and
+the long view (Haudenosaunee Great Law of Peace, S-142), collective rights with duties
+(African Charter / Banjul Charter, S-465), harmony through roles (Confucius, S-468), and
+welfare for all (Buddhist kingship ideal).** The methodological point: **these are
+visions to evaluate by *who they include* and *how they decide* — the egalitarian
+question — not to rank by which is "most advanced."** Guard against treating any one
+(especially a Western one) as the standard; the lesson deliberately centers non-Western
+and Indigenous visions.
 
 The **ethics** lens: each vision is a claim about how people *ought* to live together.
 The **egalitarianism** lens: ask of every vision — whom does it include, whom does it
-leave out, and who actually gets to decide? The **global** lens: the four are drawn
-from North America, Africa, and Asia — three continents, many centuries, all living
+leave out, and who actually gets to decide? The **global** lens: the four are drawn from
+North America, Africa, and Asia — three continents, many centuries, all living
 traditions. The **critical-thinking** lens: distinguishing "what a tradition *says*"
-(evidence) from "what I think is *just*" (value). Preview: Lesson 5 turns from
-visions to the machinery of justice, power, and law.
+(evidence) from "what I think is *just*" (value). Preview: Lesson 5 turns from visions
+to the machinery of justice, power, and law.
 
 ## Procedure
 

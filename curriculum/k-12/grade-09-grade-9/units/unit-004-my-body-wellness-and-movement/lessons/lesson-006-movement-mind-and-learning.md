@@ -118,29 +118,29 @@ not wasted time — it is *study strategy*.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The concept to land: **movement supports
-mental health and learning through real mechanisms — (1) endorphins and other mood
-chemicals (dopamine, serotonin) lift mood and reduce feelings of stress; (2) growth
-factors like BDNF support brain health, learning, and memory; (3) better circulation
-delivers oxygen and glucose to the brain, aiding focus; and (4) regular movement improves
-sleep, which consolidates learning.** This is a *concept* with a *skill* (tracing cause to
-effect), so teach the mechanisms explicitly with a worked example, then let learners run a
-real trial (S-011). Keep the science honest and hedged: the strongest, best-replicated
-claims are that regular physical activity supports mental health and that a single bout
-can acutely improve mood and alertness (S-341, S-409); the *endorphin* story is real but
-one mechanism among several, and no single chemical is the whole story (S-408). The
-critical-thinking lens: separate "well supported" (movement supports mental health and
-focus) from "oversold" (movement as a cure-all, or a substitute for help when someone is
-struggling — see the help-seeking work later in the year). The ethics lens: use movement
-to *support* yourself, never to punish yourself; the moment movement becomes penance for
-eating or existing, it has stopped being wellness. The egalitarian lens: the mechanisms
-work across all bodies and abilities — seated movement, stretching, rolling, and adapted
+The concept to land: **movement supports mental health and learning through real
+mechanisms — (1) endorphins and other mood chemicals (dopamine, serotonin) lift mood and
+reduce feelings of stress; (2) growth factors like BDNF support brain health, learning,
+and memory; (3) better circulation delivers oxygen and glucose to the brain, aiding
+focus; and (4) regular movement improves sleep, which consolidates learning.** This is a
+*concept* with a *skill* (tracing cause to effect), so teach the mechanisms explicitly
+with a worked example, then let learners run a real trial (S-011). Keep the science
+honest and hedged: the strongest, best-replicated claims are that regular physical
+activity supports mental health and that a single bout can acutely improve mood and
+alertness (S-341, S-409); the *endorphin* story is real but one mechanism among several,
+and no single chemical is the whole story (S-408). The critical-thinking lens: separate
+"well supported" (movement supports mental health and focus) from "oversold" (movement
+as a cure-all, or a substitute for help when someone is struggling — see the
+help-seeking work later in the year). The ethics lens: use movement to *support*
+yourself, never to punish yourself; the moment movement becomes penance for eating or
+existing, it has stopped being wellness. The egalitarian lens: the mechanisms work
+across all bodies and abilities — seated movement, stretching, rolling, and adapted
 activity produce the same kinds of benefit, so no one is excluded (S-342). The global
-lens: every culture has long linked movement to wellbeing — through dance, games, martial
-arts such as yoga, tai chi, capoeira, and wrestling traditions, and manual work — long
-before gyms and apps existed. Emphasize that the trial is
-*self-comparison* (you before vs. you after), never a competition, and that learners who
-cannot or should not move today can still learn the mechanism and apply it another day.
+lens: every culture has long linked movement to wellbeing — through dance, games,
+martial arts such as yoga, tai chi, capoeira, and wrestling traditions, and manual
+work — long before gyms and apps existed. Emphasize that the trial is *self-comparison*
+(you before vs. you after), never a competition, and that learners who cannot or should
+not move today can still learn the mechanism and apply it another day.
 
 ## Procedure
 

@@ -102,10 +102,9 @@ can learn, in every place on Earth.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. As facilitator, describe each face aloud as well as showing
-it, so learners who cannot see the card can still join. Keep feelings open: a guess
-is a guess, and the "right" answer is always "let's ask them."
+As facilitator, describe each face aloud as well as showing it, so learners who cannot
+see the card can still join. Keep feelings open: a guess is a guess, and the "right"
+answer is always "let's ask them."
 
 ## Procedure
 

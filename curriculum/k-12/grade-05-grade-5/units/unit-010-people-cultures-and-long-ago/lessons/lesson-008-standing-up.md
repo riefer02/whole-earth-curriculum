@@ -117,14 +117,14 @@ three groups of people who did exactly that.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). This is a **difficult topic, held with dignity
-and hope** — never victimhood. The point is not to dwell on suffering but on **agency**: real
-people saw unfairness, organized, helped one another, and acted. Tell each story with the
-people as the heroes of their own history. Name the unfairness briefly and factually (an
-unjust tax, an unjust rule, unfair pay and land) and spend most of the time on **what they
-did** and **how they helped one another**. Connect difficulty to hope and to something the
-learner can do (speak up, support, be fair). Respect a learner's right to pause. This lesson
-produces the unit's **resistance example** portfolio artifact. See `docs/facilitation.md` on
+This is a **difficult topic, held with dignity and hope** — never victimhood. The point
+is not to dwell on suffering but on **agency**: real people saw unfairness, organized,
+helped one another, and acted. Tell each story with the people as the heroes of their
+own history. Name the unfairness briefly and factually (an unjust tax, an unjust rule,
+unfair pay and land) and spend most of the time on **what they did** and **how they
+helped one another**. Connect difficulty to hope and to something the learner can do
+(speak up, support, be fair). Respect a learner's right to pause. This lesson produces
+the unit's **resistance example** portfolio artifact. See `docs/facilitation.md` on
 holding difficult topics safely.
 
 ## Procedure

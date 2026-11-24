@@ -111,18 +111,19 @@ shows and hides.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) point of view is whose
-eyes and mind the reader sees through — first person ("I"), third person limited (inside one
-character's thoughts), third person omniscient (inside all characters' thoughts); (2) the choice
-of point of view shapes what the reader knows, suspects, and feels; (3) no point of view is
-"better" — each reveals and hides.** Model the first pair once (worked example, S-011). These are
-standard literary terms (S-348). The ethics lens: a story can be told to hide a voice — ask
-"whose point of view is missing, and what would they say?" The egalitarian lens: whose eyes get
-to tell the story is a question of power; many great stories center voices that were once left
-out. The global lens: storytelling traditions around the world choose different points of view —
-some tell through a collective "we," some through a single "I," some through an all-knowing
-teller. The social-emotional lens: stepping into another's point of view is the same move as
-empathy — and it is a muscle, not a gift.
+The ideas to land: **(1) point of view is whose eyes and mind the reader sees through —
+first person ("I"), third person limited (inside one character's thoughts), third person
+omniscient (inside all characters' thoughts); (2) the choice of point of view shapes
+what the reader knows, suspects, and feels; (3) no point of view is "better" — each
+reveals and hides.** Model the first pair once (worked example, S-011). These are
+standard literary terms (S-348). The ethics lens: a story can be told to hide a voice —
+ask "whose point of view is missing, and what would they say?" The egalitarian lens:
+whose eyes get to tell the story is a question of power; many great stories center
+voices that were once left out. The global lens: storytelling traditions around the
+world choose different points of view — some tell through a collective "we," some
+through a single "I," some through an all-knowing teller. The social-emotional lens:
+stepping into another's point of view is the same move as empathy — and it is a muscle,
+not a gift.
 
 ## Procedure
 

@@ -118,13 +118,12 @@ that loop, then meets an audience.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **craft is a loop —
-rehearse, watch (or record), note what wavered, revise one thing, repeat — and
-feedback works only when it is specific and about the work, not the person.** Timing
-(are the pauses and speeds deliberate?), expression (do face and body carry the
-concept?), and ensemble (do the parts fit with others?) are the three observable
-targets. The loop mirrors the assessment philosophy: observe what the learner *does*
-and say back one concrete thing, never rank (S-011; S-189).
+The idea to land: **craft is a loop — rehearse, watch (or record), note what wavered,
+revise one thing, repeat — and feedback works only when it is specific and about the
+work, not the person.** Timing (are the pauses and speeds deliberate?), expression (do
+face and body carry the concept?), and ensemble (do the parts fit with others?) are the
+three observable targets. The loop mirrors the assessment philosophy: observe what the
+learner *does* and say back one concrete thing, never rank (S-011; S-189).
 
 The **ethics** lens: honest feedback is a gift — specific, kind, and about the work —
 and receiving it is how a maker grows without losing their own voice. The
@@ -134,14 +133,14 @@ lens: rehearsal traditions differ across cultures, but everywhere the watch-and-
 loop is how craft is passed down — from the tinikling dancers who step between bamboo
 poles in the Philippines (S-116) to the capoeira circle of Brazil (S-325), mastery is
 made in repeated, watched practice. The **technology** lens: a camera lets a performer
-see what a mirror cannot — the piece from the audience's eyes. The **environment**
-lens: rehearsing outdoors teaches the performer to work *with* place and weather, not
-against it. The **community** lens: a showing for an audience who wants the performer
-to succeed is the natural home of a performance.
+see what a mirror cannot — the piece from the audience's eyes. The **environment** lens:
+rehearsing outdoors teaches the performer to work *with* place and weather, not against
+it. The **community** lens: a showing for an audience who wants the performer to succeed
+is the natural home of a performance.
 
-Keep the showing low-stakes and cooperative (assessment.md: performance for an
-audience who wants the learner to succeed). Preview: Lesson 9 turns to the ethics of
-engaging with *other* people's movement and drama traditions.
+Keep the showing low-stakes and cooperative (assessment.md: performance for an audience
+who wants the learner to succeed). Preview: Lesson 9 turns to the ethics of engaging
+with *other* people's movement and drama traditions.
 
 ## Procedure
 

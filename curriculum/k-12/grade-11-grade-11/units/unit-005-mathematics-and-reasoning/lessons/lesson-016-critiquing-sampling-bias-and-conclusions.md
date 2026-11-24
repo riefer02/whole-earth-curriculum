@@ -115,22 +115,21 @@ reading ads, news, and public claims about health, money, and the environment.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **a claim is only as
-strong as its design — ask who was sampled, how they were chosen, what was asked, what
-the comparison is, and what the data can actually conclude (a survey shows association,
-not necessarily cause).** Teach the five-question checklist explicitly, then let
-learners apply it to real claims (S-011). Bias names (selection, non-response,
-confirmation) and the guardrail of random sampling are standard (S-242, S-250).
+The ideas to land: **a claim is only as strong as its design — ask who was sampled, how
+they were chosen, what was asked, what the comparison is, and what the data can actually
+conclude (a survey shows association, not necessarily cause).** Teach the five-question
+checklist explicitly, then let learners apply it to real claims (S-011). Bias names
+(selection, non-response, confirmation) and the guardrail of random sampling are
+standard (S-242, S-250).
 
-The **critical-thinking** lens: this is the unit's capstone habit — question the
-answer, but question it *well*. The **ethics** lens: a misleading number can be a
-small dishonesty with large consequences; reading honestly is an ethical act. The
-**egalitarianism** lens: claims that leave a group out speak for fewer people than
-they seem to — critique is a fairness tool. The **environment** lens: environmental
-claims (who pollutes, who is harmed) live or die by their sampling — reading them
-honestly matters for the planet. Distinguish the method (evidence) from the motive
-(values). Preview: this closes the unit's data thread; the portfolio gathers all four
-strands.
+The **critical-thinking** lens: this is the unit's capstone habit — question the answer,
+but question it *well*. The **ethics** lens: a misleading number can be a small
+dishonesty with large consequences; reading honestly is an ethical act. The
+**egalitarianism** lens: claims that leave a group out speak for fewer people than they
+seem to — critique is a fairness tool. The **environment** lens: environmental claims
+(who pollutes, who is harmed) live or die by their sampling — reading them honestly
+matters for the planet. Distinguish the method (evidence) from the motive (values).
+Preview: this closes the unit's data thread; the portfolio gathers all four strands.
 
 ## Procedure
 

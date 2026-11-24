@@ -119,13 +119,13 @@ Bodies everywhere speak the same quiet language.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Body awareness (called *interoception* —
-sensing signals from inside the body) is a real skill and grows with practice. Keep the
-body scan slow and optional — some learners may not feel comfortable closing their eyes;
-they may keep eyes open and that is fine. Model the three levels on yourself first
-(worked example), then let learners find their own signals. A learner's body may not
-match the "typical" list — every body is different, and that is the point: their body is
-their own honest messenger. See `docs/facilitation.md` on holding big feelings safely.
+Body awareness (called *interoception* — sensing signals from inside the body) is a real
+skill and grows with practice. Keep the body scan slow and optional — some learners may
+not feel comfortable closing their eyes; they may keep eyes open and that is fine. Model
+the three levels on yourself first (worked example), then let learners find their own
+signals. A learner's body may not match the "typical" list — every body is different,
+and that is the point: their body is their own honest messenger. See
+`docs/facilitation.md` on holding big feelings safely.
 
 ## Procedure
 

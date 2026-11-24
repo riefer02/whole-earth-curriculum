@@ -102,13 +102,13 @@ is a tool that helps.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). As facilitator, keep the message
-gentle and true: tools are wonderful helpers, but they are not magic and they are not
-better just because they are new. Honor every tool equally — a stone for pounding and
-a spoon for scooping both matter, and people in every place and every time have made
-tools for their own hands and their own lives. Avoid presenting any one tool (like a
-phone) as the "real" or "modern" tool; a mortar and pestle and a water jug are just as
-much tools. Supervise any handling of tools so everyone stays safe.
+As facilitator, keep the message gentle and true: tools are wonderful helpers, but they
+are not magic and they are not better just because they are new. Honor every tool
+equally — a stone for pounding and a spoon for scooping both matter, and people in every
+place and every time have made tools for their own hands and their own lives. Avoid
+presenting any one tool (like a phone) as the "real" or "modern" tool; a mortar and
+pestle and a water jug are just as much tools. Supervise any handling of tools so
+everyone stays safe.
 
 ## Procedure
 

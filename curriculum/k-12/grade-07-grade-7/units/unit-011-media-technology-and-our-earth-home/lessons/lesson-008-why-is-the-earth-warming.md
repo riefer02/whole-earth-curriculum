@@ -114,23 +114,24 @@ thicker, and the planet is warming.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) the greenhouse effect is
-real and natural — the Sun's energy comes in, and greenhouse gases trap some of the heat so Earth
-is warm enough for life; (2) human activities — burning fossil fuels (coal, oil, gas), cutting
-forests, some farming, and industry — add extra greenhouse gases, thickening the blanket; (3) that
-is why the Earth is warming, and the warming is a fact, not an opinion.** Model the diagram once
-(worked example, S-011). The environment & technology lens: the warming is a direct bridge between
-human technology (burning fuel) and the living Earth — the unit's central connection. The ethics
-lens: the science tells us *what is happening*; what we *owe* to others because of it is a value
-question, kept distinct. The egalitarian lens: the warming falls hardest on people who contributed
-least to it — an injustice we will return to in the next lesson. The global lens: this is a
-planet-wide change, measured the same way everywhere — and communities who live close to the land and
-sea, including many Indigenous peoples, have long noticed shifting seasons, weather, and wildlife
-through their own observation traditions, held side by side with the climate science here
-(philosophy §11). Hold the science precisely and cite it: the
-greenhouse effect and the role of human emissions are documented by the IPCC (S-005) and NOAA
-(S-309); warming also threatens health (S-124). End with agency, not despair — the next lesson is
-about action.
+The ideas to land: **(1) the greenhouse effect is real and natural — the Sun's energy
+comes in, and greenhouse gases trap some of the heat so Earth is warm enough for life;
+(2) human activities — burning fossil fuels (coal, oil, gas), cutting forests, some
+farming, and industry — add extra greenhouse gases, thickening the blanket; (3) that is
+why the Earth is warming, and the warming is a fact, not an opinion.** Model the diagram
+once (worked example, S-011). The environment & technology lens: the warming is a direct
+bridge between human technology (burning fuel) and the living Earth — the unit's central
+connection. The ethics lens: the science tells us *what is happening*; what we *owe* to
+others because of it is a value question, kept distinct. The egalitarian lens: the
+warming falls hardest on people who contributed least to it — an injustice we will
+return to in the next lesson. The global lens: this is a planet-wide change, measured
+the same way everywhere — and communities who live close to the land and sea, including
+many Indigenous peoples, have long noticed shifting seasons, weather, and wildlife
+through their own observation traditions, held side by side with the climate science
+here (philosophy §11). Hold the science precisely and cite it: the greenhouse effect and
+the role of human emissions are documented by the IPCC (S-005) and NOAA (S-309); warming
+also threatens health (S-124). End with agency, not despair — the next lesson is about
+action.
 
 ## Procedure
 

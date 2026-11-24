@@ -124,15 +124,15 @@ and happen only once, in the moment. Both are learnable.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, held as **description**:
-plurilingual competence — drawing on several languages, including mediating between
-speakers — is the literature's term for the bridging skill (Council of Europe CEFR,
-S-237); translation (written, revisable) and interpretation (spoken, in the moment) are
-distinct practices; and machine translation is a real but uneven tool, not a substitute
-for a person (Britannica, S-350). The *value* — that both languages are complete systems,
-and the person between them a skilled mediator — is a commitment, not a fact, and should
-be named as such. Honor home languages first: a learner who bridges in their own languages
-is an expert in this room, not a novice.
+The idea to land, held as **description**: plurilingual competence — drawing on several
+languages, including mediating between speakers — is the literature's term for the
+bridging skill (Council of Europe CEFR, S-237); translation (written, revisable) and
+interpretation (spoken, in the moment) are distinct practices; and machine translation
+is a real but uneven tool, not a substitute for a person (Britannica, S-350). The
+*value* — that both languages are complete systems, and the person between them a
+skilled mediator — is a commitment, not a fact, and should be named as such. Honor home
+languages first: a learner who bridges in their own languages is an expert in this room,
+not a novice.
 
 The **ethics** lens: a bridge carries both meanings and *responsibility* — an inaccurate
 interpretation can mislead, and a careless one can wound; accuracy and care are the
@@ -146,8 +146,8 @@ remains necessary where it matters (S-350). The **environment** lens: languages 
 knowledge of the living world — plants, weather, seasons, places — so when a language is
 lost, environmental knowledge can be lost with it (Kimmerer, S-427); bridging helps keep
 that knowledge in circulation. The **critical-thinking** lens: "what did the tool get
-right, and what did it flatten?" is the test a careful bridge runs on any machine output.
-Preview: Lesson 14 assembles the whole unit into one many-voiced capstone.
+right, and what did it flatten?" is the test a careful bridge runs on any machine
+output. Preview: Lesson 14 assembles the whole unit into one many-voiced capstone.
 
 ## Procedure
 

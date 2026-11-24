@@ -118,24 +118,22 @@ confident one.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **science is one way
-of knowing among several; its loop is observe → ask → hypothesize (testably) → predict
-→ test → compare, and then peer review and replication let others check and correct
-(S-489, S-250). A claim is scientific when it can be shown wrong by evidence
-(falsifiability); it offers reliable, self-correcting knowledge of how the natural
-world behaves, and it is limited because it is silent on meaning, value, and purpose.**
-Hold this as description, not ranking: other ways of knowing are not "lesser science"
-but different ways (philosophy §11). Teach the loop explicitly with a worked example
-(S-011).
+The ideas to land: **science is one way of knowing among several; its loop is observe →
+ask → hypothesize (testably) → predict → test → compare, and then peer review and
+replication let others check and correct (S-489, S-250). A claim is scientific when it
+can be shown wrong by evidence (falsifiability); it offers reliable, self-correcting
+knowledge of how the natural world behaves, and it is limited because it is silent on
+meaning, value, and purpose.** Hold this as description, not ranking: other ways of
+knowing are not "lesser science" but different ways (philosophy §11). Teach the loop
+explicitly with a worked example (S-011).
 
 The **intellectual** lens: science's power is not certainty but corrigibility — it
 invites correction. The **critical-thinking** lens: learners ask "is this guess
-testable, and who checked it?" The **global** lens: careful observation and
-testable guessing appear across human cultures; the method is a shared human
-achievement, not one people's property. The **ethics** lens: peer review and open
-sharing make knowledge trustworthy *because* no single person has the last word.
-Preview: Lesson 4 completes the comparison with indigenous and artistic ways of
-knowing.
+testable, and who checked it?" The **global** lens: careful observation and testable
+guessing appear across human cultures; the method is a shared human achievement, not one
+people's property. The **ethics** lens: peer review and open sharing make knowledge
+trustworthy *because* no single person has the last word. Preview: Lesson 4 completes
+the comparison with indigenous and artistic ways of knowing.
 
 ## Procedure
 

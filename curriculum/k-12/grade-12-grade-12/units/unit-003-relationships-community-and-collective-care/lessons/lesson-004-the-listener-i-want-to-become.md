@@ -121,24 +121,24 @@ listener tomorrow, but to become a slightly better one by next week.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **listening is a
-learnable habit, and honest self-observation is the engine of growth — not shame, but
-"not yet."** Keep the audit private and judgment-free; a learner who cannot yet name a
-habit is not failing, they are at the start of the spiral.
+The idea to land: **listening is a learnable habit, and honest self-observation is the
+engine of growth — not shame, but "not yet."** Keep the audit private and judgment-free;
+a learner who cannot yet name a habit is not failing, they are at the start of the
+spiral.
 
 The **ethics** lens: listening well is a form of respect — it treats the other's inner
-world as worth attending to. The **egalitarianism** lens: who gets truly listened to, and
-who gets talked over or ignored, is uneven — by status, gender, age, and ability; better
-listening is a quiet leveller. The **global** lens: cultures signal listening differently
-— eye contact, silence, a nod, a repeated phrase, a sign, a written note — so "good
-listening" is not one posture or one sense; it is attending in the way the speaker can
-receive, in the mode that reaches them. The **technology** lens: the
-device is the modern rival of attention — notifications and the pull to check split
-attention in ways face-to-face conversation never had to fight (Suler, S-343; WHO notes
-adolescent digital habits shape wellbeing, S-311). The **environment** lens: deep
-listening is also a way of attending to the living world — noticing a bird's alarm call,
-a stream's change, a season's shift — the same skill of attention turned outward.
-Preview: Lesson 5 moves from intimate listening to empathy in ethical reasoning.
+world as worth attending to. The **egalitarianism** lens: who gets truly listened to,
+and who gets talked over or ignored, is uneven — by status, gender, age, and ability;
+better listening is a quiet leveller. The **global** lens: cultures signal listening
+differently — eye contact, silence, a nod, a repeated phrase, a sign, a written note —
+so "good listening" is not one posture or one sense; it is attending in the way the
+speaker can receive, in the mode that reaches them. The **technology** lens: the device
+is the modern rival of attention — notifications and the pull to check split attention
+in ways face-to-face conversation never had to fight (Suler, S-343; WHO notes adolescent
+digital habits shape wellbeing, S-311). The **environment** lens: deep listening is also
+a way of attending to the living world — noticing a bird's alarm call, a stream's
+change, a season's shift — the same skill of attention turned outward. Preview: Lesson 5
+moves from intimate listening to empathy in ethical reasoning.
 
 **Safeguarding:** the audit is private and not collected; learners share only what they
 choose, and the when-then commitment may be about any relationship, including with

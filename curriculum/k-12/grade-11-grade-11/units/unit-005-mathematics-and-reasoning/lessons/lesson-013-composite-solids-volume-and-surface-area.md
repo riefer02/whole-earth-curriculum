@@ -115,22 +115,22 @@ simple solids you already know, find each, and add (or subtract) them.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **a composite solid
-is built from simpler solids; its volume is the sum (or difference) of their volumes,
-and its surface area is the sum of the *exposed* faces.** Teach the *decompose →
-compute → combine* loop explicitly, and flag the one subtlety — when two solids share
-a face, that shared face is not part of the outer surface (S-011).
+The ideas to land: **a composite solid is built from simpler solids; its volume is the
+sum (or difference) of their volumes, and its surface area is the sum of the *exposed*
+faces.** Teach the *decompose → compute → combine* loop explicitly, and flag the one
+subtlety — when two solids share a face, that shared face is not part of the outer
+surface (S-011).
 
 The **environment** lens: tanks, silos, and cisterns store water and grain — knowing
 their true volume is a question of water security and waste reduction. The
-**intellectual** lens: decomposition turns an unfamiliar shape into familiar ones.
-The **global** lens: volume formulas are ancient and shared — the Egyptians computed
-the volume of a truncated pyramid (Moscow Papyrus), the Chinese collected volume
-problems in the *Nine Chapters*, and Indian altar-builders used precise volumes in
-the Sulba Sutras (S-288, S-289, S-292, S-429). The **egalitarianism** lens: these
-tools belong to everyone — the same geometry that sizes a palace sizes a village
-cistern. Distinguish the formula (exact) from real-world estimation (measurements are
-approximate). Preview: Lesson 14 begins data with the normal distribution.
+**intellectual** lens: decomposition turns an unfamiliar shape into familiar ones. The
+**global** lens: volume formulas are ancient and shared — the Egyptians computed the
+volume of a truncated pyramid (Moscow Papyrus), the Chinese collected volume problems in
+the *Nine Chapters*, and Indian altar-builders used precise volumes in the Sulba Sutras
+(S-288, S-289, S-292, S-429). The **egalitarianism** lens: these tools belong to
+everyone — the same geometry that sizes a palace sizes a village cistern. Distinguish
+the formula (exact) from real-world estimation (measurements are approximate). Preview:
+Lesson 14 begins data with the normal distribution.
 
 ## Procedure
 

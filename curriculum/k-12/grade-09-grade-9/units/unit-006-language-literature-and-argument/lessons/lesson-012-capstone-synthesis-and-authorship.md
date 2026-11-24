@@ -124,24 +124,27 @@ web, in your own hands.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). It is the **closing capstone and synthesis**. The goal:
-**each learner recalls all eight goals and connects them into one web around synthesis and authorship.** The
-eight goals are: (1) synthesize multiple spoken sources into one account; (2) lead a discussion that
-welcomes every voice and manages disagreement fairly; (3) analyze how structure, style, and argument work
-together; (4) read and analyze texts from world literatures across cultures; (5) synthesize across multiple
-texts into a supported position; (6) write a research-supported argument that integrates and cites sources
-and weighs conflicting evidence; (7) compose for real audiences and purposes; (8) explain how languages are
-part of identity and describe language loss and revitalization, and why protecting languages matters for
-humanity and the environment. This is a **retrieval and spacing** moment — having learners recall rather
-than re-read is what makes the learning durable (S-039). Keep assessment **mastery, not ranking**: a learner
-who cannot yet recall a goal revisits that lesson's artifact and tries again — "not yet" is information,
-never a verdict (philosophy §8). The four lenses, together: the **critical-thinking** lens asks what
-evidence supports each position; the **ethics** lens asks what is right and who is affected; the
-**egalitarian** lens asks who benefits and who is left out — in a discussion, in a source, in a language;
-the **global** lens asks how this looks in other places, times, and languages; the **environment** lens
-asks what language loss costs the living Earth. Celebrate the collective: each learner's web is a thread in
-one class tapestry of voices. This lesson also gathers the portfolio — the unit's artifacts are the evidence
-of the learner's authorship (facilitation.md).
+It is the **closing capstone and synthesis**. The goal: **each learner recalls all eight
+goals and connects them into one web around synthesis and authorship.** The eight goals
+are: (1) synthesize multiple spoken sources into one account; (2) lead a discussion that
+welcomes every voice and manages disagreement fairly; (3) analyze how structure, style,
+and argument work together; (4) read and analyze texts from world literatures across
+cultures; (5) synthesize across multiple texts into a supported position; (6) write a
+research-supported argument that integrates and cites sources and weighs conflicting
+evidence; (7) compose for real audiences and purposes; (8) explain how languages are
+part of identity and describe language loss and revitalization, and why protecting
+languages matters for humanity and the environment. This is a **retrieval and spacing**
+moment — having learners recall rather than re-read is what makes the learning durable
+(S-039). Keep assessment **mastery, not ranking**: a learner who cannot yet recall a
+goal revisits that lesson's artifact and tries again — "not yet" is information, never a
+verdict (philosophy §8). The four lenses, together: the **critical-thinking** lens asks
+what evidence supports each position; the **ethics** lens asks what is right and who is
+affected; the **egalitarian** lens asks who benefits and who is left out — in a
+discussion, in a source, in a language; the **global** lens asks how this looks in other
+places, times, and languages; the **environment** lens asks what language loss costs the
+living Earth. Celebrate the collective: each learner's web is a thread in one class
+tapestry of voices. This lesson also gathers the portfolio — the unit's artifacts are
+the evidence of the learner's authorship (facilitation.md).
 
 ## Procedure
 

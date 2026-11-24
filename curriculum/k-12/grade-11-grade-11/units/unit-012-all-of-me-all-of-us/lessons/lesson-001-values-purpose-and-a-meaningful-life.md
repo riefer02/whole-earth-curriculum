@@ -119,15 +119,15 @@ your own words, as they stand today.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land, warmly and without
-pressure: **values, purpose, and meaning are three arms of one compass that the learner
-holds — developing, revisable, and theirs to steer.** Identity is a developing story, not
-a finished fact (Erikson, S-155); the selves a person imagines becoming — "possible
-selves" — are the bridge between the present and future motivation (Markus & Nurius,
-S-399); and a sense of purpose grows by trying, reflecting, and being supported, not by
-sudden certainty — roughly one in five young people reports a clear sense of purpose, and
-that is ordinary, not a failure (Damon, S-400). Hold all three as *description*, and the
-line "you are allowed not to know yet" as a *value* we protect.
+The idea to land, warmly and without pressure: **values, purpose, and meaning are three
+arms of one compass that the learner holds — developing, revisable, and theirs to
+steer.** Identity is a developing story, not a finished fact (Erikson, S-155); the
+selves a person imagines becoming — "possible selves" — are the bridge between the
+present and future motivation (Markus & Nurius, S-399); and a sense of purpose grows by
+trying, reflecting, and being supported, not by sudden certainty — roughly one in five
+young people reports a clear sense of purpose, and that is ordinary, not a failure
+(Damon, S-400). Hold all three as *description*, and the line "you are allowed not to
+know yet" as a *value* we protect.
 
 Hold the four lenses visibly. **Ethics:** naming what you hold good is the first step of
 acting on it — values become ethics when they meet real choices. **Egalitarianism:** no

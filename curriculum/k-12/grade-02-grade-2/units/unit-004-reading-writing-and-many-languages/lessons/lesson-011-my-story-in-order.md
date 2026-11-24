@@ -104,17 +104,15 @@ tomorrow, or far away, in your language and your script.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you") so it works in a classroom and for a
-self-directed learner. This is a writing lesson built on explicit modeling: write
-one model story from a plan together, sentence by sentence, before learners write
-their own (Kirschner, Sweller & Clark, 2006). Several sentences is the goal — not a
-fixed count; a learner may write two clear sentences today and grow to four. The
-story is written in the learner's home language and script; never require the Latin
-alphabet or English. Spelling grows through use; celebrate the attempt and note one
-pattern to grow, rather than marking errors as failure. A learner who uses an
-alternative or augmentative communication device, or who dictates to a scribe, is
-still the author — the ideas are theirs. Reading back is part of writing: it lets
-the author check the order.
+This is a writing lesson built on explicit modeling: write one model story from a plan
+together, sentence by sentence, before learners write their own (Kirschner, Sweller &
+Clark, 2006). Several sentences is the goal — not a fixed count; a learner may write two
+clear sentences today and grow to four. The story is written in the learner's home
+language and script; never require the Latin alphabet or English. Spelling grows through
+use; celebrate the attempt and note one pattern to grow, rather than marking errors as
+failure. A learner who uses an alternative or augmentative communication device, or who
+dictates to a scribe, is still the author — the ideas are theirs. Reading back is part
+of writing: it lets the author check the order.
 
 ## Procedure
 

@@ -103,11 +103,10 @@ feeling and decide what to do about it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). Model "working backward": hold up a
-scenario, wonder aloud about the feeling, and say the sentence. Accept that one
-situation can cause different feelings in different learners — that is real, not an
-error. Keep the focus on the link between situation and feeling, not on a single
-"correct" answer.
+Model "working backward": hold up a scenario, wonder aloud about the feeling, and say
+the sentence. Accept that one situation can cause different feelings in different
+learners — that is real, not an error. Keep the focus on the link between situation and
+feeling, not on a single "correct" answer.
 
 ## Procedure
 

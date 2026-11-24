@@ -119,24 +119,23 @@ is a rule you cannot question or change.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The idea to land: **a technology is
-governed by more than one force — law, standards, and markets — and these forces
-overlap, conflict, and leave gaps (Britannica's social-media article documents
-platforms setting rules and moderating content, S-481; the World Bank's Digital
-Dividends report frames regulation as one of the "analog complements" that decide
-whether technology spreads benefit or widens gaps, S-281).** A concrete, age-safe
-worked example of law governing technology is the 1850s sewing-machine patent disputes
-— several rival patents over one device, resolved only when the holders pooled them
-(Britannica, S-062). Hold "governance" as *description* — who actually decides — not
-yet as *recommendation* (that comes in Lesson 2).
+The idea to land: **a technology is governed by more than one force — law, standards,
+and markets — and these forces overlap, conflict, and leave gaps (Britannica's
+social-media article documents platforms setting rules and moderating content, S-481;
+the World Bank's Digital Dividends report frames regulation as one of the "analog
+complements" that decide whether technology spreads benefit or widens gaps, S-281).** A
+concrete, age-safe worked example of law governing technology is the 1850s
+sewing-machine patent disputes — several rival patents over one device, resolved only
+when the holders pooled them (Britannica, S-062). Hold "governance" as *description* —
+who actually decides — not yet as *recommendation* (that comes in Lesson 2).
 
-The **ethics** lens: every governance choice is a choice about who is protected and
-who is not. The **egalitarianism** lens: notice whose rules get written down and
-whose do not. The **global** lens: standards and markets cross borders while laws
-often stop at them — a mismatch worth naming, not resolving yet. The **technology**
-lens is the core here: the artifact and its rules are one thing. The
-**critical-thinking** lens: distinguishing *who decides* (evidence) from *who should
-decide* (value). Preview: Lesson 2 takes up the debate over regulating one.
+The **ethics** lens: every governance choice is a choice about who is protected and who
+is not. The **egalitarianism** lens: notice whose rules get written down and whose do
+not. The **global** lens: standards and markets cross borders while laws often stop at
+them — a mismatch worth naming, not resolving yet. The **technology** lens is the core
+here: the artifact and its rules are one thing. The **critical-thinking** lens:
+distinguishing *who decides* (evidence) from *who should decide* (value). Preview:
+Lesson 2 takes up the debate over regulating one.
 
 ## Procedure
 

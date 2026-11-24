@@ -116,31 +116,31 @@ how we hold it.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"). The ideas to land: **(1) empathy is not
-one thing — "feeling with" (empathic concern) is other-oriented and moves us toward
-help, while "feeling for" from a distance (and its overwhelmed cousin, personal
-distress) is self-oriented and can lead to avoidance or burnout; (2) technology can
-carry both — it extends empathy across distance but also risks flattening it into a
-quick react or numbing it into compassion fatigue.** The with/for distinction draws on
-Batson's empathic-concern vs. personal-distress work (S-230); the technology side draws
-on the research on digital platforms, empathy, and echo chambers (S-226, S-481). Present
-both as *descriptive*, not moralistic: a quick "react" is not a sin, and neither is
-stepping back to protect your own heart — the point is *awareness and choice*, not guilt
-(philosophy §8, §11).
+The ideas to land: **(1) empathy is not one thing — "feeling with" (empathic concern) is
+other-oriented and moves us toward help, while "feeling for" from a distance (and its
+overwhelmed cousin, personal distress) is self-oriented and can lead to avoidance or
+burnout; (2) technology can carry both — it extends empathy across distance but also
+risks flattening it into a quick react or numbing it into compassion fatigue.** The
+with/for distinction draws on Batson's empathic-concern vs. personal-distress work
+(S-230); the technology side draws on the research on digital platforms, empathy, and
+echo chambers (S-226, S-481). Present both as *descriptive*, not moralistic: a quick
+"react" is not a sin, and neither is stepping back to protect your own heart — the point
+is *awareness and choice*, not guilt (philosophy §8, §11).
 
 Model the skill once, then let learners practice (S-011). The **technology** lens:
 explain the mechanism — a feed shows many people's pain at once, at a distance, with a
 one-tap response, which can flatten empathy; algorithms may also show us mostly people
 like us, shrinking the range of whom we imagine ourselves with (S-481, S-482). The
 **global** lens: empathy reaches further than ever before — a person in one country can
-feel with someone in another — yet that same reach can overwhelm; different cultures have
-different norms for how feeling is shown, and none is the "right" amount. The
-**egalitarian** lens: whose suffering is shown, and whose is left out, shapes whom we are
-invited to feel with — ask that question out loud. The **ethics** lens: feeling with
+feel with someone in another — yet that same reach can overwhelm; different cultures
+have different norms for how feeling is shown, and none is the "right" amount. The
+**egalitarian** lens: whose suffering is shown, and whose is left out, shapes whom we
+are invited to feel with — ask that question out loud. The **ethics** lens: feeling with
 someone carries a small obligation — to listen, to respond, to act when we can; empathy
 without action can curdle into a performance. The **social-emotional** lens: this topic
-can bring up real pain, including our own — invite, never force; "pass" is always allowed,
-and the facilitator should watch for learners who may be carrying their own heavy story.
+can bring up real pain, including our own — invite, never force; "pass" is always
+allowed, and the facilitator should watch for learners who may be carrying their own
+heavy story.
 
 ## Procedure
 
