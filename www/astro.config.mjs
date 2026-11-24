@@ -4,6 +4,7 @@ import sitemap from '@astrojs/sitemap';
 
 import { copyAssets } from './src/lib/assets';
 import { standardsLinks } from './src/lib/standardsLinks';
+import { repoDocLinks, rewriteDocLinksAtBuild } from './src/lib/repoDocLinks';
 import { satteri } from '@astrojs/markdown-satteri';
 
 // https://astro.build/config
@@ -23,8 +24,9 @@ export default defineConfig({
       },
     }),
     copyAssets(),
+    rewriteDocLinksAtBuild(),
   ],
   markdown: {
-    processor: satteri({ hastPlugins: [standardsLinks] }),
+    processor: satteri({ hastPlugins: [standardsLinks, repoDocLinks] }),
   },
 });
