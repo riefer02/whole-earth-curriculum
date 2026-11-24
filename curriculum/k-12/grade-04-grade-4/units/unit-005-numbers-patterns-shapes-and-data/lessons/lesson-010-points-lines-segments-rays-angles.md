@@ -130,8 +130,8 @@ fact about the world, never about a person. Use the home language's words for th
 figures; all are correct.
 
 **The lenses, briefly.**
-- *Intellectual:* teach each figure with a worked example, then let learners act it
-  out with their bodies (Van de Walle, Karp & Bay-Williams, 2019; philosophy §13).
+- *Intellectual:* teach each figure with a worked example, then let learners act it out
+  with their bodies (Van de Walle, Karp & Bay-Williams, 2019, S-026; philosophy §13).
 - *Egalitarianism:* vocabulary is learned at each learner's own pace.
 - *Global:* measuring land and mapping stars happened in many places.
 - *Critical-thinking:* where does this figure stop, and where does it never stop?
@@ -187,6 +187,6 @@ in your house or street, and tell a grown-up which is which and how you know.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson. (The
-  geometry vocabulary of points, lines, segments, rays, and angles.)
+- On the geometry vocabulary of points, lines, segments, rays, and angles: Van de Walle,
+  Karp & Bay-Williams — Elementary and Middle School Mathematics: Teaching
+  Developmentally (S-026).

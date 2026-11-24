@@ -112,16 +112,16 @@ you are **communicating** — sending a message without saying it out loud.
 ## Facilitator note
 
 Creating a character is a **skill**, so model a worked example first (Kirschner, Sweller
-& Clark, 2006): become a character for a few seconds and narrate each choice — "I am an
-old tree-keeper, so my voice is slow and creaky, my body is bent, and I hold this stick
-like a walking staff." Then invite learners to try. Set a clear boundary: characters
-must be **invented**, not imitations of real people, accents, disabilities, or cultural
-stereotypes — those imitations can mock or misrepresent, which harms real people. A
-character can be a person, animal, object, or idea. After each performance, ask the two
-questions that matter: "What were you trying to communicate?" and "What did the audience
-read from it?" — the gap between them is the learning. Every body can perform: a
-wheelchair or a mobility aid can be part of the character, and a voice or a gesture
-alone can carry a whole character.
+& Clark, 2006, S-011): become a character for a few seconds and narrate each choice — "I
+am an old tree-keeper, so my voice is slow and creaky, my body is bent, and I hold this
+stick like a walking staff." Then invite learners to try. Set a clear boundary:
+characters must be **invented**, not imitations of real people, accents, disabilities,
+or cultural stereotypes — those imitations can mock or misrepresent, which harms real
+people. A character can be a person, animal, object, or idea. After each performance,
+ask the two questions that matter: "What were you trying to communicate?" and "What did
+the audience read from it?" — the gap between them is the learning. Every body can
+perform: a wheelchair or a mobility aid can be part of the character, and a voice or a
+gesture alone can carry a whole character.
 
 ## Procedure
 
@@ -167,5 +167,7 @@ and one object — and guess what each other's character was trying to communica
 
 ## Resources
 
-- No external resources required; the claims in this lesson are about the learner's own
-  creative choices and the everyday truth that voice, body, and objects carry meaning.
+- On modelling a new skill with a worked example, then guided practice: Kirschner,
+  Sweller & Clark — Why Minimal Guidance During Instruction Does Not Work (S-011).
+- On devised performance as a classroom drama form: IDEA — International Drama/Theatre
+  and Education Association (S-260).

@@ -126,7 +126,7 @@ real retelling and all are welcome.
    the story makes you feel something — happy, worried, curious — notice it.
 4. **Remember one thing (10 min).** Think: what is one important thing that happened?
    Tell it to a partner in your own words.
-5. **Close (5 min).** Remember: listening is a gift you give. Your ears, eyes, and body
+5. **Close (5 min).** Remember: listening is a gift you give (S-001). Your ears, eyes, and body
    are the tools that carry a story to you.
 
 ## Differentiation
@@ -146,7 +146,7 @@ real retelling and all are welcome.
 ## Resources
 
 - CASEL SEL Framework (foundational competencies; self-awareness and relationship
-  skills that listening builds): <https://casel.org/fundamentals-of-sel/>
+  skills that listening builds): <https://casel.org/fundamentals-of-sel/> (S-001)
 
 ## Home connection
 

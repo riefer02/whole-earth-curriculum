@@ -136,8 +136,8 @@ holds. See `docs/philosophy.md` §4 (egalitarianism) and `docs/facilitation.md`.
    design is finished, *who gets to use it?* And who is left standing outside?
 2. **Meet the three doors (12 min).** Look at the poster. One entrance, three doors. **Cost** —
    if it costs money, only those who can pay get through. **Ability** — if the entrance has
-   only steps, a person who uses a wheelchair cannot get in. **Availability** — if it is not
-   built where you live, you cannot reach it. Each door lets some people through and not
+   only steps, a person who uses a wheelchair cannot get in (S-280). **Availability** — if it is not
+   built where you live, you cannot reach it (S-281). Each door lets some people through and not
    others. Now the fairness move: add a **ramp** beside the steps, and more people get in —
    the design changed, and so did who belongs.
 3. **Read your own card (18 min).** Take a card. The **school library computer** (in: learners
@@ -184,3 +184,6 @@ open it up — a lower price, a different design, or bringing it closer?
   Accessibility Guidelines and the UN Convention on the Rights of Persons with Disabilities).
   The framing of access as a fairness question, not a deficit story, follows
   `docs/philosophy.md` §4 and `docs/facilitation.md`.
+- On removing barriers so people with disabilities can take part: W3C WAI — Web Content Accessibility Guidelines (WCAG) (S-280).
+- On how access to technology varies by cost, geography, and disability: World Bank — World Development Report 2016: Digital Dividends (S-281).
+

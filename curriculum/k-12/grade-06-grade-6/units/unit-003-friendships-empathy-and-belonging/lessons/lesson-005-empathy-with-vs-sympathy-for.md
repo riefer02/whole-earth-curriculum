@@ -98,8 +98,8 @@ two and write an **empathy note**, learning that "with" is felt as being *joined
 Your friend's grandparent is very ill. One person says, "Oh, you poor thing, I feel so sorry
 for you" — and somehow your friend feels *smaller*. Another sits down beside them and says,
 "That must be so scary — I'm right here." That second one is **empathy**: it stands *with*
-the person, at their level, not *above* them. Sympathy reaches *down*; empathy reaches
-*across*. The difference is felt in the body — and it matters in every place people comfort
+the person, at their level, not *above* them (S-231). Sympathy reaches *down*; empathy reaches
+*across* (S-230). The difference is felt in the body — and it matters in every place people comfort
 one another, a hospital ward in one city or a neighbour's doorstep in another.
 
 ## Materials
@@ -172,3 +172,6 @@ level — and notice what you say and how it lands.
   empathic concern vs personal distress; Decety & Cowell on empathic responding). The
   "with vs for" framing is a teaching simplification of that literature. For classroom SEL
   framing: <https://casel.org/fundamentals-of-sel/>
+- On empathic concern as distinct from personal distress: C. Daniel Batson, Judy Fultz & Patricia A. Schoenrade — Distress and empathy: Two qualitatively distinct vicarious emotions with different motivational consequences (S-230).
+- On empathy and perspective-taking as routes to prosocial understanding: Jean Decety & Jason M. Cowell — Empathy, Perspective-Taking, and Morality (S-231).
+

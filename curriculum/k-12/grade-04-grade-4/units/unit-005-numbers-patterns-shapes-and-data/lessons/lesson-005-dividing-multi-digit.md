@@ -123,7 +123,7 @@ leftover is part of the story.
 **The facts to land.**
 1. Division is the inverse of multiplication, best learned as **sharing and grouping
    with real objects** before the written algorithm (Carpenter, Fennema, Franke, Levi &
-   Empson, 2015; Van de Walle, Karp & Bay-Williams, 2019).
+   Empson, 2015, S-025; Van de Walle, Karp & Bay-Williams, 2019, S-026).
 2. A **remainder** is what is left when the groups are full: sharing 125 into 4 groups
    gives 31 in each with 1 left, so 125 ÷ 4 = 31 R 1.
 3. The check — 31 × 4 + 1 = 125 — is the feedback loop that turns a guess into a proof.
@@ -186,9 +186,8 @@ leftover means.
 
 ## Resources
 
-- Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (2015).
-  *Children's Mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann.
-  (Sharing and grouping as the base of division.)
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson.
-  (Connecting sharing to the division algorithm and interpreting remainders.)
+- On sharing and grouping as the base of division: Carpenter, Fennema, Franke, Levi &
+  Empson — Children's Mathematics: Cognitively Guided Instruction (S-025).
+- On connecting sharing to the division algorithm and interpreting remainders: Van de
+  Walle, Karp & Bay-Williams — Elementary and Middle School Mathematics: Teaching
+  Developmentally (S-026).

@@ -100,7 +100,7 @@ or body.
 Last lesson you learned the difference between a claim and evidence. Now you put it
 together on a *whole* ad. Real advertisements are not just one claim — they are a package
 of pieces working together: a big promise up top, a warm feeling in the middle, and tiny
-limits down at the bottom. Reading them piece by piece is like reading a map: once you can
+limits down at the bottom (S-312). Reading them piece by piece is like reading a map: once you can
 label the parts, the ad stops doing its work on you without your permission.
 
 ## Materials
@@ -172,3 +172,5 @@ ad, never about anyone's eating.
   children: <https://www.who.int/publications/i/item/9789241500210>
 - WHO — Healthy diet fact sheet:
   <https://www.who.int/news-room/fact-sheets/detail/healthy-diet>
+- On how food advertising works and why marketing to children is regulated: WHO — Set of recommendations on the marketing of foods and non-alcoholic beverages to children (S-312).
+

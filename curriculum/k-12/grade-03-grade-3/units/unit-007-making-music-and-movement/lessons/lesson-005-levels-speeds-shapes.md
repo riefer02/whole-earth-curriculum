@@ -104,7 +104,7 @@ speed, and shape are a movement language.
 Your body can be tall as a tree (that is a **high** level), low as a stone (a **low**
 level), and everywhere in between. It can move fast as rain or slow as a cloud, and it
 can make round shapes and sharp shapes. Dancers everywhere use **level**, **speed**,
-and **shape** to speak without words. Today you will make your body speak in levels,
+and **shape** to speak without words (S-189). Today you will make your body speak in levels,
 speeds, and shapes.
 
 ## Materials
@@ -163,8 +163,8 @@ their own range. Celebrate each dancer's choices.
 
 ## Resources
 
-- No external resources required; the claims in this lesson are about the learner's own
-  moving body, which they experience directly.
+- On dance and movement as an art form taught through level, speed and shape: The Kennedy
+  Center — Education (S-189).
 
 ## Home connection
 

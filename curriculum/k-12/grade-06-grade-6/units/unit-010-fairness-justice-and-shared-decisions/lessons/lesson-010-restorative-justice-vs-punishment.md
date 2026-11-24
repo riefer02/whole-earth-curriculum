@@ -166,11 +166,11 @@ and proper systems; this lesson is about the ideas, not resolving real cases. Se
    (Pause — spaced retrieval across the unit makes these stick.)
 2. **Meet the two responses (10 min).** Look at the poster. **Restorative justice** responds
    to harm by *repairing it*: the person harmed is heard, the person who harmed takes
-   responsibility, and the harm is made right as far as it can be. **Punishment** responds
+   responsibility, and the harm is made right as far as it can be (S-161). **Punishment** responds
    by giving a *consequence* for the wrong. Each has **aims** — and each has **limits**.
 3. **Worked example (10 min).** Compare together. *Harm:* a shared water jar is broken.
    *Restorative response:* the person hears what the loss meant, apologizes, and helps
-   mend or replace it. *Punishment response:* the person loses a turn. Now name an **aim**
+   mend or replace it (S-022). *Punishment response:* the person loses a turn. Now name an **aim**
    and a **limit** of each: restorative aims to repair harm and heal the relationship, but
    takes time and willingness; punishment aims at a clear consequence, but the harm — and
    the harmed person's needs — may go unrepaired.
@@ -214,3 +214,6 @@ repair or consequence — and name one aim and one limit of the way they usually
   Public Interest* 14(1), 4–58.
 - On modeling a comparison before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On restorative justice as repair rather than punishment: Howard Zehr — Changing Lenses (restorative justice) (S-161).
+- On the restorative questions — what happened, who was harmed, and how to make it right: International Institute for Restorative Practices (IIRP) (S-022).
+

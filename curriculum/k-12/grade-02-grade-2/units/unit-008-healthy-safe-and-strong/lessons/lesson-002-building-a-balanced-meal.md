@@ -88,7 +88,7 @@ last_updated: 2026-08-16
 Learners build a simple balanced meal by choosing at least one food from several
 different groups and adding water to drink. They watch a worked example, build a plate
 together, then build their own. A balanced meal can look many ways across the world's
-kitchens; no food and no meal is ranked.
+kitchens; no food and no meal is ranked (S-038).
 
 ## Objectives
 
@@ -189,5 +189,5 @@ groups and a glass of water, and name the group each food comes from.
 
 ## Resources
 
-- World Health Organization, "Healthy diet" (why variety across food groups matters):
-  <https://www.who.int/news-room/fact-sheets/detail/healthy-diet>
+- On variety across food groups in a healthy diet: WHO — Healthy diet fact sheet
+  (S-038).

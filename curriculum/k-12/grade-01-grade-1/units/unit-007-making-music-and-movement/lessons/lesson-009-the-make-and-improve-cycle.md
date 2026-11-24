@@ -100,7 +100,7 @@ try but a circle, and that every maker everywhere moves through these same steps
 Think of a potter shaping a bowl, a boat-builder fixing a leak, a cook tasting a stew
 and adding salt. Each one is doing the same circle: **imagine** what to make,
 **plan** how, **make** it, **test** it, and **improve** it — then around again. The
-cycle has no "wrong" stop on it; every stop teaches you something. Today you will
+cycle has no "wrong" stop on it; every stop teaches you something (S-370). Today you will
 travel the whole circle on one build.
 
 ## Materials
@@ -166,3 +166,8 @@ circle with a stone marking each step. Honor every journey around the circle.
 
 At home, choose a small making job and travel the circle with a grown-up: imagine,
 plan, make, test, improve. Tell them which step was your favorite.
+
+## Resources
+
+- On the design cycle of imagining, planning, making, testing, and improving:
+  TeachEngineering — Engineering Design Process (S-370).

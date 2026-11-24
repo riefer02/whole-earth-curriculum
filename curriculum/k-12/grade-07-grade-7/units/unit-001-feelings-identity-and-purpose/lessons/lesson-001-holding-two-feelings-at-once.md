@@ -97,7 +97,7 @@ You leave a place you love to begin something new: the last day of the season, a
 moving to another town, a grandmother's house sold, the final game of a team you will never
 play on again. Your chest holds two things at once — joy at what is beginning and grief at
 what is ending. The word "and" does the honest work here: you are not *either* happy *or*
-sad. You are happy **and** sad, in the same breath, in the same body. Whether you live in a
+sad. You are happy **and** sad, in the same breath, in the same body (S-015). Whether you live in a
 high-rise city or a mountain village, this is a feeling every person knows.
 
 ## Materials
@@ -173,3 +173,5 @@ same breath — and share one small example of your own if you like.
   <https://www.rulerapproach.org/>
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On naming mixed and co-occurring feelings with precision: RULER Approach — Yale Center for Emotional Intelligence (S-015).
+

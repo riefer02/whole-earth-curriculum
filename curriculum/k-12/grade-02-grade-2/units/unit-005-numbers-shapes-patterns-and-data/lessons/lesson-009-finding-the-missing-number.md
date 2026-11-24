@@ -84,7 +84,7 @@ last_updated: 2026-08-16
 Learners solve one-step addition and subtraction stories where a number is missing —
 "I had some seeds, I gave away 4, now I have 6." They act the story out with objects,
 write it as a number sentence with a blank, find the missing number, and check by
-putting it back.
+putting it back (S-025).
 
 ## Objectives
 
@@ -168,6 +168,6 @@ solve it together with small objects.
 
 ## Resources
 
-- Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (2015).
-  *Children's Mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann.
-  (Start-unknown and change-unknown problems as the missing-number problem types.)
+- On start-unknown and change-unknown problems — the missing-number problem types:
+  Carpenter, Fennema, Franke, Levi & Empson — Children's Mathematics: Cognitively
+  Guided Instruction (S-025).

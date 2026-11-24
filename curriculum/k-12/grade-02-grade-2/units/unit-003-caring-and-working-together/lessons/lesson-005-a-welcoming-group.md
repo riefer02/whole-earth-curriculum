@@ -94,8 +94,8 @@ in its own way.
 Remember your first day in a new place — a new class, a new neighborhood, a new team.
 What made you feel like you belonged? Probably someone said hello, learned your name,
 made a space for you, and invited you into what they were doing. That is what a
-welcoming group does. In every part of the world, people welcome newcomers in their
-own way — a bow, a handshake, sharing tea, a song of welcome. Today you will name
+welcoming group does. In every part of the world, people welcome newcomers in their own
+way — a bow, a handshake, sharing tea, a song of welcome (S-158). Today you will name
 what welcome looks like and build a picture of a group where everyone belongs.
 
 ## Materials
@@ -158,3 +158,8 @@ the procedure aloud; model each step with voice and body.
 
 At home, notice a time someone new is around — a visitor, a new neighbor — and try
 the welcome steps: say hi, learn their name, make room, invite them in.
+
+## Resources
+
+- On belonging and inclusion across cultures: UNESCO — Learning to Live Together
+  (S-158).

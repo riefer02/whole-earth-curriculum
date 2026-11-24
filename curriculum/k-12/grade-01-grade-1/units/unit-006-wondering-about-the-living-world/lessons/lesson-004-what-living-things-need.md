@@ -91,7 +91,7 @@ You get thirsty and you drink water. You get hungry and you eat. You breathe air
 day without thinking about it, and you sleep somewhere warm and safe. Every living
 thing — a plant on a windowsill, a fish in a river, a camel in the desert, a person
 anywhere on Earth — needs the same four things to stay alive: **food, water, air, and
-shelter**.
+shelter** (S-032; S-033).
 
 ## Materials
 
@@ -160,10 +160,7 @@ gave it.
 
 ## Resources
 
-- BBC Bitesize (KS1 Science), "What do animals need to survive?" — animals need air,
-  water, shelter, and food to survive.
-  https://www.bbc.co.uk/bitesize/topics/z6882hv/articles/zx38wmn
-- BBC Bitesize (KS1 Science), "What does a plant need to grow?" — plants need water,
-  light, the right temperature, air, and time; they use light to make food in their
-  leaves and take up water and nutrients through their roots.
-  https://www.bbc.co.uk/bitesize/topics/zpxnyrd/articles/zkp2jsg
+- On what animals need to survive — air, water, shelter, and food: BBC Bitesize (KS1
+  Science), "What do animals need to survive?" (S-032).
+- On what plants need to grow — water, light, air, the right temperature, and time:
+  BBC Bitesize (KS1 Science), "What does a plant need to grow?" (S-033).

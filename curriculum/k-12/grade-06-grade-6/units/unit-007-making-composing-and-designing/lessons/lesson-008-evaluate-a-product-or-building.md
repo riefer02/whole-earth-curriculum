@@ -116,7 +116,7 @@ cycle.
 Everything around you was designed by someone — the tap you turn, the bus stop you wait
 at, the bottle you drink from, the door you walk through. And every design answers three
 questions, whether its maker asked them or not: **Does it work? Who does it leave out?
-What does it cost the Earth?** A tap may give clean water but be too high for a child or
+What does it cost the Earth?** (S-369) A tap may give clean water but be too high for a child or
 too hard to turn for an older hand; a bottle may be cheap but pile up for centuries; a
 building may shelter thousands but turn its back on anyone who cannot climb its steps.
 Learning to ask all three questions is how you stop being only a *user* of the designed
@@ -161,7 +161,7 @@ despair. The closing reflection is retrieval practice across the whole unit. See
    in. *Who is left out?* Its **steps** leave out people who use wheelchairs or canes and
    parents carrying small children, and its **heavy door** leaves out anyone with a weak
    grip. *Effect on the environment?* Its concrete and glass cost energy to make, and a
-   dark corridor needs electric light all day. Notice: a design can *work* and still *leave
+   dark corridor needs electric light all day (S-371). Notice: a design can *work* and still *leave
    people out* and *cost the Earth*. All three lenses matter at once.
 3. **Choose and evaluate (20 min).** Pick one product or building — a public water tap, a
    bus stop shelter, a plastic bottle, a bicycle, a market stall, a phone, or something
@@ -208,3 +208,6 @@ tell someone one improvement you would make and why.
 - UNESCO's Education for Sustainable Development frames caring for people and the Earth as
   one practice, which underlies the access-and-environment lenses:
   <https://www.unesco.org/en/sustainable-development/education>
+- On universal design and designing for the full range of users: The Center for Universal Design (NC State University) (S-369).
+- On life-cycle thinking about materials and environmental cost: U.S. Environmental Protection Agency — Sustainable Materials Management (life cycle) (S-371).
+

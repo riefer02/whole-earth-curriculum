@@ -155,7 +155,7 @@ organizations document language loss and revitalization. See `docs/facilitation.
    boycott, refusal, art, storytelling.) Today: what those forms were answering.
 2. **Meet colonization (10 min).** **Colonization** is one people taking and ruling
    another's land and life. From the late 1400s onward, European powers colonized much
-   of the Americas, Africa, Asia, and Oceania.
+   of the Americas, Africa, Asia, and Oceania (S-326).
 3. **Three losses (15 min).** Fill the three columns. **Land** — homelands taken from
    the peoples who lived there (**dispossession**). **Culture** — languages and
    practices suppressed; in some places, children were taken to distant schools where
@@ -201,3 +201,5 @@ quiet victory.
   values-and-accuracy commitment (`docs/philosophy.md` §4), not a historical claim.
 - On explicit instruction and worked examples: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On the global reach of European colonization and its effects: Encyclopaedia Britannica — Western colonialism (S-326).
+

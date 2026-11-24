@@ -102,7 +102,7 @@ speak and the words in brackets say "she sets the basket down slowly." The first
 **nonfiction** — information you can verify; the second is **drama** — a play meant to be
 acted. A well-read person can move between them without confusion: they know that a fact and a
 spoken line are judged by different standards — a fact by *whether it is true*, a line by
-*what it shows about the character*. Both are everywhere, in every language, from a newspaper
+*what it shows about the character* (S-170). Both are everywhere, in every language, from a newspaper
 to a festival stage.
 
 ## Materials
@@ -176,3 +176,5 @@ acted out, a conversation) around you, and name what each is made of.
   guide. Distinguishing a checkable fact from a spoken line is part of the evidence-vs-belief
   skill (`docs/philosophy.md` §5). Reading plays aloud supports fluency and comprehension; see
   the National Reading Panel report (2000).
+- On the different structures of informational text and drama: IES — Improving Adolescent Literacy: Effective Classroom and Intervention Practices (S-170).
+

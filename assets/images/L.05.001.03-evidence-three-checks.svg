@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t-l0500103 d-l0500103">
+  <title id="t-l0500103">Three checks for evidence</title>
+  <desc id="d-l0500103">A clipboard lists three checks: exact, meaning a number or clear detail; recorded, meaning written at the time; and checkable, meaning someone else can look. Below, an example record reads 14 centimetres on Monday and 19 centimetres on Friday, beside a small ruler.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Three Checks for Evidence</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">before a record can be used as evidence</text>
+
+  <!-- clipboard -->
+  <rect x="76" y="104" width="360" height="252" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="216" y="92" width="80" height="24" rx="8" fill="#4f6d7a"/>
+
+  <!-- row 1 -->
+  <circle cx="120" cy="150" r="12" fill="#7a9e7e"/>
+  <path d="M114 150 L118 155 L127 144" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="146" y="148" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">exact</text>
+  <text x="146" y="170" font-family="sans-serif" font-size="12" fill="#222222">a number or a clear detail</text>
+
+  <!-- row 2 -->
+  <circle cx="120" cy="208" r="12" fill="#7a9e7e"/>
+  <path d="M114 208 L118 213 L127 202" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="146" y="206" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">recorded</text>
+  <text x="146" y="228" font-family="sans-serif" font-size="12" fill="#222222">written down at the time</text>
+
+  <!-- row 3 -->
+  <circle cx="120" cy="266" r="12" fill="#7a9e7e"/>
+  <path d="M114 266 L118 271 L127 260" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="146" y="264" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">checkable</text>
+  <text x="146" y="286" font-family="sans-serif" font-size="12" fill="#222222">someone else can look</text>
+
+  <!-- example -->
+  <rect x="60" y="378" width="392" height="72" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="2"/>
+  <text x="78" y="406" font-family="sans-serif" font-size="13" fill="#222222">14 cm on Monday, 19 cm on Friday</text>
+  <text x="78" y="430" font-family="sans-serif" font-size="12" fill="#4f6d7a">a record that passes all three checks</text>
+  <rect x="330" y="396" width="108" height="20" rx="3" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="342" y1="396" x2="342" y2="406" stroke="#4f6d7a" stroke-width="1.5"/>
+  <line x1="354" y1="396" x2="354" y2="410" stroke="#4f6d7a" stroke-width="1.5"/>
+  <line x1="366" y1="396" x2="366" y2="406" stroke="#4f6d7a" stroke-width="1.5"/>
+  <line x1="378" y1="396" x2="378" y2="410" stroke="#4f6d7a" stroke-width="1.5"/>
+  <line x1="390" y1="396" x2="390" y2="406" stroke="#4f6d7a" stroke-width="1.5"/>
+  <line x1="402" y1="396" x2="402" y2="410" stroke="#4f6d7a" stroke-width="1.5"/>
+  <line x1="414" y1="396" x2="414" y2="406" stroke="#4f6d7a" stroke-width="1.5"/>
+  <line x1="426" y1="396" x2="426" y2="410" stroke="#4f6d7a" stroke-width="1.5"/>
+
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">If it cannot be checked, it is not evidence yet.</text>
+</svg>

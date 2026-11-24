@@ -87,7 +87,8 @@ last_updated: 2026-08-17
 
 In this **capstone** lesson, learners learn that when a choice affects someone else, they
 can take responsibility **without shame**: name the choice, notice its effect, and make a
-**repair plus a better next step**. They work through a **choice–effect–repair** frame,
+**repair plus a better next step** (S-022). They work through a
+**choice–effect–repair** frame,
 rehearse a repair in role-play, and connect the skill back to the thoughts (Lesson 1) and
 values (Lessons 5–6) they have studied all unit — closing the unit with agency and hope.
 
@@ -186,3 +187,7 @@ repair — and notice how the repair changes the day.
   making things right rather than shame (see the work of Howard Zehr and restorative
   justice in schools). For classroom SEL framing, see CASEL's
   responsible-decision-making competency: <https://casel.org/fundamentals-of-sel/>
+
+- On responding to harm by naming what happened, who was affected, and how to make
+  it right: International Institute for Restorative Practices (IIRP),
+  <https://www.iirp.edu/> (S-022).

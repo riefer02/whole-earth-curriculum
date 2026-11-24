@@ -94,7 +94,8 @@ for your turn to talk, you miss half of what they said. But if you listen and th
 "So what you're saying is you were left out of the game" — you show them you heard, and
 you give them a chance to fix it if you got it wrong. A fisher checking the net, a cook
 tasting the soup, a friend saying a worry back to you — everywhere, people *check* that
-they understood. That is active listening, and it is how trust is built between people.
+they understood. That is active listening, and it is how trust is built between people
+(S-174).
 
 ## Materials
 
@@ -111,27 +112,26 @@ they understood. That is active listening, and it is how trust is built between 
 ## Facilitator note
 
 Active listening is a **skill**, so teach it with explicit instruction and a worked
-example before learners try it alone (Kirschner, Sweller & Clark, 2006). The one idea to
-protect: *paraphrasing is not repeating word-for-word* — it is saying the idea back in
-your own words and then checking. Model the difference clearly, and model the "check"
-("Did I get it right?") as a genuine question, not a test. CASEL places listening inside
-relationship skills. Honor every way of listening and speaking: a learner who signs,
-points to a starter, or writes a paraphrase is doing active listening fully, and their
-turn is treated the same as any other. This is an egalitarian moment — the quiet voice
-and the loud voice each get a turn, and no one is skipped. Keep topics friendly and
-small so no learner's life is put on display. Read the procedure aloud and model each
-starter with voice and body.
+example before learners try it alone (Kirschner, Sweller & Clark, 2006, S-011). The one
+idea to protect: *paraphrasing is not repeating word-for-word* — it is saying the idea
+back in your own words and then checking. Model the difference clearly, and model the
+"check" ("Did I get it right?") as a genuine question, not a test. CASEL places
+listening inside relationship skills. Honor every way of listening and speaking: a
+learner who signs, points to a starter, or writes a paraphrase is doing active listening
+fully, and their turn is treated the same as any other. This is an egalitarian moment —
+the quiet voice and the loud voice each get a turn, and no one is skipped. Keep topics
+friendly and small so no learner's life is put on display. Read the procedure aloud and
+model each starter with voice and body.
 
 ## Procedure
 
-1. **Gather (5 min).** Last year you learned to take turns and build on what a
-   classmate said. Today you go deeper: it is one thing to wait for your turn — it is
-   another to *really hear* the person. What does it feel like when someone truly
-   listens to you?
+1. **Gather (5 min).** Last year you learned to take turns and build on what a classmate
+   said. Today you go deeper: it is one thing to wait for your turn — it is another to
+   *really hear* the person. What does it feel like when someone truly listens to you?
 2. **Meet the loop (10 min).** Learn the three steps of active listening: **one,
    listen** — look at the speaker and keep your own reply waiting; **two, say it back**
-   — put their idea into your own words using a starter: "So what I hear you saying
-   is…"; **three, check** — ask, "Did I get it right?" Watch a worked example: a
+   — put their idea into your own words using a starter (S-238): "So what I hear you
+   saying is…"; **three, check** — ask, "Did I get it right?" Watch a worked example: a
    volunteer shares one sentence; the facilitator says it back *in different words* and
    checks. Notice it is not copying — it is understanding.
 3. **Say it back, not copy (10 min).** With a partner, try the difference. Your partner
@@ -168,5 +168,11 @@ own words, then check: "Did I get it right?"
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On listening, paraphrasing, and clarifying as learnable listening skills:
+  International Listening Association — Listening Skills resources (S-174).
+- On restating another person's idea as a classroom talk move: Michaels & O'Connor —
+  Accountable Talk (S-238).
+- On relationship skills as a core SEL competency: CASEL — Fundamentals of Social and
+  Emotional Learning (S-001).
+- On explicit instruction and worked examples for a new skill: Kirschner, Sweller &
+  Clark — Why Minimal Guidance During Instruction Does Not Work (S-011).

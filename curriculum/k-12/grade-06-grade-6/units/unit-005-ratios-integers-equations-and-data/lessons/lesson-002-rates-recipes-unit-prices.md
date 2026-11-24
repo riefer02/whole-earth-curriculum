@@ -98,7 +98,7 @@ Two bags of rice sit side by side in a market: one holds 2 kilograms and costs 8
 holds 3 kilograms and costs 9 coins. Which is the better buy? You cannot tell from the price alone —
 you must ask "how much for *one* kilogram?" That "per 1" amount is a **unit rate**, and it is how
 shoppers everywhere, from a stall in Accra to a market in Manila to a shop in Lima, compare prices
-honestly. Cooks use the same idea to scale a recipe: if 2 cups of rice need 3 cups of water, then 4
+honestly (S-026). Cooks use the same idea to scale a recipe: if 2 cups of rice need 3 cups of water, then 4
 cups of rice need 6 cups of water.
 
 ## Materials
@@ -126,7 +126,7 @@ with units attached. The egalitarian lens is sharp here (`docs/philosophy.md` §
 skill of finding a unit price protects buyers from overpaying, which matters most to
 people with the least to spend. Note the global point: the idea of a "per one" price is
 ancient and appears wherever people trade; we use "coins" as a stand-in so no single
-currency is treated as the default.
+currency is treated as the default (S-028).
 
 ## Procedure
 
@@ -173,3 +173,6 @@ per-1 price of each, and tell someone which is the better buy.
   practice of trade worldwide is a historical observation; the claim that honest unit-price comparison
   protects buyers is an egalitarian value (`docs/philosophy.md` §4). Using "coins" rather than any one
   currency is a deliberate choice to avoid a single default currency.
+- On rates and unit rates: John A. Van de Walle, Karen S. Karp & Jennifer M. Bay-Williams — Elementary and Middle School Mathematics: Teaching Developmentally (S-026).
+- On the long history and variety of money and exchange: Glyn Davies — A History of Money: From Ancient Times to the Present Day (S-028).
+

@@ -107,7 +107,7 @@ heavy to drag across the ground, a load too heavy to carry up steps. People long
 three small helpers. A **lever** — a stick over a stone — lifts the rock. A **wheel** lets
 the box roll. A **ramp** lets the load roll up a slope. You have seen all three: a seesaw in
 a park, a cart in a market, a slope up to a door. Each one turns a hard job into an easier
-one.
+one (S-061).
 
 ## Materials
 
@@ -206,6 +206,5 @@ most and why.
 
 ## Resources
 
-- Britannica Kids, "Tool" — a tool is anything people use to help do a job, supporting the
-  lesson's core idea that simple machines are things people made to make work easier.
-  https://kids.britannica.com/kids/article/tool/400194
+- On a tool as anything people use to help them do a job: Britannica Kids — Tool (S-061).
+

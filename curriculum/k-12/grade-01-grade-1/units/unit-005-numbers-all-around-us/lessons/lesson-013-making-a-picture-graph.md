@@ -98,7 +98,7 @@ each, turning many small voices into one picture everyone can agree on.
 A village elder wants to know which crop the farmers planted most so the storehouse
 can prepare; a family wants to know which meal everyone likes best; a teacher wants
 to know how each child comes to school. When you ask everyone the same question and
-put one mark for each answer in a row, you make a **picture graph** — and suddenly
+put one mark for each answer in a row, you make a **picture graph** (S-027) — and suddenly
 the answer is easy to see. Turning voices into a picture is how people make decisions
 together, fairly.
 
@@ -177,5 +177,5 @@ mark or object for each answer in a row, and tell a grown-up which row has the m
 ## Resources
 
 - National Research Council. (2009). *Mathematics Learning in Early Childhood: Paths
-  Toward Excellence and Equity*. The National Academies Press. (Early data
+  Toward Excellence and Equity*. The National Academies Press (S-027). (Early data
   collection and representation with real objects and picture graphs.)

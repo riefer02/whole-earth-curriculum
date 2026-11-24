@@ -97,7 +97,7 @@ object bob *in place*, and label the parts — crest, trough, amplitude, wavelen
 Drop a leaf on a pond and watch a ripple pass. The leaf bobs up and down but does **not**
 travel with the ripple — the *energy* travels across the water while the water itself mostly
 stays put. A guitar string vibrates and the air carries the sound to your ear; sunlight
-crosses empty space to warm your face. Sound, light, and water waves are all the same trick:
+crosses empty space to warm your face (S-045). Sound, light, and water waves are all the same trick:
 **energy moving from one place to another** while the medium — air, water, string — moves in
 place.
 
@@ -175,3 +175,5 @@ while the medium moves in place. Describe what you observed.
   commitment, not a physical claim (`docs/philosophy.md` §4).
 - On explicit instruction for novice content: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On sound as vibration travelling through a medium: BBC Bitesize (KS2) — Sound (How are sounds made?) (S-045).
+

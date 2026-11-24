@@ -97,7 +97,7 @@ A tea seller charges 4 coins for each cup and 3 coins for the pot, always. If yo
 many cups a customer will buy, you can still write the rule: **4t + 3**, where *t* stands for the number
 of cups. The moment the customer says "five cups," you substitute: **4 × 5 + 3 = 23 coins**. A
 **variable** is a box that can hold any number, and an **expression** is the recipe that tells you what
-to do with it. Sellers, builders, cooks, and bus drivers use such recipes all day, everywhere.
+to do with it (S-026). Sellers, builders, cooks, and bus drivers use such recipes all day, everywhere.
 
 ## Materials
 
@@ -129,7 +129,7 @@ and do the operations in order.
 - *Intellectual:* a rule written once can be reused with any input.
 - *Global:* symbols are a human convention — different traditions chose different ones,
   and algebra grew from al-Khwarizmi's work across the Persian and Arabic world,
-  building on Indian and Greek number ideas.
+  building on Indian and Greek number ideas (S-293).
 - *Critical-thinking:* writing a rule clearly enough for anyone to follow is shareable,
   and that is an egalitarian value (`docs/philosophy.md` §4).
 
@@ -184,3 +184,6 @@ write an expression for it; then pick a number and evaluate it.
   of al-Khwarizmi and others across the Persian and Arabic world, building on Indian and Greek ideas, is
   documented history; the value that clear rules should be shareable by everyone is a commitment
   (`docs/philosophy.md` §4).
+- On variables and expressions: John A. Van de Walle, Karen S. Karp & Jennifer M. Bay-Williams — Elementary and Middle School Mathematics: Teaching Developmentally (S-026).
+- On al-Khwarizmi and the beginnings of algebra: MacTutor History of Mathematics Archive — Al-Khwarizmi (S-293).
+

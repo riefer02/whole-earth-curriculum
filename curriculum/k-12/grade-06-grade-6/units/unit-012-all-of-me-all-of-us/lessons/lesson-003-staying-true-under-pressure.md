@@ -100,7 +100,7 @@ trying to focus — that is **distraction**. Friends urge you to join something 
 for you — that is **peer pressure**. All three push on the same thing: your **values**, the ideas
 about right and wrong you have chosen to live by. When pressure pushes, your values are the
 **compass** that tells you which way is *your* way. The skill is not to feel nothing — it is to
-**pause, name what presses, and choose what stays true**. That skill works in a busy city, a
+**pause, name what presses, and choose what stays true** (S-224). That skill works in a busy city, a
 quiet village, on a screen, or in a crowded corridor.
 
 ## Materials
@@ -175,3 +175,5 @@ when life pushes — and tell them yours.
   and responsible decision-making competencies; explicit modeling of a strategy supports novice
   learners (Kirschner, Sweller & Clark, 2006):
   <https://casel.org/fundamentals-of-sel/>
+- On pausing before acting on an impulse: Walter Mischel, Yuichi Shoda & Monica L. Rodriguez — Delay of Gratification in Children (S-224).
+

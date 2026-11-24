@@ -102,7 +102,7 @@ different lives use different amounts, and knowing that is the first step to cho
 
 Every day your life reaches out to draw on the world: the food you eat, the water and energy
 you use, the way you travel, the things you own and throw away. Together those draws make up
-your **footprint** — the mark your life leaves on the Earth's resources. Two people can live
+your **footprint** — the mark your life leaves on the Earth's resources (S-277). Two people can live
 very different lives and leave very different marks. Today you learn to measure and compare
 those marks — not to judge anyone, but to understand, so you can choose.
 
@@ -181,3 +181,5 @@ most, and what is one small change we could try?
   WWF and the UN Environment Programme; the four-part breakdown (food, travel, energy, things)
   is a common classroom simplification. The explicit non-shaming framing follows
   `docs/philosophy.md` §4 (egalitarianism) and `docs/facilitation.md`.
+- On the ecological footprint as a measure of how much nature a life uses: Global Footprint Network — Ecological Footprint (S-277).
+

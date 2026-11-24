@@ -87,7 +87,7 @@ last_updated: 2026-08-15
 
 Learners step into a story and become its characters. Using their voice, face, and
 body, they play a helper, a seeker, a kind neighbor. Pretending lets a child feel
-what another person feels — a small, safe lesson in walking in someone else's shoes.
+what another person feels (S-231) — a small, safe lesson in walking in someone else's shoes.
 
 ## Objectives
 
@@ -147,6 +147,10 @@ is no "correct" way to play one.
 - **Formative (observation):** Does the learner use voice, face, or body to show a
   character?
 - **Performance:** The learner's character, observed live.
+
+## Resources
+
+- On perspective-taking and empathy: Decety & Cowell — Empathy, Perspective-Taking, and Morality (S-231).
 
 ## Home connection
 

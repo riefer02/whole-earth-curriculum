@@ -68,7 +68,7 @@ summary: >-
   The year closes with a portfolio celebration and a reflection on care: every
   learner's year of work is displayed equally, each child shares one remembered act of
   care, and the class reflects on why helping others helps everyone — including
-  themselves — then looks ahead to Grade 3. A celebration, never a contest.
+  themselves — then looks ahead to Grade 3 (S-163). A celebration, never a contest.
 cross_cutting_lenses:
   - social-emotional
   - ethics
@@ -210,4 +210,5 @@ you too.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness, relationship skills): <https://casel.org/fundamentals-of-sel/>
+- On mutual aid — help that flows between equals — as a widespread human practice:
+  Kropotkin (1902) — Mutual Aid: A Factor of Evolution (S-163).

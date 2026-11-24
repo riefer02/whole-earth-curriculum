@@ -80,7 +80,7 @@ last_updated: 2026-08-15
 
 Learners practice a fair way and an unfair way to share a toy or snack, name which is
 fair, and meet two ideas side by side as an open question: fair can mean the *same
-amount* for everyone, and it can also mean *what each person needs*.
+amount* for everyone, and it can also mean *what each person needs* (S-388).
 
 ## Objectives
 
@@ -155,3 +155,8 @@ difference can direct a partner to move the objects. A learner may always pass.
 
 At home, help share a meal or a snack. Try a fair way, and ask someone: is fair the
 same amount for everyone, or what each person needs — or both?
+
+## Resources
+
+- On fairness having more than one meaning — the same for everyone versus what each
+  person needs: Stanford Encyclopedia of Philosophy — Distributive Justice (S-388).

@@ -101,7 +101,7 @@ Think of something your family or people keeps — a song, a recipe, a way of ma
 something. It is not just a thing; it carries a meaning, something your people care
 about. Every culture has such treasures: a woven cloth whose patterns mean wisdom, a
 painting whose dots tell a story of caring for the land, a song that passes joy from
-elder to child. Looking closely at a treasure — and naming what it says its people
+elder to child (S-084, S-085). Looking closely at a treasure — and naming what it says its people
 **value** — is how we come to know and respect one another.
 
 ## Materials
@@ -198,15 +198,10 @@ own culture.
 
 ## Resources
 
-- Smithsonian National Museum of African Art, "Kente cloth" — describes kente cloth of
-  the Akan peoples of Ghana and Côte d'Ivoire, noting that its patterns and colors
-  carry meanings and that it is worn on important occasions.
-  https://africa.si.edu/
-- AIATSIS (Australian Institute of Aboriginal and Torres Strait Islander Studies) —
-  notes that Aboriginal and Torres Strait Islander art carries knowledge, law, and
-  stories, including the value of caring for Country, and that there are many distinct
-  nations, each with its own traditions.
-  https://aiatsis.gov.au/
+- On kente cloth of the Akan peoples, whose patterns and colours carry meanings:
+  Smithsonian National Museum of African Art — Kente cloth (S-084).
+- On Aboriginal and Torres Strait Islander art carrying knowledge, law and stories,
+  including caring for Country: AIATSIS (S-085).
 
 ## Home connection
 

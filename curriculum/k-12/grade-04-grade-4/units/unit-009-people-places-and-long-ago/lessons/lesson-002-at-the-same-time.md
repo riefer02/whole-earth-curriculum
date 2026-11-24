@@ -125,15 +125,15 @@ their own idea worth honoring.
 ## Facilitator note
 
 **Comparison is a foundational skill, so model the first comparison fully** (Kirschner,
-Sweller & Clark, 2006): "Around 250 BCE, in India, Ashoka raised pillars telling people
-to be kind; around the same years, in China, workers joined walls into the Great Wall —
-two places, one moment, two different works." Then guide the third place. **The point is
-many-at-once, never "who was first" or "who was best."** Each of the three events
-matters in its own right: India's message of kindness, China's great wall, Egypt's
-meeting place of many peoples' learning. Dates are approximate ("about") — say so, and
-model the honesty. Honor every body: describe the cards aloud for a learner who cannot
-see them; a learner who does not use a speaking voice points or acts. Hold gently that
-"around the same time" means within the same span of years, not the same day.
+Sweller & Clark, 2006, S-011): "Around 250 BCE, in India, Ashoka raised pillars telling
+people to be kind; around the same years, in China, workers joined walls into the Great
+Wall — two places, one moment, two different works." Then guide the third place. **The
+point is many-at-once, never "who was first" or "who was best."** Each of the three
+events matters in its own right: India's message of kindness, China's great wall,
+Egypt's meeting place of many peoples' learning. Dates are approximate ("about") — say
+so, and model the honesty. Honor every body: describe the cards aloud for a learner who
+cannot see them; a learner who does not use a speaking voice points or acts. Hold gently
+that "around the same time" means within the same span of years, not the same day.
 
 ## Procedure
 
@@ -143,10 +143,10 @@ see them; a learner who does not use a speaking voice points or acts. Hold gentl
    around 250–200 BCE, about 2,250 years ago. What was happening then?
 3. **Place three places at once (15 min).** Put the three cards on the band:
    - **India:** Emperor Ashoka raised stone pillars telling people to treat one another
-     with kindness and respect.
-   - **China:** workers joined many walls into the **Great Wall** to protect the land.
+     with kindness and respect (S-131).
+   - **China:** workers joined many walls into the **Great Wall** to protect the land (S-134).
    - **Egypt:** scholars gathered scrolls at the **Library of Alexandria**, a meeting
-     place of learning from many peoples.
+     place of learning from many peoples (S-136).
    For each, say: "At the same time, in…"
 4. **Compare two places (10 min).** Choose two of the three. Say or write one sentence:
    "While people in China were joining the Great Wall, people in India were…" — and one
@@ -179,15 +179,14 @@ see them; a learner who does not use a speaking voice points or acts. Hold gentl
 
 ## Resources
 
-- Encyclopaedia Britannica, "Ashoka" — emperor Ashoka raised stone pillars carrying
-  messages of kindness and non-violence around 250 BCE.
-  https://www.britannica.com/biography/Ashoka
-- Encyclopaedia Britannica, "Great Wall of China" — long walls were joined into the
-  Great Wall by the Qin dynasty around 220 BCE.
-  https://www.britannica.com/topic/Great-Wall-of-China
-- Encyclopaedia Britannica, "Library of Alexandria" — a famous library of the ancient
-  world in Egypt, gathering scrolls of learning from many peoples.
-  https://www.britannica.com/topic/Library-of-Alexandria
+- On Ashoka's pillars and their messages of kindness and non-violence, around 250 BCE:
+  Encyclopaedia Britannica — Ashoka (S-131).
+- On long walls joined into the Great Wall under the Qin dynasty, around 220 BCE:
+  Encyclopaedia Britannica — Great Wall of China (S-134).
+- On the Library of Alexandria as a meeting place of learning from many peoples:
+  Encyclopaedia Britannica — Library of Alexandria (S-136).
+- On modelling a comparison fully before guided practice: Kirschner, Sweller & Clark —
+  Why Minimal Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

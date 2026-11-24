@@ -98,7 +98,7 @@ last_updated: 2026-08-16
 Learners gather everything from the unit into one five-part "fairness" page: a right
 choice and its reason, same-is-not-always-fair, a right every child has, a fair
 decision and a helping hand, and a peaceful solve with a real apology. They share
-their page and build a class "Fairness & Our Shared Rules" book.
+their page and build a class "Fairness & Our Shared Rules" book (S-149).
 
 ## Objectives
 
@@ -191,3 +191,8 @@ practiced, not preached.
 
 Take your "fairness" page home and share one box with your family. Ask them what
 fairness means to them, and listen.
+
+## Resources
+
+- On equal dignity and fairness as a shared commitment: UN — Universal Declaration of
+  Human Rights (S-149).

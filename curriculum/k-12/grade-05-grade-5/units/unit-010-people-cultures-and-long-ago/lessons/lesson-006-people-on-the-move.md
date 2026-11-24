@@ -88,7 +88,7 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners trace a real migration — the settlement of the Pacific by **Polynesian voyagers**
-over about three thousand years — and learn to separate **push** reasons (why people leave)
+over about three thousand years (S-055) — and learn to separate **push** reasons (why people leave)
 from **pull** reasons (why they choose a new place). Using a route map and a push–pull
 chart, they record the movement and produce this unit's **migration note**, seeing migration
 as a story of skill, courage, and hope, not of conquest.
@@ -101,7 +101,8 @@ as a story of skill, courage, and hope, not of conquest.
 ## Connection
 
 People move for reasons you can find in your own life. **Push** reasons make a person leave —
-a field that no longer feeds the family, a crowded home, a storm, a need for safety. **Pull**
+a field that no longer feeds the family, a crowded home, a storm, a need for safety
+(S-086). **Pull**
 reasons draw a person to a new place — good land, clean water, work, family already there.
 When your own family or a neighbor's moved, both pushes and pulls were at work. Today you
 trace how a whole people moved, step by step, across a vast ocean.
@@ -172,10 +173,8 @@ name the push and the pull in their story.
 
 ## Resources
 
-- The settlement of the Pacific by Polynesian voyagers over roughly three thousand years, using
-  double-hulled canoes and navigation by stars, swells, and birds, is documented by the
-  Polynesian Voyaging Society (<https://hokulea.com/>) and by archaeological work across the
-  Pacific. The 1976 voyage of the Hōkūleʻa re-created the ancient way and is a living
-  continuation of that knowledge. The push–pull distinction is a standard framework in
-  geography and migration study. Dates and routes are as scholars currently understand them
-  and continue to be refined by new evidence.
+- On Polynesian voyaging and the deliberate settlement of the Pacific by skilled
+  navigators: Polynesian Voyaging Society (Hōkūleʻa),
+  <https://hokulea.com/> (S-055).
+- On who counts as a migrant, and on the reasons people move: International Organization
+  for Migration — Who is a migrant?, <https://www.iom.int/who-migrant-0> (S-086).

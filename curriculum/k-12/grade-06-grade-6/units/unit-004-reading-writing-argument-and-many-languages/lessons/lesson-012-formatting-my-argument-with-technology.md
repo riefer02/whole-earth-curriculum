@@ -104,7 +104,7 @@ second was easier to read — not because the words were better, but because the
 of care for your reader. A **heading** says "this is what it's about"; a **paragraph break**
 says "one idea ends here"; a **bold** word says "notice this." Using a device to write is just
 this care, done on a screen — and done so your work can be saved, shared, and read far beyond
-one room.
+one room (S-171).
 
 ## Materials
 
@@ -180,3 +180,5 @@ giving it a title and paragraphs, and notice whether it is easier for someone el
   tool is not a mark of worth and access is uneven is a values commitment (`docs/philosophy.md`
   §4) and reflects the digital-divide literature. On explicit instruction for novice skills,
   see Kirschner, Sweller & Clark (2006).
+- On word processing and publishing written work: IES — Teaching Secondary Students to Write Effectively (S-171).
+

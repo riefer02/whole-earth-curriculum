@@ -119,7 +119,7 @@ another's point of view**, the heart of CASEL's social-awareness competency. The
 and the Mouse is chosen because it is told in many lands — versions appear across
 Africa, Asia, and Europe — so it belongs to everyone and no one. Teach the retell as
 worked instruction: model one character's point of view fully, then guide learners to do
-the other (Kirschner, Sweller & Clark, 2006). Keep the two points of view side by side
+the other (Kirschner, Sweller & Clark, 2006, S-011). Keep the two points of view side by side
 without ranking them: the lion is not "wrong" and the mouse is not "right" — each sees
 truthfully from where they stand. This is the egalitarian core of the lesson. Invite
 learners to tell the story in a home language if they wish; sign and drawing are full
@@ -139,7 +139,7 @@ ways to retell. Read the story aloud with feeling.
    or alone. Use the card's questions: what did you see, how did you feel, what did you
    do and why? Swap so each of you tries the side you have not told yet.
 5. **Close (5 min).** Same story, two points of view — and both are true. Retelling from
-   the other side is how you learn to see through another's eyes.
+   the other side is how you learn to see through another's eyes (S-001).
 
 ## Differentiation
 
@@ -162,5 +162,8 @@ ask someone at home to guess whose eyes you are seeing through.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On perspective-taking as part of social awareness: CASEL — Fundamentals of Social and
+  Emotional Learning (S-001).
+- On modeling a skill before learners try it: Kirschner, Sweller & Clark (2006) — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
+

@@ -88,7 +88,7 @@ calm, then mark the spots on a simple body outline.
 ## Connection
 
 Have you ever felt your tummy rumble when you were hungry, or your legs get bouncy
-before something exciting? Feelings live in your body too. When you know where a
+before something exciting? Feelings live in your body too (S-401). When you know where a
 feeling shows up, you can notice it sooner and take care of yourself.
 
 ## Materials
@@ -142,6 +142,7 @@ answer; the goal is noticing, not matching a chart.
 
 - CASEL SEL Framework (foundational competencies):
   <https://casel.org/fundamentals-of-sel/>
+- On the body's role in feeling: Barrett — How Emotions Are Made: The Secret Life of the Brain (S-401).
 
 ## Home connection
 

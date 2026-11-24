@@ -85,7 +85,7 @@ and in writing or drawing.
 Every feeling comes from somewhere. You do not just feel excited — you feel excited
 *when* your birthday comes, or *when* you see a friend. Putting the feeling and the
 situation into one sentence — "I felt excited when my aunt arrived" — helps you
-understand yourself and helps other people understand you, too.
+understand yourself and helps other people understand you, too (S-015).
 
 ## Materials
 
@@ -137,3 +137,8 @@ concrete: a real situation the learner experienced, not an abstract one.
 
 At home tonight, tell someone one thing that happened and how it made you feel,
 using the frame "I felt ___ when ___."
+
+## Resources
+
+- On understanding an emotion by naming its cause, not only its label: RULER Approach
+  — Yale Center for Emotional Intelligence (S-015).

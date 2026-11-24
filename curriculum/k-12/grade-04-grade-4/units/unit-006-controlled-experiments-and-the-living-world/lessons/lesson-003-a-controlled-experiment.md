@@ -107,13 +107,14 @@ the evidence shows. This is the honest shape of every trustworthy test.
 
 ## Connection
 
-When a cook tries a new recipe, they do not change the salt, the heat, and the pan all at
-once — they would never know what worked. They change one thing, taste, and try again.
-When a bike rider wants to know if oiling the chain makes the ride easier, they oil only
-the chain and keep the tires, the road, and the rider the same. That is a **controlled
-experiment**: change **one thing**, keep **everything else the same**, **measure** the
-result with a unit, and **repeat** it to be sure. It is the same careful habit in a
-kitchen, a workshop, or a science lab — and it is how we come to trust what we learn.
+When a cook tries a new recipe, they do not change the salt, the heat, and the pan all
+at once — they would never know what worked. They change one thing, taste, and try
+again. When a bike rider wants to know if oiling the chain makes the ride easier, they
+oil only the chain and keep the tires, the road, and the rider the same. That is a
+**controlled experiment**: change **one thing**, keep **everything else the same**
+(S-070), **measure** the result with a unit, and **repeat** it to be sure. It is the
+same careful habit in a kitchen, a workshop, or a science lab — and it is how we come to
+trust what we learn.
 
 ## Materials
 
@@ -132,9 +133,9 @@ kitchen, a workshop, or a science lab — and it is how we come to trust what we
 ## Facilitator note
 
 It is the capstone of the inquiry strand, so structure it as a **worked example then
-guided practice** (Kirschner, Sweller & Clark, 2006): plan the test together on the
-chart first, naming the one change and the things kept the same, then run the trials as
-a group, and let learners write their own conclusion. Handle warm water safely
+guided practice** (Kirschner, Sweller & Clark, 2006, S-011): plan the test together on
+the chart first, naming the one change and the things kept the same, then run the trials
+as a group, and let learners write their own conclusion. Handle warm water safely
 yourself — never boiling, and never left where a learner could spill it on skin. Keep
 the egalitarian lens alive: a controlled experiment belongs to everyone, not only to
 people in labs; anyone with two cups and a hand can ask this question and get real
@@ -188,6 +189,9 @@ time the same, and check twice.
 
 ## Resources
 
-- BBC Bitesize (KS2 Science), "What is a fair test?" — change one thing, keep the rest
-  the same, and measure.
-  https://www.bbc.co.uk/bitesize/topics/zqkk7ty/articles/z69qwnb
+- On the fair test — change one thing, keep the rest the same, and measure: BBC Bitesize
+  (KS2) — What is a fair test? (S-070).
+- On how science guards against bias and error when testing an idea: Understanding
+  Science (UC Berkeley) — What is science? (S-250).
+- On worked examples and guided practice: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

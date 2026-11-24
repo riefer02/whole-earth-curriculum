@@ -96,8 +96,8 @@ a partner checks that the plan is clear enough to follow next lesson.
 A builder draws plans before the first brick is laid. A cook reads a recipe before the
 first vegetable is chopped. A gardener decides what to plant where before the first seed
 goes in. An artwork is the same: it begins not with the first stroke but with a **clear
-idea** — what you want to show — and then a choice of **materials** and a **technique**
-that fit that idea. A stormy sea calls for dark blues and smudged chalk; a bright market
+idea** — what you want to show (S-192) — and then a choice of **materials** and a
+**technique** that fit that idea. A stormy sea calls for dark blues and smudged chalk; a bright market
 calls for warm colors and cut paper. Planning first is what turns a lucky accident into
 something you meant to make.
 
@@ -132,7 +132,8 @@ they carry it through. See `docs/facilitation.md` on working through plans and
    kite, a meal you helped cook. Did you plan it first, or just start? Today you learn to
    **plan an artwork** the way a builder plans a house: idea first, then materials, then
    technique.
-2. **Meet the plan (10 min).** Here is a worked example. *Idea:* "a stormy sea at night."
+2. **Meet the plan (10 min).** Here is a worked example, modelled before you write
+your own (S-011). *Idea:* "a stormy sea at night."
    *Materials:* dark blue and grey paper, chalk. *Technique:* smudge the chalk for the
    waves, tear the paper for the jagged rocks. *Because:* smudged chalk looks like moving
    water, and torn edges look like rough rock. Notice the order: the **idea** came first,
@@ -170,7 +171,9 @@ tell someone your idea, your "materials," and why they fit.
 
 ## Resources
 
-- Explicit instruction with worked examples supports novice skill-building (Kirschner,
-  Sweller & Clark, 2006). For an accessible classroom framing of planning before making,
-  see The Metropolitan Museum of Art's "How to look at art" prompts:
-  <https://www.metmuseum.org/art/online-features/metkids/>
+- On how artists plan and make work, with kid-friendly prompts for looking and making:
+  The Metropolitan Museum of Art — #MetKids,
+  <https://www.metmuseum.org/art/online-features/metkids/> (S-192).
+- On modelling a worked example before learners begin: Kirschner, Sweller & Clark
+  (2006), *Educational Psychologist*,
+  <https://doi.org/10.1207/s15326985ep4102_1> (S-011).

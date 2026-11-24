@@ -96,7 +96,7 @@ with your hands.
 
 Think of the things people build everywhere — a house to keep out rain, a bridge to
 cross a river, a basket to carry food, a boat to float. Every one begins with the
-same question: *what is it for?* The answer is the **purpose**, and it shapes the
+same question — *what is it for?* (S-370). The answer is the **purpose**, and it shapes the
 plan. Today you will choose a purpose, make a simple plan, and build something for
 it.
 
@@ -161,3 +161,8 @@ purpose by touch. Every plan and every build belongs.
 
 At home, pick a small purpose — carrying toys, holding water, keeping a door open —
 and build something for it from what you find. Tell a grown-up what it is for.
+
+## Resources
+
+- On defining a purpose, then planning, building, and improving: TeachEngineering —
+  Engineering Design Process (S-370).

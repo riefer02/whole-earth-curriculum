@@ -96,7 +96,7 @@ Someone arguing for a shaded rest stop says two different kinds of things. "**Sh
 people cool all day**" is a **detail** — a general reason that would be true for anyone,
 anywhere. "**Yesterday the market seller napped in the one shady spot**" is an **example** — a
 specific story about one person, one day. Both support the claim, but they work differently:
-a detail gives you the *rule*, an example gives you the *picture*. Telling them apart is how
+a detail gives you the *rule*, an example gives you the *picture* (S-172). Telling them apart is how
 you know exactly what a speaker is offering you — a general reason to weigh, or a single case
 to check.
 
@@ -170,3 +170,5 @@ someone which is which and how you knew.
   strategy research and the IES practice guides on comprehension. On retrieval and explicit
   instruction for novice skills, see Kirschner, Sweller & Clark (2006) and the retrieval
   practice literature (Agarwal & Bain, "Powerful Teaching").
+- On teaching comprehension through text structure, including general reasons and specific examples: Nell K. Duke & P. David Pearson — Effective Practices for Developing Reading Comprehension (S-172).
+

@@ -101,14 +101,14 @@ against" into judging *strength*, not just *counting*.
 
 Think of a moment when two reasons pulled you opposite ways: "I should help carry the
 water home" and "I want to keep playing." You cannot do both. When two good reasons
-collide, you need more than a list — you need to judge **which reason is stronger**.
-A reason is stronger when it stands up to the question "because of what?": it keeps a
-word you gave, protects someone who needs it, or does the most good with the least
-harm. People everywhere face this — a herder deciding whether to take the flock to
+collide, you need more than a list — you need to judge **which reason is stronger**. A
+reason is stronger when it stands up to the question "because of what?": it keeps a word
+you gave, protects someone who needs it, or does the most good with the least harm
+(S-386). People everywhere face this — a herder deciding whether to take the flock to
 distant grass or stay near water, a shopkeeper deciding whether to sell cheaply to a
 neighbor in need or hold the price, a class deciding whether to use its one shared ball
 for the match everyone wants. Today you will practice naming two reasons and deciding,
-honestly, which is stronger — and why.
+honestly, which is stronger — and why (S-094).
 
 ## Materials
 
@@ -193,7 +193,9 @@ aloud "because of what?" and tell a grown-up which reason is stronger and why.
 
 ## Resources
 
-- CASEL SEL Framework (responsible decision-making): <https://casel.org/fundamentals-of-sel/>
-- The "weighing reasons" picture is adapted from a long tradition of weighing arguments;
-  see also Matthew Lipman's philosophy-for-children materials for inviting young
-  learners to compare reasons.
+- On weighing the good and harm of an action: Stanford Encyclopedia of Philosophy —
+  Consequentialism (S-386).
+- On inviting young learners to compare and weigh reasons through philosophical inquiry:
+  Lipman — Harry Stottlemeier's Discovery (S-094).
+- On responsible decision-making as a core competency: CASEL — Fundamentals of Social
+  and Emotional Learning (S-001).

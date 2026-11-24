@@ -122,7 +122,7 @@ aloud.
    gesture — what you did and how it helped: "I watered the plants so they can grow"
    or "I tidied the shelf so we can find things."
 5. **Close (5 min).** Remember: when each person does a little, the whole group is
-   cared for. Your help matters.
+   cared for (S-164). Your help matters.
 
 ## Differentiation
 
@@ -136,6 +136,10 @@ aloud.
 - **Formative (observation):** Does the learner complete a small job and say or show
   how it helped the class?
 - **Performance:** The finished job, shown in the shared space and reflected on aloud.
+
+## Resources
+
+- On shared community work traditions: Communal-work (mutual-aid) traditions — harambee, gotong royong, mink'a/minga, barn-raising (S-164).
 
 ## Home connection
 

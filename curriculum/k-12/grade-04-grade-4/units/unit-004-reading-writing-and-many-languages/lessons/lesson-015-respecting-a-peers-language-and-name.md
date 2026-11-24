@@ -93,8 +93,8 @@ lesson closes the unit by bringing its whole journey together.
 A person's name is one of the first gifts they are given — it is tied to who they are,
 their family, and their story. Saying a name wrong, or not trying to say it right, can
 feel like saying "you are not worth the effort." Saying it right, and learning even two
-words of a person's language, says "I see you, and I honor where you come from." Respect
-begins with a name.
+words of a person's language, says "I see you, and I honor where you come from" (S-001).
+Respect begins with a name.
 
 ## Materials
 
@@ -115,7 +115,7 @@ begins with a name.
    correct you until you get it right.
 2. Names carry identity; repeated mispronunciation can feel like erasure — the research
    on name pronunciation and belonging supports this (Kohli & Solórzano, 2012, on
-   "racial microaggressions," including name mispronunciation).
+   "racial microaggressions," including name mispronunciation, S-104).
 3. A signed name is a name, and signed languages stand exactly as high as spoken ones.
 4. Accents are natural variation, never error.
 
@@ -179,7 +179,7 @@ one new word in a language spoken by someone you know.
 
 ## Resources
 
-- Kohli, R., & Solórzano, D. G. (2012). Teachers, please learn our names! *Race,
-  Ethnicity and Education*, 15(4), 441–462. (On name mispronunciation and belonging.)
-- CASEL SEL Framework (social awareness and relationship skills):
-  <https://casel.org/fundamentals-of-sel/>
+- On name mispronunciation as a racial microaggression and its effect on belonging:
+  Kohli & Solórzano — Teachers, please learn our names! (S-104).
+- On social awareness and relationship skills as core competencies: CASEL — Fundamentals
+  of Social and Emotional Learning (S-001).

@@ -101,7 +101,7 @@ trusted-person plan.
 A fire needs a smoke signal to warn you there is smoke; your body and feelings send you
 signals too. When life gets heavy — a test, a change, a worry, too many things at once —
 your body might feel **tired**, your **shoulders** might tighten, your **heart** might
-race, and you might feel **worried** or **irritable** or find it hard to **sleep**. These
+race, and you might feel **worried** or **irritable** or find it hard to **sleep** (S-338). These
 are not flaws and not failures; they are **signals** — your own early warning system,
 telling you it is time to care for yourself. Noticing the signal is the first step.
 Choosing one small **self-care action** is the second.
@@ -191,3 +191,5 @@ then share with someone what you noticed and what helped.
   (<https://casel.org/fundamentals-of-sel/>). The lesson holds "signs are information,
   never weakness" as both a factual framing and a value, and deliberately uses
   non-stigmatizing, everyday language for mental wellbeing.
+- On how stress shows up in the body, including muscle tension and sleep disruption: American Psychological Association — Stress effects on the body (S-338).
+

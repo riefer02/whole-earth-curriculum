@@ -80,11 +80,11 @@ last_updated: 2026-08-16
 
 ## Summary
 
-Learners think back to a moment they felt truly welcome, name the small things that
-made it so — a smile, a space, their name said with care, an invitation, a helping
-hand — and build a real welcoming circle. Then they practice the harder part: making
-room, so that no one is left outside and everyone belongs. This gathers the year's
-work on community and carries it into the celebration.
+Learners think back to a moment they felt truly welcome, name the small things that made
+it so — a smile, a space, their name said with care, an invitation, a helping hand — and
+build a real welcoming circle. Then they practice the harder part: making room, so that
+no one is left outside and everyone belongs (S-158). This gathers the year's work on
+community and carries it into the celebration.
 
 ## Objectives
 
@@ -166,4 +166,5 @@ care, or making a space at the table — and tell someone why it matters.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness, relationship skills): <https://casel.org/fundamentals-of-sel/>
+- On belonging and inclusion across cultures: UNESCO — Learning to Live Together
+  (S-158).

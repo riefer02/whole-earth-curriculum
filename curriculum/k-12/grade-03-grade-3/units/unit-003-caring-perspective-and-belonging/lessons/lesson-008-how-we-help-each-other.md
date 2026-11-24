@@ -95,7 +95,7 @@ not because anyone paid them, but because they are neighbors. They lift the beam
 the food, watch the children, and the roof rises. Or at harvest time, families help each
 other bring in the crop, and everyone eats. This is called **mutual aid**: people
 helping one another as equals, because caring for each other is how communities survive
-— in every place, in every time.
+— in every place, in every time (S-164).
 
 ## Materials
 
@@ -120,7 +120,7 @@ village council are all full ways of belonging. Be gentle: some learners have se
 storms, scarcity, or hard seasons, and a helping story may touch real memory — honor it
 calmly, and connect it to hope and agency ("what did people do? what could we do?").
 Read the procedure aloud; model one example fully before learners share their own
-(Kirschner, Sweller & Clark, 2006).
+(Kirschner, Sweller & Clark, 2006, S-011).
 
 ## Procedure
 
@@ -159,5 +159,10 @@ that story to your picture or page.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness and relationship skills competencies):
-  <https://casel.org/fundamentals-of-sel/>
+- On named communal-work traditions around the world (harambee, gotong royong,
+  mink'a/minga, barn-raising): Communal-work (mutual-aid) traditions (S-164).
+- On mutual aid — cooperation and reciprocity that comes from belonging, not pay: Peter
+  Kropotkin (1902) — Mutual Aid: A Factor of Evolution (S-163).
+- On modeling a skill before learners try it: Kirschner, Sweller & Clark (2006) — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
+

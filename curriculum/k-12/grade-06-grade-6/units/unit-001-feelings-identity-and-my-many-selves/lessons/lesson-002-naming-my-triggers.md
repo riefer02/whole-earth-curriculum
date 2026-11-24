@@ -98,7 +98,7 @@ first gust. The moment you learn to read those signs, you can close the window b
 the rain. Feelings are like that. A crowded market might reliably make one person feel
 **overwhelmed**; a raised voice might make another feel **tense**; being left out of a
 group might make a third feel **hurt**. Those "first gusts" are **triggers** — and naming
-them gives you a chance to act *before* the storm, not only after.
+them gives you a chance to act *before* the storm, not only after (S-225).
 
 ## Materials
 
@@ -167,3 +167,5 @@ what it tends to set off. Share it with someone if you like.
 - Naming antecedents ("before" events) that precede a feeling is a core cognitive-
   behavioral skill (Beck) and sits inside CASEL's self-awareness competency:
   <https://casel.org/fundamentals-of-sel/>
+- On acting on a situation before an emotional response runs its course: James J. Gross — The Emerging Field of Emotion Regulation: An Integrative Review (S-225).
+

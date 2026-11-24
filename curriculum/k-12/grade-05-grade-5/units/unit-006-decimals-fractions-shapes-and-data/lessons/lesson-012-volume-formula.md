@@ -96,8 +96,8 @@ They apply the formula to labeled boxes and explain that volume measures the **s
 A water tank is **4 units long, 2 units wide, and 3 units tall**. How much water can it hold?
 You could fill it with unit cubes and count — 24 of them. Or you can see the shortcut: the floor
 of the tank holds **4 × 2 = 8** cubes in one layer, and there are **3** layers, so **8 × 3 = 24
-cubic units**. That shortcut is the **volume formula**, and it is how engineers, builders, and
-water workers everywhere figure out how much a tank, a crate, or a silo can hold.
+cubic units**. That shortcut is the **volume formula** (S-026), and it is how engineers, builders,
+and water workers everywhere figure out how much a tank, a crate, or a silo can hold.
 
 ## Materials
 
@@ -160,6 +160,6 @@ its volume and what it could hold.
 
 ## Resources
 
-- The volume formula V = l × w × h is standard in elementary mathematics; see John A. Van de
-  Walle, *Elementary and Middle School Mathematics* (10th ed., 2019). The fairness value of
-  honestly sizing containers that serve a community is a commitment (`docs/philosophy.md` §4).
+- On moving from counting unit cubes to the formula V = l × w × h (base layer ×
+  height): Van de Walle, Karp & Bay-Williams — *Elementary and Middle School
+  Mathematics* (S-026).

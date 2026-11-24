@@ -128,13 +128,14 @@ from each, and write a short "my steward plan" naming one real action they will 
 
 ## Connection
 
-This unit asked two big questions: *how are tools designed, and how do I read a message's
-purpose and audience?* and *how do living systems work, and how can I care for my place on
-Earth?* Today you look back and see that they are really one question: how do I meet the made
-world and the living Earth with **clear eyes and a caring hand**? A designer meets a need; a
-careful reader names author, purpose, and audience; a thinker checks a claim with a second
-source; a steward knows the living system and acts to help it. These are not four separate
-skills — they are one way of being a person on this one, shared Earth home.
+This unit asked two big questions: *how are tools designed, and how do I read a
+message's purpose and audience?* and *how do living systems work, and how can I care for
+my place on Earth?* Today you look back and see that they are really one question: how
+do I meet the made world and the living Earth with **clear eyes and a caring hand**? A
+designer meets a need; a careful reader names author, purpose, and audience; a thinker
+checks a claim with a second source; a steward knows the living system and acts to help
+it. These are not four separate skills — they are one way of being a person on this one,
+shared Earth home (S-063).
 
 ## Materials
 
@@ -229,9 +230,9 @@ you.
 
 ## Resources
 
-- Common Sense Education, "News & Media Literacy" — the unit's media habits (creator, purpose,
-  audience, checking sources) summarized.
-  https://www.commonsense.org/education/digital-citizenship/topic/news-and-media-literacy
-- U.S. Environmental Protection Agency (EPA), "Reduce, Reuse, Recycle" — the stewardship order
-  revisited in the final picture.
-  https://www.epa.gov/recycle
+- On the unit's media habits — creator, purpose, audience, and checking sources: Common
+  Sense Education — News & Media Literacy (S-063).
+- On the stewardship order — reduce, reuse, recycle: U.S. EPA — Reduce, Reuse, Recycle
+  (S-154).
+- On the design cycle revisited in the final picture: TeachEngineering — Engineering
+  Design Process (S-150).

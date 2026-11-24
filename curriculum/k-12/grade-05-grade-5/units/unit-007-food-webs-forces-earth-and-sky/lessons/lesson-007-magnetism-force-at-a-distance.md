@@ -84,10 +84,11 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners describe **magnetism** as a **force that acts at a distance**: a magnet can
-push or pull another magnet or a metal object across empty space, with no touching.
+push or pull another magnet or a metal object across empty space, with no touching
+(S-187).
 They test **attract** and **repel**, meet the two **poles**, and connect the magnet
 to the **compass** — a tool that has guided sailors, travelers, and traders across
-the world for centuries.
+the world for centuries (S-187).
 
 ## Objectives
 
@@ -171,8 +172,8 @@ someone what you found.
 
 ## Resources
 
-- BBC Bitesize (KS2, NI), "What is a force?" and magnetism (an age-appropriate
-  overview of pushes/pulls and magnets): <https://www.bbc.co.uk/bitesize/topics/zvr3nrd>
-- BBC Bitesize (KS2, NI), "What is a magnet?" — how magnets attract and repel, their
-  two poles, and how a freely moving magnet (a compass needle) points north:
-  <https://www.bbc.co.uk/bitesize/articles/zpvcrdm>
+- On magnets attracting and repelling without touching, the two poles, and a freely
+  turning magnet pointing north (the compass): BBC Bitesize (KS2, NI) — What is a
+  magnet?, <https://www.bbc.co.uk/bitesize/articles/zpvcrdm> (S-187).
+- On pushes and pulls as forces: BBC Bitesize (KS2, NI) — What is a force?,
+  <https://www.bbc.co.uk/bitesize/topics/zvr3nrd/articles/zywcrdm> (S-077).

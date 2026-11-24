@@ -100,7 +100,7 @@ to clay pots to stone houses.
 A house can be made of mud, wood, stone, ice, cloth, or brick — so houses look very
 different around the world, because people build with the **materials** near them. The
 same is true of baskets, pots, and toys: grass bends, clay molds, stone stacks, paper
-folds. The material you have **shapes** what you can make. Today you will see this with
+folds. The material you have **shapes** what you can make (S-056). Today you will see this with
 your own hands.
 
 ## Materials
@@ -118,7 +118,7 @@ your own hands.
 
 Explaining how materials shape a build is a **skill**, so model it once — "with paper I
 can fold a light cup; with sticks I can weave a strong basket; the material changes what
-I can make" — before learners try (Kirschner, Sweller & Clark, 2006). Keep the task the
+I can make" — before learners try (Kirschner, Sweller & Clark, 2006, S-011). Keep the task the
 same ("make a container") so the only thing changing is the material — the same
 fair-test thinking as the rest of the year. The learner's own example is the point: they
 must say (or show) how *their* material changed *their* result. A learner with limited
@@ -168,9 +168,10 @@ how it shaped the build. Every comparison belongs.
 
 ## Resources
 
-- No external resources required; the claim that people build with local materials is
-  observable in the learner's own surroundings and in the materials they compare
-  directly.
+- On crafts and making as living cultural heritage, shaped by local materials and passed
+  hand to hand: UNESCO — Intangible Cultural Heritage (S-056).
+- On modeling a skill once before learners try it: Kirschner, Sweller & Clark (2006) — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

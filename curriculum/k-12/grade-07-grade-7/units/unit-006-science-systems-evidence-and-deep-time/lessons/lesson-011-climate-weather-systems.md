@@ -139,10 +139,10 @@ care.
    look at how *Earth itself* moves energy around — and makes weather and climate.
 2. **Meet the system (10 min).** Four players: the **Sun** heats unevenly; the **ocean**
    stores heat and carries it in currents; the **atmosphere** holds heat (greenhouse gases) and
-   moves water as clouds and wind; the **land** (mountains, soil, ice) shapes heat and rain.
+   moves water as clouds and wind; the **land** (mountains, soil, ice) shapes heat and rain (S-005).
    Assemble your diagram cards to show heat and water moving among them.
 3. **Weather vs. climate (10 min).** **Weather** = today's conditions (rain, wind, heat).
-   **Climate** = the long-term pattern (a rainy season, a hot decade). Worked example: "It
+   **Climate** = the long-term pattern (a rainy season, a hot decade) (S-309). Worked example: "It
    rained yesterday" is weather; "the monsoon comes every year" is climate.
 4. **Sort and observe (20 min).** Sort your statements as weather or climate. Then set your
    pan of water in a warm spot and watch evaporation — water leaving the ocean for the air,
@@ -180,3 +180,6 @@ is for your region across the year. Compare the two.
   commitment, not a geophysical fact (`docs/philosophy.md` §4).
 - On explicit instruction for novice content: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On the climate system and the greenhouse effect: Intergovernmental Panel on Climate Change (S-005).
+- On weather versus climate: NOAA — Climate (S-309).
+

@@ -99,7 +99,7 @@ reflect**. This lesson lands the second half of the standard: not just planning 
 Many starts are easy; **finishing** is the skill. A seed must be tended before it fruits.
 A cake must be baked after it is mixed. A story must reach its ending after its first
 page. Finishing asks you to keep the idea in your mind, adjust when something doesn't
-work, and keep going until the work is whole. Today you do that: you turn the plan you
+work, and keep going until the work is whole (S-096). Today you do that: you turn the plan you
 wrote into something you can hold up and say "I made this."
 
 ## Materials
@@ -170,6 +170,8 @@ chore — and notice how it feels to complete it.
 
 ## Resources
 
-- For a classroom-friendly framing of finishing and reflecting on one's own work, see
-  The Metropolitan Museum of Art's "MetKids" prompts for making and talking about art:
-  <https://www.metmuseum.org/art/online-features/metkids/>
+- On persistence through difficulty as a learnable orientation rather than a fixed
+  trait: Dweck — *Mindset: The New Psychology of Success* (S-096).
+- On finishing and reflecting on one's own work, with kid-friendly prompts for making
+  and talking about art: The Metropolitan Museum of Art — #MetKids,
+  <https://www.metmuseum.org/art/online-features/metkids/> (S-192).

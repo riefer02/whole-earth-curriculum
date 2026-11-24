@@ -86,7 +86,7 @@ felt ___ when ___," and notice that a feeling always has a reason behind it.
 Sometimes the feeling is easy to see but the reason is a puzzle. You feel angry — but
 why? Was it a toy that was taken, or a plan that changed? Finding the *when* is like
 being a detective of your own heart. Once you know the cause, you can understand your
-feeling and decide what to do about it.
+feeling and decide what to do about it (S-225).
 
 ## Materials
 
@@ -138,3 +138,8 @@ feeling, not on a single "correct" answer.
 
 Be a detective at home: notice a feeling you have today, then name the situation that
 caused it, using "I felt ___ when ___."
+
+## Resources
+
+- On the situation and its appraisal as the starting point for choosing a response:
+  Gross — The Emerging Field of Emotion Regulation: An Integrative Review (S-225).

@@ -87,7 +87,7 @@ needs are not always the same as wants.
 When you notice someone's clues, you can guess what might help them: a friend who
 spilled their water might need a cloth; a friend sitting alone at play might want
 company. Guessing what another person needs is how caring moves from noticing to
-doing.
+doing (S-231).
 
 ## Materials
 
@@ -134,3 +134,8 @@ first turn). Read the procedure aloud and model the chain sentence.
   scene's clues?
 - **Artifact (portfolio):** The "need and help" drawing, kept in the learner's
   portfolio.
+
+## Resources
+
+- On perspective-taking as a well-studied route to caring and prosocial behavior:
+  Decety & Cowell — Empathy, Perspective-Taking, and Morality (S-231).

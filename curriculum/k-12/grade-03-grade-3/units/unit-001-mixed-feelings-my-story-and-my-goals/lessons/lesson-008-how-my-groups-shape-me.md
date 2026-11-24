@@ -97,9 +97,9 @@ The groups you belong to do not just surround you — they **shape** you, a litt
 day. Your family teaches you a **language** and how to **greet** people. Your community
 teaches you a **food** and how it is made. A club teaches you a **game or skill**. A
 faith or cultural community teaches you a **song or story**. Over time, these become part
-of you — the way you speak, the food you love, the games you know, the stories you carry.
+of you — the way you speak, the food you love, the games you know, the stories you carry (S-508).
 A group far away, reached by letter or message or screen, can shape you too. Everyone is
-shaped by several groups, and no one's shaping is better than another's.
+shaped by several groups (S-232), and no one's shaping is better than another's.
 
 ## Materials
 
@@ -161,5 +161,7 @@ gifts.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness and social awareness):
-  <https://casel.org/fundamentals-of-sel/>
+- On becoming a person through other people (ubuntu: 'a person is a person through other
+  persons'): Desmond Tutu — Ubuntu (S-508).
+- On group membership as part of who a person is: Henri Tajfel — Minimal Group Paradigm
+  and Social Identity (S-232).

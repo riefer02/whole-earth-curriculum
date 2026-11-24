@@ -88,8 +88,8 @@ control, in every body's way.
 ## Connection
 
 People kick balls in games on every continent — a football in a field, a ball in a
-courtyard, a rolled-up bundle on a dirt road. Kicking takes balance: one foot plants
-to hold you steady while the other foot does the kicking. Both feet can learn, and
+courtyard, a rolled-up bundle on a dirt road. Kicking takes balance: one foot plants to
+hold you steady while the other foot does the kicking (S-068). Both feet can learn, and
 practice is how they do.
 
 ## Materials
@@ -146,3 +146,8 @@ kicks so everyone faces the same direction.
 
 At home, kick a soft ball or a rolled-up cloth toward a goal made of two stones or
 shoes, and try both feet.
+
+## Resources
+
+- On balance relying on signals from the ears, eyes, and muscles: NIDCD — Balance
+  Disorders (S-068).

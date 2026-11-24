@@ -103,10 +103,10 @@ Think of a shared space you use every day — a classroom, a playground, a libra
 garden, a water pump, a bus stop. What is one problem there? Maybe everyone grabs at
 once, or someone is always left waiting. You can **propose** a rule to fix it: "At the
 swing, the rule is *wait your turn*, **so that** everyone gets a turn, not just the
-fastest." The rule and its reason go together. People everywhere propose rules this
+fastest." The rule and its reason go together (S-416). People everywhere propose rules this
 way — a village agrees when to water the field, a class agrees how to share the books,
 a family agrees who clears the table. Today you will propose a rule of your own, with
-a reason.
+a reason (S-001).
 
 ## Materials
 
@@ -190,6 +190,8 @@ bathroom) and give its "so that…" reason. Ask your family if they would agree 
 
 ## Resources
 
-- CASEL SEL Framework (responsible decision-making): <https://casel.org/fundamentals-of-sel/>
-- The idea that a rule's fairness lives in its shareable reason is a plain-language
-  form of "public reason," adapted for children from civic thought.
+- On responsible decision-making: CASEL — Fundamentals of Social and Emotional Learning
+  (S-001).
+- On communities agreeing their own rules for a shared resource: Elinor Ostrom — Governing
+  the Commons (S-416).
+

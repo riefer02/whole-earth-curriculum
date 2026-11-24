@@ -135,7 +135,7 @@ name it as one. See `docs/facilitation.md` and `docs/art-style.md`.
 1. **Gather (5 min).** Last time you mapped how you have already changed. Now look the other
    way: who might you become next? (Pause.) The future is not one fixed box.
 2. **Meet the growing arrow (10 min).** Look at the poster: an arrow starts at **"me now"** and
-   branches into several **possible selves** — a maker, a caretaker, a leader, a learner. Worked
+   branches into several **possible selves** — a maker, a caretaker, a leader, a learner (S-399). Worked
    example: *I am becoming a person who writes things that help people think — and also a
    person who can fix a machine, and a person who keeps learning new languages. These are
    directions, not a single destiny.*
@@ -176,3 +176,5 @@ and notice together that the story stayed open.
   cautions about modest effects): Dweck, *Mindset: The New Psychology of Success* (2006).
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On possible selves — the selves a person imagines becoming: Hazel Markus & Paula Nurius — Possible Selves (S-399).
+

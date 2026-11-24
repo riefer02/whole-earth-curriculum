@@ -102,12 +102,13 @@ They read messages, name all three, and make one of their own.
 
 ## Connection
 
-Every message you meet — a sign, a song, a poster, a game — was made by someone, for a reason,
-and for somebody. The **author** is the person or group who made it; the **purpose** is what it
-is for; the **audience** is who it is for. These three shape each other: a health worker writing
-for families uses plain words and pictures, while a toy company writing for children uses bright
-colors and exciting words. When you can name all three, you can read any message with clear
-eyes — you see *who* is speaking, *why*, and *to whom*.
+Every message you meet — a sign, a song, a poster, a game — was made by someone, for a
+reason, and for somebody. The **author** is the person or group who made it; the
+**purpose** is what it is for; the **audience** is who it is for (S-063). These three
+shape each other: a health worker writing for families uses plain words and pictures,
+while a toy company writing for children uses bright colors and exciting words. When you
+can name all three, you can read any message with clear eyes — you see *who* is
+speaking, *why*, and *to whom*.
 
 ## Materials
 
@@ -148,7 +149,7 @@ message.
 shaped it.
 
 Model all three questions and the sentence once, then guide a second message before
-independent work (Kirschner, Sweller & Clark, 2006).
+independent work (Kirschner, Sweller & Clark, 2006, S-011).
 
 **Access:** read each message aloud for a learner who is blind or has low vision and let
 them answer by voice; a learner who does not speak points to the author, the purpose
@@ -205,9 +206,9 @@ shaped how it was made.
 
 ## Resources
 
-- Common Sense Education, "News & Media Literacy" — every message has a creator, a purpose, and
-  an audience, and learning to name all three.
-  https://www.commonsense.org/education/digital-citizenship/topic/news-and-media-literacy
-- National Association for Media Literacy Education (NAMLE), "Key Questions to Ask When
-  Analyzing Media Messages" — questions about authorship, purpose, and audience.
-  https://namle.org/resources/key-questions/
+- On every message having a creator, a purpose, and an audience: Common Sense Education
+  — News & Media Literacy (S-063).
+- On the key questions to ask of any media message, including authorship, purpose, and
+  audience: NAMLE — Key Questions to Ask When Analyzing Media Messages (S-151).
+- On worked examples and guided practice: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

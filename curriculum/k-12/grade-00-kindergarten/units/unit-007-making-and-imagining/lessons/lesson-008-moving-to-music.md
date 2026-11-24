@@ -113,7 +113,7 @@ fast and slow, together and alone — to celebrate, to play, and to feel.
 
 As facilitator, make the changes in the music very clear — fast, slow, stop — and dance
 along. Freeze games are great for safety and delight. Never correct a learner's dance;
-every movement is a real response to the music. Dance is listening with the whole body,
+every movement is a real response to the music. Dance is listening with the whole body (S-189),
 and there is no wrong answer.
 
 ## Procedure
@@ -149,6 +149,10 @@ and there is no wrong answer.
 - **Formative (observation):** Does the learner change their movement when the music
   changes speed or stops?
 - **Performance:** The learner's dance, observed live.
+
+## Resources
+
+- On dance and movement education: Kennedy Center — Education (arts education resources) (S-189).
 
 ## Home connection
 

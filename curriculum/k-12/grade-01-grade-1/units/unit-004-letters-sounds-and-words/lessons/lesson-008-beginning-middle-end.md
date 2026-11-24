@@ -85,7 +85,7 @@ keeps its sense.
 A story is like a path with three parts: where it starts, what happens along the
 way, and where it lands. If you skip the middle, the story makes no sense — like
 telling someone you baked a cake but forgetting the mixing and the oven. Retelling
-the beginning, middle, and end keeps the whole story whole.
+the beginning, middle, and end keeps the whole story whole (S-172).
 
 ## Materials
 
@@ -141,3 +141,8 @@ order is what matters.
 
 Retell a favorite story to someone at home in three parts — beginning, middle, and
 end — and ask them to guess which part was the middle.
+
+## Resources
+
+- On story structure as a comprehension strategy that supports retelling: Duke &
+  Pearson — Effective Practices for Developing Reading Comprehension (S-172).

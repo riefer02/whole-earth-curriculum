@@ -87,8 +87,9 @@ last_updated: 2026-08-17
 
 Learners explain what it means to use a **resource carefully so it lasts** and give one example
 from their own life. A worked example contrasts careless water use (tap left running) with
-careful use (tap off, a bucket, leaks fixed), landing the rule: **use less than comes back, and
-it lasts**. Learners then choose water, food, paper, electricity, or fuel/wood and write one
+careful use (tap off, a bucket, leaks fixed), landing the rule: **use less than comes
+back, and
+it lasts** (S-277). Learners then choose water, food, paper, electricity, or fuel/wood and write one
 careful use from their own life, connecting it to **fairness** for people today and for people
 not born yet.
 
@@ -170,8 +171,11 @@ light, finish your food, reuse a bag. Tell someone why it matters for the future
 
 ## Resources
 
-- The idea that a resource lasts when use stays below what renews or returns is the core of
-  sustainable use, taught in age-appropriate terms by UNESCO (Education for Sustainable
-  Development) and UNEP. The renewable/non-renewable distinction (Grade 3) and the
-  reduce-reuse-recycle ladder (Grade 4) lead into this lesson. The fairness-to-future-generations
-  framing follows `docs/philosophy.md` §4 and §12.
+- On using resources within what the planet can renew, so that they last: Global Footprint
+  Network — Ecological Footprint,
+  <https://www.footprintnetwork.org/our-work/ecological-footprint/> (S-277).
+- On keeping materials in use rather than using them up — the circular economy: Ellen
+  MacArthur Foundation, <https://ellenmacarthurfoundation.org/> (S-452).
+- On education for sustainable development — knowledge, skills and values for living
+  within the Earth's limits: UNESCO — Education for Sustainable Development,
+  <https://www.unesco.org/en/sustainable-development/education> (S-004).

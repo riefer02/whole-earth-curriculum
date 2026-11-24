@@ -81,7 +81,7 @@ last_updated: 2026-08-16
 Learners name their personal strengths — not only things they can do well but kind
 things they do — and one thing they are still learning, then reframe "I can't do it"
 as "I can't do it *yet*." Each learner makes a two-sided page that gathers both sides
-of one whole, growing person. This page becomes part of the year-end portfolio.
+of one whole, growing person (S-096). This page becomes part of the year-end portfolio.
 
 ## Objectives
 
@@ -165,4 +165,5 @@ still learning — and tell them how you will grow it.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness): <https://casel.org/fundamentals-of-sel/>
+- On the growth mindset and "not yet": Dweck — Mindset: The New Psychology of Success
+  (S-096).

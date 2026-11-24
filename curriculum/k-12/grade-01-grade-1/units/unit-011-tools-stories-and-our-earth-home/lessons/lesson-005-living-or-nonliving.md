@@ -159,7 +159,7 @@ Non-speaking: place each card in the correct tray, or point to show the answer.
 5. **Draw one of each (5 min).** Draw one living thing and one nonliving thing side by
    side.
 6. **Close (5 min).** Living things grow, need care, and breathe; nonliving things do
-   not. When we know a thing is alive, we treat it gently and with respect. What
+   not (S-034). When we know a thing is alive, we treat it gently and with respect. What
    living thing will you look at more kindly now?
 
 ## Differentiation
@@ -186,11 +186,11 @@ Non-speaking: place each card in the correct tray, or point to show the answer.
 
 ## Resources
 
-- BBC Bitesize (KS1 Science), "How can I sort objects into dead, living and
-  non-living?" — living things react to their surroundings, need air, feed, grow,
-  reproduce, and get rid of waste; non-living things have never been alive and do not
-  need food, water, or air.
-  https://www.bbc.co.uk/bitesize/topics/zx882hv/articles/zfhfn9q
+- On sorting things into living and non-living, and the clues that tell them apart:
+  BBC Bitesize (KS1 Science), "How can I sort objects into dead, living and
+  non-living?" (S-034).
+- On treating living things with care and respect: UNESCO — Education for Sustainable
+  Development (S-004).
 
 ## Home connection
 

@@ -87,7 +87,7 @@ friend feels and needs.
 
 ## Connection
 
-Listening is how we learn what is inside another person — their joy, their worry,
+Listening is how we learn what is inside another person (S-174) — their joy, their worry,
 their need. When you stop, give your attention, and let a friend finish speaking, you
 give them a gift: the feeling of being heard. Good listening is kindness you do with
 your whole self.
@@ -153,6 +153,7 @@ is plenty.
 
 - CASEL SEL Framework (foundational competencies):
   <https://casel.org/fundamentals-of-sel/>
+- On listening as an active skill: International Listening Association — Listening Skills resources (S-174).
 
 ## Home connection
 

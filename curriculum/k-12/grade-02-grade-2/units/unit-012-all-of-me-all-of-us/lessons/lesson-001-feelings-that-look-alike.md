@@ -79,8 +79,9 @@ last_updated: 2026-08-16
 
 Learners return to the year's hardest naming task: feelings that look alike. They
 compare two "cousin" pairs — mad and frustrated, sad and disappointed — and learn to
-tell each one apart by its body clue and by the situation that made it. This closes
-the year's feeling work by celebrating how precise their feeling language has become.
+tell each one apart by its body clue and by the situation that made it. This closes the
+year's feeling work by celebrating how precise their feeling language has become
+(S-401).
 
 ## Objectives
 
@@ -188,4 +189,5 @@ or sad and disappointed — and tell them how you tell them apart.
 
 ## Resources
 
-- CASEL SEL Framework (foundational competencies): <https://casel.org/fundamentals-of-sel/>
+- On finer-grained feeling words and managing feelings: Barrett — How Emotions Are
+  Made: The Secret Life of the Brain (S-401).

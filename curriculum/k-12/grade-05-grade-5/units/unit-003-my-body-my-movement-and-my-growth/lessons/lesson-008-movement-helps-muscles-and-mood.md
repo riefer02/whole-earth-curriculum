@@ -129,12 +129,12 @@ chemical effect, not just a feeling — this is evidence, and it is for everyone
 1. **Gather (5 min).** Last time you learned movement makes your **heart** stronger. Today,
    two more gifts of movement: **muscles** and **mood**.
 2. **Meet the two gifts (10 min).** Look at the poster. First, **muscles**: every muscle in
-   your body strengthens when you use it — lifting, climbing, dancing, carrying. Second,
+   your body strengthens when you use it — lifting, climbing, dancing, carrying (S-069). Second,
    **mood**: when you move, your brain releases chemicals that lift your mood — a real, natural
-   good feeling. That is why you often feel lighter and happier after moving.
+   good feeling (S-408). That is why you often feel lighter and happier after moving.
 3. **Explore movement traditions (10 min).** Look at the cards — a harvest dance, a ball game,
    a martial art, a long walk. These are ways people in different places have moved for joy
-   and health for a very long time. Share one way **your** family or place moves for joy with a
+   and health for a very long time (S-287). Share one way **your** family or place moves for joy with a
    partner.
 4. **Move and notice (15 min).** Choose one gentle way to move — a remembered dance step, a
    game, a walk, or simple stretches. Move for a few minutes. Then stop and notice: which
@@ -170,3 +170,12 @@ muscles and the mood after.
   activity and mental health: <https://www.who.int/news-room/fact-sheets/detail/physical-activity>.
   Movement traditions such as dance, martial arts, and games are practiced across cultures as
   joyful forms of movement — a global and anthropological observation, not a value judgment.
+
+- On physical activity developing muscle and improving mood: WHO — Physical activity
+  fact sheet, <https://www.who.int/news-room/fact-sheets/detail/physical-activity> (S-069).
+- On exercise improving mood and mental health, and the mechanisms proposed for it
+  (one mechanism among several — no single chemical is the whole story): Mikkelsen et al.
+  (2017), *Maturitas*, <https://doi.org/10.1016/j.maturitas.2017.09.003> (S-408).
+- On traditional sports and games as living cultural heritage that communities pass
+  down and adapt: UNESCO — Traditional Sports and Games,
+  <https://www.unesco.org/en/sport-and-anti-doping/traditional-sports-and-games> (S-287).

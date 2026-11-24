@@ -81,7 +81,7 @@ every scientist and every curious person begins.
 ## Connection
 
 You wonder about things all the time: Why is the sky dark at night? How does a seed
-know to grow? Asking "why" and "how" is how every curious person starts — and your
+know to grow? Asking "why" and "how" is how every curious person starts (S-250) — and your
 own idea is always a good place to begin.
 
 ## Materials
@@ -127,6 +127,10 @@ box so learners can ask without speaking up (see `docs/contexts.md`).
 - **Formative (observation):** Can the learner ask a "why" or "how" question and offer
   their own idea about it?
 - **Artifact (portfolio):** The drawn or scribed question with the learner's idea.
+
+## Resources
+
+- On science as asking and testing questions: Understanding Science (UC Berkeley) — What is science? / bias (S-250).
 
 ## Home connection
 

@@ -141,12 +141,12 @@ note** portfolio artifact. See `docs/facilitation.md`.
    students, and peasants, led by many, including Mohandas Gandhi — acted **peacefully**: in
    the **Salt March of 1930**, people walked to the sea to make their own salt, refusing an
    unjust tax; they **boycotted** foreign cloth and **spun their own**; they refused to
-   cooperate with unjust laws, and they helped one another throughout. In **1947**, after
+   cooperate with unjust laws, and they helped one another throughout (S-205). In **1947**, after
    decades of this courage, India won its **independence**.
 3. **Meet Ghana's movement (10 min).** Read the second card. In **Ghana** (West Africa),
    people organized through the **Convention People's Party**, with boycotts and peaceful
    strikes — "positive action" — until, in **1957**, Ghana became the first sub-Saharan
-   African colony to win independence, and many African nations soon followed.
+   African colony to win independence, and many African nations soon followed (S-276).
 4. **Record one movement (10 min).** Choose one. On your note, write: **What was the
    injustice?** **What did the people do?** **What did they win?** Center the people's
    actions and courage.
@@ -184,3 +184,6 @@ what its people did to win it.
   documented in Ghanaian and African history. These are told as stories of dignity, agency,
   and collective action, in line with the curriculum's commitment to center liberation, not
   victimhood.
+- On the 1930 Salt March and the Indian independence movement: Nobel Prize — Mahatma Gandhi, the missing laureate (S-205).
+- On Ghana's independence movement under Kwame Nkrumah: Encyclopaedia Britannica — Kwame Nkrumah (Ghana independence) (S-276).
+

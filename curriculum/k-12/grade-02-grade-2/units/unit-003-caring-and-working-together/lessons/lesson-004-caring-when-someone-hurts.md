@@ -88,12 +88,12 @@ something everyone can offer, not as a special talent for a few.
 
 ## Connection
 
-Think of a time you felt sad, or a time you were left out of a game, or a time you
-fell and hurt yourself. What made it better? Usually it was someone noticing, asking
-if you were okay, staying with you, or pulling you into the circle. Caring is not
-magic — it is a set of small things anyone can do. In every part of the world, when
-someone is hurting, people come close, ask, and help. Today you will learn the steps
-and practice them.
+Think of a time you felt sad, or a time you were left out of a game, or a time you fell
+and hurt yourself. What made it better? Usually it was someone noticing, asking if you
+were okay, staying with you, or pulling you into the circle. Caring is not magic — it is
+a set of small things anyone can do (S-001). In every part of the world, when someone is
+hurting, people come close, ask, and help. Today you will learn the steps and practice
+them.
 
 ## Materials
 
@@ -155,3 +155,8 @@ Read the procedure aloud and model each step.
 
 At home, notice someone who is sad, left out, or hurt, and try the four steps —
 notice, ask, stay, include — then tell a grown-up what you did.
+
+## Resources
+
+- On empathy turned into action — relationship skills as a teachable competency: CASEL
+  — Fundamentals of Social and Emotional Learning (S-001).

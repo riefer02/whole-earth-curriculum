@@ -101,9 +101,9 @@ A plan is only a promise until the team makes it real. Carrying out a shared pro
 the kindness wall, the tidy path, the planted seeds — is where fair division becomes
 visible: each person doing their task, and everyone **checking in** so no one is stuck
 or left out. A good team does not just split the work and walk away; it watches for the
-person who needs a hand and asks "are you stuck? can I help?" Farmers harvest in teams
-this way, fishers pull a net together, and builders pass bricks down a line. Today you
-will carry out your plan and finish as a team.
+person who needs a hand and asks "are you stuck? can I help?" (S-233) Farmers harvest in
+teams this way, fishers pull a net together, and builders pass bricks down a line. Today
+you will carry out your plan and finish as a team.
 
 ## Materials
 
@@ -184,8 +184,9 @@ together: "what did each of us do, and how did we listen to each other?"
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills — teamwork and listening):
-  <https://casel.org/fundamentals-of-sel/>
-- Cooperative learning (working together toward a shared goal) is a well-evidenced
-  practice; see Slavin's cooperative-learning research and the Escuela Nueva
-  self-organized group tradition.
+- On cooperative goal structures producing better achievement and better relationships
+  than competitive ones: Johnson & Johnson — Cooperation vs Competition (S-233).
+- On cooperative-learning structures with individual accountability: Slavin —
+  Cooperative Learning (S-147).
+- On teamwork and listening as relationship skills: CASEL — Fundamentals of Social and
+  Emotional Learning (S-001).

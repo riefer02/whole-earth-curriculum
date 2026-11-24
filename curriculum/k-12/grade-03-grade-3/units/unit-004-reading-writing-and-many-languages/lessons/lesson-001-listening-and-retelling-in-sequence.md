@@ -92,7 +92,7 @@ All day people tell you things that happen in steps: how to make a meal, the way
 the market, what happened at the river or on the farm. If the steps come out of
 order, the story breaks — like putting the roof on a house before the walls. Listening
 for the sequence and retelling it back with its key details is how people everywhere
-pass along know-how, one generation to the next.
+pass along know-how, one generation to the next (S-174).
 
 ## Materials
 
@@ -159,5 +159,6 @@ it back to them in order and ask, "Did I keep the order and the important detail
 
 ## Resources
 
-- CASEL SEL Framework (listening and relationship skills):
-  <https://casel.org/fundamentals-of-sel/>
+- On listening as an active skill that can be taught — hearing, attending, then restating:
+  International Listening Association — Listening Skills resources (S-174).
+

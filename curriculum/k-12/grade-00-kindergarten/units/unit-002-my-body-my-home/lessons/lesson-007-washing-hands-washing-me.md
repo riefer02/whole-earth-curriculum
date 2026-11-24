@@ -111,7 +111,7 @@ care, never a test — celebrate the effort, not perfection.
 
 1. **Gather (5 min).** Think of all the things your hands touched today. Hands carry
    tiny things you cannot see — we call them **germs** — that can make bodies sick.
-   Washing hands washes germs away.
+   Washing hands washes germs away (S-016).
 2. **Learn the steps (10 min).** Say the steps and practice the motions in the air:
    - **Wet** your hands.
    - **Soap** them up.
@@ -143,4 +143,4 @@ care, never a test — celebrate the effort, not perfection.
 ## Resources
 
 - World Health Organization, "Hand hygiene" (why and how to clean hands):
-  <https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene>
+  <https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene> (S-016)

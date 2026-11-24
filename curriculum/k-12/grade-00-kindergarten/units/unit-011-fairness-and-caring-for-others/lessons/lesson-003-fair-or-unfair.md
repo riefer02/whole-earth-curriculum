@@ -88,7 +88,7 @@ scenes and give a reason for each.
 Have you ever felt "that's not fair!" — maybe someone grabbed all the crayons or
 took every turn? Everyone, in every part of the world, knows that feeling. Fairness
 is a question we all ask: did everyone get a turn? Did anyone get left out? Learning
-to see fair and unfair is the first step to making things fairer.
+to see fair and unfair is the first step to making things fairer (S-158).
 
 ## Materials
 
@@ -138,6 +138,10 @@ never the child.
   and give a reason?
 - **Artifact (portfolio):** The "fair and unfair" drawing pair, kept in the learner's
   portfolio.
+
+## Resources
+
+- On belonging and inclusion across cultures: UNESCO — Learning to Live Together (S-158).
 
 ## Home connection
 

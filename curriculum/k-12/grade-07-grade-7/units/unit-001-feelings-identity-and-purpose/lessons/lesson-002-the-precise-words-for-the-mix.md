@@ -100,7 +100,7 @@ nothing. "I feel **excited and nervous** about starting a new school" tells you 
 is happening and what you might need. Precision is not fussiness; it is how a feeling becomes
 usable — like the difference between saying "bad weather" and "rain with high wind, coming
 from the sea." In any life, on a farm or in a city, the more exactly you can name it, the more
-clearly you can respond to it.
+clearly you can respond to it (S-401).
 
 ## Materials
 
@@ -190,3 +190,5 @@ This week, when someone at home says "fine" or "weird," gently try climbing the 
   self-awareness competency, <https://casel.org/fundamentals-of-sel/>
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On emotional granularity — precise emotion words supporting better regulation: Lisa Feldman Barrett — How Emotions Are Made: The Secret Life of the Brain (S-401).
+

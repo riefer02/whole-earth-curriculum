@@ -105,7 +105,7 @@ that **tempo**, **dynamics**, and **pitch** are the dials of feeling in music.
 Think of a lullaby and a celebration song. The lullaby is slow and soft; the
 celebration is fast and loud. The **same words** can feel completely different when you
 change how you sing them — how fast (**tempo**), how loud or soft (**dynamics**), and
-how high or low (**pitch**). Today you will sing one song several ways and watch its
+how high or low (**pitch**) (S-368). Today you will sing one song several ways and watch its
 feeling change in your hands.
 
 ## Materials
@@ -122,7 +122,7 @@ feeling change in your hands.
 
 Changing tempo, dynamics, and pitch and naming the feeling is a **skill**, so model each
 change one at a time — "watch: now I sing it slower... the feeling turns calm" — before
-learners take turns leading (Kirschner, Sweller & Clark, 2006). Use **one song**
+learners take turns leading (Kirschner, Sweller & Clark, 2006, S-011). Use **one song**
 throughout so the only thing changing is tempo, dynamics, or pitch (this is the arts
 version of a fair test: change one thing, keep the rest the same). Define the three
 words simply: tempo is speed, dynamics is loud and soft, pitch is high and low. A
@@ -169,8 +169,10 @@ wrong mood.
 
 ## Resources
 
-- No external resources required; the claims in this lesson are about the learner's own
-  singing and listening, which they practice directly.
+- On tempo, dynamics and pitch as elements of music: Wikipedia — Elements of music
+  (S-368).
+- On modeling a skill once before learners try it: Kirschner, Sweller & Clark (2006) — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

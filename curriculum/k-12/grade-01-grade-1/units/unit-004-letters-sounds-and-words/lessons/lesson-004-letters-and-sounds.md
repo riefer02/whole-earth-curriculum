@@ -86,7 +86,7 @@ marks to what they say, honoring the writing system of their home language.
 ## Connection
 
 Your language is written with marks. In some writing systems a mark stands for one
-sound; in others a mark stands for a whole syllable or even a whole word. Every
+sound; in others a mark stands for a whole syllable or even a whole word (S-165). Every
 system works, and no writing system is better than another — they are just
 different ways humans record their words. Today you will look closely at the marks
 of your own language.
@@ -152,3 +152,9 @@ matches by pointing, touching, or gesturing instead of saying the sound aloud.
 
 Ask someone at home to show you one mark of your home writing system and tell you
 its sound. Bring what you learned to share.
+
+## Resources
+
+- On the different kinds of writing system — alphabetic, syllabic, and logographic —
+  and how each stands for language: Daniels & Bright (eds.) — The World's Writing
+  Systems (S-165).

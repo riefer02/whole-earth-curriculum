@@ -83,7 +83,7 @@ last_updated: 2026-08-16
 
 Learners draw shapes from given attributes — "draw a shape with four equal sides,"
 "draw a shape with three angles." They check their drawings by counting sides and
-angles, turning spoken words into pictures and back again.
+angles, turning spoken words into pictures and back again (S-026).
 
 ## Objectives
 
@@ -163,6 +163,5 @@ draw the shape, and let them check it with you.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson. (Drawing
-  shapes from defining attributes.)
+- On drawing shapes from defining attributes: Van de Walle, Karp & Bay-Williams —
+  Elementary and Middle School Mathematics: Teaching Developmentally (S-026).

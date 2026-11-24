@@ -150,7 +150,7 @@ historical facts (Encyclopaedia Britannica, "paper").
    causes, many consequences.) Today we apply it to one real change: paper.
 2. **Meet paper (10 min).** Paper was invented in China; the oldest fragments date to
    around the 2nd century BCE, and by tradition a court official named Cai Lun (c. 105
-   CE) improved and standardized it. It was thin, light, and far cheaper than bamboo,
+   CE) improved and standardized it (S-317). It was thin, light, and far cheaper than bamboo,
    silk, or animal parchment.
 3. **Trace the spread (15 min).** Follow the map sequence: China → Korea and Japan →
    Central Asia (Samarkand) → Baghdad → Europe (12th–15th centuries). At each stop,
@@ -191,3 +191,5 @@ tool, a word). Ask: how did it get here, and what changed because it did?
   certainty. Movable type (Bi Sheng, c. 1040s) is likewise documented by Britannica.
 - On explicit instruction and worked examples: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On the invention of paper in China and its spread westward: Encyclopaedia Britannica — Paper / Papermaking (S-317).
+

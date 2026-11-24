@@ -96,7 +96,7 @@ Your life is a story, and like any story it has an order: a beginning, a middle,
 now. You were **born** — that is the first page. Then came **first memories**, then
 **things you learned** (to walk, to speak, to ride, to read), then **a big change** (a
 move, a new sibling, a new school), and then **now**. Telling it in order — first, next,
-then — is how you make sense of where you have been. Every person's story is different,
+then — is how you make sense of where you have been (S-404). Every person's story is different,
 and every story matters.
 
 ## Materials
@@ -117,7 +117,7 @@ The skill is *sequencing* — putting events in order — not producing a "compl
 dramatic biography. Some learners' lives have hard chapters (a move, a loss, a
 separation); honor them gently and let the learner choose what to share (see
 `docs/facilitation.md`). Use the worked example (your own or a shared one) before
-releasing learners to their own. Every family's shape and every child's pace is normal
+releasing learners to their own (S-011). Every family's shape and every child's pace is normal
 here — there is no "correct" set of five stops. If a learner cannot remember or does not
 know an early stop, that is fine: they may say "I don't know yet" or ask someone at
 home.
@@ -159,5 +159,7 @@ to your life line.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On a life story as the way a person makes sense of where they have been: Dan P. McAdams
+  (2001) — The Psychology of Life Stories (S-404).
+- On modeling a skill before learners try it themselves: Kirschner, Sweller & Clark (2006)
+  — Why Minimal Guidance During Instruction Does Not Work (S-011).

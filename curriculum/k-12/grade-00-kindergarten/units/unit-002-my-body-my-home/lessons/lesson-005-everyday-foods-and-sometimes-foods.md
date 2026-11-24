@@ -89,7 +89,7 @@ a body stay strong and full of energy. The lesson is taught with kindness: no fo
 
 Everywhere in the world, people eat — but not the same things. In one home, the
 everyday food might be rice and beans; in another, flatbread and lentils; in another,
-fish and root vegetables. Some foods give our bodies steady strength every day, and
+fish and root vegetables. Some foods give our bodies steady strength every day (S-038), and
 some are special treats we enjoy only sometimes. Knowing the difference helps us care
 for our bodies.
 
@@ -142,6 +142,10 @@ way to *notice* what helps a body feel strong, not a rule to obey or a test to p
 - **Formative (observation):** Can the learner place a food into the everyday or
   sometimes group and give a simple reason, with guidance?
 - **Self:** The learner names one everyday food they already enjoy.
+
+## Resources
+
+- On everyday foods, energy, and growth: WHO — Healthy diet fact sheet (S-038).
 
 ## Home connection
 

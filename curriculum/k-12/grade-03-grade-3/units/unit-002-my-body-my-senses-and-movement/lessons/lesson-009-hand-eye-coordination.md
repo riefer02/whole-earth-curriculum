@@ -113,11 +113,11 @@ Americas, and Asia — in a courtyard, a beach, a field, or a schoolyard.
 ## Facilitator note
 
 Prepare the targets and line, then model a gentle toss-and- catch and an aimed throw
-slowly before learners try (explicit modeling, then guided practice). This builds on
+slowly before learners try (explicit modeling, then guided practice) (S-011). This builds on
 Grade 2's throw-and-catch and now adds aiming — the eyes and hands working together,
 which also returns to the unit's senses-teaming idea. The skill, not the score, is the
 goal: celebrate control and growing accuracy, never distance or speed, and never rank
-learners. Honor every body: a learner who uses a wheelchair throws and catches seated, a
+learners (S-101). Honor every body: a learner who uses a wheelchair throws and catches seated, a
 learner who needs a larger or softer ball or a scoop uses one, and every version counts
 fully. Offer adapted versions as real choices. Supervise throws so everyone faces the
 same direction and no one is hit; pair learners so a confident partner can toss gently
@@ -157,8 +157,10 @@ to one still learning.
 
 ## Resources
 
-- World Health Organization — physical activity fact sheet (children need regular
-  movement for healthy growth): <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
+- On inclusive physical education, fair play and celebrating the skill rather than the
+  score: SHAPE America — Society of Health and Physical Educators (S-101).
+- On modeling a skill slowly before learners try it: Kirschner, Sweller & Clark (2006) —
+  Why Minimal Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

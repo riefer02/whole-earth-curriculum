@@ -97,9 +97,9 @@ music as a living tradition, not a museum piece.
 
 ## Connection
 
-Every music has its own voice. A goblet-shaped drum from West Africa speaks with
+Every music has its own voice (S-188). A goblet-shaped drum from West Africa speaks with
 interlocking rhythms; a sitar and tabla from India ride a melody-framework called a
-**raga** over a rhythm-cycle called a **tala**; bronze gongs of an Indonesian
+**raga** over a rhythm-cycle called a **tala** (S-366); bronze gongs of an Indonesian
 **gamelan** ring together in its own five- and seven-note scales. None of these is
 "better" — each is a whole world of sound built by living musicians who learned it from
 the people before them. When you hear music you have never heard before, the kindest
@@ -180,7 +180,9 @@ respectful question about it.
 
 ## Resources
 
-- UNESCO Intangible Cultural Heritage — music traditions of the world:
-  <https://ich.unesco.org/en/lists>
-- The Metropolitan Museum of Art, Heilbrunn Timeline of Art History — musical
-  instruments: <https://www.metmuseum.org/toah/>
+- On world music traditions, recorded and documented by the communities themselves:
+  Smithsonian Folkways Recordings (S-188).
+- On the raga as a melodic framework in Indian classical music, with its own scale and
+  character: Encyclopaedia Britannica — Raga (S-366).
+- On music traditions as living intangible cultural heritage: UNESCO — Intangible
+  Cultural Heritage (S-056).

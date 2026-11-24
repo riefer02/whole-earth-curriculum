@@ -85,7 +85,7 @@ practice. Writing turns a spoken idea into marks that last.
 ## Connection
 
 A spoken word vanishes as soon as it is said. A written word stays — on paper, on
-a slate, in the sand — so someone far away or years later can read it. When you
+a slate, in the sand — so someone far away or years later can read it (S-264). When you
 learn to form the marks of your writing system, you learn to keep your words. That
 is how letters, recipes, and stories have traveled across the world.
 
@@ -144,3 +144,8 @@ judged as "correct."
 
 Write one word at home and show it to someone — tell them what it says, then keep
 it somewhere safe.
+
+## Resources
+
+- On the written record and the materials that carry words across time and distance:
+  The British Library — history of writing materials and primary sources (S-264).

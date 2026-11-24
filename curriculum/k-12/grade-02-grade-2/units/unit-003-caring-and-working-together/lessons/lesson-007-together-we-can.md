@@ -89,12 +89,12 @@ and no part is too small to matter.
 
 ## Connection
 
-Some things are simply too big for one pair of hands — a heavy bench, a full basket,
-a wide cloth, a pile of stones. One person cannot lift the bench; two or three can.
-One person cannot hold the sheet for the tent; four can. This is true everywhere: a
-boat crew rows together, a harvest is gathered by many hands, builders raise a house
-side by side. When each person does a part, the group can do what no one could do
-alone. Today you will feel this with your own hands.
+Some things are simply too big for one pair of hands — a heavy bench, a full basket, a
+wide cloth, a pile of stones. One person cannot lift the bench; two or three can. One
+person cannot hold the sheet for the tent; four can. This is true everywhere: a boat
+crew rows together, a harvest is gathered by many hands, builders raise a house side by
+side (S-164). When each person does a part, the group can do what no one could do alone.
+Today you will feel this with your own hands.
 
 ## Materials
 
@@ -154,3 +154,8 @@ and rhythm. Read the procedure aloud; model counting or calling a rhythm togethe
 
 At home, find one job that needs more than one person — carrying, folding, tidying —
 and do it together, each taking a part, then tell how it went.
+
+## Resources
+
+- On communal-work traditions where many hands share one job — harambee, gotong
+  royong, mink'a, barn-raising: Communal-work (mutual-aid) traditions (S-164).

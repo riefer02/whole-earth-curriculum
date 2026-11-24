@@ -102,7 +102,7 @@ she is than on how the group receives her — whether her language is treated as
 shapes belonging not because some identities fit and others don't, but because **welcome is a
 choice we make**. Every person carries threads — a language, a way of being, a body — and in
 every human community, from a mountain village to a port city, belonging is built when those
-threads are honored as ordinary.
+threads are honored as ordinary (S-235).
 
 ## Materials
 
@@ -177,3 +177,5 @@ and do one ordinary thing to honor it this week.
   as ordinary rather than deficient (a core principle of inclusive education; UNESCO guidance
   on inclusion). The "gift, not gap" framing is a values commitment of this curriculum. For
   classroom SEL framing: <https://casel.org/fundamentals-of-sel/>
+- On inclusion as treating difference as ordinary rather than deficient: UNESCO — Inclusion in Education (Salamanca Statement; Guide for Ensuring Inclusion and Equity) (S-235).
+

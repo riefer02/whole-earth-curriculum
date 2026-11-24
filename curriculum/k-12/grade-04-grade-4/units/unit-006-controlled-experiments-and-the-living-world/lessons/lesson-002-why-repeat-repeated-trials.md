@@ -105,10 +105,10 @@ how careful we must be before we believe a claim.
 Imagine you flip a coin once and it lands heads. If you said "this coin always lands
 heads" after one flip, would you trust that? Now imagine you flip it twenty times and it
 lands heads every time — that is different. **Repeating a test** is how we find out
-whether a result was a lucky accident or something real. The same idea shows up in
-everyday life: a cook tastes the soup more than once before serving it; a doctor takes a
-temperature and then checks again; a farmer watches the rain season after season before
-deciding when to plant. One look can fool you; repeated looks build trust.
+whether a result was a lucky accident or something real (S-105). The same idea shows up
+in everyday life: a cook tastes the soup more than once before serving it; a doctor
+takes a temperature and then checks again; a farmer watches the rain season after season
+before deciding when to plant. One look can fool you; repeated looks build trust.
 
 ## Materials
 
@@ -130,11 +130,12 @@ Teach the habit of repetition with a **worked example** — model three rolls, s
 measurement aloud and recording it — then let learners run their own trials (guided
 practice) before writing a conclusion. The key idea to protect: repeating is not about
 getting the *same* number every time; it is about seeing the *spread* of results,
-because that spread is honest evidence about how sure we can be (the critical-thinking
-and ethics lenses). A result that looks wrong is information, not a mistake to hide —
-scientists report it and wonder why. Note that repeating tests is a shared human
-practice across cultures, from early astronomers watching the sky night after night to
-cooks tasting and retasting. Keep it calm and honest; no result is "the winner."
+because that spread is honest evidence about how sure we can be (S-249) (the
+critical-thinking and ethics lenses). A result that looks wrong is information, not a
+mistake to hide — scientists report it and wonder why. Note that repeating tests is a
+shared human practice across cultures, from early astronomers watching the sky night
+after night to cooks tasting and retasting. Keep it calm and honest; no result is "the
+winner."
 
 ## Procedure
 
@@ -178,6 +179,7 @@ three results.
 
 ## Resources
 
-- BBC Bitesize (KS2 Science), "How do scientists use their findings?" — why scientists
-  repeat tests to make their evidence more reliable.
-  https://www.bbc.co.uk/bitesize/topics/zqkk7ty/articles/zbxsp4j
+- On why scientists repeat tests to make their evidence more reliable: BBC Bitesize
+  (KS2) — How do scientists use their findings? (S-105).
+- On measurements varying and carrying uncertainty, so a spread of results must be read
+  carefully: NIST — Uncertainty of Measurement Results (S-249).

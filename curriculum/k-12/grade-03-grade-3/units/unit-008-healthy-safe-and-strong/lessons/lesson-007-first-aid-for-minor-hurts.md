@@ -127,7 +127,7 @@ the same — **tell an adult**. Today you will learn what to do next.
    with a clean cloth or bandage.
 3. For a bruise: tell an adult, cool it with a cool cloth, and rest. These follow the
    guidance of the International Federation of Red Cross and Red Crescent Societies
-   (IFRC).
+   (IFRC, S-082).
 4. If a hurt is deep, big, or will not stop bleeding, the adult decides whether more
    help is needed.
 
@@ -195,6 +195,6 @@ cover — and where your family keeps clean water and a cloth.
 
 ## Resources
 
-- International Federation of Red Cross and Red Crescent Societies, "Basic first aid"
-  (clean, cover, cool, and when to get more help):
-  <https://www.ifrc.org/our-work/health-and-care/first-aid>
+- On cleaning and covering a minor cut or scrape, and cooling a bruise: IFRC — First aid
+  (International First Aid, Resuscitation and Education Guidelines) (S-082).
+

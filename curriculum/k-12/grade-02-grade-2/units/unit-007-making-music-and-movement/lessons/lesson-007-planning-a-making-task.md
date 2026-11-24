@@ -85,7 +85,7 @@ last_updated: 2026-08-16
 
 Learners **plan** a making task before they build: they choose **materials** and say
 the **steps** in order. They discover that a plan is thinking made visible, and that
-makers everywhere — potters, weavers, boat-builders — plan before they make.
+makers everywhere — potters, weavers, boat-builders — plan before they make (S-150).
 
 ## Objectives
 
@@ -114,13 +114,13 @@ materials, and say your steps — all before you start.
 
 Planning before making is a **skill**, so model it once — "I will make a little boat; I
 choose sticks and string; my steps are gather, join, test" — before learners plan their
-own (Kirschner, Sweller & Clark, 2006). A plan can be spoken, pointed to, or drawn;
-writing is not required. The plan may change as the learner builds, and that is fine — a
-plan is a guide, not a cage. A learner with limited fine motor plans and directs while a
-partner handles the materials — choosing and sequencing are the heart of the task. A
-learner who is blind or has low vision chooses materials by feel and names the steps
-aloud; a partner can describe each material. A learner who does not speak points to the
-materials and to the step boxes in order. Every plan belongs.
+own (Kirschner, Sweller & Clark, 2006; S-011). A plan can be spoken, pointed to, or
+drawn; writing is not required. The plan may change as the learner builds, and that is
+fine — a plan is a guide, not a cage. A learner with limited fine motor plans and
+directs while a partner handles the materials — choosing and sequencing are the heart of
+the task. A learner who is blind or has low vision chooses materials by feel and names
+the steps aloud; a partner can describe each material. A learner who does not speak
+points to the materials and to the step boxes in order. Every plan belongs.
 
 ## Procedure
 
@@ -164,3 +164,10 @@ materials and to the step boxes in order. Every plan belongs.
 
 At home, plan a small making job with a grown-up — a paper boat, a place for toys.
 Choose the materials together and say the steps before you start, then make it.
+
+## Resources
+
+- On modelling the planning step before learners work alone: Kirschner, Sweller &
+  Clark (2006) — Why Minimal Guidance Does Not Work (S-011).
+- On planning — choosing materials and ordering steps — as a stage of the engineering
+  design process: TeachEngineering — Engineering Design Process (S-150).

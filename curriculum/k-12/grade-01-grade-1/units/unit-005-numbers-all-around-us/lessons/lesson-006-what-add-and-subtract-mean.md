@@ -94,7 +94,7 @@ Every day is full of joining and taking-away stories. In the morning you put on
 socks — you *join* each sock to your feet. At a meal you share food out — some
 *takes away* from the pot and lands on plates. A flock of birds lands in a tree
 (joining), then some fly off (taking away). When you can tell these two stories
-apart, you understand the very heart of numbers: things grow by joining and shrink
+apart, you understand the very heart of numbers (S-025): things grow by joining and shrink
 by taking away.
 
 ## Materials
@@ -170,6 +170,6 @@ day, and act each one out with small objects together.
 ## Resources
 
 - Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (2015).
-  *Children's Mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann.
+  *Children's Mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann (S-025).
   (Joining and separate problem types and the importance of children explaining
   their own strategies.)

@@ -94,7 +94,7 @@ no one person intends harm**. They trace a rule step by step to see *who is left
 ## Connection
 
 A building's only entrance is a staircase. Nobody built it *wanting* to shut anyone out —
-but a person who uses a wheelchair, or a parent pushing a cart, cannot get in. The harm
+but a person who uses a wheelchair, or a parent pushing a cart, cannot get in (S-235). The harm
 is real even though the *intent* was absent. Rules and systems do this quietly: a sign in
 only one language, a meeting scheduled when some people work or pray, a test offered in
 only one format. The unfairness is built into the *steps*, not into anyone's heart — and
@@ -194,3 +194,5 @@ might leave out — then imagine one small change.
   framing in CASEL, <https://casel.org/fundamentals-of-sel/>
 - On modeling a tracing routine before independent practice: Kirschner, Sweller & Clark
   (2006), <https://doi.org/10.1207/s15326985ep4102_1>
+- On removing barriers so every person can take part: UNESCO — Inclusion in Education (Salamanca Statement; Guide for Ensuring Inclusion and Equity) (S-235).
+

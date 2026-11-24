@@ -134,7 +134,7 @@ honor local names and ways.
    your thinking.
 4. **Draw the sort (10 min).** Draw one living thing and one nonliving thing and the
    clue that told you apart (a seed growing vs a rock staying the same).
-5. **Close (5 min).** Living things grow, move, and make more of themselves. The rest
+5. **Close (5 min).** Living things grow, move, and make more of themselves (S-034). The rest
    of the world is nonliving — and living things need it. Both matter.
 
 ## Differentiation
@@ -159,8 +159,6 @@ nonliving things. Tell a grown-up how you knew which was which.
 
 ## Resources
 
-- BBC Bitesize (KS1 Science), "How can I sort objects into dead, living and
-  non-living?" — living things feed, grow, move, reproduce, need air, and get rid of
-  waste; non-living things have never been alive (for example, water, rocks, and
-  metal).
-  https://www.bbc.co.uk/bitesize/topics/zx882hv/articles/zfhfn9q
+- On sorting things into living and non-living, and the clues that tell them apart:
+  BBC Bitesize (KS1 Science), "How can I sort objects into dead, living and
+  non-living?" (S-034).

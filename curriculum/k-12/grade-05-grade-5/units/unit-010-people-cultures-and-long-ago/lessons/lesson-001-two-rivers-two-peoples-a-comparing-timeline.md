@@ -90,8 +90,8 @@ last_updated: 2026-08-17
 Learners build their first **comparing timeline**: two civilizations on two parallel
 rows that share **one time scale**. A worked example places **ancient Egypt** (the Nile)
 and the **Indus Valley** (the Indus) side by side, and learners discover something
-surprising: while Egypt was building the Great Pyramid, Indus cities were thriving at the
-same moment — two peoples, thousands of kilometres apart, both growing great river-valley
+surprising: while Egypt was building the Great Pyramid (S-197), Indus cities were
+thriving at the same moment (S-198) — two peoples, thousands of kilometres apart, both growing great river-valley
 cities. The timeline is this unit's first portfolio artifact.
 
 ## Objectives
@@ -182,11 +182,12 @@ places they know — and share the "same time" you found between Egypt and the I
 
 ## Resources
 
-- Ancient Egypt: unification around 3100 BCE and the Great Pyramid at Giza around 2600 BCE
-  are standard dates in the archaeological record (see the British Museum's Egypt
-  collection, <https://www.britishmuseum.org/collection/egypt>). The Indus Valley
-  civilization's mature phase around 2600–1900 BCE and its cities Harappa and Mohenjo-daro
-  are documented by the Archaeological Survey of India and UNESCO World Heritage listings
-  (Mohenjo-daro, <https://whc.unesco.org/en/list/138/>). Dates are approximations that
-  scholars revise as new evidence appears; the comparing idea, not the exact year, is what
-  matters here.
+- On ancient Egypt — unification around 3100 BCE, the Great Pyramid at Giza around 2600
+  BCE, the Nile's annual flood and irrigation: The British Museum — Egypt collection,
+  <https://www.britishmuseum.org/collection/egypt> (S-197).
+- On Mohenjo-daro and the mature Indus (Harappan) phase, around 2600–1900 BCE, with its
+  grid streets and drainage: UNESCO World Heritage Centre — Archaeological Ruins at
+  Moenjodaro, <https://whc.unesco.org/en/list/138/> (S-198).
+- On the Indus Valley civilization and its cities Harappa and Mohenjo-daro:
+  Archaeological Survey of India,
+  <https://asi.nic.in/> (S-208).

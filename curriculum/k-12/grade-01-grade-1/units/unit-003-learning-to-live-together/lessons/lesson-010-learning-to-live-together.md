@@ -117,7 +117,7 @@ listening, reading feelings, guessing needs, and sharing along the way.
 All the skills in this unit fit together like tools in one box: kind words, listening,
 reading feelings, guessing needs, knowing your community, helping, and sharing. Today
 you use the whole box at once to make your class a kinder place — the same way people
-everywhere build caring communities with many small acts.
+everywhere build caring communities with many small acts (S-158).
 
 ## Materials
 
@@ -168,3 +168,10 @@ community with small acts of care — name that as you close. Read the procedure
   help during the caring act?
 - **Artifact (portfolio):** The group's plan sheet and a drawing of the caring act,
   kept as the unit's culminating artifact.
+
+## Resources
+
+- On learning to live together as a foundation of education: UNESCO — Learning to Live
+  Together (S-158).
+- On communal work as shared care across cultures: Communal-work (mutual-aid)
+  traditions (S-164).

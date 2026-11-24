@@ -106,7 +106,7 @@ the door for the reader.
 
 Writing a topic sentence is a foundational skill, so teach it explicitly: model a strong
 topic sentence, contrast it with a weak one, then guide practice (Kirschner, Sweller &
-Clark, 2006). The one check to protect: "does it tell what the paragraph is about?" A
+Clark, 2006, S-011). The one check to protect: "does it tell what the paragraph is about?" A
 strong topic sentence names the topic and gives the reader a clear picture of what is
 coming. Learners write in their home language and their own writing system —
 script-agnostic, no Latin alphabet assumed. A learner who is Deaf or hard of hearing
@@ -159,5 +159,7 @@ about?"
 
 ## Resources
 
-- CASEL SEL Framework (self-efficacy — writing with a clear purpose):
-  <https://casel.org/fundamentals-of-sel/>
+- On teaching a skill explicitly — model it, then guide practice — rather than leaving
+  learners to discover it: Kirschner, Sweller & Clark (2006) — Why Minimal Guidance During
+  Instruction Does Not Work (S-011).
+

@@ -118,7 +118,7 @@ you look again. It is not guessing — it is a careful, useful check.
 
 **The facts to land.**
 1. Estimation is a **number-sense skill**: round to friendly numbers, then compare (Van
-   de Walle, Karp & Bay-Williams, 2019).
+   de Walle, Karp & Bay-Williams, 2019, S-026).
 2. 68 × 42 → about 70 × 40 = 2,800, so an answer near 2,800 is reasonable and 28,560 or
    285 are not.
 3. This is the unit's **feedback loop** — estimation is how a learner checks their own
@@ -184,6 +184,6 @@ Tell a grown-up whether it was reasonable.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson.
-  (Estimation by rounding and judging reasonableness as core number sense.)
+- On estimation by rounding and judging reasonableness as core number sense: Van de
+  Walle, Karp & Bay-Williams — Elementary and Middle School Mathematics: Teaching
+  Developmentally (S-026).

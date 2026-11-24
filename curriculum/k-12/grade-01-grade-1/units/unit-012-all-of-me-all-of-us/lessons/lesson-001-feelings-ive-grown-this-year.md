@@ -96,7 +96,7 @@ themselves and reading it in others, celebrating that no feeling is ever "wrong.
 At the very start of this year you learned three new feeling words — proud, lonely,
 and excited — to go with the four you knew from Kindergarten. All year long you kept
 adding more. Now, near the end of the year, you can say exactly how you feel, and you
-can read a feeling on a friend's face, in their voice, or in their body. That is what
+can read a feeling on a friend's face, in their voice, or in their body (S-015). That is what
 it means to grow your feelings: more names, more knowing.
 
 ## Materials
@@ -190,4 +190,5 @@ you a feeling so you can guess it.
 
 ## Resources
 
-- CASEL SEL Framework (foundational competencies): <https://casel.org/fundamentals-of-sel/>
+- On naming feelings precisely and reading them in face, voice, and body: RULER
+  Approach — Yale Center for Emotional Intelligence (S-015).

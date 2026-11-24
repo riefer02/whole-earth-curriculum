@@ -83,7 +83,7 @@ last_updated: 2026-08-17
 Learners meet two more **shapers** of feeling: **memory** and **body sensation**. A
 memory can bring a feeling back even when nothing is happening right now, and a body
 sensation — a warm chest, a tight stomach, loose shoulders — can signal and shape what
-we feel. Learners complete a **memory–body–feeling** frame for a real experience and
+we feel (S-401). Learners complete a **memory–body–feeling** frame for a real experience and
 notice where feelings live in their own bodies.
 
 ## Objectives
@@ -137,7 +137,7 @@ topics safely.
    loved**.
 3. **Scan your body (10 min).** Close your eyes or soften your gaze. Slowly scan from
    head to toe. Where is there a sensation — warm, tight, fluttery, heavy, light? Name
-   it without judging it. Share one with a partner: "I notice a flutter in my stomach."
+   it without judging it (S-222). Share one with a partner: "I notice a flutter in my stomach."
 4. **Build your frame (15 min).** On your page, draw or write one safe **memory** of
    your own. Beside it, draw or write the **body sensation** it brings. Then name the
    **feeling** the two of them shape together. Color the body spot where it lives.
@@ -168,3 +168,10 @@ for one of theirs.
 - The body's role in emotion is studied in the field of "embodied emotion"; for a
   classroom-friendly summary of body awareness, see CASEL's self-awareness competency:
   <https://casel.org/fundamentals-of-sel/>
+
+- On the body's signals, together with past experience, as ingredients of an
+  emotion (interoception; a constructed-emotion account, held here as one respected
+  scientific description rather than settled fact): Barrett — *How Emotions Are Made: The
+  Secret Life of the Brain* (S-401).
+- On noticing feelings and body sensations without judging them (the mindfulness
+  component of self-compassion): Neff (2003), *Self and Identity* (S-222).

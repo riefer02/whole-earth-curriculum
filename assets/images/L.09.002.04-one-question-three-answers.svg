@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-002-04-one-question desc-L-09-002-04-one-question">
+  <title id="title-L-09-002-04-one-question">One question, three answers</title>
+  <desc id="desc-L-09-002-04-one-question">A question box at the top asks what a memorial should say and do. Below it, three columns named consequences, duties, and virtues each list what the framework asks and what it can miss. A footer reads: each shows something; each misses something.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">One Question, Three Answers</text>
+
+  <rect x="56" y="70" width="400" height="56" rx="8" fill="#f7efe2" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="96" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">what should this memorial</text>
+  <text x="256" y="116" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">say and do?</text>
+
+  <rect x="16" y="156" width="152" height="210" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="92" y="184" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">consequences</text>
+  <line x1="34" y1="196" x2="150" y2="196" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="34" y="222" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">asks</text>
+  <text x="34" y="244" font-family="sans-serif" font-size="12" fill="#222222">what happens?</text>
+  <text x="34" y="262" font-family="sans-serif" font-size="12" fill="#222222">to whom?</text>
+  <text x="34" y="300" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">can miss</text>
+  <text x="34" y="322" font-family="sans-serif" font-size="12" fill="#222222">what cannot</text>
+  <text x="34" y="340" font-family="sans-serif" font-size="12" fill="#222222">be counted</text>
+
+  <rect x="180" y="156" width="152" height="210" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="184" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">duties</text>
+  <line x1="198" y1="196" x2="314" y2="196" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="198" y="222" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">asks</text>
+  <text x="198" y="244" font-family="sans-serif" font-size="12" fill="#222222">what is owed?</text>
+  <text x="198" y="262" font-family="sans-serif" font-size="12" fill="#222222">and by whom?</text>
+  <text x="198" y="300" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">can miss</text>
+  <text x="198" y="322" font-family="sans-serif" font-size="12" fill="#222222">the outcome</text>
+  <text x="198" y="340" font-family="sans-serif" font-size="12" fill="#222222">for everyone</text>
+
+  <rect x="344" y="156" width="152" height="210" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="420" y="184" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">virtues</text>
+  <line x1="362" y1="196" x2="478" y2="196" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="362" y="222" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">asks</text>
+  <text x="362" y="244" font-family="sans-serif" font-size="12" fill="#222222">who do we</text>
+  <text x="362" y="262" font-family="sans-serif" font-size="12" fill="#222222">become?</text>
+  <text x="362" y="300" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">can miss</text>
+  <text x="362" y="322" font-family="sans-serif" font-size="12" fill="#222222">hard</text>
+  <text x="362" y="340" font-family="sans-serif" font-size="12" fill="#222222">trade-offs</text>
+
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">each shows something; each misses something</text>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">name what the other two showed</text>
+</svg>

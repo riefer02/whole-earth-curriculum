@@ -128,7 +128,7 @@ fixes, to read the clues behind a feeling, to see the same event through another
 to take a role, to welcome newcomers, to do a small act of care, and to share for the
 common good. Today you put it all together. Care is not one big heroic act; it is these
 eight small, real skills, practiced together. And when enough people practice them, a
-community becomes a place where every person belongs. That is worth celebrating.
+community becomes a place where every person belongs (S-158). That is worth celebrating.
 
 ## Materials
 
@@ -201,5 +201,7 @@ keep practicing — and one way you saw people care for each other this week.
 
 ## Resources
 
-- CASEL SEL Framework (all five competencies):
-  <https://casel.org/fundamentals-of-sel/>
+- On all five SEL competencies, practiced together: CASEL — Fundamentals of Social and
+  Emotional Learning (S-001).
+- On learning to live together — the belonging and inclusion aim behind this unit:
+  UNESCO — Learning to Live Together (S-158).

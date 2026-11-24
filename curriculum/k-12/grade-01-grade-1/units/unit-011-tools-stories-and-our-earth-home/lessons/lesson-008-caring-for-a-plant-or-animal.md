@@ -150,7 +150,8 @@ and to pictures of water and food.
    gentle, quiet look (or listen, or feel). It is alive, and it needs you.
 2. **Learn its daily needs (10 min).** Say what this living thing needs each day: a
    plant needs water and light each day; an animal needs food, clean water, and a
-   clean, safe place each day. Point to or touch each need as you name it.
+   clean, safe place each day (S-032; S-033). Point to or touch each need as you name
+   it.
 3. **Do one caring task (15 min).** Choose one caring task and do it now — water the
    plant, fill the water dish, put out food, or tidy the safe place. Use gentle
    hands. If your body makes the doing hard, guide a partner's hands while you say
@@ -185,12 +186,10 @@ and to pictures of water and food.
 
 ## Resources
 
-- BBC Bitesize (KS1 Science), "What does a plant need to grow?" — plants need water,
-  light, air, the right temperature, and time.
-  https://www.bbc.co.uk/bitesize/topics/zpxnyrd/articles/zkp2jsg
-- BBC Bitesize (KS1 Science), "What do animals need to survive?" — animals need air,
-  water, shelter, and food to survive.
-  https://www.bbc.co.uk/bitesize/topics/z6882hv/articles/zx38wmn
+- On what plants need to grow — water, light, air, the right temperature, and time:
+  BBC Bitesize (KS1 Science), "What does a plant need to grow?" (S-033).
+- On what animals need to survive — air, water, shelter, and food: BBC Bitesize (KS1
+  Science), "What do animals need to survive?" (S-032).
 
 ## Home connection
 

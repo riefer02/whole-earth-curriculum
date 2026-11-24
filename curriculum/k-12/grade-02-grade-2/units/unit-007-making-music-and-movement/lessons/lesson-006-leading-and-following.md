@@ -121,7 +121,7 @@ with a partner, leading and following in turn.
 **The facts to land.**
 
 1. Model once — you move, a learner mirrors — before pairs try (Kirschner, Sweller &
-   Clark, 2006).
+   Clark, 2006; S-011).
 2. **Following is active, not passive**: a good follower watches, listens, and matches.
 3. Keep the scene simple and everyday, and never co-opt sacred or ceremonial roles from
    any culture.
@@ -164,7 +164,7 @@ hearing: lead and follow through visible movement and gesture.
    (or point to) who led first and who followed, and how it felt to trade.
 5. **Close (5 min).** Remember: leading is a gift you pass along, and following takes
    care and attention. Every good partnership needs both — and now you have done
-   both.
+   both (S-260).
 
 ## Differentiation
 
@@ -190,3 +190,10 @@ hearing: lead and follow through visible movement and gesture.
 
 With someone at home, play a mirror game — one of you leads a slow move and the other
 follows, then trade. Tell each other which role you liked and why.
+
+## Resources
+
+- On modelling before pairs try it: Kirschner, Sweller & Clark (2006) — Why Minimal
+  Guidance Does Not Work (S-011).
+- On leading and following in partner drama work: IDEA — International Drama/Theatre
+  and Education Association (S-260).

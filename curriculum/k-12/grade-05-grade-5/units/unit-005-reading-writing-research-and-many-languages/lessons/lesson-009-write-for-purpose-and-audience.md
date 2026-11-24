@@ -98,7 +98,7 @@ You want people to come to a clean-up day. For the whole village you might write
 **poster** with short, cheering words. For your younger cousin you might write a warm **note**
 with simpler words and a "can you come?" at the end. Same idea, two readers, two very
 different pieces. Writing well is not finding one "right" way — it is **choosing** words, order,
-and form to fit **who will read it** and **what you want them to do**.
+and form to fit **who will read it** and **what you want them to do** (S-102).
 
 ## Materials
 
@@ -163,6 +163,7 @@ words that fit them, and see how they respond.
 
 ## Resources
 
-- Writing for authentic purposes and audiences supports engagement and transfer (see Graham &
-  Perin, "Writing Next," Carnegie Corporation, 2007). On explicit instruction for novice
-  writers, see Kirschner, Sweller & Clark (2006).
+- On writing instruction that teaches explicit strategies and gives writers real
+  purposes and audiences: Graham & Perin — *Writing Next* (S-102).
+- On modelling a worked example before independent drafting: Kirschner, Sweller &
+  Clark (2006), <https://doi.org/10.1207/s15326985ep4102_1> (S-011).

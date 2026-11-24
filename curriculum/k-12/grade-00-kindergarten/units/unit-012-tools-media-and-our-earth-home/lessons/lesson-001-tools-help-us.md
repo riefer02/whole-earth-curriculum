@@ -114,7 +114,7 @@ everyone stays safe.
 
 1. **Gather (5 min).** Look at your hands. What is one job your hands cannot do alone?
 2. **What is a tool? (10 min).** A tool is something people make to help them do a
-   job. Reach into the tool bag and pull one out. Name it, and tell what it helps
+   job (S-061). Reach into the tool bag and pull one out. Name it, and tell what it helps
    people do: "A spoon helps us scoop and eat. A broom helps us sweep."
 3. **Act it out (10 min).** Choose a tool and act out its job with your body — scoop,
    sweep, carry, pound. Can a partner guess which tool you are using?
@@ -137,6 +137,10 @@ everyone stays safe.
 - **Formative (observation):** Can the learner name one tool and tell what it helps
   people do?
 - **Artifact (portfolio):** The "tool and its job" drawing.
+
+## Resources
+
+- On what a tool is: Britannica Kids — Tool (S-061).
 
 ## Home connection
 

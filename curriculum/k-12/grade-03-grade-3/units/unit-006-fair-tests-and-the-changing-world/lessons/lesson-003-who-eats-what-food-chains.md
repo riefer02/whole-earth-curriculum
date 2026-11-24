@@ -102,10 +102,10 @@ matters — a decomposer is just as vital as a lion.
 Have you seen a bird peck at a seed, or a snail chew a leaf? That is a link in a chain.
 The **Sun** gives light, the plant catches that light and makes its own food, the snail
 eats the plant, the bird eats the snail, and when any of them dies, worms and tiny
-living things break it down and feed the soil — which grows new plants. Energy travels
+living things break it down and feed the soil — which grows new plants (S-073). Energy travels
 along that chain, from the Sun to the plant to the eater, and around again through the
 soil. You are part of a chain too: whatever you ate today began as a plant or an animal
-that ate a plant.
+that ate a plant (S-072).
 
 ## Materials
 
@@ -176,9 +176,8 @@ At home, pick one food you eat and trace its chain back to the Sun with a grown-
 
 ## Resources
 
-- BBC Bitesize (KS2 Science), "What is a food chain?" — producers and consumers, and how
-  energy moves through a chain.
-  https://www.bbc.co.uk/bitesize/topics/zcyycdm/articles/zww9r2p
-- BBC Bitesize (KS2 Science), "What is a microorganism?" — how fungi and bacteria break
-  down dead matter and return nutrients to the soil (decomposers).
-  https://www.bbc.co.uk/bitesize/topics/z6wwxnb/articles/zsgtrwx
+- On producers, consumers and the flow of energy through a food chain: BBC Bitesize (KS2)
+  — What is a food chain? (S-072).
+- On decomposers — fungi and bacteria breaking down dead matter and returning nutrients to
+  the soil: BBC Bitesize (KS2) — What is a microorganism? (S-073).
+

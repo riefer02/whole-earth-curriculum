@@ -91,7 +91,7 @@ pass, and every family's shape and story is honored.
 
 Every family carries stories and traditions — a special meal, a song, a holiday, a
 way of saying hello, a tale told again and again. A **tradition** is something a
-family passes down, like a treasure. These things belong to *your* family, whatever
+family passes down, like a treasure (S-056). These things belong to *your* family, whatever
 shape your family takes — one grown-up, two, grandparents, a foster family, chosen
 family, or many generations under one roof. People everywhere keep traditions, and
 each one is different and worth telling.
@@ -162,3 +162,8 @@ share.
 
 Ask someone at home to tell you where one family tradition came from, and share what
 you learned next time.
+
+## Resources
+
+- On traditions and stories passed down within families and communities as living
+  heritage: UNESCO — Intangible Cultural Heritage (S-056).

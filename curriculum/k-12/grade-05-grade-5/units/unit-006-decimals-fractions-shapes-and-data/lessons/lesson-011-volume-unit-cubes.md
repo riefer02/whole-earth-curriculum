@@ -84,7 +84,7 @@ last_updated: 2026-08-17
 
 Learners find the **volume** of right rectangular prisms by building them with **unit cubes**
 and counting. They see volume as the **amount of space a box holds**, counted in **cubic
-units**, and discover that counting by **layers** — cubes in one layer times the number of
+units** (S-026), and discover that counting by **layers** — cubes in one layer times the number of
 layers — is a fast way to find the total.
 
 ## Objectives
@@ -164,6 +164,6 @@ number of layers to estimate its volume.
 
 ## Resources
 
-- Volume as unit-cube counting is standard in elementary mathematics; see John A. Van de Walle,
-  *Elementary and Middle School Mathematics* (10th ed., 2019). The fairness value of honest
-  measurement of containers is a commitment (`docs/philosophy.md` §4).
+- On volume as the space a solid occupies, measured by counting unit cubes and by
+  layering: Van de Walle, Karp & Bay-Williams — *Elementary and Middle School
+  Mathematics* (S-026).

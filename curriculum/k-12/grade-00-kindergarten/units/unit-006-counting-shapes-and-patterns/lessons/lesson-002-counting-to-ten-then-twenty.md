@@ -100,7 +100,7 @@ many still do. Counting to twenty is just counting to ten, and then ten more.
 
 ## Facilitator note
 
-Counting to twenty is a bigger stretch than many five-year-olds find easy, and the
+Counting to twenty is a bigger stretch than many five-year-olds find easy (S-020), and the
 "teen" numbers (eleven through nineteen) are irregular in many languages — they take
 time. Keep the tone playful and unhurried; **there is no such thing as "too slow" at
 counting**. Count in the home language, since number words differ across languages and
@@ -152,4 +152,4 @@ twenty small things you can find: beans, stones, buttons, or steps.
 
 - Clements, D. H., & Sarama, J. (2014). *Learning and Teaching Early Math: The
   Learning Trajectories Approach* (2nd ed.). Routledge. (The verbal counting sequence
-  as a foundational skill.)
+  as a foundational skill.) (S-020)

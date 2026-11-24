@@ -81,7 +81,7 @@ last_updated: 2026-08-16
 Learners explore how they are alike and different from others, sorting facts into two
 overlapping circles: *just me*, *just my friend*, and *what we share*. They discover
 that both sameness and difference matter — what we share joins us together, and what
-is different makes each of us special. No one is "more" or "less"; we are each a
+is different makes each of us special (S-389). No one is "more" or "less"; we are each a
 one-of-a-kind person who also belongs.
 
 ## Objectives
@@ -161,5 +161,5 @@ and tell them why both matter.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness and relationship skills):
-  <https://casel.org/fundamentals-of-sel/>
+- On cultural diversity as a shared commitment rather than a ranking: UNESCO — Universal
+  Declaration on Cultural Diversity (S-389).

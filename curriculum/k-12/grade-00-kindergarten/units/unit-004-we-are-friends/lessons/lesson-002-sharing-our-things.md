@@ -88,7 +88,7 @@ noticing that sharing is a way of caring for the whole group, not a contest.
 Sharing is letting someone else use or enjoy a little of what you have — and
 sometimes they share with you in return. When everyone shares a little, everyone has
 enough, whether you are splitting crayons at a table or bread at a family meal.
-Sharing is caring made into a habit.
+Sharing is caring made into a habit (S-001).
 
 ## Materials
 
@@ -137,7 +137,7 @@ fairness and enoughness, not obedience.
 ## Resources
 
 - CASEL SEL Framework (foundational competencies):
-  <https://casel.org/fundamentals-of-sel/>
+  <https://casel.org/fundamentals-of-sel/> (S-001)
 
 ## Home connection
 

@@ -99,9 +99,9 @@ of life's tasks inside one tiny cell.
 
 Your own body is a city of cells — trillions of them, each too small to see without a
 **microscope**. Yet some living things need no city at all: the yeast that makes bread
-rise is a single cell, and the green algae floating in a pond is a single cell too.
+rise is a single cell, and the green algae floating in a pond is a single cell too (S-243).
 From a giant tree to the yeast in dough, the rule is the same: the cell is the small
-living unit everything bigger is made from. Today you meet that unit up close.
+living unit everything bigger is made from (S-251). Today you meet that unit up close.
 
 ## Materials
 
@@ -181,3 +181,6 @@ jobs.
   <https://www.bbc.co.uk/bitesize/topics/znyycdm/articles/z4f26yc>
 - National Geographic Education, "Cell Theory" — cells as the basic unit of life:
   <https://education.nationalgeographic.org/resource/cell-theory/>
+- On cell theory — cells as the basic unit of life: National Geographic Education — Cell Theory (S-251).
+- On plant and animal cells and single-celled organisms: BBC Bitesize (KS3) — Living organisms: plant and animal cells; unicellular organisms (S-243).
+

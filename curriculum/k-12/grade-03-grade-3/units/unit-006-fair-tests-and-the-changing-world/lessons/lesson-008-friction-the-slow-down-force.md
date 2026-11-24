@@ -107,7 +107,7 @@ Rub your hands together fast. Feel that warmth and that little drag? That is
 car rolls far on smooth ice and stops sooner on rough sand, why your shoes **grip** the
 path, and why a bicycle can **brake**. The same force that wears down a stone also keeps
 you from slipping. You already tested it in Lesson 1 — smooth versus rough — you just
-did not know its name yet.
+did not know its name yet (S-078).
 
 ## Materials
 
@@ -178,6 +178,6 @@ tell a grown-up which one had more friction. Feel the rub of your hands too.
 
 ## Resources
 
-- BBC Bitesize (KS2), "What is friction?" — friction as a force that slows things down
-  when surfaces rub, and how we use and reduce it.
-  https://www.bbc.co.uk/bitesize/topics/zvr3nrd/articles/zxqrdxs
+- On friction as a force between two surfaces that slows a moving object, and how we use
+  or reduce it: BBC Bitesize (KS2, NI) — What is friction? (S-078).
+

@@ -96,7 +96,7 @@ are the people around you. The stonecutter who wishes for more, the friend who l
 listen, the character who stops being afraid: an author shows these changes through small
 clues — what a person *does*, *says*, and *learns*. Finding those clues is the reader's
 detective work, and it works the same in a Japanese folktale, a novel from Lagos, or a
-telenovela from Mexico City.
+telenovela from Mexico City (S-172).
 
 ## Materials
 
@@ -164,6 +164,8 @@ change, and what made them change?
   "Improving Adolescent Literacy" (2008), <https://ies.ed.gov/ncee/wwc/practiceguide/8>
 - On modeling before practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+
+- On reading narrative structure and supporting a reading with text evidence: Nell K. Duke & P. David Pearson — Effective Practices for Developing Reading Comprehension (S-172).
 
 ---
 

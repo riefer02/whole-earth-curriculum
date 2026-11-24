@@ -101,7 +101,7 @@ festival, a home — when they share a **symbol** that says "this is us" (a cres
 pattern), and when they tell the same **stories** (how we began, who we remember, what we
 value). Think of your own class, family, or neighborhood: what do you do together, what
 mark or pattern stands for you, and what story gets told again and again? Those three
-things are the glue.
+things are the glue (S-157; S-056).
 
 ## Materials
 
@@ -137,7 +137,7 @@ description** portfolio artifact. See `docs/facilitation.md`.
    are. Each one makes belonging.
 3. **See it in the world (10 min).** Think of examples. A village that harvests together.
    A patterned cloth — like the kente cloth of the Akan peoples of West Africa — whose
-   patterns carry meaning and are worn on important days. An origin story told by elders
+   patterns carry meaning and are worn on important days (S-084). An origin story told by elders
    around a fire. Name one you know or have heard of.
 4. **Describe your own community (15 min).** Choose one community you belong to — your
    class, family, neighborhood, team, or a community of faith or culture. On your page,
@@ -168,8 +168,11 @@ one of yours.
 
 ## Resources
 
-- Belonging and inclusion are a pillar of UNESCO's "Learning to Live Together"
-  (<https://en.unesco.org/themes/learning-live-together>); shared activity and trust build
-  community (Putnam, *Bowling Alone*). For symbols with meaning, see kente cloth of the
-  Akan peoples (Smithsonian National Museum of African Art) and, for story and knowledge
-  passed person to person, UNESCO's Intangible Cultural Heritage (<https://ich.unesco.org/>).
+- On kente cloth of the Akan peoples of Ghana — stamped patterns that carry meaning
+  and are worn on important occasions: Smithsonian National Museum of African Art,
+  <https://africa.si.edu/> (S-084).
+- On shared activity, trust, and community ties: Putnam — *Bowling Alone* (S-157).
+- On stories, symbols and practices passed between generations as living cultural
+  heritage: UNESCO — Intangible Cultural Heritage, <https://ich.unesco.org/> (S-056).
+- On learning to live together as a pillar of education: UNESCO,
+  <https://en.unesco.org/themes/learning-live-together> (S-158).

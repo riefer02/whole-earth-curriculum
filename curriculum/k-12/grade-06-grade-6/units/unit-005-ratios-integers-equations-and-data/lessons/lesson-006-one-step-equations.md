@@ -127,7 +127,7 @@ performed on both sides; that is a trick, not a method.
 
 - *Intellectual:* equality is the definition the whole method rests on.
 - *Global:* "algebra" comes from *al-jabr* in the title of al-Khwarizmi's 9th-century
-  book; balancing both sides is a human achievement shared across cultures.
+  book; balancing both sides is a human achievement shared across cultures (S-293).
 - *Critical-thinking:* checking your answer instead of trusting a guess is honest
   reasoning (`docs/philosophy.md` §7).
 
@@ -140,7 +140,7 @@ from last lesson — an equation is two expressions with an equals sign between 
 
 1. **Gather (5 min).** Last time you wrote an expression — a recipe with a variable. Today you set two
    sides *equal* and find the mystery number that makes them match.
-2. **Meet the equation (10 min).** An **equation** is a balance: the left side equals the right side.
+2. **Meet the equation (10 min).** An **equation** is a balance: the left side equals the right side (S-026).
    "A number plus 3 equals 8" is **x + 3 = 8**. Whatever you do to one side, you must do to the other, or
    the balance tips.
 3. **Worked example — subtract (10 min).** Solve **x + 3 = 8**. Undo the "+ 3" by subtracting 3. Do it to
@@ -178,3 +178,6 @@ solve the one-step equation for it.
   Van de Walle, *Elementary and Middle School Mathematics* (10th ed., 2019). The note that "algebra" derives
   from *al-jabr* in al-Khwarizmi's 9th-century work is documented history; the habit of checking answers
   rather than trusting guesses is a critical-thinking value (`docs/philosophy.md` §7).
+- On equations as balanced expressions: John A. Van de Walle, Karen S. Karp & Jennifer M. Bay-Williams — Elementary and Middle School Mathematics: Teaching Developmentally (S-026).
+- On the origin of the word algebra in al-Khwarizmi's al-jabr: MacTutor History of Mathematics Archive — Al-Khwarizmi (S-293).
+

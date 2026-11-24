@@ -147,11 +147,11 @@ tell the story — the slow turning.
    after night.
 3. **Day turns into night (15 min).** Watch the lamp and ball. One side of the ball is
    in light — that is day. The other side is in dark — that is night. The Earth
-   **turns** slowly, all the time. As it turns, your part of the Earth comes into the
-   light (morning) and then leaves it (evening). The Sun does not really go around us;
-   we turn, so the Sun only *seems* to rise and set. Act it out: one friend is the
-   Sun, the rest turn slowly like the Earth, saying "day!" when you face the light and
-   "night!" when you face away.
+   **turns** slowly, all the time (S-029; S-030). As it turns, your part of the Earth
+   comes into the light (morning) and then leaves it (evening). The Sun does not
+   really go around us; we turn, so the Sun only *seems* to rise and set. Act it out:
+   one friend is the Sun, the rest turn slowly like the Earth, saying "day!" when you
+   face the light and "night!" when you face away.
 4. **Sky stories (10 min).** Listen to a story people have told about the Sun, Moon, or
    stars — from here and from far away. Every people has wondered at the sky and told
    a story about it. No story is the only story; we hold them side by side and keep
@@ -180,15 +180,10 @@ tell the story — the slow turning.
 
 ## Resources
 
-- BBC Bitesize (KS1 Science), "What is day and night?" — explains that the Sun is the
-  star at the centre of our solar system, that Earth rotates, and that the Sun shines
-  on only half of Earth at once, so as Earth turns some places face the Sun (daytime)
-  and others face away (night-time).
-  https://www.bbc.co.uk/bitesize/topics/zkvv4wx/articles/zyfhxbk
-- NASA Space Place, "What Causes the Seasons?" — states that Earth "spins around this
-  pole, making one complete turn each day. That is why we have day and night," and
-  explains that Earth's tilted axis makes the seasons.
-  https://spaceplace.nasa.gov/seasons/en/
+- On day and night arising from Earth's rotation: BBC Bitesize (KS1 Science), "What
+  is day and night?" (S-029).
+- On Earth's spin bringing day and night, and its tilt bringing the seasons: NASA Space
+  Place, "What Causes the Seasons?" (S-030).
 
 ## Home connection
 

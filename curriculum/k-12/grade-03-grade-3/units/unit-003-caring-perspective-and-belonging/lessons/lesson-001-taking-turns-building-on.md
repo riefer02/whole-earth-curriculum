@@ -118,7 +118,7 @@ to think together.
 Taking turns and building on are the two parts of **discussion**, a skill CASEL places
 inside relationship skills. Teach them as explicit, worked instruction: name the rule,
 model it, then guide practice before learners try it alone (Kirschner, Sweller & Clark,
-2006). The key idea to protect: *building on* is not "waiting for your turn to say your
+2006, S-011). The key idea to protect: *building on* is not "waiting for your turn to say your
 own thing" — it is listening and then adding to what came before. Model the difference
 with a clear example. Keep the topic friendly and small so no learner's life is put on
 display. A learner who does not speak with their mouth builds on with sign, a gesture, a
@@ -166,5 +166,8 @@ try a build-on: "I like what you said, and I think…" Notice how the plan grows
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On "talk moves" that build on another person's idea ("Can you add on?", "Who can restate
+  that?"): Sarah Michaels & Catherine O'Connor — Accountable Talk (S-238).
+- On modeling a skill before learners try it: Kirschner, Sweller & Clark (2006) — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
+

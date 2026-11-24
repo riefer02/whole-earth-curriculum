@@ -97,7 +97,7 @@ tongue team.
 Think of biting into a sweet, juicy mango or a warm piece of bread. You might say "this
 tastes good" — but your tongue is not working alone. Your nose is smelling the mango at
 the same time, and the two are talking to your brain together. Taste and smell are
-partners: together they make the fuller picture we call flavor.
+partners: together they make the fuller picture we call flavor (S-067).
 
 ## Materials
 
@@ -161,10 +161,8 @@ and taste together — is well established in sensory science (see Resources).
 
 ## Resources
 
-- World Health Organization — global health and wellbeing reference:
-  <https://www.who.int/>
-- U.S. National Institute on Deafness and Other Communication Disorders (NIDCD) —
-  Taste and Smell: <https://www.nidcd.nih.gov/health/taste-smell>
+- On taste and smell working together to make flavor: U.S. National Institute on Deafness
+  and Other Communication Disorders — Taste and Smell (S-067).
 
 ## Home connection
 

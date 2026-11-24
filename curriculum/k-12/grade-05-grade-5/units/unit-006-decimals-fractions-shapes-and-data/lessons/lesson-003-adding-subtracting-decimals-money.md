@@ -97,8 +97,8 @@ You are at a market with 5.00. You buy rice for **2.50** and fruit for **1.75**.
 you pay, and how much **change** do you get back? Adding and subtracting decimals is exactly
 the math of buying and selling — the same skill a seller uses to give the right change in a
 market in Lagos, a shop in Lima, or a floating market in Bangkok. Money works in many
-currencies, but the place-value idea — line up the points, work place by place — is the same
-everywhere.
+currencies (S-028), but the place-value idea — line up the points, work place by place —
+is the same everywhere.
 
 ## Materials
 
@@ -169,7 +169,7 @@ decimal points to do it.
 
 ## Resources
 
-- Decimal addition/subtraction by place-value alignment is standard in elementary mathematics;
-  see John A. Van de Walle, *Elementary and Middle School Mathematics* (10th ed., 2019). The
-  claim that giving exact change so no one is cheated is a fairness value (`docs/philosophy.md`
-  §4).
+- On the long history of money and the many forms and currencies it has taken: Davies —
+  *A History of Money: From Ancient Times to the Present Day* (S-028).
+- On adding and subtracting decimals by aligning place value, with regrouping: Van de
+  Walle, Karp & Bay-Williams — *Elementary and Middle School Mathematics* (S-026).

@@ -133,7 +133,7 @@ The global lens: friction was mastered (sleds, sledges, bearings) and gravity ha
    acceleration? (F = m × a.) Today you use it to explain everyday motion.
 2. **Meet balanced and unbalanced (10 min).** **Balanced forces:** equal pushes/pulls in
    opposite directions cancel — motion stays the same (a book at rest, a sled gliding at
-   steady speed). **Unbalanced forces:** one force is bigger — motion changes (the sled
+   steady speed) (S-302). **Unbalanced forces:** one force is bigger — motion changes (the sled
    slowing as friction wins, a car speeding up).
 3. **Two everyday forces (5 min).** **Gravity** pulls things toward the ground. **Friction**
    resists sliding between surfaces. They are the forces you meet constantly.
@@ -174,3 +174,5 @@ pushed open). Name the forces in each and share what you found.
   §4).
 - On explicit instruction for novice content: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On Newton's laws of motion, including balanced and unbalanced forces: Isaac Newton — Philosophiæ Naturalis Principia Mathematica (S-302).
+

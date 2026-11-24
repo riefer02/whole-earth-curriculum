@@ -84,7 +84,7 @@ last_updated: 2026-08-16
 Learners put the whole peace path together in one role-play: **describe** a conflict,
 **choose a peaceful solve** (talk, turns, or help), and **make a real apology** that
 fixes the harm. This is guided practice of the unit's restorative skill, from start
-to finish, with no blame and no one left out.
+to finish, with no blame and no one left out (S-011).
 
 ## Objectives
 
@@ -189,5 +189,5 @@ solve, make a real apology. Try them the next time a small conflict comes up.
 
 ## Resources
 
-- International Institute for Restorative Practices (repairing harm rather than only
-  punishing): <https://www.iirp.edu/>
+- On guiding practice step by step after a model: Kirschner, Sweller & Clark (2006) —
+  Why Minimal Guidance Does Not Work (S-011).

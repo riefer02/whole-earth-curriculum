@@ -119,7 +119,7 @@ Accept every learner's example; there is no single right kind act.
    for a friend, a family member, or an animal. Tell a partner what it is and why it
    is good.
 5. **Close (5 min).** Remember: kindness is something you can do, every day, in many
-   small ways.
+   small ways (S-001).
 
 ## Differentiation
 
@@ -143,4 +143,4 @@ shoes, or say something warm. Tell a grown-up why it was good.
 ## Resources
 
 - CASEL SEL Framework (foundational competencies):
-  <https://casel.org/fundamentals-of-sel/>
+  <https://casel.org/fundamentals-of-sel/> (S-001)

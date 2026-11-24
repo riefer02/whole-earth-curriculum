@@ -138,7 +138,7 @@ next lesson; today is only *seeing*. See `docs/facilitation.md`.
 2. **Meet the routine (10 min).** Look at the poster. A conflict sits in the center. For
    **each side**, ask two questions: *What does this side **feel**?* (the emotion — worried,
    frustrated, hurt) and *What does this side **need**?* (the thing underneath — water,
-   safety, a turn, to be heard). Feelings are the surface; needs are what is underneath.
+   safety, a turn, to be heard). Feelings are the surface; needs are what is underneath (S-148).
    Analyzing means naming **both**, for **both** sides.
 3. **Worked example (10 min).** Analyze together. *Conflict:* "Two neighbors, one shared
    water tap." Side 1: feeling — worried; need — water for the garden. Side 2: feeling —
@@ -177,3 +177,5 @@ need before saying who is right.
   International Institute for Restorative Practices, <https://www.iirp.edu/>
 - On modeling an analysis routine before independent practice: Kirschner, Sweller & Clark
   (2006), <https://doi.org/10.1207/s15326985ep4102_1>
+- On naming feelings and needs underneath a conflict: Marshall B. Rosenberg — Nonviolent Communication: A Language of Life (S-148).
+

@@ -101,7 +101,7 @@ permission: it is given or not given, and only *you* can give it for your own bo
 no**" and "**stop means stop**" — when you say them, they must be respected, right away. And it
 is **always okay** to say no, even to someone you love, even to a grown-up, even to a hug that
 is meant kindly. If anyone touches you in a way that feels wrong, or keeps going after you say
-stop, tell a **trusted adult** — always, and it is never your fault.
+stop, tell a **trusted adult** — always, and it is never your fault (S-196; S-091).
 
 ## Materials
 
@@ -181,9 +181,10 @@ hearing a "no" — with a firm, kind voice.
 
 ## Resources
 
-- Teaching children body autonomy and consent in age-appropriate, non-sexual terms — that their
-  body is their own, that "no" and "stop" must be respected, and that they should tell a trusted
-  adult — is standard in child-safety education and reflected in the UN Convention on the Rights
-  of the Child's protection of children from harm (Art. 19). See also child-protection guidance
-  from UNICEF and the Red Cross / Red Crescent. This lesson stays at everyday touch and personal
-  space; sexual content is not appropriate at this grade.
+- On every child's right to protection from all forms of violence and abuse, and on
+  telling a trusted adult: UN Convention on the Rights of the Child, Article 19 (full
+  treaty text), <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
+  (S-091).
+- On child protection and ending violence against children, framed as a shared duty
+  rather than a child's burden: UNICEF — Violence against children,
+  <https://www.unicef.org/protection/violence-against-children> (S-196).

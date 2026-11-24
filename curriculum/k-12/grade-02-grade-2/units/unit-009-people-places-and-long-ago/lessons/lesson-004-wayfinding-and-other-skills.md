@@ -83,8 +83,8 @@ last_updated: 2026-08-16
 ## Summary
 
 Learners meet one knowledge and skill a particular people developed — **wayfinding**,
-the Polynesian skill of reading stars, waves, birds, and clouds to sail across the
-open ocean — and explain what it helps people do. They hold it alongside farming and
+the Polynesian skill of reading stars, waves, birds, and clouds to sail across the open
+ocean — and explain what it helps people do (S-055). They hold it alongside farming and
 weaving as other living knowledge traditions, passed down hand to hand, never
 "primitive."
 
@@ -151,7 +151,7 @@ them; a learner who does not use a speaking voice acts the signs or points to th
    sentence: "This helps people..." You may choose wayfinding, farming, weaving, or a
    skill your own family or people keep.
 6. **Close (5 min).** Every people has developed knowledge and skill, passed down
-   hand to hand. All of it is real, and all of it helps people live.
+   hand to hand. All of it is real, and all of it helps people live (S-056).
 
 ## Differentiation
 
@@ -177,18 +177,10 @@ them; a learner who does not use a speaking voice acts the signs or points to th
 
 ## Resources
 
-- Polynesian Voyaging Society (Hōkūleʻa) — documents traditional Polynesian
-  wayfinding (reading stars, swells, clouds, and birds) and the 1976 Hōkūleʻa voyage
-  from Hawaiʻi to Tahiti, guided without instruments by master navigator Mau Piailug.
-  https://hokulea.com/
-- International Potato Center (CIP), "Potato" — the potato was first domesticated in
-  the Andes of South America; thousands of native varieties are still farmed there,
-  supporting the Andean farming/terracing example.
-  https://cipotato.org/potato/
-- UNESCO Intangible Cultural Heritage — frames living heritage as the practices,
-  knowledge, and skills that communities pass from one generation to the next,
-  supporting the idea of knowledge passed down hand to hand.
-  https://ich.unesco.org/
+- On traditional Polynesian wayfinding and the 1976 Hōkūleʻa voyage sailed without
+  instruments: Polynesian Voyaging Society (Hōkūleʻa) (S-055).
+- On skills and knowledge passed between generations as living heritage: UNESCO —
+  Intangible Cultural Heritage (S-056).
 
 ## Home connection
 

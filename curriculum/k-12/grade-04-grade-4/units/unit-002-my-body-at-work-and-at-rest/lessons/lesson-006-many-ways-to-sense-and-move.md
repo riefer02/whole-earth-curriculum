@@ -97,9 +97,9 @@ tool that extends a body's own ability, not something that makes a body "less."
 Every body senses and moves a little differently — and every body, everywhere, uses
 tools to do more. A spoon extends a hand; a rope extends an arm; glasses extend the
 eyes. Some people use a wheelchair to move, a hearing aid to hear, a white cane to feel
-the way ahead, or a prosthetic to walk. These are called **aids** or **assistive tools**.
-They are not "less than" — they are a body's own clever way of doing things. All over the
-world, people live full, joyful lives with them.
+the way ahead, or a prosthetic to walk. These are called **aids** or **assistive tools**
+(S-099). They are not "less than" — they are a body's own clever way of doing things.
+All over the world, people live full, joyful lives with them (S-100).
 
 ## Materials
 
@@ -159,10 +159,12 @@ into play.
 
 ## Resources
 
-- United Nations — Convention on the Rights of Persons with Disabilities:
-  <https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html>
-- World Health Organization — assistive technology fact sheet:
-  <https://www.who.int/news-room/fact-sheets/detail/assistive-technology>
+- On the range of assistive products — glasses, hearing aids, wheelchairs, canes,
+  prosthetics — as ordinary tools used worldwide: WHO — Assistive Technology fact sheet
+  (S-099).
+- On the right of people with disabilities to take part in cultural life, recreation,
+  leisure, and sport: UN Convention on the Rights of Persons with Disabilities, Article
+  30 (S-100).
 
 ## Home connection
 

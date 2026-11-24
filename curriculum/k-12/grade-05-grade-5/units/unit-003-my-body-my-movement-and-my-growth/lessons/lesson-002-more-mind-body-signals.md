@@ -97,7 +97,7 @@ Your body is always sending you messages — a **flutter of butterflies** before
 performance, **heavy eyes** when you are tired, a **warm chest** when you feel safe, a
 **quick breath** when you are excited. These signals are the same in a busy market, a quiet
 village, or a high mountain school: the body speaks, and the mind can learn to listen.
-Noticing the signal — and what it is asking for — is a skill anyone can grow.
+Noticing the signal — and what it is asking for — is a skill anyone can grow (S-098).
 
 ## Materials
 
@@ -131,7 +131,7 @@ signals to share. See `docs/facilitation.md` on holding difficult topics safely.
    breath and name what is coming. *Signal:* heavy eyes. *Feeling:* tired. *Response:* rest.
    *Signal:* warm chest. *Feeling:* happy or safe. *Response:* enjoy it. *Signal:* quick
    breath. *Feeling:* excited. *Response:* move your body or take a breath. The body tells,
-   and you can choose what to do.
+   and you can choose what to do (S-339).
 3. **Play a guessing game (10 min).** With a partner, act out one signal silently — flutter,
    droop, warm smile, quick breath. Let your partner guess the feeling and suggest one helpful
    response. Trade roles.
@@ -167,3 +167,11 @@ signal, the feeling, and one helpful response with someone there.
 - Reading the body's signals is part of "interoception," the sensing of the body's inner
   state. For a classroom-friendly framing of self-awareness, see CASEL's self-awareness
   competency: <https://casel.org/fundamentals-of-sel/>
+
+- On the body's alarm response — a faster heart and quicker breathing, and the
+  'butterflies' of blood shifting away from the stomach — and why it happens: Cleveland
+  Clinic — What happens during the fight-or-flight response?,
+  <https://health.clevelandclinic.org/what-happens-to-your-body-during-the-fight-or-flight-response>
+  (S-339).
+- On what the heart, lungs, sweat and muscles do, written for children: Nemours
+  KidsHealth, <https://kidshealth.org/en/kids/heart.html> (S-098).

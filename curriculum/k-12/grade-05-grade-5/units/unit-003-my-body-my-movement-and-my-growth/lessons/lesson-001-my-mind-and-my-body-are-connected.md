@@ -83,7 +83,8 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners meet the **mind–body connection**: a thought or feeling in the mind can show up
-as a **sensation in the body**. They work with a simple, relatable example — worry making
+as a **sensation in the body** (S-338). They work with a simple, relatable
+example — worry making
 a stomach feel tight — and then trace one safe feeling of their own, marking where it
 shows up in their own body on a **body outline**. This is the first step of a unit about
 knowing the body with precision, dignity, and joy.
@@ -134,7 +135,7 @@ learner names something heavy, honor it calmly and move gently. See
    a thought — "I have a big test tomorrow" — flows down into a body, and the **stomach
    feels tight**. That tight feeling is the body answering the mind. This is what "mind and
    body are connected" means. It works the other way too: a deep breath can calm a racing
-   mind. The two always talk.
+   mind (S-340). The two always talk.
 3. **Scan your body (10 min).** Think of one **safe, ordinary** feeling you had this week
    — excitement, worry, tiredness, joy. Soften your gaze. Where does it show up in your
    body? A flutter in the chest? Warm hands? Heavy shoulders? A tight tummy? Name the
@@ -172,3 +173,11 @@ signal you noticed in yourself today.
   embodied emotion and to cognitive-behavioral approaches (see the work of Aaron Beck).
   For an accessible classroom framing of self-awareness, see CASEL's self-awareness
   competency: <https://casel.org/fundamentals-of-sel/>
+
+- On how stress and worry show up as body sensations (tight muscles, an unsettled
+  stomach): American Psychological Association — Stress effects on the body,
+  <https://www.apa.org/topics/stress/body> (S-338).
+- On slow, steady breathing calming the body's stress response: Harvard Health —
+  Relaxation techniques: breath control,
+  <https://www.health.harvard.edu/mind-and-mood/relaxation-techniques-breath-control-helps-quell-errant-stress-response>
+  (S-340).

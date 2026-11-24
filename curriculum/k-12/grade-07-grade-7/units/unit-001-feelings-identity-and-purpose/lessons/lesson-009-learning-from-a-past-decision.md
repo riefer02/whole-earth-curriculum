@@ -98,7 +98,7 @@ decision of their own, and learn that reflection is what turns experience into w
 Every choice sends a ripple out into the world, and the ripple comes back carrying information.
 You lend a tool you needed; you speak sharply and watch a face close; you choose a shortcut and
 arrive late or early. Reflection is simply *reading the ripple*: what did I choose, what
-happened, and what will I do differently now that I know? A person who reflects on a hundred
+happened, and what will I do differently now that I know (S-039)? A person who reflects on a hundred
 small decisions learns more than a person who rushes through a thousand — on a boat, in a
 market, or anywhere choices get made.
 
@@ -193,3 +193,5 @@ loop of your own.
   <https://doi.org/10.1207/s15326985ep4102_1>
 - On responsible decision-making as a core competency, for classroom framing: CASEL,
   <https://casel.org/fundamentals-of-sel/>
+- On reflection and retrieval as learning techniques: John Dunlosky, Katherine A. Rawson, Elizabeth J. Marsh, Mitchell J. Nathan & Daniel T. Willingham — Improving Students' Learning With Effective Learning Techniques (S-039).
+

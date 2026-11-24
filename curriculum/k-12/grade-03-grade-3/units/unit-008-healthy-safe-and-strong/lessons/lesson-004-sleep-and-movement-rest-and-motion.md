@@ -123,8 +123,8 @@ Today you will feel both in your own body.
 1. Every body moves and rests in its own way; some bodies move with wheels, aids, or
    help, and **all movement counts**.
 2. Sleep needs vary; most children aged 6–12 need about 9–12 hours a night (American
-   Academy of Sleep Medicine), but families and bodies differ.
-3. Regular physical activity supports children's health (World Health Organization).
+   Academy of Sleep Medicine, S-050), but families and bodies differ.
+3. Regular physical activity supports children's health (World Health Organization, S-069).
 
 **Don't overshoot.** Do not make movement a contest, tie it to body size, or turn a
 sleep number into a rule to be shamed over. The goal is the felt sense of moving and
@@ -190,8 +190,8 @@ today. Name one way you rest well and one way you like to move.
 
 ## Resources
 
-- World Health Organization, "Physical activity" (why movement matters):
-  <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
-- American Academy of Sleep Medicine, "Recommended amount of sleep for pediatric
-  populations" (9–12 hours for ages 6–12):
-  <https://aasm.org/resources/pdf/pediatricsleepdurationconsensus.pdf>
+- On how much sleep school-age children need (9–12 hours): American Academy of Sleep
+  Medicine — Recommended Amount of Sleep for Pediatric Populations (S-050).
+- On regular physical activity for children: World Health Organization — Physical activity
+  fact sheet (S-069).
+

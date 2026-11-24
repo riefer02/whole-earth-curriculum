@@ -97,7 +97,7 @@ producing a **belonging reflection** for the year-end portfolio.
 
 You are new in a room where everyone speaks a language you do not yet know — the words swirl
 around you and you wait at the edge. Or a classmate uses a wheelchair and the doorway is too
-narrow. Or your family's holiday food smells "different" to someone and they wrinkle their nose.
+narrow (S-235). Or your family's holiday food smells "different" to someone and they wrinkle their nose.
 In each moment, **who you are — your culture, your language, your ability — shapes whether you
 step inside the circle or stand outside it**. The good news: circles can be opened. A single
 "you are welcome," a gap left in the circle, a door made wide, a shared bowl — these are small
@@ -175,3 +175,5 @@ could have done) to open the circle — then share your own welcome act.
   social-awareness and relationship skills; the framing that difference is ordinary and belonging
   is built is a values commitment of this curriculum:
   <https://casel.org/fundamentals-of-sel/>
+- On removing barriers so every learner can take part: UNESCO — Inclusion in Education (Salamanca Statement; Guide for Ensuring Inclusion and Equity) (S-235).
+

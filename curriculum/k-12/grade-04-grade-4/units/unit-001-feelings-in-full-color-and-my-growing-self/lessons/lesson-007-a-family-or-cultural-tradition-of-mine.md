@@ -97,10 +97,10 @@ practices, and that their own tradition is a real thread of belonging.
 A **tradition** is something people do again and again because it means something. It
 might be the stew your family cooks every year at harvest, the song you sing before a
 journey, the lamps lit on a winter night, or the way you greet an elder. Traditions live
-in every culture on Earth — a wedding dance, a naming ceremony, a new-year meal, a
-prayer, a game. What makes something a tradition is not how grand it is; it is that it is
-*repeated* and that it *means something* to the people who do it. Your tradition is one
-small, real thread that ties you to your family and your people.
+in every culture on Earth (S-056) — a wedding dance, a naming ceremony, a new-year meal,
+a prayer, a game. What makes something a tradition is not how grand it is; it is that it
+is *repeated* and that it *means something* to the people who do it. Your tradition is
+one small, real thread that ties you to your family and your people.
 
 ## Materials
 
@@ -165,5 +165,7 @@ meant to them — and add one new detail to your page.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness and relationship skills competencies):
-  <https://casel.org/fundamentals-of-sel/>
+- On social awareness and relationship skills as core competencies: CASEL — Fundamentals
+  of Social and Emotional Learning (S-001).
+- On tradition as living heritage — practices and knowledge a community passes between
+  generations: UNESCO — Intangible Cultural Heritage (S-056).

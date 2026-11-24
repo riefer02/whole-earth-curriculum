@@ -134,7 +134,7 @@ all full steps. See `docs/contexts.md` and `docs/facilitation.md`.
 2. **Meet encouragement (10 min).** Look at the poster. Two comments about the same learner.
    *Ranking:* "You're the slowest." Crossed out — it sorts people, and it helps nothing.
    *Encouraging:* "I saw your cross today — you're getting it!" It names **effort and
-   progress**, not rank, and it keeps the learner on the team.
+   progress**, not rank, and it keeps the learner on the team (S-096).
 3. **Learn the starters (5 min).** Read the starters: "**I saw you** ___ . That's **better than
    before**." and "**Keep going — you're getting it.**" They cheer the *trying*, not the
    *winning*. Practice one aloud with a partner.
@@ -170,3 +170,5 @@ changes the room.
   the work of Carol Dweck on mindsets, and Hattie's synthesis on feedback and classroom climate).
   Ranking by skill is deliberately excluded from this standard — every skill level belongs. For
   SEL framing, see CASEL's relationship-skills competency: <https://casel.org/fundamentals-of-sel/>
+- On praising effort and process rather than fixed ability: Carol Dweck — Mindset: The New Psychology of Success (S-096).
+

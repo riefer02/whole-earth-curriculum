@@ -109,9 +109,9 @@ need perfect words to be understood — she can **gesture** a cup to her mouth, 
 the dirt, try a **translation tool** on a phone if she has one, and above all bring
 **patience** while the two of them find the way. Communication across a language difference is
 not about speaking the "right" language; it is about **meeting the other person halfway**,
-using every tool you have and treating their language — and yours — as equal. This is the
+using every tool you have and treating their language — and yours — as equal (S-237). This is the
 skill you have been building all unit: listening, arguing with reasons, and honoring many
-languages, now put to use with a real human being across from you.
+languages, now put to use with a real human being across from you (S-019).
 
 ## Materials
 
@@ -189,3 +189,6 @@ drawing, or one new word — and notice what carries meaning and what needs pati
   (Council of Europe's CEFR companion). Translation tools have real limits — see the critical
   literature on machine translation. The principle that no language is above another and that
   multilingualism is wealth is a values commitment (`docs/philosophy.md` §4).
+- On plurilingual competence and communicating across languages: Council of Europe — CEFR Companion Volume (plurilingual competence) (S-237).
+- On treating every language as ordinary and worthy: UNESCO — International Mother Language Day (S-019).
+

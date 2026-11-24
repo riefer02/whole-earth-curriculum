@@ -119,7 +119,7 @@ thing is to notice and try again.
    sad. Talk about why.
 4. **I can change it (10 min).** Choose one "sad" card. What could change it to
    "glad"? (A fallen tower — a friend helps build it again.) Move it to glad.
-5. **Close (10 min).** Remember: your choices reach other people's hearts. Kind
+5. **Close (10 min).** Remember: your choices reach other people's hearts (S-001). Kind
    actions make friends glad; hurtful ones make them sad. You get to choose.
 
 ## Differentiation
@@ -139,7 +139,7 @@ thing is to notice and try again.
 ## Resources
 
 - CASEL SEL Framework (foundational competencies):
-  <https://casel.org/fundamentals-of-sel/>
+  <https://casel.org/fundamentals-of-sel/> (S-001)
 
 ## Home connection
 

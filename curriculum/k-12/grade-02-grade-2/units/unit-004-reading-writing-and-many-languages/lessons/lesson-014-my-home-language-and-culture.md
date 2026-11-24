@@ -80,7 +80,7 @@ last_updated: 2026-08-16
 
 Learners share one treasure from their home language and culture — a song, a
 counting rhyme, or a family word — and learn one treasure from a classmate. Home
-language is honored first, with pride, before any other language is added.
+language is honored first, with pride, before any other language is added (S-019).
 
 ## Objectives
 
@@ -153,7 +153,5 @@ it tomorrow for the festival.
 
 ## Resources
 
-- UNESCO, mother-tongue-based multilingual education:
-  <https://www.unesco.org/en/days/mother-language>
-- CASEL SEL Framework (self-awareness and social awareness):
-  <https://casel.org/fundamentals-of-sel/>
+- On mother-tongue-based multilingual education, beginning with the language a child
+  brings: UNESCO — International Mother Language Day (S-019).

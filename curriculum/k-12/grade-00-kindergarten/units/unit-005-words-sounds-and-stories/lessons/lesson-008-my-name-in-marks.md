@@ -122,7 +122,7 @@ gives it.
 4. **Show and tell (10 min).** Show a partner your name in marks. Tell them one mark's
    name or sound. Can they find the first mark of your name?
 5. **Close (5 min).** Remember: your name is made of marks, and those marks spell
-   **you**. Every name, in every writing system, is worth writing beautifully.
+   **you**. Every name, in every writing system, is worth writing beautifully (S-104).
 
 ## Differentiation
 
@@ -137,6 +137,10 @@ gives it.
   their own name?
 - **Artifact (portfolio):** A photograph or drawing of the learner's built or traced
   name, kept as their first piece of "writing."
+
+## Resources
+
+- On learning and honoring names: Kohli & Solórzano — Teachers, please learn our names! (S-104).
 
 ## Home connection
 

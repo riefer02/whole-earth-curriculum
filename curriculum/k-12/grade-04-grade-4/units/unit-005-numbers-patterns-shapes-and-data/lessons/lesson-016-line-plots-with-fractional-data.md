@@ -124,7 +124,8 @@ wished it said.
 
 **The facts to land.**
 1. A **line plot with fractional measurements** combines measuring, fractions, and
-   comparing (Van de Walle, Karp & Bay-Williams, 2019; National Research Council, 2009).
+   comparing (Van de Walle, Karp & Bay-Williams, 2019, S-026; National Research Council,
+   2009, S-027).
 2. Measure several objects, mark each above its length on the number line, then read the
    plot together.
 3. This is the unit's **spaced retrieval** payoff — recall measuring from Lesson 14, and
@@ -192,9 +193,9 @@ know.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson. (Line
-  plots and interpreting data with fractional measurements.)
-- National Research Council (2009). *Mathematics Learning in Early Childhood: Paths
-  Toward Excellence and Equity*. The National Academies Press. (The data
-  representation trajectory: collecting, organizing, and reading data.)
+- On line plots and interpreting data with fractional measurements: Van de Walle, Karp &
+  Bay-Williams — Elementary and Middle School Mathematics: Teaching Developmentally
+  (S-026).
+- On the data-representation trajectory — collecting, organizing, and reading data:
+  National Research Council — Mathematics Learning in Early Childhood: Paths Toward
+  Excellence and Equity (S-027).

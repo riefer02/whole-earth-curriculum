@@ -100,7 +100,7 @@ not a rule to memorize, and comparing becomes a matter of walking the line.
 A cook buys about 250 grams of rice; a bus driver says "about 400 people" rode today; a
 gardener counts 347 seeds and says "about 350." When an exact number is hard or not
 needed, people **round** to a friendly number that is close. And when two numbers sit
-side by side — 347 and 374 — putting them on a line tells you at once which is more.
+side by side — 347 and 374 — putting them on a line tells you at once which is more (S-026).
 Rounding and comparing are how people talk about "about how many" and "which is more"
 in markets, kitchens, and journeys everywhere.
 
@@ -191,6 +191,7 @@ grown-up which two numbers are more and less.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson. (Using
-  number lines to develop place value, rounding, and comparison before symbols.)
+- On teaching mathematics developmentally — pictures, materials and reasoning before
+  symbols: Van de Walle, Karp & Bay-Williams (2019) — Elementary and Middle School
+  Mathematics: Teaching Developmentally (S-026).
+

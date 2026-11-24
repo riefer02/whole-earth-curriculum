@@ -90,7 +90,7 @@ people in it — and a small model of caring for our shared Earth.
 Our classroom belongs to everyone, so everyone helps care for it. When you wipe a
 table or put a toy back, you are not just cleaning — you are caring for every friend
 who uses that space. The same is true of bigger shared spaces: a path, a well, a
-garden, a river, the Earth itself.
+garden, a river, the Earth itself (S-509).
 
 ## Materials
 
@@ -139,6 +139,7 @@ together, not because we must obey but because we love the space and the people 
 
 - CASEL SEL Framework (foundational competencies):
   <https://casel.org/fundamentals-of-sel/>
+- On living well with community and nature: Buen vivir / sumak kawsay — Andean philosophy of 'living well' in harmony with community and nature (S-509).
 
 ## Home connection
 

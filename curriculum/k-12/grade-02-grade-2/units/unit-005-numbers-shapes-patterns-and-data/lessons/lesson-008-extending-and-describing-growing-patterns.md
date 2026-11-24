@@ -81,7 +81,7 @@ last_updated: 2026-08-16
 ## Summary
 
 Learners extend growing patterns several steps and put the change into words — the
-**rule**. They predict the next step, check it against the rule, and grow comfortable
+**rule** (S-020). They predict the next step, check it against the rule, and grow comfortable
 describing change precisely: "it grows by two each time."
 
 ## Objectives
@@ -162,6 +162,5 @@ At home, make a growing pattern with things you find — leaves, buttons, grains
 
 ## Resources
 
-- Clements, D. H., & Sarama, J. (2014). *Learning and Teaching Early Math: The
-  Learning Trajectories Approach* (2nd ed.). Routledge. (Extending patterns and
-  verbalizing the rule of change.)
+- On extending patterns and putting the rule of change into words: Clements & Sarama —
+  Learning and Teaching Early Math: The Learning Trajectories Approach (S-020).

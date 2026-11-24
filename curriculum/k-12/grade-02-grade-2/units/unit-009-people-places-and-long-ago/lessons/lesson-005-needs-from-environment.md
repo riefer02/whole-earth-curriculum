@@ -82,7 +82,7 @@ last_updated: 2026-08-16
 
 Learners name the four things people need from their **environment** — **water**,
 **food**, **shelter**, and **materials** — and discover that people in different
-places meet those same needs in many different ways, all of them real and valid.
+places meet those same needs in many different ways, all of them real and valid (S-057).
 
 ## Objectives
 
@@ -167,11 +167,8 @@ differs is never "wrong" — their way belongs on the chart too.
 
 ## Resources
 
-- National Geographic Education, "Desert" — notes that people have adapted to life
-  in deserts for thousands of years, drawing water from wells, springs, and oases,
-  and using tents and light robes — a concrete example of how a place shapes how
-  needs are met.
-  https://education.nationalgeographic.org/resource/desert/
+- On how people have met their needs in desert environments for thousands of years:
+  National Geographic Education — Desert (S-057).
 
 ## Home connection
 

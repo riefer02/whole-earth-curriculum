@@ -88,7 +88,7 @@ last_updated: 2026-08-17
 
 Learners listen to music from three world regions and learn to **hear how music grows out
 of place, history, and community**. A worked example reads Mongolian khoomei (the open
-steppe in long held notes), Andean siku panpipes (cooperation in shared melody), and West
+steppe in long held notes) (S-056), Andean siku panpipes (cooperation in shared melody) (S-188), and West
 African djembe drumming (gathering in layered rhythm and call and response). Learners
 complete a listening chart, always honoring each tradition as **living music**.
 
@@ -181,7 +181,7 @@ hear and one thing it might tell you about that place or its people.
 
 ## Resources
 
-- UNESCO's Intangible Cultural Heritage lists frame these as living traditions (e.g.,
-  Mongolian khoomei): <https://ich.unesco.org/>
-- Smithsonian Folkways offers recordings and teaching notes on world music traditions,
-  including Andean panpipes and West African drumming: <https://folkways.si.edu/>
+- On Mongolian khoomei (throat singing) as an inscribed element of living cultural
+  heritage: UNESCO — Intangible Cultural Heritage, <https://ich.unesco.org/> (S-056).
+- On Andean panpipe music and West African drumming traditions, with recordings and
+  teaching notes: Smithsonian Folkways, <https://folkways.si.edu/> (S-188).

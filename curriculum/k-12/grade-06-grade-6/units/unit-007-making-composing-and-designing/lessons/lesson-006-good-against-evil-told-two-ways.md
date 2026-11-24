@@ -106,7 +106,7 @@ performer's hands and eyes — a flick of a finger means a king, a widening of t
 means wonder. Another tells it through masks and a whole village chanting, where neither
 side wins forever because the point is *balance*, not victory. Neither is "better"; each
 grew in a place, with its people's beliefs about how good and evil relate. Watching the
-*difference* — the gesture, the mask, the chorus — is how we honor each tradition truly.
+*difference* — the gesture, the mask, the chorus — is how we honor each tradition truly (S-260).
 
 ## Materials
 
@@ -195,3 +195,5 @@ difference and one reason for it.
   Kathakali and masked dance-drama traditions: <https://www.metmuseum.org/toah/>
 - UNESCO's Intangible Cultural Heritage list frames living performance traditions as
   heritage, not museum pieces: <https://ich.unesco.org/>
+- On presenting dance-drama traditions as living performance: IDEA — International Drama/Theatre and Education Association (S-260).
+

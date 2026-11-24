@@ -130,9 +130,9 @@ many — that people count and record time.
 
 **The facts to land.**
 1. **CE** means Common Era, the years most of the world now counts forward from; **BCE**
-   means Before Common Era, the years before that point.
+   means Before Common Era, the years before that point (S-315).
 2. This is **one calendar among many** — Islamic, Hebrew, Chinese, and other peoples
-   mark years in their own ways; a BCE/CE timeline is a shared tool.
+   mark years in their own ways; a BCE/CE timeline is a shared tool (S-315).
 3. The events are chosen from Africa, South Asia, and the Americas so no single region
    is the "main" story.
 4. Dates are approximate ("about"), and that honesty is part of doing history well.
@@ -143,7 +143,7 @@ treat a shared calendar as a claim about whose time is real.
 **The lenses, briefly.**
 - *Global:* one story, many places, told side by side.
 - *Intellectual:* sequencing by date is foundational, so model it first (Kirschner,
-  Sweller & Clark, 2006).
+  Sweller & Clark, 2006, S-011).
 - *Critical-thinking:* how do you know this comes first?
 - *Egalitarianism:* no region's dates set the standard.
 
@@ -158,23 +158,23 @@ use a speaking voice points or places the card.
 ## Procedure
 
 1. **Gather and remember (5 min).** Think of one very old thing you have heard about
-   from anywhere in the world, and one thing that happened recently. Which is older?
-   How do you know?
-2. **Meet the timeline and the dates (10 min).** Look at the worked example: a line
-   with a "long ago" end and a "today" end. The year-count changes from **BCE** (Before
+   from anywhere in the world, and one thing that happened recently. Which is older? How
+   do you know?
+2. **Meet the timeline and the dates (10 min).** Look at the worked example: a line with
+   a "long ago" end and a "today" end. The year-count changes from **BCE** (Before
    Common Era) to **CE** (Common Era) partway along. In BCE, a bigger number means
    *earlier*. In CE, a bigger number means *later*.
 3. **Place the world events (15 min).** One by one, place the six cards by their dates:
-   - **Great Pyramid** (Egypt), about 2560 BCE
-   - **Grid city** (Indus Valley), about 2500 BCE
-   - **Carved stone head** (Mesoamerica), about 1200 BCE
-   - **Stone pillar** (India), about 250 BCE
-   - **Lake city** (Mesoamerica), 1325 CE
-   - **Mountain roads** (Andes), about 1450 CE
+   - **Great Pyramid** (Egypt), about 2560 BCE (S-138)
+   - **Grid city** (Indus Valley), about 2500 BCE (S-132)
+   - **Carved stone head** (Mesoamerica), about 1200 BCE (S-139)
+   - **Stone pillar** (India), about 250 BCE (S-131)
+   - **Lake city** (Mesoamerica), 1325 CE (S-140)
+   - **Mountain roads** (Andes), about 1450 CE (S-141)
    For each, say the date and check it against its neighbors: "2560 BCE is earlier than
    2500 BCE, so the pyramid comes first."
-4. **Build your own order (10 min).** Mix the cards. Put them back in date order on
-   your own line, and say or write each date as you place it.
+4. **Build your own order (10 min).** Mix the cards. Put them back in date order on your
+   own line, and say or write each date as you place it.
 5. **Close (5 min).** You just did what historians do: you used **dates** to order
    events from many places on one line. One timeline, many places — and many ways of
    counting the years.
@@ -204,24 +204,21 @@ use a speaking voice points or places the card.
 
 ## Resources
 
-- Encyclopaedia Britannica, "Pyramids of Giza" — the Great Pyramid was built for the
-  pharaoh Khufu around 2560 BCE.
-  https://www.britannica.com/topic/Pyramids-of-Giza
-- Encyclopaedia Britannica, "Mohenjo-daro" — a planned city of the Indus (Harappan)
-  civilization, flourished about 2500 BCE.
-  https://www.britannica.com/place/Mohenjo-daro
-- Encyclopaedia Britannica, "Olmec" — the Olmec of Mesoamerica carved colossal stone
-  heads beginning around 1200 BCE.
-  https://www.britannica.com/topic/Olmec
-- Encyclopaedia Britannica, "Ashoka" — emperor Ashoka (ruled about 268–232 BCE) raised
-  stone pillars with messages of kindness and respect.
-  https://www.britannica.com/biography/Ashoka
-- Encyclopaedia Britannica, "Tenochtitlan" — founded by the Mexica (Aztec) people in
-  1325 CE.
-  https://www.britannica.com/place/Tenochtitlan
-- Encyclopaedia Britannica, "Inca" — the Inca (Tawantinsuyu) built a vast mountain-road
-  network across the Andes, flourishing by the 1400s CE.
-  https://www.britannica.com/topic/Inca
+- On the Great Pyramid of Giza, built for Khufu around 2560 BCE: Encyclopaedia
+  Britannica — Pyramids of Giza (S-138).
+- On Mohenjo-daro, a planned Indus city flourishing about 2500 BCE: Encyclopaedia
+  Britannica — Mohenjo-daro (S-132).
+- On the Olmec colossal stone heads, beginning around 1200 BCE: Encyclopaedia Britannica
+  — Olmec (S-139).
+- On Ashoka (ruled about 268–232 BCE) and his stone pillars: Encyclopaedia Britannica —
+  Ashoka (S-131).
+- On Tenochtitlan, founded in 1325 CE: Encyclopaedia Britannica — Tenochtitlan (S-140).
+- On the Inca mountain-road network, flourishing by the 1400s CE: Encyclopaedia
+  Britannica — Inca (S-141).
+- On BCE/CE and other ways of counting years, including the Islamic and Hebrew
+  calendars: Encyclopaedia Britannica — Calendar (S-315).
+- On modelling a new skill first: Kirschner, Sweller & Clark — Why Minimal Guidance
+  During Instruction Does Not Work (S-011).
 
 ## Home connection
 

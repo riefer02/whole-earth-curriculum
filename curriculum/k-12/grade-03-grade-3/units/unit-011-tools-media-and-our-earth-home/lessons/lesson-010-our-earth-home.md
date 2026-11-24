@@ -133,7 +133,7 @@ jobs easier and change over time; **media** carries advertisements or informatio
 message has a purpose and an audience; **living things** are linked in food chains, with
 plants making their own food from sunlight; and we can **care** by knowing what runs out,
 what comes back, and using less. Today we put them all together, because they all live in
-the same home — the Earth we share.
+the same home — the Earth we share (S-004).
 
 ## Materials
 
@@ -212,7 +212,11 @@ care they like to do for the Earth.
 
 ## Resources
 
-- Unit sources are gathered across Lessons 1–9: Britannica Kids (tools), Britannica (sewing
-  machine), Common Sense Education (media literacy), BBC Bitesize (food chains and plants),
-  NASA Space Place (the Sun), WHO (drinking water), and UNESCO (education for sustainable
-  development). No new factual claims are introduced in this capstone.
+- On caring for the Earth and for one another as an everyday practice: UNESCO — Education
+  for Sustainable Development (S-004).
+- The unit's other sources are listed with Lessons 1–9: Britannica Kids — Tool (S-061),
+  Britannica — Sewing Machine (S-062), Common Sense Education — News & Media Literacy
+  (S-063), BBC Bitesize — What is a food chain? (S-072), BBC Bitesize — The structure of
+  flowering plants (S-074), EIA Energy Kids (S-095), and WHO — Drinking-water fact sheet
+  (S-049).
+

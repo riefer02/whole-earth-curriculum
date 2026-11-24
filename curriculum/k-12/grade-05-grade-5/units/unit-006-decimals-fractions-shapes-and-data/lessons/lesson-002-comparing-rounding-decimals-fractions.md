@@ -85,8 +85,8 @@ last_updated: 2026-08-17
 
 Learners **compare** and **round** decimals and connect them to **equivalent fractions** with
 denominators of 10 and 100. On a number line they see that **0.5 = 5/10 = 50/100 = 1/2**.
-They compare decimals by lining up place values, and round to the nearest tenth or hundredth
-using the "look at the next place" rule.
+They compare decimals by lining up place values, and round to the nearest tenth or
+hundredth using the "look at the next place" rule (S-026).
 
 ## Objectives
 
@@ -173,6 +173,9 @@ tenth with someone at home.
 
 ## Resources
 
-- Decimal equivalence and rounding are standard in elementary mathematics; see John A. Van de
-  Walle, *Elementary and Middle School Mathematics* (10th ed., 2019). The claim that checking
-  our own reasoning matters is a value (`docs/philosophy.md` §7).
+- On decimal equivalence, comparing by place value, and rounding in the upper
+  elementary grades: Van de Walle, Karp & Bay-Williams — *Elementary and Middle School
+  Mathematics* (S-026).
+- On children's own strategies for building and comparing decimal quantities: Carpenter,
+  Fennema, Franke, Levi & Empson — *Children's Mathematics: Cognitively Guided
+  Instruction* (S-025).

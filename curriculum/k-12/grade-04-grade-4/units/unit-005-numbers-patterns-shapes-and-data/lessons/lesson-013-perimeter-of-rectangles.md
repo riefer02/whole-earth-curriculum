@@ -115,9 +115,9 @@ needs to know.
 
 Perimeter is the **distance around**: teach it by walking and measuring, then generalize
 to **2 × length + 2 × width** (or 2 × (length + width)) as a shortcut (Van de Walle,
-Karp & Bay-Williams, 2019). Model once as a **worked example** (philosophy §13), then
-guide practice. Contrast perimeter (around) with area (cover) from Lesson 12 — naming
-the difference is a key retrieval-and-comparison moment. **A learner's pace at
+Karp & Bay-Williams, 2019, S-026). Model once as a **worked example** (philosophy §13),
+then guide practice. Contrast perimeter (around) with area (cover) from Lesson 12 —
+naming the difference is a key retrieval-and-comparison moment. **A learner's pace at
 distinguishing area and perimeter is not a measure of their worth; a perimeter is a fact
 about a shape, never about a person.** Measuring the boundary of land is a human and
 cross-cultural practice, from ancient field markers to modern fences. Count in the home
@@ -167,6 +167,6 @@ string, and tell a grown-up the perimeter.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson.
-  (Perimeter as the distance around, with the formula as a shortcut.)
+- On perimeter as the distance around, with the formula as a shortcut: Van de Walle,
+  Karp & Bay-Williams — Elementary and Middle School Mathematics: Teaching
+  Developmentally (S-026).

@@ -102,7 +102,7 @@ last_updated: 2026-08-17
 The capstone closes the unit — and the grade-5 year — in a celebration of the **whole
 person**, the **caring community**, and the **living Earth**. Learners assemble their eight
 portfolio artifacts, walk a gallery, and connect each to the big question, then name one thing
-they will do as **stewards**. The celebration is retrieval and synthesis, not re-reading, and
+they will do as **stewards**. The celebration is retrieval and synthesis, not re-reading (S-039), and
 it ends on joy and agency: **looking ahead to Grade 6**.
 
 ## Objectives
@@ -195,11 +195,8 @@ and tell them the one steward action you chose for the year ahead.
 
 ## Resources
 
-- This capstone synthesizes the unit's documented content: technology's before-and-after effects
-  (World Bank, ITU); mobile money and the many uses of bicycles and water pumps (CGAP, UN
-  Water); claim-checking and fair reporting (UNESCO Media and Information Literacy; Common
-  Sense Media); the water cycle (USGS, NASA); ecosystem interdependence and ripples (BBC
-  Bitesize, NOAA, UNESCO); plastic and air pollution and habitat loss with actions (UNEP, WHO,
-  FAO); and careful resource use (UNESCO ESD). Each is cited in its own lesson. The closing
-  commitment to the whole person, caring community, and living Earth — and to acting as a
-  steward — follows `docs/philosophy.md` §12 and `docs/vision.md`.
+- On retrieval and spacing as the best-supported ways to make a year of learning last:
+  Dunlosky et al. (2013), <https://doi.org/10.1177/1529100612453266> (S-039).
+- On caring for the Earth and for other people as one shared practice: UNESCO —
+  Education for Sustainable Development,
+  <https://www.unesco.org/en/sustainable-development/education> (S-004).

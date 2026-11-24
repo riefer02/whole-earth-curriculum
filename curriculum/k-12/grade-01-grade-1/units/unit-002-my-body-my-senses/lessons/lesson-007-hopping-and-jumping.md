@@ -86,7 +86,7 @@ its own way.
 
 Think of a frog pushing off the ground, or a child leaping over a puddle. Hopping on
 one foot and jumping with two are ways your body springs and lands. Learning to land
-softly, with bent knees, keeps you safe and in control — so you can jump again and
+softly, with bent knees, keeps you safe and in control (S-101) — so you can jump again and
 again.
 
 ## Materials
@@ -143,3 +143,8 @@ control and a soft landing matter more than repetitions.
 
 Find a safe line at home (a crack, a rope) and practice hopping along it and jumping
 over it with a soft landing.
+
+## Resources
+
+- On hopping, jumping, and landing as fundamental movement skills taught in physical
+  education: SHAPE America — Society of Health and Physical Educators (S-101).

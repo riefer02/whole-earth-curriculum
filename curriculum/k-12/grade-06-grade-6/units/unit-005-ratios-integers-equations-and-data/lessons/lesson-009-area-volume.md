@@ -125,7 +125,7 @@ courtyard in Marrakesh to a rice field in the Mekong delta.
 
 **Don't overshoot.** Do not let a number stand without its unit. Square units and cubic
 units answer different questions, and the dimension of the answer must match the
-question.
+question (S-175).
 
 **The lenses, briefly.**
 
@@ -133,7 +133,7 @@ question.
   box.
 - *Global:* area and volume formulas were worked out in ancient Egypt and Mesopotamia
   (fields and granaries), in China, and in India — measuring cover and fill is a human
-  universal, not one culture's invention.
+  universal, not one culture's invention (S-240).
 - *Critical-thinking:* always ask "what does this number measure — length, surface, or
   space?" so the unit and the story match (`docs/philosophy.md` §7).
 
@@ -185,3 +185,6 @@ someone what each number measures.
   volume formulas appear in ancient Egyptian, Mesopotamian, Chinese, and Indian mathematical records is
   documented history; matching units to what is measured is a critical-thinking habit (`docs/philosophy.md`
   §7).
+- On the history of area and volume measurement across cultures: MacTutor History of Mathematics Archive (S-240).
+- On quantities, units, and dimensional consistency: ISO 80000-1 — Quantities and units, Part 1: General (S-175).
+

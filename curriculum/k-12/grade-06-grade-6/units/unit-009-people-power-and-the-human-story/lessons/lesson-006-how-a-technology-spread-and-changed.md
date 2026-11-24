@@ -131,7 +131,7 @@ for learners ready to extend. See `docs/facilitation.md`.
    knowledge and tools as they pass **between peoples** — and change on the way.
 2. **Worked example: the journey of paper (20 min).** Follow the poster. **Paper was
    invented in China** around the year 105 CE (a court official named Cai Lun is remembered
-   for refining it). From China it spread to **Korea and Japan**, where printing — first
+   for refining it) (S-317). From China it spread to **Korea and Japan**, where printing — first
    woodblock, later movable metal type — grew alongside it. It traveled west along the
    **Silk Roads** through **Central Asia**. In **Baghdad**, papermakers built **paper mills**
    and made paper from new materials — cotton and linen cloth instead of mulberry and hemp.
@@ -145,7 +145,7 @@ for learners ready to extend. See `docs/facilitation.md`.
    materials, new mills, or printing).
 5. **Interleave an idea (5 min).** An idea can spread the same way. The number **zero** and
    the decimal system were developed in **India** and carried by scholars to **Baghdad**,
-   then into **Europe** — changing how people counted everywhere. Same story, different
+   then into **Europe** — changing how people counted everywhere (S-318). Same story, different
    traveler.
 6. **Close (5 min).** When people meet, they share — and what they share changes. That
    exchange is one of the great engines of the human story.
@@ -179,3 +179,6 @@ out with someone at home how it changed on its way to you.
   mathematics (see the work of historians such as George Gheverghese Joseph, *The Crest of
   the Peacock*). Dates are approximations that scholars revise as new evidence appears; the
   spread-and-change idea, not the exact year, is what matters here.
+- On the invention of paper in China and its spread westward: Encyclopaedia Britannica — Paper / Papermaking (S-317).
+- On the Indian origin of zero and the decimal place-value system: Encyclopaedia Britannica — Zero / Hindu-Arabic numerals (S-318).
+

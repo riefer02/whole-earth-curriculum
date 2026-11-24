@@ -117,12 +117,12 @@ unfinished — because you are still growing.
 
 ## Facilitator note
 
-The **"not yet"** branch is the heart of it: research on mindset (Dweck) and on mastery
-learning treats "not yet" as information, never a verdict — and that is the message to
-carry. Model your own self-map, including a real "not yet" of your own, so learners see
-that adults are still growing too. Keep the map honest, not performative; every branch
-is a real truth about the learner. This page is a portfolio artifact — have learners
-keep it and return to it later in the year.
+The **"not yet"** branch is the heart of it: research on mindset (Dweck, S-096) and on
+mastery learning (S-007) treats "not yet" as information, never a verdict — and that is
+the message to carry. Model your own self-map, including a real "not yet" of your own,
+so learners see that adults are still growing too. Keep the map honest, not
+performative; every branch is a real truth about the learner. This page is a portfolio
+artifact — have learners keep it and return to it later in the year.
 
 ## Procedure
 
@@ -162,8 +162,9 @@ and ask them what they are still learning too.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
-- Dweck, C. S. (2006). *Mindset: The New Psychology of Success.* Random House. (Evidence
-  for "not yet" framing; note that mindset effects are modest and work best with real
-  feedback, not praise alone.)
+- On self-awareness as a core social-emotional competency: CASEL — Fundamentals of
+  Social and Emotional Learning (S-001).
+- On the "not yet" framing and its limits: Dweck — Mindset: The New Psychology of
+  Success (S-096). Effects are modest and work best with real feedback, not praise
+  alone.
+- On mastery learning and corrective feedback: Bloom — The 2 Sigma Problem (S-007).

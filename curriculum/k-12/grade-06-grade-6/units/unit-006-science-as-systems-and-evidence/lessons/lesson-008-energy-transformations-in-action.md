@@ -103,7 +103,7 @@ Nothing uses energy only once. The food you ate became the motion of your day an
 then the warmth of your body. Sunlight became the food a plant made, and that food —
 or the fuel pressed from old plants — became the electricity that lights a lamp.
 Every useful thing is a **chain** of changes, and at the end of every chain some
-energy slips away as heat. Today you follow the chain from start to finish.
+energy slips away as heat (S-256). Today you follow the chain from start to finish.
 
 ## Materials
 
@@ -177,3 +177,5 @@ loud to someone — every form it passes through, ending in heat.
   <https://www.bbc.co.uk/bitesize/topics/zc3g87h/articles/zg2sn9q>
 - U.S. Energy Information Administration (EIA), "Laws of energy" — energy changes form
   and is conserved: <https://www.eia.gov/kids/what-is-energy/laws-of-energy.php>
+- On energy changing form and being conserved, with some energy always leaving as heat: EIA Energy Kids — Laws of Energy (S-256).
+

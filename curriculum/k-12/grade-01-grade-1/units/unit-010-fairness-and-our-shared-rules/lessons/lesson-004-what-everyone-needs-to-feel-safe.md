@@ -92,7 +92,7 @@ belong to *every* person — no one is left out.
 
 Think of how you know you are safe and treated well somewhere — someone says your
 name kindly, there is room for your body, people listen when you speak, no one
-hurts you. Every person needs these things, not just some people. In every
+hurts you. Every person needs these things, not just some people (S-149). In every
 classroom, family, and village on Earth, people build a place where everyone can
 feel safe and treated well. Today you will name what your class needs and write it
 down together.
@@ -175,3 +175,8 @@ pass.
 
 At home, ask: what does every person in our family need to feel safe and treated
 well? Share your class list and hear theirs.
+
+## Resources
+
+- On the equal dignity and rights of every person: UN — Universal Declaration of Human
+  Rights (S-149).

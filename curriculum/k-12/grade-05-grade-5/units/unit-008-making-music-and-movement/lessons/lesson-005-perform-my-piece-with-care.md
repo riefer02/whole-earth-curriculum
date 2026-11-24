@@ -96,8 +96,8 @@ feedback**. Performing is framed as sharing a gift, and listening as a skill of 
 ## Connection
 
 A story shared is worth more than a story kept inside. Singers, drummers, and storytellers
-in every place on Earth do the same thing: they **prepare**, they **breathe**, and they
-give their work to an audience. Performing is not showing off — it is offering what you
+in every place on Earth do the same thing (S-188): they **prepare**, they **breathe**,
+and they give their work to an audience. Performing is not showing off — it is offering what you
 made so others can feel it too. And listening well is its own kindness: the audience
 receives the gift with attention and respect. Today you become both the giver and the
 receiver.
@@ -173,7 +173,8 @@ it feels like to share it and be received.
 
 ## Resources
 
-- Feedback is among the strongest influences on learning and works best when it is
-  specific, timely, and kind (Hattie, *Visible Learning*). For classroom-friendly framing
-  of performing and listening with care, see Smithsonian Folkways' "Tools for Teaching":
-  <https://folkways.si.edu/tools-for-teaching>
+- On performing traditions from around the world, with recordings and teaching notes for
+  classroom use: Smithsonian Folkways — Tools for Teaching,
+  <https://folkways.si.edu/> (S-188).
+- On how to look at, listen to, and talk about a work of art: The Metropolitan Museum of
+  Art — #MetKids, <https://www.metmuseum.org/art/online-features/metkids/> (S-192).

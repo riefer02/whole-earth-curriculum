@@ -97,7 +97,7 @@ dilemma cards in pairs and record a decision of their own.
 Last time you held a dilemma — two right-seeming choices, pulling opposite ways. Now the
 next move: before you decide, *weigh* each choice. What happens **to whom** if you keep
 the secret? What happens **to whom** if you tell? Consequences have weight — some are
-heavy, some light — and they fall on different people. Weighing them is not finding a
+heavy, some light — and they fall on different people (S-386). Weighing them is not finding a
 perfect answer; it is deciding *with your eyes open*, aware of who is helped and who is
 harmed.
 
@@ -175,3 +175,5 @@ harmed by each option — then decide.
   in CASEL, <https://casel.org/fundamentals-of-sel/>
 - On modeling a reasoning routine before independent practice: Kirschner, Sweller &
   Clark (2006), <https://doi.org/10.1207/s15326985ep4102_1>
+- On judging actions by their consequences: Stanford Encyclopedia of Philosophy — Consequentialism (S-386).
+

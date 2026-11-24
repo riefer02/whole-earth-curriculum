@@ -125,7 +125,7 @@ trick into understanding.
    **distributive** (7 × 6 splits into 5 × 6 and 2 × 6), **associative** ((2 + 3) + 4
    groups as 2 + (3 + 4)).
 2. Children can say "turn it" and "split it" and still be doing real mathematics (Van de
-   Walle et al., 2019).
+   Walle et al., 2019, S-026).
 3. These properties are human discoveries shared across traditions; no people owns them.
 
 **Don't overshoot.** The goal is the why, not the vocabulary. A learner who shows the
@@ -188,7 +188,7 @@ At home, split a hard multiplication fact into two easy ones (for example, 8 × 
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson. (The
-  commutative, associative, and distributive properties as explanations of
-  multiplication patterns, taught through arrays before vocabulary.)
+- On teaching mathematics developmentally — pictures, materials and reasoning before
+  symbols: Van de Walle, Karp & Bay-Williams (2019) — Elementary and Middle School
+  Mathematics: Teaching Developmentally (S-026).
+

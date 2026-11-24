@@ -97,8 +97,8 @@ Think of any place where people are together — a classroom, a market, a bus, a
 neighborhood street. It works because lots of people quietly do their **roles**: someone
 waters the plants, someone greets you at the door, someone keeps the path clear, someone
 watches out for the smallest ones. A role is a way of belonging: it says "this place is
-mine too, and I help make it work." Today you choose your role and carry it out — not
-just talk about it, but do it.
+mine too, and I help make it work" (S-156). Today you choose your role and carry it out
+— not just talk about it, but do it.
 
 ## Materials
 
@@ -188,7 +188,7 @@ feeding a pet, greeting a neighbor — and do it every day. Tell your class what
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills, social awareness):
-  <https://casel.org/fundamentals-of-sel/>
-- Search Institute, *Developmental Assets* — contribution and responsibility as
-  protective factors (facilitator background).
+- On contribution and responsibility as developmental strengths: Search Institute — 40
+  Developmental Assets (S-156).
+- On relationship skills and social awareness as core competencies: CASEL — Fundamentals
+  of Social and Emotional Learning (S-001).

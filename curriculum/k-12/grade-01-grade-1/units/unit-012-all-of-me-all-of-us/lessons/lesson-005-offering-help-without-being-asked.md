@@ -91,7 +91,7 @@ Everyone needs help sometimes, and everyone can give help. When you see a classm
 struggling — a stuck zipper, a hard word, a dropped stack of pencils — you can notice
 and offer to help, even before they ask. Help is something people give to each other,
 back and forth: today you give it, another day you receive it. It is not something one
-"better" person gives to a "lesser" one. And a person can always say "no thank you,"
+"better" person gives to a "lesser" one (S-345). And a person can always say "no thank you,"
 and that is completely okay — it just means they want to try alone.
 
 ## Materials
@@ -156,4 +156,5 @@ notice how it feels.
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills): <https://casel.org/fundamentals-of-sel/>
+- On help between equals — mutual aid rather than one-way charity: Dean Spade — Mutual
+  Aid: Building Solidarity During This Crisis (and the Next) (S-345).

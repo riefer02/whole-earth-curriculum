@@ -102,7 +102,7 @@ Have you ever noticed the curb "ramp" where a sidewalk meets the road? It was ma
 using a wheelchair could cross — but it also helps the person with a cane, the person wheeling
 a cart, the parent pushing a stroller, and the delivery worker with a heavy load. That is the
 secret of accessible design: **when you design for the edges, you design better for
-everyone.** A caption helps a Deaf viewer *and* a viewer in a noisy room; a large-print sign
+everyone.** (S-100) A caption helps a Deaf viewer *and* a viewer in a noisy room; a large-print sign
 helps low-vision readers *and* people in a hurry. Today you become the designer who asks,
 before finishing, *who might be blocked here — and how do I let them in?*
 
@@ -134,7 +134,7 @@ before finishing, *who might be blocked here — and how do I let them in?*
    temporarily or permanently, so this is designing for *all of us* (the social model of
    disability, held as a frame).
 4. **WCAG** names four principles — perceivable, operable, understandable, robust — that
-   apply to any design.
+   apply to any design (S-280).
 
 **Don't overshoot.** Do not turn this into charity for "those people." The question is
 never "what's wrong with this person."
@@ -207,3 +207,6 @@ sketch or describe one change that would remove it, and who it would help.
   <https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html>
 - Kirschner, Sweller & Clark (2006), "Why Minimal Guidance Does Not Work," on modeling the
   worked example before independent practice.
+- On the right to take part in cultural life and on accessible design: UN Convention on the Rights of Persons with Disabilities (CRPD), Article 30 (S-100).
+- On the four principles of accessible design: W3C WAI — Web Content Accessibility Guidelines (WCAG) (S-280).
+

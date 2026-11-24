@@ -143,7 +143,8 @@ practice.
    part. Sing a short song in your head — about two minutes is enough. Rinse with a
    little water. Then check: run your tongue over your teeth — do they feel smooth and
    clean?
-5. **When do we brush? (5 min).** Name the times: in the **morning** and before **bed**.
+5. **When do we brush? (5 min).** Name the times: in the **morning** and before **bed**
+   (S-017).
    Share with a partner one time you will remember.
 6. **Close (5 min).** Clean teeth are a way of saying "I care for my body."
 
@@ -171,5 +172,5 @@ cheer you on.
 
 ## Resources
 
-- World Health Organization, "Oral health" (caring for teeth and mouth):
-  <https://www.who.int/news-room/fact-sheets/detail/oral-health>
+- On brushing twice a day with fluoride toothpaste to keep teeth and gums healthy:
+  WHO — Oral health fact sheet (S-017).

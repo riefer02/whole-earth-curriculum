@@ -105,7 +105,7 @@ You want to know: does my toy car roll farther on a smooth floor or a rough mat?
 change the surface *and* give a harder push *and* use a different car, you will never
 know what made the difference. A **fair test** changes only **one thing** — the
 surface — and keeps the car, the ramp, and the release the same. Then, if the car rolls
-farther on the smooth floor, you can trust that the surface is what changed it. Fair
+farther on the smooth floor, you can trust that the surface is what changed it (S-070). Fair
 means honest, the same idea as a fair game where everyone follows the same rules.
 
 ## Materials
@@ -179,6 +179,6 @@ keep the same.
 
 ## Resources
 
-- BBC Bitesize (KS2 Science), "What is a fair test?" — what a fair test is, and why
-  scientists change one thing and keep the rest the same.
-  https://www.bbc.co.uk/bitesize/topics/zqkk7ty/articles/z69qwnb
+- On what makes a fair test — changing one thing and keeping everything else the same: BBC
+  Bitesize (KS2) — What is a fair test? (S-070).
+

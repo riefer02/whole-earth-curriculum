@@ -103,7 +103,7 @@ the neighborhood is richer — but the people who were there first may feel crow
 unseen. A coast, a mountain town, a city block, a school: everywhere, change brings both
 loss and gain in the same breath. The skill is not to pick one feeling and throw the other
 away — it is to hold both: this change is hard *and* good, and it lands differently on
-different people.
+different people (S-015).
 
 ## Materials
 
@@ -179,3 +179,5 @@ listen for one thing they miss and one thing they are glad changed.
   intelligence, <https://www.rulerapproach.org/>
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On holding mixed, co-occurring feelings: RULER Approach — Yale Center for Emotional Intelligence (S-015).
+

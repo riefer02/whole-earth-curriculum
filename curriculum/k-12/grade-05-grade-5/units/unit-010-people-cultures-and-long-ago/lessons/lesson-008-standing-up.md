@@ -85,9 +85,9 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners meet three historical examples of people treated unfairly who **resisted peacefully
-and helped one another**: the **1930 Salt March** in India, the **1929 Aba Women's War** in
-southeastern Nigeria, and the **1966 Wave Hill walk-off** by Gurindji stockworkers in
-Australia. They record one story with an **unfairness–action–mutual aid** frame, centering
+and helped one another**: the **1930 Salt March** in India (S-205), the **1929 Aba
+Women's War** in southeastern Nigeria (S-209), and the **1966 Wave Hill walk-off** by
+Gurindji stockworkers in Australia (S-206). They record one story with an **unfairness–action–mutual aid** frame, centering
 the people's **dignity, agency, and courage** — never victimhood.
 
 ## Objectives
@@ -172,13 +172,11 @@ another — in your community or family, or in a story they know.
 
 ## Resources
 
-- The 1930 Salt March, in which Mohandas Gandhi led a nonviolent march to the sea at Dandi to
-  make salt in defiance of the salt tax, is documented by the Nobel Prize site and historical
-  scholarship (<https://www.nobelprize.org/>). The 1929 Aba Women's War, in which thousands of
-  women in southeastern Nigeria organized against unfair taxation and unjust rule, is
-  documented in Nigerian history (see the work of historians such as Adiele Afigbo and
-  records of the time). The 1966 Wave Hill walk-off, led by Vincent Lingiari with Gurindji
-  stockworkers seeking fair pay and land, is documented by the National Museum of Australia
-  (<https://www.nma.gov.au/>) and led to the return of land. These are told as stories of
-  dignity, agency, and mutual aid, in line with the curriculum's commitment to center
-  resistance and liberation, not victimhood.
+- On the 1930 Salt March and the Indian independence movement: Nobel Prize — Mahatma
+  Gandhi, the missing laureate,
+  <https://www.nobelprize.org/prizes/themes/mahatma-gandhi-the-missing-laureate/> (S-205).
+- On the 1929 Aba Women's War in southeastern Nigeria: Adiele Afigbo — *The Warrant
+  Chiefs* (S-209).
+- On the 1966 Wave Hill walk-off by Gurindji stockworkers led by Vincent Lingiari:
+  National Museum of Australia — Defining Moments,
+  <https://www.nma.gov.au/defining-moments/resources/wave-hill-walk-off> (S-206).

@@ -99,7 +99,7 @@ not what you hoped.
 A picture of numbers can show in one glance what a long list hides. A farmer deciding
 which seed to plant, a shopkeeper seeing which goods sell, a weather office tracking
 rainfall over a year — they all read graphs. A graph does not prove you right; it
-shows you *what the numbers actually say*. Sometimes they back you up, and sometimes
+shows you *what the numbers actually say* (S-242). Sometimes they back you up, and sometimes
 they gently correct you. Both results are useful. Today you learn to read that
 picture honestly.
 
@@ -134,7 +134,7 @@ cotton bar is tallest") from a value ("revision is good, not shameful"). See
    you write? Today you will check that claim with a **graph**.
 2. **Meet the bar graph (10 min).** A **bar graph** has two **axes**: the horizontal
    one lists what you tested (cloth type), the vertical one has a **scale** (0 to 20
-   drops). Each **bar** stands for one cloth, and its *height* shows the number. Look
+   drops) (S-241). Each **bar** stands for one cloth, and its *height* shows the number. Look
    at the worked example: the tallest bar is thin cotton. Say aloud what that bar
    means.
 3. **Graph your data (15 min).** Using yesterday's table, draw one bar for each
@@ -175,3 +175,6 @@ you expected.
   <https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6-shape-of-data/v/creating-bar-charts-1>
 - BBC Bitesize (KS3), "Graphs and charts" — choosing and reading a bar graph:
   <https://www.bbc.co.uk/bitesize/topics/zsg6m39/articles/zhmbvwx>
+- On graphs and charts as ways to present data: BBC Bitesize (KS3) — Working scientifically: graphs and charts (S-242).
+- On reading and making bar graphs: Khan Academy — 6th grade data & statistics (S-241).
+

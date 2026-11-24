@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-002-02-whose-account desc-L-09-002-02-whose-account">
+  <title id="title-L-09-002-02-whose-account">The record is a set of choices</title>
+  <desc id="desc-L-09-002-02-whose-account">On the left, four bands narrow from "what happened" down to "what you get", showing that each step is a choice. On the right, a panel headed "kept by word" holds griots, genealogies, and the past. A footer reads: a gap is not proof that nothing happened.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">The Record Is a Set of Choices</text>
+  <text x="256" y="76" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">from what happened to what you can know</text>
+
+  <text x="150" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">kept in writing</text>
+
+  <rect x="24" y="124" width="252" height="44" rx="6" fill="#eef1ee" stroke="#2b3a42" stroke-width="2"/>
+  <text x="150" y="152" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">what happened</text>
+
+  <rect x="24" y="180" width="200" height="44" rx="6" fill="#eef1ee" stroke="#2b3a42" stroke-width="2"/>
+  <text x="124" y="208" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">what was written</text>
+
+  <rect x="24" y="236" width="148" height="44" rx="6" fill="#eef1ee" stroke="#2b3a42" stroke-width="2"/>
+  <text x="98" y="264" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">what was kept</text>
+
+  <rect x="24" y="292" width="100" height="44" rx="6" fill="#eef1ee" stroke="#2b3a42" stroke-width="2"/>
+  <text x="74" y="320" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">what you get</text>
+
+  <rect x="330" y="124" width="158" height="212" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="409" y="152" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">kept by word</text>
+  <text x="409" y="186" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">griots carry</text>
+  <text x="409" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">genealogies</text>
+  <text x="409" y="226" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">and the past</text>
+  <text x="409" y="262" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">carried in</text>
+  <text x="409" y="282" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">memory</text>
+  <text x="409" y="316" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">still a record</text>
+
+  <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">a gap is not proof that nothing happened</text>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">one record narrows; another was never written</text>
+</svg>

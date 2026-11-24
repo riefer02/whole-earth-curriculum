@@ -101,7 +101,7 @@ A square is a rectangle, and a square is also a rhombus — even though it has i
 name too. It is like a person who is both a cousin and a sister and a friend, all at
 once: the names overlap because the properties overlap. Tile-makers and builders have
 long known this family of four-sided shapes, because fitting them together — in floors,
-walls, and cloth — depends on what they share. Today you meet the whole family and
+walls, and cloth — depends on what they share (S-024). Today you meet the whole family and
 learn who is related to whom.
 
 ## Materials
@@ -128,7 +128,7 @@ learn who is related to whom.
 3. Quadrilaterals appear in tiling and design across many cultures.
 
 **Don't overshoot.** Hierarchical classification is a step children grow into slowly —
-do not rush it (Van de Walle et al., 2019), and do not let a quick namer set the pace
+do not rush it (Van de Walle et al., 2019, S-026), and do not let a quick namer set the pace
 for the room.
 
 **The lenses, briefly.**
@@ -187,7 +187,9 @@ grown-up whether each is a rectangle, a rhombus, or both.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson.
-  (Hierarchical classification of quadrilaterals — how a square is a rectangle and a
-  rhombus.)
+- On hierarchical classification of quadrilaterals, taught slowly: Van de Walle, Karp &
+  Bay-Williams (2019) — Elementary and Middle School Mathematics: Teaching Developmentally
+  (S-026).
+- On tiling and pattern in cloth and design across traditions: Claudia Zaslavsky (1999) —
+  Africa Counts: Number and Pattern in African Cultures (S-024).
+

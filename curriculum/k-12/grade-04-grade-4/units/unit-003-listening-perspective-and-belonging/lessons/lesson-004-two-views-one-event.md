@@ -82,7 +82,8 @@ last_updated: 2026-08-17
 
 Learners **compare** their own **point of view** with a classmate's on the **same
 event**, finding what is *alike* and what is *different*. They learn that two views can
-both be true — because each person sees from their own position, role, and experience.
+both be true — because each person sees from their own position, role, and experience
+(S-231).
 
 ## Objectives
 
@@ -115,8 +116,8 @@ This deepens Grade 3's "retell a story from another character's point of view" �
 the learner compares *their own* view with a *real classmate's* on a shared event. The
 core idea to protect: **two views can both be true, and "different" does not mean one is
 wrong.** Teach the compare sentence as explicit instruction — "We both noticed…, but I
-thought… while you thought…, because…" — and model it (Kirschner, Sweller & Clark,
-2006). Watch for the learner who wants to rank the views ("mine is right"); gently
+thought… while you thought…, because…" — and model it (Kirschner, Sweller & Clark, 2006,
+S-011). Watch for the learner who wants to rank the views ("mine is right"); gently
 reframe to "both are true from their own position." This is an egalitarian and
 epistemological moment: reality is one, but our view of it is partial, and comparing
 views is how we get closer to the whole. Honor every way of expressing a view — sign,
@@ -164,5 +165,9 @@ can be true.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On perspective-taking — seeing a situation from another person's position: Decety &
+  Cowell — Empathy, Perspective-Taking, and Morality (S-231).
+- On social awareness as a core competency: CASEL — Fundamentals of Social and Emotional
+  Learning (S-001).
+- On explicit instruction and worked examples: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

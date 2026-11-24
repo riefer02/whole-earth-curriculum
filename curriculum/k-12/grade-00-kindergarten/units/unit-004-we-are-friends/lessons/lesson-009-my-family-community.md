@@ -89,7 +89,7 @@ family is caring and being together, not any single shape.
 A family is the first community most of us ever belong to. Families look different
 everywhere — some are big, some are small, some have grandparents or aunts or chosen
 people, and no shape is better than another. What families share is this: people who
-care for each other and do things together.
+care for each other and do things together (S-158).
 
 ## Materials
 
@@ -140,6 +140,7 @@ or complete than another.
 
 - CASEL SEL Framework (foundational competencies):
   <https://casel.org/fundamentals-of-sel/>
+- On belonging and inclusion across cultures: UNESCO — Learning to Live Together (S-158).
 
 ## Home connection
 

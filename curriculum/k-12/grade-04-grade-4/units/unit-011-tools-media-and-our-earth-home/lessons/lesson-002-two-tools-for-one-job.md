@@ -140,7 +140,7 @@ answer, not the object.
 **The skill.** Name the better tool for this person, and give the "because."
 
 Model the sentence once, then guide one pair together before independent work
-(Kirschner, Sweller & Clark, 2006).
+(Kirschner, Sweller & Clark, 2006, S-011).
 
 **Access:** describe each tool for a learner who is blind or has low vision; a learner
 who does not speak points to the tool and the person; acting out the job works for
@@ -189,6 +189,7 @@ sweep). Tell a grown-up which works better for which person or situation, and wh
 
 ## Resources
 
-- TeachEngineering, "Engineering Design Process" — comparing and evaluating solutions is a
-  design step; this lesson practices it on simple tools.
-  https://www.teachengineering.org/populartopics/designprocess
+- On comparing and evaluating solutions as a step in the engineering design process:
+  TeachEngineering — Engineering Design Process (S-150).
+- On worked examples and guided practice before independent work: Kirschner, Sweller &
+  Clark — Why Minimal Guidance During Instruction Does Not Work (S-011).

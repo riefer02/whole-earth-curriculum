@@ -100,7 +100,7 @@ just tired, or bored, or thirsty. You think you are lazy when you are really run
 hours of sleep. You feel a racing heart before a performance and call it fear when it might
 be excitement — the two feel almost the same. Naming a signal *accurately* matters because
 the helpful response is different: thirst wants water, fatigue wants rest, stress wants a
-slow breath. Whether you live beside a busy road or a quiet river, learning to read the
+slow breath (S-340). Whether you live beside a busy road or a quiet river, learning to read the
 message before you act on it is a skill that serves every life.
 
 ## Materials
@@ -177,3 +177,5 @@ they were thirsty, or tired when they were stressed. What clue told them the dif
   <https://casel.org/fundamentals-of-sel/>
 - On modeling and guided practice before independent sorting: Kirschner, Sweller & Clark
   (2006), <https://doi.org/10.1207/s15326985ep4102_1>
+- On slow breathing as a way to settle the body's stress response: Harvard Health — Relaxation techniques: Breath control helps quell errant stress response (S-340).
+

@@ -104,7 +104,7 @@ everyone gets to speak and is heard, the group has a **fair say**. That is what 
 in a group** can mean: not bossing others, but having a voice that helps decide. When
 some people are **left out** — not asked, not listened to — the choice can be unfair,
 because their needs and ideas were never heard. Noticing who is left out, and inviting
-them in, is how groups become fair.
+them in, is how groups become fair (S-091).
 
 ## Materials
 
@@ -199,11 +199,8 @@ is blind or has low vision hears the scenes described clearly.
 
 ## Resources
 
-- United Nations Convention on the Rights of the Child, Article 12 — states that
-  children have the right to say what they think and to have their views taken into
-  account, supporting the idea that every voice, including a child's, deserves to be
-  heard in the groups that affect them.
-  https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child
+- On children's right to express their views and have them taken into account: UN
+  Convention on the Rights of the Child, Article 12 (S-091).
 
 ## Home connection
 

@@ -97,7 +97,7 @@ be going on?"
 
 Every summer, in cities all over the world, two numbers rise together: ice cream sales
 and the number of people who go swimming in rivers and lakes — and, sadly, sometimes
-drownings. Does ice cream *cause* drowning? Of course not. Both rise because of a third
+drownings. Does ice cream *cause* drowning? Of course not (S-307). Both rise because of a third
 thing: hot weather sends people to buy ice cream **and** to the water. The two numbers
 are **correlated** — they move together — but neither causes the other. Telling the
 difference is a skill you will use every day, from reading a headline to deciding
@@ -198,3 +198,5 @@ home: *could a third thing cause both?* Bring your example to share next time.
   statistical fact (`docs/philosophy.md` §5).
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On spurious correlations — patterns that do not show a cause: Tyler Vigen — Spurious Correlations (S-307).
+

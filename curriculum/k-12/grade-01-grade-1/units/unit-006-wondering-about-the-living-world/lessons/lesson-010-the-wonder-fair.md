@@ -157,7 +157,7 @@ questions we cannot answer yet, and that is wonderful.
    carry into the rest of the year: "I still wonder…" Add it to the wonder wall or
    wonder book if you have one.
 5. **Close (3 min).** Look at all we did together. You asked, you looked, you guessed,
-   you checked. Science is wondering — and you are good at it. Keep wondering.
+   you checked (S-041). Science is wondering — and you are good at it. Keep wondering.
 
 ## Differentiation
 
@@ -183,3 +183,10 @@ questions we cannot answer yet, and that is wonderful.
 
 Bring your "I still wonder…" question home and ask a grown-up what *they* wonder
 about. Wonder together — and keep watching the world.
+
+## Resources
+
+- On the science loop the unit practised — wonder, observe, predict, test, and record:
+  BBC Bitesize (KS1 Science), "Working scientifically" (S-041).
+- On recalling and explaining across spaced intervals as strong remembering: Agarwal &
+  Bain — Powerful Teaching (S-239).

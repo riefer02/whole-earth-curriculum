@@ -115,9 +115,9 @@ sequence and repeat it the same way.
 ## Facilitator note
 
 A sequence is a **skill structure**, so model it once — a start pose, two moves, an end
-pose — before learners make their own (Kirschner, Sweller & Clark, 2006). There is no
-correct sequence; a learner's own order is their dance, and every body tells its own
-story. A learner who uses a wheelchair or moves with support does the whole sequence
+pose — before learners make their own (Kirschner, Sweller & Clark, 2006; S-011). There
+is no correct sequence; a learner's own order is their dance, and every body tells its
+own story. A learner who uses a wheelchair or moves with support does the whole sequence
 from where they are — a "start" can be hands on knees, a "move" a raised arm or a turn
 of the head, an "end" open hands, still. A learner who is blind or has low vision
 follows spoken counts ("one, reach up; two, turn") or holds a partner's elbow to feel
@@ -169,3 +169,8 @@ full participation.
 
 Teach someone at home your movement sequence — beginning, moves, end — and do it
 together two times in a row. Then ask them to add one new move in the middle.
+
+## Resources
+
+- On modelling a movement sequence before learners compose their own: Kirschner,
+  Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

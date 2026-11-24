@@ -91,7 +91,7 @@ last_updated: 2026-08-17
 
 ## Summary
 
-The capstone gathers the unit's threads into **one long human story**. Learners assemble
+The capstone gathers the unit's threads into **one long human story** (S-316). Learners assemble
 their portfolio artifacts — the comparing timeline, the origin-story comparison, the
 migration note, the achievement page, and the fairness-and-dignity example — and, in a
 gallery walk and closing circle, connect each to the big question and name **their own part**
@@ -179,12 +179,10 @@ and tell them the one action for fairness you chose.
 
 ## Resources
 
-- This capstone synthesizes the unit's documented content: the two-civilization timeline and
-  change-and-continuity work (British Museum, UNESCO); the tool-effect chains (British Museum,
-  Smithsonian); the origin-story comparisons (Te Ara, National Museum of the American Indian,
-  British Museum); the non-European achievements (UNESCO World Heritage listings); the Pacific
-  migration (Polynesian Voyaging Society); the trade networks (UNESCO Indian Ocean shared
-  heritage); and the resistance and fairness-and-dignity examples (Nobel Prize site, National
-  Museum of Australia). Each is cited in its own lesson. The closing commitment to "our part in
-  the story" follows the curriculum's aim that learners become agents of care and justice, not
-  only readers of the past.
+- On historical thinking — sourcing, context, and connecting events into a larger story:
+  Stanford History Education Group, <https://sheg.stanford.edu/> (S-316).
+- On how historians divide the past into periods, and why such divisions are
+  conventions rather than facts: Encyclopaedia Britannica — Historiography,
+  <https://www.britannica.com/topic/historiography> (S-314).
+- On spaced retrieval as a way to gather a whole unit's learning into one picture:
+  Dunlosky et al. (2013), <https://doi.org/10.1177/1529100612453266> (S-039).

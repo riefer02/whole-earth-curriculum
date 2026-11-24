@@ -95,7 +95,7 @@ make a fuller picture.
 
 Think of a ripe mango sitting in a basket. Your eyes see its orange color. Your fingers
 feel its smooth skin. Your nose smells its sweetness. Your tongue tastes the juice.
-Each sense gives you one clue — but only all of them together give you the whole mango.
+Each sense gives you one clue — but only all of them together give you the whole mango (S-031).
 Today you will gather the clues one by one and put them on a chart.
 
 ## Materials
@@ -157,8 +157,8 @@ no two bodies sense identically.
 
 ## Resources
 
-- World Health Organization — global health and wellbeing reference:
-  <https://www.who.int/>
+- On the senses gathering clues about the world around us: BBC Bitesize (KS1) — What are
+  the senses? (S-031).
 
 ## Home connection
 

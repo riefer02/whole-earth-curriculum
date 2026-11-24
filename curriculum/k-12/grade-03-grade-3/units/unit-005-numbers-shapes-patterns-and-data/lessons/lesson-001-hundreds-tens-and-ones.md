@@ -126,11 +126,11 @@ round.
 
 **The facts to land.**
 1. Ten tens make one hundred — the same unitising move as Grade 2, one step bigger
-   (Clements & Sarama, 2014).
+   (Clements & Sarama, 2014, S-020).
 2. Hundreds, tens, and ones are read in order, and each digit's place gives its value.
 3. The digits 0–9 are one number system among many: they reached the wider world
    through Arabic-speaking scholars from India, while other peoples used tallies and
-   knots (Ifrah, 2000; Zaslavsky, 1999).
+   knots (Ifrah, 2000; Zaslavsky, 1999; S-023, S-024).
 
 **Don't overshoot.** The bundle of ten is not a rule to recite — it is what the hands
 see and feel when ten ones are gathered. Symbols come last.
@@ -198,11 +198,12 @@ number that makes.
 
 ## Resources
 
-- Clements, D. H., & Sarama, J. (2014). *Learning and Teaching Early Math: The
-  Learning Trajectories Approach* (2nd ed.). Routledge. (Unitizing — seeing ten ones as
-  one ten and ten tens as one hundred — as the foundation of place value.)
-- Ifrah, G. (2000). *The Universal History of Numbers*. John Wiley & Sons. (The decimal
-  positional system with zero originated in India and spread via Arabic-speaking
-  scholars; it is one system among many.)
-- Zaslavsky, C. (1999). *Africa Counts: Number and Pattern in African Cultures* (3rd
-  ed.). Lawrence Hill Books. (Counting and tally systems across many traditions.)
+- On unitising, place value and learning trajectories in early mathematics: Douglas H.
+  Clements & Julie Sarama (2014) — Learning and Teaching Early Math: The Learning
+  Trajectories Approach (S-020).
+- On the history of number systems, including the decimal place-value system and its
+  spread from India through Arabic-speaking scholars: Georges Ifrah (2000) — The Universal
+  History of Numbers (S-023).
+- On counting, grouping and pattern in African and other traditions: Claudia Zaslavsky
+  (1999) — Africa Counts: Number and Pattern in African Cultures (S-024).
+

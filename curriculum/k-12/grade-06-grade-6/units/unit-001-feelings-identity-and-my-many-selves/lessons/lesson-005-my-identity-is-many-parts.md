@@ -101,7 +101,7 @@ strength.
 Draw a dot in the middle and call it **me**. Now draw a ring of bubbles around it — the
 people who care for you, the language(s) you speak, the food and music you love, the
 place you call home, the things you are interested in, the beliefs that guide you. That
-ring is your **identity**: not one single thing, but many parts at once. A child raised by
+ring is your **identity**: not one single thing, but many parts at once (S-001). A child raised by
 grandparents, a child in a blended family, a child who moved across the sea, a child who
 speaks three languages — each has a map that is whole and true. No map is "more complete"
 than another.
@@ -199,3 +199,5 @@ of — a story, a place, a person, a belief, or a dream.
   social-awareness competencies; the idea that identity includes multiple dimensions
   (family, culture, language, beliefs) is foundational in the study of identity
   development: <https://casel.org/fundamentals-of-sel/>
+- On recognizing one's identities as part of self-awareness: CASEL — Fundamentals of Social and Emotional Learning (S-001).
+

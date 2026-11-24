@@ -81,7 +81,7 @@ last_updated: 2026-08-16
 
 Learners describe a small conflict and name a peaceful way to solve it — talking it
 through, taking turns, or getting help. A conflict is just a disagreement; it can be
-solved without hurting anyone, and both sides can end up okay.
+solved without hurting anyone, and both sides can end up okay (S-022).
 
 ## Objectives
 
@@ -178,3 +178,8 @@ and name the way aloud. Motor difference: direct a partner to move the puppets.
 
 At home, if a small conflict comes up, describe it out loud ("two people want the
 same…") and try one peaceful way — talk, take turns, or get help.
+
+## Resources
+
+- On responding to conflict by repairing harm and restoring relationships:
+  International Institute for Restorative Practices (IIRP) (S-022).

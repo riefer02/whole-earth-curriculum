@@ -94,7 +94,7 @@ drawing the two signals.
 ## Connection
 
 Have you ever been playing hard on a warm day and noticed your mouth feels dry and you
-really want a drink? That is thirst. Or have you felt your eyelids getting heavy and
+really want a drink? That is thirst (S-049). Or have you felt your eyelids getting heavy and
 your body slow at the end of a long day? That is tiredness. Just like hunger and
 fullness, these are your body's signals — and each one has a kind answer.
 
@@ -129,7 +129,7 @@ authorities around the world encourage for everyone.
 2. **Meet thirst (10 min).** Thirst is your body asking for water. Its early signals:
    your **mouth and lips feel dry**, and you may find it hard to swallow. What is a
    helpful response? **Drink clean water.** Notice the signal early, and answer it.
-3. **Meet tiredness (10 min).** Tiredness is your body asking for rest. Its signals:
+3. **Meet tiredness (10 min).** Tiredness is your body asking for rest (S-050). Its signals:
    your **eyelids feel heavy**, you **yawn**, and your body feels slow. What is a
    helpful response? **Rest or sleep.** Rest is not lazy — it is how your body
    recharges.
@@ -156,8 +156,10 @@ authorities around the world encourage for everyone.
 
 ## Resources
 
-- World Health Organization — global health and wellbeing reference:
-  <https://www.who.int/>
+- On safe water and the body's need for it: World Health Organization — Drinking-water
+  fact sheet (S-049).
+- On how much sleep children need: American Academy of Sleep Medicine — Recommended Amount
+  of Sleep for Pediatric Populations (S-050).
 
 ## Home connection
 

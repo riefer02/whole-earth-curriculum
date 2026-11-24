@@ -121,7 +121,7 @@ scared. Today you will learn those rules.
 2. **Stay out of flood water** — it can be deeper and dirtier than it looks.
 3. Heat: **drink water** and **rest in the shade**. Cold: **layer up** and **stay dry**.
 4. These rules follow widely used weather-safety guidance from public-health and
-   meteorological organizations.
+   meteorological organizations (S-125; S-124).
 
 **Don't overshoot.** Storms are things people have safely weathered in every land for
 all of human history; never make the lesson frightening.
@@ -184,7 +184,8 @@ to shelter in a storm. Practice saying "when thunder roars, go indoors."
 
 ## Resources
 
-- World Meteorological Organization, "Weather" (storm and severe-weather early warnings
-  and safety): <https://wmo.int/themes/weather>
-- World Health Organization, "Heat" and "Cold" health guidance (hydration, shade, and
-  layering): <https://www.who.int/health-topics/climate-change>
+- On storm and severe-weather early warnings and safety: WMO — Weather theme (S-125).
+- On heat and cold health guidance — hydration, shade, and layering: WHO — Climate
+  change and health (S-124).
+- Note: the phrase "when thunder roars, go indoors" is a common mnemonic from the US
+  National Weather Service, not a WMO wording.

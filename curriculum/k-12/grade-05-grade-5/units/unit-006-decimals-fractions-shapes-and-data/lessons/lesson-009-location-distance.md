@@ -98,7 +98,7 @@ On a village map, the **well** is at (1,2) and the **gate** is at (4,2) — same
 distance between them is just the **3** units across. The **tree** is at (3,1) and a **bird** is
 at (3,5) — same column, so the distance is the **4** units up. When two places share a row or a
 column on a grid, their distance is a simple count — the same idea a delivery rider, a farmer,
-or a hiker uses to figure out how far apart two spots are.
+or a hiker uses to figure out how far apart two spots are (S-129).
 
 ## Materials
 
@@ -164,6 +164,7 @@ out how many units apart they are.
 
 ## Resources
 
-- Coordinate distance in the first quadrant is standard in elementary mathematics; see John A.
-  Van de Walle, *Elementary and Middle School Mathematics* (10th ed., 2019). The habit of honest
-  measurement is a critical-thinking value (`docs/philosophy.md` §7).
+- On maps, grids, and locating places by coordinates: National Geographic Education —
+  Map, <https://education.nationalgeographic.org/resource/map/> (S-129).
+- On distance along grid lines and connecting it to subtraction: Van de Walle, Karp &
+  Bay-Williams — *Elementary and Middle School Mathematics* (S-026).

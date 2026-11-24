@@ -128,11 +128,11 @@ told with respect.
 **The facts to land.**
 1. Retrieval and integration: learners recall comparing two peoples' needs, and how land
    shaped settlement, then combine them — spaced retrieval across the unit (Dunlosky et
-   al., 2013).
+   al., 2013, S-039).
 2. Each place asks something of its people, and each people answers with deep knowledge
    — never rank them.
 3. The frozen sea and the cold shaped Arctic ways: people fish, wear warm parkas, and
-   build snug homes.
+   build snug homes (S-058).
 
 **Don't overshoot.** Do not let the artifact become a ranking, or a way of finding out
 who remembered most.
@@ -145,7 +145,7 @@ who remembered most.
 
 **The skill.** Fill one column, then say the "shaped by" sentence.
 
-Model one column first (Kirschner, Sweller & Clark, 2006): fill the Arctic column and
+Model one column first (Kirschner, Sweller & Clark, 2006, S-011): fill the Arctic column and
 say "the frozen sea and the cold shaped it: people fish and build snug homes." Then
 guide the desert column. A learner may choose a different pair — the structure matters,
 not the example.
@@ -195,6 +195,16 @@ points. The artifact is evidence of growth, never a ranking.
   environment shaped a choice?
 - **Formative (oral/performance):** Does the learner explain the comparison in their own
   words, without ranking either people or place as better?
+
+## Resources
+
+- On spaced retrieval across a unit as a way to make learning last: Dunlosky, Rawson,
+  Marsh, Nathan & Willingham (2013) — Improving Students' Learning With Effective Learning
+  Techniques (S-039).
+- On Inuit life across the Arctic: Inuit Circumpolar Council (S-058).
+- On Bedouin peoples of the desert: Encyclopaedia Britannica — Bedouin (S-083).
+- On modelling one example before learners work on their own: Kirschner, Sweller & Clark
+  (2006) — Why Minimal Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

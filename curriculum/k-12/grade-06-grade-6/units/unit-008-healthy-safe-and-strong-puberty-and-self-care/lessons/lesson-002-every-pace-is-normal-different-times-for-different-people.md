@@ -101,7 +101,7 @@ tall and green; others come up a week later; a few come up last of all. In the e
 whole field stands — the early and the late together. Puberty is like that field. Two
 friends born in the same month can change at very different times: one may grow taller at
 ten, the other not until fourteen. Neither is ahead and neither is behind, because there
-is no race. Every body keeps its own clock, and every pace is normal.
+is no race. Every body keeps its own clock, and every pace is normal (S-261).
 
 ## Materials
 
@@ -184,3 +184,5 @@ at the same time?" and share the idea that every pace is normal.
   "every pace is normal" as both a fact (timing varies across the healthy range) and a
   value (bodies are never to be ranked). The reflection practice draws on the CASEL
   self-awareness competency: <https://casel.org/fundamentals-of-sel/>.
+- On the wide normal range of adolescent development: WHO — Adolescent health (health topic) (S-261).
+

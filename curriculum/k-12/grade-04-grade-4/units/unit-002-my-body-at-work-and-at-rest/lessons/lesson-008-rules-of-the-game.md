@@ -94,11 +94,11 @@ won **together**, not against each other.
 ## Connection
 
 Every game you love has rules — how to pass, where to stand, when it is your turn.
-Without rules, a game falls apart: nobody knows what to do, and someone always gets
-left out or hurt. Rules are not there to spoil fun; they are the agreement that makes
-fun possible for everyone. The same is true everywhere: ball games in a Brazilian
-favela, a running game in a Kenyan schoolyard, a board game on a family mat — all of
-them work because everyone agrees to the rules.
+Without rules, a game falls apart: nobody knows what to do, and someone always gets left
+out or hurt. Rules are not there to spoil fun; they are the agreement that makes fun
+possible for everyone. The same is true everywhere: ball games in a Brazilian favela, a
+running game in a Kenyan schoolyard, a board game on a family mat — all of them work
+because everyone agrees to the rules (S-233).
 
 ## Materials
 
@@ -116,12 +116,12 @@ them work because everyone agrees to the rules.
 
 Teach the rules with explicit instruction — **read the three rules aloud, model them,
 then play** — because rules are foundational knowledge a novice needs spelled out
-(Kirschner, Sweller & Clark, 2006). Choose cooperative games (a shared goal — "keep the
-cloth aloft together," "pass the hoop around the circle without dropping it"), not
-elimination games, so there are no losers to rank. If a learner breaks a rule, treat it
-as information, not a verdict: gently restate the rule and invite them to try again.
-This lesson opens the unit's third strand — cooperative games and fair play — and leads
-into Lesson 9 on playing fairly.
+(Kirschner, Sweller & Clark, 2006, S-011). Choose cooperative games (a shared goal —
+"keep the cloth aloft together," "pass the hoop around the circle without dropping it"),
+not elimination games, so there are no losers to rank (S-101). If a learner breaks a
+rule, treat it as information, not a verdict: gently restate the rule and invite them to
+try again. This lesson opens the unit's third strand — cooperative games and fair play —
+and leads into Lesson 9 on playing fairly.
 
 ## Procedure
 
@@ -155,10 +155,11 @@ into Lesson 9 on playing fairly.
 
 ## Resources
 
-- SHAPE America — appropriate practices in movement and cooperative play:
-  <https://www.shapeamerica.org/>
-- World Health Organization — physical activity fact sheet:
-  <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
+- On explicit instruction and worked examples for foundational knowledge: Kirschner,
+  Sweller & Clark — Why Minimal Guidance During Instruction Does Not Work (S-011).
+- On cooperative goal structures producing better achievement and better relationships
+  than competitive ones: Johnson & Johnson — Cooperation vs Competition (S-233).
+- On appropriate practices in movement and cooperative play: SHAPE America (S-101).
 
 ## Home connection
 

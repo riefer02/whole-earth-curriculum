@@ -104,8 +104,8 @@ never "primitive" and never ranked.
 Every person, everywhere, needs the same three things from the world: **food** to eat,
 **shelter** to stay warm and dry, and **clothing** to protect the body. But *how* people
 meet each need depends on where they live. Where it is very cold, people need thick,
-warm coverings and a snug home. Where it is very hot and dry, they need light cloth and
-shade. The need is the same for everyone; the way is shaped by place — and every way is
+warm coverings and a snug home (S-058). Where it is very hot and dry, they need light cloth and
+shade (S-083). The need is the same for everyone; the way is shaped by place — and every way is
 a real, clever answer.
 
 ## Materials
@@ -197,14 +197,10 @@ use a speaking voice points or acts.
 
 ## Resources
 
-- Inuit Circumpolar Council — the united voice of Inuit across Alaska, Canada,
-  Greenland, and Chukotka; documents Inuit ways of living in the Arctic, including
-  warm clothing and food from the sea and land.
-  https://www.inuitcircumpolar.com/
-- Britannica, "Bedouin" — describes Bedouin peoples of the deserts of North Africa and
-  the Middle East, their herding of camels and goats, tent dwelling, and light, loose
-  clothing suited to a hot, dry climate.
-  https://www.britannica.com/topic/Bedouin
+- On Inuit life across the Arctic — food from the sea and land, warm clothing, snug homes:
+  Inuit Circumpolar Council (S-058).
+- On Bedouin peoples of the deserts, their herding, tents, and loose clothing suited to
+  heat and dust: Encyclopaedia Britannica — Bedouin (S-083).
 
 ## Home connection
 

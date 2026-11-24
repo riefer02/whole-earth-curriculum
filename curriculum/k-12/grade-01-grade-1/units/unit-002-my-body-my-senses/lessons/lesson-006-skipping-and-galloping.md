@@ -87,7 +87,7 @@ Every body joins in its own way, with seated and adapted versions offered alongs
 All over the world, people move to music — dancing, skipping, and stepping in time.
 Skipping and galloping are two ways your body can travel while keeping a beat. They
 grow your balance and control, and they feel joyful — like a song your whole body
-sings.
+sings (S-069).
 
 ## Materials
 
@@ -144,3 +144,8 @@ with breathing differences.
 ## Home connection
 
 Teach someone at home to skip or gallop, and move to a beat together.
+
+## Resources
+
+- On regular movement as part of healthy growth for children: WHO — Physical activity
+  fact sheet (S-069).

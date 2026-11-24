@@ -62,7 +62,7 @@ assets:
 duration_minutes: 50
 summary: >-
   Learners explain that offspring of the same parents share family traits yet vary
-  from one another — variation is normal and real within every family. They observe
+  from one another — variation is normal and real within every family (S-177). They observe
   real variation in seeds or leaves and connect it to the idea that every living
   thing is a unique mix.
 cross_cutting_lenses:
@@ -171,9 +171,8 @@ differences matter, and why.
 
 ## Resources
 
-- Encyclopaedia Britannica, "Heredity" — including how offspring vary within a
-  family: <https://www.britannica.com/science/heredity-genetics>
-- Variation within families is standard elementary life science; see the National
-  Science Teaching Association's "Next Generation Science Standards" life-science
-  progression (heredity and variation of traits):
-  <https://www.nsta.org/>
+- On offspring of the same parents varying from one another, including polygenic traits
+  and the role of environment: Encyclopaedia Britannica — Heredity,
+  <https://www.britannica.com/science/heredity-genetics> (S-177).
+- On heredity and variation of traits as a standard life-science progression for these
+  grades: National Science Teaching Association, <https://www.nsta.org/> (S-179).

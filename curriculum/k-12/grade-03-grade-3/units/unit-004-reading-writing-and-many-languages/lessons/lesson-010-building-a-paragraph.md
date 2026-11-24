@@ -106,7 +106,7 @@ in every language, on every table.
 
 Building a paragraph is a foundational skill, so teach it explicitly with a worked
 example — model a complete three-part paragraph, then guide learners to build their own
-(Kirschner, Sweller & Clark, 2006). The structure to protect: topic sentence, at least
+(Kirschner, Sweller & Clark, 2006, S-011). The structure to protect: topic sentence, at least
 two supporting details, closing sentence. Learners write in their home language and
 their own writing system — script-agnostic, no Latin alphabet assumed. Details may be
 facts, examples, or small reasons; the closing may restate the idea or give a final
@@ -158,5 +158,7 @@ topic sentence, two details, and a closing, and read it to someone.
 
 ## Resources
 
-- CASEL SEL Framework (self-efficacy — completing a piece of work with a clear
-  structure): <https://casel.org/fundamentals-of-sel/>
+- On teaching a skill explicitly — model it, then guide practice — rather than leaving
+  learners to discover it: Kirschner, Sweller & Clark (2006) — Why Minimal Guidance During
+  Instruction Does Not Work (S-011).
+

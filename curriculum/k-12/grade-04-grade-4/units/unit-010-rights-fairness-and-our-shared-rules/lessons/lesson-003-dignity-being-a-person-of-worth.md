@@ -100,9 +100,9 @@ it is not earned, and it cannot be taken away, only denied. This deepens Grade 3
 Everyone wants to be seen as a person who **matters**. When someone greets you by your
 name, listens to what you say, and makes room for you, you feel your own **worth** —
 that is your **dignity** being honored. When someone ignores you, talks over you, or
-leaves you standing outside while others sit, you can feel your worth being pushed
-down — that is your dignity being **denied**. Dignity is not something you have to earn
-by being clever or strong or rich; every person is born with worth. People honor it
+leaves you standing outside while others sit, you can feel your worth being pushed down
+— that is your dignity being **denied**. Dignity is not something you have to earn by
+being clever or strong or rich; every person is born with worth (S-149). People honor it
 everywhere — a host offering a guest water and a seat, a class that saves a chair for
 the new child, a speaker who waits for the quiet person's answer. Today you will learn
 what dignity means and name a moment it was honored or denied.
@@ -189,8 +189,7 @@ listened to) and name it together: "that was someone's worth being seen."
 
 ## Resources
 
-- United Nations Convention on the Rights of the Child (child-friendly summary; every
-  child's worth and dignity): <https://www.unicef.org/child-rights-convention>
-- The idea that every person is born with dignity and worth is a shared value across
-  many traditions; it appears in the Universal Declaration of Human Rights and in the
-  moral teachings of cultures worldwide.
+- On every person being born free and equal in dignity and rights: Universal Declaration
+  of Human Rights, Article 1 (S-149).
+- On every child's worth and dignity, in child-friendly language: UN Convention on the
+  Rights of the Child (UNICEF child-friendly version) (S-060).

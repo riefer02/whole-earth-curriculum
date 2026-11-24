@@ -95,10 +95,10 @@ carried through on their own.
 ## Connection
 
 A piece of writing is finished when it is ready to meet its reader. Editing is the last
-tidying — making sure the words are spelled right, the sentences begin and end properly —
-so nothing distracts from the idea. Publishing is the moment of giving: your thinking
-leaves your hands and reaches another person. Every written thing you have ever loved was
-once edited and published, just like this.
+tidying — making sure the words are spelled right, the sentences begin and end properly
+— so nothing distracts from the idea. Publishing is the moment of giving: your thinking
+leaves your hands and reaches another person. Every written thing you have ever loved
+was once edited and published, just like this (S-102).
 
 ## Materials
 
@@ -114,8 +114,8 @@ once edited and published, just like this.
 ## Facilitator note
 
 Editing is a taught step: model it on a shared paragraph with a worked example —
-checking spelling, capitals, and end marks one by one (Kirschner, Sweller & Clark,
-2006). Remind learners of the difference: revision (last lesson) fixed the *ideas*;
+checking spelling, capitals, and end marks one by one (Kirschner, Sweller & Clark, 2006,
+S-011). Remind learners of the difference: revision (last lesson) fixed the *ideas*;
 editing fixes the *mechanics*. A spell checker or dictionary is a helper, not a
 replacement for the learner's own careful eye — and a tool cannot decide for the writer
 what to say. Honor editing in the learner's home language and writing system, and honor
@@ -167,7 +167,7 @@ and tell them about the journey it took from plan to published work.
 
 ## Resources
 
-- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during
-  instruction does not work. *Educational Psychologist*, 41(2), 75–86.
-- Graham, S., & Perin, D. (2007). *Writing Next* — explicit teaching of editing and the
-  writing process supports writing quality. (Widely used evidence base.)
+- On explicit teaching of the writing process, including editing and publishing: Graham
+  & Perin — Writing Next (S-102).
+- On worked examples and explicit instruction: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

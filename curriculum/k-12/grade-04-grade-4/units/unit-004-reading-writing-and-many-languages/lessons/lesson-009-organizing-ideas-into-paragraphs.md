@@ -87,11 +87,11 @@ wraps it up. They practice building a paragraph so a single idea is easy to foll
 
 ## Connection
 
-Think of a paragraph as a small house for one idea. The topic sentence is the front
-door — it tells you what is inside. The details are the rooms — they hold the idea up.
-The closing sentence is the back step — it lets you leave knowing what you saw. When
-each paragraph holds just one idea, in order, your reader walks through your thinking
-without getting lost. That is what makes writing clear.
+Think of a paragraph as a small house for one idea. The topic sentence is the front door
+— it tells you what is inside. The details are the rooms — they hold the idea up. The
+closing sentence is the back step — it lets you leave knowing what you saw. When each
+paragraph holds just one idea, in order, your reader walks through your thinking without
+getting lost. That is what makes writing clear (S-102).
 
 ## Materials
 
@@ -107,12 +107,12 @@ without getting lost. That is what makes writing clear.
 
 Paragraph structure is a foundational writing skill, so use explicit instruction and a
 worked example: name the three parts, show a model, then build one together before
-independent work (Kirschner, Sweller & Clark, 2006). Keep the three jobs clear — topic
-sentence (states the idea), details (support it), closing sentence (wraps it). This
-structure transfers across languages and writing systems, though the conventions may
-differ; honor the learner's home writing system. The goal is clarity for a reader, not a
-rigid formula — a learner who can explain why each part is there has the skill.
-Celebrate every attempt; writing is thinking made visible.
+independent work (Kirschner, Sweller & Clark, 2006, S-011; Graham & Perin, 2007, S-102).
+Keep the three jobs clear — topic sentence (states the idea), details (support it),
+closing sentence (wraps it). This structure transfers across languages and writing
+systems, though the conventions may differ; honor the learner's home writing system. The
+goal is clarity for a reader, not a rigid formula — a learner who can explain why each
+part is there has the skill. Celebrate every attempt; writing is thinking made visible.
 
 ## Procedure
 
@@ -154,7 +154,7 @@ and a closing sentence — and see if they can name the three parts.
 
 ## Resources
 
-- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during
-  instruction does not work. *Educational Psychologist*, 41(2), 75–86.
-- Graham, S., & Perin, D. (2007). *Writing Next* — explicit teaching of paragraph
-  structure supports writing quality. (Widely used evidence base.)
+- On explicit teaching of structure and the writing process: Graham & Perin — Writing
+  Next (S-102).
+- On worked examples and explicit instruction: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

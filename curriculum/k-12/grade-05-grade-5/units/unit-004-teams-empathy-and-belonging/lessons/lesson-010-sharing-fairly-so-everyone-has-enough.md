@@ -104,7 +104,8 @@ its reasons, and revisit the unit's skills: **kind feedback (S1)** and **checkin
 Six people, one jug of water, and different thirsts. One person just ran, another sat in
 the shade. "Same for each" might leave the runner still thirsty; "to each by need" gives
 the runner a little more and still leaves enough for all. **Fair does not always mean
-equal** — sometimes it means **each gets what they need so everyone has enough**. In a
+equal** — sometimes it means **each gets what they need so everyone has enough**
+(S-388). In a
 home, a classroom, or a village sharing a harvest, that is the question we solve together.
 
 ## Materials
@@ -142,7 +143,8 @@ unit's **fair-division record**. Keep it a game of care, never a ranking. See
    each. **Need-based shares:** more for greater need, less for less. Both can be fair —
    the goal is that **everyone has enough**. Think of the water jug: same for each, or a
    little more to the one who just ran?
-3. **Worked example (5 min).** Together, divide the jug of water among six characters:
+3. **Worked example (5 min).** Together, divide the jug of water (model first,
+   then teams divide; S-011) among six characters:
    a runner (very thirsty), a baby (small sips), four others (ordinary thirst). Discuss:
    equal, or by need? Decide, and check: does everyone have enough?
 4. **Role-play your division (15 min).** In your team, take your resource cards and your
@@ -177,7 +179,14 @@ everyone has enough, and say out loud which rule you used: equal, or by need.
 
 ## Resources
 
-- Cooperative learning and fair division have a strong research base (Slavin, *Cooperative
-  Learning*, 1995; Bloom's cooperative-learning effect, 1984). The "fair can mean equal or
-  by need" framing is a value held by this curriculum — a commitment, not a scientific
-  claim. For classroom SEL framing, see CASEL: <https://casel.org/fundamentals-of-sel/>
+- On equality, need-based sharing and desert-based principles as competing accounts of
+  what a fair distribution is: Stanford Encyclopedia of Philosophy — Distributive
+  Justice, <https://plato.stanford.edu/entries/justice-distributive/> (S-388).
+- On cooperative-learning structures that divide work fairly: Slavin — *Cooperative
+  Learning* (S-147), and Bloom (1984), *The 2 Sigma Problem*,
+  <https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem> (S-007).
+- On modelling one worked example before teams negotiate their own division:
+  Kirschner, Sweller & Clark (2006), <https://doi.org/10.1207/s15326985ep4102_1>
+  (S-011).
+- On relationship skills for negotiating kindly: CASEL,
+  <https://casel.org/fundamentals-of-sel/> (S-001).

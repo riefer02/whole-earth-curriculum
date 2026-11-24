@@ -85,8 +85,8 @@ last_updated: 2026-08-16
 ## Summary
 
 Learners measure length with standard units — **centimeters** and **inches** — and
-discover why a shared unit matters: one person's hand is not another's, but a
-centimeter is the same for everyone. They measure real objects and record each length.
+discover why a shared unit matters: one person's hand is not another's, but a centimeter
+is the same for everyone (S-027). They measure real objects and record each length.
 
 ## Objectives
 
@@ -171,6 +171,5 @@ each length in centimeters or inches.
 
 ## Resources
 
-- National Research Council. (2009). *Mathematics Learning in Early Childhood: Paths
-  Toward Excellence and Equity*. The National Academies Press. (Standard units and the
-  need for a shared measure.)
+- On standard units and the need for a shared measure: National Research Council
+  (2009) — Mathematics Learning in Early Childhood (S-027).

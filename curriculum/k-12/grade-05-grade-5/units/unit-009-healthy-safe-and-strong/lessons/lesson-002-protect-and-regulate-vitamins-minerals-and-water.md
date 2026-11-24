@@ -85,7 +85,7 @@ last_updated: 2026-08-17
 
 Learners meet the nutrients that **protect** and **regulate** the body: **vitamins** (a shield
 that protects against sickness and helps healing), **minerals** (calcium that builds bones and
-teeth, iron that carries oxygen in the blood), and **water** (the river that carries everything
+teeth, iron that carries oxygen in the blood) (S-193), and **water** (the river that carries everything
 and keeps the body cool). They match foods from many regions to these jobs and record what each
 nutrient does.
 
@@ -137,8 +137,8 @@ water as a shared fairness issue, never a family's failing. See `docs/facilitati
    mango, sweet potato, and dark leafy greens. **Minerals** build and regulate: **calcium**
    builds strong bones and teeth (in leafy greens, sesame, dairy, and fortified foods), and
    **iron** carries oxygen in your blood (in beans, lentils, and fish). **Water** is the river:
-   your body is more than half water, and water carries nutrients in, waste out, and keeps you
-   cool.
+   your body is more than half water, and water carries nutrients in, waste out, and keeps
+you cool (S-049).
 3. **Act the jobs (10 min).** In a group, act out the three jobs. One of you is a **shield**
    (arms up, guarding), one is a **builder** (stacking motions for bones), one is a **river**
    (flowing arms, carrying). Say each job aloud: protect, build, carry.
@@ -170,9 +170,8 @@ what each does for the body.
 
 ## Resources
 
-- Vitamins and minerals each have specific jobs — vitamin A for vision and immunity, vitamin C
-  for healing, calcium for bones, iron for carrying oxygen — and water makes up a large share of
-  the body and carries nutrients and waste. See the World Health Organization's micronutrient
-  fact sheets (<https://www.who.int/health-topics/micronutrients>) and its guidance on water as
-  essential to health. These describe what nutrients do — never a judgment about any body or
-  way of eating.
+- On vitamins and minerals and the specific jobs each does — vitamin A for vision and
+  immunity, vitamin C for healing, calcium for bones, iron for carrying oxygen: WHO —
+  Micronutrients, <https://www.who.int/health-topics/micronutrients> (S-193).
+- On safe drinking-water and why water is essential to health: WHO — Drinking-water
+  fact sheet, <https://www.who.int/news-room/fact-sheets/detail/drinking-water> (S-049).

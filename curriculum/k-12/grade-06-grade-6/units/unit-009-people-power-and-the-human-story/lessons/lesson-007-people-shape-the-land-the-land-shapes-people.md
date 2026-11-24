@@ -131,9 +131,9 @@ to survive." A quick retrieval note (the Nile) spirals back to Grade 5. See
    with steep slopes and thin, high-altitude air. People have lived there for thousands of
    years. The **environment shaped the people**: the steep, high land meant they grew hardy
    crops like potatoes and quinoa, raised llamas and alpacas (there were no large cattle),
-   built from stone, and traveled on foot along mountain roads. And the **people shaped the
+   built from stone, and traveled on foot along mountain roads (S-054). And the **people shaped the
    environment**: they carved **terraces** — flat steps — into the steep slopes to farm, and
-   dug **canals** to carry water to the fields.
+   dug **canals** to carry water to the fields (S-200).
 3. **Worked example: sort the two directions (10 min).** Sort together: "steep mountains
    meant people farmed in steps" — that is the **environment shaping people**. "People cut
    terraces into the slopes" — that is **people shaping the environment**. Notice the two
@@ -173,3 +173,6 @@ one way people have shaped that land — then share both.
   record. These are presented as Andean peoples' achievements, in line with the curriculum's
   commitment to honor non-European knowledge and skill. Dates are approximations that
   scholars revise as new evidence appears.
+- On the potato as a hardy Andean crop: International Potato Center (CIP) — Potato (S-054).
+- On Andean terrace agriculture at Machu Picchu: UNESCO World Heritage Centre — Historic Sanctuary of Machu Picchu (Dossier 274) (S-200).
+

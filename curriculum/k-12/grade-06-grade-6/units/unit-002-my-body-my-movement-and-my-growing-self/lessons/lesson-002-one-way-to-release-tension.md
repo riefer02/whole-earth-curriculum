@@ -100,7 +100,7 @@ even when the work is done? The body can forget to let go. There is a simple way
 again: **tighten on purpose, then release**. A potter squeezes clay and then opens her hands;
 a breath held and then let out is the same shape. **Squeeze-and-release** works the same way —
 by tightening a muscle fully, then letting it go, you remind your body what *soft* feels like,
-wherever you are.
+wherever you are (S-227).
 
 ## Materials
 
@@ -135,7 +135,7 @@ cultures release tension — not the only right one. See `docs/facilitation.md` 
    the same hand. First: a **tight fist**, shoulders up — *squeeze*. Second: an **open, soft
    hand**, shoulders down — *release*. Between them, a slow **breath out**. This is
    **squeeze-and-release**: breathe in, squeeze tight and hold for a few counts, then breathe
-   out slowly and let the muscle go completely soft. Tightening first makes the letting-go
+   out slowly and let the muscle go completely soft (S-340). Tightening first makes the letting-go
    easier to feel.
 3. **Learn the four steps (5 min).** Read your card: **① breathe in; ② squeeze tight; ③ hold
    for three slow counts; ④ breathe out and let go.** Try it once with your hands: make a
@@ -175,3 +175,6 @@ together once before bed.
   exist in many traditions (breath work, stretching, rest), and no single one is required;
   this lesson teaches one evidence-grounded, portable option. For classroom SEL framing, see
   CASEL's self-management competency: <https://casel.org/fundamentals-of-sel/>
+- On progressive muscle relaxation, tightening a muscle and then releasing it: Edmund Jacobson — Progressive Relaxation (S-227).
+- On slow breathing and the body's calming response: Harvard Health — Relaxation techniques: Breath control helps quell errant stress response (S-340).
+

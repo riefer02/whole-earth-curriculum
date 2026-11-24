@@ -88,7 +88,7 @@ holding both with equal respect.
 
 ## Connection
 
-All over the world, people mark the turn of a year. Some families welcome a new year
+All over the world, people mark the turn of a year (S-056). Some families welcome a new year
 with a shared meal and a red lantern; others mark it with a spring table of seven
 things that begin with the same sound. The foods and words differ — but in both,
 people gather with loved ones and hope for a good year. Comparing two celebrations
@@ -158,3 +158,8 @@ learner pass on sharing their own.
 
 With a grown-up, think of two different families or communities you know that mark
 the same kind of event. What do they do that is alike? What is different?
+
+## Resources
+
+- On celebrations and festivals as living cultural heritage, held with equal respect:
+  UNESCO — Intangible Cultural Heritage (S-056).

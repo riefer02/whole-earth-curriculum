@@ -88,7 +88,7 @@ last_updated: 2026-08-16
 Learners bring the unit's two halves together by **making a message that cares**. Each
 writes a "true-info care card": one true fact about saving water, energy, or litter, with
 **where they learned it**, a check that it is **true information and not selling**, and an
-**audience** to share it with. Making a message teaches the message — and sharing it makes
+**audience** to share it with (S-063). Making a message teaches the message — and sharing it makes
 care real.
 
 ## Objectives
@@ -195,11 +195,10 @@ the card. Motor difference: direct a partner's hands to write.
 ## Home connection
 
 Show your care card to a grown-up and share your true fact and its source. Ask the
-grown-up: what is one true fact about caring for the Earth that they would put on a card,
-and who would they share it with?
+grown-up: what is one true fact about caring for the Earth that they would put on a
+card, and who would they share it with?
 
 ## Resources
 
-- Common Sense Media (Common Sense Education), "News & Media Literacy" — creating honest
-  messages and knowing their source and audience, supporting the making-and-sharing work.
-  https://www.commonsense.org/education/digital-citizenship/topic/news-and-media-literacy
+- On naming a message's source and making an honest message for an audience: Common
+  Sense Education — News & Media Literacy (S-063).

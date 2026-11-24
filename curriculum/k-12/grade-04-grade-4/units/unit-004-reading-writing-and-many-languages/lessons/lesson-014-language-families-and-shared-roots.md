@@ -110,10 +110,10 @@ are cousins, and their shared words are the family stories carried down the ages
 
 **The facts to land.**
 1. Every language, related or not, is equal in worth — UNESCO holds that every language
-   is a bearer of dignity.
+   is a bearer of dignity (S-019).
 2. English *mother*, Spanish *madre*, French *mère*, German *Mutter*, and Hindi *mātā*
    descend from a reconstructed Proto-Indo-European root, **méh₂tēr** (Fortson,
-   *Indo-European Language and Culture*).
+   *Indo-European Language and Culture*, S-103).
 3. That root is a *reconstruction* linguists infer by comparing the descendant words — a
    scientific story, offered as such, not a revealed truth.
 4. Other families have their own shared roots: in the Bantu family, "person" is *muntu*
@@ -175,7 +175,7 @@ they know, and look for the ones that sound like cousins.
 
 ## Resources
 
-- Fortson, B. W. (2010). *Indo-European Language and Culture* (2nd ed.). Wiley-Blackwell.
-  (For the reconstruction of the Proto-Indo-European word for "mother.")
-- UNESCO, multilingual and mother-tongue-based education:
-  <https://www.unesco.org/en/days/mother-language>
+- On the reconstruction of the Proto-Indo-European word for "mother" and the
+  Indo-European family: Fortson — Indo-European Language and Culture (S-103).
+- On every language as a bearer of dignity, and mother-tongue-based education: UNESCO —
+  International Mother Language Day (S-019).

@@ -105,7 +105,7 @@ values (S1), rights and fairness (S2), government and collective action (S3), an
 
 Two people disagree about a game rule — that is a **conflict**, and it is normal and
 ordinary. One of them shoves or hurts the other to win — that is **violence**, and it
-harms. The difference is not in the disagreement itself but in **how it is handled**.
+harms (S-462). The difference is not in the disagreement itself but in **how it is handled**.
 Handled with respect, a disagreement can even be *good*: it surfaces real needs and
 leads to better, fairer solutions. Handled with force, it breaks trust and hurts people.
 
@@ -182,7 +182,11 @@ disagree without hurting anyone — then ask how they handle disagreements well.
 
 ## Resources
 
-- Restorative practice frames conflict as an opportunity to listen and repair rather
-  than to harm: International Institute for Restorative Practices, <https://www.iirp.edu/>
-- On spaced retrieval and interleaving as high-utility learning techniques: Dunlosky et
-  al. (2013), <https://doi.org/10.1177/1529100612453266>
+- On the distinction between conflict (a disagreement of interests) and violence, and
+  on peace as more than the absence of violence: Galtung (1969), *Journal of Peace
+  Research*, <https://doi.org/10.1177/002234336900600301> (S-462).
+- On responding to conflict by listening and repairing rather than harming:
+  International Institute for Restorative Practices (IIRP), <https://www.iirp.edu/>
+  (S-022).
+- On spaced retrieval as a way to gather a unit's strands into one reflection:
+  Dunlosky et al. (2013), <https://doi.org/10.1177/1529100612453266> (S-039).

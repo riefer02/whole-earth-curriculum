@@ -79,7 +79,7 @@ last_updated: 2026-08-16
 
 Learners name one thing they are still learning and place it on a growth ladder:
 **not yet**, **with help**, **on my own**. They discover that "not yet" is
-information, never a verdict — it simply says where the next step is. Everyone is
+information, never a verdict — it simply says where the next step is (S-096). Everyone is
 growing, and no one's pace is a measure of their worth.
 
 ## Objectives
@@ -152,5 +152,5 @@ still learning too.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness and growth mindset):
-  <https://casel.org/fundamentals-of-sel/>
+- On the growth mindset and "not yet": Dweck — Mindset: The New Psychology of Success
+  (S-096).

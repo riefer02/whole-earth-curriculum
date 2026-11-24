@@ -99,7 +99,7 @@ sack: none are exactly identical. Some are larger, some smaller; some darker, so
 some with a slightly different shape. And a calf resembles its mother and father more than it
 resembles a stranger's calf. These two plain facts — **things vary**, and **traits are passed
 from parents to offspring** — are the raw material for how life changes over time, in every
-field and village and ocean on Earth.
+field and village and ocean on Earth (S-303).
 
 ## Materials
 
@@ -182,3 +182,5 @@ that is inherited (resembling a parent) and one way individuals vary. Share what
   not a biological claim (`docs/philosophy.md` §5).
 - On explicit instruction for novice content: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On heritable variation as the raw material of evolution: Charles Darwin — On the Origin of Species (S-303).
+

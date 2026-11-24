@@ -86,7 +86,7 @@ Learners discover that a **motor skill** — throwing accurately or balancing �
 **repeated practice**. They meet a **worked example** of a throw improving over three tries,
 then practice a chosen skill themselves in short, repeated rounds, tallying attempts to watch
 their own skill refine. Because this is a *new skill*, the lesson uses **explicit steps and
-guided practice** before independent work (see `docs/philosophy.md` §13).
+guided practice** before independent work (see `docs/philosophy.md` §13) (S-011).
 
 ## Objectives
 
@@ -99,7 +99,7 @@ Think of the first time you tried to ride a bicycle, braid hair, or throw a ball
 clumsy, and then, try after try, it got smoother. **Practice is how a body learns**: each
 repeat builds the path in your brain and your muscles until the clumsy try becomes a steady
 skill. Whether the skill is throwing at a target, balancing on a line, carrying water, or
-kicking a ball, the rule is the same everywhere — **repetition refines**.
+kicking a ball, the rule is the same everywhere — **repetition refines** (S-069).
 
 ## Materials
 
@@ -173,3 +173,10 @@ watching it get steadier.
   examples and guided practice is more effective than discovery alone (Kirschner, Sweller &
   Clark, 2006). For children's movement, see the World Health Organization physical activity
   fact sheet: <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
+
+- On teaching a brand-new skill with explicit steps, a worked example, and guided
+  practice before independent work: Kirschner, Sweller & Clark (2006), *Educational
+  Psychologist*, <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- On physical activity promoting healthy growth and the development of muscle and
+  motor skills in children: WHO — Physical activity fact sheet,
+  <https://www.who.int/news-room/fact-sheets/detail/physical-activity> (S-069).

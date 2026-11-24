@@ -86,7 +86,7 @@ pattern by answering the big question: "what comes next?"
 ## Connection
 
 A weaver does not think about every single thread — she knows the pattern and keeps it
-going, over-under-over-under. A drummer keeps the beat going, and a dancer keeps the
+going (S-024), over-under-over-under. A drummer keeps the beat going, and a dancer keeps the
 steps going. When you know a pattern, you can keep it going and know what comes next.
 Today you will be the one who makes the pattern and keeps it alive.
 
@@ -159,6 +159,10 @@ while a partner lays each piece, or choose each next piece by eye-gaze or mouth 
   placing the correct next piece?
 - **Performance:** The learner's built pattern, checked for a clear repeat that they
   can say aloud.
+
+## Resources
+
+- On pattern in African weaving and beadwork: Zaslavsky (1999) — Africa Counts: Number and Pattern in African Cultures (S-024).
 
 ## Home connection
 

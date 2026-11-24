@@ -130,7 +130,7 @@ wondering continues.
    Then draw or write your question on a slip and drop it in. Passing is always okay.
 4. **Wonder about someday (10 min).** Pull out one question (yours or a friend's).
    Wonder about it together: what might the answer be? What could we watch or try to
-   find out? Some questions we cannot answer yet — and that is wonderful too.
+   find out? Some questions we cannot answer yet — and that is wonderful too (S-250).
 5. **Close (5 min).** Remember: wondering is good, questions are treasures, and this
    box will be here whenever you want to wonder again.
 
@@ -146,3 +146,7 @@ wondering continues.
 - **Formative (observation):** Does the learner offer a "why" or "how" question and an
   idea of their own, and speak of wondering as good?
 - **Self:** The learner reflects — "one question I am keeping" — as the unit closes.
+
+## Resources
+
+- On science as asking and testing questions: Understanding Science (UC Berkeley) — What is science? / bias (S-250).

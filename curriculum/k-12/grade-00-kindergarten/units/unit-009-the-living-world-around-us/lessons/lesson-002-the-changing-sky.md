@@ -86,7 +86,7 @@ look, and draw their own sky.
 Lie on your back and look up — the sky is never empty. In the day you might see the
 sun, and sometimes the moon too; at night you might see the moon and stars. In a
 bright city you may see fewer stars, but the moon still comes and goes. Wherever you
-live, the sky changes, and you can watch it.
+live, the sky changes, and you can watch it (S-021).
 
 ## Materials
 
@@ -114,7 +114,7 @@ day sky too — that is a real, wonderful thing to notice.
    you cannot see the cards, tell the sky aloud instead: "the sun warms my skin,"
    "the night is cool and full of sounds."
 3. **Moon watch (15 min).** The moon seems to change a little night after night —
-   sometimes round, sometimes thin, sometimes hiding. Draw the moon the way you
+   sometimes round, sometimes thin, sometimes hiding (S-182). Draw the moon the way you
    remember it. If you can, check the moon over the next few nights and see if it
    changed.
 4. **Draw your sky (10 min).** Draw the sky you saw most recently — day or night —
@@ -139,7 +139,8 @@ day sky too — that is a real, wonderful thing to notice.
 ## Resources
 
 - NASA Space Place (kid-friendly space and sky explanations):
-  <https://spaceplace.nasa.gov/>
+  <https://spaceplace.nasa.gov/> (S-021)
+- On the Moon's phases: NASA Space Place — What Are the Moon's Phases? (S-182).
 
 ## Home connection
 

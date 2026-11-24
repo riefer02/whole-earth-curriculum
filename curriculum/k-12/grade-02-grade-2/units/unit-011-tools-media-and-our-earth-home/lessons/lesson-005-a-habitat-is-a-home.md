@@ -86,7 +86,7 @@ last_updated: 2026-08-16
 ## Summary
 
 A **habitat** is a living thing's home — the place where it finds food, water, and
-shelter. Learners describe a habitat (a pond, a desert, a forest, a seashore, or a real
+shelter (S-044). Learners describe a habitat (a pond, a desert, a forest, a seashore, or a real
 patch of ground outside) and name one **plant** and one **animal** that live there and
 **why each suits it**: a reed grows in wet mud and a frog's wet skin suits the water; a
 cactus stores water and suits the dry desert. Homes differ all over the world, and each
@@ -196,6 +196,5 @@ that home.
 
 ## Resources
 
-- BBC Bitesize (KS1 Science), "What is a habitat?" — a place where living things find
-  food, water, and shelter, and where they are suited to live, with examples from many
-  places. https://www.bbc.co.uk/bitesize/topics/zx882hv
+- On habitats as the place a living thing finds food, water, and shelter: BBC Bitesize
+  (KS1) — Living things and their habitats (S-044).

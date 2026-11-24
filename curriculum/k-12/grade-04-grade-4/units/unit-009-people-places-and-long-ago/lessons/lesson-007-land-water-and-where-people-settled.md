@@ -104,8 +104,8 @@ settlement possible. The lesson shows that people and place are always connected
 Look at any map and you will see the land is not all the same: there are mountains,
 deserts, rivers, and seas. People do not settle just anywhere — they settle where the
 land and water give them what they need. A river brings water to drink and rich soil to
-farm; a coast brings fish and boats for trade. Reading a map is reading the answer to
-the question, "why did people make their home *here*?"
+farm (S-088); a coast brings fish and boats for trade. Reading a map is reading the
+answer to the question, "why did people make their home *here*?" (S-129).
 
 ## Materials
 
@@ -123,16 +123,16 @@ the question, "why did people make their home *here*?"
 ## Facilitator note
 
 **Map reading is a foundational skill, so model one settlement fully first** (Kirschner,
-Sweller & Clark, 2006): "The river — people settled here because the river gives fresh
-water to drink and fertile soil to farm, and boats can travel on it." Then guide the
-coast, mountains, and oasis. **Keep the framing global and egalitarian:** river valleys
-(the Nile, the Indus, the Tigris–Euphrates, the Yellow, the Niger), coasts and islands
-(Pacific and Indian Ocean peoples), mountain terraces (the Andes), and desert oases are
-all real, clever human answers — never "better" or "worse" places, and never "advanced"
-vs. "backward." Every place asks something of its people, and every people answers with
-knowledge. Honor every body: describe the map in words for a learner who cannot see it;
-a learner who does not use a speaking voice points or places a dot. If learners live
-near a landform or water body, anchor the lesson there first.
+Sweller & Clark, 2006, S-011): "The river — people settled here because the river gives
+fresh water to drink and fertile soil to farm, and boats can travel on it." Then guide
+the coast, mountains, and oasis. **Keep the framing global and egalitarian:** river
+valleys (the Nile, the Indus, the Tigris–Euphrates, the Yellow, the Niger), coasts and
+islands (Pacific and Indian Ocean peoples), mountain terraces (the Andes), and desert
+oases are all real, clever human answers — never "better" or "worse" places, and never
+"advanced" vs. "backward." Every place asks something of its people, and every people
+answers with knowledge. Honor every body: describe the map in words for a learner who
+cannot see it; a learner who does not use a speaking voice points or places a dot. If
+learners live near a landform or water body, anchor the lesson there first.
 
 ## Procedure
 
@@ -176,11 +176,12 @@ near a landform or water body, anchor the lesson there first.
 
 ## Resources
 
-- National Geographic Education, "River" — rivers provide drinking water, irrigation,
-  and transport, and their floodplains are fertile places people settle.
-  https://education.nationalgeographic.org/resource/river/
-- National Geographic Education, "Map" — what maps are and how they show land and water.
-  https://education.nationalgeographic.org/resource/map/
+- On maps — what they are and how they show land and water: National Geographic
+  Education — Map (S-129).
+- On rivers providing drinking water, irrigation, and transport, and their fertile
+  floodplains: National Geographic Education — River (S-088).
+- On modelling a map-reading task first: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

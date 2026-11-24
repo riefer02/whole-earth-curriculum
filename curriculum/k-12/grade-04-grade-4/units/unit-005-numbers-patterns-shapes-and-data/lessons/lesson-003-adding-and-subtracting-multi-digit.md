@@ -121,14 +121,15 @@ It builds on Grade 3's addition and subtraction within 1,000; the new stretch is
 **multi-digit regrouping** across more places. Teach the trade as a **worked example**
 (philosophy §13): model ten ones becoming one ten and ten tens becoming one hundred with
 real counters, then record the same trade in the written algorithm (Carpenter, Fennema,
-Franke, Levi & Empson, 2015; Van de Walle, Karp & Bay-Williams, 2019). Let learners
-explain their own strategies — there is more than one correct path, and explaining is
-the learning. **The number of steps a learner needs is not a measure of their worth; a
-sum is a fact about quantities, never about a person.** Regrouping is a feature of our
-base-ten system, one system among many (Ifrah, 2000); count in the home language. For
-learners who are Deaf or hard of hearing, sign each trade; for learners who are blind or
-have low vision, use a tactile chart and trade real counters by feel. Learners with
-limited movement direct a partner to move the counters. Mastery arrives at its own pace.
+Franke, Levi & Empson, 2015, S-025; Van de Walle, Karp & Bay-Williams, 2019, S-026). Let
+learners explain their own strategies — there is more than one correct path, and
+explaining is the learning. **The number of steps a learner needs is not a measure of
+their worth; a sum is a fact about quantities, never about a person.** Regrouping is a
+feature of our base-ten system, one system among many (Ifrah, 2000, S-023); count in the
+home language. For learners who are Deaf or hard of hearing, sign each trade; for
+learners who are blind or have low vision, use a tactile chart and trade real counters
+by feel. Learners with limited movement direct a partner to move the counters. Mastery
+arrives at its own pace.
 
 ## Procedure
 
@@ -174,12 +175,11 @@ subtract one from the other. Tell a grown-up where you traded and why.
 
 ## Resources
 
-- Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (2015).
-  *Children's Mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann.
-  (Children's own joining/separating strategies as the base for addition and
-  subtraction.)
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson.
-  (Connecting concrete trading to the standard algorithm.)
-- Ifrah, G. (2000). *The Universal History of Numbers*. John Wiley & Sons. (Base-ten
-  as one number system among many.)
+- On children's own joining and separating strategies as the base for addition and
+  subtraction: Carpenter, Fennema, Franke, Levi & Empson — Children's Mathematics:
+  Cognitively Guided Instruction (S-025).
+- On connecting concrete trading to the standard algorithm: Van de Walle, Karp &
+  Bay-Williams — Elementary and Middle School Mathematics: Teaching Developmentally
+  (S-026).
+- On base-ten as one number system among many: Ifrah — The Universal History of Numbers
+  (S-023).

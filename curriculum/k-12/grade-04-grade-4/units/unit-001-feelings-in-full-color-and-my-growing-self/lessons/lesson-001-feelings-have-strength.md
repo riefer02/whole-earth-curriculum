@@ -99,9 +99,9 @@ next.
 Two children can both feel *nervous*, but not the same amount. One feels a **little**
 nervous before a spelling quiz — a tiny flutter. The other feels **a lot** nervous
 before speaking in front of the whole school — a racing heart and shaky hands. Same
-feeling, different strength. In a mountain village, a child feels a **little** worried
-when clouds gather, and **a lot** worried when the river rises. Everywhere in the
-world, feelings come in sizes. Knowing the size helps you know what kind of help you
+feeling, different strength (S-402). In a mountain village, a child feels a **little**
+worried when clouds gather, and **a lot** worried when the river rises. Everywhere in
+the world, feelings come in sizes. Knowing the size helps you know what kind of help you
 might need — and that is a skill you can practice your whole life.
 
 ## Materials
@@ -170,5 +170,7 @@ some, or a lot — and share one of yours.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On self-awareness as a core social-emotional competency: CASEL — Fundamentals of
+  Social and Emotional Learning (S-001).
+- On the same feeling varying in strength, from mild to intense: Plutchik — Emotion: A
+  Psychoevolutionary Synthesis (S-402).

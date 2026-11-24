@@ -162,7 +162,7 @@ Non-speaking: point from the tap to the plant to show they are connected.
 5. **Draw the two-part care (10 min).** Draw the two acts side by side — the tap
    turned off, and the plant watered with just enough — with one line joining them.
 6. **Close (5 min).** Wasting less and caring for living things are one care for one
-   home. When we save water, we save it *for* the living things we love. What will
+   home (S-004). When we save water, we save it *for* the living things we love. What will
    you do with your saved water tomorrow?
 
 ## Differentiation
@@ -189,10 +189,9 @@ Non-speaking: point from the tap to the plant to show they are connected.
 
 ## Resources
 
-- UNESCO — Education for Sustainable Development
-  (https://www.unesco.org/en/sustainable-development/education): a general frame for
-  the idea that caring for the Earth and for other people is learned as a single,
-  everyday practice.
+- On caring for the environment and for other people as one learned, everyday
+  practice: UNESCO — Education for Sustainable Development (S-004).
+- On using less and reusing what we have: U.S. EPA — Reduce, Reuse, Recycle (S-154).
 
 ## Home connection
 

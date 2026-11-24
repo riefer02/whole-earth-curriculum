@@ -94,12 +94,12 @@ need oxygen, and the faster heart pumps more blood to carry both to the muscles.
 
 ## Connection
 
-Think of the last time you ran hard to catch up with a friend, chased a ball, or
-helped carry water home. Your heart was pounding. That is not a problem — it is your
-body's engine revving. When muscles work hard, they ask for more fuel and more oxygen,
-and your heart answers by pumping faster. A runner in a mountain village, a child
-playing football in a city street, a farmer working a field — every working body's
-heart speeds up, then slows again when the work stops.
+Think of the last time you ran hard to catch up with a friend, chased a ball, or helped
+carry water home. Your heart was pounding. That is not a problem — it is your body's
+engine revving. When muscles work hard, they ask for more fuel and more oxygen, and your
+heart answers by pumping faster (S-098). A runner in a mountain village, a child playing
+football in a city street, a farmer working a field — every working body's heart speeds
+up, then slows again when the work stops.
 
 ## Materials
 
@@ -118,11 +118,11 @@ heart speeds up, then slows again when the work stops.
 Run the worked example first: model counting at rest, moving, and counting again, then
 let learners do it. Keep the movement burst inclusive — marching in place, arm circles,
 or seated stomping all raise the heartbeat; a wheelchair user can wheel or press arms.
-Remind learners that a fast heartbeat is healthy and expected, not scary, and that every
-body's number is different — there is no "best" count and no ranking. If a learner
-cannot find a pulse, the hand-over-chest method works, or they can describe the feeling
-("thumping fast"). This lesson carries retrieval practice from Lesson 1 (finding the
-pulse) and adds the "why" the standard asks for.
+Remind learners that a fast heartbeat from activity is healthy and expected, not scary
+(S-069), and that every body's number is different — there is no "best" count and no
+ranking. If a learner cannot find a pulse, the hand-over-chest method works, or they can
+describe the feeling ("thumping fast"). This lesson carries retrieval practice from
+Lesson 1 (finding the pulse) and adds the "why" the standard asks for.
 
 ## Procedure
 
@@ -154,10 +154,10 @@ pulse) and adds the "why" the standard asks for.
 
 ## Resources
 
-- Nemours KidsHealth — the heart and circulatory system:
-  <https://kidshealth.org/en/kids/heart.html>
-- World Health Organization — physical activity fact sheet:
-  <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
+- On the heart pumping harder to carry oxygen-rich blood to working muscles: Nemours
+  KidsHealth — heart, lungs, sweat, and muscles (S-098).
+- On regular physical activity as healthy for children: WHO — Physical activity fact
+  sheet (S-069).
 
 ## Home connection
 

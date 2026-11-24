@@ -102,7 +102,7 @@ that. Stir in spoonful after spoonful, day after day, and you are asking a lot o
 That is what **"too much, over time"** means: not one treat or one salty meal, but a **pattern**
 kept up for months and years. Too much **added sugar**, over time, can rot **teeth** and send
 your energy **spiking up and crashing down**. Too much **salt**, over time, can **strain the
-heart and blood vessels**. Too much **saturated fat**, over time, can **build up inside blood
+heart and blood vessels** (S-038). Too much **saturated fat**, over time, can **build up inside blood
 vessels**. Notice every one of these is about the **inside** of the body — never about how a
 body looks. Bodies come in every size and shape, and every one of them deserves respect.
 
@@ -174,10 +174,7 @@ when there is too much, over time — and say it the kind way, about the inside 
 
 ## Resources
 
-- Repeatedly consuming too much added sugar is linked to tooth decay and, over time, to spikes
-  and crashes in energy; too much salt (sodium) over time can raise blood pressure and strain
-  the heart; and too much saturated fat over time is linked to build-up in blood vessels. See
-  the World Health Organization "Healthy diet" fact sheet
-  (<https://www.who.int/news-room/fact-sheets/detail/healthy-diet>), which advises limiting free
-  sugars, salt, and saturated fat — as evidence about the body's systems, never as a judgment
-  about any body's size or shape.
+- On the advice to limit free sugars, salt (sodium) and saturated fat over time — evidence
+  about the body's systems, never a judgment about a body's size or shape: WHO — Healthy
+  diet fact sheet, <https://www.who.int/news-room/fact-sheets/detail/healthy-diet>
+  (S-038).

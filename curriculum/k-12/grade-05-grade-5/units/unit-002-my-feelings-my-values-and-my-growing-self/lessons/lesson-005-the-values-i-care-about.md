@@ -83,7 +83,8 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners learn what a **value** is — something a person cares about that guides their
-choices — and meet three core values: **fairness**, **honesty**, and **kindness**. They
+choices (S-001) — and meet three core values: **fairness**, **honesty**, and
+**kindness**. They
 sort illustrated value cards, match short stories to the value each one shows, name the
 values they care most about, and begin a **"my values" page** they will finish next
 lesson with a real example of living by one.
@@ -170,3 +171,7 @@ yours.
 - Values education is a core part of social-emotional learning; see CASEL's
   self-awareness and social-awareness competencies:
   <https://casel.org/fundamentals-of-sel/>
+
+- On values as part of social and emotional learning, and on responsible
+  decision-making as one of its competencies: CASEL,
+  <https://casel.org/fundamentals-of-sel/> (S-001).

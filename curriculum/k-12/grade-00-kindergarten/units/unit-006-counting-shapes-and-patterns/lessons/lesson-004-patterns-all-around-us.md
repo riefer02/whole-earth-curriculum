@@ -86,7 +86,7 @@ and that finding patterns is a way of seeing.
 Patterns are everywhere you look and listen. A striped cloth repeats red-blue-red-blue.
 A woven basket crosses over-under-over-under. Music repeats a beat, and your footsteps
 fall left-right-left-right. People in every land make patterns — in woven cloth, in
-baskets, in songs and dances — because a pattern is simply something that happens
+baskets, in songs and dances (S-024) — because a pattern is simply something that happens
 again and again. Today you will hunt for them.
 
 ## Materials
@@ -157,6 +157,10 @@ points or traces.
 
 - **Formative (observation):** Can the learner point to a repeating pattern and name
   what repeats (color, shape, or sound)?
+
+## Resources
+
+- On pattern in African weaving and beadwork: Zaslavsky (1999) — Africa Counts: Number and Pattern in African Cultures (S-024).
 
 ## Home connection
 

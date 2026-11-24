@@ -93,7 +93,7 @@ Imagine you are walking a path you know and suddenly you are in a place you do n
 recognize. You do not keep walking — you stop, look around, and find the way. Reading
 is the same. When the words stop making sense, a good reader does not just push on;
 they stop, go back, and fix it. Meaning is the path, and self-correcting is how you
-stay on it.
+stay on it (S-040, S-172).
 
 ## Materials
 
@@ -162,8 +162,10 @@ make sense?" If not, stop and fix it — and tell someone how you caught it.
 
 ## Resources
 
-- National Reading Panel (2000), report on reading comprehension — monitoring and
-  self-correction are core comprehension strategies. (Cited as a widely used evidence
-  base.)
-- CASEL SEL Framework (self-management — noticing and correcting one's own work):
-  <https://casel.org/fundamentals-of-sel/>
+- On explicit reading instruction and the evidence base for comprehension strategies:
+  National Reading Panel (2000) — Teaching Children to Read: An Evidence-Based Assessment
+  (S-040).
+- On comprehension practices — asking questions, monitoring meaning, text structure: Nell
+  K. Duke & P. David Pearson (2002) — Effective Practices for Developing Reading
+  Comprehension (S-172).
+

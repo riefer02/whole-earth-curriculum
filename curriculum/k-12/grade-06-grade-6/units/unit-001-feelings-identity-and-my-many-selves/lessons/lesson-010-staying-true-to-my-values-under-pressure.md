@@ -112,7 +112,7 @@ group does even though something in you says no (**peer pressure**). The questio
 "Am I weak for feeling it?" — everyone feels it. The question is "**What will I do?**"
 Your **values** — honesty, kindness, fairness, the beliefs and people you hold dear — are
 your anchor. When pressure pushes, the anchor is not willpower alone; it is pausing long
-enough to remember what you stand for, then choosing the act you can stand behind.
+enough to remember what you stand for, then choosing the act you can stand behind (S-224).
 
 ## Materials
 
@@ -198,3 +198,5 @@ choose, and notice how the day goes. Share what you chose with someone you trust
   values connect to CASEL's self-management and responsible-decision-making competencies;
   the "pause" step echoes impulse-control research (Mischel's delay of gratification and
   its replications). See: <https://casel.org/fundamentals-of-sel/>
+- On pausing before acting on an impulse: Walter Mischel, Yuichi Shoda & Monica L. Rodriguez — Delay of Gratification in Children (S-224).
+

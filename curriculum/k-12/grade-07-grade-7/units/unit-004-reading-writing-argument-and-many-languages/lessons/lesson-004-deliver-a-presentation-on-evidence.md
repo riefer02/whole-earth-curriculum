@@ -97,7 +97,7 @@ revises one point after feedback.
 
 ## Connection
 
-Speaking to be understood is the mirror of listening carefully. The same chain you have
+Speaking to be understood is the mirror of listening carefully (S-238). The same chain you have
 been checking in others — claim, reason, evidence — is now yours to build. You already
 adapt without thinking: you explain a rule one way to a small child and another way to a
 grandparent. A presentation just makes that adaptation deliberate: *who* am I speaking
@@ -180,3 +180,5 @@ then the way you would tell a much younger child — and notice how you adapted 
   <https://casel.org/fundamentals-of-sel/>
 - On modeling before practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On accountable talk and speaking so others can follow your reasoning: Sarah Michaels & Cathy O'Connor — Accountable Talk / Talk Moves (S-238).
+

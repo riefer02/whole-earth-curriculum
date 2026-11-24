@@ -92,7 +92,7 @@ see.
 Most of us look quickly and miss a lot. When you slow down and look closely — at a
 leaf, a hand, a shadow — you notice things you never noticed before. "Looking closely"
 can also mean touching, smelling, and listening closely. Noticing carefully is how
-good questions are born.
+good questions are born (S-041).
 
 ## Materials
 
@@ -142,6 +142,10 @@ return it where it was found.
 - **Formative (observation):** Can the learner name a detail they did not see at first
   and ask a question about it?
 - **Artifact (portfolio):** The "close looking" drawing.
+
+## Resources
+
+- On observing and recording like a scientist: BBC Bitesize (KS1) — Working scientifically (S-041).
 
 ## Home connection
 

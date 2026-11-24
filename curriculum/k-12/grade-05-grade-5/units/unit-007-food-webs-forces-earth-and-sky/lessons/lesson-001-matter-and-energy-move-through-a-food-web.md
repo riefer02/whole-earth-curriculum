@@ -87,9 +87,9 @@ last_updated: 2026-08-17
 
 Learners follow matter and energy as they travel from the **Sun** into **producers**
 (plants and algae), through **consumers** (animals that eat), and back into the soil
-through **decomposers**. They learn the one rule every arrow in a food web follows —
-**the arrow points from the eaten to the eater**, because that is the direction the
-energy moves — and they build a small web of their own.
+through **decomposers** (S-073). They learn the one rule every arrow in a food web follows —
+**the arrow points from the eaten to the eater** (S-072), because that is the
+direction the energy moves — and they build a small web of their own.
 
 ## Objectives
 
@@ -175,8 +175,12 @@ food.
 
 ## Resources
 
-- BBC Bitesize (KS2), "What is a food chain?" — producers, consumers, and how energy
-  flows along a chain that joins into a web:
-  <https://www.bbc.co.uk/bitesize/topics/zcyycdm/articles/zww9r2p>
-- BBC Bitesize (KS2), "What is a microorganism?" — decomposers returning nutrients to
-  the soil: <https://www.bbc.co.uk/bitesize/topics/z6wwxnb/articles/zsgtrwx>
+- On producers, consumers, and how energy flows along a food chain that joins into a
+  web: BBC Bitesize (KS2) — What is a food chain?,
+  <https://www.bbc.co.uk/bitesize/topics/zcyycdm/articles/zww9r2p> (S-072).
+- On microorganisms as decomposers that break down dead matter and return nutrients
+  to the soil: BBC Bitesize (KS2) — What is a microorganism?,
+  <https://www.bbc.co.uk/bitesize/topics/z6wwxnb/articles/zsgtrwx> (S-073).
+- On ecosystems as communities of living things interacting with each other and their
+  surroundings: BBC Bitesize (KS2) — How do ecosystems work?,
+  <https://www.bbc.co.uk/bitesize/topics/z6wwxnb/articles/zbd4g7h> (S-107).

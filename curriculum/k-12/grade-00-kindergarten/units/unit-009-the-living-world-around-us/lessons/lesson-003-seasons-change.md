@@ -115,7 +115,7 @@ calendar.
    shoot. Not every picture fits your place — and that is fine.
 4. **Draw your year (10 min).** Fold your paper in half. Draw your place at one time
    of the year on one side, and at a different time of the year on the other.
-5. **Close (5 min).** Every place changes through the year in its own way. Your
+5. **Close (5 min).** Every place changes through the year in its own way (S-030). Your
    place's way is worth watching.
 
 ## Differentiation
@@ -130,6 +130,10 @@ calendar.
 - **Formative (observation):** Can the learner name one way their own place changes
   through the year?
 - **Artifact (portfolio):** The "two times of year" drawing.
+
+## Resources
+
+- On the seasons: NASA Space Place — What Causes the Seasons? (S-030).
 
 ## Home connection
 

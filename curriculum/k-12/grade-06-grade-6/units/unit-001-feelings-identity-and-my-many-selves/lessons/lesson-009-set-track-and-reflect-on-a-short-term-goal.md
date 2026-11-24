@@ -99,7 +99,7 @@ Think of anything you have learned to do — riding a bicycle, cooking a dish, h
 note, clearing a level in a game. Almost nobody learned it in one leap. They set a small
 goal ("ride to the end of the street," "make the rice without burning it"), practiced a
 little each day, and noticed what worked. A **wish** is "someday I'll get better." A
-**goal** is specific, small, and checkable: *what*, *how much*, *by when*. The people who
+**goal** is specific, small, and checkable: *what*, *how much*, *by when* (S-223). The people who
 reach things do not wish harder — they set a goal and track it. That works in a city, on
 a farm, or anywhere there is something you want to grow.
 
@@ -172,3 +172,5 @@ today's step go?" — a gentle check that helps you keep tracking.
   goals with feedback improve performance; mastery orientation (Dweck) frames a missed
   goal as information, not failure. For classroom framing, see CASEL's self-management
   competency: <https://casel.org/fundamentals-of-sel/>
+- On specific, challenging goals with feedback improving performance: Edwin A. Locke & Gary P. Latham — A Theory of Goal Setting and Task Performance (S-223).
+

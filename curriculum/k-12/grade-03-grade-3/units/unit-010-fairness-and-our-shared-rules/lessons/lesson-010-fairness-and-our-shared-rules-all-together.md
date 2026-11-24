@@ -128,7 +128,7 @@ reasons for and against, remembering that the same act can be good or not depend
 the situation, meeting needs before wants, noticing who is left out and changing it,
 proposing a rule with a reason, hearing every voice, and going from conflict to calm
 talk to repair. When you put them together, you are practicing how to live fairly with
-other people — at home, in class, and anywhere on Earth people are together. Today you
+other people — at home, in class, and anywhere on Earth people are together (S-001, S-060). Today you
 will put them all together.
 
 ## Materials
@@ -198,7 +198,9 @@ fairness means to them, and listen.
 
 ## Resources
 
-- CASEL SEL Framework (responsible decision-making, social awareness, relationship
-  skills): <https://casel.org/fundamentals-of-sel/>
-- United Nations Convention on the Rights of the Child (child-friendly summary):
-  <https://www.unicef.org/child-rights-convention>
+- On responsible decision-making and social awareness — weighing choices and their
+  consequences, and hearing others' points of view: CASEL — Fundamentals of Social and
+  Emotional Learning (S-001).
+- On the rights every child holds, including to food, water, health, education and a say:
+  UN Convention on the Rights of the Child (UNICEF, child-friendly) (S-060).
+

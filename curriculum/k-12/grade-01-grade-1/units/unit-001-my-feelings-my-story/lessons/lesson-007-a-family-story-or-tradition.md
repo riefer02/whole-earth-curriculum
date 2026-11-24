@@ -90,7 +90,7 @@ Every family carries stories and traditions — ways of celebrating, eating, gre
 or remembering that get passed down like treasures. A tradition might be a special
 meal, a song at bedtime, or a story your grandparent tells. These things belong to
 *your* family, and they are part of what makes you, you. People everywhere keep
-traditions, and each one is different.
+traditions, and each one is different (S-056).
 
 ## Materials
 
@@ -145,3 +145,8 @@ sharing warm and non-competitive; there is no ranking of traditions.
 
 Ask someone at home to tell you the story of a family tradition — where it came from
 — and share what you learned next time.
+
+## Resources
+
+- On traditions passed down within families and communities as living heritage:
+  UNESCO — Intangible Cultural Heritage (S-056).

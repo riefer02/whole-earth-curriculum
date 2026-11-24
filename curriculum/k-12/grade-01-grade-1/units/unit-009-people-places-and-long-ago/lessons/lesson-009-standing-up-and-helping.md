@@ -133,7 +133,7 @@ clearly and describe the two steps aloud.
    the "help" card or act it out.
 5. **Retell the arc (5 min).** Tell the two steps in order: "First someone noticed
    it was unfair. Then someone helped." Say it, act it, or show it with the cards.
-6. **Close (5 min).** Noticing and helping are two parts of one brave act. You can do
+6. **Close (5 min).** Noticing and helping are two parts of one brave act (S-001). You can do
    both — and that is how a child makes the world fairer and kinder.
 
 ## Differentiation
@@ -162,3 +162,11 @@ clearly and describe the two steps aloud.
 
 With a grown-up, make up a tiny story together where someone is treated unfairly and
 someone else notices and helps. What are the two steps?
+
+## Resources
+
+- On social awareness and responsible decision-making as the basis for standing up
+  for others, for classroom framing: CASEL — Fundamentals of Social and Emotional
+  Learning (S-001).
+- On empathic concern as a motive for helping: Batson — Empathic Concern vs Personal
+  Distress (S-230).

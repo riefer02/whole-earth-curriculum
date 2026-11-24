@@ -121,7 +121,7 @@ a market stall folding boxes in Cairo to a cooper measuring staves for a barrel.
 
 1. A **net** is a three-dimensional shape unfolded into flat **faces**.
 2. **Surface area** is the total area of all faces — for a rectangular prism, six faces
-   in three matching pairs.
+   in three matching pairs (S-026).
 3. The formula **2(lw) + 2(lh) + 2(wh)** is fast counting of those six faces.
 
 **Don't overshoot.** Do not accept a total that counts a face twice or misses one. The
@@ -183,3 +183,5 @@ someone the net.
   and Middle School Mathematics* (10th ed., 2019). The note that unfolding and folding (nets) appear in
   packaging and craft traditions worldwide is a general observation; the value that measuring honestly
   saves materials is an environmental and egalitarian commitment (`docs/philosophy.md` §4).
+- On nets and surface area of three-dimensional shapes: John A. Van de Walle, Karen S. Karp & Jennifer M. Bay-Williams — Elementary and Middle School Mathematics: Teaching Developmentally (S-026).
+

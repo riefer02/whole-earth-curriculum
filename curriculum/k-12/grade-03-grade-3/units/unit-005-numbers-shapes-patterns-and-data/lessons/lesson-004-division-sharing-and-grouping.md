@@ -123,7 +123,7 @@ a fair share.
 **The facts to land.**
 1. Division has two everyday meanings: **sharing** (a whole split into a known number of
    groups) and **grouping** (split into groups of a known size) (Carpenter et al.,
-   2015).
+   2015, S-025).
 2. Division and multiplication are one fact seen two ways: 3 × 4 = 12 and 12 ÷ 3 = 4.
 3. An "unfair share" is not division — the shares must be equal.
 
@@ -189,6 +189,7 @@ person got.
 
 ## Resources
 
-- Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (2015).
-  *Children's Mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann.
-  (Sharing and grouping as the two foundational meanings of division.)
+- On children's own informal strategies as the foundation of multiplication, division and
+  word problems: Carpenter, Fennema, Franke, Levi & Empson (2015) — Children's
+  Mathematics: Cognitively Guided Instruction (S-025).
+

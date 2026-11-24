@@ -104,7 +104,7 @@ firewood. But look closer: both people cook food, fetch water, shelter their fam
 care for their children, and gather to celebrate. Every human community, everywhere,
 solves the same needs — food, water, shelter, care, learning, belonging — in its own
 way, shaped by its place and its tools and its story. Comparing them honestly, without
-saying one is "better," is how we come to understand the whole human family.
+saying one is "better," is how we come to understand the whole human family (S-053).
 
 ## Materials
 
@@ -130,7 +130,7 @@ places speak first if present. Cite that anthropologists describe cultures from 
 not from above; we follow that same humility. The same-needs anchor keeps the comparison
 fair: every community meets the same human needs, differently. Read the procedure aloud;
 model one "alike" and one "different" row before learners fill their own (Kirschner,
-Sweller & Clark, 2006).
+Sweller & Clark, 2006, S-011).
 
 ## Procedure
 
@@ -170,5 +170,8 @@ alike and one thing different between that place and where you live now.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On children's daily lives — food, home, school, play — compared across many countries:
+  Barnabas Kindersley & Anabel Kindersley — Children Just Like Me (S-053).
+- On modeling a skill before learners try it: Kirschner, Sweller & Clark (2006) — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
+

@@ -125,7 +125,7 @@ meaning.
 1. A two-step problem is decomposed into a first step and a then-step, with the right
    operation for each.
 2. Children make sense of word problems by acting them out and drawing them, long
-   before symbols (Carpenter et al., 2015).
+   before symbols (Carpenter et al., 2015, S-025).
 3. Stories from many real lives — market, farm, sea, kitchen, bus — keep one world
    from becoming the default.
 
@@ -186,6 +186,7 @@ At home, make up a two-step story from your day ("we had 10 cups, used 3, washed
 
 ## Resources
 
-- Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (2015).
-  *Children's Mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann.
-  (Children solving word problems by acting out and drawing before writing symbols.)
+- On children's own informal strategies as the foundation of multiplication, division and
+  word problems: Carpenter, Fennema, Franke, Levi & Empson (2015) — Children's
+  Mathematics: Cognitively Guided Instruction (S-025).
+

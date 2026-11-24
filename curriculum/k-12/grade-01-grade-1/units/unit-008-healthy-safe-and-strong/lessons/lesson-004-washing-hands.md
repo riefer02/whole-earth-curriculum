@@ -94,7 +94,7 @@ for everyone. Care is never a test.
 
 Your hands touch everything: a door, a pet, the ground, a friend's hand, your food.
 Washing your hands is one of the simplest, most powerful ways to keep yourself and the
-people around you healthy. Whether you wash at a sink, a tap, a bucket, a pour jug, or
+people around you healthy (S-016). Whether you wash at a sink, a tap, a bucket, a pour jug, or
 a stream, the trick is the same: water, soap, and a good scrub. Today you will practice
 doing it all by yourself.
 
@@ -193,5 +193,5 @@ the steps, and notice one way to save water while you wash.
 
 ## Resources
 
-- World Health Organization, "Hand hygiene" (why and how to clean hands):
-  <https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene>
+- On cleaning hands with soap and water to remove the germs that cause sickness:
+  WHO — Hand hygiene (S-016).

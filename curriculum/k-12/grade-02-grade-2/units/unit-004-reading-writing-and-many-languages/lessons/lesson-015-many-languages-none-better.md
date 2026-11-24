@@ -89,10 +89,10 @@ last_updated: 2026-08-16
 
 ## Summary
 
-Learners close the unit with a multilingual festival: they share greetings and
-treasures in many languages and come to see clearly that people speak many
-languages and that no language is better than another. This is the unit capstone —
-a celebration of everything learned about reading, writing, and many languages.
+Learners close the unit with a multilingual festival: they share greetings and treasures
+in many languages and come to see clearly that people speak many languages and that no
+language is better than another (S-019). This is the unit capstone — a celebration of
+everything learned about reading, writing, and many languages.
 
 ## Objectives
 
@@ -173,7 +173,5 @@ big idea: many languages, none better.
 
 ## Resources
 
-- UNESCO, multilingual and mother-tongue-based education:
-  <https://www.unesco.org/en/days/mother-language>
-- CASEL SEL Framework (social awareness and relationship skills):
-  <https://casel.org/fundamentals-of-sel/>
+- On multilingualism as a strength and no language ranked above another: UNESCO —
+  International Mother Language Day (S-019).

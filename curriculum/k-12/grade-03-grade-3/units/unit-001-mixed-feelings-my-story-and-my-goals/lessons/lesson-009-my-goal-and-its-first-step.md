@@ -94,8 +94,8 @@ doable* — the seed of the planning skills later grades grow.
 
 Think of something you want to learn or do that you cannot do *yet* — tie a knot, read a
 whole chapter, swim across the pool, be kind to a new classmate, learn a song. That is a
-**goal**. A goal is not reached all at once; it is climbed like a staircase, one step at
-a time. The **first step** is the smallest thing you can do today. A fisher learns to
+**goal** (S-399). A goal is not reached all at once; it is climbed like a staircase, one step at
+a time. The **first step** is the smallest thing you can do today (S-223). A fisher learns to
 mend nets one knot at a time; a runner trains one lap at a time. Everyone, everywhere,
 reaches goals the same way: first step first.
 
@@ -160,5 +160,7 @@ Share your goal and first step with someone at home, and try the first step toda
 
 ## Resources
 
-- CASEL SEL Framework (self-management competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On imagining the self you hope to become: Hazel Markus & Paula Nurius (1986) — Possible
+  Selves (S-399).
+- On specific, doable goals and feedback rather than vague good intentions: Edwin A. Locke
+  & Gary P. Latham — A Theory of Goal Setting & Task Performance (S-223).

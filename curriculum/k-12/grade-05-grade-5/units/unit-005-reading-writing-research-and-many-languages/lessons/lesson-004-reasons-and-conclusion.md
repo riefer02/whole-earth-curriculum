@@ -82,7 +82,7 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners complete their short presentation by adding **supporting reasons** and a
-**conclusion** to the main idea they built in Lesson 3. Using a "**presentation sandwich**" —
+**conclusion** (S-173) to the main idea they built in Lesson 3. Using a "**presentation sandwich**" —
 main idea on top, reasons in the middle, conclusion at the bottom — they assemble and deliver
 a complete short talk to a small audience.
 
@@ -95,7 +95,7 @@ a complete short talk to a small audience.
 
 "You should try growing your own beans." Why? Without reasons, that sentence floats. "You
 should try growing your own beans — they're cheap to plant, they don't need much space, and
-they taste better fresh." Now the idea has feet. And a good speaker ends by landing it: "So
+they taste better fresh." Now the idea has feet (S-236). And a good speaker ends by landing it: "So
 if you have a pot and a patch of sun, give beans a try." A main idea is the start; **reasons**
 carry it, and a **conclusion** brings it home — whether you're talking about beans, a book, or
 a football match.
@@ -166,7 +166,7 @@ and ask which reason convinced them most.
 
 ## Resources
 
-- Clear organization (main idea → support → conclusion) aids audience recall; see the
-  research summarized in Hattie, *Visible Learning*, and Marzano's work on summarizing and
-  structure. For classroom speaking-and-listening framing, see CASEL:
-  <https://casel.org/fundamentals-of-sel/>.
+- On a claim needing reasons or data that actually support it (claim, data, warrant):
+  Toulmin — *The Uses of Argument* (S-236).
+- On clear organisation and summarising supporting recall: Marzano, Pickering &
+  Pollock — *Classroom Instruction That Works* (S-173).

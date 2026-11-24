@@ -117,11 +117,11 @@ adult stepping in.
 
 **The facts to land.**
 1. A fair fix is not both sides giving up everything: it is both sides getting something
-   they need, and nobody being left out.
+   they need, and nobody being left out (S-148).
 2. The new piece is turning needs into **options**, then choosing one both can live
    with.
 3. The five steps are a skill to teach explicitly, as worked instruction (Kirschner,
-   Sweller & Clark, 2006).
+   Sweller & Clark, 2006, S-011).
 
 **Don't overshoot.** A learner who "wins" by making the other give up has not settled it
 — name that as *not yet fair* and invite another option, never as a verdict on the
@@ -183,5 +183,9 @@ steps before an adult steps in — and tell them what fair fix you found.
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills and responsible decision-making):
-  <https://casel.org/fundamentals-of-sel/>
+- On needs-based conflict resolution — naming what each side needs and finding a way to
+  meet both: Rosenberg — Nonviolent Communication (S-148).
+- On relationship skills and responsible decision-making as core competencies: CASEL —
+  Fundamentals of Social and Emotional Learning (S-001).
+- On explicit instruction and worked examples: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

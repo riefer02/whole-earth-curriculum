@@ -98,7 +98,7 @@ skill for understanding themselves and others — without judging either side as
 A dancer walks on stage looking calm and bright, while inside her chest is hammering. A
 friend smiles when you wave, though something inside them is heavy. An athlete at the
 starting line looks still, while inside there is a storm. The outside is what the world
-sees; the inside is what the person lives. Both are true at the same time. Learning to
+sees; the inside is what the person lives (S-225). Both are true at the same time. Learning to
 tell them apart helps you read a room, care for a friend, and understand your own face
 too — in a city, on a farm, or anywhere people are together.
 
@@ -170,3 +170,5 @@ one small example of your own if you like.
   (see the work of Paul Ekman on facial expression and James Gross on emotion regulation).
   For classroom framing, see CASEL's self-awareness and social-awareness competencies:
   <https://casel.org/fundamentals-of-sel/>
+- On the gap between felt emotion and outward display: James J. Gross — The Emerging Field of Emotion Regulation: An Integrative Review (S-225).
+

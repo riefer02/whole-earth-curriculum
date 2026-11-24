@@ -93,7 +93,7 @@ carry it from beginning to end.
 A text is not just events on a string — it is a string with a thought running through it.
 A news story about a new well in a dry region, a tale about a girl who plants one tree,
 a report about migrating birds: each has a **central idea** the author keeps returning to,
-the thread that holds the beads together. Pull the beads off and the thread remains.
+the thread that holds the beads together (S-172). Pull the beads off and the thread remains.
 Tracing that thread — in an essay from Cairo, a story from Manila, a report from Lima —
 is how you understand what the author really wants you to carry away.
 
@@ -161,6 +161,8 @@ then name two moments that carried it.
   "Improving Adolescent Literacy" (2008), <https://ies.ed.gov/ncee/wwc/practiceguide/8>
 - On modeling before practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+
+- On identifying a central idea and tracing how an author develops it: Nell K. Duke & P. David Pearson — Effective Practices for Developing Reading Comprehension (S-172).
 
 ---
 

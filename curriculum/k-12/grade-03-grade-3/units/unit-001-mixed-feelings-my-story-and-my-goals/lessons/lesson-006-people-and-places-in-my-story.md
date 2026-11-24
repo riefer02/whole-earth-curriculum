@@ -95,7 +95,7 @@ and places, and it honors the many shapes a family and a home can take.
 
 Every story has characters and settings. The "characters" of your story are the people
 who have helped raise and shape you — a parent, a grandparent, a sibling, a teacher, a
-friend, a neighbor. The "settings" are the places you have lived, played, and learned —
+friend, a neighbor (S-156). The "settings" are the places you have lived, played, and learned —
 a house, a yard, a market, a riverbank, a school, a high-rise, a village. Placing them
 on your life line shows *where* and *with whom* your story happened. Families come in
 many shapes, and homes come in many kinds — all of them are real.
@@ -161,5 +161,6 @@ and where it fits in their life.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On the people and places around a child — family support, other adult relationships, a
+  caring neighborhood — as what shapes development: Search Institute — 40 Developmental
+  Assets (S-156).

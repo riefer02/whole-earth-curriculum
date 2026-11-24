@@ -82,10 +82,10 @@ last_updated: 2026-08-16
 ## Summary
 
 Last year learners noticed things and asked "why?" and "how?" and made a guess they
-could check. This year, wonder grows a step further: into a **prediction** — a guess
-you say clearly and plan to test. Learners turn a shared wonder into a question, offer
-their own prediction, and name how they will test it. Being wrong is welcomed, because
-a wrong guess is the start of finding out.
+could check. This year, wonder grows a step further: into a **prediction** — a guess you
+say clearly and plan to test (S-041). Learners turn a shared wonder into a question,
+offer their own prediction, and name how they will test it. Being wrong is welcomed,
+because a wrong guess is the start of finding out.
 
 ## Objectives
 
@@ -167,6 +167,5 @@ together.
 
 ## Resources
 
-- BBC Bitesize (KS1 Science), "Working scientifically" — how scientists ask questions,
-  test ideas, and predict outcomes, and how they record what they found.
-  https://www.bbc.co.uk/bitesize/topics/z8q9pbk
+- On asking questions and predicting outcomes before testing: BBC Bitesize (KS1) —
+  Working scientifically (S-041).

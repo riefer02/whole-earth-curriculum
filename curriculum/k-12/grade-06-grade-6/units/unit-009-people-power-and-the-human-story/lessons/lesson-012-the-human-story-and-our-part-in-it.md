@@ -151,7 +151,7 @@ judged "done" or "not done." This lesson completes the unit's portfolio. See
 1. **Gather (5 min).** Look back with a partner: **what did we learn this unit?** Take turns
    recalling one thing each — sources, change and continuity, knowledge, a technology's
    journey, place, movement, power, a movement for freedom. This is retrieval: pulling it
-   out of memory, not re-reading it.
+   out of memory, not re-reading it (S-228).
 2. **Assemble your pages (10 min).** Lay out your own artifacts in order: your two-source
    note, your change-and-continuity note, your knowledge-transmission example, and your
    rights-movement note. Check each is complete; finish any that need it.
@@ -207,3 +207,5 @@ museum — and tell them the one action for fairness and dignity you chose.
   Each is cited in its own lesson. The closing commitment to "our part in the story" follows
   the curriculum's aim that learners become agents of care and justice, not only readers of
   the past.
+- On why recalling from memory strengthens learning more than re-reading: Henry L. Roediger III & Jeffrey D. Karpicke — Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention (S-228).
+

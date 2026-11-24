@@ -64,7 +64,7 @@ summary: >-
   Learners learn to recognize when a message favors one side and to name what fair
   reporting would include. A worked example contrasts a one-sided message about a new
   road ("JOBS! Wonderful for everyone!") with what fair reporting would add — the
-  benefits, the concerns, and who is speaking. Learners then analyze one-sided message
+  benefits, the concerns, and who is speaking (S-217). Learners then analyze one-sided message
   cards and build a fair version with three questions, learning to read messages
   without cynicism or fear: one-sided pushes, fair reporting informs.
 cross_cutting_lenses:
@@ -90,7 +90,7 @@ reporting** would include. A worked example contrasts a one-sided message about 
 ("JOBS! Wonderful for everyone!") with what fair reporting would add — the **benefits**, the
 **concerns**, and **who is speaking**. Learners then analyze one-sided message cards and build
 a fair version with three questions, learning to read messages without cynicism or fear:
-one-sided *pushes*; fair reporting *informs*.
+one-sided *pushes*; fair reporting *informs* (S-151).
 
 ## Objectives
 
@@ -172,9 +172,9 @@ benefits, what concerns, who is speaking? Tell someone what a fair version would
 
 ## Resources
 
-- The idea that fair reporting includes all sides, evidence, and transparency about who is
-  speaking reflects media-literacy teaching standards (for example, UNESCO's *Media and
-  Information Literacy* curriculum and Common Sense Media's guidance for ages 8–11). The
-  "benefits, concerns, who is speaking" test is an age-appropriate version of source- and
-  perspective-analysis taught worldwide. On the value stance (fairness as a commitment, not a
-  fact), see `docs/philosophy.md` §4–5.
+- On media and information literacy — who made a message, why, and what it leaves out:
+  UNESCO — Media and Information Literacy,
+  <https://www.unesco.org/en/media-information-literacy> (S-217).
+- On the key questions to ask when analysing a media message: NAMLE — Key Questions to
+  Ask When Analyzing Media Messages, <https://namle.org/resources/key-questions/>
+  (S-151).

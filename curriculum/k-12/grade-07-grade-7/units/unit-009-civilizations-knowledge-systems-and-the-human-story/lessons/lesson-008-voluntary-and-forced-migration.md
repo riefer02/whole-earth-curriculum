@@ -159,7 +159,7 @@ Encyclopaedia Britannica and `docs/facilitation.md`.
 3. **Meet forced migration (10 min).** **Forced migration** is not chosen. One terrible
    example: in the transatlantic slave trade, at least 12 million African people were
    taken by force and carried across the Atlantic over centuries — a crime against
-   human dignity. (You will study this in full in Grade 8; today we name it honestly
+   human dignity (S-322). (You will study this in full in Grade 8; today we name it honestly
    and briefly.)
 4. **Compare causes and effects (15 min).** On your page, compare: What *caused* each
    kind of move? What were the *effects* on the people who moved? What were the
@@ -199,3 +199,5 @@ it.
   distinction (`docs/philosophy.md` §4), not a factual finding.
 - On explicit instruction and worked examples: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On the scale of the transatlantic slave trade: Trans-Atlantic Slave Trade Database (SlaveVoyages) (S-322).
+

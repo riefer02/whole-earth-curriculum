@@ -161,7 +161,7 @@ than one name. Model it once (Kirschner, Sweller & Clark, 2006). See
    stripped of trees. *The ordinary people:* farmers and neighbors — mostly women. *What
    they did together:* in 1977, Wangari Maathai and others started the **Green Belt
    Movement**, planting trees together; it spread to other African countries and planted
-   over thirty million trees. *What changed:* the land was re-greened, and the movement
+   over thirty million trees (S-059). *What changed:* the land was re-greened, and the movement
    grew far beyond one hillside. (Maathai later won the 2004 Nobel Peace Prize.) Notice:
    ordinary people, acting together, over time.
 4. **Practice with a partner (10 min).** Take a change-story card. Fill the four parts:
@@ -196,3 +196,5 @@ nearby or in history — and name the four parts together.
   Prize): Nobel Prize — Wangari Maathai, <https://www.nobelprize.org/prizes/peace/2004/maathai/facts/>
 - On modeling an analysis frame before independent practice: Kirschner, Sweller & Clark
   (2006), <https://doi.org/10.1207/s15326985ep4102_1>
+- On the Green Belt Movement founded by Wangari Maathai in 1977: Nobel Prize — Wangari Maathai, Facts (S-059).
+

@@ -96,7 +96,8 @@ A speaker stands up and talks about the weather, then a game, then a cousin's vi
 leave not sure what you were meant to remember. Now imagine another speaker who begins, "I
 want you to know one thing: every year, monarch butterflies travel farther than any
 classroom in this building." You remember it. A presentation works when it has **one main
-idea**, stated clearly at the start — like a single strong rope the audience can hold onto,
+idea**, stated clearly at the start (S-012) — like a single strong rope the
+audience can hold onto,
 whether you speak under a tin roof or in a courtyard.
 
 ## Materials
@@ -163,6 +164,8 @@ can repeat your main idea.
 
 ## Resources
 
-- Clear main ideas and explicit organization support audience comprehension (see the research
-  summarized in Hattie, *Visible Learning*, on teacher clarity). For a classroom framing of
-  speaking and listening, see CASEL: <https://casel.org/fundamentals-of-sel/>.
+- On teacher clarity — a clear, well-organised message — as among the strongest
+  influences on how well an audience or class understands: Hattie — *Visible Learning*
+  (S-012).
+- On speaking and listening as relationship skills: CASEL,
+  <https://casel.org/fundamentals-of-sel/> (S-001).

@@ -91,7 +91,7 @@ Think of telling a friend the way to your home. The first time, you might say it
 tangle, and they look confused. So you try again — you add a landmark, you take out
 the part that confused them, you put the steps in a better order. That trying-again is
 revising. Every good writer, in every language, does it: writing is not finished when
-the words first land; it is finished when the meaning comes clear.
+the words first land; it is finished when the meaning comes clear (S-102).
 
 ## Materials
 
@@ -108,7 +108,7 @@ the words first land; it is finished when the meaning comes clear.
 
 Revision is a taught skill: model it explicitly with a worked example — read an unclear
 sentence aloud, find the confusing part, then add, remove, or rearrange — before guided
-practice (Kirschner, Sweller & Clark, 2006). The key shift to protect: revision is not
+practice (Kirschner, Sweller & Clark, 2006, S-011). The key shift to protect: revision is not
 about handwriting or spelling; it is about *meaning*. Keep the focus on "is this
 clear?" — in the learner's home language and writing system, script-agnostic. Revision
 may be done by hand, aloud, in sign, or on a device. Honor the learner's own voice and
@@ -159,5 +159,9 @@ one of the three moves: add, remove, or rearrange.
 
 ## Resources
 
-- CASEL SEL Framework (self-management — improving one's own work):
-  <https://casel.org/fundamentals-of-sel/>
+- On revision as part of the writing process, and explicit strategy instruction in
+  writing: Graham & Perin — Writing Next (S-102).
+- On teaching a skill explicitly — model it, then guide practice — rather than leaving
+  learners to discover it: Kirschner, Sweller & Clark (2006) — Why Minimal Guidance During
+  Instruction Does Not Work (S-011).
+

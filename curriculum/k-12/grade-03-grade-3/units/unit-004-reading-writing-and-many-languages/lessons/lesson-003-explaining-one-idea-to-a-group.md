@@ -91,7 +91,7 @@ Think of explaining the rules of a game to someone who has never played, or tell
 a friend how to reach your home. If you try to explain everything at once, the idea
 scatters and nobody can follow. But if you pick **one** idea, put it in order, and
 give an example, the group can see it — the way one clear lamp lights a whole room.
-Everywhere in the world, people teach each other by explaining one idea at a time.
+Everywhere in the world, people teach each other by explaining one idea at a time (S-011).
 
 ## Materials
 
@@ -108,7 +108,7 @@ Everywhere in the world, people teach each other by explaining one idea at a tim
 
 Explaining is a skill, so teach it explicitly: model one clear explanation with a single
 point, an order (first, next, last), and an example, then guide learners to try it
-(Kirschner, Sweller & Clark, 2006). Keep ideas friendly and small — no learner is put on
+(Kirschner, Sweller & Clark, 2006, S-011). Keep ideas friendly and small — no learner is put on
 display, and passing is always allowed. Explanations may be spoken, signed, written,
 drawn, or shown with objects; all count fully. Encourage the group to listen and then
 show understanding — by retelling, asking a question, or nodding — rather than judging.
@@ -152,5 +152,7 @@ recipe: one idea, in order, with an example. Ask, "Did that make sense?"
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills — clear communication):
-  <https://casel.org/fundamentals-of-sel/>
+- On teaching a skill explicitly — model it, then guide practice — rather than leaving
+  learners to discover it: Kirschner, Sweller & Clark (2006) — Why Minimal Guidance During
+  Instruction Does Not Work (S-011).
+

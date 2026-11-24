@@ -143,7 +143,7 @@ neighbor — whoever the learner genuinely trusts and can reach. Normalize that 
 is strength, not weakness**, and reassure learners that if a first trusted person does
 not help, they can tell a second. This is **summative retrieval** — the learner recalls
 each idea rather than re-reading; if someone struggles, point them to their *own*
-earlier pages, not the answer. Keep the review **dignified and joyful**: no two plans
+earlier pages, not the answer (S-228). Keep the review **dignified and joyful**: no two plans
 will match, and that is the point — every body and every life is honored. See
 `docs/facilitation.md` and the retrieval-practice evidence in `docs/contexts.md`.
 
@@ -207,3 +207,5 @@ and share one thing you now know about your growing body, your food, or your saf
   Learning With Effective Learning Techniques*, <https://doi.org/10.1177/1529100612453266>),
   and supports the synthesis and identity work of ages 11–14. For SEL framing of
   self-awareness and self-management, see CASEL: <https://casel.org/fundamentals-of-sel/>.
+- On retrieval practice strengthening long-term memory: Henry L. Roediger III & Jeffrey D. Karpicke — Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention (S-228).
+

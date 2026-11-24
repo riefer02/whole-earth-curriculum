@@ -89,10 +89,10 @@ last_updated: 2026-08-17
 
 ## Summary
 
-The unit capstone turns consent outward: learners practice **respecting others' boundaries**
+The unit capstone turns consent outward: learners practice **respecting others' boundaries** (S-196)
 with a three-step flow — **ask first**, **listen to words and body cues**, and **respect the
 answer**, accepting a "**no**" as a **full answer**. They then review the whole unit — the six
-nutrients and their jobs, too little and too much over time, the four emergency steps, and the
+nutrients and their jobs (S-038), too little and too much over time, the four emergency steps, and the
 consent rule — into a single portfolio page that ties **health, safety, and respect** together.
 
 ## Objectives
@@ -189,9 +189,12 @@ thing about nutrients, one about emergencies, and one about consent — with you
 
 ## Resources
 
-- Respecting others' boundaries — asking before touching, reading verbal and non-verbal cues, and
-  accepting a "no" as a full answer — is standard in child-safety and social-emotional learning
-  and supports the dignity of every person (see UNICEF child-protection guidance and the UN
-  Convention on the Rights of the Child, Art. 19). The nutrient review draws on the World Health
-  Organization "Healthy diet" fact sheet and micronutrient guidance cited in Lessons 1–4. Consent
-  content here remains age-appropriate and non-sexual.
+- On respecting others' boundaries — asking before touching, reading cues, and accepting
+  a 'no' as a full answer — as part of protecting every child's dignity: UNICEF —
+  Violence against children, <https://www.unicef.org/protection/violence-against-children>
+  (S-196).
+- On children's right to protection from harm: UN Convention on the Rights of the Child,
+  Article 19, <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
+  (S-091).
+- On the six nutrients and the jobs they do in the body: WHO — Healthy diet fact sheet,
+  <https://www.who.int/news-room/fact-sheets/detail/healthy-diet> (S-038).

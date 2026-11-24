@@ -106,8 +106,8 @@ build a school or help a family. In Indonesia, **gotong royong** names neighbors
 burden of building and gathering. In the Andes, **mink'a** (or *minga*) is the old practice
 of farming the terraces together so no one harvests alone. Across North America, a **barn
 raising** gathered neighbors to lift a family's barn in a single day, the favor returning
-later to whoever helped. Different names, same thing: **mutual aid** — helping where
-everyone both gives and receives, no one above and no one below. And behind every act of
+later to whoever helped (S-164). Different names, same thing: **mutual aid** — helping where
+everyone both gives and receives, no one above and no one below (S-163). And behind every act of
 help sits a motive: sometimes **care** (I help because I feel for you), sometimes **duty**
 (I help because it is right and owed), sometimes **recognition** (I help to be seen as good).
 Often it is more than one at once.
@@ -199,3 +199,6 @@ you chose.
   social interdependence theory; and Slavin, *Cooperative Learning*.
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On communal-work traditions such as harambee, gotong royong, mink'a/minga, and barn raising: Communal-work (mutual-aid) traditions (S-164).
+- On mutual aid as a practice of cooperation among equals: Peter Kropotkin — Mutual Aid: A Factor of Evolution (S-163).
+

@@ -101,8 +101,8 @@ water is. Grade 2 met environments and adaptations; Grade 3 asks the next questi
 
 Why do people live *here* and not *there*? Look at the land for the answer. People
 settle beside a **river** because it gives water to drink, fish to eat, and a road to
-travel on. People settle on **mountain** slopes, cutting flat steps called terraces to
-grow food. And where the **climate** is dry, people settle beside an **oasis** or a
+travel on (S-088). People settle on **mountain** slopes, cutting flat steps called terraces to
+grow food (S-054). And where the **climate** is dry, people settle beside an **oasis** or a
 valley where water is. The land shapes where we live — and people have read the land
 with care for thousands of years.
 
@@ -180,14 +180,10 @@ place — the river, slope, or climate near home is the truest example of all.
 
 ## Resources
 
-- National Geographic Education, "River" — describes how rivers provide water, food,
-  and transport, and notes that river deltas and floodplains (valleys) are highly
-  fertile zones that attract settlement, so many towns and cities grew beside rivers.
-  https://education.nationalgeographic.org/resource/river/
-- International Potato Center (CIP), "Potato" — notes the potato was domesticated in
-  the Andes, where people built terraces to farm the steep mountain slopes, supporting
-  the mountain-terrace example.
-  https://cipotato.org/potato/
+- On rivers giving water, food and transport, and fertile valleys attracting settlement:
+  National Geographic Education — River (S-088).
+- On the potato domesticated in the Andes and farmed on terraced mountain slopes:
+  International Potato Center — Potato (S-054).
 
 ## Home connection
 

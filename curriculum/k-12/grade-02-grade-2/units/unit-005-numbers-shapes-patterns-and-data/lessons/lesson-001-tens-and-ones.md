@@ -85,7 +85,7 @@ last_updated: 2026-08-16
 Learners bundle objects into groups of ten and discover that a two-digit number is
 **tens and ones** — for example, three tens and four ones is thirty-four. They read
 and record numbers as tens and ones, treating place value as something you can hold
-and count, not just a symbol.
+and count, not just a symbol (S-020).
 
 ## Objectives
 
@@ -175,6 +175,6 @@ grown-up how many tens and how many ones there are — and what number that make
 
 ## Resources
 
-- Clements, D. H., & Sarama, J. (2014). *Learning and Teaching Early Math: The
-  Learning Trajectories Approach* (2nd ed.). Routledge. (Unitizing — seeing ten ones
-  as one ten — as the foundation of place value.)
+- On unitizing — seeing ten ones as one ten — as the foundation of place value:
+  Clements & Sarama — Learning and Teaching Early Math: The Learning Trajectories
+  Approach (S-020).

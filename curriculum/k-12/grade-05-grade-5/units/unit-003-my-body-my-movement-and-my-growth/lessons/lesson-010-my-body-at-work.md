@@ -142,10 +142,10 @@ ranking.
    **"my body at work"** note.
 2. **Review the four sections (10 min).** Look at the poster. Section one: **mind and body are
    connected** — a worry can make a stomach tight (Lesson 1). Section two: **growth at my pace**
-   — bodies grow at different rates, and every pace is normal (Lessons 3–4). Section three:
+   — bodies grow at different rates, and every pace is normal (Lessons 3–4) (S-162). Section three:
    **practice and feedback** — repeated practice builds skill, and kind, specific feedback helps
    (Lessons 5–6). Section four: **movement benefits** — movement strengthens the heart and
-   muscles and lifts mood (Lessons 7–8). Four ideas, one body.
+   muscles and lifts mood (Lessons 7–8) (S-069). Four ideas, one body.
 3. **Build your note (15 min).** On your page, write or draw one example for each section from
    **your own** body and week. One mind–body signal you noticed. One way you are growing at your
    own pace. One skill you practiced and one piece of feedback you gave or received. One way
@@ -186,3 +186,9 @@ about your own body that you will keep practicing.
   guidelines). See: <https://casel.org/fundamentals-of-sel/>,
   <https://www.who.int/toolkits/child-growth-standards>, and
   <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
+
+- On growth as a wide range of normal rather than a single right size: WHO — Child
+  Growth Standards, <https://www.who.int/toolkits/child-growth-standards> (S-162).
+- On regular physical activity strengthening the body and supporting healthy growth:
+  WHO — Physical activity fact sheet,
+  <https://www.who.int/news-room/fact-sheets/detail/physical-activity> (S-069).

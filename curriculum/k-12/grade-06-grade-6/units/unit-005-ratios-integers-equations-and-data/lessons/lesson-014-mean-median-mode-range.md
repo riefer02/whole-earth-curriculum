@@ -101,10 +101,10 @@ data and defend a choice.
 
 A class records how many books each learner read this month: most read 2, 3, or 4, but one fast reader
 finished 20. What is "typical"? The **mean** (about 4.08) gets pulled up by that single 20 and overstates
-most learners; the **median** (3) and **mode** (3) tell the truer story of "what most did." Choosing the
+most learners; the **median** (3) and **mode** (3) tell the truer story of "what most did." (S-301) Choosing the
 measure that fits your question is real judgment — a nurse reading a growth chart, a market trader reading
 prices, a planner reading rainfall — and it is the honest way to let data answer, rather than to make data
-say what you want.
+say what you want (S-026).
 
 ## Materials
 
@@ -197,3 +197,6 @@ median, mode, and range; tell someone which measure best describes "typical" and
   distorts the mean but not the median is a standard statistical fact; the claim that fair summaries often
   report the median is an egalitarian value with real policy import (`docs/philosophy.md` §4). The note that
   averages and middle values appear in ancient Babylonian and Indian record-keeping is documented history.
+- On mean, median, mode, and how outliers affect the mean: Encyclopaedia Britannica — Probability and statistics (S-301).
+- On choosing measures of center for a data set: John A. Van de Walle, Karen S. Karp & Jennifer M. Bay-Williams — Elementary and Middle School Mathematics: Teaching Developmentally (S-026).
+

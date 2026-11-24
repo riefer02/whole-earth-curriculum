@@ -98,7 +98,7 @@ which parts come forward where — and which parts (their values) stay the same 
 One child is quiet and careful at home, loud and bold on the football field, gentle with
 a younger sibling, and the one who makes everyone laugh with friends. Is one of those the
 "real" them? All of them are. Like different instruments in one song, different contexts
-bring different parts of a person forward. A child who speaks one language at home and
+bring different parts of a person forward (S-001). A child who speaks one language at home and
 another at school is not pretending — she is *fluent in many selves*, and that is a
 strength, not a split.
 
@@ -172,3 +172,5 @@ part of you comes forward elsewhere.
   adaptive rather than inauthentic — is a theme in the study of identity development and
   in the everyday experience of multilingual people; for classroom framing see CASEL's
   self-awareness competency: <https://casel.org/fundamentals-of-sel/>
+- On understanding one's identities and how they show up across contexts: CASEL — Fundamentals of Social and Emotional Learning (S-001).
+

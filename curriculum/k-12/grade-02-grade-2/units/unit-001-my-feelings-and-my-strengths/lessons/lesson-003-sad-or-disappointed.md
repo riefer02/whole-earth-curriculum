@@ -77,11 +77,11 @@ last_updated: 2026-08-16
 
 ## Summary
 
-Learners go deep on the second look-alike pair: **sad** and **disappointed**. Using
-the clue question *"Did I lose something, or did something I hoped for not happen?"*
-they sort everyday moments — including some tender ones — and learn that both heavy
-feelings are welcome, nameable, and different from each other. Naming them exactly is
-a gift you give yourself.
+Learners go deep on the second look-alike pair: **sad** and **disappointed**. Using the
+clue question *"Did I lose something, or did something I hoped for not happen?"* they
+sort everyday moments — including some tender ones — and learn that both heavy feelings
+are welcome, nameable, and different from each other (S-001). Naming them exactly is a
+gift you give yourself.
 
 ## Objectives
 
@@ -161,5 +161,5 @@ the hope inside it — then share one new hope with them.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On naming and understanding one's own emotions: CASEL — Fundamentals of Social and
+  Emotional Learning (S-001).

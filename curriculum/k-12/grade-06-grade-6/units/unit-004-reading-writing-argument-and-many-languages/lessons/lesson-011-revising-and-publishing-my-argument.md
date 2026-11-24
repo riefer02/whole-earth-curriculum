@@ -98,7 +98,7 @@ The first version of anything is rarely the best version. A potter doesn't stop 
 shape; she smooths it, checks it, and only then sets it out for others. Writing is the same:
 the draft is the clay, and **revising** is the smoothing — checking that the claim is clear,
 every reason is supported, the evidence is checkable, and the counterargument is answered —
-before you **publish** it for readers. Publishing is not a contest; it is the moment you hand
+before you **publish** it for readers (S-102). Publishing is not a contest; it is the moment you hand
 your honest thinking to other people, in your own words, in your own language.
 
 ## Materials
@@ -174,3 +174,5 @@ ask them one question: "Did it make sense, and did I answer the other side fairl
   Corporation, 2007) and the IES "Teaching Secondary Students to Write Effectively" guide.
   Cooperative, non-ranked publication reflects `docs/philosophy.md` §8. On explicit instruction
   and worked examples, see Kirschner, Sweller & Clark (2006).
+- On the writing process, including revision: Steve Graham & Dolores Perin — Writing Next: Effective Strategies to Improve Writing of Adolescents in Middle and High Schools (S-102).
+

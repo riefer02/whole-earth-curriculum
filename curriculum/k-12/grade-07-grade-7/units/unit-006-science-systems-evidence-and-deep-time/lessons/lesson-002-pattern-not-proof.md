@@ -99,7 +99,7 @@ Do the umbrellas *cause* the rain? No — rain causes umbrella sales, and the pa
 cannot tell you which way the cause runs, or whether a third thing (a coming storm) drives
 both. Every day, people make decisions — what to buy, what to believe, how to vote — on
 patterns just like this. Knowing *what it would take* to show a real cause is what protects
-you from being fooled.
+you from being fooled (S-306).
 
 ## Materials
 
@@ -183,3 +183,5 @@ or a supported cause.
   (`docs/philosophy.md` §5).
 - On explicit instruction for novice reasoning skills: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On the criteria for moving from correlation to causation: Austin Bradford Hill — The Environment and Disease: Association or Causation? (S-306).
+

@@ -151,7 +151,7 @@ connect to the people's courage and agency, and to the hope of fairness.
 **The skill.** Retell one story in order, then name what the people chose and why.
 
 Tell Parihaka fully as the worked example, then guide the other two (Kirschner, Sweller
-& Clark, 2006).
+& Clark, 2006, S-011).
 
 **Access:** tell the stories in words for a learner who cannot see the cards; a learner
 who does not use a speaking voice acts or draws. If a learner's own people have a story
@@ -164,13 +164,13 @@ of peaceful resistance, welcome it with honor.
 2. **Hear three peaceful stories (20 min).** Listen to each:
    - **Parihaka (Aotearoa New Zealand, 1881):** When their land was taken, the people of
      Parihaka resisted *peacefully* — they plowed the land in protest, and when soldiers
-     arrived, they welcomed them with bread and children's songs, refusing to fight.
+     arrived, they welcomed them with bread and children's songs, refusing to fight (S-144).
    - **The Salt March (India, 1930):** Gandhi and thousands walked about 240 miles to the
      sea to make their own salt, peacefully breaking an unfair law, as part of the long
-     movement for India's freedom.
+     movement for India's freedom (S-087).
    - **The Defiance Campaign (South Africa, 1952):** thousands calmly refused unjust
      "pass" laws that controlled where Black South Africans could go, accepting arrest
-     with dignity rather than violence.
+     with dignity rather than violence (S-146).
 3. **Ask why peaceful (10 min).** For each, say why the people chose peaceful ways: they
    believed in not harming others, and they knew nonviolence wins supporters and keeps
    the focus on the unfairness itself.
@@ -202,16 +202,14 @@ of peaceful resistance, welcome it with honor.
 
 ## Resources
 
-- NZHistory (New Zealand Ministry for Culture and Heritage), "Parihaka" — the peaceful
-  resistance of the village of Parihaka under Te Whiti-o-Rongomai and Tohu Kākahi in
-  1881.
-  https://nzhistory.govt.nz/politics/parihaka
-- Encyclopaedia Britannica, "Salt March" — Gandhi's 1930 nonviolent march to Dandi to
-  make salt and break the salt law.
-  https://www.britannica.com/event/Salt-March
-- South African History Online, "Defiance Campaign 1952" — the 1952 nonviolent campaign
-  in South Africa against unjust pass laws.
-  https://www.sahistory.org.za/article/defiance-campaign-1952
+- On the peaceful resistance of Parihaka under Te Whiti-o-Rongomai and Tohu Kākahi in
+  1881: NZHistory — Parihaka (S-144).
+- On Gandhi's 1930 nonviolent Salt March to Dandi to make salt and break the salt law:
+  Encyclopaedia Britannica — Salt March (S-087).
+- On the 1952 Defiance Campaign in South Africa against unjust pass laws: South African
+  History Online — Defiance Campaign 1952 (S-146).
+- On telling one story fully, then guiding the others: Kirschner, Sweller & Clark — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

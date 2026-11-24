@@ -94,7 +94,7 @@ a story as their own while knowing it is one among many.
 
 When you hear a story you love, you want to tell it again your own way — maybe to a
 grandparent, a friend, or a younger child. Retelling a story is how we share what
-moved us and make it our own. Today you will choose one beginning story and tell it
+moved us and make it our own (S-172). Today you will choose one beginning story and tell it
 with your own voice and your own picture.
 
 ## Materials
@@ -147,3 +147,7 @@ telling, and note on the picture which story it tells.
   words, in order, and speak of it as one story among many?
 - **Artifact (portfolio):** The drawn retelling, labeled with the story it tells,
   kept in the learner's portfolio.
+
+## Resources
+
+- On retelling and text structure in reading comprehension: Duke & Pearson — Effective Practices for Developing Reading Comprehension (S-172).

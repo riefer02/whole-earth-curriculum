@@ -97,7 +97,7 @@ already knew the rules and each other. That feeling of standing at the edge is w
 **newcomer** feels. And remember what made it better: someone said your name, saved you
 a seat, showed you where to put your things, invited you into the game. A welcome is a
 small door someone opens for you — and **belonging** is what it feels like on the other
-side. Today you learn to open that door for someone else.
+side (S-093). Today you learn to open that door for someone else.
 
 ## Materials
 
@@ -188,7 +188,8 @@ one thing from your welcome plan. Tell your class what you did.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness, relationship skills):
-  <https://casel.org/fundamentals-of-sel/>
-- UNESCO, *Learning to Live Together* (belonging and inclusion across cultures):
-  <https://en.unesco.org/themes/learning-live-together>
+- On belonging as a basic human need: Maslow — A Theory of Human Motivation (S-093).
+- On belonging and inclusion across cultures: UNESCO — Learning to Live Together
+  (S-158).
+- On social awareness and relationship skills as core competencies: CASEL — Fundamentals
+  of Social and Emotional Learning (S-001).

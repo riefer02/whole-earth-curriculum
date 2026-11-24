@@ -126,12 +126,12 @@ Dashboards are shared only if the learner chooses.
 
 ## Procedure
 
-1. **Gather (5 min).** You have read three signals in the last four lessons: **heartbeat,
-   breathing, warmth.** Today you will put them all on one dashboard.
+1. **Gather (5 min).** You have read three signals in the last four lessons:
+   **heartbeat, breathing, warmth.** Today you will put them all on one dashboard.
 2. **Recall the signals (10 min).** Say each signal, what it does at rest, and what it
    does at work, and why: heart → slow at rest, faster at work (muscles need fuel and
-   oxygen); breath → small at rest, big at work (oxygen in, carbon dioxide out); warmth →
-   cool at rest, warm at work (muscles make heat).
+   oxygen); breath → small at rest, big at work (oxygen in, carbon dioxide out) (S-098);
+   warmth → cool at rest, warm at work (muscles make heat).
 3. **Mark at rest (10 min).** On your dashboard, mark each of the three dials at its
    rest position. Sit still and quiet first, and really notice.
 4. **Move and mark at work (15 min).** Move hard for two minutes, then mark each dial at
@@ -158,10 +158,8 @@ Dashboards are shared only if the learner chooses.
 
 ## Resources
 
-- Nemours KidsHealth — the heart, lungs, and how the body works:
-  <https://kidshealth.org/en/kids/heart.html>
-- World Health Organization — physical activity fact sheet:
-  <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
+- On how the heart, lungs, sweat, and muscles respond to work and rest: Nemours
+  KidsHealth — heart, lungs, sweat, and muscles (S-098).
 
 ## Home connection
 

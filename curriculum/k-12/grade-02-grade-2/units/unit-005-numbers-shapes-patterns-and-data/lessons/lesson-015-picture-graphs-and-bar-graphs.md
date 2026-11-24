@@ -87,7 +87,7 @@ last_updated: 2026-08-16
 Learners turn the same data into two graphs — a **picture graph** and a **bar graph** —
 and read both: which answer has the most, which the fewest, and **how many more or
 less**. They discover that a bar graph is just a picture graph with bars instead of
-pictures.
+pictures (S-027).
 
 ## Objectives
 
@@ -172,6 +172,5 @@ answers as a bar graph, and tell a grown-up which has the most and how many more
 
 ## Resources
 
-- National Research Council. (2009). *Mathematics Learning in Early Childhood: Paths
-  Toward Excellence and Equity*. The National Academies Press. (Representing data with
-  picture and bar graphs and comparing quantities.)
+- On representing data with picture and bar graphs and comparing quantities: National
+  Research Council (2009) — Mathematics Learning in Early Childhood (S-027).

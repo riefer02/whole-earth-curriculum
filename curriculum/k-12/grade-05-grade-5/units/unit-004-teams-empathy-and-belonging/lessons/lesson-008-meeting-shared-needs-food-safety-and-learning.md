@@ -96,8 +96,8 @@ met**, producing a record of the community's shared work.
 
 Think about one ordinary day. Someone grew or made the food you ate, someone kept the
 street or home safe, and someone taught you a thing you now know. A community is, in part,
-a **system for meeting shared needs**: food, safety, and learning are not solved by one
-person alone — they are solved by many hands, from the farmer and the shopkeeper to the
+a **system for meeting shared needs** (S-416): food, safety, and learning are not
+solved by one person alone — they are solved by many hands (S-164), from the farmer and the shopkeeper to the
 neighbor who looks out and the elder or teacher who passes on what they know.
 
 ## Materials
@@ -164,8 +164,14 @@ food, who keeps the home safe, and who taught a family skill.
 
 ## Resources
 
-- Meeting shared needs is framed by the UN Convention on the Rights of the Child, which
-  names rights to food and health (Art. 24, 27), safety (Art. 19), and education (Arts.
-  28–29) — held as a shared agreement to work toward, not a claim that every child already
-  has them honored. On food systems, see the FAO's food-and-agriculture work
-  (<https://www.fao.org/>); on water as a shared need, see WHO's drinking-water guidance.
+- On communities managing shared resources by their own agreed rules, for the good of
+  all: Elinor Ostrom — *Governing the Commons* (S-416).
+- On documented traditions of communal work — harambee, gotong royong, mink'a, barn
+  raising (verify local details with community members): Communal-work traditions
+  (S-164).
+- On children's rights to food, health, protection and education, held as a shared
+  agreement to work toward rather than a claim that every child already has them: UN
+  Convention on the Rights of the Child (child-friendly summary),
+  <https://www.unicef.org/child-rights-convention> (S-060).
+- On hunger and food security as a shared public problem: FAO — Hunger and food
+  security, <https://www.fao.org/hunger/en/> (S-119).

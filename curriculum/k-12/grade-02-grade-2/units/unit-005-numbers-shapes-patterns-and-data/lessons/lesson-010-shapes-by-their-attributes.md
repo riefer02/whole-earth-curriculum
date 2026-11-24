@@ -87,7 +87,7 @@ last_updated: 2026-08-16
 Learners name shapes by their **attributes** — how many sides, how many angles, which
 sides are equal. They sort shapes by these features and discover that a shape's name
 comes from its attributes, not its color or size: a triangle is a triangle whether it
-is big, small, red, or blue.
+is big, small, red, or blue (S-026).
 
 ## Objectives
 
@@ -169,6 +169,6 @@ angles it has.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson. (Classifying
-  shapes by attributes such as sides and angles.)
+- On classifying shapes by attributes such as sides and angles: Van de Walle, Karp &
+  Bay-Williams — Elementary and Middle School Mathematics: Teaching Developmentally
+  (S-026).

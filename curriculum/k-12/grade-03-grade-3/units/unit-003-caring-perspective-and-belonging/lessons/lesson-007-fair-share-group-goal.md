@@ -98,7 +98,7 @@ one person does everything while the others watch, that is not cooperation; it i
 carrying someone else's load. If everyone takes a part that fits what they can do, the
 job gets done and everyone is part of it. This is how a group reaches a goal fairly:
 **everyone contributes.** Everywhere people build, harvest, and celebrate together,
-this is the pattern.
+this is the pattern (S-147).
 
 ## Materials
 
@@ -124,7 +124,7 @@ who quietly takes on too much and the learner who drifts to the edge; gently reb
 the jobs chart so the load is shared. The goal is the shared one; there is no "best
 helper" and no ranking. Reflect afterward on *fairness*, not speed or neatness — did
 everyone get to contribute? Read the procedure aloud and model dividing jobs once
-before groups do it themselves (Kirschner, Sweller & Clark, 2006).
+before groups do it themselves (Kirschner, Sweller & Clark, 2006, S-011).
 
 ## Procedure
 
@@ -164,5 +164,8 @@ part.
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On cooperative learning in which each member of a group carries a part: Robert E. Slavin
+  — Cooperative Learning: Theory, Research, and Practice (S-147).
+- On modeling a skill before learners try it: Kirschner, Sweller & Clark (2006) — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
+

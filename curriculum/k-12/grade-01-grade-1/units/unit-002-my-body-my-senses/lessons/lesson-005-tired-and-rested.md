@@ -88,7 +88,7 @@ practice a short rest-and-breathe pause and sort tired from rested.
 Everyone gets tired, every day — after running, after working, or when a day has been
 long. A tired body sends messages: your eyes want to close, your body feels slow and
 heavy. Rest is not being lazy; rest is how your body fills its energy back up so you
-can play and learn again.
+can play and learn again (S-050).
 
 ## Materials
 
@@ -140,5 +140,7 @@ it can be done sitting, lying, or with eyes closed or open.
 
 ## Resources
 
-- World Health Organization — global health and wellbeing reference:
-  <https://www.who.int/>
+- On how much sleep school-age children need: AASM — Recommended Amount of Sleep for
+  Pediatric Populations (S-050).
+- On tiredness as an everyday body signal, for classroom framing: World Health
+  Organization (S-003).

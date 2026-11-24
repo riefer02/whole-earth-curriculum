@@ -83,9 +83,9 @@ last_updated: 2026-08-16
 ## Summary
 
 Learners practice asking a trusted adult for help in different situations — feeling
-sick, hurt, lost, scared, or unsafe — and learn to keep telling until someone listens.
-As the unit's capstone, the lesson gathers everything learned: balanced meals, water,
-hygiene, rest, and trusted adults all keep a body healthy, safe, and strong.
+sick, hurt, lost, scared, or unsafe — and learn to keep telling until someone listens
+(S-051). As the unit's capstone, the lesson gathers everything learned: balanced meals,
+water, hygiene, rest, and trusted adults all keep a body healthy, safe, and strong.
 
 ## Objectives
 
@@ -97,8 +97,8 @@ hygiene, rest, and trusted adults all keep a body healthy, safe, and strong.
 Some situations are small and some are big, but they have one thing in common: asking a
 trusted adult for help makes you safe. If you feel sick, hurt, lost, scared, or unsafe,
 you tell a trusted adult — and if the first one is busy or doesn't understand, you tell
-another, and another, until someone listens and helps. Today you will practice asking for
-help, and then celebrate all the ways you keep your body healthy, safe, and strong.
+another, and another, until someone listens and helps. Today you will practice asking
+for help, and then celebrate all the ways you keep your body healthy, safe, and strong.
 
 ## Materials
 
@@ -180,6 +180,5 @@ scared, or unsafe. Say the words clearly and name the trusted adult you would te
 
 ## Resources
 
-- World Health Organization, "Preventing violence against children" (telling a trusted
-  adult keeps children safe):
-  <https://www.who.int/teams/social-determinants-of-health/violence-prevention>
+- On telling a trusted adult, and on supportive adults keeping children safe: WHO —
+  Preventing violence against children (S-051).

@@ -121,7 +121,7 @@ foods to their origins.
 
 **The facts to land.**
 1. Every food has an origin in the living world: it comes from a plant or an animal
-   raised by people (FAO).
+   raised by people (FAO, S-080).
 2. Food reaches families in more ways than farms and gardens: people gather wild fruits,
    greens, and honey, fish rivers, lakes, and seas, and herd animals that move with the
    seasons.
@@ -192,6 +192,6 @@ a farm, or a garden. Tell a grown-up which origin your food began in.
 
 ## Resources
 
-- Food and Agriculture Organization of the United Nations, "The State of Food and
-  Agriculture" (food comes from plants and animals raised by people):
-  <https://www.fao.org/publications/home/fao-flagship-publications/the-state-of-food-and-agriculture/en>
+- On food coming from plants and animals raised by people, within agrifood systems: FAO —
+  The State of Food and Agriculture (S-080).
+

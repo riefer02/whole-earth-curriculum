@@ -87,7 +87,7 @@ forced, and that "no, thank you" is always an okay answer.
 
 Sometimes a friend does not ask for help — maybe they are shy, or they think they
 should manage alone. When you notice and offer first, you give a gift before it is
-requested. Offering help is how care becomes action between people.
+requested. Offering help is how care becomes action between people (S-001).
 
 ## Materials
 
@@ -138,5 +138,7 @@ model a gentle offer.
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills and responsible decision-making):
-  <https://casel.org/fundamentals-of-sel/>
+- On helping as a relationship skill, for classroom framing: CASEL — Fundamentals of
+  Social and Emotional Learning (S-001).
+- On help between equals — mutual aid rather than one-way charity: Dean Spade — Mutual
+  Aid: Building Solidarity During This Crisis (and the Next) (S-345).

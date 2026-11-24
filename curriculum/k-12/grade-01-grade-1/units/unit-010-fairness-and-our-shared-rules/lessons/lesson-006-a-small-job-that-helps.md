@@ -93,7 +93,7 @@ plants watered, the floor clear, pencils ready, a friend helped to carry somethi
 When you do one of these, you are **contributing**: you are helping the place and the
 people in it. Everywhere in the world, people do small jobs that help everyone — a
 child sweeping the family's courtyard, a neighbor watching a pot of soup, someone
-carrying water for an elder. Today you will do one small job and tell how it helped.
+carrying water for an elder (S-164). Today you will do one small job and tell how it helped.
 
 ## Materials
 
@@ -168,3 +168,8 @@ move — your help counts fully. A learner may always pass.
 ## Home connection
 
 At home, do one small job that helps your family and tell a grown-up how it helped.
+
+## Resources
+
+- On households and communities sharing work across cultures — harambee, gotong
+  royong, mink'a, barn raising: Communal-work (mutual-aid) traditions (S-164).

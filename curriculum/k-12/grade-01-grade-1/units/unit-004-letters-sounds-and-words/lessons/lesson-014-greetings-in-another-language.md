@@ -126,7 +126,7 @@ ones.
    the new greeting, and use the courtesy word — thank someone, or say please when
    you ask. Trade greetings with as many people as you can.
 5. **Close (5 min).** One greeting, one kind word — and you have reached across
-   the space between languages. Every attempt at another's language is a gift of
+   the space between languages (S-237). Every attempt at another's language is a gift of
    respect.
 
 ## Differentiation
@@ -146,3 +146,8 @@ ones.
 
 Greet someone at home with the new greeting tonight, and teach them the courtesy
 word.
+
+## Resources
+
+- On drawing on more than one language to communicate — plurilingual competence:
+  Council of Europe — CEFR Companion Volume (S-237).

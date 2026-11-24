@@ -87,8 +87,8 @@ last_updated: 2026-08-17
 
 ## Summary
 
-Learners explore how trade and travel connected peoples across the **Indian Ocean**, riding
-the **monsoon** winds in **dhows** with lateen sails. They sort what moved along the route
+Learners explore how trade and travel connected peoples across the **Indian Ocean**
+(S-207), riding the **monsoon** winds in **dhows** with lateen sails. They sort what moved along the route
 into four kinds — **goods, ideas, plants, and animals** — and see that trade carried far more
 than things: it carried ways of thinking, ways of farming, and ways of life, between peoples
 who met as equals.
@@ -170,11 +170,10 @@ how it got here — then name whether it is a good, an idea, a plant, or an anim
 
 ## Resources
 
-- The Indian Ocean trade network, driven by the monsoon winds and sailed by dhows with lateen
-  sails, connected East Africa, Arabia, India, Southeast Asia, and China for centuries and
-  moved goods, ideas (including religions and number systems), plants, and animals — a widely
-  documented pattern (UNESCO, "The Indian Ocean, a shared heritage"; and historical work on
-  the dhow and monsoon sailing). The Silk Roads (overland) and the Trans-Saharan gold-salt
-  trade (desert, by camel) are parallel networks of exchange. These are told as networks of
-  mutual exchange between peoples, in line with the curriculum's global and non-colonial
-  framing.
+- On the Indian Ocean as a trade network driven by monsoon winds and sailed by dhows,
+  carrying goods, ideas, plants and animals between East Africa, Arabia, India,
+  Southeast Asia and China: UNESCO — The Indian Ocean, a shared heritage,
+  <https://www.unesco.org/en/silk-roads> (S-207).
+- On overland trade routes and their exchange of goods and ideas: Encyclopaedia
+  Britannica — Silk Road, <https://www.britannica.com/topic/Silk-Road-trade-route>
+  (S-323).

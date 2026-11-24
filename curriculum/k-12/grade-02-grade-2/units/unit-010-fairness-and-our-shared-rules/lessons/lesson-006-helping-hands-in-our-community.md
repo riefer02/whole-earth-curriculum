@@ -88,13 +88,13 @@ could join in. Helping is something anyone can do, whatever their body can do.
 
 ## Connection
 
-Think of a place near you where people help each other — a neighbor who shares food
-when someone is sick, a group that cleans the stream or the street, an older child
-who reads to a younger one, someone who waters the shared garden so everyone can
-eat. That is a **community**: people helping one another. And you can **join in** —
-even a small help counts. People everywhere do this: a village clears the well, a
-city shares food, a family waters the plot so all can harvest. Today you will name
-one way people help near you, and one way you could join in.
+Think of a place near you where people help each other — a neighbor who shares food when
+someone is sick, a group that cleans the stream or the street, an older child who reads
+to a younger one, someone who waters the shared garden so everyone can eat. That is a
+**community**: people helping one another. And you can **join in** — even a small help
+counts. People everywhere do this: a village clears the well, a city shares food, a
+family waters the plot so all can harvest (S-164). Today you will name one way people
+help near you, and one way you could join in.
 
 ## Materials
 
@@ -179,6 +179,5 @@ take one small step to join in — and tell someone how it helped.
 
 ## Resources
 
-- Mutual aid and cooperation across communities (an anthropological and community
-  organizing lens); see also the Escuela Nueva cooperative learning structure in
-  `docs/contexts.md`.
+- On communal help as a widespread practice — harambee, gotong royong, mink'a,
+  barn-raising: Communal-work (mutual-aid) traditions (S-164).

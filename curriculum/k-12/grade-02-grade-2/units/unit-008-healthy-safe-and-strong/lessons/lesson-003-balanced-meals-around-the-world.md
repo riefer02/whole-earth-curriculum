@@ -82,8 +82,8 @@ last_updated: 2026-08-16
 Learners study balanced meals from several food traditions — rice, beans, and greens;
 flatbread, lentils, and vegetables; maize, fish, and fruit — and find the food groups in
 each. They then draw their own balanced-meal plate, which becomes a portfolio artifact.
-The lesson closes the meal-building objective by showing that every tradition has its own
-balanced meal, and every one is worthy of honor.
+The lesson closes the meal-building objective by showing that every tradition has its
+own balanced meal, and every one is worthy of honor (S-118).
 
 ## Objectives
 
@@ -95,8 +95,8 @@ balanced meal, and every one is worthy of honor.
 A cook in a rice-growing land builds a meal from rice, beans, and greens. A cook in a
 wheat-growing land builds one from flatbread, lentils, and vegetables. A cook in a
 maize-growing land builds one from maize, fish, and fruit. The foods change with the
-land, but the idea stays the same: **a balanced meal reaches into several groups**. Today
-you will travel the world's kitchens and find that idea everywhere.
+land, but the idea stays the same: **a balanced meal reaches into several groups**.
+Today you will travel the world's kitchens and find that idea everywhere.
 
 ## Materials
 
@@ -182,5 +182,5 @@ each food belongs to, and draw it together if you like.
 
 ## Resources
 
-- World Health Organization, "Healthy diet" (variety across food groups):
-  <https://www.who.int/news-room/fact-sheets/detail/healthy-diet>
+- On healthy traditional dietary patterns in every region, each shaped by its own food
+  culture: FAO — Food-based dietary guidelines (S-118).

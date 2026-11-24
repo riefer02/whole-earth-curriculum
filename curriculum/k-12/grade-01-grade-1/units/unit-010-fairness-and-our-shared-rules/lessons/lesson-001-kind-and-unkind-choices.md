@@ -93,7 +93,7 @@ That warm feeling came from a **kind choice**. Think of a time someone grabbed a
 out of your hands or said a mean word. That hurt came from an **unkind choice**.
 Choices are things people *do*, not things people *are* — and we can all choose
 again. Everywhere in the world, in every home and every classroom, people make kind
-and unkind choices every day.
+and unkind choices every day (S-001).
 
 ## Materials
 
@@ -180,5 +180,5 @@ the street, or in a story. Tell a grown-up which is which.
 
 ## Resources
 
-- CASEL SEL Framework (foundational competencies, including responsible
-  decision-making): <https://casel.org/fundamentals-of-sel/>
+- On making caring, constructive choices as a core competency, for classroom framing:
+  CASEL — Fundamentals of Social and Emotional Learning (S-001).

@@ -84,10 +84,10 @@ last_updated: 2026-08-16
 ## Summary
 
 Learners name one way people **use** water or energy — for a drink, for washing, for
-light, for cooking — and one way to **save** some of it: turning off the tap, turning off
-the light, using just enough. They actually do one saving action and say why it helps,
-learning that saving is care and agency, not guilt, and that in places where water is
-scarce, every drop saved truly matters.
+light, for cooking — and one way to **save** some of it: turning off the tap, turning
+off the light, using just enough. They actually do one saving action and say why it
+helps, learning that saving is care and agency, not guilt, and that in places where
+water is scarce, every drop saved truly matters.
 
 ## Objectives
 
@@ -125,7 +125,7 @@ truly matters.
 2. No act is too small. Where water is scarce, wasting less may be the most important
    act of all.
 3. Many people worldwide still lack safely managed drinking water (see Resources);
-   saving is fairness to them.
+   saving is fairness to them (S-065).
 4. **Distinguish evidence from values**: "turning off the tap saves water" is a fact;
    "we should save water" is a value we hold because we care for life.
 
@@ -187,10 +187,10 @@ point to the action and a "saves" picture.
 ## Home connection
 
 Take your promise card home. Do the saving action with a grown-up — turn off a tap, turn
-off a light, or take just enough water — and tell them why it helps our shared Earth home.
+off a light, or take just enough water — and tell them why it helps our shared Earth
+home.
 
 ## Resources
 
-- WHO/UNICEF Joint Monitoring Programme (JMP) for Water Supply, Sanitation and Hygiene —
-  worldwide, about 1 in 4 people still lack safely managed drinking water, supporting the
-  claim that saving water is an act of fairness. https://washdata.org/
+- On how many people still lack safely managed drinking water: WHO/UNICEF JMP — WASH
+  (Washdata) (S-065).

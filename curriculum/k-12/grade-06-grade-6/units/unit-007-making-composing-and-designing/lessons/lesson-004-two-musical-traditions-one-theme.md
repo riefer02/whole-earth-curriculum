@@ -106,7 +106,7 @@ carries the joy. But celebration does not sound the same in every place. At one 
 the drums sway and swing so bodies can dance; at another the drums crack together in one
 great voice so the whole street feels it. Neither is "better"; each grew in a place, with
 its instruments and its people. Listening for the *difference* — the groove, the unison,
-the call-and-answer — is how we hear another community's joy with respect.
+the call-and-answer — is how we hear another community's joy with respect (S-188).
 
 ## Materials
 
@@ -194,3 +194,5 @@ wedding, a game, or a holiday — and name one way each expresses joy differentl
   <https://folkways.si.edu/tools-for-teaching>
 - UNESCO's Intangible Cultural Heritage list includes samba de roda (Brazil) and frames
   these musics as living heritage: <https://ich.unesco.org/>
+- On call-and-response, interlocking rhythms, and music carrying meaning across world traditions: Smithsonian Folkways Recordings (S-188).
+

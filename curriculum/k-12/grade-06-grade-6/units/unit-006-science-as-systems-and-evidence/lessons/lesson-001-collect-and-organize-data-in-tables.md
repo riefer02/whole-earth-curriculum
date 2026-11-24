@@ -98,7 +98,7 @@ supported or revised.
 ## Connection
 
 Every market stall, weather report, and farm record is built the same way: someone
-wrote down what they saw, one observation per line, under a clear heading. A fisher
+wrote down what they saw, one observation per line, under a clear heading (S-242). A fisher
 counting the day's catch, a gardener noting how much each plant grew, a nurse
 recording each person's temperature — all of them are making tables. A table is just
 a promise to write things down the *same way every time*, so that later the numbers
@@ -176,3 +176,5 @@ pattern you notice back to share.
   <https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics>
 - BBC Bitesize (KS3), "Different types of data" — turning observations into organised
   tables: <https://www.bbc.co.uk/bitesize/topics/zsg6m39/articles/zxkh6g8>
+- On recording observations and organizing data: BBC Bitesize (KS3) — Working scientifically: different types of data, graphs and charts, observation and measurement, bias in science (S-242).
+

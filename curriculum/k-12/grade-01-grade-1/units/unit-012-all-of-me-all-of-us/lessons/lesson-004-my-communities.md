@@ -93,7 +93,7 @@ You do not live alone — you belong to circles of people. Your **family** is on
 community. Your **class** is another. Your **neighborhood** is another. So are a
 faith community, a sports team, a market you visit, or a group of people who speak
 your language. A community is a group of people who share something and do things
-together. Communities look different all over the world — some gather around a well,
+together (S-158). Communities look different all over the world — some gather around a well,
 a market, a festival, or a game — and no community is better than another. They are
 just different ways people belong.
 
@@ -157,3 +157,10 @@ pictures or objects.
 
 Ask someone at home what communities *they* belong to, and add one new circle to your
 web.
+
+## Resources
+
+- On belonging and learning to live together as a foundation of education: UNESCO —
+  Learning to Live Together (S-158).
+- On communes and communities doing shared work together across cultures:
+  Communal-work (mutual-aid) traditions (S-164).

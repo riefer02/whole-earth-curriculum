@@ -125,7 +125,7 @@ of writing: it lets the author check the order.
    then **next**, then **last**. Use your plan. Draw a picture beside your sentences
    if you like.
 4. **Read it back (10 min).** Read your story aloud to yourself, then to a partner.
-   Check: does the order match first, next, last? Fix anything that is out of order.
+   Check: does the order match first, next, last? Fix anything that is out of order (S-102).
 5. **Close (5 min).** You are an **author**. You wrote a story in order, and it
    will keep its meaning every time it is read.
 
@@ -150,5 +150,5 @@ Read your story to someone at home tonight, and ask them to tell you which part 
 
 ## Resources
 
-- Kirschner, Sweller & Clark (2006), "Why Minimal Guidance During Instruction Does
-  Not Work" — explicit modeling before independent writing.
+- On the writing process — planning, drafting, and reviewing what is written: Graham &
+  Perin — Writing Next (S-102).

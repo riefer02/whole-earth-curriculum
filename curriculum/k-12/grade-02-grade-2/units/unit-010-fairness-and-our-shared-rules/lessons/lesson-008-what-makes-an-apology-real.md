@@ -84,7 +84,7 @@ last_updated: 2026-08-16
 Learners discover what makes an apology real: **meaning it** and **trying to fix the
 harm**. They tell the difference between an empty "sorry" and a real apology that
 names what happened, notices the other person's feelings, and repairs the hurt — so
-both people can be well again.
+both people can be well again (S-022).
 
 ## Objectives
 
@@ -184,5 +184,5 @@ grown-up, practice adding the fix so the apology is real.
 
 ## Resources
 
-- International Institute for Restorative Practices (repairing harm rather than only
-  punishing): <https://www.iirp.edu/>
+- On repair — naming the harm and making it right rather than only punishing:
+  International Institute for Restorative Practices (IIRP) (S-022).

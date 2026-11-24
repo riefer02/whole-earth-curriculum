@@ -92,9 +92,9 @@ talking; learning to listen is the beginning of understanding ourselves.
 Put your hand on your chest right after you run fast — your heart is pounding. That is
 your body talking. Your body talks all the time, not just when you run. When you are
 mad, your shoulders might pull up tight. When you are scared or excited, your heart
-beats fast. When you are sad, your chest can feel heavy. Your body is a messenger, and
-learning to listen to it helps you know what you are feeling before you even have the
-words.
+beats fast. When you are sad, your chest can feel heavy (S-339). Your body is a
+messenger, and learning to listen to it helps you know what you are feeling before you
+even have the words.
 
 ## Materials
 
@@ -159,5 +159,5 @@ shoulders" — and ask them where *they* feel mad or sad.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On the body's stress response — tense muscles, faster heart, quicker breathing:
+  Cleveland Clinic — What Happens During Fight-or-Flight Response? (S-339).

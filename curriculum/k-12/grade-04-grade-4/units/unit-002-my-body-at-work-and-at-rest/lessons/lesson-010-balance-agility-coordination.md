@@ -98,9 +98,9 @@ rest.
 When you walk a narrow log over a stream, you use **balance**. When you dart between
 people at a busy market without bumping anyone, you use **agility**. When you toss and
 catch a ball while running, you use **coordination**. These three skills show up in
-every sport and dance on Earth — a surfer balancing on a wave, a footballer weaving
-past players, a drummer coordinating both hands. And every one of them can be done
-standing, seated, or with wheels.
+every sport and dance on Earth — a surfer balancing on a wave, a footballer weaving past
+players, a drummer coordinating both hands. And every one of them can be done standing,
+seated, or with wheels (S-342).
 
 ## Materials
 
@@ -160,10 +160,10 @@ into joyful, inclusive movement.
 
 ## Resources
 
-- World Health Organization — physical activity fact sheet:
-  <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
-- Nemours KidsHealth — how muscles move the body and why using them matters:
-  <https://kidshealth.org/en/kids/muscles.html>
+- On muscles moving the body and using them keeping them strong: Nemours KidsHealth —
+  heart, lungs, sweat, and muscles (S-098).
+- On inclusive access to physical education and sport for every person: UNESCO —
+  International Charter of Physical Education, Physical Activity and Sport (S-342).
 
 ## Home connection
 

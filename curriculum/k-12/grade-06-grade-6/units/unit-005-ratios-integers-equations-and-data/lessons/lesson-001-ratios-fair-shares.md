@@ -98,7 +98,7 @@ same fairness holds for any size of group.
 Two families share a harvest basket: for every 2 oranges one family takes, the other takes 3
 apples — because oranges are bigger and rarer. If a third family joins and the basket doubles,
 "fair" now means **4 oranges and 6 apples**, not 2 and 3. The ratio **2 : 3** is a recipe for
-fairness that scales to any number of people. From dividing a catch of fish to mixing paint to
+fairness that scales to any number of people (S-026). From dividing a catch of fish to mixing paint to
 sharing a sack of grain, people everywhere use "for every" thinking to keep shares equal.
 
 ## Materials
@@ -125,7 +125,7 @@ multiplying (2:3 → 4:5 instead of 4:6). Retrieval: ask learners to recall shar
 fractions from earlier grades — a ratio is a new, clearer way to hold that same
 fairness. The fairness lens is central (`docs/philosophy.md` §4): ratios are how "equal
 shares" is made exact. Note the global point: ratio and proportion appear in records
-from ancient Egypt, Mesopotamia, and India (for example, the *Baudhayana* rules for
+from ancient Egypt (S-288), Mesopotamia, and India (for example, the *Baudhayana* rules for
 scaling a sacrificial altar by proportion) — "for every" thinking is a human universal,
 not one culture's invention.
 
@@ -175,3 +175,6 @@ kinds of fruit) and write its ratio; then double it and write the new ratio.
   (e.g., the *Baudhayana Sulba Sutra* on scaling altars); treating all traditions as worthy is a value
   (`docs/philosophy.md` §4). The claim that fairness means equal shares is a value commitment, not a
   mathematical fact.
+- On ratio as a comparison and equivalent ratios: John A. Van de Walle, Karen S. Karp & Jennifer M. Bay-Williams — Elementary and Middle School Mathematics: Teaching Developmentally (S-026).
+- On proportional division in the Rhind Papyrus: MacTutor History of Mathematics Archive — Mathematics in Egyptian Papyri (Rhind Papyrus) (S-288).
+

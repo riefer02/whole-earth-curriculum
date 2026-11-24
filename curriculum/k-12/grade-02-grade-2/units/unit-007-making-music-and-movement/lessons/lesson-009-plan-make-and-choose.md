@@ -118,15 +118,15 @@ the whole flow on one making task.
 ## Facilitator note
 
 The flow is a **skill structure**, so model it once — you plan aloud, make, compare two
-ways, and choose — before learners run it themselves (Kirschner, Sweller & Clark, 2006).
-Keep the three boxes as pictures or spoken words; reading and writing are not required.
-Let learners travel the flow at their own speed — some will go once, some several times;
-both are complete. Treat "choose" as a step that always has a reason, not a search for a
-single right answer. A learner with limited fine motor narrates and directs while a
-partner builds — deciding is making. A learner who is blind or has low vision travels
-the flow by feel and spoken steps; the flow chart can be made tactile (a string line
-with a stone at each box). A learner who does not speak points to each box as they reach
-it and to the chosen way. Honor every journey through the flow.
+ways, and choose — before learners run it themselves (Kirschner, Sweller & Clark, 2006;
+S-011). Keep the three boxes as pictures or spoken words; reading and writing are not
+required. Let learners travel the flow at their own speed — some will go once, some
+several times; both are complete. Treat "choose" as a step that always has a reason, not
+a search for a single right answer. A learner with limited fine motor narrates and
+directs while a partner builds — deciding is making. A learner who is blind or has low
+vision travels the flow by feel and spoken steps; the flow chart can be made tactile (a
+string line with a stone at each box). A learner who does not speak points to each box
+as they reach it and to the chosen way. Honor every journey through the flow.
 
 ## Procedure
 
@@ -170,3 +170,8 @@ it and to the chosen way. Honor every journey through the flow.
 
 At home, choose a small making job and travel the flow with a grown-up: plan, make,
 compare two ways, and choose. Tell them which step was your favorite.
+
+## Resources
+
+- On walking through the whole plan–make–choose flow as a model first: Kirschner,
+  Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

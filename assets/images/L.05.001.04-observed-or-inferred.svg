@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t-l0500104 d-l0500104">
+  <title id="t-l0500104">One scene, two kinds of statement</title>
+  <desc id="d-l0500104">A courtyard scene with an overturned water pot, a spreading wet patch, paw prints crossing it, and a cat sitting to one side. One label joined by a leader line reads "I saw: water on the ground." Another reads "I reasoned: the pot tipped over."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">I Saw It, I Reasoned It</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">one scene, two kinds of statement</text>
+
+  <rect x="30" y="84" width="452" height="256" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- leader lines first, so they meet the artwork cleanly -->
+  <line x1="270" y1="128" x2="282" y2="290" stroke="#4f6d7a" stroke-width="2"/>
+  <line x1="112" y1="128" x2="150" y2="248" stroke="#4f6d7a" stroke-width="2"/>
+
+  <!-- ground -->
+  <line x1="44" y1="302" x2="468" y2="302" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- wet patch -->
+  <path d="M190 301 Q200 284 232 288 Q272 280 306 292 Q322 296 324 301 Z" fill="#6b93b6" opacity="0.45"/>
+
+  <!-- paw prints -->
+  <g fill="#4f6d7a" opacity="0.6">
+    <ellipse cx="240" cy="294" rx="8" ry="5"/>
+    <ellipse cx="262" cy="299" rx="8" ry="5"/>
+    <ellipse cx="284" cy="294" rx="8" ry="5"/>
+    <ellipse cx="304" cy="299" rx="8" ry="5"/>
+  </g>
+
+  <!-- overturned pot -->
+  <path d="M104 250 Q86 274 104 298" fill="none" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="96" y="248" width="84" height="52" rx="16" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <ellipse cx="180" cy="274" rx="11" ry="26" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- cat -->
+  <path d="M392 301 Q380 301 380 279 Q380 259 396 257 Q410 257 412 275 Q412 293 404 301 Z" fill="#4f6d7a"/>
+  <circle cx="404" cy="246" r="14" fill="#4f6d7a"/>
+  <polygon points="393,238 390,226 400,233" fill="#4f6d7a"/>
+  <polygon points="413,236 419,224 421,238" fill="#4f6d7a"/>
+  <path d="M412 292 Q430 292 434 278" fill="none" stroke="#4f6d7a" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- labels -->
+  <text x="40" y="102" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">I reasoned:</text>
+  <text x="40" y="120" font-family="sans-serif" font-size="13" fill="#222222">the pot tipped over</text>
+  <text x="212" y="102" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">I saw:</text>
+  <text x="212" y="120" font-family="sans-serif" font-size="13" fill="#222222">water on the ground</text>
+
+  <text x="256" y="372" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Same scene. One statement came from your eyes;</text>
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">the other came from your thinking.</text>
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Ask: what would I check to be sure?</text>
+</svg>

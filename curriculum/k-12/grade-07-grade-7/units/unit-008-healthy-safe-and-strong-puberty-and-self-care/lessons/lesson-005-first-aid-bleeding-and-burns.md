@@ -157,7 +157,7 @@ they are automatic.
 3. **Burns (15 min).** Look at the burns panel. The steps: **cool** the burn under cool
    running water — never ice, which can harm the skin — for about 20 minutes if you can;
    **remove** tight items like rings; and **get adult or medical help** for large or deep
-   burns or burns to the face, hands, or feet. Never pop a blister. Practice the motions.
+   burns or burns to the face, hands, or feet (S-313). Never pop a blister (S-121). Practice the motions.
 4. **Scenario practice (10 min).** Draw a scenario card. Decide the steps and — always —
    whether to get help. Share your reasoning with a partner.
 5. **Close (5 min).** First aid is calm + correct + ask for help. You now know the first
@@ -190,3 +190,6 @@ being ready.
 - IFRC Global First Aid Reference Centre — evidence-based first-aid guidance:
   <https://www.globalfirstaidcentre.org/>
 - WHO — Burns fact sheet: <https://www.who.int/news-room/fact-sheets/detail/burns>
+- On first-aid steps for bleeding and burns: IFRC Global First Aid Reference Centre (GFARC) (S-313).
+- On burns and burn first aid: WHO — Burns fact sheet (S-121).
+

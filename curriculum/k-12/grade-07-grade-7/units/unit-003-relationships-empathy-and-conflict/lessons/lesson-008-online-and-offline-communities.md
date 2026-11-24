@@ -108,7 +108,7 @@ the others, and where what they know of you is mostly words and images. Both are
 belonging, but they work differently: offline belonging is local and immediate; online
 belonging can reach across the whole planet and can last long after you log off. And not
 everyone can join each kind equally — the internet is not evenly available to everyone on
-Earth, which matters to who gets to belong where.
+Earth, which matters to who gets to belong where (S-281).
 
 ## Materials
 
@@ -188,3 +188,5 @@ belonging feels different in each — then share one thing you noticed about acc
   <https://www.unicef.org/protection/violence-against-children-online>
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On how internet access varies by cost, geography, and disability: World Bank — World Development Report 2016: Digital Dividends (S-281).
+

@@ -94,9 +94,9 @@ eruption**, and learners sort sources and record two sources of their own.
 ## Connection
 
 Think of a photo you took yesterday of something that really happened — a meal, a storm, a
-game. That is like a **primary source**: it comes from the moment. Now think of a book or
+game. That is like a **primary source**: it comes from the moment (S-263). Now think of a book or
 video someone made *about* your town or country, years later. That is like a **secondary
-source**: it was made later, by someone who studied the first-hand evidence. Historians use
+source**: it was made later, by someone who studied the first-hand evidence (S-264). Historians use
 both, the way you might use your own photo *and* a book about your home — one shows the
 moment, the other steps back to explain it.
 
@@ -131,7 +131,7 @@ See `docs/facilitation.md`.
    answers: a **primary source** and a **secondary source**.
 2. **Meet the two kinds (10 min).** Look at the poster. On the left is a **primary
    source**: a ship captain's log written in **August 1883**, when the volcano **Krakatoa**
-   (in Southeast Asia, between Java and Sumatra) erupted. The captain wrote it **at the
+   (in Southeast Asia, between Java and Sumatra) erupted (S-262). The captain wrote it **at the
    time**, because he was there. On the right is a **secondary source**: a book called
    *Volcanoes: A History*, written in **2018**. Its author was not there in 1883; she
    studied the captain's log and other evidence, then wrote about it **later**.
@@ -179,3 +179,7 @@ time" (a photo, a letter, an object) and one thing made "later" (a story, a book
   Archives (<https://www.archives.gov/>) and the British Library
   (<https://www.bl.uk/>). Dates are approximations that scholars revise as new evidence
   appears; the source-kind idea, not the exact day, is what matters here.
+- On the distinction between primary and secondary sources: U.S. National Archives — Primary and Secondary Sources (S-263).
+- On primary sources and how historians study them: British Library — history of writing materials and primary sources (S-264).
+- On the 1883 eruption of Krakatoa as a documented historical event: Smithsonian Institution Global Volcanism Program — Krakatau (1883) (S-262).
+

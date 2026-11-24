@@ -96,7 +96,8 @@ of their own, stating how the fact could be checked.
 different sentences. The first you can **check** — ask people, look at records, watch through a
 season. The second is a matter of **taste** — someone's feeling, and another person may feel
 differently. Both have their place, but they are not the same thing. Learning to tell them
-apart is how you keep from being fooled — in a market, in the news, in a family argument.
+apart is how you keep from being fooled — in a market, in the news, in a family
+argument (S-063).
 
 ## Materials
 
@@ -160,6 +161,9 @@ which and why.
 
 ## Resources
 
-- Fact/opinion distinction is a foundational critical-literacy skill; for classroom framing
-  see Duke & Pearson's synthesis of comprehension strategy research and the IES practice guides.
-  On critical thinking as a habit across subjects, see the framing in `docs/philosophy.md`.
+- On evaluating whether a claim is reliable — and asking how it could be checked — as
+  a media-literacy skill: Common Sense Education — News and Media Literacy,
+  <https://www.commonsense.org/education/digital-citizenship/topic/news-and-media-literacy> (S-063).
+- On explicit instruction in comprehension and critical-reading strategies in the
+  middle grades: IES, *Improving Adolescent Literacy*,
+  <https://ies.ed.gov/ncee/wwc/practiceguide/8> (S-170).

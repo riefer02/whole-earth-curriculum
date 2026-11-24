@@ -83,7 +83,7 @@ last_updated: 2026-08-18
 
 ## Summary
 
-Learners meet the relationship that rules everyday motion: **force = mass × acceleration**.
+Learners meet the relationship that rules everyday motion: **force = mass × acceleration** (S-302).
 By pushing light and heavy objects with the same effort, they discover for themselves that
 more force means more acceleration, and more mass means less — and they restate it in words
 and arrows.
@@ -175,3 +175,5 @@ bottle, a light and heavy ball). Describe which speeds up more and why.
   (`docs/philosophy.md` §4).
 - On explicit instruction for novice content: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On Newton's second law of motion: Isaac Newton — Philosophiæ Naturalis Principia Mathematica (S-302).
+

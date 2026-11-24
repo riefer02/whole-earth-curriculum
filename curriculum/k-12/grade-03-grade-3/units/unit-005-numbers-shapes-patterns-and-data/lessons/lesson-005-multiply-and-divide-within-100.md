@@ -103,7 +103,7 @@ seamstress cuts three strips for each of nine cloths. No one counts every object
 at a time — people use **known facts** and build new ones from them: if you know 4 × 5
 is 20, then 4 × 6 is just one more four. The multiplication table is not a page to
 memorize by fear; it is a map of patterns that many cultures built the same way, by
-skip counting and doubling. Today you make the map your own.
+skip counting and doubling (S-023). Today you make the map your own.
 
 ## Materials
 
@@ -124,7 +124,7 @@ already owns.
 
 **The facts to land.**
 1. Fluency within 100 means using **known facts and strategies** — doubling, halving,
-   skip counting, fact families — not memorising in isolation.
+   skip counting, fact families — not memorising in isolation (S-026).
 2. A fact family shows four facts at once: 5 × 6 = 30, 6 × 5 = 30, 30 ÷ 5 = 6, 30 ÷ 6
    = 5.
 3. A child who reasons to a fact is fluent; a child who races but cannot explain is
@@ -190,7 +190,9 @@ already knew.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson. (Building
-  multiplication fluency from known facts, doubling, halving, and the distributive
-  property, rather than rote memorization.)
+- On teaching mathematics developmentally — building new facts from known ones (doubling,
+  skip counting) rather than rote memorization: Van de Walle, Karp & Bay-Williams (2019) —
+  Elementary and Middle School Mathematics: Teaching Developmentally (S-026).
+- On doubling and skip counting in the history of number systems: Georges Ifrah (2000) —
+  The Universal History of Numbers (S-023).
+

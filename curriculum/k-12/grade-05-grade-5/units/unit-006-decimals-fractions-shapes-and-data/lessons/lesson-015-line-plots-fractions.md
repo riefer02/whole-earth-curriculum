@@ -94,9 +94,9 @@ the **range** (largest minus smallest), and the **number of data points**.
 A class measures the lengths of ten bean sprouts to the nearest **eighth** of a unit: 1/2, 5/8,
 3/4, and so on. If they write all ten numbers in a list, the pattern is hard to see. But if they
 draw a number line and put an **X** above each length, the picture appears instantly: most
-sprouts are around **3/4**. A **line plot** turns a pile of numbers into a picture you can read —
-the same tool a weather station, a clinic, or a farmer uses to see what is common and what is
-rare.
+sprouts are around **3/4**. A **line plot** turns a pile of numbers into a picture you can read (S-301) —
+the same tool a weather station, a clinic, or a farmer uses to see what is common and
+what is rare.
 
 ## Materials
 
@@ -162,6 +162,8 @@ make a line plot of their lengths with someone at home.
 
 ## Resources
 
-- Line plots with fractions are standard in elementary mathematics; see John A. Van de Walle,
-  *Elementary and Middle School Mathematics* (10th ed., 2019). The value of honest, complete
-  data display is a commitment (`docs/philosophy.md` §7).
+- On presenting data so that what is common and what is rare can be read at a glance:
+  Encyclopaedia Britannica — Probability and statistics,
+  <https://www.britannica.com/science/probability> (S-301).
+- On line plots and fractional data in the upper elementary grades: Van de Walle, Karp &
+  Bay-Williams — *Elementary and Middle School Mathematics* (S-026).

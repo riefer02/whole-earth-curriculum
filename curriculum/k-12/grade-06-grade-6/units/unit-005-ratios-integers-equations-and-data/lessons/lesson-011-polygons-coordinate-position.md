@@ -131,7 +131,7 @@ carry the information, and a learner can always rebuild it from the axes.
 - *Intellectual:* two signed numbers locate one exact point.
 - *Global:* coordinate grids trace to Descartes, but locating a place by two distances —
   latitude and longitude, grid squares on a map — is older and appears in surveying and
-  navigation traditions worldwide.
+  navigation traditions worldwide (S-299).
 - *Critical-thinking:* reading coordinates exactly, not guessing, is honest reasoning
   (`docs/philosophy.md` §7).
 
@@ -185,3 +185,5 @@ left of zero or below zero; tell someone the quadrant of each corner.
   distances predates Cartesian coordinates and appears in global surveying and navigation is a historical
   observation; reading coordinates exactly rather than guessing is a critical-thinking value
   (`docs/philosophy.md` §7).
+- On Ptolemy's Geography and coordinate mapping: Encyclopaedia Britannica — Ptolemy (S-299).
+

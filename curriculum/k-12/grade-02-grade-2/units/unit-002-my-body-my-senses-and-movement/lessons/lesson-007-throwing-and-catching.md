@@ -91,7 +91,7 @@ their own distance with the ball size that fits them.
 Think of a game you have played with a ball, or a time you tossed something to a
 friend. Throwing and catching are how people play together all over the world — in a
 courtyard, a field, a beach, or a schoolyard. Using both hands, and practicing over
-and over, is how your hands learn to be ready and sure.
+and over, is how your hands learn to be ready and sure (S-069).
 
 ## Materials
 
@@ -150,3 +150,8 @@ learning.
 
 At home, throw and catch a rolled-up pair of socks or a soft ball with someone, using
 both hands.
+
+## Resources
+
+- On physical activity building children's motor development: WHO — Physical activity
+  fact sheet (S-069).

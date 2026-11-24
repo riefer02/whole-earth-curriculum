@@ -90,8 +90,8 @@ words (for example, the root **port**, meaning "carry," grows into *portable*,
 Think of a family: many people, one shared name, one shared story. Words have families
 too. A **root** is the shared part that carries the core meaning, and the words built on
 it are its children. If you know what the root means, you can often guess a whole word
-you have never met — like recognizing a family member by the family name. Roots turn a
-strange word into a familiar one.
+you have never met (S-040) — like recognizing a family member by the family name. Roots
+turn a strange word into a familiar one.
 
 ## Materials
 
@@ -106,13 +106,13 @@ strange word into a familiar one.
 ## Facilitator note
 
 Roots are a taught skill, so model the word tree with a worked example, thinking aloud
-about how the root's meaning lives inside each word (Kirschner, Sweller & Clark, 2006).
-Use roots that clearly carry meaning, such as **port** ("carry"), **struct** ("build"),
-or **spect** ("look"). This is script- and language-agnostic: every language builds
-words from meaningful parts, though the parts differ; invite learners to share roots
-from their own languages too. The goal is meaning-making, not memorizing a list — a
-learner who can explain *why* a word means what it does has the skill. Honor guesses and
-explanations in the learner's own language, and be generous: a reasonable connection
+about how the root's meaning lives inside each word (Kirschner, Sweller & Clark, 2006,
+S-011). Use roots that clearly carry meaning, such as **port** ("carry"), **struct**
+("build"), or **spect** ("look"). This is script- and language-agnostic: every language
+builds words from meaningful parts, though the parts differ; invite learners to share
+roots from their own languages too. The goal is meaning-making, not memorizing a list —
+a learner who can explain *why* a word means what it does has the skill. Honor guesses
+and explanations in the learner's own language, and be generous: a reasonable connection
 between root and word is success, not a perfect etymology. Where a digital word-part
 tool is used, treat it as a helper to confirm, not a substitute for the thinking.
 
@@ -157,7 +157,7 @@ up — then name another word that shares it.
 
 ## Resources
 
-- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during
-  instruction does not work. *Educational Psychologist*, 41(2), 75–86.
-- National Reading Panel (2000). Report on vocabulary and morphology (word parts).
-  (Widely used evidence base.)
+- On vocabulary and morphology (word parts) instruction: National Reading Panel —
+  Teaching Children to Read (S-040).
+- On worked examples and explicit instruction: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

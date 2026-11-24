@@ -79,7 +79,7 @@ last_updated: 2026-08-15
 
 Learners listen to a short, gentle story and practice giving one reason why a
 character made a good choice and one reason why a character made a hurtful choice.
-Reasons help us understand people; they do not make a hurtful choice okay.
+Reasons help us understand people; they do not make a hurtful choice okay (S-231).
 
 ## Objectives
 
@@ -169,3 +169,9 @@ move the puppets. A learner may always pass.
 
 At home, tell the story to someone and ask them, "Why do you think the character did
 that?" Listen to their reason and share yours.
+
+## Resources
+
+- On perspective-taking — working out why another person acted as they did — as a
+  well-studied route to understanding and prosocial behavior: Decety & Cowell —
+  Empathy, Perspective-Taking, and Morality (S-231).

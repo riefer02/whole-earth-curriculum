@@ -62,7 +62,7 @@ assets:
     source: original
 duration_minutes: 50
 summary: >-
-  Learners explain how traits pass from parents to offspring: offspring receive the
+  Learners explain how traits pass from parents to offspring (S-177): offspring receive the
   instructions for their traits from both parents, so they resemble their parents
   while still being their own unique living thing. They match offspring to parents
   and gather evidence from the living world around them.
@@ -85,7 +85,8 @@ last_updated: 2026-08-17
 
 Learners explain **inheritance**: how **traits** (features like coat color, ear
 shape, kernel color, or leaf shape) pass from **parents** to **offspring** through
-instructions carried in the parents' cells. They match offspring to their parents
+instructions carried in the parents' cells (S-177). They match offspring to their
+parents
 and gather evidence that offspring resemble their parents — in every culture and
 ecosystem on Earth.
 
@@ -174,8 +175,9 @@ one trait the young share with a parent, and one way each is still their own.
 
 ## Resources
 
-- Encyclopaedia Britannica, "Heredity" — how traits pass from parents to offspring
-  (an age-appropriate overview): <https://www.britannica.com/science/heredity-genetics>
-- The cross-cultural practice of selecting plants and animals with valued traits is a
-  documented part of agricultural history worldwide (see FAO's work on crop genetic
-  resources: <https://www.fao.org/cgrfa/en/>).
+- On heredity — how offspring inherit instructions for traits from both parents, and
+  why they resemble their parents without being identical: Encyclopaedia Britannica —
+  Heredity, <https://www.britannica.com/science/heredity-genetics> (S-177).
+- On selecting plants and animals with valued traits as a long, worldwide agricultural
+  practice: FAO — Commission on Genetic Resources for Food and Agriculture,
+  <https://www.fao.org/cgrfa/en/> (S-178).

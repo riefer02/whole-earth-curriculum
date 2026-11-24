@@ -84,7 +84,7 @@ last_updated: 2026-08-16
 
 Learners explain two ways a group makes a fair decision together — **talking it
 through** and **taking a vote** — and practice making a real shared decision where
-every voice matters, not just the loudest or fastest.
+every voice matters, not just the loudest or fastest (S-238).
 
 ## Objectives
 
@@ -181,6 +181,5 @@ vote. Say which way you used and how it felt.
 
 ## Resources
 
-- Pratham's "Teaching at the Right Level" and Escuela Nueva's cooperative structures
-  (peer and group decision-making): see `docs/contexts.md` for a summary of the
-  evidence.
+- On classroom talk in which every voice is heard and ideas are built together:
+  Michaels & O'Connor — Accountable Talk / Talk Moves (S-238).

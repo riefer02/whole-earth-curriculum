@@ -120,10 +120,10 @@ recipe of yourself and notice the person it is making.
 **Tone.** Warm and wondering — a growing person, not a test.
 
 **The facts to land.**
-1. Every child is becoming someone, and no one is finished.
+1. Every child is becoming someone, and no one is finished (S-155).
 2. There are no "best" interests or abilities; a love of caring for a pet is as real as
    a love of numbers.
-3. "Sense of self" is the story I tell myself about who I am.
+3. "Sense of self" is the story I tell myself about who I am (S-404).
 
 **Don't overshoot.** Keep the reflection *descriptive, not ranked*. Do not let one
 interest become the impressive one.
@@ -198,6 +198,9 @@ that shaped you.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness): <https://casel.org/fundamentals-of-sel/>
-- Erikson, E. H. (1950). *Childhood and Society* — identity as a developing, lifelong
-  process (for facilitator background).
+- On self-awareness as a core competency: CASEL — Fundamentals of Social and Emotional
+  Learning (S-001).
+- On identity as a developing, lifelong process: Erikson — Childhood and Society
+  (S-155).
+- On the self as a story a person tells about who they are: McAdams — The Psychology of
+  Life Stories (S-404).

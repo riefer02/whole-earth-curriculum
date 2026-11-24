@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-001-03-error-bars desc-L-09-001-03-error-bars">
+  <title id="title-L-09-001-03-error-bars">Best estimates and likely ranges for three kinds of warming</title>
+  <desc id="desc-L-09-001-03-error-bars">A horizontal number line from 0 to 2 degrees Celsius shows three thick range bars, each with a thin line marking the best estimate. Global surface warming is 1.09 degrees, likely between 0.95 and 1.20. Land warming is 1.59 degrees, likely between 1.34 and 1.83. Ocean warming is 0.88 degrees, likely between 0.68 and 1.01, all compared with 1850 to 1900. The land and ocean bars do not overlap, so their difference is larger than the uncertainty.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">One Number, One Range</text>
+  <text x="256" y="62" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">2011–2020 compared with 1850–1900</text>
+
+  <!-- gridlines behind the bars -->
+  <line x1="185" y1="96" x2="185" y2="326" stroke="#e6e0d6" stroke-width="1.5"/>
+  <line x1="280" y1="96" x2="280" y2="326" stroke="#e6e0d6" stroke-width="1.5"/>
+  <line x1="375" y1="96" x2="375" y2="326" stroke="#e6e0d6" stroke-width="1.5"/>
+  <line x1="470" y1="96" x2="470" y2="326" stroke="#e6e0d6" stroke-width="1.5"/>
+
+  <!-- axis -->
+  <line x1="90" y1="340" x2="470" y2="340" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="90" y1="334" x2="90" y2="346" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="185" y1="334" x2="185" y2="346" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="280" y1="334" x2="280" y2="346" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="375" y1="334" x2="375" y2="346" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="470" y1="334" x2="470" y2="346" stroke="#2b3a42" stroke-width="2"/>
+  <text x="90" y="362" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">0</text>
+  <text x="185" y="362" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">0.5</text>
+  <text x="280" y="362" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">1.0</text>
+  <text x="375" y="362" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">1.5</text>
+  <text x="470" y="362" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">2.0 °C</text>
+
+  <!-- rows -->
+  <text x="24" y="135" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">global</text>
+  <line x1="271" y1="130" x2="318" y2="130" stroke="#6b93b6" stroke-width="12" stroke-linecap="round"/>
+  <line x1="297" y1="122" x2="297" y2="138" stroke="#2b3a42" stroke-width="3"/>
+  <text x="297" y="112" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">1.09 [0.95–1.20]</text>
+
+  <text x="24" y="220" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">land</text>
+  <line x1="345" y1="215" x2="438" y2="215" stroke="#7a9e7e" stroke-width="12" stroke-linecap="round"/>
+  <line x1="392" y1="207" x2="392" y2="223" stroke="#2b3a42" stroke-width="3"/>
+  <text x="392" y="197" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">1.59 [1.34–1.83]</text>
+
+  <text x="24" y="305" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">ocean</text>
+  <line x1="219" y1="300" x2="282" y2="300" stroke="#6b93b6" stroke-width="12" stroke-linecap="round"/>
+  <line x1="257" y1="292" x2="257" y2="308" stroke="#2b3a42" stroke-width="3"/>
+  <text x="257" y="282" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">0.88 [0.68–1.01]</text>
+
+  <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">warming (°C)</text>
+  <text x="256" y="432" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">Bar = likely range; the line = best estimate.</text>
+  <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">No overlap means the difference is bigger than the uncertainty.</text>
+</svg>

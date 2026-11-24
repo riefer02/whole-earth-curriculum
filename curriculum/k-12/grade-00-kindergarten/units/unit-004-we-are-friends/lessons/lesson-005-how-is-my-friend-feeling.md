@@ -88,7 +88,7 @@ naming what a friend might be feeling.
 Every day, your friends tell you how they feel without saying a word — a smile, a
 slumped shoulder, a teary eye, a loud laugh. When you notice those clues, you can
 understand your friend and know how to help. Reading feelings is a language everyone
-can learn, in every place on Earth.
+can learn, in every place on Earth (S-160).
 
 ## Materials
 
@@ -138,6 +138,7 @@ answer is always "let's ask them."
 
 - CASEL SEL Framework (foundational competencies):
   <https://casel.org/fundamentals-of-sel/>
+- On how families and cultures show feeling differently (display rules): Ekman & Friesen — The Repertoire of Nonverbal Behavior (S-160).
 
 ## Home connection
 

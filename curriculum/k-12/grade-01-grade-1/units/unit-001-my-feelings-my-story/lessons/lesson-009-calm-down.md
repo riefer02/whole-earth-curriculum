@@ -88,7 +88,7 @@ tool that helps, never a punishment, and everyone gets upset sometimes.
 
 Everyone gets upset sometimes — angry, scared, or so excited it feels like too much.
 When that happens, your body might go tight and fast. A calming strategy helps your
-body slow down so your heart and mind can catch up. It is not a punishment; it is a
+body slow down so your heart and mind can catch up (S-340). It is not a punishment; it is a
 tool you can carry with you anywhere, like a deep breath in your pocket.
 
 ## Materials
@@ -149,5 +149,7 @@ Teach your calming strategy to someone at home, and try it together once before 
 
 ## Resources
 
-- CASEL SEL Framework (self-management competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On slow breathing as a way to quiet the body's stress response: Harvard Health —
+  Relaxation techniques: Breath control helps quell errant stress response (S-340).
+- On managing one's own emotions as a core competency, for classroom framing: CASEL —
+  Fundamentals of Social and Emotional Learning (S-001).

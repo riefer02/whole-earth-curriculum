@@ -107,7 +107,7 @@ have solved the same problem.
 ## Facilitator note
 
 **Comparing is a foundational skill, so model it once before independent work**
-(Kirschner, Sweller & Clark, 2006): hold up a candle and a lamp, and think aloud — "Both
+(Kirschner, Sweller & Clark, 2006, S-011): hold up a candle and a lamp, and think aloud — "Both
 give light. That is the same. The candle burns with a flame; the lamp uses a bulb. That
 changed." Then guide the same two moves for a second pair. **Never rank:** do not say
 old things were harder, slower, or worse. A candle-lantern and a pot carried on the head
@@ -163,3 +163,8 @@ speaking voice points to "same" and "different" spots.
 
 Ask someone at home about a tool or toy they used when they were little. What was it
 for? What is the same about what you use today, and what is different?
+
+## Resources
+
+- On modeling a new skill before learners work independently: Kirschner, Sweller &
+  Clark — Why Minimal Guidance Does Not Work (S-011).

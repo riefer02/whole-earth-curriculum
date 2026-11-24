@@ -130,7 +130,7 @@ change a cause, we can change an effect."
 2. **Meet the structure (10 min).** Look at the poster. It shows a chain: **heavy rain → river
    rises → fields flood → crops are lost**. Each box after the first is an **effect** caused by
    the one before it. Authors signal this with words like **because**, **so**, **as a result**,
-   and **therefore**. Find those words and you've found the chain.
+   and **therefore**. Find those words and you've found the chain (S-172).
 3. **Read and mark (15 min).** With a partner, read the short passage. Underline each **cause**
    once and each **effect** twice. Circle the **signal words** that connect them. Then draw the
    chain of boxes and arrows the author built.
@@ -160,7 +160,11 @@ the dry clothes — and say it aloud with a signal word.
 
 ## Resources
 
-- Text structure (cause/effect, problem/solution, compare/contrast, sequence) is a
-  well-established comprehension aid; see the Institute of Education Sciences "Improving
-  Adolescent Literacy" practice guide and Duke & Pearson's summary of comprehension strategy
-  research. On explicit instruction for novice skills, see Kirschner, Sweller & Clark (2006).
+- On text structure — including cause and effect — as an aid to reading
+  comprehension: Duke & Pearson (2002), in *What Research Has to Say About Reading
+  Instruction* (3rd ed.) (S-172).
+- On providing direct and explicit instruction in comprehension strategies: IES,
+  *Improving Adolescent Literacy*, <https://ies.ed.gov/ncee/wwc/practiceguide/8>
+  (S-170).
+- On explicit teaching of a new skill before independent practice: Kirschner, Sweller &
+  Clark (2006), <https://doi.org/10.1207/s15326985ep4102_1> (S-011).

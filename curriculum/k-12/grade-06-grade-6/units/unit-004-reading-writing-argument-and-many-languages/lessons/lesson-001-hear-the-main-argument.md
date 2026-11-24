@@ -99,7 +99,7 @@ field." Then she talks for a long time: people work there all day, there is no s
 woman carries water, the children play at noon, the market seller naps on his cart. If you
 walk away only remembering "she talked a lot," you missed the one thing she was really
 arguing for. **Listening for the main argument** is the skill of finding that one sentence —
-the **claim** — and seeing how everything else hangs off it as **details** and **examples**.
+the **claim** — and seeing how everything else hangs off it as **details** and **examples** (S-174).
 Whether the gathering is a village meeting or a city council, a strong listener can say back:
 "Her main point is ___, and the rest was support."
 
@@ -174,3 +174,5 @@ claim, then one detail and one example they used.
   "Listening Skills" primer and Duke & Pearson's synthesis of comprehension strategy research.
   On explicit instruction for novice skills, see Kirschner, Sweller & Clark (2006), "Why
   Minimal Guidance During Instruction Does Not Work."
+- On separating a speaker's main claim from its supporting detail: International Listening Association — Listening Skills resources (S-174).
+

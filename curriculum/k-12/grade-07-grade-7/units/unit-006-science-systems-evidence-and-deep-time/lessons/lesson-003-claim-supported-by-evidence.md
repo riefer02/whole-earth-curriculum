@@ -157,7 +157,7 @@ people.
 3. **Worked example (10 min).** Claim: "Eating breakfast improves memory." Evidence offered:
    one small study of 20 students for one week, no comparison group. Weigh it: a small sample
    and no control make the evidence **weak**. Further evidence that would help: a larger
-   sample, a control group, repetition by other researchers, and a "how" (a mechanism).
+   sample, a control group, repetition by other researchers, and a "how" (a mechanism) (S-489).
    Verdict: **not enough to say yet** — the claim might be true, but the evidence does not
    yet support it.
 4. **Grade your own (20 min).** Take your card set. For each claim, fill your three columns
@@ -195,3 +195,5 @@ at home. Note what evidence was offered and what was missing, and share your gra
   evidence in health information: <https://www.who.int/>
 - On explicit instruction for novice reasoning skills: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On replication and peer review as ways science checks a claim: Understanding Science (UC Museum of Paleontology) — How science works: peer review & replication (S-489).
+

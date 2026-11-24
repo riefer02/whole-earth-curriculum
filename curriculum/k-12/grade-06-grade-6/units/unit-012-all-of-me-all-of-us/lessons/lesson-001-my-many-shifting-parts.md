@@ -103,7 +103,7 @@ a cook of the family's food. At school they are a teammate, a question-asker, a 
 rules. At a celebration they are a dancer or a drummer, a speaker of the family's first
 language, a believer in something that matters. It is **the same person** — but different
 **parts** come forward in different places. That is identity: not one fixed label, but many
-parts that **shift by context**, while the whole person stays whole. A child who moved across
+parts that **shift by context**, while the whole person stays whole (S-001). A child who moved across
 the sea, a child who signs with their hands, a child who is new to the neighborhood — each has
 a set of parts that is complete and true, and none is more "real" than another.
 
@@ -180,3 +180,5 @@ grow this year — a skill, a kindness, a courage you may not have noticed yours
   social-awareness competencies; the idea that identity has multiple dimensions that shift by
   context is foundational in the study of identity development:
   <https://casel.org/fundamentals-of-sel/>
+- On self-awareness, including recognizing one's identities: CASEL — Fundamentals of Social and Emotional Learning (S-001).
+

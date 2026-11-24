@@ -132,11 +132,11 @@ separate question. See `docs/facilitation.md`.
    years.
 2. **Meet the society (10 min).** Listen to the story. Around the year 1464, in West Africa,
    the **Songhai** grew into a great empire along the **Niger River**, with the city of
-   **Timbuktu** at its heart. For about a hundred years, until about 1591, Timbuktu became a
+   **Timbuktu** at its heart (S-268). For about a hundred years, until about 1591, Timbuktu became a
    famous center of learning, where scholars wrote and copied thousands of books in Arabic
    and local languages. Meanwhile, all through that time, the **Niger River** still shaped
    farming and trade, and **griots** — storytellers who keep a people's history by word —
-   still passed the past from one generation to the next.
+   still passed the past from one generation to the next (S-269).
 3. **Worked example: sort change and continuity (15 min).** **Change** is what became
    different. **Continuity** is what stayed the same. Sort the ideas together: "a new empire
    rose and grew strong" is **change**; "the Niger River still shaped farming and trade" is
@@ -178,3 +178,6 @@ the years they can remember, and sort their answers into two columns together.
   griots of West Africa — hereditary keepers of oral history — are documented in West African
   oral tradition and scholarship (see the work of historians such as Djibril Tamsir Niane).
   Dates are approximations that scholars revise as new evidence appears.
+- On Timbuktu as a center of learning in the Songhai empire: UNESCO World Heritage Centre — Timbuktu (Dossier 119) (S-268).
+- On griots as hereditary keepers of oral history in West Africa: Djibril Tamsir Niane — Sundiata: An Epic of Old Mali (S-269).
+

@@ -143,7 +143,7 @@ responses gentle and non-shaming, as in the earlier lessons.
    tiredness, and say where each one lives in your body. What is your body telling you
    right now?
 4. **Move station (10 min).** To the beat, do your movement sequence: skip, gallop,
-   hop, jump — then balance on one foot, steady as a tree. Do it in your own body's
+   hop, jump — then balance on one foot, steady as a tree (S-101). Do it in your own body's
    way, with wheels or seated springs if that is you.
 5. **Careful-hands station (10 min).** Choose one careful job — cut along a line,
    thread some beads, or button a button — and do it slowly and well.
@@ -170,3 +170,10 @@ responses gentle and non-shaming, as in the earlier lessons.
 
 Show someone at home your "my body celebration" drawing and tell them three things
 your body can do and one signal it sends you.
+
+## Resources
+
+- On skipping, galloping, hopping, jumping, and balancing as fundamental movement
+  skills: SHAPE America — Society of Health and Physical Educators (S-101).
+- On daily movement as part of healthy growth: WHO — Physical activity fact sheet
+  (S-069).

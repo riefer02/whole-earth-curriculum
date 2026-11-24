@@ -106,7 +106,7 @@ Think of two photos of the same leader: one shot from below, so the person tower
 like a mountain; one shot at eye level, so they look like a neighbor you could talk to.
 Neither photo lied — both are the same real person — but each *chose* where to stand and what
 to leave in the frame, and that choice changed how you felt. Posters, ads, news photos, and
-game menus all do this on purpose. Today you learn to read that choice in others' images —
+game menus all do this on purpose (S-114). Today you learn to read that choice in others' images —
 and to *make* it, deliberately, in your own, so your message is the one you actually mean.
 
 ## Materials
@@ -147,7 +147,7 @@ learner may always choose which feedback to act on.
    *low angle* (looking up) makes a subject look powerful; a *high angle* (looking down)
    makes it look small; *eye level* makes it look like an equal. Every poster, photo, and
    game menu you have ever seen used these levers. Ask yourself, always: *who chose this
-   frame, and what did they want me to feel?*
+   frame, and what did they want me to feel?* (S-151)
 3. **Apply it to your artwork (10 min).** Look at your own piece. Which lever could make
    your message stronger — a closer frame on your symbol? more emphasis on the main thing?
    a lower angle so the subject feels strong, or eye level so it feels like a friend? Choose
@@ -196,3 +196,6 @@ wanted you to feel.
   <https://namle.org/resources/key-questions/>
 - Kirschner, Sweller & Clark (2006), "Why Minimal Guidance Does Not Work," on modeling
   worked examples before independent practice.
+- On how artists and image-makers shape meaning through composition and framing: Metropolitan Museum of Art — Heilbrunn Timeline of Art History (S-114).
+- On asking who made a media message and why: NAMLE — Key Questions to Ask When Analyzing Media Messages (S-151).
+

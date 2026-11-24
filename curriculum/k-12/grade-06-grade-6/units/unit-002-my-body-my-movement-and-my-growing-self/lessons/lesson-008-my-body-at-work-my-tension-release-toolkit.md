@@ -125,7 +125,7 @@ and where to reach for them.
 
 The idea to land is that **the unit's learning is now the learner's own toolkit**. This
 is a **summative portfolio artifact** and an act of **retrieval** — the learner recalls
-each piece rather than re-reading it. Keep it **dignified and joyful**: no two toolkits
+each piece rather than re-reading it (S-228). Keep it **dignified and joyful**: no two toolkits
 will match, and that is the point — every body works in its own way, and every one is
 honored. If a learner struggles to recall a part, point them to their own earlier pages
 (their log, their body outline) rather than telling them the answer. The reflection
@@ -183,3 +183,5 @@ or the encouraging word.
   metacognition, and honors the developmental turn toward identity at ages 11–14 (see
   `docs/development.md`). For SEL framing of self-awareness and self-management, see CASEL:
   <https://casel.org/fundamentals-of-sel/>
+- On retrieval practice strengthening long-term memory: Henry L. Roediger III & Jeffrey D. Karpicke — Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention (S-228).
+

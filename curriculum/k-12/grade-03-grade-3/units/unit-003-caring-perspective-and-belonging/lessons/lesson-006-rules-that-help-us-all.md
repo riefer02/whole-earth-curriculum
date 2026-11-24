@@ -100,7 +100,7 @@ water first; the smallest wait and wait. Now imagine the same pump with one simp
 rule — **one turn each, wait in line**. Suddenly everyone gets water, no matter their
 size. A fair rule is a promise the whole community makes: *everyone matters, and no one
 is skipped.* Rules are not just about keeping order — they are how a community protects
-its fairest self.
+its fairest self (S-416).
 
 ## Materials
 
@@ -126,7 +126,7 @@ Keep the examples small and everyday, and honor that different communities hold
 different rules (what is polite in one culture differs in another) — rules are made by
 people for their shared life, and they can be changed when they stop being fair. Read
 the procedure aloud; model one "how it helps everyone" answer before learners sort the
-rest (Kirschner, Sweller & Clark, 2006).
+rest (Kirschner, Sweller & Clark, 2006, S-011).
 
 ## Procedure
 
@@ -168,5 +168,8 @@ everyone — and whether there is a rule that could be fairer.
 
 ## Resources
 
-- CASEL SEL Framework (responsible decision-making competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On communities governing a shared resource (water, pasture, forest) by rules of their
+  own that everyone can live with: Elinor Ostrom — Governing the Commons (S-416).
+- On modeling a skill before learners try it: Kirschner, Sweller & Clark (2006) — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
+

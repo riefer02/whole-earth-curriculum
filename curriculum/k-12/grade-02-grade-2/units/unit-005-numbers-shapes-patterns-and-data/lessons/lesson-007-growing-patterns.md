@@ -95,7 +95,7 @@ Some patterns repeat — day and night, bead colors on a necklace — and some p
 **grow**. A plant grows one leaf, then two, then three; steps of a staircase rise one
 at a time; a tower grows a block taller each time you add one. When you see how a
 pattern grows, you can predict what comes next — and prediction is how people plan a
-garden, build a staircase, or guess tomorrow's weather.
+garden, build a staircase, or guess tomorrow's weather (S-020).
 
 ## Materials
 
@@ -163,6 +163,6 @@ how it grows each step.
 
 ## Resources
 
-- Clements, D. H., & Sarama, J. (2014). *Learning and Teaching Early Math: The
-  Learning Trajectories Approach* (2nd ed.). Routledge. (Growing patterns and
-  describing change from one term to the next.)
+- On growing patterns and describing change from one term to the next: Clements &
+  Sarama — Learning and Teaching Early Math: The Learning Trajectories Approach
+  (S-020).

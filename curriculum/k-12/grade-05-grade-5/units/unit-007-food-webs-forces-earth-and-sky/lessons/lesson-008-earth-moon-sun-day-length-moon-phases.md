@@ -87,9 +87,9 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners explain two movements of the **Earth–Moon–Sun system**: Earth **rotates**
-(spins) once in about 24 hours, making day and night; and the Moon **orbits** Earth
+(spins) once in about 24 hours, making day and night (S-181); and the Moon **orbits** Earth
 about once a month, making the **phases** — because we always see only part of the
-Moon's sunlit half. They model both movements and predict the Moon's shape from
+Moon's sunlit half (S-182). They model both movements and predict the Moon's shape from
 where it stands.
 
 ## Objectives
@@ -175,7 +175,10 @@ days, tell someone what changed and why.
 
 ## Resources
 
-- NASA, "The Moon" — moon phases and the Earth–Moon–Sun system:
-  <https://science.nasa.gov/moon/>
-- NASA Space Place, "What Are the Moon's Phases?" (age-appropriate):
-  <https://spaceplace.nasa.gov/moon-phases/en/>
+- On the Moon, its phases, and its place in the Earth–Moon–Sun system: NASA — Earth's
+  Moon, <https://science.nasa.gov/moon/> (S-181).
+- On why the Moon shows phases — it makes no light of its own, and we see different
+  parts of its sunlit half as it orbits: NASA Space Place — What Are the Moon's Phases?,
+  <https://spaceplace.nasa.gov/moon-phases/en/> (S-182).
+- On day and night as Earth turning on its axis: BBC Bitesize (KS1) — What is day and
+  night?, <https://www.bbc.co.uk/bitesize/topics/zkvv4wx/articles/zyfhxbk> (S-029).

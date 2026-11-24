@@ -97,7 +97,7 @@ made? The honest answer is almost never "one reason." It was a mix — a family 
 neighbor's kindness, a lucky moment, a wish you had. And each of those choices set off
 other things you did not plan. History is the same. A big change — an invention that
 spreads, a people that migrates — has many causes, and many consequences, some of which
-nobody saw coming. The historian's job is to look for *all* of them, not just the
+nobody saw coming (S-316). The historian's job is to look for *all* of them, not just the
 famous one.
 
 ## Materials
@@ -175,3 +175,5 @@ causes and two consequences of it, and ask someone at home if they can add a thi
   people is a fairness commitment (`docs/philosophy.md` §4), not a factual finding.
 - On explicit instruction and worked examples for novice skills: Kirschner, Sweller &
   Clark (2006), <https://doi.org/10.1207/s15326985ep4102_1>
+- On multiple causation and intended and unintended consequences as historical-thinking skills: Stanford History Education Group (SHEG) — historical thinking (sourcing, causality) (S-316).
+

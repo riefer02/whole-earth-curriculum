@@ -96,8 +96,8 @@ family timeline and then-and-now comparison."
 ## Connection
 
 You have learned two big things about time: how to put events in **order** on a
-timeline, and how to see what **changed and stayed the same** from long ago to today.
-Today you will do both at once, on one page — the story of your family's and
+timeline, and how to see what **changed and stayed the same** from long ago to today
+(S-316). Today you will do both at once, on one page — the story of your family's and
 community's recent past, told in order, with a "changed" mark and a "stayed the same"
 mark. That page is a little history of the people closest to you.
 
@@ -172,3 +172,8 @@ is evidence of growth, never a ranking.
 
 Take your timeline home and share it. Ask someone to add one more event — where would
 it go on the line, and why?
+
+## Resources
+
+- On continuity and change as core, teachable historical-thinking skills: Stanford
+  History Education Group — historical thinking (S-316).

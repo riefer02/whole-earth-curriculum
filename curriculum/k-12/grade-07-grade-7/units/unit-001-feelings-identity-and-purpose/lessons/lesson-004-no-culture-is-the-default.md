@@ -100,7 +100,7 @@ spaces.
 You meet someone whose way of feeling is different from yours: they grieve loudly where you
 grieve quietly, or thank with gifts where you thank with words. It is easy, in that moment, to
 quietly decide that *your* way is the normal one and *theirs* is odd. But "normal" is just
-"what I am used to." A fish does not know it is wet. Your family's way is one way, floating in
+"what I am used to." (S-160) A fish does not know it is wet. Your family's way is one way, floating in
 a wide world of ways — in a fishing village by the sea or a farming town in the hills, every
 home teaches its own, and none is the measuring stick for the rest.
 
@@ -179,3 +179,5 @@ at a shop, in a message — and practice saying "two ways, both real" instead of
   social-awareness competency, <https://casel.org/fundamentals-of-sel/>
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On emotion norms as learned and culturally variable, with no culture as the default: Paul Ekman & Wallace V. Friesen — The Repertoire of Nonverbal Behavior (S-160).
+

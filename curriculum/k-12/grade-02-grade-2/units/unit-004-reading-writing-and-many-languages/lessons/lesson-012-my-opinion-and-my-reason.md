@@ -79,7 +79,7 @@ last_updated: 2026-08-16
 
 Learners state an opinion about a familiar, friendly choice and give one reason for
 it, using an "I think… because…" frame. An opinion with a reason is the beginning of
-thinking that others can weigh and answer.
+thinking that others can weigh and answer (S-102).
 
 ## Objectives
 
@@ -156,5 +156,5 @@ listen to theirs.
 
 ## Resources
 
-- CASEL SEL Framework (respectful disagreement and relationship skills):
-  <https://casel.org/fundamentals-of-sel/>
+- On stating a claim and backing it with reasons: Graham & Perin — Writing Next
+  (S-102).

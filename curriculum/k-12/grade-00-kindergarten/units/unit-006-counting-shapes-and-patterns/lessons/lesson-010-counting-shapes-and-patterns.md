@@ -132,7 +132,7 @@ counted carefully," "your pattern repeats."
 - *Global:* the same four moves live in weaving, building, farming, and music across the
   world; no tradition is the model to copy.
 - *Community:* the museum is made by the group, not judged by it.
-- *Intellectual:* showing what you can do is the retrieval that makes it stick.
+- *Intellectual:* showing what you can do is the retrieval that makes it stick (S-228).
 
 **The skill.** Choose a job, do it at your own pace, and explain your thinking to
 someone.
@@ -172,6 +172,10 @@ theirs.
   pattern, and naming shapes?
 - **Artifact (portfolio):** The learner's chosen "museum" piece, kept as a record of
   the unit.
+
+## Resources
+
+- On retrieval practice: Roediger & Karpicke — Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention (S-228).
 
 ## Home connection
 

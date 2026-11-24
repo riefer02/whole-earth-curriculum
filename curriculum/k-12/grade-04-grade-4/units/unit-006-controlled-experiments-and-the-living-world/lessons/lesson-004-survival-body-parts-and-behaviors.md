@@ -102,11 +102,11 @@ than another, only fitted to its place.
 
 Look at a bird pecking seeds, or a gecko clinging to a wall, or a dog panting on a hot
 day. Each one is doing what helps it stay alive where it lives. A bird's **beak** is
-shaped for the food it eats; a gecko's **feet** grip smooth surfaces; a dog's **panting**
-cools its body. These are **adaptations** — body parts and behaviors that fit an animal
-to its home. The same idea lives everywhere people do: people in cold places build warm
-homes and wear thick coats, while people in hot places seek shade and drink lots of
-water. Every living thing solves the problem of its own environment.
+shaped for the food it eats; a gecko's **feet** grip smooth surfaces; a dog's
+**panting** cools its body. These are **adaptations** — body parts and behaviors that
+fit an animal to its home (S-106). The same idea lives everywhere people do: people in
+cold places build warm homes and wear thick coats, while people in hot places seek shade
+and drink lots of water. Every living thing solves the problem of its own environment.
 
 ## Materials
 
@@ -174,6 +174,5 @@ body part or behavior that helps it live, and why.
 
 ## Resources
 
-- BBC Bitesize (KS2 Science), "What is adaptation?" — how living things have features
-  that help them survive in their environment.
-  https://www.bbc.co.uk/bitesize/topics/zvhhvcw/articles/zxdr3j6
+- On how living things have features that help them survive in their environment: BBC
+  Bitesize (KS2) — What is adaptation? (S-106).

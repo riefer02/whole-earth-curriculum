@@ -126,7 +126,7 @@ to be sure an answer is fair.
 3. A missing number (12 ÷ ? = 4) is found by doing the opposite.
 
 **Don't overshoot.** The relationship is the point, not the vocabulary "inverse" —
-children can say "the opposite" and still own the idea (Van de Walle et al., 2019).
+children can say "the opposite" and still own the idea (Van de Walle et al., 2019, S-026).
 
 **The lenses, briefly.**
 - *Intellectual:* build the fact family for 3, 4, and 12, then show the missing
@@ -184,7 +184,7 @@ ask a grown-up to find a missing number in it.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson. (The
-  inverse relationship between addition and subtraction and between multiplication and
-  division, developed through fact families.)
+- On teaching mathematics developmentally — pictures, materials and reasoning before
+  symbols: Van de Walle, Karp & Bay-Williams (2019) — Elementary and Middle School
+  Mathematics: Teaching Developmentally (S-026).
+

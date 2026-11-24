@@ -153,7 +153,7 @@ order hands-on (Kirschner, Sweller & Clark, 2006).
 1. **Gather (5 min).** Think of the oldest thing you have ever held — a stone, a shell, a
    grandparent's story. How do we know how old the *Earth itself* is?
 2. **Three kinds of evidence (10 min).** **(1) Rock layers:** in undisturbed rock, the deeper
-   a layer, the older it is. **(2) Fossils:** the shapes of past life trapped in those layers.
+   a layer, the older it is (S-308). **(2) Fossils:** the shapes of past life trapped in those layers.
    **(3) Ice cores:** long columns of ice whose yearly bands trap bubbles of past air.
 3. **Worked example (5 min).** A stack of layers: top = youngest, bottom = oldest. A fossil in
    the *deepest* layer is older than everything above it. Draw this on your page.
@@ -195,3 +195,5 @@ Read it oldest-to-youngest and describe one thing each layer might hold.
   knowing is a value commitment, not a geological fact (`docs/philosophy.md` §11).
 - On explicit instruction for novice content: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On superposition and the age of the Earth: USGS — Geologic Time: Age of the Earth (S-308).
+

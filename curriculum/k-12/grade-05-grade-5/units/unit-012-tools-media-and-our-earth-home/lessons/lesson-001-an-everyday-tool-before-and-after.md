@@ -86,10 +86,10 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners trace how one everyday **technology** changed **daily life** over time. A worked
-example follows the **mobile phone** — before it, messages traveled only as fast as a person
-could walk; after it, a call or text reaches someone far away in seconds, with **new needs**
+example follows the **mobile phone** — before it, messages traveled only as fast as a
+person could walk; after it, a call or text reaches someone far away in seconds (S-281), with **new needs**
 (charging, repairs, cost) too. Learners then choose a tool — a water pump, a refrigerator, a
-sewing machine, or a radio — and trace its own before–after chain, seeing technology as
+sewing machine (S-062), or a radio — and trace its own before–after chain, seeing technology as
 something people *use and shape*, with helpful and complicated effects.
 
 ## Objectives
@@ -173,10 +173,10 @@ someone at home what daily life or work was like before it was common.
 
 ## Resources
 
-- The mobile phone spread worldwide and reshaped daily communication — an evidence-based
-  overview of how phones changed how people connect and work is summarized by the World Bank
-  and the International Telecommunication Union (ITU). Water pumps, refrigeration, and sewing
-  machines each have documented before-and-after histories (hand-drawn wells to mechanical
-  pumps; ice and preservation to electric refrigeration; hand-sewing to the machine that
-  changed garment work). The framing that tools have both helpful and complicated effects
-  follows the curriculum's "honest about technology" commitment (`docs/philosophy.md`).
+- On how digital technologies, including mobile phones, have changed how people
+  communicate, work and use services — with uneven benefits: World Bank — World
+  Development Report 2016: Digital Dividends,
+  <https://www.worldbank.org/en/publication/wdr2016> (S-281).
+- On the sewing machine and how it changed the work of making clothes: Encyclopaedia
+  Britannica — Sewing Machine, <https://www.britannica.com/technology/sewing-machine>
+  (S-062).

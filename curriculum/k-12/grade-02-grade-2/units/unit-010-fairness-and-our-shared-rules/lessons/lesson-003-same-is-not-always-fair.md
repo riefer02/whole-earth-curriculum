@@ -80,8 +80,8 @@ last_updated: 2026-08-16
 
 Learners meet the unit's central fairness idea: **same is not always fair**. Treating
 everyone exactly the same can leave some people out, while giving each person the
-support they *need* lets everyone take part. They practice matching needs to supports
-and explaining why, held as a question to keep wondering about.
+support they *need* lets everyone take part (S-388). They practice matching needs to
+supports and explaining why, held as a question to keep wondering about.
 
 ## Objectives
 
@@ -182,6 +182,5 @@ bucket, a door). Wonder with someone: what support would let everyone take part?
 
 ## Resources
 
-- The "equality vs. equity" distinction, explained simply for children (adapted from
-  the well-known fence illustration): a version is discussed in the UNICEF and
-  United Nations materials on children's rights and inclusive education.
+- On different principles of fair distribution — equal shares, need, and merit:
+  Stanford Encyclopedia of Philosophy — Distributive Justice (S-388).

@@ -103,7 +103,7 @@ mountain farm, a city street. Yet when people draw it, they draw it *differently
 community makes it a god's face in gold, another a flat red circle over the sea, another
 a child's yellow circle with lines for rays. The difference is not a mistake, and not a
 "better" or "worse" picture. Each image is a choice shaped by where and when it was made —
-what materials the place gives, what the people believe the sun *is* and *does*. Reading
+what materials the place gives, what the people believe the sun *is* and *does* (S-114). Reading
 those choices is how we meet another time and place with respect and wonder.
 
 ## Materials
@@ -158,7 +158,7 @@ pronounce. See `docs/facilitation.md` on honoring living traditions and
    winged sun disk — a circle with outstretched wings and rays, carved and painted in
    gold and pigment on temple stone. What I observe: a circle *with wings*. What it tells
    me: the sun is a **divine power** that protects — gold is the metal that never tarnishes,
-   fitting a god, and it stands on temple stone to be honored. *Japan, Edo period:* a
+   fitting a god, and it stands on temple stone to be honored (S-137). *Japan, Edo period:* a
    woodblock print of a flat red disc low over waves and a mountain. What I observe: a
    plain, *flat* disc, printed in ink and color on paper. What it tells me: the sun is
    part of the **land** — simple and symbolic — and printing lets many homes hold the
@@ -205,3 +205,6 @@ different times or places, and name one difference and one reason for it.
 - UNESCO's Intangible Cultural Heritage lists frame living traditions (including those
   behind several of these images) as heritage, not museum pieces:
   <https://ich.unesco.org/>
+- On how artists across cultures put meaning into images through materials and composition: Metropolitan Museum of Art — Heilbrunn Timeline of Art History (S-114).
+- On Re, the Egyptian sun god, and the sun's divine significance in ancient Egypt: Encyclopaedia Britannica — Re (Egyptian sun god) (S-137).
+

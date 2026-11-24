@@ -93,7 +93,7 @@ songs — give a group the same gifts: sharing, remembering, and belonging.
 Think of a special time your family or neighborhood shares — a birthday, a harvest
 feast, a new year, a weekly meal, a song or a dance, a moment of quiet together.
 These are **traditions**: things a group does again and again, because they mean
-something. Traditions are everywhere. A harvest festival thanks the earth for food. A
+something (S-056). Traditions are everywhere. A harvest festival thanks the earth for food. A
 new year brings people together to start again. A naming day welcomes a new person.
 Different as they look, traditions give every group the same gifts: they help us
 **share**, **remember**, and **belong**. Today you will share one of yours and hear
@@ -159,3 +159,8 @@ procedure aloud and share a tradition of your own to open the circle.
 
 At home, ask a grown-up to tell you the story of one family tradition — where it came
 from and why it matters — and share what you learned with the class next time.
+
+## Resources
+
+- On traditions as living heritage that communities pass between generations: UNESCO —
+  Intangible Cultural Heritage (S-056).

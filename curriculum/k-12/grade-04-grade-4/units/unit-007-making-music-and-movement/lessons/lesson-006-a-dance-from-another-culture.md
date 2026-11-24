@@ -100,10 +100,10 @@ meaning and occasion — honoring it as a living tradition, not a costume.
 Dance is a way a people tells who they are. In the Philippines, dancers step lightly
 between two long bamboo poles that clap together in rhythm, the way the quick-footed
 **tikling** bird steps between grass stems and rice-plant traps. People dance tinikling
-at fiestas, school days, and celebrations — it is joyful, shared, and very much alive.
-When you learn another people's dance, you are borrowing a story, so you treat it with
-care: learn the real steps, know what it is for, and remember the deepest lesson comes
-from the people who dance it every day.
+at fiestas, school days, and celebrations — it is joyful, shared, and very much alive
+(S-116). When you learn another people's dance, you are borrowing a story, so you treat
+it with care: learn the real steps, know what it is for, and remember the deepest lesson
+comes from the people who dance it every day.
 
 ## Materials
 
@@ -123,14 +123,14 @@ from the people who dance it every day.
 Teaching another culture's dance is a responsibility: teach what is accurate, give
 credit, and be clear that the ideal teacher is a living dancer from that community —
 invite one if you can. Use a worked example for the foot pattern (Kirschner, Sweller &
-Clark, 2006): demonstrate "in, in, out" slowly while counting, then let learners mirror.
-If using real poles, clap them very slowly and flat to the ground, and never on anyone's
-feet — lines of tape are the safest first step. Do not turn the dance into a costume or
-a caricature; the meaning (a festive bird-like stepping dance for celebration) matters
-more than perfect steps. A learner who uses a wheelchair or has limited mobility can
-perform the upper-body rhythm and arm pattern, or clap the pole rhythm — every body
-joins the dance. If a learner cannot step, the rhythm role is a full role, not a lesser
-one.
+Clark, 2006, S-011): demonstrate "in, in, out" slowly while counting, then let learners
+mirror. If using real poles, clap them very slowly and flat to the ground, and never on
+anyone's feet — lines of tape are the safest first step. Do not turn the dance into a
+costume or a caricature; the meaning (a festive bird-like stepping dance for
+celebration) matters more than perfect steps. A learner who uses a wheelchair or has
+limited mobility can perform the upper-body rhythm and arm pattern, or clap the pole
+rhythm — every body joins the dance. If a learner cannot step, the rhythm role is a full
+role, not a lesser one.
 
 ## Procedure
 
@@ -175,6 +175,12 @@ and what it means.
 
 ## Resources
 
-- National Commission for Culture and the Arts (Philippines) — Philippine folk dance:
-  <https://ncca.gov.ph/>
-- UNESCO Intangible Cultural Heritage — performing arts: <https://ich.unesco.org/en/lists>
+- On the tinikling — a Philippine folk dance in which dancers step between bamboo poles,
+  imitating the tikling bird: National Commission for Culture and the Arts (Philippines)
+  — Philippine folk dance (S-116).
+- On dance and performing arts as living heritage: UNESCO — Intangible Cultural Heritage
+  (S-056).
+- On teaching movement traditions respectfully in the classroom: Kennedy Center —
+  Education (S-189).
+- On modelling a foot pattern with a worked example before practice: Kirschner, Sweller
+  & Clark — Why Minimal Guidance During Instruction Does Not Work (S-011).

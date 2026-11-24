@@ -98,7 +98,7 @@ person you wanted to be — some of it is gone, some of it grew, and some of it 
 quietly, at the center. You are not the same person who started school; you are the same
 person, *grown*. A river is still a river even though the water in it is always new. Your
 identity is like that: continuous *and* changing, wherever you live and whatever your family
-looks like.
+looks like (S-155).
 
 ## Materials
 
@@ -174,3 +174,5 @@ the same. Notice that grown-ups are still changing too.
   competency, <https://casel.org/fundamentals-of-sel/>
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On identity as a lifelong process rather than a finished fact: Erik Erikson — Childhood and Society (S-155).
+

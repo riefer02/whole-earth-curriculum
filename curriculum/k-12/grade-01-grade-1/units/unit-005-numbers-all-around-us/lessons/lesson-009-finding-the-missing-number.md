@@ -145,7 +145,8 @@ objects. Never rank by speed; a mystery solved with care is a mystery solved.
    how a detective proves the case.
 5. **Try a take-away mystery (5 min).** Now try **8 − ? = 3**. Start with 8, take
    away until 3 are left — how many did you take? Five! So 8 − 5 = 3.
-6. **Close (3 min).** A missing number is just "how many more" or "how many taken."
+6. **Close (3 min).** A missing number is just "how many more" or "how many taken"
+   (S-025).
    Find it, and say how you know — that is real reasoning, and it is for everyone.
 
 ## Differentiation
@@ -172,5 +173,5 @@ the total, and you count on to find how many are hidden.
 ## Resources
 
 - Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (2015).
-  *Children's Mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann.
+  *Children's Mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann (S-025).
   (Missing-addend and missing-number problems and children's counting-on strategies.)

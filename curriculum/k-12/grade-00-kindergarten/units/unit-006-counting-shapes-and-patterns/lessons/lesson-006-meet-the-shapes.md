@@ -135,7 +135,7 @@ partner traces.
    you will meet four of them.
 2. **Meet the shapes (15 min).** Feel each shape with your hands and say its name. A
    **circle** is round with no corners. A **square** has four equal sides and four
-   corners. A **triangle** has three sides and three corners. A **rectangle** has
+   corners (S-026). A **triangle** has three sides and three corners. A **rectangle** has
    four sides — two long and two short. Trace each one with your finger.
 3. **Shape hunt (15 min).** Find one real thing that is each shape. A plate is a
    circle. A door is a rectangle. Can you find a square? A triangle? Point and name
@@ -156,6 +156,10 @@ partner traces.
 
 - **Formative (observation):** Can the learner point to and name each of the four
   shapes in real objects?
+
+## Resources
+
+- On shape attributes and composition: Van de Walle, Karp & Bay-Williams (2019) — Elementary and Middle School Mathematics: Teaching Developmentally (S-026).
 
 ## Home connection
 

@@ -147,7 +147,7 @@ movement: point to the step on the strip, or direct a partner to move the toys.
    partner to move them.
 4. **Make it right (10 min).** After the words, make it right: return the ball, say
    "are you okay?", or find a way to share. Repair is how we fix the hurt, not punish
-   the person.
+   the person (S-022).
 5. **Close (5 min).** Remember: words can solve small problems, and making it right
    fixes the hurt so everyone can play again.
 
@@ -174,4 +174,4 @@ for help — and then make it right together.
 ## Resources
 
 - International Institute for Restorative Practices (restorative practices —
-  repairing harm rather than only punishing): <https://www.iirp.edu/>
+  repairing harm rather than only punishing): <https://www.iirp.edu/> (S-022)

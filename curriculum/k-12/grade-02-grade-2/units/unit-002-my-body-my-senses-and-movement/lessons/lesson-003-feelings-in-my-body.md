@@ -89,8 +89,8 @@ noticing and naming the feeling their own body is showing them.
 ## Connection
 
 Think of a time you waited for a surprise — maybe a gift or a visitor. Did your heart
-beat fast and your body feel light and bouncy? That is the feeling of excitement
-showing up in your body. Feelings have homes in your body. When you learn their homes,
+beat fast and your body feel light and bouncy? That is the feeling of excitement showing
+up in your body. Feelings have homes in your body (S-338). When you learn their homes,
 you can read what your body is telling you.
 
 ## Materials
@@ -149,8 +149,8 @@ needing to hear the word. There is no correct answer — noticing is the skill.
 
 ## Resources
 
-- World Health Organization — global health and wellbeing reference:
-  <https://www.who.int/>
+- On how the body responds under stress — faster heart, muscle tension, an unsettled
+  stomach: American Psychological Association — Stress effects on the body (S-338).
 
 ## Home connection
 

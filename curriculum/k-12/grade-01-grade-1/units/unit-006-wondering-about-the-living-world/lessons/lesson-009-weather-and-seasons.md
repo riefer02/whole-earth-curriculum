@@ -139,7 +139,7 @@ tone of wonder, never fear.
    (swaying side to side), sun (arms wide and warm), snow (soft and still). Move from
    one kind of weather to another.
 5. **Close (5 min).** Weather changes day to day, and seasons change through the year
-   — here and everywhere. All of them are the world's weather, and all are worth
+   — here and everywhere (S-030). All of them are the world's weather, and all are worth
    noticing.
 
 ## Differentiation
@@ -167,11 +167,7 @@ knows.
 
 ## Resources
 
-- NASA Space Place, "What Causes the Seasons?" — Earth's tilted axis causes the
-  seasons, so different parts of Earth get the Sun's most direct rays at different
-  times of year (summer in one hemisphere while it is winter in the other).
-  https://spaceplace.nasa.gov/seasons/en/
-- BBC Bitesize (KS1 Science), "What is day and night?" — covers the seasons and how
-  daylight and weather differ across the year and between places (for example, north
-  of the Arctic Circle the Sun does not set in summer).
-  https://www.bbc.co.uk/bitesize/topics/zkvv4wx/articles/zyfhxbk
+- On Earth's tilted axis causing the seasons, with opposite seasons in the two
+  hemispheres: NASA Space Place, "What Causes the Seasons?" (S-030).
+- On how daylight and weather differ across the year and between places: BBC Bitesize
+  (KS1 Science), "What is day and night?" (S-029).

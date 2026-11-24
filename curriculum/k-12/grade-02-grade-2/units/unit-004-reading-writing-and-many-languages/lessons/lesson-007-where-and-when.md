@@ -77,7 +77,7 @@ last_updated: 2026-08-16
 
 Learners read a short text and answer the next two great reading questions: **where**
 the happening took place and **when**. Place and time are what locate a story in the
-world.
+world (S-172).
 
 ## Objectives
 
@@ -146,5 +146,5 @@ for both answers.
 
 ## Resources
 
-- National Reading Panel (2000), reading comprehension — locating key details.
-  (Cited as a widely used evidence base.)
+- On teaching the structure of a story, including its setting: Duke & Pearson —
+  Effective Practices for Developing Reading Comprehension (S-172).

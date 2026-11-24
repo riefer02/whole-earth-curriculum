@@ -122,7 +122,7 @@ one matters, so you can care for the body that carries you through every day.
 2. Different bodies need different amounts at different times; that range is normal, and
    never a measure of a person's worth.
 3. Health is supported by adequate food, safe water, sleep, and regular physical
-   activity (World Health Organization).
+   activity (World Health Organization, S-038, S-069).
 
 **Don't overshoot.** Do not turn a need into a rule about amounts, schedules, or body
 size.
@@ -189,7 +189,8 @@ meets each one today — food, water, sleep, and movement.
 
 ## Resources
 
-- World Health Organization, "Healthy diet" (what a body needs to stay well):
-  <https://www.who.int/news-room/fact-sheets/detail/healthy-diet>
-- World Health Organization, "Physical activity" (why movement matters):
-  <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
+- On a healthy diet and what a body needs from food: World Health Organization — Healthy
+  diet fact sheet (S-038).
+- On regular physical activity and why movement matters: World Health Organization —
+  Physical activity fact sheet (S-069).
+

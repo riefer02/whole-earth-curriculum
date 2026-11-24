@@ -97,7 +97,7 @@ Hold a real leaf in your hand — you can see it, feel it, and smell it. A camer
 take a *photo* of that leaf, a picture made by a machine of something that was really
 there. A person can also make a *drawing* of the leaf with a hand and a crayon. Both
 are pictures, but they are made in different ways — and that is how we begin to tell
-them apart.
+them apart (S-063).
 
 ## Materials
 
@@ -192,3 +192,9 @@ was which. Non-speaking: point or gesture the answer.
 At home, find one real photo and one drawing or painting. Tell a grown-up which is
 which and give one reason — then ask them to tell you a pretend story they loved as a
 child.
+
+## Resources
+
+- On wondering where a picture or message came from, and asking questions rather than
+  accepting everything at face value: Common Sense Education — News & Media Literacy
+  (S-063).

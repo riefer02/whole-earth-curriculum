@@ -131,7 +131,7 @@ bookkeeping and calendars.
 
 1. **Gather (5 min).** Last time you solved for a mystery number. Today you watch two quantities grow
    together and turn them into a picture.
-2. **Meet the table (10 min).** A **table** lists pairs of related quantities. Buckets: 1, 2, 3, 4. Liters:
+2. **Meet the table (10 min).** A **table** lists pairs of related quantities (S-241). Buckets: 1, 2, 3, 4. Liters:
    3, 6, 9, 12. Each bucket holds 3 liters, so liters = 3 × buckets.
 3. **Worked example — make the table (10 min).** Fill the table together: 1 bucket → 3 liters, 2 → 6,
    3 → 9, 4 → 12. Read each row as an **ordered pair**: (1,3), (2,6), (3,9), (4,12).
@@ -169,3 +169,5 @@ saved) in a table, and plot the pairs on a grid.
   locating by two distances predates Cartesian coordinates and appears in global mapmaking is a historical
   observation; reading graphs as evidence rather than guessing trends is a critical-thinking value
   (`docs/philosophy.md` §7).
+- On reading and making tables and graphs of two quantities: Khan Academy — 6th grade data & statistics (S-241).
+

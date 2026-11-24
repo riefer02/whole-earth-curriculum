@@ -135,7 +135,7 @@ touch.
    stomp. Is it loud or soft? Is it fast or slow? Show your answer with your hands
    (wide for loud, together for soft; fast or slow with your hands). There is no
    wrong way to feel a sound.
-5. **Close (5 min).** Remember: every sound has a size (loud or soft) and a speed
+5. **Close (5 min).** Remember: every sound has a size (loud or soft) and a speed (S-368)
    (fast or slow). Your ears — and your hands — can tell them apart.
 
 ## Differentiation
@@ -157,3 +157,8 @@ touch.
 
 At home or outside, listen for three sounds. For each one, tell a grown-up: is it
 loud or soft, and fast or slow?
+
+## Resources
+
+- On dynamics (loud and soft) and tempo (fast and slow) as elements of music:
+  Wikipedia — Elements of music (S-368).

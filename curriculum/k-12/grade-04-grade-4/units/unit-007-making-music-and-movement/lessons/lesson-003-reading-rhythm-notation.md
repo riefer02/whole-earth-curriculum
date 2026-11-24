@@ -116,7 +116,7 @@ correctness, not speed.
 1. A **quarter note** is one beat ("ta"); two beamed **eighth notes** are one beat split
    in two ("ti-ti"); a **quarter rest** is one silent beat.
 2. Reading notation is a **skill**: model it with a worked example, then guided
-   practice, before independent work (Kirschner, Sweller & Clark, 2006).
+   practice, before independent work (Kirschner, Sweller & Clark, 2006, S-011).
 3. Notation is a code others can read — write four beats, and a partner plays back
    exactly what you wrote.
 
@@ -139,7 +139,6 @@ floor or a partner's tap, and can show a rest as "no movement." Limited hand use
 blink, tap a finger.
 
 **Safety floor.** Keep volume comfortable; drums close to an ear can hurt.
-
 
 ## Procedure
 
@@ -187,5 +186,5 @@ someone and see if they can read it back to you.
 
 ## Resources
 
-- No external resources required; the claims in this lesson are about reading and
-  writing simple rhythm symbols, which learners do directly and check by playing back.
+- On modelling a new skill with a worked example, then guided practice: Kirschner,
+  Sweller & Clark — Why Minimal Guidance During Instruction Does Not Work (S-011).

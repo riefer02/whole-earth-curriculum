@@ -126,10 +126,10 @@ number is larger.
 **The facts to land.**
 1. Rounding is a **place-value skill**, not a memorised trick: look at the digit one
    place to the right, and see the two neighbors on a number line (Van de Walle, Karp &
-   Bay-Williams, 2019).
+   Bay-Williams, 2019, S-026).
 2. Comparing is the same left-to-right reading of digits as Grade 3, grown to six
    digits.
-3. The decimal system is one number system among many (Ifrah, 2000).
+3. The decimal system is one number system among many (Ifrah, 2000, S-023).
 
 **Don't overshoot.** Rounding a number does not make a learner "careless" — it is a
 different, useful question. Where a home language reads numbers in a different order,
@@ -198,9 +198,8 @@ why.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson. (Rounding
-  as finding the nearer landmark on a number line; comparing by reading digits left
-  to right.)
-- Ifrah, G. (2000). *The Universal History of Numbers*. John Wiley & Sons. (The
-  decimal system as one number system among many.)
+- On rounding as finding the nearer landmark on a number line, and comparing by reading
+  digits left to right: Van de Walle, Karp & Bay-Williams — Elementary and Middle School
+  Mathematics: Teaching Developmentally (S-026).
+- On the decimal system as one number system among many: Ifrah — The Universal History
+  of Numbers (S-023).

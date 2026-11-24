@@ -137,11 +137,11 @@ curiosities. See `docs/facilitation.md` on honoring living traditions and
 2. **Meet the reading (15 min).** Look at the first card, a **Māori whakairo** carving
    from Aotearoa (New Zealand). *What I observe:* it is carved from wood, with a spiral
    like an unfurling fern frond and carved figures. *What it tells me:* wood is the forest
-   material of Aotearoa; the **koru** spiral is the unfurling fern, a plant of that land;
+   material of Aotearoa; the **koru** spiral is the unfurling fern, a plant of that land (S-115);
    the carved figures are ancestors, showing **whakapapa** — belonging through family and
    ancestry. Now the second card, **adinkra** cloth from Ghana. *What I observe:* cloth
    stamped with repeating symbols, dyed with plant color. *What it tells me:* cotton and
-   dye are the materials of the place; each **symbol is a proverb** — a belief in picture
+   dye are the materials of the place (S-114); each **symbol is a proverb** — a belief in picture
    form; the cloth is worn at ceremonies and in daily life.
 3. **Observe your own (15 min).** Choose two more cards — a rangoli/kolam floor drawing,
    an Aboriginal Australian dot painting, an Inuit soapstone carving, a Persian tile
@@ -179,9 +179,11 @@ place or people.
 
 ## Resources
 
-- Te Papa Tongarewa (Museum of New Zealand) on Māori carving and the koru:
-  <https://www.tepapa.govt.nz/>
-- The Metropolitan Museum of Art's Heilbrunn Timeline essay on Akan adinkra cloth:
-  <https://www.metmuseum.org/toah/>
-- UNESCO's Intangible Cultural Heritage lists frame these arts as living heritage
-  rather than museum pieces: <https://ich.unesco.org/>
+- On Māori carving (whakairo), the koru unfurling fern-frond motif, and whakapapa as
+  belonging through ancestry: Te Papa Tongarewa — Māori arts,
+  <https://www.tepapa.govt.nz/> (S-115).
+- On Akan adinkra cloth of Ghana — stamped symbols that carry proverbs, dyed with plant
+  colour, and worn on important occasions: The Metropolitan Museum of Art — Heilbrunn
+  Timeline of Art History, <https://www.metmuseum.org/toah/> (S-114).
+- On these arts as living heritage that communities carry and renew, rather than museum
+  specimens: UNESCO — Intangible Cultural Heritage, <https://ich.unesco.org/> (S-056).

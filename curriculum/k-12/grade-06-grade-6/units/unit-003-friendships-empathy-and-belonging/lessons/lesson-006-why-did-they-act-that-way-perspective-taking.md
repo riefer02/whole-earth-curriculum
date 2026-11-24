@@ -101,7 +101,7 @@ in worry, maybe they didn't even see you. The first guess is **one angle on a sc
 many**. Stepping into someone else's shoes does not erase the hurt or excuse the act — it
 *adds* the missing angles so you can respond to the whole picture, not just the part you
 saw. That is perspective-taking, and it is how hurt becomes understanding, in a hallway or a
-farmyard or a crowded bus anywhere in the world.
+farmyard or a crowded bus anywhere in the world (S-231).
 
 ## Materials
 
@@ -173,3 +173,5 @@ respond — and name one other angle out loud or in writing.
   aggression and greater prosocial behavior (CASEL social awareness; Decety & Cowell on
   empathy and perspective-taking). The "reason vs excuse" distinction is a values framing
   of this curriculum. <https://casel.org/fundamentals-of-sel/>
+- On perspective-taking as a route to prosocial understanding: Jean Decety & Jason M. Cowell — Empathy, Perspective-Taking, and Morality (S-231).
+

@@ -126,7 +126,7 @@ how you feel without blaming, to see through another's eyes, to compare communit
 fairly, to explain fair rules, and to contribute and help. Today you put it all
 together. Caring is not one big act; it is these small, real skills, practiced
 together. And when everyone practices them, a community becomes a place where every
-person belongs. That is worth celebrating.
+person belongs (S-508). That is worth celebrating.
 
 ## Materials
 
@@ -197,5 +197,8 @@ keep practicing — and one way you saw people help each other this week.
 
 ## Resources
 
-- CASEL SEL Framework (all five competencies):
-  <https://casel.org/fundamentals-of-sel/>
+- On belonging as something people build together (ubuntu: 'a person is a person through
+  other persons'): Desmond Tutu — Ubuntu (S-508).
+- On the five social and emotional competencies the unit's eight skills practise: CASEL —
+  Fundamentals of Social and Emotional Learning (S-001).
+

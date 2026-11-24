@@ -98,7 +98,7 @@ answer only with more reasons, you sound like you are repeating yourself. The st
 twofold: **evidence** for your reasons ("streets with no trees feel far hotter than shaded
 streets") and a fair **response to the counterargument** ("true — trees do need care, but the
 shade and fruit give back more each year, and we can share the watering"). Notice the response
-*concedes first* — it admits the other side has a point — and *then* answers. That is what
+*concedes first* — it admits the other side has a point — and *then* answers (S-236). That is what
 makes an argument honest instead of just loud.
 
 ## Materials
@@ -174,3 +174,5 @@ answer it — conceding first, then responding.
   "Teaching Secondary Students to Write Effectively" guide. Intellectual honesty in answering
   the strongest objection is an ethics commitment (`docs/philosophy.md` §4–5). On explicit
   instruction and worked examples, see Kirschner, Sweller & Clark (2006).
+- On evidence and rebuttal in argument: Stephen Toulmin — The Uses of Argument (claim/data/warrant model) (S-236).
+

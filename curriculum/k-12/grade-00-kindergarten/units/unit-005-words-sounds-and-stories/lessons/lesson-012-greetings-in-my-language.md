@@ -83,7 +83,7 @@ language's greeting is honored equally.
 ## Connection
 
 A greeting is how you say "I see you." Every language has its own way, and the one you
-learned first is yours to keep and share. Saying hello in your home language is a small
+learned first is yours to keep and share (S-019). Saying hello in your home language is a small
 act of pride — and learning someone else's hello is a small act of friendship.
 
 ## Materials
@@ -136,7 +136,7 @@ the heart), and those count fully.
 ## Resources
 
 - UNESCO, International Mother Language Day (languages, identity, and the value of
-  every learner's language): <https://www.unesco.org/en/days/mother-language>
+  every learner's language): <https://www.unesco.org/en/days/mother-language> (S-019)
 
 ## Home connection
 

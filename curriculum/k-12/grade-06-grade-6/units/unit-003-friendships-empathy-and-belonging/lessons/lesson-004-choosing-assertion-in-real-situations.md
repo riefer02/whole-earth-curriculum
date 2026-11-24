@@ -98,7 +98,7 @@ A friend asks you to copy your answers in a test, or to join a dare you do not l
 "whatever, fine" swallows your own limit; snapping "leave me alone!" breaks the friendship.
 The **assertive** middle sounds like this: "I'm not comfortable with that, and I still want
 to be your friend — so let's do something else after." Assertion is a **choice** you make in
-the moment — and like any skill, it gets stronger with practice. In a schoolyard or a
+the moment — and like any skill, it gets stronger with practice (S-405). In a schoolyard or a
 workshop or a fishing boat, saying your need *and* honoring the other person's is how people
 stay in relationship without losing themselves.
 
@@ -178,3 +178,5 @@ someone how it went.
   outcomes; the "say the need, respect the other, propose a step" formula is a
   classroom-friendly summary of standard assertiveness practice (CASEL relationship skills):
   <https://casel.org/fundamentals-of-sel/>
+- On assertion as a learnable communication skill: Robert Alberti & Michael Emmons — Your Perfect Right: Assertiveness and Equality in Your Life and Relationships (S-405).
+

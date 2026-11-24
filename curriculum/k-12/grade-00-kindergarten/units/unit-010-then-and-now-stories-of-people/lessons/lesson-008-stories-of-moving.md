@@ -112,7 +112,7 @@ safety, or a new home — all are real, and none is a child's fault.
 2. **Hear a story (15 min).** Listen to the story of a child or family moving. Notice
    what they carried, who they missed, and what they found.
 3. **Wonder together (10 min).** Why do people move? (For family, work, safety, a new
-   home.) What might feel happy? What might feel hard? Both can be true.
+   home — S-086.) What might feel happy? What might feel hard? Both can be true.
 4. **Optional share or draw (10 min).** If you want to, draw "my home" or tell one
    small thing. If you would rather listen, that is welcome too.
 5. **Close (5 min).** Every family has a story of coming and staying. Each one
@@ -131,3 +131,7 @@ safety, or a new home — all are real, and none is a child's fault.
   reason people move or a feeling about moving?
 - **Formative (oral, optional):** If a learner chooses to share, can they describe a
   place or a moving story in their own words?
+
+## Resources
+
+- On why people migrate: International Organization for Migration (IOM) — Who is a migrant? (S-086).

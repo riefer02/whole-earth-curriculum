@@ -93,7 +93,7 @@ both sides in a conflict deserve to be heard.
 
 Think of a time someone really listened to you — they looked at you, waited, and you
 could tell they heard you. Being **heard** feels like being cared for. In a conflict,
-saying how you feel is only half of it; the other half is **listening** when your
+saying how you feel is only half of it; the other half is **listening** (S-174) when your
 friend says how they feel. People everywhere, in every language, show care by
 listening. Today you will practice being the listener.
 
@@ -176,3 +176,9 @@ hear you," or nod.
 
 At home, practice being the listener: let someone tell you about their day and repeat
 back one feeling you heard.
+
+## Resources
+
+- On listening as a learnable skill, including facing the speaker, waiting, and
+  checking what was heard: International Listening Association — Listening Skills
+  resources (S-174).

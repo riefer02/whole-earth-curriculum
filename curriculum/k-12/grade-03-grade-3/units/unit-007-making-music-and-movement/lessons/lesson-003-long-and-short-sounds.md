@@ -101,7 +101,7 @@ works the world over.
 Listen to the sounds that keep time around you — a heartbeat, a dripping tap, a drum,
 the tick of a clock, the long call and short answer of birds. Some sounds **hold**
 (an "ahhh"), and some sounds **pop** (a "ta"). Rhythm is built from these two: **long
-sounds** and **short sounds**. Today you will build a rhythm pattern out of long and
+sounds** and **short sounds** (S-368). Today you will build a rhythm pattern out of long and
 short sounds and perform it.
 
 ## Materials
@@ -118,7 +118,7 @@ short sounds and perform it.
 ## Facilitator note
 
 Telling long from short and building a pattern is a **skill**, so model it with explicit
-instruction (Kirschner, Sweller & Clark, 2006): hold an "ahhh" for a long sound, tap a
+instruction (Kirschner, Sweller & Clark, 2006, S-011): hold an "ahhh" for a long sound, tap a
 "ta" for a short sound, then play a pattern and have learners echo. Keep patterns short
 at first (two to four sounds). "Long" and "short" are about **time held**, not about
 loudness. A learner who is Deaf or hard of hearing reads long and short by **sight and
@@ -164,8 +164,9 @@ Every performance belongs.
 
 ## Resources
 
-- No external resources required; the claims in this lesson are about the learner's own
-  listening and performing, which they practice directly.
+- On rhythm and duration as elements of music: Wikipedia — Elements of music (S-368).
+- On modeling a skill once before learners try it: Kirschner, Sweller & Clark (2006) — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

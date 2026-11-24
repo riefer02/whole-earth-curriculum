@@ -86,8 +86,8 @@ last_updated: 2026-08-17
 Learners turn from *building* the comparing timeline to *reading* it. They sort features
 of ancient Egypt and the Indus Valley into **what changed over time** and **what stayed
 the same**, and discover that **change and continuity live side by side** in every
-civilization — the river kept flooding every year while buildings grew grander, and writing
-lasted for centuries while cities rose and later declined.
+civilization — the river kept flooding every year (S-197) while buildings grew grander, and writing
+lasted for centuries (S-198) while cities rose and later declined.
 
 ## Objectives
 
@@ -167,10 +167,12 @@ thing that has stayed the same — and ask a grown-up which they think changed t
 
 ## Resources
 
-- The idea of change and continuity as two lenses on the past is a standard concept in
-  historical study; it is the foundation of the D08.S1 strand (Time, Change & Continuity).
-  Archaeological evidence for the specific features — the Nile's annual flood and
-  irrigation (British Museum, Egypt collection) and the Indus cities' grid streets and
-  drainage (UNESCO, Mohenjo-daro, <https://whc.unesco.org/en/list/138/>) — supports the
-  changed/stayed sorting. The Indus script remains undeciphered, which is itself an
-  example of continuity (a lasting record we cannot yet read).
+- On the Nile's annual flood and irrigation as a steady feature of Egyptian life across
+  centuries: The British Museum — Egypt collection,
+  <https://www.britishmuseum.org/collection/egypt> (S-197).
+- On the Indus cities' grid streets, drainage and long-lived urban planning: UNESCO
+  World Heritage Centre — Archaeological Ruins at Moenjodaro,
+  <https://whc.unesco.org/en/list/138/> (S-198).
+- On change and continuity as paired lenses historians use to read the past: Stanford
+  History Education Group — historical thinking,
+  <https://sheg.stanford.edu/> (S-316).

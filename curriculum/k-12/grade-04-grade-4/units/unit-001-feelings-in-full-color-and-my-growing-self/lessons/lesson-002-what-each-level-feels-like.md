@@ -100,9 +100,9 @@ regulating it.
 Your body is a quiet messenger. When you feel a **little** excited, your stomach may do
 a tiny flutter. When you feel **some**, your cheeks get warm and your heart beats a bit
 faster. When you feel **a lot**, your shoulders rise, your hands shake, and your breath
-gets short. You can notice all of this without anyone telling you — because your body is
-already telling *you*. A child by the sea feels a **little** flutter when a big wave
-approaches, and a **lot** of pounding heart when the wave is taller than they are.
+gets short (S-339). You can notice all of this without anyone telling you — because your
+body is already telling *you*. A child by the sea feels a **little** flutter when a big
+wave approaches, and a **lot** of pounding heart when the wave is taller than they are.
 Bodies everywhere speak the same quiet language.
 
 ## Materials
@@ -120,11 +120,11 @@ Bodies everywhere speak the same quiet language.
 ## Facilitator note
 
 Body awareness (called *interoception* — sensing signals from inside the body) is a real
-skill and grows with practice. Keep the body scan slow and optional — some learners may
-not feel comfortable closing their eyes; they may keep eyes open and that is fine. Model
-the three levels on yourself first (worked example), then let learners find their own
-signals. A learner's body may not match the "typical" list — every body is different,
-and that is the point: their body is their own honest messenger. See
+skill and grows with practice (S-401). Keep the body scan slow and optional — some
+learners may not feel comfortable closing their eyes; they may keep eyes open and that
+is fine. Model the three levels on yourself first (worked example), then let learners
+find their own signals. A learner's body may not match the "typical" list — every body
+is different, and that is the point: their body is their own honest messenger. See
 `docs/facilitation.md` on holding big feelings safely.
 
 ## Procedure
@@ -167,5 +167,9 @@ little/some/a lot body check you practiced today.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On self-awareness as a core social-emotional competency: CASEL — Fundamentals of
+  Social and Emotional Learning (S-001).
+- On interoception — sensing signals from inside the body as the basis of a feeling:
+  Barrett — How Emotions Are Made (S-401).
+- On the body changes of a strong stress response (faster heart, short breath, tense
+  muscles): Cleveland Clinic — What Happens During Fight-or-Flight Response? (S-339).

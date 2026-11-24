@@ -81,7 +81,7 @@ last_updated: 2026-08-16
 Learners discover that every act *reaches* someone. They practice saying how a kind
 act and an unkind act might affect another person's feelings — a kind act can bring a
 warm feeling, an unkind act a hurt one — and they do it in the other person's own
-words, not just their own.
+words, not just their own (S-001).
 
 ## Objectives
 
@@ -178,4 +178,5 @@ Then, if you like, ask the person how it felt — and listen.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness): <https://casel.org/fundamentals-of-sel/>
+- On social awareness — taking another's perspective and feeling with them: CASEL —
+  Fundamentals of Social and Emotional Learning (S-001).

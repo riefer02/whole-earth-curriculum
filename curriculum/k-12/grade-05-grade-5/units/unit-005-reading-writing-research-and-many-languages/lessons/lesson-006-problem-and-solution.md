@@ -81,7 +81,8 @@ last_updated: 2026-08-17
 
 ## Summary
 
-Learners learn to recognize how authors use a **problem-and-solution structure** to organize
+Learners learn to recognize how authors use a **problem-and-solution structure** to
+organize
 ideas. They meet **signal words** ("the problem is," "one solution is," "to solve this"), label
 the problem and solution in a short passage, and explain how the author organized the text.
 This completes the pair of lessons on an author's text structure.
@@ -131,7 +132,7 @@ structure to hope: a problem named is a problem that can be met. See
 2. **Meet the structure (10 min).** Look at the poster. On the left, a **problem**: "the well
    runs dry." On the right, a **solution**: "the community builds a shared rain barrel." An
    arrow marked **so** connects them. Authors signal this with words like **the problem is**,
-   **one solution is**, and **to solve this**.
+   **one solution is**, and **to solve this** (S-172).
 3. **Read and label (15 min).** With a partner, read the short passage. Mark the **problem**
    and the **solution**. Circle the **signal words**. Then draw the two boxes and the arrow
    the author used.
@@ -162,6 +163,10 @@ signal word like "to solve this."
 
 ## Resources
 
-- Text-structure instruction supports comprehension (see the IES "Improving Adolescent
-  Literacy" practice guide; Duke & Pearson's synthesis of comprehension research). On explicit
-  instruction for novice skills, see Kirschner, Sweller & Clark (2006).
+- On text structure — including problem and solution — as an aid to reading
+  comprehension: Duke & Pearson (2002) (S-172).
+- On explicit instruction in comprehension strategies, including text structure: IES,
+  *Improving Adolescent Literacy*, <https://ies.ed.gov/ncee/wwc/practiceguide/8>
+  (S-170).
+- On modelling the structure first, then letting readers hunt for it: Kirschner,
+  Sweller & Clark (2006), <https://doi.org/10.1207/s15326985ep4102_1> (S-011).

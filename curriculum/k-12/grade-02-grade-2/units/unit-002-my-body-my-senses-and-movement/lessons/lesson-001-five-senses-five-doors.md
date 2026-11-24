@@ -98,7 +98,7 @@ sensing, then draw and label their own five doors.
 You already know your body has parts — in Grade 1 you named your head, arms, legs,
 hands, and feet. Now think of the five doors your body opens to the world: your eyes
 are the doors for light, your ears for sound, your nose for smells, your tongue for
-flavors, and your skin for touch. Every door is a way the world comes in to you.
+flavors, and your skin for touch (S-031). Every door is a way the world comes in to you.
 
 ## Materials
 
@@ -162,7 +162,8 @@ no "correct" body to match to — every body has its own way, and every way is g
 
 ## Resources
 
-- BBC Bitesize (KS1) — What are the senses?: <https://www.bbc.co.uk/bitesize/topics/z6882hv/articles/zsbntrd>
+- On the five main senses (hearing, sight, smell, taste, touch): BBC Bitesize (KS1) —
+  What are the senses? (S-031).
 
 ## Home connection
 

@@ -133,11 +133,11 @@ on the board, pointing to each part, arrow, and label — then let learners draw
 (guided practice) and self-check against the checklist. Feedback is built in three ways:
 the checklist (self), a partner-check (peer), and your glance (observation). Keep the
 egalitarian lens: the diagram must show that the nonliving parts and the small creatures
-matter as much as the big ones — a worm or a patch of soil belongs in the picture as
-much as a lion. Encourage ecosystems from many places (a rice paddy, a coral reef, a
-desert, a city park) so every learner can draw a home that is theirs (global lens). This
-artifact is kept for the unit portfolio; celebrate each diagram, and let a learner who
-is not finished return to it — "not yet" is information, never a verdict.
+matter as much as the big ones (S-152) — a worm or a patch of soil belongs in the
+picture as much as a lion. Encourage ecosystems from many places (a rice paddy, a coral
+reef, a desert, a city park) so every learner can draw a home that is theirs (global
+lens). This artifact is kept for the unit portfolio; celebrate each diagram, and let a
+learner who is not finished return to it — "not yet" is information, never a verdict.
 
 ## Procedure
 
@@ -183,6 +183,9 @@ balcony, or the backyard — and add two arrows showing what depends on what.
 
 ## Resources
 
-- BBC Bitesize (KS2 Science), "How do ecosystems work?" — living and nonliving parts and
-  how they link together.
-  https://www.bbc.co.uk/bitesize/topics/z6wwxnb/articles/zbd4g7h
+- On living and nonliving parts of an ecosystem and how they link together: BBC Bitesize
+  (KS2) — How do ecosystems work? (S-107).
+- On ecosystems as living (biotic) and nonliving (abiotic) parts that depend on each
+  other: National Geographic Education — Ecosystem (S-152).
+- On adaptations that fit an animal to its environment: BBC Bitesize (KS2) — What is
+  adaptation? (S-106).

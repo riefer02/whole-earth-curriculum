@@ -130,7 +130,8 @@ kind, and exactly what to do if something feels wrong.
    questions, an unkind message, a request to meet — stop, close it, tell a trusted
    adult. Never meet an online stranger alone, and never keep a secret that makes you
    feel bad.
-5. Follows widely used online-safety education (UNICEF and child-safety organizations).
+5. Follows widely used online-safety education (UNICEF and child-safety organizations;
+   S-127; S-128).
 
 **Don't overshoot.** Do not share frightening stories of harm.
 
@@ -198,7 +199,6 @@ if something felt wrong. Agree together on one kind rule for your family's scree
 
 ## Resources
 
-- UNICEF, "Keeping children safe online" (keep personal information private and tell a
-  trusted adult): <https://www.unicef.org/protection/violence-against-children-online>
-- International Telecommunication Union, "Child Online Protection" (children's online
-  safety guidance): <https://www.itu.int/en/ITU-D/Cybersecurity/Pages/COP.aspx>
+- On keeping personal information private and telling a trusted adult: UNICEF — Keeping
+  children safe online (S-127).
+- On children's online-safety guidance: ITU — Child Online Protection (S-128).

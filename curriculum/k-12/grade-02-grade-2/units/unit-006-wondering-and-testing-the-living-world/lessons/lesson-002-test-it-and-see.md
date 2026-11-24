@@ -141,7 +141,7 @@ unit — that is real science too, and it spaces the learning.
 4. **Share the evidence (10 min).** Tell a partner your result with the honest words: "I
    predicted it would float. It floated — it matched." Or "…it sank — it did not match,
    and now I know it is heavier than I thought."
-5. **Close (5 min).** A test turns a guess into **evidence** — what really happened.
+5. **Close (5 min).** A test turns a guess into **evidence** — what really happened (S-041).
    Whether it matched or not, you learned something true. That is science.
 
 ## Differentiation
@@ -170,6 +170,5 @@ with a grown-up and tell them whether it matched. Being wrong is welcome there t
 
 ## Resources
 
-- BBC Bitesize (KS1 Science), "Working scientifically" — asking questions, testing ideas,
-  predicting outcomes, and recording and representing findings.
-  https://www.bbc.co.uk/bitesize/topics/z8q9pbk
+- On testing an idea and recording what was found: BBC Bitesize (KS1) — Working
+  scientifically (S-041).

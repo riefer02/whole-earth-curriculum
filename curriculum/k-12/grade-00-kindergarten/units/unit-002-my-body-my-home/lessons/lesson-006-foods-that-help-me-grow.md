@@ -88,7 +88,7 @@ They close by drawing one meal that would help their body grow.
 ## Connection
 
 Food is not just for filling a tummy — it is the building material for your body and
-the fuel for your play. A seed becomes a bean sprout with water and food from the soil;
+the fuel for your play (S-038). A seed becomes a bean sprout with water and food from the soil;
 a child becomes bigger and stronger with food and water, too. Wherever food comes from —
 a rooftop pot, a field, a fishing boat — it helps living things grow.
 
@@ -117,7 +117,7 @@ people get it — farming, fishing, gathering, buying, growing in pots.
    grow? Water and food from the soil. Your body is like that too.
 2. **Grow like a plant (5 min).** Curl up small like a seed. Pretend rain falls, the
    sun shines, and food reaches your roots. Slowly grow tall, stretch your arms like
-   leaves. Food and water help you grow!
+   leaves. Food and water help you grow (S-049)!
 3. **What foods help me grow? (15 min).** Look at the food cards. Which foods are
    everyday foods that help a body grow, play, and learn? Sort them: fruits and
    vegetables, grains and beans, fish and eggs and milk foods. Talk with a partner
@@ -143,6 +143,11 @@ people get it — farming, fishing, gathering, buying, growing in pots.
 - **Formative (observation):** Can the learner name an everyday food and connect it to
   growing or playing, with guidance?
 - **Artifact (portfolio):** The "grow meal" drawing.
+
+## Resources
+
+- On everyday foods, energy, and growth: WHO — Healthy diet fact sheet (S-038).
+- On water and the body: WHO — Drinking-water fact sheet (S-049).
 
 ## Home connection
 

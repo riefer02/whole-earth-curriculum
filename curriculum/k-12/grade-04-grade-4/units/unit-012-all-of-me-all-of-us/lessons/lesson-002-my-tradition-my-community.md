@@ -91,9 +91,9 @@ who share or honor that same thread. The page joins the portfolio.
 
 ## Connection
 
-Think of a special meal, song, holiday, or way of showing respect that happens again
-and again in your family or culture. That is a **tradition** — something kept alive by
-being **passed on**. When you keep a tradition, you are never doing it alone: you are
+Think of a special meal, song, holiday, or way of showing respect that happens again and
+again in your family or culture. That is a **tradition** — something kept alive by being
+**passed on** (S-056). When you keep a tradition, you are never doing it alone: you are
 touching hands with grandparents, neighbors, and people in other towns or countries who
 keep the same thread. A single lantern, drumbeat, or shared plate can connect one home
 to a whole world. Today you trace your own thread and see how far it reaches.
@@ -186,6 +186,7 @@ they pass it on to? Bring one new thread back to share.
 
 ## Resources
 
-- UNESCO Intangible Cultural Heritage (how communities pass on traditions):
-  <https://ich.unesco.org/>
-- CASEL SEL Framework (social awareness): <https://casel.org/fundamentals-of-sel/>
+- On traditions as living heritage that communities practice and pass on: UNESCO —
+  Intangible Cultural Heritage (S-056).
+- On social awareness and belonging as core competencies: CASEL — Fundamentals of Social
+  and Emotional Learning (S-001).

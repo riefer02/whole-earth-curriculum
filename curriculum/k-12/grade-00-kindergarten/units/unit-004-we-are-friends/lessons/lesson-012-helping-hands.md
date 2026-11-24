@@ -112,7 +112,7 @@ other as equals, not a favor from above.
    a friend. Today we will learn how.
 2. **Watch and learn (10 min).** I will show you a helping job: zipping a coat,
    picking up spilled blocks, passing a pencil. Watch first, then try it with a
-   partner.
+   partner (S-011).
 3. **Practice helping (15 min).** Take turns being the helper and the helped. Show
    your partner how, then let them show you. Helping is a skill — we practice it
    together.
@@ -136,6 +136,7 @@ other as equals, not a favor from above.
 
 - CASEL SEL Framework (foundational competencies):
   <https://casel.org/fundamentals-of-sel/>
+- On modelling a skill before independent practice: Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).
 
 ## Home connection
 

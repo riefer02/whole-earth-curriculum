@@ -81,10 +81,11 @@ last_updated: 2026-08-17
 
 ## Summary
 
-Learners explain how a person's **values** shape their **choices**. They recall what a
+Learners explain how a person's **values** shape their **choices** (S-001). They
+recall what a
 value is, analyze a worked example (two characters in the *same* situation making
 *different* choices because their values differ), then work through story cards in
-pairs and write or tell their own example of a value guiding a choice.
+pairs and write or tell their own example of a value guiding a choice (S-011).
 
 ## Objectives
 
@@ -168,7 +169,7 @@ share your example.
 
 ## Resources
 
-- Values are a core part of social-emotional learning; see CASEL's self-awareness and
-  social-awareness competencies: <https://casel.org/fundamentals-of-sel/>
-- On modeling skills for novices before independent practice: Kirschner, Sweller & Clark
-  (2006), <https://doi.org/10.1207/s15326985ep4102_1>
+- On values and responsible decision-making within social and emotional learning:
+  CASEL, <https://casel.org/fundamentals-of-sel/> (S-001).
+- On modelling a worked example before learners work independently: Kirschner, Sweller
+  & Clark (2006), <https://doi.org/10.1207/s15326985ep4102_1> (S-011).

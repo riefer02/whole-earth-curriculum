@@ -83,11 +83,11 @@ last_updated: 2026-08-16
 
 ## Summary
 
-Learners compare how people light their homes **long ago** and **today** — from
-candle and oil lamp, through kerosene and gas, to the electric bulb and the solar
-lamp — and name one thing that **changed** and one thing that **stayed the same**.
-They hold an honest, kind truth: many people still light their homes the older way,
-and neither way is "better."
+Learners compare how people light their homes **long ago** and **today** — from candle
+and oil lamp, through kerosene and gas, to the electric bulb and the solar lamp — and
+name one thing that **changed** and one thing that **stayed the same** (S-052). They
+hold an honest, kind truth: many people still light their homes the older way, and
+neither way is "better."
 
 ## Objectives
 
@@ -182,11 +182,8 @@ Resources) — keep it simple and honest.
 
 ## Resources
 
-- Our World in Data, "Light at Night" (Max Roser et al.) — documents the history of
-  lighting: people moved from candles to oil and gas lamps to kerosene and then
-  electricity, the price of light fell dramatically over centuries, and many people
-  still lack light at night today.
-  https://ourworldindata.org/light-at-night
+- On the history of lighting — candles, oil and gas lamps, kerosene, electricity — and
+  on people who still lack light at night: Our World in Data — Light at Night (S-052).
 
 ## Home connection
 

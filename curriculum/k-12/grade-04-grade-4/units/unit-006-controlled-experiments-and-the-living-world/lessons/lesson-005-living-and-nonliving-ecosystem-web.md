@@ -103,10 +103,10 @@ the whole web pulls. Learners see that a worm and a river are as vital as a lion
 Think of the place where you live — a field, a garden, a riverbank, a city park. The
 plants there do not grow alone. They need **sunlight** to make food, **water** to drink,
 **soil** to stand in, and **air** to breathe. The animals need the plants and the water.
-And when living things die, tiny living things and **soil** break them down so new plants
-can grow. That is an **ecosystem** — living and nonliving things depending on each other,
-the way the people in a village depend on the well, the soil, and each other. Pull out one
-part and everyone notices.
+And when living things die, tiny living things and **soil** break them down so new
+plants can grow. That is an **ecosystem** — living and nonliving things depending on
+each other (S-107), the way the people in a village depend on the well, the soil, and
+each other. Pull out one part and everyone notices.
 
 ## Materials
 
@@ -178,6 +178,5 @@ other.
 
 ## Resources
 
-- BBC Bitesize (KS2 Science), "How do ecosystems work?" — living and nonliving things in
-  a habitat and how they depend on each other.
-  https://www.bbc.co.uk/bitesize/topics/z6wwxnb/articles/zbd4g7h
+- On living and nonliving things in a habitat and how they depend on each other: BBC
+  Bitesize (KS2) — How do ecosystems work? (S-107).

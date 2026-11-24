@@ -156,7 +156,7 @@ body, then "tell" how it felt by pointing or gesturing.
    brave. You can stay in one spot or travel through the space.
 5. **Show and guess (10 min).** Move a feeling while a friend watches. Can they guess
    which one? Then tell them how it felt in your body.
-6. **Close (5 min).** Remember: your body can say what words cannot. Every feeling is
+6. **Close (5 min).** Remember: your body can say what words cannot (S-189). Every feeling is
    welcome, and every movement you make belongs.
 
 ## Differentiation
@@ -186,3 +186,9 @@ body, then "tell" how it felt by pointing or gesturing.
 
 At home, pick a feeling and show it with your body while a grown-up guesses. Then ask
 them to show a feeling for you to guess.
+
+## Resources
+
+- On movement and dance as a way of showing and sharing feeling, and on presenting
+  dance respectfully: The John F. Kennedy Center for the Performing Arts — Education
+  (S-189).

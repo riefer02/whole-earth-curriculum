@@ -105,7 +105,7 @@ of them was made by a person with two questions in mind: *what is this message f
 *who is it for?* The menu informs hungry students; the "cross carefully" sign warns walkers
 near the road; the storybook entertains children at bedtime. That is a message's **purpose**
 (what it is for) and its **audience** (who it is for). When you can name both, you can read
-any message with clear eyes.
+any message with clear eyes (S-151, S-442).
 
 ## Materials
 
@@ -198,6 +198,9 @@ think made it and why.
 
 ## Resources
 
-- Common Sense Education, "News & Media Literacy" — understanding that every message has a
-  purpose and an audience, and learning to name both.
-  https://www.commonsense.org/education/digital-citizenship/topic/news-and-media-literacy
+- On the key questions to ask of any media message — who made it, why, and for whom: NAMLE
+  — Key Questions to Ask When Analyzing Media Messages (S-151).
+- On the core concepts of media literacy, including that messages are constructed with a
+  purpose and an audience: Center for Media Literacy — Five Core Concepts and Key
+  Questions (S-442).
+

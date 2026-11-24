@@ -87,11 +87,11 @@ last_updated: 2026-08-16
 
 ## Summary
 
-Learners follow what happens to a piece of **litter**. Dropped on the ground, **rain** can
-wash it into a **river** and out to the **sea**, where animals may mistake it for food. Put
-in the **right place** — a bin — it can be **reused**, **recycled**, or **composted**.
-Learners learn that putting litter in the right place keeps water, soil, and animals safe,
-and that this small act of care is one anyone can do.
+Learners follow what happens to a piece of **litter**. Dropped on the ground, **rain**
+can wash it into a **river** and out to the **sea**, where animals may mistake it for
+food (S-066). Put in the **right place** — a bin — it can be **reused**, **recycled**,
+or **composted**. Learners learn that putting litter in the right place keeps water,
+soil, and animals safe, and that this small act of care is one anyone can do.
 
 ## Objectives
 
@@ -101,10 +101,10 @@ and that this small act of care is one anyone can do.
 ## Connection
 
 Think of a sweet wrapper or a paper scrap dropped on the ground. It does not stay there.
-Rain can wash it into a gutter, then a river, then the sea, where a fish might mistake it
-for food. The same piece, put in a **bin**, can be carried away and reused, recycled, or
-composted. The **right place** for litter keeps water, soil, and animals safe — and putting
-it there is something anyone can do.
+Rain can wash it into a gutter, then a river, then the sea, where a fish might mistake
+it for food. The same piece, put in a **bin**, can be carried away and reused, recycled,
+or composted. The **right place** for litter keeps water, soil, and animals safe — and
+putting it there is something anyone can do.
 
 ## Materials
 
@@ -190,12 +190,12 @@ and follow the path by listening. Non-speaking: point to each step in order.
 
 ## Home connection
 
-At home, watch where a piece of litter goes. With a grown-up, carry one piece to the right
-place — a bin, a basket, or a compost pile — and tell them why the right place keeps water,
-soil, and animals safe.
+At home, watch where a piece of litter goes. With a grown-up, carry one piece to the
+right place — a bin, a basket, or a compost pile — and tell them why the right place
+keeps water, soil, and animals safe.
 
 ## Resources
 
-- National Geographic Kids, "Plastic Pollution" — plastic litter can take hundreds of
-  years to break down and can wash into rivers and the ocean, where animals may mistake it
-  for food, supporting the dropped-path account. https://kids.nationalgeographic.com/science/article/plastic-pollution
+- On plastic litter taking hundreds of years to break down, washing into rivers and
+  the sea, and being mistaken for food: National Geographic Kids — Plastic Pollution
+  (S-066).

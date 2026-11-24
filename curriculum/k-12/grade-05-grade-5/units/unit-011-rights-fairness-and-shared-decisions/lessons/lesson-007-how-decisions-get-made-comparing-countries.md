@@ -98,7 +98,8 @@ way as "the best."
 Every family and class has a way to decide: one person decides, or everyone talks it
 out, or people raise hands. Whole countries have ways too, and they are not all the
 same. In one place, people gather and talk until they agree; in another, citizens vote
-directly on a law; in another, they choose representatives to decide for them. Seeing
+directly on a law; in another, they choose representatives to decide for them
+(S-461). Seeing
 the different ways — and who gets a voice in each — is how we understand our own.
 
 ## Materials
@@ -188,8 +189,8 @@ a talk, or a vote? — and compare it with one of the ways you learned today.
 
 ## Resources
 
-- For global, non-hierarchical comparison of how societies make decisions, the framing
-  in this lesson is a value of the curriculum (compare, don't rank), grounded in widely
-  documented examples; see the next grade's D09.S3.06.01 for democracy and its
-  alternatives.
-- Social awareness framing: CASEL: <https://casel.org/fundamentals-of-sel/>
+- On the variety of ways countries make decisions and who has a voice in each: V-Dem
+  Institute — Varieties of Democracy, <https://v-dem.net/> (S-461).
+- On comparing how decisions are made without ranking one way as best (a value this
+  curriculum holds, not a claim from the source): CASEL,
+  <https://casel.org/fundamentals-of-sel/> (S-001).

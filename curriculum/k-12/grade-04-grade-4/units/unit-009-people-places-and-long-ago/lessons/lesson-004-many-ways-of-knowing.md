@@ -128,28 +128,28 @@ of knowing, built over generations — and modern medicine, astronomy, and histo
 learn from them. (UNESCO calls such living knowledge "intangible cultural heritage" —
 see Resources.) This is exactly the philosophy commitment to **holding many ways of
 knowing side by side, never ranking one above another.** Introduce the concept with a
-worked example first (Kirschner, Sweller & Clark, 2006): model one tradition fully, then
-guide the others. Use the names of real peoples where you can — Ayurveda and other South
-Asian traditions, Traditional Chinese Medicine, Amazonian and Aboriginal plant
-knowledge; Polynesian and Micronesian wayfinding; West African griots and Aboriginal
-Australian songlines. Honor every body: describe each card in words for a learner who
-cannot see it; a learner who does not use a speaking voice points or acts. If a
-learner's own family has a knowledge tradition, welcome it with honor.
+worked example first (Kirschner, Sweller & Clark, 2006, S-011): model one tradition
+fully, then guide the others. Use the names of real peoples where you can — Ayurveda and
+other South Asian traditions, Traditional Chinese Medicine, Amazonian and Aboriginal
+plant knowledge; Polynesian and Micronesian wayfinding; West African griots and
+Aboriginal Australian songlines. Honor every body: describe each card in words for a
+learner who cannot see it; a learner who does not use a speaking voice points or acts.
+If a learner's own family has a knowledge tradition, welcome it with honor.
 
 ## Procedure
 
 1. **Gather (5 min).** Think of something your family or community knows how to do well
    and has known for a long time. How did people learn it?
 2. **Meet the idea (5 min).** A **knowledge tradition** is knowledge a people has built
-   and kept over many generations. People observe, try, remember, and pass it on.
+   and kept over many generations (S-056). People observe, try, remember, and pass it on.
 3. **Meet three traditions (20 min).** For each card, say what the tradition knows and
    does:
    - **Herbal medicine:** peoples across the world have learned which plants heal —
      Ayurveda in South Asia, traditional Chinese medicine, and the plant knowledge of
-     Amazonian and Aboriginal peoples. They know which leaf soothes, which root helps,
+     Amazonian and Aboriginal peoples (S-145). They know which leaf soothes, which root helps,
      and how to prepare them.
    - **Star navigation:** Polynesian and Micronesian navigators read the stars, waves,
-     clouds, and birds to cross thousands of miles of open ocean without instruments.
+     clouds, and birds to cross thousands of miles of open ocean without instruments (S-055).
    - **Oral history:** West African griots and Aboriginal Australian storytellers keep a
      people's history alive by telling and singing it, so it is not lost.
 4. **Write what each knows (10 min).** On your chart, under each tradition, write or
@@ -182,16 +182,14 @@ learner's own family has a knowledge tradition, welcome it with honor.
 
 ## Resources
 
-- UNESCO — Intangible Cultural Heritage: the practices, knowledge, and skills that
-  communities pass from generation to generation.
-  https://ich.unesco.org/
-- Polynesian Voyaging Society (Hōkūleʻa) — traditional Polynesian wayfinding and its
-  living practice.
-  https://hokulea.com/
-- World Health Organization — Traditional, Complementary and Integrative Medicine:
-  recognizes herbal and other traditional medicines as part of health care around the
-  world.
-  https://www.who.int/health-topics/traditional-complementary-and-integrative-medicine
+- On knowledge and skills that communities pass from generation to generation: UNESCO —
+  Intangible Cultural Heritage (S-056).
+- On traditional Polynesian wayfinding and its living practice: Polynesian Voyaging
+  Society (Hōkūleʻa) (S-055).
+- On herbal and other traditional medicines as part of health care worldwide: WHO —
+  Traditional, Complementary and Integrative Medicine (S-145).
+- On modelling a concept with a worked example first: Kirschner, Sweller & Clark — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

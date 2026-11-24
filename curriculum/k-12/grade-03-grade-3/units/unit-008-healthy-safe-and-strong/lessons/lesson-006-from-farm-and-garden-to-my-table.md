@@ -99,7 +99,7 @@ connecting people to the land around them.
 
 A seed goes into the soil. Sun and rain help it grow. Someone waters it, tends it, and
 later **harvests** it. Someone carries it to a **market** or a shop. Someone buys it and
-cooks it. Then it reaches your table. For other foods the journey starts differently — a
+cooks it. Then it reaches your table (S-081). For other foods the journey starts differently — a
 fish is caught from a river or the sea, milk comes from herded animals, and wild fruit is
 gathered from a tree — but every food still reaches a table by many hands. Every meal is a
 long journey made by many hands — and today you will follow that journey from start to
@@ -197,6 +197,6 @@ grew and carried it.
 
 ## Resources
 
-- Food and Agriculture Organization of the United Nations, "Sustainable food value
-  chains" (how food moves from farm to table):
-  <https://www.fao.org/sustainable-food-value-chains/en/>
+- On the path food travels from production through transport and market to the table: FAO
+  — Sustainable Food Value Chains Knowledge Platform (S-081).
+

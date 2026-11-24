@@ -98,7 +98,7 @@ the **common good**, producing a cooperation-versus-competition note.
 A boat needs every pair of hands rowing together — **cooperation**, because the goal is
 shared. A footrace has one finish line and many runners — **competition**, because the test
 is who is fastest. Neither is good or bad by itself; each is a *tool*, and a tool helps when
-it matches the task. Competition helps when it is fair and joyful and lifts everyone's play;
+it matches the task (S-233). Competition helps when it is fair and joyful and lifts everyone's play;
 it harms when winning becomes the only thing that matters. Cooperation helps when a goal is
 shared; it can stall when people hide their own best ideas. The skill is *choosing* the right
 mode — in a crew, a classroom, a market, or a village sharing a harvest.
@@ -175,3 +175,5 @@ this week, and ask quietly which mode fit and whether it helped or harmed the gr
   competition can motivate when it does not become the sole aim. The "each is a tool" framing
   is a values position of this curriculum. For classroom SEL framing:
   <https://casel.org/fundamentals-of-sel/>
+- On cooperative and competitive goal structures and their effects: David W. Johnson, Geoffrey Maruyama, Roger Johnson, Deborah Nelson & Linda Skon — Effects of cooperative, competitive, and individualistic goal structures on achievement (S-233).
+

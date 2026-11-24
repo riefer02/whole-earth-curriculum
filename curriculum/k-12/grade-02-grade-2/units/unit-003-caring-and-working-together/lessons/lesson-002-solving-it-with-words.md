@@ -108,17 +108,16 @@ make a plan." Today you will learn the steps and practice them.
 
 ## Facilitator note
 
-Conflict is not bad behavior; it is a normal part of living together, and solving it
-is a skill to teach, not a misdeed to punish (CASEL's relationship-skills
-competency). Teach the four steps as explicit, worked instruction — model the whole
-sequence first, then guide, then let learners try (Kirschner, Sweller & Clark, 2006).
-Keep the disagreement small and fictional in role-play so no learner relives a real
-hurt. Frame "use words" as naming your feeling and what you need ("I feel upset. I
-need a turn."), never as blaming ("You always…"). Watch for the learner who only ever
-gives in — a fair plan is one where both get a turn or a share, not one where one
-child always yields. Learners who do not speak with their mouth can use sign, a
-picture card, or a gesture for each step. Read the procedure aloud and model each
-step.
+Conflict is not bad behavior; it is a normal part of living together, and solving it is
+a skill to teach, not a misdeed to punish (CASEL's relationship-skills competency).
+Teach the four steps as explicit, worked instruction — model the whole sequence first,
+then guide, then let learners try (Kirschner, Sweller & Clark, 2006; S-011). Keep the
+disagreement small and fictional in role-play so no learner relives a real hurt. Frame
+"use words" as naming your feeling and what you need ("I feel upset. I need a turn."),
+never as blaming ("You always…"). Watch for the learner who only ever gives in — a fair
+plan is one where both get a turn or a share, not one where one child always yields.
+Learners who do not speak with their mouth can use sign, a picture card, or a gesture
+for each step. Read the procedure aloud and model each step.
 
 ## Procedure
 
@@ -156,3 +155,10 @@ step.
 
 At home, the next time you and someone want the same thing, try the four steps —
 stop, use words, listen, make a plan — and tell a grown-up what you planned together.
+
+## Resources
+
+- On modelling a whole sequence first, then guiding practice: Kirschner, Sweller &
+  Clark (2006) — Why Minimal Guidance Does Not Work (S-011).
+- On resolving conflict with words as a relationship skill: CASEL — Fundamentals of
+  Social and Emotional Learning (S-001).

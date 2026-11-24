@@ -97,11 +97,11 @@ and what they would do instead or again.
 
 ## Connection
 
-One small action can ripple through a whole place. Drop a wrapper by a stream, and rain may carry
-it into the water, where it can harm fish and birds. Plant a tree on the same bank, and its
-shade cools the water and its roots hold the soil, helping everything that lives there. People
-are part of the place, not separate from it — so every action, small as it looks, is a choice to
-**help** or to **harm**.
+One small action can ripple through a whole place. Drop a wrapper by a stream, and rain
+may carry it into the water, where it can harm fish and birds. Plant a tree on the same
+bank, and its shade cools the water and its roots hold the soil, helping everything that
+lives there (S-152). People are part of the place, not separate from it — so every
+action, small as it looks, is a choice to **help** or to **harm**.
 
 ## Materials
 
@@ -198,6 +198,7 @@ or what is affected.
 
 ## Resources
 
-- National Geographic Education, "Ecosystem" — living and nonliving parts depend on each other,
-  so one action (litter or planting) ripples through the whole place.
-  https://education.nationalgeographic.org/resource/ecosystem/
+- On living and nonliving parts of an ecosystem depending on each other, so one action
+  ripples through the whole place: National Geographic Education — Ecosystem (S-152).
+- On litter and plastic reaching water and harming wildlife: UNEP — Plastic Pollution
+  (S-216).

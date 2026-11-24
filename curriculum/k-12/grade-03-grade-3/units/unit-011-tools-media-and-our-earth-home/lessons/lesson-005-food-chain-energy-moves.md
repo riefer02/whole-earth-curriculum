@@ -102,7 +102,7 @@ Where does your energy come from? From the food you eat. And where does that foo
 energy? Trace it back: the bread came from wheat, a plant; the wheat grew using sunlight.
 Every meal is the end of a **food chain** — a path of energy that starts with the sun, moves
 into a plant, and then into the animals (and people) that eat. When you draw a food chain,
-the **arrows** show which way the energy is moving.
+the **arrows** show which way the energy is moving (S-072).
 
 ## Materials
 
@@ -196,7 +196,7 @@ the energy moved.
 
 ## Resources
 
-- BBC Bitesize (KS2), "What is a food chain?" — a food chain shows how energy moves from the
-  sun to plants and then to animals, supporting the lesson's core idea and the direction of
-  the arrows.
-  https://www.bbc.co.uk/bitesize/topics/zcyycdm/articles/zww9r2p
+- On food chains — energy moving from the Sun to plants and then to animals, with arrows
+  pointing from the eaten to the eater: BBC Bitesize (KS2) — What is a food chain?
+  (S-072).
+

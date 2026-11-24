@@ -118,14 +118,14 @@ It deepens Lesson 7: now the learner **analyzes** — names what stays the same,
 changes, and how. Teach the **features** with a worked example (philosophy §13): in 2,
 5, 8, 11 the terms change, the step (+3) stays the same, so it is a growing pattern that
 increases by 3. The key move is describing **invariance and change**, the heart of
-generalizing a pattern (Clements & Sarama, 2014). **How quickly a learner spots a
+generalizing a pattern (Clements & Sarama, 2014, S-020). **How quickly a learner spots a
 feature is not a measure of their worth; a pattern is a fact about numbers or shapes,
 never about a person.** Patterns and their analysis are human and cross-cultural —
 musicians, weavers, and builders have named "what repeats and what changes" for
-millennia (Zaslavsky, 1999). Count in the home language. For learners who are Deaf or
-hard of hearing, sign the constant and changing parts; for learners who are blind or
-have low vision, feel the pattern's parts and name each by touch. Learners with limited
-movement direct a partner to build. Mastery arrives at its own pace.
+millennia (Zaslavsky, 1999, S-024). Count in the home language. For learners who are
+Deaf or hard of hearing, sign the constant and changing parts; for learners who are
+blind or have low vision, feel the pattern's parts and name each by touch. Learners with
+limited movement direct a partner to build. Mastery arrives at its own pace.
 
 ## Procedure
 
@@ -170,8 +170,7 @@ and what changes. Predict the next part and tell a grown-up how you knew.
 
 ## Resources
 
-- Clements, D. H., & Sarama, J. (2014). *Learning and Teaching Early Math: The
-  Learning Trajectories Approach* (2nd ed.). Routledge. (Generalizing by describing
-  what is invariant and what changes.)
-- Zaslavsky, C. (1999). *Africa Counts: Number and Pattern in African Cultures* (3rd
-  ed.). Lawrence Hill Books. (Pattern and its analysis across many traditions.)
+- On generalizing by describing what is invariant and what changes: Clements & Sarama —
+  Learning and Teaching Early Math: The Learning Trajectories Approach (S-020).
+- On pattern and its analysis across many traditions: Zaslavsky — Africa Counts: Number
+  and Pattern in African Cultures (S-024).

@@ -101,7 +101,7 @@ decides by consensus**, then map power in a place they know.
 
 Think of one decision made in your day — what time to eat, who sits where, what the class
 studies, who runs your town. Someone decided it. **Power** is the ability to influence or
-decide, for yourself and for others. It is everywhere — in families, schools, villages, and
+decide, for yourself and for others (S-275). It is everywhere — in families, schools, villages, and
 whole societies — and it can be held by one person, a few, or many. Today you look at what
 power is and who holds it, in your world and across the human story.
 
@@ -138,7 +138,7 @@ life so the abstraction lands concretely. See `docs/facilitation.md`.
 3. **Who holds it? (15 min).** Read the six cards. In one society, a **monarch** holds much
    power alone. In another, a **council of elders** decides together. In another, a
    **village assembly** lets many voices speak. In still another, a **confederacy of
-   nations** decides by **consensus** — everyone talking until they agree. Power can also
+   nations** decides by **consensus** — everyone talking until they agree (S-203). Power can also
    live in a **family** and in a **school**. For each card, ask: is this power over, or
    power with — or a mix?
 4. **Map power in your world (15 min).** On your power map, write one place you know (home,
@@ -178,3 +178,6 @@ and ask which are made *over* others and which are made *with* everyone.
   Smithsonian's National Museum of the American Indian, <https://americanindian.si.edu/>).
   Consensus and assembly forms of decision-making are documented in many societies,
   including West African village assemblies. These are presented side by side, not ranked.
+- On the working definition of power as the ability to influence or decide: Steven Lukes — Power: A Radical View (S-275).
+- On consensus-based councils in the Haudenosaunee Confederacy: Smithsonian National Museum of the American Indian — Haudenosaunee creation (S-203).
+

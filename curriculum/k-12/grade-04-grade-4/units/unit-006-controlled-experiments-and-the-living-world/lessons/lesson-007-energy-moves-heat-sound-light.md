@@ -103,12 +103,13 @@ what moves, and the receiver for three transfers they find themselves.
 ## Connection
 
 Touch a cup that has been sitting in the sun. Warm, isn't it? That warmth is **energy**
-that traveled as **light** from the Sun, landed on the cup, and became **heat**. Clap your
-hands and hear the **sound** travel through the air to your ear. Shine a light on a wall
-and watch the **light** leave the lamp and land on the wall. Energy is always moving from
-one place to another — from the fire to the pot, from the drum to your ear, from the Sun
-to the Earth — and it is never destroyed. It only changes place or form, which is why a
-sunny window, a ringing bell, and a warm fire are all the same story: energy on the move.
+that traveled as **light** from the Sun, landed on the cup, and became **heat**. Clap
+your hands and hear the **sound** travel through the air to your ear. Shine a light on a
+wall and watch the **light** leave the lamp and land on the wall (S-108). Energy is
+always moving from one place to another — from the fire to the pot, from the drum to
+your ear, from the Sun to the Earth — and it is never destroyed (S-256). It only changes
+place or form, which is why a sunny window, a ringing bell, and a warm fire are all the
+same story: energy on the move.
 
 ## Materials
 
@@ -138,18 +139,19 @@ describe from centuries of careful measurement, and it is also a thing to marvel
 
 ## Procedure
 
-1. **Gather and remember (5 min).** Last year you met solids, liquids, and gases, and how
-   heating and cooling change them. Today: what *is* that warmth, and where does it go?
+1. **Gather and remember (5 min).** Last year you met solids, liquids, and gases, and
+   how heating and cooling change them. Today: what *is* that warmth, and where does it
+   go?
 2. **Meet energy (10 min).** **Energy** is what makes things happen — it warms, it makes
-   sound, it lights. It moves from a **source** (where it starts) to a **receiver** (where
-   it lands). Say the three kinds: **heat**, **sound**, **light**.
-3. **Trace three transfers (20 min).** First, hold the warm stone near the cool one — feel
-   the **heat** move from warm to cool. Next, tap the drum — hear the **sound** travel to
-   your ear. Last, shine the flashlight — see the **light** land on the wall. Each time,
-   say the **source**, what moves, and the **receiver**.
-4. **Record your own (15 min).** Find three energy transfers around you — a lamp, a voice,
-   warm hands, the Sun through a window. For each, write the **source**, what moves, and
-   the **receiver**.
+   sound, it lights (S-255). It moves from a **source** (where it starts) to a
+   **receiver** (where it lands). Say the three kinds: **heat**, **sound**, **light**.
+3. **Trace three transfers (20 min).** First, hold the warm stone near the cool one —
+   feel the **heat** move from warm to cool. Next, tap the drum — hear the **sound**
+   travel to your ear. Last, shine the flashlight — see the **light** land on the wall.
+   Each time, say the **source**, what moves, and the **receiver**.
+4. **Record your own (15 min).** Find three energy transfers around you — a lamp, a
+   voice, warm hands, the Sun through a window. For each, write the **source**, what
+   moves, and the **receiver**.
 5. **Close (5 min).** Energy is never destroyed. When it seems to vanish, it has only
    spread out. Tomorrow you will build a path for one kind of energy — electricity — to
    move along.
@@ -179,9 +181,11 @@ lighting a page, a voice reaching across a room — and say the source and the r
 
 ## Resources
 
-- BBC Bitesize (KS2 Science), "What is light?" — light travels from a source and carries
-  energy.
-  https://www.bbc.co.uk/bitesize/topics/z3nnb9q/articles/zpnvf82
-- BBC Bitesize (KS2 Science), "How are sounds made?" — sound is made by vibrations and
-  travels as energy.
-  https://www.bbc.co.uk/bitesize/topics/zgffr82/articles/zh9bydm
+- On light travelling from a source and carrying energy: BBC Bitesize (KS2) — What is
+  light? (S-108).
+- On sound being made by vibrations and travelling as energy: BBC Bitesize (KS2) — How
+  are sounds made? (S-109).
+- On the forms of energy — including heat, light, sound, and electrical: EIA Energy Kids
+  — Forms of Energy (S-255).
+- On energy being neither created nor destroyed, only changed in form: EIA Energy Kids —
+  Laws of Energy (S-256).

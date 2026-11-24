@@ -100,7 +100,7 @@ they wanted us to feel*, including when sound is used to sell.
 
 Next time a movie makes your heart pound, notice what you are *hearing*, not just seeing: a
 low drone creeping up, a sudden silence, then a sting. Sound is the reason a hallway feels
-safe one moment and haunted the next — even though the picture never changed. Games do it
+safe one moment and haunted the next — even though the picture never changed (S-188). Games do it
 too: a soft loop means "explore, you're safe," and a rising beat means "get ready." Ads do it
 most of all — a cheerful tune can make a drink feel like a party. Today you learn to *hear*
 the mood being built, and to name who is building it and why.
@@ -150,7 +150,7 @@ industry's default.
    worksheet, fill three columns: the **scene**, the **sound** you hear (music? effects?
    silence?), and the **mood/meaning** it makes. Then ask the bigger question: *who chose this
    sound, and what did they want me to feel — and is that feeling true to the scene or a trick
-   to sell me something?*
+   to sell me something?* (S-151)
 4. **Try it muted / imagined (10 min).** Watch the same scene with the sound off (or close
    your eyes and imagine the picture). What is lost? What did the sound alone add? Write one
    sentence.
@@ -188,3 +188,6 @@ like with the sound off? Name what the sound was doing.
   sound: <https://namle.org/resources/key-questions/>
 - Kirschner, Sweller & Clark (2006), "Why Minimal Guidance Does Not Work," on modeling a
   worked example before independent practice.
+- On music and sound carrying meaning across media and traditions: Smithsonian Folkways Recordings (S-188).
+- On asking who made a media message and why: NAMLE — Key Questions to Ask When Analyzing Media Messages (S-151).
+

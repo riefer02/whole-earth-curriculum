@@ -141,11 +141,11 @@ is. Keep praise about effort and wonder, not comparison ("you tested so carefull
 "yours is the best"). If a learner has gaps or "not yet" moments, this is not the time
 to surface them — the fair is about what they *did* learn and what they *still wonder*.
 Retrieval is built in: recalling and explaining to a peer is the deepest kind of
-remembering, spaced and interleaved across the whole unit. Honor every body: sharing may
-be by speaking, pointing, signing, acting, or simply displaying work; a learner who
-prefers not to speak can point to their work while a peer or adult reads a label. End by
-gathering the unit's questions — "what do you still wonder?" — and honor that some
-questions we cannot answer yet, and that is wonderful.
+remembering, spaced and interleaved across the whole unit (S-039). Honor every body:
+sharing may be by speaking, pointing, signing, acting, or simply displaying work; a
+learner who prefers not to speak can point to their work while a peer or adult reads a
+label. End by gathering the unit's questions — "what do you still wonder?" — and honor
+that some questions we cannot answer yet, and that is wonderful.
 
 ## Procedure
 
@@ -192,7 +192,7 @@ Wonder together — and keep watching the living world.
 
 ## Resources
 
-- BBC Bitesize (KS1/KS2 Science) — the unit's science topics (working scientifically,
-  life cycles, habitats, materials, sound, the Sun, and rocks and soil) collected for
-  families to revisit together.
-  https://www.bbc.co.uk/bitesize/primary
+- On spaced retrieval as one of the best-supported ways to remember: Dunlosky et al.
+  (2013) — Improving Students' Learning With Effective Learning Techniques (S-039).
+- The unit's science topics, gathered for families to revisit together (a family-facing
+  index, not a claim-level source): BBC Bitesize — Primary (home) (S-048).

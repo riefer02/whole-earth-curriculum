@@ -153,7 +153,7 @@ organizations such as the Firesticks Alliance.
    Aboriginal Australian **cultural burning**. For tens of thousands of years, people
    have lit low, carefully timed "cool" fires that clear old growth, protect habitat,
    and reduce the fuel that feeds huge, dangerous fires — knowledge passed from elders
-   to children. Two: **formal science** — fire scientists measure fuel, weather, and
+   to children (S-320, S-321). Two: **formal science** — fire scientists measure fuel, weather, and
    spread, build models, and test predictions. Both understand fire; both care for the
    land.
 3. **Compare (15 min).** On your two-ways page, record side by side: What does each
@@ -197,3 +197,6 @@ weather report or a textbook says, and notice that both have something true.
   inform each other is a partnership value, not a scientific finding.
 - On explicit instruction and worked examples: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On Aboriginal and Torres Strait Islander cultural burning as a long-standing, living practice: CSIRO — Indigenous Cultural Burning education resources (S-320).
+- On cultural burning's history and benefits, from an Indigenous fire organization: Firesticks Alliance (now Living Knowledge Network) — Indigenous fire and cultural burning (S-321).
+

@@ -90,8 +90,8 @@ simple chart or Venn diagram to sort their thinking.
 Think of two friends. They are alike in some ways and different in others, and noticing
 both is how you understand them — and how you understand a story. When two characters
 meet the same problem, or two events echo each other, asking "how are they the same, and
-how are they different?" opens the story's meaning. Comparing is a reader's way of
-seeing clearly.
+how are they different?" opens the story's meaning (S-172). Comparing is a reader's way
+of seeing clearly (S-040).
 
 ## Materials
 
@@ -107,7 +107,7 @@ seeing clearly.
 
 Comparing and contrasting is a taught skill: model it with a worked example — read a
 passage, then think aloud as you sort "same" and "different" details (Kirschner, Sweller
-& Clark, 2006). Keep the two moves distinct: **compare** = how they are alike;
+& Clark, 2006, S-011). Keep the two moves distinct: **compare** = how they are alike;
 **contrast** = how they differ. Anchor every claim in the text: "I say they are alike
 because…" The goal is supported thinking, not right answers. This works in any language
 and writing system — the comparison is about meaning, not script. Honor comparisons made
@@ -157,7 +157,9 @@ thing that is the same and one that is different.
 
 ## Resources
 
-- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during
-  instruction does not work. *Educational Psychologist*, 41(2), 75–86.
-- National Reading Panel (2000). Report on comprehension (comparing and contrasting).
-  (Widely used evidence base.)
+- On comparing and contrasting as a comprehension strategy: National Reading Panel —
+  Teaching Children to Read (S-040).
+- On the research base for teaching comprehension strategies: Duke & Pearson — Effective
+  Practices for Developing Reading Comprehension (S-172).
+- On worked examples and explicit instruction: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

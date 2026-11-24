@@ -92,7 +92,7 @@ Every day you see things that make you wonder — why the sky is blue, how a see
 becomes a plant, where the rain goes after it falls. Wondering is a kind of looking,
 and a question is a way to look closer. When you ask "why" or "how," you are doing
 what scientists and explorers and storytellers have always done: paying attention to
-the world.
+the world (S-250).
 
 ## Materials
 
@@ -140,3 +140,7 @@ wrong. If a learner says "I don't know," say "I wonder too — what is your firs
   "how" question and offer an idea of their own?
 - **Artifact (portfolio):** The learner's drawn question, kept for the unit's closing
   wonder box.
+
+## Resources
+
+- On science as asking and testing questions: Understanding Science (UC Berkeley) — What is science? / bias (S-250).

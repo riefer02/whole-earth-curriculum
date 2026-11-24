@@ -161,7 +161,7 @@ many perspectives, never a single one.
 ## Procedure
 
 1. **Gather and remember (10 min).** You have learned seven things. Say them together:
-   - A **timeline** orders landmarks, and clues tell us the order is right.
+   - A **timeline** orders landmarks, and clues tell us the order is right (S-263).
    - A place **changes** over time, and we can name a **cause**.
    - **Two peoples** meet the same needs, and the place shapes how.
    - A **story, song, or art form** shows what a culture values.
@@ -209,6 +209,14 @@ many perspectives, never a single one.
   two peoples and values, movement and settlement, and working together for a say?
 - **Performance (oral):** Can the learner tell their story, moving through the sections,
   using the unit's ideas in their own words?
+
+## Resources
+
+- On telling the difference between primary and secondary sources, and using evidence to
+  check a claim about the past: U.S. National Archives — Primary and Secondary Sources
+  (S-263).
+- On asking how we know, and sourcing evidence, when we tell a story about the past:
+  Stanford History Education Group — historical thinking (S-316).
 
 ## Home connection
 

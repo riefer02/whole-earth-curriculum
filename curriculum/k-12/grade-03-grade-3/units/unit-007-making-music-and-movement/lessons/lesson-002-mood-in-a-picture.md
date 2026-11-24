@@ -101,7 +101,7 @@ feeling can be shown in pictures made far away and long ago.
 A picture can make you feel something before you say a single word — a soft blue
 sunset feels calm, a jagged dark storm feels wild, a bright crowded market feels
 excited. The feeling a picture gives you is its **mood**, and it does not come from
-nowhere: the **color**, **line**, and **shape** in the picture make it. Today you will
+nowhere: the **color**, **line**, and **shape** in the picture make it (S-365). Today you will
 look at pictures, name their mood, and point to what makes them feel that way.
 
 ## Materials
@@ -132,7 +132,7 @@ that?" rather than "is that the correct mood?"
 **The lenses, briefly.**
 - *Social-emotional:* a mood named and evidenced is a feeling taken seriously.
 - *Intellectual:* model the naming once, then let learners try (Kirschner, Sweller &
-  Clark, 2006).
+  Clark, 2006, S-011).
 - *Global:* offer pictures from many places, and ask whether the mood travels.
 - *Critical-thinking:* the evidence must come from the picture, not from preference.
 
@@ -178,8 +178,10 @@ the picture. Everyone's feeling is welcome.
 
 ## Resources
 
-- No external resources required; the claims in this lesson are about the learner's own
-  looking and feeling, which they practice directly.
+- On the elements of art — line, shape, colour, value, texture, space — that carry how a
+  picture feels: The J. Paul Getty Museum — Understanding Formal Analysis (S-365).
+- On modeling a skill once before learners try it: Kirschner, Sweller & Clark (2006) — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

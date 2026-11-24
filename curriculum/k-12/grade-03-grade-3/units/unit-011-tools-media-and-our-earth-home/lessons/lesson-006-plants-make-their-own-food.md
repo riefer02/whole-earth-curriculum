@@ -100,7 +100,7 @@ Think of the last thing you ate. If it was bread or rice or fruit, it came from 
 it was meat or milk or an egg, it came from an animal — an animal that ate plants. However
 you trace it back, the food always begins with a **green plant** using **sunlight** to make
 its own food. Plants do something no animal can do: they make food out of sunlight, water,
-and air. That is why every living thing, deep down, depends on plants.
+and air (S-033). That is why every living thing, deep down, depends on plants (S-074).
 
 ## Materials
 
@@ -194,9 +194,8 @@ At home, look at one food on your table and trace it back to a green plant. Tell
 
 ## Resources
 
-- BBC Bitesize (KS2), "The structure of flowering plants" — plants use their leaves to make
-  food, supporting the idea that green plants make their own food.
-  https://www.bbc.co.uk/bitesize/topics/zy66fg8/articles/z2d4g7h
-- NASA Space Place, "All About the Sun" — the Sun is the source of the light and warmth that
-  plants use to make food.
-  https://spaceplace.nasa.gov/all-about-the-sun/en/
+- On what a plant needs to grow, and on leaves using light to make food: BBC Bitesize
+  (KS1) — What does a plant need to grow? (S-033).
+- On the parts of a flowering plant and the job each does: BBC Bitesize (KS2) — The
+  structure of flowering plants (S-074).
+

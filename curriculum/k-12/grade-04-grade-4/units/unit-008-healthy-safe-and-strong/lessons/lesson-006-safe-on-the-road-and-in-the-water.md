@@ -120,9 +120,9 @@ practice those rules.
    when clear, **walk, don't run**, and **wear a helmet** when cycling.
 2. Water: **swim only with an adult or lifeguard**, never alone. If someone is in
    trouble, **reach or throw** a stick, rope, or float and **call an adult** — never go
-   in, because the person could pull a child under.
+   in, because the person could pull a child under (S-122).
 3. Both follow widely used guidance, promoted by the World Health Organization and
-   water-safety organizations.
+   water-safety organizations (S-122; S-123).
 
 **Don't overshoot.** A rescue story is not a plan: reach, throw, and call.
 
@@ -192,7 +192,7 @@ stop-look-left-right-left. Name who must be with you before you swim.
 
 ## Resources
 
-- World Health Organization, "Drowning" (supervision and reach-or-throw save lives):
-  <https://www.who.int/news-room/fact-sheets/detail/drowning>
-- World Health Organization, "Road traffic injuries" (pedestrian safety):
-  <https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries>
+- On supervision and reach-or-throw rescue — never going in after someone: WHO —
+  Drowning fact sheet (S-122).
+- On pedestrians as vulnerable road users and looking-and-listening before crossing: WHO
+  — Road traffic injuries fact sheet (S-123).

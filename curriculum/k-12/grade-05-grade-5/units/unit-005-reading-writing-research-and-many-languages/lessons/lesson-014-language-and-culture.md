@@ -97,7 +97,8 @@ In English, one word — "uncle" — names your father's brother and your mother
 Hindi, they are different people with different words: **चाचा** (*chacha*, father's younger
 brother) and **मामा** (*mama*, mother's brother). In Spanish, you say **tú** to a friend and
 **usted** to someone you respect or do not know well. Languages are not just different labels
-for the same things — they **sort the world differently**, and the way they sort it shows what
+for the same things — they **sort the world differently** (S-168), and the way they
+sort it shows what
 a culture cares about: exactly how you are related, or exactly how much respect to show.
 
 ## Materials
@@ -131,7 +132,8 @@ value we hold (`docs/philosophy.md` §4–5).
 2. **Meet family words (10 min).** Look at the poster's first row. English has one word,
    "uncle." Hindi has **चाचा** (*chacha*) and **मामा** (*mama*) — it sorts the father's side and
    the mother's side. Neither is better; each shows what that culture pays attention to.
-3. **Meet food and respect words (10 min).** Row two: the same drink spread by sea as "tea" and
+3. **Meet food and respect words (10 min).** Row two: the same drink spread by sea as
+   "tea" and
    by land as "chai" — one word, two journeys, two sounds. Row three: Spanish has **tú**
    (familiar) and **usted** (formal). The language *requires* you to choose how much respect to
    show. What does that reveal?
@@ -163,9 +165,9 @@ it shows about your family's way of life.
 
 ## Resources
 
-- Kinship terminology and honorifics as windows into culture are standard in linguistic
-  anthropology; see Daniel L. Everett, *Language: The Cultural Tool*, and the classic work of
-  Edward Sapir and Benjamin Lee Whorf on language and thought. The spread of the words "tea"
-  and "chai" is documented in the *World Atlas of Language Structures* and popular linguistic
-  histories. The claim that all languages are equally valid is a value commitment
-  (`docs/philosophy.md` §4).
+- On language as a tool shaped by culture, so that its words reflect what its speakers
+  notice and value: Everett — *Language: The Cultural Tool* (S-167).
+- On the moderate claim that a language's categories shape habitual thought: Sapir &
+  Whorf — *Language, Thought, and Reality* (S-168).
+- On the word for 'tea' spreading by sea from Min Nan Chinese and 'chai' by land from
+  Sinitic cha: WALS Online, chapter 138 'Tea', <https://wals.info/chapter/138> (S-169).

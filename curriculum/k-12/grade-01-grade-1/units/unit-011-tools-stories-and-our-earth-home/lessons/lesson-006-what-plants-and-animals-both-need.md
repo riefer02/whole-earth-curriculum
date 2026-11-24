@@ -142,7 +142,7 @@ show the shared needs.
 4. **Find what both need (10 min).** Look at the two overlapping circles. Place each
    need card: water and air go in the middle, where **both** plants and animals need
    them. Light goes with plants; food goes with animals. Say it: "A plant and an
-   animal both need water and air."
+   animal both need water and air" (S-032; S-033).
 5. **Draw the shared needs (5 min).** Draw a plant and an animal side by side, with
    water and air drawn for both of them.
 6. **Close (5 min).** Plant or animal, quiet or busy — every living thing needs water
@@ -175,12 +175,10 @@ show the shared needs.
 
 ## Resources
 
-- BBC Bitesize (KS1 Science), "What does a plant need to grow?" — plants need water,
-  light, air, the right temperature, and time.
-  https://www.bbc.co.uk/bitesize/topics/zpxnyrd/articles/zkp2jsg
-- BBC Bitesize (KS1 Science), "What do animals need to survive?" — animals need air,
-  water, shelter, and food to survive.
-  https://www.bbc.co.uk/bitesize/topics/z6882hv/articles/zx38wmn
+- On what plants need to grow — water, light, air, the right temperature, and time:
+  BBC Bitesize (KS1 Science), "What does a plant need to grow?" (S-033).
+- On what animals need to survive — air, water, shelter, and food: BBC Bitesize (KS1
+  Science), "What do animals need to survive?" (S-032).
 
 ## Home connection
 

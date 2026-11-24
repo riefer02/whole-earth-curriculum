@@ -80,10 +80,10 @@ last_updated: 2026-08-16
 
 ## Summary
 
-Learners step into the daily life of children in another place and time — what they
-eat, where they live, how they help, and how they play — and sort what is **alike**
-and what is **different** from their own day. Every child's day is real and worthy;
-no way is "better."
+Learners step into the daily life of children in another place and time — what they eat,
+where they live, how they help, and how they play — and sort what is **alike** and what
+is **different** from their own day (S-053). Every child's day is real and worthy; no
+way is "better."
 
 ## Objectives
 
@@ -110,7 +110,7 @@ come to know and respect one another.
   examples: a Quechua-speaking child in the high Andes who helps farm potatoes and
   herd llamas (see Resources), a child in a Pacific island community who helps fish
   and paddle, and a child from long ago in a farming village who helps with the
-  harvest.
+  harvest (S-054).
 - Prepare the four-row compare chart (food, home, work, play).
 
 ## Facilitator note
@@ -166,13 +166,10 @@ they may compare the two *given* children instead.
 
 ## Resources
 
-- DK / UNICEF, *Children Just Like Me* — a book that shows real children's daily
-  lives (food, homes, work, play) across many countries, side by side. (Book;
-  no URL.)
-- International Potato Center (CIP), "Potato" — notes the potato was first
-  domesticated in the Andes mountains of South America and that thousands of native
-  potato varieties are still grown there, supporting the Andean child-life example.
-  https://cipotato.org/potato/
+- On real children's daily lives — food, homes, work, play — across many countries
+  side by side: DK / UNICEF — Children Just Like Me (S-053).
+- On the potato's domestication in the Andes: International Potato Center (CIP) —
+  Potato (S-054).
 
 ## Home connection
 

@@ -78,7 +78,7 @@ last_updated: 2026-08-16
 
 Learners bring all five reading questions together — who, what, where, when, and why
 — to understand a whole text and retell it completely. This is the comprehension
-capstone of the reading thread.
+capstone of the reading thread (S-040).
 
 ## Objectives
 
@@ -149,5 +149,5 @@ when, why — to someone at home.
 
 ## Resources
 
-- National Reading Panel (2000), reading comprehension — question generation and
-  answering. (Cited as a widely used evidence base.)
+- On question answering and question generation across a whole text: National Reading
+  Panel (2000) — Teaching Children to Read (S-040).

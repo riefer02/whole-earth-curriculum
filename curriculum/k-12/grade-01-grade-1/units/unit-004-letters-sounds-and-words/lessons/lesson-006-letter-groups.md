@@ -86,7 +86,7 @@ saying groups inside simple words.
 
 Some friends always walk to school together, side by side. Marks in writing do
 this too — certain marks appear together so often that we read them as one part.
-Reading groups as one chunk makes reading faster, the way a cook who knows a
+Reading groups as one chunk makes reading faster (S-040), the way a cook who knows a
 recipe stirs several steps at once.
 
 ## Materials
@@ -146,3 +146,8 @@ or using a device.
 
 Show someone at home the letter group you practiced, and find it together inside
 one written word.
+
+## Resources
+
+- On phonics teaching of letter groups and spelling patterns: National Reading Panel
+  (2000) — Teaching Children to Read (S-040).

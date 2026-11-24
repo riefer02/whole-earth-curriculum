@@ -125,7 +125,7 @@ rough or smooth, big or small, round or straight — and that is full describing
 
 1. **Gather (5 min).** Sit with your artwork in front of you. Look at it slowly. What
    do you notice first?
-2. **Look closely (10 min).** Find one color, one shape, and one line in your piece.
+2. **Look closely (10 min).** Find one color, one shape, and one line in your piece (S-365).
    Say each one, or point to it: "red," "circle," "wiggly line."
 3. **Tell its story (10 min).** Think: what were you doing when you made it? What
    does this part make you think of? You can say a whole story or just one word.
@@ -147,6 +147,10 @@ rough or smooth, big or small, round or straight — and that is full describing
   line in their own work?
 - **Artifact (portfolio):** The artwork paired with a one-sentence (or drawn)
   description.
+
+## Resources
+
+- On the elements of art (line, shape, color): The J. Paul Getty Museum — Understanding Formal Analysis (elements of art and principles of design) (S-365).
 
 ## Home connection
 

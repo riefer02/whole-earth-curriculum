@@ -154,9 +154,9 @@ protect soil. See [`docs/facilitation.md`](../../../../../../docs/facilitation.m
    Lesson 11). Today's last question: what does all of that make possible?
 2. **Meet soil (10 min).** Look at the diagram. **Soil** is a mix of **minerals** —
    broken-down rock from the rock cycle — and **humus** — the decayed remains of
-   living things, broken down by **decomposers**. Together they hold water, air, and
+   living things, broken down by **decomposers** (S-259). Together they hold water, air, and
    nutrients, and they are home to countless living things. Soil is where the rock
-   cycle meets the living world.
+   cycle meets the living world (S-248).
 3. **Look closely (10 min).** With a magnifier, examine your soil sample. Sort what
    you see into "from rock" (gritty grains, sand) and "from life" (dark bits, roots,
    tiny creatures). Write each in the right column.
@@ -199,3 +199,6 @@ rock, what part came from life, and one thing you could do to protect it.
   weathered minerals plus organic matter: <https://www.fao.org/soils-portal/about/all-definitions/en/>
 - BBC Bitesize (KS2), "What is soil made from?":
   <https://www.bbc.co.uk/bitesize/topics/z9bbkqt/articles/zgqkcmn>
+- On what soil is made of: FAO Soils Portal — Key definitions (S-259).
+- On soil as broken-down rock and decayed living material: BBC Bitesize (KS2) — What is soil made from? (S-248).
+

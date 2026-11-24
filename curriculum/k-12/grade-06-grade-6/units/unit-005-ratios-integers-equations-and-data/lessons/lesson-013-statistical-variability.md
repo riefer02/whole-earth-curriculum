@@ -97,7 +97,7 @@ symmetry, gaps). They build **dot plots** of real measurements and describe each
 Ask ten friends how many hours they slept last night and the answers will not all be the same — some six,
 some eight, maybe one twelve. That difference is **variability**, and it is the heart of data: no two
 days of rain, no two plants, no two people are identical. To make sense of a pile of numbers, you describe
-three things — where they **center**, how far they **spread**, and what **shape** they make. Weather
+three things — where they **center**, how far they **spread**, and what **shape** they make (S-301). Weather
 stations, nurses, farmers, and scientists everywhere read data this way, from a rainfall record in a
 monsoon village to a growth chart in a clinic.
 
@@ -134,7 +134,7 @@ farming and fishing culture, long before "statistics" had a name.
 1. **Gather (5 min).** Think of the last ten days' weather. Were they all the same, or did they vary? Today
    you learn to describe that "varying" with three words.
 2. **Meet variability (10 min).** **Variability** means the data are not all the same. A **dot plot** stacks
-   one dot over each value so you can see the differences at a glance.
+   one dot over each value so you can see the differences at a glance (S-241).
 3. **Worked example — build the plot (10 min).** Plot the rainfall data: put one dot over 0, two over 1,
    three over 2, four over 3, three over 4, two over 5, one over 6. Now the shape is visible.
 4. **Worked example — describe it (10 min).** Name the three features. **Center**: where the dots pile up —
@@ -171,3 +171,6 @@ make a dot plot, and describe its center, spread, and shape.
   reading variability (rainfall, harvest, river height) is an ancient practice in farming and fishing
   cultures is a historical observation; the value that one number never tells the whole story is a
   critical-thinking commitment (`docs/philosophy.md` §7).
+- On describing data by center, spread, and shape: Encyclopaedia Britannica — Probability and statistics (S-301).
+- On dot plots and data displays: Khan Academy — 6th grade data & statistics (S-241).
+

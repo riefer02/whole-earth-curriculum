@@ -104,7 +104,7 @@ or plastic, light and warmth. Where do they come from? All of them come from the
 of the Earth's gifts **come back** on their own: the sun rises every morning, the wind
 blows, the rain falls, and a tree can grow again. Others **run out**: coal, oil, and metal
 were made over millions of years, and once we use them up, they are gone for a very long
-time. Knowing the difference is the first step of caring for our home.
+time (S-095). Knowing the difference is the first step of caring for our home.
 
 ## Materials
 
@@ -195,9 +195,6 @@ is which.
 
 ## Resources
 
-- EIA Energy Kids, "Coal" — coal is a nonrenewable energy source because it takes millions
-  of years to form, supporting the lesson's "runs out" examples (coal and oil).
-  https://www.eia.gov/kids/energy-sources/coal/
-- NASA Space Place, "All About the Sun" — the Sun's light and warmth arrive every day, a
-  clear example of a resource that comes back.
-  https://spaceplace.nasa.gov/all-about-the-sun/en/
+- On the difference between renewable and nonrenewable resources — coal takes millions of
+  years to form: EIA Energy Kids — Renewable and Nonrenewable Energy Sources (S-095).
+

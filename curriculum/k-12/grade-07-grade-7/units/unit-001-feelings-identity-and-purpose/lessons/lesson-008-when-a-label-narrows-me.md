@@ -100,7 +100,7 @@ as one small part of a much larger whole.
 
 A label is not just words. Tell a person often enough that they are "not the kind who" does
 math, or leads, or is brave, and the label can move inside them — until they begin to say it
-to themselves. Then it does real work: it shrinks the map of what they believe is possible.
+to themselves. Then it does real work: it shrinks the map of what they believe is possible (S-284).
 The good news is the door is not locked. A label can *narrow* you, but it cannot *finish* you —
 not if you learn to see it as one small box inside a much bigger life.
 
@@ -201,3 +201,5 @@ try saying, out loud, "I am more than that one box."
   <https://casel.org/fundamentals-of-sel/>
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On stereotype threat — worry about confirming a negative stereotype weighing on performance: Claude M. Steele & Joshua Aronson — Stereotype Threat and the Intellectual Test Performance of African Americans (S-284).
+

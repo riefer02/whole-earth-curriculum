@@ -81,7 +81,8 @@ last_updated: 2026-08-15
 
 Learners sort foods into four groups — fruits, vegetables, grains, and proteins — and
 discover that grouping is a tool for noticing the many different foods that help a
-body. The four groups are one way to sort, never a rule that ranks any food or family.
+body. The four groups are one way to sort (S-118), never a rule that ranks any food
+or family.
 
 ## Objectives
 
@@ -180,3 +181,8 @@ baskets, not only told.
 
 At your next meal or at the market, point to one fruit, one vegetable, one grain, and
 one protein. Say each food's name and its group.
+
+## Resources
+
+- On food groups and dietary guidance varying by country and culinary culture: FAO —
+  Food-based dietary guidelines (S-118).

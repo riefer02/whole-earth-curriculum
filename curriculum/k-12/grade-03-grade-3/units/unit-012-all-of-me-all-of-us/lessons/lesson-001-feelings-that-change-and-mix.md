@@ -100,7 +100,7 @@ have to do; by midday you feel **calm**, because it went fine; by evening you fe
 friend moves away, or a season ends, or you leave a place you love. You might feel
 **sad** to leave and **excited** for what is next — both at the very same time. Feelings
 are not stuck, and they are not always one at a time. Today you practice naming both
-of those true things.
+of those true things (S-402, S-015).
 
 ## Materials
 
@@ -175,4 +175,8 @@ mixed.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness): <https://casel.org/fundamentals-of-sel/>
+- On how basic emotions combine into mixed feelings: Robert Plutchik — Emotion: A
+  Psychoevolutionary Synthesis (S-402).
+- On naming feelings with words precise enough to tell them apart: Yale Center for
+  Emotional Intelligence — RULER approach (S-015).
+

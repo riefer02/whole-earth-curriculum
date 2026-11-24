@@ -94,7 +94,7 @@ A child gives two of his five flatbreads to a friend and wants to know how many 
 has left; a market seller sells three of her ten mangoes and counts the rest; a
 farmer lets some water out of the irrigation channel and measures what remains.
 When some go away and you ask "how many are left?", that is **subtracting**. It is
-the partner of adding — the same story told backward.
+the partner of adding — the same story told backward (S-025).
 
 ## Materials
 
@@ -165,6 +165,6 @@ grown-up how many are left — then write the number sentence together.
 ## Resources
 
 - Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (2015).
-  *Children's Mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann.
+  *Children's Mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann (S-025).
   (Separate/take-away problems as the foundation of subtraction, and children's
   counting strategies.)

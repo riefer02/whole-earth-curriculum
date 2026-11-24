@@ -86,7 +86,7 @@ last_updated: 2026-08-16
 Learners put two artworks side by side and practice **comparing**: they tell one way
 the two are **alike** and one way they are **different**. Comparing is not about
 which one is "better" — it is how we look more carefully, and every pair of artworks
-has something to teach us.
+has something to teach us (S-365).
 
 ## Objectives
 
@@ -160,3 +160,8 @@ holding up the "alike" and "different" cards.
 
 At home or nearby, find two made things — two cloths, two pots, two pictures. Set
 them side by side and tell a grown-up one thing alike and one thing different.
+
+## Resources
+
+- On looking closely at the elements of an artwork before judging it: The J. Paul
+  Getty Museum — Understanding Formal Analysis (S-365).

@@ -80,7 +80,7 @@ last_updated: 2026-08-16
 Learners go deep on one look-alike pair: **mad** and **frustrated**. Using the clue
 question *"Did something block me, or did my trying not work?"* they sort everyday
 moments and talk about the tricky ones. They discover that both feelings are okay to
-have, and that naming the right one helps them ask for the right kind of help.
+have, and that naming the right one helps them ask for the right kind of help (S-401).
 
 ## Objectives
 
@@ -160,5 +160,5 @@ clue question to figure out which one it was.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On fine-grained feeling words and managing feelings: Barrett — How Emotions Are Made:
+  The Secret Life of the Brain (S-401).

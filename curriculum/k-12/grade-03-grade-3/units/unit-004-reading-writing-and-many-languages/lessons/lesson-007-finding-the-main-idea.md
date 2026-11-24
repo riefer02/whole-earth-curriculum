@@ -90,7 +90,7 @@ Think of a friend telling you about their day. They may say many small things �
 they ate, who they saw, where they went — but one big idea holds it all together:
 "my day was full of surprises." That is the main idea. Every story, every sign, every
 report is mostly about one thing, and finding it is how a reader understands instead
-of just collecting words.
+of just collecting words (S-172).
 
 ## Materials
 
@@ -159,5 +159,11 @@ sentence: "So mostly, your day was about…" and ask if you got the main idea.
 
 ## Resources
 
-- National Reading Panel (2000), report on comprehension — identifying main ideas is
-  a core comprehension strategy. (Cited as a widely used evidence base.)
+- On summarization and finding what a text is mainly about: Nell K. Duke & P. David
+  Pearson (2002) — Effective Practices for Developing Reading Comprehension (S-172).
+- On explicit, systematic reading instruction and the evidence base for it: National
+  Reading Panel (2000) — Teaching Children to Read: An Evidence-Based Assessment (S-040).
+- On teaching a skill explicitly — model it, then guide practice — rather than leaving
+  learners to discover it: Kirschner, Sweller & Clark (2006) — Why Minimal Guidance During
+  Instruction Does Not Work (S-011).
+

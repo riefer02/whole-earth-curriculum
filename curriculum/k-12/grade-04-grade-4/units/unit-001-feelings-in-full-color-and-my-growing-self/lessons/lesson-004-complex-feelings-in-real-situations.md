@@ -97,13 +97,13 @@ agency.
 ## Connection
 
 A feeling only makes sense inside a *situation*. Your friend wins the class prize and
-you feel a hot, twisty pang — that situation makes **jealousy**. You promised to return a
-borrowed book and forgot, and now your stomach feels heavy — that situation makes
+you feel a hot, twisty pang — that situation makes **jealousy**. You promised to return
+a borrowed book and forgot, and now your stomach feels heavy — that situation makes
 **guilt**. You learned to ride a bike all by yourself after many falls — that situation
 makes **pride**. The situation is the *where*; the feeling is the *what*. And every one
 of these feelings carries a next step you can choose. Knowing which feeling you are in
-lets you choose what to do about it — in a classroom, a market, a rice field, or a
-harbor town alike.
+lets you choose what to do about it (S-225) — in a classroom, a market, a rice field, or
+a harbor town alike.
 
 ## Materials
 
@@ -170,5 +170,7 @@ Think of one situation at home this week and name the complex feeling that went 
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness and responsible decision-making competencies):
-  <https://casel.org/fundamentals-of-sel/>
+- On self-awareness and responsible decision-making as core competencies: CASEL —
+  Fundamentals of Social and Emotional Learning (S-001).
+- On regulating a feeling by choosing a response rather than acting on the first
+  impulse: Gross — The Emerging Field of Emotion Regulation (S-225).

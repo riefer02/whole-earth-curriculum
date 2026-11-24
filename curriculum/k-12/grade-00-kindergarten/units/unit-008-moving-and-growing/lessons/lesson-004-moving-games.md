@@ -108,7 +108,7 @@ practice moving your body with control.
 ## Facilitator note
 
 As facilitator, keep every game **cooperative** — cooperation over competition is a core
-commitment. No elimination, no winners and losers. **Honor every body:** choose and
+commitment (S-101). No elimination, no winners and losers. **Honor every body:** choose and
 model leader movements that can be done big or small, standing or seated, so a learner
 who uses a wheelchair or has limited mobility can lead as easily as anyone. Add a visual
 "freeze" cue — a raised hand, a flag, or the leader lifting both arms — alongside the
@@ -143,6 +143,10 @@ everyone who wants a turn gets one.
 - **Formative (observation):** Can the learner join cooperative movement games,
   following and taking a turn to lead, with growing control?
 - **Peer:** Partners tell each other one movement they enjoyed doing together.
+
+## Resources
+
+- On cooperative and inclusive physical games: SHAPE America — Society of Health and Physical Educators (S-101).
 
 ## Home connection
 

@@ -83,7 +83,7 @@ last_updated: 2026-08-15
 
 Learners review counting to twenty, then stretch all the way to one hundred twenty.
 They discover that counting becomes easier when they group objects into tens and
-count by tens — ten, twenty, thirty — and then count on the leftovers. Counting is
+count by tens — ten, twenty, thirty — and then count on the leftovers (S-020). Counting is
 treated as a rhythm everyone can join, never a race.
 
 ## Objectives
@@ -99,7 +99,7 @@ written numbers, people in many lands counted with their bodies — fingers, toe
 and knuckles — and many still do. Ten fingers make a group of ten, and counting by
 tens is how people in many lands keep a long count from getting lost — though some
 peoples counted in other groups, such as twenties, and every way works for the
-people who use it.
+people who use it (S-024).
 
 ## Materials
 
@@ -171,6 +171,8 @@ grown-up, and count them by tens to see how many there are.
 
 ## Resources
 
-- Clements, D. H., & Sarama, J. (2014). *Learning and Teaching Early Math: The
-  Learning Trajectories Approach* (2nd ed.). Routledge. (The verbal counting sequence,
-  unitizing into tens, and the decade structure as foundational number ideas.)
+- On the counting sequence, unitizing into tens, and the decade structure as
+  foundational number ideas: Clements & Sarama — Learning and Teaching Early Math: The
+  Learning Trajectories Approach (S-020).
+- On body-counting and counting systems in other bases, such as twenties, in African
+  cultures: Zaslavsky — Africa Counts: Number and Pattern in African Cultures (S-024).

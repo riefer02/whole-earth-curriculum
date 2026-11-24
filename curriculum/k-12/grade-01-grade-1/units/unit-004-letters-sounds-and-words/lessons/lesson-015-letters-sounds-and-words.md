@@ -119,7 +119,7 @@ another. It is a celebration of every language as wealth.
 
 Over these weeks you have learned to listen, speak, read, write, and greet in more
 than one language — the same powers people everywhere use to share their inner
-worlds and build shared ones. Today you put them all together, the way a cook
+worlds and build shared ones (S-019). Today you put them all together, the way a cook
 gathers every ingredient into one feast. Language is how we reach each other, and
 you are now a traveler with many ways to do it.
 
@@ -184,3 +184,10 @@ by signing or gesturing — each is a full success at the festival.
 
 Invite your family to hear you read, see your sentence, and teach them the
 greeting you learned — then celebrate together.
+
+## Resources
+
+- On every language as a bearer of dignity and a foundation for learning: UNESCO —
+  International Mother Language Day (S-019).
+- On the reading skills practised at the festival — decoding, fluency, and
+  comprehension: National Reading Panel (2000) — Teaching Children to Read (S-040).

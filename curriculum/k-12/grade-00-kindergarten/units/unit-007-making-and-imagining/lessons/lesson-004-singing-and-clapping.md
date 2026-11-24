@@ -86,7 +86,7 @@ last_updated: 2026-08-15
 ## Summary
 
 Learners make rhythm with nothing but their hands and voices. They echo simple clap
-patterns, keep a steady beat together, and invent their own. Rhythm belongs to
+patterns, keep a steady beat together (S-368), and invent their own. Rhythm belongs to
 everyone and needs no instrument at all.
 
 ## Objectives
@@ -146,6 +146,10 @@ if they want to; leadership in rhythm is for everyone.
 - **Formative (observation):** Does the learner clap or tap a simple rhythm and
   name a feeling it gives them?
 - **Performance:** The learner's echo or invented pattern, observed live.
+
+## Resources
+
+- On rhythm, tempo, and dynamics: Wikipedia — Elements of music (S-368).
 
 ## Home connection
 

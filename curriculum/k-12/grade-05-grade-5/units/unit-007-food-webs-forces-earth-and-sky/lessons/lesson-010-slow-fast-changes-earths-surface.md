@@ -92,8 +92,8 @@ last_updated: 2026-08-17
 
 Learners bring the unit together around one last question: how does Earth's surface
 change? They learn that **slow processes** — weathering, erosion, and deposition by
-rivers, glaciers, wind, and waves — shape the land over long times, while **fast
-processes** — earthquakes, eruptions, and landslides — change it suddenly. They
+rivers, glaciers, wind, and waves — shape the land over long times (S-185), while **fast
+processes** — earthquakes, eruptions, and landslides — change it suddenly (S-186). They
 discover that most earthquakes and volcanoes happen **where plates meet**, and they
 revisit the whole unit's through-line: predict, test, observe, and separate evidence
 from inference.
@@ -195,9 +195,11 @@ fast one, and what evidence you used.
 
 ## Resources
 
-- National Geographic Education, "Erosion" and "Plate Tectonics" — slow surface
-  change and where earthquakes and volcanoes occur:
-  <https://education.nationalgeographic.org/resource/erosion/> and
-  <https://education.nationalgeographic.org/resource/plate-tectonics/>
-- BBC Bitesize (Scotland), "Coastlines: erosion" — how water wears away the land:
-  <https://www.bbc.co.uk/bitesize/articles/z7rwdp3>
+- On weathering, erosion and deposition as slow processes that wear away and move
+  earth materials: National Geographic Education — Erosion,
+  <https://education.nationalgeographic.org/resource/erosion/> (S-185).
+- On plate tectonics, which explains where earthquakes and volcanoes occur: National
+  Geographic Education — Plate Tectonics,
+  <https://education.nationalgeographic.org/resource/plate-tectonics/> (S-186).
+- On how water wears away the coast: BBC Bitesize (Scotland) — Coastlines: erosion,
+  <https://www.bbc.co.uk/bitesize/articles/z7rwdp3> (S-079).

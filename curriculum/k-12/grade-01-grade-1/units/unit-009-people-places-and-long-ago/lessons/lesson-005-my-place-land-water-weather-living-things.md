@@ -91,7 +91,7 @@ things — and name one way that place shapes how people live there. There is no
 Every home sits in a particular place: flat and wide, or hilly, or by the sea, or in
 the mountains. Some places are hot and dry, some cold and snowy, some warm and
 rainy. The place you live shapes little everyday things — what people wear, how they
-build their homes, what they grow or catch to eat, where their water comes from.
+build their homes, what they grow or catch to eat, where their water comes from (S-053).
 Looking closely at your own place is how geography begins.
 
 ## Materials
@@ -163,3 +163,8 @@ not a test.
 With a grown-up, step outside or look out a window. Name one thing you see for land,
 water, weather, and living things. How does your place shape something your family
 does — what you wear, grow, or eat?
+
+## Resources
+
+- On how children's homes, food, and daily life differ from place to place around the
+  world: Children Just Like Me (DK, in association with UNICEF) (S-053).

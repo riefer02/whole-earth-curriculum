@@ -135,7 +135,7 @@ of the hands and eyes together, and everyone can build it at their own pace.
    **3:00**.
 3. **Half past (10 min).** Now move the long hand down to the 6 — it has gone halfway
    around. That is **half past**. With the short hand between 3 and 4, it is **half
-   past 3**. Write it: **3:30**. The 30 means half of the 60 minutes in an hour.
+   past 3**. Write it: **3:30**. The 30 means half of the 60 minutes in an hour (S-026).
 4. **Set and read times (12 min).** With your own clock, set these times: 2 o'clock,
    6 o'clock, half past 8. Read each one aloud (or write it). Then set the times of
    your own day — when you wake, when you eat — and write them.
@@ -168,5 +168,5 @@ and read the time to a grown-up, then write it down.
 ## Resources
 
 - Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics* (10th ed.). Pearson. (Telling time to the hour and half
+  Middle School Mathematics* (10th ed.). Pearson (S-026). (Telling time to the hour and half
   hour as a grade-1 measurement skill.)

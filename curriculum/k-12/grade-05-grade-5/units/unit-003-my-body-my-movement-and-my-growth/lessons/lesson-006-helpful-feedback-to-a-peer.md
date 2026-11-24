@@ -132,7 +132,7 @@ ranking. See `docs/contexts.md` and `docs/facilitation.md`.
    throw. *Hurtful:* "You're bad at this." Crossed out — it names the *person*, not the
    *action*, and helps nothing. *Helpful:* "I noticed your elbow dropped — try keeping it up."
    It is **specific** (names one thing), **kind** (believes you can grow), and **about the
-   action**. That is feedback that helps.
+   action**. That is feedback that helps (S-001).
 3. **Learn the starter (5 min).** Read the three-part starter: "**I noticed** ___ . **What
    helped me was** ___ . **Try** ___ ." Practice it once with a partner about a simple skill,
    using kind words.
@@ -168,3 +168,6 @@ helps them more than a general "good job."
   works best when it is specific, timely, and about the work, not the person. For classroom
   SEL framing of giving and receiving feedback, see CASEL's relationship-skills competency:
   <https://casel.org/fundamentals-of-sel/>
+
+- On giving and receiving feedback as a relationship skill within social and emotional
+  learning: CASEL, <https://casel.org/fundamentals-of-sel/> (S-001).

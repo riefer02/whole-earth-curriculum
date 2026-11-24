@@ -81,7 +81,8 @@ last_updated: 2026-08-16
 
 Learners connect the two digits of a number to its tens and ones. They read and write
 two-digit numbers in three matching ways: as digits (47), as tens and ones (four tens
-and seven ones), and in expanded form (40 + 7) — the same number, told three ways.
+and seven ones), and in expanded form (40 + 7) — the same number, told three ways
+(S-026).
 
 ## Objectives
 
@@ -165,6 +166,6 @@ and ones — then ask the grown-up to write down the number you said.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson. (Expanded
-  notation and reading numbers as tens and ones.)
+- On reading and writing numbers as tens and ones and in expanded notation: Van de
+  Walle, Karp & Bay-Williams — Elementary and Middle School Mathematics: Teaching
+  Developmentally (S-026).

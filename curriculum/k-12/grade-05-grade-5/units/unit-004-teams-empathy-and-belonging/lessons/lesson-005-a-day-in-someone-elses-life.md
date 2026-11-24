@@ -87,7 +87,8 @@ Learners practice **perspective-taking** by stepping into a child's daily life i
 different culture or place. They read four respectful day cards — a high Andes farming
 village, a desert oasis town, an Arctic coastal community, and a Pacific island village —
 and describe one child's day, comparing **what is the same and what is different** from
-their own, always treating one child as one child, never as "all people."
+their own, always treating one child as one child, never as "all people"
+(S-417).
 
 ## Objectives
 
@@ -135,8 +136,8 @@ offers their own life, receive it as the authority they hold on it. See
 2. **Meet one day (10 min).** Read the four day cards. Each names **one child** and their
    ordinary day — a child who helps tend potatoes on a high Andes terrace, a child who
    draws water at a desert oasis, a child who helps with a fishing boat on an Arctic
-   coast, a child who helps gather breadfruit on a Pacific island. Notice: each is *one
-   person*, not "all people" of a place.
+   coast, a child who helps gather breadfruit on a Pacific island (S-058; S-054;
+   S-057). Notice: each is *one person*, not "all people" of a place (S-417).
 3. **Walk the day (10 min).** Choose one card. Go through the child's day slowly: what do
    they see when they wake? What do they do? Who do they eat with? What do they look
    forward to? Now do the same for **your own** day.
@@ -170,11 +171,15 @@ retell it in the same-and-different way.
 
 ## Resources
 
-- For respectful, child-centered profiles of daily life across countries, see *Children
-  Just Like Me* (DK, in association with UNICEF). Specific place details: the potato was
-  first domesticated in the Andes and thousands of native varieties are still farmed there
-  (International Potato Center); people have adapted to desert life for thousands of years
-  around wells and oases (National Geographic Education); and Inuit communities across the
-  Arctic have long-lived ways of hunting, fishing, and sheltering (Inuit Circumpolar
-  Council). For classroom SEL framing of social awareness, see CASEL:
-  <https://casel.org/fundamentals-of-sel/>
+- On the danger of knowing only one story about a person or a place: Chimamanda Ngozi
+  Adichie — The Danger of a Single Story (TED, 2009),
+  <https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story>
+  (S-417).
+- For respectful, child-centred profiles of daily life across countries: *Children
+  Just Like Me* (DK, in association with UNICEF) (S-053).
+- On the potato's Andean domestication and the many native varieties still farmed
+  there: International Potato Center (CIP), <https://cipotato.org/potato/> (S-054).
+- On desert environments and how people live in them: National Geographic Education —
+  Desert, <https://education.nationalgeographic.org/resource/desert/> (S-057).
+- On Inuit communities across the Arctic: Inuit Circumpolar Council,
+  <https://www.inuitcircumpolar.com/> (S-058).

@@ -158,7 +158,7 @@ Canon of Medicine."
    for medicines — often centuries before similar institutions spread elsewhere.
 3. **Meet the Canon (10 min).** Ibn Sina (Avicenna), a Persian scholar, wrote the
    **Canon of Medicine** around 1025 CE — a five-volume encyclopedia gathering what was
-   known about health, disease, and treatment. For centuries it was a standard text for
+   known about health, disease, and treatment (S-319). For centuries it was a standard text for
    healers, in the Islamic world and in European universities alike.
 4. **Trace the journey (10 min).** Sequence the knowledge-journey cards: the Canon is
    written → it travels in translation → it is taught in far-off universities → its
@@ -200,3 +200,5 @@ training, as the Canon passed down its knowledge.
   available to all today is a fairness framing, not a historical finding.
 - On explicit instruction and worked examples: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On Ibn Sina (Avicenna), the Canon of Medicine, and the bimaristans: Encyclopaedia Britannica — Avicenna / The Canon of Medicine / al-Razi (S-319).
+

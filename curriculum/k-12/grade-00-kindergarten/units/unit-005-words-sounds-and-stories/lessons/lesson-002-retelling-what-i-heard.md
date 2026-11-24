@@ -117,7 +117,7 @@ words," not a perfect summary, and never a memorized script.
    words, in whatever language feels best. You do not have to say it exactly how the
    storyteller said it.
 5. **Close (5 min).** Remember: your own words can carry a story. When you retell, the
-   story becomes a little bit yours too.
+   story becomes a little bit yours too (S-172).
 
 ## Differentiation
 
@@ -138,6 +138,7 @@ words," not a perfect summary, and never a memorized script.
 
 - CASEL SEL Framework (foundational competencies; communication and relationship
   skills): <https://casel.org/fundamentals-of-sel/>
+- On retelling and text structure in reading comprehension: Duke & Pearson — Effective Practices for Developing Reading Comprehension (S-172).
 
 ## Home connection
 

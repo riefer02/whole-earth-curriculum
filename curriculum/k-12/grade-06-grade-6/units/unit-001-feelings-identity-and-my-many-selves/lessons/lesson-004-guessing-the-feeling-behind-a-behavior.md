@@ -97,7 +97,7 @@ the expert on their own feelings.
 A classmate slams a book and turns away. Is she **angry**? Maybe. Or maybe she is
 **hurt** by a word she overheard, or **embarrassed** about a mistake, or simply tired
 after a sleepless night. The behavior is the same; the feeling behind it could be many
-things. If you *assume* you know, you might treat her wrong. If you *guess and then
+things. If you *assume* you know, you might treat her wrong (S-344). If you *guess and then
 check* — "hey, you seem off — everything okay?" — you treat her as the expert on her own
 feelings. That is fairer, everywhere people live together.
 
@@ -172,3 +172,5 @@ about the feeling behind it, then check kindly instead of assuming.
   social awareness; assuming a feeling from a behavior can misjudge, which is why checking
   matters (CASEL social-awareness competency):
   <https://casel.org/fundamentals-of-sel/>
+- On automatic assumptions and learning to catch them: Mahzarin R. Banaji & Anthony G. Greenwald — Blindspot: Hidden Biases of Good People (S-344).
+

@@ -130,7 +130,7 @@ market, weather, games — not loaded disputes. See `docs/facilitation.md` and
    argument*. Today you sharpen it. Think of the last time someone tried to convince you
    of something. What were they claiming?
 2. **Meet claim and support (10 min).** Look at the poster. A **claim** is the point a
-   speaker wants you to accept. **Support** is what they give for it — **reasons** (why
+   speaker wants you to accept (S-236). **Support** is what they give for it — **reasons** (why
    they think so) and **evidence** (facts, examples, or proof). Worked example, said
    aloud: *"You should buy these tomatoes — **claim**. They were picked this morning —
    **evidence**. They will taste better than the old ones — **reason**."* Say each part
@@ -170,3 +170,5 @@ message — and tell someone at home what the claim was and what support came wi
   relationship-skills competency, <https://casel.org/fundamentals-of-sel/>
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark
   (2006), <https://doi.org/10.1207/s15326985ep4102_1>
+- On the claim-and-support structure of argument: Stephen Toulmin — The Uses of Argument (claim/data/warrant model) (S-236).
+

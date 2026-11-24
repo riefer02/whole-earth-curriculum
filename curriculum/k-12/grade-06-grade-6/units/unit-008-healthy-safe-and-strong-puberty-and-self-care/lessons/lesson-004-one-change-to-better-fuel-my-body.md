@@ -139,7 +139,7 @@ first. See `docs/facilitation.md` and the safety notes on body image in
    and it is yours to choose.
 2. **Meet the choices (10 min).** Look at the poster — a **worked example** of four
    choose-one options, all additions or swaps:
-   - **Drink more water** — water helps every cell work.
+   - **Drink more water** — water helps every cell work (S-038).
    - **Add a fruit or vegetable** — they carry vitamins and minerals.
    - **Choose a whole grain** — whole grains give lasting fuel.
    - **Eat a fuller breakfast** — morning fuel sets the day.
@@ -186,3 +186,5 @@ this week.
   deprivation. The lesson holds "no restriction, no body judgment" as both a health
   position and a value, in line with the curriculum's commitment to teach the body with
   dignity and never shame any body or way of eating.
+- On water, whole grains, fruits, and vegetables as part of a healthy diet: WHO — Healthy diet fact sheet (S-038).
+

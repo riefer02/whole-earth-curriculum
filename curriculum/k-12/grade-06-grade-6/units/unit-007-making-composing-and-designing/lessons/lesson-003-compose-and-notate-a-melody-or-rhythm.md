@@ -102,7 +102,7 @@ partner who must perform it exactly — the real test of whether the notation wo
 
 A recipe written down lets someone you've never met cook your dish. A map lets a stranger
 find the well. A musical score is the same idea in sound: marks on a page that tell
-another person exactly what to sing or play — which sounds, and how long each one lasts.
+another person exactly what to sing or play — which sounds, and how long each one lasts (S-368).
 When you **notate**, you hand your music to someone else, and it becomes *ours* instead of
 only yours. Today you compose a short melody and write it down well enough that a partner
 can play it back without hearing you first.
@@ -146,7 +146,7 @@ See `docs/facilitation.md` and `docs/contexts.md`.
    filled note, said "**ta**." Two quick sounds sharing a beat are two joined notes, said
    "**ti-ti**." Worked example: say and clap this four-beat pattern together — *ta, ta,
    ti-ti, ta* — and point to each box as you go.
-3. **Add the pitch ladder (10 min).** Melody is rhythm *plus pitch* — high and low. We
+3. **Add the pitch ladder (10 min).** Melody is rhythm *plus pitch* — high and low (S-368). We
    write pitch on a **ladder** of five steps: *do re mi sol la* (a pentatonic scale — no
    "wrong" notes, everything sounds friendly). Worked example: put your four beats onto
    the ladder — *do, do, re-mi, sol* — sing or hum it, then trace the noteheads on the
@@ -197,3 +197,5 @@ boxes — and ask someone to clap or sing it back from the page.
   <https://folkways.si.edu/tools-for-teaching>
 - Kirschner, Sweller & Clark (2006), "Why Minimal Guidance Does Not Work," on modeling
   worked examples for novice skills.
+- On rhythm, pitch, and melody as elements of music: Wikipedia — Elements of music (S-368).
+

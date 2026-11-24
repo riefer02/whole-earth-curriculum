@@ -92,7 +92,7 @@ hostile. They practice on everyday claims from many regions.
 
 ## Connection
 
-When a claim has no support, you have two choices: accept it silently, or ask. The
+When a claim has no support, you have two choices: accept it silently, or ask (S-217). The
 question "How do you know?" is one of the most powerful tools a person owns. It is how
 you protect yourself and others from a false cure, a bad deal, or a rumor — and it works
 the same in a pharmacy in Nairobi, a repair shop in Hanoi, or a family kitchen anywhere.
@@ -171,3 +171,5 @@ yourself — and notice what the answer reveals about the support behind a claim
   "News & Media Literacy," <https://www.commonsense.org/education/digital-citizenship/topic/news-and-media-literacy>
 - On modeling before practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On evaluating the support behind a claim and asking what evidence backs it: UNESCO — Media and Information Literacy (MIL) (S-217).
+

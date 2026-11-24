@@ -100,7 +100,7 @@ cynicism** — the goal is clarity, not distrust.
 
 Scroll any screen, open any paper, walk past any wall, and you meet three kinds of messages:
 one is telling you what happened, one is telling you what someone thinks, and one is trying to
-sell you something. They mix together on purpose, and telling them apart is a skill — like
+sell you something (S-278). They mix together on purpose, and telling them apart is a skill — like
 learning to hear three different voices in a crowd. Today you learn the clues each voice
 leaves behind.
 
@@ -174,3 +174,5 @@ you which was which.
   Common Sense Media's media-literacy materials. The "clarity, not cynicism" framing follows
   `docs/philosophy.md` §7 and `docs/facilitation.md`. On modeling before practice, see
   Kirschner, Sweller & Clark (2006), <https://doi.org/10.1207/s15326985ep4102_1>.
+- On telling news, opinion, and advertising apart: Center for News Literacy (Stony Brook University) (S-278).
+

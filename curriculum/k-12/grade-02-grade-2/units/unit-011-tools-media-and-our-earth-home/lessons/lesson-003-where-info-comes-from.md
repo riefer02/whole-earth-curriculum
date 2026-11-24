@@ -82,7 +82,7 @@ last_updated: 2026-08-16
 ## Summary
 
 Learners learn that every piece of **information** comes from somewhere — a **book**, a
-**grown-up**, or a **screen** — and from someone. They practice saying the source of a
+**grown-up**, or a **screen** — and from someone (S-063). They practice saying the source of a
 fact and asking one question about it: *Who made it? How do they know? Is it new or old?*
 They meet asking as a treasure, not a suspicion: it is how careful readers learn.
 
@@ -94,10 +94,10 @@ They meet asking as a treasure, not a suspicion: it is how careful readers learn
 ## Connection
 
 Where did you learn that the sky is blue, or that a plant needs water to grow? Maybe a
-grown-up told you. Maybe you read it in a book. Maybe you saw it on a screen. Information
-always comes from somewhere and from someone. Knowing *where* it came from — and asking
-one question about it — is how we begin to read carefully, in every language and every
-place.
+grown-up told you. Maybe you read it in a book. Maybe you saw it on a screen.
+Information always comes from somewhere and from someone. Knowing *where* it came from —
+and asking one question about it — is how we begin to read carefully, in every language
+and every place.
 
 ## Materials
 
@@ -163,13 +163,10 @@ to show the answer.
 ## Home connection
 
 At home, tell a grown-up one thing you learned this week and where it came from. Ask the
-grown-up: where did they learn the thing they know best, and what question would they ask
-about it?
+grown-up: where did they learn the thing they know best, and what question would they
+ask about it?
 
 ## Resources
 
-- Common Sense Media (Common Sense Education), "News & Media Literacy" — teaching
-  children to ask where information comes from and to question it (its K-2 strand names
-  wondering where information comes from and asking questions), supporting the lesson's
-  core skill.
-  https://www.commonsense.org/education/digital-citizenship/topic/news-and-media-literacy
+- On asking where information comes from and who made it: Common Sense Education —
+  News & Media Literacy (S-063).

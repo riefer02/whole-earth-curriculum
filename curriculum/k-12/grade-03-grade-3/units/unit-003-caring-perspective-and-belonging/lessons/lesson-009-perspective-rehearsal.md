@@ -117,7 +117,7 @@ into one, because that is how caring talk actually works.
 
 ## Facilitator note
 
-This rehearsal is **retrieval and spacing in action**: it deliberately revisits and
+This rehearsal is **retrieval and spacing in action** (S-039): it deliberately revisits and
 combines two earlier skills (Lessons 1 and 3) rather than teaching something new. The
 goal is fluent, automatic practice — turn-taking and building on *while* holding another
 person's point of view. Run the discussion lightly; the point is that every learner gets
@@ -127,7 +127,7 @@ every voice gets one turn (egalitarian), and retelling another's view never rank
 wrong (ethics). Learners who do not speak with their mouth take their turn with sign,
 gesture, or a written line, and retell by drawing the other's view. Read the procedure
 aloud; model the combined move once — "I like what Amara said, and as the new student, I
-think…" — before learners try (Kirschner, Sweller & Clark, 2006).
+think…" — before learners try (Kirschner, Sweller & Clark, 2006, S-011).
 
 ## Procedure
 
@@ -167,5 +167,9 @@ of view — and ask them to retell yours — and notice how the two views differ
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills and social awareness competencies):
-  <https://casel.org/fundamentals-of-sel/>
+- On retrieval practice and spacing as the best-supported ways to make learning last:
+  Dunlosky, Rawson, Marsh, Nathan & Willingham (2013) — Improving Students' Learning With
+  Effective Learning Techniques (S-039).
+- On modeling a skill before learners try it: Kirschner, Sweller & Clark (2006) — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
+

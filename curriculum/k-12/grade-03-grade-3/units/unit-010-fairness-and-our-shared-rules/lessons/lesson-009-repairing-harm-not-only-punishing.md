@@ -100,9 +100,9 @@ Think of a block tower knocked over. One way to respond is to **punish** only: s
 the child away. The child is stopped, but the tower is still broken and the other
 child is still sad — the **harm** is not fixed. Another way is to **repair**: the child
 who knocked it over helps rebuild, says they are sorry and means it, and both children
-feel better. People everywhere repair rather than only punish — a torn net is mended,
+feel better (S-022). People everywhere repair rather than only punish — a torn net is mended,
 a borrowed tool returned, a trampled garden replanted. Today you will practice telling
-the difference, and doing the repair.
+the difference, and doing the repair (S-022, S-161).
 
 ## Materials
 
@@ -187,7 +187,8 @@ or is there a repair — a listen, a sorry, a making-it-right — that would hea
 
 ## Resources
 
-- International Institute for Restorative Practices (repairing harm rather than only
-  punishing): <https://www.iirp.edu/>
-- The "restorative" approach (listen, take responsibility, repair) is used in schools
-  worldwide; see also UNICEF's "restorative practices in schools" materials.
+- On responding to harm by repairing it and restoring relationships rather than only
+  punishing: International Institute for Restorative Practices (IIRP) (S-022).
+- On the restorative-justice frame — a new lens on harm, responsibility and repair: Howard
+  Zehr (1990) — Changing Lenses (S-161).
+

@@ -128,17 +128,17 @@ every people answers by adapting — and by reshaping the land to live well.
 ## Facilitator note
 
 **Model the two directions with a worked example first** (Kirschner, Sweller & Clark,
-2006): "The environment gives — a river valley gives water and rich soil, so people farm
-grain; people change — they dig an irrigation canal to carry that water farther." Then
-guide the other places and changes. **Keep the framing respectful and non-ranking:**
-terracing, canals, wells, and chinampas are all ingenious human answers — the Andes
-terraces, the Nile and Mesopotamian canals, desert qanats, and Tenochtitlan's floating
-gardens — never "primitive" and never "less advanced" than today. Both directions
-matter: the environment shapes people, and people shape the environment, with care and
-with consequences. Honor every body: describe the cards in words for a learner who
-cannot see them; a learner who does not use a speaking voice points or acts. If learners
-can name how their own place has been changed (a field, a well, a road, a garden),
-welcome it.
+2006, S-011): "The environment gives — a river valley gives water and rich soil, so
+people farm grain; people change — they dig an irrigation canal to carry that water
+farther." Then guide the other places and changes. **Keep the framing respectful and
+non-ranking:** terracing, canals, wells, and chinampas are all ingenious human answers —
+the Andes terraces, the Nile and Mesopotamian canals, desert qanats, and Tenochtitlan's
+floating gardens — never "primitive" and never "less advanced" than today. Both
+directions matter: the environment shapes people, and people shape the environment, with
+care and with consequences. Honor every body: describe the cards in words for a learner
+who cannot see them; a learner who does not use a speaking voice points or acts. If
+learners can name how their own place has been changed (a field, a well, a road, a
+garden), welcome it.
 
 ## Procedure
 
@@ -151,8 +151,8 @@ welcome it.
    - **Coast:** fish, boats, home by the shore.
    For each, say how the environment shaped the answer.
 3. **People change (15 min).** Meet the change cards and say what each does:
-   - **Terraced hillside:** people cut steps into a slope to farm it.
-   - **Irrigation canal:** people dig channels to carry river water to fields.
+   - **Terraced hillside:** people cut steps into a slope to farm it (S-143).
+   - **Irrigation canal:** people dig channels to carry river water to fields (S-130).
    - **Dug well:** people dig down to reach water beneath the ground.
    - **Floating garden:** people build reed beds on a lake to grow crops.
    For each, say which need it helps and which place it fits.
@@ -185,16 +185,14 @@ welcome it.
 
 ## Resources
 
-- Food and Agriculture Organization of the United Nations, "Soil conservation" —
-  terracing and other ways people shape slopes to farm them, practiced from the Andes
-  to Asia.
-  https://www.fao.org/soils-portal/soil-management/soil-conservation/en/
-- International Potato Center (CIP), "Potato" — the potato was first domesticated in the
-  Andes, where terracing supported its farming.
-  https://cipotato.org/potato/
-- National Geographic Education, "Irrigation" — carrying water to crops through canals,
-  from the Nile and Tigris–Euphrates to today.
-  https://education.nationalgeographic.org/resource/irrigation/
+- On terracing and other ways people shape slopes to farm them, from the Andes to Asia:
+  FAO — Soil conservation (S-143).
+- On carrying water to crops through canals, from the Nile and Tigris–Euphrates to
+  today: National Geographic Education — Irrigation (S-130).
+- On the potato, first domesticated in the Andes: International Potato Center (CIP) —
+  Potato (S-054).
+- On modelling a two-way relationship with a worked example: Kirschner, Sweller & Clark
+  — Why Minimal Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

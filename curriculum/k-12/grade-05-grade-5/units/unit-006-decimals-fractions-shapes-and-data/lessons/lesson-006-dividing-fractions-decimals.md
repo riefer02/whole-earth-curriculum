@@ -83,8 +83,8 @@ last_updated: 2026-08-17
 
 Learners **divide fractions and decimals** in real contexts. They find **how many 1/4 pieces
 fit in 2** (2 ÷ 1/4 = 8), **share 3/4 among 2 people** (3/4 ÷ 2 = 3/8), and **divide money
-equally** (4.50 ÷ 3 = 1.50). Bar models make the meaning of each division visible, and they
-check division by multiplying back.
+equally** (4.50 ÷ 3 = 1.50). Bar models make the meaning of each division visible (S-026), and they check
+division by multiplying back.
 
 ## Objectives
 
@@ -163,6 +163,8 @@ name each person's share.
 
 ## Resources
 
-- Fraction and decimal division meanings (measurement vs. partitive) are standard in elementary
-  mathematics; see John A. Van de Walle, *Elementary and Middle School Mathematics* (10th ed.,
-  2019). The fairness value of equal shares is a commitment (`docs/philosophy.md` §4).
+- On the two meanings of division — how many groups of this size fit, and what one
+  equal share is — and on modelling both: Van de Walle, Karp & Bay-Williams —
+  *Elementary and Middle School Mathematics* (S-026).
+- On children's own strategies for sharing and grouping as the base for division:
+  Carpenter, Fennema, Franke, Levi & Empson — *Children's Mathematics* (S-025).

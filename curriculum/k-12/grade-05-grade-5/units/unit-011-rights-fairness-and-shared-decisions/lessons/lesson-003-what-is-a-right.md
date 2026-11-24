@@ -85,7 +85,8 @@ last_updated: 2026-08-17
 Learners define a **right** — a shared promise to protect something every child needs,
 simply because they are a child. They sort needs and wants to feel the boundary of a
 right, and learn that many rights are written down in an agreement countries made
-together, the **United Nations Convention on the Rights of the Child (UNCRC)**.
+together, the **United Nations Convention on the Rights of the Child (UNCRC)**
+(S-060; S-091).
 
 ## Objectives
 
@@ -168,7 +169,11 @@ what a right is and one right from the UNCRC.
 
 ## Resources
 
-- UNICEF — Convention on the Rights of the Child (child-friendly summary):
-  <https://www.unicef.org/child-rights-convention>
-- The full treaty text: UN Office of the High Commissioner for Human Rights:
+- On the rights every child has — to learn, play, be safe, rest, and be heard — and on
+  the Convention as an agreement countries made together: UNICEF — Convention on the
+  Rights of the Child (child-friendly summary),
+  <https://www.unicef.org/child-rights-convention> (S-060).
+- On the full treaty text of the Convention: UN Office of the High Commissioner for
+  Human Rights,
   <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
+  (S-091).

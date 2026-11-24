@@ -94,7 +94,7 @@ Have you ever been playing or working and suddenly noticed your tummy feels empt
 rumbling, and you keep thinking about food? That is your body sending a signal:
 hunger. Later, after a meal, your tummy feels comfortable and satisfied — that is the
 signal of fullness. Your body talks to you. Learning its signals is how you take good
-care of it.
+care of it (S-003).
 
 ## Materials
 
@@ -125,7 +125,7 @@ welcome.
 
 1. **Gather (5 min).** Put a hand on your tummy. How does it feel right now? Today you
    will learn two of its signals: hunger and fullness.
-2. **Meet hunger (10 min).** Hunger is your body asking for food. Its early signals:
+2. **Meet hunger (10 min).** Hunger is your body asking for food (S-285). Its early signals:
    your tummy feels empty and may **rumble**, and your energy dips so you feel tired or
    find it hard to focus. What is a helpful response? **Eat a meal or a snack.** Notice
    the signal early, and answer it.
@@ -157,8 +157,9 @@ welcome.
 
 ## Resources
 
-- World Health Organization — global health and wellbeing reference:
-  <https://www.who.int/>
+- On the energy a body needs from food: FAO/WHO/UNU — Human Energy Requirements: Report of
+  a Joint FAO/WHO/UNU Expert Consultation (S-285).
+- On health and wellbeing: World Health Organization (S-003).
 
 ## Home connection
 

@@ -96,7 +96,7 @@ named — the second step of citing text evidence.
 A story says: "the wind died and the birds stopped singing, and everyone began rolling up the
 mats." It never once says the word "storm." But every reader knows: a storm is coming. The
 difference is between **what the text says** — the exact words — and **what it means** — the
-idea the words point to. Skilled readers live in both places at once: they can quote the words
+idea the words point to (S-170). Skilled readers live in both places at once: they can quote the words
 *and* name the meaning, and they can point to the **clues** that got them from one to the
 other. This is how you read what is on the page *and* what is between the lines — in a story,
 a message, or the news.
@@ -170,3 +170,5 @@ naming the clue words that got you from one to the other.
   Pearson's synthesis of comprehension strategy research and the IES practice guide "Improving
   Adolescent Literacy." The evidence-vs-belief distinction is a core value (`docs/philosophy.md`
   §5). On explicit instruction for novice skills, see Kirschner, Sweller & Clark (2006).
+- On evidence-based inference and comprehension instruction: IES — Improving Adolescent Literacy: Effective Classroom and Intervention Practices (S-170).
+

@@ -103,7 +103,7 @@ that is a **pull**. A **force** is any push or pull, and a force always does one
 things: it makes something **start**, **stop**, **speed up**, **slow down**, or **turn**.
 You use forces all day, everywhere — carrying water, rolling a tire, throwing a seed,
 pulling a fish from a line. The same force moves a bicycle in any city and a cart in any
-village.
+village (S-077).
 
 ## Materials
 
@@ -170,6 +170,6 @@ water, pushing a broom. Tell a grown-up what each force changes.
 
 ## Resources
 
-- BBC Bitesize (KS2), "What is a force?" — pushes and pulls and how forces change
-  motion.
-  https://www.bbc.co.uk/bitesize/topics/zvr3nrd/articles/zywcrdm
+- On forces as pushes and pulls, and how they change motion: BBC Bitesize (KS2, NI) — What
+  is a force? (S-077).
+

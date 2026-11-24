@@ -80,7 +80,7 @@ last_updated: 2026-08-15
 Learners move beyond Kindergarten's "copy the pattern" to *finding* the repeating
 part — the core — of patterns made of objects, sounds, and colors, and continuing
 the pattern on their own. They learn that every repeating pattern has a part that
-comes again and again.
+comes again and again (S-020).
 
 ## Objectives
 
@@ -168,8 +168,8 @@ what the repeating part is — then continue it together.
 ## Resources
 
 - Clements, D. H., & Sarama, J. (2014). *Learning and Teaching Early Math* (2nd
-  ed.). Routledge. (Repeating-pattern knowledge as a precursor to algebraic
+  ed.). Routledge (S-020). (Repeating-pattern knowledge as a precursor to algebraic
   reasoning, including identifying the unit of repeat.)
 - Zaslavsky, C. (1999). *Africa Counts: Number and Pattern in African Cultures* (3rd
-  ed.). Lawrence Hill Books. (Pattern in weaving, beading, and design across
+  ed.). Lawrence Hill Books (S-024). (Pattern in weaving, beading, and design across
   cultures.)

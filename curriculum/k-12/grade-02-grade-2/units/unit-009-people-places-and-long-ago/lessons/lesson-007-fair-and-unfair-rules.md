@@ -82,7 +82,7 @@ last_updated: 2026-08-16
 Learners sort **rules** and ways of treating people into **fair** and **unfair**, and
 practice giving a **reason why**. The goal is noticing and naming fairness — a
 foundation of the study of power — held gently, without blame, and always ending in
-the possibility of making it right.
+the possibility of making it right (S-149).
 
 ## Objectives
 
@@ -168,3 +168,8 @@ begins to be studied in later grades.
 
 With a grown-up, think of a rule at home or in a game you both know. Is it fair or
 unfair, and why? If it is unfair, what is one small way it could be made fair?
+
+## Resources
+
+- On fairness and equal dignity as a shared commitment: UN — Universal Declaration of
+  Human Rights (S-149).

@@ -99,10 +99,10 @@ always moved, and moving is never a failure.
 ## Connection
 
 People have always moved. A family moves to be near relatives. A parent moves for a new
-job. A family moves to be safe from a flood or a fire. A herding family moves with the
+job. A family moves to be safe from a flood or a fire (S-383). A herding family moves with the
 seasons, following grass and water. Each move has a **reason**, and each reason is real.
 Naming the reason — family, work, safety, or environment — is how we understand the
-human story of moving, from long ago to today.
+human story of moving, from long ago to today (S-086).
 
 ## Materials
 
@@ -203,7 +203,9 @@ them which of the four reasons it was: family, work, safety, or environment.
 
 ## Resources
 
-- International Organization for Migration (IOM), "Who is a migrant?" — notes that
-  people move for reasons including family, work, safety, and the environment, and that
-  migration has been part of human life throughout history.
-  https://www.iom.int/who-migrant-0
+- On why people migrate — family, work, safety and environment — and on migration as an
+  old and ordinary part of human life: International Organization for Migration — Who is a
+  migrant? (S-086).
+- On movement driven by a changing environment — floods, storms and drought: IOM — Climate
+  Action (Migration, Environment and Climate Change) (S-383).
+

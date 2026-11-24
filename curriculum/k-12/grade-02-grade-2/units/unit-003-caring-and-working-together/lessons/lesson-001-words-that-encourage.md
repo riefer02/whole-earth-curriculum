@@ -112,18 +112,18 @@ give real encouragement that helps a friend keep going.
 
 ## Facilitator note
 
-Encouragement is a skill children build by doing, not by being told to be nice
-(CASEL's relationship-skills competency). The key idea to protect is **sincere vs.
+Encouragement is a skill children build by doing, not by being told to be nice (CASEL's
+relationship-skills competency) (S-001). The key idea to protect is **sincere vs.
 empty**: a compliment names something true and specific ("I like how you shared your
 crayons"), while empty praise is vague and rote ("good job" about nothing). Model the
 difference and invite learners to say *what* they are cheering for. Encourage never
-requires — and never ranks: a child is not "better" for giving more cheers, and no
-one is judged for cheering quietly. A learner who does not speak with their mouth
-gives encouragement with sign, a gesture, a smile, or a picture card — all count
-fully. Invite, never require, learners to share how they cheer at home; sign languages
-are languages too. Some learners may not feel safe sharing a home language, and
-saying "I cheer quietly at home" is fine. Read the procedure aloud; model each cheer
-with voice and body.
+requires — and never ranks: a child is not "better" for giving more cheers, and no one
+is judged for cheering quietly. A learner who does not speak with their mouth gives
+encouragement with sign, a gesture, a smile, or a picture card — all count fully.
+Invite, never require, learners to share how they cheer at home; sign languages are
+languages too. Some learners may not feel safe sharing a home language, and saying "I
+cheer quietly at home" is fine. Read the procedure aloud; model each cheer with voice
+and body.
 
 ## Procedure
 
@@ -159,3 +159,8 @@ with voice and body.
 
 At home, cheer on a family member who is trying something hard — say what you are
 cheering for, and notice how it helps them keep going.
+
+## Resources
+
+- On relationship skills — encouraging and supporting others — as a learned social and
+  emotional competency: CASEL — Fundamentals of Social and Emotional Learning (S-001).

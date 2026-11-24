@@ -41,3 +41,7 @@ certainty. Inquiry over creed; data over assertion.
 | Lesson | Title | Standards |
 |--------|-------|-----------|
 | L.09.001.01 | How Do We Know the Climate Is Changing? | D06.S1.09.01, D06.S1.09.02 |
+| L.09.001.02 | Uncertainty Is Not Noise: Best Estimates and Error Bars | D06.S1.09.01 |
+| L.09.001.03 | Where the Numbers Come From: Who Measured, Who Funded | D06.S1.09.02 |
+| L.09.001.04 | Who Gains? Bias and Conflict of Interest in a Source | D06.S1.09.02 |
+| L.09.001.05 | The Explanation You Can Defend: Claim, Data, Limits | D06.S1.09.01, D06.S1.09.02 |

@@ -125,7 +125,7 @@ edged for as long as they have grown and built.
 
 **Don't overshoot.** Confusing the two is common and normal. Return to the
 fence-and-field picture often, and do not treat the mix-up as carelessness (Van de
-Walle et al., 2019).
+Walle et al., 2019, S-026).
 
 **The lenses, briefly.**
 - *Intellectual:* lay string around a 7-by-3 rectangle, measure 20 units, then add
@@ -185,6 +185,7 @@ string, and tell a grown-up the perimeter — then point to the area inside.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson.
-  (Distinguishing perimeter — the distance around — from area — the space inside.)
+- On teaching mathematics developmentally — pictures, materials and reasoning before
+  symbols: Van de Walle, Karp & Bay-Williams (2019) — Elementary and Middle School
+  Mathematics: Teaching Developmentally (S-026).
+

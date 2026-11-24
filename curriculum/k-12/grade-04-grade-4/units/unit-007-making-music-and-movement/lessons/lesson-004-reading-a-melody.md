@@ -91,11 +91,11 @@ falling shape with their hands, bodies, or instruments.
 
 ## Connection
 
-A melody is a rhythm with a shape — it climbs and falls the way a path climbs a hill
-and comes back down. Written on five lines, that shape becomes visible: a note placed
-high on the page sounds high; a note placed low sounds low. A song you love is a
-melody someone wrote down so others could sing it far away. Today you learn to read
-that climbing and falling path.
+A melody is a rhythm with a shape — it climbs and falls the way a path climbs a hill and
+comes back down. Written on five lines, that shape becomes visible: a note placed high
+on the page sounds high; a note placed low sounds low (S-368). A song you love is a
+melody someone wrote down so others could sing it far away. Today you learn to read that
+climbing and falling path.
 
 ## Materials
 
@@ -112,9 +112,9 @@ that climbing and falling path.
 ## Facilitator note
 
 Reading pitch is a **skill**, so use a worked example and guided practice (Kirschner,
-Sweller & Clark, 2006): point to each note, sing its name, and trace the shape with your
-hand before learners try alone. The five-note melody in the guide (C–D–E–F–G, or
-"do–re–mi–fa–sol") rises by steps — a friendly first melody. Learners may sing note
+Sweller & Clark, 2006, S-011): point to each note, sing its name, and trace the shape
+with your hand before learners try alone. The five-note melody in the guide (C–D–E–F–G,
+or "do–re–mi–fa–sol") rises by steps — a friendly first melody. Learners may sing note
 names, solfège, or any neutral syllable. A learner who is deaf or hard of hearing can
 *see* the rising shape and match it by moving a hand or a set of colored bars up and
 down, or feel a pitched bar's vibration compared to another. A learner who is blind or
@@ -163,5 +163,7 @@ steps for someone to play.
 
 ## Resources
 
-- No external resources required; the claims in this lesson are about reading a simple
-  staff and the rising and falling of pitch, which learners do and check directly.
+- On pitch and melody as elements of music — pitch being how high or low a sound is:
+  Wikipedia — Elements of music (S-368).
+- On modelling a new skill with a worked example, then guided practice: Kirschner,
+  Sweller & Clark — Why Minimal Guidance During Instruction Does Not Work (S-011).

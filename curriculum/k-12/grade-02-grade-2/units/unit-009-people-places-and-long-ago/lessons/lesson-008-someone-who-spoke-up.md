@@ -108,7 +108,7 @@ worry. She planted.
 - Prepare the story accurately and gently (see Resources): Wangari Maathai founded the
   Green Belt Movement in Kenya in 1977, encouraging women to plant trees; it grew
   across countries and helped plant more than thirty million trees, and she received
-  the Nobel Peace Prize in 2004. Keep the telling warm and blame-free — no frightening
+  the Nobel Peace Prize in 2004 (S-059). Keep the telling warm and blame-free — no frightening
   content.
 - Prepare or draw the picture cards (trees cut down, a person planting with others,
   trees growing tall).
@@ -172,12 +172,8 @@ hold together.
 
 ## Resources
 
-- Nobel Prize, "Wangari Maathai — Facts" — documents that Wangari Maathai founded the
-  Green Belt Movement in 1977, that it spread to other African countries and
-  contributed to planting over thirty million trees, and that she received the Nobel
-  Peace Prize in 2004 "for her contribution to sustainable development, democracy and
-  peace."
-  https://www.nobelprize.org/prizes/peace/2004/maathai/facts/
+- On Wangari Maathai, the Green Belt Movement (1977), and the 2004 Nobel Peace Prize:
+  Nobel Prize — Wangari Maathai, Facts (S-059).
 
 ## Home connection
 

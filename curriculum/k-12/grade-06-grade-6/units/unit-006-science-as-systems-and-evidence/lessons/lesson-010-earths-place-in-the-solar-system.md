@@ -139,7 +139,7 @@ know" alive: we know the distances by measurement, not by guess. See
 2. **Meet the solar system (10 min).** Look at the diagram. The **solar system** is
    the Sun and everything that orbits it. The **Sun** is a **star**, huge and bright.
    Eight **planets** orbit it in order: Mercury, Venus, **Earth**, Mars, Jupiter,
-   Saturn, Uranus, Neptune. Earth is the **third planet**. Many planets have
+   Saturn, Uranus, Neptune (S-258). Earth is the **third planet** (S-257). Many planets have
    **moons** that orbit them. Point to Earth and name its neighbors.
 3. **Order the planets (10 min).** With your cards, line up the Sun and the eight
    planets in order of distance. Which are the four **inner planets** (small and
@@ -180,3 +180,6 @@ Earth sits among the planets and how the Sun's size compares to ours.
   <https://spaceplace.nasa.gov/menu/solar-system/>
 - NASA Science, "Solar System Exploration" — planet order and the Sun's scale:
   <https://science.nasa.gov/solar-system/>
+- On the planets, their order, and the Sun's scale: NASA Science — Solar System Exploration (S-258).
+- On the solar system and Earth's place in it: NASA Space Place — Solar System (S-257).
+

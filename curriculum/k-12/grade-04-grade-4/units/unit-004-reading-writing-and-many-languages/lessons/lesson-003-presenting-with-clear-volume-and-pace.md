@@ -111,14 +111,14 @@ gap. Volume and pace are two of the tools that build that bridge.
 
 Presenting is a skill, so model it: give a short talk yourself at the right volume and
 pace, then once too quietly and too fast, and let learners name the difference (worked
-example before practice; Kirschner, Sweller & Clark, 2006). Frame feedback as help, not
-judgment — "I could hear you" and "I could follow you" are observations, not scores.
-Honor many ways of presenting: a learner who is Deaf or hard of hearing presents in sign
-or with a communication device, and clarity of signing pace and size is just as real as
-spoken volume; a learner who stutters or speaks with a speech difference presents at
-their own pace, and the room listens with patience. The measure of a clear talk is
-whether the audience understands, never whether a voice sounds "standard." Keep the
-atmosphere safe and encouraging — speaking in front of a group is brave, and every
+example before practice; Kirschner, Sweller & Clark, 2006, S-011). Frame feedback as
+help, not judgment — "I could hear you" and "I could follow you" are observations, not
+scores (S-001). Honor many ways of presenting: a learner who is Deaf or hard of hearing
+presents in sign or with a communication device, and clarity of signing pace and size is
+just as real as spoken volume; a learner who stutters or speaks with a speech difference
+presents at their own pace, and the room listens with patience. The measure of a clear
+talk is whether the audience understands, never whether a voice sounds "standard." Keep
+the atmosphere safe and encouraging — speaking in front of a group is brave, and every
 attempt is a step.
 
 ## Procedure
@@ -162,7 +162,7 @@ ask: "Could you hear me and follow me?"
 
 ## Resources
 
-- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during
-  instruction does not work. *Educational Psychologist*, 41(2), 75–86.
-- CASEL SEL Framework (self-awareness and relationship skills):
-  <https://casel.org/fundamentals-of-sel/>
+- On worked examples and explicit instruction for a new skill: Kirschner, Sweller &
+  Clark — Why Minimal Guidance During Instruction Does Not Work (S-011).
+- On giving and receiving feedback as relationship skills: CASEL — Fundamentals of
+  Social and Emotional Learning (S-001).

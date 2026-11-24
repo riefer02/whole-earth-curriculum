@@ -93,7 +93,7 @@ Balance shows up everywhere in your life. You balance along a curb, a log, or th
 of a boat; you carry a bowl of water without spilling; you stand on one foot to pull on
 a shoe. People everywhere need balance — a fisher balancing in a boat, a dancer holding
 a pose, a child crossing a stepping-stone path. Learning to balance helps you move
-through the world with care and confidence.
+through the world with care and confidence (S-069).
 
 ## Materials
 
@@ -146,6 +146,10 @@ breath, not speed.
 - **Formative (observation):** Can the learner hold a balance with growing control
   and recover from a wobble, using an adapted version if needed?
 - **Self:** The learner names one thing that helps them stay steady.
+
+## Resources
+
+- On movement and healthy development: WHO — Physical activity fact sheet (S-069).
 
 ## Home connection
 

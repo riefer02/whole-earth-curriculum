@@ -103,11 +103,11 @@ path.
 
 Think of a time your body got hot and your voice got loud in a conflict — you wanted
 to grab, yell, or cry. In that moment, words alone don't work; the body has to calm
-down first. There is a simple path that works everywhere: **stop and breathe**, name
+down first (S-340). There is a simple path that works everywhere: **stop and breathe**, name
 the feeling, say what you need, listen to the other person, and find a fair solve.
 People everywhere do some form of this — a deep breath before answering, two neighbors
 talking it out instead of shouting, friends saying "I felt… I need…" until they find a
-way. Today you will practice the whole path, step by step.
+way. Today you will practice the whole path, step by step (S-001).
 
 ## Materials
 
@@ -193,7 +193,10 @@ listen, find a fair solve. Try them the next time a small conflict comes up.
 
 ## Resources
 
-- CASEL SEL Framework (self-management and relationship skills):
-  <https://casel.org/fundamentals-of-sel/>
-- Slow-breathing as a calm-down tool is widely supported; see the "box breathing" and
-  related practices taught in many schools and clinics, simplified here for children.
+- On slow breathing as a way to settle the body's stress response before talking: Harvard
+  Health — Relaxation techniques: Breath control helps quell errant stress response
+  (S-340).
+- On responsible decision-making and social awareness — weighing choices and their
+  consequences, and hearing others' points of view: CASEL — Fundamentals of Social and
+  Emotional Learning (S-001).
+

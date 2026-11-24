@@ -121,7 +121,7 @@ Fairness is not one big thing — it is many small things you can do every day: 
 choice with a reason, a fair share, a rule you helped make, a job you did, listening
 to a friend, and making things right after a hurt. When you put them together, you
 are practicing how to live well with other people — at home, in class, and anywhere
-in the world people are together. Today you will put them all together.
+in the world people are together (S-158). Today you will put them all together.
 
 ## Materials
 
@@ -185,3 +185,10 @@ Questions stay questions: fairness is practiced, not preached.
 
 Take your "fairness" page home and share one box with your family. Ask them what
 fairness means to them, and listen.
+
+## Resources
+
+- On learning to live together as a foundation of education: UNESCO — Learning to Live
+  Together (S-158).
+- On fairness having more than one meaning — the same for everyone versus what each
+  person needs: Stanford Encyclopedia of Philosophy — Distributive Justice (S-388).

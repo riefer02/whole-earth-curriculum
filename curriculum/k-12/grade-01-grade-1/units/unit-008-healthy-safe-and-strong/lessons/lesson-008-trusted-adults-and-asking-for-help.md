@@ -154,7 +154,7 @@ asking for help.
    turns with a partner or a doll, one of you asking, one listening.
 4. **Keep telling until someone helps (5 min).** If the first grown-up is busy or
    doesn't understand, tell another one — and another — until someone listens and helps.
-   Telling is never wrong, and you are never in trouble for telling.
+   Telling is never wrong, and you are never in trouble for telling (S-196).
 5. **Draw your "help hand" (10 min).** Trace your hand. On each finger, draw or write
    one trusted adult you could tell. This is your help hand — keep it where you can see
    it.
@@ -181,3 +181,10 @@ asking for help.
 
 With a grown-up, name your trusted adults and practice saying "I need help" in a clear,
 calm voice. Keep your help hand somewhere you can see it.
+
+## Resources
+
+- On telling a trusted adult and protective adult relationships as central to child
+  safety: UNICEF — Violence against children (S-196).
+- On children's right to protection and to be heard: UNICEF — United Nations Convention
+  on the Rights of the Child (child-friendly) (S-060).

@@ -91,7 +91,7 @@ that a ball is more fun — and a friend more trusted — when you pass and take
 A ball by yourself is a ball; a ball with a friend is a game. In every place people
 live, passing a ball back and forth is how friends play together. Passing takes two
 skills at once: your hands or feet do the work, and your kindness waits for the other
-person's turn.
+person's turn (S-101).
 
 ## Materials
 
@@ -148,3 +148,8 @@ and receives.
 
 Play a passing game at home with a soft ball or rolled-up socks — throw, catch, and
 kick it back and forth, taking turns.
+
+## Resources
+
+- On fair play and inclusive game rules in physical education: SHAPE America — Society
+  of Health and Physical Educators (S-101).

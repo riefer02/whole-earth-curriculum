@@ -85,7 +85,7 @@ Learners tell whether a simple message is trying to give **true information** or
 **sell** something. They use clues: a selling message asks you to *buy*, shows a *price*,
 and says *"best ever!"* or *"buy now!"*; a true-information message tells a fact and asks
 for nothing. They learn that selling is not bad — grown-ups buy things they need — but
-*noticing* when a message wants our money is a power everyone can have.
+*noticing* when a message wants our money is a power everyone can have (S-063).
 
 ## Objectives
 
@@ -96,8 +96,9 @@ for nothing. They learn that selling is not bad — grown-ups buy things they ne
 
 Think of a message you saw today — a sign in a shop, a label on a packet, a picture on a
 screen. Some messages tell you a true fact: "Brushing your teeth twice a day helps keep
-them clean." Other messages want you to buy: "BUY Sparkle Paste — the BEST ever! Only five coins!"
-One gives information; the other is selling. We can tell them apart by their clues.
+them clean." Other messages want you to buy: "BUY Sparkle Paste — the BEST ever! Only
+five coins!" One gives information; the other is selling. We can tell them apart by
+their clues.
 
 ## Materials
 
@@ -179,13 +180,11 @@ of hearing: read the printed messages and sign "buy" or "fact."
 
 ## Home connection
 
-At home, find one message on a packet, a sign, or a screen. Tell a grown-up whether it is
-true information or selling, and give one clue. Ask the grown-up how they decide when
+At home, find one message on a packet, a sign, or a screen. Tell a grown-up whether it
+is true information or selling, and give one clue. Ask the grown-up how they decide when
 something is worth buying.
 
 ## Resources
 
-- Common Sense Media (Common Sense Education), "News & Media Literacy" — recognizing the
-  difference between information and persuasion, including the clues that a message is
-  trying to sell.
-  https://www.commonsense.org/education/digital-citizenship/topic/news-and-media-literacy
+- On telling information from persuasion, and noticing when a message is trying to
+  sell: Common Sense Education — News & Media Literacy (S-063).

@@ -99,7 +99,7 @@ in line, a clean shared space. When there is no routine, the quick and the loud 
 there first and someone is left out. When there is a **routine** — take turns, share,
 listen, tidy up — everyone gets a turn, and the community works **fairly** for
 everyone. All over the world, markets, buses, water pumps, and kitchens run on such
-small routines so that everyone is treated fairly. Today you look at how your own class
+small routines so that everyone is treated fairly (S-416). Today you look at how your own class
 does this.
 
 ## Materials
@@ -189,4 +189,8 @@ everyone? Tell someone what you noticed, and one small change that would make it
 
 ## Resources
 
-- CASEL SEL Framework (social awareness, responsible decision-making): <https://casel.org/fundamentals-of-sel/>
+- On communities making their own rules for shared things so that everyone can keep using
+  them: Elinor Ostrom — Governing the Commons (S-416).
+- On responsible decision-making and social awareness: CASEL — Fundamentals of Social and
+  Emotional Learning (S-001).
+

@@ -124,11 +124,11 @@ this idea to plan how much they need, even before it had a written symbol.
 1. Multiplication counts **equal groups**: three groups of four is 3 × 4.
 2. An **array** — rows and columns — shows the same equal groups a second way.
 3. Children make sense of multiplication through informal strategies long before
-   memorising facts (Carpenter et al., 2015).
+   memorising facts (Carpenter et al., 2015, S-025).
 
 **Don't overshoot.** The word "times" and the × sign are one convention among many;
 the idea of equal groups is what matters, and peoples have counted in groups of two,
-five, ten, and more (Zaslavsky, 1999).
+five, ten, and more (Zaslavsky, 1999, S-024).
 
 **The lenses, briefly.**
 - *Intellectual:* build three groups of four, line them into three rows of four,
@@ -187,9 +187,9 @@ tell a grown-up the multiplication sentence that counts them.
 
 ## Resources
 
-- Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (2015).
-  *Children's Mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann.
-  (Children's informal grouping and counting strategies as the foundation of
-  multiplication and division.)
-- Zaslavsky, C. (1999). *Africa Counts: Number and Pattern in African Cultures* (3rd
-  ed.). Lawrence Hill Books. (Grouping and counting in sets across many traditions.)
+- On children's own informal strategies as the foundation of multiplication, division and
+  word problems: Carpenter, Fennema, Franke, Levi & Empson (2015) — Children's
+  Mathematics: Cognitively Guided Instruction (S-025).
+- On counting, grouping and pattern in African and other traditions: Claudia Zaslavsky
+  (1999) — Africa Counts: Number and Pattern in African Cultures (S-024).
+

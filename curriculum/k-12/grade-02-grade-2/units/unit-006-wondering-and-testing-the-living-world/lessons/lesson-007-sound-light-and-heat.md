@@ -82,11 +82,11 @@ last_updated: 2026-08-16
 ## Summary
 
 Energy is the power to make things happen — and three kinds of it, **sound**, **light**,
-and **heat**, are right there in a learner's own body to sense: we **hear** sound, **see**
-light, and **feel** heat. Learners find and sort examples of each, and discover that
-sound comes from things **vibrating** (shaking back and forth), while light and heat
-often come from the Sun or from things people make. Energy moves and changes things —
-and we can observe it.
+and **heat**, are right there in a learner's own body to sense: we **hear** sound,
+**see** light, and **feel** heat. Learners find and sort examples of each, and discover
+that sound comes from things **vibrating** (shaking back and forth), while light and
+heat often come from the Sun or from things people make (S-045). Energy moves and
+changes things — and we can observe it.
 
 ## Objectives
 
@@ -96,9 +96,9 @@ and we can observe it.
 ## Connection
 
 Clap your hands — you **hear** sound. Step into the sun — you **see** light and **feel**
-heat. These three are not just feelings; they are **energy** at work. Energy is the power
-to make something happen: sound shakes the air to your ear, light lets your eyes see,
-and heat warms your skin. You can sense all three with your own body, right now.
+heat. These three are not just feelings; they are **energy** at work. Energy is the
+power to make something happen: sound shakes the air to your ear, light lets your eyes
+see, and heat warms your skin. You can sense all three with your own body, right now.
 
 ## Materials
 
@@ -174,6 +174,5 @@ grown-up which sense caught each one. You are sensing energy.
 
 ## Resources
 
-- BBC Bitesize (KS2 Science), "How are sounds made?" — sound is made when things
-  vibrate, and we hear it with our ears.
-  https://www.bbc.co.uk/bitesize/topics/zgffr82
+- On sound being made when things vibrate: BBC Bitesize (KS2) — Sound (How are sounds
+  made?) (S-045).

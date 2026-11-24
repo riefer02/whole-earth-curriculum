@@ -85,7 +85,8 @@ last_updated: 2026-08-17
 
 Learners meet the three nutrients that **fuel** and **build** the body: **carbohydrates**
 (give fuel for energy), **proteins** (build and repair muscle, skin, and blood), and **fats**
-(store energy, build cells, and protect organs). They sort everyday foods from many regions
+(store energy, build cells, and protect organs) (S-038). They sort everyday foods from
+many regions
 into these three jobs and connect each nutrient to what it does. Every way of eating is
 honored; no food or body is judged.
 
@@ -174,10 +175,10 @@ the three jobs with someone at home.
 
 ## Resources
 
-- Carbohydrates are the body's main energy source, proteins build and repair tissues, and fats
-  store energy, build cell membranes, and aid brain and cell function — this is established
-  nutrition science. See the World Health Organization "Healthy diet" fact sheet
-  (<https://www.who.int/news-room/fact-sheets/detail/healthy-diet>) and the Food and
-  Agriculture Organization's food-based dietary guidelines for how cultures worldwide build
-  meals from these nutrients (<https://www.fao.org/nutrition/education/food-dietary-guidelines/en/>).
-  These are evidence about what nutrients do — never a judgment about any body or way of eating.
+- On carbohydrates as the body's main energy source, proteins as building blocks, and the
+  advice to limit free sugars, salt and saturated fat — evidence about what nutrients do,
+  never a judgment about a body or a way of eating: WHO — Healthy diet fact sheet,
+  <https://www.who.int/news-room/fact-sheets/detail/healthy-diet> (S-038).
+- On how food-based dietary guidelines around the world build meals from these nutrient
+  groups: FAO — Food-based dietary guidelines,
+  <https://www.fao.org/nutrition/education/food-dietary-guidelines/en/> (S-118).

@@ -97,8 +97,9 @@ rule of their own.
 Fair play is not just following the rules with your head; it is playing with a fair
 heart. It is letting someone else have a turn, telling the truth when you touched the
 line, cheering a teammate who is trying hard, and shaking hands whether your side won or
-lost. Everywhere people play — a football pitch in Lagos, a chessboard in a Moscow
-café, a skipping game on a Hanoi street — the game means more when it is played fairly.
+lost. Everywhere people play — a football pitch in Lagos, a chessboard in a Moscow café,
+a skipping game on a Hanoi street — the game means more when it is played fairly
+(S-233).
 
 ## Materials
 
@@ -114,7 +115,7 @@ café, a skipping game on a Hanoi street — the game means more when it is play
 
 ## Facilitator note
 
-Fair play is a skill and a value — teach it explicitly with worked examples (model each
+Fair play is a skill and a value — teach it explicitly with worked examples (S-101) (model each
 fair act), then let learners practice in the game. Keep it non-judging: an "unfair"
 scene is about the *act*, never the *child*, and a learner who has not yet got it
 revisits and tries again — "not yet" is information. Watch for the learner who always
@@ -156,10 +157,10 @@ lesson on movement skills.
 
 ## Resources
 
-- SHAPE America — appropriate practices in movement and cooperative play:
-  <https://www.shapeamerica.org/>
-- World Health Organization — physical activity fact sheet:
-  <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
+- On fair play and inclusive game practices in physical education: SHAPE America
+  (S-101).
+- On cooperative goal structures and their interpersonal benefits: Johnson & Johnson —
+  Cooperation vs Competition (S-233).
 
 ## Home connection
 

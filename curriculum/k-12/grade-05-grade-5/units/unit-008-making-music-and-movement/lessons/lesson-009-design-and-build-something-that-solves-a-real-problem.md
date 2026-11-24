@@ -87,8 +87,8 @@ last_updated: 2026-08-17
 
 Learners **design and build a working prototype** that solves a real problem in their
 class or community, and learn to **explain their choices**. A worked example walks the
-design cycle — name the problem, imagine, choose materials, build, test, improve — on a
-real problem (rain coming under a door), then learners run the cycle on a problem they
+design cycle — name the problem, imagine, choose materials, build, test, improve —
+on a real problem (rain coming under a door) (S-370), then learners run the cycle on a problem they
 choose, building, testing, and explaining each decision.
 
 ## Objectives
@@ -181,6 +181,8 @@ the reason for it.
 
 ## Resources
 
-- The engineering design process (define, imagine, build, test, improve) is a core
-  practice of elementary engineering education; see the Smithsonian Science Education
-  Center's design-cycle framing: <https://ssec.si.edu/>
+- On the engineering design process — define a problem, imagine solutions, plan, build,
+  test, and improve: TeachEngineering — Engineering Design Process,
+  <https://www.teachengineering.org/populartopics/designprocess> (S-370).
+- On the Smithsonian Science Education Center's design-cycle framing for elementary
+  engineering: Smithsonian Science Education Center, <https://ssec.si.edu/> (S-190).

@@ -86,7 +86,7 @@ last_updated: 2026-08-16
 Learners listen with their eyes closed and **identify an instrument by its sound**,
 then say whether the music **feels happy, sad, or another way**. They discover that
 every culture has its own instruments — drums, flutes, strings, shakers — and that
-the ear can tell them apart and feel the mood they make.
+the ear can tell them apart and feel the mood they make (S-188).
 
 ## Objectives
 
@@ -166,3 +166,8 @@ is their home ground.
 
 At home or outside, close your eyes and listen for one sound — a pot tapped, a voice,
 a bird. Name the sound-maker and tell a grown-up what mood it gives you.
+
+## Resources
+
+- On the musical traditions and instruments of cultures around the world: Smithsonian
+  Folkways Recordings (S-188).

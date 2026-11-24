@@ -115,7 +115,7 @@ everyone: bodies sense in different ways, and that is wonderful.
 1. **Gather (5 min).** Sit comfortably. Ask yourself: how did you know what the sky
    looked like today? How did you know your food was warm? Your body is always busy
    noticing things.
-2. **Meet the senses (10 min).** There are five ways your body notices the world.
+2. **Meet the senses (10 min).** There are five ways your body notices the world (S-031).
    Say each one and touch the body part that does it: **see** (eyes), **hear** (ears),
    **smell** (nose), **taste** (tongue and mouth), and **touch** (skin, especially
    your hands). If you cannot see or hear, know that your other senses work extra hard,
@@ -126,7 +126,7 @@ everyone: bodies sense in different ways, and that is wonderful.
    look and check. Which senses did you use?
 4. **Taste and smell together (5 min).** With an adult's help, notice how smell and
    taste work as a team. Close your nose gently while you take a small taste of
-   something safe, then let go and taste again. Smell helps you taste!
+   something safe, then let go and taste again. Smell helps you taste (S-067)!
 5. **Draw it (5 min).** Draw one thing you noticed today and the body part that
    helped you notice it.
 6. **Close (5 min).** Say the five senses one more time and touch each body part as
@@ -144,6 +144,11 @@ everyone: bodies sense in different ways, and that is wonderful.
 - **Formative (observation):** Can the learner name a sense and point to the body
   part that does it, for at least three senses?
 - **Artifact (portfolio):** The sense drawing, kept in the learner's portfolio.
+
+## Resources
+
+- On the five senses: BBC Bitesize (KS1) — What are the senses? (S-031).
+- On smell and taste working together: NIDCD — Taste and Smell (S-067).
 
 ## Home connection
 

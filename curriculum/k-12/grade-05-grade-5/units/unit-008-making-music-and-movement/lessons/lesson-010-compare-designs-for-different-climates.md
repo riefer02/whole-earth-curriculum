@@ -87,7 +87,8 @@ last_updated: 2026-08-17
 ## Summary
 
 The capstone brings the unit together: learners **compare shelters designed for different
-climates and resources** and explain how the environment shapes design — an igloo's snow
+climates and resources** and explain how the environment shapes design (S-191) —
+an igloo's snow
 dome for the cold, a yurt's felt for the steppe, a stilt house for the floodplain, an
 adobe house for dry heat. They revisit the unit's through-lines — plan and complete an
 artwork, compose and perform, choreograph together, design with reason — in a closing
@@ -184,8 +185,8 @@ climate or materials — thick walls, a sloped roof, shade, or a water channel.
 
 ## Resources
 
-- For classroom-friendly framing of how environment shapes human shelters, see National
-  Geographic's education resources on human habitats and adaptation:
-  <https://education.nationalgeographic.org/>
-- UNESCO's Intangible Cultural Heritage lists include living building and craft traditions
-  (e.g., traditional felt-making for yurts): <https://ich.unesco.org/>
+- On how people adapt their shelters and ways of living to climate and environment:
+  National Geographic Education, <https://education.nationalgeographic.org/> (S-191).
+- On living building and craft traditions such as the Mongol ger and traditional
+  felt-making: UNESCO — Intangible Cultural Heritage, <https://ich.unesco.org/>
+  (S-056).

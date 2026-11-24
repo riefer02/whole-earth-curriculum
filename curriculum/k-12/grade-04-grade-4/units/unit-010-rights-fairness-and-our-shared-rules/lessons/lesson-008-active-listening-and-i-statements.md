@@ -98,14 +98,13 @@ and talk it through" into the two named skills.
 ## Connection
 
 When two people disagree, the words can turn into a blame match — "you always," "you
-never" — and no one ends up heard. There are two tools that change this. First, an
-**"I" statement**: "I feel ___ when ___ because ___," which names *your own* feeling
-without pointing at the other person. Second, **active listening**: facing the speaker,
-really hearing them, and reflecting it back — "I hear that you feel ___." Saying "I"
-instead of "you," and listening before answering, is how people everywhere turn a
-fight into a talk — two neighbors over a fence, two friends over a ball, two
-caregivers over a plan. Today you will practice both moves, so you can solve a
-disagreement fairly.
+never" — and no one ends up heard. There are two tools that change this. First, an **"I"
+statement**: "I feel ___ when ___ because ___," which names *your own* feeling without
+pointing at the other person (S-148). Second, **active listening**: facing the speaker,
+really hearing them, and reflecting it back — "I hear that you feel ___" (S-174). Saying
+"I" instead of "you," and listening before answering, is how people everywhere turn a
+fight into a talk — two neighbors over a fence, two friends over a ball, two caregivers
+over a plan. Today you will practice both moves, so you can solve a disagreement fairly.
 
 ## Materials
 
@@ -194,8 +193,9 @@ changes.
 
 ## Resources
 
-- CASEL SEL Framework (self-management and relationship skills):
-  <https://casel.org/fundamentals-of-sel/>
-- Active listening and "I" statements are core to nonviolent communication and
-  conflict-resolution teaching; see also the International Institute for Restorative
-  Practices materials on listening circles.
+- On "I" statements and naming feelings and needs without blame: Rosenberg — Nonviolent
+  Communication (S-148).
+- On listening and reflecting back as learnable listening skills: International
+  Listening Association — Listening Skills resources (S-174).
+- On self-management and relationship skills as core competencies: CASEL — Fundamentals
+  of Social and Emotional Learning (S-001).

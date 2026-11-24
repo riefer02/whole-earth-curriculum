@@ -87,9 +87,9 @@ up when everyone does their part.
 
 ## Connection
 
-The Earth is our home, the way a house is a home. We keep a home clean and cared for,
+The Earth is our home, the way a house is a home (S-509). We keep a home clean and cared for,
 and we can do the same for the Earth. A plant needs water; a dry tap left running
-wastes water other living things need; a piece of litter does not belong on the path.
+wastes water other living things need (S-065); a piece of litter does not belong on the path.
 One small act of care, done by many hands, keeps our home healthy.
 
 ## Materials
@@ -144,6 +144,11 @@ just as real.
 - **Formative (observation):** Did the learner complete one small act of care and say
   why it helps?
 - **Artifact (portfolio):** The "care promise" card.
+
+## Resources
+
+- On unequal access to safe water: WHO/UNICEF JMP — WASH (Washdata) (S-065).
+- On living well with community and nature: Buen vivir / sumak kawsay — Andean philosophy of 'living well' in harmony with community and nature (S-509).
 
 ## Home connection
 

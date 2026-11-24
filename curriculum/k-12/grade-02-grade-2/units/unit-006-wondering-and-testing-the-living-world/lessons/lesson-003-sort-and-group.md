@@ -86,8 +86,8 @@ last_updated: 2026-08-16
 The living world is full of many things. Science's first way of making sense of them is
 to **sort** — to put things into **groups** by a **feature** they share. Learners sort a
 collection by shape, color, size, or where something lives, and — the important part —
-explain *how* they grouped them. They learn that the same things can be sorted many
-different ways, and none of those ways is wrong.
+explain *how* they grouped them (S-042). They learn that the same things can be sorted
+many different ways, and none of those ways is wrong.
 
 ## Objectives
 
@@ -97,10 +97,10 @@ different ways, and none of those ways is wrong.
 ## Connection
 
 At home you already sort things: spoons with spoons, socks with socks, seeds with seeds.
-When you put all the round stones in one pile and all the flat stones in another, you are
-doing what a scientist does — sorting by a **feature**. The trick is to say *how* you
-sorted: "I put all the round ones together." That explanation is how others understand
-your thinking.
+When you put all the round stones in one pile and all the flat stones in another, you
+are doing what a scientist does — sorting by a **feature**. The trick is to say *how*
+you sorted: "I put all the round ones together." That explanation is how others
+understand your thinking.
 
 ## Materials
 
@@ -165,10 +165,10 @@ spacing.
 ## Home connection
 
 At home, help sort one real thing — the spoons, the socks, or the seeds — and say your
-rule out loud: "I am grouping these by…" Sorting is everywhere, and you already know how.
+rule out loud: "I am grouping these by…" Sorting is everywhere, and you already know
+how.
 
 ## Resources
 
-- BBC Bitesize (KS1 Science), "Everyday materials" — objects and materials, and
-  describing materials by their properties.
-  https://www.bbc.co.uk/bitesize/topics/zrssgk7
+- On describing objects and materials and grouping them by their properties: BBC
+  Bitesize (KS1) — Everyday materials (S-042).

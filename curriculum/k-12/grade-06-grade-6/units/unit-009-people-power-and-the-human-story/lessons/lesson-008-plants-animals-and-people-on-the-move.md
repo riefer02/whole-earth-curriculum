@@ -137,7 +137,7 @@ difficulty to hope (peoples kept their knowledge and adapted). See
 1. **Gather (5 min).** You have seen how people and land shape each other in one place. Now
    you see what happens when **things move between** places — across an ocean.
 2. **Meet the exchange (20 min).** From **1492**, after European ships reached the Americas,
-   plants, animals, and people began moving **both ways** across the Atlantic. From the
+   plants, animals, and people began moving **both ways** across the Atlantic (S-273). From the
    **Americas** to the rest of the world went **maize, potato, tomato, cacao, and chili**.
    Into the **Americas** came **wheat, rice, horses, cattle, sheep, and pigs** — and
    **people**, many of them **enslaved Africans** taken by force. These movements changed
@@ -146,7 +146,7 @@ difficulty to hope (peoples kept their knowledge and adapted). See
    **horses** transformed how peoples of the plains hunted and traveled.
 3. **Name the harm honestly (5 min).** This exchange was not just crops. It rode on
    **colonization** — the taking of Indigenous peoples' land and self-rule — and on the
-   **transatlantic slave trade**, which stole millions of African people from their homes.
+   **transatlantic slave trade**, which stole millions of African people from their homes (S-274).
    New diseases also devastated many Indigenous peoples. Even so, Indigenous and African
    peoples kept their knowledge, their languages, and their ways, and adapted. The harm is
    real; so is their strength.
@@ -188,3 +188,6 @@ where one of them came from and how it got to you.
   to the telling, in line with the curriculum's commitment to center dignity and
   liberation, not victimhood. Dates are approximations that scholars revise as new evidence
   appears.
+- On the Columbian Exchange of plants, animals, and people after 1492: Alfred W. Crosby — The Columbian Exchange: Biological and Cultural Consequences of 1492 (S-273).
+- On the transatlantic slave trade and its forced movement of African peoples: UNESCO — Routes of Enslaved Peoples (formerly The Slave Route) (S-274).
+

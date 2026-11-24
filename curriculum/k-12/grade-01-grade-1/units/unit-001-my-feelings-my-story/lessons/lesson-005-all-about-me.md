@@ -85,7 +85,7 @@ someone with a real, describable story, and they notice that no two pages are al
 
 ## Connection
 
-You are a person with a story, and stories are made of facts. How old are you? What
+You are a person with a story, and stories are made of facts (S-404). How old are you? What
 do you like to do? What can you do well? Who is in your family? These facts do not
 tell the whole story of you, but they are the first page — the page anyone could
 read to begin to know you.
@@ -142,3 +142,8 @@ the point.
 
 Ask someone at home to tell you one fact about yourself that you did not know, and
 add it to your page.
+
+## Resources
+
+- On the self as a story that links who you were, are, and are becoming: McAdams —
+  The Psychology of Life Stories (S-404).

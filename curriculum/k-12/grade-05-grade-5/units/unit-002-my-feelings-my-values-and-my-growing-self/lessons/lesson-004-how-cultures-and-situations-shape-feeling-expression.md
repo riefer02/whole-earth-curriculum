@@ -85,7 +85,7 @@ last_updated: 2026-08-17
 
 Learners widen the view from families to **cultures and situations**. They explore
 respectful greetings from around the world — a bow, a handshake, a hug, a raised hand, a
-nod — and discover that **where and when** a feeling happens shapes how it is shown. The
+nod — and discover that **where and when** a feeling happens shapes how it is shown (S-160). The
 same joy is danced at a festival and held quietly at a ceremony. Learners complete a
 **two-situation comparison** for one feeling, always holding every custom as worthy of
 respect and none as "better."
@@ -174,3 +174,10 @@ they know, and try learning to show it.
 - Cross-cultural differences in expressing feeling are studied as "display rules"
   (Ekman & Friesen, 1969). For a classroom-friendly framing of curiosity and respect,
   see CASEL's social-awareness competency: <https://casel.org/fundamentals-of-sel/>
+
+- On 'display rules' — how culture and situation shape when and how a feeling is
+  shown: Ekman & Friesen (1969), *Semiotica*,
+  <https://doi.org/10.1515/semi.1969.1.1.49> (S-160).
+- On customs and practices as living heritage that communities carry and value (a
+  frame for meeting other people's ways with respect, not a claim about any one
+  greeting): UNESCO — Intangible Cultural Heritage, <https://ich.unesco.org/> (S-056).

@@ -86,8 +86,8 @@ last_updated: 2026-08-17
 
 Learners explain **eclipses** as moments when one world's **shadow** falls on
 another: a **solar eclipse** happens at **new moon**, when the Moon passes between
-the Sun and Earth and its shadow falls on a small spot of Earth; a **lunar eclipse**
-happens at **full moon**, when Earth's shadow falls on the Moon. They model both and
+the Sun and Earth and its shadow falls on a small spot of Earth (S-183); a **lunar eclipse**
+happens at **full moon**, when Earth's shadow falls on the Moon (S-184). They model both and
 learn why eclipses are rare and how to watch safely.
 
 ## Objectives
@@ -176,7 +176,8 @@ Moon. Remember: never look at the Sun directly.
 
 ## Resources
 
-- NASA Space Place, "Lunar Eclipses and Solar Eclipses" (age-appropriate solar and
-  lunar eclipse explanation): <https://spaceplace.nasa.gov/eclipses/en/>
-- NASA, "Eclipses" — the geometry and predictability of solar and lunar eclipses:
-  <https://science.nasa.gov/eclipses/>
+- On how solar and lunar eclipses happen, and why they do not occur every month:
+  NASA Space Place — Lunar Eclipses and Solar Eclipses,
+  <https://spaceplace.nasa.gov/eclipses/en/> (S-183).
+- On eclipse geometry, why eclipses are predictable, and how to watch them safely:
+  NASA — Eclipses, <https://science.nasa.gov/eclipses/> (S-184).

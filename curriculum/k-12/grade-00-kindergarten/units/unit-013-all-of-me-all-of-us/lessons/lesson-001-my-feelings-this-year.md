@@ -89,7 +89,7 @@ using a word, a drawing, or a movement, noticing how much they have grown.
 
 Everyone feels many feelings in a year — happy, sad, proud, scared, calm, and more.
 Today you look back at your year and tell how you felt, using a word, a drawing, or a
-movement. Remembering your feelings helps you see how much you have grown.
+movement. Remembering your feelings helps you see how much you have grown (S-001).
 
 ## Materials
 
@@ -146,4 +146,4 @@ them.
 ## Resources
 
 - CASEL SEL Framework (foundational competencies):
-  <https://casel.org/fundamentals-of-sel/>
+  <https://casel.org/fundamentals-of-sel/> (S-001)

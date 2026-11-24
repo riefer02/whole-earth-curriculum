@@ -61,7 +61,7 @@ summary: >-
   Learners discover why water matters for the body, notice their own thirst, and
   practice drinking water when thirsty. They also learn, with care and honesty, that
   clean water is precious and not available to everyone — so water is honored, never
-  wasted, and shared.
+  wasted, and shared (S-049).
 cross_cutting_lenses:
   - physical
   - ethics
@@ -94,8 +94,8 @@ when there is enough.
 
 Your body is mostly water, and it needs water every single day — to play, to think, to
 stay cool in the heat, and to stay well. When your mouth feels dry and your body says
-"drink," that is **thirst**, your body's way of asking for water. Today you will learn why
-water matters and practice listening to your own thirst.
+"drink," that is **thirst**, your body's way of asking for water. Today you will learn
+why water matters and practice listening to your own thirst.
 
 ## Materials
 
@@ -187,5 +187,5 @@ a grown-up where your family's water comes from and one way to save it.
 
 ## Resources
 
-- World Health Organization, "Drinking-water" (safe water and health):
-  <https://www.who.int/news-room/fact-sheets/detail/drinking-water>
+- On safe drinking water and health, and on how many people still lack it: WHO —
+  Drinking-water fact sheet (S-049).

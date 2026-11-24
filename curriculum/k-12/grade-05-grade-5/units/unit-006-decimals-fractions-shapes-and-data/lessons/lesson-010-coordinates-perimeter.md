@@ -96,7 +96,7 @@ A community garden plots a **rectangle** of land for planting. Its four corners 
 (5,1), (5,4), and (1,4). To fence it, the gardeners need the **perimeter** — the distance all
 the way around. From the coordinates they read the sides: **4** units across and **3** units
 up, so the fence is **4 + 3 + 4 + 3 = 14** units. Coordinates turn a drawing into numbers a
-builder, a farmer, or a town planner can use to plan a fence, a path, or a plot of land.
+builder, a farmer, or a town planner can use (S-026) to plan a fence, a path, or a plot of land.
 
 ## Materials
 
@@ -161,6 +161,6 @@ its sides, then add them to find the distance around it.
 
 ## Resources
 
-- Perimeter via coordinates is standard in elementary mathematics; see John A. Van de Walle,
-  *Elementary and Middle School Mathematics* (10th ed., 2019). The fairness value of measuring
-  shared space equally is a commitment (`docs/philosophy.md` §4).
+- On perimeter, and on reading side lengths from coordinates in the upper elementary
+  grades: Van de Walle, Karp & Bay-Williams — *Elementary and Middle School
+  Mathematics* (S-026).

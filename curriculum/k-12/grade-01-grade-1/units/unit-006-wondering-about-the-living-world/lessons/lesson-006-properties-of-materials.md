@@ -90,7 +90,7 @@ their senses. They sort and describe real objects by their properties.
 A spoon, a cup, a leaf, and a stone are all things you can hold. But they are not the
 same: the spoon is hard and shiny, the cup might be light, the leaf is soft, the
 stone is heavy. What a thing is made of — its **material** — gives it its
-**properties**, and properties are why we choose one material for one job and another
+**properties** (S-035), and properties are why we choose one material for one job and another
 for another.
 
 ## Materials
@@ -158,7 +158,5 @@ that is light. Tell a grown-up what each thing is made of and what it is good fo
 
 ## Resources
 
-- BBC Bitesize (KS1 Science), "Describing materials" — materials have properties
-  (soft, hard, shiny) that describe how they look, feel, and behave, and we choose
-  the right material for each job.
-  https://www.bbc.co.uk/bitesize/topics/zrssgk7/articles/zvpysk7
+- On materials and their properties — soft, hard, shiny — and choosing a material for
+  a job: BBC Bitesize (KS1 Science), "Describing materials" (S-035).

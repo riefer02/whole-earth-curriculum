@@ -102,7 +102,7 @@ Think of a place you know well — a river, a market, a road, or your school. It
 always the way it is now. Once the river had no bridge; once the market was only a few
 stalls; once the school was one small room. Something made it change — a bridge was
 built, a road arrived, more people came. Noticing the change is the first step; finding
-the **cause** is the second. That is how the story of any place is told.
+the **cause** is the second. That is how the story of any place is told (S-089).
 
 ## Materials
 
@@ -197,7 +197,6 @@ made it change. Tell them one change and one cause you found.
 
 ## Resources
 
-- Our World in Data, "Urbanization" — documents the long, global growth of towns and
-  cities, many of which began and grew at river crossings, ports, and trade routes,
-  supporting the idea that a crossing or port can cause a place to grow.
-  https://ourworldindata.org/urbanization
+- On towns and cities growing over centuries, many of them at river crossings, ports and
+  trade routes: Our World in Data — Urbanization (S-089).
+

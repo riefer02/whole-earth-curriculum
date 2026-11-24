@@ -98,7 +98,7 @@ their body — and a portfolio artifact.
 Your body has been sending you signals all along — a rumbling tummy, a dry mouth,
 heavy eyelids. Today you will draw them all on one map, the way a traveler marks the
 roads on a journey. When you know the map, you can read your body's signals and answer
-them before they get loud.
+them before they get loud (S-003).
 
 ## Materials
 
@@ -157,8 +157,7 @@ may be shared only if the learner chooses.
 
 ## Resources
 
-- World Health Organization — global health and wellbeing reference:
-  <https://www.who.int/>
+- On health and wellbeing: World Health Organization (S-003).
 
 ## Home connection
 

@@ -86,11 +86,11 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners learn what to do when sources **agree** — and when they **disagree**. A worked
-example compares two sources on how much of Earth the oceans cover: they agree on "about
-seven-tenths" and disagree only on the exact number, so the claim is likely true but the
+example compares two sources on how much of Earth the oceans cover (S-214): they agree
+on "about seven-tenths" and disagree only on the exact number, so the claim is likely true but the
 number stays open. Learners then sort source pairs into **overlap** and **gap**, learning that
-disagreement is information — a sign to say **"not sure yet"** and look for a third source,
-never to hide the gap.
+disagreement is information — a sign to say **"not sure yet"** and look for a third
+source, never to hide the gap (S-011).
 
 ## Objectives
 
@@ -171,11 +171,10 @@ source.
 
 ## Resources
 
-- Oceans cover roughly 70–71% of Earth's surface — a figure that appears in slightly different
-  forms across references (NASA, USGS, NOAA), which is exactly why it makes a good worked
-  example of agreement-with-a-small-gap. Children's sleep recommendations are given as a range
-  by health bodies (for example, WHO and national sleep foundations), and the breakfast–focus
-  question is genuinely "mixed evidence" in the research literature — useful real cases where
-  honest sources differ. The "overlap and gap" routine follows the standard's "noting where
-  they agree or disagree"; on modeling before practice, see Kirschner, Sweller & Clark (2006),
-  <https://doi.org/10.1207/s15326985ep4102_1>.
+- On the ocean covering about 71 per cent of Earth's surface: NOAA — How many oceans are
+  there?, <https://oceanservice.noaa.gov/facts/howmanyoceans.html> (S-214).
+- On health bodies giving sleep recommendations as a range rather than one number: AASM
+  — Recommended Amount of Sleep for Pediatric Populations,
+  <https://aasm.org/resources/pdf/pediatricsleepdurationconsensus.pdf> (S-050).
+- On modelling the overlap-and-gap routine before learners use it: Kirschner, Sweller &
+  Clark (2006), <https://doi.org/10.1207/s15326985ep4102_1> (S-011).

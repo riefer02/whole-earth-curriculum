@@ -76,7 +76,7 @@ last_updated: 2026-08-16
 
 Learners read a short text and answer the first two of the five great reading
 questions: **who** the text is about and **what** happened. These two questions are
-the doorway into every story and every notice.
+the doorway into every story and every notice (S-040).
 
 ## Objectives
 
@@ -144,5 +144,5 @@ and what happened.
 
 ## Resources
 
-- National Reading Panel (2000), reading comprehension — question answering is a
-  core comprehension strategy. (Cited as a widely used evidence base.)
+- On question answering as a comprehension strategy: National Reading Panel (2000) —
+  Teaching Children to Read (S-040).

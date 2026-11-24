@@ -99,11 +99,12 @@ with one example of each.
 
 ## Connection
 
-Where does the food in your meal begin? With a plant. A **producer** — grass, a rice plant, an
-apple tree — makes its own food from **sunlight**. A **consumer** — a rabbit, a bird, or you —
-eats other living things to get energy. And when anything dies, a **decomposer** — a mushroom, an
-earthworm, a tiny beetle — breaks it down and returns it to the **soil**, which feeds the plant
-again. These three jobs keep every ecosystem going, in a circle with no waste.
+Where does the food in your meal begin? With a plant. A **producer** — grass, a rice
+plant, an apple tree — makes its own food from **sunlight**. A **consumer** — a rabbit,
+a bird, or you — eats other living things to get energy. And when anything dies, a
+**decomposer** — a mushroom, an earthworm, a tiny beetle — breaks it down and returns it
+to the **soil**, which feeds the plant again. These three jobs keep every ecosystem
+going, in a circle with no waste (S-153).
 
 ## Materials
 
@@ -142,7 +143,7 @@ gory detail, and do not let "consumer" sound like a judgment.
 **The skill.** Name each part's job, then point the arrows that close the cycle.
 
 Model the cycle with the chart and arrows, then guide sorting before independent drawing
-(Kirschner, Sweller & Clark, 2006).
+(Kirschner, Sweller & Clark, 2006, S-011).
 
 **Access:** describe the cards for a learner who is blind or has low vision; a learner
 who does not speak sorts the cards and points the arrows; acting out each role works for
@@ -193,6 +194,8 @@ ecosystem.
 
 ## Resources
 
-- National Geographic Education, "Decomposers" — decomposers break down dead organisms and
-  return nutrients to the soil, completing the cycle that producers use.
-  https://education.nationalgeographic.org/resource/decomposers/
+- On decomposers breaking down dead organisms and returning nutrients to the soil,
+  completing the cycle producers use: National Geographic Education — Decomposers
+  (S-153).
+- On worked examples and guided practice: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

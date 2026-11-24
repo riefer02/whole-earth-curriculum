@@ -115,7 +115,7 @@ as one open way to name family. Read the procedure aloud.
 1. **Gather (5 min).** Sit in a circle. Think: what groups are you part of? You belong
    to more than one!
 2. **Meet the word "community" (10 min).** A community is a group of people who belong
-   together. Name some: your family — the people who care for you — your class, your
+   together (S-158). Name some: your family — the people who care for you — your class, your
    neighborhood, a team, a place you go with others. Share one you belong to.
 3. **Draw your communities (15 min).** Draw a circle for each community you belong to.
    Inside each circle, draw or write who is in it. How many circles do you have?
@@ -137,3 +137,8 @@ as one open way to name family. Read the procedure aloud.
   they belong to?
 - **Artifact (portfolio):** The community circles drawing, kept in the learner's
   portfolio.
+
+## Resources
+
+- On belonging and learning to live together as a foundation of education: UNESCO —
+  Learning to Live Together (S-158).

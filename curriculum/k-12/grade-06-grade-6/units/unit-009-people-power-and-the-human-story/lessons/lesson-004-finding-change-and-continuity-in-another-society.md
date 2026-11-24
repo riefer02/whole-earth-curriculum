@@ -131,11 +131,11 @@ portfolio artifact. See `docs/facilitation.md`.
 2. **Meet the three societies (10 min).** Read the three cards. *Māori settlement in
    Aotearoa (about 1300–1500):* ancestors of the Māori voyaged across the Pacific and
    settled Aotearoa (New Zealand); they adapted crops and life to a colder land, while
-   **whakapapa** (genealogy) and oral tradition carried their history forward. *Edo Japan
+   **whakapapa** (genealogy) and oral tradition carried their history forward (S-202). *Edo Japan
    (1600–1700):* after long wars, peace arrived; cities like Edo grew and new roads
-   connected the land, while rice farming and family and community life stayed steady.
+   connected the land, while rice farming and family and community life stayed steady (S-270).
    *Ming China (about 1368–1500):* a new dynasty rebuilt the land, printed books, and sent
-   fleets across the Indian Ocean, while farming, family, and classical learning continued.
+   fleets across the Indian Ocean, while farming, family, and classical learning continued (S-271).
 3. **Choose and record (20 min).** Pick one society. On your note, write the society and the
    hundred years, then fill two boxes: **one change** (what became different) and **one
    continuity** (what stayed the same) — each with a reason.
@@ -174,3 +174,7 @@ span.
   He voyages and printing, is standard in Chinese history (see the Palace Museum collections,
   <https://en.dpm.org.cn/>). Dates are approximations that scholars revise as new evidence
   appears; the change-and-continuity idea, not the exact year, is what matters here.
+- On Māori settlement of Aotearoa and the centrality of whakapapa: Te Ara — The Encyclopedia of New Zealand (Ranginui and Papatūānuku) (S-202).
+- On change and continuity in Edo Japan, 1600–1700: Tokyo National Museum — Edo period collections (S-270).
+- On change and continuity in Ming China, about 1368–1500: The Palace Museum (Forbidden City) — Ming dynasty collections (S-271).
+

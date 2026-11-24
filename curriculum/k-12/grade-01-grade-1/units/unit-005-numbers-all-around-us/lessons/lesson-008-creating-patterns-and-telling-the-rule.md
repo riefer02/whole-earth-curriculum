@@ -95,7 +95,7 @@ A beadworker doesn't just copy patterns — she invents them and can tell you he
 tile maker designs a new mosaic and can say how it goes. To *make* a pattern and
 *tell its rule* is to be an author of order — and the same rule can be carried from
 beads into claps into colors, because the rule is the pattern's heart, not its
-material.
+material (S-020).
 
 ## Materials
 
@@ -166,5 +166,5 @@ grown-up its rule, then see if they can clap the same rule.
 ## Resources
 
 - Clements, D. H., & Sarama, J. (2014). *Learning and Teaching Early Math* (2nd
-  ed.). Routledge. (Creating and verbalizing repeating patterns as early algebraic
+  ed.). Routledge (S-020). (Creating and verbalizing repeating patterns as early algebraic
   reasoning.)

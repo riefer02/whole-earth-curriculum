@@ -158,7 +158,7 @@ adults.
    one, your whole life long. It belongs to you. You have cared for it in this unit, and
    caring for it also means knowing it is yours.
 2. **Your body belongs to you (10 min).** Because your body is yours, no one may touch
-   you in a way you do not want. The parts of your body that your clothes cover are
+   you in a way you do not want (S-060). The parts of your body that your clothes cover are
    **private** — they belong only to you. Other people's bodies belong to them, too, and
    we treat every body with care and respect.
 3. **"No" and "stop" are always okay (15 min).** You may always say "no, thank you" or
@@ -202,3 +202,10 @@ adults.
 
 With a trusted grown-up, practice saying "my body belongs to me" and "no, thank you."
 Talk together about the trusted adults you could tell if something ever felt wrong.
+
+## Resources
+
+- On children's right to be protected from harm and to be heard: UNICEF — United
+  Nations Convention on the Rights of the Child (child-friendly) (S-060).
+- On protective adults and telling a trusted adult as central to child safety: UNICEF —
+  Violence against children (S-196).

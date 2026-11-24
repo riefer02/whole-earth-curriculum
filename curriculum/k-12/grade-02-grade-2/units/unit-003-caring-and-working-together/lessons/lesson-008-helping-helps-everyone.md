@@ -89,12 +89,12 @@ when one person helps, the whole group is stronger, and the helper is helped too
 
 ## Connection
 
-When you help water the garden, everyone gets vegetables — and you do too. When you
-help tidy a shared space, everyone has a nicer place — and you do too. When you share
-what you have, the whole group has enough. Helping is not a one-way gift that leaves
-you with less; it is like a web where care travels in every direction. People
-everywhere have always known this: when we help each other, we all rise. Today you
-will see it with your own hands.
+When you help water the garden, everyone gets vegetables — and you do too. When you help
+tidy a shared space, everyone has a nicer place — and you do too. When you share what
+you have, the whole group has enough. Helping is not a one-way gift that leaves you with
+less; it is like a web where care travels in every direction. People everywhere have
+always known this: when we help each other, we all rise (S-163). Today you will see it
+with your own hands.
 
 ## Materials
 
@@ -151,3 +151,8 @@ they wish. Read the procedure aloud; model one "I was helped… I helped…" pai
 
 At home, do one thing that helps the whole family — and notice how it comes back to
 you too — then tell a grown-up what you noticed.
+
+## Resources
+
+- On mutual aid — cooperation and reciprocity — as a widespread human practice:
+  Kropotkin (1902) — Mutual Aid: A Factor of Evolution (S-163).

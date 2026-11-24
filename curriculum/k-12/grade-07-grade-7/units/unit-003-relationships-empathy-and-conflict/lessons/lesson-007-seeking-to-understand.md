@@ -103,7 +103,7 @@ you say back what you heard ("so it sounds like you…"), you ask a question you
 don't know the answer to ("what is it about this that matters most to you?"), and you check
 ("did I get that right?"). This is how people across every culture bridge real differences —
 not by agreeing, but by understanding. Understanding does not mean you have changed your
-mind; it means you have *seen* the other person, and that is the honest first move.
+mind; it means you have *seen* the other person, and that is the honest first move (S-231).
 
 ## Materials
 
@@ -179,3 +179,5 @@ repeat back what you heard, then ask a real question — and notice what changes
   <https://casel.org/fundamentals-of-sel/>
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On perspective-taking and empathic understanding as distinct from agreement: Jean Decety & Jason M. Cowell — Empathy, Perspective-Taking, and Morality (S-231).
+

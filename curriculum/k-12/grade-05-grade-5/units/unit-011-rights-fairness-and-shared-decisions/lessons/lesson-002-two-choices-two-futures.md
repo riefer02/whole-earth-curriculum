@@ -82,9 +82,9 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners practice **comparing two possible choices and their consequences for others
-before deciding**. They meet a simple tool — the **decision fork** — analyze a worked
+before deciding** (S-001). They meet a simple tool — the **decision fork** — analyze a worked
 example, then work through choice scenarios in pairs and record their own two-futures
-comparison.
+comparison (S-011).
 
 ## Objectives
 
@@ -167,7 +167,8 @@ consequence for the other person for each — then decide.
 
 ## Resources
 
-- Responsible decision-making (identifying and comparing consequences) is a CASEL core
-  competency: <https://casel.org/fundamentals-of-sel/>
-- On modeling a reasoning routine before independent practice: Kirschner, Sweller & Clark
-  (2006), <https://doi.org/10.1207/s15326985ep4102_1>
+- On responsible decision-making — identifying and comparing the consequences of
+  choices — as a core competency: CASEL, <https://casel.org/fundamentals-of-sel/>
+  (S-001).
+- On modelling a reasoning routine before independent practice: Kirschner, Sweller &
+  Clark (2006), <https://doi.org/10.1207/s15326985ep4102_1> (S-011).

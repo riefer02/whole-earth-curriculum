@@ -101,7 +101,7 @@ safety-net idea through a **coral reef, a forest, and a farm field**, seeing var
 Imagine a rope made of many strands. Cut one strand and the rope still holds. Now imagine a
 rope of a single strand — cut it and it snaps. An ecosystem with many kinds of living things is
 the many-stranded rope: if one kind is harmed, the others still hold the system up. That
-variety of life is called **biodiversity**, and it is a living thing's safety net.
+variety of life is called **biodiversity**, and it is a living thing's safety net (S-279).
 
 ## Materials
 
@@ -177,3 +177,5 @@ what would still hold?
   (e.g., the Irish potato famine and crop-disease risk) is a standard, age-appropriate example.
   The safety-net metaphor and hopeful framing follow `docs/facilitation.md` and
   `docs/philosophy.md` §12.
+- On biodiversity as the variety of life and the foundation of healthy ecosystems: Convention on Biological Diversity (CBD) (S-279).
+

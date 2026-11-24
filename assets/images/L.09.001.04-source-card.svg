@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-001-04-source-card desc-L-09-001-04-source-card">
+  <title id="title-L-09-001-04-source-card">Four questions to ask of a source card</title>
+  <desc id="desc-L-09-001-04-source-card">A source card shows a byline, a funding line, a method line, an empty data box, and a conclusion. Leader lines join four numbered questions on the right to the parts of the card they are about: who made it points to the byline, who paid points to the funding line, what is left out points to the empty data box, and who gains points to the conclusion. A footer says a disclosed interest can be checked, a hidden one cannot.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Read the Card, Not Just the Claim</text>
+
+  <!-- the card -->
+  <rect x="24" y="78" width="264" height="356" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="24" y="78" width="264" height="38" rx="8" fill="#eef1f3"/>
+  <rect x="24" y="102" width="264" height="14" fill="#eef1f3"/>
+  <text x="44" y="103" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">SOURCE CARD</text>
+
+  <text x="44" y="140" font-family="sans-serif" font-size="12" fill="#222222">by A. Rivera, 2026</text>
+  <text x="44" y="186" font-family="sans-serif" font-size="12" fill="#222222">funding: ___</text>
+  <text x="44" y="214" font-family="sans-serif" font-size="12" fill="#222222">method: ___</text>
+  <rect x="44" y="230" width="120" height="46" rx="3" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <text x="53" y="258" font-family="sans-serif" font-size="12" fill="#4f6d7a">no data shown</text>
+  <text x="44" y="304" font-family="sans-serif" font-size="12" fill="#222222">conclusion: ___</text>
+  <line x1="44" y1="330" x2="240" y2="330" stroke="#d9d4cb" stroke-width="2"/>
+  <line x1="44" y1="352" x2="240" y2="352" stroke="#d9d4cb" stroke-width="2"/>
+  <line x1="44" y1="374" x2="200" y2="374" stroke="#d9d4cb" stroke-width="2"/>
+
+  <!-- leaders: from each feature to its question -->
+  <line x1="172" y1="136" x2="292" y2="129" stroke="#4f6d7a" stroke-width="1.5"/>
+  <line x1="114" y1="182" x2="292" y2="197" stroke="#4f6d7a" stroke-width="1.5"/>
+  <line x1="164" y1="253" x2="292" y2="265" stroke="#4f6d7a" stroke-width="1.5"/>
+  <line x1="146" y1="300" x2="292" y2="333" stroke="#4f6d7a" stroke-width="1.5"/>
+  <circle cx="172" cy="136" r="3" fill="#4f6d7a"/>
+  <circle cx="114" cy="182" r="3" fill="#4f6d7a"/>
+  <circle cx="164" cy="253" r="3" fill="#4f6d7a"/>
+  <circle cx="146" cy="300" r="3" fill="#4f6d7a"/>
+
+  <!-- the questions -->
+  <text x="298" y="133" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">1 who made it?</text>
+  <text x="298" y="201" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">2 who paid?</text>
+  <text x="298" y="269" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">3 what is left out?</text>
+  <text x="298" y="337" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">4 who gains?</text>
+
+  <text x="256" y="464" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">A disclosed interest can be checked.</text>
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">A hidden one cannot.</text>
+</svg>

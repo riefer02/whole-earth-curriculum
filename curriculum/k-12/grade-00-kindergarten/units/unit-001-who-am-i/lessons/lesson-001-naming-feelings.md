@@ -88,7 +88,7 @@ or a movement.
 Everyone has feelings, every single day. When you know what you are feeling, you can
 share it, ask for help, and understand the people around you — at home, in a
 classroom, or anywhere people are together. Naming a feeling is the first step to
-taking care of it.
+taking care of it (S-015).
 
 ## Materials
 
@@ -121,7 +121,7 @@ name what they feel. Offer another word alongside theirs.
 - *Social-emotional:* a named feeling is easier to share and easier to soothe.
 - *Ethics:* other people have feelings too, and we cannot see them from outside — so we
   ask.
-- *Global:* families and cultures show feeling differently — loudly, quietly, with the
+- *Global:* families and cultures show feeling differently (S-160) — loudly, quietly, with the
   whole body, not at all. None of these is a better way to feel.
 
 **The skill.** Prepare the cards, mirror, and circle, then let the learner lead the
@@ -165,3 +165,5 @@ Thank them, stay calm, and follow your setting's safeguarding practice.
 
 - CASEL SEL Framework (foundational competencies):
   <https://casel.org/fundamentals-of-sel/>
+- On naming, expressing, and regulating feelings: RULER Approach — Yale Center for Emotional Intelligence (S-015).
+- On how families and cultures show feeling differently (display rules): Ekman & Friesen — The Repertoire of Nonverbal Behavior (S-160).

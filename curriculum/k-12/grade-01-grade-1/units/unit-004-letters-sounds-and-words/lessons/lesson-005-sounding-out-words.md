@@ -87,7 +87,7 @@ guided practice in their own writing system.
 Reading is like putting beads on a string: you say each part, one after another,
 then slide them together into one word. A cook follows steps in order to make a
 dish, and a reader follows marks in order to make a word. Today you will learn to
-sound out and blend — the heart of decoding.
+sound out and blend — the heart of decoding (S-040).
 
 ## Materials
 
@@ -147,3 +147,8 @@ device.
 
 Find one word in your home writing system and sound it out for someone at home,
 mark by mark.
+
+## Resources
+
+- On systematic, explicit phonics — sounding out and blending — as the evidence-based
+  route to decoding: National Reading Panel (2000) — Teaching Children to Read (S-040).

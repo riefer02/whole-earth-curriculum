@@ -38,6 +38,10 @@ do not need to edit agent state.
   JSON Schema in `schema/`. See [`docs/schema.md`](docs/schema.md).
 - Every lesson must trace to standards via its `objectives:` field.
 - Keep the four pillars and cross-cutting lenses visible in every lesson.
+- Cite claims. Use a source that is already in `sources/sources.yaml` — search it with
+  `npm run sources:find -- <term>` — cite it inline as `(S-nnn)`, and list it in that
+  lesson's `## Resources`. Never invent a source, and never cite one that does not
+  directly support the sentence: a misapplied citation is worse than no citation.
 
 ## Validating
 

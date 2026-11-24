@@ -100,7 +100,7 @@ Energy is everywhere, wearing different clothes. The rolling ball is **kinetic**
 stretched bow, ready to spring, is **potential**; the steaming bowl of soup is
 **thermal**; the rice and fuel that power your day are **chemical**; the current that
 lights a lamp is **electrical**. From a campfire to a charging phone to a river
-turning a wheel, the same energy keeps changing its form. Today you learn to name all
+turning a wheel, the same energy keeps changing its form (S-245). Today you learn to name all
 five and watch them change.
 
 ## Materials
@@ -135,7 +135,7 @@ benefit and care. See [`docs/facilitation.md`](../../../../../../docs/facilitati
 1. **Gather (5 min).** Where is energy in this room right now? Point to something
    moving, something warm, something plugged in. Write three guesses.
 2. **Meet the five forms (10 min).** Look at the diagram. **Kinetic** energy is
-   energy of motion. **Potential** energy is stored — a ball held high, a bow pulled
+   energy of motion (S-255). **Potential** energy is stored — a ball held high, a bow pulled
    back. **Thermal** energy is heat. **Chemical** energy is stored in food and fuel.
    **Electrical** energy moves through wires as moving charges. Point to each and say
    its example aloud.
@@ -175,3 +175,6 @@ someone what you found and one change you saw energy make.
   <https://www.bbc.co.uk/bitesize/topics/zc3g87h/articles/zg2sn9q>
 - U.S. Energy Information Administration (EIA), "Forms of energy" — a clear,
   age-accessible reference: <https://www.eia.gov/kids/what-is-energy/forms-of-energy.php>
+- On the forms of energy: EIA Energy Kids — Forms of Energy (S-255).
+- On energy stores and transfers: BBC Bitesize (KS3) — Energy: energy stores (S-245).
+

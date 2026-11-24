@@ -103,7 +103,7 @@ ears**, or your **jaw was clenched**, or your **stomach felt tight**. That is yo
 answering your mind: the feeling we call **stress** can show up as the sensation we call
 **tension**. Whether you live in a busy city, a fishing village, or a mountain farm, and
 whether the stress is small or large, your body keeps its own record — in the places that
-tighten.
+tighten (S-338).
 
 ## Materials
 
@@ -177,3 +177,5 @@ signal you noticed in yourself today.
   <https://casel.org/fundamentals-of-sel/>. The stress-to-tension link reflects the body's
   stress response, which is the same across cultures even while the situations that trigger
   it differ.
+- On stress showing up as muscle tension in the body: American Psychological Association — Stress effects on the body (S-338).
+

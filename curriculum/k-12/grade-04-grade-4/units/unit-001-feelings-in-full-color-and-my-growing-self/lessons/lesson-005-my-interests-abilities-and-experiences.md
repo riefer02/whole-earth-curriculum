@@ -99,10 +99,10 @@ Who are you? Part of the answer is what you **love** — your **interests**, lik
 running, or caring for animals. Part is what you **can do** — your **abilities**, like
 reading aloud, making people laugh, or fixing things. And part is what you have **lived
 through** — your **experiences**, like moving to a new place, losing a tooth, or helping
-a neighbor. Together these three petals make the flower that is *you*. A child who herds
-goats on a mountainside, a child who swims in a warm sea, and a child who sells fruit in
-a market are each shaped by what they love, what they can do, and what they have lived —
-different petals, same three-part flower.
+a neighbor. Together these three petals make the flower that is *you* (S-155). A child
+who herds goats on a mountainside, a child who swims in a warm sea, and a child who
+sells fruit in a market are each shaped by what they love, what they can do, and what
+they have lived — different petals, same three-part flower.
 
 ## Materials
 
@@ -118,11 +118,11 @@ different petals, same three-part flower.
 
 ## Facilitator note
 
-The goal is a *positive, true* sense of self — not a boast and not a competition.
-Emphasize that every learner has all three petals, and no petal is "better" than
-another: an ability to be a good friend is as real as an ability to run fast. Model your
-own three petals first (worked example). Some learners may have experiences that are
-heavy or private; let them choose what to share and offer the option to keep a petal
+The goal is a *positive, true* sense of self (S-001) — not a boast and not a
+competition. Emphasize that every learner has all three petals, and no petal is "better"
+than another: an ability to be a good friend is as real as an ability to run fast. Model
+your own three petals first (worked example). Some learners may have experiences that
+are heavy or private; let them choose what to share and offer the option to keep a petal
 private. See `docs/facilitation.md` on holding difficult topics safely.
 
 ## Procedure
@@ -165,5 +165,7 @@ is, and see if it matches what you wrote.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On self-awareness, including recognizing one's own strengths: CASEL — Fundamentals of
+  Social and Emotional Learning (S-001).
+- On the sense of self as something that develops through childhood rather than a
+  finished fact: Erikson — Childhood and Society (S-155).

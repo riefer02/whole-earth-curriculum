@@ -96,7 +96,7 @@ counting, judging, or ranking any body.
 Food is **fuel**. Just as a truck carrying a heavy load uses more fuel than a bicycle on a flat
 road, a bigger body and a more active day use more energy than a smaller body at rest — and a
 body that is *growing* is like a building under construction: it needs extra material and extra
-fuel on top of everything else. There is no single "right" amount of food for every person,
+fuel on top of everything else (S-285). There is no single "right" amount of food for every person,
 because bodies and days differ — the farmer hauling sacks, the student walking kilometers to
 school, and the fisher paddling at dawn all need different amounts. Energy needs are
 individual and real, not a number to compete over.
@@ -170,3 +170,5 @@ more fuel. Share your own-day sentence if you like.
   <https://www.fao.org/4/y5686e/y5686e00.htm>
 - On food as the body's energy and growth material: WHO — Healthy diet fact sheet,
   <https://www.who.int/news-room/fact-sheets/detail/healthy-diet>
+- On how human energy requirements vary with age, body size, and physical activity: Human energy requirements: Report of a Joint FAO/WHO/UNU Expert Consultation (S-285).
+

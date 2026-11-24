@@ -97,7 +97,7 @@ an **honor statement** of their own. Shame has no place here; belonging does.
 
 In a playground, a classroom, or a family, every body is different — some grow tall early,
 some later; some walk, some roll in a wheelchair; some hear with the help of a device, some
-move with a prosthetic. None of these is "less"; each is a real, complete way to be a person.
+move with a prosthetic. None of these is "less"; each is a real, complete way to be a person (S-342).
 A group that makes room for **every body** is not just kinder — it is *stronger and more
 interesting*. Honoring every pace and every ability is something you can practice every
 single day.
@@ -135,7 +135,7 @@ without ranking and holding difficult topics safely.
    with a prosthetic leg. All of them are playing **together, joyfully**. None is missing
    something the others have and is "less"; each is a full person. A wheelchair, a hearing
    aid, a prosthetic are **tools that help a body do what it wants** — just like glasses help
-   eyes see.
+   eyes see (S-099).
 3. **Talk honor (10 min).** With a partner, finish this sentence in two ways: "Every body is
    honored when we ___." (Ideas: wait for a slower runner, make room for a wheelchair, speak
    so a friend with a hearing aid can see your face, never tease about size.) Share one
@@ -171,3 +171,12 @@ different from your own — and one way you already do.
   asks what a community can *change* to include everyone rather than what a person "lacks."
   For accessible classroom framing, see the United Nations Convention on the Rights of
   Persons with Disabilities (CRPD): <https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html>
+
+- On inclusive access to physical activity and sport as a right for every person,
+  whatever their ability — the egalitarian frame this lesson holds (a value commitment, not
+  a factual claim): UNESCO — International Charter of Physical Education, Physical Activity
+  and Sport, <https://www.unesco.org/en/sport-and-anti-doping/international-charter-sport>
+  (S-342).
+- On wheelchairs, hearing aids, prosthetic limbs and glasses as ordinary assistive
+  products used by people worldwide: WHO — Assistive technology fact sheet,
+  <https://www.who.int/news-room/fact-sheets/detail/assistive-technology> (S-099).

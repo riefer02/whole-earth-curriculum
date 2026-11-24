@@ -97,7 +97,7 @@ Not everything you read or hear is equally trustworthy. A claim that a certain t
 colds, that a certain phone is the best, that a certain event happened — the same claim
 can come from a doctor or a stranger, from a newsroom or a seller, with proof or with
 none. Before you believe, you check three things: **who** wrote it, **why** they wrote it,
-and **what evidence** they give. This habit protects you and the people you care about,
+and **what evidence** they give (S-217). This habit protects you and the people you care about,
 whether the claim arrives by paper in Bamako, by radio in Manila, or by phone anywhere.
 
 ## Materials
@@ -170,3 +170,5 @@ aloud with someone at home: who, why, and what proof?
   "News & Media Literacy," <https://www.commonsense.org/education/digital-citizenship/topic/news-and-media-literacy>
 - On modeling before practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On judging a source by its author, purpose, and evidence: UNESCO — Media and Information Literacy (MIL) (S-217).
+

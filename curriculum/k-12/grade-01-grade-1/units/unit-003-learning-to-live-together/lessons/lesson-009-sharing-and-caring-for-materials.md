@@ -87,7 +87,7 @@ up, and putting them away. They see that sharing is fair, and care makes things 
 
 Shared things — crayons, books, toys, water, the playground — work for everyone only
 when everyone uses them fairly and gently. When you share, everyone gets a turn; when
-you care, things last longer and the Earth is spared waste. Caring for shared things
+you care, things last longer and the Earth is spared waste (S-154). Caring for shared things
 is caring for each other.
 
 ## Materials
@@ -138,3 +138,8 @@ doctor" check.
   and handle materials gently?
 - **Performance (routine):** Did the learner complete a "materials doctor" check and
   put materials away correctly?
+
+## Resources
+
+- On reduce, reuse, recycle — caring for things so less is thrown away: U.S. EPA —
+  Reduce, Reuse, Recycle (S-154).

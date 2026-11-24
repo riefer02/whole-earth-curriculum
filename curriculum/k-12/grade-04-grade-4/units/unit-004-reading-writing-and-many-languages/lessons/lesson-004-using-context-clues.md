@@ -92,7 +92,7 @@ Have you ever met a word you did not know — on a sign, in a message, in a stor
 figured it out anyway? You already used context clues. The words around an unfamiliar
 word are like the people around a stranger at a gathering: they tell you who the
 stranger is. Readers do not stop at every unknown word; they read around it, gather
-clues, and guess — then keep reading to check.
+clues, and guess — then keep reading to check (S-040).
 
 ## Materials
 
@@ -109,8 +109,8 @@ clues, and guess — then keep reading to check.
 
 Using context clues is a taught skill, so model it with a worked example: read a
 clue-rich sentence, circle the unfamiliar word, underline the clue words, and think
-aloud about the guess (Kirschner, Sweller & Clark, 2006). Teach the four clue kinds
-explicitly — definition ("a zephyr, or a soft wind"), synonym ("a zephyr, a gentle
+aloud about the guess (Kirschner, Sweller & Clark, 2006, S-011). Teach the four clue
+kinds explicitly — definition ("a zephyr, or a soft wind"), synonym ("a zephyr, a gentle
 breeze"), example ("zephyrs, such as the morning breeze"), and contrast ("not a gale,
 but a gentle zephyr"). The point is a reasonable, checked guess, not a perfect
 dictionary answer — meaning-making over memorization. This works in any language and
@@ -160,7 +160,7 @@ out from the words around it before asking anyone or checking.
 
 ## Resources
 
-- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during
-  instruction does not work. *Educational Psychologist*, 41(2), 75–86.
-- National Reading Panel (2000). Report on vocabulary — context clues as a core
-  strategy. (Widely used evidence base.)
+- On context clues as part of evidence-based vocabulary instruction: National Reading
+  Panel — Teaching Children to Read (S-040).
+- On worked examples and explicit instruction: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

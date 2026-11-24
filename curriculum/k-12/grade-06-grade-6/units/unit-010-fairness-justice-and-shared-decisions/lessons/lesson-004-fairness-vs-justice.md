@@ -134,10 +134,10 @@ example of wrong to hope: wrongs can be, and are, corrected. See `docs/facilitat
    people often use as if they were one: **fairness** and **justice**. Try to recall:
    what do you already think each one means? (Pause.) They are close — but different.
 2. **Meet the distinction (10 min).** Look at the poster. **Fairness** is about *what
-   people deserve*: a fair share, a fair turn, fair treatment. **Justice** is about
+   people deserve*: a fair share, a fair turn, fair treatment (S-388). **Justice** is about
    *correcting wrongs and protecting rights*: when harm has happened, justice responds —
    returns what was taken, repairs the harm, and guards what people are owed so it does
-   not happen again. Fairness asks "is the share right?" Justice asks "was a wrong done,
+   not happen again (S-149). Fairness asks "is the share right?" Justice asks "was a wrong done,
    and how is it made right?"
 3. **Worked example (10 min).** Build the sort together. *Example:* "A shared harvest is
    divided so each family gets an equal portion." Fairness or justice? (Fairness — a fair
@@ -178,3 +178,6 @@ justice (a wrong made right), and tell someone the difference.
   Rights of the Child: <https://www.unicef.org/child-rights-convention>
 - On modeling a sort before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On fair shares and what people are owed: Stanford Encyclopedia of Philosophy — Distributive Justice (S-388).
+- On rights that justice protects: UN — Universal Declaration of Human Rights (S-149).
+

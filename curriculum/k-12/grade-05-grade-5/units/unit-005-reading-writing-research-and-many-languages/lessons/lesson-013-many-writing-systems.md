@@ -136,9 +136,9 @@ here are evidence; the claim that "no script is better" is a value we hold
 2. **Meet the types (10 min).** Look at the poster. Five systems, four big ideas about how
    writing can work. **Alphabets** write sounds with letters — Latin ("A a B b") and Hangul
    ("한글," where letters are grouped into syllable blocks). **Abjads** write mostly consonants
-   and let readers add the vowels — Arabic ("سلام," written right-to-left). **Abugidas** start
+   and let readers add the vowels — Arabic ("سلام," written right-to-left) (S-165). **Abugidas** start
    with a consonant and add vowel marks around it — Devanagari ("नमस्ते"). **Character scripts**
-   use a symbol for a meaning — Chinese ("水" means "water").
+   use a symbol for a meaning — Chinese ("水" means "water") (S-166).
 3. **Sort the samples (15 min).** With your group, take the script sample cards and sort them
    under the headings: **alphabet, abjad, abugida, character script**. For each one, say *why*
    you placed it there.
@@ -172,7 +172,8 @@ about how it works.
 
 ## Resources
 
-- The typology of writing systems (alphabet, abjad, abugida, logographic) is standard in
-  linguistics; see Peter T. Daniels & William Bright, eds., *The World's Writing Systems*
-  (Oxford, 1996), and John DeFrancis on Chinese writing. The claim that no script is inherently
-  better is a value commitment (`docs/philosophy.md` §4).
+- On the typology of writing systems — alphabet, abjad, abugida, and character
+  (morphosyllabic) script: Daniels & Bright (eds.) — *The World's Writing Systems*
+  (S-165).
+- On Chinese characters standing for syllables and meanings (morphemes) rather than
+  'pictures of ideas': DeFrancis — *The Chinese Language: Fact and Fantasy* (S-166).

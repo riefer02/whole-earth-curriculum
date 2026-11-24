@@ -89,7 +89,7 @@ Think of a house: the roof is one big thing, but it stands because pillars hold 
 up. A text works the same way. The main idea is the roof; the supporting details are
 the pillars — the facts and examples that keep the big idea from falling down. When a
 reader asks "what tells me more about this?", they are looking for the pillars that
-hold the roof.
+hold the roof (S-172).
 
 ## Materials
 
@@ -156,6 +156,8 @@ tells you more about that?" to gather the supporting details.
 
 ## Resources
 
-- National Reading Panel (2000), report on comprehension — identifying main ideas and
-  supporting details is a core comprehension strategy. (Cited as a widely used
-  evidence base.)
+- On text structure and the details that hold an idea up: Nell K. Duke & P. David Pearson
+  (2002) — Effective Practices for Developing Reading Comprehension (S-172).
+- On explicit, systematic reading instruction and the evidence base for it: National
+  Reading Panel (2000) — Teaching Children to Read: An Evidence-Based Assessment (S-040).
+

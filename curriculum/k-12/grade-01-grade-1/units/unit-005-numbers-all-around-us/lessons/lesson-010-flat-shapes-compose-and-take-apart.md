@@ -95,7 +95,7 @@ A tiler fits small square tiles into one big floor; a quilt maker sews triangles
 into a square; a child breaks a cracker into two halves and sees how the pieces
 once made a whole. From Chinese tangram puzzles to African patchwork and Islamic
 tile mosaics, people everywhere build big shapes out of small ones — and take them
-apart again. That is the geometry of making and unmaking.
+apart again. That is the geometry of making and unmaking (S-020).
 
 ## Materials
 
@@ -164,8 +164,8 @@ a grown-up how the small shapes made the big one.
 ## Resources
 
 - Clements, D. H., & Sarama, J. (2014). *Learning and Teaching Early Math* (2nd
-  ed.). Routledge. (Composing and decomposing shapes as foundational spatial
+  ed.). Routledge (S-020). (Composing and decomposing shapes as foundational spatial
   reasoning.)
 - Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics* (10th ed.). Pearson. (Shape composition and the
+  Middle School Mathematics* (10th ed.). Pearson (S-026). (Shape composition and the
   properties of sides and vertices.)

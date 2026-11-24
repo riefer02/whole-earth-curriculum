@@ -98,7 +98,7 @@ a build that doesn't work yet is not a failure, but a clue.
 Think of a door that sticks, or a bridge that sways, or a basket that tips over.
 Builders everywhere test what they make, watch what happens, and change one thing to
 make it work better — a smoother hinge, a stronger beam, a wider base. Testing is not
-about being wrong; it is how things get better. Today you will test your build and
+about being wrong; it is how things get better (S-070). Today you will test your build and
 change one thing to improve it.
 
 ## Materials
@@ -164,3 +164,8 @@ happened. Keep tests gentle and safe so no one fears the "test" itself.
 
 At home, find something that almost works — a wobbly chair, a leaky cup, a tilted
 shelf. With a grown-up, change one thing to make it work better, and test it again.
+
+## Resources
+
+- On changing one thing at a time and testing again — the idea of a fair test: BBC
+  Bitesize (KS2 Science), "What is a fair test?" (S-070).

@@ -97,7 +97,7 @@ Try this: scoop up a big pile of dry beans with just your two hands and carry th
 across the room. Some fall, your hands feel full, and you have to make many trips. Now
 carry the same beans in a basket or a cup. One trip, nothing spills. That is what a
 tool does — it makes a job easier or faster than your hands alone. People in every
-place and every time have made tools for exactly this reason.
+place and every time have made tools for exactly this reason (S-061).
 
 ## Materials
 
@@ -192,3 +192,8 @@ by weight and fullness. Non-speaking: point to the fuller carrier and to a pictu
 At home, try a job two ways with a grown-up — carry things by hand, then with a bag or
 basket. Tell the grown-up which was easier or faster and why. Ask them about a tool
 they use that saves them time or effort.
+
+## Resources
+
+- On a tool as anything used to make a change or help do a job: Britannica Kids — Tool
+  (S-061).

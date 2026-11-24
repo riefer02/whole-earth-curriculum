@@ -135,20 +135,20 @@ this object looks the way it does*.
 
 1. **Gather (5 min).** You designed something for a user last time. Today you read
    objects other people have designed — and each one tells a story.
-2. **Meet the three-part frame (10 min).** Look at the graphic. Every object can be
-   read in three parts:
+2. **Meet the three-part frame (10 min).** Look at the graphic. Every object can be read
+   in three parts:
    - **Materials:** what is it made of? (What grows or is found nearby?)
    - **Needs:** what is it for? (What problem did it solve?)
    - **Ideas:** what does it mean? (What beliefs, stories, or values does it carry?)
 3. **Read a worked example (10 min).** A Māori **kete** basket is woven from
-   **harakeke** (New Zealand flax), a plant that grows there — that is its material.
-   It is used for **carrying and storing food** — that is its need. Its weaving
-   patterns and the respectful way the plant is cut carry the community's **care and
-   knowledge** — that is its idea. See how the object reflects its place?
+   **harakeke** (New Zealand flax), a plant that grows there — that is its material. It
+   is used for **carrying and storing food** — that is its need. Its weaving patterns
+   and the respectful way the plant is cut carry the community's **care and knowledge**
+   — that is its idea (S-115). See how the object reflects its place?
 4. **Read another object (15 min).** Choose a gourd calabash or an Andean cloth. Fill
-   your frame: What is it made of, and why is that material available? What need does
-   it serve? What ideas — beliefs, stories, values — does it carry? Write one sentence
-   for each part.
+   your frame: What is it made of, and why is that material available? What need does it
+   serve? What ideas — beliefs, stories, values — does it carry? Write one sentence for
+   each part.
 5. **Close (5 min).** Share your three-part story. An object is a message from its
    place: what grows there, what people need, and what they value.
 
@@ -175,7 +175,7 @@ how another culture might meet the same need with different materials.
 
 ## Resources
 
-- Te Papa Tongarewa (Museum of New Zealand) — Māori taonga and weaving:
-  <https://www.tepapa.govt.nz/>
-- The Metropolitan Museum of Art, Heilbrunn Timeline of Art History:
-  <https://www.metmuseum.org/toah/>
+- On Māori taonga and weaving, including kete baskets woven from harakeke: Te Papa
+  Tongarewa — Māori arts (S-115).
+- On objects and materials in world art, including Andean textiles: The Metropolitan
+  Museum of Art — Heilbrunn Timeline of Art History (S-114).

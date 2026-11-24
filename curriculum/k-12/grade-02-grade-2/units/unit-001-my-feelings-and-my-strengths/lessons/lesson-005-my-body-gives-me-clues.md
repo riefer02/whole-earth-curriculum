@@ -93,7 +93,7 @@ practice it on their own bodies.
 You are standing in line for the swing and your shoulders are up near your ears and
 your jaw is tight. You did not decide to feel this way — your body already told you.
 Now you can read the clue: tight shoulders and a tight jaw often mean *mad* or
-*frustrated*. Your body sends clues first; the words come second. Learning to read the
+*frustrated*. Your body sends clues first; the words come second (S-338). Learning to read the
 clue lets you catch a feeling early, before it gets very big.
 
 ## Materials
@@ -161,5 +161,5 @@ big sigh) and ask kindly, "Are you feeling okay?" — then listen.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On how stress shows up in the body: American Psychological Association — Stress
+  effects on the body (S-338).

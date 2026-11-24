@@ -108,7 +108,7 @@ Grade 2.
 
 All over the world, people gather to celebrate — a harvest, a season, a graduation, a
 year's work. A **celebration** is something people do together, in every community,
-on every continent. Today is your celebration: a day to look back at who you have
+on every continent (S-056). Today is your celebration: a day to look back at who you have
 become and to see your class as the caring community it has become. It is not a
 contest. There are no winners, because no work is better than another's. Every page
 gets shown, and every child belongs.
@@ -183,3 +183,8 @@ the class has grown together, and everyone belongs.
 
 Bring your "All About Me" page home and share your celebration with your family —
 tell them one thing you grew into this year.
+
+## Resources
+
+- On celebrations and festivals as living cultural heritage: UNESCO — Intangible
+  Cultural Heritage (S-056).

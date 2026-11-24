@@ -103,7 +103,7 @@ up bigger events from before today. Your town or village has its own order of
 **landmarks**: a tree someone planted, a bridge that was built, a school that opened.
 Each one carries a clue about when it happened — a photo, a date carved on a plaque, a
 grandparent's memory. Placing them in order *and naming the clue* is how people begin
-to tell the true story of a place.
+to tell the true story of a place (S-090).
 
 ## Materials
 
@@ -205,8 +205,6 @@ say the clue for each.
 
 ## Resources
 
-- Britannica Dictionary, "landmark" — defines a landmark as an object or structure on
-  land that is easy to see and recognize (and, historically, a building or place that
-  was important in the past), supporting the idea of local landmarks as markers in a
-  place's story.
-  https://www.britannica.com/dictionary/landmark
+- On what a landmark is — an object or structure easy to see and recognize, and a place
+  important in history: Britannica Dictionary — Landmark (S-090).
+

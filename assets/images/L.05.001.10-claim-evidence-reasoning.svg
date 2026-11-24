@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t-l0500110 d-l0500110">
+  <title id="t-l0500110">Claim, evidence, reasoning</title>
+  <desc id="d-l0500110">Three stacked blocks. Claim reads "one sentence that answers your question." Evidence reads "numbers, units, and three trials." Reasoning reads "why this evidence supports the claim." Arrows connect the blocks downward, and a side note asks what else could explain the result.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Claim, Evidence, Reasoning</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">the shape of a defendable answer</text>
+
+  <!-- claim -->
+  <rect x="56" y="88" width="400" height="104" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="56" y="88" width="10" height="104" rx="5" fill="#e0a458"/>
+  <text x="84" y="120" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">CLAIM</text>
+  <text x="84" y="148" font-family="sans-serif" font-size="13" fill="#222222">one sentence that answers</text>
+  <text x="84" y="168" font-family="sans-serif" font-size="13" fill="#222222">your question</text>
+
+  <line x1="256" y1="192" x2="256" y2="212" stroke="#4f6d7a" stroke-width="2"/>
+  <polygon points="256,218 250,206 262,206" fill="#4f6d7a"/>
+
+  <!-- evidence -->
+  <rect x="56" y="216" width="400" height="104" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="56" y="216" width="10" height="104" rx="5" fill="#6b93b6"/>
+  <text x="84" y="248" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">EVIDENCE</text>
+  <text x="84" y="276" font-family="sans-serif" font-size="13" fill="#222222">numbers, units, and</text>
+  <text x="84" y="296" font-family="sans-serif" font-size="13" fill="#222222">three trials</text>
+
+  <line x1="256" y1="320" x2="256" y2="340" stroke="#4f6d7a" stroke-width="2"/>
+  <polygon points="256,346 250,334 262,334" fill="#4f6d7a"/>
+
+  <!-- reasoning -->
+  <rect x="56" y="344" width="400" height="104" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="56" y="344" width="10" height="104" rx="5" fill="#7a9e7e"/>
+  <text x="84" y="376" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">REASONING</text>
+  <text x="84" y="404" font-family="sans-serif" font-size="13" fill="#222222">why this evidence</text>
+  <text x="84" y="424" font-family="sans-serif" font-size="13" fill="#222222">supports the claim</text>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Then ask: what else could explain the result?</text>
+</svg>

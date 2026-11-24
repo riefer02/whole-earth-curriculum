@@ -86,7 +86,8 @@ Learners discover that the **same feeling can be shown in many different ways** 
 family to the next. One family greets a joy with a loud group hug; another shows it with
 quiet smiles; a third breaks into song. Learners compare three families' ways of showing
 one feeling, then draw or tell how their *own* family shows joy and sadness — always
-holding that **no family's way is better than another's**.
+holding that **no family's way is better than another's** (S-160; the
+non-ranking stance is a value the unit holds, not a finding).
 
 ## Objectives
 
@@ -169,3 +170,7 @@ notice how it is alike or different from how you show it now.
   "display rules" in emotion research (Paul Ekman and colleagues). For a
   classroom-friendly SEL framing, see CASEL's social-awareness competency:
   <https://casel.org/fundamentals-of-sel/>
+
+- On 'display rules' — how the same feeling is learned and expressed differently in
+  different families and cultures: Ekman & Friesen (1969), *Semiotica*,
+  <https://doi.org/10.1515/semi.1969.1.1.49> (S-160).

@@ -148,7 +148,7 @@ effects on people and planet* is a value this curriculum holds. See `docs/philos
    exercise, no cost, no fuel; on the planet: nothing burned, no smoke. But it is slow and
    tiring over distance or in bad weather. **Riding** (a bus, a car, a bike) — on people: fast,
    dry, carries heavy things; on the planet: burns fuel, adds smoke and traffic, and costs
-   money. Now the key: **the best choice depends on the situation.** A short, safe trip on a
+   money (S-371). Now the key: **the best choice depends on the situation.** A short, safe trip on a
    fine day? Walking fits. A long, rainy trip with heavy bags, or a body that cannot walk far?
    Riding fits. Both can be right on different days.
 3. **Weigh your own choice (18 min).** Take a card. **Carry water by hand vs. a pump** (hand:
@@ -196,3 +196,5 @@ and what the trade-off is.
   and Agriculture Organization; the "depends on the situation, no single right answer" framing
   follows `docs/facilitation.md` and the curriculum's balanced, non-moralizing stance
   (`docs/philosophy.md` §5).
+- On weighing the life-cycle costs of materials and choices: U.S. Environmental Protection Agency — Sustainable Materials Management (life cycle) (S-371).
+

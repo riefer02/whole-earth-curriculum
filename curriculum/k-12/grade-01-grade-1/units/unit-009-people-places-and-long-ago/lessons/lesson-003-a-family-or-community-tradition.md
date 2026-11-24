@@ -90,7 +90,7 @@ never costume or caricature.
 A tradition is something people do again and again, on purpose, because it means
 something to them — a special meal, a song sung at a certain time of year, a way of
 welcoming a new baby. Every family and community has traditions, in every corner of
-the world. The same tradition can mean different things to different people, and
+the world (S-056). The same tradition can mean different things to different people, and
 that is what makes each one worth listening to.
 
 ## Materials
@@ -161,3 +161,8 @@ not.
 
 With a grown-up, think of one small tradition in your home or community. What do
 people do, and what does it mean to them? (Only share it at school if you want to.)
+
+## Resources
+
+- On traditions, rituals, and festivals as living heritage that communities pass on:
+  UNESCO — Intangible Cultural Heritage (S-056).

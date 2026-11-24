@@ -93,11 +93,11 @@ do by gathering three kinds of clues — **what happened**, the **face and body*
 
 A friend walks in and slams the door. You do not know yet *why* they are upset — but you
 can read the clues: the slammed door (what happened), the tight jaw and crossed arms
-(face and body), the short, sharp words (voice). Put them together and you can guess: "They
-might feel angry *because* something just went wrong." A farmer reads the sky and the
-wind to guess the weather; you read faces, bodies, and events to guess feelings. The
-clues are never a guarantee — feelings are private — so you always leave room to be
-wrong. That is why you check with the person, like you learned in Lesson 1.
+(face and body), the short, sharp words (voice). Put them together and you can guess:
+"They might feel angry *because* something just went wrong." A farmer reads the sky and
+the wind to guess the weather; you read faces, bodies, and events to guess feelings
+(S-160). The clues are never a guarantee — feelings are private — so you always leave
+room to be wrong. That is why you check with the person, like you learned in Lesson 1.
 
 ## Materials
 
@@ -117,12 +117,12 @@ This deepens Grade 3's "guess how a classmate feels by reading face, voice, or b
 here the new piece is *explaining the why* with a "because" that ties the feeling to
 **what happened**. Teach it as explicit, worked instruction: model reading one scenario,
 naming each clue kind, then speaking the full "they might feel… because…" sentence
-(Kirschner, Sweller & Clark, 2006). Guard the honest limit: clues let us *guess*, not
-*know* — feelings belong to the person, and our first guess can be wrong. Always pair
-the guess with a check ("Did I read that right?"), which loops back to Lesson 1's active
-listening and Lesson 2's "check it feels fair." Honor every culture's ways of showing
-feeling — some faces are quieter, some voices louder, and no one way is the "right" one.
-Read the procedure aloud and model with voice and body.
+(Kirschner, Sweller & Clark, 2006, S-011). Guard the honest limit: clues let us *guess*,
+not *know* — feelings belong to the person, and our first guess can be wrong. Always
+pair the guess with a check ("Did I read that right?"), which loops back to Lesson 1's
+active listening and Lesson 2's "check it feels fair." Honor every culture's ways of
+showing feeling — some faces are quieter, some voices louder, and no one way is the
+"right" one. Read the procedure aloud and model with voice and body.
 
 ## Procedure
 
@@ -166,5 +166,9 @@ Then check.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On the face, body, and voice as channels that carry emotional information: Ekman &
+  Friesen — The Repertoire of Nonverbal Behavior (S-160).
+- On social awareness as a core competency: CASEL — Fundamentals of Social and Emotional
+  Learning (S-001).
+- On explicit instruction and worked examples: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

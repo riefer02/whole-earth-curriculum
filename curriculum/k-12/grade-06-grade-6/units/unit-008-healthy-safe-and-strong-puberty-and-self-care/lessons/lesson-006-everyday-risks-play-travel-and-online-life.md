@@ -144,10 +144,10 @@ from each setting as a **worked example** before the card sort. See
    each:
    - **Play:** warm up before a game, wear a helmet when you ride or skate, play fair.
    - **Travel:** look and listen before you cross, walk facing traffic where there is no
-     footpath, wear a seatbelt or hold on safely when you ride.
+     footpath, wear a seatbelt or hold on safely when you ride (S-123).
    - **Online:** keep **personal information private** — your full name, address, school,
      phone number, and passwords — and if anything online feels wrong or scary or asks
-     you to keep a secret, **tell a trusted adult**.
+     you to keep a secret, **tell a trusted adult** (S-127).
    Notice the pattern: **notice** the risk, **think**, **choose the safer way**.
 3. **Sort the cards (15 min).** With a partner or small group, read each card and name
    the safer action. *A game with no warm-up?* Warm up first. *A stranger online asks
@@ -194,3 +194,6 @@ safer choice for each — especially your rule to keep personal information priv
   (<https://www.itu.int/en/ITU-D/Cybersecurity/Pages/COP.aspx>). The lesson holds "tell a
   trusted adult" as both safety guidance and a right to protection, consistent with the
   UN Convention on the Rights of the Child, Article 19.
+- On keeping personal information private online and telling a trusted adult: UNICEF — Keeping children safe online (S-127).
+- On road-traffic injury risks and safer road behaviour: WHO — Road traffic injuries fact sheet (S-123).
+

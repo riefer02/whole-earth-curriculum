@@ -84,7 +84,7 @@ celebrate the care that holds them.
 Think of the people who take care of you — the ones who feed you, hold you, teach
 you, and play with you. They might be parents, grandparents, aunties and uncles,
 older siblings, or neighbors. These are your people, and you belong to them just as
-they belong to you.
+they belong to you (S-508).
 
 ## Materials
 
@@ -132,6 +132,7 @@ lives where.
 
 - CASEL SEL Framework (foundational competencies):
   <https://casel.org/fundamentals-of-sel/>
+- On personhood through community: Ubuntu — Southern African philosophy of personhood ('a person is a person through other persons') (S-508).
 
 ## Home connection
 

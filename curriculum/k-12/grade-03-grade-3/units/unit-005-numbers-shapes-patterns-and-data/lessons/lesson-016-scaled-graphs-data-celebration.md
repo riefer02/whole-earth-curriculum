@@ -108,7 +108,7 @@ two-step stories, measured area and perimeter, and weighed and poured real thing
 now it all comes together. A class that wants to plan a celebration asks "how will we
 get there?" and graphs the answers; a village counts its water jars; a family tallies
 its favorite meals. When there are many answers, one mark for each is too many marks —
-so people use a **scale**: one symbol stands for two, or five, or ten. The math you
+so people use a **scale**: one symbol stands for two, or five, or ten (S-027). The math you
 know — multiplying, dividing, comparing — is exactly how you read a scaled graph. Today
 you do what data-keepers do everywhere: ask, collect, scale, graph, and share.
 
@@ -183,6 +183,7 @@ with a scale (one symbol = 2 people), and present one finding to them.
 
 ## Resources
 
-- National Research Council. (2009). *Mathematics Learning in Early Childhood: Paths
-  Toward Excellence and Equity*. The National Academies Press. (Collecting,
-  representing, and reasoning about data with graphs, including scaling.)
+- On collecting, representing and reading data — with picture and bar graphs, and the step
+  up to scaling: National Research Council (2009) — Mathematics Learning in Early
+  Childhood: Paths Toward Excellence and Equity (S-027).
+

@@ -110,7 +110,8 @@ A village keeps a **rain gauge** and records how many centimeters of rain fall e
 nearest eighth: 1/2, 5/8, 3/4, 1, and so on. The numbers pile up in a notebook — but a **line
 plot** turns them into a picture the whole village can read: which week was wettest, how much
 fell in all, and whether the tanks are full. Today you are the one who reads the picture and
-answers the village's questions, using every math tool you have built this unit — because real
+answers the village's questions, using every math tool you have built this unit
+(S-039) — because real
 problems rarely use just one skill at a time.
 
 ## Materials
@@ -180,7 +181,8 @@ plot, then answer a "how much in all?" and a "what is most common?" question wit
 
 ## Resources
 
-- Line plots and the integration of the unit's skills are standard in elementary mathematics;
-  see John A. Van de Walle, *Elementary and Middle School Mathematics* (10th ed., 2019). The
-  value of reading data honestly for a community's fair planning is a commitment
-  (`docs/philosophy.md` §4, §7).
+- On spaced, repeated retrieval — coming back to earlier skills across days — as one of
+  the best-supported ways to make learning last: Dunlosky et al. (2013), *Psychological
+  Science in the Public Interest*, <https://doi.org/10.1177/1529100612453266> (S-039).
+- On interpreting data displays and solving multi-step problems with them: Van de Walle,
+  Karp & Bay-Williams — *Elementary and Middle School Mathematics* (S-026).

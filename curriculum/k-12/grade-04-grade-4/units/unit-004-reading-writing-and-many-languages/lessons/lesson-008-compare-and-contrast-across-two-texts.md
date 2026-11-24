@@ -91,8 +91,8 @@ informational texts.
 Two storytellers can tell about the same thing — kindness, courage, water, the moon —
 and each tells it their own way. Reading two texts about a related idea is like hearing
 two voices on one subject: you notice where they agree and where they go their own way.
-That is how a reader gathers more than any single book can give, and how the same idea
-grows richer in many tellings.
+That is how a reader gathers more than any single book can give (S-172), and how the
+same idea grows richer in many tellings.
 
 ## Materials
 
@@ -109,13 +109,13 @@ grows richer in many tellings.
 
 Comparing across texts is a taught skill: model it with a worked example — read two
 short passages, then think aloud as you sort "same" and "different" (Kirschner, Sweller
-& Clark, 2006). Anchor every claim in evidence: "I say their themes are alike because in
-this text… and in that text…" The goal is supported thinking, not a single right answer.
-This is a global moment too: paired texts can come from two cultures or two languages,
-and comparing them is how a reader hears more than one voice. Honor comparisons in the
-learner's own language and honor differing interpretations that are faithful to the
-texts. A learner who is blind or has low vision compares from texts heard aloud or read
-in braille or large print.
+& Clark, 2006, S-011). Anchor every claim in evidence: "I say their themes are alike
+because in this text… and in that text…" The goal is supported thinking, not a single
+right answer. This is a global moment too: paired texts can come from two cultures or
+two languages, and comparing them is how a reader hears more than one voice. Honor
+comparisons in the learner's own language and honor differing interpretations that are
+faithful to the texts. A learner who is blind or has low vision compares from texts
+heard aloud or read in braille or large print.
 
 ## Procedure
 
@@ -158,7 +158,9 @@ items — and name one thing they share and one thing that differs.
 
 ## Resources
 
-- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during
-  instruction does not work. *Educational Psychologist*, 41(2), 75–86.
-- National Reading Panel (2000). Report on comprehension (comparing across texts).
-  (Widely used evidence base.)
+- On comprehension-strategy instruction, including text-structure and comparison work:
+  Duke & Pearson — Effective Practices for Developing Reading Comprehension (S-172).
+- On comparing and contrasting as a comprehension strategy: National Reading Panel —
+  Teaching Children to Read (S-040).
+- On worked examples and explicit instruction: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

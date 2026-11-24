@@ -84,7 +84,7 @@ Learners compare their breathing **at rest** and **at work**. They count breaths
 still, move hard, and count again, discovering breathing speeds up with activity. They
 learn **why**: the body breathes **in** to take in oxygen for working muscles, and
 breathes **out** to clear away carbon dioxide, the waste gas the body makes as it burns
-fuel.
+fuel (S-098).
 
 ## Objectives
 
@@ -155,10 +155,8 @@ work) and adds the breathing signal.
 
 ## Resources
 
-- Nemours KidsHealth — how the lungs work (child-friendly):
-  <https://kidshealth.org/en/kids/lungs.html>
-- World Health Organization — physical activity fact sheet:
-  <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
+- On the lungs taking in oxygen and clearing carbon dioxide, and breathing speeding up
+  with activity: Nemours KidsHealth — heart, lungs, sweat, and muscles (S-098).
 
 ## Home connection
 

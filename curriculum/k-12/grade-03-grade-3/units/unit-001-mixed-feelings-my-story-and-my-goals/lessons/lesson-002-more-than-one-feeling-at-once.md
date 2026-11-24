@@ -124,7 +124,7 @@ sibling, a goodbye) as real, not as "right" examples.
 ## Procedure
 
 1. **Gather (5 min).** Yesterday you saw that a feeling can change over time. Today you
-   learn something even more surprising: you can feel **more than one feeling at once**.
+   learn something even more surprising: you can feel **more than one feeling at once** (S-402).
 2. **Meet the overlapping circles (10 min).** Look at the chart. One circle is **happy**,
    one circle is **sad** — and where they overlap, both are true at the same time:
    **happy AND sad**. That is a *mixed feeling*. You can feel excited AND nervous before
@@ -132,7 +132,7 @@ sibling, a goodbye) as real, not as "right" examples.
    day of a visit.
 3. **Try the word "and" (10 min).** Hear a moment: "Your best friend is moving away, but
    you are happy they get to see the sea." Say it both ways: "I feel sad *and* happy."
-   The word **and** holds two feelings side by side, and neither one is wrong.
+   The word **and** holds two feelings side by side, and neither one is wrong (S-015).
 4. **Build your own both/and (10 min).** On your page, write or draw two feelings in the
    two circles. In the middle, write the moment where both are true. Try more than one
    pair if you like.
@@ -158,5 +158,7 @@ of theirs.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On how basic emotions combine into mixed, compound feelings: Robert Plutchik — Emotion:
+  A Psychoevolutionary Synthesis (S-402).
+- On naming and expressing more than one feeling at once: Yale Center for Emotional
+  Intelligence — RULER approach (S-015).

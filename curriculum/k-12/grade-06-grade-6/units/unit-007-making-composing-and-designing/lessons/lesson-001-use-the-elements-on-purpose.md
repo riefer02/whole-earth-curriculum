@@ -142,7 +142,7 @@ across places and times. See `docs/contexts.md` on small-group work.
 
 1. **Gather (5 min).** Last year you planned an artwork with a clear idea and chose
    materials to fit it. Today you meet the five building blocks every visual maker uses —
-   **line, shape, color, balance, and contrast** — and learn to use them *on purpose*.
+   **line, shape, color, balance, and contrast** — and learn to use them *on purpose* (S-365).
 2. **Meet the elements (10 min).** Look at the poster. Here is a worked example. To
    express **calm**, you might draw *long horizontal lines* (still, like a sleeping
    horizon), *soft round shapes*, an *even balance* (the same weight on both sides), and
@@ -195,3 +195,5 @@ gives you.
   elements across cultures and times: <https://www.metmuseum.org/toah/>
 - Kirschner, Sweller & Clark (2006), "Why Minimal Guidance Does Not Work," on modeling
   worked examples before independent practice.
+- On the elements of art and principles of design: The J. Paul Getty Museum — Understanding Formal Analysis (elements of art and principles of design) (S-365).
+

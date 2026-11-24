@@ -89,8 +89,8 @@ last_updated: 2026-08-17
 Learners describe a form of **pollution** or **habitat loss** and name one thing people can
 do to reduce it. A worked example traces **plastic** from a dropped bag or bottle through a
 river to the ocean, where an animal mistakes it for food or gets tangled — then turns to what
-people can do: **refuse, reuse, recycle, and join a clean-up**. Learners then choose **air
-pollution** or **habitat loss**, trace its pathway, and name a real action, holding both truths
+people can do: **refuse, reuse, recycle, and join a clean-up** (S-216). Learners then choose **air
+pollution** (S-219) or **habitat loss** (S-220), trace its pathway, and name a real action, holding both truths
 at once: *the problem is real, and so are the fixes*.
 
 ## Objectives
@@ -172,9 +172,12 @@ family could take — then try that action once this week.
 
 ## Resources
 
-- Plastic pollution's path from land to rivers to oceans and its harm to wildlife is documented
-  by UNEP and the National Oceanic and Atmospheric Administration (NOAA) in age-appropriate
-  terms; air pollution from open burning and fuels and deforestation-driven habitat loss are
-  documented by the World Health Organization and the UN Food and Agriculture Organization
-  (FAO). The "refuse, reuse, recycle, clean up" actions are the standard reduce-waste ladder
-  (UNEP). The stewardship-and-hope framing follows `docs/facilitation.md`.
+- On plastic's path from land and rivers to the ocean, its harm to wildlife, and the
+  refuse–reuse–recycle ladder: UNEP — Plastic Pollution,
+  <https://www.unep.org/plastic-pollution> (S-216).
+- On air pollution from burning fuels and waste indoors, and its effects on health: WHO —
+  Household air pollution fact sheet,
+  <https://www.who.int/news-room/fact-sheets/detail/household-air-pollution-and-health>
+  (S-219).
+- On forests as habitat and on deforestation: FAO — Forestry,
+  <https://www.fao.org/forestry/en/> (S-220).

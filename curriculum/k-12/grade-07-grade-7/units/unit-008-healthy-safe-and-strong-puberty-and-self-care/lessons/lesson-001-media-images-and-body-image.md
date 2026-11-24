@@ -100,9 +100,9 @@ body is compared or judged.
 Think of the pictures you see every day — on screens, on packages, on walls, on the
 bottles and boxes in a market. Almost none of them are plain snapshots. Someone chose
 the person, chose the pose, chose the lighting, and then a computer or an app changed it:
-skin smoothed, shape altered, colors pushed, parts removed. Then that one edited image is
+skin smoothed, shape altered, colors pushed, parts removed (S-217). Then that one edited image is
 copied thousands of times, until a person can start to feel that *their* real, unedited
-body is the one that is wrong. It is not. The image is the thing that is not real — and
+body is the one that is wrong (S-261). It is not. The image is the thing that is not real — and
 noticing that is a skill you can build.
 
 ## Materials
@@ -180,3 +180,6 @@ about your own body.
   <https://www.who.int/health-topics/adolescent-health>
 - WHO — Mental health of adolescents (media influence on how adolescents see themselves):
   <https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health>
+- On media images being constructed and repeated, and on reading them critically: UNESCO — Media and Information Literacy (MIL) (S-217).
+- On adolescence and body image as part of adolescent health: WHO — Adolescent health (health topic) (S-261).
+

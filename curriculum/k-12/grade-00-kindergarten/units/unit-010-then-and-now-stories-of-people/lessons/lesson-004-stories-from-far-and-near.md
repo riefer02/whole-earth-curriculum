@@ -102,7 +102,7 @@ see. Listening carefully is a way of honoring their story as a gift.
 
 **Choose the story with care:** it should be gentle, told by or faithful to the culture
 it comes from, and never a caricature or a "costume." Avoid stories that mock,
-exoticize, or reduce a whole people to one trait. A recording of a storyteller from that
+exoticize, or reduce a whole people to one trait (S-417). A recording of a storyteller from that
 culture is best. Keep the retelling respectful; the goal is one honest noticing, not a
 quiz.
 
@@ -135,3 +135,7 @@ quiz.
   one genuine noticing?
 - **Formative (oral):** Is the noticing specific ("I noticed the drum," not just "I
   liked it")?
+
+## Resources
+
+- On the danger of a single story: Chimamanda Ngozi Adichie — The Danger of a Single Story (TED, 2009) (S-417).

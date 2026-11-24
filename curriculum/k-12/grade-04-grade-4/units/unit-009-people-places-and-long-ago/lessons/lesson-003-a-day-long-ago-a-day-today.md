@@ -127,8 +127,8 @@ matter.
 ## Facilitator note
 
 **Comparing is a foundational skill, so model one full row first** (Kirschner, Sweller &
-Clark, 2006): "Water — long ago, a child drew water from a brick well; today, many
-people turn a tap. That *changed*. But children still need water every day — that
+Clark, 2006, S-011): "Water — long ago, a child drew water from a brick well; today,
+many people turn a tap. That *changed*. But children still need water every day — that
 *stayed the same*." Then guide the other rows. **Hold the earlier society with
 respect:** Mohenjo-Daro was a real, clever city — brick houses, covered drains, wells,
 and a grid of streets — not "primitive." Do not rank "today" as better in every way;
@@ -142,9 +142,9 @@ the learner's life and the past for the long-ago city.
 1. **Gather (5 min).** Think of your own morning: what do you do, from waking to
    breakfast? Name three things.
 2. **Meet a child in Mohenjo-Daro (10 min).** About 4,500 years ago, a city of brick
-   houses, wells, and straight streets stood by the Indus River. A child there lived in
-   a brick home, drew water from a well, ate flatbread and dates, played with clay toy
-   carts, and learned from elders.
+   houses, wells, and straight streets stood by the Indus River (S-132). A child there
+   lived in a brick home, drew water from a well, ate flatbread and dates, played with
+   clay toy carts, and learned from elders.
 3. **Compare then and now (15 min).** Fill each row of the chart:
    - **Home:** brick house with a courtyard / your home.
    - **Water:** a brick well / a tap or pump.
@@ -182,12 +182,12 @@ the learner's life and the past for the long-ago city.
 
 ## Resources
 
-- Encyclopaedia Britannica, "Mohenjo-daro" — a planned Indus Valley city with brick
-  houses, wells, covered drains, and a grid of streets, flourishing about 2500 BCE.
-  https://www.britannica.com/place/Mohenjo-daro
-- Encyclopaedia Britannica, "Indus civilization" — the Indus (Harappan) civilization,
-  including its cities, crafts, and daily life.
-  https://www.britannica.com/topic/Indus-civilization
+- On Mohenjo-daro — brick houses, wells, covered drains, and a grid of streets, about
+  2500 BCE: Encyclopaedia Britannica — Mohenjo-daro (S-132).
+- On the Indus (Harappan) civilization, its cities, crafts, and daily life:
+  Encyclopaedia Britannica — Indus civilization (S-135).
+- On comparing an earlier society with today: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

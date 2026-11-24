@@ -116,13 +116,13 @@ team: each person does a part, and everyone cheers everyone on.
 
 This is deliberate **retrieval and spacing**: learners are asked to *recall and use*
 skills from Lessons 1 and 7, not re-read them (the science-of-learning retrieval and
-spacing commitments). Keep the challenge cooperative, not competitive: teams are not
-ranked against each other, and there is no "winning team." Celebrate that every team
-finished together and every voice cheered. Name the two skills explicitly as they
-appear ("I heard a real cheer," "I saw you steady the tower"). Watch that quiet
-learners get a turn to speak and to act; a learner who does not speak with their
-mouth cheers with a sign, a clap, or a gesture. Read the procedure aloud; model one
-cheer and one part before teams begin.
+spacing commitments) (S-039). Keep the challenge cooperative, not competitive: teams are
+not ranked against each other, and there is no "winning team." Celebrate that every team
+finished together and every voice cheered. Name the two skills explicitly as they appear
+("I heard a real cheer," "I saw you steady the tower"). Watch that quiet learners get a
+turn to speak and to act; a learner who does not speak with their mouth cheers with a
+sign, a clap, or a gesture. Read the procedure aloud; model one cheer and one part
+before teams begin.
 
 ## Procedure
 
@@ -156,3 +156,9 @@ cheer and one part before teams begin.
 
 At home, be a teammate: do your part in one family job and cheer on a family member
 who is trying something hard — then tell how it felt.
+
+## Resources
+
+- On retrieval practice and spacing as the highest-utility learning techniques:
+  Dunlosky et al. (2013) — Improving Students' Learning With Effective Learning
+  Techniques (S-039).

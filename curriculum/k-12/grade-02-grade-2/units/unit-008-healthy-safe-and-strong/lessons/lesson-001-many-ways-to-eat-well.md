@@ -81,8 +81,8 @@ last_updated: 2026-08-16
 ## Summary
 
 Learners recall the four food groups they met in Grade 1 and discover that families
-around the world build their meals from several groups in many different ways. This
-retrieval opens the unit's path toward building a balanced meal, and it holds the
+around the world build their meals from several groups in many different ways (S-038).
+This retrieval opens the unit's path toward building a balanced meal, and it holds the
 line that every family's way of eating is honored, never ranked.
 
 ## Objectives
@@ -166,5 +166,5 @@ vegetable, a grain, and a protein. Tell a grown-up which group each food belongs
 
 ## Resources
 
-- World Health Organization, "Healthy diet" (what a balanced way of eating includes):
-  <https://www.who.int/news-room/fact-sheets/detail/healthy-diet>
+- On a healthy diet drawing on several food groups: WHO — Healthy diet fact sheet
+  (S-038).

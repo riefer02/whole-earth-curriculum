@@ -104,7 +104,7 @@ Waiting and stopping are hard — even for grown-ups. When many people share one
 we take turns so everyone gets a fair chance, and we stop when a safe grown-up asks
 so that everyone stays safe and respected. These are not punishments; they are how we
 care for each other. Practicing them, with a gentle reminder, is how we learn to
-choose our actions instead of just reacting.
+choose our actions instead of just reacting (S-224).
 
 ## Materials
 
@@ -162,3 +162,8 @@ share.
 
 Play a turn-taking game at home tonight, and practice the stop cue together — an open
 palm and a calm voice.
+
+## Resources
+
+- On waiting and holding an impulse as a learnable self-control skill: Mischel, Shoda
+  & Rodriguez — Delay of Gratification in Children (S-224).

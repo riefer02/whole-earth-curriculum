@@ -83,7 +83,7 @@ last_updated: 2026-08-16
 Learners add two numbers within 100 by joining the **tens** and the **ones**
 separately. They model with bundles, draw the join, and record the sum in parts —
 three tens plus two tens, and four ones plus five ones — so the written method grows
-out of the objects.
+out of the objects (S-025).
 
 ## Objectives
 
@@ -163,7 +163,6 @@ At home, add two amounts under one hundred — two piles of beans or two counts 
 
 ## Resources
 
-- Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (2015).
-  *Children's Mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann.
-  (Joining problems and children's invented place-value strategies for adding within
-  100.)
+- On joining problems and children's invented place-value strategies for adding:
+  Carpenter, Fennema, Franke, Levi & Empson — Children's Mathematics: Cognitively
+  Guided Instruction (S-025).

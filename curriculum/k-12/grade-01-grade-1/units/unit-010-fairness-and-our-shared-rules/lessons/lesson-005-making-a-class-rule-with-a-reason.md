@@ -156,7 +156,7 @@ is recorded.
 4. **Say it in our own words (5 min).** Together, say the rule and its reason. Make
    sure it is a rule the whole class helped build.
 5. **Close (5 min).** You made a rule together, with reasons. A rule made by
-   everyone is a rule everyone can keep.
+   everyone is a rule everyone can keep (S-091).
 
 ## Differentiation
 
@@ -176,3 +176,8 @@ is recorded.
 
 At home, suggest one small family rule with a reason ("we wash hands before eating
 because…"). Hear what others propose and why.
+
+## Resources
+
+- On children's right to have a say in matters that affect them: United Nations
+  Convention on the Rights of the Child — Article 12 (OHCHR) (S-091).

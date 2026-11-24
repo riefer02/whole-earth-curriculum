@@ -90,8 +90,8 @@ last_updated: 2026-08-16
 ## Summary
 
 The unit's capstone: learners ask a real question, collect data from the group, draw a
-**picture graph** and a **bar graph**, and use adding and subtracting within 100 to
-answer "how many more or less." They present one finding to the class in a **data
+**picture graph** and a **bar graph** (S-027), and use adding and subtracting within 100
+to answer "how many more or less." They present one finding to the class in a **data
 fair**, celebrating what the whole unit made possible.
 
 ## Objectives
@@ -183,6 +183,5 @@ present one finding to them.
 
 ## Resources
 
-- National Research Council. (2009). *Mathematics Learning in Early Childhood: Paths
-  Toward Excellence and Equity*. The National Academies Press. (Collecting,
-  representing, and reasoning about data with graphs.)
+- On collecting, representing, and reasoning about data with graphs: National Research
+  Council (2009) — Mathematics Learning in Early Childhood (S-027).

@@ -133,7 +133,7 @@ small, ordinary signals. See `docs/facilitation.md` and `docs/art-style.md`.
    feel truly hungry? What told you?
 2. **Meet the three signals (10 min).** Look at the body signal map. **Hunger** — an empty
    or rumbling stomach. **Fatigue** — heavy eyelids, heavy shoulders, a body that wants
-   rest. **Stress** — a fast heart, a tight chest, quick shallow breaths. Worked example:
+   rest. **Stress** — a fast heart, a tight chest, quick shallow breaths (S-338). Worked example:
    *This morning I noticed my stomach felt hollow around mid-morning. That was hunger, not
    boredom.* Say each signal and point to where it lives in your own body.
 3. **Body scan (10 min).** Sit still and close your eyes or look down. Slowly move your
@@ -174,3 +174,5 @@ different people?
   <https://casel.org/fundamentals-of-sel/>
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On how stress shows up in the body, including a racing heart and tense muscles: American Psychological Association — Stress effects on the body (S-338).
+

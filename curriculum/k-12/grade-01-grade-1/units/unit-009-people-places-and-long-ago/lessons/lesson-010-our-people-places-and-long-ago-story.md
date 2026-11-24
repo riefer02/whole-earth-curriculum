@@ -139,7 +139,7 @@ and long ago. Every learner's story is different, and every one belongs.
 **This is the unit's portfolio artifact and summative moment — but it is a celebration,
 not a test.** Retrieval practice across the whole unit is the engine here: learners are
 recalling and *using* everything they learned, spaced across the unit (this is the
-science-of-learning payoff — Dunlosky et al., 2013). The page has five sections, one per
+science-of-learning payoff — Dunlosky et al., 2013, S-039). The page has five sections, one per
 idea; a learner may complete all five, or tell some sections orally, by acting, or with
 a scribe. Honor every body and every family shape: no one must disclose their own
 tradition, a moving story, or a private unfairness — the sections can be filled with
@@ -200,3 +200,9 @@ the whole becomes a shared, many-voiced story.
 
 Take your story page home and share it with someone. Ask them: what is one thing
 they would add to their own people, places, and long ago story?
+
+## Resources
+
+- On retrieval practice and spacing as the best-supported study techniques:
+  Dunlosky, Rawson, Marsh, Nathan & Willingham — Improving Students' Learning with
+  Effective Learning Techniques (S-039).

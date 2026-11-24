@@ -135,11 +135,11 @@ ability; a seated movement is a full movement. See `docs/contexts.md`.
    *Day 1:* warm up (march in place), practice **throwing** at a target, cool down (slow
    breathing). *Day 2:* warm up, practice **balancing** on a line, cool down. *Day 3:*
    warm up, a **heart-pumping walk** or dance, cool down. Notice it **mixes** the skill you
-   practiced (throwing or balancing) with heart-pumping movement — mixing helps learning stick
+   practiced (throwing or balancing) with heart-pumping movement — mixing helps learning stick (S-039)
    and gives the heart, muscles, and mood their gifts.
 3. **Set a small goal (10 min).** Choose one **small, doable goal** for your plan — "hit the
    target five times," "balance for ten slow steps." Write it on your page. A small goal you
-   can keep is better than a big one you drop.
+   can keep is better than a big one you drop (S-223).
 4. **Build your three days (15 min).** Fill your plan frame: for each day, a warm-up, a skill
    or movement, and a cool-down. Include at least one day for your **motor skill** and one for
    a **heart-pumping movement**. Share one day with a partner and listen to theirs.
@@ -166,8 +166,14 @@ Share your three-day plan with someone at home and invite them to try one day of
 
 ## Resources
 
-- Spacing and interleaving — mixing and revisiting skills across days rather than cramming —
-  support long-term learning (see the learning-science literature; Kirschner, Sweller & Clark,
-  2006). Optional tracking tools can help, but movement requires no device; the body's own
-  signals are the primary guide. For activity guidance, see WHO:
-  <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
+- On spacing and interleaving — revisiting and mixing skills across days rather than
+  cramming — as among the best-supported ways to make learning last: Dunlosky et al. (2013),
+  *Psychological Science in the Public Interest*,
+  <https://doi.org/10.1177/1529100612453266> (S-039).
+- On regular physical activity for children and adolescents (movement needs no device;
+  a tracker is only an optional tool, and the body's own signals come first): WHO — Physical
+  activity fact sheet, <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
+  (S-069).
+
+- On setting one specific, doable goal, and on committing to a goal you can actually
+  keep: Locke & Latham — *A Theory of Goal Setting and Task Performance* (S-223).

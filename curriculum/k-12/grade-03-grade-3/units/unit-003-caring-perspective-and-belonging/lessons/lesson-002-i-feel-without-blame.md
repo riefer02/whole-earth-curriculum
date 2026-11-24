@@ -97,7 +97,7 @@ Someone bumps into you, or takes the ball before your turn, or says something sh
 You could shout, "You're mean! You always grab it!" — and now the other person gets
 angry back, and the problem grows. Or you could say, "I feel upset when the ball is
 taken before my turn, because I was waiting, and I need a turn next." The first is
-**blame**; the second is an **"I" statement**. The I statement says what is true for
+**blame**; the second is an **"I" statement** (S-148). The I statement says what is true for
 *you* without attacking the other person — and that leaves room to fix the problem
 together. Communities around the world make arguments gentler in many ways — an elder
 who helps two sides listen, a circle that repairs what broke, a quiet apology shared
@@ -121,7 +121,7 @@ learning today.
 This lesson sharpens Grade 2's "solve it with words" into the precise tool of the
 **"I" statement**, a core CASEL relationship-skill. Teach it as explicit, worked
 instruction: show the frame, convert a blame sentence together, then let learners try
-(Kirschner, Sweller & Clark, 2006). Protect the key idea: an I statement names *your*
+(Kirschner, Sweller & Clark, 2006, S-011). Protect the key idea: an I statement names *your*
 feeling and *your* need — it never says "you." When a learner offers "I feel you are
 mean," gently re-steer: that is still a hidden "you"; try "I feel hurt when…". Keep the
 conflicts small and fictional so no learner relives a real hurt. Honor that anger is a
@@ -170,5 +170,8 @@ when ___ because ___. I need ___." Notice how the other person answers.
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills and self-management competencies):
-  <https://casel.org/fundamentals-of-sel/>
+- On the 'I' statement — naming your feeling and need instead of blaming the other person:
+  Marshall B. Rosenberg — Nonviolent Communication: A Language of Life (S-148).
+- On modeling a skill before learners try it: Kirschner, Sweller & Clark (2006) — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
+

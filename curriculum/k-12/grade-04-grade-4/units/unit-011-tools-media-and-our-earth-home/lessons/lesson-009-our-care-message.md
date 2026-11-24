@@ -106,11 +106,11 @@ real helping action for a local place.
 
 ## Connection
 
-When people want to care for a place, they do not just act — they *tell others*, so the care
-spreads. A good care message is honest: it names who made it (**author**), what it is for
-(**purpose**), who it is for (**audience**), and it rests on a fact that has been **checked** in
-more than one place. You now know how to do all of that — so today you make a message that could
-really help the place you live.
+When people want to care for a place, they do not just act — they *tell others*, so the
+care spreads. A good care message is honest: it names who made it (**author**), what it
+is for (**purpose**), who it is for (**audience**), and it rests on a fact that has been
+**checked** in more than one place (S-063). You now know how to do all of that — so
+today you make a message that could really help the place you live (S-151).
 
 ## Materials
 
@@ -209,9 +209,7 @@ checked in two sources. Ask if they will join the one helping action it asks for
 
 ## Resources
 
-- Common Sense Education, "News & Media Literacy" — creating media responsibly with a clear
-  creator, purpose, and audience.
-  https://www.commonsense.org/education/digital-citizenship/topic/news-and-media-literacy
-- National Association for Media Literacy Education (NAMLE), "Key Questions" — checking a claim
-  against more than one source before sharing it.
-  https://namle.org/resources/key-questions/
+- On creating media responsibly, with a clear creator, purpose, and audience: Common
+  Sense Education — News & Media Literacy (S-063).
+- On the key questions to ask before making or sharing a message: NAMLE — Key Questions
+  to Ask When Analyzing Media Messages (S-151).

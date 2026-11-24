@@ -96,12 +96,13 @@ want, guilt to what I did, and pride to what I worked for.
 ## Connection
 
 Some feelings are more than "happy" or "sad." They are bigger, more layered — like
-feelings with a story inside. When a friend gets a new bike and you wish it were yours,
-that is **jealousy**. When you remember a hurtful word you said and wish you could take
-it back, that is **guilt**. When you finish something hard you practiced for weeks, that
-is **pride**. These feelings show up everywhere — in a city, a village, a desert, or a
-mountaintop — because every human who cares about something feels them. They are not bad
-or good by themselves; they are **signals** that tell you what matters to you.
+feelings with a story inside (S-401). When a friend gets a new bike and you wish it were
+yours, that is **jealousy**. When you remember a hurtful word you said and wish you
+could take it back, that is **guilt**. When you finish something hard you practiced for
+weeks, that is **pride**. These feelings show up everywhere — in a city, a village, a
+desert, or a mountaintop — because every human who cares about something feels them.
+They are not bad or good by themselves; they are **signals** that tell you what matters
+to you.
 
 ## Materials
 
@@ -135,7 +136,7 @@ label a learner "jealous" or "guilty"; talk about the *feeling*, not the *person
    you said a hurtful word. It points to *what you did*. **Pride** is the warm, full
    feeling after you worked hard — you finished a drawing you practiced for days. It
    points to *what you worked for*. These are **complex feelings**: they mix several
-   things at once, and they are signals, not bad or good by themselves.
+   things at once (S-402), and they are signals, not bad or good by themselves.
 3. **Act them out (10 min).** With a partner, take turns showing each feeling with your
    face and body — the reach of jealousy, the heavy shoulders of guilt, the lifted chest
    of pride — while your partner guesses which one it is.
@@ -167,5 +168,9 @@ one of your three feeling moments with them if you like.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On self-awareness and naming emotions precisely: CASEL — Fundamentals of Social and
+  Emotional Learning (S-001).
+- On emotions mixing into more complex states: Plutchik — Emotion: A Psychoevolutionary
+  Synthesis (S-402).
+- On finer-grained emotion concepts making feelings easier to tell apart: Barrett — How
+  Emotions Are Made (S-401).

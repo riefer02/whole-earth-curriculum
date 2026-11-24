@@ -99,7 +99,7 @@ ten minutes a day; I will try every morning; I will check off each day I try. Th
 which mornings worked best? What made the difference? That is the whole skill, and it is the same
 for a farm task, a homework plan, a new language, or a summer project. The loop — set, try and
 track, reflect, adjust — works in a city flat or a village field, and it is yours to carry into
-Grade 7.
+Grade 7 (S-223).
 
 ## Materials
 
@@ -169,3 +169,5 @@ person once this week — and offer to be theirs.
   self-management competency; explicit modeling of the goal cycle supports novices (Kirschner,
   Sweller & Clark, 2006):
   <https://casel.org/fundamentals-of-sel/>
+- On specific goals, tracking, and feedback improving performance: Edwin A. Locke & Gary P. Latham — A Theory of Goal Setting and Task Performance (S-223).
+

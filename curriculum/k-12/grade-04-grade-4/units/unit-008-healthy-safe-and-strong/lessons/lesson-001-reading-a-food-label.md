@@ -125,8 +125,8 @@ map.
 1. Five parts: **serving size** (how much the label describes), **energy**
    (calories/kcal), **sugar** (a kind of carbohydrate, often sweet), **salt** (sodium),
    and **fiber** (plant food that helps digestion).
-2. These five parts follow widely used labelling, as described in World Health
-   Organization guidance on food labels.
+2. These five parts follow widely used labelling, as described in Food and Agriculture
+   Organization guidance on food labels (S-117).
 3. Different bodies and lives need different amounts, and a food is not a person.
 
 **Don't overshoot.** Do not rank foods as "good" or "bad," and never connect a label
@@ -158,16 +158,16 @@ part; a learner who is deaf or hard of hearing follows the chart from the front.
    five things. The **serving size** says how much of the food the label is talking
    about. **Energy** (calories) says how much fuel the food gives your body. **Sugar**
    is a kind of carbohydrate that tastes sweet. **Salt** (sodium) is the mineral that
-   makes food salty. **Fiber** is the part of plant foods that helps your digestion
-   work well. Point to each part as we name it.
+   makes food salty. **Fiber** is the part of plant foods that helps your digestion work
+   well (S-120). Point to each part as we name it.
 3. **Say what each part tells you (10 min).** Match the part to its job: serving size
    tells you *how much*; energy tells you *how much fuel*; sugar and salt are things to
-   notice; fiber is something many bodies need more of. Tell a partner one part and
-   what it tells you.
+   notice; fiber is something many bodies need more of. Tell a partner one part and what
+   it tells you.
 4. **Label hunt (10 min).** Take a real package (or a remembered one). Can you find the
-   serving size? The energy? The sugar, salt, and fiber? Point to each one. If your
-   food has no label — fresh fruit, home-cooked food — say so: that is normal, and you
-   can still know it is a healthy part of your day.
+   serving size? The energy? The sugar, salt, and fiber? Point to each one. If your food
+   has no label — fresh fruit, home-cooked food — say so: that is normal, and you can
+   still know it is a healthy part of your day.
 5. **Close (5 min).** Say it together: "A nutrition label is a map. I can read serving
    size, energy, sugar, salt, and fiber — and use them to make my own choices."
 
@@ -196,7 +196,7 @@ the serving size, energy, sugar, salt, and fiber, and name what each one tells y
 
 ## Resources
 
-- World Health Organization, "Nutrition labelling" and "Healthy diet" (what labels
-  show and why they help people choose): <https://www.who.int/news-room/fact-sheets/detail/healthy-diet>
-- Food and Agriculture Organization of the United Nations, "Food labelling"
-  (information on food packages): <https://www.fao.org/food-labelling/en>
+- On what food-package information shows and why it helps people choose: FAO — Food
+  labelling (S-117).
+- On what a healthy diet includes, including fibre, sugar, and salt: WHO — Nutrition
+  topic (S-120).

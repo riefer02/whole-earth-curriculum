@@ -150,11 +150,11 @@ the body does the sensing.
 1. **Gather (5 min).** Look back over the unit. What did you learn about your body?
    Name one thing you are proud of.
 2. **Senses station (10 min).** Name two senses that team up — taste and smell, or
-   eyes and ears. Say one clue each sense adds. How do they make a fuller picture
+   eyes and ears (S-067). Say one clue each sense adds. How do they make a fuller picture
    together?
 3. **Signals station (10 min).** Look at the signal cards. Pick one — hunger, fullness,
    thirst, or tiredness. Point to where it shows up in your body and say one helpful
-   response. Share only if you want.
+   response (S-003). Share only if you want.
 4. **Move station (10 min).** Perform a short sequence with rhythm and balance — a
    stomp-stomp-clap-turn, then a slow balanced walk along a line. Do it in your own
    body's way, with wheels, seated, or with support if that is you.
@@ -178,6 +178,12 @@ the body does the sensing.
   and aim at a target, in their own body's way?
 - **Artifact (portfolio):** The "my body celebration" drawing, kept in the learner's
   portfolio.
+
+## Resources
+
+- On taste and smell working together to make flavor: U.S. National Institute on Deafness
+  and Other Communication Disorders — Taste and Smell (S-067).
+- On health and wellbeing: World Health Organization (S-003).
 
 ## Home connection
 

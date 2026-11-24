@@ -106,10 +106,10 @@ everything their one body can sense, feel, and do.
 
 ## Connection
 
-You have spent this whole unit getting to know the body that is yours — its five
-senses, the feelings that live in it, the movements it can make in order, and the ball
-skills of its hands and feet. Today you put it all together. Every body is different,
-and every body can do wonderful things in its own way. This is a day to notice and
+You have spent this whole unit getting to know the body that is yours — its five senses,
+the feelings that live in it, the movements it can make in order, and the ball skills of
+its hands and feet. Today you put it all together. Every body is different, and every
+body can do wonderful things in its own way (S-342). This is a day to notice and
 celebrate yours.
 
 ## Materials
@@ -174,3 +174,9 @@ what they choose.
 Show someone at home your "my body celebration" drawing and tell them one thing each
 of your senses tells you, one feeling your body shows you, and one thing your body can
 do.
+
+## Resources
+
+- On physical education and movement as a right for every body, whatever its ability:
+  UNESCO — International Charter of Physical Education, Physical Activity and Sport
+  (S-342).

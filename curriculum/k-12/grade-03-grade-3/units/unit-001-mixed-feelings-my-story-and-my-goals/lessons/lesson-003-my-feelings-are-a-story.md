@@ -116,7 +116,7 @@ yourself.
 
 It is a consolidation lesson: the goal is that learners *use* the two earlier ideas
 together, not learn a new fact. Model the worked example aloud, then release learners to
-their own events. Some learners will mix feelings in the middle, some in the ending —
+their own events (S-011). Some learners will mix feelings in the middle, some in the ending —
 there is no single correct shape. Keep the order (beginning, middle, end) as the one
 thing to check, because sequencing is the skill being practiced. Honor a learner's right
 to keep a private event private; invite them to choose any event, including a small or
@@ -126,7 +126,7 @@ everyday one.
 
 1. **Gather (5 min).** You have two new ideas: a feeling can **change over time**, and
    you can feel **more than one feeling at once**. Today you use both at the same time to
-   tell your feelings as a story.
+   tell your feelings as a story (S-404).
 2. **Meet a worked example (10 min).** Look at the festival story. **Beginning:** I felt
    excited. **Middle:** I felt hot and tired *and* happy — two feelings at once. **End:**
    I felt calm and glad. See how the feeling changed from panel to panel, and how two
@@ -161,5 +161,7 @@ theirs.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On telling your own experience as a story, and why that helps you understand yourself:
+  Dan P. McAdams (2001) — The Psychology of Life Stories (S-404).
+- On modeling a skill before learners try it themselves: Kirschner, Sweller & Clark (2006)
+  — Why Minimal Guidance During Instruction Does Not Work (S-011).

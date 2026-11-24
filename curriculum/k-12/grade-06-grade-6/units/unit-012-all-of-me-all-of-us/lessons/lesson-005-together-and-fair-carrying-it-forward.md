@@ -103,10 +103,10 @@ look ahead to Grade 7.
 
 ## Connection
 
-A crew rows one boat together — **cooperation**, because the goal is shared. Two runners race to
+A crew rows one boat together — **cooperation**, because the goal is shared (S-233). Two runners race to
 one line — **competition**, fair and joyful, because the test is who is fastest. And down the
 street, one pantry overflows while another is nearly empty — a question of **fairness**, because
-the difference comes from systems and circumstances, never from anyone's worth. These three are
+the difference comes from systems and circumstances, never from anyone's worth (S-234). These three are
 not separate subjects; they are three ways a person takes part in the world. The skill is
 **choosing**: cooperate when we need each other, compete only when it is fair play, and act so
 everyone has **enough**. That is the common good — and it is yours to carry into Grade 7, in a
@@ -194,3 +194,6 @@ theirs — then celebrate the year together.
   that *no person's worth is measured by their resources* is a values commitment of this
   curriculum, not a scientific claim. For classroom SEL framing:
   <https://casel.org/fundamentals-of-sel/>
+- On structural drivers of poverty and inequality: World Bank — Poverty and Inequality (Poverty, Prosperity, and Planet Report) (S-234).
+- On cooperative goal structures and their benefits for groups: David W. Johnson, Geoffrey Maruyama, Roger Johnson, Deborah Nelson & Linda Skon — Effects of cooperative, competitive, and individualistic goal structures on achievement (S-233).
+

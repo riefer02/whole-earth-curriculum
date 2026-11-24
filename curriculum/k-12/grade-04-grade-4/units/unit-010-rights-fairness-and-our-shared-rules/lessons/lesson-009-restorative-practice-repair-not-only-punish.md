@@ -99,16 +99,16 @@ Grade 3's "repairing harm" into the named practice and its *why*.
 
 ## Connection
 
-When harm happens — a tower knocked over, a hurt word, a borrowed thing returned
-broken — there are two ways to answer. **Punishment alone** stops the act (the child is
-sent away) but leaves the tower broken and the hurt untouched. **Restorative practice**
-asks three things instead: **listen** to the person who was hurt, **take
-responsibility** for what happened, and **repair the harm** — help rebuild, mean the
-sorry, fix the break. It does not let anyone off — it holds the person *accountable*
-for making things right. That is why it can work better than punishment alone: the harm
-is healed, and the person who caused it grows instead of only paying a price. People
-and schools use this around the world — a circle where both sides are heard, and a
-repair that makes it right. Today you will learn the three steps and why they help.
+When harm happens — a tower knocked over, a hurt word, a borrowed thing returned broken
+— there are two ways to answer. **Punishment alone** stops the act (the child is sent
+away) but leaves the tower broken and the hurt untouched. **Restorative practice** asks
+three things instead: **listen** to the person who was hurt, **take responsibility** for
+what happened, and **repair the harm** — help rebuild, mean the sorry, fix the break. It
+does not let anyone off — it holds the person *accountable* for making things right
+(S-161). That is why it can work better than punishment alone: the harm is healed, and
+the person who caused it grows instead of only paying a price. People and schools use
+this around the world — a circle where both sides are heard, and a repair that makes it
+right (S-022). Today you will learn the three steps and why they help.
 
 ## Materials
 
@@ -199,8 +199,7 @@ that would work better?
 
 ## Resources
 
-- International Institute for Restorative Practices (restoring relationships and
-  repairing harm): <https://www.iirp.edu/>
-- Restorative practice (listen, take responsibility, repair) is used in schools
-  worldwide; see UNICEF's "restorative practices in schools" materials and the IIRP
-  graduate-school framework.
+- On restorative justice — repairing harm and holding the person accountable rather than
+  only punishing: Zehr — Changing Lenses (S-161).
+- On restorative practices in schools and communities, including circles that hear both
+  sides: International Institute for Restorative Practices (S-022).

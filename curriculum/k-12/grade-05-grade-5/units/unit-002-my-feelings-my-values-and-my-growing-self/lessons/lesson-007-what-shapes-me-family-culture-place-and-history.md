@@ -85,7 +85,7 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners learn that **identity is not one thing** but is shaped by four forces: **family,
-culture, place, and history**. Using a **four-petal diagram**, they fill in what each
+culture, place, and history** (S-155). Using a **four-petal diagram**, they fill in what each
 shaper contributes to who they are, then explain in a sentence how one of them has shaped
 them. Throughout, they hold each learner's family shape, place, and history — including
 adoption, loss, and moving — as equally worthy of honor.
@@ -171,3 +171,6 @@ a food, a place name, or a person who came before you.
 - Identity as shaped by family, culture, place, and history is a core idea in
   developmental psychology (Erik Erikson's identity stage) and in CASEL's
   self-awareness competency: <https://casel.org/fundamentals-of-sel/>
+
+- On identity as something formed over time, in relation to family, culture and
+  society, rather than fixed at birth: Erikson — *Childhood and Society* (S-155).

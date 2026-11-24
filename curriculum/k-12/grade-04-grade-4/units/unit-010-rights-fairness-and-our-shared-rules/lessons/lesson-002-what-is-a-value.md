@@ -153,16 +153,16 @@ directs a partner to circle it.
 
 ## Procedure
 
-1. **Gather and remember (5 min).** Last time you compared two reasons and decided
-   which was stronger. What helped you decide? Today we look at what *lies under* our
-   reasons: the things we care about.
+1. **Gather and remember (5 min).** Last time you compared two reasons and decided which
+   was stronger. What helped you decide? Today we look at what *lies under* our reasons:
+   the things we care about.
 2. **Meet "value" (10 min).** A **value** is something a person cares about that guides
-   how they choose and act. It is not a fact you memorize; it is a care you hold. Look
-   at the values cards and name each one: fairness, honesty, kindness, family, learning,
-   nature, health, courage, safety, friendship.
-3. **Sort and choose (10 min).** Which cards show things *you* care about most? Put
-   them in order for yourself. Wonder: how do you know you care about it? (It makes you
-   feel something; you would act on it.)
+   how they choose and act (S-001). It is not a fact you memorize; it is a care you
+   hold. Look at the values cards and name each one: fairness, honesty, kindness,
+   family, learning, nature, health, courage, safety, friendship.
+3. **Sort and choose (10 min).** Which cards show things *you* care about most? Put them
+   in order for yourself. Wonder: how do you know you care about it? (It makes you feel
+   something; you would act on it.)
 4. **Name your value (15 min).** On your sheet, draw or write **one value** that is
    yours, and finish the sentence: "I value ______ because I care about ______." Share
    with a partner if you wish. If drawing or writing is not your way, act it out, point
@@ -191,8 +191,7 @@ how does it guide what you do?" Listen, then share your own value with them.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness — identifying one's values):
-  <https://casel.org/fundamentals-of-sel/>
-- The idea of values as "things a person cares about" is a child-friendly entry point to
-  moral philosophy; see the philosophy-for-children tradition (Matthew Lipman and
-  colleagues).
+- On self-awareness, including identifying one's own values: CASEL — Fundamentals of
+  Social and Emotional Learning (S-001).
+- On philosophical inquiry with children as an entry point to naming what one cares
+  about: Lipman — Harry Stottlemeier's Discovery (S-094).

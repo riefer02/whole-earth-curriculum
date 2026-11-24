@@ -89,7 +89,7 @@ They build a class "kind words wall."
 
 In every part of the world, people use kind words to show that they see and care for
 one another. When you say "please" or "thank you," you tell someone their help
-matters. Every family and every language has its own kind words — and yours do too.
+matters (S-001). Every family and every language has its own kind words — and yours do too.
 
 ## Materials
 
@@ -141,3 +141,8 @@ it quietly at home" is fine. Read the procedure aloud; guide the sharing and the
 - **Formative (observation):** Does the learner use a kind word in a practice scene
   or everyday interaction?
 - **Artifact (portfolio):** The learner's kind-word drawing on the wall.
+
+## Resources
+
+- On courteous speech as part of relationship skills, for classroom framing: CASEL —
+  Fundamentals of Social and Emotional Learning (S-001).

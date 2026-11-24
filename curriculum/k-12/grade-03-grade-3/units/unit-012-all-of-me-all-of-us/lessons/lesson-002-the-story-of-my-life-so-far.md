@@ -99,7 +99,7 @@ people tell their life stories to remember who they are and where they come from
 around a fire, in a family album, in a song, or in a letter. The important people and
 places in your story — the home you grew in, the person who cared for you, the friend
 who played with you — are part of what made you *you*. Today you tell your story so
-far, in order.
+far, in order (S-404).
 
 ## Materials
 
@@ -175,4 +175,6 @@ one part you did not know — then add it to your path.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness): <https://casel.org/fundamentals-of-sel/>
+- On a life story as the way a person makes sense of who they are and where they have
+  been: Dan P. McAdams (2001) — The Psychology of Life Stories (S-404).
+

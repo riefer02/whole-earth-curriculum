@@ -89,7 +89,7 @@ They close by wondering together about what they still want to know.
 
 Every day someone tells you something — a story at bedtime, a direction in the
 kitchen, a friend's news on the walk to school. When you listen with your whole
-body and ask one question, you understand more and the speaker feels heard.
+body and ask one question, you understand more and the speaker feels heard (S-172).
 Asking a question is how everyone, everywhere, learns new things.
 
 ## Materials
@@ -160,5 +160,8 @@ Ask someone at home to tell you one small thing about their day, then ask them o
 
 ## Resources
 
-- CASEL SEL Framework (foundational competencies, including listening and
-  relationship skills): <https://casel.org/fundamentals-of-sel/>
+- On asking questions about a text as a comprehension strategy that improves
+  understanding: Duke & Pearson — Effective Practices for Developing Reading
+  Comprehension (S-172).
+- On listening and relationship skills, for classroom framing: CASEL — Fundamentals of
+  Social and Emotional Learning (S-001).

@@ -86,7 +86,7 @@ noticing and naming the signal their own body is sending right now.
 Your body is always sending you little messages, like a bell that rings to get your
 attention. A growling tummy is your body saying "I need food"; a dry mouth says "I
 need water"; heavy, sleepy eyes say "I need rest." When you learn to notice these
-messages, you can take good care of yourself.
+messages, you can take good care of yourself (S-003).
 
 ## Materials
 
@@ -140,5 +140,5 @@ to tell.
 
 ## Resources
 
-- World Health Organization — global health and wellbeing reference:
-  <https://www.who.int/>
+- On hunger, thirst, and tiredness as everyday signals of the body's needs, for
+  classroom framing: World Health Organization (S-003).

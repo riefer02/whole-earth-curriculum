@@ -93,10 +93,10 @@ learn that these numerals are one system among many humans have used.
 ## Connection
 
 Everywhere people keep count, they need a way to record it: a tally scratched on
-wood, knots tied in a cord, marks drawn in the dust. The digits you will write
+wood, knots tied in a cord, marks drawn in the dust (S-024). The digits you will write
 today — 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 — traveled from mathematicians in India,
 through the Arabic-speaking world, to the rest of the world, which is why they are
-called Hindu-Arabic numerals. They are one good way among many; what matters is
+called Hindu-Arabic numerals (S-023). They are one good way among many; what matters is
 that everyone who sees the marks can agree on what they mean.
 
 ## Materials
@@ -195,8 +195,8 @@ number you got — then read it to a grown-up.
 ## Resources
 
 - Ifrah, G. (2000). *The Universal History of Numbers: From Prehistory to the
-  Invention of the Computer*. Wiley. (The origin and spread of Hindu-Arabic numerals
+  Invention of the Computer*. Wiley (S-023). (The origin and spread of Hindu-Arabic numerals
   and other numeral systems.)
 - Zaslavsky, C. (1999). *Africa Counts: Number and Pattern in African Cultures*
-  (3rd ed.). Lawrence Hill Books. (Tally marks, knot records, and counting systems
+  (3rd ed.). Lawrence Hill Books (S-024). (Tally marks, knot records, and counting systems
   across cultures.)

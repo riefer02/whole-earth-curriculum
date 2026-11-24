@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-002-05-proposal desc-L-09-002-05-proposal">
+  <title id="title-L-09-002-05-proposal">The proposal on one page</title>
+  <desc id="desc-L-09-002-05-proposal">A single sheet with six numbered boxes: the question, what we know, what I propose, what each framework shows, the best objection, and what would change my mind. A footer reads: claim, evidence, three frameworks, objection, condition.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">The Proposal on One Page</text>
+
+  <rect x="28" y="58" width="456" height="392" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="48" y="86" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">memorial proposal</text>
+  <line x1="48" y1="96" x2="464" y2="96" stroke="#4f6d7a" stroke-width="2"/>
+
+  <rect x="48" y="108" width="196" height="102" rx="6" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="62" y="132" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#2b3a42">1  the question</text>
+  <text x="62" y="158" font-family="sans-serif" font-size="12" fill="#222222">one sentence,</text>
+  <text x="62" y="178" font-family="sans-serif" font-size="12" fill="#222222">as a choice</text>
+
+  <rect x="268" y="108" width="196" height="102" rx="6" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="282" y="132" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#2b3a42">2  what we know</text>
+  <text x="282" y="158" font-family="sans-serif" font-size="12" fill="#222222">two or three facts,</text>
+  <text x="282" y="178" font-family="sans-serif" font-size="12" fill="#222222">cited or flagged</text>
+
+  <rect x="48" y="222" width="196" height="102" rx="6" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="62" y="246" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#2b3a42">3  what I propose</text>
+  <text x="62" y="272" font-family="sans-serif" font-size="12" fill="#222222">keep, change,</text>
+  <text x="62" y="292" font-family="sans-serif" font-size="12" fill="#222222">remove, or add</text>
+
+  <rect x="268" y="222" width="196" height="102" rx="6" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="282" y="246" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#2b3a42">4  what each shows</text>
+  <text x="282" y="272" font-family="sans-serif" font-size="12" fill="#222222">consequences,</text>
+  <text x="282" y="292" font-family="sans-serif" font-size="12" fill="#222222">duties, virtues</text>
+
+  <rect x="48" y="336" width="196" height="102" rx="6" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="62" y="360" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#2b3a42">5  best objection</text>
+  <text x="62" y="386" font-family="sans-serif" font-size="12" fill="#222222">in the opponent's</text>
+  <text x="62" y="406" font-family="sans-serif" font-size="12" fill="#222222">own voice</text>
+
+  <rect x="268" y="336" width="196" height="102" rx="6" fill="#fdfbf7" stroke="#4f6d7a" stroke-width="2"/>
+  <text x="282" y="360" font-family="sans-serif" font-size="12.5" font-weight="bold" fill="#2b3a42">6  change my mind</text>
+  <text x="282" y="386" font-family="sans-serif" font-size="12" fill="#222222">a condition someone</text>
+  <text x="282" y="406" font-family="sans-serif" font-size="12" fill="#222222">can test</text>
+
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">claim, evidence, three frameworks, objection, condition</text>
+</svg>

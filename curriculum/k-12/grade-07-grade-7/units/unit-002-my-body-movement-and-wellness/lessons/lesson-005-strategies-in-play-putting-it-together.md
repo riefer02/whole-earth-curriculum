@@ -97,7 +97,7 @@ in the heat of the moment. The same three tools you have been practicing — spr
 the right time, help each other — are the whole toolkit. A relay team plans who runs which leg;
 a group crossing a busy market plans who leads and who watches; a crew hauling a fishing net
 plans who pulls and when. The plan is not about being the best athlete; it is about thinking
-together, and it works in every game and every place.
+together, and it works in every game and every place (S-101).
 
 ## Materials
 
@@ -163,3 +163,5 @@ timing, teamwork — in something they do.
 - On fair-play and inclusive-game framing: SHAPE America, <https://www.shapeamerica.org/>
 - On modeling a skill and using feedback to improve: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On planning, tactics, and cooperative play in physical education: SHAPE America — Society of Health and Physical Educators (S-101).
+

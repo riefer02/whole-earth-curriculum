@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-001-03-provenance desc-L-09-001-03-provenance">
+  <title id="title-L-09-001-03-provenance">The chain behind one published sea-level number</title>
+  <desc id="desc-L-09-001-03-provenance">Five boxes connected by arrows show the chain behind a published number: an instrument (tide gauge or satellite altimeter), a station network, a dataset, an assessment by IPCC authors, and a summary reporting 0.20 metres with a likely range. Each box names who works at that link. A footer asks who, how, and who paid at every link, and notes that public science budgets and member governments fund the chain.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+  <text x="256" y="36" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Where the Number Comes From</text>
+  <text x="256" y="60" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">One published number, five links</text>
+
+  <!-- box 1 -->
+  <rect x="56" y="80" width="400" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="56" y="80" width="7" height="56" rx="3" fill="#6b93b6"/>
+  <text x="80" y="104" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">1 · instrument</text>
+  <text x="80" y="124" font-family="sans-serif" font-size="12" fill="#222222">tide gauge · satellite altimeter</text>
+
+  <!-- box 2 -->
+  <rect x="56" y="158" width="400" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="56" y="158" width="7" height="56" rx="3" fill="#6b93b6"/>
+  <text x="80" y="182" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">2 · station network</text>
+  <text x="80" y="202" font-family="sans-serif" font-size="12" fill="#222222">coastal gauges · satellite track</text>
+
+  <!-- box 3 -->
+  <rect x="56" y="236" width="400" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="56" y="236" width="7" height="56" rx="3" fill="#6b93b6"/>
+  <text x="80" y="260" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">3 · dataset</text>
+  <text x="80" y="280" font-family="sans-serif" font-size="12" fill="#222222">sea-level record, 1901–2018</text>
+
+  <!-- box 4 -->
+  <rect x="56" y="314" width="400" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="56" y="314" width="7" height="56" rx="3" fill="#7a9e7e"/>
+  <text x="80" y="338" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">4 · assessment</text>
+  <text x="80" y="358" font-family="sans-serif" font-size="12" fill="#222222">IPCC authors · external review</text>
+
+  <!-- box 5 -->
+  <rect x="56" y="392" width="400" height="56" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="56" y="392" width="7" height="56" rx="3" fill="#e0a458"/>
+  <text x="80" y="416" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">5 · summary</text>
+  <text x="80" y="436" font-family="sans-serif" font-size="12" fill="#222222">0.20 m, likely 0.15 to 0.25 m</text>
+
+  <!-- arrows -->
+  <path d="M256 136 L256 154 M251 149 L256 155 L261 149" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M256 214 L256 232 M251 227 L256 233 L261 227" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M256 292 L256 310 M251 305 L256 311 L261 305" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M256 370 L256 388 M251 383 L256 389 L261 383" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">At every link ask: who, how, and who paid?</text>
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Public science budgets and member governments fund this chain.</text>
+</svg>

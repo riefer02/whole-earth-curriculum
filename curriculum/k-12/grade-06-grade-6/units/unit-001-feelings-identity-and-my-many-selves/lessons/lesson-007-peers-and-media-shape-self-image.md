@@ -100,7 +100,7 @@ You scroll through a feed of perfect, bright photos — and suddenly your own da
 little smaller. A friend shrugs and says "that's not cool anymore" — and you doubt the
 thing you quietly loved. Neither your peers nor the screen is evil; they are just
 **mirrors**, and some mirrors are **warped**. Media shows *curated highlight reels* — the
-best two seconds, the best angle, often edited — not a whole life. Peers show their own
+best two seconds, the best angle, often edited — not a whole life (S-226). Peers show their own
 narrow idea of what is "in." Learning to notice the mirror — and to ask what it is leaving
 out — is how you keep your own picture of yourself clear.
 
@@ -177,3 +177,5 @@ what is this mirror leaving out? Share what you find with someone you trust.
   Leon Festinger) supports the framing that curated, edited images can distort
   self-perception. For classroom SEL framing, see CASEL's self-awareness competency:
   <https://casel.org/fundamentals-of-sel/>
+- On curated media images and their effect on self-image: Common Sense Media — Research Program (S-226).
+

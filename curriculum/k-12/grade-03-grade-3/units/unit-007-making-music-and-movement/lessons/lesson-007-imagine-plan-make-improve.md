@@ -100,7 +100,7 @@ is how everything people build gets better.
 Everything around you that works well was once an idea that got tested and fixed and
 tested again — a shoe, a basket, a bridge, a pot. The maker first **imagined** it,
 then **planned** it, then **made** it, then **improved** it after trying it out. That
-four-step loop is called a **design process**. Today you will run the loop yourself to
+four-step loop is called a **design process** (S-370). Today you will run the loop yourself to
 build something that meets a need.
 
 ## Materials
@@ -119,7 +119,7 @@ build something that meets a need.
 The design loop is a **skill**, so model it once — "we need a pencil holder; I imagine a
 cup; I plan paper folded around a box; I make it; I test it and it tips over, so I
 improve it by adding a wider base" — before learners run their own loop (Kirschner,
-Sweller & Clark, 2006). The key idea is the **loop**: improve comes from testing, not
+Sweller & Clark, 2006, S-011). The key idea is the **loop**: improve comes from testing, not
 from getting it right the first time. "Improve" can be one small change. The plan may
 change as the learner builds — that is the loop working. A learner with limited fine
 motor directs a partner who handles the materials — imagining, planning, and deciding
@@ -169,8 +169,10 @@ belongs.
 
 ## Resources
 
-- No external resources required; the design-loop claims here are about the learner's
-  own process, which they practice directly.
+- On the design process — ask, imagine, plan, create, test and improve — as a loop:
+  TeachEngineering — Engineering Design Process (S-370).
+- On modeling a skill once before learners try it: Kirschner, Sweller & Clark (2006) — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

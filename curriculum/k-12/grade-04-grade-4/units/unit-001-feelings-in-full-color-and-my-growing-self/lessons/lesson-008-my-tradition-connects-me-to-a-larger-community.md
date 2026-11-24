@@ -136,8 +136,8 @@ real. See `docs/facilitation.md` on cultural power dynamics and difficult topics
    something like it. The dotted lines are **threads** tying you outward.
 3. **Find the shared needs (10 min).** People everywhere celebrate, welcome, remember,
    and give thanks. A festival of light, a harvest feast, a naming ceremony, a song for
-   the sea — different forms, but the same human needs underneath. Find the need *your*
-   tradition answers.
+   the sea — different forms, but the same human needs underneath (S-056). Find the
+   need *your* tradition answers.
 4. **Fill your own web (15 min).** On your page, write or draw each ring: your
    tradition, who you share it with, your community, and who else in the world does
    something like it. Name at least one real person or group in each ring.
@@ -166,5 +166,7 @@ learn to your outer ring.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On social awareness, including belonging and seeing others' perspectives: CASEL —
+  Fundamentals of Social and Emotional Learning (S-001).
+- On shared practices and festive events as cultural heritage passed between
+  generations: UNESCO — Intangible Cultural Heritage (S-056).

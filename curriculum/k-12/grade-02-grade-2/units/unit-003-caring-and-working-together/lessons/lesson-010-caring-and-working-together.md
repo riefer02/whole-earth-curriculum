@@ -121,7 +121,7 @@ solve a problem with words, notice that two people can feel differently, care wh
 someone hurts, welcome a newcomer, honor a tradition, do your part together, and
 remember that helping helps everyone. Today you use the whole box at once to make
 your class a kinder, more welcoming place — the same way people everywhere build
-caring communities with many small acts.
+caring communities with many small acts (S-001).
 
 ## Materials
 
@@ -179,5 +179,5 @@ close. Read the procedure aloud; model choosing an act and naming one skill firs
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills and social awareness):
-  <https://casel.org/fundamentals-of-sel/>
+- On relationship skills and social awareness in building a caring classroom: CASEL —
+  Fundamentals of Social and Emotional Learning (S-001).

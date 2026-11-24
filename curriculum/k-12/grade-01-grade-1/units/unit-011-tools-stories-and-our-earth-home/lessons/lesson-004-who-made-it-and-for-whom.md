@@ -147,7 +147,7 @@ class.
 5. **Share and ask (5 min).** Show your picture to a partner. Ask them the two
    questions: "Who made it?" and "Who is it for?" Then answer for your own.
 6. **Close (5 min).** Every picture and every story comes from a maker and goes to an
-   audience. When you look at something someone made, you can wonder: who made this,
+   audience (S-151). When you look at something someone made, you can wonder: who made this,
    and who is it for?
 
 ## Differentiation
@@ -179,3 +179,8 @@ class.
 At home, find one thing someone made — a sign, a picture, a book, or a song. Ask a
 grown-up (or guess) who made it and who it is for. Then make a small picture for
 someone at home and tell them: "I made this for you."
+
+## Resources
+
+- On asking who made a message and who it is for: NAMLE — Key Questions to Ask When
+  Analyzing Media Messages (S-151).

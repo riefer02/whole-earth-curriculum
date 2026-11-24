@@ -105,10 +105,10 @@ last is how cooks, builders, and storytellers everywhere keep a thing whole.
 This is the planning lesson; writing comes next, so keep today's product a plan — three
 ordered parts, drawn or written. Use a worked example first: study the model story's
 three parts together, then let learners plan their own (Kirschner, Sweller & Clark,
-2006). The order words differ across languages; learners use their home language's words
-for first, next, and last. Plans may be pictures, spoken sentences, signed sequences, or
-written words — the order is the point. No story is too small: how to wash a hand, feed
-a goat, or walk to the well is a fine story.
+2006; S-011). The order words differ across languages; learners use their home
+language's words for first, next, and last. Plans may be pictures, spoken sentences,
+signed sequences, or written words — the order is the point. No story is too small: how
+to wash a hand, feed a goat, or walk to the well is a fine story.
 
 ## Procedure
 
@@ -147,5 +147,5 @@ task at home, and tell someone your plan.
 
 ## Resources
 
-- Kirschner, Sweller & Clark (2006), "Why Minimal Guidance During Instruction Does
-  Not Work" — worked examples for new writing skills.
+- On modelling a new skill — here, a story plan — before learners work alone:
+  Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

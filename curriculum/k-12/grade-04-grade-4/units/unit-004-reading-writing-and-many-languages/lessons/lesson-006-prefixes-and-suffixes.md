@@ -86,11 +86,11 @@ Learners learn how **prefixes** (parts added to the *front* of a base word) and
 
 ## Connection
 
-Think of a base word as a plain block, and of prefixes and suffixes as add-ons that
-snap onto it and change what it does — like adding a roof or a porch to a house. "Help"
+Think of a base word as a plain block, and of prefixes and suffixes as add-ons that snap
+onto it and change what it does — like adding a roof or a porch to a house. "Help"
 becomes "helpful" (full of help) or "unhelpful" (not helpful). Once you know a few
-affixes, you can take apart a long word and read it piece by piece, like a builder
-reading a plan.
+affixes, you can take apart a long word and read it piece by piece (S-040), like a
+builder reading a plan.
 
 ## Materials
 
@@ -105,15 +105,15 @@ reading a plan.
 ## Facilitator note
 
 Affixes are a taught skill: model building and taking apart words with a worked example,
-naming how the meaning changes each time (Kirschner, Sweller & Clark, 2006). Teach the
-pattern, not a memorized list — a **prefix** goes before and a **suffix** after, and
-each carries a meaning (un- = not, re- = again, -ful = full of, -less = without). This
-is script- and language-agnostic: languages affix meaning in different ways, and
-learners may share examples from their own languages. The goal is meaning-making — a
-learner who can explain "unhelpful = not + full of help" has the skill. Honor
-explanations in the learner's own language, and treat a digital tool as a helper to
-check, not a substitute for thinking. Keep it playful: word-building is a game, and
-every new word is a small discovery.
+naming how the meaning changes each time (Kirschner, Sweller & Clark, 2006, S-011).
+Teach the pattern, not a memorized list — a **prefix** goes before and a **suffix**
+after, and each carries a meaning (un- = not, re- = again, -ful = full of, -less =
+without). This is script- and language-agnostic: languages affix meaning in different
+ways, and learners may share examples from their own languages. The goal is
+meaning-making — a learner who can explain "unhelpful = not + full of help" has the
+skill. Honor explanations in the learner's own language, and treat a digital tool as a
+helper to check, not a substitute for thinking. Keep it playful: word-building is a
+game, and every new word is a small discovery.
 
 ## Procedure
 
@@ -157,7 +157,7 @@ tell someone what each part means.
 
 ## Resources
 
-- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during
-  instruction does not work. *Educational Psychologist*, 41(2), 75–86.
-- National Reading Panel (2000). Report on vocabulary and morphology (affixes).
-  (Widely used evidence base.)
+- On morphology (prefixes and suffixes) as part of evidence-based vocabulary
+  instruction: National Reading Panel — Teaching Children to Read (S-040).
+- On worked examples and explicit instruction: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

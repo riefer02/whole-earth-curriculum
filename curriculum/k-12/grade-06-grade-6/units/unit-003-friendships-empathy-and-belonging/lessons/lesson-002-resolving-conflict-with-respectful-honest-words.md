@@ -98,7 +98,7 @@ A friend borrowed your pencil and returned it broken. Your first impulse might b
 nothing (and seethe) or to snap, "You always wreck my stuff!" Both leave the conflict
 unresolved. A third way exists: **pause**, say what *you* felt without blame — "I felt upset
 when my pencil came back broken" — **listen** to what happened, and **agree on a next step**.
-Honesty is saying the true thing; respect is saying it in a way the other person can hear.
+Honesty is saying the true thing; respect is saying it in a way the other person can hear (S-148).
 Both together are what actually *repair* a friendship, in a classroom or a courtyard or a
 kitchen anywhere in the world.
 
@@ -169,3 +169,5 @@ say "I felt ___ when ___," listen, and agree on a next step.
 - I-statements and repair conversations are well-established relationship-skill practices in
   SEL; respectful, honest communication is a core CASEL relationship-skill outcome:
   <https://casel.org/fundamentals-of-sel/>
+- On honest, needs-based conflict language and I-statements: Marshall B. Rosenberg — Nonviolent Communication: A Language of Life (S-148).
+

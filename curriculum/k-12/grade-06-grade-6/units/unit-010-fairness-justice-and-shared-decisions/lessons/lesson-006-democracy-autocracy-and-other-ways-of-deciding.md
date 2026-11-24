@@ -147,7 +147,7 @@ is fast but crowds out other voices; consensus honors everyone but can be slow.
 
 For "other ways," name **consensus** with a real example: the Haudenosaunee (Iroquois)
 Confederacy and its Great Law of Peace deliberate until agreement — a living tradition,
-not a museum piece.
+not a museum piece (S-142).
 
 **The skill.** Model the comparison as a worked example (Kirschner, Sweller & Clark,
 2006), then weigh one decision under two models. See `docs/facilitation.md`.
@@ -158,7 +158,7 @@ not a museum piece.
    *decide* in the first place? Try to recall a time a group you were in decided something
    — how did it happen? (Pause.) Today you compare the main ways.
 2. **Meet the three ways (10 min).** Look at the poster. **Democracy:** the *many* decide,
-   often by vote — everyone gets a say, and leaders can be changed. **Autocracy:** *one
+   often by vote — everyone gets a say, and leaders can be changed (S-461). **Autocracy:** *one
    person or a small group* decides — fast and clear, but one voice rules. **Other ways:**
    many groups use **consensus** — talking until *everyone* agrees, so no one is
    overruled. Each way has a **strength** and a **limit**; none is perfect everywhere.
@@ -205,3 +205,6 @@ or by talking until everyone agrees — and name one strength and one limit of t
   curriculum, not derived from the definitions.
 - On modeling a comparison before independent practice: Kirschner, Sweller & Clark
   (2006), <https://doi.org/10.1207/s15326985ep4102_1>
+- On democracy as a way of deciding in which many people have a say: V-Dem Institute — Varieties of Democracy (S-461).
+- On consensus-based councils in the Haudenosaunee Confederacy: Britannica Kids — Haudenosaunee (Iroquois) (S-142).
+

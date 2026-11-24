@@ -93,8 +93,8 @@ number** with money (0.5 × 6 = 3).
 
 ## Connection
 
-A recipe serves 4, but you are cooking for 8, so you **double** it: every 1/2 cup becomes 1
-cup. Or a farmer keeps **1/4** of 12 eggs and sells the rest — that is 3 eggs kept. Or you buy
+A recipe serves 4, but you are cooking for 8, so you **double** it: every 1/2 cup
+becomes 1 cup (S-113). Or a farmer keeps **1/4** of 12 eggs and sells the rest — that is 3 eggs kept. Or you buy
 **6** half-kilo bags of rice: 6 × 0.5 = **3 kilos**. Multiplying fractions and decimals is the
 math of **scaling up and finding parts**, done in kitchens, fields, and markets around the
 world.
@@ -167,7 +167,10 @@ several items that cost a fraction or decimal each and multiply.
 
 ## Resources
 
-- Fraction and decimal multiplication models (area model, fraction of a group) are standard in
-  elementary mathematics; see John A. Van de Walle, *Elementary and Middle School Mathematics*
-  (10th ed., 2019). The fairness value of scaling so everyone gets an equal share is a
-  commitment (`docs/philosophy.md` §4).
+- On measuring amounts in the kitchen with units such as cups and grams, and on why
+  getting the amount right matters: National Geographic Kids — Measuring to bake
+  pancakes, <https://www.natgeokids.com/uk/discover/science/general-science/measuring/>
+  (S-113).
+- On models for fraction multiplication — fraction of a group, and the area model for
+  fraction × fraction: Van de Walle, Karp & Bay-Williams — *Elementary and Middle School
+  Mathematics* (S-026).

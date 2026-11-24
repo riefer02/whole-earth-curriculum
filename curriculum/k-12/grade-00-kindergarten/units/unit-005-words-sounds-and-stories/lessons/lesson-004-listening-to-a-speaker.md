@@ -83,7 +83,7 @@ person is treated as a way of caring.
 Every day people talk to you — a grown-up giving directions, a friend telling a joke,
 a neighbor describing how to fix something. Listening to a person is how you understand
 what they know, what they need, and how they feel. Listening well is a way of showing
-someone that they matter.
+someone that they matter (S-174).
 
 ## Materials
 
@@ -141,6 +141,7 @@ speaking, signing, pointing, drawing, or acting; all are valid.
 
 - CASEL SEL Framework (foundational competencies; social awareness and relationship
   skills): <https://casel.org/fundamentals-of-sel/>
+- On listening as an active skill: International Listening Association — Listening Skills resources (S-174).
 
 ## Home connection
 

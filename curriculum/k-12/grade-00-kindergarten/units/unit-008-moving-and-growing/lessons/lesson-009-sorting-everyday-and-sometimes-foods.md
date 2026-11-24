@@ -133,7 +133,7 @@ the sorting as a shared, discussion-rich activity.
    "sometimes" for another.
 4. **Draw one of each (10 min).** Draw one everyday food and one sometimes food you
    enjoy. Notice: do you like them both? Of course — and that is fine.
-5. **Close (5 min).** Everyday foods keep us going; sometimes foods make days special.
+5. **Close (5 min).** Everyday foods keep us going (S-038); sometimes foods make days special.
    Both have a place in a happy, healthy life.
 
 ## Differentiation
@@ -149,6 +149,10 @@ the sorting as a shared, discussion-rich activity.
 - **Formative (observation):** Can the learner place a common food in an "everyday" or
   "sometimes" group and give a simple reason?
 - **Self:** The learner names one everyday food and one sometimes food they enjoy.
+
+## Resources
+
+- On everyday foods, energy, and growth: WHO — Healthy diet fact sheet (S-038).
 
 ## Home connection
 

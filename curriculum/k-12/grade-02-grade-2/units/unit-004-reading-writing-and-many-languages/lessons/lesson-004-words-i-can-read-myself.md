@@ -121,7 +121,7 @@ honored.
    you do it? You probably broke it into its **sounds** and joined them again.
 2. **Meet sounding out (5 min).** A **regularly spelled** word follows your
    language's sound rules. You can **sound it out**: say each sound, then blend the
-   sounds into the word.
+   sounds into the word (S-040).
 3. **Watch and listen (5 min).** Watch one word sounded out slowly: each sound
    tapped with a counter, then the sounds joined into the whole word.
 4. **Sound out together (10 min).** Take a second word. Tap one counter for each
@@ -153,7 +153,5 @@ someone.
 
 ## Resources
 
-- Kirschner, Sweller & Clark (2006), "Why Minimal Guidance During Instruction Does
-  Not Work" — explicit instruction in decoding.
-- UNESCO, multilingual and mother-tongue-based education:
-  <https://www.unesco.org/en/days/mother-language>
+- On phonics — teaching sound–symbol correspondences and blending — as a core part of
+  learning to read: National Reading Panel (2000) — Teaching Children to Read (S-040).

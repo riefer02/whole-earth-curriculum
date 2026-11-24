@@ -102,7 +102,7 @@ without the word. The skill is to read them — and to treat the *softest* signa
 as the loudest one. This is true everywhere, even though the gestures differ from place to
 place: in some cultures people signal "stop" or "I'm not comfortable" with an open palm, in
 others with a step back or a downcast look. Reading the whole person — not only the words —
-is a universal human skill.
+is a universal human skill (S-160).
 
 ## Materials
 
@@ -176,3 +176,5 @@ saying the word — a look, a gesture, a tone — and share one cue you learned 
   of the Child (Articles 12 and 19), <https://www.unicef.org/child-rights-convention>
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On nonverbal behavior as patterned and culturally variable: Paul Ekman & Wallace V. Friesen — The Repertoire of Nonverbal Behavior (S-160).
+

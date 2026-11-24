@@ -122,7 +122,7 @@ together into one piece.
 
 Combining sound and motion is a **skill**, so model it once — "long boom, I reach high
 and slow; short tap, I drop low and quick" — before learners try (Kirschner, Sweller &
-Clark, 2006). Keep the pattern short (two to four sounds and two to four moves) so the
+Clark, 2006, S-011). Keep the pattern short (two to four sounds and two to four moves) so the
 match stays clear. Sound and motion can live in the same body (clap while moving) or
 split across partners (one sounds, one moves) — both are combining. A learner with
 limited mobility pairs sound with the movement they can make (a high hand, a low head)
@@ -169,8 +169,8 @@ Every piece belongs.
 
 ## Resources
 
-- No external resources required; the claims in this lesson are about the learner's own
-  sounding and moving, which they practice directly.
+- On modeling a skill once before learners try it: Kirschner, Sweller & Clark (2006) — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

@@ -125,7 +125,7 @@ caregiver or older peer can help — the goal is clean teeth, not doing it alone
    - Spit out the foam — do not swallow the paste.
 4. **Brush for real (15 min).** Brush your own teeth, going around every part. Sing a
    short song in your head — about two minutes is enough. Rinse with a little water.
-5. **When do we brush? (5 min).** Name the times: in the **morning** and before **bed**.
+5. **When do we brush? (5 min).** Name the times: in the **morning** and before **bed** (S-017).
    Share with a partner one time you will remember.
 6. **Close (5 min).** Feel your teeth with your tongue — smooth and clean. Clean teeth
    are a way of saying "I care for my body."
@@ -146,4 +146,4 @@ caregiver or older peer can help — the goal is clean teeth, not doing it alone
 ## Resources
 
 - World Health Organization, "Oral health" (caring for teeth and mouth):
-  <https://www.who.int/news-room/fact-sheets/detail/oral-health>
+  <https://www.who.int/news-room/fact-sheets/detail/oral-health> (S-017)

@@ -107,7 +107,7 @@ grows a root, then a stem, then leaves — step by step, over time. Your body is
 something similar right now, in its own way: it is growing from a child's body into an
 adult body. This long, gradual change is called **puberty**. It begins at different ages
 for different people — for most, somewhere between about 8 and 15 — and it brings a set
-of changes that prepare the body for adult life. Whether you grow up in a busy city, a
+of changes that prepare the body for adult life (S-261). Whether you grow up in a busy city, a
 village, or on a farm, the same changes come — each body simply arrives at them on its
 own schedule.
 
@@ -224,3 +224,5 @@ notice" page — and share one change you now understand better.
   normal across the full human range. For the practice of naming questions safely and
   managing the feelings that can come with change, see the CASEL framework:
   <https://casel.org/fundamentals-of-sel/>.
+- On puberty and adolescent development as a normal, gradual process: WHO — Adolescent health (health topic) (S-261).
+

@@ -88,11 +88,11 @@ its key details.
 
 ## Connection
 
-When someone reads a story or a report aloud, not every word is equally important.
-Some details are the load-bearing walls of the meaning; others are just decoration. If
-you tell a friend about a trip, you keep the storm that changed the plan — and leave
-out the color of every single shirt. Choosing key details is how listening becomes
-understanding.
+When someone reads a story or a report aloud, not every word is equally important. Some
+details are the load-bearing walls of the meaning; others are just decoration. If you
+tell a friend about a trip, you keep the storm that changed the plan — and leave out the
+color of every single shirt. Choosing key details is how listening becomes understanding
+(S-040).
 
 ## Materials
 
@@ -109,10 +109,10 @@ understanding.
 
 Picking key details is a taught skill: model it with a worked example — read a short
 passage, then think aloud about which details are *needed* to understand it and which
-are extra (Kirschner, Sweller & Clark, 2006). The test question is always "if I took
-this detail away, would the meaning change?" — not "is this detail interesting?" Accept
-retells in the learner's own words and language, and honor a faithful retell even when
-the wording differs. A learner who is Deaf or hard of hearing retells from a signed
+are extra (Kirschner, Sweller & Clark, 2006, S-011). The test question is always "if I
+took this detail away, would the meaning change?" — not "is this detail interesting?"
+Accept retells in the learner's own words and language, and honor a faithful retell even
+when the wording differs. A learner who is Deaf or hard of hearing retells from a signed
 read-aloud or written text; a learner who is blind or has low vision retells from what
 they heard. Reading aloud well — with clear pace and volume — is itself a model of the
 speaking skills this unit builds.
@@ -156,7 +156,7 @@ only the key details, and ask whether you kept what mattered.
 
 ## Resources
 
-- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during
-  instruction does not work. *Educational Psychologist*, 41(2), 75–86.
-- National Reading Panel (2000). Report on comprehension (summarizing and identifying
-  important information). (Widely used evidence base.)
+- On identifying important information and summarizing as comprehension strategies:
+  National Reading Panel — Teaching Children to Read (S-040).
+- On worked examples and explicit instruction: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

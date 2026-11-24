@@ -100,7 +100,7 @@ cared about — never as a thing that simply appeared.
 ## Connection
 
 Hold any object near you — a cup, a shoe, a phone, a broom. Someone, somewhere, decided what
-problem it would solve, how it should feel to use, and what mattered enough to build into it.
+problem it would solve, how it should feel to use, and what mattered enough to build into it (S-061).
 A tool is a person's thinking made solid. Today you learn to read a tool the way you would
 read a person: what did its makers need, want, and value?
 
@@ -179,3 +179,5 @@ nice to use, and what value does it carry?
   want, and value follows the curriculum's "technology as shaped by people, not magic"
   commitment (`docs/philosophy.md` §4). On modeling a routine before independent practice, see
   Kirschner, Sweller & Clark (2006), <https://doi.org/10.1207/s15326985ep4102_1>.
+- On tools as made objects designed for a purpose: Britannica Kids — Tool (S-061).
+

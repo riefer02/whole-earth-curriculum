@@ -104,7 +104,7 @@ friend go first, keeping or returning something you found. Before you choose, yo
 ("I want it first," "I might get less"). Then you decide, and you can say *why*.
 People everywhere weigh reasons before they decide — a family choosing who gets the
 last bowl of rice, fishers choosing where to cast the net, a class choosing a game.
-Today you will practice weighing reasons for and against.
+Today you will practice weighing reasons for and against (S-001, S-094).
 
 ## Materials
 
@@ -191,7 +191,9 @@ against out loud. Then decide and tell a grown-up your "because."
 
 ## Resources
 
-- CASEL SEL Framework (responsible decision-making): <https://casel.org/fundamentals-of-sel/>
-- The balance-scale picture of weighing reasons is adapted from a long tradition of
-  weighing arguments; a plain-language version appears in many "thinking skills"
-  materials for children (see the Cambridge "philosophy for children" collections).
+- On responsible decision-making — weighing choices and their consequences: CASEL —
+  Fundamentals of Social and Emotional Learning (S-001).
+- On weighing reasons and asking 'why?' together with young learners, in the
+  philosophy-for-children tradition: Matthew Lipman (1974) — Harry Stottlemeier's
+  Discovery (S-094).
+

@@ -96,7 +96,7 @@ everything and tells you almost nothing. Writing comes alive when the words get 
 not "a bird" but "a wet-eyed heron," not "it was hot" but "the tin roof burned your
 hand." The same idea — a hard journey, a good meal, a storm — can be told vaguely or
 precisely, in any language. Precise writing is not fancy writing; it is *honest* writing,
-and it is how you make a reader see what you see.
+and it is how you make a reader see what you see (S-102).
 
 ## Materials
 
@@ -165,3 +165,5 @@ them which version they could see.
   <https://ies.ed.gov/ncee/wwc/practiceguide/22>
 - On modeling before practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On explicit strategies for choosing words and revising for clarity: Steve Graham & Dolores Perin — Writing Next: Effective Strategies to Improve Writing of Adolescents in Middle and High Schools (S-102).
+

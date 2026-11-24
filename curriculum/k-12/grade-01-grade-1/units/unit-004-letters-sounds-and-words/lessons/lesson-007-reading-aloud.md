@@ -118,7 +118,7 @@ or communicating with an AAC device — that is reading aloud too, honored just 
    under each word as you go. Slow down at the end of each sentence.
 4. **Read in turns (15 min).** With a partner, take turns reading one sentence
    each. Listen for a clear voice. If a word is tricky, sound it out like you
-   practiced, then keep going.
+   practiced, then keep going (S-040).
 5. **Read for a listener (5 min).** Read the whole text aloud once more for your
    partner or group, as if you are telling them the story.
 6. **Close (5 min).** A clear voice carries words from the page to the people.
@@ -144,3 +144,8 @@ or communicating with an AAC device — that is reading aloud too, honored just 
 
 Read one short page or sentence aloud to someone at home, using your clearest
 reading voice.
+
+## Resources
+
+- On guided oral reading and sounding out unfamiliar words as the evidence-based
+  route to fluency: National Reading Panel (2000) — Teaching Children to Read (S-040).

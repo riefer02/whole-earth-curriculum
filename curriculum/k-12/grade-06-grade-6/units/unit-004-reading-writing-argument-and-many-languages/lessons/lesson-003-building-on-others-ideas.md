@@ -98,7 +98,7 @@ on that** — a garden gives us food to share." "**That connects to health** —
 grow." Each idea rested on the one before it, like blocks in a tower. The opposite is a
 conversation where everyone only waits for their turn and nobody's words touch anyone else's.
 **Building on others' ideas** is the skill that turns a group of people talking into one
-*mind thinking together* — in a classroom, a family, or a community meeting.
+*mind thinking together* — in a classroom, a family, or a community meeting (S-238).
 
 ## Materials
 
@@ -172,3 +172,5 @@ notice how the other person responds.
   "talk moves" of accountable talk (Michaels & O'Connor) and cooperative-learning research
   (Johnson & Johnson). On cooperation over competition and explicit instruction for novice
   skills, see `docs/philosophy.md` and Kirschner, Sweller & Clark (2006).
+- On accountable-talk moves that build on others' ideas in discussion: Sarah Michaels & Cathy O'Connor — Accountable Talk / Talk Moves (S-238).
+

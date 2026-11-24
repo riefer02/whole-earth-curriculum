@@ -87,8 +87,8 @@ Learners read and write decimals to the thousandths. They build numbers on a
 **place-value chart**, name each place (**tenths, hundredths, thousandths**), and write
 the same number three ways — **standard form** (3.456), **word form** ("three and four
 hundred fifty-six thousandths"), and **expanded form** (3 + 4/10 + 5/100 + 6/1000). They
-see that the decimal point is just a marker between whole ones and the parts smaller than
-one.
+see that the decimal point is just a marker between whole ones and the parts smaller
+than one (S-023).
 
 ## Objectives
 
@@ -102,8 +102,8 @@ You already know whole numbers — ones, tens, hundreds. Now think about one sin
 bread. Tear one strip into ten again and you get **one hundredth**; tear again and you get
 **one thousandth**. Decimals are how we write those small parts next to whole ones — and
 people use them every day for money, medicine, measurements, and weather. In many parts of
-the world the decimal point is written as a **comma** instead (3,456), but the idea is the
-same: a marker between whole ones and parts of one.
+the world the decimal point is written as a **comma** instead (3,456) (S-175), but the
+idea is the same: a marker between whole ones and parts of one.
 
 ## Materials
 
@@ -176,9 +176,10 @@ weather report — and read one decimal aloud together.
 
 ## Resources
 
-- Place value with decimals is standard in elementary mathematics; see John A. Van de Walle,
-  *Elementary and Middle School Mathematics* (10th ed., 2019) for place-value teaching models.
-  The note that a comma serves as the decimal separator in many countries is a documented
-  convention (ISO 80000-1, which stipulates the decimal sign is "either a comma or a point on
-  the line," and national standards); treating all conventions as valid is a value commitment
-  (`docs/philosophy.md` §4).
+- On the decimal positional system, in which a small marker separates whole ones from
+  parts of one: Ifrah — *The Universal History of Numbers* (S-023).
+- On the decimal sign: ISO 80000-1 allows either a comma or a point on the line,
+  which is why many countries write 3,456 where others write 3.456: ISO 80000-1,
+  Quantities and units, Part 1, <https://www.iso.org/standard/76921.html> (S-175).
+- On teaching place value with models before independent practice: Van de Walle, Karp
+  & Bay-Williams — *Elementary and Middle School Mathematics* (S-026).

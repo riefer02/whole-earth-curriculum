@@ -100,7 +100,8 @@ A family makes a meal: one washes the greens, one chops, one watches the pot, on
 table. Nobody does everything, and nobody stands idle. That is fair task division — list
 the jobs, share them so each person carries a real part, and the work gets done without
 one person carrying it all. In a sports team, a garden, or a shop, the same trick holds:
-**fair teams name every job and give everyone a part that matters**.
+**fair teams name every job and give everyone a part that matters** (S-147;
+S-007).
 
 ## Materials
 
@@ -165,7 +166,14 @@ helper a real part.
 
 ## Resources
 
-- Cooperative-learning structures that divide work fairly have a strong research base
-  (Slavin, *Cooperative Learning*, 1995; Bloom's reported cooperative-learning effect,
-  1984). For the relationship-skills and social-awareness framing, see CASEL:
-  <https://casel.org/fundamentals-of-sel/>
+- On cooperative-learning structures that assign roles and hold each member
+  individually accountable: Slavin — *Cooperative Learning: Theory, Research, and
+  Practice* (S-147).
+- On cooperative goal structures producing higher achievement and better
+  relationships than competitive or individualistic ones: Johnson & Johnson (1981),
+  *Psychological Bulletin* (S-233).
+- On Bloom's reported effect sizes for cooperative learning and mastery learning,
+  alongside one-to-one tutoring: Bloom (1984), *The 2 Sigma Problem*,
+  <https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem> (S-007).
+- On relationship skills and social awareness in social and emotional learning:
+  CASEL, <https://casel.org/fundamentals-of-sel/> (S-001).

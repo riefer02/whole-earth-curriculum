@@ -104,8 +104,8 @@ care real.
 You have learned two big things this unit: how to see a message's **purpose and audience**,
 and how to **care** for a resource by knowing where it comes from and using less. Today you
 put them together. You will make a small message that helps people care — naming a resource,
-where it comes from, and one way to use less, made for a real audience. A message that
-cares tells the truth and asks people to help, not to buy.
+where it comes from, and one way to use less, made for a real audience (S-004). A message that
+cares tells the truth and asks people to help, not to buy (S-063).
 
 ## Materials
 
@@ -200,9 +200,8 @@ the Earth, and who would they send it to?
 
 ## Resources
 
-- Common Sense Education, "News & Media Literacy" — creating honest messages and knowing
-  their purpose and audience, supporting the making-and-sharing work.
-  https://www.commonsense.org/education/digital-citizenship/topic/news-and-media-literacy
-- UNESCO, "Education for Sustainable Development" — caring for the Earth and for other
-  people as one everyday practice, the value frame behind the care message.
-  https://www.unesco.org/en/sustainable-development/education
+- On making honest messages and knowing their purpose and audience: Common Sense Education
+  — News & Media Literacy (S-063).
+- On caring for the Earth and for other people as an everyday practice: UNESCO — Education
+  for Sustainable Development (S-004).
+

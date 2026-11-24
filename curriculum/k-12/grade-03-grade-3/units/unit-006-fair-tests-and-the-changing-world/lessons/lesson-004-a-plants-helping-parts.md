@@ -101,7 +101,7 @@ Look at any plant you know — a bean in a cup, a tree by the road, rice in a fi
 stands there quietly doing three jobs at once. Its **roots** drink water from the soil
 and hold it steady. Its **stem** is like a straw and a tower: it carries water up and
 holds the **leaves** up to the light. And the **leaves** catch sunlight to make the
-plant's food. Pull up a weed and you can see all three with your own eyes.
+plant's food. Pull up a weed and you can see all three with your own eyes (S-074).
 
 ## Materials
 
@@ -167,6 +167,6 @@ root, a stem, or a leaf? Say what that part does for the plant.
 
 ## Resources
 
-- BBC Bitesize (KS2 Science), "The structure of flowering plants" — how roots, stems,
-  and leaves help a plant survive and grow.
-  https://www.bbc.co.uk/bitesize/topics/zy66fg8/articles/z2d4g7h
+- On roots, stems and leaves and the job each does: BBC Bitesize (KS2) — The structure of
+  flowering plants (S-074).
+

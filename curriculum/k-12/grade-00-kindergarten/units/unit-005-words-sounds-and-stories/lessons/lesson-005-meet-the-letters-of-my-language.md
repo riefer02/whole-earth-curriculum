@@ -84,7 +84,7 @@ They begin to name a few.
 ## Connection
 
 The words you hear can also be written down as marks. Every writing system has its own
-set of marks — and yours is the one your family uses at home. These marks are like a
+set of marks (S-165) — and yours is the one your family uses at home. These marks are like a
 code that carries your words across time and space, so someone far away can read what
 you thought.
 
@@ -138,6 +138,10 @@ a mark can be known by touch and by its spoken name, not only by sight.
   writing system when shown it?
 - **Formative (oral):** Can the learner name one or more marks of their writing
   system?
+
+## Resources
+
+- On the world's writing systems: Daniels & Bright (eds.) — The World's Writing Systems (S-165).
 
 ## Home connection
 

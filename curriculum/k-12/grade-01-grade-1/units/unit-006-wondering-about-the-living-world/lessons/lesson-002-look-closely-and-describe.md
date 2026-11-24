@@ -128,7 +128,7 @@ home languages.
    the air feels cool."
 4. **Draw one detail (7 min).** Draw your thing and its best detail — the veins in the
    leaf, the stripes on the animal.
-5. **Close (3 min).** Looking closely finds what a quick glance misses. A scientist
+5. **Close (3 min).** Looking closely finds what a quick glance misses (S-041). A scientist
    looks slowly, and then says what they see.
 
 ## Differentiation
@@ -152,3 +152,8 @@ home languages.
 
 At home, choose one thing — a spoon, a leaf, a pet — and look at it very slowly for
 one minute. Tell a grown-up three details you had never noticed before.
+
+## Resources
+
+- On observing closely, testing ideas, and recording what is found: BBC Bitesize (KS1
+  Science), "Working scientifically" (S-041).

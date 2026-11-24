@@ -86,9 +86,9 @@ last_updated: 2026-08-16
 ## Summary
 
 Learners build two numbers with tens and ones and compare them, discovering that you
-look at the **tens** first, and only check the **ones** if the tens are the same. They
-then order small sets of two-digit numbers from least to greatest, using bundles as
-the proof.
+look at the **tens** first, and only check the **ones** if the tens are the same
+(S-020). They then order small sets of two-digit numbers from least to greatest, using
+bundles as the proof.
 
 ## Objectives
 
@@ -171,6 +171,5 @@ and say which is greater and how you know by looking at the tens first.
 
 ## Resources
 
-- Clements, D. H., & Sarama, J. (2014). *Learning and Teaching Early Math: The
-  Learning Trajectories Approach* (2nd ed.). Routledge. (Comparing two-digit numbers
-  by comparing tens before ones.)
+- On comparing two-digit numbers by comparing tens before ones: Clements & Sarama —
+  Learning and Teaching Early Math: The Learning Trajectories Approach (S-020).

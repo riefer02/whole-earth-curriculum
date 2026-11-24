@@ -99,8 +99,8 @@ ecosystem map.
 
 The water in your cup has been rain, a river, a cloud, and — long ago — part of
 countless plants and animals. Water and carbon are the same atoms, borrowed again and
-again: they **cycle**. But the energy that warmed you and grew your food came from the
-Sun and will leave as heat and never come back the same way: it **flows**. One turns
+again: they **cycle** (S-253). But the energy that warmed you and grew your food came from the
+Sun and will leave as heat and never come back the same way: it **flows** (S-252). One turns
 in a circle; the other runs in a line. Today you learn to tell them apart in any
 ecosystem, from a rice paddy to a coral reef to a forest.
 
@@ -181,3 +181,6 @@ stories.
   <https://education.nationalgeographic.org/resource/carbon-cycle/>
 - BBC Bitesize (KS3), "Food chains and webs" — energy transfer in ecosystems:
   <https://www.bbc.co.uk/bitesize/topics/zxhhvcw/articles/zjh4r2p>
+- On the carbon cycle and matter moving through reservoirs: National Geographic Education — The Carbon Cycle (S-253).
+- On energy flowing through an ecosystem along food chains: National Geographic Education — Food Chain (S-252).
+

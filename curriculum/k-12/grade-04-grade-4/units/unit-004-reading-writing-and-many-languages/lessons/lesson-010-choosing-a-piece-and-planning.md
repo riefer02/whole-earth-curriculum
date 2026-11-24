@@ -95,7 +95,8 @@ the plan they make will carry through the lessons that follow.
 Builders do not stack bricks and hope. They draw a plan first. Writers are builders of
 ideas, and planning is the drawing. Before you write a story, a report, or your opinion,
 you choose what kind of piece it is and gather your ideas around one clear center. A few
-minutes of planning now saves confusion later — and makes the drafting that follows flow.
+minutes of planning now saves confusion later (S-102) — and makes the drafting that
+follows flow.
 
 ## Materials
 
@@ -111,12 +112,12 @@ minutes of planning now saves confusion later — and makes the drafting that fo
 
 Planning is a taught skill, so model it with a worked example: choose a kind and topic
 aloud, fill a planning web, and think aloud about which ideas belong (Kirschner, Sweller
-& Clark, 2006). Teach the three kinds plainly — narrative tells a story, informative
-gives facts, opinion says what you think and why — and let the learner choose the one
-that fits their purpose. The plan belongs to the learner and will grow across the coming
-lessons into a published piece, so keep it as a portfolio artifact. Honor plans in any
-form — web, outline, list, drawing — and in the learner's home language. Planning is
-thinking made visible; there is no single "correct" plan.
+& Clark, 2006, S-011). Teach the three kinds plainly — narrative tells a story,
+informative gives facts, opinion says what you think and why — and let the learner
+choose the one that fits their purpose. The plan belongs to the learner and will grow
+across the coming lessons into a published piece, so keep it as a portfolio artifact.
+Honor plans in any form — web, outline, list, drawing — and in the learner's home
+language. Planning is thinking made visible; there is no single "correct" plan.
 
 ## Procedure
 
@@ -159,7 +160,7 @@ opinion) and list your main idea and two details, then show someone your plan.
 
 ## Resources
 
-- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during
-  instruction does not work. *Educational Psychologist*, 41(2), 75–86.
-- Graham, S., & Perin, D. (2007). *Writing Next* — explicit teaching of planning
-  supports writing quality. (Widely used evidence base.)
+- On explicit teaching of planning as part of the writing process: Graham & Perin —
+  Writing Next (S-102).
+- On worked examples and explicit instruction: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

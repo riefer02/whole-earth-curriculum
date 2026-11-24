@@ -124,7 +124,7 @@ learners are the ones who can do the next kind act.
 3. **Describe it (10 min).** Tell the story back: who helped whom, and what did they
    do? Point to the pictures, act it out, or say it.
 4. **Find why it mattered (10 min).** Ask: why did this kindness matter? The one
-   helped felt cared for, safe, full, or less alone. The helper felt warm inside.
+   helped felt cared for, safe, full, or less alone (S-230). The helper felt warm inside.
    And the world felt a little kinder. Name or show one reason.
 5. **Draw the why (5 min).** Draw the kind act and mark or caption why it mattered.
 6. **Close (5 min).** Kindness is small and mighty. It helps one person or animal
@@ -155,3 +155,8 @@ learners are the ones who can do the next kind act.
 
 With a grown-up, think of a kind act you saw this week — for a person or an animal.
 What happened, and why did it matter?
+
+## Resources
+
+- On empathic concern for another person as a motive for helping: Batson — Empathic
+  Concern vs Personal Distress (S-230).

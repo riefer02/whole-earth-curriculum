@@ -210,3 +210,13 @@ perspectives, never a single one.
 
 Take your story page home and share it with someone. Ask them: what is one thing they
 would add to their own people, places, and long ago story?
+
+## Resources
+
+- Unit sources are gathered across Lessons 1–9: Encyclopaedia Britannica (historiography
+  and the ordering of time, S-314), Our World in Data (light at night, S-052), DK/UNICEF
+  (*Children Just Like Me*, S-053), the International Potato Center (S-054), the
+  Polynesian Voyaging Society (S-055), UNESCO Intangible Cultural Heritage (S-056),
+  National Geographic Education (desert, S-057), the Inuit Circumpolar Council (S-058),
+  the Nobel Prize (Wangari Maathai, S-059), and the Stanford History Education Group
+  (S-316). No new factual claims are introduced in this capstone.

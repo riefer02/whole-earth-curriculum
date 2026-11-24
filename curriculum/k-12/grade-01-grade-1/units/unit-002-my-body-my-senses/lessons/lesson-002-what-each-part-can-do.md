@@ -123,7 +123,7 @@ one way of moving as the "right" way. Celebrate each learner's own way.
    the job.
 4. **Different bodies, same jobs (10 min).** Think: can a person reach without arms
    or walk without legs? Yes — people reach with a mouth, a tool, or a chair that
-   moves, and go with wheels or a friend's help. The job is the same; the body just
+   moves, and go with wheels or a friend's help (S-099). The job is the same; the body just
    does it its own way.
 5. **Close (5 min).** Your body is full of helpers. Name one part and thank it for
    the job it does for you today.
@@ -144,3 +144,8 @@ one way of moving as the "right" way. Celebrate each learner's own way.
 
 Watch someone at home do a job (stirring, sweeping, carrying) and name the body part
 doing the work.
+
+## Resources
+
+- On wheelchairs, prostheses, and other aids as ordinary tools that let a body do the
+  same job its own way: WHO — Assistive Technology fact sheet (S-099).

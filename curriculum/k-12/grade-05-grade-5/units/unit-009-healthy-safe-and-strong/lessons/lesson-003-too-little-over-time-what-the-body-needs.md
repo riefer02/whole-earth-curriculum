@@ -102,7 +102,7 @@ Water a plant too little, day after day, and it wilts — not because the plant 
 because it is missing something it needs. Your body is like that. Go too long with **too
 little** of a needed **nutrient** — over days, weeks, or months, not just one meal — and the
 body signals that something is missing. Too little **iron** and you feel **tired** and low on
-energy, because your blood has less of what carries oxygen. Too little **calcium and vitamin D**
+energy, because your blood has less of what carries oxygen (S-194). Too little **calcium and vitamin D**
 and your **bones** grow weaker. Too little **water** and you feel **thirsty**, with a dry mouth
 and sometimes a headache. None of this is about a person being "wrong" — it is simply what a
 body needs, the way a plant needs water.
@@ -145,8 +145,8 @@ difficulty with hope.
 3. **Think together (10 min).** Why might a body get too little of a nutrient? Sometimes a
    person just needs to drink more water. Sometimes food that supplies a nutrient — beans and
    leafy greens for iron, milk or leafy greens and sesame for calcium — is **hard to get or too
-   costly** where a family lives. That is a **fairness problem** in how food is shared, not
-   anyone's fault. What foods around you supply iron, calcium, and water?
+   costly** where a family lives. That is a **fairness problem** in how food is shared,
+   not anyone's fault (S-119). What foods around you supply iron, calcium, and water?
 4. **Record (15 min).** On your page, answer: what happens with too little iron, too little
    calcium and vitamin D, and too little water, over time — and name one food or drink that
    supplies each. Write or draw.
@@ -176,10 +176,11 @@ body needs enough of and a food that supplies it.
 
 ## Resources
 
-- Too little iron over time leads to iron-deficiency anaemia, whose main symptom is fatigue;
-  too little calcium and vitamin D over time weakens bones; and too little water causes
-  dehydration (thirst, headache, dry mouth). See the World Health Organization's fact sheet on
-  anaemia (<https://www.who.int/news-room/fact-sheets/detail/anaemia>) and its nutrition and
-  hydration guidance. Food shortages are best understood as a **food security** issue — the UN
-  Food and Agriculture Organization documents unequal access to food worldwide
-  (<https://www.fao.org/>) — a fairness problem, not any person's fault.
+- On iron deficiency over time leading to anaemia, whose main sign is tiredness and low
+  energy: WHO — Anaemia fact sheet,
+  <https://www.who.int/news-room/fact-sheets/detail/anaemia> (S-194).
+- On hunger and unequal access to food as a public, systemic problem rather than any
+  person's failure: FAO — Hunger and food security,
+  <https://www.fao.org/hunger/en/> (S-119).
+- On the body's need for enough vitamins, minerals and water: WHO — Micronutrients,
+  <https://www.who.int/health-topics/micronutrients> (S-193).

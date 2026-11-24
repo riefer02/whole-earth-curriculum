@@ -100,7 +100,7 @@ from ___ are ___." These are shortcuts — fast, flat summaries that fit in one 
 person is not a box. The quiet one also sings loudly in the kitchen. The athlete also writes
 poems. The troublemaker also cares for a younger sibling with patient hands. Wherever you live,
 the shortcut is the same temptation: it is easier to carry a label than to carry a person's
-whole story.
+whole story (S-344).
 
 ## Materials
 
@@ -195,3 +195,5 @@ quietly name one thing about a real person it leaves out.
   News & Media Literacy, <https://www.commonsense.org/education/digital-citizenship/topic/news-and-media-literacy>
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On automatic bias and how it can be caught and questioned: Mahzarin R. Banaji & Anthony G. Greenwald — Blindspot: Hidden Biases of Good People (S-344).
+

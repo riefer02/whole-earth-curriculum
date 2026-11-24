@@ -157,7 +157,7 @@ learner with a motor difference can be the scribe's director or the checker.
 2. **Meet "fair division" (10 min).** A **project** is something you make or do
    together. Dividing the **tasks** fairly means: **listen** to every person, ask what
    each can do and wants to do, and share the load so no one is left out and no one is
-   overloaded.
+   overloaded (S-147).
 3. **Choose and list the tasks (10 min).** As a group, pick your small project. List the
    tasks it needs. Pass the talking stone so **each person** names one task they could
    do or want to do.
@@ -190,8 +190,9 @@ is heard.
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills — cooperation and listening):
-  <https://casel.org/fundamentals-of-sel/>
-- Cooperative learning structures that divide work fairly are described in
-  Slavin's cooperative-learning research and in the Escuela Nueva self-paced guide
-  tradition; see also the IIRP's community-practice materials.
+- On cooperative-learning structures that give each member a role and individual
+  responsibility: Slavin — Cooperative Learning (S-147).
+- On multi-grade, self-paced schooling that organizes shared work in small groups:
+  Escuela Nueva — multi-grade, self-paced rural schooling (S-008).
+- On relationship skills, including cooperation and listening: CASEL — Fundamentals of
+  Social and Emotional Learning (S-001).

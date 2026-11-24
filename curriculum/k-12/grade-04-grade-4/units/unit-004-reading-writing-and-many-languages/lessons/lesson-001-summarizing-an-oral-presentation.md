@@ -90,9 +90,9 @@ is most important.
 
 Think of someone explaining a new game, giving directions to a place, or telling you
 what happened at the market or in the field. You do not walk away holding every single
-word — you keep the big point and the few details that matter. That is summarizing. It
-is how you carry a speaker's meaning with you, in your own words, long after they
-finish.
+word — you keep the big point and the few details that matter. That is summarizing
+(S-040). It is how you carry a speaker's meaning with you, in your own words, long after
+they finish.
 
 ## Materials
 
@@ -109,12 +109,12 @@ finish.
 
 Summarizing is a taught skill: model it first with a worked example (a short talk you
 give, then summarize aloud), then guide learners to try it (Kirschner, Sweller & Clark,
-2006). Keep the parts clear — the **main idea** is the one big thing the talk is about;
-the **key details** are the few facts or steps that hold it up. Accept a summary in the
-learner's own words and own language; there is no single "correct" wording. A learner
-who is Deaf or hard of hearing summarizes a signed presentation; a learner who is blind
-or has low vision summarizes what they hear. This is sense-making, not a memory test —
-honor a faithful summary even when it is worded differently. If a recording or
+2006, S-011). Keep the parts clear — the **main idea** is the one big thing the talk is
+about; the **key details** are the few facts or steps that hold it up. Accept a summary
+in the learner's own words and own language; there is no single "correct" wording. A
+learner who is Deaf or hard of hearing summarizes a signed presentation; a learner who
+is blind or has low vision summarizes what they hear. This is sense-making, not a memory
+test — honor a faithful summary even when it is worded differently. If a recording or
 translation tool is used, notice what it adds (many voices) and what it cannot carry
 (the living person); people remain the real source.
 
@@ -161,8 +161,7 @@ the summary right.
 
 ## Resources
 
-- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during
-  instruction does not work. *Educational Psychologist*, 41(2), 75–86. (Evidence for
-  worked examples and explicit instruction when teaching a new skill.)
-- National Reading Panel (2000). Report on comprehension — summarizing is a core
-  comprehension strategy. (Widely used evidence base.)
+- On summarizing as an evidence-based comprehension strategy: National Reading Panel —
+  Teaching Children to Read (S-040).
+- On worked examples and explicit instruction when teaching a new skill: Kirschner,
+  Sweller & Clark — Why Minimal Guidance During Instruction Does Not Work (S-011).

@@ -109,9 +109,9 @@ put two movements together on purpose.
 
 ## Facilitator note
 
-Prepare the space, then model each two-movement sequence slowly before learners try.
-This spirals up from Grade 1's single movements (skip, gallop, hop, jump) — now two
-movements join into a sequence. This is movement, not a race: celebrate control and
+Prepare the space, then model each two-movement sequence slowly before learners try
+(S-011). This spirals up from Grade 1's single movements (skip, gallop, hop, jump) — now
+two movements join into a sequence. This is movement, not a race: celebrate control and
 order, never speed or distance. Honor every body: a learner who uses a wheelchair can
 run with their wheels and catch with a lap tray; a learner who needs support can do the
 sequence seated or with a partner's help. Model adapted versions as real choices, never
@@ -152,3 +152,8 @@ at their own pace.
 
 Show someone at home a two-movement sequence — hop then turn, or run then catch — and
 teach them the order.
+
+## Resources
+
+- On modelling a skill before guided practice: Kirschner, Sweller & Clark (2006) — Why
+  Minimal Guidance Does Not Work (S-011).

@@ -86,9 +86,10 @@ last_updated: 2026-08-17
 Learners explain how living things in an **ecosystem** depend on one another and what happens
 when **one part changes**. A worked example traces a **pond** chain — water plants → small
 animals → fish and frogs → birds — and the ripple when the plants die. Learners then trace a
-change through a **coral reef, mangrove, savanna, or forest**, learning that a change ripples
+change through a **coral reef, mangrove, savanna, or forest** (S-218), learning that a
+change ripples
 outward: change one part, and the rest feel it — and care and restoration can ripple helpfully
-too.
+too (S-215).
 
 ## Objectives
 
@@ -173,9 +174,10 @@ depends on whom, and ask what would happen if one part changed.
 
 ## Resources
 
-- Interdependence in ecosystems and the ripple effects of changing one part are core ecology
-  content for this band (documented in children's science references such as BBC Bitesize,
-  National Geographic Kids, and Britannica Kids). Coral bleaching, mangrove nurseries, and
-  forest habitats are described by NOAA, UNESCO, and the World Wildlife Fund in
-  age-appropriate terms. The stewardship-and-hope framing follows `docs/facilitation.md` and
-  `docs/philosophy.md` §12.
+- On coral bleaching, mangrove nurseries and forest habitats: WWF — Habitats,
+  <https://www.worldwildlife.org/> (S-218).
+- On coral bleaching — what it is and what causes it: NOAA — What is coral bleaching?,
+  <https://oceanservice.noaa.gov/facts/coral_bleach.html> (S-215).
+- On how the living things in an ecosystem depend on one another: BBC Bitesize (KS2) —
+  How do ecosystems work?, <https://www.bbc.co.uk/bitesize/topics/z6wwxnb/articles/zbd4g7h>
+  (S-107).

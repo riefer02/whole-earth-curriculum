@@ -97,7 +97,7 @@ help when they need it. Reliability is framed as care, not duty alone.
 
 In a relay race, everyone runs their leg — if one runner stops, the whole team stops. In a
 garden everyone waters their row; in a kitchen everyone cooks their dish. **Following
-through is how a team trusts each other.** When you say "I'll do my part" and then do it,
+through is how a team trusts each other** (S-156). When you say "I'll do my part" and then do it,
 people learn they can count on you — and when you're stuck, a good teammate asks for help
 instead of quietly disappearing.
 
@@ -163,7 +163,8 @@ someone how it went.
 
 ## Resources
 
-- Contribution, responsibility, and follow-through are developmental assets that protect
-  and grow children (Search Institute's 40 Developmental Assets). For classroom framing of
-  cooperation and relationship skills, see CASEL:
-  <https://casel.org/fundamentals-of-sel/>
+- On contribution, responsibility, and reliability as developmental assets that
+  support children's growth: Search Institute — 40 Developmental Assets,
+  <https://searchinstitute.org/resources-hub/developmental-assets-framework/> (S-156).
+- On cooperation as a relationship skill, including asking for and offering help:
+  CASEL, <https://casel.org/fundamentals-of-sel/> (S-001).

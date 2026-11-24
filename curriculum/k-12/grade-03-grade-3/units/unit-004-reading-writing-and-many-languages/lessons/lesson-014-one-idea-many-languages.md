@@ -94,7 +94,7 @@ has its own word for it, and each word grew from that people's own long story. O
 idea, many languages. When you learn to say "thank you" in several languages, you are
 not learning several *different* ideas — you are learning one shared idea in many
 voices. That is the deep truth about people: we mean the same things, and we say them
-in many beautiful ways, none above another.
+in many beautiful ways, none above another (S-019).
 
 ## Materials
 
@@ -176,7 +176,8 @@ down side by side — one idea, many languages.
 
 ## Resources
 
-- UNESCO, multilingual and mother-tongue-based education:
-  <https://www.unesco.org/en/days/mother-language>
-- CASEL SEL Framework (social awareness — recognizing shared humanity):
-  <https://casel.org/fundamentals-of-sel/>
+- On every language as a bearer of dignity, none above another: UNESCO — International
+  Mother Language Day (S-019).
+- On the world's roughly seven thousand living languages: Ethnologue — Languages of the
+  World (S-426).
+

@@ -101,7 +101,7 @@ left out — and instead of looking away, they **work together** to change it. O
 story comes from India in 1930: there was an unfair rule that said people had to buy
 salt only from certain sellers and pay a heavy tax, and they were not allowed to gather
 salt from the sea themselves. Thousands of ordinary people decided to change it — by
-walking together, peacefully, to the sea to make their own salt.
+walking together, peacefully, to the sea to make their own salt (S-087).
 
 ## Materials
 
@@ -191,11 +191,9 @@ who does not use a speaking voice acts or points.
 
 ## Resources
 
-- Britannica, "Salt March" — documents that in March–April 1930 Mohandas Gandhi led a
-  march of about 240 miles to the sea at Dandi, India, to protest the British salt
-  laws, and that he and others made salt from seawater in peaceful defiance of the
-  rule, part of the movement for Indian independence.
-  https://www.britannica.com/event/Salt-March
+- On the 1930 Salt March — Gandhi, the march to Dandi, and salt made from seawater in
+  peaceful defiance of the British salt law: Encyclopaedia Britannica — Salt March
+  (S-087).
 
 ## Home connection
 

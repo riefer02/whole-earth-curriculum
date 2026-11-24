@@ -105,11 +105,12 @@ what lets the ideas come out. You can always fix it later; first, get it down.
 
 Drafting is a taught step in the writing process: model turning one plan branch into a
 paragraph, thinking aloud about how one idea becomes one paragraph (Kirschner, Sweller &
-Clark, 2006). Emphasize that the draft is a "sloppy copy" — do not correct spelling now;
-that belongs to editing. This keeps the focus on ideas and protects fluency. One idea
-per paragraph is the organizing rule. Honor drafts in the learner's home language and
-writing system, and honor drafting by dictation, braille, or assistive technology. Every
-draft is a step, never a verdict — the goal is ideas on the page, not perfection.
+Clark, 2006, S-011). Emphasize that the draft is a "sloppy copy" — do not correct
+spelling now; that belongs to editing. This keeps the focus on ideas and protects
+fluency (S-102). One idea per paragraph is the organizing rule. Honor drafts in the
+learner's home language and writing system, and honor drafting by dictation, braille, or
+assistive technology. Every draft is a step, never a verdict — the goal is ideas on the
+page, not perfection.
 
 ## Procedure
 
@@ -151,7 +152,7 @@ my ideas from beginning to end?"
 
 ## Resources
 
-- Kirschner, P. A., Sweller, J., & Clark, R. E. (2006). Why minimal guidance during
-  instruction does not work. *Educational Psychologist*, 41(2), 75–86.
-- Graham, S., & Perin, D. (2007). *Writing Next* — separating drafting from editing
-  supports writing fluency. (Widely used evidence base.)
+- On separating drafting from editing within the writing process: Graham & Perin —
+  Writing Next (S-102).
+- On worked examples and explicit instruction: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

@@ -143,7 +143,7 @@ safely.
    tends to arrive in this kind of moment, what could you do next time to greet it —
    a breath, a friend, a plan? Write one small idea.
 5. **Close (5 min).** You are not a mystery to yourself. Your feelings have patterns,
-   and reading them is the first step to caring for them.
+   and reading them is the first step to caring for them (S-159).
 
 ## Differentiation
 
@@ -170,3 +170,5 @@ one pattern you noticed in yourself today.
   to cognitive-behavioral approaches (see the work of Aaron Beck on recurring thought
   and feeling patterns) and to self-awareness as framed by CASEL:
   <https://casel.org/fundamentals-of-sel/>
+- On how recurring patterns of thought and feeling are identified in cognitive therapy: Aaron T. Beck — Cognitive Therapy and the Emotional Disorders (S-159).
+

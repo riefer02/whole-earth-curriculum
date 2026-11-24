@@ -84,8 +84,9 @@ last_updated: 2026-08-17
 
 Learners turn their research notes into a **short report written in their own words**. They
 meet the rule that copying a source word-for-word without credit is **plagiarism**, practice
-restating a fact in their own words, and write a short report with a simple **sources line**
-that gives credit.
+restating a fact in their own words, and write a short report with a simple **sources
+line**
+that gives credit (S-171).
 
 ## Objectives
 
@@ -166,7 +167,10 @@ source it came from.
 
 ## Resources
 
-- Paraphrasing and citation are foundational to research writing; see Graham & Perin, "Writing
-  Next" (Carnegie Corporation, 2007) and the IES "Teaching Secondary Students to Write
-  Effectively" practice guide. The ethics of credit (not passing off others' work as one's own)
-  is a values commitment; see `docs/philosophy.md` §4–5.
+- On the writing process — plan, draft, revise, edit — for a short report, with explicit
+  strategy instruction: IES, *Teaching Secondary Students to Write Effectively*,
+  <https://ies.ed.gov/ncee/wwc/practiceguide/22> (S-171).
+- On writing instruction that includes planning, drafting and revising for a reader:
+  Graham & Perin — *Writing Next* (S-102).
+- On modelling the restatement in own words before learners draft: Kirschner, Sweller &
+  Clark (2006), <https://doi.org/10.1207/s15326985ep4102_1> (S-011).

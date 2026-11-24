@@ -99,7 +99,7 @@ repeat trials, average, and use finer, steadier methods.
 
 A tailor cutting cloth, a pharmacist weighing medicine, a builder setting a wall, a
 runner timing a lap — every one of them measures, and every one of them knows their
-measurement is never perfect. The mark on the ruler is a little coarse, the eye sits
+measurement is never perfect (S-249). The mark on the ruler is a little coarse, the eye sits
 at a slight angle, the thing being measured shifts. Good measuring is not pretending
 there is no error; it is *knowing where the error comes from* and shrinking it. Today
 you learn to see the difference in your own measurements and to name it.
@@ -178,3 +178,5 @@ differ.
   <https://physics.nist.gov/cuu/Uncertainty/index.html>
 - BBC Bitesize (KS3), "Observation and measurement skills" — measuring, repeating, and
   error: <https://www.bbc.co.uk/bitesize/topics/zsg6m39/articles/zm37jsg>
+- On measurement uncertainty and why repeated measurements vary: NIST — Uncertainty of Measurement Results (S-249).
+

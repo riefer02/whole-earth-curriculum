@@ -85,8 +85,8 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners compare three **origin stories** as **living traditions**, told with respect: the
-Māori separation of **Ranginui** (sky) and **Papatūānuku** (earth), the Haudenosaunee story
-of **Sky Woman and Turtle Island**, and the Yoruba story of **land made from the waters**.
+Māori separation of **Ranginui** (sky) and **Papatūānuku** (earth) (S-202), the Haudenosaunee story
+of **Sky Woman and Turtle Island** (S-203), and the Yoruba story of **land made from the waters** (S-500).
 They see how each reflects the place its people live and the things they value — and they
 practice holding many peoples' stories side by side without ranking them.
 
@@ -176,13 +176,13 @@ share one thing it shows about what your people value.
 
 ## Resources
 
-- These origin stories are living traditions of real peoples. The Māori account of Ranginui
-  and Papatūānuku is told across iwi (tribes) of Aotearoa New Zealand (Te Ara — The
-  Encyclopedia of New Zealand, <https://teara.govt.nz>). The Haudenosaunee (Six Nations)
-  account of Sky Woman and Turtle Island is a living tradition of the Haudenosaunee
-  Confederacy (National Museum of the American Indian,
-  <https://americanindian.si.edu/>). The Yoruba account of creation, involving Olodumare and
-  the making of land from the waters, is a living tradition of Yoruba-speaking peoples of
-  West Africa (see the British Museum and UNESCO's documentation of Yoruba culture). Details
-  vary by community; the point here is that each story reflects its people, not a single
-  fixed wording. Treat each as its people's own account, not as a "myth" to rank.
+- On the Māori account of Ranginui (sky) and Papatūānuku (earth) and their separation:
+  Te Ara — The Encyclopedia of New Zealand,
+  <https://teara.govt.nz> (S-202).
+- On the Haudenosaunee account of Sky Woman and Turtle Island: Smithsonian National
+  Museum of the American Indian,
+  <https://americanindian.si.edu/> (S-203).
+- On Olorun, the Yoruba creator deity, and Yoruba accounts of creation: Encyclopaedia
+  Britannica — Olorun, <https://www.britannica.com/topic/Olorun> (S-500).
+- On origin stories as living heritage kept by the peoples who tell them: UNESCO —
+  Intangible Cultural Heritage, <https://ich.unesco.org/> (S-056).

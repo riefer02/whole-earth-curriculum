@@ -81,7 +81,7 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners discover that a feeling is not caused *only* by what happens, but also by the
-**thought** they have about it. Using a **thought–feeling chain** (event → thought →
+**thought** they have about it (S-159). Using a **thought–feeling chain** (event → thought →
 feeling), they trace a real event of their own and then swap in a second thought to see
 how the feeling changes. This is the first of three "shapers" they will meet this unit:
 thoughts, memories, and body sensations.
@@ -142,7 +142,7 @@ gentleness. See `docs/facilitation.md` on holding difficult topics safely.
 4. **Swap the thought (10 min).** Try a **second, true** thought about the same event —
    not a made-up one, but another real way of seeing it. Write it and the feeling it
    would lead to. Notice: the event stayed the same; your feeling shifted with the
-   thought.
+   thought (S-225).
 5. **Close (5 min).** You are not ruled only by what happens to you — the thoughts you
    notice are part of the story too. Noticing them is the first step to understanding
    yourself.
@@ -172,3 +172,8 @@ Ask someone at home about a time the same event meant something different to two
   traces to the work of psychologist Aaron Beck and cognitive-behavioral research. For
   an accessible classroom framing, see CASEL's self-awareness competency:
   <https://casel.org/fundamentals-of-sel/>
+
+- On how the way we interpret an event shapes the emotion we feel (cognitive
+  appraisal): Beck — *Cognitive Therapy and the Emotional Disorders* (S-159).
+- On changing how we think about a situation in order to change its emotional
+  impact (reappraisal): Gross (1998), *Review of General Psychology* (S-225).

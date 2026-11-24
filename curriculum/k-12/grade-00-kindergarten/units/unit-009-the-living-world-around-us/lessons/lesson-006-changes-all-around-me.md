@@ -81,7 +81,7 @@ draw one they noticed.
 ## Connection
 
 The world is always changing a little: the weather changes, the sky changes, water
-moves, and living things grow. You do not have to go far — changes are happening
+moves (S-212), and living things grow. You do not have to go far — changes are happening
 right where you are, and you can find them.
 
 ## Materials
@@ -128,6 +128,10 @@ Keep the tone of wonder, not of worry.
 - **Formative (observation):** Can the learner point to and name one change in the
   world around them?
 - **Artifact (portfolio):** The "a change I noticed" drawing.
+
+## Resources
+
+- On the water cycle: USGS — Water Science School (The Water Cycle) (S-212).
 
 ## Home connection
 

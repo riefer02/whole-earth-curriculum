@@ -104,7 +104,7 @@ after you have gone quiet. That line is a **boundary**, and it is yours to set. 
 customs differ everywhere — in some places people greet with a bow, in others a handshake
 or a nod, in others a kiss on the cheek — so there is no single "default" way to be near
 someone. What is the same in every place is this: each person gets to say what is okay for
-them, and everyone else is asked to respect it.
+them, and everyone else is asked to respect it (S-060).
 
 ## Materials
 
@@ -185,3 +185,5 @@ a custom — and share one boundary sentence you practiced today, if you like.
   on the Rights of the Child (Articles 12 and 19), <https://www.unicef.org/child-rights-convention>
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On children's rights to be heard and to be protected: United Nations Convention on the Rights of the Child (UNICEF, child-friendly) (S-060).
+

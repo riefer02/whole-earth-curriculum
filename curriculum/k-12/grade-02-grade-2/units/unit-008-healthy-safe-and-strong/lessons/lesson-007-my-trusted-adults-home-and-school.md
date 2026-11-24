@@ -87,7 +87,7 @@ last_updated: 2026-08-16
 Learners identify trusted adults at home and at school — grown-ups who listen and help —
 and fill a "help hand" with five of their own. They learn that they get to choose who
 they trust, that asking for help is a strength, and that a trusted adult makes them feel
-safe. The help hand becomes a portfolio artifact.
+safe (S-051). The help hand becomes a portfolio artifact.
 
 ## Objectives
 
@@ -97,9 +97,9 @@ safe. The help hand becomes a portfolio artifact.
 ## Connection
 
 When you fall and scrape your knee, you tell a grown-up. When you feel sick, lost,
-scared, or unsafe, you tell a grown-up too. Some grown-ups are **trusted adults**: people
-who listen to you and help you. You have trusted adults at home *and* at school. Today
-you will name yours.
+scared, or unsafe, you tell a grown-up too. Some grown-ups are **trusted adults**:
+people who listen to you and help you. You have trusted adults at home *and* at school.
+Today you will name yours.
 
 ## Materials
 
@@ -191,6 +191,5 @@ With a grown-up, name the trusted adults at your home and school, and practice s
 
 ## Resources
 
-- World Health Organization, "Preventing violence against children" (why safe, trusted
-  adults and telling matter):
-  <https://www.who.int/teams/social-determinants-of-health/violence-prevention>
+- On supportive adult relationships as part of preventing harm to children: WHO —
+  Preventing violence against children (S-051).

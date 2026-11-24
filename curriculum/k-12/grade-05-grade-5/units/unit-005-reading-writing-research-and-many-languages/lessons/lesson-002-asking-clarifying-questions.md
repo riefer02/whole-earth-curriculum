@@ -96,7 +96,8 @@ Someone says, "Bring the *thing* we use for the water." Which thing? A bucket, a
 cup, a pump? Guessing could waste a trip; asking — "Do you mean the bucket, or the gourd?" —
 saves it. A **clarifying question** is the question you ask when you are **not sure** what a
 speaker means. It is not rude and it is not a sign of being slow; it is how careful people
-make sure they *understand* before they act, in a kitchen, a workshop, or a classroom.
+make sure they *understand* before they act, in a kitchen, a workshop, or a
+classroom (S-001).
 
 ## Materials
 
@@ -164,6 +165,8 @@ guessing — and notice how much smoother the task goes.
 
 ## Resources
 
-- Clarifying questions are a core component of active listening; for an accessible classroom
-  framing, see CASEL's relationship-skills competency: <https://casel.org/fundamentals-of-sel/>.
-  On explicit instruction for novice skills, see Kirschner, Sweller & Clark (2006).
+- On listening and communicating clearly as a relationship skill, and on seeking help
+  when something is unclear: CASEL, <https://casel.org/fundamentals-of-sel/> (S-001).
+- On modelling the question starters and guiding practice before learners ask on their
+  own: Kirschner, Sweller & Clark (2006),
+  <https://doi.org/10.1207/s15326985ep4102_1> (S-011).

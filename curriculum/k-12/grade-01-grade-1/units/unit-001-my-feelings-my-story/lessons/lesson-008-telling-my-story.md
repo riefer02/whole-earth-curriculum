@@ -87,7 +87,8 @@ story is worth hearing.
 
 ## Connection
 
-A story is how we hold the pieces of ourselves together and share them with others.
+A story is how we hold the pieces of ourselves together and share them with others
+(S-404).
 Long before books, people told their stories out loud around fires, and families
 passed them down. Today you can tell your story with your voice, with pictures, or
 with words — but the story itself is the treasure. Your story has never been told by
@@ -145,3 +146,8 @@ page instead.
 
 Tell your story to someone at home tonight — the same story you told today — and ask
 them to tell you a piece of their own.
+
+## Resources
+
+- On storytelling as how a person holds a life together and shares it: McAdams — The
+  Psychology of Life Stories (S-404).

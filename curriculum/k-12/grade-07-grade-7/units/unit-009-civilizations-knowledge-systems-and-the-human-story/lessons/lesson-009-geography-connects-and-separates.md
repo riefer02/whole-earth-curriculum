@@ -156,7 +156,7 @@ Britannica, "Silk Road" and "Indian Ocean trade."
    are crossed by caravans. **Mountains** divide — and their passes join.
 3. **Trace the routes (15 min).** On your map, trace the **Silk Roads** — overland
    routes across deserts and mountains carrying silk, spices, paper, and ideas (like
-   Buddhism and the numerals) between East Asia and the Mediterranean. Then trace the
+   Buddhism and the numerals) between East Asia and the Mediterranean (S-323). Then trace the
    Indian Ocean, where **monsoon** winds let sailors cross seasonally, linking East
    Africa, Arabia, India, and Southeast Asia.
 4. **Sort bridge or barrier (10 min).** With a partner, sort the connect-or-separate
@@ -197,3 +197,5 @@ they buy, and who they meet.
   a geographic finding.
 - On explicit instruction and worked examples: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On the Silk Roads as routes carrying goods and ideas between East Asia and the Mediterranean: Encyclopaedia Britannica — Silk Road / Indian Ocean trade (S-323).
+

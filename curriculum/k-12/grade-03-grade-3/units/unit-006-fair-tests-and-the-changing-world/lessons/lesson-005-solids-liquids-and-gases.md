@@ -101,7 +101,7 @@ shape. The water you drink is a **liquid** — it pours and takes the shape of y
 And the air you are breathing is a **gas** — you cannot see it, but it is there, filling
 the whole room. Three states of the same stuff, and you are touching all three at once.
 Wherever you live — by a river, in a desert, on a mountain — you meet solids, liquids,
-and gases every day.
+and gases every day (S-075).
 
 ## Materials
 
@@ -170,6 +170,6 @@ Your breath is the gas — prove it by fogging a spoon or a mirror.
 
 ## Resources
 
-- BBC Bitesize (KS2 Science), "Solids, liquids and gases" — the three states of matter
-  and what makes each one different.
-  https://www.bbc.co.uk/bitesize/topics/zgwc96f/articles/zngfp4j
+- On solids, liquids and gases and how each behaves: BBC Bitesize (KS2) — Solids, liquids
+  and gases (S-075).
+

@@ -103,7 +103,7 @@ doing the next step you promised, which is what actually rebuilds trust.
 The bridge that broke between two people is rebuilt one plank at a time — and the last
 plank is the one no one sees: you do the thing you promised. A repair conversation that
 ends in "next time I will ask first" means nothing if, next time, you read their notebook
-again. This is true in a friendship, a family, a classroom, a neighborhood, anywhere people
+again (S-161). This is true in a friendship, a family, a classroom, a neighborhood, anywhere people
 keep promises to one another. The words open the door; the follow-through walks through it.
 
 ## Materials
@@ -179,3 +179,5 @@ notice, this week, one small promise you can keep as follow-through.
   Lenses*; International Institute for Restorative Practices, <https://www.iirp.edu/>
 - On modeling and guided practice for a new skill: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On repair as changed behavior and restored relationship, not words alone: Howard Zehr — Changing Lenses (restorative justice) (S-161).
+

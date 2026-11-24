@@ -88,7 +88,7 @@ last_updated: 2026-08-16
 
 Learners match a measuring tool to the job — a ruler for small things, a meter stick
 or measuring tape for big ones — and explain their choice. They estimate first,
-measure, and discover that the right tool makes measuring easier and truer.
+measure, and discover that the right tool makes measuring easier and truer (S-026).
 
 ## Objectives
 
@@ -173,6 +173,6 @@ both, and tell a grown-up why you chose each tool.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson. (Choosing
-  appropriate units and tools for measuring length.)
+- On choosing appropriate units and tools for measuring length: Van de Walle, Karp &
+  Bay-Williams — Elementary and Middle School Mathematics: Teaching Developmentally
+  (S-026).

@@ -87,7 +87,7 @@ strong by many small acts of care, not by one big hero.
 
 Communities do things together: a family shares a meal, a class learns, a
 neighborhood keeps a place clean or celebrates a festival. And in every community,
-each person helps in their own small way. All those small helps are what hold a
+each person helps in their own small way (S-164). All those small helps are what hold a
 community together.
 
 ## Materials
@@ -135,3 +135,8 @@ procedure aloud; help learners fill in the chart.
   for a community?
 - **Artifact (portfolio):** The "together and helping" drawing, kept in the learner's
   portfolio.
+
+## Resources
+
+- On communal work — harambee, gotong royong, mink'a, barn raising — as shared work
+  people do together across cultures: Communal-work (mutual-aid) traditions (S-164).

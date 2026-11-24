@@ -100,7 +100,7 @@ ever asked to judge or disclose their own body.
 Last lesson you saw that media images are made — chosen, edited, and repeated. The
 question now is what to *do* with that. When an image makes you feel smaller or less-than,
 you do not have to simply feel it and carry on. You can **pause**, ask three questions,
-and answer back. This is a healthy response: it is a skill, like any other, and it puts
+and answer back (S-217). This is a healthy response: it is a skill, like any other, and it puts
 you back in charge of your own feelings about your own body.
 
 ## Materials
@@ -175,3 +175,5 @@ about your body.
 - UNESCO — Media and Information Literacy:
   <https://www.unesco.org/en/media-information-literacy>
 - WHO — Adolescent health: <https://www.who.int/health-topics/adolescent-health>
+- On questioning media images and their messages: UNESCO — Media and Information Literacy (MIL) (S-217).
+

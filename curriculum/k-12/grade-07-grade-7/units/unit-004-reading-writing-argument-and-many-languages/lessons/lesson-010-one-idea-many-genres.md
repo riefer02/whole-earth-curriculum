@@ -97,7 +97,7 @@ be a *story* ("the year the water reached our door"), an *argument* ("we should 
 seed store to higher ground, because…"), or *information* ("in this region, heavy rains
 arrive between June and September"). Each shape fits a different audience and purpose —
 a story moves the heart, an argument moves the mind, information builds knowledge — and
-each needs precise language to do its job. Genre is not a cage; it is a tool you choose.
+each needs precise language to do its job (S-171). Genre is not a cage; it is a tool you choose.
 
 ## Materials
 
@@ -166,3 +166,5 @@ fact — and ask which way convinced or moved them most.
   <https://ies.ed.gov/ncee/wwc/practiceguide/22>
 - On modeling before practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On matching writing to audience and purpose across genres: IES — Teaching Secondary Students to Write Effectively (S-171).
+

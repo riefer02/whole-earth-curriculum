@@ -93,8 +93,8 @@ joins the year-end portfolio and carries the year's self-regulation work forward
 
 Everyone, everywhere, has wanted something they did not yet have — to read a hard book,
 to ride without help, to learn a new game, to be a better friend. A wish becomes a
-**goal** when you decide to reach it, and a goal becomes reachable when you name the
-**first step**: not the whole climb, just the first small thing. A mountain is climbed
+**goal** (S-399) when you decide to reach it, and a goal becomes reachable when you name the
+**first step**: not the whole climb, just the first small thing (S-223). A mountain is climbed
 one step at a time, and every step begins with the very first one. Today you set a goal
 of your own and name its first step.
 
@@ -184,4 +184,8 @@ tell them how it went.
 
 ## Resources
 
-- CASEL SEL Framework (self-management): <https://casel.org/fundamentals-of-sel/>
+- On imagining the self you hope to become: Hazel Markus & Paula Nurius (1986) — Possible
+  Selves (S-399).
+- On specific, doable goals and feedback rather than a vague wish: Edwin A. Locke & Gary
+  P. Latham — A Theory of Goal Setting & Task Performance (S-223).
+

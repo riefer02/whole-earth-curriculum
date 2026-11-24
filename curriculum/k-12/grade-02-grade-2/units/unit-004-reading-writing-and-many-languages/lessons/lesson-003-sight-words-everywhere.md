@@ -122,7 +122,7 @@ same.
 1. **Gather (5 min).** Think of a word you have seen so many times you know it the
    instant you see it — on a sign, in a book, on a packet. That is a **sight word**.
 2. **Meet your words (5 min).** Look at your set of common words. Say each one.
-   These are words you will learn to know **by heart**, without sounding them out.
+   These are words you will learn to know **by heart**, without sounding them out (S-011).
 3. **Read together (10 min).** Read each word aloud as it is shown. Then read them
    again, faster. Let your eyes take in the whole word at once.
 4. **Practice on your own (15 min).** Shuffle the cards and read them one by one, as
@@ -131,7 +131,7 @@ same.
 5. **Read the words in a text (5 min).** Find your sight words inside a short text.
    Reading them inside a sentence is how they become truly yours.
 6. **Close (5 min).** Words you know by heart free your mind for words you do not.
-   Every language has its own set of common words — and now you know some of yours.
+   Every language has its own set of common words — and now you know some of yours (S-019).
 
 ## Differentiation
 
@@ -154,7 +154,7 @@ someone.
 
 ## Resources
 
-- Kirschner, Sweller & Clark (2006), "Why Minimal Guidance During Instruction Does
-  Not Work" — rationale for explicit instruction in foundational reading skills.
-- UNESCO, multilingual and mother-tongue-based education:
-  <https://www.unesco.org/en/days/mother-language>
+- On explicit instruction for foundational reading skills: Kirschner, Sweller & Clark
+  (2006) — Why Minimal Guidance Does Not Work (S-011).
+- On mother-tongue and multilingual education: UNESCO — International Mother Language
+  Day (S-019).

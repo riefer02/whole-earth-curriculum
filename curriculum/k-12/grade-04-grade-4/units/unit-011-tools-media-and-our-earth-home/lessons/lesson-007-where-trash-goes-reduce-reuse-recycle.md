@@ -99,13 +99,14 @@ into something new). They sort actions and rank the three R's.
 
 ## Connection
 
-When you throw something away, it does not disappear. A wrapper thrown in a **bin** is carried to
-a **landfill** or a dump, where it sits for a very long time. A wrapper dropped on the ground can
-be **litter** — washed by rain down a drain, into a river, and out to the sea. Because making
-things and throwing them away has real effects, people have a smart order: **reduce** first (don't
-take or make what you don't need), then **reuse** (use it again or pass it on), then **recycle**
-(turn it into something new). Reduce is best to do *first*, because making less waste is better
-than managing waste.
+When you throw something away, it does not disappear. A wrapper thrown in a **bin** is
+carried to a **landfill** or a dump, where it sits for a very long time. A wrapper
+dropped on the ground can be **litter** — washed by rain down a drain, into a river, and
+out to the sea (S-216). Because making things and throwing them away has real effects,
+people have a smart order: **reduce** first (don't take or make what you don't need),
+then **reuse** (use it again or pass it on), then **recycle** (turn it into something
+new). Reduce is best to do *first*, because making less waste is better than managing
+waste (S-154).
 
 ## Materials
 
@@ -147,7 +148,7 @@ the least.
 **The skill.** Rank the three R's for one item, and say why reduce comes first.
 
 Model the trash path and the ranking once, then guide practice before independent work
-(Kirschner, Sweller & Clark, 2006).
+(Kirschner, Sweller & Clark, 2006, S-011).
 
 **Access:** describe the sequence aloud for a learner who is blind or has low vision; a
 learner who does not speak points to the three R's and ranks them; acting out the three
@@ -200,6 +201,9 @@ your choice.
 
 ## Resources
 
-- U.S. Environmental Protection Agency (EPA), "Reduce, Reuse, Recycle" — the waste hierarchy:
-  reduce first, then reuse, then recycle, because making less waste is the best first step.
-  https://www.epa.gov/recycle
+- On the waste hierarchy — reduce first, then reuse, then recycle: U.S. EPA — Reduce,
+  Reuse, Recycle (S-154).
+- On plastic waste reaching rivers and the sea, and its effects on wildlife: UNEP —
+  Plastic Pollution (S-216).
+- On worked examples and guided practice: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

@@ -101,13 +101,13 @@ Every group — a family, a class, a village, a nation — must decide things to
 sometimes choose someone to lead. But groups do this in **different ways**, and no
 single way is the only right one. Some groups **talk until everyone agrees** (this is
 called **consensus**); some take a **vote** and follow the majority; some listen to a
-**council of elders** who carry long memory and wisdom. Think of your own community:
-how are decisions made, and how is a leader chosen? Now think of another place in the
-world — the Haudenosaunee (Iroquois) nations, for example, have long made decisions in
-councils where leaders chosen by clan mothers talk until all agree; a village in the
-Andes might gather everyone in a circle to talk it through; a town far away might elect
-a mayor by vote. Today you will describe how it works where you live, and compare it
-with one other place on Earth.
+**council of elders** who carry long memory and wisdom. Think of your own community: how
+are decisions made, and how is a leader chosen? Now think of another place in the world
+— the Haudenosaunee (Iroquois) nations, for example, have long made decisions in
+councils where leaders chosen by clan mothers talk until all agree (S-142); a village in
+the Andes might gather everyone in a circle to talk it through; a town far away might
+elect a mayor by vote. Today you will describe how it works where you live, and compare
+it with one other place on Earth.
 
 ## Materials
 
@@ -194,8 +194,8 @@ Then share one other way from today's chart and compare.
 
 ## Resources
 
-- Britannica Kids — Haudenosaunee (Iroquois) and the Great Law of Peace:
-  <https://kids.britannica.com/kids/article/Haudenosaunee/353303>
-- The "ways to decide" comparison (consensus, vote, elders, lots) is a plain-language
-  survey of real practices across cultures; see also UNESCO's materials on how
-  communities around the world govern shared life.
+- On the Haudenosaunee confederacy and the Great Law of Peace, including leaders chosen
+  by clan mothers and decisions by consensus: Britannica Kids — Haudenosaunee (Iroquois)
+  (S-142).
+- On how communities govern shared life through their own rules: Ostrom — Governing the
+  Commons (S-416).

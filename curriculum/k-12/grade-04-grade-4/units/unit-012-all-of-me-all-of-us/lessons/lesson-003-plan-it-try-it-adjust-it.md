@@ -80,10 +80,10 @@ last_updated: 2026-08-17
 ## Summary
 
 A goal is not a promise to get everything right the first time — it is a plan you are
-willing to **adjust**. Learners set one real, reachable goal, break it into steps, try
-the first step right away, notice honestly what happened, and — when a step does not
-work — change it and try again. The "plan, try, adjust" page joins the portfolio and
-carries the year's agency work forward into the summer and Grade 5.
+willing to **adjust** (S-223). Learners set one real, reachable goal, break it into
+steps, try the first step right away, notice honestly what happened, and — when a step
+does not work — change it and try again. The "plan, try, adjust" page joins the
+portfolio and carries the year's agency work forward into the summer and Grade 5.
 
 ## Objectives
 
@@ -115,7 +115,8 @@ skill of changing course when a step doesn't work.
 **Tone.** Light and practical — adjusting is clever, not shameful.
 
 **The facts to land.**
-1. The cycle is **plan, try, adjust**, and the adjustment is the lesson, not a failure.
+1. The cycle is **plan, try, adjust**, and the adjustment is the lesson, not a failure
+   (S-096).
 2. The goal is the learner's own and costs no money — some learners live with scarcity,
    so coach toward concrete, free, near goals: read one new book, learn a new knot,
    water the class plant for a week, greet three people kindly each day.
@@ -132,8 +133,9 @@ adult-chosen goal pass for the learner's own.
 **The skill.** Plan a first step, try it, notice, then change one thing.
 
 Model the sequence as a worked example before independent work — novices need to see it
-done (Kirschner, Sweller & Clark, 2006). Normalise adjusting with your own example: "I
-planned to read every night, but evenings were too tired, so I moved it to mornings."
+done (Kirschner, Sweller & Clark, 2006, S-011). Normalise adjusting with your own
+example: "I planned to read every night, but evenings were too tired, so I moved it to
+mornings."
 
 **Access:** for a learner who is blind or has low vision, do the cycle aloud or with
 objects in a line; for a learner who does not speak, accept pointing, drawing, signing,
@@ -184,7 +186,12 @@ how the adjustment changed what happened.
 
 ## Resources
 
-- Dweck, C. S. (2006). *Mindset: The New Psychology of Success* — growth through
-  effort and adjustment (facilitator background).
-- CASEL SEL Framework (self-management, responsible decision-making):
-  <https://casel.org/fundamentals-of-sel/>
+- On growth through effort, strategy, and adjustment, with modest effects and honest
+  limits: Dweck — Mindset: The New Psychology of Success (S-096).
+- On specific goals with feedback improving performance: Locke & Latham — A Theory of
+  Goal Setting & Task Performance (S-223).
+- On teaching a multi-step sequence with a worked example before independent work:
+  Kirschner, Sweller & Clark — Why Minimal Guidance During Instruction Does Not Work
+  (S-011).
+- On self-management and responsible decision-making as core competencies: CASEL —
+  Fundamentals of Social and Emotional Learning (S-001).

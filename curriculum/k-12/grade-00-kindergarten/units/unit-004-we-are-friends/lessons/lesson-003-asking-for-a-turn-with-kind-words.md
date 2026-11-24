@@ -86,7 +86,7 @@ the way asking and waiting feel.
 ## Connection
 
 When you want a toy someone else is using, you can grab — or you can ask with kind
-words. "Please, may I have a turn?" sounds very different from a snatch, and it makes
+words. "Please, may I have a turn?" sounds very different from a snatch (S-148), and it makes
 the other person much more likely to say yes. Kind words are a small tool that makes
 asking fair and friendly.
 
@@ -141,6 +141,7 @@ home, so the skill, not the English phrase, is the point.
 
 - CASEL SEL Framework (foundational competencies):
   <https://casel.org/fundamentals-of-sel/>
+- On making requests without demands: Rosenberg — Nonviolent Communication (S-148).
 
 ## Home connection
 

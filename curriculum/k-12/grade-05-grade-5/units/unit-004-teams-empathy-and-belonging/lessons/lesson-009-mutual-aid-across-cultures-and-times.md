@@ -100,8 +100,8 @@ producing a **portfolio artifact**.
 
 When a family moves to a new home, neighbors sometimes come to carry boxes — no one is
 paid, and everyone is fed at the end. When a village digs a well or brings in a harvest,
-many hands show up. This is **mutual aid**: helping because we belong to each other, not
-because we are hired. People all over the world, in every time, have built this habit —
+many hands show up. This is **mutual aid** (S-163): helping because we belong to each other,
+not because we are hired. People all over the world, in every time, have built this habit —
 and it is one of the oldest and most human things we do.
 
 ## Materials
@@ -136,12 +136,12 @@ portfolio artifact. See `docs/facilitation.md`.
 2. **Meet the gallery (15 min).** Read the six case cards. *A barn-raising:* neighbors
    gather to raise a family's barn in a day, and the favor returns when another family
    builds. *Harambee:* in Kenya, people pull together — "all pull together" — to build a
-   school or help a family. *Gotong royong:* in Indonesia, neighbors share the work of a
+   school or help a family (S-164). *Gotong royong:* in Indonesia, neighbors share the work of a
    village — a road, a harvest, a celebration. *Inuit food-sharing:* a successful hunt is
    shared widely, so no one goes without. *Andean communal farming:* neighbors farm
    terraces together, in a *minga*, for the good of all. *The Green Belt Movement:* begun
    by Wangari Maathai in 1977, people planted trees together — over thirty million — to
-   heal the land.
+   heal the land (S-059).
 3. **Find the who–what–why (10 min).** Choose one example. Answer three questions: **Who**
    helped? **What** did they do? **Why** did it matter — and why did they do it without
    pay? The answer to "why" is almost always: because they belonged to each other.
@@ -173,12 +173,16 @@ neighbor in need — and add it to your page.
 
 ## Resources
 
-- The concept of mutual aid as a widespread human practice is named in Kropotkin's
-  *Mutual Aid: A Factor of Evolution* (1902). Specific examples: the Green Belt Movement,
-  begun by Wangari Maathai in 1977, planted over thirty million trees (Nobel Prize facts,
-  <https://www.nobelprize.org/prizes/peace/2004/maathai/facts/>); Andean communal farming
-  and the potato's Andean origin (International Potato Center); Inuit food-sharing and
-  community life (Inuit Circumpolar Council); the 1976 Hōkūleʻa voyage as a whole
-  community's shared work (Polynesian Voyaging Society). Harambee, gotong royong, and
-  barn-raising are widely documented traditions of communal help; verify local details
-  with community members.
+- On mutual aid — cooperation and reciprocity, not for pay but from belonging — as a
+  widespread human practice: Kropotkin — *Mutual Aid: A Factor of Evolution* (1902)
+  (S-163).
+- On four named communal-help traditions — harambee (Kenya), gotong royong
+  (Indonesia), mink'a/minga (Andes), and barn raising (North America); verify local
+  details with community members: Communal-work traditions (S-164).
+- On the Green Belt Movement, begun by Wangari Maathai in 1977, and the planting of
+  over thirty million trees: Nobel Prize — Wangari Maathai, Facts,
+  <https://www.nobelprize.org/prizes/peace/2004/maathai/facts/> (S-059).
+- On the potato's Andean domestication and terrace farming: International Potato
+  Center (CIP), <https://cipotato.org/potato/> (S-054).
+- On Inuit food sharing and community life: Inuit Circumpolar Council,
+  <https://www.inuitcircumpolar.com/> (S-058).

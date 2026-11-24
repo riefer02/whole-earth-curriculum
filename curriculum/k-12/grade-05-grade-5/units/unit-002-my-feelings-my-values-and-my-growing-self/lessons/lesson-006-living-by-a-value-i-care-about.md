@@ -128,7 +128,7 @@ example is "more virtuous"; celebrate each value lived, however small. See
 1. **Gather (5 min).** Last time you named the values you care about. Today the harder,
    truer question: what does it look like to **live by** one?
 2. **Watch a value turn into action (10 min).** Look at the poster. Here is a worked
-   example. *Value:* honesty. *Choice:* a child finds a dropped coin purse on the path.
+   example (S-011). *Value:* honesty. *Choice:* a child finds a dropped coin purse on the path.
    *Action:* the child runs it back to the person who dropped it, saying, "This is
    yours." The value was never said out loud — it was **done**. That is living by a
    value.
@@ -165,3 +165,7 @@ did and which value it lived.
 - Explicit modeling before independent practice supports novice learners
   (Kirschner, Sweller & Clark, 2006). Values-in-action connect to CASEL's
   responsible-decision-making competency: <https://casel.org/fundamentals-of-sel/>
+
+- On modelling a worked example before learners try a skill themselves:
+  Kirschner, Sweller & Clark (2006), *Educational Psychologist*,
+  <https://doi.org/10.1207/s15326985ep4102_1> (S-011).

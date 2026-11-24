@@ -115,7 +115,7 @@ wrongness.
 **The facts to land.**
 1. Editing is a taught skill: model it with a worked example — fix a misspelled word,
    add a missing period, add a capital — then guide practice (Kirschner, Sweller &
-   Clark, 2006).
+   Clark, 2006, S-011).
 2. Revising makes the meaning clearer; editing makes the marks correct.
 3. At this level the marks are the period, question mark, and exclamation mark, plus a
    capital to start a sentence — in whatever writing system the learner uses.
@@ -181,5 +181,9 @@ checklist: spelling, punctuation, capitals. Fix what needs it.
 
 ## Resources
 
-- CASEL SEL Framework (self-management and responsibility for one's own work):
-  <https://casel.org/fundamentals-of-sel/>
+- On editing as the last stage of the writing process, and on teaching it explicitly:
+  Graham & Perin — Writing Next (S-102).
+- On teaching a skill explicitly — model it, then guide practice — rather than leaving
+  learners to discover it: Kirschner, Sweller & Clark (2006) — Why Minimal Guidance During
+  Instruction Does Not Work (S-011).
+

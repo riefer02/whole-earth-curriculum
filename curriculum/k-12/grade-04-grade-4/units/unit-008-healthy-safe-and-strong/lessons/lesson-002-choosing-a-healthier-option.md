@@ -122,7 +122,8 @@ better. Choosing is not about being "good" or "bad"; it is about picking what he
 **The facts to land.**
 1. The comparison has an order: read the serving size of both, compare fiber, compare
    sugar, compare salt, then decide.
-2. For many bodies, **more fiber and less added sugar and salt** is a helpful direction.
+2. For many bodies, **more fiber and less added sugar and salt** is a helpful direction
+   (S-120).
 3. No single food is "bad"; a treat now and then is a normal part of life, and different
    bodies, budgets, and lives make different choices.
 
@@ -191,5 +192,7 @@ grown-up your choice and why.
 
 ## Resources
 
-- World Health Organization, "Healthy diet" (the direction of more fiber and less added
-  sugar and salt): <https://www.who.int/news-room/fact-sheets/detail/healthy-diet>
+- On the direction of more fibre and less added sugar and salt in a healthy diet: WHO —
+  Nutrition topic (S-120).
+- On reading and comparing food labels to choose between foods: FAO — Food labelling
+  (S-117).

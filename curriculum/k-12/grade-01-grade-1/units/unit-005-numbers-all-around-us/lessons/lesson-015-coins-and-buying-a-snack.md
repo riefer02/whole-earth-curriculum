@@ -127,7 +127,8 @@ is honored as one way among many that people meet their needs.
 
 Everywhere people need things they do not make themselves, they have found a way to
 trade. Long ago, people traded goods directly, or used things of shared value —
-cowrie shells in Africa and the Pacific, cacao beans in Mesoamerica, salt, beads.
+cowrie shells in Africa and the Pacific, cacao beans in Mesoamerica, salt, beads
+(S-024; S-028).
 Today most places use **coins and notes** with an agreed value. A coin is a promise:
 everyone agrees what it is worth, so it can be traded for a snack, a tool, or a
 ticket. Today you will use coins the way people do every day, all over the world —
@@ -232,8 +233,8 @@ grown-up) "buy" a small snack or item together, counting the coins out loud.
 ## Resources
 
 - Zaslavsky, C. (1999). *Africa Counts: Number and Pattern in African Cultures* (3rd
-  ed.). Lawrence Hill Books. (Cowrie shells and other pre-coin forms of exchange
+  ed.). Lawrence Hill Books (S-024). (Cowrie shells and other pre-coin forms of exchange
   across cultures.)
 - Davies, G. (2002). *A History of Money: From Ancient Times to the Present Day*
-  (3rd ed.). University of Wales Press. (The origins and variety of money, including
+  (3rd ed.). University of Wales Press (S-028). (The origins and variety of money, including
   commodity money such as cacao and salt.)

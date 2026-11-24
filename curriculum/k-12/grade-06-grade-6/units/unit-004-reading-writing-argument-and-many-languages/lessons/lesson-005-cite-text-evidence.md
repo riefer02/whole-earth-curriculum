@@ -98,7 +98,7 @@ river," says one. "Amara is worried about a flood," says the other. Which is rig
 settle it by feeling or by who says it louder — you settle it by going back to the **words**.
 "The water crept a little higher" and "the village must move the rice sacks" are **evidence**.
 An interpretation without evidence is a guess; an interpretation with **cited evidence** is an
-argument you can check. Reading well is this back-and-forth: what do I think, and **where in
+argument you can check (S-170). Reading well is this back-and-forth: what do I think, and **where in
 the text** does it say so?
 
 ## Materials
@@ -170,3 +170,5 @@ means, ending with "because the text says…" and the exact words.
   comprehension strategy research and the IES practice guides (e.g., "Improving Adolescent
   Literacy"). The distinction between evidence and belief is a core value (`docs/philosophy.md`
   §5). On explicit instruction for novice skills, see Kirschner, Sweller & Clark (2006).
+- On citing text evidence to support an interpretation: IES — Improving Adolescent Literacy: Effective Classroom and Intervention Practices (S-170).
+

@@ -143,7 +143,7 @@ page as a worked example before independent work (Kirschner, Sweller & Clark, 20
    differently? They were each standing in a different place, touching a different part.
 3. **Name the lenses (10 min).** A **point of view** is shaped by three things: your
    **background** (where and how you grew up), your **culture** (the customs, language, and
-   values you learned), and your **experience** (what has happened to you). Worked example:
+   values you learned), and your **experience** (what has happened to you) (S-231). Worked example:
    *"I see rain as good news because my family farms and we need it; a friend who lost a
    home to flooding may see the same rain as fear."* Same rain, two true views.
 4. **Map the lenses (15 min).** On your page, put one shared thing in the middle — a river,
@@ -182,3 +182,5 @@ life makes them notice that you don't — then share one lens of your own.
   "The complex relation between morality and empathy" (2014).
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On perspective-taking as shaped by experience and as a route to understanding others: Jean Decety & Jason M. Cowell — Empathy, Perspective-Taking, and Morality (S-231).
+

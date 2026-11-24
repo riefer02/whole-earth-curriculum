@@ -93,7 +93,7 @@ Another child smiles — they love the smell of rain and know the garden needed 
 Same rain, two feelings. A dog visits the class: one child is thrilled, another is
 afraid. Both feelings are true. The same moment can feel very different to different
 people, and noticing that helps us be kind — because we stop thinking "you should
-feel what I feel" and start wondering "how do you feel?"
+feel what I feel" and start wondering "how do you feel?" (S-231)
 
 ## Materials
 
@@ -154,8 +154,8 @@ first example.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness):
-  <https://casel.org/fundamentals-of-sel/>
+- On empathy and perspective-taking as a studied route to prosocial behaviour: Decety
+  & Cowell — Empathy, Perspective-Taking, and Morality (S-231).
 
 ## Home connection
 

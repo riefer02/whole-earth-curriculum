@@ -132,7 +132,7 @@ many kinds of family.
    map — the many parts that make you, you.
 2. **Meet the map (10 min).** Look at the poster: a center **me**, with a ring of bubbles
    connected to it — my family, my culture, my place, my history, my language, my
-   interests. Each bubble is a part of your whole self. Here is a worked example: one
+   interests. Each bubble is a part of your whole self (S-404). Here is a worked example: one
    child's map has "my grandmother" (family), "my two languages" (culture), "the village
    by the river" (place), "we moved last year" (history), and "football" (interests).
    Every bubble is a real thread.
@@ -170,3 +170,7 @@ of — a story, a place, a person, or a dream.
 
 - Many-part identity and positive belonging connect to CASEL's self-awareness and
   social-awareness competencies: <https://casel.org/fundamentals-of-sel/>
+
+- On identity as a story that draws many parts — past, present, relationships,
+  places — into one whole: McAdams (2001), *Review of General Psychology*,
+  <https://doi.org/10.1037/1089-2680.5.2.100> (S-404).

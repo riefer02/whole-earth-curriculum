@@ -81,7 +81,7 @@ the people who help hold them together.
 
 ## Connection
 
-You belong to more than your family. You belong to your class, to your friends, and
+You belong to more than your family (S-158). You belong to your class, to your friends, and
 to your community — the people who live and work near you. The people who sell food
 at the market, who teach at your school, who help when someone is sick — these people
 are part of your community too.
@@ -132,6 +132,7 @@ worship or gathering, honor each equally and avoid naming one as the norm.
 
 - CASEL SEL Framework (foundational competencies):
   <https://casel.org/fundamentals-of-sel/>
+- On belonging and inclusion across cultures: UNESCO — Learning to Live Together (S-158).
 
 ## Home connection
 

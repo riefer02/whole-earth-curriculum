@@ -93,12 +93,12 @@ so a pattern becomes a rule they can carry and use to predict the next **term**.
 
 ## Connection
 
-Patterns are everywhere, and they all have a rule: the tiles on a floor, the stripes
-on a cloth, the stairs you climb, the way a fern adds a new leaf, the way a chant or
-a drumbeat repeats. Weavers and beadworkers across many traditions have built
-repeating and growing patterns into cloth and jewelry for thousands of years — a
-pattern is a rule you can see (Zaslavsky, 1999). When you know the rule, you can
-predict what comes next without building every step. That is the power of a pattern.
+Patterns are everywhere, and they all have a rule: the tiles on a floor, the stripes on
+a cloth, the stairs you climb, the way a fern adds a new leaf, the way a chant or a
+drumbeat repeats. Weavers and beadworkers across many traditions have built repeating
+and growing patterns into cloth and jewelry for thousands of years — a pattern is a rule
+you can see (Zaslavsky, 1999, S-024). When you know the rule, you can predict what comes
+next without building every step. That is the power of a pattern.
 
 ## Materials
 
@@ -120,9 +120,9 @@ predict what comes next without building every step. That is the power of a patt
 1. A rule generates a pattern: 2, 5, 8, 11 is "add three each time"; the squares 1, 4,
    9, 16 add the next odd number (+3, +5, +7).
 2. The key move is **generalising** — saying what the pattern *always* does, not just
-   what it did (Clements & Sarama, 2014).
+   what it did (Clements & Sarama, 2014, S-020).
 3. Patterns are a human and cross-cultural treasure: weaving, beading, lattice grids,
-   and architecture carry them in many traditions (Zaslavsky, 1999).
+   and architecture carry them in many traditions (Zaslavsky, 1999, S-024).
 
 **Don't overshoot.** Seeing a pattern quickly is not a measure of smartness; a pattern
 is a fact about numbers or shapes, never about a person.
@@ -181,9 +181,7 @@ name its rule, then predict the next step. Tell a grown-up the rule.
 
 ## Resources
 
-- Clements, D. H., & Sarama, J. (2014). *Learning and Teaching Early Math: The
-  Learning Trajectories Approach* (2nd ed.). Routledge. (Generalizing a pattern by
-  stating its rule.)
-- Zaslavsky, C. (1999). *Africa Counts: Number and Pattern in African Cultures* (3rd
-  ed.). Lawrence Hill Books. (Arithmetic patterns embedded in weaving, beading, and
-  other cultural designs.)
+- On generalizing a pattern by stating its rule: Clements & Sarama — Learning and
+  Teaching Early Math: The Learning Trajectories Approach (S-020).
+- On arithmetic patterns embedded in weaving, beading, and other cultural designs:
+  Zaslavsky — Africa Counts: Number and Pattern in African Cultures (S-024).

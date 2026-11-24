@@ -93,12 +93,12 @@ then name a need of their own, draw an idea, and label one design step.
 
 ## Connection
 
-Think of something that was hard to do lately: carrying water a long way, reaching a high
-shelf, or sweeping a dusty floor with no broom. A **tool** is anything people make to make a
-job easier, and **design** is the thinking-and-making work of creating it: you notice a
-**need**, you imagine something that could meet it, you make it, you test it, and you improve
-it. People have always done this — a woven basket, a clay pot, a bicycle, a water pump all
-began as someone's answer to a need.
+Think of something that was hard to do lately: carrying water a long way, reaching a
+high shelf, or sweeping a dusty floor with no broom. A **tool** is anything people make
+to make a job easier, and **design** is the thinking-and-making work of creating it
+(S-150): you notice a **need**, you imagine something that could meet it, you make it,
+you test it, and you improve it. People have always done this — a woven basket, a clay
+pot, a bicycle, a water pump all began as someone's answer to a need.
 
 ## Materials
 
@@ -119,10 +119,10 @@ began as someone's answer to a need.
 This is the Grade 4 upgrade of Grade 3's "name a simple machine": now learners name what
 **design** is (making something to meet a need) and can **describe one step** in the
 process. Teach the steps with explicit instruction and a worked example before learners
-work independently (Kirschner, Sweller & Clark, 2006): model "find the need → imagine →
-make → test → improve" on the grain scoop once, then guide a second example together.
-Keep it **global and egalitarian**: use needs and tools from many lives — a water
-carrier, a sunshade, a basket, a pump — so no single, wealthy, modern home is the
+work independently (Kirschner, Sweller & Clark, 2006, S-011): model "find the need →
+imagine → make → test → improve" on the grain scoop once, then guide a second example
+together. Keep it **global and egalitarian**: use needs and tools from many lives — a
+water carrier, a sunshade, a basket, a pump — so no single, wealthy, modern home is the
 default; design is a human skill, not a store-bought one. A light values thread: a good
 design meets a need for *someone* — ask "who does this help, and who is left out?" Honor
 every body: describe the chart aloud for a learner who is blind or has low vision; a
@@ -174,6 +174,7 @@ would design to meet it, and name one step you would take (imagine, make, test, 
 
 ## Resources
 
-- TeachEngineering, "Engineering Design Process" — the steps of defining a problem, imagining
-  solutions, making, testing, and improving, the same loop learners meet here.
-  https://www.teachengineering.org/populartopics/designprocess
+- On the engineering design process — ask, imagine, plan, create, test, improve:
+  TeachEngineering — Engineering Design Process (S-150).
+- On explicit instruction and worked examples before independent work: Kirschner,
+  Sweller & Clark — Why Minimal Guidance During Instruction Does Not Work (S-011).

@@ -102,7 +102,7 @@ judging**.
 When someone asks "which foods do people here like best?" and asks only their own
 friends, or measures only the plants closest to the path, the answer comes out
 leaning one way — not by accident, but because of *who or what was chosen*. That
-steady lean is bias. It matters beyond the classroom: whose health gets studied,
+steady lean is bias (S-250). It matters beyond the classroom: whose health gets studied,
 whose needs get counted, whose voices shape a decision. If the sample is not fair,
 the answer is not fair. Today you learn to spot the lean and straighten it.
 
@@ -182,3 +182,5 @@ fair, or does it lean? Tell someone what you would change to make it fair.
   <https://undsci.berkeley.edu/understanding-science-101/what-is-science/>
 - BBC Bitesize (KS3), "Bias in science" — how bias creeps in and how to reduce it:
   <https://www.bbc.co.uk/bitesize/topics/zsg6m39/articles/zybm7yc>
+- On bias in science and how the scientific community guards against it: Understanding Science (UC Berkeley) — What is science? (S-250).
+

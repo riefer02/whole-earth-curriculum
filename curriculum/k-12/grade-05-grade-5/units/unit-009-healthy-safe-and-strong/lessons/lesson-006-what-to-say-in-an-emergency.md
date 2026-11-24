@@ -135,7 +135,7 @@ home so a family can confirm the number and address together. See
    the number. Today: **what do you say** when the call is answered?
 2. **Meet the three things (10 min).** Look at the poster. A helper who cannot see you needs
    three things. **Your name** — say it slowly and clearly. **Your location** — an address, or a
-   **landmark** you can see. **What happened** — a few calm words, nothing more. Then **stay on
+   **landmark** you can see. **What happened** — a few calm words, nothing more (S-082). Then **stay on
    the line** and answer their questions; do not hang up until they say you can.
 3. **Watch the worked example (5 min).** Your facilitator and a partner show one full call.
    *"Hello, what is your name?"* *"My name is Amina."* *"Where are you?"* *"The blue house by
@@ -176,8 +176,10 @@ practice the three things — name, location, what happened — together.
 
 ## Resources
 
-- Emergency-call guidance for children centers on giving the caller's name, a clear location
-  (address or nearby landmark), and a brief description of what happened, then staying on the
-  line and following the dispatcher's questions. This is standard practice in emergency-dispatch
-  training worldwide (see national emergency-service and Red Cross / Red Crescent first-aid
-  guidance). Practice should always be non-dialing, with a family confirming the local number.
+- On giving the caller's name, a clear location, and what happened, then staying on the
+  line: IFRC — International First Aid, Resuscitation and Education Guidelines,
+  <https://www.ifrc.org/our-work/health-and-care/first-aid>
+  (S-082).
+- On first-aid education that trains helpers to give clear information to emergency
+  services: IFRC Global First Aid Reference Centre,
+  <https://www.globalfirstaidcentre.org/> (S-313).

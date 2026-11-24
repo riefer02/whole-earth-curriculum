@@ -78,7 +78,7 @@ last_updated: 2026-08-16
 
 Learners write a simple explanation: a topic (something they know how to do or how
 something works) and a reason (why it works that way). Explaining is the other side
-of the opinion coin — the informative side.
+of the opinion coin — the informative side (S-172).
 
 ## Objectives
 
@@ -150,5 +150,5 @@ them to try it your way.
 
 ## Resources
 
-- CASEL SEL Framework (communication and relationship skills):
-  <https://casel.org/fundamentals-of-sel/>
+- On teaching the structure of informative and explanatory text: Duke & Pearson —
+  Effective Practices for Developing Reading Comprehension (S-172).

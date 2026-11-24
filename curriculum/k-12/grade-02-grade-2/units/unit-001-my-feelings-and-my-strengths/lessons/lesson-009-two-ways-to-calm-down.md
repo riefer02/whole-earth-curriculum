@@ -126,7 +126,7 @@ The choice is theirs.
    slow breaths.** Breathe in through your nose like smelling a flower; breathe out
    through your mouth like blowing on hot soup. **Strategy two: count slowly to ten.**
    Count each number like a slow, soft step — 1… 2… 3… all the way to 10. Both help
-   your body slow down so your heart and mind can catch up.
+   your body slow down so your heart and mind can catch up (S-340).
 3. **Practice together (15 min).** Hold your soft object. Try the three slow breaths —
    in like a flower, out like soup — three times. Then try the slow count to ten,
    touching a finger for each number. Notice which one your body liked best.
@@ -157,5 +157,5 @@ bed.
 
 ## Resources
 
-- CASEL SEL Framework (self-management competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On slow breathing and calming the body's stress response: Harvard Health — Relaxation
+  techniques: Breath control helps quell errant stress response (S-340).

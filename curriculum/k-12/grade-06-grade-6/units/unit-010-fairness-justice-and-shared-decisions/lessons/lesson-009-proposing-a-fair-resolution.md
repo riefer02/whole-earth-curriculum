@@ -100,7 +100,7 @@ Last time you saw a conflict clearly — two neighbors, one tap, two real needs.
 the first half; the second half is a **fair resolution**: not one side winning, but a way
 both sides can accept. A shared schedule — garden water in the cool morning, household
 water at midday — meets *both* needs. A fair resolution is a bridge both people can walk
-across together. Today you build bridges.
+across together (S-148). Today you build bridges.
 
 ## Materials
 
@@ -178,3 +178,5 @@ the one both accept.
   acceptance: International Institute for Restorative Practices, <https://www.iirp.edu/>
 - On modeling a routine before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On finding resolutions that meet both sides' needs: Marshall B. Rosenberg — Nonviolent Communication: A Language of Life (S-148).
+

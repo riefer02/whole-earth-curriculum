@@ -164,7 +164,7 @@ stand, leap, or move in a way their body does not do.
    Language, Lengua de Señas Mexicana, Nicaraguan Sign Language, and hundreds more — are
    complete languages with their own grammar, not "just gestures"; millions of people use them as a first language. Second,
    these cues are **not universal**: in some cultures a thumbs-up is rude, eye contact means
-   different things, and comfortable personal space differs. And in Bharatanatyam, a classical
+   different things, and comfortable personal space differs (S-160). And in Bharatanatyam, a classical
    dance of South India, a dancer's precise hand gestures (**mudras**) each carry a named
    meaning — a whole vocabulary in the fingers. When you meet a meaning you are not sure of,
    you *ask*.
@@ -207,3 +207,5 @@ posture, and one spacing choice you saw, and what each said.
   assume."
 - Kirschner, Sweller & Clark (2006), "Why Minimal Guidance Does Not Work," on modeling each
   pose before independent practice.
+- On nonverbal behavior as patterned and culturally variable: Paul Ekman & Wallace V. Friesen — The Repertoire of Nonverbal Behavior (S-160).
+

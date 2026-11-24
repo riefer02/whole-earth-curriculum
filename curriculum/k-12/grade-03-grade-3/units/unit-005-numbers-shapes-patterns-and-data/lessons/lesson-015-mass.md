@@ -100,8 +100,8 @@ A market seller weighs a kilogram of rice; a baker weighs grams of yeast; a doct
 checks how much a baby has grown; a cook weighs out spices so the dish is just right.
 **Mass** is how much matter a thing holds — how heavy it is — and we measure it in
 **grams** and **kilograms**. People have weighed goods at markets since the first
-scales were carved, because a fair trade depends on a fair measure. Today you weigh
-like a market-keeper: estimate first, then balance to check.
+scales were carved, because a fair trade depends on a fair measure (S-028). Today you weigh
+like a market-keeper: estimate first, then balance to check (S-026).
 
 ## Materials
 
@@ -122,7 +122,7 @@ It introduces **mass** with the **gram** and **kilogram** — the new skill is
 weights. Teach with a **worked example** (philosophy §13): hold the 1-kg bag, feel an
 apple against it, then balance the apple with gram weights and read ≈ 100 g. Note the
 distinction between mass (how much matter) and weight (the pull of gravity) — at this
-age the practical word is "mass," and we keep it concrete (Van de Walle et al., 2019).
+age the practical word is "mass," and we keep it concrete (Van de Walle et al., 2019, S-026).
 **No one's accuracy at estimating measures their smartness; estimation grows with
 practice, and "not yet" is information, never a verdict.** The gram and kilogram are
 shared international units that make trade fair everywhere. Measure in the home
@@ -173,7 +173,9 @@ and compare other things to it — then tell a grown-up which are heavier and li
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson. (Measuring
-  and estimating mass with grams and kilograms, developing benchmarks before
-  precision.)
+- On measuring and estimating mass, with benchmarks before precision: Van de Walle, Karp &
+  Bay-Williams (2019) — Elementary and Middle School Mathematics: Teaching Developmentally
+  (S-026).
+- On weighing as the basis of fair trade, in the history of money and measure: Glyn Davies
+  (2002) — A History of Money: From Ancient Times to the Present Day (S-028).
+

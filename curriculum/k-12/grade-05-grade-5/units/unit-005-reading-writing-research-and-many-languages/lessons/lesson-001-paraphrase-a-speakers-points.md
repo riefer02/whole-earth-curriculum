@@ -83,7 +83,8 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners learn to **paraphrase**: to restate a speaker's points in their **own words** while
-keeping the **meaning** the same. They meet a worked example, practice a "**listen → hold
+keeping the **meaning** the same (S-174). They meet a worked example (S-011),
+practice a "**listen → hold
 the idea → say it back**" routine with sentence starters, and check their paraphrase
 against the original with a partner. This is the first of two skills for understanding a
 speaker; asking clarifying questions follows in the next lesson.
@@ -169,8 +170,11 @@ them if you got it right.
 
 ## Resources
 
-- Paraphrasing and asking for clarification are core active-listening skills; for a
-  classroom-friendly framing, see the International Listening Association's "Listening
-  Skills" primer and CASEL's relationship-skills competency:
-  <https://casel.org/fundamentals-of-sel/>. On explicit instruction for novice skills, see
-  Kirschner, Sweller & Clark (2006), "Why Minimal Guidance During Instruction Does Not Work."
+- On paraphrasing and asking for clarification as active-listening skills:
+  International Listening Association — Listening Skills resources,
+  <https://listen.org/> (S-174).
+- On modelling a new skill and guiding practice before learners work on their own:
+  Kirschner, Sweller & Clark (2006), *Educational Psychologist*,
+  <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- On relationship skills, including listening and communicating clearly: CASEL,
+  <https://casel.org/fundamentals-of-sel/> (S-001).

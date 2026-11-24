@@ -79,7 +79,7 @@ last_updated: 2026-08-16
 Learners meet the words "right" and "wrong" as names for *choices* (not for
 children), and practice telling the difference between something that is right to do
 and something that is wrong to do — then giving a reason with the word "because."
-Reasons help us understand a choice; they do not make a wrong choice right.
+Reasons help us understand a choice; they do not make a wrong choice right (S-001).
 
 ## Objectives
 
@@ -183,5 +183,5 @@ the street, or in a story. Tell a grown-up which is which, and give a reason for
 
 ## Resources
 
-- CASEL SEL Framework (foundational competencies, including responsible
-  decision-making): <https://casel.org/fundamentals-of-sel/>
+- On responsible decision-making — weighing choices and their consequences — as a core
+  competency: CASEL — Fundamentals of Social and Emotional Learning (S-001).

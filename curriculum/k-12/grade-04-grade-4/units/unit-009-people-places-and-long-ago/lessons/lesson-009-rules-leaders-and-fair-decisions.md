@@ -124,7 +124,7 @@ always speak up when a decision hurts some and helps others.
 ## Facilitator note
 
 **Model the decide-then-check flow with a worked example first** (Kirschner, Sweller &
-Clark, 2006): walk one decision from propose to discuss to decide, then model the
+Clark, 2006, S-011): walk one decision from propose to discuss to decide, then model the
 "unfair" branch ("if the rule leaves someone out, they can speak up, gather others, and
 propose a fairer rule"). **Teach the Haudenosaunee Great Law of Peace accurately and
 with respect** (see Resources): the Haudenosaunee confederacy of several nations made
@@ -142,13 +142,13 @@ close to home, and always connect it to agency — something the learner can do.
    decided? Was everyone's voice heard?
 2. **Meet how groups decide (10 min).** A group decides in steps: **propose** an idea,
    **discuss** it so many voices are heard, then **decide**. Leaders help guide this —
-   but a fair decision includes the people it affects.
+   but a fair decision includes the people it affects (S-091).
 3. **Meet a fair-way example (10 min).** The **Haudenosaunee (Iroquois) peoples** of
    North America built the **Great Law of Peace**, a way of deciding by long discussion
    aimed at agreement, with clan mothers and the voices of several nations all included.
-   It aimed for decisions everyone could live with.
-4. **What to do when it's unfair (10 min).** Read the garden scenario. Walk the
-   "unfair" branch: the child left out can **speak up**, **gather others** who see the
+   It aimed for decisions everyone could live with (S-142).
+4. **What to do when it's unfair (10 min).** Read the garden scenario. Walk the "unfair"
+   branch: the child left out can **speak up**, **gather others** who see the
    unfairness, and **propose a better rule** (a turn for everyone). Discuss: which step
    would you take first, and why?
 5. **Practice in your own group (10 min).** Choose one real question in your class or
@@ -182,12 +182,13 @@ close to home, and always connect it to agency — something the learner can do.
 
 ## Resources
 
-- United Nations Convention on the Rights of the Child, Article 12 — children have the
-  right to say what they think and to have their views taken into account.
-  https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child
-- Britannica Kids, "Haudenosaunee (Iroquois)" — the Haudenosaunee confederacy and its
-  Great Law of Peace.
-  https://kids.britannica.com/kids/article/Haudenosaunee/353303
+- On children's right to say what they think and to have their views taken into account:
+  UN Convention on the Rights of the Child, Article 12 (S-091).
+- On the Haudenosaunee confederacy and the Great Law of Peace, including consensus
+  decisions and the role of clan mothers: Britannica Kids — Haudenosaunee (Iroquois)
+  (S-142).
+- On modelling a decision-making process with a worked example: Kirschner, Sweller &
+  Clark — Why Minimal Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

@@ -88,7 +88,8 @@ last_updated: 2026-08-17
 
 Learners define **fairness** and **dignity** in plain, concrete terms and sort real-life
 scenes into where each is **honored** and where it is **denied**. They see that fairness
-means equal respect and a fair chance, and dignity means being treated as a person of worth
+means equal respect and a fair chance, and dignity means being treated as a person of
+worth (S-149)
 — and they name one real example of each, preparing them for the unit's capstone.
 
 ## Objectives
@@ -171,10 +172,11 @@ from today.
 
 ## Resources
 
-- Fairness and dignity are widely shared ethical concepts; the curriculum teaches them as
-  *values* (how things ought to be) rather than as facts, and distinguishes the two
-  (docs/philosophy.md §5). The concrete examples (equal pay for equal work, being welcomed by
-  name, being shut out or treated as less) are drawn from everyday life so the concepts stay
-  concrete. The historical links — the salt tax, unfair pay, and being shut out — connect to
-  the unit's resistance examples (the Salt March, the Aba Women's War, the Wave Hill walk-off),
-  each documented in the previous lesson's Resources.
+- On equal dignity and equal rights as the starting point of fairness: UN — Universal
+  Declaration of Human Rights, <https://www.un.org/en/about-us/universal-declaration-of-human-rights>
+  (S-149).
+- On the equal worth of every person, and on treating people as ends rather than means:
+  Stanford Encyclopedia of Philosophy — Deontological Ethics,
+  <https://plato.stanford.edu/entries/ethics-deontological/> (S-387).
+- On fairness in what people are actually able to do and be: Amartya Sen — *Development
+  as Freedom* (S-460).

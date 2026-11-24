@@ -97,8 +97,8 @@ You are not one thing — you belong to many groups at once. You belong to a **f
 **team** or **club**, a **language** you speak, and a **place** you know — a city, a
 farm, a coast, a mountain. Each group shapes you a little: your family teaches you love
 and your story, your class teaches you to learn with others, your language gives you
-the words you think and sing in. All over the world, people belong to many such groups,
-and each one leaves its mark. Today you name yours.
+the words you think and sing in (S-508). All over the world, people belong to many such groups,
+and each one leaves its mark (S-232). Today you name yours.
 
 ## Materials
 
@@ -183,4 +183,8 @@ them — then tell them your own rings and how a group shapes you.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness, social awareness): <https://casel.org/fundamentals-of-sel/>
+- On becoming a person through other people (ubuntu: 'a person is a person through other
+  persons'): Desmond Tutu — Ubuntu (S-508).
+- On group membership as part of who a person is: Henri Tajfel — Minimal Group Paradigm
+  and Social Identity (S-232).
+

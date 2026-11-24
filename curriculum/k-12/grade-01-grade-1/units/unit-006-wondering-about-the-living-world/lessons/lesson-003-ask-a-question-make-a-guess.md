@@ -129,7 +129,7 @@ see." Some questions we cannot answer yet — and that is wonderful, not a failu
    **prediction**.
 4. **Draw your wonder (10 min).** On your paper, draw your question and your guess —
    what you noticed, and what you think.
-5. **Close (5 min).** Notice, ask, guess, check — that is the rhythm of science. Some
+5. **Close (5 min).** Notice, ask, guess, check — that is the rhythm of science (S-041). Some
    questions we cannot answer yet, and wondering about them is wonderful too.
 
 ## Differentiation
@@ -153,3 +153,8 @@ see." Some questions we cannot answer yet — and that is wonderful, not a failu
 
 At home, wonder about one thing out loud — "I wonder why the moon changes shape?" —
 then tell a grown-up your guess. You can even plan how to check it together.
+
+## Resources
+
+- On asking questions, making predictions, and testing them: BBC Bitesize (KS1
+  Science), "Working scientifically" (S-041).

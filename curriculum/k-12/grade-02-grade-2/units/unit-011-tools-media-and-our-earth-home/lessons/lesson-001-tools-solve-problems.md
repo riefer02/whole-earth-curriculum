@@ -83,11 +83,11 @@ last_updated: 2026-08-16
 ## Summary
 
 Learners discover that a **tool** is a thing people **make** to **solve** a problem, and
-that a **machine** is a tool with moving parts. They match a problem to the tool that
-solves it — a heavy water jug to a pump, food to cut to a knife, soil to dig to a hoe —
-and draw one problem and the tool that solves it. Along the way they learn that people
-everywhere make tools, that no people's tools matter more than another's, and that a tool
-is not magic: it is a problem made easier.
+that a **machine** is a tool with moving parts (S-061). They match a problem to the tool
+that solves it — a heavy water jug to a pump, food to cut to a knife, soil to dig to a
+hoe — and draw one problem and the tool that solves it. Along the way they learn that
+people everywhere make tools, that no people's tools matter more than another's, and
+that a tool is not magic: it is a problem made easier.
 
 ## Objectives
 
@@ -98,9 +98,9 @@ is not magic: it is a problem made easier.
 
 Think of a problem you met today. A jar lid was too tight to open. A bag was too heavy
 to carry. A piece of food was too hard to cut with your fingers. People made tools to
-solve problems exactly like these: a gripper to open the jar, a basket or a cart to carry
-the bag, a knife to cut the food. Every tool you see was made by a person who wanted to
-make a problem easier.
+solve problems exactly like these: a gripper to open the jar, a basket or a cart to
+carry the bag, a knife to cut the food. Every tool you see was made by a person who
+wanted to make a problem easier.
 
 ## Materials
 
@@ -196,7 +196,5 @@ glad someone invented, and why.
 
 ## Resources
 
-- Britannica Kids, "Tool" — a tool is anything used to make a change to something else or
-  to help do a job, supporting the lesson's core idea that people make tools to solve a
-  problem.
-  https://kids.britannica.com/kids/article/tool/400194
+- On what a tool is — anything used to make a change or help do a job: Britannica Kids
+  — Tool (S-061).

@@ -133,9 +133,9 @@ the unit's **primary-versus-secondary source note** portfolio artifact. See
    evidence. Today you put both to work on one event.
 2. **Worked example: Zheng He (15 min).** Read the poster. The event is the **voyages of
    Zheng He**, a Chinese admiral who led huge fleets across the **Indian Ocean** between
-   1405 and 1433 — to Southeast Asia, South Asia, Arabia, and the coast of East Africa. The
+   1405 and 1433 — to Southeast Asia, South Asia, Arabia, and the coast of East Africa (S-265). The
    **primary source** is the account of **Ma Huan**, an interpreter who *sailed with the
-   fleet* and wrote down what he saw — the people, the ports, the animals. The **secondary
+   fleet* and wrote down what he saw — the people, the ports, the animals (S-266). The **secondary
    source** is a modern book, *The Treasure Fleets*, written by a historian centuries later
    who studied Ma Huan's writing and other evidence to explain the voyages. Notice what each
    adds: Ma Huan gives the *feel* of being there; the modern book gives the *big picture*.
@@ -182,3 +182,6 @@ historian explains them — and ask which version felt different and why.
   UNESCO World Heritage listing (<https://whc.unesco.org/en/list/364/>). The 1857 rebellion
   in India is documented in British and Indian records and in later scholarship. Dates are
   approximations that scholars revise as new evidence appears.
+- On Zheng He's Indian Ocean voyages (1405–1433): UNESCO Silk Roads Programme (Maritime Silk Road) (S-265).
+- On Ma Huan's first-hand account of Zheng He's voyages: Ma Huan — Ying-yai Sheng-lan (The Overall Survey of the Ocean's Shores) (S-266).
+

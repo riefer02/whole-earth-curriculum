@@ -118,7 +118,7 @@ the order is what counts.
 ## Procedure
 
 1. **Gather (5 min).** Sit facing your partner. Remember what listening feels like:
-   your full attention on the speaker — with your eyes, your ears, or both. If you
+   your full attention on the speaker — with your eyes, your ears, or both (S-174). If you
    listen by watching faces and hands in sign, that is listening too.
 2. **Meet the order words (5 min).** Learn the three words that hold a story
    together: **first**, **next**, **last**. Say them in your home language. Every
@@ -154,5 +154,5 @@ it back to them in order and ask, "Did I keep the order?"
 
 ## Resources
 
-- CASEL SEL Framework (listening and relationship skills):
-  <https://casel.org/fundamentals-of-sel/>
+- On listening with full attention as a taught skill: International Listening
+  Association — Listening Skills resources (S-174).

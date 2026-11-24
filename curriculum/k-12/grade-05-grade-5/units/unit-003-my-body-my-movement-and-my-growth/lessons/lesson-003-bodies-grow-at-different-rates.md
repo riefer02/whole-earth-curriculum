@@ -137,7 +137,7 @@ measured publicly. See `docs/facilitation.md` on assessing without ranking.
    its own clock.
 3. **Notice a range (10 min).** In a group or by looking around, notice the wide range of
    heights, hands, and shoe sizes among people your age. Is there one "right" size? No — a
-   wide **range** is exactly what healthy looks like. Share one thing you notice with a
+   wide **range** is exactly what healthy looks like (S-162). Share one thing you notice with a
    partner.
 4. **Draw your own line (15 min).** On your page, draw a rising growth line. Mark **"me
    now"** somewhere on it, and **"me soon"** a little further up. Under it, write one reason
@@ -172,3 +172,7 @@ on its own schedule.
   standards that treat a wide range of heights and weights as normal:
   <https://www.who.int/toolkits/child-growth-standards>. Growth is shaped by genes,
   nutrition, and environment — evidence, not a value judgment about any body.
+
+- On growth as a wide range of normal, charted as percentile curves rather than one
+  'right' size: WHO — Child Growth Standards,
+  <https://www.who.int/toolkits/child-growth-standards> (S-162).

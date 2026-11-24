@@ -104,7 +104,7 @@ Pick up almost anything near you — a spoon, a bag, a bottle, a chair. Someone 
 material and its making, and every choice had a price. The cheapest option is often the one
 that lasts the shortest and ends up in the ground or the water; the most durable option often
 costs the most up front and uses mined or harvested materials; the lightest option is easy to
-carry but may be made from oil. A woven basket of local reeds is nearly free in materials and
+carry but may be made from oil (S-282). A woven basket of local reeds is nearly free in materials and
 returns to the earth, but it takes time and skill to make and won't hold hot water. There is
 no "perfect" object — only trade-offs, seen or hidden. Today you learn to name them, so you
 choose on purpose instead of by accident.
@@ -153,7 +153,7 @@ choices that made it the affordable default.
    spoon and the wooden spoon. Fill your worksheet for each: **cost** (cheap or dear?),
    **materials** (renewable, mined, or oil-based?), **function** (does it do the job well, and
    for how long?), **environmental impact** (where does it go when it is done — and what was
-   used to make and ship it?).
+   used to make and ship it?) (S-371).
 4. **Choose and defend (10 min).** Pick one need — "a spoon for one school year" or "a bag for
    a hundred trips to market" — and choose the object that best fits *that* need. On your
    worksheet, finish the line: "I choose ___ because ___, and the trade-off I accept is ___."
@@ -192,3 +192,6 @@ trade-off you found.
   choosing and comparing materials: <https://ssec.si.edu/>
 - Kirschner, Sweller & Clark (2006), "Why Minimal Guidance Does Not Work," on modeling the
   worked example before independent practice.
+- On the environmental costs of materials and waste: UN Environment Programme (UNEP) (S-282).
+- On life-cycle thinking about materials and environmental impact: U.S. Environmental Protection Agency — Sustainable Materials Management (life cycle) (S-371).
+

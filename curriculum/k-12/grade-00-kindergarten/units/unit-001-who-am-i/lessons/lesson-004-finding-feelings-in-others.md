@@ -86,7 +86,7 @@ asking.
 
 You can often tell how a friend is feeling before they say a word. A smiling mouth,
 a quiet voice, shoulders that drop — these are clues. People show feelings in many
-ways, so we look, listen, and then ask to be sure.
+ways (S-160), so we look, listen, and then ask to be sure.
 
 ## Materials
 
@@ -138,6 +138,7 @@ different families and cultures — a guess is a guess, and asking is how we lea
 
 - CASEL SEL Framework (foundational competencies):
   <https://casel.org/fundamentals-of-sel/>
+- On how families and cultures show feeling differently (display rules): Ekman & Friesen — The Repertoire of Nonverbal Behavior (S-160).
 
 ## Home connection
 

@@ -120,7 +120,7 @@ standard itself asks only for turn-taking *with a gentle reminder*.
    together, passing the turn. If you forget, a friend gives a gentle reminder:
    "my turn next."
 5. **Close (10 min).** Talk together: how did waiting feel? How did it feel when
-   your turn finally came? Remember — when we take turns, everyone gets a chance.
+   your turn finally came? Remember — when we take turns, everyone gets a chance (S-001).
 
 ## Differentiation
 
@@ -139,7 +139,7 @@ standard itself asks only for turn-taking *with a gentle reminder*.
 ## Resources
 
 - CASEL SEL Framework (foundational competencies):
-  <https://casel.org/fundamentals-of-sel/>
+  <https://casel.org/fundamentals-of-sel/> (S-001)
 
 ## Home connection
 

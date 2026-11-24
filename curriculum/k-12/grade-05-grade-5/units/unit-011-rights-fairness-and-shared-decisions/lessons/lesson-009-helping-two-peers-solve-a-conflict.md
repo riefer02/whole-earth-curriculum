@@ -98,7 +98,8 @@ solution both accept — and role-play it in trios, producing a mediation record
 
 Two friends both want the last turn, or the same spot, or the one borrowed pencil. Both
 are upset, and neither is listening. A helper can change everything: not by choosing a
-winner, but by helping **each side speak, and each side listen**, until they find a
+winner, but by helping **each side speak, and each side listen** (S-022), until they
+find a
 **fair solution** they both accept. That is what you will practice today — in the
 classroom, the yard, or anywhere people disagree.
 
@@ -179,8 +180,8 @@ to bring in a trusted adult rather than handle it alone.
 
 ## Resources
 
-- Restorative practice frames responding to conflict by listening and repairing rather
-  than only punishing: International Institute for Restorative Practices,
-  <https://www.iirp.edu/>
-- On modeling a routine before independent practice: Kirschner, Sweller & Clark (2006),
-  <https://doi.org/10.1207/s15326985ep4102_1>
+- On responding to conflict by hearing each side and repairing the relationship rather
+  than only punishing: International Institute for Restorative Practices (IIRP),
+  <https://www.iirp.edu/> (S-022).
+- On modelling the mediation routine before learners run it themselves: Kirschner,
+  Sweller & Clark (2006), <https://doi.org/10.1207/s15326985ep4102_1> (S-011).

@@ -131,8 +131,8 @@ identical wave rules.
 1. **Gather (5 min).** Quick recall: what is a wave, and what travels in it? (Energy, not the
    medium.) Today: how does a wave's *shape* become what you hear and see?
 2. **Three matches (10 min).** **Frequency** (how fast the wave repeats) → **pitch**: high
-   frequency = high pitch. **Amplitude** (height) → **loudness**: tall wave = loud. **
-   Wavelength** (distance between crests) → **color**: long wavelength = red, short = blue.
+   frequency = high pitch (S-109). **Amplitude** (height) → **loudness**: tall wave = loud. **
+   Wavelength** (distance between crests) → **color**: long wavelength = red, short = blue (S-108).
 3. **Worked example (10 min).** Twang a ruler over a table edge. Press more of it down (shorter
    free end): it vibrates *faster* (higher frequency) → higher pitch. Let more hang out: slower
    → lower pitch. Pluck it harder (bigger amplitude) → louder, same pitch.
@@ -170,3 +170,6 @@ amplitude. Look at one color and say whether its wavelength is long or short.
   commitment, not a physical claim (`docs/philosophy.md` §4).
 - On explicit instruction for novice content: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On how sound is made and how pitch relates to vibration: BBC Bitesize (KS2) — How are sounds made? (S-109).
+- On light and its properties: BBC Bitesize (KS2) — What is light? (S-108).
+

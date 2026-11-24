@@ -101,7 +101,7 @@ way in Casablanca, another in Cairo, another in Beirut — and each is fully, co
 Arabic. Spanish in Mexico City and in Buenos Aires differ, and both are right. The idea
 that one version is the "proper" one is a story people tell — usually about *power*, not
 about language. Every way of speaking is a correct way of speaking, for the people who
-speak it.
+speak it (S-167).
 
 ## Materials
 
@@ -173,3 +173,5 @@ thing you love about the way your family speaks.
   (multilingualism and mother-tongue dignity), <https://www.unesco.org/en/days/mother-language>
 - On learning a peer's name and pronunciation as a matter of respect: Kohli & Solórzano
   (2012), "Teachers, please learn our names!", <https://doi.org/10.1080/13613324.2012.674026>
+- On dialects and varieties as complete, rule-governed systems: Daniel Everett — Language: The Cultural Tool (S-167).
+

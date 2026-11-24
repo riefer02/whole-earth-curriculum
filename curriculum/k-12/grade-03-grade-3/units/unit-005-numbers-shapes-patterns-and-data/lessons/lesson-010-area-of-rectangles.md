@@ -100,7 +100,7 @@ A farmer needs to know how much ground to plant; a tiler needs to know how many 
 to cover a floor; a weaver needs to know how much cloth to cut for a mat. In every
 case the question is the same: **how much flat space** does this shape cover? The
 answer is its **area**, and people have measured area since the first fields were
-planted — counting how many equal squares fit. Today you measure area the same way.
+planted — counting how many equal squares fit (S-026). Today you measure area the same way.
 
 ## Materials
 
@@ -183,6 +183,7 @@ equal squares (paper squares, crackers, or coasters) and tell a grown-up how man
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson. (Area as
-  tiling with unit squares, connecting counting to rows × columns.)
+- On teaching mathematics developmentally — pictures, materials and reasoning before
+  symbols: Van de Walle, Karp & Bay-Williams (2019) — Elementary and Middle School
+  Mathematics: Teaching Developmentally (S-026).
+

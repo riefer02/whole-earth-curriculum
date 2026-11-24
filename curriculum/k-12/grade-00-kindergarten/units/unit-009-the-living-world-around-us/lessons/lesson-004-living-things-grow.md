@@ -108,7 +108,7 @@ quiet through-line.
    was it like when it was small?
 2. **Living and growing (10 min).** Look at a seed and a rock. A seed can grow into a
    plant; a rock mostly stays the same. Growing and changing is something living
-   things do. Act out growing: curl up small like a seed, then stretch up tall and
+   things do (S-034). Act out growing: curl up small like a seed, then stretch up tall and
    leafy.
 3. **Match baby to grown-up (15 min).** Match each card to its grown-up: seed to
    plant, puppy to dog, chick to hen, baby to grown-up person. Which is the baby?
@@ -129,6 +129,10 @@ quiet through-line.
 - **Formative (observation):** Can the learner match at least one baby to its grown-up
   and say "it grew"?
 - **Artifact (portfolio):** The "small and big" drawing.
+
+## Resources
+
+- On living and non-living things: BBC Bitesize (KS1) — How can I sort objects into dead, living and non-living? (S-034).
 
 ## Home connection
 

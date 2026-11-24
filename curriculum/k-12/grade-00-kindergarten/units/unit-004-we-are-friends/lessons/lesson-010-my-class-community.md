@@ -87,7 +87,7 @@ every small part they play helps make the class a caring place.
 ## Connection
 
 Your class is a community — a group of people who learn, play, and help each other
-together, day after day. Everyone in it belongs, and everyone has a part. When each
+together, day after day. Everyone in it belongs, and everyone has a part (S-147). When each
 person adds their small part, the whole class becomes a place that cares for everyone
 in it.
 
@@ -138,6 +138,7 @@ something to contribute, so no one feels like a visitor.
 
 - CASEL SEL Framework (foundational competencies):
   <https://casel.org/fundamentals-of-sel/>
+- On cooperative group work with individual accountability: Slavin — Cooperative Learning (S-147).
 
 ## Home connection
 

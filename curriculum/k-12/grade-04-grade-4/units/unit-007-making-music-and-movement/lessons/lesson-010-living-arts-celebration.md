@@ -124,9 +124,9 @@ the arts of other cultures are living traditions to honor with a respectful ques
 All around the world, people end their work with a celebration — a harvest feast, a
 festival, a market day where everyone shows what they made and taught each other. A
 celebration is not the opposite of work; it is the part where work is *shared*, and
-sharing is how knowledge travels. Today is that day for you: you show what you made,
-you see what others made, and you remember what you learned about honoring the living
-arts of every people.
+sharing is how knowledge travels. Today is that day for you: you show what you made, you
+see what others made, and you remember what you learned about honoring the living arts
+of every people (S-056).
 
 ## Materials
 
@@ -145,8 +145,8 @@ arts of every people.
 ## Facilitator note
 
 It is both a celebration and a **summative** review, so use it to retrieve the unit's
-key ideas (retrieval practice): ask learners to name the three depth tricks, read a
-rhythm aloud, describe one culture's music or dance, and recall the design cycle. Keep
+key ideas (retrieval practice; S-039): ask learners to name the three depth tricks, read
+a rhythm aloud, describe one culture's music or dance, and recall the design cycle. Keep
 the tone celebratory and non-competitive — this is a gallery and a sharing, never a
 contest or ranking (`docs/philosophy.md` §8). Each learner shares at least one thing; a
 learner who is shy may share through a partner or by placing their work with a written
@@ -202,5 +202,8 @@ another culture's art.
 
 ## Resources
 
-- UNESCO Intangible Cultural Heritage — the living heritage people practice and pass
-  on: <https://ich.unesco.org/en/lists>
+- On the living heritage people practice and pass on: UNESCO — Intangible Cultural
+  Heritage (S-056).
+- On retrieval practice as an evidence-based way to consolidate learning: Dunlosky et
+  al. — Improving Students' Learning With Effective Learning Techniques (S-039).
+- On sharing dance and arts learning respectfully: Kennedy Center — Education (S-189).

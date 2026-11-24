@@ -96,7 +96,7 @@ their partner, recording the before and after.
 
 A cook tastes the soup and a helper says, "It needs a little salt." The cook doesn't
 argue — she adds a pinch, tastes again, and the soup is better. Feedback is only half the
-skill; the other half is **doing something with it**. When someone offers you a kind tip
+skill; the other half is **doing something with it** (S-007). When someone offers you a kind tip
 about a shared thing — a sign, a plan, a game, a meal — the magic happens when you pick
 one change and make it.
 
@@ -132,7 +132,7 @@ thing small and safe so learners can risk changing it. See `docs/facilitation.md
    sign now reads "1. Fill can. 2. Water each plant. 3. Put can away." That is the loop:
    **hear the feedback → choose one change → make it.**
 3. **Practice together (5 min).** With the whole group, run the loop once aloud on a
-   shared thing: someone names one kind, specific tip; the group chooses one change and
+   shared thing (a model before guided practice; S-011): someone names one kind, specific tip; the group chooses one change and
    says exactly what it will be.
 4. **Improve your shared thing (15 min).** Take your pair's shared-work page. Partner A
    gives one kind, specific comment (from Lesson 1's starter). Partner B **chooses one
@@ -163,7 +163,9 @@ a recipe, a note — and show them the before and after.
 
 ## Resources
 
-- Feedback drives learning only when learners act on it — mastery learning's
-  "feedback-corrective" cycle (Bloom, 1984) and Hattie's feedback findings both turn on
-  the learner *using* the feedback to close the gap. For classroom SEL framing, see
-  CASEL's relationship-skills competency: <https://casel.org/fundamentals-of-sel/>
+- On feedback only paying off when the learner uses it to correct the work — the
+  'feedback-corrective' cycle of mastery learning: Bloom (1984), *The 2 Sigma Problem*,
+  <https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem> (S-007).
+- On modelling a new skill and guiding practice before learners work on their own:
+  Kirschner, Sweller & Clark (2006), *Educational Psychologist*,
+  <https://doi.org/10.1207/s15326985ep4102_1> (S-011).

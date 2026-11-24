@@ -89,7 +89,7 @@ celebrate that every body moves in its own way.
 
 Your body loves to move. You run to greet a friend, hop over a puddle, jump to reach a
 high branch, and balance on a curb, a log, or the edge of a boat. Big movements are how
-you play, how you get places, and how you feel strong and happy. Children everywhere move
+you play, how you get places, and how you feel strong and happy (S-069). Children everywhere move
 in their own ways — through dances, games, and songs passed down in their families and
 communities — and every way of moving is worth honoring.
 
@@ -130,7 +130,7 @@ or height.
    - **Jump:** jump up and land softly, like a frog. Bend your knees when you land.
    - **Stretch:** reach high, touch low, and make the biggest shape you can.
 4. **Freeze game (10 min).** When the music or a clap stops, freeze like a statue.
-   Notice: is your heart beating fast? Are you warm? That is your body working.
+   Notice: is your heart beating fast? Are you warm? That is your body working (S-098).
 5. **Close (5 min).** Sit and rest. Put a hand on your chest and feel your breath
    slow down. What was your favorite big movement today?
 
@@ -146,6 +146,11 @@ or height.
 - **Formative (observation):** Can the learner attempt each big movement with growing
   control, using an adapted version if needed?
 - **Self:** The learner names the movement they felt most proud of.
+
+## Resources
+
+- On movement and healthy development: WHO — Physical activity fact sheet (S-069).
+- On the heart and body during activity: Nemours KidsHealth — heart, lungs, sweat, and muscles (for kids) (S-098).
 
 ## Home connection
 

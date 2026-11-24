@@ -97,8 +97,8 @@ resource comes from is the first step to using it with care.
 Turn on a tap and water comes out. But where was that water before? It fell as **rain**,
 gathered in a **river** or a **well**, and traveled to your tap. Switch on a light, and the
 power came from somewhere too — maybe the sun, wind, water, or fuel. Every resource you use
-has a **where it comes from**. And every one of them can be used a little less — turn off
-the tap, switch off the light, reuse what you have. Knowing where a thing comes from is the
+has a **where it comes from** (S-049). And every one of them can be used a little less — turn off
+the tap, switch off the light, reuse what you have (S-154). Knowing where a thing comes from is the
 first step to caring for it.
 
 ## Materials
@@ -193,6 +193,8 @@ it this week, and try it.
 
 ## Resources
 
-- WHO, "Drinking-water fact sheet" — where drinking water comes from and why it matters,
-  supporting the lesson's tracing of water from rain, rivers, and wells to the tap.
-  https://www.who.int/news-room/fact-sheets/detail/drinking-water
+- On where drinking water comes from, and why safe water matters: WHO — Drinking-water
+  fact sheet (S-049).
+- On using less and reusing what we have before recycling it: U.S. Environmental
+  Protection Agency — Reduce, Reuse, Recycle (S-154).
+

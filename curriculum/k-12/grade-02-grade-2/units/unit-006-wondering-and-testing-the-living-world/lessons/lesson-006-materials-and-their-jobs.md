@@ -87,9 +87,9 @@ last_updated: 2026-08-16
 Everything we make is made of a **material** — wood, metal, cloth, glass, stone, paper,
 plastic — and every material has **properties**: it is hard or soft, strong or weak,
 clear or cloudy, stiff or bendy. Learners feel and name these properties, sort materials
-by them, and explain how a property makes a material just right for a certain **job**. We
-choose materials on purpose, and that choosing is a quiet kind of technology people do
-everywhere.
+by them, and explain how a property makes a material just right for a certain **job**
+(S-042). We choose materials on purpose, and that choosing is a quiet kind of technology
+people do everywhere.
 
 ## Objectives
 
@@ -98,11 +98,11 @@ everywhere.
 
 ## Connection
 
-Your spoon does not melt in hot soup, and your blanket is soft against your skin. That is
-not luck — people chose those **materials** for those jobs. Metal is **strong** and does
-not melt easily, so it makes a good spoon. Cloth is **soft** and bendy, so it makes a
-good blanket. When you pick a material because of what it is like, you are thinking like
-a maker, a builder, and a scientist all at once.
+Your spoon does not melt in hot soup, and your blanket is soft against your skin. That
+is not luck — people chose those **materials** for those jobs. Metal is **strong** and
+does not melt easily, so it makes a good spoon. Cloth is **soft** and bendy, so it makes
+a good blanket. When you pick a material because of what it is like, you are thinking
+like a maker, a builder, and a scientist all at once.
 
 ## Materials
 
@@ -164,12 +164,11 @@ swap in a clear plastic cup where needed.
 
 ## Home connection
 
-At home, find three things made of different materials. Feel each one and tell a grown-up
-its property and its job: "This bowl is smooth and strong, so it is good for holding
-soup."
+At home, find three things made of different materials. Feel each one and tell a
+grown-up its property and its job: "This bowl is smooth and strong, so it is good for
+holding soup."
 
 ## Resources
 
-- BBC Bitesize (KS1 Science), "Everyday materials" — describing materials and their
-  properties, and choosing the right material for each job.
-  https://www.bbc.co.uk/bitesize/topics/zrssgk7
+- On material properties and choosing the right material for a job: BBC Bitesize (KS1)
+  — Everyday materials (S-042).

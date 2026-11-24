@@ -81,10 +81,10 @@ last_updated: 2026-08-16
 
 ## Summary
 
-Learners face a real task that no one person could finish alone — a heavy or long
-thing to carry, or one big thing to build — and discover that cooperation is how it
-gets done. They plan who does what, do the job together, and reflect that each person's
-part mattered. This gathers the year's teamwork and prepares the class to make the
+Learners face a real task that no one person could finish alone — a heavy or long thing
+to carry, or one big thing to build — and discover that cooperation is how it gets done.
+They plan who does what, do the job together, and reflect that each person's part
+mattered (S-147). This gathers the year's teamwork and prepares the class to make the
 celebration together.
 
 ## Objectives
@@ -164,4 +164,5 @@ someone how each person's part mattered.
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills): <https://casel.org/fundamentals-of-sel/>
+- On cooperative work where each person takes a part and is accountable for it: Slavin
+  — Cooperative Learning (S-147).

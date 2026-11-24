@@ -98,7 +98,7 @@ and notice that governments take many different forms around the world.
 
 Who makes sure the road is repaired, the school runs, and clean water reaches the tap?
 Not one person, but a group whose job is to make and carry out decisions for *everyone*
-in a place — a **government**. It is at work all around you, every day, in quiet ways:
+in a place — a **government** (S-463). It is at work all around you, every day, in quiet ways:
 a rule about traffic, a shared water supply, a place to learn. Understanding it is
 understanding how a whole community lives together.
 
@@ -170,6 +170,8 @@ a school) and one rule it makes — and tell someone what you found.
 
 ## Resources
 
-- Responsible decision-making and social awareness framing: CASEL:
-  <https://casel.org/fundamentals-of-sel/>
-- For comparing how decisions are made, see the next lesson (L.05.011.07).
+- On public institutions that make and carry out decisions, provide services, and
+  protect rights: United Nations — Sustainable Development Goal 16 (peace, justice and
+  strong institutions), <https://sdgs.un.org/goals/goal16> (S-463).
+- On social awareness and responsible decision-making, for classroom framing: CASEL,
+  <https://casel.org/fundamentals-of-sel/> (S-001).

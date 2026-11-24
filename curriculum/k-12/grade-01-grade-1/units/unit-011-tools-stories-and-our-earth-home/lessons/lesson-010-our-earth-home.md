@@ -169,7 +169,7 @@ them. Every body is honored, and every body's contribution counts.
    off a tap, reuse a bag, water a plant with just enough — and say what a living
    thing needs each day. Add a mark to the "Care" part.
 6. **Celebrate (5 min).** Step back and look at the full Earth home. Tools, stories,
-   living things, and care — all together, in one home, cared for by many hands.
+   living things, and care — all together, in one home, cared for by many hands (S-004).
 
 ## Differentiation
 
@@ -198,3 +198,11 @@ Show your "Earth home" picture to a grown-up and tell them the four things you
 learned: a tool and its job, a real photo and a pretend story and who made them, a
 living and nonliving thing and a shared need, and one waste-less act of care you did.
 Ask them what small act of care they like to do for the Earth.
+
+## Resources
+
+- On caring for the Earth and for one another as a single everyday practice: UNESCO —
+  Education for Sustainable Development (S-004).
+- On tools as things people make to help do a job: Britannica Kids — Tool (S-061).
+- On asking who made a message and who it is for: NAMLE — Key Questions to Ask When
+  Analyzing Media Messages (S-151).

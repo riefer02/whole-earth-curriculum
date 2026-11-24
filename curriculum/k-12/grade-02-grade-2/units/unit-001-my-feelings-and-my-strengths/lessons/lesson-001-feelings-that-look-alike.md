@@ -81,7 +81,7 @@ last_updated: 2026-08-16
 Learners meet two pairs of feelings that look and feel almost the same: **mad** and
 **frustrated**, and **sad** and **disappointed**. They learn a simple clue question
 to tell each pair apart and practice sorting small everyday moments. This is the
-first step toward naming feelings exactly, not just roughly.
+first step toward naming feelings exactly, not just roughly (S-015).
 
 ## Objectives
 
@@ -163,5 +163,5 @@ at home, and share a time you felt each one.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On labeling feelings with precise words: RULER Approach — Yale Center for Emotional
+  Intelligence (S-015).

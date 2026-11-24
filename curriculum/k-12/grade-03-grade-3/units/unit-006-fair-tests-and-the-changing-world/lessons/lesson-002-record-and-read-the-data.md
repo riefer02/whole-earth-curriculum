@@ -106,7 +106,7 @@ If you do not write it down, you will only half-remember it. A scientist **recor
 she makes a little table with two columns and puts a **tick mark** each time. At the
 end she looks at the marks and says what the **data** show: "The car rolled farther on
 the smooth floor every time." That is how a guess becomes something you can trust: you
-wrote down what really happened.
+wrote down what really happened (S-071).
 
 ## Materials
 
@@ -179,6 +179,6 @@ or which of two spoons sinks. Record the marks and tell a grown-up what your dat
 
 ## Resources
 
-- BBC Bitesize (KS2 Science), "Recording and presenting scientific data" — using tables,
-  tally marks, and drawings to record and read results.
-  https://www.bbc.co.uk/bitesize/topics/zqkk7ty/articles/zdwttrd
+- On recording and presenting scientific data with tables, tally marks and drawings: BBC
+  Bitesize (KS2) — Recording and presenting scientific data (S-071).
+

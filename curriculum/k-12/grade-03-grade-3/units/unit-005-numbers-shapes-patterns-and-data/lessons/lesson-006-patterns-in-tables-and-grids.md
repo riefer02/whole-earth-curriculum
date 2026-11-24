@@ -98,7 +98,7 @@ table — skip counting down columns, across rows, and along diagonals — and s
 Look at a calendar, a tiled wall, a woven cloth, or a flight of stairs: the same step
 repeats, and you can predict what comes next without counting every square. Weavers
 and beadworkers in many traditions have built repeating patterns into cloth and
-jewelry for thousands of years — a pattern is a rule you can see (Zaslavsky, 1999).
+jewelry for thousands of years — a pattern is a rule you can see (Zaslavsky, 1999, S-024).
 A number grid hides the same treasure: read down a column and the numbers grow by the
 same amount each time. Finding the rule is how you read the grid like a map.
 
@@ -120,10 +120,10 @@ same amount each time. Finding the rule is how you read the grid like a map.
 
 **The facts to land.**
 1. A pattern has a **rule**, and the rule says what the pattern always does, not only
-   what it did once (Clements & Sarama, 2014).
+   what it did once (Clements & Sarama, 2014, S-020).
 2. The same rule can appear in a 100s grid and in a multiplication-table row.
 3. Patterns are a human and cross-cultural treasure: weaving, beading, and lattice grids
-   carry arithmetic patterns in many traditions (Zaslavsky, 1999).
+   carry arithmetic patterns in many traditions (Zaslavsky, 1999, S-024).
 
 **Don't overshoot.** Seeing a pattern quickly is not a measure of smartness, and a
 pattern is a fact about numbers, never about a person. Do not accept a description where
@@ -184,9 +184,9 @@ and predict what comes next — then tell a grown-up.
 
 ## Resources
 
-- Zaslavsky, C. (1999). *Africa Counts: Number and Pattern in African Cultures* (3rd
-  ed.). Lawrence Hill Books. (Arithmetic patterns embedded in weaving, beading, and
-  other cultural designs.)
-- Clements, D. H., & Sarama, J. (2014). *Learning and Teaching Early Math: The
-  Learning Trajectories Approach* (2nd ed.). Routledge. (Generalizing a pattern by
-  stating its rule.)
+- On counting, grouping and pattern in African and other traditions: Claudia Zaslavsky
+  (1999) — Africa Counts: Number and Pattern in African Cultures (S-024).
+- On unitising, place value and learning trajectories in early mathematics: Douglas H.
+  Clements & Julie Sarama (2014) — Learning and Teaching Early Math: The Learning
+  Trajectories Approach (S-020).
+

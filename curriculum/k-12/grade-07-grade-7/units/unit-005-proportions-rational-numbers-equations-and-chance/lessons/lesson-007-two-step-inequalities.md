@@ -98,7 +98,7 @@ value.
 A family can spend *at most* $11 on snacks, and each snack costs $2 plus a $3 flat delivery fee.
 How many snacks can they buy? The unknown *x* must satisfy **2x + 3 ≤ 11**. Solving gives
 **x ≤ 4** — they can buy up to 4 snacks, and 4, 3, 2, 1, or 0 all work. Unlike an equation (one
-answer), an inequality names a whole *range* of fair answers. "At least" and "at most" limits —
+answer), an inequality names a whole *range* of fair answers (S-026). "At least" and "at most" limits —
 budgets, capacities, age limits, weight limits on a bridge — are everywhere, and they turn into
 inequalities. Fair rules often live on one side of a line; inequalities are how we name that side.
 
@@ -193,3 +193,5 @@ write it as an inequality, solve it, and name the whole range of answers it allo
   follows from the order properties of real numbers (multiplying by a negative reverses order).
   The claim that limits stated as inequalities let everyone check rules fairly is a value
   commitment; testing boundary values is a critical-thinking practice (`docs/philosophy.md` §7).
+- On inequalities and their solution sets: John A. Van de Walle, Karen S. Karp & Jennifer M. Bay-Williams — Elementary and Middle School Mathematics: Teaching Developmentally (S-026).
+

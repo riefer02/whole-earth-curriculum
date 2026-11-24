@@ -114,8 +114,8 @@ they do not tell anyone exactly *how* long or heavy or hot. If you say a fish is
 and your friend says it is "very long," you cannot compare. A **measurement** uses a
 number *and* a unit — "30 centimeters long," "250 grams," "21 degrees Celsius" — so two
 people, in two different places, can agree on exactly the same fact. From a market stall
-weighing rice to a nurse taking a temperature, measurement is how people everywhere share
-observations that anyone can check.
+weighing rice to a nurse taking a temperature, measurement is how people everywhere
+share observations that anyone can check (S-113).
 
 ## Materials
 
@@ -136,14 +136,14 @@ observations that anyone can check.
 
 The core skill — reading a tool and writing a number *with a unit* — is foundational, so
 teach it with a **worked example and guided practice** (Kirschner, Sweller & Clark,
-2006): model measuring the shared object once on each tool, say the number and unit
-aloud, then let pairs measure their own object before recording alone. Emphasize the
-*unit*; a number without a unit is half a measurement. Use units that are shared
+2006, S-011): model measuring the shared object once on each tool, say the number and
+unit aloud, then let pairs measure their own object before recording alone. Emphasize
+the *unit*; a number without a unit is half a measurement. Use units that are shared
 worldwide — centimeters, grams, degrees Celsius — so a record is legible to a learner in
 any country (the global and egalitarian lenses); note gently that people have used many
 units across history and places, and standard units exist so everyone can trust and
-compare. Where learners still find a tool hard, "not yet" is information, not a
-verdict — they try again tomorrow.
+compare. Where learners still find a tool hard, "not yet" is information, not a verdict
+— they try again tomorrow.
 
 ## Procedure
 
@@ -188,6 +188,7 @@ number with its unit.
 
 ## Resources
 
-- National Geographic Kids, "Measuring to bake pancakes" — how we measure amounts with
-  units (such as cups and grams) and why measuring matters.
-  https://www.natgeokids.com/uk/discover/science/general-science/measuring/
+- On measuring amounts with units, and why measuring matters: National Geographic Kids —
+  Measuring to bake pancakes (S-113).
+- On worked examples and guided practice when teaching a new skill: Kirschner, Sweller &
+  Clark — Why Minimal Guidance During Instruction Does Not Work (S-011).

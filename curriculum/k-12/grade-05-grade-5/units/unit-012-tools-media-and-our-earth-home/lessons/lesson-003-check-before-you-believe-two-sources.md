@@ -85,10 +85,10 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners learn to **check a claim** across more than one **source** before believing it. A
-worked example follows the claim "camels store water in their humps" through a book and a
-wildlife website — both say the hump stores **fat, not water** — to the verdict **likely
+worked example follows the claim "camels store water in their humps" through a book and
+a wildlife website (S-394) — both say the hump stores **fat, not water** — to the verdict **likely
 false**. Learners then check safe, fun claims on cards, filling a five-box claim-check page
-and stating a **verdict** grounded in where the sources agree.
+and stating a **verdict** grounded in where the sources agree (S-278).
 
 ## Objectives
 
@@ -169,10 +169,12 @@ site) and tell someone what you found and why you now believe or doubt it.
 
 ## Resources
 
-- The camel's hump stores fat (an energy reserve), not water — widely documented in children's
-  science references (for example, BBC Bitesize and Britannica Kids). The "goldfish memory" and
-  "lightning never strikes twice" claims are common myths corrected by science-education
-  sources. The five-box claim-check routine (claim → source 1 → source 2 → agreement →
-  verdict) operationalizes the standard's "checking more than one source"; on modeling the
-  routine before practice, see Kirschner, Sweller & Clark (2006),
-  <https://doi.org/10.1207/s15326985ep4102_1>.
+- On verifying a claim before believing or sharing it, by checking more than one source:
+  First Draft — Verifying Online Information: The Absolute Essentials,
+  <https://web.archive.org/web/2019/https://firstdraftnews.org/latest/verifying-online-information-the-absolute-essentials/>
+  (S-394).
+- On evidence-based news literacy — asking how a claim could be checked and who is
+  behind it: Center for News Literacy (Stony Brook University),
+  <https://www.centerfornewsliteracy.org/> (S-278).
+- On modelling the claim-check routine before learners use it: Kirschner, Sweller &
+  Clark (2006), <https://doi.org/10.1207/s15326985ep4102_1> (S-011).

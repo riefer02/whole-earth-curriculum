@@ -104,7 +104,7 @@ loudest gets heard, someone gets bumped. A **rule** changes that: wait your turn
 voice at a time, walk inside. Every rule has a **reason** — a "so that…" — and that
 reason is what makes it fair instead of just bossy. People everywhere make rules this
 way: a fishing crew agrees who hauls when, a market sets where stalls may stand, a
-class agrees how to share the crayons. Today you will find the reason behind each rule.
+class agrees how to share the crayons (S-416). Today you will find the reason behind each rule.
 
 ## Materials
 
@@ -170,8 +170,9 @@ reason keeps everyone safe and fair — and whether any rule could be improved.
 
 ## Resources
 
-- CASEL SEL Framework (responsible decision-making and relationship skills):
-  <https://casel.org/fundamentals-of-sel/>
-- The idea that fair rules are those whose reasons can be explained to everyone is a
-  plain-language form of the "public reason" idea in civic thought, adapted for
-  children.
+- On communities making their own rules for a shared resource so everyone can keep using
+  it: Elinor Ostrom — Governing the Commons (S-416).
+- On responsible decision-making and social awareness — weighing choices and their
+  consequences, and hearing others' points of view: CASEL — Fundamentals of Social and
+  Emotional Learning (S-001).
+

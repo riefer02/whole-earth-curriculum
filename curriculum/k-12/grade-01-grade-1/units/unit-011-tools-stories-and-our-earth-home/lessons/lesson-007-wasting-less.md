@@ -155,7 +155,7 @@ Non-speaking: point to the action and to a picture for "saves."
 4. **Make a "waste less" promise (10 min).** Draw a promise card: one way you will
    waste less, and why it helps.
 5. **Close (5 min).** One person wasting less helps a little; many people wasting less
-   helps a lot. Wasting less is a way of caring — for water, for trees, for everyone
+   helps a lot (S-154). Wasting less is a way of caring — for water, for trees, for everyone
    and everything that shares our home.
 
 ## Differentiation
@@ -183,3 +183,8 @@ Non-speaking: point to the action and to a picture for "saves."
 Take your promise card home. Do the waste-less action with a grown-up — turn off a
 tap, reuse a bag, or use both sides of paper — and tell them why it helps our shared
 Earth home.
+
+## Resources
+
+- On using less and reusing what we have, before recycling: U.S. EPA — Reduce, Reuse,
+  Recycle (S-154).

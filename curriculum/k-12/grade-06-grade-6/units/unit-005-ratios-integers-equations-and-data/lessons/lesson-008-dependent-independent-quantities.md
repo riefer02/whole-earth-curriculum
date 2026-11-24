@@ -120,7 +120,7 @@ of a relationship is the first step toward understanding it anywhere.
 **The facts to land.**
 
 1. The **independent** quantity is the one you choose or control (the input); the
-   **dependent** quantity follows from it (the output).
+   **dependent** quantity follows from it (the output) (S-026).
 2. The test is "which do I choose, and which follows?"
 3. **Correlation is not causation** — two quantities can rise together because a third
    thing drives both.
@@ -153,7 +153,7 @@ independent, liters depend on them.
    portions, not the other way around.
 4. **Worked example — a caution (10 min).** Rain and puddle size: puddle size depends on rain (rain is
    independent). But consider "umbrellas sold and rain": umbrellas do not cause rain — both follow the
-   weather. Not every pair is cause and effect; sometimes both follow a third thing.
+   weather. Not every pair is cause and effect; sometimes both follow a third thing (S-355).
 5. **Practice with a partner (10 min).** Take your dependency cards. For each pair, draw the arrow
    (input → output), name the independent and dependent quantity, and say *why* the direction goes that
    way. Check each other's reasoning.
@@ -186,3 +186,6 @@ cooked) and tell someone which one depends on the other and why.
   A. Van de Walle, *Elementary and Middle School Mathematics* (10th ed., 2019). The caution that
   correlation is not causation is a core scientific idea; the habit of asking "or do both follow a third
   thing?" is a critical-thinking value (`docs/philosophy.md` §7).
+- On dependent and independent quantities in tables and graphs: John A. Van de Walle, Karen S. Karp & Jennifer M. Bay-Williams — Elementary and Middle School Mathematics: Teaching Developmentally (S-026).
+- On correlation not implying causation: Wikipedia — Correlation does not imply causation (S-355).
+

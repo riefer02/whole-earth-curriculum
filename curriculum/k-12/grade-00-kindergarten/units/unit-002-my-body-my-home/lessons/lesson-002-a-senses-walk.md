@@ -113,7 +113,7 @@ offer a safe food to taste afterward if you like.
 
 1. **Gather (5 min).** Before you walk, touch the five body parts that sense the
    world: eyes, ears, nose, tongue, and hands. Today you will use all five to explore
-   the place where you are.
+   the place where you are (S-031).
 2. **Start the walk (5 min).** Walk slowly and quietly for a moment. If you use a
    wheelchair, roll; if you cannot walk far, stay in one comfortable spot and let the
    senses come to you. What is the very first thing you **hear**? Point to your ear.
@@ -141,6 +141,10 @@ offer a safe food to taste afterward if you like.
 - **Formative (observation):** Can the learner name a sense and share one thing they
   found with it during the walk?
 - **Artifact (portfolio):** The completed senses checklist.
+
+## Resources
+
+- On the five senses: BBC Bitesize (KS1) — What are the senses? (S-031).
 
 ## Home connection
 

@@ -136,7 +136,7 @@ to. See `docs/facilitation.md` and `docs/contexts.md`.
 ## Procedure
 
 1. **Gather (5 min).** You know the nutrients — carbohydrates for fuel, proteins to
-   build, fats to store and build, plus vitamins, minerals, and water. Today you use that
+   build, fats to store and build, plus vitamins, minerals, and water (S-038). Today you use that
    knowledge by first **looking** at a real day of food and drink.
 2. **Meet the poster (10 min).** Look at the poster — a **worked example** of one
    recorded day. It has four time sections — **morning, midday, afternoon, evening** —
@@ -184,3 +184,5 @@ you noticed about your own day.
   wide variety of healthy ways people eat around the world. These describe what food
   *does* and what healthy patterns look like across cultures — never a judgment about any
   body or family.
+- On nutrients and healthy eating: WHO — Healthy diet fact sheet (S-038).
+

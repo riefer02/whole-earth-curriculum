@@ -90,7 +90,7 @@ Learners pull the year together onto a single "All About Me" page: a feeling wor
 that matters to them, a fact about who they are, one thing they are proud of, a
 family story or tradition, a community they belong to, and a kind act they did. This
 page is the portfolio artifact for the year-end celebration, and no page is better
-than another's — each is a whole person's story.
+than another's — each is a whole person's story (S-404).
 
 ## Objectives
 
@@ -169,3 +169,10 @@ dictating while a partner places them. The point is the whole self, not a perfec
 
 Show your page to someone at home and tell them one thing on it you are most proud
 of.
+
+## Resources
+
+- On a person's self as a story that gathers what they have been, are, and hope to be:
+  McAdams — The Psychology of Life Stories (S-404).
+- On recalling and connecting learning across the year as strong remembering: Agarwal
+  & Bain — Powerful Teaching (S-239).

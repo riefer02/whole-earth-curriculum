@@ -101,7 +101,7 @@ are exactly even: gravity pulls it down and the table pushes it up. Why does a k
 ball speed away? Because the kick is stronger than the friction that resists it. From
 a tug-of-war in a schoolyard to a ferry crossing a river to a rocket leaving the
 ground, the rule is the same: **equal forces mean no change; unequal forces mean
-change.** Today you learn to read the arrows.
+change.** (S-246) Today you learn to read the arrows.
 
 ## Materials
 
@@ -135,7 +135,7 @@ down. Keep it concrete. See
 
 1. **Gather (5 min).** Look at the book on the table. Why does it not move? And why,
    when you push it, does it slide and then stop? Write two guesses.
-2. **Meet balanced and unbalanced (10 min).** A **force** is a push or pull. When two
+2. **Meet balanced and unbalanced (10 min).** A **force** is a push or pull (S-241). When two
    forces are **equal and opposite**, they are **balanced** — the motion does not
    change. When one is bigger, they are **unbalanced** — the motion changes, in the
    direction of the bigger force. Look at the diagram: the book has gravity down and
@@ -178,3 +178,6 @@ someone whether the forces are balanced or unbalanced and what the motion shows.
   forces: <https://www.bbc.co.uk/bitesize/topics/z4brd2p/articles/zhnfp4j>
 - Khan Academy, "Balanced and unbalanced forces":
   <https://www.khanacademy.org/science/physics/forces-newtons-laws/balanced-unbalanced-forces/v/balanced-and-unbalanced-forces>
+- On force diagrams and resultant forces: BBC Bitesize (KS3) — Forces and movement: force diagrams and resultant forces (S-246).
+- On balanced and unbalanced forces: Khan Academy — physics: forces (S-241).
+

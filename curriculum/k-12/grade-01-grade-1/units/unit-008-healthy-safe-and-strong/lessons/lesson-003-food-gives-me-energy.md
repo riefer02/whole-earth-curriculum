@@ -95,7 +95,7 @@ chart — always without ranking any food or commenting on any body.
 A cooking fire needs wood to burn; a lamp needs oil or a battery; a bicycle needs your
 legs to pedal. Everything that moves or grows needs some kind of **fuel**. Your body
 needs fuel too — and that fuel is food. Food gives your body the energy to grow, to
-play, and to learn.
+play, and to learn (S-038; S-285).
 
 ## Materials
 
@@ -189,5 +189,9 @@ learn, or grow. Tell them which food gives you energy to run and play.
 
 ## Resources
 
-- World Health Organization, "Healthy diet" (what food does for a body, worldwide):
-  <https://www.who.int/news-room/fact-sheets/detail/healthy-diet>
+- On food as the body's source of energy, and on dietary variety: WHO — Healthy diet
+  (S-038).
+- On energy needs and energy spent on growth in childhood: Human energy requirements —
+  Report of a Joint FAO/WHO/UNU Expert Consultation (S-285).
+- On how food supports health and growth, for classroom framing: World Health
+  Organization (S-003).

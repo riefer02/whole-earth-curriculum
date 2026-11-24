@@ -100,7 +100,7 @@ and exchange one real, kind comment with a partner on a small shared thing.
 Two people make one sign together. One says, "That's sloppy." The other says, "This part
 is clear — could we label the second step?" The first stings and teaches nothing; the
 second is a gift. Good feedback is like a friend showing you the one stone to step on
-next: it is **about the work, not the person**, and it believes you can improve. And
+next: it is **about the work, not the person**, and it believes you can improve (S-001). And
 receiving it well — saying "thank you, I'll think about that" instead of flinching — is
 what lets the gift land.
 
@@ -141,7 +141,7 @@ do guided practice before independent work (Kirschner, Sweller & Clark, 2006). S
    work**. That is feedback that helps.
 3. **Learn the starters (5 min).** Read the two-part starter: "**One thing I liked was**
    ___ . **One thing that could be even better is** ___ ." And the receiving reply:
-   "**Thank you — I'll think about that.**" Practice both once with a partner.
+   "**Thank you — I'll think about that.**" Practice both once with a partner — modelled first, then practised (S-011).
 4. **Give and receive (15 min).** Look at your pair's small shared thing. One partner
    gives one kind, specific comment using the starter. The other partner **receives it**
    with the thank-you reply — then actually thinks about it. Swap. Each of you gives and
@@ -173,7 +173,8 @@ receiving one with a simple "thank you."
 
 ## Resources
 
-- Feedback is among the strongest influences on learning (Hattie, *Visible Learning*); it
-  works best when it is specific, timely, and about the work, not the person. For
-  classroom SEL framing of relationship skills, see CASEL:
-  <https://casel.org/fundamentals-of-sel/>
+- On giving and receiving feedback as a relationship skill within social and emotional
+  learning: CASEL, <https://casel.org/fundamentals-of-sel/> (S-001).
+- On modelling a new skill and guiding practice before learners work on their own:
+  Kirschner, Sweller & Clark (2006), *Educational Psychologist*,
+  <https://doi.org/10.1207/s15326985ep4102_1> (S-011).

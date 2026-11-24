@@ -159,3 +159,8 @@ gesturing, and shows a feeling with their face or hands.
 Find something made by hand at home or nearby — a cloth, a pot, a picture, a carving.
 Look at it closely and tell a grown-up one thing you notice and one feeling it gives
 you.
+
+## Resources
+
+- On looking closely at artworks made by people across times and cultures, and on
+  noticing what an artwork shows: The Metropolitan Museum of Art — #MetKids (S-192).

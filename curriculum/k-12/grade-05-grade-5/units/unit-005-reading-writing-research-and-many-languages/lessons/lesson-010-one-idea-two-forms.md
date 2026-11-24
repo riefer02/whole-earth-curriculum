@@ -129,7 +129,7 @@ example first, then let learners revise their own work (Kirschner, Sweller & Cla
 2. **Meet two forms (10 min).** Look at the poster. One idea appears twice: a friendly
    step-by-step **note** for a friend, and a polite **letter** for a visiting elder. The changes
    are circled: simpler words, a different greeting, a different order, a different form. The
-   idea stayed; the form bent to fit the reader.
+   idea stayed; the form bent to fit the reader (S-102).
 3. **Choose a new audience (10 min).** Look at your piece from last lesson. Pick a **new
    audience** from the cards — a younger child, an elder, a visitor, the whole community. Say
    your idea once to yourself, *as if* speaking to them.
@@ -161,6 +161,7 @@ adjusting your words each time — then notice which version landed better and w
 
 ## Resources
 
-- Adapting writing to audience and purpose supports transfer (Graham & Perin, "Writing Next,"
-  Carnegie Corporation, 2007). On explicit instruction for novice writers, see Kirschner,
-  Sweller & Clark (2006).
+- On explicit strategy instruction in writing, including planning and revising for a
+  reader: Graham & Perin — *Writing Next* (S-102).
+- On a worked example before independent revision: Kirschner, Sweller & Clark (2006),
+  <https://doi.org/10.1207/s15326985ep4102_1> (S-011).

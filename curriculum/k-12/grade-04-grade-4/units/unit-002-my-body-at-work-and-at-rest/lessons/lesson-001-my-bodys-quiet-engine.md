@@ -93,11 +93,11 @@ three body signals this unit will read: heartbeat, breathing, and warmth.
 ## Connection
 
 Every moment — even right now, while you sit still — a pump inside your chest is
-working. It is your heart, squeezing about once every second, pushing blood around your
-body the way a river carries water to every field. You cannot usually hear it, but you
-can feel it. Health workers in every country listen to hearts with a stethoscope, and
-you can feel yours with just two fingers. A heartbeat you can find and count is a body
-signal you can read.
+working. It is your heart, squeezing about once every second (S-098), pushing blood
+around your body the way a river carries water to every field. You cannot usually hear
+it, but you can feel it. Health workers in every country listen to hearts with a
+stethoscope, and you can feel yours with just two fingers. A heartbeat you can find and
+count is a body signal you can read.
 
 ## Materials
 
@@ -158,10 +158,8 @@ Grade 3's body-signal map.
 
 ## Resources
 
-- Nemours KidsHealth — how the heart works (child-friendly):
-  <https://kidshealth.org/en/kids/heart.html>
-- World Health Organization — physical activity fact sheet:
-  <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
+- On the heart as a pump and the pulse you can feel at the wrist or neck: Nemours
+  KidsHealth — heart, lungs, sweat, and muscles (S-098).
 
 ## Home connection
 

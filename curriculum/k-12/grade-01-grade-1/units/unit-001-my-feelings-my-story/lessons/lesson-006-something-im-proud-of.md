@@ -84,7 +84,7 @@ growth, not about being better than anyone else.
 
 Being proud feels warm and tall — like you grew a little. You might feel proud when
 you learn to tie your shoes, help someone, or try something hard many times. Pride is
-not about being the best; it is about seeing how far *you* have come. Knowing what
+not about being the best; it is about seeing how far *you* have come (S-096). Knowing what
 you are proud of helps you know yourself.
 
 ## Materials
@@ -140,3 +140,8 @@ higher).
 
 Tell someone at home one thing you are proud of, and ask them one thing *they* are
 proud of.
+
+## Resources
+
+- On growth, effort, and "not yet" rather than comparison with others: Dweck —
+  Mindset: The New Psychology of Success (S-096).

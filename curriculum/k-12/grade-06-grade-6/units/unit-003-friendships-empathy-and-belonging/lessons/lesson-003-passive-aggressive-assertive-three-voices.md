@@ -98,7 +98,7 @@ Three people want the same thing: a little quiet to finish their work. One says,
 you want," and swallows the need — that is the **passive** voice. Another shouts, "Be quiet,
 now!" and tramples yours — that is the **aggressive** voice. The third says, "I need quiet to
 finish — can we talk after?" — that is the **assertive** voice: it states the need *and*
-respects yours. Same situation, three voices, three very different friendships. Learning to
+respects yours (S-405). Same situation, three voices, three very different friendships. Learning to
 hear the difference is the first step toward choosing the one that builds, everywhere people
 share space — a schoolroom, a market stall, a shared kitchen.
 
@@ -192,3 +192,5 @@ yourself which voice each speaker used.
 - Assertive communication is a well-documented relationship and social-emotional skill; the
   passive–aggressive–assertive distinction is standard in SEL and conflict-resolution
   education (CASEL relationship skills): <https://casel.org/fundamentals-of-sel/>
+- On assertive communication as distinct from passive and aggressive styles: Robert Alberti & Michael Emmons — Your Perfect Right: Assertiveness and Equality in Your Life and Relationships (S-405).
+

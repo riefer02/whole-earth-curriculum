@@ -99,8 +99,8 @@ Think of a job that many hands must do: planting a field, raising a wall, cookin
 feast, carrying a harvest in from the fields. Such jobs fail two ways — if **one person
 tries to do it all**, or if **one person does nothing** while others carry them. Fair
 cooperation is the middle path: **everyone gives a real part**, sized to what they can
-do, so the whole job gets done and no one is drained or left idle. All over the world,
-communities work this way. Today your class tries it.
+do, so the whole job gets done and no one is drained or left idle (S-147). All over the world,
+communities work this way (S-164). Today your class tries it.
 
 ## Materials
 
@@ -189,4 +189,8 @@ someone how sharing the work made it fair.
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills): <https://casel.org/fundamentals-of-sel/>
+- On cooperative learning, in which each member of a group carries a part: Robert E.
+  Slavin — Cooperative Learning: Theory, Research, and Practice (S-147).
+- On named communal-work traditions around the world (harambee, gotong royong,
+  minka/minga, barn-raising): Communal-work (mutual-aid) traditions (S-164).
+

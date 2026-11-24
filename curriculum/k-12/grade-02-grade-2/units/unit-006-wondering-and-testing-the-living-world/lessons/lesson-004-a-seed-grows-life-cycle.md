@@ -85,9 +85,9 @@ last_updated: 2026-08-16
 
 Every living thing grows and changes in a repeating pattern called a **life cycle**.
 Learners put the stages of a plant's life cycle in order — seed, sprout, seedling,
-flower, fruit with new seeds — and plant a real seed they will watch and record over
-the coming weeks. They discover that a life cycle is a circle: the plant makes seeds,
-and those seeds make new plants.
+flower, fruit with new seeds — and plant a real seed they will watch and record over the
+coming weeks (S-043). They discover that a life cycle is a circle: the plant makes
+seeds, and those seeds make new plants.
 
 ## Objectives
 
@@ -99,8 +99,8 @@ and those seeds make new plants.
 You have seen a seed — a little hard thing that looks asleep. But inside it is a whole
 plant waiting. Put it in soil, give it water and light, and it **grows**: first a tiny
 sprout, then leaves, then a flower, then a fruit with new seeds inside. Then those seeds
-can start again. That circle of growing is a **life cycle** — and you can watch it happen
-with your own two eyes, wherever you live.
+can start again. That circle of growing is a **life cycle** — and you can watch it
+happen with your own two eyes, wherever you live.
 
 ## Materials
 
@@ -172,6 +172,5 @@ each day. Tell a grown-up what stage it is in now — seed, sprout, or seedling.
 
 ## Resources
 
-- BBC Bitesize (KS1 Science), "What is the life cycle of a plant?" — the stages from
-  seed to flower to new seeds, in order.
-  https://www.bbc.co.uk/bitesize/topics/zpxnyrd/articles/z2vdjxs
+- On the plant life cycle, from seed to flower to new seeds: BBC Bitesize (KS1) — What
+  is the life cycle of a plant? (S-043).

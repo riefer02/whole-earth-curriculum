@@ -92,7 +92,7 @@ shoulders, and legs, then keep the map as a private check-in they can use any da
 A map helps you find your way. Your body has a map too: excitement lives in a fast
 heart, worry in a fluttery tummy, sadness in heavy shoulders. When you draw your own
 body's feeling map, you build a tool for finding your way back to calm — because once
-you can name a feeling, you can take care of it.
+you can name a feeling, you can take care of it (S-401).
 
 ## Materials
 
@@ -152,7 +152,8 @@ return to all year.
 
 ## Resources
 
-- CASEL — Fundamentals of Social and Emotional Learning: <https://casel.org/fundamentals-of-sel/>
+- On precise feeling words and managing feelings: Barrett — How Emotions Are Made: The
+  Secret Life of the Brain (S-401).
 
 ## Home connection
 

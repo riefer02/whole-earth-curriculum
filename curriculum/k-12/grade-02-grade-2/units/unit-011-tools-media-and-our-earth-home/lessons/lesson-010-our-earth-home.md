@@ -100,10 +100,10 @@ last_updated: 2026-08-16
 ## Summary
 
 This capstone brings the whole unit together. Learners build a four-part "Earth home"
-picture: a tool and the problem it solves, with an old-and-new comparison; a true fact and
-its source, told as true information not selling; a habitat and who eats what for energy;
-and a saving act of care for water, energy, or litter. They celebrate that tools, media,
-living things, and care all belong to one shared home.
+picture: a tool and the problem it solves, with an old-and-new comparison; a true fact
+and its source, told as true information not selling; a habitat and who eats what for
+energy; and a saving act of care for water, energy, or litter. They celebrate that
+tools, media, living things, and care all belong to one shared home.
 
 ## Objectives
 
@@ -128,9 +128,9 @@ living things, and care all belong to one shared home.
 
 You have spent this unit learning four big things: **tools** solve problems and come old
 and new; **media** carries true information or tries to sell, and always comes from a
-source; **living things** have habitats and get energy from eating; and we can **care** by
-saving water and energy and putting litter in the right place. Today we put them all
-together, because they all live in the same home — the Earth we share.
+source; **living things** have habitats and get energy from eating; and we can **care**
+by saving water and energy and putting litter in the right place. Today we put them all
+together, because they all live in the same home — the Earth we share (S-004).
 
 ## Materials
 
@@ -199,12 +199,15 @@ partner's hands. Every body is honored, and every body's contribution counts.
 
 ## Home connection
 
-Show your "Earth home" picture to a grown-up and tell them the four things you learned: a
-tool and its problem, a true fact and its source, a habitat and who eats what, and one
-saving act of care you did. Ask them what small act of care they like to do for the Earth.
+Show your "Earth home" picture to a grown-up and tell them the four things you learned:
+a tool and its problem, a true fact and its source, a habitat and who eats what, and one
+saving act of care you did. Ask them what small act of care they like to do for the
+Earth.
 
 ## Resources
 
+- On caring for the Earth and for people as one everyday practice: UNESCO — Education
+  for Sustainable Development (S-004).
 - Unit sources are gathered across Lessons 1–9: Britannica Kids (tools), Britannica
   (sewing machine), Common Sense Media (media literacy), BBC Bitesize (habitats and food
   chains), WHO/UNICEF JMP (drinking water), and National Geographic Kids (plastic

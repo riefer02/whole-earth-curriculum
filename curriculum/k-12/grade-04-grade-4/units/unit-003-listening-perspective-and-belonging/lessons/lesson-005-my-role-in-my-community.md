@@ -95,7 +95,8 @@ someone tidies the shared shelf, someone reads to a younger child, someone helps
 heavy bag up the stairs. In a fishing village someone mends the nets; in an apartment
 building someone watches the door. No role is too small to matter, and every role needs
 a person. Today you find *your* role — the one that fits *your* strengths — and you
-carry it out, not because an adult told you to, but because you are part of the whole.
+carry it out, not because an adult told you to, but because you are part of the whole
+(S-156).
 
 ## Materials
 
@@ -113,7 +114,7 @@ carry it out, not because an adult told you to, but because you are part of the 
 
 This turns outward toward action, building on Grade 3's "contributing fairly to a group
 goal." Teach the match as explicit instruction — *a role = a need + a strength* — and
-model choosing one (Kirschner, Sweller & Clark, 2006). The core value to protect:
+model choosing one (Kirschner, Sweller & Clark, 2006, S-011). The core value to protect:
 **roles are chosen by the learner from their own strengths, never assigned as a
 ranking**, and no role is more important than another — the one who tidies and the one
 who reads aloud both hold the community up equally. This is egalitarianism lived: care
@@ -162,5 +163,11 @@ and do it this week, then tell someone what you chose and why.
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills and responsible decision-making):
-  <https://casel.org/fundamentals-of-sel/>
+- On contribution and service as developmental strengths children build: Search
+  Institute — 40 Developmental Assets (S-156).
+- On dividing work into roles with individual responsibility: Slavin — Cooperative
+  Learning (S-147).
+- On relationship skills and responsible decision-making as core competencies: CASEL —
+  Fundamentals of Social and Emotional Learning (S-001).
+- On explicit instruction and worked examples: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

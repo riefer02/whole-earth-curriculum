@@ -108,7 +108,7 @@ people tell the story of time — the same skill a historian uses for a whole wo
 ## Facilitator note
 
 **Sequencing is a foundational skill, so teach it with a worked example first**
-(Kirschner, Sweller & Clark, 2006): model putting three day cards in order, saying
+(Kirschner, Sweller & Clark, 2006, S-011): model putting three day cards in order, saying
 "first... next... after that," before learners do their own. Honor every body: a learner
 who does not use a speaking voice points, acts, or orders cards; a learner who is blind
 or has low vision sequences real objects by touch and says or signs the order aloud.
@@ -162,3 +162,8 @@ grandparent before school; some nap midday. All orders are real.
 
 At home, ask someone to tell you the order of their own day. Tell them yours, using
 first, next, and then. Notice: is your day like theirs, or different?
+
+## Resources
+
+- On modeling a new skill before learners work independently: Kirschner, Sweller &
+  Clark — Why Minimal Guidance Does Not Work (S-011).

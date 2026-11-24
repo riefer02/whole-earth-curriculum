@@ -112,7 +112,7 @@ changing a recipe. A student asks what is actually wrong with a chair before wed
 paper under a leg. **Research** — watching and asking — comes first; then you build a rough
 **prototype**, **test** it, and make it better. And when you write the whole path down, your
 thinking becomes something others can learn from. Today you run the full cycle, start to
-finish, and keep the record.
+finish, and keep the record (S-150).
 
 ## Materials
 
@@ -205,3 +205,5 @@ fix, test it, improve it once, and tell someone the whole path.
   <https://ssec.si.edu/>
 - Kirschner, Sweller & Clark (2006), "Why Minimal Guidance Does Not Work," on modeling
   worked examples for novice skills.
+- On the engineering design process — research, prototype, test, and document: TeachEngineering — Engineering Design Process (S-150).
+

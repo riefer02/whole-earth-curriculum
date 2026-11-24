@@ -94,7 +94,7 @@ the setting causes the conflict.
 Every story happens *somewhere*, and that somewhere usually causes the trouble. A story
 set beside a flooding river is about the flood; a story set on a dry steppe is about
 water; a story set in a crowded city is about people. The **setting** is not wallpaper —
-it is the engine of the **plot**. Whether the story comes from a fishing village in
+it is the engine of the **plot** (S-172). Whether the story comes from a fishing village in
 Senegal, a mountain pass in Nepal, or a port city in Chile, the reader's job is the
 same: find the world, then watch what it makes happen.
 
@@ -162,6 +162,8 @@ including the climax — and ask them to guess the setting from your retelling.
   "Improving Adolescent Literacy" (2008), <https://ies.ed.gov/ncee/wwc/practiceguide/8>
 - On modeling before practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+
+- On story structure, including how setting and plot develop together: Nell K. Duke & P. David Pearson — Effective Practices for Developing Reading Comprehension (S-172).
 
 ---
 

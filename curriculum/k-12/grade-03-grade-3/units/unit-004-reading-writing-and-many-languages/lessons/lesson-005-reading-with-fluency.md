@@ -94,7 +94,7 @@ When you first walk a path, you go slowly and watch your feet. After a few trips
 walk it without thinking. Reading is the same: the first time through a sentence is
 bumpy, but after you re-read it, the words flow — like talking. A fluent voice lets
 the meaning come through, so a story sounds the way it would if the teller were
-speaking it to you. Punctuation is the map: a period says stop, a comma says pause, a
+speaking it to you (S-040). Punctuation is the map: a period says stop, a comma says pause, a
 question mark says rise.
 
 ## Materials
@@ -180,7 +180,6 @@ smoother the second reading feels.
 
 ## Resources
 
-- National Reading Panel (2000), report on reading fluency — re-reading and guided
-  oral reading build fluency. (Cited as a widely used evidence base.)
-- CASEL SEL Framework (self-efficacy and growth mindset):
-  <https://casel.org/fundamentals-of-sel/>
+- On explicit, systematic reading instruction and the evidence base for it: National
+  Reading Panel (2000) — Teaching Children to Read: An Evidence-Based Assessment (S-040).
+

@@ -137,7 +137,7 @@ keep it grounded in life.
    Today you will find the ones that match.
 2. **Match pairs (15 min).** Find two shapes that are the same shape. Say why they
    match: "Both are triangles — three sides and three corners." A big triangle and a
-   small triangle still match, because shape is about sides and corners, not size.
+   small triangle still match, because shape is about sides and corners, not size (S-026).
 3. **Match to outlines (15 min).** Lay out the shape outlines. Place each shape onto
    the outline it fits. Try a shape on the wrong outline first — what happens? It does
    not fit. The right match fits.
@@ -158,6 +158,10 @@ keep it grounded in life.
 - **Formative (observation):** Can the learner match two shapes that are the same
   and tell why they match?
 - **Self:** Ask the learner to check their own matches by naming each pair.
+
+## Resources
+
+- On shape attributes and composition: Van de Walle, Karp & Bay-Williams (2019) — Elementary and Middle School Mathematics: Teaching Developmentally (S-026).
 
 ## Home connection
 

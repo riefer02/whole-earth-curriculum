@@ -94,7 +94,7 @@ A cook has a **500 mL** jug and a **250 mL** cup of water. How much is that alto
 **liters**? Convert first: 500 + 250 = 750 mL, and 750 mL = **0.75 L**. A runner walked **1.5
 km** this morning and **800 m** this afternoon — who walked farther? Convert: 1.5 km = 1500 m,
 so the morning was longer. Conversions are not just an exercise — they are how people compare
-and combine real amounts in kitchens, fields, and clinics everywhere.
+and combine real amounts in kitchens, fields, and clinics everywhere (S-175).
 
 ## Materials
 
@@ -157,6 +157,8 @@ them to compare or combine them.
 
 ## Resources
 
-- Using conversions to solve problems is standard in elementary mathematics; see John A. Van de
-  Walle, *Elementary and Middle School Mathematics* (10th ed., 2019). The fairness value of
-  equal, honest measures in sharing is a commitment (`docs/philosophy.md` §4).
+- On quantities and units, and on writing measurements in one shared system so amounts in
+  different-sized units can be combined: ISO 80000-1,
+  <https://www.iso.org/standard/76921.html> (S-175).
+- On multi-step measurement problems in the upper elementary grades: Van de Walle, Karp
+  & Bay-Williams — *Elementary and Middle School Mathematics* (S-026).

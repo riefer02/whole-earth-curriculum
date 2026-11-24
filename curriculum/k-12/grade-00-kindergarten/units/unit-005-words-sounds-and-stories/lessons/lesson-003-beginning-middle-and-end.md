@@ -83,7 +83,7 @@ three parts in sequence.
 Everything that happens has a before, a during, and an after — a day, a meal, a walk
 home. Stories are the same: they start, something happens in the middle, and then they
 end. Knowing the order helps you hold a whole story in your mind and tell it back so
-others can follow along.
+others can follow along (S-172).
 
 ## Materials
 
@@ -132,6 +132,10 @@ still tell the story's order with their body, hands, or pictures.
   — first, next, last — while telling?
 - **Formative (oral):** Can the learner retell at least one part and say whether it
   came first, next, or last — by saying, pointing, drawing, or acting?
+
+## Resources
+
+- On retelling and text structure in reading comprehension: Duke & Pearson — Effective Practices for Developing Reading Comprehension (S-172).
 
 ## Home connection
 

@@ -123,10 +123,10 @@ their page and build a class "Rights, Fairness & Our Shared Rules" book.
 Rights and fairness are not one big thing — they are many small things you can do every
 day: weigh two reasons and judge which is stronger, name a value you hold, honor
 dignity, test a rule against everyone it affects, see how decisions are made here and
-elsewhere, share a project fairly, listen and speak with "I," and repair harm instead
-of only punishing. When you put them together, you are practicing how to live fairly
-with other people — at home, in class, and anywhere on Earth people are together. Today
-you will put them all together.
+elsewhere, share a project fairly, listen and speak with "I," and repair harm instead of
+only punishing. When you put them together, you are practicing how to live fairly with
+other people (S-001) — at home, in class, and anywhere on Earth people are together.
+Today you will put them all together.
 
 ## Materials
 
@@ -213,8 +213,9 @@ fairness means to them, and listen.
 
 ## Resources
 
-- CASEL SEL Framework (responsible decision-making, social awareness, relationship
-  skills): <https://casel.org/fundamentals-of-sel/>
-- United Nations Convention on the Rights of the Child (child-friendly summary):
-  <https://www.unicef.org/child-rights-convention>
-- International Institute for Restorative Practices: <https://www.iirp.edu/>
+- On responsible decision-making, social awareness, and relationship skills: CASEL —
+  Fundamentals of Social and Emotional Learning (S-001).
+- On every child's rights, in child-friendly language: UN Convention on the Rights of
+  the Child (UNICEF child-friendly version) (S-060).
+- On repairing relationships and harm: International Institute for Restorative Practices
+  (S-022).

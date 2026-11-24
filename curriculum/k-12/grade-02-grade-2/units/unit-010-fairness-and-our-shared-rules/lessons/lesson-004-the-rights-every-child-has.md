@@ -57,7 +57,7 @@ duration_minutes: 45
 summary: >-
   Learners name a right that children have — such as the right to play or to learn —
   and explain why it matters. They learn that rights belong to every child,
-  everywhere on Earth, not just to some.
+  everywhere on Earth, not just to some (S-060).
 cross_cutting_lenses:
   - ethics
   - egalitarianism
@@ -180,5 +180,6 @@ to be safe, or to be heard? Tell them which right matters most to you and why.
 
 ## Resources
 
-- United Nations Convention on the Rights of the Child (child-friendly summary):
-  <https://www.unicef.org/child-rights-convention>
+- On the rights every child has, including play, learning, safety, and being heard:
+  United Nations Convention on the Rights of the Child (UNICEF, child-friendly)
+  (S-060).

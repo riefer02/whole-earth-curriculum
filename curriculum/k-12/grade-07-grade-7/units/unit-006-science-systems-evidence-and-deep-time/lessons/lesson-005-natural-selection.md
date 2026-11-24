@@ -156,14 +156,14 @@ different question, held open alongside other ways of knowing (`docs/philosophy.
    environment selects — some traits survive and reproduce more. **(3)** Survivors pass their
    traits on. **(4)** Over generations, the population shifts toward those traits.
 3. **Worked example (10 min).** The peppered moth: on light, lichen-covered bark, light moths
-   are hidden and dark moths stand out; on sooty bark, it flips. When industry darkened the
+   are hidden and dark moths stand out; on sooty bark, it flips (S-304). When industry darkened the
    bark, dark moths survived and reproduced more, and became common. When the air was cleaned,
    light moths returned. The *environment* changed, so *which trait was favored* changed.
 4. **Predict (15 min).** On your peppered-moth page, predict which moth survives on light
    bark and which on dark bark, and say why. Then run the seed hunt: scatter mixed seeds,
    hunt the ones that stand out, and see which are "left" — the hidden ones.
 5. **Apply (5 min).** Name the four steps for a real case: finches with different beaks on an
-   island where the main food changed — which beak survived and reproduced more?
+   island where the main food changed — which beak survived and reproduced more (S-305)?
 6. **Close (5 min).** Variation + inheritance + selection, over many generations, is how
    populations change. The environment selects without choosing on purpose.
 
@@ -198,3 +198,6 @@ reproduce more, and why?
   (`docs/philosophy.md` §4–5).
 - On explicit instruction for novice content: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On the peppered moth and industrial melanism: H. B. D. Kettlewell — Selection experiments on industrial melanism in the Lepidoptera (S-304).
+- On measured beak-size shifts in Darwin's finches: Peter R. Grant & B. Rosemary Grant — Darwin's finches (Geospiza fortis) on Daphne Major (S-305).
+

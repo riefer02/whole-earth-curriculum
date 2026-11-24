@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t-l0500106 d-l0500106">
+  <title id="t-l0500106">A fair test has three parts</title>
+  <desc id="d-l0500106">Three plan rows. Change shows two different paper squares and reads "the paper type — one thing only." Measure shows a measuring jug and reads "water absorbed, in millilitres." Keep the same shows a padlock and reads "size, water, soak time, squeeze." A caption warns that if two things change you cannot tell which one did it.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">A Fair Test Has Three Parts</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">change one thing, measure one thing, hold the rest still</text>
+
+  <!-- row 1: change -->
+  <rect x="40" y="104" width="432" height="76" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="40" y="104" width="10" height="76" rx="5" fill="#e0a458"/>
+  <text x="68" y="132" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">CHANGE</text>
+  <text x="68" y="158" font-family="sans-serif" font-size="13" fill="#222222">the paper type — one thing only</text>
+  <rect x="376" y="118" width="32" height="32" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="412" y="132" width="32" height="32" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- row 2: measure -->
+  <rect x="40" y="196" width="432" height="76" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="40" y="196" width="10" height="76" rx="5" fill="#6b93b6"/>
+  <text x="68" y="224" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">MEASURE</text>
+  <text x="68" y="250" font-family="sans-serif" font-size="13" fill="#222222">water absorbed, in millilitres</text>
+  <rect x="386" y="210" width="38" height="48" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="394" y1="222" x2="412" y2="222" stroke="#6b93b6" stroke-width="2"/>
+  <line x1="394" y1="234" x2="412" y2="234" stroke="#6b93b6" stroke-width="2"/>
+  <line x1="394" y1="246" x2="412" y2="246" stroke="#6b93b6" stroke-width="2"/>
+  <path d="M424 220 q14 4 0 18" fill="none" stroke="#2b3a42" stroke-width="2"/>
+
+  <!-- row 3: keep the same -->
+  <rect x="40" y="288" width="432" height="76" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="40" y="288" width="10" height="76" rx="5" fill="#7a9e7e"/>
+  <text x="68" y="316" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">KEEP THE SAME</text>
+  <text x="68" y="342" font-family="sans-serif" font-size="13" fill="#222222">size, water, soak time, squeeze</text>
+  <path d="M394 324 v-8 a10 10 0 0 1 20 0 v8" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <rect x="388" y="324" width="32" height="26" rx="5" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+
+  <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">If two things change, you cannot tell which one did it.</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Plan it before you pour.</text>
+</svg>

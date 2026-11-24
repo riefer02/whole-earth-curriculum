@@ -142,7 +142,7 @@ back. A report is not finished until it reaches someone else's ears.
 ## Facilitator note
 
 This is the unit's **summative performance** — the moment learners show what they can
-do, not to be ranked but to be seen and celebrated. Keep audiences small and warm so
+do, not to be ranked but to be seen and celebrated (S-007). Keep audiences small and warm so
 every voice is heard; rotate a peer questioner. Listeners practice the unit's listening
 skills (paraphrase + clarifying question), so *everyone* is doing the work, not just the
 presenter. Honor home languages: presenting in a home language is welcome, and a learner
@@ -193,7 +193,10 @@ then say it back to check you heard them.
 
 ## Resources
 
-- The capstone integrates the unit's skills; on performance assessment and mastery without
-  ranking, see the framing in `docs/facilitation.md` and `docs/contexts.md` (Bloom, 1984;
-  Hattie, *Visible Learning*). On explicit instruction for novice skills, see Kirschner,
-  Sweller & Clark (2006).
+- On mastery learning and assessment for mastery rather than ranking: Bloom (1984),
+  *The 2 Sigma Problem*, <https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem>
+  (S-007).
+- On teacher clarity and feedback as strong influences on learning: Hattie — *Visible
+  Learning* (S-012).
+- On modelling and guided practice before a learner performs independently: Kirschner,
+  Sweller & Clark (2006), <https://doi.org/10.1207/s15326985ep4102_1> (S-011).

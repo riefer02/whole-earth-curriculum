@@ -149,7 +149,7 @@ to **agency** — "when we know, we can choose wisely" — not despair. See
    - **Eat:** it reaches a table, and a family shares it.
    Notice the two things running through every step: **people** (the farmer, the
    harvester, the driver, the seller) and the **environment** (soil, water, fuel, and
-   sometimes packaging).
+   sometimes packaging) (S-081).
 3. **Trace one food (20 min).** Choose one food from your own table. On your page, trace
    its journey: where might it have grown? Who might have grown and picked it? How did it
    travel to reach you? Write or draw each step, and then answer two questions: **one
@@ -192,3 +192,5 @@ its journey together — from soil and hands to your plate.
   The lesson frames the journey as a fact to understand and a reason for care and
   gratitude (a value), keeping evidence and values distinct; it attaches awareness to
   agency rather than guilt, in line with the curriculum's technology-and-environment lens.
+- On food value chains from production through transport to the table: FAO — Sustainable Food Value Chains Knowledge Platform (S-081).
+

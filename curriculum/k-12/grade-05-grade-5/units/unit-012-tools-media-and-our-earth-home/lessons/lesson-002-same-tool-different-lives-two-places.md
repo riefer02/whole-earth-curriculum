@@ -87,10 +87,10 @@ last_updated: 2026-08-17
 
 Learners compare how people in **two different places** use a similar technology
 **differently**, and suggest **why**. A worked example follows the **mobile phone**: in one
-place, far from banks, it became a **wallet** for mobile money; in a busy city, it is mostly
+place, far from banks, it became a **wallet** for mobile money (S-210); in a busy city, it is mostly
 for **calls, photos, and messages**. Learners then compare the **bicycle** or the **water
 pump** across two places, discovering that a tool's use grows from the needs, land, and life
-of each place — not from one place being "ahead" of another.
+of each place (S-211) — not from one place being "ahead" of another.
 
 ## Objectives
 
@@ -172,9 +172,9 @@ place uses that same tool differently, and why.
 
 ## Resources
 
-- Mobile money (for example, M-Pesa) grew in places with few bank branches, letting people
-  send, save, and pay by phone — documented by the Consultative Group to Assist the Poor
-  (CGAP) and the World Bank. The bicycle's many uses — commuting in some places, carrying
-  loads and passengers in others — and the water pump's double life as a drinking-water and
-  irrigation device are widely documented (for example, ITU and UN Water materials). The
-  egalitarian framing — no use ranked as "better" — follows `docs/philosophy.md` §4.
+- On mobile money (for example M-Pesa) growing where bank branches were scarce, letting
+  people send, save and pay by phone: CGAP — Financial Inclusion,
+  <https://www.cgap.org/> (S-210).
+- On digital financial services extending access to money and banking: World Bank —
+  Financial Inclusion, <https://www.worldbank.org/en/topic/financialinclusion>
+  (S-211).

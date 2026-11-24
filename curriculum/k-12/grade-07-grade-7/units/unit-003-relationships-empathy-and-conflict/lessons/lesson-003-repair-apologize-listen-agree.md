@@ -104,8 +104,8 @@ have worked out versions of it. Many traditions repair harm by *restoring* the r
 rather than only punishing: peacemaking circles among Indigenous nations, the Diné
 (Navajo) principle of hózhó — restoring balance and harmony — and the way modern
 restorative practices ask three questions: *What happened? Who was harmed? How do we make
-it right?* The same three steps run through all of them: name it honestly, hear the hurt,
-and agree on what comes next.
+it right?* (S-161) The same three steps run through all of them: name it honestly, hear the hurt,
+and agree on what comes next (S-022).
 
 ## Materials
 
@@ -201,3 +201,6 @@ disagreement — a word, a custom, a ritual — and share the three repair steps
   Lenses*; and the International Institute for Restorative Practices, <https://www.iirp.edu/>
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On restorative justice and repair rather than punishment: Howard Zehr — Changing Lenses (restorative justice) (S-161).
+- On the restorative questions — what happened, who was harmed, and how to make it right: International Institute for Restorative Practices (IIRP) (S-022).
+

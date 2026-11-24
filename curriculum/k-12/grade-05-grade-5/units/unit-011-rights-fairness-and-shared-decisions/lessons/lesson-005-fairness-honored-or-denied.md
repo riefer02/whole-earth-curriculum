@@ -95,8 +95,8 @@ example, then analyze example cards in pairs and record their own comparisons.
 ## Connection
 
 Three children, three bowls of food. Fairness honored: each gets a bowl — all benefit.
-Fairness denied: one child holds all three bowls while two hold empty hands — one gains,
-others are left out. The same two questions work everywhere, in a school yard or a whole
+Fairness denied: one child holds all three bowls while two hold empty hands — one
+gains, others are left out (S-149). The same two questions work everywhere, in a school yard or a whole
 society: *was fairness honored or denied? and who benefited?* Asking them is how we see
 clearly.
 
@@ -167,7 +167,8 @@ not — and ask who benefited in each.
 
 ## Resources
 
-- On modeling an analysis routine before independent practice: Kirschner, Sweller &
-  Clark (2006), <https://doi.org/10.1207/s15326985ep4102_1>
-- Social awareness and responsible decision-making framing: CASEL:
-  <https://casel.org/fundamentals-of-sel/>
+- On equal dignity and equal rights as the basis for judging whether fairness was
+  honored or denied: UN — Universal Declaration of Human Rights,
+  <https://www.un.org/en/about-us/universal-declaration-of-human-rights> (S-149).
+- On social awareness and responsible decision-making, for classroom framing: CASEL,
+  <https://casel.org/fundamentals-of-sel/> (S-001).

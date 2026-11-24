@@ -89,7 +89,7 @@ waiting feels fair and doable.
 
 In a group, everyone has something to say, but only one voice can be heard at a
 time. Waiting your turn is a way of sharing the talking time so that everyone gets a
-fair chance to be heard — not just the loudest or the fastest.
+fair chance to be heard — not just the loudest or the fastest (S-147).
 
 ## Materials
 
@@ -146,3 +146,8 @@ the games with the learners.
   a card, a look, or a partner raising for them) and wait for the turn marker instead
   of calling out?
 - **Self (reflection):** Ask: "How did it feel to wait? Was it hard or easy today?"
+
+## Resources
+
+- On structured turn-taking so every group member contributes and is heard: Slavin —
+  Cooperative Learning (S-147).

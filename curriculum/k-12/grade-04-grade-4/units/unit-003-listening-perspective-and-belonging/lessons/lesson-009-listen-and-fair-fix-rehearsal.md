@@ -118,18 +118,18 @@ until it feels natural.
 ## Facilitator note
 
 This rehearsal combines and retrieves Lessons 1 and 2 — the heart of the unit's
-interpersonal work. The evidence-based move here is **spaced practice with feedback**:
-rather than teaching anything new, learners retrieve and *use* both skills together, and
-get a peer-check on whether they used them (see `docs/contexts.md` on retrieval and
-feedback). Run it as guided practice before any independent role-play (Kirschner,
-Sweller & Clark, 2006). Protect the flow: *listen first, then fix* — a fair fix that
-skips the paraphrase often misses what the other side actually needs. Watch for the
-learner who jumps straight to "winning"; invite them back to "what did you hear them
-need?" Honor every way of performing — sign, gesture, a written script, a puppet, a
-scribed line — all are full rehearsals. This is egalitarian and ethical practice: both
-voices get heard, and the fix must serve both. A learner who uses only one skill today
-is *not yet* at both — name the one they did well, then invite the second. Read the
-procedure aloud.
+interpersonal work. The evidence-based move here is **spaced practice with feedback**
+(S-039): rather than teaching anything new, learners retrieve and *use* both skills
+together, and get a peer-check on whether they used them (see `docs/contexts.md` on
+retrieval and feedback). Run it as guided practice before any independent role-play
+(Kirschner, Sweller & Clark, 2006, S-011). Protect the flow: *listen first, then fix* —
+a fair fix that skips the paraphrase often misses what the other side actually needs.
+Watch for the learner who jumps straight to "winning"; invite them back to "what did you
+hear them need?" Honor every way of performing — sign, gesture, a written script, a
+puppet, a scribed line — all are full rehearsals. This is egalitarian and ethical
+practice: both voices get heard, and the fix must serve both. A learner who uses only
+one skill today is *not yet* at both — name the one they did well, then invite the
+second. Read the procedure aloud.
 
 ## Procedure
 
@@ -171,5 +171,10 @@ back, then find a fair fix — and tell someone which step was hardest for you.
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills and responsible decision-making):
-  <https://casel.org/fundamentals-of-sel/>
+- On retrieval practice and spacing as the best-supported study techniques: Dunlosky et
+  al. — Improving Students' Learning With Effective Learning Techniques (S-039).
+- On needs-based negotiation: Rosenberg — Nonviolent Communication (S-148).
+- On relationship skills and responsible decision-making as core competencies: CASEL —
+  Fundamentals of Social and Emotional Learning (S-001).
+- On guided practice before independent work: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

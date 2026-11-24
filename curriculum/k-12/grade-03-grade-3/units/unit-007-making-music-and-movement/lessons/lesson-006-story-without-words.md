@@ -101,7 +101,7 @@ movement when words are not enough.
 Think of a wave hello, a shrug, a nod, a hand over the heart, a finger to the lips for
 "shh." People everywhere use **gesture** — movement of the hands, face, and body — to
 say things without words. A mime, a dancer, a person using sign language, a child
-acting out "the big fish got away" — all tell stories with movement. Today you will
+acting out "the big fish got away" — all tell stories with movement (S-260). Today you will
 tell a whole story or feeling using only your body, and explain your choices.
 
 ## Materials
@@ -119,7 +119,7 @@ tell a whole story or feeling using only your body, and explain your choices.
 
 Retelling with movement and explaining choices is a **skill**, so model it once — "I
 grow slowly from a crouch to tall to show the seed growing; I chose slow because seeds
-grow slowly" — before learners try (Kirschner, Sweller & Clark, 2006). The heart is the
+grow slowly" — before learners try (Kirschner, Sweller & Clark, 2006, S-011). The heart is the
 **explanation of choices**, not the polish of the movement. Any story or feeling can be
 retold seated, with hands and face alone, or with the whole body. A learner with limited
 mobility retells fully with face, hands, and shoulders, or directs a partner's movement
@@ -165,8 +165,10 @@ show) why they moved that way.
 
 ## Resources
 
-- No external resources required; the claims in this lesson are about the learner's own
-  movement, which they practice directly.
+- On telling a story through movement and gesture (devised performance) in drama
+  education: IDEA — International Drama/Theatre and Education Association (S-260).
+- On modeling a skill once before learners try it: Kirschner, Sweller & Clark (2006) — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

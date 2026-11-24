@@ -97,8 +97,8 @@ Think of a place you share — a classroom, a path, a garden, a bus stop, a stai
 When someone cares for it, everyone who uses it benefits; when no one does, everyone
 loses a little. Care is often a **small act**: a floor swept, a plant watered, a heavy
 bag carried, a litter-free path. Small acts, done together, add up to a community that
-takes care of itself. Today you don't just *feel* like caring — you organize one small
-act and do it.
+takes care of itself (S-157). Today you don't just *feel* like caring — you organize one
+small act and do it.
 
 ## Materials
 
@@ -190,7 +190,9 @@ week — sweep, water, carry, clear — and do it. Tell your class what changed.
 
 ## Resources
 
-- CASEL SEL Framework (responsible decision-making):
-  <https://casel.org/fundamentals-of-sel/>
-- Putnam, R. D. (2000). *Bowling Alone* — shared spaces and community trust
-  (facilitator background).
+- On shared spaces, social trust, and community connection: Putnam — Bowling Alone
+  (S-157).
+- On care as something organized and done together, not only felt: Spade — Mutual Aid:
+  Building Solidarity (S-345).
+- On responsible decision-making as a core competency: CASEL — Fundamentals of Social
+  and Emotional Learning (S-001).

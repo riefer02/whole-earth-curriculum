@@ -92,7 +92,7 @@ of water and draw what their own body is telling them.
 ## Connection
 
 When your mouth feels dry or your tummy rumbles, your body is asking for something.
-Drinking water when you are thirsty helps your body work well, and eating when you
+Drinking water when you are thirsty helps your body work well (S-049), and eating when you
 are hungry gives it energy to play and learn. Knowing the message — and what to do —
 helps you take care of the one body that is yours.
 
@@ -150,5 +150,6 @@ different — there is no "right" amount or time to eat.
 
 ## Resources
 
-- World Health Organization — global health and wellbeing reference:
-  <https://www.who.int/>
+- On water as essential to the body's health: WHO — Drinking-water fact sheet (S-049).
+- On hunger and thirst as everyday body signals, for classroom framing: World Health
+  Organization (S-003).

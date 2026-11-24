@@ -86,7 +86,7 @@ every body join in.
 
 A bird standing on one leg, a person crossing a narrow bridge, a child carrying a
 full cup without spilling — all of these are balance. Balance is your body's way of
-staying steady and in control, whether you are still or moving. It helps you walk,
+staying steady and in control, whether you are still or moving (S-068). It helps you walk,
 carry, and play without toppling.
 
 ## Materials
@@ -146,3 +146,8 @@ calm, steady breath matters more than finishing the sequence.
 
 Practice standing like a flamingo on one foot — or sitting tall and still — with
 someone at home, and stay steady together through one slow breath.
+
+## Resources
+
+- On the eyes, ears, and muscles that together keep a body steady: NIDCD — Balance
+  Disorders (S-068).

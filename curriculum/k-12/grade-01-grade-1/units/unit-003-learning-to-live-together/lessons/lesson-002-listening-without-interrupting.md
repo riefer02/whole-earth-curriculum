@@ -88,7 +88,7 @@ turn.
 When you let a friend finish speaking, you show that their words matter. Listening is
 caring with your ears or your eyes and your whole body — there is more than one way to
 listen. It is a skill, not just something that happens — and like any skill, it gets
-better with practice.
+better with practice (S-174).
 
 ## Materials
 
@@ -152,3 +152,8 @@ body and a real turn. Read the procedure aloud and model the listening body your
   idea before speaking?
 - **Peer (partner check):** Partners give a friendly thumbs-up when they felt listened
   to.
+
+## Resources
+
+- On listening as a set of learnable skills: International Listening Association —
+  Listening Skills resources (S-174).

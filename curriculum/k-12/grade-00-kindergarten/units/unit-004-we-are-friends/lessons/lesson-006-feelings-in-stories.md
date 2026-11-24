@@ -87,7 +87,7 @@ feels and why — the same skill they will use with real friends.
 
 Story characters feel things just like you do. When the little bird loses its nest,
 it feels scared; when it finds it again, it feels glad. Stories from every land let us
-practice understanding feelings that are not our own — which is exactly what makes us
+practice understanding feelings that are not our own (S-231) — which is exactly what makes us
 kind friends.
 
 ## Materials
@@ -137,6 +137,7 @@ every guess; ask "what makes you think so?" rather than "is that right?"
 
 - CASEL SEL Framework (foundational competencies):
   <https://casel.org/fundamentals-of-sel/>
+- On perspective-taking and empathy: Decety & Cowell — Empathy, Perspective-Taking, and Morality (S-231).
 
 ## Home connection
 

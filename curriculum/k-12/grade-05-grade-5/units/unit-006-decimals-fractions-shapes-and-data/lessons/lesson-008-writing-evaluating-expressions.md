@@ -96,8 +96,8 @@ makes sense.
 A market seller packs **n** mangoes into each box. If you take **3 boxes plus 2 loose** mangoes,
 how many do you have? You cannot count them yet because you do not know n — but you can write
 **3n + 2**. The moment someone says "each box holds 5," you substitute: **3 × 5 + 2 = 17**. A
-**variable** is a box that can hold any number, and an **expression** is a recipe that tells you
-what to do with it. Cooks, builders, and shopkeepers use such recipes every day.
+**variable** is a box that can hold any number, and an **expression** is a recipe that
+tells you what to do with it (S-435). Cooks, builders, and shopkeepers use such recipes every day.
 
 ## Materials
 
@@ -168,7 +168,9 @@ and write an expression for it; then pick a number and evaluate it.
 
 ## Resources
 
-- Variables and simple expressions are standard in elementary mathematics; see John A. Van de
-  Walle, *Elementary and Middle School Mathematics* (10th ed., 2019). The note that variables
-  are a human convention used across traditions is a factual observation; the value that clear
-  rules should be shareable by everyone is a commitment (`docs/philosophy.md` §4).
+- On a variable as a letter standing for a number, and on evaluating an expression by
+  substitution: OpenStax — *Algebra and Trigonometry*,
+  <https://openstax.org/details/books/algebra-and-trigonometry-2e> (S-435).
+- On writing and interpreting simple expressions with variables in the upper elementary
+  grades: Van de Walle, Karp & Bay-Williams — *Elementary and Middle School
+  Mathematics* (S-026).

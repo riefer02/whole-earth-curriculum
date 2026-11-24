@@ -106,7 +106,7 @@ share your idea and others *listen*. When a voice is not heard, two things are l
 the group loses a good idea it never heard, and the person feels left out and small.
 People everywhere know this — a council passes a talking stick so each voice is heard,
 a family asks the youngest what they think, a class uses a box for written questions
-so quiet voices count too. Today you will practice hearing every voice.
+so quiet voices count too. Today you will practice hearing every voice (S-001, S-091).
 
 ## Materials
 
@@ -197,8 +197,9 @@ else listens. Notice whose voice you heard that you usually don't.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness and relationship skills):
-  <https://casel.org/fundamentals-of-sel/>
-- The talking stick / talking circle is a widespread Indigenous and community practice
-  for ensuring each voice is heard; see teaching resources on "talking circles" from
-  multiple Nations, used here respectfully as a shared human practice.
+- On responsible decision-making and social awareness — weighing choices and their
+  consequences, and hearing others' points of view: CASEL — Fundamentals of Social and
+  Emotional Learning (S-001).
+- On children's right to say what they think and be taken into account: UN Convention on
+  the Rights of the Child, Article 12 (S-091).
+

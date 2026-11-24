@@ -100,10 +100,10 @@ healthy, safe, and strong, and it belongs to me.
 ## Connection
 
 Your body is yours. From the day you were born, it has been yours to live in, and no one
-else may touch it without your okay. Some touches feel safe and wanted — a hug you ask
+else may touch it without your okay (S-060). Some touches feel safe and wanted — a hug you ask
 for, a high-five, a doctor checking you *with* your permission. Some touches feel
 unsafe or unwanted — and you always have the right to say **no**, to say **stop**, and to
-tell a **trusted adult**. Today you will learn your rights and practice using them.
+tell a **trusted adult**. Today you will learn your rights and practice using them (S-051).
 
 ## Materials
 
@@ -130,7 +130,7 @@ first.**
    for no good reason.
 2. Your body belongs to you: "no" and "stop" count.
 3. Private parts are what a swimsuit covers, plus the chest — **penis**, **vulva**,
-   **bottom (anus)**. Correct names are a recognized child-protection practice — a child
+   **bottom (anus)**. Correct names are a recognized child-protection practice (S-412) — a child
    can tell clearly. Honor a family's own words too.
 
 **Don't overshoot.** Never soften it to keep the room comfortable.
@@ -205,6 +205,10 @@ strong "no" and "stop." Remember: your body belongs to you, and telling is never
 
 ## Resources
 
-- World Health Organization, "Preventing violence against children" and the INSPIRE
-  strategies (correct names, saying no, and telling keep children safe):
-  <https://www.who.int/teams/social-determinants-of-health/violence-prevention>
+- On children's right to be protected from harm, and to have their body respected: United
+  Nations Convention on the Rights of the Child (UNICEF, child-friendly) (S-060).
+- On teaching children to say no and to tell a trusted adult as a way of preventing
+  violence: World Health Organization — Preventing violence against children (S-051).
+- On correct names for body parts as part of age-appropriate safety education: UNESCO —
+  International Technical Guidance on Sexuality Education (S-412).
+

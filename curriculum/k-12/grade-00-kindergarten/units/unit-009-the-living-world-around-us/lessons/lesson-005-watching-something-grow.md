@@ -89,7 +89,7 @@ watching continues over the next days — growth is seen, not told.
 
 ## Connection
 
-A seed does not become a plant all at once — it grows a little every day. You can
+A seed does not become a plant all at once — it grows a little every day (S-043). You can
 watch a seed, or watch yourself grow, a little bit at a time. Watching closely, day
 after day, is how we see change happen.
 
@@ -142,6 +142,10 @@ learners to be gentle with the living thing they are watching.
 - **Formative (observation):** Can the learner describe their seed (or height) "now"
   and make a guess about "later"?
 - **Artifact (portfolio):** The grow journal, added to over the following days.
+
+## Resources
+
+- On a plant's life cycle: BBC Bitesize (KS1) — What is the life cycle of a plant? (S-043).
 
 ## Home connection
 

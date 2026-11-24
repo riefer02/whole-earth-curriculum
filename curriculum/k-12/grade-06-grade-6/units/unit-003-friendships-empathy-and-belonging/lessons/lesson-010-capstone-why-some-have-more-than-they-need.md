@@ -107,7 +107,7 @@ Two families live on the same street. One pantry overflows; the other is often e
 because one family is *better* and the other *worse*? No — that is the trap. The difference
 comes from **systems and circumstances**: where you were born, what work your family could
 find and what it paid, whether the land or savings were passed down, whether illness or war
-or displacement struck. These are not choices, and they are not measures of anyone's **worth**.
+or displacement struck (S-234). These are not choices, and they are not measures of anyone's **worth**.
 Understanding this is not blaming the family with more or shaming the family with less — it is
 seeing how shares get shaped, so that **fairness — sharing, cooperating, changing a rule** —
 can make sure more people have **enough**.
@@ -192,3 +192,5 @@ people have enough — and, if you can, do one small part of it.
   this curriculum, not a scientific claim. For a developmentally careful classroom framing of
   fairness and inequality, see CASEL social awareness and the UNESCO/UN "equity" materials:
   <https://casel.org/fundamentals-of-sel/>
+- On structural drivers of poverty and inequality: World Bank — Poverty and Inequality (Poverty, Prosperity, and Planet Report) (S-234).
+

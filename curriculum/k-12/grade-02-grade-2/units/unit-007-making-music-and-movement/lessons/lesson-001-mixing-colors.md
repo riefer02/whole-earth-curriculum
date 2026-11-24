@@ -119,9 +119,9 @@ new color in a picture.
 ## Facilitator note
 
 Mixing is a **skill**, so model it once — "watch: red and yellow make orange" — before
-learners try on their own (Kirschner, Sweller & Clark, 2006). There is no wrong new
-color; a muddy brown is a real discovery, not a mistake. Name the colors learners make
-without judging them ("you made a warm orange!"). A learner who is blind or has low
+learners try on their own (Kirschner, Sweller & Clark, 2006; S-011). There is no wrong
+new color; a muddy brown is a real discovery, not a mistake. Name the colors learners
+make without judging them ("you made a warm orange!"). A learner who is blind or has low
 vision mixes by **feel and temperature and smell**: they feel the two blobs merge, and a
 partner or grown-up names the new color; they can still choose the picture's subject and
 feel the wet paint with a finger. A learner who does not speak names the new color by
@@ -171,3 +171,8 @@ deciding the mix is mixing.
 At home, find two colors that could mix — two crayons, two drops of food color, two
 bits of clay — and mix them with a grown-up. What new color appears? Then use it in
 a small picture.
+
+## Resources
+
+- On modelling a new skill once before learners try it: Kirschner, Sweller & Clark
+  (2006) — Why Minimal Guidance Does Not Work (S-011).

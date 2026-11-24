@@ -82,8 +82,9 @@ last_updated: 2026-08-16
 
 Learners already know how to wash their hands from Grade 1; now they learn *why* it
 works. Soap and water carry away germs that cause sickness, and washing at the right
-times — before eating, after the bathroom, after coughing or sneezing, and after touching
-an animal — protects the washer and everyone around them. Water is honored, never wasted.
+times — before eating, after the bathroom, after coughing or sneezing, and after
+touching an animal — protects the washer and everyone around them (S-016). Water is
+honored, never wasted.
 
 ## Objectives
 
@@ -182,5 +183,5 @@ family from getting sick.
 
 ## Resources
 
-- World Health Organization, "Hand hygiene" (why and how to clean hands):
-  <https://www.who.int/teams/integrated-health-services/infection-prevention-control/hand-hygiene>
+- On soap and water removing germs, and the key moments to wash hands: WHO — Hand
+  hygiene (infection prevention and control) (S-016).

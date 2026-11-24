@@ -90,7 +90,7 @@ tools) can do many little jobs that help us every day.
 Your hands do little jobs all day long: buttoning a shirt, peeling fruit, turning a
 page, stacking cups, picking up a grain of rice, drawing a picture. People everywhere —
 in a kitchen, a workshop, a garden, or a boat — use their hands for small, careful
-work. Practice makes hands strong and clever.
+work. Practice makes hands strong and clever (S-014).
 
 ## Materials
 
@@ -140,6 +140,10 @@ bigger, softer items. Growth in control is the goal, not speed or perfection.
 - **Formative (observation):** Can the learner stack a few objects and draw with
   growing control, using an adapted version if needed?
 - **Artifact (portfolio):** The drawing, kept in the learner's portfolio.
+
+## Resources
+
+- On hands-on, practical learning: Montessori education — mixed-age, self-directed (S-014).
 
 ## Home connection
 

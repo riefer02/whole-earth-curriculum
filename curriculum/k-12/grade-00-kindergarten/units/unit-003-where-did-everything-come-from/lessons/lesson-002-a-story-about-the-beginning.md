@@ -130,7 +130,7 @@ respect and say "what a beautiful story — there are many."
 3. **Why scientists tell it (5 min).** People who study the sky with big telescopes
    can see faraway groups of stars — galaxies — moving apart, like dots on a balloon
    being blown up. That is their clue that everything was once close together. That
-   clue is called *evidence*: something you can see or measure.
+   clue is called *evidence*: something you can see or measure (S-018).
 4. **Act it out (15 min).** Crouch into the smallest ball you can. Then stretch slowly
    — arms out, fingers wide, standing tall — while we say the story together: "It
    stretched… and stretched… and it is still stretching." If you have a balloon and
@@ -155,4 +155,4 @@ respect and say "what a beautiful story — there are many."
 ## Resources
 
 - NASA Space Place, "What Is the Big Bang?" — a child-friendly, evidence-based telling:
-  <https://spaceplace.nasa.gov/big-bang/>
+  <https://spaceplace.nasa.gov/big-bang/> (S-018)

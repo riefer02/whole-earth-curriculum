@@ -135,13 +135,13 @@ to believe any of them.
    - **The sky and the earth (Aotearoa, the Māori people):** The Māori people of
      Aotearoa tell of Ranginui the sky and Papatūānuku the earth, who once held each
      other so close that there was no light between them — until their children pushed
-     them gently apart, and light rushed in.
+     them gently apart, and light rushed in (S-202).
    - **Water and land (West Africa, Yoruba storytellers):** Yoruba storytellers in
      West Africa tell that at first the world was all water and sky, until a kind
      spirit came down and scattered soil on the water to shape the dry land.
    - **The Dreaming (Australia, Aboriginal peoples):** Many Aboriginal peoples of
      Australia tell of the time when ancestor beings traveled the land and shaped the
-     rivers, hills, and trees — and the land woke up. English speakers often call this
+     rivers, hills, and trees — and the land woke up (S-085). English speakers often call this
      "the Dreaming," but each nation has its own name for it in its own language.
 3. **Hold them side by side (5 min).** Lay all the cards out together. Are any two
    alike? Are they all beautiful? They are all answers to the same big question, and
@@ -164,3 +164,8 @@ to believe any of them.
 - **Formative (observation):** Can the learner hold more than one story in mind and
   say they are all meaningful, with none ranked above the others?
 - **Performance:** Retelling a chosen story in their own words.
+
+## Resources
+
+- On Aboriginal and Torres Strait Islander knowledge and Dreaming stories: AIATSIS — Australian Institute of Aboriginal and Torres Strait Islander Studies (S-085).
+- On the Māori account of Ranginui and Papatūānuku: Te Ara — The Encyclopedia of New Zealand (Ranginui and Papatūānuku) (S-202).

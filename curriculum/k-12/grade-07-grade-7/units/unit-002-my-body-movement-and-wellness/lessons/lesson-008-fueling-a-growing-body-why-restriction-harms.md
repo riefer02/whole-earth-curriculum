@@ -101,7 +101,7 @@ is not given enough food can grow more slowly, build weaker bones, feel tired an
 find it harder to focus and remember. Sometimes this happens not because food is unavailable
 but because a person, often in pain about their body, restricts what they eat on purpose — and
 that can become an **eating disorder**, a serious illness that is *not* a choice, not a
-weakness, and not anyone's fault. The honest, hopeful truth: eating disorders are treatable,
+weakness, and not anyone's fault (S-286). The honest, hopeful truth: eating disorders are treatable,
 and asking for help early is one of the bravest things a person can do.
 
 ## Materials
@@ -185,3 +185,5 @@ good person to talk to.
   <https://www.who.int/health-topics/adolescent-health>
 - On growth as a range of normal: WHO — Child Growth Standards,
   <https://www.who.int/toolkits/child-growth-standards>
+- On eating disorders as serious illnesses rather than choices: Nemours KidsHealth — Eating Disorders (for teens) (S-286).
+

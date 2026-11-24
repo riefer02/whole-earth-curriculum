@@ -136,7 +136,7 @@ a trusted adult in private. See `docs/facilitation.md`.
 2. **Meet the lift and the weight (10 min).** Look at the diagram. Social media can
    **lift**: connection with others, learning and new ideas, creativity and self-
    expression. It can also **weigh down**: comparing ourselves to others, endless
-   scrolling, and lost sleep. Both columns are real — the question is which one is bigger
+   scrolling, and lost sleep (S-311). Both columns are real — the question is which one is bigger
    for *you*, and when.
 3. **Analyze the mechanisms (10 min).** Why does it work this way? Feeds are *designed* to
    keep you scrolling; posts are *edited* highlight reels that make real lives look
@@ -174,3 +174,5 @@ learned about noticing.
   <https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health>
 - UNESCO — Media and Information Literacy:
   <https://www.unesco.org/en/media-information-literacy>
+- On social media, sleep, and adolescent mental health: WHO — Mental health of adolescents (fact sheet) (S-311).
+

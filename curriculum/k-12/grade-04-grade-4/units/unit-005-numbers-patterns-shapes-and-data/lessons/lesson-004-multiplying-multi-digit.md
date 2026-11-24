@@ -122,12 +122,12 @@ big numbers: break it into parts you can see.
 **The facts to land.**
 1. Multiplying two two-digit numbers means **distributing across place value**: break a
    factor into tens and ones and find the partial products (Van de Walle, Karp &
-   Bay-Williams, 2019).
+   Bay-Williams, 2019, S-026).
 2. The **area model** shows *why* those partial products exist, before the compact
    algorithm.
 3. Grade 3's facts stay the same; only the numbers grow. People have multiplied by
    doubling, by grouping, and with lattice and other methods across traditions (Ifrah,
-   2000).
+   2000, S-023).
 
 **Don't overshoot.** The speed of a learner's recall is not a measure of their worth,
 and a product is a fact about quantities, never about a person.
@@ -188,8 +188,8 @@ partial products.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson. (The
-  area model and partial products as the bridge to multi-digit multiplication.)
-- Ifrah, G. (2000). *The Universal History of Numbers*. John Wiley & Sons. (Many
-  methods of multiplication across traditions.)
+- On the area model and partial products as the bridge to multi-digit multiplication:
+  Van de Walle, Karp & Bay-Williams — Elementary and Middle School Mathematics: Teaching
+  Developmentally (S-026).
+- On the many methods of multiplication across traditions: Ifrah — The Universal History
+  of Numbers (S-023).

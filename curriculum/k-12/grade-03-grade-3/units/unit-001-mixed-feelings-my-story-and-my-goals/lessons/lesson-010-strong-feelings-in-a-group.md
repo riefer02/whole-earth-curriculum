@@ -105,7 +105,7 @@ A strong feeling can rise in the middle of a group — a game is lost, a turn is
 a shared task gets hard, a long wait gets long. The feeling is real and allowed. The
 question is what you do with it *while the group is still going*. You can notice the
 feeling and use a quiet signal to get what you need — a calm breath, a turn, a little
-space — so the group keeps working *and* you keep being okay. Managing a feeling in a
+space — so the group keeps working *and* you keep being okay (S-340). Managing a feeling in a
 group is a kindness to yourself and to everyone else in the circle.
 
 ## Materials
@@ -142,7 +142,7 @@ silent. A learner may choose any safe signal; there is no single "right" one.
    a group.
 2. **Meet the quiet signals (10 min).** Look at the poster. **Hand on heart** = I need a
    calm breath. **Two fingers up** = I need a turn. **Step to the side** = I need some
-   space. A signal is a quiet way to say what you need without stopping the whole group.
+   space (S-097). A signal is a quiet way to say what you need without stopping the whole group.
    It is help, never a punishment.
 3. **Practice together (15 min).** Hear a scenario: "Your team is one point behind and
    the ball goes out. Your chest is hot." Choose a signal and use it: hand on heart, one
@@ -176,5 +176,7 @@ moment (a meal, a game, a long wait) feels big.
 
 ## Resources
 
-- CASEL SEL Framework (self-management and responsible decision-making):
-  <https://casel.org/fundamentals-of-sel/>
+- On slow breathing as a way to calm the body's stress response: Harvard Health —
+  Relaxation techniques: Breath control helps quell errant stress response (S-340).
+- On stepping away to change the situation as a self-control strategy: Duckworth, Gendler
+  & Gross (2016) — Situational Strategies for Self-Control (S-097).

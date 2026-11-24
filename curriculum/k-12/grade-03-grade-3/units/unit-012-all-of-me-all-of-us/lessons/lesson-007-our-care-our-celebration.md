@@ -112,7 +112,7 @@ All over the world, people gather to celebrate — a harvest, a season, a gradua
 year's work — and at the heart of every good celebration is **care**: someone cooked,
 someone set a place, someone helped a smaller one reach the table. A community is made
 of people helping one another, and when you help, you do not just fill a need — you
-grow warmer and more connected too. Today you remember the care you gave and received
+grow warmer and more connected too (S-508). Today you remember the care you gave and received
 this year, you show who you have become, and you look ahead to one goal. Then you
 celebrate it all.
 
@@ -218,4 +218,8 @@ first step you have set for the year ahead.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness, relationship skills): <https://casel.org/fundamentals-of-sel/>
+- On a community made of people helping one another (ubuntu: 'a person is a person through
+  other persons'): Desmond Tutu — Ubuntu (S-508).
+- On the social and emotional competencies the year's caring skills practise: CASEL —
+  Fundamentals of Social and Emotional Learning (S-001).
+

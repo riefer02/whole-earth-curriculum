@@ -98,7 +98,7 @@ They test this against scenarios that vary one feature at a time, and separate t
 A child in a tall city building, a child in a fishing village, a child who uses a
 wheelchair, a child who speaks a language few others know — different lives, same
 needs. Each one needs to play, learn, be safe, and be heard. Because the *need* belongs
-to every child, the *right* that protects it belongs to every child too. Your rights do
+to every child, the *right* that protects it belongs to every child too (S-091). Your rights do
 not depend on who you are or where you live.
 
 ## Materials
@@ -169,7 +169,10 @@ still not honored — and one thing people do to help close that gap.
 
 ## Resources
 
-- UNICEF — Convention on the Rights of the Child (Article 2: rights apply to every
-  child without discrimination): <https://www.unicef.org/child-rights-convention>
-- Full treaty text (Articles 2, 31, 28, 12, 19): UN OHCHR:
+- On rights applying to every child without discrimination of any kind (Article 2),
+  with the full treaty text of Articles 2, 12, 19, 28 and 31: UN Office of the High
+  Commissioner for Human Rights,
   <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
+  (S-091).
+- On the child-friendly summary of the same rights: UNICEF,
+  <https://www.unicef.org/child-rights-convention> (S-060).

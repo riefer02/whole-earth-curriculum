@@ -129,14 +129,14 @@ tens and hundreds.
 
 **The facts to land.**
 1. Three systems, three bases: **60** for time, **1,000** for liters, **100** for money
-   (Van de Walle, Karp & Bay-Williams, 2019).
+   (Van de Walle, Karp & Bay-Williams, 2019, S-026).
 2. Each needs its own concrete anchor — a minute of tapping, a liter of pours, a tray of
    coins.
 3. For money, use the home currency and its real subunits; in most currencies 100
    smaller units make one larger, but honor local exceptions.
 4. Money's history is global and varied — cowries, beads, salt, and metals served as
-   exchange before and alongside coins (Davies, 2002; Zaslavsky, 1999) — and no currency
-   is "better" than another.
+   exchange before and alongside coins (Davies, 2002, S-028; Zaslavsky, 1999, S-024) —
+   and no currency is "better" than another.
 
 **Don't overshoot.** A learner's pace at conversion is not a measure of their worth; a
 conversion is a fact about units, never about a person.
@@ -198,11 +198,10 @@ or the change from a purchase — and tell a grown-up how you counted.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson.
-  (Measurement conversion for time, volume, and money.)
-- Davies, G. (2002). *A History of Money: From Ancient Times to the Present Day* (3rd
-  ed.). University of Wales Press. (The variety of money — shells, beads, salt, metal
-  — across history.)
-- Zaslavsky, C. (1999). *Africa Counts: Number and Pattern in African Cultures* (3rd
-  ed.). Lawrence Hill Books. (Cowrie shells and other pre-coin exchange.)
+- On measurement conversion for time, volume, and money: Van de Walle, Karp &
+  Bay-Williams — Elementary and Middle School Mathematics: Teaching Developmentally
+  (S-026).
+- On the variety of money — shells, beads, salt, metal — across history: Davies — A
+  History of Money: From Ancient Times to the Present Day (S-028).
+- On cowrie shells and other pre-coin exchange in African cultures: Zaslavsky — Africa
+  Counts: Number and Pattern in African Cultures (S-024).

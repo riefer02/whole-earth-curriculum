@@ -79,7 +79,7 @@ sounds they make in their own language.
 
 ## Connection
 
-Each mark in your writing system is a friend of a sound. When you know which mark goes
+Each mark in your writing system is a friend of a sound (S-040). When you know which mark goes
 with which sound, you can begin to unlock words — to read what others wrote and write
 what you want to say. Marks and sounds are partners that work together.
 
@@ -134,6 +134,10 @@ sound.
   their home writing system?
 - **Formative (oral):** Can the learner name the sound of one or more marks — or match
   a mark to its sound by pointing, moving, or using a picture or gesture?
+
+## Resources
+
+- On phonics and sound-symbol instruction: National Reading Panel (2000) — Teaching Children to Read: An Evidence-Based Assessment (S-040).
 
 ## Home connection
 

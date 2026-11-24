@@ -105,11 +105,12 @@ knowledge we can trust.
 
 Have you ever stacked books one on top of another? The book at the bottom was put there
 first. Earth works the same way: **sediment** — tiny bits of sand and mud — settles and
-hardens into layers, the **oldest at the bottom** and the **youngest at the top**. Caught
-inside those layers are **fossils**: the shells, bones, and leaf prints of living things
-from long ago. A fossil deep down is older than one near the surface. It is how we read
-Earth's long story — not from a book someone wrote, but from clues the Earth left behind,
-the way a footprint in mud tells you someone walked there before you.
+hardens into layers, the **oldest at the bottom** and the **youngest at the top**
+(S-308). Caught inside those layers are **fossils**: the shells, bones, and leaf prints
+of living things from long ago. A fossil deep down is older than one near the surface.
+It is how we read Earth's long story (S-111) — not from a book someone wrote, but from
+clues the Earth left behind, the way a footprint in mud tells you someone walked there
+before you.
 
 ## Materials
 
@@ -196,6 +197,7 @@ tree stump, or old photos stacked in a drawer — and say which is oldest and ho
 
 ## Resources
 
-- BBC Bitesize (KS2 Science), "What can fossils tell us?" — how fossils give clues about
-  Earth's long history and past life.
-  https://www.bbc.co.uk/bitesize/topics/zvhhvcw/articles/ztbshcw
+- On how fossils give clues about Earth's long history and past life: BBC Bitesize (KS2)
+  — What can fossils tell us? (S-111).
+- On the principle of superposition — deeper undisturbed layers are older — and Earth's
+  long timescale: USGS — Geologic Time: Age of the Earth (S-308).

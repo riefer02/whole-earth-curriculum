@@ -8,341 +8,341 @@ To locate a lesson file for a source, run `rg -l "S-NNN" curriculum/k-12`.
 ## Summary
 
 - Registered sources: 509
-- Sources cited by lessons: 406
-- Lessons scanned: 1676
-- Source-to-lesson links: 2926
-- Registered sources not cited by a lesson: 103
+- Sources cited by lessons: 507
+- Lessons scanned: 1693
+- Source-to-lesson links: 4473
+- Registered sources not cited by a lesson: 2
 
 ## Sources
 
 | Source | Title | Domains | Reviewed | Lessons |
 |---|---|---|---:|---:|
-| [S-001](#s-001) | CASEL — Fundamentals of Social and Emotional Learning | D01, D02, D03, D04, D09 | yes | 51 |
+| [S-001](#s-001) | CASEL — Fundamentals of Social and Emotional Learning | D01, D02, D03, D04, D09 | yes | 139 |
 | [S-002](#s-002) | NASA — The Big Bang | D06 | yes | 9 |
-| [S-003](#s-003) | World Health Organization | D03, D10 | yes | 3 |
-| [S-004](#s-004) | UNESCO — Education for Sustainable Development | D08, D10 | yes | 8 |
-| [S-005](#s-005) | Intergovernmental Panel on Climate Change | D06, D10 | yes | 49 |
+| [S-003](#s-003) | World Health Organization | D03, D10 | yes | 10 |
+| [S-004](#s-004) | UNESCO — Education for Sustainable Development | D08, D10 | yes | 16 |
+| [S-005](#s-005) | Intergovernmental Panel on Climate Change | D06, D10 | yes | 54 |
 | [S-006](#s-006) | Our World in Data | D05, D08, D09 | yes | 29 |
-| [S-007](#s-007) | Bloom (1984) — The 2 Sigma Problem | — | yes | 8 |
-| [S-008](#s-008) | Escuela Nueva — multi-grade, self-paced rural schooling | — | yes | 5 |
+| [S-007](#s-007) | Bloom (1984) — The 2 Sigma Problem | — | yes | 14 |
+| [S-008](#s-008) | Escuela Nueva — multi-grade, self-paced rural schooling | — | yes | 6 |
 | [S-009](#s-009) | Pratham — Teaching at the Right Level (TaRL) | D04, D05 | yes | 4 |
 | [S-010](#s-010) | Class-size reduction — Project STAR | — | yes | 0 |
-| [S-011](#s-011) | Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work | — | yes | 615 |
-| [S-012](#s-012) | Hattie — Visible Learning (relationships, feedback, class size) | — | yes | 8 |
+| [S-011](#s-011) | Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work | — | yes | 743 |
+| [S-012](#s-012) | Hattie — Visible Learning (relationships, feedback, class size) | — | yes | 11 |
 | [S-013](#s-013) | Mitra — Hole in the Wall / Self-Organized Learning Environments (SOLE) | — | yes | 1 |
-| [S-014](#s-014) | Montessori education — mixed-age, self-directed | — | yes | 1 |
-| [S-015](#s-015) | RULER Approach — Yale Center for Emotional Intelligence | D01 | yes | 7 |
-| [S-016](#s-016) | WHO — Hand hygiene (infection prevention and control) | D03 | yes | 2 |
-| [S-017](#s-017) | WHO — Oral health fact sheet | D03 | yes | 1 |
-| [S-018](#s-018) | NASA Space Place — What Is the Big Bang? | D06 | yes | 4 |
-| [S-019](#s-019) | UNESCO — International Mother Language Day | D04 | yes | 14 |
-| [S-020](#s-020) | Clements & Sarama — Learning and Teaching Early Math: The Learning Trajectories Approach | D05 | yes | 0 |
-| [S-021](#s-021) | NASA Space Place — NASA Science for Kids (home) | D06 | yes | 0 |
-| [S-022](#s-022) | International Institute for Restorative Practices (IIRP) | D09 | yes | 17 |
-| [S-023](#s-023) | Ifrah (2000) — The Universal History of Numbers | D05 | yes | 6 |
-| [S-024](#s-024) | Zaslavsky (1999) — Africa Counts: Number and Pattern in African Cultures | D05 | yes | 4 |
-| [S-025](#s-025) | Carpenter, Fennema, Franke, Levi & Empson (2015) — Children's Mathematics: Cognitively Guided Instruction | D05 | yes | 0 |
-| [S-026](#s-026) | Van de Walle, Karp & Bay-Williams (2019) — Elementary and Middle School Mathematics: Teaching Developmentally | D05 | yes | 9 |
-| [S-027](#s-027) | National Research Council (2009) — Mathematics Learning in Early Childhood: Paths Toward Excellence and Equity | D05 | yes | 0 |
-| [S-028](#s-028) | Davies (2002) — A History of Money: From Ancient Times to the Present Day | D05 | yes | 1 |
-| [S-029](#s-029) | BBC Bitesize (KS1) — What is day and night? | D06 | yes | 0 |
-| [S-030](#s-030) | NASA Space Place — What Causes the Seasons? | D06 | yes | 0 |
-| [S-031](#s-031) | BBC Bitesize (KS1) — What are the senses? | D06 | yes | 0 |
-| [S-032](#s-032) | BBC Bitesize (KS1) — What do animals need to survive? | D06, D10 | yes | 0 |
-| [S-033](#s-033) | BBC Bitesize (KS1) — What does a plant need to grow? | D06, D10 | yes | 0 |
-| [S-034](#s-034) | BBC Bitesize (KS1) — How can I sort objects into dead, living and non-living? | D06, D10 | yes | 0 |
-| [S-035](#s-035) | BBC Bitesize (KS1) — Describing materials | D06 | yes | 0 |
-| [S-036](#s-036) | BBC Bitesize (KS2) — Friction | D06 | yes | 0 |
-| [S-037](#s-037) | BBC Bitesize (KS2) — Moving on different surfaces | D06 | yes | 0 |
-| [S-038](#s-038) | WHO — Healthy diet fact sheet | D03 | yes | 11 |
-| [S-039](#s-039) | Dunlosky, Rawson, Marsh, Nathan & Willingham (2013) — Improving Students' Learning With Effective Learning Techniques | — | yes | 128 |
-| [S-040](#s-040) | National Reading Panel (2000) — Teaching Children to Read: An Evidence-Based Assessment | D04 | yes | 5 |
-| [S-041](#s-041) | BBC Bitesize (KS1) — Working scientifically | D06 | yes | 0 |
-| [S-042](#s-042) | BBC Bitesize (KS1) — Everyday materials | D06 | yes | 0 |
-| [S-043](#s-043) | BBC Bitesize (KS1) — What is the life cycle of a plant? | D06 | yes | 0 |
-| [S-044](#s-044) | BBC Bitesize (KS1) — Living things and their habitats | D06, D10 | yes | 0 |
-| [S-045](#s-045) | BBC Bitesize (KS2) — Sound (How are sounds made?) | D06 | yes | 0 |
-| [S-046](#s-046) | BBC Bitesize (KS2) — Rocks (What is soil made from?) | D06, D10 | yes | 0 |
-| [S-047](#s-047) | NASA Space Place — All About the Sun | D06 | yes | 4 |
-| [S-048](#s-048) | BBC Bitesize — Primary (home) | D06 | yes | 0 |
-| [S-049](#s-049) | WHO — Drinking-water fact sheet | D03 | yes | 5 |
-| [S-050](#s-050) | AASM — Recommended Amount of Sleep for Pediatric Populations | D03 | yes | 8 |
-| [S-051](#s-051) | WHO — Preventing violence against children | D03 | yes | 5 |
-| [S-052](#s-052) | Our World in Data — Light at Night | D08 | yes | 5 |
-| [S-053](#s-053) | Children Just Like Me (DK, in association with UNICEF) | D08 | yes | 0 |
-| [S-054](#s-054) | International Potato Center (CIP) — Potato | D08 | yes | 4 |
-| [S-055](#s-055) | Polynesian Voyaging Society (Hōkūleʻa) | D08 | yes | 2 |
-| [S-056](#s-056) | UNESCO — Intangible Cultural Heritage | D03, D07, D08 | yes | 32 |
-| [S-057](#s-057) | National Geographic Education — Desert | D08 | yes | 1 |
-| [S-058](#s-058) | Inuit Circumpolar Council (ICC) | D08 | yes | 2 |
-| [S-059](#s-059) | Nobel Prize — Wangari Maathai, Facts | D08, D09 | yes | 16 |
-| [S-060](#s-060) | United Nations Convention on the Rights of the Child (UNICEF, child-friendly) | D09 | yes | 9 |
-| [S-061](#s-061) | Britannica Kids — Tool | D10 | yes | 0 |
-| [S-062](#s-062) | Encyclopaedia Britannica — Sewing Machine | D10 | yes | 1 |
-| [S-063](#s-063) | Common Sense Education — News & Media Literacy | D10 | yes | 24 |
-| [S-064](#s-064) | BBC Bitesize (KS1) — What is a food chain? | D06, D10 | yes | 0 |
-| [S-065](#s-065) | WHO/UNICEF JMP — WASH (Washdata) | D09, D10 | yes | 4 |
-| [S-066](#s-066) | National Geographic Kids — Plastic Pollution | D10 | yes | 1 |
-| [S-067](#s-067) | NIDCD — Taste and Smell | D03 | yes | 0 |
-| [S-068](#s-068) | NIDCD — Balance Disorders | D03 | yes | 0 |
-| [S-069](#s-069) | WHO — Physical activity fact sheet | D03 | yes | 4 |
-| [S-070](#s-070) | BBC Bitesize (KS2) — What is a fair test? | D06 | yes | 0 |
-| [S-071](#s-071) | BBC Bitesize (KS2) — Recording and presenting scientific data | D06 | yes | 0 |
-| [S-072](#s-072) | BBC Bitesize (KS2) — What is a food chain? | D06, D10 | yes | 0 |
-| [S-073](#s-073) | BBC Bitesize (KS2) — What is a microorganism? | D06, D10 | yes | 0 |
-| [S-074](#s-074) | BBC Bitesize (KS2) — The structure of flowering plants | D06, D10 | yes | 0 |
-| [S-075](#s-075) | BBC Bitesize (KS2) — Solids, liquids and gases | D06 | yes | 0 |
-| [S-076](#s-076) | BBC Bitesize (KS2) — Changing states | D06 | yes | 0 |
-| [S-077](#s-077) | BBC Bitesize (KS2, NI) — What is a force? | D06 | yes | 0 |
-| [S-078](#s-078) | BBC Bitesize (KS2, NI) — What is friction? | D06 | yes | 0 |
-| [S-079](#s-079) | BBC Bitesize (Scotland, 2nd level) — Coastlines: erosion | D06, D10 | yes | 0 |
-| [S-080](#s-080) | FAO — The State of Food and Agriculture (SOFA) | D03 | yes | 1 |
-| [S-081](#s-081) | FAO — Sustainable Food Value Chains Knowledge Platform | D03 | yes | 1 |
-| [S-082](#s-082) | IFRC — First aid (International First Aid, Resuscitation and Education Guidelines) | D03 | yes | 2 |
-| [S-083](#s-083) | Encyclopaedia Britannica — Bedouin | D08 | yes | 0 |
-| [S-084](#s-084) | Smithsonian National Museum of African Art — Kente cloth | D08 | yes | 5 |
-| [S-085](#s-085) | AIATSIS — Australian Institute of Aboriginal and Torres Strait Islander Studies | D08 | yes | 3 |
-| [S-086](#s-086) | International Organization for Migration (IOM) — Who is a migrant? | D08 | yes | 4 |
-| [S-087](#s-087) | Encyclopaedia Britannica — Salt March | D08 | yes | 1 |
-| [S-088](#s-088) | National Geographic Education — River | D08 | yes | 0 |
-| [S-089](#s-089) | Our World in Data — Urbanization | D08 | yes | 4 |
-| [S-090](#s-090) | Britannica Dictionary — Landmark | D08 | yes | 0 |
-| [S-091](#s-091) | United Nations Convention on the Rights of the Child — Article 12 (OHCHR full treaty text) | D08 | yes | 0 |
-| [S-092](#s-092) | UNICEF — Inclusive education | D03, D09 | yes | 2 |
-| [S-093](#s-093) | Maslow (1943) — A Theory of Human Motivation | D09 | yes | 0 |
-| [S-094](#s-094) | Lipman (1974) — Harry Stottlemeier's Discovery | D09 | yes | 1 |
-| [S-095](#s-095) | EIA Energy Kids — Renewable and Nonrenewable Energy Sources | D10, D06 | yes | 7 |
-| [S-096](#s-096) | Dweck — Mindset: The New Psychology of Success | D01 | yes | 4 |
-| [S-097](#s-097) | Duckworth, Gendler & Gross — Situational Strategies for Self-Control | D01 | yes | 3 |
-| [S-098](#s-098) | Nemours KidsHealth — heart, lungs, sweat, and muscles (for kids) | D03 | yes | 0 |
-| [S-099](#s-099) | WHO — Assistive Technology fact sheet | D03 | yes | 2 |
-| [S-100](#s-100) | UN Convention on the Rights of Persons with Disabilities (CRPD), Article 30 | D03, D09 | yes | 6 |
-| [S-101](#s-101) | SHAPE America — Society of Health and Physical Educators | D03 | yes | 1 |
-| [S-102](#s-102) | Graham & Perin — Writing Next | D04 | yes | 7 |
-| [S-103](#s-103) | Fortson — Indo-European Language and Culture (2nd ed.) | D04 | yes | 2 |
-| [S-104](#s-104) | Kohli & Solórzano — Teachers, please learn our names! | D04 | yes | 0 |
-| [S-105](#s-105) | BBC Bitesize (KS2) — How do scientists use their findings? | D06 | yes | 0 |
-| [S-106](#s-106) | BBC Bitesize (KS2) — What is adaptation? | D06 | yes | 1 |
-| [S-107](#s-107) | BBC Bitesize (KS2) — How do ecosystems work? | D06 | yes | 1 |
-| [S-108](#s-108) | BBC Bitesize (KS2) — What is light? | D06 | yes | 0 |
-| [S-109](#s-109) | BBC Bitesize (KS2) — How are sounds made? | D06 | yes | 0 |
-| [S-110](#s-110) | BBC Bitesize (KS2) — What is the water cycle? | D06 | yes | 0 |
-| [S-111](#s-111) | BBC Bitesize (KS2) — What can fossils tell us? | D06 | yes | 1 |
-| [S-112](#s-112) | BBC Bitesize (KS2) — What are conductors and insulators? | D06 | yes | 0 |
-| [S-113](#s-113) | National Geographic Kids — Measuring to bake pancakes | D06 | yes | 0 |
-| [S-114](#s-114) | Metropolitan Museum of Art — Heilbrunn Timeline of Art History | D07 | yes | 3 |
-| [S-115](#s-115) | Te Papa Tongarewa (Museum of New Zealand) — Māori arts | D07 | yes | 5 |
-| [S-116](#s-116) | NCCA Philippines — National Commission for Culture and the Arts | D03, D07 | yes | 4 |
-| [S-117](#s-117) | FAO — Food labelling | D03 | yes | 0 |
-| [S-118](#s-118) | FAO — Food-based dietary guidelines | D03 | yes | 5 |
-| [S-119](#s-119) | FAO — Hunger and food security | D03 | yes | 3 |
-| [S-120](#s-120) | WHO — Nutrition topic | D03 | yes | 2 |
-| [S-121](#s-121) | WHO — Burns fact sheet | D03 | yes | 1 |
-| [S-122](#s-122) | WHO — Drowning fact sheet | D03 | yes | 0 |
-| [S-123](#s-123) | WHO — Road traffic injuries fact sheet | D03 | yes | 0 |
-| [S-124](#s-124) | WHO — Climate change and health topic | D03, D10, D06 | yes | 2 |
-| [S-125](#s-125) | WMO — Weather theme | D03 | yes | 0 |
-| [S-126](#s-126) | IFRC — Community health and first aid | D03 | yes | 0 |
-| [S-127](#s-127) | UNICEF — Keeping children safe online | D03 | yes | 1 |
-| [S-128](#s-128) | ITU — Child Online Protection (COP) | D03 | yes | 1 |
-| [S-129](#s-129) | National Geographic Education — Map | D08 | yes | 0 |
-| [S-130](#s-130) | National Geographic Education — Irrigation | D08, D10 | yes | 2 |
-| [S-131](#s-131) | Britannica — Ashoka | D08 | yes | 0 |
-| [S-132](#s-132) | Britannica — Mohenjo-daro | D08 | yes | 1 |
-| [S-133](#s-133) | Britannica — Amaterasu | D08 | yes | 0 |
-| [S-134](#s-134) | Britannica — Great Wall of China | D08 | yes | 0 |
-| [S-135](#s-135) | Britannica — Indus civilization | D08 | yes | 0 |
-| [S-136](#s-136) | Britannica — Library of Alexandria | D08 | yes | 0 |
-| [S-137](#s-137) | Britannica — Re (Egyptian sun god) | D08 | yes | 0 |
-| [S-138](#s-138) | Britannica — Pyramids of Giza | D08 | yes | 0 |
-| [S-139](#s-139) | Britannica — Olmec | D08 | yes | 0 |
-| [S-140](#s-140) | Britannica — Tenochtitlan | D08 | yes | 0 |
-| [S-141](#s-141) | Britannica — Inca | D08 | yes | 0 |
-| [S-142](#s-142) | Britannica Kids — Haudenosaunee (Iroquois) | D08, D09 | yes | 3 |
-| [S-143](#s-143) | FAO — Soil conservation | D08, D10 | yes | 0 |
-| [S-144](#s-144) | NZHistory — Parihaka | D08 | yes | 3 |
-| [S-145](#s-145) | WHO — Traditional, complementary and integrative medicine | D08, D03 | yes | 3 |
-| [S-146](#s-146) | South African History Online — Defiance Campaign 1952 | D08 | yes | 7 |
-| [S-147](#s-147) | Slavin — Cooperative Learning | D09 | yes | 14 |
-| [S-148](#s-148) | Rosenberg — Nonviolent Communication | D09 | yes | 12 |
-| [S-149](#s-149) | UN — Universal Declaration of Human Rights | D03, D09, D10 | yes | 16 |
-| [S-150](#s-150) | TeachEngineering — Engineering Design Process | D10 | yes | 0 |
-| [S-151](#s-151) | NAMLE — Key Questions to Ask When Analyzing Media Messages | D10 | yes | 13 |
-| [S-152](#s-152) | National Geographic Education — Ecosystem | D10, D06 | yes | 3 |
-| [S-153](#s-153) | National Geographic Education — Decomposers | D10, D06 | yes | 0 |
-| [S-154](#s-154) | U.S. EPA — Reduce, Reuse, Recycle | D10 | yes | 0 |
-| [S-155](#s-155) | Erikson — Childhood and Society | D01 | yes | 13 |
-| [S-156](#s-156) | Search Institute — 40 Developmental Assets | D01, D02 | yes | 1 |
-| [S-157](#s-157) | Putnam — Bowling Alone | D02 | yes | 1 |
-| [S-158](#s-158) | UNESCO — Learning to Live Together | D02, D09 | yes | 1 |
-| [S-159](#s-159) | Beck — Cognitive Therapy and the Emotional Disorders | D01 | yes | 1 |
-| [S-160](#s-160) | Ekman & Friesen — The Repertoire of Nonverbal Behavior | D01 | yes | 2 |
-| [S-161](#s-161) | Zehr — Changing Lenses (restorative justice) | D09 | yes | 12 |
-| [S-162](#s-162) | WHO — Child Growth Standards (toolkit) | D03 | yes | 0 |
-| [S-163](#s-163) | Kropotkin (1902) — Mutual Aid: A Factor of Evolution | D02 | yes | 17 |
-| [S-164](#s-164) | Communal-work (mutual-aid) traditions — harambee, gotong royong, mink'a/minga, barn-raising | D02, D08 | yes | 19 |
-| [S-165](#s-165) | Daniels & Bright (eds.) — The World's Writing Systems | D04 | yes | 2 |
-| [S-166](#s-166) | DeFrancis — The Chinese Language: Fact and Fantasy | D04 | yes | 2 |
-| [S-167](#s-167) | Everett — Language: The Cultural Tool | D04 | yes | 6 |
-| [S-168](#s-168) | Sapir & Whorf — language and thought (linguistic relativity) | D04 | yes | 3 |
-| [S-169](#s-169) | WALS — Östen Dahl, 'Tea' (chapter 138) | D04 | yes | 4 |
-| [S-170](#s-170) | IES — Improving Adolescent Literacy: Effective Classroom and Intervention Practices | D04 | yes | 3 |
-| [S-171](#s-171) | IES — Teaching Secondary Students to Write Effectively | D04 | yes | 7 |
-| [S-172](#s-172) | Duke & Pearson — Effective Practices for Developing Reading Comprehension | D04 | yes | 2 |
-| [S-173](#s-173) | Marzano, Pickering & Pollock — Classroom Instruction That Works | D04 | yes | 0 |
-| [S-174](#s-174) | International Listening Association — Listening Skills resources | D04 | yes | 1 |
-| [S-175](#s-175) | ISO 80000-1 — Quantities and units, Part 1: General (decimal sign) | D05 | yes | 0 |
-| [S-176](#s-176) | National Geographic Education — Role of Keystone Species in an Ecosystem | D06 | yes | 5 |
-| [S-177](#s-177) | Encyclopaedia Britannica — Heredity | D06 | yes | 7 |
-| [S-178](#s-178) | FAO — Commission on Genetic Resources for Food and Agriculture (CGRFA) | D03, D06 | yes | 3 |
-| [S-179](#s-179) | National Science Teaching Association (NSTA) | D06 | yes | 0 |
-| [S-180](#s-180) | NASA Space Place — What Is Gravity? | D06 | yes | 1 |
-| [S-181](#s-181) | NASA — Earth's Moon | D06 | yes | 0 |
-| [S-182](#s-182) | NASA Space Place — What Are the Moon's Phases? | D06 | yes | 0 |
-| [S-183](#s-183) | NASA Space Place — Lunar Eclipses and Solar Eclipses | D06 | yes | 0 |
-| [S-184](#s-184) | NASA — Eclipses | D06 | yes | 0 |
-| [S-185](#s-185) | National Geographic Education — Erosion | D06, D10 | yes | 1 |
-| [S-186](#s-186) | National Geographic Education — Plate Tectonics | D06 | yes | 2 |
-| [S-187](#s-187) | BBC Bitesize (KS2, NI) — What is a magnet? | D06 | yes | 1 |
-| [S-188](#s-188) | Smithsonian Folkways Recordings | D07 | yes | 3 |
-| [S-189](#s-189) | Kennedy Center — Education (arts education resources) | D07 | yes | 6 |
-| [S-190](#s-190) | Smithsonian Science Education Center | D07, D10 | yes | 0 |
-| [S-191](#s-191) | National Geographic Education | D07, D08, D10 | yes | 0 |
-| [S-192](#s-192) | The Metropolitan Museum of Art — #MetKids | D07 | yes | 0 |
-| [S-193](#s-193) | WHO — Micronutrients (health topic) | D03 | yes | 1 |
-| [S-194](#s-194) | WHO — Anaemia fact sheet | D03 | yes | 0 |
-| [S-195](#s-195) | ITU — Recommendation E.161.1 (emergency number guidelines) | D03 | yes | 2 |
-| [S-196](#s-196) | UNICEF — Violence against children (child protection) | D03 | yes | 0 |
-| [S-197](#s-197) | British Museum — Egypt collection | D08 | yes | 0 |
-| [S-198](#s-198) | UNESCO World Heritage Centre — Archaeological Ruins at Moenjodaro (Dossier 138) | D08 | yes | 0 |
-| [S-199](#s-199) | UNESCO World Heritage Centre — Great Zimbabwe National Monument (Dossier 364) | D08 | yes | 2 |
-| [S-200](#s-200) | UNESCO World Heritage Centre — Historic Sanctuary of Machu Picchu (Dossier 274) | D08 | yes | 0 |
-| [S-201](#s-201) | UNESCO — Memory of the World (Timbuktu manuscripts) | D08 | yes | 5 |
-| [S-202](#s-202) | Te Ara — The Encyclopedia of New Zealand (Ranginui and Papatūānuku) | D08 | yes | 4 |
-| [S-203](#s-203) | Smithsonian National Museum of the American Indian — Haudenosaunee creation | D08, D09 | yes | 5 |
-| [S-204](#s-204) | Smithsonian Institution — writing systems, the wheel, and Maya astronomy | D08 | yes | 3 |
-| [S-205](#s-205) | Nobel Prize — Mahatma Gandhi, the missing laureate | D08 | yes | 3 |
-| [S-206](#s-206) | National Museum of Australia — Wave Hill Walk-Off (Defining Moments) | D08 | yes | 2 |
-| [S-207](#s-207) | UNESCO — The Indian Ocean, a shared heritage | D08 | yes | 7 |
-| [S-208](#s-208) | Archaeological Survey of India — Indus Valley civilization | D08 | yes | 0 |
-| [S-209](#s-209) | Adiele Afigbo — The Warrant Chiefs / Aba Women's War (1929) | D08 | yes | 3 |
-| [S-210](#s-210) | CGAP — Financial Inclusion (mobile money / M-Pesa) | D10 | yes | 4 |
-| [S-211](#s-211) | World Bank — Financial Inclusion (mobile money / digital financial services) | D10 | yes | 5 |
-| [S-212](#s-212) | USGS — Water Science School (The Water Cycle) | D10 | yes | 4 |
-| [S-213](#s-213) | NASA — GPM Precipitation Education (The Water Cycle) | D10 | yes | 2 |
-| [S-214](#s-214) | NOAA — How many oceans are there? (ocean covers 71% of Earth) | D10 | yes | 1 |
-| [S-215](#s-215) | NOAA — What is coral bleaching? | D10 | yes | 2 |
-| [S-216](#s-216) | UNEP — Plastic Pollution | D10, D06 | yes | 3 |
-| [S-217](#s-217) | UNESCO — Media and Information Literacy (MIL) | D10 | yes | 23 |
-| [S-218](#s-218) | WWF — Habitats (mangroves, coral reefs, forests) | D10 | yes | 2 |
-| [S-219](#s-219) | WHO — Household air pollution fact sheet | D10, D06 | yes | 3 |
-| [S-220](#s-220) | FAO — Forestry (forests as habitat; deforestation) | D10, D06 | yes | 3 |
-| [S-221](#s-221) | Festinger — A Theory of Social Comparison Processes | D01 | yes | 2 |
-| [S-222](#s-222) | Neff — Self-Compassion: An Alternative Conceptualization of a Healthy Attitude Toward Oneself | D01, D03 | yes | 7 |
-| [S-223](#s-223) | Locke & Latham — A Theory of Goal Setting & Task Performance | D01 | yes | 5 |
-| [S-224](#s-224) | Mischel, Shoda & Rodriguez — Delay of Gratification in Children | D01 | yes | 0 |
-| [S-225](#s-225) | Gross — The Emerging Field of Emotion Regulation: An Integrative Review | D01 | yes | 2 |
-| [S-226](#s-226) | Common Sense Media — Research Program (media & tech impact on child/adolescent development) | D01, D10 | yes | 11 |
-| [S-227](#s-227) | Jacobson — Progressive Relaxation (progressive muscle relaxation) | D03 | yes | 1 |
-| [S-228](#s-228) | Roediger & Karpicke — Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention | D01, D03 | yes | 3 |
-| [S-229](#s-229) | Steinberg — Age of Opportunity: Lessons from the New Science of Adolescence | D02 | yes | 2 |
-| [S-230](#s-230) | Batson — Empathic Concern vs Personal Distress (empathy-altruism) | D02 | yes | 8 |
-| [S-231](#s-231) | Decety & Cowell — Empathy, Perspective-Taking, and Morality | D02 | yes | 8 |
-| [S-232](#s-232) | Tajfel — Minimal Group Paradigm and Social Identity | D02, D08 | yes | 11 |
-| [S-233](#s-233) | Johnson & Johnson — Cooperation vs Competition (social interdependence theory) | D02, D09 | yes | 13 |
-| [S-234](#s-234) | World Bank — Poverty and Inequality (Poverty, Prosperity, and Planet Report) | D02, D08 | yes | 4 |
-| [S-235](#s-235) | UNESCO — Inclusion in Education (Salamanca Statement; Guide for Ensuring Inclusion and Equity) | D02, D09 | yes | 4 |
-| [S-236](#s-236) | Toulmin — The Uses of Argument (claim/data/warrant model) | D04 | yes | 15 |
-| [S-237](#s-237) | Council of Europe — CEFR Companion Volume (plurilingual competence) | D04 | yes | 10 |
-| [S-238](#s-238) | Michaels & O'Connor — Accountable Talk / Talk Moves | D04 | yes | 5 |
-| [S-239](#s-239) | Agarwal & Bain — Powerful Teaching: Unleash the Science of Learning | D04 | yes | 0 |
-| [S-240](#s-240) | MacTutor History of Mathematics Archive (University of St Andrews) | D05 | yes | 11 |
-| [S-241](#s-241) | Khan Academy — 6th grade data & statistics and physics (forces) | D06 | yes | 2 |
-| [S-242](#s-242) | BBC Bitesize (KS3) — Working scientifically: different types of data, graphs and charts, observation and measurement, bias in science | D06 | yes | 5 |
-| [S-243](#s-243) | BBC Bitesize (KS3) — Living organisms: plant and animal cells; unicellular organisms | D06 | yes | 0 |
+| [S-014](#s-014) | Montessori education — mixed-age, self-directed | — | yes | 2 |
+| [S-015](#s-015) | RULER Approach — Yale Center for Emotional Intelligence | D01 | yes | 18 |
+| [S-016](#s-016) | WHO — Hand hygiene (infection prevention and control) | D03 | yes | 5 |
+| [S-017](#s-017) | WHO — Oral health fact sheet | D03 | yes | 4 |
+| [S-018](#s-018) | NASA Space Place — What Is the Big Bang? | D06 | yes | 5 |
+| [S-019](#s-019) | UNESCO — International Mother Language Day | D04 | yes | 26 |
+| [S-020](#s-020) | Clements & Sarama — Learning and Teaching Early Math: The Learning Trajectories Approach | D05 | yes | 17 |
+| [S-021](#s-021) | NASA Space Place — NASA Science for Kids (home) | D06 | yes | 1 |
+| [S-022](#s-022) | International Institute for Restorative Practices (IIRP) | D09 | yes | 29 |
+| [S-023](#s-023) | Ifrah (2000) — The Universal History of Numbers | D05 | yes | 15 |
+| [S-024](#s-024) | Zaslavsky (1999) — Africa Counts: Number and Pattern in African Cultures | D05 | yes | 21 |
+| [S-025](#s-025) | Carpenter, Fennema, Franke, Levi & Empson (2015) — Children's Mathematics: Cognitively Guided Instruction | D05 | yes | 17 |
+| [S-026](#s-026) | Van de Walle, Karp & Bay-Williams (2019) — Elementary and Middle School Mathematics: Teaching Developmentally | D05 | yes | 69 |
+| [S-027](#s-027) | National Research Council (2009) — Mathematics Learning in Early Childhood: Paths Toward Excellence and Equity | D05 | yes | 8 |
+| [S-028](#s-028) | Davies (2002) — A History of Money: From Ancient Times to the Present Day | D05 | yes | 6 |
+| [S-029](#s-029) | BBC Bitesize (KS1) — What is day and night? | D06 | yes | 5 |
+| [S-030](#s-030) | NASA Space Place — What Causes the Seasons? | D06 | yes | 4 |
+| [S-031](#s-031) | BBC Bitesize (KS1) — What are the senses? | D06 | yes | 7 |
+| [S-032](#s-032) | BBC Bitesize (KS1) — What do animals need to survive? | D06, D10 | yes | 4 |
+| [S-033](#s-033) | BBC Bitesize (KS1) — What does a plant need to grow? | D06, D10 | yes | 5 |
+| [S-034](#s-034) | BBC Bitesize (KS1) — How can I sort objects into dead, living and non-living? | D06, D10 | yes | 3 |
+| [S-035](#s-035) | BBC Bitesize (KS1) — Describing materials | D06 | yes | 1 |
+| [S-036](#s-036) | BBC Bitesize (KS2) — Friction | D06 | yes | 1 |
+| [S-037](#s-037) | BBC Bitesize (KS2) — Moving on different surfaces | D06 | yes | 1 |
+| [S-038](#s-038) | WHO — Healthy diet fact sheet | D03 | yes | 25 |
+| [S-039](#s-039) | Dunlosky, Rawson, Marsh, Nathan & Willingham (2013) — Improving Students' Learning With Effective Learning Techniques | — | yes | 143 |
+| [S-040](#s-040) | National Reading Panel (2000) — Teaching Children to Read: An Evidence-Based Assessment | D04 | yes | 28 |
+| [S-041](#s-041) | BBC Bitesize (KS1) — Working scientifically | D06 | yes | 8 |
+| [S-042](#s-042) | BBC Bitesize (KS1) — Everyday materials | D06 | yes | 2 |
+| [S-043](#s-043) | BBC Bitesize (KS1) — What is the life cycle of a plant? | D06 | yes | 2 |
+| [S-044](#s-044) | BBC Bitesize (KS1) — Living things and their habitats | D06, D10 | yes | 2 |
+| [S-045](#s-045) | BBC Bitesize (KS2) — Sound (How are sounds made?) | D06 | yes | 3 |
+| [S-046](#s-046) | BBC Bitesize (KS2) — Rocks (What is soil made from?) | D06, D10 | yes | 1 |
+| [S-047](#s-047) | NASA Space Place — All About the Sun | D06 | yes | 5 |
+| [S-048](#s-048) | BBC Bitesize — Primary (home) | D06 | yes | 1 |
+| [S-049](#s-049) | WHO — Drinking-water fact sheet | D03 | yes | 13 |
+| [S-050](#s-050) | AASM — Recommended Amount of Sleep for Pediatric Populations | D03 | yes | 14 |
+| [S-051](#s-051) | WHO — Preventing violence against children | D03 | yes | 8 |
+| [S-052](#s-052) | Our World in Data — Light at Night | D08 | yes | 7 |
+| [S-053](#s-053) | Children Just Like Me (DK, in association with UNICEF) | D08 | yes | 5 |
+| [S-054](#s-054) | International Potato Center (CIP) — Potato | D08 | yes | 11 |
+| [S-055](#s-055) | Polynesian Voyaging Society (Hōkūleʻa) | D08 | yes | 7 |
+| [S-056](#s-056) | UNESCO — Intangible Cultural Heritage | D03, D07, D08 | yes | 62 |
+| [S-057](#s-057) | National Geographic Education — Desert | D08 | yes | 5 |
+| [S-058](#s-058) | Inuit Circumpolar Council (ICC) | D08 | yes | 8 |
+| [S-059](#s-059) | Nobel Prize — Wangari Maathai, Facts | D08, D09 | yes | 20 |
+| [S-060](#s-060) | United Nations Convention on the Rights of the Child (UNICEF, child-friendly) | D09 | yes | 22 |
+| [S-061](#s-061) | Britannica Kids — Tool | D10 | yes | 8 |
+| [S-062](#s-062) | Encyclopaedia Britannica — Sewing Machine | D10 | yes | 5 |
+| [S-063](#s-063) | Common Sense Education — News & Media Literacy | D10 | yes | 37 |
+| [S-064](#s-064) | BBC Bitesize (KS1) — What is a food chain? | D06, D10 | yes | 1 |
+| [S-065](#s-065) | WHO/UNICEF JMP — WASH (Washdata) | D09, D10 | yes | 6 |
+| [S-066](#s-066) | National Geographic Kids — Plastic Pollution | D10 | yes | 2 |
+| [S-067](#s-067) | NIDCD — Taste and Smell | D03 | yes | 3 |
+| [S-068](#s-068) | NIDCD — Balance Disorders | D03 | yes | 3 |
+| [S-069](#s-069) | WHO — Physical activity fact sheet | D03 | yes | 19 |
+| [S-070](#s-070) | BBC Bitesize (KS2) — What is a fair test? | D06 | yes | 6 |
+| [S-071](#s-071) | BBC Bitesize (KS2) — Recording and presenting scientific data | D06 | yes | 4 |
+| [S-072](#s-072) | BBC Bitesize (KS2) — What is a food chain? | D06, D10 | yes | 4 |
+| [S-073](#s-073) | BBC Bitesize (KS2) — What is a microorganism? | D06, D10 | yes | 2 |
+| [S-074](#s-074) | BBC Bitesize (KS2) — The structure of flowering plants | D06, D10 | yes | 3 |
+| [S-075](#s-075) | BBC Bitesize (KS2) — Solids, liquids and gases | D06 | yes | 2 |
+| [S-076](#s-076) | BBC Bitesize (KS2) — Changing states | D06 | yes | 2 |
+| [S-077](#s-077) | BBC Bitesize (KS2, NI) — What is a force? | D06 | yes | 2 |
+| [S-078](#s-078) | BBC Bitesize (KS2, NI) — What is friction? | D06 | yes | 1 |
+| [S-079](#s-079) | BBC Bitesize (Scotland, 2nd level) — Coastlines: erosion | D06, D10 | yes | 2 |
+| [S-080](#s-080) | FAO — The State of Food and Agriculture (SOFA) | D03 | yes | 2 |
+| [S-081](#s-081) | FAO — Sustainable Food Value Chains Knowledge Platform | D03 | yes | 3 |
+| [S-082](#s-082) | IFRC — First aid (International First Aid, Resuscitation and Education Guidelines) | D03 | yes | 5 |
+| [S-083](#s-083) | Encyclopaedia Britannica — Bedouin | D08 | yes | 2 |
+| [S-084](#s-084) | Smithsonian National Museum of African Art — Kente cloth | D08 | yes | 8 |
+| [S-085](#s-085) | AIATSIS — Australian Institute of Aboriginal and Torres Strait Islander Studies | D08 | yes | 6 |
+| [S-086](#s-086) | International Organization for Migration (IOM) — Who is a migrant? | D08 | yes | 7 |
+| [S-087](#s-087) | Encyclopaedia Britannica — Salt March | D08 | yes | 3 |
+| [S-088](#s-088) | National Geographic Education — River | D08 | yes | 2 |
+| [S-089](#s-089) | Our World in Data — Urbanization | D08 | yes | 5 |
+| [S-090](#s-090) | Britannica Dictionary — Landmark | D08 | yes | 1 |
+| [S-091](#s-091) | United Nations Convention on the Rights of the Child — Article 12 (OHCHR full treaty text) | D08 | yes | 8 |
+| [S-092](#s-092) | UNICEF — Inclusive education | D03, D09 | yes | 5 |
+| [S-093](#s-093) | Maslow (1943) — A Theory of Human Motivation | D09 | yes | 4 |
+| [S-094](#s-094) | Lipman (1974) — Harry Stottlemeier's Discovery | D09 | yes | 5 |
+| [S-095](#s-095) | EIA Energy Kids — Renewable and Nonrenewable Energy Sources | D10, D06 | yes | 9 |
+| [S-096](#s-096) | Dweck — Mindset: The New Psychology of Success | D01 | yes | 12 |
+| [S-097](#s-097) | Duckworth, Gendler & Gross — Situational Strategies for Self-Control | D01 | yes | 6 |
+| [S-098](#s-098) | Nemours KidsHealth — heart, lungs, sweat, and muscles (for kids) | D03 | yes | 9 |
+| [S-099](#s-099) | WHO — Assistive Technology fact sheet | D03 | yes | 5 |
+| [S-100](#s-100) | UN Convention on the Rights of Persons with Disabilities (CRPD), Article 30 | D03, D09 | yes | 9 |
+| [S-101](#s-101) | SHAPE America — Society of Health and Physical Educators | D03 | yes | 10 |
+| [S-102](#s-102) | Graham & Perin — Writing Next | D04 | yes | 22 |
+| [S-103](#s-103) | Fortson — Indo-European Language and Culture (2nd ed.) | D04 | yes | 3 |
+| [S-104](#s-104) | Kohli & Solórzano — Teachers, please learn our names! | D04 | yes | 2 |
+| [S-105](#s-105) | BBC Bitesize (KS2) — How do scientists use their findings? | D06 | yes | 3 |
+| [S-106](#s-106) | BBC Bitesize (KS2) — What is adaptation? | D06 | yes | 3 |
+| [S-107](#s-107) | BBC Bitesize (KS2) — How do ecosystems work? | D06 | yes | 6 |
+| [S-108](#s-108) | BBC Bitesize (KS2) — What is light? | D06 | yes | 2 |
+| [S-109](#s-109) | BBC Bitesize (KS2) — How are sounds made? | D06 | yes | 2 |
+| [S-110](#s-110) | BBC Bitesize (KS2) — What is the water cycle? | D06 | yes | 1 |
+| [S-111](#s-111) | BBC Bitesize (KS2) — What can fossils tell us? | D06 | yes | 2 |
+| [S-112](#s-112) | BBC Bitesize (KS2) — What are conductors and insulators? | D06 | yes | 1 |
+| [S-113](#s-113) | National Geographic Kids — Measuring to bake pancakes | D06 | yes | 3 |
+| [S-114](#s-114) | Metropolitan Museum of Art — Heilbrunn Timeline of Art History | D07 | yes | 10 |
+| [S-115](#s-115) | Te Papa Tongarewa (Museum of New Zealand) — Māori arts | D07 | yes | 8 |
+| [S-116](#s-116) | NCCA Philippines — National Commission for Culture and the Arts | D03, D07 | yes | 5 |
+| [S-117](#s-117) | FAO — Food labelling | D03 | yes | 2 |
+| [S-118](#s-118) | FAO — Food-based dietary guidelines | D03 | yes | 10 |
+| [S-119](#s-119) | FAO — Hunger and food security | D03 | yes | 6 |
+| [S-120](#s-120) | WHO — Nutrition topic | D03 | yes | 6 |
+| [S-121](#s-121) | WHO — Burns fact sheet | D03 | yes | 3 |
+| [S-122](#s-122) | WHO — Drowning fact sheet | D03 | yes | 1 |
+| [S-123](#s-123) | WHO — Road traffic injuries fact sheet | D03 | yes | 2 |
+| [S-124](#s-124) | WHO — Climate change and health topic | D03, D10, D06 | yes | 3 |
+| [S-125](#s-125) | WMO — Weather theme | D03 | yes | 1 |
+| [S-126](#s-126) | IFRC — Community health and first aid | D03 | yes | 1 |
+| [S-127](#s-127) | UNICEF — Keeping children safe online | D03 | yes | 3 |
+| [S-128](#s-128) | ITU — Child Online Protection (COP) | D03 | yes | 2 |
+| [S-129](#s-129) | National Geographic Education — Map | D08 | yes | 4 |
+| [S-130](#s-130) | National Geographic Education — Irrigation | D08, D10 | yes | 3 |
+| [S-131](#s-131) | Britannica — Ashoka | D08 | yes | 2 |
+| [S-132](#s-132) | Britannica — Mohenjo-daro | D08 | yes | 3 |
+| [S-133](#s-133) | Britannica — Amaterasu | D08 | yes | 1 |
+| [S-134](#s-134) | Britannica — Great Wall of China | D08 | yes | 1 |
+| [S-135](#s-135) | Britannica — Indus civilization | D08 | yes | 1 |
+| [S-136](#s-136) | Britannica — Library of Alexandria | D08 | yes | 1 |
+| [S-137](#s-137) | Britannica — Re (Egyptian sun god) | D08 | yes | 2 |
+| [S-138](#s-138) | Britannica — Pyramids of Giza | D08 | yes | 1 |
+| [S-139](#s-139) | Britannica — Olmec | D08 | yes | 1 |
+| [S-140](#s-140) | Britannica — Tenochtitlan | D08 | yes | 1 |
+| [S-141](#s-141) | Britannica — Inca | D08 | yes | 1 |
+| [S-142](#s-142) | Britannica Kids — Haudenosaunee (Iroquois) | D08, D09 | yes | 6 |
+| [S-143](#s-143) | FAO — Soil conservation | D08, D10 | yes | 1 |
+| [S-144](#s-144) | NZHistory — Parihaka | D08 | yes | 4 |
+| [S-145](#s-145) | WHO — Traditional, complementary and integrative medicine | D08, D03 | yes | 4 |
+| [S-146](#s-146) | South African History Online — Defiance Campaign 1952 | D08 | yes | 8 |
+| [S-147](#s-147) | Slavin — Cooperative Learning | D09 | yes | 27 |
+| [S-148](#s-148) | Rosenberg — Nonviolent Communication | D09 | yes | 21 |
+| [S-149](#s-149) | UN — Universal Declaration of Human Rights | D03, D09, D10 | yes | 25 |
+| [S-150](#s-150) | TeachEngineering — Engineering Design Process | D10 | yes | 7 |
+| [S-151](#s-151) | NAMLE — Key Questions to Ask When Analyzing Media Messages | D10 | yes | 28 |
+| [S-152](#s-152) | National Geographic Education — Ecosystem | D10, D06 | yes | 7 |
+| [S-153](#s-153) | National Geographic Education — Decomposers | D10, D06 | yes | 1 |
+| [S-154](#s-154) | U.S. EPA — Reduce, Reuse, Recycle | D10 | yes | 6 |
+| [S-155](#s-155) | Erikson — Childhood and Society | D01 | yes | 18 |
+| [S-156](#s-156) | Search Institute — 40 Developmental Assets | D01, D02 | yes | 5 |
+| [S-157](#s-157) | Putnam — Bowling Alone | D02 | yes | 3 |
+| [S-158](#s-158) | UNESCO — Learning to Live Together | D02, D09 | yes | 13 |
+| [S-159](#s-159) | Beck — Cognitive Therapy and the Emotional Disorders | D01 | yes | 3 |
+| [S-160](#s-160) | Ekman & Friesen — The Repertoire of Nonverbal Behavior | D01 | yes | 15 |
+| [S-161](#s-161) | Zehr — Changing Lenses (restorative justice) | D09 | yes | 18 |
+| [S-162](#s-162) | WHO — Child Growth Standards (toolkit) | D03 | yes | 2 |
+| [S-163](#s-163) | Kropotkin (1902) — Mutual Aid: A Factor of Evolution | D02 | yes | 23 |
+| [S-164](#s-164) | Communal-work (mutual-aid) traditions — harambee, gotong royong, mink'a/minga, barn-raising | D02, D08 | yes | 33 |
+| [S-165](#s-165) | Daniels & Bright (eds.) — The World's Writing Systems | D04 | yes | 8 |
+| [S-166](#s-166) | DeFrancis — The Chinese Language: Fact and Fantasy | D04 | yes | 3 |
+| [S-167](#s-167) | Everett — Language: The Cultural Tool | D04 | yes | 9 |
+| [S-168](#s-168) | Sapir & Whorf — language and thought (linguistic relativity) | D04 | yes | 5 |
+| [S-169](#s-169) | WALS — Östen Dahl, 'Tea' (chapter 138) | D04 | yes | 5 |
+| [S-170](#s-170) | IES — Improving Adolescent Literacy: Effective Classroom and Intervention Practices | D04 | yes | 10 |
+| [S-171](#s-171) | IES — Teaching Secondary Students to Write Effectively | D04 | yes | 10 |
+| [S-172](#s-172) | Duke & Pearson — Effective Practices for Developing Reading Comprehension | D04 | yes | 24 |
+| [S-173](#s-173) | Marzano, Pickering & Pollock — Classroom Instruction That Works | D04 | yes | 1 |
+| [S-174](#s-174) | International Listening Association — Listening Skills resources | D04 | yes | 12 |
+| [S-175](#s-175) | ISO 80000-1 — Quantities and units, Part 1: General (decimal sign) | D05 | yes | 5 |
+| [S-176](#s-176) | National Geographic Education — Role of Keystone Species in an Ecosystem | D06 | yes | 6 |
+| [S-177](#s-177) | Encyclopaedia Britannica — Heredity | D06 | yes | 9 |
+| [S-178](#s-178) | FAO — Commission on Genetic Resources for Food and Agriculture (CGRFA) | D03, D06 | yes | 4 |
+| [S-179](#s-179) | National Science Teaching Association (NSTA) | D06 | yes | 1 |
+| [S-180](#s-180) | NASA Space Place — What Is Gravity? | D06 | yes | 2 |
+| [S-181](#s-181) | NASA — Earth's Moon | D06 | yes | 1 |
+| [S-182](#s-182) | NASA Space Place — What Are the Moon's Phases? | D06 | yes | 2 |
+| [S-183](#s-183) | NASA Space Place — Lunar Eclipses and Solar Eclipses | D06 | yes | 1 |
+| [S-184](#s-184) | NASA — Eclipses | D06 | yes | 1 |
+| [S-185](#s-185) | National Geographic Education — Erosion | D06, D10 | yes | 2 |
+| [S-186](#s-186) | National Geographic Education — Plate Tectonics | D06 | yes | 3 |
+| [S-187](#s-187) | BBC Bitesize (KS2, NI) — What is a magnet? | D06 | yes | 2 |
+| [S-188](#s-188) | Smithsonian Folkways Recordings | D07 | yes | 12 |
+| [S-189](#s-189) | Kennedy Center — Education (arts education resources) | D07 | yes | 16 |
+| [S-190](#s-190) | Smithsonian Science Education Center | D07, D10 | yes | 1 |
+| [S-191](#s-191) | National Geographic Education | D07, D08, D10 | yes | 1 |
+| [S-192](#s-192) | The Metropolitan Museum of Art — #MetKids | D07 | yes | 4 |
+| [S-193](#s-193) | WHO — Micronutrients (health topic) | D03 | yes | 3 |
+| [S-194](#s-194) | WHO — Anaemia fact sheet | D03 | yes | 1 |
+| [S-195](#s-195) | ITU — Recommendation E.161.1 (emergency number guidelines) | D03 | yes | 3 |
+| [S-196](#s-196) | UNICEF — Violence against children (child protection) | D03 | yes | 4 |
+| [S-197](#s-197) | British Museum — Egypt collection | D08 | yes | 2 |
+| [S-198](#s-198) | UNESCO World Heritage Centre — Archaeological Ruins at Moenjodaro (Dossier 138) | D08 | yes | 2 |
+| [S-199](#s-199) | UNESCO World Heritage Centre — Great Zimbabwe National Monument (Dossier 364) | D08 | yes | 4 |
+| [S-200](#s-200) | UNESCO World Heritage Centre — Historic Sanctuary of Machu Picchu (Dossier 274) | D08 | yes | 2 |
+| [S-201](#s-201) | UNESCO — Memory of the World (Timbuktu manuscripts) | D08 | yes | 8 |
+| [S-202](#s-202) | Te Ara — The Encyclopedia of New Zealand (Ranginui and Papatūānuku) | D08 | yes | 7 |
+| [S-203](#s-203) | Smithsonian National Museum of the American Indian — Haudenosaunee creation | D08, D09 | yes | 7 |
+| [S-204](#s-204) | Smithsonian Institution — writing systems, the wheel, and Maya astronomy | D08 | yes | 5 |
+| [S-205](#s-205) | Nobel Prize — Mahatma Gandhi, the missing laureate | D08 | yes | 5 |
+| [S-206](#s-206) | National Museum of Australia — Wave Hill Walk-Off (Defining Moments) | D08 | yes | 3 |
+| [S-207](#s-207) | UNESCO — The Indian Ocean, a shared heritage | D08 | yes | 8 |
+| [S-208](#s-208) | Archaeological Survey of India — Indus Valley civilization | D08 | yes | 1 |
+| [S-209](#s-209) | Adiele Afigbo — The Warrant Chiefs / Aba Women's War (1929) | D08 | yes | 4 |
+| [S-210](#s-210) | CGAP — Financial Inclusion (mobile money / M-Pesa) | D10 | yes | 5 |
+| [S-211](#s-211) | World Bank — Financial Inclusion (mobile money / digital financial services) | D10 | yes | 6 |
+| [S-212](#s-212) | USGS — Water Science School (The Water Cycle) | D10 | yes | 7 |
+| [S-213](#s-213) | NASA — GPM Precipitation Education (The Water Cycle) | D10 | yes | 3 |
+| [S-214](#s-214) | NOAA — How many oceans are there? (ocean covers 71% of Earth) | D10 | yes | 2 |
+| [S-215](#s-215) | NOAA — What is coral bleaching? | D10 | yes | 3 |
+| [S-216](#s-216) | UNEP — Plastic Pollution | D10, D06 | yes | 6 |
+| [S-217](#s-217) | UNESCO — Media and Information Literacy (MIL) | D10 | yes | 29 |
+| [S-218](#s-218) | WWF — Habitats (mangroves, coral reefs, forests) | D10 | yes | 3 |
+| [S-219](#s-219) | WHO — Household air pollution fact sheet | D10, D06 | yes | 4 |
+| [S-220](#s-220) | FAO — Forestry (forests as habitat; deforestation) | D10, D06 | yes | 4 |
+| [S-221](#s-221) | Festinger — A Theory of Social Comparison Processes | D01 | yes | 3 |
+| [S-222](#s-222) | Neff — Self-Compassion: An Alternative Conceptualization of a Healthy Attitude Toward Oneself | D01, D03 | yes | 9 |
+| [S-223](#s-223) | Locke & Latham — A Theory of Goal Setting & Task Performance | D01 | yes | 11 |
+| [S-224](#s-224) | Mischel, Shoda & Rodriguez — Delay of Gratification in Children | D01 | yes | 4 |
+| [S-225](#s-225) | Gross — The Emerging Field of Emotion Regulation: An Integrative Review | D01 | yes | 9 |
+| [S-226](#s-226) | Common Sense Media — Research Program (media & tech impact on child/adolescent development) | D01, D10 | yes | 12 |
+| [S-227](#s-227) | Jacobson — Progressive Relaxation (progressive muscle relaxation) | D03 | yes | 2 |
+| [S-228](#s-228) | Roediger & Karpicke — Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention | D01, D03 | yes | 8 |
+| [S-229](#s-229) | Steinberg — Age of Opportunity: Lessons from the New Science of Adolescence | D02 | yes | 3 |
+| [S-230](#s-230) | Batson — Empathic Concern vs Personal Distress (empathy-altruism) | D02 | yes | 12 |
+| [S-231](#s-231) | Decety & Cowell — Empathy, Perspective-Taking, and Morality | D02 | yes | 21 |
+| [S-232](#s-232) | Tajfel — Minimal Group Paradigm and Social Identity | D02, D08 | yes | 15 |
+| [S-233](#s-233) | Johnson & Johnson — Cooperation vs Competition (social interdependence theory) | D02, D09 | yes | 20 |
+| [S-234](#s-234) | World Bank — Poverty and Inequality (Poverty, Prosperity, and Planet Report) | D02, D08 | yes | 6 |
+| [S-235](#s-235) | UNESCO — Inclusion in Education (Salamanca Statement; Guide for Ensuring Inclusion and Equity) | D02, D09 | yes | 9 |
+| [S-236](#s-236) | Toulmin — The Uses of Argument (claim/data/warrant model) | D04 | yes | 20 |
+| [S-237](#s-237) | Council of Europe — CEFR Companion Volume (plurilingual competence) | D04 | yes | 14 |
+| [S-238](#s-238) | Michaels & O'Connor — Accountable Talk / Talk Moves | D04 | yes | 13 |
+| [S-239](#s-239) | Agarwal & Bain — Powerful Teaching: Unleash the Science of Learning | D04 | yes | 2 |
+| [S-240](#s-240) | MacTutor History of Mathematics Archive (University of St Andrews) | D05 | yes | 12 |
+| [S-241](#s-241) | Khan Academy — 6th grade data & statistics and physics (forces) | D06 | yes | 6 |
+| [S-242](#s-242) | BBC Bitesize (KS3) — Working scientifically: different types of data, graphs and charts, observation and measurement, bias in science | D06 | yes | 14 |
+| [S-243](#s-243) | BBC Bitesize (KS3) — Living organisms: plant and animal cells; unicellular organisms | D06 | yes | 1 |
 | [S-244](#s-244) | BBC Bitesize (KS3) — Ecosystems and habitats: food chains and webs | D06, D10 | yes | 2 |
-| [S-245](#s-245) | BBC Bitesize (KS3) — Energy: energy stores | D06 | yes | 2 |
-| [S-246](#s-246) | BBC Bitesize (KS3) — Forces and movement: force diagrams and resultant forces | D06 | yes | 0 |
-| [S-247](#s-247) | BBC Bitesize (KS3) — The Earth and atmosphere: the rock cycle | D06 | yes | 0 |
-| [S-248](#s-248) | BBC Bitesize (KS2) — What is soil made from? | D06, D10 | yes | 0 |
-| [S-249](#s-249) | NIST — Uncertainty of Measurement Results | D06 | yes | 1 |
-| [S-250](#s-250) | Understanding Science (UC Berkeley) — What is science? / bias | D06 | yes | 8 |
-| [S-251](#s-251) | National Geographic Education — Cell Theory | D06 | yes | 0 |
-| [S-252](#s-252) | National Geographic Education — Food Chain | D06, D10 | yes | 1 |
-| [S-253](#s-253) | National Geographic Education — The Carbon Cycle | D06, D10 | yes | 8 |
-| [S-254](#s-254) | National Geographic Education — The Rock Cycle | D06 | yes | 0 |
-| [S-255](#s-255) | EIA Energy Kids — Forms of Energy | D06, D10 | yes | 1 |
-| [S-256](#s-256) | EIA Energy Kids — Laws of Energy | D06, D10 | yes | 4 |
-| [S-257](#s-257) | NASA Space Place — Solar System | D06 | yes | 0 |
-| [S-258](#s-258) | NASA Science — Solar System Exploration | D06 | yes | 0 |
-| [S-259](#s-259) | FAO Soils Portal — Key definitions (what is soil) | D06, D10 | yes | 1 |
-| [S-260](#s-260) | IDEA — International Drama/Theatre and Education Association | D07 | yes | 2 |
-| [S-261](#s-261) | WHO — Adolescent health (health topic) | D03 | yes | 8 |
-| [S-262](#s-262) | Smithsonian Institution Global Volcanism Program — Krakatau (1883) | D08 | yes | 0 |
-| [S-263](#s-263) | U.S. National Archives — Primary and Secondary Sources | D08 | yes | 0 |
-| [S-264](#s-264) | British Library — history of writing materials and primary sources | D08 | yes | 3 |
-| [S-265](#s-265) | UNESCO Silk Roads Programme (Maritime Silk Road) | D08 | yes | 3 |
-| [S-266](#s-266) | Ma Huan — Ying-yai Sheng-lan (The Overall Survey of the Ocean's Shores) | D08 | yes | 0 |
+| [S-245](#s-245) | BBC Bitesize (KS3) — Energy: energy stores | D06 | yes | 3 |
+| [S-246](#s-246) | BBC Bitesize (KS3) — Forces and movement: force diagrams and resultant forces | D06 | yes | 1 |
+| [S-247](#s-247) | BBC Bitesize (KS3) — The Earth and atmosphere: the rock cycle | D06 | yes | 1 |
+| [S-248](#s-248) | BBC Bitesize (KS2) — What is soil made from? | D06, D10 | yes | 1 |
+| [S-249](#s-249) | NIST — Uncertainty of Measurement Results | D06 | yes | 6 |
+| [S-250](#s-250) | Understanding Science (UC Berkeley) — What is science? / bias | D06 | yes | 15 |
+| [S-251](#s-251) | National Geographic Education — Cell Theory | D06 | yes | 1 |
+| [S-252](#s-252) | National Geographic Education — Food Chain | D06, D10 | yes | 2 |
+| [S-253](#s-253) | National Geographic Education — The Carbon Cycle | D06, D10 | yes | 9 |
+| [S-254](#s-254) | National Geographic Education — The Rock Cycle | D06 | yes | 1 |
+| [S-255](#s-255) | EIA Energy Kids — Forms of Energy | D06, D10 | yes | 3 |
+| [S-256](#s-256) | EIA Energy Kids — Laws of Energy | D06, D10 | yes | 6 |
+| [S-257](#s-257) | NASA Space Place — Solar System | D06 | yes | 1 |
+| [S-258](#s-258) | NASA Science — Solar System Exploration | D06 | yes | 1 |
+| [S-259](#s-259) | FAO Soils Portal — Key definitions (what is soil) | D06, D10 | yes | 2 |
+| [S-260](#s-260) | IDEA — International Drama/Theatre and Education Association | D07 | yes | 9 |
+| [S-261](#s-261) | WHO — Adolescent health (health topic) | D03 | yes | 12 |
+| [S-262](#s-262) | Smithsonian Institution Global Volcanism Program — Krakatau (1883) | D08 | yes | 1 |
+| [S-263](#s-263) | U.S. National Archives — Primary and Secondary Sources | D08 | yes | 5 |
+| [S-264](#s-264) | British Library — history of writing materials and primary sources | D08 | yes | 6 |
+| [S-265](#s-265) | UNESCO Silk Roads Programme (Maritime Silk Road) | D08 | yes | 4 |
+| [S-266](#s-266) | Ma Huan — Ying-yai Sheng-lan (The Overall Survey of the Ocean's Shores) | D08 | yes | 1 |
 | [S-267](#s-267) | al-Umari — Masalik al-absar (Account of Mansa Musa's pilgrimage) | D08 | yes | 0 |
-| [S-268](#s-268) | UNESCO World Heritage Centre — Timbuktu (Dossier 119) | D08 | yes | 4 |
-| [S-269](#s-269) | Djibril Tamsir Niane — Sundiata: An Epic of Old Mali | D08, D04 | yes | 5 |
-| [S-270](#s-270) | Tokyo National Museum — Edo period collections | D08 | yes | 0 |
-| [S-271](#s-271) | The Palace Museum (Forbidden City) — Ming dynasty collections | D08 | yes | 0 |
+| [S-268](#s-268) | UNESCO World Heritage Centre — Timbuktu (Dossier 119) | D08 | yes | 5 |
+| [S-269](#s-269) | Djibril Tamsir Niane — Sundiata: An Epic of Old Mali | D08, D04 | yes | 7 |
+| [S-270](#s-270) | Tokyo National Museum — Edo period collections | D08 | yes | 1 |
+| [S-271](#s-271) | The Palace Museum (Forbidden City) — Ming dynasty collections | D08 | yes | 1 |
 | [S-272](#s-272) | George Gheverghese Joseph — The Crest of the Peacock: Non-European Roots of Mathematics | D08 | yes | 4 |
-| [S-273](#s-273) | Alfred W. Crosby — The Columbian Exchange: Biological and Cultural Consequences of 1492 | D08 | yes | 7 |
-| [S-274](#s-274) | UNESCO — Routes of Enslaved Peoples (formerly The Slave Route) | D08 | yes | 7 |
-| [S-275](#s-275) | Steven Lukes — Power: A Radical View | D08, D09 | yes | 5 |
-| [S-276](#s-276) | Encyclopaedia Britannica — Kwame Nkrumah (Ghana independence) | D08 | yes | 4 |
-| [S-277](#s-277) | Global Footprint Network — Ecological Footprint | D10 | yes | 4 |
-| [S-278](#s-278) | Center for News Literacy (Stony Brook University) | D10 | yes | 7 |
-| [S-279](#s-279) | Convention on Biological Diversity (CBD) | D10 | yes | 5 |
-| [S-280](#s-280) | W3C WAI — Web Content Accessibility Guidelines (WCAG) | D03, D10 | yes | 4 |
-| [S-281](#s-281) | World Bank — World Development Report 2016: Digital Dividends | D03, D10 | yes | 32 |
-| [S-282](#s-282) | UN Environment Programme (UNEP) | D10 | yes | 1 |
+| [S-273](#s-273) | Alfred W. Crosby — The Columbian Exchange: Biological and Cultural Consequences of 1492 | D08 | yes | 8 |
+| [S-274](#s-274) | UNESCO — Routes of Enslaved Peoples (formerly The Slave Route) | D08 | yes | 8 |
+| [S-275](#s-275) | Steven Lukes — Power: A Radical View | D08, D09 | yes | 7 |
+| [S-276](#s-276) | Encyclopaedia Britannica — Kwame Nkrumah (Ghana independence) | D08 | yes | 5 |
+| [S-277](#s-277) | Global Footprint Network — Ecological Footprint | D10 | yes | 6 |
+| [S-278](#s-278) | Center for News Literacy (Stony Brook University) | D10 | yes | 10 |
+| [S-279](#s-279) | Convention on Biological Diversity (CBD) | D10 | yes | 6 |
+| [S-280](#s-280) | W3C WAI — Web Content Accessibility Guidelines (WCAG) | D03, D10 | yes | 6 |
+| [S-281](#s-281) | World Bank — World Development Report 2016: Digital Dividends | D03, D10 | yes | 35 |
+| [S-282](#s-282) | UN Environment Programme (UNEP) | D10 | yes | 2 |
 | [S-283](#s-283) | UNDP — Human Development Reports (inequality and poverty data) | D02, D08 | yes | 12 |
-| [S-284](#s-284) | Steele & Aronson (1995) — Stereotype Threat and the Intellectual Test Performance of African Americans | D01 | yes | 3 |
-| [S-285](#s-285) | Human energy requirements: Report of a Joint FAO/WHO/UNU Expert Consultation | D03 | yes | 3 |
-| [S-286](#s-286) | Nemours KidsHealth — Eating Disorders (for teens) | D03 | yes | 1 |
-| [S-287](#s-287) | UNESCO — Traditional Sports and Games (TSG) | D03, D08 | yes | 2 |
-| [S-288](#s-288) | MacTutor — Mathematics in Egyptian Papyri (Rhind Papyrus) | D05 | yes | 5 |
+| [S-284](#s-284) | Steele & Aronson (1995) — Stereotype Threat and the Intellectual Test Performance of African Americans | D01 | yes | 4 |
+| [S-285](#s-285) | Human energy requirements: Report of a Joint FAO/WHO/UNU Expert Consultation | D03 | yes | 7 |
+| [S-286](#s-286) | Nemours KidsHealth — Eating Disorders (for teens) | D03 | yes | 2 |
+| [S-287](#s-287) | UNESCO — Traditional Sports and Games (TSG) | D03, D08 | yes | 4 |
+| [S-288](#s-288) | MacTutor — Mathematics in Egyptian Papyri (Rhind Papyrus) | D05 | yes | 6 |
 | [S-289](#s-289) | MacTutor — Nine Chapters on the Mathematical Art | D05 | yes | 8 |
-| [S-290](#s-290) | MacTutor — Brahmagupta | D05 | yes | 2 |
+| [S-290](#s-290) | MacTutor — Brahmagupta | D05 | yes | 3 |
 | [S-291](#s-291) | MacTutor — A history of Pi | D05 | yes | 4 |
 | [S-292](#s-292) | MacTutor — The Indian Sulbasutras | D05 | yes | 7 |
-| [S-293](#s-293) | MacTutor — Al-Khwarizmi | D05 | yes | 4 |
+| [S-293](#s-293) | MacTutor — Al-Khwarizmi | D05 | yes | 6 |
 | [S-294](#s-294) | MacTutor — Simon Stevin | D05 | yes | 1 |
 | [S-295](#s-295) | MacTutor — Indian numerals | D05 | yes | 2 |
 | [S-296](#s-296) | MacTutor — Omar Khayyam | D05 | yes | 2 |
 | [S-297](#s-297) | Encyclopaedia Britannica — Zakat (Islamic tax) | D05 | yes | 2 |
 | [S-298](#s-298) | Encyclopaedia Britannica — Muhammad al-Idrisi | D05 | yes | 2 |
-| [S-299](#s-299) | Encyclopaedia Britannica — Ptolemy | D05 | yes | 2 |
+| [S-299](#s-299) | Encyclopaedia Britannica — Ptolemy | D05 | yes | 5 |
 | [S-300](#s-300) | Encyclopaedia Britannica — Dice | D05 | yes | 2 |
-| [S-301](#s-301) | Encyclopaedia Britannica — Probability and statistics | D05, D06 | yes | 7 |
-| [S-302](#s-302) | Newton — Philosophiæ Naturalis Principia Mathematica (1687) | D06 | yes | 4 |
-| [S-303](#s-303) | Darwin — On the Origin of Species (1859) | D06 | yes | 7 |
-| [S-304](#s-304) | Kettlewell (1955) — Selection experiments on industrial melanism (peppered moth, Biston betularia) | D06 | yes | 2 |
-| [S-305](#s-305) | Grant & Grant — Darwin's finches (Geospiza fortis) on Daphne Major | D06 | yes | 3 |
-| [S-306](#s-306) | Bradford Hill (1965) — The Environment and Disease: Association or Causation? | D06 | yes | 4 |
-| [S-307](#s-307) | Tyler Vigen — Spurious Correlations | D06 | yes | 3 |
-| [S-308](#s-308) | USGS — Geologic Time: Age of the Earth | D06 | yes | 5 |
-| [S-309](#s-309) | NOAA — Climate (climate.gov / NOAA.gov/climate) | D06, D10 | yes | 5 |
-| [S-310](#s-310) | Ripple & Beschta (2012) — Trophic cascades in Yellowstone (wolves, elk, aspen) | D06, D10 | yes | 4 |
-| [S-311](#s-311) | WHO — Mental health of adolescents (fact sheet) | D03 | yes | 17 |
-| [S-312](#s-312) | WHO — Set of recommendations on the marketing of foods and non-alcoholic beverages to children | D03 | yes | 4 |
-| [S-313](#s-313) | IFRC Global First Aid Reference Centre (GFARC) | D03 | yes | 2 |
-| [S-314](#s-314) | Encyclopaedia Britannica — Historiography (periodization) | D08 | yes | 2 |
-| [S-315](#s-315) | Encyclopaedia Britannica — Calendar / Gregorian calendar / Islamic calendar | D08 | yes | 3 |
-| [S-316](#s-316) | Stanford History Education Group (SHEG) — historical thinking (sourcing, causality) | D08 | yes | 5 |
-| [S-317](#s-317) | Encyclopaedia Britannica — Paper / Papermaking | D08 | yes | 3 |
-| [S-318](#s-318) | Encyclopaedia Britannica — Zero / Hindu-Arabic numerals | D08 | yes | 2 |
-| [S-319](#s-319) | Encyclopaedia Britannica — Avicenna / The Canon of Medicine / al-Razi | D08 | yes | 0 |
-| [S-320](#s-320) | CSIRO — Indigenous Cultural Burning education resources | D08, D10 | yes | 15 |
-| [S-321](#s-321) | Firesticks Alliance (now Living Knowledge Network) — Indigenous fire and cultural burning | D08, D10 | yes | 13 |
-| [S-322](#s-322) | Trans-Atlantic Slave Trade Database (SlaveVoyages) | D08 | yes | 6 |
-| [S-323](#s-323) | Encyclopaedia Britannica — Silk Road / Indian Ocean trade | D08 | yes | 6 |
+| [S-301](#s-301) | Encyclopaedia Britannica — Probability and statistics | D05, D06 | yes | 11 |
+| [S-302](#s-302) | Newton — Philosophiæ Naturalis Principia Mathematica (1687) | D06 | yes | 6 |
+| [S-303](#s-303) | Darwin — On the Origin of Species (1859) | D06 | yes | 8 |
+| [S-304](#s-304) | Kettlewell (1955) — Selection experiments on industrial melanism (peppered moth, Biston betularia) | D06 | yes | 3 |
+| [S-305](#s-305) | Grant & Grant — Darwin's finches (Geospiza fortis) on Daphne Major | D06 | yes | 4 |
+| [S-306](#s-306) | Bradford Hill (1965) — The Environment and Disease: Association or Causation? | D06 | yes | 5 |
+| [S-307](#s-307) | Tyler Vigen — Spurious Correlations | D06 | yes | 4 |
+| [S-308](#s-308) | USGS — Geologic Time: Age of the Earth | D06 | yes | 7 |
+| [S-309](#s-309) | NOAA — Climate (climate.gov / NOAA.gov/climate) | D06, D10 | yes | 6 |
+| [S-310](#s-310) | Ripple & Beschta (2012) — Trophic cascades in Yellowstone (wolves, elk, aspen) | D06, D10 | yes | 5 |
+| [S-311](#s-311) | WHO — Mental health of adolescents (fact sheet) | D03 | yes | 18 |
+| [S-312](#s-312) | WHO — Set of recommendations on the marketing of foods and non-alcoholic beverages to children | D03 | yes | 6 |
+| [S-313](#s-313) | IFRC Global First Aid Reference Centre (GFARC) | D03 | yes | 5 |
+| [S-314](#s-314) | Encyclopaedia Britannica — Historiography (periodization) | D08 | yes | 6 |
+| [S-315](#s-315) | Encyclopaedia Britannica — Calendar / Gregorian calendar / Islamic calendar | D08 | yes | 5 |
+| [S-316](#s-316) | Stanford History Education Group (SHEG) — historical thinking (sourcing, causality) | D08 | yes | 13 |
+| [S-317](#s-317) | Encyclopaedia Britannica — Paper / Papermaking | D08 | yes | 5 |
+| [S-318](#s-318) | Encyclopaedia Britannica — Zero / Hindu-Arabic numerals | D08 | yes | 3 |
+| [S-319](#s-319) | Encyclopaedia Britannica — Avicenna / The Canon of Medicine / al-Razi | D08 | yes | 1 |
+| [S-320](#s-320) | CSIRO — Indigenous Cultural Burning education resources | D08, D10 | yes | 16 |
+| [S-321](#s-321) | Firesticks Alliance (now Living Knowledge Network) — Indigenous fire and cultural burning | D08, D10 | yes | 14 |
+| [S-322](#s-322) | Trans-Atlantic Slave Trade Database (SlaveVoyages) | D08 | yes | 9 |
+| [S-323](#s-323) | Encyclopaedia Britannica — Silk Road / Indian Ocean trade | D08 | yes | 8 |
 | [S-324](#s-324) | Encyclopaedia Britannica — Montgomery bus boycott | D08 | yes | 4 |
 | [S-325](#s-325) | Encyclopaedia Britannica — Capoeira | D03, D08 | yes | 7 |
-| [S-326](#s-326) | Encyclopaedia Britannica — Western colonialism | D08 | yes | 5 |
+| [S-326](#s-326) | Encyclopaedia Britannica — Western colonialism | D08 | yes | 6 |
 | [S-327](#s-327) | Encyclopaedia Britannica — Woman suffrage | D09 | yes | 3 |
 | [S-328](#s-328) | Encyclopaedia Britannica — Chipko movement | D09 | yes | 8 |
 | [S-329](#s-329) | IFRC — International Red Cross and Red Crescent Movement | D09 | yes | 4 |
@@ -354,43 +354,43 @@ To locate a lesson file for a source, run `rg -l "S-NNN" curriculum/k-12`.
 | [S-335](#s-335) | Crocker & Wolfe (2001) — Contingencies of Self-Worth | D01 | yes | 1 |
 | [S-336](#s-336) | Mischel, Shoda & Rodriguez (1989) — Delay of Gratification in Children | D01 | yes | 2 |
 | [S-337](#s-337) | Kahneman (2011) — Thinking, Fast and Slow | D01 | yes | 3 |
-| [S-338](#s-338) | American Psychological Association — Stress effects on the body | D03 | yes | 8 |
-| [S-339](#s-339) | Cleveland Clinic — What Happens During Fight-or-Flight Response? | D03 | yes | 5 |
-| [S-340](#s-340) | Harvard Health — Relaxation techniques: Breath control helps quell errant stress response | D03 | yes | 7 |
+| [S-338](#s-338) | American Psychological Association — Stress effects on the body | D03 | yes | 14 |
+| [S-339](#s-339) | Cleveland Clinic — What Happens During Fight-or-Flight Response? | D03 | yes | 8 |
+| [S-340](#s-340) | Harvard Health — Relaxation techniques: Breath control helps quell errant stress response | D03 | yes | 14 |
 | [S-341](#s-341) | World Health Organization — Physical activity fact sheet | D03 | yes | 14 |
-| [S-342](#s-342) | UNESCO — International Charter of Physical Education, Physical Activity and Sport | D03 | yes | 12 |
+| [S-342](#s-342) | UNESCO — International Charter of Physical Education, Physical Activity and Sport | D03 | yes | 16 |
 | [S-343](#s-343) | Suler (2004) — The Online Disinhibition Effect | D02 | yes | 7 |
-| [S-344](#s-344) | Banaji & Greenwald (2013) — Blindspot: Hidden Biases of Good People | D02 | yes | 4 |
-| [S-345](#s-345) | Dean Spade (2020) — Mutual Aid: Building Solidarity During This Crisis (and the Next) | D02 | yes | 19 |
+| [S-344](#s-344) | Banaji & Greenwald (2013) — Blindspot: Hidden Biases of Good People | D02 | yes | 6 |
+| [S-345](#s-345) | Dean Spade (2020) — Mutual Aid: Building Solidarity During This Crisis (and the Next) | D02 | yes | 23 |
 | [S-346](#s-346) | Aristotle — Rhetoric (ethos, pathos, logos) | D04 | yes | 8 |
 | [S-347](#s-347) | Encyclopaedia Britannica — Figure of speech (metaphor, simile, personification, hyperbole) | D04 | yes | 1 |
-| [S-348](#s-348) | Encyclopaedia Britannica — Point of view (literature) | D04 | yes | 1 |
+| [S-348](#s-348) | Encyclopaedia Britannica — Point of view (literature) | D04 | yes | 2 |
 | [S-349](#s-349) | Hess (2009) — Controversy in the Classroom: The Democratic Power of Discussion | D04 | yes | 6 |
 | [S-350](#s-350) | Encyclopaedia Britannica — Machine translation (capabilities and limits) | D04 | yes | 8 |
 | [S-351](#s-351) | Encyclopaedia Britannica — Matsuo Bashō (frog haiku) | D04 | yes | 2 |
 | [S-352](#s-352) | Encyclopaedia Britannica — Rumi (13th-century Persian poet) | D04 | yes | 2 |
 | [S-353](#s-353) | MacTutor — The real numbers: Pythagoras to Stevin (discovery of the irrationals; Hippasus legend) | D05 | yes | 2 |
 | [S-354](#s-354) | MacTutor — Pythagoras's theorem in Babylonian mathematics (Plimpton 322) | D05 | yes | 2 |
-| [S-355](#s-355) | Wikipedia — Correlation does not imply causation | D05 | yes | 2 |
+| [S-355](#s-355) | Wikipedia — Correlation does not imply causation | D05 | yes | 3 |
 | [S-356](#s-356) | Encyclopaedia Britannica — Cell (biology) | D05, D06 | yes | 2 |
-| [S-357](#s-357) | Encyclopaedia Britannica — Ignaz Semmelweis (handwashing and childbed fever) | D06 | yes | 4 |
-| [S-358](#s-358) | John Snow and the Broad Street pump (1854 cholera outbreak, London) | D06 | yes | 2 |
+| [S-357](#s-357) | Encyclopaedia Britannica — Ignaz Semmelweis (handwashing and childbed fever) | D06 | yes | 5 |
+| [S-358](#s-358) | John Snow and the Broad Street pump (1854 cholera outbreak, London) | D06 | yes | 3 |
 | [S-359](#s-359) | BBC Bitesize (KS3) — Atoms, elements and compounds, and chemical reactions | D06 | yes | 3 |
 | [S-360](#s-360) | BBC Bitesize (KS3) — Electromagnetism (electric current, magnetic fields, motors and generators) | D06 | yes | 3 |
 | [S-361](#s-361) | NASA — Star Lifecycle (stellar evolution and the formation of elements) | D06 | yes | 6 |
 | [S-362](#s-362) | NASA — The Milky Way Galaxy (our place in the galaxy) | D06 | yes | 1 |
 | [S-363](#s-363) | The Phillips Collection — Jacob Lawrence, The Migration Series (1940–41) | D07 | yes | 4 |
 | [S-364](#s-364) | The Metropolitan Museum of Art — Katsushika Hokusai, South Wind, Clear Sky (Red Fuji), from Thirty-six Views of Mount Fuji | D07 | yes | 5 |
-| [S-365](#s-365) | The J. Paul Getty Museum — Understanding Formal Analysis (elements of art and principles of design) | D07 | yes | 6 |
-| [S-366](#s-366) | Encyclopaedia Britannica — Raga (Indian classical music) | D07 | yes | 6 |
+| [S-365](#s-365) | The J. Paul Getty Museum — Understanding Formal Analysis (elements of art and principles of design) | D07 | yes | 13 |
+| [S-366](#s-366) | Encyclopaedia Britannica — Raga (Indian classical music) | D07 | yes | 7 |
 | [S-367](#s-367) | Encyclopaedia Britannica — Maqam (maqām, modal music of the Middle East) | D07 | yes | 3 |
-| [S-368](#s-368) | Wikipedia — Elements of music | D07 | yes | 3 |
-| [S-369](#s-369) | The Center for Universal Design (NC State University, 1997) — The Principles of Universal Design | D03, D07, D10 | yes | 14 |
-| [S-370](#s-370) | TeachEngineering — Engineering Design Process | D07, D10 | yes | 3 |
-| [S-371](#s-371) | U.S. Environmental Protection Agency — Sustainable Materials Management (life cycle) | D07, D10 | yes | 9 |
+| [S-368](#s-368) | Wikipedia — Elements of music | D07 | yes | 10 |
+| [S-369](#s-369) | The Center for Universal Design (NC State University, 1997) — The Principles of Universal Design | D03, D07, D10 | yes | 16 |
+| [S-370](#s-370) | TeachEngineering — Engineering Design Process | D07, D10 | yes | 9 |
+| [S-371](#s-371) | U.S. Environmental Protection Agency — Sustainable Materials Management (life cycle) | D07, D10 | yes | 12 |
 | [S-372](#s-372) | WHO — Food safety fact sheet | D03 | yes | 2 |
 | [S-373](#s-373) | WHO — Five keys to safer food | D03 | yes | 2 |
-| [S-374](#s-374) | WHO — Tobacco and nicotine fact sheet | D03 | yes | 1 |
+| [S-374](#s-374) | WHO — Tobacco and nicotine fact sheet | D03 | yes | 2 |
 | [S-375](#s-375) | WHO — Alcohol fact sheet | D03 | yes | 1 |
 | [S-376](#s-376) | WHO — Drugs (psychoactive substances) health topic | D03 | yes | 1 |
 | [S-377](#s-377) | NIDA — Drugs, Brains, and Behavior: The Science of Addiction | D03 | yes | 1 |
@@ -399,41 +399,41 @@ To locate a lesson file for a source, run `rg -l "S-NNN" curriculum/k-12`.
 | [S-380](#s-380) | UNESCO World Heritage Centre — Ruins of Kilwa Kisiwani and Ruins of Songo Mnara (Dossier 144) | D08 | yes | 1 |
 | [S-381](#s-381) | Encyclopaedia Britannica — Swahili language | D08 | yes | 2 |
 | [S-382](#s-382) | U.S. National Park Service — Chaco Culture National Historical Park | D08 | yes | 2 |
-| [S-383](#s-383) | IOM — Climate Action (Migration, Environment and Climate Change) | D08 | yes | 8 |
-| [S-384](#s-384) | Encyclopaedia Britannica — Toussaint Louverture (Haitian Revolution) | D08 | yes | 3 |
+| [S-383](#s-383) | IOM — Climate Action (Migration, Environment and Climate Change) | D08 | yes | 9 |
+| [S-384](#s-384) | Encyclopaedia Britannica — Toussaint Louverture (Haitian Revolution) | D08 | yes | 4 |
 | [S-385](#s-385) | Encyclopaedia Britannica — Spiritual (African American music) | D08 | yes | 4 |
-| [S-386](#s-386) | Stanford Encyclopedia of Philosophy — Consequentialism | D09 | yes | 2 |
-| [S-387](#s-387) | Stanford Encyclopedia of Philosophy — Deontological Ethics | D09 | yes | 2 |
-| [S-388](#s-388) | Stanford Encyclopedia of Philosophy — Distributive Justice | D09 | yes | 10 |
-| [S-389](#s-389) | UNESCO — Universal Declaration on Cultural Diversity | D09 | yes | 8 |
+| [S-386](#s-386) | Stanford Encyclopedia of Philosophy — Consequentialism | D09 | yes | 4 |
+| [S-387](#s-387) | Stanford Encyclopedia of Philosophy — Deontological Ethics | D09 | yes | 4 |
+| [S-388](#s-388) | Stanford Encyclopedia of Philosophy — Distributive Justice | D09 | yes | 17 |
+| [S-389](#s-389) | UNESCO — Universal Declaration on Cultural Diversity | D09 | yes | 10 |
 | [S-390](#s-390) | Encyclopaedia Britannica — Salt March | D09 | yes | 9 |
 | [S-391](#s-391) | Encyclopaedia Britannica — Arab Spring | D09 | yes | 2 |
-| [S-392](#s-392) | Encyclopaedia Britannica — Truth and Reconciliation Commission, South Africa | D09 | yes | 3 |
+| [S-392](#s-392) | Encyclopaedia Britannica — Truth and Reconciliation Commission, South Africa | D09 | yes | 5 |
 | [S-393](#s-393) | WITNESS Media Lab — Prepare, Don't Panic: Synthetic Media and Deepfakes | D10 | yes | 8 |
-| [S-394](#s-394) | First Draft — Verifying Online Information: The Absolute Essentials (2019; archived) | D10 | yes | 7 |
+| [S-394](#s-394) | First Draft — Verifying Online Information: The Absolute Essentials (2019; archived) | D10 | yes | 9 |
 | [S-395](#s-395) | World Commission on Environment and Development (1987) — Our Common Future (Brundtland Report) | D10 | yes | 15 |
 | [S-396](#s-396) | National Geographic Education — Biome | D10 | yes | 1 |
 | [S-397](#s-397) | WHO — Electronic waste (e-waste) fact sheet | D10 | yes | 13 |
 | [S-398](#s-398) | Amnesty International (2016) — This Is What We Die For: Human Rights Abuses in the Democratic Republic of the Congo Power the Global Trade in Cobalt | D10 | yes | 14 |
-| [S-399](#s-399) | Markus & Nurius (1986) — Possible Selves | D01 | yes | 11 |
+| [S-399](#s-399) | Markus & Nurius (1986) — Possible Selves | D01 | yes | 14 |
 | [S-400](#s-400) | Damon (2008) — The Path to Purpose: How Young People Find Their Calling in Life | D01 | yes | 8 |
-| [S-401](#s-401) | Barrett — How Emotions Are Made: The Secret Life of the Brain | D01, D03 | yes | 10 |
-| [S-402](#s-402) | Plutchik — Emotion: A Psychoevolutionary Synthesis | D01 | yes | 1 |
+| [S-401](#s-401) | Barrett — How Emotions Are Made: The Secret Life of the Brain | D01, D03 | yes | 18 |
+| [S-402](#s-402) | Plutchik — Emotion: A Psychoevolutionary Synthesis | D01 | yes | 5 |
 | [S-403](#s-403) | Marcia — Development and Validation of Ego-Identity Status | D01 | yes | 8 |
-| [S-404](#s-404) | McAdams — The Psychology of Life Stories | D01 | yes | 10 |
-| [S-405](#s-405) | Alberti & Emmons — Your Perfect Right: Assertiveness and Equality in Your Life and Relationships | D01 | yes | 3 |
+| [S-404](#s-404) | McAdams — The Psychology of Life Stories | D01 | yes | 18 |
+| [S-405](#s-405) | Alberti & Emmons — Your Perfect Right: Assertiveness and Equality in Your Life and Relationships | D01 | yes | 5 |
 | [S-406](#s-406) | Damasio — Descartes' Error: Emotion, Reason, and the Human Brain (somatic marker hypothesis) | D03 | yes | 3 |
 | [S-407](#s-407) | Tylka & Wood-Barcalow (2015) — What is and what is not positive body image? | D03 | yes | 4 |
-| [S-408](#s-408) | Mikkelsen et al. (2017) — Exercise and mental health | D03 | yes | 7 |
+| [S-408](#s-408) | Mikkelsen et al. (2017) — Exercise and mental health | D03 | yes | 8 |
 | [S-409](#s-409) | FAO — The State of Food Security and Nutrition in the World (SOFI) | D03 | yes | 8 |
 | [S-410](#s-410) | UNEP — Food Waste Index Report | D03 | yes | 6 |
 | [S-411](#s-411) | National Eating Disorders Association (NEDA) — Body Image | D03 | yes | 4 |
-| [S-412](#s-412) | UNESCO — International Technical Guidance on Sexuality Education | D02, D03 | yes | 10 |
+| [S-412](#s-412) | UNESCO — International Technical Guidance on Sexuality Education | D02, D03 | yes | 11 |
 | [S-413](#s-413) | Paul Bloom (2016) — Against Empathy: The Case for Rational Compassion | D02 | yes | 5 |
 | [S-414](#s-414) | Slovic (2007) — 'If I Look at the Mass I Will Never Act': Psychic Numbing and Genocide | D02 | yes | 7 |
 | [S-415](#s-415) | Benedict Anderson (1983) — Imagined Communities: Reflections on the Origin and Spread of Nationalism | D02, D08 | yes | 6 |
-| [S-416](#s-416) | Elinor Ostrom (1990) — Governing the Commons | D02, D09 | yes | 13 |
-| [S-417](#s-417) | Chimamanda Ngozi Adichie — The Danger of a Single Story (TED, 2009) | D04 | yes | 8 |
+| [S-416](#s-416) | Elinor Ostrom (1990) — Governing the Commons | D02, D09 | yes | 20 |
+| [S-417](#s-417) | Chimamanda Ngozi Adichie — The Danger of a Single Story (TED, 2009) | D04 | yes | 10 |
 | [S-418](#s-418) | Encyclopaedia Britannica — Du Fu | D04 | yes | 1 |
 | [S-419](#s-419) | Encyclopaedia Britannica — Rumi | D04 | yes | 2 |
 | [S-420](#s-420) | Nobel Prize — Pablo Neruda, Facts | D04 | yes | 2 |
@@ -442,7 +442,7 @@ To locate a lesson file for a source, run `rg -l "S-NNN" curriculum/k-12`.
 | [S-423](#s-423) | Encyclopaedia Britannica — Mahmoud Darwish | D04 | yes | 1 |
 | [S-424](#s-424) | Ngũgĩ wa Thiong'o — Decolonising the Mind: The Politics of Language in African Literature | D04 | yes | 10 |
 | [S-425](#s-425) | Gloria Anzaldúa — Borderlands/La Frontera: The New Mestiza | D04 | yes | 5 |
-| [S-426](#s-426) | Ethnologue — Languages of the World | D04 | yes | 7 |
+| [S-426](#s-426) | Ethnologue — Languages of the World | D04 | yes | 9 |
 | [S-427](#s-427) | Robin Wall Kimmerer — Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants | D04, D09, D10 | yes | 26 |
 | [S-428](#s-428) | Leanne Hinton (ed.) — Bringing Our Languages Home: Language Revitalization for Families | D04 | yes | 4 |
 | [S-429](#s-429) | Boyer & Merzbach — A History of Mathematics | D05 | yes | 20 |
@@ -451,35 +451,35 @@ To locate a lesson file for a source, run `rg -l "S-NNN" curriculum/k-12`.
 | [S-432](#s-432) | Whitney Battle-Baptiste & Britt Rusert (eds.) — W. E. B. Du Bois's Data Portraits: Visualizing Black America | D05 | yes | 4 |
 | [S-433](#s-433) | Florence Nightingale — statistical work and sanitary reform | D05 | yes | 2 |
 | [S-434](#s-434) | Shulba Sutras — ancient Indian geometry | D05 | yes | 3 |
-| [S-435](#s-435) | OpenStax — Algebra and Trigonometry / College Physics (openly licensed textbooks) | D05 | yes | 10 |
+| [S-435](#s-435) | OpenStax — Algebra and Trigonometry / College Physics (openly licensed textbooks) | D05 | yes | 11 |
 | [S-436](#s-436) | Encyclopaedia Britannica — Carrying capacity | D06 | yes | 6 |
 | [S-437](#s-437) | IPBES — Global Assessment Report on Biodiversity and Ecosystem Services | D06, D10 | yes | 16 |
 | [S-438](#s-438) | NASA — What Is the Greenhouse Effect? (formerly NASA Climate Kids) | D06, D10 | yes | 10 |
 | [S-439](#s-439) | OpenStax — Chemistry 2e (openly licensed textbook) | D06 | yes | 3 |
 | [S-440](#s-440) | Krita — Free and Open Source Digital Painting | D07 | yes | 3 |
 | [S-441](#s-441) | Inkscape — Free and Open Source Vector Graphics | D07 | yes | 3 |
-| [S-442](#s-442) | Center for Media Literacy — Five Core Concepts and Key Questions | D07, D10 | yes | 11 |
+| [S-442](#s-442) | Center for Media Literacy — Five Core Concepts and Key Questions | D07, D10 | yes | 13 |
 | [S-443](#s-443) | BandLab — Free Online Music Studio | D07 | yes | 3 |
 | [S-444](#s-444) | Audacity — Free, Open Source Audio Editor and Recorder | D07 | yes | 2 |
 | [S-445](#s-445) | Encyclopaedia Britannica — Reggae | D07 | yes | 2 |
-| [S-446](#s-446) | Encyclopaedia Britannica — Griot | D07, D08 | yes | 6 |
-| [S-447](#s-447) | Te Ara — The Encyclopedia of New Zealand: Haka | D07, D08 | yes | 3 |
+| [S-446](#s-446) | Encyclopaedia Britannica — Griot | D07, D08 | yes | 7 |
+| [S-447](#s-447) | Te Ara — The Encyclopedia of New Zealand: Haka | D07, D08 | yes | 4 |
 | [S-448](#s-448) | UNESCO — Indigenous Festivity Dedicated to the Dead (Day of the Dead) | D07, D08 | yes | 3 |
 | [S-449](#s-449) | Encyclopaedia Britannica — Nueva canción | D07 | yes | 2 |
 | [S-450](#s-450) | UNESCO — Reggae Music of Jamaica | D07 | yes | 6 |
 | [S-451](#s-451) | Fab Foundation — Fabrication Laboratories (Fab Labs) | D07, D10 | yes | 3 |
-| [S-452](#s-452) | Ellen MacArthur Foundation — The Circular Economy | D07, D10 | yes | 12 |
+| [S-452](#s-452) | Ellen MacArthur Foundation — The Circular Economy | D07, D10 | yes | 13 |
 | [S-453](#s-453) | WHO — Family planning/contraception methods (fact sheet) | D03 | yes | 6 |
 | [S-454](#s-454) | WHO — Sexually transmitted infections (STIs) (fact sheet) | D03 | yes | 5 |
 | [S-455](#s-455) | WHO — Adolescent pregnancy (fact sheet) | D03 | yes | 2 |
-| [S-456](#s-456) | Stanford Encyclopedia of Philosophy — Consequentialism | D09 | yes | 6 |
-| [S-457](#s-457) | Stanford Encyclopedia of Philosophy — Deontological Ethics | D09 | yes | 6 |
-| [S-458](#s-458) | Stanford Encyclopedia of Philosophy — Virtue Ethics | D09 | yes | 9 |
+| [S-456](#s-456) | Stanford Encyclopedia of Philosophy — Consequentialism | D09 | yes | 8 |
+| [S-457](#s-457) | Stanford Encyclopedia of Philosophy — Deontological Ethics | D09 | yes | 9 |
+| [S-458](#s-458) | Stanford Encyclopedia of Philosophy — Virtue Ethics | D09 | yes | 11 |
 | [S-459](#s-459) | Rawls (1971) — A Theory of Justice | D09 | yes | 10 |
-| [S-460](#s-460) | Sen (1999) — Development as Freedom | D09, D08 | yes | 12 |
-| [S-461](#s-461) | V-Dem Institute — Varieties of Democracy | D09 | yes | 5 |
-| [S-462](#s-462) | Galtung (1969) — Violence, Peace, and Peace Research | D09 | yes | 8 |
-| [S-463](#s-463) | United Nations — Sustainable Development Goal 16: Peace, Justice and Strong Institutions | D09 | yes | 10 |
+| [S-460](#s-460) | Sen (1999) — Development as Freedom | D09, D08 | yes | 13 |
+| [S-461](#s-461) | V-Dem Institute — Varieties of Democracy | D09 | yes | 7 |
+| [S-462](#s-462) | Galtung (1969) — Violence, Peace, and Peace Research | D09 | yes | 9 |
+| [S-463](#s-463) | United Nations — Sustainable Development Goal 16: Peace, Justice and Strong Institutions | D09 | yes | 12 |
 | [S-464](#s-464) | World Inequality Lab — World Inequality Report | D09, D08 | yes | 6 |
 | [S-465](#s-465) | African Charter on Human and Peoples' Rights (Banjul Charter) | D09 | yes | 5 |
 | [S-466](#s-466) | Stanford Encyclopedia of Philosophy — Mohism | D09 | yes | 2 |
@@ -488,15 +488,15 @@ To locate a lesson file for a source, run `rg -l "S-NNN" curriculum/k-12`.
 | [S-469](#s-469) | Encyclopaedia Britannica — dharma | D09 | yes | 4 |
 | [S-470](#s-470) | The Metropolitan Museum of Art — The Trans-Saharan Gold Trade (7th–14th Century) | D08 | yes | 1 |
 | [S-471](#s-471) | UNESCO World Heritage Centre — Angkor (Dossier 668) | D08 | yes | 2 |
-| [S-472](#s-472) | UNESCO World Heritage Centre — Cahokia Mounds State Historic Site (Dossier 198) | D08 | yes | 1 |
+| [S-472](#s-472) | UNESCO World Heritage Centre — Cahokia Mounds State Historic Site (Dossier 198) | D08 | yes | 2 |
 | [S-473](#s-473) | Encyclopaedia Britannica — quipu (khipu) | D08 | yes | 3 |
 | [S-474](#s-474) | Encyclopaedia Britannica — Dresden Codex | D08 | yes | 3 |
 | [S-475](#s-475) | Encyclopaedia Britannica — Haitian Creole language | D08 | yes | 2 |
 | [S-476](#s-476) | Encyclopaedia Britannica — Palmares (quilombo) | D08 | yes | 1 |
-| [S-477](#s-477) | Encyclopaedia Britannica — Berlin West Africa Conference | D08 | yes | 1 |
+| [S-477](#s-477) | Encyclopaedia Britannica — Berlin West Africa Conference | D08 | yes | 2 |
 | [S-478](#s-478) | Encyclopaedia Britannica — Algerian War | D08 | yes | 1 |
-| [S-479](#s-479) | Encyclopaedia Britannica — abolitionism | D08 | yes | 1 |
-| [S-480](#s-480) | Encyclopaedia Britannica — apartheid | D08 | yes | 1 |
+| [S-479](#s-479) | Encyclopaedia Britannica — abolitionism | D08 | yes | 2 |
+| [S-480](#s-480) | Encyclopaedia Britannica — apartheid | D08 | yes | 2 |
 | [S-481](#s-481) | Encyclopaedia Britannica — Social media | D10 | yes | 37 |
 | [S-482](#s-482) | Pariser (2011) — The Filter Bubble: What the Internet Is Hiding from You | D10 | yes | 16 |
 | [S-483](#s-483) | U.S. Environmental Protection Agency — Environmental Justice | D10, D06 | yes | 12 |
@@ -504,19 +504,19 @@ To locate a lesson file for a source, run `rg -l "S-NNN" curriculum/k-12`.
 | [S-485](#s-485) | Standing Rock Sioux Tribe — Dakota Access Pipeline opposition (Mní wičhóni / water is life) | D10 | yes | 4 |
 | [S-486](#s-486) | International Cooperative Alliance (ICA) — the global cooperative movement | D02 | yes | 6 |
 | [S-487](#s-487) | Mondragón Corporation — federation of worker cooperatives (Basque Country) | D02 | yes | 4 |
-| [S-488](#s-488) | Wikipedia — 2011 OPERA faster-than-light neutrino anomaly | D06 | yes | 4 |
-| [S-489](#s-489) | Understanding Science (UC Museum of Paleontology) — How science works: peer review & replication | D06 | yes | 5 |
+| [S-488](#s-488) | Wikipedia — 2011 OPERA faster-than-light neutrino anomaly | D06 | yes | 5 |
+| [S-489](#s-489) | Understanding Science (UC Museum of Paleontology) — How science works: peer review & replication | D06 | yes | 11 |
 | [S-490](#s-490) | United States Holocaust Memorial Museum — Introduction to the Holocaust | D08 | yes | 3 |
-| [S-491](#s-491) | United Nations — Convention on the Prevention and Punishment of the Crime of Genocide (1948) & Raphael Lemkin | D08, D09 | yes | 4 |
+| [S-491](#s-491) | United Nations — Convention on the Prevention and Punishment of the Crime of Genocide (1948) & Raphael Lemkin | D08, D09 | yes | 5 |
 | [S-492](#s-492) | Yad Vashem — The Righteous Among the Nations | D08 | yes | 1 |
 | [S-493](#s-493) | UNHCR — Global Trends: Forced Displacement (annual report) | D08 | yes | 7 |
 | [S-494](#s-494) | Encyclopaedia Britannica — Rwanda genocide of 1994 | D08 | yes | 4 |
-| [S-495](#s-495) | United States Holocaust Memorial Museum — Guidelines for Teaching about the Holocaust | D08 | yes | 5 |
+| [S-495](#s-495) | United States Holocaust Memorial Museum — Guidelines for Teaching about the Holocaust | D08 | yes | 9 |
 | [S-496](#s-496) | Wikipedia — Luoshu Square (Lo Shu magic square) | D05 | yes | 2 |
 | [S-497](#s-497) | Encyclopaedia Britannica — Steady-state theory | D06 | yes | 3 |
 | [S-498](#s-498) | CERN — The Standard Model | D06 | yes | 2 |
 | [S-499](#s-499) | NASA Astrobiology — History of Astrobiology (origins of life research) | D06 | yes | 2 |
-| [S-500](#s-500) | Encyclopaedia Britannica — Olorun (Yoruba creator deity) | D06, D08 | yes | 3 |
+| [S-500](#s-500) | Encyclopaedia Britannica — Olorun (Yoruba creator deity) | D06, D08 | yes | 4 |
 | [S-501](#s-501) | Encyclopaedia Britannica — Viracocha (Inca creator deity) | D06, D08 | yes | 3 |
 | [S-502](#s-502) | Encyclopaedia Britannica — Rigveda (Hindu scripture) | D06, D08 | yes | 3 |
 | [S-503](#s-503) | Encyclopaedia Britannica — Allah (God in Islam) | D06, D08 | yes | 3 |
@@ -524,20 +524,27 @@ To locate a lesson file for a source, run `rg -l "S-NNN" curriculum/k-12`.
 | [S-505](#s-505) | WHO — Ageing and health (fact sheet) | D03 | yes | 1 |
 | [S-506](#s-506) | Smithsonian National Museum of Natural History — Introduction to Human Evolution | D08 | yes | 2 |
 | [S-507](#s-507) | Stockholm Resilience Centre / Rockström et al. — Planetary Boundaries | D10 | yes | 1 |
-| [S-508](#s-508) | Ubuntu — Southern African philosophy of personhood ('a person is a person through other persons') | D01, D02 | yes | 1 |
-| [S-509](#s-509) | Buen vivir / sumak kawsay — Andean philosophy of 'living well' in harmony with community and nature | D01, D02, D10 | yes | 1 |
+| [S-508](#s-508) | Ubuntu — Southern African philosophy of personhood ('a person is a person through other persons') | D01, D02 | yes | 7 |
+| [S-509](#s-509) | Buen vivir / sumak kawsay — Andean philosophy of 'living well' in harmony with community and nature | D01, D02, D10 | yes | 3 |
 
 ## Usage details
 
 ### S-001
 
-Cited by 51 lessons:
+Cited by 139 lessons:
 
-- `L.07.012.01`, `L.07.012.02`, `L.07.012.04`, `L.08.001.01`, `L.08.001.07`, `L.08.001.09`, `L.08.001.10`, `L.08.002.06`, `L.08.003.01`, `L.08.003.02`, `L.08.003.03`, `L.08.003.04`
-- `L.08.003.05`, `L.08.003.08`, `L.08.010.01`, `L.08.010.08`, `L.08.012.03`, `L.09.003.01`, `L.09.003.03`, `L.09.003.04`, `L.09.003.07`, `L.09.003.08`, `L.09.003.09`, `L.09.005.01`
-- `L.09.005.03`, `L.09.005.10`, `L.09.006.02`, `L.09.006.03`, `L.09.014.02`, `L.10.003.03`, `L.11.001.01`, `L.11.001.02`, `L.11.001.03`, `L.11.001.04`, `L.11.001.05`, `L.11.001.09`
-- `L.11.001.10`, `L.11.001.12`, `L.11.002.01`, `L.11.002.04`, `L.11.002.05`, `L.11.003.01`, `L.11.003.02`, `L.11.003.03`, `L.11.003.04`, `L.11.003.10`, `L.11.003.11`, `L.12.003.01`
-- `L.12.003.04`, `L.12.010.03`, `L.12.010.04`
+- `L.00.004.01`, `L.00.004.02`, `L.00.004.04`, `L.00.004.07`, `L.00.005.01`, `L.00.011.01`, `L.00.013.01`, `L.01.001.01`, `L.01.001.09`, `L.01.003.01`, `L.01.003.04`, `L.01.003.08`
+- `L.01.004.01`, `L.01.009.09`, `L.01.010.01`, `L.02.001.03`, `L.02.001.06`, `L.02.003.01`, `L.02.003.02`, `L.02.003.04`, `L.02.003.10`, `L.02.010.01`, `L.02.010.02`, `L.03.001.04`
+- `L.03.003.03`, `L.03.003.10`, `L.03.010.01`, `L.03.010.05`, `L.03.010.06`, `L.03.010.07`, `L.03.010.08`, `L.03.010.10`, `L.03.012.05`, `L.03.012.07`, `L.04.001.01`, `L.04.001.02`
+- `L.04.001.03`, `L.04.001.04`, `L.04.001.05`, `L.04.001.06`, `L.04.001.07`, `L.04.001.08`, `L.04.001.09`, `L.04.001.10`, `L.04.003.01`, `L.04.003.02`, `L.04.003.03`, `L.04.003.04`
+- `L.04.003.05`, `L.04.003.06`, `L.04.003.07`, `L.04.003.08`, `L.04.003.09`, `L.04.003.10`, `L.04.004.03`, `L.04.004.15`, `L.04.010.01`, `L.04.010.02`, `L.04.010.04`, `L.04.010.06`
+- `L.04.010.07`, `L.04.010.08`, `L.04.010.10`, `L.04.012.01`, `L.04.012.02`, `L.04.012.03`, `L.04.012.04`, `L.04.012.05`, `L.04.012.06`, `L.04.012.07`, `L.05.002.05`, `L.05.003.06`
+- `L.05.004.01`, `L.05.004.03`, `L.05.004.04`, `L.05.004.06`, `L.05.004.10`, `L.05.005.01`, `L.05.005.02`, `L.05.005.03`, `L.05.011.01`, `L.05.011.02`, `L.05.011.05`, `L.05.011.06`
+- `L.05.011.07`, `L.06.001.05`, `L.06.001.06`, `L.06.012.01`, `L.07.012.01`, `L.07.012.02`, `L.07.012.04`, `L.08.001.01`, `L.08.001.07`, `L.08.001.09`, `L.08.001.10`, `L.08.002.06`
+- `L.08.003.01`, `L.08.003.02`, `L.08.003.03`, `L.08.003.04`, `L.08.003.05`, `L.08.003.08`, `L.08.010.01`, `L.08.010.08`, `L.08.012.03`, `L.09.003.01`, `L.09.003.03`, `L.09.003.04`
+- `L.09.003.07`, `L.09.003.08`, `L.09.003.09`, `L.09.005.01`, `L.09.005.03`, `L.09.005.10`, `L.09.006.02`, `L.09.006.03`, `L.09.014.02`, `L.10.003.03`, `L.11.001.01`, `L.11.001.02`
+- `L.11.001.03`, `L.11.001.04`, `L.11.001.05`, `L.11.001.09`, `L.11.001.10`, `L.11.001.12`, `L.11.002.01`, `L.11.002.04`, `L.11.002.05`, `L.11.003.01`, `L.11.003.02`, `L.11.003.03`
+- `L.11.003.04`, `L.11.003.10`, `L.11.003.11`, `L.12.003.01`, `L.12.003.04`, `L.12.010.03`, `L.12.010.04`
 
 ### S-002
 
@@ -547,25 +554,26 @@ Cited by 9 lessons:
 
 ### S-003
 
-Cited by 3 lessons:
+Cited by 10 lessons:
 
-- `L.11.008.01`, `L.11.010.09`, `L.12.006.05`
+- `L.01.002.03`, `L.01.002.04`, `L.01.002.05`, `L.01.008.03`, `L.03.002.04`, `L.03.002.06`, `L.03.002.10`, `L.11.008.01`, `L.11.010.09`, `L.12.006.05`
 
 ### S-004
 
-Cited by 8 lessons:
+Cited by 16 lessons:
 
-- `L.08.011.08`, `L.12.009.12`, `L.12.011.04`, `L.12.011.05`, `L.12.011.06`, `L.12.011.07`, `L.12.011.13`, `L.12.011.14`
+- `L.01.011.05`, `L.01.011.09`, `L.01.011.10`, `L.02.011.10`, `L.03.011.09`, `L.03.011.10`, `L.05.012.09`, `L.05.012.10`, `L.08.011.08`, `L.12.009.12`, `L.12.011.04`, `L.12.011.05`
+- `L.12.011.06`, `L.12.011.07`, `L.12.011.13`, `L.12.011.14`
 
 ### S-005
 
-Cited by 49 lessons:
+Cited by 54 lessons:
 
-- `L.07.011.08`, `L.08.009.07`, `L.08.011.01`, `L.08.011.08`, `L.09.008.07`, `L.09.013.06`, `L.09.013.07`, `L.09.013.08`, `L.09.013.10`, `L.10.002.11`, `L.10.006.12`, `L.10.006.14`
-- `L.10.009.09`, `L.10.010.03`, `L.10.010.06`, `L.10.011.11`, `L.11.003.06`, `L.11.003.08`, `L.11.003.11`, `L.11.005.04`, `L.11.005.10`, `L.11.006.15`, `L.11.006.16`, `L.11.009.03`
-- `L.11.009.11`, `L.11.009.12`, `L.11.010.10`, `L.11.011.09`, `L.11.011.11`, `L.11.011.13`, `L.12.003.10`, `L.12.003.13`, `L.12.005.03`, `L.12.005.04`, `L.12.005.06`, `L.12.005.09`
-- `L.12.005.10`, `L.12.005.13`, `L.12.005.14`, `L.12.006.11`, `L.12.006.12`, `L.12.008.02`, `L.12.009.04`, `L.12.009.12`, `L.12.010.07`, `L.12.010.12`, `L.12.011.08`, `L.12.011.09`
-- `L.12.011.10`
+- `L.07.006.11`, `L.07.011.08`, `L.08.009.07`, `L.08.011.01`, `L.08.011.08`, `L.09.001.02`, `L.09.001.03`, `L.09.001.04`, `L.09.001.05`, `L.09.008.07`, `L.09.013.06`, `L.09.013.07`
+- `L.09.013.08`, `L.09.013.10`, `L.10.002.11`, `L.10.006.12`, `L.10.006.14`, `L.10.009.09`, `L.10.010.03`, `L.10.010.06`, `L.10.011.11`, `L.11.003.06`, `L.11.003.08`, `L.11.003.11`
+- `L.11.005.04`, `L.11.005.10`, `L.11.006.15`, `L.11.006.16`, `L.11.009.03`, `L.11.009.11`, `L.11.009.12`, `L.11.010.10`, `L.11.011.09`, `L.11.011.11`, `L.11.011.13`, `L.12.003.10`
+- `L.12.003.13`, `L.12.005.03`, `L.12.005.04`, `L.12.005.06`, `L.12.005.09`, `L.12.005.10`, `L.12.005.13`, `L.12.005.14`, `L.12.006.11`, `L.12.006.12`, `L.12.008.02`, `L.12.009.04`
+- `L.12.009.12`, `L.12.010.07`, `L.12.010.12`, `L.12.011.08`, `L.12.011.09`, `L.12.011.10`
 
 ### S-006
 
@@ -577,15 +585,16 @@ Cited by 29 lessons:
 
 ### S-007
 
-Cited by 8 lessons:
+Cited by 14 lessons:
 
-- `L.09.003.03`, `L.09.003.09`, `L.09.003.10`, `L.09.014.04`, `L.10.001.10`, `L.10.001.11`, `L.10.001.12`, `L.10.009.14`
+- `L.04.001.06`, `L.04.001.09`, `L.05.004.02`, `L.05.004.03`, `L.05.004.10`, `L.05.005.15`, `L.09.003.03`, `L.09.003.09`, `L.09.003.10`, `L.09.014.04`, `L.10.001.10`, `L.10.001.11`
+- `L.10.001.12`, `L.10.009.14`
 
 ### S-008
 
-Cited by 5 lessons:
+Cited by 6 lessons:
 
-- `L.08.005.01`, `L.09.014.04`, `L.10.001.10`, `L.10.012.03`, `L.11.012.03`
+- `L.04.010.06`, `L.08.005.01`, `L.09.014.04`, `L.10.001.10`, `L.10.012.03`, `L.11.012.03`
 
 ### S-009
 
@@ -599,66 +608,76 @@ Cited by: no lessons.
 
 ### S-011
 
-Cited by 615 lessons:
+Cited by 743 lessons:
 
-- `L.07.010.01`, `L.07.010.02`, `L.07.010.03`, `L.07.010.04`, `L.07.010.07`, `L.07.010.09`, `L.07.010.10`, `L.07.011.02`, `L.07.011.03`, `L.07.011.04`, `L.07.011.05`, `L.07.011.06`
-- `L.07.011.07`, `L.07.011.08`, `L.07.011.09`, `L.07.011.10`, `L.07.012.01`, `L.07.012.02`, `L.07.012.03`, `L.07.012.04`, `L.07.012.05`, `L.08.001.02`, `L.08.001.03`, `L.08.001.04`
-- `L.08.001.05`, `L.08.001.06`, `L.08.001.07`, `L.08.001.08`, `L.08.001.09`, `L.08.002.02`, `L.08.002.03`, `L.08.002.04`, `L.08.002.05`, `L.08.002.06`, `L.08.002.07`, `L.08.003.02`
-- `L.08.003.03`, `L.08.003.04`, `L.08.003.05`, `L.08.003.06`, `L.08.003.07`, `L.08.003.08`, `L.08.003.09`, `L.08.003.10`, `L.08.004.02`, `L.08.004.03`, `L.08.004.04`, `L.08.004.05`
-- `L.08.004.07`, `L.08.004.08`, `L.08.004.10`, `L.08.005.05`, `L.08.005.06`, `L.08.005.07`, `L.08.005.08`, `L.08.005.09`, `L.08.005.11`, `L.08.006.01`, `L.08.006.02`, `L.08.006.03`
-- `L.08.006.04`, `L.08.006.05`, `L.08.006.06`, `L.08.006.07`, `L.08.006.08`, `L.08.006.09`, `L.08.006.10`, `L.08.007.01`, `L.08.007.02`, `L.08.007.03`, `L.08.007.04`, `L.08.007.05`
-- `L.08.007.06`, `L.08.007.07`, `L.08.007.08`, `L.08.007.09`, `L.08.007.10`, `L.08.008.01`, `L.08.008.02`, `L.08.008.03`, `L.08.008.04`, `L.08.008.09`, `L.08.008.10`, `L.08.009.01`
-- `L.08.009.02`, `L.08.009.03`, `L.08.009.04`, `L.08.009.05`, `L.08.009.06`, `L.08.009.07`, `L.08.009.08`, `L.08.009.09`, `L.08.009.10`, `L.08.010.02`, `L.08.010.04`, `L.08.010.06`
-- `L.08.010.08`, `L.08.010.09`, `L.08.011.01`, `L.08.011.02`, `L.08.011.03`, `L.08.011.04`, `L.08.011.05`, `L.08.011.06`, `L.08.011.07`, `L.08.011.08`, `L.08.011.09`, `L.08.011.10`
-- `L.08.012.01`, `L.08.012.02`, `L.09.003.01`, `L.09.003.02`, `L.09.003.03`, `L.09.003.04`, `L.09.003.05`, `L.09.003.06`, `L.09.003.08`, `L.09.003.09`, `L.09.003.10`, `L.09.004.01`
-- `L.09.004.02`, `L.09.004.03`, `L.09.004.04`, `L.09.004.05`, `L.09.004.06`, `L.09.004.07`, `L.09.004.08`, `L.09.005.01`, `L.09.005.02`, `L.09.005.03`, `L.09.005.04`, `L.09.005.09`
-- `L.09.006.01`, `L.09.006.02`, `L.09.006.03`, `L.09.006.04`, `L.09.006.05`, `L.09.006.06`, `L.09.006.07`, `L.09.006.08`, `L.09.006.09`, `L.09.006.10`, `L.09.006.11`, `L.09.006.12`
-- `L.09.007.01`, `L.09.007.02`, `L.09.007.03`, `L.09.007.04`, `L.09.007.05`, `L.09.007.06`, `L.09.007.07`, `L.09.007.08`, `L.09.007.09`, `L.09.007.10`, `L.09.007.11`, `L.09.007.12`
-- `L.09.008.01`, `L.09.008.02`, `L.09.008.03`, `L.09.008.04`, `L.09.008.05`, `L.09.008.06`, `L.09.008.07`, `L.09.008.08`, `L.09.008.09`, `L.09.008.10`, `L.09.009.01`, `L.09.009.02`
-- `L.09.009.03`, `L.09.009.04`, `L.09.009.05`, `L.09.009.06`, `L.09.009.07`, `L.09.009.08`, `L.09.010.01`, `L.09.010.02`, `L.09.010.03`, `L.09.010.04`, `L.09.010.05`, `L.09.010.06`
-- `L.09.010.07`, `L.09.010.08`, `L.09.011.01`, `L.09.011.02`, `L.09.011.03`, `L.09.011.04`, `L.09.011.05`, `L.09.011.07`, `L.09.011.08`, `L.09.011.10`, `L.09.011.12`, `L.09.011.14`
-- `L.09.012.02`, `L.09.012.03`, `L.09.013.02`, `L.09.013.04`, `L.09.013.05`, `L.09.014.01`, `L.09.014.02`, `L.09.014.03`, `L.09.014.04`, `L.10.001.01`, `L.10.001.02`, `L.10.001.03`
-- `L.10.001.04`, `L.10.001.05`, `L.10.001.06`, `L.10.001.07`, `L.10.001.08`, `L.10.001.09`, `L.10.001.10`, `L.10.001.11`, `L.10.001.12`, `L.10.002.01`, `L.10.002.02`, `L.10.002.03`
-- `L.10.002.04`, `L.10.002.05`, `L.10.002.06`, `L.10.002.07`, `L.10.002.08`, `L.10.002.09`, `L.10.002.10`, `L.10.002.11`, `L.10.003.01`, `L.10.003.02`, `L.10.003.03`, `L.10.003.04`
-- `L.10.003.05`, `L.10.003.06`, `L.10.003.07`, `L.10.003.08`, `L.10.003.09`, `L.10.003.10`, `L.10.003.11`, `L.10.003.12`, `L.10.004.01`, `L.10.004.02`, `L.10.004.03`, `L.10.004.04`
-- `L.10.004.05`, `L.10.004.06`, `L.10.004.07`, `L.10.004.08`, `L.10.004.09`, `L.10.004.10`, `L.10.004.11`, `L.10.004.12`, `L.10.004.13`, `L.10.004.14`, `L.10.004.15`, `L.10.005.01`
-- `L.10.005.02`, `L.10.005.03`, `L.10.005.04`, `L.10.005.05`, `L.10.005.06`, `L.10.005.07`, `L.10.005.08`, `L.10.005.09`, `L.10.005.10`, `L.10.005.11`, `L.10.005.12`, `L.10.005.13`
-- `L.10.005.14`, `L.10.006.01`, `L.10.006.02`, `L.10.006.03`, `L.10.006.04`, `L.10.006.05`, `L.10.006.06`, `L.10.006.07`, `L.10.006.08`, `L.10.006.09`, `L.10.006.10`, `L.10.006.11`
-- `L.10.006.12`, `L.10.007.01`, `L.10.007.02`, `L.10.007.03`, `L.10.007.04`, `L.10.007.05`, `L.10.007.06`, `L.10.007.07`, `L.10.007.08`, `L.10.007.09`, `L.10.007.10`, `L.10.007.11`
-- `L.10.007.12`, `L.10.008.02`, `L.10.008.03`, `L.10.008.04`, `L.10.008.05`, `L.10.008.08`, `L.10.008.09`, `L.10.009.01`, `L.10.009.02`, `L.10.009.03`, `L.10.009.04`, `L.10.009.05`
-- `L.10.009.06`, `L.10.009.07`, `L.10.009.08`, `L.10.009.09`, `L.10.009.10`, `L.10.009.11`, `L.10.009.12`, `L.10.009.13`, `L.10.009.14`, `L.10.010.01`, `L.10.010.02`, `L.10.010.03`
-- `L.10.010.04`, `L.10.010.05`, `L.10.010.07`, `L.10.010.09`, `L.10.010.10`, `L.10.010.11`, `L.10.010.12`, `L.10.010.13`, `L.10.010.14`, `L.10.011.01`, `L.10.011.02`, `L.10.011.03`
-- `L.10.011.04`, `L.10.011.05`, `L.10.011.06`, `L.10.011.07`, `L.10.011.08`, `L.10.011.09`, `L.10.011.10`, `L.10.011.11`, `L.10.011.12`, `L.10.011.13`, `L.10.012.01`, `L.10.012.02`
-- `L.10.012.03`, `L.10.012.04`, `L.10.012.05`, `L.10.012.06`, `L.11.001.01`, `L.11.001.02`, `L.11.001.03`, `L.11.001.04`, `L.11.001.05`, `L.11.001.06`, `L.11.001.07`, `L.11.001.08`
-- `L.11.001.09`, `L.11.001.10`, `L.11.001.11`, `L.11.001.12`, `L.11.002.02`, `L.11.002.03`, `L.11.003.01`, `L.11.003.02`, `L.11.003.03`, `L.11.003.04`, `L.11.003.05`, `L.11.003.06`
-- `L.11.003.07`, `L.11.003.08`, `L.11.003.09`, `L.11.003.10`, `L.11.003.11`, `L.11.003.12`, `L.11.003.13`, `L.11.004.01`, `L.11.004.02`, `L.11.004.03`, `L.11.004.04`, `L.11.004.05`
-- `L.11.004.06`, `L.11.004.07`, `L.11.004.08`, `L.11.004.09`, `L.11.004.10`, `L.11.004.11`, `L.11.004.12`, `L.11.004.13`, `L.11.004.14`, `L.11.004.15`, `L.11.004.16`, `L.11.005.01`
-- `L.11.005.02`, `L.11.005.03`, `L.11.005.04`, `L.11.005.05`, `L.11.005.06`, `L.11.005.07`, `L.11.005.08`, `L.11.005.09`, `L.11.005.10`, `L.11.005.11`, `L.11.005.12`, `L.11.005.13`
-- `L.11.005.14`, `L.11.005.15`, `L.11.005.16`, `L.11.006.01`, `L.11.006.02`, `L.11.006.03`, `L.11.006.05`, `L.11.006.06`, `L.11.006.07`, `L.11.006.08`, `L.11.006.09`, `L.11.006.10`
-- `L.11.006.11`, `L.11.006.12`, `L.11.006.13`, `L.11.006.14`, `L.11.006.15`, `L.11.006.16`, `L.11.007.01`, `L.11.007.02`, `L.11.007.03`, `L.11.007.04`, `L.11.007.05`, `L.11.007.06`
-- `L.11.007.07`, `L.11.007.08`, `L.11.007.09`, `L.11.007.10`, `L.11.008.01`, `L.11.008.04`, `L.11.008.06`, `L.11.008.07`, `L.11.009.02`, `L.11.009.06`, `L.11.009.09`, `L.11.010.01`
-- `L.11.010.02`, `L.11.010.03`, `L.11.010.04`, `L.11.010.05`, `L.11.010.06`, `L.11.010.07`, `L.11.010.08`, `L.11.010.09`, `L.11.010.10`, `L.11.010.11`, `L.11.010.12`, `L.11.010.13`
-- `L.11.010.14`, `L.11.011.01`, `L.11.011.02`, `L.11.011.03`, `L.11.011.04`, `L.11.011.05`, `L.11.011.06`, `L.11.011.07`, `L.11.011.08`, `L.11.011.09`, `L.11.011.10`, `L.11.011.11`
-- `L.11.011.12`, `L.11.011.13`, `L.11.011.14`, `L.11.012.01`, `L.11.012.02`, `L.11.012.03`, `L.11.012.04`, `L.11.012.05`, `L.11.012.06`, `L.12.001.01`, `L.12.001.02`, `L.12.001.03`
-- `L.12.001.04`, `L.12.001.05`, `L.12.001.06`, `L.12.001.07`, `L.12.001.08`, `L.12.001.09`, `L.12.001.10`, `L.12.001.11`, `L.12.001.12`, `L.12.001.13`, `L.12.001.14`, `L.12.002.01`
-- `L.12.002.02`, `L.12.002.03`, `L.12.002.04`, `L.12.002.05`, `L.12.002.06`, `L.12.002.07`, `L.12.002.08`, `L.12.002.09`, `L.12.002.10`, `L.12.002.11`, `L.12.002.12`, `L.12.002.13`
-- `L.12.002.14`, `L.12.003.01`, `L.12.003.02`, `L.12.003.03`, `L.12.003.04`, `L.12.003.05`, `L.12.003.06`, `L.12.003.07`, `L.12.003.08`, `L.12.003.09`, `L.12.003.10`, `L.12.003.11`
-- `L.12.003.12`, `L.12.003.13`, `L.12.003.14`, `L.12.004.01`, `L.12.004.02`, `L.12.004.03`, `L.12.004.04`, `L.12.004.05`, `L.12.004.06`, `L.12.004.07`, `L.12.004.08`, `L.12.004.09`
-- `L.12.004.10`, `L.12.004.11`, `L.12.004.12`, `L.12.004.13`, `L.12.005.01`, `L.12.005.02`, `L.12.005.03`, `L.12.005.04`, `L.12.005.05`, `L.12.005.06`, `L.12.005.07`, `L.12.005.08`
-- `L.12.005.09`, `L.12.005.10`, `L.12.005.11`, `L.12.005.12`, `L.12.005.13`, `L.12.005.14`, `L.12.006.01`, `L.12.006.02`, `L.12.006.03`, `L.12.006.04`, `L.12.006.05`, `L.12.006.06`
-- `L.12.006.07`, `L.12.006.08`, `L.12.006.09`, `L.12.006.10`, `L.12.006.11`, `L.12.006.12`, `L.12.006.13`, `L.12.006.14`, `L.12.007.01`, `L.12.007.02`, `L.12.007.03`, `L.12.007.04`
-- `L.12.007.05`, `L.12.007.06`, `L.12.007.07`, `L.12.007.08`, `L.12.007.09`, `L.12.007.10`, `L.12.007.11`, `L.12.007.12`, `L.12.007.13`, `L.12.007.14`, `L.12.008.01`, `L.12.008.02`
-- `L.12.008.03`, `L.12.008.04`, `L.12.008.05`, `L.12.008.06`, `L.12.008.07`, `L.12.008.08`, `L.12.008.09`, `L.12.008.10`, `L.12.009.01`, `L.12.009.02`, `L.12.009.03`, `L.12.009.04`
-- `L.12.009.05`, `L.12.009.06`, `L.12.009.07`, `L.12.009.08`, `L.12.009.09`, `L.12.009.10`, `L.12.009.11`, `L.12.009.12`, `L.12.009.13`, `L.12.009.14`, `L.12.010.01`, `L.12.010.02`
-- `L.12.010.03`, `L.12.010.04`, `L.12.010.05`, `L.12.010.06`, `L.12.010.07`, `L.12.010.08`, `L.12.010.09`, `L.12.010.10`, `L.12.010.11`, `L.12.010.12`, `L.12.010.13`, `L.12.010.14`
-- `L.12.011.01`, `L.12.011.02`, `L.12.011.05`, `L.12.011.06`, `L.12.011.07`, `L.12.011.08`, `L.12.011.09`, `L.12.011.10`, `L.12.011.11`, `L.12.011.12`, `L.12.011.13`, `L.12.011.14`
-- `L.12.012.01`, `L.12.012.02`, `L.12.012.03`
+- `L.00.004.12`, `L.01.009.01`, `L.01.009.02`, `L.02.002.05`, `L.02.003.02`, `L.02.004.03`, `L.02.004.10`, `L.02.007.01`, `L.02.007.03`, `L.02.007.05`, `L.02.007.06`, `L.02.007.07`
+- `L.02.007.08`, `L.02.007.09`, `L.02.010.09`, `L.03.001.01`, `L.03.001.03`, `L.03.001.05`, `L.03.002.07`, `L.03.002.08`, `L.03.002.09`, `L.03.003.01`, `L.03.003.02`, `L.03.003.03`
+- `L.03.003.04`, `L.03.003.05`, `L.03.003.06`, `L.03.003.07`, `L.03.003.08`, `L.03.003.09`, `L.03.004.03`, `L.03.004.04`, `L.03.004.07`, `L.03.004.09`, `L.03.004.10`, `L.03.004.11`
+- `L.03.004.12`, `L.03.007.01`, `L.03.007.02`, `L.03.007.03`, `L.03.007.04`, `L.03.007.06`, `L.03.007.07`, `L.03.007.08`, `L.03.007.09`, `L.03.009.09`, `L.04.002.08`, `L.04.003.01`
+- `L.04.003.02`, `L.04.003.03`, `L.04.003.04`, `L.04.003.05`, `L.04.003.06`, `L.04.003.07`, `L.04.003.08`, `L.04.003.09`, `L.04.004.01`, `L.04.004.02`, `L.04.004.03`, `L.04.004.04`
+- `L.04.004.05`, `L.04.004.06`, `L.04.004.07`, `L.04.004.08`, `L.04.004.09`, `L.04.004.10`, `L.04.004.11`, `L.04.004.12`, `L.04.004.13`, `L.04.006.01`, `L.04.006.03`, `L.04.007.01`
+- `L.04.007.03`, `L.04.007.04`, `L.04.007.06`, `L.04.007.07`, `L.04.007.08`, `L.04.009.01`, `L.04.009.02`, `L.04.009.03`, `L.04.009.04`, `L.04.009.05`, `L.04.009.07`, `L.04.009.08`
+- `L.04.009.09`, `L.04.009.10`, `L.04.011.01`, `L.04.011.02`, `L.04.011.03`, `L.04.011.04`, `L.04.011.05`, `L.04.011.06`, `L.04.011.07`, `L.04.012.03`, `L.05.001.02`, `L.05.001.03`
+- `L.05.001.04`, `L.05.001.05`, `L.05.001.06`, `L.05.001.07`, `L.05.001.08`, `L.05.001.09`, `L.05.001.10`, `L.05.002.06`, `L.05.003.05`, `L.05.004.01`, `L.05.004.02`, `L.05.004.10`
+- `L.05.005.01`, `L.05.005.02`, `L.05.005.05`, `L.05.005.06`, `L.05.005.09`, `L.05.005.10`, `L.05.005.12`, `L.05.005.15`, `L.05.008.01`, `L.05.011.01`, `L.05.011.02`, `L.05.011.08`
+- `L.05.011.09`, `L.05.012.03`, `L.05.012.04`, `L.06.002.03`, `L.07.010.01`, `L.07.010.02`, `L.07.010.03`, `L.07.010.04`, `L.07.010.07`, `L.07.010.09`, `L.07.010.10`, `L.07.011.02`
+- `L.07.011.03`, `L.07.011.04`, `L.07.011.05`, `L.07.011.06`, `L.07.011.07`, `L.07.011.08`, `L.07.011.09`, `L.07.011.10`, `L.07.012.01`, `L.07.012.02`, `L.07.012.03`, `L.07.012.04`
+- `L.07.012.05`, `L.08.001.02`, `L.08.001.03`, `L.08.001.04`, `L.08.001.05`, `L.08.001.06`, `L.08.001.07`, `L.08.001.08`, `L.08.001.09`, `L.08.002.02`, `L.08.002.03`, `L.08.002.04`
+- `L.08.002.05`, `L.08.002.06`, `L.08.002.07`, `L.08.003.02`, `L.08.003.03`, `L.08.003.04`, `L.08.003.05`, `L.08.003.06`, `L.08.003.07`, `L.08.003.08`, `L.08.003.09`, `L.08.003.10`
+- `L.08.004.02`, `L.08.004.03`, `L.08.004.04`, `L.08.004.05`, `L.08.004.07`, `L.08.004.08`, `L.08.004.10`, `L.08.005.05`, `L.08.005.06`, `L.08.005.07`, `L.08.005.08`, `L.08.005.09`
+- `L.08.005.11`, `L.08.006.01`, `L.08.006.02`, `L.08.006.03`, `L.08.006.04`, `L.08.006.05`, `L.08.006.06`, `L.08.006.07`, `L.08.006.08`, `L.08.006.09`, `L.08.006.10`, `L.08.007.01`
+- `L.08.007.02`, `L.08.007.03`, `L.08.007.04`, `L.08.007.05`, `L.08.007.06`, `L.08.007.07`, `L.08.007.08`, `L.08.007.09`, `L.08.007.10`, `L.08.008.01`, `L.08.008.02`, `L.08.008.03`
+- `L.08.008.04`, `L.08.008.09`, `L.08.008.10`, `L.08.009.01`, `L.08.009.02`, `L.08.009.03`, `L.08.009.04`, `L.08.009.05`, `L.08.009.06`, `L.08.009.07`, `L.08.009.08`, `L.08.009.09`
+- `L.08.009.10`, `L.08.010.02`, `L.08.010.04`, `L.08.010.06`, `L.08.010.08`, `L.08.010.09`, `L.08.011.01`, `L.08.011.02`, `L.08.011.03`, `L.08.011.04`, `L.08.011.05`, `L.08.011.06`
+- `L.08.011.07`, `L.08.011.08`, `L.08.011.09`, `L.08.011.10`, `L.08.012.01`, `L.08.012.02`, `L.09.001.02`, `L.09.001.03`, `L.09.001.05`, `L.09.002.05`, `L.09.003.01`, `L.09.003.02`
+- `L.09.003.03`, `L.09.003.04`, `L.09.003.05`, `L.09.003.06`, `L.09.003.08`, `L.09.003.09`, `L.09.003.10`, `L.09.004.01`, `L.09.004.02`, `L.09.004.03`, `L.09.004.04`, `L.09.004.05`
+- `L.09.004.06`, `L.09.004.07`, `L.09.004.08`, `L.09.005.01`, `L.09.005.02`, `L.09.005.03`, `L.09.005.04`, `L.09.005.09`, `L.09.006.01`, `L.09.006.02`, `L.09.006.03`, `L.09.006.04`
+- `L.09.006.05`, `L.09.006.06`, `L.09.006.07`, `L.09.006.08`, `L.09.006.09`, `L.09.006.10`, `L.09.006.11`, `L.09.006.12`, `L.09.007.01`, `L.09.007.02`, `L.09.007.03`, `L.09.007.04`
+- `L.09.007.05`, `L.09.007.06`, `L.09.007.07`, `L.09.007.08`, `L.09.007.09`, `L.09.007.10`, `L.09.007.11`, `L.09.007.12`, `L.09.008.01`, `L.09.008.02`, `L.09.008.03`, `L.09.008.04`
+- `L.09.008.05`, `L.09.008.06`, `L.09.008.07`, `L.09.008.08`, `L.09.008.09`, `L.09.008.10`, `L.09.009.01`, `L.09.009.02`, `L.09.009.03`, `L.09.009.04`, `L.09.009.05`, `L.09.009.06`
+- `L.09.009.07`, `L.09.009.08`, `L.09.010.01`, `L.09.010.02`, `L.09.010.03`, `L.09.010.04`, `L.09.010.05`, `L.09.010.06`, `L.09.010.07`, `L.09.010.08`, `L.09.011.01`, `L.09.011.02`
+- `L.09.011.03`, `L.09.011.04`, `L.09.011.05`, `L.09.011.07`, `L.09.011.08`, `L.09.011.10`, `L.09.011.12`, `L.09.011.14`, `L.09.012.02`, `L.09.012.03`, `L.09.013.02`, `L.09.013.04`
+- `L.09.013.05`, `L.09.014.01`, `L.09.014.02`, `L.09.014.03`, `L.09.014.04`, `L.10.001.01`, `L.10.001.02`, `L.10.001.03`, `L.10.001.04`, `L.10.001.05`, `L.10.001.06`, `L.10.001.07`
+- `L.10.001.08`, `L.10.001.09`, `L.10.001.10`, `L.10.001.11`, `L.10.001.12`, `L.10.002.01`, `L.10.002.02`, `L.10.002.03`, `L.10.002.04`, `L.10.002.05`, `L.10.002.06`, `L.10.002.07`
+- `L.10.002.08`, `L.10.002.09`, `L.10.002.10`, `L.10.002.11`, `L.10.003.01`, `L.10.003.02`, `L.10.003.03`, `L.10.003.04`, `L.10.003.05`, `L.10.003.06`, `L.10.003.07`, `L.10.003.08`
+- `L.10.003.09`, `L.10.003.10`, `L.10.003.11`, `L.10.003.12`, `L.10.004.01`, `L.10.004.02`, `L.10.004.03`, `L.10.004.04`, `L.10.004.05`, `L.10.004.06`, `L.10.004.07`, `L.10.004.08`
+- `L.10.004.09`, `L.10.004.10`, `L.10.004.11`, `L.10.004.12`, `L.10.004.13`, `L.10.004.14`, `L.10.004.15`, `L.10.005.01`, `L.10.005.02`, `L.10.005.03`, `L.10.005.04`, `L.10.005.05`
+- `L.10.005.06`, `L.10.005.07`, `L.10.005.08`, `L.10.005.09`, `L.10.005.10`, `L.10.005.11`, `L.10.005.12`, `L.10.005.13`, `L.10.005.14`, `L.10.006.01`, `L.10.006.02`, `L.10.006.03`
+- `L.10.006.04`, `L.10.006.05`, `L.10.006.06`, `L.10.006.07`, `L.10.006.08`, `L.10.006.09`, `L.10.006.10`, `L.10.006.11`, `L.10.006.12`, `L.10.007.01`, `L.10.007.02`, `L.10.007.03`
+- `L.10.007.04`, `L.10.007.05`, `L.10.007.06`, `L.10.007.07`, `L.10.007.08`, `L.10.007.09`, `L.10.007.10`, `L.10.007.11`, `L.10.007.12`, `L.10.008.02`, `L.10.008.03`, `L.10.008.04`
+- `L.10.008.05`, `L.10.008.08`, `L.10.008.09`, `L.10.009.01`, `L.10.009.02`, `L.10.009.03`, `L.10.009.04`, `L.10.009.05`, `L.10.009.06`, `L.10.009.07`, `L.10.009.08`, `L.10.009.09`
+- `L.10.009.10`, `L.10.009.11`, `L.10.009.12`, `L.10.009.13`, `L.10.009.14`, `L.10.010.01`, `L.10.010.02`, `L.10.010.03`, `L.10.010.04`, `L.10.010.05`, `L.10.010.07`, `L.10.010.09`
+- `L.10.010.10`, `L.10.010.11`, `L.10.010.12`, `L.10.010.13`, `L.10.010.14`, `L.10.011.01`, `L.10.011.02`, `L.10.011.03`, `L.10.011.04`, `L.10.011.05`, `L.10.011.06`, `L.10.011.07`
+- `L.10.011.08`, `L.10.011.09`, `L.10.011.10`, `L.10.011.11`, `L.10.011.12`, `L.10.011.13`, `L.10.012.01`, `L.10.012.02`, `L.10.012.03`, `L.10.012.04`, `L.10.012.05`, `L.10.012.06`
+- `L.11.001.01`, `L.11.001.02`, `L.11.001.03`, `L.11.001.04`, `L.11.001.05`, `L.11.001.06`, `L.11.001.07`, `L.11.001.08`, `L.11.001.09`, `L.11.001.10`, `L.11.001.11`, `L.11.001.12`
+- `L.11.002.02`, `L.11.002.03`, `L.11.003.01`, `L.11.003.02`, `L.11.003.03`, `L.11.003.04`, `L.11.003.05`, `L.11.003.06`, `L.11.003.07`, `L.11.003.08`, `L.11.003.09`, `L.11.003.10`
+- `L.11.003.11`, `L.11.003.12`, `L.11.003.13`, `L.11.004.01`, `L.11.004.02`, `L.11.004.03`, `L.11.004.04`, `L.11.004.05`, `L.11.004.06`, `L.11.004.07`, `L.11.004.08`, `L.11.004.09`
+- `L.11.004.10`, `L.11.004.11`, `L.11.004.12`, `L.11.004.13`, `L.11.004.14`, `L.11.004.15`, `L.11.004.16`, `L.11.005.01`, `L.11.005.02`, `L.11.005.03`, `L.11.005.04`, `L.11.005.05`
+- `L.11.005.06`, `L.11.005.07`, `L.11.005.08`, `L.11.005.09`, `L.11.005.10`, `L.11.005.11`, `L.11.005.12`, `L.11.005.13`, `L.11.005.14`, `L.11.005.15`, `L.11.005.16`, `L.11.006.01`
+- `L.11.006.02`, `L.11.006.03`, `L.11.006.05`, `L.11.006.06`, `L.11.006.07`, `L.11.006.08`, `L.11.006.09`, `L.11.006.10`, `L.11.006.11`, `L.11.006.12`, `L.11.006.13`, `L.11.006.14`
+- `L.11.006.15`, `L.11.006.16`, `L.11.007.01`, `L.11.007.02`, `L.11.007.03`, `L.11.007.04`, `L.11.007.05`, `L.11.007.06`, `L.11.007.07`, `L.11.007.08`, `L.11.007.09`, `L.11.007.10`
+- `L.11.008.01`, `L.11.008.04`, `L.11.008.06`, `L.11.008.07`, `L.11.009.02`, `L.11.009.06`, `L.11.009.09`, `L.11.010.01`, `L.11.010.02`, `L.11.010.03`, `L.11.010.04`, `L.11.010.05`
+- `L.11.010.06`, `L.11.010.07`, `L.11.010.08`, `L.11.010.09`, `L.11.010.10`, `L.11.010.11`, `L.11.010.12`, `L.11.010.13`, `L.11.010.14`, `L.11.011.01`, `L.11.011.02`, `L.11.011.03`
+- `L.11.011.04`, `L.11.011.05`, `L.11.011.06`, `L.11.011.07`, `L.11.011.08`, `L.11.011.09`, `L.11.011.10`, `L.11.011.11`, `L.11.011.12`, `L.11.011.13`, `L.11.011.14`, `L.11.012.01`
+- `L.11.012.02`, `L.11.012.03`, `L.11.012.04`, `L.11.012.05`, `L.11.012.06`, `L.12.001.01`, `L.12.001.02`, `L.12.001.03`, `L.12.001.04`, `L.12.001.05`, `L.12.001.06`, `L.12.001.07`
+- `L.12.001.08`, `L.12.001.09`, `L.12.001.10`, `L.12.001.11`, `L.12.001.12`, `L.12.001.13`, `L.12.001.14`, `L.12.002.01`, `L.12.002.02`, `L.12.002.03`, `L.12.002.04`, `L.12.002.05`
+- `L.12.002.06`, `L.12.002.07`, `L.12.002.08`, `L.12.002.09`, `L.12.002.10`, `L.12.002.11`, `L.12.002.12`, `L.12.002.13`, `L.12.002.14`, `L.12.003.01`, `L.12.003.02`, `L.12.003.03`
+- `L.12.003.04`, `L.12.003.05`, `L.12.003.06`, `L.12.003.07`, `L.12.003.08`, `L.12.003.09`, `L.12.003.10`, `L.12.003.11`, `L.12.003.12`, `L.12.003.13`, `L.12.003.14`, `L.12.004.01`
+- `L.12.004.02`, `L.12.004.03`, `L.12.004.04`, `L.12.004.05`, `L.12.004.06`, `L.12.004.07`, `L.12.004.08`, `L.12.004.09`, `L.12.004.10`, `L.12.004.11`, `L.12.004.12`, `L.12.004.13`
+- `L.12.005.01`, `L.12.005.02`, `L.12.005.03`, `L.12.005.04`, `L.12.005.05`, `L.12.005.06`, `L.12.005.07`, `L.12.005.08`, `L.12.005.09`, `L.12.005.10`, `L.12.005.11`, `L.12.005.12`
+- `L.12.005.13`, `L.12.005.14`, `L.12.006.01`, `L.12.006.02`, `L.12.006.03`, `L.12.006.04`, `L.12.006.05`, `L.12.006.06`, `L.12.006.07`, `L.12.006.08`, `L.12.006.09`, `L.12.006.10`
+- `L.12.006.11`, `L.12.006.12`, `L.12.006.13`, `L.12.006.14`, `L.12.007.01`, `L.12.007.02`, `L.12.007.03`, `L.12.007.04`, `L.12.007.05`, `L.12.007.06`, `L.12.007.07`, `L.12.007.08`
+- `L.12.007.09`, `L.12.007.10`, `L.12.007.11`, `L.12.007.12`, `L.12.007.13`, `L.12.007.14`, `L.12.008.01`, `L.12.008.02`, `L.12.008.03`, `L.12.008.04`, `L.12.008.05`, `L.12.008.06`
+- `L.12.008.07`, `L.12.008.08`, `L.12.008.09`, `L.12.008.10`, `L.12.009.01`, `L.12.009.02`, `L.12.009.03`, `L.12.009.04`, `L.12.009.05`, `L.12.009.06`, `L.12.009.07`, `L.12.009.08`
+- `L.12.009.09`, `L.12.009.10`, `L.12.009.11`, `L.12.009.12`, `L.12.009.13`, `L.12.009.14`, `L.12.010.01`, `L.12.010.02`, `L.12.010.03`, `L.12.010.04`, `L.12.010.05`, `L.12.010.06`
+- `L.12.010.07`, `L.12.010.08`, `L.12.010.09`, `L.12.010.10`, `L.12.010.11`, `L.12.010.12`, `L.12.010.13`, `L.12.010.14`, `L.12.011.01`, `L.12.011.02`, `L.12.011.05`, `L.12.011.06`
+- `L.12.011.07`, `L.12.011.08`, `L.12.011.09`, `L.12.011.10`, `L.12.011.11`, `L.12.011.12`, `L.12.011.13`, `L.12.011.14`, `L.12.012.01`, `L.12.012.02`, `L.12.012.03`
 
 ### S-012
 
-Cited by 8 lessons:
+Cited by 11 lessons:
 
-- `L.07.004.11`, `L.10.001.11`, `L.12.004.03`, `L.12.004.09`, `L.12.004.10`, `L.12.004.11`, `L.12.004.13`, `L.12.004.14`
+- `L.05.005.03`, `L.05.005.15`, `L.06.002.04`, `L.07.004.11`, `L.10.001.11`, `L.12.004.03`, `L.12.004.09`, `L.12.004.10`, `L.12.004.11`, `L.12.004.13`, `L.12.004.14`
 
 ### S-013
 
@@ -668,1232 +687,1451 @@ Cited by 1 lesson:
 
 ### S-014
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.10.001.10`
+- `L.00.002.04`, `L.10.001.10`
 
 ### S-015
 
-Cited by 7 lessons:
+Cited by 18 lessons:
 
-- `L.07.012.04`, `L.08.001.02`, `L.10.001.01`, `L.10.001.02`, `L.11.001.01`, `L.11.001.04`, `L.12.001.05`
+- `L.00.001.01`, `L.00.001.05`, `L.01.001.01`, `L.01.001.03`, `L.01.012.01`, `L.02.001.01`, `L.03.001.01`, `L.03.001.02`, `L.03.012.01`, `L.07.001.01`, `L.07.003.09`, `L.07.012.04`
+- `L.08.001.02`, `L.10.001.01`, `L.10.001.02`, `L.11.001.01`, `L.11.001.04`, `L.12.001.05`
 
 ### S-016
 
-Cited by 2 lessons:
+Cited by 5 lessons:
 
-- `L.08.006.03`, `L.08.008.09`
+- `L.00.002.07`, `L.01.008.04`, `L.02.008.05`, `L.08.006.03`, `L.08.008.09`
 
 ### S-017
 
-Cited by 1 lesson:
+Cited by 4 lessons:
 
-- `L.08.008.09`
+- `L.00.002.08`, `L.01.008.05`, `L.02.008.06`, `L.08.008.09`
 
 ### S-018
 
-Cited by 4 lessons:
+Cited by 5 lessons:
 
-- `L.10.006.13`, `L.10.006.15`, `L.11.006.13`, `L.12.006.13`
+- `L.00.003.02`, `L.10.006.13`, `L.10.006.15`, `L.11.006.13`, `L.12.006.13`
 
 ### S-019
 
-Cited by 14 lessons:
+Cited by 26 lessons:
 
+- `L.00.005.12`, `L.00.005.13`, `L.01.004.13`, `L.01.004.15`, `L.02.004.03`, `L.02.004.14`, `L.02.004.15`, `L.03.004.13`, `L.03.004.14`, `L.03.004.15`, `L.04.004.14`, `L.06.004.14`
 - `L.07.004.12`, `L.08.004.01`, `L.08.004.09`, `L.08.004.11`, `L.09.006.10`, `L.09.006.11`, `L.10.001.02`, `L.10.004.08`, `L.10.004.14`, `L.10.004.15`, `L.11.004.13`, `L.11.004.14`
 - `L.12.004.12`, `L.12.004.14`
 
 ### S-020
 
-Cited by: no lessons.
+Cited by 17 lessons:
+
+- `L.00.006.01`, `L.00.006.02`, `L.00.006.03`, `L.01.005.01`, `L.01.005.03`, `L.01.005.07`, `L.01.005.08`, `L.01.005.10`, `L.02.005.01`, `L.02.005.03`, `L.02.005.07`, `L.02.005.08`
+- `L.03.005.01`, `L.03.005.06`, `L.04.005.01`, `L.04.005.07`, `L.04.005.08`
 
 ### S-021
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.00.009.02`
 
 ### S-022
 
-Cited by 17 lessons:
+Cited by 29 lessons:
 
+- `L.00.011.07`, `L.01.010.09`, `L.02.010.07`, `L.02.010.08`, `L.03.010.09`, `L.04.010.09`, `L.04.010.10`, `L.05.002.10`, `L.05.011.09`, `L.05.011.10`, `L.06.010.10`, `L.07.003.03`
 - `L.07.010.09`, `L.07.010.10`, `L.08.003.04`, `L.08.010.01`, `L.08.010.04`, `L.08.010.08`, `L.08.010.09`, `L.09.006.03`, `L.09.011.13`, `L.10.003.03`, `L.10.003.04`, `L.10.009.13`
 - `L.10.010.13`, `L.11.003.04`, `L.11.010.13`, `L.12.003.03`, `L.12.010.13`
 
 ### S-023
 
-Cited by 6 lessons:
+Cited by 15 lessons:
 
-- `L.07.009.05`, `L.08.005.01`, `L.09.007.01`, `L.10.009.05`, `L.11.005.01`, `L.12.005.03`
+- `L.01.005.02`, `L.03.005.01`, `L.03.005.05`, `L.04.005.01`, `L.04.005.02`, `L.04.005.03`, `L.04.005.04`, `L.04.005.09`, `L.05.006.01`, `L.07.009.05`, `L.08.005.01`, `L.09.007.01`
+- `L.10.009.05`, `L.11.005.01`, `L.12.005.03`
 
 ### S-024
 
-Cited by 4 lessons:
+Cited by 21 lessons:
 
-- `L.08.005.08`, `L.09.007.01`, `L.09.007.09`, `L.12.005.11`
+- `L.00.006.04`, `L.00.006.05`, `L.01.005.01`, `L.01.005.02`, `L.01.005.07`, `L.01.005.15`, `L.03.005.01`, `L.03.005.03`, `L.03.005.06`, `L.03.005.12`, `L.03.005.13`, `L.04.005.01`
+- `L.04.005.07`, `L.04.005.08`, `L.04.005.11`, `L.04.005.15`, `L.05.001.03`, `L.08.005.08`, `L.09.007.01`, `L.09.007.09`, `L.12.005.11`
 
 ### S-025
 
-Cited by: no lessons.
+Cited by 17 lessons:
+
+- `L.01.005.04`, `L.01.005.05`, `L.01.005.06`, `L.01.005.09`, `L.02.005.04`, `L.02.005.05`, `L.02.005.06`, `L.02.005.09`, `L.03.005.03`, `L.03.005.04`, `L.03.005.08`, `L.04.005.03`
+- `L.04.005.05`, `L.04.005.09`, `L.05.006.02`, `L.05.006.04`, `L.05.006.06`
 
 ### S-026
 
-Cited by 9 lessons:
+Cited by 69 lessons:
 
+- `L.00.006.06`, `L.00.006.07`, `L.01.005.10`, `L.01.005.11`, `L.01.005.12`, `L.01.005.14`, `L.02.005.02`, `L.02.005.10`, `L.02.005.11`, `L.02.005.14`, `L.03.005.02`, `L.03.005.05`
+- `L.03.005.07`, `L.03.005.09`, `L.03.005.10`, `L.03.005.11`, `L.03.005.12`, `L.03.005.13`, `L.03.005.14`, `L.03.005.15`, `L.04.005.02`, `L.04.005.03`, `L.04.005.04`, `L.04.005.05`
+- `L.04.005.06`, `L.04.005.09`, `L.04.005.10`, `L.04.005.11`, `L.04.005.12`, `L.04.005.13`, `L.04.005.14`, `L.04.005.15`, `L.04.005.16`, `L.05.006.01`, `L.05.006.02`, `L.05.006.03`
+- `L.05.006.04`, `L.05.006.05`, `L.05.006.06`, `L.05.006.07`, `L.05.006.08`, `L.05.006.09`, `L.05.006.10`, `L.05.006.11`, `L.05.006.12`, `L.05.006.13`, `L.05.006.14`, `L.05.006.15`
+- `L.05.006.16`, `L.06.005.01`, `L.06.005.02`, `L.06.005.03`, `L.06.005.04`, `L.06.005.05`, `L.06.005.06`, `L.06.005.08`, `L.06.005.10`, `L.06.005.12`, `L.06.005.14`, `L.07.005.07`
 - `L.08.005.02`, `L.08.005.03`, `L.08.005.04`, `L.08.005.05`, `L.08.005.06`, `L.08.005.07`, `L.08.005.08`, `L.08.005.09`, `L.08.005.10`
 
 ### S-027
 
-Cited by: no lessons.
+Cited by 8 lessons:
+
+- `L.01.005.12`, `L.01.005.13`, `L.02.005.12`, `L.02.005.13`, `L.02.005.15`, `L.02.005.16`, `L.03.005.16`, `L.04.005.16`
 
 ### S-028
 
-Cited by 1 lesson:
+Cited by 6 lessons:
 
-- `L.11.005.03`
+- `L.01.005.15`, `L.03.005.15`, `L.04.005.15`, `L.05.006.03`, `L.06.005.02`, `L.11.005.03`
 
 ### S-029
 
-Cited by: no lessons.
+Cited by 5 lessons:
+
+- `L.00.009.01`, `L.01.006.08`, `L.01.006.09`, `L.03.006.09`, `L.05.007.08`
 
 ### S-030
 
-Cited by: no lessons.
+Cited by 4 lessons:
+
+- `L.00.009.03`, `L.01.006.08`, `L.01.006.09`, `L.03.006.09`
 
 ### S-031
 
-Cited by: no lessons.
+Cited by 7 lessons:
+
+- `L.00.002.01`, `L.00.002.02`, `L.00.008.05`, `L.01.006.01`, `L.02.002.01`, `L.03.002.02`, `L.03.002.03`
 
 ### S-032
 
-Cited by: no lessons.
+Cited by 4 lessons:
+
+- `L.00.012.05`, `L.01.006.04`, `L.01.011.06`, `L.01.011.08`
 
 ### S-033
 
-Cited by: no lessons.
+Cited by 5 lessons:
+
+- `L.00.012.05`, `L.01.006.04`, `L.01.011.06`, `L.01.011.08`, `L.03.011.06`
 
 ### S-034
 
-Cited by: no lessons.
+Cited by 3 lessons:
+
+- `L.00.009.04`, `L.01.006.05`, `L.01.011.05`
 
 ### S-035
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.01.006.06`
 
 ### S-036
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.01.006.07`
 
 ### S-037
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.01.006.07`
 
 ### S-038
 
-Cited by 11 lessons:
+Cited by 25 lessons:
 
-- `L.08.008.01`, `L.08.008.03`, `L.08.008.05`, `L.09.004.08`, `L.10.002.10`, `L.11.002.11`, `L.11.002.12`, `L.12.008.01`, `L.12.008.03`, `L.12.008.06`, `L.12.008.08`
+- `L.00.002.05`, `L.00.002.06`, `L.00.008.08`, `L.00.008.09`, `L.01.008.03`, `L.02.008.01`, `L.02.008.02`, `L.03.008.01`, `L.03.008.02`, `L.05.009.01`, `L.05.009.04`, `L.05.009.08`
+- `L.06.008.03`, `L.06.008.04`, `L.08.008.01`, `L.08.008.03`, `L.08.008.05`, `L.09.004.08`, `L.10.002.10`, `L.11.002.11`, `L.11.002.12`, `L.12.008.01`, `L.12.008.03`, `L.12.008.06`
+- `L.12.008.08`
 
 ### S-039
 
-Cited by 128 lessons:
+Cited by 143 lessons:
 
-- `L.07.011.01`, `L.07.011.10`, `L.07.012.01`, `L.07.012.02`, `L.07.012.03`, `L.07.012.04`, `L.07.012.05`, `L.08.001.01`, `L.08.001.10`, `L.08.002.01`, `L.08.002.07`, `L.08.003.01`
-- `L.08.003.10`, `L.08.004.01`, `L.08.004.11`, `L.08.005.01`, `L.08.005.11`, `L.08.006.01`, `L.08.006.10`, `L.08.007.01`, `L.08.007.10`, `L.08.008.01`, `L.08.008.10`, `L.08.009.01`
-- `L.08.009.10`, `L.08.010.01`, `L.08.010.10`, `L.08.011.01`, `L.08.011.10`, `L.08.012.01`, `L.08.012.02`, `L.08.012.05`, `L.09.003.01`, `L.09.003.10`, `L.09.006.01`, `L.09.006.02`
-- `L.09.006.04`, `L.09.006.06`, `L.09.006.08`, `L.09.006.09`, `L.09.006.12`, `L.09.007.01`, `L.09.011.01`, `L.09.011.06`, `L.09.011.14`, `L.09.012.01`, `L.09.013.01`, `L.09.013.10`
-- `L.10.001.10`, `L.10.001.12`, `L.10.002.04`, `L.10.005.14`, `L.10.008.06`, `L.10.008.10`, `L.10.009.14`, `L.10.010.01`, `L.10.010.03`, `L.10.012.03`, `L.10.012.07`, `L.11.001.12`
-- `L.11.002.05`, `L.11.002.12`, `L.11.004.09`, `L.11.004.10`, `L.11.004.16`, `L.11.007.10`, `L.11.008.10`, `L.11.010.01`, `L.11.010.02`, `L.11.011.01`, `L.11.012.03`, `L.11.012.07`
-- `L.12.001.01`, `L.12.001.02`, `L.12.001.03`, `L.12.001.04`, `L.12.001.05`, `L.12.001.06`, `L.12.001.07`, `L.12.001.08`, `L.12.001.09`, `L.12.001.10`, `L.12.001.11`, `L.12.001.12`
-- `L.12.001.13`, `L.12.001.14`, `L.12.002.01`, `L.12.002.02`, `L.12.002.03`, `L.12.002.04`, `L.12.002.05`, `L.12.002.06`, `L.12.002.07`, `L.12.002.08`, `L.12.002.09`, `L.12.002.10`
-- `L.12.002.11`, `L.12.002.12`, `L.12.002.13`, `L.12.002.14`, `L.12.003.01`, `L.12.003.02`, `L.12.003.03`, `L.12.003.04`, `L.12.003.05`, `L.12.003.06`, `L.12.003.07`, `L.12.003.08`
-- `L.12.003.09`, `L.12.003.10`, `L.12.003.11`, `L.12.003.12`, `L.12.003.13`, `L.12.003.14`, `L.12.004.01`, `L.12.004.02`, `L.12.004.04`, `L.12.004.05`, `L.12.004.06`, `L.12.004.07`
-- `L.12.004.08`, `L.12.004.10`, `L.12.004.12`, `L.12.004.14`, `L.12.008.08`, `L.12.012.01`, `L.12.012.02`, `L.12.012.03`
+- `L.01.009.10`, `L.02.003.09`, `L.02.006.10`, `L.03.003.09`, `L.03.009.09`, `L.04.003.09`, `L.04.007.10`, `L.05.001.10`, `L.05.003.09`, `L.05.006.16`, `L.05.010.10`, `L.05.011.10`
+- `L.05.012.10`, `L.07.001.09`, `L.07.011.01`, `L.07.011.10`, `L.07.012.01`, `L.07.012.02`, `L.07.012.03`, `L.07.012.04`, `L.07.012.05`, `L.08.001.01`, `L.08.001.10`, `L.08.002.01`
+- `L.08.002.07`, `L.08.003.01`, `L.08.003.10`, `L.08.004.01`, `L.08.004.11`, `L.08.005.01`, `L.08.005.11`, `L.08.006.01`, `L.08.006.10`, `L.08.007.01`, `L.08.007.10`, `L.08.008.01`
+- `L.08.008.10`, `L.08.009.01`, `L.08.009.10`, `L.08.010.01`, `L.08.010.10`, `L.08.011.01`, `L.08.011.10`, `L.08.012.01`, `L.08.012.02`, `L.08.012.05`, `L.09.001.05`, `L.09.003.01`
+- `L.09.003.10`, `L.09.006.01`, `L.09.006.02`, `L.09.006.04`, `L.09.006.06`, `L.09.006.08`, `L.09.006.09`, `L.09.006.12`, `L.09.007.01`, `L.09.011.01`, `L.09.011.06`, `L.09.011.14`
+- `L.09.012.01`, `L.09.013.01`, `L.09.013.10`, `L.10.001.10`, `L.10.001.12`, `L.10.002.04`, `L.10.005.14`, `L.10.008.06`, `L.10.008.10`, `L.10.009.14`, `L.10.010.01`, `L.10.010.03`
+- `L.10.012.03`, `L.10.012.07`, `L.11.001.12`, `L.11.002.05`, `L.11.002.12`, `L.11.004.09`, `L.11.004.10`, `L.11.004.16`, `L.11.007.10`, `L.11.008.10`, `L.11.010.01`, `L.11.010.02`
+- `L.11.011.01`, `L.11.012.03`, `L.11.012.07`, `L.12.001.01`, `L.12.001.02`, `L.12.001.03`, `L.12.001.04`, `L.12.001.05`, `L.12.001.06`, `L.12.001.07`, `L.12.001.08`, `L.12.001.09`
+- `L.12.001.10`, `L.12.001.11`, `L.12.001.12`, `L.12.001.13`, `L.12.001.14`, `L.12.002.01`, `L.12.002.02`, `L.12.002.03`, `L.12.002.04`, `L.12.002.05`, `L.12.002.06`, `L.12.002.07`
+- `L.12.002.08`, `L.12.002.09`, `L.12.002.10`, `L.12.002.11`, `L.12.002.12`, `L.12.002.13`, `L.12.002.14`, `L.12.003.01`, `L.12.003.02`, `L.12.003.03`, `L.12.003.04`, `L.12.003.05`
+- `L.12.003.06`, `L.12.003.07`, `L.12.003.08`, `L.12.003.09`, `L.12.003.10`, `L.12.003.11`, `L.12.003.12`, `L.12.003.13`, `L.12.003.14`, `L.12.004.01`, `L.12.004.02`, `L.12.004.04`
+- `L.12.004.05`, `L.12.004.06`, `L.12.004.07`, `L.12.004.08`, `L.12.004.10`, `L.12.004.12`, `L.12.004.14`, `L.12.008.08`, `L.12.012.01`, `L.12.012.02`, `L.12.012.03`
 
 ### S-040
 
-Cited by 5 lessons:
+Cited by 28 lessons:
 
-- `L.09.006.07`, `L.10.004.08`, `L.10.004.09`, `L.10.004.10`, `L.12.004.04`
+- `L.00.005.06`, `L.01.004.05`, `L.01.004.06`, `L.01.004.07`, `L.01.004.15`, `L.02.004.04`, `L.02.004.05`, `L.02.004.06`, `L.02.004.08`, `L.02.004.09`, `L.03.004.02`, `L.03.004.04`
+- `L.03.004.05`, `L.03.004.06`, `L.03.004.07`, `L.03.004.08`, `L.04.004.01`, `L.04.004.02`, `L.04.004.04`, `L.04.004.05`, `L.04.004.06`, `L.04.004.07`, `L.04.004.08`, `L.09.006.07`
+- `L.10.004.08`, `L.10.004.09`, `L.10.004.10`, `L.12.004.04`
 
 ### S-041
 
-Cited by: no lessons.
+Cited by 8 lessons:
+
+- `L.00.009.08`, `L.00.012.06`, `L.01.006.02`, `L.01.006.03`, `L.01.006.10`, `L.02.006.01`, `L.02.006.02`, `L.05.001.02`
 
 ### S-042
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.02.006.03`, `L.02.006.06`
 
 ### S-043
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.00.009.05`, `L.02.006.04`
 
 ### S-044
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.02.006.05`, `L.02.011.05`
 
 ### S-045
 
-Cited by: no lessons.
+Cited by 3 lessons:
+
+- `L.02.002.02`, `L.02.006.07`, `L.07.006.09`
 
 ### S-046
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.02.006.09`
 
 ### S-047
 
-Cited by 4 lessons:
+Cited by 5 lessons:
 
-- `L.08.005.04`, `L.08.006.08`, `L.10.005.01`, `L.12.006.09`
+- `L.02.006.08`, `L.08.005.04`, `L.08.006.08`, `L.10.005.01`, `L.12.006.09`
 
 ### S-048
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.02.006.10`
 
 ### S-049
 
-Cited by 5 lessons:
+Cited by 13 lessons:
 
-- `L.11.009.10`, `L.11.010.09`, `L.11.011.10`, `L.12.008.01`, `L.12.008.06`
+- `L.00.002.06`, `L.01.002.04`, `L.02.008.04`, `L.03.002.05`, `L.03.008.03`, `L.03.011.08`, `L.03.011.10`, `L.05.009.02`, `L.11.009.10`, `L.11.010.09`, `L.11.011.10`, `L.12.008.01`
+- `L.12.008.06`
 
 ### S-050
 
-Cited by 8 lessons:
+Cited by 14 lessons:
 
-- `L.07.012.03`, `L.08.002.03`, `L.08.008.09`, `L.10.002.02`, `L.10.002.04`, `L.12.002.11`, `L.12.008.06`, `L.12.008.08`
+- `L.01.002.05`, `L.02.008.06`, `L.03.002.05`, `L.03.008.04`, `L.05.012.04`, `L.07.001.10`, `L.07.012.03`, `L.08.002.03`, `L.08.008.09`, `L.10.002.02`, `L.10.002.04`, `L.12.002.11`
+- `L.12.008.06`, `L.12.008.08`
 
 ### S-051
 
-Cited by 5 lessons:
+Cited by 8 lessons:
 
-- `L.09.010.01`, `L.09.010.04`, `L.09.010.08`, `L.12.008.07`, `L.12.008.09`
+- `L.02.008.07`, `L.02.008.08`, `L.03.008.08`, `L.09.010.01`, `L.09.010.04`, `L.09.010.08`, `L.12.008.07`, `L.12.008.09`
 
 ### S-052
 
-Cited by 5 lessons:
+Cited by 7 lessons:
 
-- `L.08.006.07`, `L.11.011.03`, `L.12.009.01`, `L.12.009.02`, `L.12.009.03`
+- `L.02.009.02`, `L.02.009.10`, `L.08.006.07`, `L.11.011.03`, `L.12.009.01`, `L.12.009.02`, `L.12.009.03`
 
 ### S-053
 
-Cited by: no lessons.
+Cited by 5 lessons:
+
+- `L.01.009.05`, `L.02.009.03`, `L.02.009.10`, `L.03.003.05`, `L.05.004.05`
 
 ### S-054
 
-Cited by 4 lessons:
+Cited by 11 lessons:
 
-- `L.10.009.06`, `L.12.006.05`, `L.12.008.03`, `L.12.009.10`
+- `L.02.009.03`, `L.02.009.10`, `L.03.009.06`, `L.04.009.08`, `L.05.004.05`, `L.05.004.09`, `L.06.009.07`, `L.10.009.06`, `L.12.006.05`, `L.12.008.03`, `L.12.009.10`
 
 ### S-055
 
-Cited by 2 lessons:
+Cited by 7 lessons:
 
-- `L.08.009.04`, `L.11.005.05`
+- `L.02.009.04`, `L.02.009.10`, `L.04.009.04`, `L.04.009.05`, `L.05.010.06`, `L.08.009.04`, `L.11.005.05`
 
 ### S-056
 
-Cited by 32 lessons:
+Cited by 62 lessons:
 
-- `L.07.009.10`, `L.08.007.01`, `L.08.007.03`, `L.08.007.04`, `L.08.007.05`, `L.08.007.06`, `L.08.007.07`, `L.08.007.10`, `L.08.011.09`, `L.10.007.02`, `L.10.007.06`, `L.10.007.07`
-- `L.10.007.08`, `L.10.007.09`, `L.10.009.06`, `L.11.002.04`, `L.11.002.08`, `L.11.002.09`, `L.11.007.03`, `L.11.007.05`, `L.12.006.08`, `L.12.007.04`, `L.12.007.08`, `L.12.007.09`
-- `L.12.007.10`, `L.12.007.11`, `L.12.007.12`, `L.12.007.14`, `L.12.008.03`, `L.12.009.05`, `L.12.009.07`, `L.12.009.08`
+- `L.00.010.03`, `L.00.012.02`, `L.01.001.07`, `L.01.009.03`, `L.01.009.04`, `L.01.012.03`, `L.01.012.07`, `L.02.003.06`, `L.02.007.10`, `L.02.009.04`, `L.02.009.10`, `L.03.007.08`
+- `L.03.007.10`, `L.04.001.07`, `L.04.001.08`, `L.04.007.02`, `L.04.007.05`, `L.04.007.06`, `L.04.007.10`, `L.04.009.04`, `L.04.009.05`, `L.04.012.02`, `L.05.002.04`, `L.05.004.07`
+- `L.05.008.03`, `L.05.008.06`, `L.05.008.08`, `L.05.008.10`, `L.05.010.04`, `L.06.009.05`, `L.07.009.10`, `L.08.007.01`, `L.08.007.03`, `L.08.007.04`, `L.08.007.05`, `L.08.007.06`
+- `L.08.007.07`, `L.08.007.10`, `L.08.011.09`, `L.10.007.02`, `L.10.007.06`, `L.10.007.07`, `L.10.007.08`, `L.10.007.09`, `L.10.009.06`, `L.11.002.04`, `L.11.002.08`, `L.11.002.09`
+- `L.11.007.03`, `L.11.007.05`, `L.12.006.08`, `L.12.007.04`, `L.12.007.08`, `L.12.007.09`, `L.12.007.10`, `L.12.007.11`, `L.12.007.12`, `L.12.007.14`, `L.12.008.03`, `L.12.009.05`
+- `L.12.009.07`, `L.12.009.08`
 
 ### S-057
 
-Cited by 1 lesson:
+Cited by 5 lessons:
 
-- `L.08.011.07`
+- `L.02.009.05`, `L.02.009.06`, `L.02.009.10`, `L.05.004.05`, `L.08.011.07`
 
 ### S-058
 
-Cited by 2 lessons:
+Cited by 8 lessons:
 
-- `L.10.009.08`, `L.11.011.12`
+- `L.02.009.06`, `L.02.009.10`, `L.03.009.03`, `L.03.009.09`, `L.05.004.05`, `L.05.004.09`, `L.10.009.08`, `L.11.011.12`
 
 ### S-059
 
-Cited by 16 lessons:
+Cited by 20 lessons:
 
-- `L.07.010.07`, `L.07.010.08`, `L.07.011.09`, `L.08.010.06`, `L.10.004.03`, `L.10.010.10`, `L.10.010.11`, `L.10.011.13`, `L.11.010.12`, `L.11.011.14`, `L.12.003.07`, `L.12.003.13`
-- `L.12.008.05`, `L.12.011.12`, `L.12.011.13`, `L.12.011.14`
+- `L.02.009.08`, `L.02.009.10`, `L.05.004.09`, `L.06.010.07`, `L.07.010.07`, `L.07.010.08`, `L.07.011.09`, `L.08.010.06`, `L.10.004.03`, `L.10.010.10`, `L.10.010.11`, `L.10.011.13`
+- `L.11.010.12`, `L.11.011.14`, `L.12.003.07`, `L.12.003.13`, `L.12.008.05`, `L.12.011.12`, `L.12.011.13`, `L.12.011.14`
 
 ### S-060
 
-Cited by 9 lessons:
+Cited by 22 lessons:
 
-- `L.07.010.05`, `L.08.010.01`, `L.08.010.05`, `L.09.005.02`, `L.10.008.01`, `L.10.008.02`, `L.12.008.05`, `L.12.008.07`, `L.12.008.09`
+- `L.00.002.09`, `L.01.008.07`, `L.01.008.08`, `L.02.010.04`, `L.03.008.08`, `L.03.010.03`, `L.03.010.10`, `L.04.010.03`, `L.04.010.10`, `L.05.004.08`, `L.05.011.03`, `L.05.011.04`
+- `L.07.003.01`, `L.07.010.05`, `L.08.010.01`, `L.08.010.05`, `L.09.005.02`, `L.10.008.01`, `L.10.008.02`, `L.12.008.05`, `L.12.008.07`, `L.12.008.09`
 
 ### S-061
 
-Cited by: no lessons.
+Cited by 8 lessons:
+
+- `L.00.012.01`, `L.01.011.01`, `L.01.011.02`, `L.01.011.10`, `L.02.011.01`, `L.03.011.01`, `L.03.011.10`, `L.06.011.01`
 
 ### S-062
 
-Cited by 1 lesson:
+Cited by 5 lessons:
 
-- `L.11.011.01`
+- `L.02.011.02`, `L.03.011.02`, `L.03.011.10`, `L.05.012.01`, `L.11.011.01`
 
 ### S-063
 
-Cited by 24 lessons:
+Cited by 37 lessons:
 
-- `L.07.011.04`, `L.07.011.05`, `L.08.003.03`, `L.08.003.06`, `L.08.010.07`, `L.08.011.04`, `L.09.004.03`, `L.09.006.07`, `L.09.006.08`, `L.09.006.09`, `L.09.013.02`, `L.09.013.04`
-- `L.10.002.09`, `L.10.003.02`, `L.10.003.05`, `L.10.003.06`, `L.10.003.08`, `L.10.008.07`, `L.10.008.08`, `L.10.010.12`, `L.10.011.01`, `L.12.004.05`, `L.12.010.11`, `L.12.011.05`
+- `L.00.012.04`, `L.01.011.03`, `L.02.011.03`, `L.02.011.04`, `L.02.011.09`, `L.03.011.03`, `L.03.011.09`, `L.03.011.10`, `L.04.011.03`, `L.04.011.04`, `L.04.011.09`, `L.04.011.10`
+- `L.05.005.07`, `L.07.011.04`, `L.07.011.05`, `L.08.003.03`, `L.08.003.06`, `L.08.010.07`, `L.08.011.04`, `L.09.004.03`, `L.09.006.07`, `L.09.006.08`, `L.09.006.09`, `L.09.013.02`
+- `L.09.013.04`, `L.10.002.09`, `L.10.003.02`, `L.10.003.05`, `L.10.003.06`, `L.10.003.08`, `L.10.008.07`, `L.10.008.08`, `L.10.010.12`, `L.10.011.01`, `L.12.004.05`, `L.12.010.11`
+- `L.12.011.05`
 
 ### S-064
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.02.011.06`
 
 ### S-065
 
-Cited by 4 lessons:
+Cited by 6 lessons:
 
-- `L.07.010.04`, `L.08.010.05`, `L.11.009.10`, `L.12.010.07`
+- `L.00.012.07`, `L.02.011.07`, `L.07.010.04`, `L.08.010.05`, `L.11.009.10`, `L.12.010.07`
 
 ### S-066
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.07.011.03`
+- `L.02.011.08`, `L.07.011.03`
 
 ### S-067
 
-Cited by: no lessons.
+Cited by 3 lessons:
+
+- `L.00.002.01`, `L.03.002.01`, `L.03.002.10`
 
 ### S-068
 
-Cited by: no lessons.
+Cited by 3 lessons:
+
+- `L.01.002.08`, `L.02.002.08`, `L.03.002.08`
 
 ### S-069
 
-Cited by 4 lessons:
+Cited by 19 lessons:
 
-- `L.07.012.03`, `L.08.008.09`, `L.12.008.06`, `L.12.008.08`
+- `L.00.002.03`, `L.00.008.01`, `L.00.008.02`, `L.00.008.03`, `L.01.002.06`, `L.01.002.10`, `L.02.002.07`, `L.03.008.01`, `L.03.008.04`, `L.04.002.02`, `L.05.003.05`, `L.05.003.07`
+- `L.05.003.08`, `L.05.003.09`, `L.05.003.10`, `L.07.012.03`, `L.08.008.09`, `L.12.008.06`, `L.12.008.08`
 
 ### S-070
 
-Cited by: no lessons.
+Cited by 6 lessons:
+
+- `L.01.007.08`, `L.03.006.01`, `L.04.006.03`, `L.05.001.06`, `L.05.001.09`, `L.05.001.10`
 
 ### S-071
 
-Cited by: no lessons.
+Cited by 4 lessons:
+
+- `L.03.006.02`, `L.05.001.03`, `L.05.001.07`, `L.05.001.10`
 
 ### S-072
 
-Cited by: no lessons.
+Cited by 4 lessons:
+
+- `L.03.006.03`, `L.03.011.05`, `L.03.011.10`, `L.05.007.01`
 
 ### S-073
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.03.006.03`, `L.05.007.01`
 
 ### S-074
 
-Cited by: no lessons.
+Cited by 3 lessons:
+
+- `L.03.006.04`, `L.03.011.06`, `L.03.011.10`
 
 ### S-075
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.03.006.05`, `L.05.007.05`
 
 ### S-076
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.03.006.06`, `L.05.007.05`
 
 ### S-077
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.03.006.07`, `L.05.007.07`
 
 ### S-078
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.03.006.08`
 
 ### S-079
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.03.006.10`, `L.05.007.10`
 
 ### S-080
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.09.004.07`
+- `L.03.008.05`, `L.09.004.07`
 
 ### S-081
 
-Cited by 1 lesson:
+Cited by 3 lessons:
 
-- `L.09.004.07`
+- `L.03.008.06`, `L.06.008.05`, `L.09.004.07`
 
 ### S-082
 
-Cited by 2 lessons:
+Cited by 5 lessons:
 
-- `L.11.008.04`, `L.12.008.10`
+- `L.03.008.07`, `L.05.009.05`, `L.05.009.06`, `L.11.008.04`, `L.12.008.10`
 
 ### S-083
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.03.009.03`, `L.03.009.09`
 
 ### S-084
 
-Cited by 5 lessons:
+Cited by 8 lessons:
 
-- `L.10.007.01`, `L.10.007.02`, `L.10.007.03`, `L.12.007.03`, `L.12.007.04`
+- `L.03.009.04`, `L.05.004.07`, `L.07.007.01`, `L.10.007.01`, `L.10.007.02`, `L.10.007.03`, `L.12.007.03`, `L.12.007.04`
 
 ### S-085
 
-Cited by 3 lessons:
+Cited by 6 lessons:
 
-- `L.09.012.04`, `L.11.006.04`, `L.12.006.04`
+- `L.00.003.03`, `L.03.009.04`, `L.06.009.05`, `L.09.012.04`, `L.11.006.04`, `L.12.006.04`
 
 ### S-086
 
-Cited by 4 lessons:
+Cited by 7 lessons:
 
-- `L.08.009.07`, `L.10.009.09`, `L.12.009.11`, `L.12.010.05`
+- `L.00.010.08`, `L.03.009.05`, `L.05.010.06`, `L.08.009.07`, `L.10.009.09`, `L.12.009.11`, `L.12.010.05`
 
 ### S-087
 
-Cited by 1 lesson:
+Cited by 3 lessons:
 
-- `L.12.009.13`
+- `L.03.009.07`, `L.04.009.10`, `L.12.009.13`
 
 ### S-088
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.03.009.06`, `L.04.009.07`
 
 ### S-089
 
-Cited by 4 lessons:
+Cited by 5 lessons:
 
-- `L.09.012.03`, `L.12.009.01`, `L.12.009.02`, `L.12.009.03`
+- `L.03.009.02`, `L.09.012.03`, `L.12.009.01`, `L.12.009.02`, `L.12.009.03`
 
 ### S-090
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.03.009.01`
 
 ### S-091
 
-Cited by: no lessons.
+Cited by 8 lessons:
+
+- `L.01.010.05`, `L.03.009.08`, `L.03.010.07`, `L.04.009.09`, `L.05.009.07`, `L.05.009.08`, `L.05.011.03`, `L.05.011.04`
 
 ### S-092
 
-Cited by 2 lessons:
+Cited by 5 lessons:
 
-- `L.11.002.06`, `L.11.008.09`
+- `L.03.003.04`, `L.03.010.04`, `L.04.010.04`, `L.11.002.06`, `L.11.008.09`
 
 ### S-093
 
-Cited by: no lessons.
+Cited by 4 lessons:
+
+- `L.00.001.07`, `L.03.010.03`, `L.04.003.06`, `L.04.012.05`
 
 ### S-094
 
-Cited by 1 lesson:
+Cited by 5 lessons:
 
-- `L.08.010.02`
+- `L.03.010.01`, `L.03.010.02`, `L.04.010.01`, `L.04.010.02`, `L.08.010.02`
 
 ### S-095
 
-Cited by 7 lessons:
+Cited by 9 lessons:
 
-- `L.08.011.03`, `L.09.013.09`, `L.10.006.11`, `L.10.006.12`, `L.11.006.12`, `L.12.006.11`, `L.12.006.12`
+- `L.03.011.07`, `L.03.011.10`, `L.08.011.03`, `L.09.013.09`, `L.10.006.11`, `L.10.006.12`, `L.11.006.12`, `L.12.006.11`, `L.12.006.12`
 
 ### S-096
 
-Cited by 4 lessons:
+Cited by 12 lessons:
 
-- `L.10.012.03`, `L.11.008.10`, `L.11.012.03`, `L.12.001.13`
+- `L.01.001.06`, `L.01.012.02`, `L.02.001.07`, `L.02.012.02`, `L.04.001.06`, `L.04.012.03`, `L.05.008.02`, `L.06.002.06`, `L.10.012.03`, `L.11.008.10`, `L.11.012.03`, `L.12.001.13`
 
 ### S-097
 
-Cited by 3 lessons:
+Cited by 6 lessons:
 
-- `L.07.012.03`, `L.12.001.07`, `L.12.001.12`
+- `L.03.001.10`, `L.04.001.10`, `L.05.002.09`, `L.07.012.03`, `L.12.001.07`, `L.12.001.12`
 
 ### S-098
 
-Cited by: no lessons.
+Cited by 9 lessons:
+
+- `L.00.002.03`, `L.04.002.01`, `L.04.002.02`, `L.04.002.03`, `L.04.002.04`, `L.04.002.05`, `L.04.002.10`, `L.05.003.02`, `L.05.003.07`
 
 ### S-099
 
-Cited by 2 lessons:
+Cited by 5 lessons:
 
-- `L.11.008.09`, `L.12.002.07`
+- `L.01.002.02`, `L.04.002.06`, `L.05.003.04`, `L.11.008.09`, `L.12.002.07`
 
 ### S-100
 
-Cited by 6 lessons:
+Cited by 9 lessons:
 
-- `L.10.007.11`, `L.11.008.09`, `L.12.002.06`, `L.12.002.07`, `L.12.002.12`, `L.12.002.13`
+- `L.04.002.06`, `L.04.002.07`, `L.07.007.07`, `L.10.007.11`, `L.11.008.09`, `L.12.002.06`, `L.12.002.07`, `L.12.002.12`, `L.12.002.13`
 
 ### S-101
 
-Cited by 1 lesson:
+Cited by 10 lessons:
 
-- `L.11.002.10`
+- `L.00.008.04`, `L.01.002.07`, `L.01.002.10`, `L.02.002.09`, `L.03.002.09`, `L.04.002.08`, `L.04.002.09`, `L.07.002.03`, `L.07.002.05`, `L.11.002.10`
 
 ### S-102
 
-Cited by 7 lessons:
+Cited by 22 lessons:
 
-- `L.10.004.11`, `L.10.004.12`, `L.12.004.08`, `L.12.004.09`, `L.12.004.10`, `L.12.004.11`, `L.12.004.14`
+- `L.02.004.11`, `L.02.004.12`, `L.03.004.11`, `L.03.004.12`, `L.04.004.09`, `L.04.004.10`, `L.04.004.11`, `L.04.004.12`, `L.04.004.13`, `L.05.005.09`, `L.05.005.10`, `L.05.005.11`
+- `L.05.005.12`, `L.06.004.11`, `L.07.004.09`, `L.10.004.11`, `L.10.004.12`, `L.12.004.08`, `L.12.004.09`, `L.12.004.10`, `L.12.004.11`, `L.12.004.14`
 
 ### S-103
 
-Cited by 2 lessons:
+Cited by 3 lessons:
 
-- `L.12.004.07`, `L.12.004.14`
+- `L.04.004.14`, `L.12.004.07`, `L.12.004.14`
 
 ### S-104
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.00.005.08`, `L.04.004.15`
 
 ### S-105
 
-Cited by: no lessons.
+Cited by 3 lessons:
+
+- `L.04.006.02`, `L.05.001.07`, `L.05.001.09`
 
 ### S-106
 
-Cited by 1 lesson:
+Cited by 3 lessons:
 
-- `L.08.011.07`
+- `L.04.006.04`, `L.04.006.06`, `L.08.011.07`
 
 ### S-107
 
-Cited by 1 lesson:
+Cited by 6 lessons:
 
-- `L.08.011.06`
+- `L.04.006.05`, `L.04.006.06`, `L.05.007.01`, `L.05.007.02`, `L.05.012.07`, `L.08.011.06`
 
 ### S-108
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.04.006.07`, `L.07.006.10`
 
 ### S-109
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.04.006.07`, `L.07.006.10`
 
 ### S-110
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.04.006.09`
 
 ### S-111
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.12.006.13`
+- `L.04.006.10`, `L.12.006.13`
 
 ### S-112
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.04.006.08`
 
 ### S-113
 
-Cited by: no lessons.
+Cited by 3 lessons:
+
+- `L.04.006.01`, `L.05.001.07`, `L.05.006.05`
 
 ### S-114
 
-Cited by 3 lessons:
+Cited by 10 lessons:
 
-- `L.11.007.02`, `L.11.007.03`, `L.12.007.03`
+- `L.00.007.03`, `L.04.007.01`, `L.04.007.02`, `L.04.007.09`, `L.05.008.03`, `L.06.007.02`, `L.07.007.02`, `L.11.007.02`, `L.11.007.03`, `L.12.007.03`
 
 ### S-115
 
-Cited by 5 lessons:
+Cited by 8 lessons:
 
-- `L.10.007.01`, `L.10.007.02`, `L.10.007.03`, `L.11.007.02`, `L.12.007.03`
+- `L.04.007.02`, `L.04.007.09`, `L.05.008.03`, `L.10.007.01`, `L.10.007.02`, `L.10.007.03`, `L.11.007.02`, `L.12.007.03`
 
 ### S-116
 
-Cited by 4 lessons:
+Cited by 5 lessons:
 
-- `L.10.007.08`, `L.10.007.09`, `L.11.002.09`, `L.11.007.07`
+- `L.04.007.06`, `L.10.007.08`, `L.10.007.09`, `L.11.002.09`, `L.11.007.07`
 
 ### S-117
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.04.008.01`, `L.04.008.02`
 
 ### S-118
 
-Cited by 5 lessons:
+Cited by 10 lessons:
 
-- `L.08.008.03`, `L.08.008.05`, `L.11.002.12`, `L.12.008.01`, `L.12.008.03`
+- `L.01.008.01`, `L.01.008.02`, `L.02.008.03`, `L.04.008.03`, `L.05.009.01`, `L.08.008.03`, `L.08.008.05`, `L.11.002.12`, `L.12.008.01`, `L.12.008.03`
 
 ### S-119
 
-Cited by 3 lessons:
+Cited by 6 lessons:
 
-- `L.09.004.08`, `L.12.008.04`, `L.12.008.05`
+- `L.04.008.04`, `L.05.004.08`, `L.05.009.03`, `L.09.004.08`, `L.12.008.04`, `L.12.008.05`
 
 ### S-120
 
-Cited by 2 lessons:
+Cited by 6 lessons:
 
-- `L.08.008.03`, `L.08.008.05`
+- `L.04.008.01`, `L.04.008.02`, `L.04.008.03`, `L.04.008.04`, `L.08.008.03`, `L.08.008.05`
 
 ### S-121
 
-Cited by 1 lesson:
+Cited by 3 lessons:
 
-- `L.12.008.10`
+- `L.04.008.05`, `L.07.008.05`, `L.12.008.10`
 
 ### S-122
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.04.008.06`
 
 ### S-123
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.04.008.06`, `L.06.008.06`
 
 ### S-124
 
-Cited by 2 lessons:
+Cited by 3 lessons:
 
-- `L.07.011.08`, `L.10.006.14`
+- `L.04.008.07`, `L.07.011.08`, `L.10.006.14`
 
 ### S-125
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.04.008.07`
 
 ### S-126
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.04.008.05`
 
 ### S-127
 
-Cited by 1 lesson:
+Cited by 3 lessons:
 
-- `L.10.003.02`
+- `L.04.008.08`, `L.06.008.06`, `L.10.003.02`
 
 ### S-128
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.10.003.02`
+- `L.04.008.08`, `L.10.003.02`
 
 ### S-129
 
-Cited by: no lessons.
+Cited by 4 lessons:
+
+- `L.01.009.06`, `L.04.009.07`, `L.05.006.07`, `L.05.006.09`
 
 ### S-130
 
-Cited by 2 lessons:
+Cited by 3 lessons:
 
-- `L.11.009.09`, `L.11.009.10`
+- `L.04.009.08`, `L.11.009.09`, `L.11.009.10`
 
 ### S-131
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.04.009.01`, `L.04.009.02`
 
 ### S-132
 
-Cited by 1 lesson:
+Cited by 3 lessons:
 
-- `L.09.012.03`
+- `L.04.009.01`, `L.04.009.03`, `L.09.012.03`
 
 ### S-133
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.04.009.06`
 
 ### S-134
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.04.009.02`
 
 ### S-135
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.04.009.03`
 
 ### S-136
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.04.009.02`
 
 ### S-137
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.04.009.06`, `L.06.007.02`
 
 ### S-138
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.04.009.01`
 
 ### S-139
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.04.009.01`
 
 ### S-140
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.04.009.01`
 
 ### S-141
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.04.009.01`
 
 ### S-142
 
-Cited by 3 lessons:
+Cited by 6 lessons:
 
-- `L.08.010.03`, `L.11.010.04`, `L.12.004.01`
+- `L.04.009.09`, `L.04.010.05`, `L.06.010.06`, `L.08.010.03`, `L.11.010.04`, `L.12.004.01`
 
 ### S-143
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.04.009.08`
 
 ### S-144
 
-Cited by 3 lessons:
+Cited by 4 lessons:
 
-- `L.08.010.06`, `L.11.009.14`, `L.11.010.06`
+- `L.04.009.10`, `L.08.010.06`, `L.11.009.14`, `L.11.010.06`
 
 ### S-145
 
-Cited by 3 lessons:
+Cited by 4 lessons:
 
-- `L.11.008.03`, `L.11.008.07`, `L.12.009.05`
+- `L.04.009.04`, `L.11.008.03`, `L.11.008.07`, `L.12.009.05`
 
 ### S-146
 
-Cited by 7 lessons:
+Cited by 8 lessons:
 
-- `L.08.010.06`, `L.11.009.13`, `L.11.009.14`, `L.11.010.06`, `L.11.010.14`, `L.12.009.13`, `L.12.009.14`
+- `L.04.009.10`, `L.08.010.06`, `L.11.009.13`, `L.11.009.14`, `L.11.010.06`, `L.11.010.14`, `L.12.009.13`, `L.12.009.14`
 
 ### S-147
 
-Cited by 14 lessons:
+Cited by 27 lessons:
 
-- `L.07.012.05`, `L.08.003.09`, `L.08.010.07`, `L.08.012.04`, `L.09.005.09`, `L.09.005.10`, `L.09.014.04`, `L.10.012.07`, `L.11.003.13`, `L.11.012.06`, `L.11.012.07`, `L.12.010.08`
-- `L.12.010.09`, `L.12.010.10`
+- `L.00.004.10`, `L.01.003.03`, `L.02.012.06`, `L.03.003.07`, `L.03.012.06`, `L.04.003.05`, `L.04.010.06`, `L.04.010.07`, `L.05.004.03`, `L.05.004.10`, `L.05.008.07`, `L.05.011.08`
+- `L.06.002.05`, `L.07.012.05`, `L.08.003.09`, `L.08.010.07`, `L.08.012.04`, `L.09.005.09`, `L.09.005.10`, `L.09.014.04`, `L.10.012.07`, `L.11.003.13`, `L.11.012.06`, `L.11.012.07`
+- `L.12.010.08`, `L.12.010.09`, `L.12.010.10`
 
 ### S-148
 
-Cited by 12 lessons:
+Cited by 21 lessons:
 
-- `L.07.010.10`, `L.08.003.04`, `L.08.010.08`, `L.09.003.10`, `L.09.005.01`, `L.09.005.03`, `L.09.005.04`, `L.10.003.03`, `L.10.003.04`, `L.11.008.06`, `L.12.003.02`, `L.12.010.13`
+- `L.00.004.03`, `L.01.010.07`, `L.03.003.02`, `L.04.003.02`, `L.04.003.09`, `L.04.010.08`, `L.06.003.02`, `L.06.010.08`, `L.06.010.09`, `L.07.010.10`, `L.08.003.04`, `L.08.010.08`
+- `L.09.003.10`, `L.09.005.01`, `L.09.005.03`, `L.09.005.04`, `L.10.003.03`, `L.10.003.04`, `L.11.008.06`, `L.12.003.02`, `L.12.010.13`
 
 ### S-149
 
-Cited by 16 lessons:
+Cited by 25 lessons:
 
-- `L.07.010.05`, `L.07.010.06`, `L.08.010.01`, `L.08.010.05`, `L.09.011.09`, `L.09.011.11`, `L.09.012.10`, `L.10.010.08`, `L.10.010.09`, `L.10.011.02`, `L.11.008.02`, `L.11.008.05`
-- `L.12.002.06`, `L.12.009.14`, `L.12.010.05`, `L.12.010.11`
+- `L.01.010.04`, `L.02.009.07`, `L.02.010.10`, `L.04.010.03`, `L.05.010.09`, `L.05.011.05`, `L.06.009.10`, `L.06.010.04`, `L.07.010.05`, `L.07.010.06`, `L.08.010.01`, `L.08.010.05`
+- `L.09.002.04`, `L.09.011.09`, `L.09.011.11`, `L.09.012.10`, `L.10.010.08`, `L.10.010.09`, `L.10.011.02`, `L.11.008.02`, `L.11.008.05`, `L.12.002.06`, `L.12.009.14`, `L.12.010.05`
+- `L.12.010.11`
 
 ### S-150
 
-Cited by: no lessons.
+Cited by 7 lessons:
+
+- `L.02.007.07`, `L.02.007.08`, `L.04.007.08`, `L.04.011.01`, `L.04.011.02`, `L.04.011.10`, `L.06.007.07`
 
 ### S-151
 
-Cited by 13 lessons:
+Cited by 28 lessons:
 
-- `L.08.011.04`, `L.09.004.03`, `L.10.004.06`, `L.10.004.07`, `L.10.008.07`, `L.10.008.09`, `L.10.010.04`, `L.10.010.05`, `L.10.010.09`, `L.10.010.12`, `L.11.008.07`, `L.11.011.05`
-- `L.11.011.06`
+- `L.01.011.04`, `L.01.011.10`, `L.03.011.04`, `L.04.011.03`, `L.04.011.04`, `L.04.011.09`, `L.05.001.05`, `L.05.001.09`, `L.05.001.10`, `L.05.012.05`, `L.06.011.04`, `L.07.007.02`
+- `L.07.007.03`, `L.08.011.04`, `L.09.001.04`, `L.09.001.05`, `L.09.004.03`, `L.10.004.06`, `L.10.004.07`, `L.10.008.07`, `L.10.008.09`, `L.10.010.04`, `L.10.010.05`, `L.10.010.09`
+- `L.10.010.12`, `L.11.008.07`, `L.11.011.05`, `L.11.011.06`
 
 ### S-152
 
-Cited by 3 lessons:
+Cited by 7 lessons:
 
-- `L.08.011.06`, `L.10.006.07`, `L.10.006.08`
+- `L.04.006.06`, `L.04.011.05`, `L.04.011.08`, `L.06.011.05`, `L.08.011.06`, `L.10.006.07`, `L.10.006.08`
 
 ### S-153
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.04.011.06`
 
 ### S-154
 
-Cited by: no lessons.
+Cited by 6 lessons:
+
+- `L.01.003.09`, `L.01.011.07`, `L.01.011.09`, `L.03.011.08`, `L.04.011.07`, `L.04.011.10`
 
 ### S-155
 
-Cited by 13 lessons:
+Cited by 18 lessons:
 
-- `L.07.012.01`, `L.08.012.01`, `L.08.012.05`, `L.09.003.06`, `L.09.003.07`, `L.09.014.02`, `L.10.012.01`, `L.11.001.06`, `L.11.012.01`, `L.11.012.02`, `L.12.001.06`, `L.12.001.10`
-- `L.12.012.01`
+- `L.04.001.05`, `L.04.012.01`, `L.04.012.07`, `L.05.002.07`, `L.07.001.05`, `L.07.012.01`, `L.08.012.01`, `L.08.012.05`, `L.09.003.06`, `L.09.003.07`, `L.09.014.02`, `L.10.012.01`
+- `L.11.001.06`, `L.11.012.01`, `L.11.012.02`, `L.12.001.06`, `L.12.001.10`, `L.12.012.01`
 
 ### S-156
 
-Cited by 1 lesson:
+Cited by 5 lessons:
 
-- `L.11.001.11`
+- `L.03.001.06`, `L.04.003.05`, `L.04.012.04`, `L.05.004.04`, `L.11.001.11`
 
 ### S-157
 
-Cited by 1 lesson:
+Cited by 3 lessons:
 
-- `L.10.003.09`
+- `L.04.012.06`, `L.05.004.07`, `L.10.003.09`
 
 ### S-158
 
-Cited by 1 lesson:
+Cited by 13 lessons:
 
+- `L.00.001.09`, `L.00.004.09`, `L.00.011.03`, `L.01.003.06`, `L.01.003.10`, `L.01.010.10`, `L.01.012.04`, `L.02.003.05`, `L.02.012.05`, `L.04.003.10`, `L.04.012.05`, `L.05.004.07`
 - `L.11.012.04`
 
 ### S-159
 
-Cited by 1 lesson:
+Cited by 3 lessons:
 
-- `L.12.001.03`
+- `L.05.002.01`, `L.06.001.01`, `L.12.001.03`
 
 ### S-160
 
-Cited by 2 lessons:
+Cited by 15 lessons:
 
-- `L.08.003.02`, `L.09.003.04`
+- `L.00.001.01`, `L.00.001.04`, `L.00.004.05`, `L.01.001.02`, `L.01.003.04`, `L.04.003.03`, `L.05.002.03`, `L.05.002.04`, `L.05.004.06`, `L.07.001.03`, `L.07.001.04`, `L.07.003.02`
+- `L.07.007.05`, `L.08.003.02`, `L.09.003.04`
 
 ### S-161
 
-Cited by 12 lessons:
+Cited by 18 lessons:
 
-- `L.08.010.01`, `L.08.010.04`, `L.08.010.08`, `L.08.010.09`, `L.09.011.13`, `L.10.003.04`, `L.10.010.13`, `L.10.010.14`, `L.11.003.04`, `L.11.010.13`, `L.12.010.13`, `L.12.010.14`
+- `L.01.010.09`, `L.03.010.09`, `L.04.010.09`, `L.06.010.10`, `L.07.003.03`, `L.07.003.04`, `L.08.010.01`, `L.08.010.04`, `L.08.010.08`, `L.08.010.09`, `L.09.011.13`, `L.10.003.04`
+- `L.10.010.13`, `L.10.010.14`, `L.11.003.04`, `L.11.010.13`, `L.12.010.13`, `L.12.010.14`
 
 ### S-162
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.05.003.03`, `L.05.003.10`
 
 ### S-163
 
-Cited by 17 lessons:
+Cited by 23 lessons:
 
-- `L.07.012.05`, `L.08.003.09`, `L.08.003.10`, `L.08.012.04`, `L.09.005.06`, `L.09.005.08`, `L.09.005.09`, `L.09.005.10`, `L.09.014.03`, `L.10.003.12`, `L.10.012.06`, `L.11.003.08`
-- `L.11.008.10`, `L.11.012.06`, `L.12.003.11`, `L.12.003.12`, `L.12.012.03`
+- `L.02.003.08`, `L.02.012.07`, `L.03.003.08`, `L.04.003.07`, `L.05.004.09`, `L.07.003.10`, `L.07.012.05`, `L.08.003.09`, `L.08.003.10`, `L.08.012.04`, `L.09.005.06`, `L.09.005.08`
+- `L.09.005.09`, `L.09.005.10`, `L.09.014.03`, `L.10.003.12`, `L.10.012.06`, `L.11.003.08`, `L.11.008.10`, `L.11.012.06`, `L.12.003.11`, `L.12.003.12`, `L.12.012.03`
 
 ### S-164
 
-Cited by 19 lessons:
+Cited by 33 lessons:
 
-- `L.07.012.05`, `L.08.003.09`, `L.08.012.04`, `L.09.005.06`, `L.09.005.09`, `L.09.005.10`, `L.09.014.03`, `L.09.014.04`, `L.10.003.12`, `L.10.012.06`, `L.11.003.08`, `L.11.003.12`
-- `L.11.008.10`, `L.11.012.06`, `L.12.003.11`, `L.12.003.12`, `L.12.010.08`, `L.12.010.10`, `L.12.012.03`
+- `L.00.004.11`, `L.00.011.06`, `L.00.013.03`, `L.01.003.07`, `L.01.003.10`, `L.01.010.06`, `L.01.012.04`, `L.02.003.07`, `L.02.010.06`, `L.03.003.08`, `L.03.012.06`, `L.05.004.08`
+- `L.05.004.09`, `L.07.003.10`, `L.07.012.05`, `L.08.003.09`, `L.08.012.04`, `L.09.005.06`, `L.09.005.09`, `L.09.005.10`, `L.09.014.03`, `L.09.014.04`, `L.10.003.12`, `L.10.012.06`
+- `L.11.003.08`, `L.11.003.12`, `L.11.008.10`, `L.11.012.06`, `L.12.003.11`, `L.12.003.12`, `L.12.010.08`, `L.12.010.10`, `L.12.012.03`
 
 ### S-165
 
-Cited by 2 lessons:
+Cited by 8 lessons:
 
-- `L.12.004.06`, `L.12.004.14`
+- `L.00.005.05`, `L.00.005.09`, `L.01.004.04`, `L.03.004.04`, `L.03.004.15`, `L.05.005.13`, `L.12.004.06`, `L.12.004.14`
 
 ### S-166
 
-Cited by 2 lessons:
+Cited by 3 lessons:
 
-- `L.12.004.06`, `L.12.004.14`
+- `L.05.005.13`, `L.12.004.06`, `L.12.004.14`
 
 ### S-167
 
-Cited by 6 lessons:
+Cited by 9 lessons:
 
-- `L.08.004.10`, `L.11.004.01`, `L.11.004.05`, `L.11.004.12`, `L.11.004.15`, `L.12.004.07`
+- `L.05.005.14`, `L.06.004.13`, `L.07.004.14`, `L.08.004.10`, `L.11.004.01`, `L.11.004.05`, `L.11.004.12`, `L.11.004.15`, `L.12.004.07`
 
 ### S-168
 
-Cited by 3 lessons:
+Cited by 5 lessons:
 
-- `L.10.004.14`, `L.11.004.05`, `L.12.004.07`
+- `L.05.005.14`, `L.06.004.13`, `L.10.004.14`, `L.11.004.05`, `L.12.004.07`
 
 ### S-169
 
-Cited by 4 lessons:
+Cited by 5 lessons:
 
-- `L.07.004.12`, `L.12.004.07`, `L.12.004.14`, `L.12.009.11`
+- `L.05.005.14`, `L.07.004.12`, `L.12.004.07`, `L.12.004.14`, `L.12.009.11`
 
 ### S-170
 
-Cited by 3 lessons:
+Cited by 10 lessons:
 
-- `L.12.004.04`, `L.12.004.05`, `L.12.004.14`
+- `L.05.005.05`, `L.05.005.06`, `L.05.005.07`, `L.05.005.11`, `L.06.004.05`, `L.06.004.06`, `L.06.004.08`, `L.12.004.04`, `L.12.004.05`, `L.12.004.14`
 
 ### S-171
 
-Cited by 7 lessons:
+Cited by 10 lessons:
 
-- `L.11.004.10`, `L.11.004.11`, `L.12.004.08`, `L.12.004.09`, `L.12.004.10`, `L.12.004.11`, `L.12.004.14`
+- `L.05.005.12`, `L.06.004.12`, `L.07.004.10`, `L.11.004.10`, `L.11.004.11`, `L.12.004.08`, `L.12.004.09`, `L.12.004.10`, `L.12.004.11`, `L.12.004.14`
 
 ### S-172
 
-Cited by 2 lessons:
+Cited by 24 lessons:
 
-- `L.12.004.04`, `L.12.004.05`
+- `L.00.003.04`, `L.00.005.02`, `L.00.005.03`, `L.01.004.01`, `L.01.004.08`, `L.01.004.10`, `L.02.004.07`, `L.02.004.13`, `L.03.004.02`, `L.03.004.06`, `L.03.004.07`, `L.03.004.08`
+- `L.04.004.07`, `L.04.004.08`, `L.05.005.05`, `L.05.005.06`, `L.05.005.08`, `L.06.004.02`, `L.06.004.07`, `L.07.004.05`, `L.07.004.06`, `L.07.004.07`, `L.12.004.04`, `L.12.004.05`
 
 ### S-173
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.05.005.04`
 
 ### S-174
 
-Cited by 1 lesson:
+Cited by 12 lessons:
 
-- `L.11.003.01`
+- `L.00.004.08`, `L.00.005.04`, `L.00.010.06`, `L.01.003.02`, `L.01.010.08`, `L.02.004.01`, `L.03.004.01`, `L.04.003.01`, `L.04.010.08`, `L.05.005.01`, `L.06.004.01`, `L.11.003.01`
 
 ### S-175
 
-Cited by: no lessons.
+Cited by 5 lessons:
+
+- `L.03.005.14`, `L.05.006.01`, `L.05.006.13`, `L.05.006.14`, `L.06.005.09`
 
 ### S-176
 
-Cited by 5 lessons:
+Cited by 6 lessons:
 
-- `L.08.006.05`, `L.10.011.10`, `L.11.006.08`, `L.12.006.05`, `L.12.011.11`
+- `L.05.007.02`, `L.08.006.05`, `L.10.011.10`, `L.11.006.08`, `L.12.006.05`, `L.12.011.11`
 
 ### S-177
 
-Cited by 7 lessons:
+Cited by 9 lessons:
 
-- `L.08.006.04`, `L.10.006.04`, `L.10.006.05`, `L.10.006.06`, `L.10.011.04`, `L.11.006.05`, `L.11.006.06`
+- `L.05.007.03`, `L.05.007.04`, `L.08.006.04`, `L.10.006.04`, `L.10.006.05`, `L.10.006.06`, `L.10.011.04`, `L.11.006.05`, `L.11.006.06`
 
 ### S-178
 
-Cited by 3 lessons:
+Cited by 4 lessons:
 
-- `L.09.008.04`, `L.10.006.04`, `L.10.011.04`
+- `L.05.007.03`, `L.09.008.04`, `L.10.006.04`, `L.10.011.04`
 
 ### S-179
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.05.007.04`
 
 ### S-180
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.12.006.09`
+- `L.05.007.06`, `L.12.006.09`
 
 ### S-181
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.05.007.08`
 
 ### S-182
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.00.009.02`, `L.05.007.08`
 
 ### S-183
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.05.007.09`
 
 ### S-184
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.05.007.09`
 
 ### S-185
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.08.006.09`
+- `L.05.007.10`, `L.08.006.09`
 
 ### S-186
 
-Cited by 2 lessons:
+Cited by 3 lessons:
 
-- `L.08.006.09`, `L.12.006.13`
+- `L.05.007.10`, `L.08.006.09`, `L.12.006.13`
 
 ### S-187
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.08.006.07`
+- `L.05.007.07`, `L.08.006.07`
 
 ### S-188
 
-Cited by 3 lessons:
+Cited by 12 lessons:
 
-- `L.10.007.04`, `L.10.007.05`, `L.11.007.05`
+- `L.00.010.05`, `L.02.007.04`, `L.04.007.05`, `L.05.008.04`, `L.05.008.05`, `L.05.008.06`, `L.06.007.04`, `L.07.007.03`, `L.07.007.04`, `L.10.007.04`, `L.10.007.05`, `L.11.007.05`
 
 ### S-189
 
-Cited by 6 lessons:
+Cited by 16 lessons:
 
-- `L.10.007.04`, `L.10.007.05`, `L.10.007.07`, `L.10.007.08`, `L.11.007.06`, `L.11.007.07`
+- `L.00.007.08`, `L.01.007.05`, `L.01.007.10`, `L.02.002.06`, `L.03.007.05`, `L.04.007.06`, `L.04.007.10`, `L.05.008.04`, `L.05.008.07`, `L.05.008.08`, `L.10.007.04`, `L.10.007.05`
+- `L.10.007.07`, `L.10.007.08`, `L.11.007.06`, `L.11.007.07`
 
 ### S-190
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.05.008.09`
 
 ### S-191
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.05.008.10`
 
 ### S-192
 
-Cited by: no lessons.
+Cited by 4 lessons:
+
+- `L.01.007.02`, `L.05.008.01`, `L.05.008.02`, `L.05.008.05`
 
 ### S-193
 
-Cited by 1 lesson:
+Cited by 3 lessons:
 
-- `L.12.008.01`
+- `L.05.009.02`, `L.05.009.03`, `L.12.008.01`
 
 ### S-194
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.05.009.03`
 
 ### S-195
 
-Cited by 2 lessons:
+Cited by 3 lessons:
 
-- `L.11.008.04`, `L.12.008.10`
+- `L.05.009.05`, `L.11.008.04`, `L.12.008.10`
 
 ### S-196
 
-Cited by: no lessons.
+Cited by 4 lessons:
+
+- `L.01.008.07`, `L.01.008.08`, `L.05.009.07`, `L.05.009.08`
 
 ### S-197
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.05.010.01`, `L.05.010.02`
 
 ### S-198
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.05.010.01`, `L.05.010.02`
 
 ### S-199
 
-Cited by 2 lessons:
+Cited by 4 lessons:
 
-- `L.09.012.03`, `L.09.012.06`
+- `L.05.010.05`, `L.09.002.02`, `L.09.012.03`, `L.09.012.06`
 
 ### S-200
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.05.010.05`, `L.06.009.07`
 
 ### S-201
 
-Cited by 5 lessons:
+Cited by 8 lessons:
 
-- `L.09.012.04`, `L.10.009.05`, `L.11.009.05`, `L.11.009.06`, `L.12.009.07`
+- `L.05.010.05`, `L.06.009.05`, `L.09.002.02`, `L.09.012.04`, `L.10.009.05`, `L.11.009.05`, `L.11.009.06`, `L.12.009.07`
 
 ### S-202
 
-Cited by 4 lessons:
+Cited by 7 lessons:
 
-- `L.08.011.09`, `L.12.006.08`, `L.12.006.13`, `L.12.006.14`
+- `L.00.003.03`, `L.05.010.04`, `L.06.009.04`, `L.08.011.09`, `L.12.006.08`, `L.12.006.13`, `L.12.006.14`
 
 ### S-203
 
-Cited by 5 lessons:
+Cited by 7 lessons:
 
-- `L.08.010.03`, `L.10.009.08`, `L.12.006.08`, `L.12.006.13`, `L.12.006.14`
+- `L.05.010.04`, `L.06.009.09`, `L.08.010.03`, `L.10.009.08`, `L.12.006.08`, `L.12.006.13`, `L.12.006.14`
 
 ### S-204
 
-Cited by 3 lessons:
+Cited by 5 lessons:
 
-- `L.08.009.02`, `L.10.009.01`, `L.12.004.06`
+- `L.05.010.03`, `L.05.010.05`, `L.08.009.02`, `L.10.009.01`, `L.12.004.06`
 
 ### S-205
 
-Cited by 3 lessons:
+Cited by 5 lessons:
 
-- `L.10.010.14`, `L.11.010.14`, `L.12.009.13`
+- `L.05.010.08`, `L.06.009.11`, `L.10.010.14`, `L.11.010.14`, `L.12.009.13`
 
 ### S-206
 
-Cited by 2 lessons:
+Cited by 3 lessons:
 
-- `L.11.009.13`, `L.11.010.06`
+- `L.05.010.08`, `L.11.009.13`, `L.11.010.06`
 
 ### S-207
 
-Cited by 7 lessons:
+Cited by 8 lessons:
 
-- `L.08.009.03`, `L.08.009.04`, `L.08.009.05`, `L.08.009.06`, `L.09.012.02`, `L.09.012.05`, `L.12.009.09`
+- `L.05.010.07`, `L.08.009.03`, `L.08.009.04`, `L.08.009.05`, `L.08.009.06`, `L.09.012.02`, `L.09.012.05`, `L.12.009.09`
 
 ### S-208
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.05.010.01`
 
 ### S-209
 
-Cited by 3 lessons:
+Cited by 4 lessons:
 
-- `L.09.012.08`, `L.09.012.09`, `L.12.009.13`
+- `L.05.010.08`, `L.09.012.08`, `L.09.012.09`, `L.12.009.13`
 
 ### S-210
 
-Cited by 4 lessons:
+Cited by 5 lessons:
 
-- `L.07.011.02`, `L.08.011.02`, `L.10.003.11`, `L.11.009.15`
+- `L.05.012.02`, `L.07.011.02`, `L.08.011.02`, `L.10.003.11`, `L.11.009.15`
 
 ### S-211
 
-Cited by 5 lessons:
+Cited by 6 lessons:
 
-- `L.07.011.02`, `L.08.011.02`, `L.10.003.11`, `L.10.010.02`, `L.10.010.08`
+- `L.05.012.02`, `L.07.011.02`, `L.08.011.02`, `L.10.003.11`, `L.10.010.02`, `L.10.010.08`
 
 ### S-212
 
-Cited by 4 lessons:
+Cited by 7 lessons:
 
-- `L.10.011.09`, `L.11.011.10`, `L.11.011.11`, `L.12.011.09`
+- `L.00.009.06`, `L.04.006.09`, `L.05.012.06`, `L.10.011.09`, `L.11.011.10`, `L.11.011.11`, `L.12.011.09`
 
 ### S-213
 
-Cited by 2 lessons:
+Cited by 3 lessons:
 
-- `L.11.011.10`, `L.11.011.11`
+- `L.05.012.06`, `L.11.011.10`, `L.11.011.11`
 
 ### S-214
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.12.011.09`
+- `L.05.012.04`, `L.12.011.09`
 
 ### S-215
 
-Cited by 2 lessons:
+Cited by 3 lessons:
 
-- `L.07.011.07`, `L.10.011.11`
+- `L.05.012.07`, `L.07.011.07`, `L.10.011.11`
 
 ### S-216
 
-Cited by 3 lessons:
+Cited by 6 lessons:
 
-- `L.07.011.03`, `L.10.006.07`, `L.10.011.12`
+- `L.04.011.07`, `L.04.011.08`, `L.05.012.08`, `L.07.011.03`, `L.10.006.07`, `L.10.011.12`
 
 ### S-217
 
-Cited by 23 lessons:
+Cited by 29 lessons:
 
-- `L.07.011.04`, `L.07.011.05`, `L.08.011.01`, `L.08.011.04`, `L.08.011.05`, `L.09.004.03`, `L.10.003.02`, `L.10.003.05`, `L.10.003.06`, `L.10.003.08`, `L.10.004.06`, `L.10.004.07`
-- `L.10.011.05`, `L.10.011.07`, `L.11.004.02`, `L.11.004.08`, `L.11.011.06`, `L.12.004.05`, `L.12.010.09`, `L.12.010.11`, `L.12.011.05`, `L.12.011.06`, `L.12.011.07`
+- `L.05.012.05`, `L.07.004.03`, `L.07.004.08`, `L.07.008.01`, `L.07.008.02`, `L.07.008.08`, `L.07.011.04`, `L.07.011.05`, `L.08.011.01`, `L.08.011.04`, `L.08.011.05`, `L.09.004.03`
+- `L.10.003.02`, `L.10.003.05`, `L.10.003.06`, `L.10.003.08`, `L.10.004.06`, `L.10.004.07`, `L.10.011.05`, `L.10.011.07`, `L.11.004.02`, `L.11.004.08`, `L.11.011.06`, `L.12.004.05`
+- `L.12.010.09`, `L.12.010.11`, `L.12.011.05`, `L.12.011.06`, `L.12.011.07`
 
 ### S-218
 
-Cited by 2 lessons:
+Cited by 3 lessons:
 
-- `L.08.011.07`, `L.09.008.04`
+- `L.05.012.07`, `L.08.011.07`, `L.09.008.04`
 
 ### S-219
 
-Cited by 3 lessons:
+Cited by 4 lessons:
 
-- `L.08.011.03`, `L.09.013.09`, `L.10.006.12`
+- `L.05.012.08`, `L.08.011.03`, `L.09.013.09`, `L.10.006.12`
 
 ### S-220
 
-Cited by 3 lessons:
+Cited by 4 lessons:
 
-- `L.09.008.04`, `L.10.006.07`, `L.11.009.10`
+- `L.05.012.08`, `L.09.008.04`, `L.10.006.07`, `L.11.009.10`
 
 ### S-221
 
-Cited by 2 lessons:
+Cited by 3 lessons:
 
-- `L.09.003.05`, `L.10.001.03`
+- `L.06.001.08`, `L.09.003.05`, `L.10.001.03`
 
 ### S-222
 
-Cited by 7 lessons:
+Cited by 9 lessons:
 
-- `L.09.003.01`, `L.11.002.04`, `L.11.002.05`, `L.12.001.09`, `L.12.001.13`, `L.12.001.14`, `L.12.012.02`
+- `L.05.002.02`, `L.06.001.08`, `L.09.003.01`, `L.11.002.04`, `L.11.002.05`, `L.12.001.09`, `L.12.001.13`, `L.12.001.14`, `L.12.012.02`
 
 ### S-223
 
-Cited by 5 lessons:
+Cited by 11 lessons:
 
-- `L.09.003.09`, `L.09.014.03`, `L.10.012.03`, `L.11.012.03`, `L.12.012.02`
+- `L.03.001.09`, `L.03.012.04`, `L.04.012.03`, `L.05.003.09`, `L.06.001.09`, `L.06.012.02`, `L.09.003.09`, `L.09.014.03`, `L.10.012.03`, `L.11.012.03`, `L.12.012.02`
 
 ### S-224
 
-Cited by: no lessons.
+Cited by 4 lessons:
+
+- `L.01.001.10`, `L.02.001.10`, `L.06.001.10`, `L.06.012.03`
 
 ### S-225
 
-Cited by 2 lessons:
+Cited by 9 lessons:
 
-- `L.10.001.05`, `L.12.001.03`
+- `L.01.001.04`, `L.02.012.04`, `L.04.001.04`, `L.05.002.01`, `L.05.004.06`, `L.06.001.02`, `L.06.001.03`, `L.10.001.05`, `L.12.001.03`
 
 ### S-226
 
-Cited by 11 lessons:
+Cited by 12 lessons:
 
-- `L.09.003.05`, `L.09.004.03`, `L.09.005.05`, `L.10.001.03`, `L.10.001.04`, `L.10.001.05`, `L.10.002.09`, `L.10.003.05`, `L.10.003.06`, `L.10.003.09`, `L.12.011.03`
+- `L.06.001.07`, `L.09.003.05`, `L.09.004.03`, `L.09.005.05`, `L.10.001.03`, `L.10.001.04`, `L.10.001.05`, `L.10.002.09`, `L.10.003.05`, `L.10.003.06`, `L.10.003.09`, `L.12.011.03`
 
 ### S-227
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.10.002.01`
+- `L.06.002.02`, `L.10.002.01`
 
 ### S-228
 
-Cited by 3 lessons:
+Cited by 8 lessons:
 
-- `L.10.012.03`, `L.11.008.10`, `L.11.012.03`
+- `L.00.006.10`, `L.06.002.08`, `L.06.008.08`, `L.06.009.12`, `L.07.009.12`, `L.10.012.03`, `L.11.008.10`, `L.11.012.03`
 
 ### S-229
 
-Cited by 2 lessons:
+Cited by 3 lessons:
 
-- `L.08.012.02`, `L.11.001.09`
+- `L.06.003.01`, `L.08.012.02`, `L.11.001.09`
 
 ### S-230
 
-Cited by 8 lessons:
+Cited by 12 lessons:
 
-- `L.08.003.05`, `L.09.005.04`, `L.10.001.04`, `L.10.003.07`, `L.11.001.08`, `L.11.003.05`, `L.12.001.04`, `L.12.003.05`
+- `L.01.009.08`, `L.01.009.09`, `L.06.003.05`, `L.07.003.06`, `L.08.003.05`, `L.09.005.04`, `L.10.001.04`, `L.10.003.07`, `L.11.001.08`, `L.11.003.05`, `L.12.001.04`, `L.12.003.05`
 
 ### S-231
 
-Cited by 8 lessons:
+Cited by 21 lessons:
 
-- `L.08.003.05`, `L.09.005.04`, `L.11.003.05`, `L.12.001.02`, `L.12.001.04`, `L.12.001.05`, `L.12.003.05`, `L.12.003.06`
+- `L.00.004.06`, `L.00.007.07`, `L.01.003.05`, `L.01.009.07`, `L.01.010.02`, `L.02.003.03`, `L.03.001.04`, `L.04.003.04`, `L.05.004.06`, `L.06.003.05`, `L.06.003.06`, `L.07.003.05`
+- `L.07.003.07`, `L.08.003.05`, `L.09.005.04`, `L.11.003.05`, `L.12.001.02`, `L.12.001.04`, `L.12.001.05`, `L.12.003.05`, `L.12.003.06`
 
 ### S-232
 
-Cited by 11 lessons:
+Cited by 15 lessons:
 
-- `L.08.003.06`, `L.08.012.03`, `L.09.003.04`, `L.09.005.07`, `L.09.014.02`, `L.10.001.06`, `L.11.001.03`, `L.11.003.09`, `L.11.012.04`, `L.12.001.08`, `L.12.003.09`
+- `L.03.001.07`, `L.03.001.08`, `L.03.012.03`, `L.06.003.07`, `L.08.003.06`, `L.08.012.03`, `L.09.003.04`, `L.09.005.07`, `L.09.014.02`, `L.10.001.06`, `L.11.001.03`, `L.11.003.09`
+- `L.11.012.04`, `L.12.001.08`, `L.12.003.09`
 
 ### S-233
 
-Cited by 13 lessons:
+Cited by 20 lessons:
 
-- `L.07.012.05`, `L.08.003.09`, `L.08.012.03`, `L.08.012.05`, `L.09.005.08`, `L.09.005.09`, `L.09.014.04`, `L.10.010.10`, `L.10.012.07`, `L.11.003.13`, `L.11.012.06`, `L.11.012.07`
-- `L.12.010.10`
+- `L.04.002.08`, `L.04.002.09`, `L.04.010.07`, `L.05.004.03`, `L.06.002.07`, `L.06.003.09`, `L.06.012.05`, `L.07.012.05`, `L.08.003.09`, `L.08.012.03`, `L.08.012.05`, `L.09.005.08`
+- `L.09.005.09`, `L.09.014.04`, `L.10.010.10`, `L.10.012.07`, `L.11.003.13`, `L.11.012.06`, `L.11.012.07`, `L.12.010.10`
 
 ### S-234
 
-Cited by 4 lessons:
+Cited by 6 lessons:
 
-- `L.08.003.07`, `L.10.010.07`, `L.11.001.07`, `L.11.011.04`
+- `L.06.003.10`, `L.06.012.05`, `L.08.003.07`, `L.10.010.07`, `L.11.001.07`, `L.11.011.04`
 
 ### S-235
 
-Cited by 4 lessons:
+Cited by 9 lessons:
 
-- `L.08.003.07`, `L.08.003.08`, `L.08.012.03`, `L.11.008.09`
+- `L.03.010.04`, `L.04.003.06`, `L.06.003.08`, `L.06.010.05`, `L.06.012.04`, `L.08.003.07`, `L.08.003.08`, `L.08.012.03`, `L.11.008.09`
 
 ### S-236
 
-Cited by 15 lessons:
+Cited by 20 lessons:
 
-- `L.08.004.03`, `L.10.004.02`, `L.10.004.03`, `L.10.004.09`, `L.10.004.10`, `L.11.004.02`, `L.11.004.03`, `L.11.004.04`, `L.11.008.07`, `L.12.004.02`, `L.12.004.03`, `L.12.004.09`
-- `L.12.004.14`, `L.12.009.02`, `L.12.011.02`
+- `L.05.005.04`, `L.06.004.09`, `L.06.004.10`, `L.07.004.01`, `L.07.004.02`, `L.08.004.03`, `L.10.004.02`, `L.10.004.03`, `L.10.004.09`, `L.10.004.10`, `L.11.004.02`, `L.11.004.03`
+- `L.11.004.04`, `L.11.008.07`, `L.12.004.02`, `L.12.004.03`, `L.12.004.09`, `L.12.004.14`, `L.12.009.02`, `L.12.011.02`
 
 ### S-237
 
-Cited by 10 lessons:
+Cited by 14 lessons:
 
-- `L.08.004.09`, `L.08.004.10`, `L.10.004.04`, `L.10.004.05`, `L.10.004.12`, `L.10.004.15`, `L.11.004.15`, `L.11.004.16`, `L.12.004.13`, `L.12.004.14`
+- `L.01.004.14`, `L.03.004.13`, `L.06.004.14`, `L.07.004.13`, `L.08.004.09`, `L.08.004.10`, `L.10.004.04`, `L.10.004.05`, `L.10.004.12`, `L.10.004.15`, `L.11.004.15`, `L.11.004.16`
+- `L.12.004.13`, `L.12.004.14`
 
 ### S-238
 
-Cited by 5 lessons:
+Cited by 13 lessons:
 
-- `L.11.008.06`, `L.11.008.10`, `L.12.004.01`, `L.12.010.06`, `L.12.010.13`
+- `L.00.011.05`, `L.02.004.02`, `L.02.010.05`, `L.03.003.01`, `L.04.003.01`, `L.06.004.03`, `L.06.004.04`, `L.07.004.04`, `L.11.008.06`, `L.11.008.10`, `L.12.004.01`, `L.12.010.06`
+- `L.12.010.13`
 
 ### S-239
 
-Cited by: no lessons.
+Cited by 2 lessons:
+
+- `L.01.006.10`, `L.01.012.06`
 
 ### S-240
 
-Cited by 11 lessons:
+Cited by 12 lessons:
 
-- `L.08.005.07`, `L.10.005.02`, `L.10.005.04`, `L.10.005.09`, `L.10.005.11`, `L.11.005.01`, `L.11.005.02`, `L.11.005.07`, `L.11.005.12`, `L.12.005.01`, `L.12.005.09`
+- `L.06.005.09`, `L.08.005.07`, `L.10.005.02`, `L.10.005.04`, `L.10.005.09`, `L.10.005.11`, `L.11.005.01`, `L.11.005.02`, `L.11.005.07`, `L.11.005.12`, `L.12.005.01`, `L.12.005.09`
 
 ### S-241
 
-Cited by 2 lessons:
+Cited by 6 lessons:
 
-- `L.10.006.09`, `L.10.006.10`
+- `L.06.005.07`, `L.06.005.13`, `L.06.006.02`, `L.06.006.09`, `L.10.006.09`, `L.10.006.10`
 
 ### S-242
 
-Cited by 5 lessons:
+Cited by 14 lessons:
 
-- `L.08.006.02`, `L.11.005.15`, `L.11.005.16`, `L.11.006.01`, `L.12.005.13`
+- `L.05.001.03`, `L.05.001.04`, `L.05.001.06`, `L.05.001.08`, `L.06.006.01`, `L.06.006.02`, `L.08.006.02`, `L.09.001.02`, `L.09.001.03`, `L.09.001.04`, `L.11.005.15`, `L.11.005.16`
+- `L.11.006.01`, `L.12.005.13`
 
 ### S-243
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.06.006.05`
 
 ### S-244
 
@@ -1903,115 +2141,136 @@ Cited by 2 lessons:
 
 ### S-245
 
-Cited by 2 lessons:
+Cited by 3 lessons:
 
-- `L.11.006.11`, `L.12.006.12`
+- `L.06.006.07`, `L.11.006.11`, `L.12.006.12`
 
 ### S-246
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.06.006.09`
 
 ### S-247
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.06.006.11`
 
 ### S-248
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.06.006.12`
 
 ### S-249
 
-Cited by 1 lesson:
+Cited by 6 lessons:
 
-- `L.11.006.02`
+- `L.04.006.02`, `L.05.001.07`, `L.06.006.03`, `L.09.001.02`, `L.09.001.05`, `L.11.006.02`
 
 ### S-250
 
-Cited by 8 lessons:
+Cited by 15 lessons:
 
-- `L.11.005.15`, `L.11.005.16`, `L.11.006.01`, `L.11.006.02`, `L.11.006.03`, `L.12.005.13`, `L.12.006.02`, `L.12.011.08`
+- `L.00.003.01`, `L.00.003.05`, `L.00.009.07`, `L.04.006.03`, `L.05.001.04`, `L.06.006.04`, `L.09.001.04`, `L.11.005.15`, `L.11.005.16`, `L.11.006.01`, `L.11.006.02`, `L.11.006.03`
+- `L.12.005.13`, `L.12.006.02`, `L.12.011.08`
 
 ### S-251
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.06.006.05`
 
 ### S-252
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.07.011.06`
+- `L.06.006.06`, `L.07.011.06`
 
 ### S-253
 
-Cited by 8 lessons:
+Cited by 9 lessons:
 
-- `L.07.011.06`, `L.08.006.06`, `L.09.008.02`, `L.09.013.07`, `L.11.006.15`, `L.11.011.09`, `L.11.011.11`, `L.12.011.09`
+- `L.06.006.06`, `L.07.011.06`, `L.08.006.06`, `L.09.008.02`, `L.09.013.07`, `L.11.006.15`, `L.11.011.09`, `L.11.011.11`, `L.12.011.09`
 
 ### S-254
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.06.006.11`
 
 ### S-255
 
-Cited by 1 lesson:
+Cited by 3 lessons:
 
-- `L.10.006.11`
+- `L.04.006.07`, `L.06.006.07`, `L.10.006.11`
 
 ### S-256
 
-Cited by 4 lessons:
+Cited by 6 lessons:
 
-- `L.09.008.05`, `L.10.006.11`, `L.11.006.11`, `L.12.006.12`
+- `L.04.006.07`, `L.06.006.08`, `L.09.008.05`, `L.10.006.11`, `L.11.006.11`, `L.12.006.12`
 
 ### S-257
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.06.006.10`
 
 ### S-258
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.06.006.10`
 
 ### S-259
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.10.011.09`
+- `L.06.006.12`, `L.10.011.09`
 
 ### S-260
 
-Cited by 2 lessons:
+Cited by 9 lessons:
 
-- `L.11.007.06`, `L.11.007.07`
+- `L.01.007.06`, `L.02.007.06`, `L.03.007.06`, `L.04.007.07`, `L.06.007.05`, `L.06.007.06`, `L.07.007.06`, `L.11.007.06`, `L.11.007.07`
 
 ### S-261
 
-Cited by 8 lessons:
+Cited by 12 lessons:
 
-- `L.08.008.05`, `L.08.008.07`, `L.08.008.09`, `L.09.010.01`, `L.09.010.02`, `L.09.010.03`, `L.09.010.06`, `L.11.008.08`
+- `L.06.008.01`, `L.06.008.02`, `L.07.002.06`, `L.07.008.01`, `L.08.008.05`, `L.08.008.07`, `L.08.008.09`, `L.09.010.01`, `L.09.010.02`, `L.09.010.03`, `L.09.010.06`, `L.11.008.08`
 
 ### S-262
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.06.009.01`
 
 ### S-263
 
-Cited by: no lessons.
+Cited by 5 lessons:
+
+- `L.03.009.10`, `L.04.011.04`, `L.06.009.01`, `L.09.002.02`, `L.09.002.05`
 
 ### S-264
 
-Cited by 3 lessons:
+Cited by 6 lessons:
 
-- `L.08.009.06`, `L.10.009.05`, `L.12.009.03`
+- `L.01.004.09`, `L.05.010.03`, `L.06.009.01`, `L.08.009.06`, `L.10.009.05`, `L.12.009.03`
 
 ### S-265
 
-Cited by 3 lessons:
+Cited by 4 lessons:
 
-- `L.08.009.06`, `L.09.012.02`, `L.12.009.09`
+- `L.06.009.02`, `L.08.009.06`, `L.09.012.02`, `L.12.009.09`
 
 ### S-266
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.06.009.02`
 
 ### S-267
 
@@ -2019,23 +2278,27 @@ Cited by: no lessons.
 
 ### S-268
 
-Cited by 4 lessons:
+Cited by 5 lessons:
 
-- `L.09.012.03`, `L.09.012.04`, `L.10.009.05`, `L.12.009.07`
+- `L.06.009.03`, `L.09.012.03`, `L.09.012.04`, `L.10.009.05`, `L.12.009.07`
 
 ### S-269
 
-Cited by 5 lessons:
+Cited by 7 lessons:
 
-- `L.08.004.06`, `L.09.006.05`, `L.11.004.05`, `L.11.004.07`, `L.11.004.09`
+- `L.06.009.03`, `L.08.004.06`, `L.09.002.02`, `L.09.006.05`, `L.11.004.05`, `L.11.004.07`, `L.11.004.09`
 
 ### S-270
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.06.009.04`
 
 ### S-271
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.06.009.04`
 
 ### S-272
 
@@ -2045,65 +2308,65 @@ Cited by 4 lessons:
 
 ### S-273
 
-Cited by 7 lessons:
+Cited by 8 lessons:
 
-- `L.09.012.05`, `L.09.012.07`, `L.10.009.03`, `L.10.009.06`, `L.10.009.07`, `L.11.009.02`, `L.12.009.10`
+- `L.06.009.08`, `L.09.012.05`, `L.09.012.07`, `L.10.009.03`, `L.10.009.06`, `L.10.009.07`, `L.11.009.02`, `L.12.009.10`
 
 ### S-274
 
-Cited by 7 lessons:
+Cited by 8 lessons:
 
-- `L.08.009.08`, `L.08.009.09`, `L.09.012.01`, `L.09.012.07`, `L.10.009.07`, `L.12.009.09`, `L.12.009.10`
+- `L.06.009.08`, `L.08.009.08`, `L.08.009.09`, `L.09.012.01`, `L.09.012.07`, `L.10.009.07`, `L.12.009.09`, `L.12.009.10`
 
 ### S-275
 
-Cited by 5 lessons:
+Cited by 7 lessons:
 
-- `L.08.010.05`, `L.10.011.02`, `L.12.009.13`, `L.12.010.05`, `L.12.010.11`
+- `L.06.009.09`, `L.08.010.05`, `L.09.002.02`, `L.10.011.02`, `L.12.009.13`, `L.12.010.05`, `L.12.010.11`
 
 ### S-276
 
-Cited by 4 lessons:
+Cited by 5 lessons:
 
-- `L.09.012.09`, `L.09.012.10`, `L.11.009.13`, `L.12.009.14`
+- `L.06.009.11`, `L.09.012.09`, `L.09.012.10`, `L.11.009.13`, `L.12.009.14`
 
 ### S-277
 
-Cited by 4 lessons:
+Cited by 6 lessons:
 
-- `L.10.002.11`, `L.11.009.03`, `L.11.011.14`, `L.12.011.12`
+- `L.05.012.09`, `L.06.011.07`, `L.10.002.11`, `L.11.009.03`, `L.11.011.14`, `L.12.011.12`
 
 ### S-278
 
-Cited by 7 lessons:
+Cited by 10 lessons:
 
-- `L.12.004.05`, `L.12.010.09`, `L.12.010.11`, `L.12.011.05`, `L.12.011.06`, `L.12.011.07`, `L.12.011.08`
+- `L.05.001.05`, `L.05.012.03`, `L.06.011.03`, `L.12.004.05`, `L.12.010.09`, `L.12.010.11`, `L.12.011.05`, `L.12.011.06`, `L.12.011.07`, `L.12.011.08`
 
 ### S-279
 
-Cited by 5 lessons:
+Cited by 6 lessons:
 
-- `L.09.008.04`, `L.10.011.10`, `L.11.011.13`, `L.12.006.06`, `L.12.011.11`
+- `L.06.011.06`, `L.09.008.04`, `L.10.011.10`, `L.11.011.13`, `L.12.006.06`, `L.12.011.11`
 
 ### S-280
 
-Cited by 4 lessons:
+Cited by 6 lessons:
 
-- `L.10.004.13`, `L.12.002.13`, `L.12.004.11`, `L.12.004.12`
+- `L.06.011.02`, `L.07.007.07`, `L.10.004.13`, `L.12.002.13`, `L.12.004.11`, `L.12.004.12`
 
 ### S-281
 
-Cited by 32 lessons:
+Cited by 35 lessons:
 
-- `L.07.011.01`, `L.09.013.03`, `L.10.003.01`, `L.10.003.09`, `L.10.003.10`, `L.10.003.11`, `L.10.004.01`, `L.10.004.06`, `L.10.004.13`, `L.10.004.14`, `L.10.010.02`, `L.10.010.08`
-- `L.10.010.12`, `L.10.011.01`, `L.10.011.02`, `L.10.011.03`, `L.10.011.04`, `L.11.009.15`, `L.11.010.09`, `L.11.011.01`, `L.11.011.02`, `L.11.011.03`, `L.12.002.12`, `L.12.003.09`
-- `L.12.006.03`, `L.12.006.04`, `L.12.006.11`, `L.12.011.01`, `L.12.011.02`, `L.12.011.03`, `L.12.011.07`, `L.12.011.14`
+- `L.05.012.01`, `L.06.011.02`, `L.07.003.08`, `L.07.011.01`, `L.09.013.03`, `L.10.003.01`, `L.10.003.09`, `L.10.003.10`, `L.10.003.11`, `L.10.004.01`, `L.10.004.06`, `L.10.004.13`
+- `L.10.004.14`, `L.10.010.02`, `L.10.010.08`, `L.10.010.12`, `L.10.011.01`, `L.10.011.02`, `L.10.011.03`, `L.10.011.04`, `L.11.009.15`, `L.11.010.09`, `L.11.011.01`, `L.11.011.02`
+- `L.11.011.03`, `L.12.002.12`, `L.12.003.09`, `L.12.006.03`, `L.12.006.04`, `L.12.006.11`, `L.12.011.01`, `L.12.011.02`, `L.12.011.03`, `L.12.011.07`, `L.12.011.14`
 
 ### S-282
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.07.011.09`
+- `L.07.007.08`, `L.07.011.09`
 
 ### S-283
 
@@ -2113,33 +2376,33 @@ Cited by 12 lessons:
 
 ### S-284
 
-Cited by 3 lessons:
+Cited by 4 lessons:
 
-- `L.08.003.06`, `L.09.003.07`, `L.10.001.08`
+- `L.07.001.08`, `L.08.003.06`, `L.09.003.07`, `L.10.001.08`
 
 ### S-285
 
-Cited by 3 lessons:
+Cited by 7 lessons:
 
-- `L.10.002.10`, `L.11.002.12`, `L.12.002.10`
+- `L.01.008.03`, `L.03.002.04`, `L.03.008.02`, `L.07.002.07`, `L.10.002.10`, `L.11.002.12`, `L.12.002.10`
 
 ### S-286
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.12.008.07`
+- `L.07.002.08`, `L.12.008.07`
 
 ### S-287
 
-Cited by 2 lessons:
+Cited by 4 lessons:
 
-- `L.11.002.08`, `L.11.002.09`
+- `L.05.003.08`, `L.07.002.04`, `L.11.002.08`, `L.11.002.09`
 
 ### S-288
 
-Cited by 5 lessons:
+Cited by 6 lessons:
 
-- `L.07.005.01`, `L.07.005.03`, `L.07.005.09`, `L.08.005.05`, `L.11.005.13`
+- `L.06.005.01`, `L.07.005.01`, `L.07.005.03`, `L.07.005.09`, `L.08.005.05`, `L.11.005.13`
 
 ### S-289
 
@@ -2149,9 +2412,9 @@ Cited by 8 lessons:
 
 ### S-290
 
-Cited by 2 lessons:
+Cited by 3 lessons:
 
-- `L.07.005.05`, `L.12.005.05`
+- `L.06.005.03`, `L.07.005.05`, `L.12.005.05`
 
 ### S-291
 
@@ -2167,9 +2430,9 @@ Cited by 7 lessons:
 
 ### S-293
 
-Cited by 4 lessons:
+Cited by 6 lessons:
 
-- `L.07.005.06`, `L.08.005.06`, `L.10.005.04`, `L.12.005.07`
+- `L.06.005.05`, `L.06.005.06`, `L.07.005.06`, `L.08.005.06`, `L.10.005.04`, `L.12.005.07`
 
 ### S-294
 
@@ -2203,9 +2466,9 @@ Cited by 2 lessons:
 
 ### S-299
 
-Cited by 2 lessons:
+Cited by 5 lessons:
 
-- `L.07.005.11`, `L.10.005.11`
+- `L.05.006.07`, `L.06.005.11`, `L.06.005.12`, `L.07.005.11`, `L.10.005.11`
 
 ### S-300
 
@@ -2215,142 +2478,145 @@ Cited by 2 lessons:
 
 ### S-301
 
-Cited by 7 lessons:
+Cited by 11 lessons:
 
-- `L.07.005.14`, `L.10.005.12`, `L.10.005.13`, `L.10.005.14`, `L.10.006.01`, `L.10.006.02`, `L.12.005.13`
+- `L.05.006.15`, `L.06.005.13`, `L.06.005.14`, `L.07.005.13`, `L.07.005.14`, `L.10.005.12`, `L.10.005.13`, `L.10.005.14`, `L.10.006.01`, `L.10.006.02`, `L.12.005.13`
 
 ### S-302
 
-Cited by 4 lessons:
+Cited by 6 lessons:
 
-- `L.10.006.09`, `L.10.006.10`, `L.12.005.02`, `L.12.006.09`
+- `L.07.006.07`, `L.07.006.08`, `L.10.006.09`, `L.10.006.10`, `L.12.005.02`, `L.12.006.09`
 
 ### S-303
 
-Cited by 7 lessons:
+Cited by 8 lessons:
 
-- `L.10.006.05`, `L.10.006.15`, `L.11.006.05`, `L.11.006.06`, `L.11.006.07`, `L.12.006.07`, `L.12.006.14`
+- `L.07.006.04`, `L.10.006.05`, `L.10.006.15`, `L.11.006.05`, `L.11.006.06`, `L.11.006.07`, `L.12.006.07`, `L.12.006.14`
 
 ### S-304
 
-Cited by 2 lessons:
+Cited by 3 lessons:
 
-- `L.11.009.02`, `L.12.006.07`
+- `L.07.006.05`, `L.11.009.02`, `L.12.006.07`
 
 ### S-305
 
-Cited by 3 lessons:
+Cited by 4 lessons:
 
-- `L.10.006.05`, `L.11.006.05`, `L.12.006.07`
+- `L.07.006.05`, `L.10.006.05`, `L.11.006.05`, `L.12.006.07`
 
 ### S-306
 
-Cited by 4 lessons:
+Cited by 5 lessons:
 
-- `L.08.006.01`, `L.08.006.02`, `L.08.006.03`, `L.12.006.02`
+- `L.07.006.02`, `L.08.006.01`, `L.08.006.02`, `L.08.006.03`, `L.12.006.02`
 
 ### S-307
 
-Cited by 3 lessons:
+Cited by 4 lessons:
 
-- `L.12.005.14`, `L.12.006.02`, `L.12.011.08`
+- `L.07.006.01`, `L.12.005.14`, `L.12.006.02`, `L.12.011.08`
 
 ### S-308
 
-Cited by 5 lessons:
+Cited by 7 lessons:
 
-- `L.09.008.08`, `L.09.008.09`, `L.11.006.06`, `L.12.006.07`, `L.12.006.13`
+- `L.04.006.10`, `L.07.006.12`, `L.09.008.08`, `L.09.008.09`, `L.11.006.06`, `L.12.006.07`, `L.12.006.13`
 
 ### S-309
 
-Cited by 5 lessons:
+Cited by 6 lessons:
 
-- `L.07.011.08`, `L.10.006.14`, `L.11.006.15`, `L.11.006.16`, `L.12.011.10`
+- `L.07.006.11`, `L.07.011.08`, `L.10.006.14`, `L.11.006.15`, `L.11.006.16`, `L.12.011.10`
 
 ### S-310
 
-Cited by 4 lessons:
+Cited by 5 lessons:
 
-- `L.08.006.05`, `L.10.011.10`, `L.10.011.11`, `L.12.006.05`
+- `L.07.006.06`, `L.08.006.05`, `L.10.011.10`, `L.10.011.11`, `L.12.006.05`
 
 ### S-311
 
-Cited by 17 lessons:
+Cited by 18 lessons:
 
-- `L.07.012.03`, `L.08.008.09`, `L.09.003.05`, `L.09.004.03`, `L.09.010.07`, `L.09.010.08`, `L.10.001.03`, `L.10.003.07`, `L.10.003.09`, `L.11.008.04`, `L.11.008.08`, `L.12.001.09`
-- `L.12.002.11`, `L.12.003.04`, `L.12.008.07`, `L.12.008.08`, `L.12.008.09`
+- `L.07.008.07`, `L.07.012.03`, `L.08.008.09`, `L.09.003.05`, `L.09.004.03`, `L.09.010.07`, `L.09.010.08`, `L.10.001.03`, `L.10.003.07`, `L.10.003.09`, `L.11.008.04`, `L.11.008.08`
+- `L.12.001.09`, `L.12.002.11`, `L.12.003.04`, `L.12.008.07`, `L.12.008.08`, `L.12.008.09`
 
 ### S-312
 
-Cited by 4 lessons:
+Cited by 6 lessons:
 
-- `L.08.008.06`, `L.10.002.10`, `L.10.008.09`, `L.11.002.11`
+- `L.07.008.03`, `L.07.008.04`, `L.08.008.06`, `L.10.002.10`, `L.10.008.09`, `L.11.002.11`
 
 ### S-313
 
-Cited by 2 lessons:
+Cited by 5 lessons:
 
-- `L.11.008.04`, `L.12.008.10`
+- `L.05.009.06`, `L.07.008.05`, `L.07.008.06`, `L.11.008.04`, `L.12.008.10`
 
 ### S-314
 
-Cited by 2 lessons:
+Cited by 6 lessons:
 
-- `L.11.009.01`, `L.11.009.04`
+- `L.02.009.01`, `L.02.009.10`, `L.05.010.10`, `L.07.009.01`, `L.11.009.01`, `L.11.009.04`
 
 ### S-315
 
-Cited by 3 lessons:
+Cited by 5 lessons:
 
-- `L.10.009.01`, `L.10.009.02`, `L.10.009.03`
+- `L.04.009.01`, `L.07.009.02`, `L.10.009.01`, `L.10.009.02`, `L.10.009.03`
 
 ### S-316
 
-Cited by 5 lessons:
+Cited by 13 lessons:
 
-- `L.10.011.05`, `L.11.009.01`, `L.11.009.04`, `L.12.009.01`, `L.12.009.02`
+- `L.02.009.09`, `L.02.009.10`, `L.03.009.10`, `L.05.010.02`, `L.05.010.10`, `L.07.009.03`, `L.09.002.02`, `L.09.002.05`, `L.10.011.05`, `L.11.009.01`, `L.11.009.04`, `L.12.009.01`
+- `L.12.009.02`
 
 ### S-317
 
-Cited by 3 lessons:
+Cited by 5 lessons:
 
-- `L.07.011.02`, `L.08.009.03`, `L.08.009.06`
+- `L.06.009.06`, `L.07.009.04`, `L.07.011.02`, `L.08.009.03`, `L.08.009.06`
 
 ### S-318
 
-Cited by 2 lessons:
+Cited by 3 lessons:
 
-- `L.08.009.03`, `L.08.009.06`
+- `L.06.009.06`, `L.08.009.03`, `L.08.009.06`
 
 ### S-319
 
-Cited by: no lessons.
+Cited by 1 lesson:
+
+- `L.07.009.06`
 
 ### S-320
 
-Cited by 15 lessons:
+Cited by 16 lessons:
 
-- `L.07.011.09`, `L.08.011.06`, `L.08.011.09`, `L.09.013.07`, `L.10.011.13`, `L.11.006.04`, `L.11.009.05`, `L.11.009.06`, `L.11.011.14`, `L.12.006.06`, `L.12.006.08`, `L.12.009.05`
-- `L.12.009.06`, `L.12.009.08`, `L.12.011.11`
+- `L.07.009.07`, `L.07.011.09`, `L.08.011.06`, `L.08.011.09`, `L.09.013.07`, `L.10.011.13`, `L.11.006.04`, `L.11.009.05`, `L.11.009.06`, `L.11.011.14`, `L.12.006.06`, `L.12.006.08`
+- `L.12.009.05`, `L.12.009.06`, `L.12.009.08`, `L.12.011.11`
 
 ### S-321
 
-Cited by 13 lessons:
+Cited by 14 lessons:
 
-- `L.07.011.09`, `L.08.011.06`, `L.08.011.09`, `L.09.013.07`, `L.11.006.04`, `L.11.009.05`, `L.11.011.14`, `L.12.006.06`, `L.12.006.08`, `L.12.009.05`, `L.12.009.06`, `L.12.009.08`
-- `L.12.011.11`
+- `L.07.009.07`, `L.07.011.09`, `L.08.011.06`, `L.08.011.09`, `L.09.013.07`, `L.11.006.04`, `L.11.009.05`, `L.11.011.14`, `L.12.006.06`, `L.12.006.08`, `L.12.009.05`, `L.12.009.06`
+- `L.12.009.08`, `L.12.011.11`
 
 ### S-322
 
-Cited by 6 lessons:
+Cited by 9 lessons:
 
-- `L.08.009.08`, `L.09.012.01`, `L.09.012.07`, `L.10.009.07`, `L.12.009.09`, `L.12.009.10`
+- `L.07.009.08`, `L.08.009.08`, `L.09.002.02`, `L.09.002.03`, `L.09.012.01`, `L.09.012.07`, `L.10.009.07`, `L.12.009.09`, `L.12.009.10`
 
 ### S-323
 
-Cited by 6 lessons:
+Cited by 8 lessons:
 
-- `L.08.009.03`, `L.08.009.06`, `L.09.012.01`, `L.09.012.02`, `L.10.009.06`, `L.12.009.09`
+- `L.05.010.07`, `L.07.009.09`, `L.08.009.03`, `L.08.009.06`, `L.09.012.01`, `L.09.012.02`, `L.10.009.06`, `L.12.009.09`
 
 ### S-324
 
@@ -2366,9 +2632,9 @@ Cited by 7 lessons:
 
 ### S-326
 
-Cited by 5 lessons:
+Cited by 6 lessons:
 
-- `L.09.012.01`, `L.09.012.08`, `L.10.009.03`, `L.10.009.07`, `L.10.009.08`
+- `L.07.009.11`, `L.09.012.01`, `L.09.012.08`, `L.10.009.03`, `L.10.009.07`, `L.10.009.08`
 
 ### S-327
 
@@ -2438,21 +2704,23 @@ Cited by 3 lessons:
 
 ### S-338
 
-Cited by 8 lessons:
+Cited by 14 lessons:
 
-- `L.08.002.02`, `L.08.002.03`, `L.09.004.01`, `L.09.004.02`, `L.10.002.01`, `L.10.002.04`, `L.10.002.06`, `L.12.002.03`
+- `L.02.001.05`, `L.02.002.03`, `L.05.003.01`, `L.06.002.01`, `L.06.008.07`, `L.07.002.01`, `L.08.002.02`, `L.08.002.03`, `L.09.004.01`, `L.09.004.02`, `L.10.002.01`, `L.10.002.04`
+- `L.10.002.06`, `L.12.002.03`
 
 ### S-339
 
-Cited by 5 lessons:
+Cited by 8 lessons:
 
-- `L.08.002.02`, `L.09.004.01`, `L.10.002.01`, `L.11.002.02`, `L.12.002.03`
+- `L.02.001.04`, `L.04.001.02`, `L.05.003.02`, `L.08.002.02`, `L.09.004.01`, `L.10.002.01`, `L.11.002.02`, `L.12.002.03`
 
 ### S-340
 
-Cited by 7 lessons:
+Cited by 14 lessons:
 
-- `L.08.002.03`, `L.10.002.01`, `L.10.002.05`, `L.10.002.06`, `L.11.002.02`, `L.11.002.05`, `L.12.002.03`
+- `L.01.001.09`, `L.02.001.09`, `L.03.001.10`, `L.03.010.08`, `L.05.003.01`, `L.06.002.02`, `L.07.002.02`, `L.08.002.03`, `L.10.002.01`, `L.10.002.05`, `L.10.002.06`, `L.11.002.02`
+- `L.11.002.05`, `L.12.002.03`
 
 ### S-341
 
@@ -2463,9 +2731,10 @@ Cited by 14 lessons:
 
 ### S-342
 
-Cited by 12 lessons:
+Cited by 16 lessons:
 
-- `L.08.002.06`, `L.09.004.05`, `L.09.004.06`, `L.10.002.05`, `L.10.002.08`, `L.11.002.01`, `L.11.002.06`, `L.11.002.07`, `L.11.002.09`, `L.11.002.10`, `L.12.002.12`, `L.12.002.13`
+- `L.02.002.10`, `L.04.002.07`, `L.04.002.10`, `L.05.003.04`, `L.08.002.06`, `L.09.004.05`, `L.09.004.06`, `L.10.002.05`, `L.10.002.08`, `L.11.002.01`, `L.11.002.06`, `L.11.002.07`
+- `L.11.002.09`, `L.11.002.10`, `L.12.002.12`, `L.12.002.13`
 
 ### S-343
 
@@ -2475,16 +2744,16 @@ Cited by 7 lessons:
 
 ### S-344
 
-Cited by 4 lessons:
+Cited by 6 lessons:
 
-- `L.08.003.06`, `L.09.005.07`, `L.10.004.06`, `L.12.003.06`
+- `L.06.001.04`, `L.07.001.07`, `L.08.003.06`, `L.09.005.07`, `L.10.004.06`, `L.12.003.06`
 
 ### S-345
 
-Cited by 19 lessons:
+Cited by 23 lessons:
 
-- `L.08.003.10`, `L.08.012.04`, `L.09.005.06`, `L.09.005.09`, `L.09.005.10`, `L.09.014.03`, `L.09.014.04`, `L.10.003.12`, `L.10.012.06`, `L.11.003.12`, `L.11.008.10`, `L.11.012.06`
-- `L.12.003.11`, `L.12.003.12`, `L.12.010.07`, `L.12.010.08`, `L.12.010.10`, `L.12.011.14`, `L.12.012.03`
+- `L.01.003.08`, `L.01.012.05`, `L.04.003.07`, `L.04.012.06`, `L.08.003.10`, `L.08.012.04`, `L.09.005.06`, `L.09.005.09`, `L.09.005.10`, `L.09.014.03`, `L.09.014.04`, `L.10.003.12`
+- `L.10.012.06`, `L.11.003.12`, `L.11.008.10`, `L.11.012.06`, `L.12.003.11`, `L.12.003.12`, `L.12.010.07`, `L.12.010.08`, `L.12.010.10`, `L.12.011.14`, `L.12.012.03`
 
 ### S-346
 
@@ -2500,9 +2769,9 @@ Cited by 1 lesson:
 
 ### S-348
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.08.004.04`
+- `L.05.005.08`, `L.08.004.04`
 
 ### S-349
 
@@ -2542,9 +2811,9 @@ Cited by 2 lessons:
 
 ### S-355
 
-Cited by 2 lessons:
+Cited by 3 lessons:
 
-- `L.08.005.11`, `L.08.006.01`
+- `L.06.005.08`, `L.08.005.11`, `L.08.006.01`
 
 ### S-356
 
@@ -2554,15 +2823,15 @@ Cited by 2 lessons:
 
 ### S-357
 
-Cited by 4 lessons:
+Cited by 5 lessons:
 
-- `L.08.006.03`, `L.12.006.01`, `L.12.006.03`, `L.12.006.04`
+- `L.05.001.09`, `L.08.006.03`, `L.12.006.01`, `L.12.006.03`, `L.12.006.04`
 
 ### S-358
 
-Cited by 2 lessons:
+Cited by 3 lessons:
 
-- `L.08.006.03`, `L.12.006.01`
+- `L.05.001.03`, `L.08.006.03`, `L.12.006.01`
 
 ### S-359
 
@@ -2602,15 +2871,16 @@ Cited by 5 lessons:
 
 ### S-365
 
-Cited by 6 lessons:
+Cited by 13 lessons:
 
-- `L.08.007.03`, `L.10.007.01`, `L.10.007.03`, `L.11.007.02`, `L.12.007.02`, `L.12.007.03`
+- `L.00.007.02`, `L.01.007.01`, `L.02.007.02`, `L.03.007.01`, `L.03.007.02`, `L.04.007.01`, `L.06.007.01`, `L.08.007.03`, `L.10.007.01`, `L.10.007.03`, `L.11.007.02`, `L.12.007.02`
+- `L.12.007.03`
 
 ### S-366
 
-Cited by 6 lessons:
+Cited by 7 lessons:
 
-- `L.08.007.04`, `L.10.007.04`, `L.11.007.05`, `L.12.007.05`, `L.12.007.06`, `L.12.007.07`
+- `L.04.007.05`, `L.08.007.04`, `L.10.007.04`, `L.11.007.05`, `L.12.007.05`, `L.12.007.06`, `L.12.007.07`
 
 ### S-367
 
@@ -2620,28 +2890,28 @@ Cited by 3 lessons:
 
 ### S-368
 
-Cited by 3 lessons:
+Cited by 10 lessons:
 
-- `L.08.007.05`, `L.11.007.04`, `L.12.007.07`
+- `L.00.007.04`, `L.01.007.03`, `L.01.007.04`, `L.03.007.03`, `L.03.007.04`, `L.04.007.04`, `L.06.007.03`, `L.08.007.05`, `L.11.007.04`, `L.12.007.07`
 
 ### S-369
 
-Cited by 14 lessons:
+Cited by 16 lessons:
 
-- `L.08.007.08`, `L.08.007.09`, `L.10.007.10`, `L.10.007.11`, `L.10.007.12`, `L.11.002.06`, `L.11.002.07`, `L.11.002.10`, `L.11.007.08`, `L.11.008.09`, `L.12.002.12`, `L.12.002.13`
-- `L.12.007.13`, `L.12.007.14`
+- `L.04.007.08`, `L.06.007.08`, `L.08.007.08`, `L.08.007.09`, `L.10.007.10`, `L.10.007.11`, `L.10.007.12`, `L.11.002.06`, `L.11.002.07`, `L.11.002.10`, `L.11.007.08`, `L.11.008.09`
+- `L.12.002.12`, `L.12.002.13`, `L.12.007.13`, `L.12.007.14`
 
 ### S-370
 
-Cited by 3 lessons:
+Cited by 9 lessons:
 
-- `L.08.007.08`, `L.11.007.08`, `L.12.007.13`
+- `L.00.007.09`, `L.01.007.07`, `L.01.007.09`, `L.01.007.10`, `L.03.007.07`, `L.05.008.09`, `L.08.007.08`, `L.11.007.08`, `L.12.007.13`
 
 ### S-371
 
-Cited by 9 lessons:
+Cited by 12 lessons:
 
-- `L.08.007.08`, `L.08.007.09`, `L.08.011.03`, `L.08.011.08`, `L.10.011.12`, `L.11.007.09`, `L.12.011.01`, `L.12.011.04`, `L.12.011.12`
+- `L.06.007.08`, `L.06.011.08`, `L.07.007.08`, `L.08.007.08`, `L.08.007.09`, `L.08.011.03`, `L.08.011.08`, `L.10.011.12`, `L.11.007.09`, `L.12.011.01`, `L.12.011.04`, `L.12.011.12`
 
 ### S-372
 
@@ -2657,9 +2927,9 @@ Cited by 2 lessons:
 
 ### S-374
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.08.008.06`
+- `L.08.008.06`, `L.09.001.04`
 
 ### S-375
 
@@ -2711,15 +2981,15 @@ Cited by 2 lessons:
 
 ### S-383
 
-Cited by 8 lessons:
+Cited by 9 lessons:
 
-- `L.08.009.07`, `L.10.009.09`, `L.11.009.11`, `L.11.009.12`, `L.12.009.09`, `L.12.009.10`, `L.12.009.11`, `L.12.009.12`
+- `L.03.009.05`, `L.08.009.07`, `L.10.009.09`, `L.11.009.11`, `L.11.009.12`, `L.12.009.09`, `L.12.009.10`, `L.12.009.11`, `L.12.009.12`
 
 ### S-384
 
-Cited by 3 lessons:
+Cited by 4 lessons:
 
-- `L.08.009.08`, `L.09.012.09`, `L.09.012.10`
+- `L.08.009.08`, `L.09.002.03`, `L.09.012.09`, `L.09.012.10`
 
 ### S-385
 
@@ -2729,27 +2999,28 @@ Cited by 4 lessons:
 
 ### S-386
 
-Cited by 2 lessons:
+Cited by 4 lessons:
 
-- `L.08.010.02`, `L.12.010.02`
+- `L.04.010.01`, `L.06.010.03`, `L.08.010.02`, `L.12.010.02`
 
 ### S-387
 
-Cited by 2 lessons:
+Cited by 4 lessons:
 
-- `L.08.010.02`, `L.12.010.02`
+- `L.05.010.09`, `L.06.010.02`, `L.08.010.02`, `L.12.010.02`
 
 ### S-388
 
-Cited by 10 lessons:
+Cited by 17 lessons:
 
-- `L.08.010.02`, `L.08.010.04`, `L.09.011.07`, `L.09.011.08`, `L.11.003.07`, `L.11.003.09`, `L.11.008.02`, `L.11.010.08`, `L.11.010.09`, `L.12.010.07`
+- `L.01.010.03`, `L.01.010.10`, `L.02.010.03`, `L.04.003.08`, `L.04.010.04`, `L.05.004.10`, `L.06.010.04`, `L.08.010.02`, `L.08.010.04`, `L.09.011.07`, `L.09.011.08`, `L.11.003.07`
+- `L.11.003.09`, `L.11.008.02`, `L.11.010.08`, `L.11.010.09`, `L.12.010.07`
 
 ### S-389
 
-Cited by 8 lessons:
+Cited by 10 lessons:
 
-- `L.08.010.03`, `L.09.011.04`, `L.09.011.06`, `L.09.011.09`, `L.10.007.02`, `L.10.007.06`, `L.10.007.09`, `L.12.010.03`
+- `L.02.001.08`, `L.02.012.03`, `L.08.010.03`, `L.09.011.04`, `L.09.011.06`, `L.09.011.09`, `L.10.007.02`, `L.10.007.06`, `L.10.007.09`, `L.12.010.03`
 
 ### S-390
 
@@ -2765,9 +3036,9 @@ Cited by 2 lessons:
 
 ### S-392
 
-Cited by 3 lessons:
+Cited by 5 lessons:
 
-- `L.08.010.09`, `L.10.010.14`, `L.12.010.14`
+- `L.08.010.09`, `L.09.002.04`, `L.09.002.05`, `L.10.010.14`, `L.12.010.14`
 
 ### S-393
 
@@ -2777,9 +3048,9 @@ Cited by 8 lessons:
 
 ### S-394
 
-Cited by 7 lessons:
+Cited by 9 lessons:
 
-- `L.08.011.05`, `L.09.013.05`, `L.10.008.08`, `L.10.008.10`, `L.10.011.05`, `L.10.011.06`, `L.12.011.06`
+- `L.05.012.03`, `L.08.011.05`, `L.09.001.04`, `L.09.013.05`, `L.10.008.08`, `L.10.008.10`, `L.10.011.05`, `L.10.011.06`, `L.12.011.06`
 
 ### S-395
 
@@ -2810,9 +3081,10 @@ Cited by 14 lessons:
 
 ### S-399
 
-Cited by 11 lessons:
+Cited by 14 lessons:
 
-- `L.08.012.01`, `L.09.003.06`, `L.09.003.08`, `L.09.014.01`, `L.10.012.01`, `L.10.012.02`, `L.11.001.06`, `L.11.012.01`, `L.11.012.02`, `L.12.001.11`, `L.12.009.04`
+- `L.03.001.09`, `L.03.012.04`, `L.07.001.06`, `L.08.012.01`, `L.09.003.06`, `L.09.003.08`, `L.09.014.01`, `L.10.012.01`, `L.10.012.02`, `L.11.001.06`, `L.11.012.01`, `L.11.012.02`
+- `L.12.001.11`, `L.12.009.04`
 
 ### S-400
 
@@ -2822,15 +3094,16 @@ Cited by 8 lessons:
 
 ### S-401
 
-Cited by 10 lessons:
+Cited by 18 lessons:
 
-- `L.09.003.02`, `L.09.003.03`, `L.09.004.01`, `L.09.004.02`, `L.09.004.03`, `L.10.001.01`, `L.10.001.02`, `L.11.001.04`, `L.12.002.01`, `L.12.002.02`
+- `L.00.001.02`, `L.02.001.02`, `L.02.002.04`, `L.02.012.01`, `L.04.001.02`, `L.04.001.03`, `L.05.002.02`, `L.07.001.02`, `L.09.003.02`, `L.09.003.03`, `L.09.004.01`, `L.09.004.02`
+- `L.09.004.03`, `L.10.001.01`, `L.10.001.02`, `L.11.001.04`, `L.12.002.01`, `L.12.002.02`
 
 ### S-402
 
-Cited by 1 lesson:
+Cited by 5 lessons:
 
-- `L.09.003.02`
+- `L.03.001.02`, `L.03.012.01`, `L.04.001.01`, `L.04.001.03`, `L.09.003.02`
 
 ### S-403
 
@@ -2840,15 +3113,16 @@ Cited by 8 lessons:
 
 ### S-404
 
-Cited by 10 lessons:
+Cited by 18 lessons:
 
-- `L.09.003.06`, `L.09.014.01`, `L.10.001.07`, `L.10.001.09`, `L.10.012.02`, `L.11.012.02`, `L.12.001.06`, `L.12.001.10`, `L.12.010.03`, `L.12.012.01`
+- `L.01.001.05`, `L.01.001.08`, `L.01.012.06`, `L.03.001.03`, `L.03.001.05`, `L.03.012.02`, `L.04.012.01`, `L.05.002.08`, `L.09.003.06`, `L.09.014.01`, `L.10.001.07`, `L.10.001.09`
+- `L.10.012.02`, `L.11.012.02`, `L.12.001.06`, `L.12.001.10`, `L.12.010.03`, `L.12.012.01`
 
 ### S-405
 
-Cited by 3 lessons:
+Cited by 5 lessons:
 
-- `L.09.003.10`, `L.10.001.08`, `L.11.008.06`
+- `L.06.003.03`, `L.06.003.04`, `L.09.003.10`, `L.10.001.08`, `L.11.008.06`
 
 ### S-406
 
@@ -2864,9 +3138,9 @@ Cited by 4 lessons:
 
 ### S-408
 
-Cited by 7 lessons:
+Cited by 8 lessons:
 
-- `L.09.004.06`, `L.10.002.03`, `L.10.002.04`, `L.10.002.06`, `L.11.002.03`, `L.11.002.05`, `L.12.002.08`
+- `L.05.003.08`, `L.09.004.06`, `L.10.002.03`, `L.10.002.04`, `L.10.002.06`, `L.11.002.03`, `L.11.002.05`, `L.12.002.08`
 
 ### S-409
 
@@ -2888,9 +3162,9 @@ Cited by 4 lessons:
 
 ### S-412
 
-Cited by 10 lessons:
+Cited by 11 lessons:
 
-- `L.09.005.02`, `L.09.010.01`, `L.09.010.02`, `L.09.010.03`, `L.09.010.04`, `L.09.010.05`, `L.09.010.06`, `L.10.008.01`, `L.10.008.02`, `L.11.008.05`
+- `L.03.008.08`, `L.09.005.02`, `L.09.010.01`, `L.09.010.02`, `L.09.010.03`, `L.09.010.04`, `L.09.010.05`, `L.09.010.06`, `L.10.008.01`, `L.10.008.02`, `L.11.008.05`
 
 ### S-413
 
@@ -2912,16 +3186,16 @@ Cited by 6 lessons:
 
 ### S-416
 
-Cited by 13 lessons:
+Cited by 20 lessons:
 
-- `L.09.005.08`, `L.10.011.13`, `L.10.012.05`, `L.11.010.10`, `L.11.011.14`, `L.11.012.05`, `L.12.003.10`, `L.12.003.13`, `L.12.010.09`, `L.12.010.10`, `L.12.011.04`, `L.12.011.13`
-- `L.12.011.14`
+- `L.03.003.06`, `L.03.010.05`, `L.03.010.06`, `L.03.012.05`, `L.04.003.08`, `L.04.010.05`, `L.05.004.08`, `L.09.005.08`, `L.10.011.13`, `L.10.012.05`, `L.11.010.10`, `L.11.011.14`
+- `L.11.012.05`, `L.12.003.10`, `L.12.003.13`, `L.12.010.09`, `L.12.010.10`, `L.12.011.04`, `L.12.011.13`, `L.12.011.14`
 
 ### S-417
 
-Cited by 8 lessons:
+Cited by 10 lessons:
 
-- `L.09.006.04`, `L.10.011.07`, `L.10.011.08`, `L.11.009.01`, `L.11.009.04`, `L.12.009.01`, `L.12.009.02`, `L.12.011.05`
+- `L.00.010.04`, `L.05.004.05`, `L.09.006.04`, `L.10.011.07`, `L.10.011.08`, `L.11.009.01`, `L.11.009.04`, `L.12.009.01`, `L.12.009.02`, `L.12.011.05`
 
 ### S-418
 
@@ -2973,9 +3247,9 @@ Cited by 5 lessons:
 
 ### S-426
 
-Cited by 7 lessons:
+Cited by 9 lessons:
 
-- `L.09.006.11`, `L.11.004.01`, `L.11.004.06`, `L.11.009.07`, `L.11.009.08`, `L.12.004.12`, `L.12.004.14`
+- `L.00.005.13`, `L.03.004.14`, `L.09.006.11`, `L.11.004.01`, `L.11.004.06`, `L.11.009.07`, `L.11.009.08`, `L.12.004.12`, `L.12.004.14`
 
 ### S-427
 
@@ -3030,9 +3304,9 @@ Cited by 3 lessons:
 
 ### S-435
 
-Cited by 10 lessons:
+Cited by 11 lessons:
 
-- `L.09.007.08`, `L.09.008.05`, `L.10.005.05`, `L.11.005.07`, `L.11.005.08`, `L.11.005.09`, `L.11.005.10`, `L.11.006.10`, `L.12.006.09`, `L.12.006.10`
+- `L.05.006.08`, `L.09.007.08`, `L.09.008.05`, `L.10.005.05`, `L.11.005.07`, `L.11.005.08`, `L.11.005.09`, `L.11.005.10`, `L.11.006.10`, `L.12.006.09`, `L.12.006.10`
 
 ### S-436
 
@@ -3073,9 +3347,10 @@ Cited by 3 lessons:
 
 ### S-442
 
-Cited by 11 lessons:
+Cited by 13 lessons:
 
-- `L.09.009.02`, `L.10.004.06`, `L.10.004.07`, `L.10.011.06`, `L.10.011.07`, `L.10.011.08`, `L.11.008.07`, `L.11.011.05`, `L.11.011.06`, `L.12.011.05`, `L.12.011.06`
+- `L.03.011.04`, `L.05.005.08`, `L.09.009.02`, `L.10.004.06`, `L.10.004.07`, `L.10.011.06`, `L.10.011.07`, `L.10.011.08`, `L.11.008.07`, `L.11.011.05`, `L.11.011.06`, `L.12.011.05`
+- `L.12.011.06`
 
 ### S-443
 
@@ -3097,15 +3372,15 @@ Cited by 2 lessons:
 
 ### S-446
 
-Cited by 6 lessons:
+Cited by 7 lessons:
 
-- `L.09.009.06`, `L.10.004.01`, `L.10.007.04`, `L.10.007.06`, `L.11.007.06`, `L.12.009.07`
+- `L.09.002.02`, `L.09.009.06`, `L.10.004.01`, `L.10.007.04`, `L.10.007.06`, `L.11.007.06`, `L.12.009.07`
 
 ### S-447
 
-Cited by 3 lessons:
+Cited by 4 lessons:
 
-- `L.09.009.06`, `L.10.007.09`, `L.11.007.06`
+- `L.05.008.08`, `L.09.009.06`, `L.10.007.09`, `L.11.007.06`
 
 ### S-448
 
@@ -3133,9 +3408,10 @@ Cited by 3 lessons:
 
 ### S-452
 
-Cited by 12 lessons:
+Cited by 13 lessons:
 
-- `L.09.009.08`, `L.10.007.11`, `L.10.007.12`, `L.10.011.12`, `L.10.011.14`, `L.11.007.09`, `L.12.006.12`, `L.12.007.13`, `L.12.007.14`, `L.12.011.04`, `L.12.011.13`, `L.12.012.03`
+- `L.05.012.09`, `L.09.009.08`, `L.10.007.11`, `L.10.007.12`, `L.10.011.12`, `L.10.011.14`, `L.11.007.09`, `L.12.006.12`, `L.12.007.13`, `L.12.007.14`, `L.12.011.04`, `L.12.011.13`
+- `L.12.012.03`
 
 ### S-453
 
@@ -3157,21 +3433,21 @@ Cited by 2 lessons:
 
 ### S-456
 
-Cited by 6 lessons:
+Cited by 8 lessons:
 
-- `L.09.011.01`, `L.09.011.02`, `L.09.011.05`, `L.10.010.01`, `L.12.010.01`, `L.12.010.02`
+- `L.09.002.04`, `L.09.002.05`, `L.09.011.01`, `L.09.011.02`, `L.09.011.05`, `L.10.010.01`, `L.12.010.01`, `L.12.010.02`
 
 ### S-457
 
-Cited by 6 lessons:
+Cited by 9 lessons:
 
-- `L.09.011.01`, `L.09.011.03`, `L.09.011.05`, `L.10.010.01`, `L.12.010.01`, `L.12.010.02`
+- `L.09.002.03`, `L.09.002.04`, `L.09.002.05`, `L.09.011.01`, `L.09.011.03`, `L.09.011.05`, `L.10.010.01`, `L.12.010.01`, `L.12.010.02`
 
 ### S-458
 
-Cited by 9 lessons:
+Cited by 11 lessons:
 
-- `L.09.011.01`, `L.09.011.04`, `L.09.011.05`, `L.10.010.01`, `L.11.010.03`, `L.11.010.08`, `L.12.010.01`, `L.12.010.02`, `L.12.010.04`
+- `L.09.002.04`, `L.09.002.05`, `L.09.011.01`, `L.09.011.04`, `L.09.011.05`, `L.10.010.01`, `L.11.010.03`, `L.11.010.08`, `L.12.010.01`, `L.12.010.02`, `L.12.010.04`
 
 ### S-459
 
@@ -3181,27 +3457,28 @@ Cited by 10 lessons:
 
 ### S-460
 
-Cited by 12 lessons:
+Cited by 13 lessons:
 
-- `L.09.011.09`, `L.10.010.06`, `L.10.010.07`, `L.11.008.02`, `L.11.010.07`, `L.11.010.09`, `L.12.009.08`, `L.12.010.06`, `L.12.010.07`, `L.12.010.08`, `L.12.010.12`, `L.12.011.02`
+- `L.05.010.09`, `L.09.011.09`, `L.10.010.06`, `L.10.010.07`, `L.11.008.02`, `L.11.010.07`, `L.11.010.09`, `L.12.009.08`, `L.12.010.06`, `L.12.010.07`, `L.12.010.08`, `L.12.010.12`
+- `L.12.011.02`
 
 ### S-461
 
-Cited by 5 lessons:
+Cited by 7 lessons:
 
-- `L.09.011.10`, `L.09.011.11`, `L.11.010.05`, `L.11.011.06`, `L.12.010.11`
+- `L.05.011.07`, `L.06.010.06`, `L.09.011.10`, `L.09.011.11`, `L.11.010.05`, `L.11.011.06`, `L.12.010.11`
 
 ### S-462
 
-Cited by 8 lessons:
+Cited by 9 lessons:
 
-- `L.09.011.12`, `L.10.010.14`, `L.11.010.05`, `L.11.010.13`, `L.11.010.14`, `L.11.011.04`, `L.12.010.13`, `L.12.010.14`
+- `L.05.011.10`, `L.09.011.12`, `L.10.010.14`, `L.11.010.05`, `L.11.010.13`, `L.11.010.14`, `L.11.011.04`, `L.12.010.13`, `L.12.010.14`
 
 ### S-463
 
-Cited by 10 lessons:
+Cited by 12 lessons:
 
-- `L.09.011.12`, `L.09.011.13`, `L.10.010.14`, `L.11.010.13`, `L.11.010.14`, `L.11.011.08`, `L.12.009.14`, `L.12.010.11`, `L.12.010.12`, `L.12.010.14`
+- `L.05.011.06`, `L.09.002.04`, `L.09.011.12`, `L.09.011.13`, `L.10.010.14`, `L.11.010.13`, `L.11.010.14`, `L.11.011.08`, `L.12.009.14`, `L.12.010.11`, `L.12.010.12`, `L.12.010.14`
 
 ### S-464
 
@@ -3253,9 +3530,9 @@ Cited by 2 lessons:
 
 ### S-472
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.09.012.03`
+- `L.09.002.04`, `L.09.012.03`
 
 ### S-473
 
@@ -3283,9 +3560,9 @@ Cited by 1 lesson:
 
 ### S-477
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.09.012.08`
+- `L.09.002.03`, `L.09.012.08`
 
 ### S-478
 
@@ -3295,15 +3572,15 @@ Cited by 1 lesson:
 
 ### S-479
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.09.012.10`
+- `L.09.002.03`, `L.09.012.10`
 
 ### S-480
 
-Cited by 1 lesson:
+Cited by 2 lessons:
 
-- `L.09.012.10`
+- `L.09.002.04`, `L.09.012.10`
 
 ### S-481
 
@@ -3353,15 +3630,15 @@ Cited by 4 lessons:
 
 ### S-488
 
-Cited by 4 lessons:
+Cited by 5 lessons:
 
-- `L.10.006.03`, `L.12.006.01`, `L.12.006.02`, `L.12.011.08`
+- `L.05.001.08`, `L.10.006.03`, `L.12.006.01`, `L.12.006.02`, `L.12.011.08`
 
 ### S-489
 
-Cited by 5 lessons:
+Cited by 11 lessons:
 
-- `L.10.006.03`, `L.11.006.03`, `L.12.006.02`, `L.12.006.04`, `L.12.011.08`
+- `L.05.001.08`, `L.05.001.09`, `L.07.006.03`, `L.09.001.03`, `L.09.001.04`, `L.09.001.05`, `L.10.006.03`, `L.11.006.03`, `L.12.006.02`, `L.12.006.04`, `L.12.011.08`
 
 ### S-490
 
@@ -3371,9 +3648,9 @@ Cited by 3 lessons:
 
 ### S-491
 
-Cited by 4 lessons:
+Cited by 5 lessons:
 
-- `L.10.009.10`, `L.10.009.11`, `L.10.009.12`, `L.10.009.13`
+- `L.09.002.04`, `L.10.009.10`, `L.10.009.11`, `L.10.009.12`, `L.10.009.13`
 
 ### S-492
 
@@ -3395,9 +3672,9 @@ Cited by 4 lessons:
 
 ### S-495
 
-Cited by 5 lessons:
+Cited by 9 lessons:
 
-- `L.10.009.10`, `L.10.009.11`, `L.10.009.12`, `L.10.009.13`, `L.11.011.05`
+- `L.09.002.02`, `L.09.002.03`, `L.09.002.04`, `L.09.002.05`, `L.10.009.10`, `L.10.009.11`, `L.10.009.12`, `L.10.009.13`, `L.11.011.05`
 
 ### S-496
 
@@ -3425,9 +3702,9 @@ Cited by 2 lessons:
 
 ### S-500
 
-Cited by 3 lessons:
+Cited by 4 lessons:
 
-- `L.12.006.08`, `L.12.006.13`, `L.12.006.14`
+- `L.05.010.04`, `L.12.006.08`, `L.12.006.13`, `L.12.006.14`
 
 ### S-501
 
@@ -3473,12 +3750,12 @@ Cited by 1 lesson:
 
 ### S-508
 
-Cited by 1 lesson:
+Cited by 7 lessons:
 
-- `L.12.012.01`
+- `L.00.001.08`, `L.00.013.02`, `L.03.001.08`, `L.03.003.10`, `L.03.012.03`, `L.03.012.07`, `L.12.012.01`
 
 ### S-509
 
-Cited by 1 lesson:
+Cited by 3 lessons:
 
-- `L.12.012.02`
+- `L.00.004.13`, `L.00.012.07`, `L.12.012.02`

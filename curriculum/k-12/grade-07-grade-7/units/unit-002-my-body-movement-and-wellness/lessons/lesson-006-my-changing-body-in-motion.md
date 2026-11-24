@@ -133,7 +133,7 @@ examples general. See `docs/facilitation.md` and `docs/development.md`.
    body goes through a **growth spurt**: arms and legs lengthen, so your reach changes; your
    **center of gravity** — the point the body balances around — shifts as you grow taller, so
    balance feels different; strength and **coordination** catch up at their own pace. All of
-   this is normal, and it happens at a different time for every person.
+   this is normal, and it happens at a different time for every person (S-261).
 3. **Match changes to adaptations (15 min).** Sort the adaptation cards: longer limbs → adjust
    your spacing and reach; shifting balance → widen your stance and slow the tempo while you
    relearn; changing strength → pick the load and pace that fit *today*; shifting coordination
@@ -173,3 +173,5 @@ different — what did they adapt, and how did it turn out? Share one adaptation
   Standards, <https://www.who.int/toolkits/child-growth-standards>
 - On movement supporting healthy growth (bone and muscle development): WHO — Physical
   activity fact sheet, <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
+- On the growth spurt and the uneven changes of adolescent development: WHO — Adolescent health (health topic) (S-261).
+

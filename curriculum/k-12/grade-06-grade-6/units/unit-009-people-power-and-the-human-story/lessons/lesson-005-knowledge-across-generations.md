@@ -135,13 +135,13 @@ example** portfolio artifact. See `docs/facilitation.md`.
 2. **Meet the three traditions (20 min).** Read the cards. *Oral tradition — songlines
    (Australia):* Australian Aboriginal peoples carry knowledge of the land, its water, its
    law, and its ancestors in **songlines** — songs that map the country and are sung and
-   passed down across many generations, so the way is never lost. *Written records —
+   passed down across many generations, so the way is never lost (S-085). *Written records —
    Timbuktu manuscripts (Mali):* families in and around Timbuktu kept thousands of
    manuscripts — in Arabic and local languages — on law, astronomy, medicine, and math,
-   copied and preserved from parent to child for centuries. *Apprenticeship — Japan:* a
+   copied and preserved from parent to child for centuries (S-201). *Apprenticeship — Japan:* a
    craft, such as sword-making, pottery, or tea, is learned **by doing**, alongside a
    master, over years — the knowledge lives in skilled hands and careful practice, passed
-   from teacher to learner.
+   from teacher to learner (S-056).
 3. **Notice what they share (5 min).** All three pass knowledge from one generation to the
    next — the difference is *how*: by word, by page, or by doing. And many peoples use more
    than one way at once.
@@ -183,3 +183,7 @@ doing — and tell them the three traditions you met today.
   (see UNESCO Intangible Cultural Heritage listings, <https://ich.unesco.org/>). These three
   traditions are presented side by side as equals, in line with the curriculum's commitment
   to honor many knowledge traditions, not to rank them.
+- On songlines as an oral tradition encoding knowledge of land, water, and law: AIATSIS — Australian Institute of Aboriginal and Torres Strait Islander Studies (S-085).
+- On the Timbuktu manuscripts as a written knowledge tradition: UNESCO — Memory of the World (Timbuktu manuscripts) (S-201).
+- On apprenticeship as a living-heritage form of knowledge transmission: UNESCO — Intangible Cultural Heritage (S-056).
+

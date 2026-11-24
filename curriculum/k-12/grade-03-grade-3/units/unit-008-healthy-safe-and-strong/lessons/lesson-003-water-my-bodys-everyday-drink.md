@@ -95,7 +95,7 @@ and not available to everyone — so water is honored and never wasted.
 
 ## Connection
 
-Your body is mostly water. Water is in your blood, your tears, your sweat, and every
+Your body is mostly water (S-049). Water is in your blood, your tears, your sweat, and every
 cell. It carries what your body needs to each part of you, and it cools you when you are
 hot. When your mouth feels dry and your body says "drink," that is **thirst** — your
 body's way of asking for water. Today you will learn why water matters so much and how to
@@ -121,7 +121,7 @@ failing.
 
 **The facts to land.**
 1. Water is essential to life, and safe drinking-water keeps bodies well (World Health
-   Organization).
+   Organization, S-049).
 2. How much a body needs varies with weather, activity, and person, so "drink when
    thirsty" is the rule — not a fixed amount.
 3. Many people have no clean water to drink. That is a fairness problem we can work on.
@@ -194,5 +194,6 @@ a grown-up where your family's water comes from and one way to save it.
 
 ## Resources
 
-- World Health Organization, "Drinking-water" (safe water and health):
-  <https://www.who.int/news-room/fact-sheets/detail/drinking-water>
+- On safe water and the body's need for it: World Health Organization — Drinking-water
+  fact sheet (S-049).
+

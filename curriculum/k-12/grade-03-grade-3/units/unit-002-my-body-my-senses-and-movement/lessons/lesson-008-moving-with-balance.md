@@ -113,7 +113,7 @@ staying steady.
 ## Facilitator note
 
 Prepare the lines and cards, then model each pose and the tightrope walk slowly before
-learners try (explicit modeling, then guided practice). This continues the movement
+learners try (explicit modeling, then guided practice) (S-011). This continues the movement
 strand from Lesson 7's rhythm — now balance joins it, and the two come together in the
 capstone. The factual idea here — that balance uses a sense in the inner ear working
 with muscles and eyes — is well established (see Resources). Honor every body: balance
@@ -128,7 +128,7 @@ balance grows, and it is never a failure.
 1. **Gather (5 min).** Stand still for a moment. Feel your body keeping you upright.
    Balance is a sense you carry inside you. Today you will practice it.
 2. **Meet the balance sense (5 min).** Deep inside each ear is a tiny balance sensor
-   that works with your muscles and eyes to keep you steady. You do not have to think
+   that works with your muscles and eyes to keep you steady (S-068). You do not have to think
    about it — it just works, all day long.
 3. **Practice poses (15 min).** Try the balance poses from the cards: stand on one
    foot, arms wide; stand heel-to-toe like a tightrope walker; take slow, steady steps.
@@ -157,11 +157,10 @@ balance grows, and it is never a failure.
 
 ## Resources
 
-- World Health Organization — global health and wellbeing reference:
-  <https://www.who.int/>
-- U.S. National Institute on Deafness and Other Communication Disorders (NIDCD) —
-  Balance Disorders (how the inner ear helps us balance):
-  <https://www.nidcd.nih.gov/health/balance-disorders>
+- On the inner ear's role in balance: U.S. National Institute on Deafness and Other
+  Communication Disorders — Balance Disorders (S-068).
+- On modeling a skill slowly before learners try it: Kirschner, Sweller & Clark (2006) —
+  Why Minimal Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

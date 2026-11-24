@@ -104,9 +104,9 @@ side of the world.
 
 Every morning the Sun seems to rise, and every evening it seems to set. It is not the
 Sun moving — it is **you**, riding a spinning Earth. One whole **turn** is a **day**:
-the side facing the Sun is in daylight, and the side turned away is in night. And as
+the side facing the Sun is in daylight, and the side turned away is in night (S-029). And as
 Earth slowly **orbits** the Sun over a whole year, tipped a little to one side, the
-Sunlight falls higher or lower, and the world warms into summer and cools into winter.
+Sunlight falls higher or lower, and the world warms into summer and cools into winter (S-030).
 Right now, on the other side of the planet, someone is sleeping in the night while you
 are awake in the day.
 
@@ -184,6 +184,8 @@ watch.
 
 ## Resources
 
-- NASA Space Place, "What Causes the Seasons?" and "Why Do We Have Day and Night?" —
-  Earth's rotation and tilted orbit, explained for children.
-  https://spaceplace.nasa.gov/seasons/en/
+- On day and night as Earth's rotation: BBC Bitesize (KS1) — What is day and night?
+  (S-029).
+- On the seasons as Earth's tilted orbit around the Sun: NASA Space Place — What Causes
+  the Seasons? (S-030).
+

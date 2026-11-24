@@ -94,7 +94,7 @@ completing their picture of how people bridge languages.
 A medicine label can be translated once, carefully, and printed on a thousand bottles.
 But when a grandmother describes her pain to a doctor in a language the doctor does not
 speak, no printed page will do — someone must carry the meaning *right then*, in the
-room, as it is spoken. That live, spoken bridge is **interpretation**. One is for the
+room, as it is spoken. That live, spoken bridge is **interpretation** (S-237). One is for the
 page, the other for the moment; both are skills real people use every day, in a hospital
 in Nairobi, a courtroom in São Paulo, or a parent–teacher meeting anywhere.
 
@@ -165,3 +165,5 @@ was it written or spoken? Tell someone at home what you decided.
 - On language as a cultural tool: Everett (2012), *Language: The Cultural Tool*
 - On modeling before practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On plurilingual communication and live interpretation between languages: Council of Europe — CEFR Companion Volume (plurilingual competence) (S-237).
+

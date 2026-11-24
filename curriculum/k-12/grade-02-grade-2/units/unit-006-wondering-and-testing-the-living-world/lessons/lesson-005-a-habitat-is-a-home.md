@@ -89,8 +89,8 @@ last_updated: 2026-08-16
 ## Summary
 
 A **habitat** is a living thing's home — the place where it finds its food, water,
-shelter, and a place to raise its young. Learners observe and describe a habitat (a
-pond, a forest, a desert, a savanna, a tundra, or a real patch of ground outside) and
+shelter, and a place to raise its young (S-044). Learners observe and describe a habitat
+(a pond, a forest, a desert, a savanna, a tundra, or a real patch of ground outside) and
 name the living things that call it home, and the things they need there. They learn
 that homes differ all over the world, and each one fits the living things that live in
 it.
@@ -103,10 +103,10 @@ it.
 ## Connection
 
 Think of your own home — the place where you sleep, eat, and are safe. Every living
-thing has a home too. A frog's home is a **pond**; a cactus's home is the dry **desert**;
-a bird's home is a **tree**; a zebra's home is the wide **savanna**; a polar bear's home
-is the cold, icy **tundra**. That home is called a **habitat** — the place that gives a
-living thing its food, water, shelter, and a safe place to raise its young.
+thing has a home too. A frog's home is a **pond**; a cactus's home is the dry
+**desert**; a bird's home is a **tree**; a zebra's home is the wide **savanna**; a polar
+bear's home is the cold, icy **tundra**. That home is called a **habitat** — the place
+that gives a living thing its food, water, shelter, and a safe place to raise its young.
 
 ## Materials
 
@@ -180,6 +180,5 @@ gives it.
 
 ## Resources
 
-- BBC Bitesize (KS1 Science), "What is a habitat?" — a place where living things find
-  food, water, and shelter, with examples from many places.
-  https://www.bbc.co.uk/bitesize/topics/zx882hv
+- On habitats as the place a living thing finds food, water, and shelter: BBC Bitesize
+  (KS1) — Living things and their habitats (S-044).

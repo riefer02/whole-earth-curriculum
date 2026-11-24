@@ -98,12 +98,13 @@ labeled, plus arrows showing who depends on what.
 
 ## Connection
 
-Look out a window or step outside. You are standing inside an **ecosystem**: the **living** parts
-(a tree, a bird, a worm) and the **nonliving** parts (sunlight, water, soil, rock) all around
-you, **depending on each other**. The tree cannot live without the sun, the water, and the soil;
-the bird needs the tree for shelter and food; the worm needs the soil, and the soil is kept rich
-by the worm. Every place on Earth — a pond, a desert, a forest, a field — is an ecosystem like
-this, made of living and nonliving parts woven together.
+Look out a window or step outside. You are standing inside an **ecosystem**: the
+**living** parts (a tree, a bird, a worm) and the **nonliving** parts (sunlight, water,
+soil, rock) all around you, **depending on each other**. The tree cannot live without
+the sun, the water, and the soil; the bird needs the tree for shelter and food; the worm
+needs the soil, and the soil is kept rich by the worm. Every place on Earth — a pond, a
+desert, a forest, a field — is an ecosystem like this, made of living and nonliving
+parts woven together (S-152).
 
 ## Materials
 
@@ -141,7 +142,7 @@ parts are the lesson's new idea.
 **The skill.** Sort the parts, then draw one arrow of dependence and explain it.
 
 Model with the worked diagram, then guide sorting before learners draw their own
-(Kirschner, Sweller & Clark, 2006).
+(Kirschner, Sweller & Clark, 2006, S-011).
 
 **Access:** describe the cards and diagram for a learner who is blind or has low vision;
 a learner who does not speak sorts the cards and points the arrows; acting out an
@@ -195,6 +196,7 @@ and two nonliving parts in it, and tell a grown-up one way they depend on each o
 
 ## Resources
 
-- National Geographic Education, "Ecosystem" — an ecosystem is a place where living and
-  nonliving things interact and depend on each other.
-  https://education.nationalgeographic.org/resource/ecosystem/
+- On an ecosystem as a place where living and nonliving things interact and depend on
+  each other: National Geographic Education — Ecosystem (S-152).
+- On worked examples and guided practice: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

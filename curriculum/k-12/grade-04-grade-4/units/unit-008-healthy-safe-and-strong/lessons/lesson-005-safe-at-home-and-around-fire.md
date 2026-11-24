@@ -124,7 +124,7 @@ rules.
 3. If your clothes catch fire, **stop, drop, and roll** — stop moving, drop down, cover
    your face, roll.
 4. These follow widely taught guidance (stop-drop-roll, crawl low, two ways out),
-   recommended by fire-safety and Red Cross organizations.
+   recommended by fire-safety and Red Cross organizations (S-121; S-126).
 
 **Don't overshoot.** A child's job is to get out and get help, not to fight a fire.
 
@@ -188,7 +188,7 @@ has a smoke alarm. Practice "stop, drop, and roll" together — without any real
 
 ## Resources
 
-- International Federation of Red Cross and Red Crescent Societies, "Community health and
-  first aid" (everyday safety skills): <https://www.ifrc.org/our-work/health-and-care/community-health>
-- World Health Organization, "Burns" (prevention of fire and burn injuries):
-  <https://www.who.int/news-room/fact-sheets/detail/burns>
+- On preventing fire and burn injuries, the basis of stop-drop-roll and getting out: WHO
+  — Burns fact sheet (S-121).
+- On everyday community safety and first-aid skills: IFRC — Community health and first
+  aid (S-126).

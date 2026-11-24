@@ -79,9 +79,9 @@ last_updated: 2026-08-16
 
 ## Summary
 
-Learners become authors of their own movement. They plan a three-part sequence —
-first, then, last — choose three movements, rehearse them in order, and perform the
-sequence with control for the group. Every sequence is the learner's own, in their own
+Learners become authors of their own movement. They plan a three-part sequence — first,
+then, last — choose three movements, rehearse them in order, and perform the sequence
+with control for the group (S-189). Every sequence is the learner's own, in their own
 body's way.
 
 ## Objectives
@@ -152,3 +152,8 @@ sequence aloud. Keep the audience kind — watching and cheering is part of the 
 
 Teach your sequence to someone at home and perform it together, then let them make one
 up too.
+
+## Resources
+
+- On composing, rehearsing, and performing a movement sequence as arts practice:
+  Kennedy Center — Education (arts education resources) (S-189).

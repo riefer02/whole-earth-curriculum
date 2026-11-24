@@ -104,7 +104,7 @@ Think of a message you saw today — a sign in a shop, a label on a packet, a pi
 screen. Some messages tell you a true fact: "Brushing your teeth twice a day helps keep
 them clean." Other messages want you to buy: "BUY Sparkle Paste — the BEST ever! Only five
 coins!" One is information; the other is an **advertisement**. We can tell them apart by
-their clues.
+their clues (S-063).
 
 ## Materials
 
@@ -193,6 +193,6 @@ something is worth buying.
 
 ## Resources
 
-- Common Sense Education, "News & Media Literacy" — recognizing the difference between
-  information and persuasion, including the clues that a message is trying to sell.
-  https://www.commonsense.org/education/digital-citizenship/topic/news-and-media-literacy
+- On telling information from persuasion, and the clues that show a message is trying to
+  sell something: Common Sense Education — News & Media Literacy (S-063).
+

@@ -146,7 +146,7 @@ Everyone measures with their own body, and no body's measure is "wrong."
    you get the same number? If you used your own hand spans, maybe not — your hands
    are different sizes! This is why people agree on one shared unit: so measuring is
    fair for everyone.
-6. **Close (3 min).** To measure is to lay equal units end to end and count. To
+6. **Close (3 min).** To measure is to lay equal units end to end and count (S-027). To
    compare is to ask: longer, shorter, or the same? And a shared unit keeps measuring
    honest.
 
@@ -174,8 +174,8 @@ footsteps, and tell a grown-up which is longer and which is shorter.
 ## Resources
 
 - National Research Council. (2009). *Mathematics Learning in Early Childhood: Paths
-  Toward Excellence and Equity*. The National Academies Press. (Measurement with
+  Toward Excellence and Equity*. The National Academies Press (S-027). (Measurement with
   non-standard units and unit iteration as an early mathematical idea.)
 - Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics* (10th ed.). Pearson. (The principle that units must be
+  Middle School Mathematics* (10th ed.). Pearson (S-026). (The principle that units must be
   equal and laid end to end.)

@@ -98,7 +98,7 @@ You already know that a day has an order: you wake, you eat, you play, you rest.
 that happened before today, one after another, so we can see which came first. Your
 family and your community have their own order of recent events: a baby was born,
 then a new building opened, then a festival happened. Putting them in order is how
-people begin to tell the story of time.
+people begin to tell the story of time (S-314).
 
 ## Materials
 
@@ -176,3 +176,8 @@ among many, not the only truth about time.
 At home, ask someone to tell you two or three things that happened in your family
 recently, and put them in order together. Then tell them the order using "before" and
 "after."
+
+## Resources
+
+- On ordering the past into periods and sequences as something historians construct:
+  Encyclopaedia Britannica — Historiography (periodization) (S-314).

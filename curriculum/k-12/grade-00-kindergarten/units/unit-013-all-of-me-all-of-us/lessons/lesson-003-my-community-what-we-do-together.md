@@ -126,7 +126,7 @@ correct way.
 4. **Draw it (15 min).** Draw your community and the thing people do together in it.
    Add your mark to the big class picture of "what we do together."
 5. **Close (5 min).** Look at the class picture. Communities everywhere — near and far
-   — are built on people doing things together. That shared doing is what makes a
+   — are built on people doing things together (S-164). That shared doing is what makes a
    community.
 
 ## Differentiation
@@ -141,6 +141,10 @@ correct way.
 - **Formative (observation):** Can the learner name one community they belong to and
   one thing people do together in it?
 - **Artifact (portfolio):** The community drawing, kept in the learner's portfolio.
+
+## Resources
+
+- On shared community work traditions: Communal-work (mutual-aid) traditions — harambee, gotong royong, mink'a/minga, barn-raising (S-164).
 
 ## Home connection
 

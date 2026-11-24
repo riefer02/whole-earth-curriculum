@@ -132,7 +132,7 @@ This lesson prepares the next, on a movement for rights. See `docs/facilitation.
 1. **Gather (5 min).** Last lesson you learned what power is. Today you ask the harder
    question: **is this power being used fairly or unfairly?**
 2. **Meet the fairness test (10 min).** Read the poster. **Fair use** of power: decisions
-   are made with everyone, all voices are heard, and the power serves all. **Unfair use**:
+   are made with everyone, all voices are heard, and the power serves all (S-149). **Unfair use**:
    one person or group decides for others, some voices are silenced, and the power serves
    the few. The test has three questions: **Does it serve everyone, or only the powerful?
    Who gets to speak, and who is left out? Can a decision be questioned, or must it be
@@ -177,3 +177,5 @@ together, then talk about whether it passes.
   historians on Igbo and other societies). The fairness test is offered as a reasoning tool,
   not a universal rule; the curriculum teaches learners to distinguish evidence from values
   and to decide "fair" together, in line with `docs/philosophy.md` §5.
+- On everyone's right to take part in decisions that affect them: UN — Universal Declaration of Human Rights (S-149).
+

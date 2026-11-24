@@ -99,7 +99,7 @@ A lunch table has one empty seat, and someone keeps saving it "for a friend" who
 comes. A game is picked, and the same players are always chosen first, the same faces left
 last. No one is shouting "you can't sit here" — and yet the circle quietly closes. Belonging
 isn't only about loud walls; it is often about **quiet ones**: habits, unspoken rules, and
-who we notice and who we don't. When we ask *why* someone is out, we can see the barrier —
+who we notice and who we don't (S-232). When we ask *why* someone is out, we can see the barrier —
 and when we see it, we can open the circle. This is true of a classroom, a neighbourhood, and
 every community humans build, everywhere.
 
@@ -174,3 +174,5 @@ ask yourself who might be just outside it, and one way you could open it.
   in social psychology (Tajfel's minimal-group work; the "preference for the familiar" in
   group formation). The "open the circle" framing is a values commitment of this curriculum.
   For classroom SEL framing: <https://casel.org/fundamentals-of-sel/>
+- On in-group favoritism and social identity: Henri Tajfel — Experiments in intergroup discrimination (S-232).
+

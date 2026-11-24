@@ -107,7 +107,7 @@ word is welcome.
 
 1. **Gather (5 min).** Look at the feeling cards. How many ways can you show "happy"
    without saying the word "happy"?
-2. **Four languages (15 min).** A feeling can travel four ways: **words** ("I feel
+2. **Four languages (15 min).** A feeling can travel four ways (S-015): **words** ("I feel
    scared"), **drawing** (a wobbly line, a dark cloud), **movement** (hide your face,
    shrink small), and **sound** (a soft "oh," a stomp, a drum tap). Try "happy,"
    "sad," and "angry" in all four ways.
@@ -135,7 +135,7 @@ word is welcome.
 - CASEL SEL Framework (foundational competencies):
   <https://casel.org/fundamentals-of-sel/>
 - Yale Center for Emotional Intelligence, RULER approach (feeling words and the Mood
-  Meter): <https://www.rulerapproach.org/>
+  Meter): <https://www.rulerapproach.org/> (S-015)
 
 ## Home connection
 

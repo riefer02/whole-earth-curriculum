@@ -100,6 +100,7 @@ When the frogs in a pond disappear, something else changes too: the insects they
 become very many, and the birds that ate the frogs go hungry. This is a **ripple
 effect** — one change moves through the whole web. It happens in the sea too: when
 sea otters returned to some kelp forests, the sea urchins they eat were kept in
+check (S-176), and
 check, and the kelp grew back. One part changed, and everything around it answered.
 
 ## Materials
@@ -171,9 +172,11 @@ your prediction and your reasoning.
 
 ## Resources
 
-- BBC Bitesize (KS2), "What is a food chain?" — how chains link into webs:
-  <https://www.bbc.co.uk/bitesize/topics/zcyycdm/articles/zww9r2p>
-- The sea-otter–urchin–kelp example is a well-documented ecological chain — a
-  keystone-predator / trophic-cascade case (see National Geographic Education,
-  "Role of Keystone Species in an Ecosystem":
-  <https://education.nationalgeographic.org/resource/role-keystone-species-ecosystem/>).
+- On keystone species and trophic cascades — how removing or returning one animal can
+  change a whole ecosystem, including the sea-otter, sea-urchin and kelp example:
+  National Geographic Education — Role of Keystone Species in an Ecosystem,
+  <https://education.nationalgeographic.org/resource/role-keystone-species-ecosystem/>
+  (S-176).
+- On how the parts of an ecosystem depend on one another: BBC Bitesize (KS2) — How do
+  ecosystems work?, <https://www.bbc.co.uk/bitesize/topics/z6wwxnb/articles/zbd4g7h>
+  (S-107).

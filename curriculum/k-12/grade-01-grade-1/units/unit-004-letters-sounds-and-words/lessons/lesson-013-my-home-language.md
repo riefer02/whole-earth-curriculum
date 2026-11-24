@@ -87,7 +87,7 @@ wealth and no language as better than another.
 The first words you ever heard were probably in your home language — the language
 of your family's lullabies, greetings, and stories. Your home language is a
 treasure you carry with you, wherever you go. Sharing its words with others is
-sharing a piece of your home, and every language is a treasure to its people.
+sharing a piece of your home, and every language is a treasure to its people (S-019).
 
 ## Materials
 
@@ -147,3 +147,8 @@ one, and that is a full language to celebrate.
 
 Ask someone at home for one more special word from your home language and bring it
 to share tomorrow.
+
+## Resources
+
+- On every learner's home language as a treasure and a right in education: UNESCO —
+  International Mother Language Day (S-019).

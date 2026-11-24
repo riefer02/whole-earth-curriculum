@@ -98,9 +98,9 @@ milliliters. Estimating first, then measuring, makes the unit real and useful.
 A cook measures a liter of water for soup; a nurse measures milliliters of medicine; a
 farmer knows how many liters the milk pail holds; a family measures how much rain fell
 in the night. **Liquid volume** is how much space a liquid takes up — and we measure it
-with units that people everywhere agreed on: the **liter** and the **milliliter**. A
+with units that people everywhere agreed on: the **liter** and the **milliliter** (S-175). A
 good measurer always **estimates** first, then measures to check — that is how you
-catch a mistake before it spills.
+catch a mistake before it spills (S-026).
 
 ## Materials
 
@@ -186,7 +186,9 @@ and tell a grown-up how close your estimate was.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson. (Measuring
-  and estimating capacity with liters and milliliters, developing benchmarks before
-  precision.)
+- On measuring and estimating capacity, with benchmarks before precision: Van de Walle,
+  Karp & Bay-Williams (2019) — Elementary and Middle School Mathematics: Teaching
+  Developmentally (S-026).
+- On agreed international quantities and units (the litre and its decimal prefixes): ISO
+  80000-1 — Quantities and units, Part 1: General (S-175).
+

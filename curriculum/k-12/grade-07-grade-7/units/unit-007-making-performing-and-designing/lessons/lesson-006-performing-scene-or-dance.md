@@ -104,7 +104,7 @@ field, friends acting out a story — and you are watching three skills at once.
 the same **timing** (everyone lands the beat together, or one after another on purpose); they
 wear the scene on their faces and bodies (**expression**); and they fit each other — no one
 blocks the view, no one steals the moment (**ensemble**). A great scene is not one star and a
-background; it is a group breathing together. Today your group becomes that group — and uses
+background; it is a group breathing together (S-260). Today your group becomes that group — and uses
 feedback, not guesswork, to make the scene land.
 
 ## Materials
@@ -188,3 +188,5 @@ timing, one expression, and one ensemble choice you saw.
   respect: <https://www.kennedy-center.org/education/>
 - Kirschner, Sweller & Clark (2006), "Why Minimal Guidance Does Not Work," on modeling each
   skill before independent practice.
+- On devised performance and ensemble work: IDEA — International Drama/Theatre and Education Association (S-260).
+

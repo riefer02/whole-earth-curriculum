@@ -90,7 +90,7 @@ last_updated: 2026-08-17
 Learners explain that everything is made of **particles** too small to see, and use
 this model to explain the three states of matter: in a **solid** particles are packed
 and hold shape, in a **liquid** they slide past each other, and in a **gas** they
-spread far apart. Heat makes particles move more (solid → liquid → gas); cooling
+spread far apart (S-075). Heat makes particles move more (solid → liquid → gas); cooling
 makes them move less. Learners separate what they can *see* from the particle model
 they *infer*.
 
@@ -181,7 +181,8 @@ someone what the particles are doing that you cannot see.
 
 ## Resources
 
-- BBC Bitesize (KS2), "Solids, liquids and gases" — the three states and how
-  particles behave: <https://www.bbc.co.uk/bitesize/topics/zgwc96f/articles/zngfp4j>
-- BBC Bitesize (KS2), "Changing states" — heating and cooling change states:
-  <https://www.bbc.co.uk/bitesize/topics/zgwc96f/articles/zwj9r2p>
+- On solids, liquids and gases, and how the particles in each behave: BBC Bitesize
+  (KS2) — Solids, liquids and gases,
+  <https://www.bbc.co.uk/bitesize/topics/zgwc96f/articles/zngfp4j> (S-075).
+- On heating and cooling changing states: BBC Bitesize (KS2) — Changing states,
+  <https://www.bbc.co.uk/bitesize/topics/zgwc96f/articles/zwj9r2p> (S-076).

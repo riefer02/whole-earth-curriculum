@@ -92,7 +92,8 @@ story they can now tell, with pride held as personal growth, not comparison.
 You are a whole person made of many facts — how old you are, what you like, what you
 can do, and who is in your family. And you also carry a feeling called **pride**:
 the warm, tall feeling of seeing how far *you* have come. Pride is not about beating
-anyone. It is about your own growth — something you practiced, tried, or worked at.
+anyone. It is about your own growth — something you practiced, tried, or worked at
+(S-096).
 Today you gather both: the facts of you, and one thing you are proud of.
 
 ## Materials
@@ -158,3 +159,8 @@ acting, or a partner voicing the words.
 
 Tell someone at home one fact about you and one thing you are proud of — then ask
 them one fact about themselves and one thing *they* are proud of.
+
+## Resources
+
+- On growth, effort, and "not yet" rather than comparison with others: Dweck —
+  Mindset: The New Psychology of Success (S-096).

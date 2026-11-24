@@ -103,10 +103,10 @@ Think of a hot day. Water is a **need** — without it, a body cannot stay well.
 sweet drink is a **want** — nice, but you can live without it. When water is scarce, a
 fair group makes sure *everyone* gets water before anyone gets the sweet drink. That
 is why telling needs from wants matters to fairness: needs keep people alive and able
-to take part, so they come first. People everywhere do this — a village shares the
+to take part, so they come first (S-093). People everywhere do this — a village shares the
 well's water before anything else; a family feeds every child before any treat; a
 ship shares its fresh water at sea. Today you will sort needs from wants and say why
-it matters.
+it matters (S-060).
 
 ## Materials
 
@@ -194,8 +194,8 @@ when there is not enough, what should the family share first, and why?
 
 ## Resources
 
-- United Nations Convention on the Rights of the Child (the right to food, water,
-  health, and education — children's basic needs as rights):
-  <https://www.unicef.org/child-rights-convention>
-- Maslow's "hierarchy of needs" (the idea that basic needs like food, water, and
-  safety come first), simplified for children.
+- On basic needs — food, water, safety — coming before wants, held here as a simplified
+  theory: Abraham H. Maslow (1943) — A Theory of Human Motivation (S-093).
+- On children's rights to food, water, health and education: UN Convention on the Rights
+  of the Child (UNICEF, child-friendly) (S-060).
+

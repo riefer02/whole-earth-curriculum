@@ -88,9 +88,10 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners explore how a single tool changes a whole way of life. A worked example traces
-**writing** — before it, people had to remember everything and ideas could only travel with
+**writing** (S-204) — before it, people had to remember everything and ideas could
+only travel with
 people; after it, records, trade, laws, and stories could last and spread. Learners then
-choose the **wheel** or the **plow** and trace its own before-and-after chain, seeing
+choose the **wheel** or the **plow** (S-204) and trace its own before-and-after chain, seeing
 technology as something people *invented and used*, with effects both helpful and
 complicated.
 
@@ -180,12 +181,8 @@ home what life or work was like before it was common.
 
 ## Resources
 
-- Writing emerged independently in several world regions — cuneiform in Mesopotamia
-  (around 3200 BCE), Egyptian hieroglyphs, Chinese oracle-bone script, and Maya glyphs — a
-  widely documented fact (British Museum, cuneiform; Smithsonian, writing systems). The
-  wheel first appears around 3500 BCE in Mesopotamia (pottery then transport), and in the
-  Americas it appears on toys but not for transport, in part because large draft animals
-  were absent (Smithsonian Institution). Early plows (ards) appear in Mesopotamia and Egypt
-  by roughly 4000–3000 BCE, with later iron plows in China; dates are approximate and
-  revised as new evidence appears. The framing that tools have both helpful and complicated
-  effects follows the curriculum's "honest about technology" commitment (docs/philosophy.md).
+- On writing emerging independently in Mesopotamia, Egypt, China and Mesoamerica, and on
+  the early wheel: Smithsonian Institution — writing systems and the wheel,
+  <https://www.si.edu/> (S-204).
+- On the materials and technologies of writing over time: The British Library — history
+  of writing materials, <https://www.bl.uk/> (S-264).

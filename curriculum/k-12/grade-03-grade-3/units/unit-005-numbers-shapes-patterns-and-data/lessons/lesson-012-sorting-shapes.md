@@ -102,7 +102,7 @@ caretaker sorts tools by their job. Sorting is how people bring order to a big m
 pile — and shapes are no different. Every shape has **attributes**: how many sides,
 how many corners, whether its edges are straight or curved. When you sort by an
 attribute, you make a category with a rule. Builders, weavers, and tile-makers in
-every culture have sorted shapes this way to fit them together.
+every culture have sorted shapes this way to fit them together (S-024).
 
 ## Materials
 
@@ -129,7 +129,7 @@ every culture have sorted shapes this way to fit them together.
 3. Two children can sort by different rules and both be right.
 
 **Don't overshoot.** Do not hunt for the one official grouping. Name each learner's
-rule, then test it against the whole set (Van de Walle et al., 2019).
+rule, then test it against the whole set (Van de Walle et al., 2019, S-026).
 
 **The lenses, briefly.**
 - *Intellectual:* sort a mixed set into "three sides," "four sides," "five or more
@@ -188,6 +188,9 @@ rule, and have a grown-up guess it.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson.
-  (Classifying shapes by attributes and seeing categories as shared properties.)
+- On teaching classification of shapes by attributes, and on categories as shared
+  properties: Van de Walle, Karp & Bay-Williams (2019) — Elementary and Middle School
+  Mathematics: Teaching Developmentally (S-026).
+- On geometric pattern in weaving, beading and design across traditions: Claudia Zaslavsky
+  (1999) — Africa Counts: Number and Pattern in African Cultures (S-024).
+

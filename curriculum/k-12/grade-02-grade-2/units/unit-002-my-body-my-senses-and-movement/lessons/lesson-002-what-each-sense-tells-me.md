@@ -127,7 +127,7 @@ is no single correct answer — each learner's honest description is the point.
    each sense tells you something. What do your eyes tell you right now?
 2. **The sense basket (15 min).** One by one, meet the items. Look at the flower —
    your **eyes** tell you its color and shape. Shake the bell — your **ears** tell you
-   it is ringing, and your hand can feel the buzz that sound makes. Sniff the flower — your **nose** tells you it is sweet. Touch the
+   it is ringing, and your hand can feel the buzz that sound makes (S-045). Sniff the flower — your **nose** tells you it is sweet. Touch the
    cloth — your **skin** tells you it is soft. Taste the fruit (if you choose) — your
    **tongue** tells you if it is sweet or sour.
 3. **One thing each (10 min).** Hold up a sense card. Say one thing that sense tells
@@ -155,7 +155,8 @@ is no single correct answer — each learner's honest description is the point.
 
 ## Resources
 
-- BBC Bitesize (KS1) — What are the senses?: <https://www.bbc.co.uk/bitesize/topics/z6882hv/articles/zsbntrd>
+- On sound being made by vibration, which you can also feel: BBC Bitesize (KS2) —
+  Sound (How are sounds made?) (S-045).
 
 ## Home connection
 

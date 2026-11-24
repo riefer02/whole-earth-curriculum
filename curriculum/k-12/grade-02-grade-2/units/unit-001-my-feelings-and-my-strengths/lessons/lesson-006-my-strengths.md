@@ -78,8 +78,8 @@ last_updated: 2026-08-16
 ## Summary
 
 Learners identify their personal strengths — things they can do well — and record them
-on a star chart. They learn that a strength is not about being "the best," but about
-something you can do well and feel good doing. They also see that everyone has
+on a star chart (S-001). They learn that a strength is not about being "the best," but
+about something you can do well and feel good doing. They also see that everyone has
 strengths, and no one strength is better than another.
 
 ## Objectives
@@ -158,5 +158,5 @@ chart.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On recognizing one's strengths as part of self-awareness: CASEL — Fundamentals of
+  Social and Emotional Learning (S-001).

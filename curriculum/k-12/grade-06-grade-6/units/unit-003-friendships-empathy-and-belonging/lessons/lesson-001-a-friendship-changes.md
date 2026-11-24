@@ -97,7 +97,7 @@ navigate it**. They produce a **friendship-change reflection** as a portfolio ar
 Two friends walked home together every single day. Then one joined a music group that
 meets after school, and the walks stopped. The other felt left behind — *was our friendship
 over?* Not over: **changing**. People grow, interests shift, families move, and friendships
-bend with them. The question is not "how do I keep it exactly the same?" but "how do I
+bend with them (S-229). The question is not "how do I keep it exactly the same?" but "how do I
 navigate the change kindly — for my friend and for me?" That is a skill you can learn,
 everywhere people live side by side, in a village, a city, or a new school far from home.
 
@@ -171,3 +171,5 @@ healthy thing you could do about it — even if it is simply to accept the chang
   (CASEL relationship-skills competency; Steinberg, *Age of Opportunity*). The framing
   "change is normal, not failure" is a values commitment of this curriculum. For classroom
   SEL framing: <https://casel.org/fundamentals-of-sel/>
+- On peer relationships intensifying and friendships reorganizing in early adolescence: Laurence Steinberg — Age of Opportunity: Lessons from the New Science of Adolescence (S-229).
+

@@ -85,7 +85,7 @@ closely is a kind of caring.
 ## Connection
 
 There is a secret way to learn about living things: you slow down, get quiet, and
-watch. A scientist is first a watcher. When you watch a plant turn toward the sun or a
+watch. A scientist is first a watcher (S-041). When you watch a plant turn toward the sun or a
 bird look for food, you learn what it needs and what it is like — just by paying
 attention.
 
@@ -138,6 +138,10 @@ perfect; there is no "right" animal to watch.
 - **Formative (observation):** Can the learner name the living thing and one thing it
   needs, based on what they watched?
 - **Artifact (portfolio):** The observation drawing, kept in the learner's portfolio.
+
+## Resources
+
+- On observing and recording like a scientist: BBC Bitesize (KS1) — Working scientifically (S-041).
 
 ## Home connection
 

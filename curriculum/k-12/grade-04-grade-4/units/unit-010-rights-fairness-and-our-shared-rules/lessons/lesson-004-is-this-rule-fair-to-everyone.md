@@ -127,8 +127,8 @@ put a rule on trial and judge, with a reason, whether it is fair to everyone.
 2. An unfair rule is usually *not made with bad intent* — it was never checked against
    everyone, so the fix is to **change the rule, not blame the person**.
 3. "Fair" does not always mean "the same": fairness sometimes means *different* support
-   for *different* needs — a low shelf, a ramp, a helper (revisit Grade 2's "same
-   treatment is not always fair").
+   for *different* needs (S-388) — a low shelf, a ramp, a helper (revisit Grade 2's
+   "same treatment is not always fair").
 
 **Don't overshoot.** Do not let the lesson become a trial: use invented, gentle rules —
 the shelf, the water tap — and avoid rules that could single out a real child.
@@ -187,7 +187,10 @@ aloud: who does it affect, does it treat anyone worse, and is there a fairer way
 
 ## Resources
 
-- CASEL SEL Framework (social awareness — recognizing fairness and exclusion):
-  <https://casel.org/fundamentals-of-sel/>
-- UNICEF — Inclusive education (removing barriers so every child can take part):
-  <https://www.unicef.org/education/inclusive-education>
+- On competing principles of fair distribution — equal shares versus enough for each,
+  and different support for different needs: Stanford Encyclopedia of Philosophy —
+  Distributive Justice (S-388).
+- On removing barriers so every child can take part: UNICEF — Inclusive education
+  (S-092).
+- On social awareness, including recognizing fairness and exclusion: CASEL —
+  Fundamentals of Social and Emotional Learning (S-001).

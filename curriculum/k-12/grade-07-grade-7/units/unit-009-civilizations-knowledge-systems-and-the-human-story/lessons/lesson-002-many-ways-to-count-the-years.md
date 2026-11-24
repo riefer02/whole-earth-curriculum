@@ -145,7 +145,7 @@ then let learners sort and compare (Kirschner, Sweller & Clark, 2006).
 1. **Gather (5 min).** Quick recall: what is a "period," and who chooses its lines?
    (People choose them.) Today: people also choose how to *count the years*.
 2. **Meet two calendars (15 min).** A **solar year** follows the Sun: about 365 days —
-   the Gregorian calendar, used widely today. A **lunar year** follows the Moon: twelve
+   the Gregorian calendar, used widely today (S-315). A **lunar year** follows the Moon: twelve
    months of about 29.5 days, about 354 days total — the Islamic **Hijri** calendar,
    used by Muslims worldwide. Because 354 is about 11 days shorter than 365, the
    two calendars drift apart, and the same day lands on a different date in each.
@@ -189,3 +189,5 @@ festivals, seasons, or faith — and compare its year with the Gregorian year.
   as a global-egalitarian commitment, not a ranking.
 - On explicit instruction for novice content: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On solar and lunar calendars, the Gregorian reform of 1582, and the Hijri calendar: Encyclopaedia Britannica — Calendar / Gregorian calendar / Islamic calendar (S-315).
+

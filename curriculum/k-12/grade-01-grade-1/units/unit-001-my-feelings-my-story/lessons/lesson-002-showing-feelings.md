@@ -89,7 +89,7 @@ being kind.
 Feelings do not stay hidden inside — they show on your face, in how you stand, and in
 how your voice sounds. When a friend is quiet with drooping shoulders, you can guess
 they might be sad or lonely, even before they say a word. Reading these clues helps
-you understand the people around you and know when to offer a hand.
+you understand the people around you and know when to offer a hand (S-160).
 
 ## Materials
 
@@ -144,3 +144,9 @@ Model curiosity ("I wonder if...") rather than certainty.
 
 Play "guess the feeling" at home: make a face, and have someone guess what you feel
 from your face, body, and voice.
+
+## Resources
+
+- On face, body, and voice as carriers of feeling, and on display rules that differ
+  across families and cultures: Ekman & Friesen — The Repertoire of Nonverbal Behavior
+  (S-160).

@@ -90,9 +90,9 @@ equally, and multilingualism is treated as wealth.
 
 Imagine arriving somewhere new and being able to say just three things: "hello," a
 number, and a color. Suddenly you are not a stranger — you are a guest who tried.
-Everyday phrases are small keys that open real doors between people. And you already
+Everyday phrases are small keys that open real doors between people (S-237). And you already
 carry the biggest treasure: your home language, which no one has to lose in order to
-gain another. Multilingualism is wealth — each language adds, none takes away.
+gain another. Multilingualism is wealth — each language adds, none takes away (S-019).
 
 ## Materials
 
@@ -156,7 +156,8 @@ teach you one phrase from a language they know.
 
 ## Resources
 
-- UNESCO, multilingual and mother-tongue-based education:
-  <https://www.unesco.org/en/days/mother-language>
-- CASEL SEL Framework (social awareness and relationship skills):
-  <https://casel.org/fundamentals-of-sel/>
+- On the right to learn in, and keep, your own language, and on every language carrying
+  dignity: UNESCO — International Mother Language Day (S-019).
+- On plurilingual competence — drawing on more than one language to communicate: Council
+  of Europe — CEFR Companion Volume (S-237).
+

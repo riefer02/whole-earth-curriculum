@@ -104,7 +104,7 @@ You have seen this a hundred times: an ice cube **melts** into water in your war
 a puddle **dries** in the Sun; steam **condenses** into little drops on a cool window.
 That is one substance — water — moving between **solid**, **liquid**, and **gas**. Heat
 pushes it one way; cold pulls it the other. The same circle is making the rain and the
-snow and the clouds above your head, wherever you live.
+snow and the clouds above your head, wherever you live (S-076).
 
 ## Materials
 
@@ -177,6 +177,6 @@ cloth drying on a line, or breath fogging a cold window. Name the change togethe
 
 ## Resources
 
-- BBC Bitesize (KS2 Science), "Changing states" — melting, freezing, evaporating, and
-  condensing, and how heating and cooling cause them.
-  https://www.bbc.co.uk/bitesize/topics/zgwc96f/articles/zwj9r2p
+- On melting, freezing, evaporating and condensing under heating and cooling: BBC Bitesize
+  (KS2) — Changing states (S-076).
+

@@ -93,7 +93,7 @@ A fisher pours two nets of fish into one basket; a beader joins the blue beads a
 the red beads she has threaded; a cook stirs two handfuls of beans into one pot. In
 every one of these, two groups become one, and the new group is bigger than either
 group alone. That joining is called **adding**, and people in every land do it every
-day — even without ever writing a sign for it.
+day — even without ever writing a sign for it (S-025).
 
 ## Materials
 
@@ -164,6 +164,6 @@ tell a grown-up the total, then write the number sentence together.
 ## Resources
 
 - Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (2015).
-  *Children's Mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann.
+  *Children's Mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann (S-025).
   (Joining problems as the foundation of addition, and children's counting
   strategies.)

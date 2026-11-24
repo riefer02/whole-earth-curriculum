@@ -91,12 +91,12 @@ steps), then carrying it out and recording the difference it made.
 
 ## Connection
 
-A swept floor, a watered plant, a bag carried up the stairs for an older neighbor — these
-are small acts, and together they are the quiet machinery that keeps a community
-livable. In a village, clearing a shared path after a storm helps everyone; in a city
-building, wiping the stair rail helps every hand that touches it. No act of care is too
-small to matter, and none requires being asked. Today you plan one, do it, and watch a
-shared space or a neighbor's day get a little lighter.
+A swept floor, a watered plant, a bag carried up the stairs for an older neighbor —
+these are small acts, and together they are the quiet machinery that keeps a community
+livable (S-163). In a village, clearing a shared path after a storm helps everyone; in a
+city building, wiping the stair rail helps every hand that touches it. No act of care is
+too small to matter, and none requires being asked. Today you plan one, do it, and watch
+a shared space or a neighbor's day get a little lighter.
 
 ## Materials
 
@@ -114,15 +114,15 @@ shared space or a neighbor's day get a little lighter.
 
 This is the unit's action lesson, building on Lesson 5's "my role." Teach the planner as
 explicit instruction — *what, why, steps, who, what we need* — and model filling one out
-(Kirschner, Sweller & Clark, 2006). The value to protect: **care is chosen and organized
-by the learners, not performed to be praised**, and the point is the *shared good*, not
-an individual reward. This is egalitarianism and ethics in practice: everyone
-contributes, and the benefit flows to the whole — including the natural world when the
-"shared space" is outdoors. Keep the acts safe, doable, and within reach; a heavy or
-risky task is scaled down so every learner can contribute a real step. Honor every
-ability: a learner who cannot lift plans, counts, fetches, or holds the door — all are
-full acts of care. Record the act for the portfolio and reflect on the *change*, not the
-praise. Read the procedure aloud.
+(Kirschner, Sweller & Clark, 2006, S-011). The value to protect: **care is chosen and
+organized by the learners, not performed to be praised** (S-345), and the point is the
+*shared good*, not an individual reward. This is egalitarianism and ethics in practice:
+everyone contributes, and the benefit flows to the whole — including the natural world
+when the "shared space" is outdoors. Keep the acts safe, doable, and within reach; a
+heavy or risky task is scaled down so every learner can contribute a real step. Honor
+every ability: a learner who cannot lift plans, counts, fetches, or holds the door — all
+are full acts of care. Record the act for the portfolio and reflect on the *change*, not
+the praise. Read the procedure aloud.
 
 ## Procedure
 
@@ -163,5 +163,11 @@ bag — without being asked, and tell someone what changed because of it.
 
 ## Resources
 
-- CASEL SEL Framework (responsible decision-making competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On mutual aid — people meeting one another's needs together as equals, sharing both
+  the giving and the deciding: Spade — Mutual Aid: Building Solidarity (S-345).
+- On mutual aid and cooperation as a widespread human practice, not an exception:
+  Kropotkin — Mutual Aid: A Factor of Evolution (S-163).
+- On responsible decision-making as a core competency: CASEL — Fundamentals of Social
+  and Emotional Learning (S-001).
+- On explicit instruction and worked examples: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

@@ -86,8 +86,9 @@ last_updated: 2026-08-16
 
 Learners already know how to brush their teeth from Grade 1; now they learn *why*
 brushing and rest keep the body well. Brushing washes away food and **plaque** that can
-hurt teeth, and sleep helps the body grow, heal, and fight sickness. People clean teeth in
-many ways, and every body's rest can look a little different — all are honored.
+hurt teeth (S-017), and sleep helps the body grow, heal, and fight sickness (S-050).
+People clean teeth in many ways, and every body's rest can look a little different — all
+are honored.
 
 ## Objectives
 
@@ -98,8 +99,8 @@ many ways, and every body's rest can look a little different — all are honored
 
 You brush your teeth morning and night, and you rest when your body is tired. But do you
 know *why*? Brushing washes away sticky bits that can make teeth hurt, and sleep is when
-your body grows, heals, and gets ready to fight sickness. Today you will learn the reasons
-behind two habits you already practice.
+your body grows, heals, and gets ready to fight sickness. Today you will learn the
+reasons behind two habits you already practice.
 
 ## Materials
 
@@ -190,8 +191,6 @@ your body stay well.
 
 ## Resources
 
-- World Health Organization, "Oral health" (caring for teeth and mouth):
-  <https://www.who.int/news-room/fact-sheets/detail/oral-health>
-- American Academy of Sleep Medicine, "Recommended Amount of Sleep for Pediatric
-  Populations" (sleep needs for children):
-  <https://aasm.org/resources/pdf/pediatricsleepdurationconsensus.pdf>
+- On how much sleep children need: AASM — Recommended Amount of Sleep for Pediatric
+  Populations (S-050).
+- On caring for teeth and mouth: WHO — Oral health fact sheet (S-017).

@@ -98,9 +98,9 @@ a third says "**peace be with you.**" All three greet with peace, yet none says 
 the others say. The Arabic *wishes a blessing on the other person*; the Hebrew *shalom* also
 means *wholeness* and works as hello and goodbye; the English says the idea plainly and lets
 the blessing and the wholeness go. No language is "better" — but **each keeps something the
-others let go, and lets go of something the others keep**. Comparing languages this way is how
+others let go, and lets go of something the others keep** (S-167). Comparing languages this way is how
 you discover that meaning is never quite carried whole from one tongue to another — and that
-this is a richness, not a flaw.
+this is a richness, not a flaw (S-168).
 
 ## Materials
 
@@ -175,3 +175,6 @@ and find one thing it carries that your own language's version does not.
   on untranslatability and linguistic relativity (Sapir, Whorf, and later linguists). The
   shared Semitic root of *salaam/shalom* is standard in historical linguistics. The claim that
   all languages are equally valid is a values commitment (`docs/philosophy.md` §4).
+- On translation gaining and losing meaning, and words carrying culture: Daniel Everett — Language: The Cultural Tool (S-167).
+- On languages sorting the world differently: Edward Sapir & Benjamin Lee Whorf — language and thought (linguistic relativity) (S-168).
+

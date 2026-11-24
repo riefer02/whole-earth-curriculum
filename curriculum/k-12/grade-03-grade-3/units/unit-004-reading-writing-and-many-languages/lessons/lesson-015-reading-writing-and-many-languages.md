@@ -110,8 +110,8 @@ This is the unit capstone.
 Think of three tools that work together: a lamp to see, a hand to write, and a voice
 to speak. Reading, writing, and many languages are your tools like that — they do not
 live apart; they work as one. You read to understand, you write to be understood, and
-you reach across languages to meet other people. The whole human family has always
-done this, in every land, in every script. Today we gather it all and see the treasure
+you reach across languages to meet other people (S-019). The whole human family has always
+done this, in every land, in every script (S-165). Today we gather it all and see the treasure
 we now hold.
 
 ## Materials
@@ -179,7 +179,8 @@ reading, writing, and many languages are treasures that work together.
 
 ## Resources
 
-- UNESCO, multilingual and mother-tongue-based education:
-  <https://www.unesco.org/en/days/mother-language>
-- CASEL SEL Framework (social awareness and relationship skills):
-  <https://casel.org/fundamentals-of-sel/>
+- On the world's many writing systems: Peter T. Daniels & William Bright (eds.) — The
+  World's Writing Systems (S-165).
+- On every learner's home language as a treasure, not a problem: UNESCO — International
+  Mother Language Day (S-019).
+

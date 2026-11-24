@@ -116,7 +116,7 @@ feelings move like weather — they arrive, they shift, and they pass.
 
 The heart of it is a simple, true idea: feelings are temporary. Teach the worked example
 (nervous → excited → proud) aloud and with your body first, then let each learner trace
-their own change. Some learners will choose a change that is not "neat" (mad → madder →
+their own change (S-011). Some learners will choose a change that is not "neat" (mad → madder →
 calmer, or a feeling that stayed a long time); honor every shape a feeling takes. Never
 tell a learner a feeling "should" have changed by now — the point is *noticing*, not
 rushing. If a learner names a very heavy change (grief, fear), stay calm, name the
@@ -138,7 +138,7 @@ holding difficult topics.
    feeling changed. It might be before and after a game, a test, a visit, or a hard
    goodbye. Draw or write your three stops on your path: how you felt **first**, how it
    changed **in the middle**, how you felt **last**. Use the feeling words you know —
-   nervous, excited, proud, mad, sad, calm, and more.
+   nervous, excited, proud, mad, sad, calm, and more (S-015).
 4. **Share one change (10 min).** With a partner, tell your path: "First I felt ___,
    then it changed to ___, and last I felt ___." Notice how every path is different —
    that is normal and good.
@@ -165,5 +165,7 @@ different after — and tell them one of yours.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On naming a feeling with a word precise enough to tell it apart from another: Yale
+  Center for Emotional Intelligence — RULER approach (S-015).
+- On modeling a skill before learners try it themselves: Kirschner, Sweller & Clark (2006)
+  — Why Minimal Guidance During Instruction Does Not Work (S-011).

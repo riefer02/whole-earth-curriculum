@@ -119,11 +119,11 @@ time.
    years, not places to feel sorry about.
 2. In deserts, people often wear long, loose, light robes that shield from sun and sand,
    live in tents that let cool air through, and know where the wells and oases are (see
-   Resources).
+   Resources) (S-057).
 3. On coasts, people fish, build boats, and sometimes raise homes on stilts above the
    tide.
 4. In cold regions, Inuit peoples make warm parkas, kayaks, and winter shelters, and
-   hunt and fish (see Resources).
+   hunt and fish (see Resources) (S-058).
 
 **Don't overshoot.** Name the peoples where you can, without overclaiming. Never say any
 place is "hard to live in" in a pitying way — say instead: each place asks something,
@@ -186,16 +186,10 @@ does not use a speaking voice points or acts the adaptations.
 
 ## Resources
 
-- National Geographic Education, "Desert" — describes how people in deserts adapt
-  with long, loose, light robes, tents, camels, and knowledge of wells and oases.
-  https://education.nationalgeographic.org/resource/desert/
-- Inuit Circumpolar Council — the united voice of Inuit across Alaska, Canada,
-  Greenland, and Chukotka; documents Inuit knowledge and ways of living in the
-  Arctic.
-  https://www.inuitcircumpolar.com/
-- Polynesian Voyaging Society (Hōkūleʻa) — documents how Pacific island and coastal
-  peoples read the sea and sail canoes, supporting the coast example.
-  https://hokulea.com/
+- On desert adaptations — loose light robes, tents, wells and oases: National
+  Geographic Education — Desert (S-057).
+- On Inuit knowledge and ways of living across the Arctic: Inuit Circumpolar Council
+  (S-058).
 
 ## Home connection
 

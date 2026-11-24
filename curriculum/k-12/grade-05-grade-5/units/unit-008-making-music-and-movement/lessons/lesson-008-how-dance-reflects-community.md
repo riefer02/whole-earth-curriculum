@@ -84,8 +84,8 @@ last_updated: 2026-08-17
 
 Learners meet dance and drama traditions from three world regions and learn to **read
 movement as a carrier of place, history, and community**. A worked example reads the Māori
-haka (strength, welcome, chant), Bharatanatyam (hand gestures telling epic stories), and
-capoeira (a circle of music and movement born of resistance). Learners complete a movement
+haka (strength, welcome, chant) (S-447), Bharatanatyam (hand gestures telling epic
+stories), and capoeira (a circle of music and movement born of resistance) (S-056). Learners complete a movement
 observation chart, honoring every tradition as **living practice**.
 
 ## Objectives
@@ -180,7 +180,10 @@ its people.
 
 ## Resources
 
-- UNESCO's Intangible Cultural Heritage lists frame these as living traditions (e.g., the
-  "Capoeira circle"): <https://ich.unesco.org/>
-- For classroom-friendly framing of dance traditions, see the Kennedy Center's arts
-  education resources: <https://www.kennedy-center.org/education/>
+- On haka as a living Māori performance tradition: Te Ara — The Encyclopedia of New
+  Zealand, <https://teara.govt.nz/en/haka> (S-447).
+- On the capoeira circle (roda) as an inscribed element of living cultural heritage:
+  UNESCO — Intangible Cultural Heritage, <https://ich.unesco.org/> (S-056).
+- On dance and drama traditions in arts education, for classroom framing: The John F.
+  Kennedy Center for the Performing Arts — Education,
+  <https://www.kennedy-center.org/education/> (S-189).

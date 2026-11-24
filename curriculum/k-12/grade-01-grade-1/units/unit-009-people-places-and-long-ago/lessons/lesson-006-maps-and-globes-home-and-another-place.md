@@ -123,7 +123,7 @@ choose where possible.
 1. **Gather (5 min).** Imagine a bird flying over your room or street. What would it
    see from above?
 2. **Meet the map and globe (10 min).** A **map** is a picture of a place from
-   above. A **globe** is the whole Earth drawn as a ball. Look at both. Find the
+   above. A **globe** is the whole Earth drawn as a ball (S-129). Look at both. Find the
    water and the land on each.
 3. **Find home (10 min).** On the room or neighborhood map, put your marker on your
    home — or the spot closest to it. Say or point: "Here is where I live."
@@ -163,3 +163,8 @@ choose where possible.
 With a grown-up, look at any map you have — on a phone, in a book, or drawn by hand.
 Find where you live and one other place you are curious about. Name one way they are
 different.
+
+## Resources
+
+- On what maps are and how they show land, water, and where places are: National
+  Geographic Education — Map (S-129).

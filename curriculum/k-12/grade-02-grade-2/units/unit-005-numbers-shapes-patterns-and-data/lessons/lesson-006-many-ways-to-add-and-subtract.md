@@ -88,7 +88,7 @@ last_updated: 2026-08-16
 Learners solve addition and subtraction problems within 100 in several ways — with
 models, drawings, number lines, and by breaking numbers apart — and practice
 explaining the strategy they chose. The heart of the lesson is that **many strategies
-are right**, and explaining your own way is where the learning lives.
+are right**, and explaining your own way is where the learning lives (S-025).
 
 ## Objectives
 
@@ -172,6 +172,6 @@ different way, and explain your ways to each other.
 
 ## Resources
 
-- Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (2015).
-  *Children's Mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann.
-  (Children's invented strategies and the value of explaining them.)
+- On children's invented strategies and the value of explaining them: Carpenter,
+  Fennema, Franke, Levi & Empson — Children's Mathematics: Cognitively Guided
+  Instruction (S-025).

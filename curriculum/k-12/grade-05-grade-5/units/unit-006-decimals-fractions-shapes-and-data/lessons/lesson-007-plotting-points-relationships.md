@@ -97,7 +97,7 @@ A gardener plants seedlings and records, week by week, how tall they grow: week 
 high, week 2 → 4, week 3 → 6. If we draw a grid and put **weeks along the bottom** (x) and
 **height up the side** (y), the points climb in a line — and that line tells the whole story at
 a glance. Coordinate grids are how mapmakers, builders, farmers, and scientists pin down
-**where** something is and **how two things grow together**, all over the world.
+**where** something is (S-129) and **how two things grow together**, all over the world.
 
 ## Materials
 
@@ -165,8 +165,10 @@ someone exactly where one spot is.
 
 ## Resources
 
-- First-quadrant coordinate plotting is standard in elementary mathematics; see John A. Van de
-  Walle, *Elementary and Middle School Mathematics* (10th ed., 2019). The note that locating a
-  place by two distances predates Cartesian coordinates and appears in global mapmaking is a
-  historical observation; treating all traditions as worthy is a value (`docs/philosophy.md`
-  §4).
+- On how maps locate places: National Geographic Education — Map,
+  <https://education.nationalgeographic.org/resource/map/> (S-129).
+- On locating a place by two coordinates — latitude and longitude — long before
+  Descartes: Encyclopaedia Britannica — Ptolemy,
+  <https://www.britannica.com/biography/Ptolemy> (S-299).
+- On first-quadrant coordinate plotting in the upper elementary grades: Van de Walle,
+  Karp & Bay-Williams — *Elementary and Middle School Mathematics* (S-026).

@@ -131,7 +131,7 @@ save the word for later grades, but let the observation land.
 4. **Your body moves (7 min).** Be the object: roll like a ball (curl up and turn),
    slide like a block (move flat), then push and pull a partner's hands gently.
 5. **Close (3 min).** Push and pull make things start; hands, walls, and the ground
-   make things stop. Rolling and sliding are two ways things travel.
+   make things stop (S-036). Rolling and sliding are two ways things travel (S-037).
 
 ## Differentiation
 
@@ -158,10 +158,7 @@ and slide a flat thing. Tell a grown-up what made each one start and stop.
 
 ## Resources
 
-- BBC Bitesize (KS2 Science), "Friction" — friction is a force that acts when an
-  object moves across a surface, and it helps explain why a moving object slows and
-  stops.
-  https://www.bbc.co.uk/bitesize/topics/znmmn39/articles/zcmwkty
-- BBC Bitesize (KS2 Science), "Moving on different surfaces" — objects move
-  differently depending on the surface they are on.
-  https://www.bbc.co.uk/bitesize/topics/znmmn39/articles/zqxnhcw
+- On friction as the force that slows a moving object: BBC Bitesize (KS2 Science),
+  "Friction" (S-036).
+- On how objects move differently on different surfaces: BBC Bitesize (KS2 Science),
+  "Moving on different surfaces" (S-037).

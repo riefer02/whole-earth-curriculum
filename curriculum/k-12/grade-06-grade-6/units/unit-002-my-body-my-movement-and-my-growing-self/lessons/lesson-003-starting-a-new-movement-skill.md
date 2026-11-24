@@ -100,7 +100,7 @@ a *new skill*, the lesson uses **explicit steps and guided practice** before ind
 Think of the first time you learned a clapping game, a song with hand movements, or a footwork
 pattern — at first it felt impossible, and then, try after try, your body just *knew* it.
 Everywhere in the world, people teach movement the same way: one small step at a time, repeated
-until it becomes smooth. The **traveling step** you will learn today is one such step — a cousin
+until it becomes smooth (S-011). The **traveling step** you will learn today is one such step — a cousin
 of the grapevine in some line dances, the *chassé* in ballet, and side-stepping steps in folk
 dances from many lands. Wherever people gather to dance or play, they build skill one counted
 step at a time.
@@ -179,3 +179,5 @@ together for one minute.
   presents it as a shared human pattern rather than the property of one culture. For children's
   movement guidance, see the World Health Organization:
   <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
+- On explicit instruction and guided practice for a new skill: Paul A. Kirschner, John Sweller & Richard E. Clark — Why Minimal Guidance During Instruction Does Not Work (S-011).
+

@@ -134,7 +134,7 @@ understand and care for communities of life* is a value this curriculum holds. S
    Today you sharpen two words — *population* and *community* — and trace the rise-and-fall
    dance of predator and prey.
 2. **Meet the meadow (12 min).** Look at the poster. A **population** is all of *one kind* of
-   living thing in a place — all the grasshoppers in the meadow. A **community** is *all* the
+   living thing in a place — all the grasshoppers in the meadow (S-152). A **community** is *all* the
    living things there together — the grass, the grasshoppers, the mice, and the hawk. Now the
    cycle: many mice → hawks eat well → hawk numbers rise → fewer mice → hawks eat less → hawk
    numbers fall → mice recover → the cycle repeats. Predator and prey do not just interact;
@@ -180,3 +180,5 @@ hunts whom.
   predator-prey oscillation is described from field studies of lynx and snowshoe hare and is
   summarized in age-appropriate form by those sources. The "dance, not drama" framing follows
   `docs/facilitation.md` and `docs/philosophy.md` §5.
+- On populations, communities, and the living and nonliving parts of an ecosystem: National Geographic Education — Ecosystem (S-152).
+

@@ -84,7 +84,7 @@ connects them to everyone, near and far.
 
 No matter where people live — in a busy city, a village, by the sea, or in the
 mountains — everyone eats, sleeps, laughs, and cries. Everyone has feelings and needs
-care. The things we share are like a bridge from me to you, and to people everywhere.
+care (S-093). The things we share are like a bridge from me to you, and to people everywhere.
 
 ## Materials
 
@@ -134,6 +134,7 @@ sharedness are two halves of one truth.
 
 - CASEL SEL Framework (foundational competencies):
   <https://casel.org/fundamentals-of-sel/>
+- On basic human needs: Maslow (1943) — A Theory of Human Motivation (S-093).
 
 ## Home connection
 

@@ -99,7 +99,7 @@ conversations. The first attacks the *person*; the second disagrees with the *id
 still reaches the person. Disagreement is not the enemy of good discussion; it is how groups
 avoid going the wrong way together. The skill is to disagree in a way that **keeps the person
 while challenging the idea** — in a friendship, a family, or a whole community deciding
-something important.
+something important (S-238).
 
 ## Materials
 
@@ -178,3 +178,5 @@ because…" and notice whether the conversation goes further than it usually doe
   O'Connor's accountable-talk moves. The claim that every person deserves respect even amid
   disagreement is a values commitment (`docs/philosophy.md` §4). On explicit instruction for
   novice skills, see Kirschner, Sweller & Clark (2006).
+- On discussion moves that disagree respectfully with an idea while keeping the person: Sarah Michaels & Cathy O'Connor — Accountable Talk / Talk Moves (S-238).
+

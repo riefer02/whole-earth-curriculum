@@ -83,7 +83,7 @@ last_updated: 2026-08-16
 Learners subtract within 100 by taking away the **tens** and the **ones** separately.
 They model with bundles, draw the take-away, and record the difference in parts — five
 tens take away three tens, seven ones take away four ones — so written subtraction
-grows out of real objects.
+grows out of real objects (S-025).
 
 ## Objectives
 
@@ -165,7 +165,6 @@ what is left.
 
 ## Resources
 
-- Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (2015).
-  *Children's Mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann.
-  (Separate problems and children's invented place-value strategies for subtracting
-  within 100.)
+- On separate (take-away) problems and children's invented strategies for subtracting:
+  Carpenter, Fennema, Franke, Levi & Empson — Children's Mathematics: Cognitively
+  Guided Instruction (S-025).

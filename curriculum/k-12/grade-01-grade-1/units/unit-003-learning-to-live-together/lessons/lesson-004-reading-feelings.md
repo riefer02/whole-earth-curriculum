@@ -84,7 +84,7 @@ learn that a guess is a guess, and checking it by asking is the kind, careful st
 
 ## Connection
 
-People show feelings even before they say a word: a frown, a quiet voice, tight
+People show feelings even before they say a word (S-160): a frown, a quiet voice, tight
 shoulders. When you learn to read these clues, you become a better friend, because you
 can notice how someone feels and ask if they are okay.
 
@@ -141,5 +141,7 @@ body.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness and relationship skills):
-  <https://casel.org/fundamentals-of-sel/>
+- On face, voice, and body as cues to feeling, and on display rules that differ across
+  families and cultures: Ekman & Friesen — The Repertoire of Nonverbal Behavior (S-160).
+- On social awareness and relationship skills, for classroom framing: CASEL —
+  Fundamentals of Social and Emotional Learning (S-001).

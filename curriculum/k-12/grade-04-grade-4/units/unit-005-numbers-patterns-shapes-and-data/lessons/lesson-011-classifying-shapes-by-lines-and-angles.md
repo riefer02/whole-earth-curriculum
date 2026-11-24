@@ -126,14 +126,14 @@ stand, cloth fit, and patterns repeat. Classifying is how you read a shape's fam
 
 **The facts to land.**
 1. Classification is the **analysis of attributes**: how many pairs of parallel sides,
-   how many right angles, how many equal sides (Van de Walle, Karp & Bay-Williams,
-   2019).
+   how many right angles, how many equal sides (Van de Walle, Karp & Bay-Williams, 2019,
+   S-026).
 2. The quadrilateral family: a parallelogram has two pairs of parallel sides; a
    rectangle is a parallelogram with four right angles; a square is a rectangle with
    four equal sides and a rhombus with four right angles.
 3. One shape can belong to more than one group — **hierarchical classification**.
 4. Shape-sorting is a cross-cultural practice, from quilts and mosaics to roofs and maps
-   (Zaslavsky, 1999).
+   (Zaslavsky, 1999, S-024).
 
 **Don't overshoot.** How quickly a learner names a category is not a measure of their
 worth; a shape's features are facts, never a judgment about a person.
@@ -192,9 +192,8 @@ lines and angles. Tell a grown-up the feature that decides each group.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson.
-  (Classifying shapes by attributes, including hierarchical relationships among
-  quadrilaterals.)
-- Zaslavsky, C. (1999). *Africa Counts: Number and Pattern in African Cultures* (3rd
-  ed.). Lawrence Hill Books. (Shape and pattern in cultural designs.)
+- On classifying shapes by attributes, including hierarchical relationships among
+  quadrilaterals: Van de Walle, Karp & Bay-Williams — Elementary and Middle School
+  Mathematics: Teaching Developmentally (S-026).
+- On shape and pattern in cultural designs: Zaslavsky — Africa Counts: Number and
+  Pattern in African Cultures (S-024).

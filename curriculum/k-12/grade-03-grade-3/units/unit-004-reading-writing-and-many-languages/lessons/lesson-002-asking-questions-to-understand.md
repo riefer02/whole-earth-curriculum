@@ -90,7 +90,7 @@ Think of a friend describing a game you have never played, or a grown-up explain
 recipe you want to cook. If you only nod, you may miss the point. But if you ask,
 "Where do I put it?" or "When do I add the water?" or "Why do I stir?" — suddenly the
 meaning comes clear. Questions are how a listener reaches inside a speaker's words
-and finds the idea they are really trying to share.
+and finds the idea they are really trying to share (S-172, S-040).
 
 ## Materials
 
@@ -151,5 +151,10 @@ questions — who, what, where, when, or why — and notice how much more you un
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills and social awareness):
-  <https://casel.org/fundamentals-of-sel/>
+- On comprehension practices — asking questions, monitoring meaning, text structure: Nell
+  K. Duke & P. David Pearson (2002) — Effective Practices for Developing Reading
+  Comprehension (S-172).
+- On explicit reading instruction and the evidence base for comprehension strategies:
+  National Reading Panel (2000) — Teaching Children to Read: An Evidence-Based Assessment
+  (S-040).
+

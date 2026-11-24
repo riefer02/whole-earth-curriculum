@@ -98,7 +98,7 @@ A cook reads a recipe that calls for **500 milliliters** of milk, but the jug is
 **liters** — so the cook converts: 500 mL = **0.5 L**. A runner's route is **1.5 kilometers**,
 and the marker posts are in **meters** — that is **1500 m**. A farmer weighs **2500 grams** of
 grain and records it as **2.5 kilograms**. Converting units lets people who use different-sized
-measures share the same amount — a cook, a runner, and a farmer all over the world do it daily.
+measures share the same amount (S-175) — a cook, a runner, and a farmer all over the world do it daily.
 
 ## Materials
 
@@ -166,7 +166,8 @@ convert it to the other unit, telling someone how you did it.
 
 ## Resources
 
-- Metric conversions are standard in elementary mathematics; see John A. Van de Walle,
-  *Elementary and Middle School Mathematics* (10th ed., 2019). The fact that the metric system
-  is the near-universal standard (SI) while some places also use other units is documented; the
-  value that shared units enable fair trade is a commitment (`docs/philosophy.md` §4).
+- On quantities and units, and on writing measurements in one shared system so
+  different-sized units can be compared: ISO 80000-1,
+  <https://www.iso.org/standard/76921.html> (S-175).
+- On metric unit conversion in the upper elementary grades: Van de Walle, Karp &
+  Bay-Williams — *Elementary and Middle School Mathematics* (S-026).

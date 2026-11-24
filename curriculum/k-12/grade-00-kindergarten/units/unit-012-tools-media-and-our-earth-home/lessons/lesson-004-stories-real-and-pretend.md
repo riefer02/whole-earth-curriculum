@@ -123,7 +123,7 @@ is the goal, never ranking what another family holds dear.
    one is true — about something real that happened? Which one is pretend — made up,
    with talking animals or magic? Hold up your "real" or "pretend" card and say why.
 3. **How do we know? (10 min).** A true story can be checked — you could see it or ask
-   someone who was there. A pretend story cannot happen in the real world — animals do
+   someone who was there (S-063). A pretend story cannot happen in the real world — animals do
    not talk, houses do not fly. That is how we tell them apart.
 4. **Make up one of each (10 min).** Tell a partner one true story (something that
    really happened to you) and one pretend story. Ask your partner to guess which is
@@ -151,6 +151,10 @@ is the goal, never ranking what another family holds dear.
   for the two stories and give a simple reason?
 - **Artifact (portfolio):** The learner's own one-real, one-pretend drawing or
   retelling (recorded in words by the facilitator).
+
+## Resources
+
+- On checking where information comes from: Common Sense Education — News & Media Literacy (S-063).
 
 ## Home connection
 

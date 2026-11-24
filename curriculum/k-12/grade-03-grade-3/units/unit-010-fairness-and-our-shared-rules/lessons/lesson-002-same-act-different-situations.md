@@ -101,7 +101,7 @@ shame them, the *same* shout is not good — it hurts them. The act did not chan
 **situation** did. People everywhere reason this way: taking fruit from a shared tree
 when you are hungry is different from taking what is not yours; running is welcome on
 a field and dangerous beside a baby. Today you will practice seeing how the situation
-changes what an act means.
+changes what an act means (S-094).
 
 ## Materials
 
@@ -186,6 +186,6 @@ grown-up: in what situation would it be good, and in what situation would it not
 
 ## Resources
 
-- This "context matters" idea is a cornerstone of ethics for children; see the
-  "philosophy for children" tradition (Matthew Lipman, *Harry Stottlemeier's
-  Discovery*) for the same question asked with young learners.
+- On the idea that context changes what an act means, in the philosophy-for-children
+  tradition: Matthew Lipman (1974) — Harry Stottlemeier's Discovery (S-094).
+

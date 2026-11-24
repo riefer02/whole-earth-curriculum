@@ -85,7 +85,7 @@ everyone, not to one person.
 
 Groups decide things all the time: a family chooses what to eat, a class chooses a
 song, a village decides where to put a well. When everyone has a voice and everyone
-listens, the choice belongs to the whole group. You have a voice too — what you think
+listens (S-238), the choice belongs to the whole group. You have a voice too — what you think
 matters, and so does what everyone else thinks.
 
 ## Materials
@@ -158,6 +158,10 @@ to speak aloud or to move: pointing and signing are full participation.
   and join in the group's decision?
 - **Performance:** The group's finished decision — carried out and named as the
   group's own.
+
+## Resources
+
+- On accountable talk that hears every voice: Michaels & O'Connor — Accountable Talk / Talk Moves (S-238).
 
 ## Home connection
 

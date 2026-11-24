@@ -83,8 +83,8 @@ last_updated: 2026-08-15
 ## Summary
 
 Learners learn a simple song by ear and keep a **steady beat** by clapping or tapping
-along. They discover that a steady beat is the heartbeat of the song — the same
-everywhere people make music.
+along. They discover that a steady beat is the heartbeat of the song (S-368) — the
+same everywhere people make music.
 
 ## Objectives
 
@@ -177,3 +177,8 @@ full participation.
 
 Teach someone at home the song you learned and clap the steady beat together. Ask
 them if they know another song with the same kind of heartbeat.
+
+## Resources
+
+- On beat, rhythm, and tempo as elements of music: Wikipedia — Elements of music
+  (S-368).

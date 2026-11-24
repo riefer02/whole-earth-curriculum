@@ -96,7 +96,7 @@ follow).
 You want something to change — a garden, a rest spot, a water tap, a reading corner. You could
 just say "I want it," but that convinces no one. The moment you say **why** — "because there is
 nowhere cool to sit, because children play in the hot sun" — you have begun an **argument**: a
-**claim** (what you believe should happen) plus **reasons** (why). This is not about winning or
+**claim** (what you believe should happen) plus **reasons** (why) (S-236). This is not about winning or
 talking the loudest. It is about giving another person honest reasons they can weigh — the
 same move you made when you disagreed respectfully, now written down, in any language.
 
@@ -170,3 +170,5 @@ with "because" — and see how they respond.
   "Teaching Secondary Students to Write Effectively" guide. On explicit instruction and worked
   examples for novice writers, see Kirschner, Sweller & Clark (2006). The "reasoned claim, not
   winning" stance is a values commitment (`docs/philosophy.md` §4, §7).
+- On the claim-and-support structure of argument: Stephen Toulmin — The Uses of Argument (claim/data/warrant model) (S-236).
+

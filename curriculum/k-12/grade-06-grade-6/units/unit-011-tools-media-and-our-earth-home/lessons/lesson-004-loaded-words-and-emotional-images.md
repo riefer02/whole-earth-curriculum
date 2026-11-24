@@ -136,7 +136,7 @@ curriculum holds. See `docs/philosophy.md` §5, §7 and `docs/facilitation.md`.
    word** — it carries a feeling, making the drink seem clean and safe. The image of a
    **happy, healthy child** is an **emotional image** — it makes you feel good about the drink,
    as if buying it would bring that happiness. Neither proves the drink is good for you; both
-   *make you feel* it is. Ask the question aloud: "what is it making me feel, and why?"
+   *make you feel* it is. Ask the question aloud: "what is it making me feel, and why?" (S-151)
 3. **Spot your own (18 min).** Take a card. The **snack ad** ("MEGA-CRUNCH! the snack that
    makes you a champion") — loaded word: "champion"; emotional image: an athlete grinning with
    the snack; it makes you feel strong and cool. The **candidate poster** ("Vote for Ama — she
@@ -179,3 +179,5 @@ trying to give you.
   age-appropriate references (Britannica Kids, Common Sense Media). On modeling before
   practice, see Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>.
+- On asking who made a message and why, and how it tries to shape a view: NAMLE — Key Questions to Ask When Analyzing Media Messages (S-151).
+

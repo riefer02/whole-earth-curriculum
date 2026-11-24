@@ -102,7 +102,7 @@ falls and is badly hurt, a fire starts, or a person is very sick and cannot wake
 **emergency**: a time when someone needs **help right away**, and you — even as a child — can be
 the person who gets it. It does not mean doing everything yourself. It means knowing a simple
 four-step path: **recognize** that this is serious, **get safe**, **tell a trusted adult**, and
-**call the number for help**. Every country has a number to call for emergencies — and knowing
+**call the number for help**. Every country has a number to call for emergencies (S-195) — and knowing
 *yours* by heart is one of the most useful things you will ever learn.
 
 ## Materials
@@ -179,9 +179,10 @@ to find in an emergency — then practice saying the four steps.
 
 ## Resources
 
-- Emergency response taught to children centers on recognizing an emergency, getting to safety,
-  getting a trusted adult, and calling for help. Emergency numbers are **country-specific** —
-  for example 112 (much of Europe and the EU-wide number), 999 (United Kingdom), 000 (Australia),
-  911 (United States and Canada), and others worldwide. Give learners their own local number; do
-  not assume one universal number. See the International Telecommunication Union and national
-  emergency-service guidance for the number in your country. Keep all practice non-dialing.
+- On emergency numbers being country-specific, and on international guidance for them:
+  ITU — Recommendation E.161.1, emergency number guidelines,
+  <https://www.itu.int/rec/T-REC-E.161.1> (S-195).
+- On first-aid response for children — get safe, get an adult, call for help — kept
+  non-graphic and non-dialing in practice: IFRC — International First Aid, Resuscitation
+  and Education Guidelines, <https://www.ifrc.org/our-work/health-and-care/first-aid>
+  (S-082).

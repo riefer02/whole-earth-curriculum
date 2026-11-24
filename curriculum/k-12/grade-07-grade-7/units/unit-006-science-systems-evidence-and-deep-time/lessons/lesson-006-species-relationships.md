@@ -100,7 +100,7 @@ protected and the anemone is cleaned and fed — both benefit. A few metres away
 fish chase the same shrimp: that is competition. And a reef shark eats a smaller fish: that is
 predation. A forest, a savanna, a rice paddy, a city park — every community of living things
 is stitched together by these three kinds of relationships, and a change to one ripples
-through the rest.
+through the rest (S-310).
 
 ## Materials
 
@@ -201,3 +201,5 @@ same fruit, a bee on a flower. Name which of the three it is and share it next t
   claim (`docs/philosophy.md` §4–5).
 - On explicit instruction for novice content: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On how removing a species can ripple through a community (trophic cascade): William J. Ripple & Robert L. Beschta — Trophic cascades in Yellowstone (S-310).
+

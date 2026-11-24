@@ -84,7 +84,7 @@ last_updated: 2026-08-16
 ## Summary
 
 The Sun is a star — a giant ball of light and heat — and it gives the Earth two gifts:
-**light** and **warmth**. Learners feel the difference between sun and shade, connect
+**light** and **warmth** (S-047). Learners feel the difference between sun and shade, connect
 those two gifts to the living things that need them, and learn that plants grow and
 animals stay warm because of the Sun's energy. They also hold the Sun as a thing to
 *wonder* at — where it came from is a big question with many stories, held as stories.
@@ -96,11 +96,11 @@ animals stay warm because of the Sun's energy. They also hold the Sun as a thing
 
 ## Connection
 
-Step into the sun and you feel warmth on your skin; step into the shade and it is cooler.
-That warmth, and the light that helps you see, both come from one place: the **Sun**, a
-star so big it could hold the Earth many, many times over. Without the Sun's light and
-warmth, plants could not grow, and animals and people could not live. The Sun is far
-away, but its gifts reach us every day.
+Step into the sun and you feel warmth on your skin; step into the shade and it is
+cooler. That warmth, and the light that helps you see, both come from one place: the
+**Sun**, a star so big it could hold the Earth many, many times over. Without the Sun's
+light and warmth, plants could not grow, and animals and people could not live. The Sun
+is far away, but its gifts reach us every day.
 
 ## Materials
 
@@ -174,6 +174,5 @@ warmer and why. Then watch a plant in the light — that is the Sun's gift at wo
 
 ## Resources
 
-- NASA Space Place (NASA Science), "All About the Sun" — the Sun is a star that gives
-  the Earth light and heat that living things need.
-  https://spaceplace.nasa.gov/all-about-the-sun/en/
+- On the Sun as a star giving Earth light and heat: NASA Space Place — All About the
+  Sun (S-047).

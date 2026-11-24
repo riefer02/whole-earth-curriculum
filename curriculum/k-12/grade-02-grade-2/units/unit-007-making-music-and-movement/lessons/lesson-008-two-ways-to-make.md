@@ -84,8 +84,8 @@ last_updated: 2026-08-16
 ## Summary
 
 Learners solve a small making problem **two ways**, **compare** them, **choose** one,
-and **explain why**. They discover that trying more than one way is not a detour but
-the heart of good making, and that a reason is what turns a choice into a design.
+and **explain why**. They discover that trying more than one way is not a detour but the
+heart of good making, and that a reason is what turns a choice into a design (S-150).
 
 ## Objectives
 
@@ -115,8 +115,8 @@ Today you will solve one small making problem two ways, compare them, and choose
 The goal is the **reason**, not the "right" answer — a choice with a reason is the
 learning, and either way may be a fine choice. Model the compare once — "way A sags, way
 B holds; I choose B because it is stronger" — before learners compare their own
-(Kirschner, Sweller & Clark, 2006). Frame a failed attempt as information, never a
-verdict. A learner with limited fine motor tries each way by directing a partner and
+(Kirschner, Sweller & Clark, 2006; S-011). Frame a failed attempt as information, never
+a verdict. A learner with limited fine motor tries each way by directing a partner and
 decides the choice — deciding is making. A learner who is blind or has low vision
 compares by feel and sound (which holds, which bends, which makes a solid thud) with a
 partner describing what happened. A learner who does not speak points to the chosen way
@@ -162,3 +162,10 @@ and to the reason on a picture card. Every reason is welcome.
 
 At home, find a small problem — a wobbly lid, a slipping knot, a tilting pile. Try two
 ways to fix it with a grown-up, choose one, and tell them why.
+
+## Resources
+
+- On modelling before learners try their own way: Kirschner, Sweller & Clark (2006) —
+  Why Minimal Guidance Does Not Work (S-011).
+- On comparing alternatives and choosing one with a reason in the design process:
+  TeachEngineering — Engineering Design Process (S-150).

@@ -83,7 +83,7 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners learn to identify an author's **purpose** (to persuade, inform, or entertain) and
-**point of view** (whose eyes the reader sees through). They examine short texts through a
+**point of view** (whose eyes the reader sees through) (S-348). They examine short texts through a
 two-part lens — "Why did the author write this?" and "Whose point of view is it, and whose
 voice is missing?" — and compare two points of view on one event.
 
@@ -134,7 +134,7 @@ inquiry over creed.
    grandmother's story entertains.
 3. **Meet point of view (10 min).** Now the lens card: "**Whose eyes do we see through?**" The
    seller sees the market as a living; the sign sees prices; the grandmother sees a memory.
-   And ask the second question: "**Whose voice is missing?**" Who else is at that market that
+   And ask the second question: "**Whose voice is missing?**" (S-442) Who else is at that market that
    none of these three shows us?
 4. **Examine texts (15 min).** With your group, read each short text. For each one, answer:
    what is its **purpose** (persuade, inform, entertain)? What is its **point of view**? Whose
@@ -163,6 +163,11 @@ it show? Share your answer with someone.
 
 ## Resources
 
-- Author's purpose and point of view are standard comprehension targets (see Duke & Pearson's
-  synthesis and the IES practice guides). The question "whose voice is missing?" reflects the
-  curriculum's egalitarian and global lenses (`docs/philosophy.md` §4).
+- On point of view in a text — whose eyes the reader sees through: Encyclopaedia
+  Britannica — Point of view (literature),
+  <https://www.britannica.com/art/point-of-view-literature-and-theatre> (S-348).
+- On asking what points of view a message represents, and which it leaves out: Center
+  for Media Literacy — Five Core Concepts and Key Questions,
+  <https://www.medialit.org/> (S-442).
+- On comprehension strategies for noticing an author's purpose: Duke & Pearson (2002)
+  (S-172).

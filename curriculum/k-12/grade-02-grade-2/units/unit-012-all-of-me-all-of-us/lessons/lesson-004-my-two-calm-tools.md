@@ -80,9 +80,9 @@ last_updated: 2026-08-16
 
 Learners gather the year's calming strategies — balloon breath, counting to five,
 finding a safe space, shaking it out, naming it with words — and choose the two that
-help them most. They make a personal "calm card" and practice *choosing* a tool on
-their own, pausing before they react. This is the year's self-regulation work, gathered
-into something a child can carry forward.
+help them most. They make a personal "calm card" and practice *choosing* a tool on their
+own, pausing before they react (S-225). This is the year's self-regulation work,
+gathered into something a child can carry forward.
 
 ## Objectives
 
@@ -165,4 +165,5 @@ Show someone at home your calm card and teach them one of your two tools.
 
 ## Resources
 
-- CASEL SEL Framework (self-management): <https://casel.org/fundamentals-of-sel/>
+- On emotion regulation as a set of strategies a person can choose among: Gross — The
+  Emerging Field of Emotion Regulation: An Integrative Review (S-225).

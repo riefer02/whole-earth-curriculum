@@ -90,7 +90,7 @@ Last year you learned four feeling names — happy, sad, angry, and scared. This
 your feelings can be named more exactly. When you finish something hard, you feel
 proud; when no one is around to play, you might feel lonely; when something wonderful
 is about to happen, you feel excited. More feeling words mean you can tell people
-exactly what is going on inside you.
+exactly what is going on inside you (S-015).
 
 ## Materials
 
@@ -144,5 +144,7 @@ share a time you felt it.
 
 ## Resources
 
-- CASEL SEL Framework (foundational competencies):
-  <https://casel.org/fundamentals-of-sel/>
+- On building a precise feeling vocabulary: RULER Approach — Yale Center for
+  Emotional Intelligence (S-015).
+- On naming and understanding one's own emotions as a core competency, for classroom
+  framing: CASEL — Fundamentals of Social and Emotional Learning (S-001).

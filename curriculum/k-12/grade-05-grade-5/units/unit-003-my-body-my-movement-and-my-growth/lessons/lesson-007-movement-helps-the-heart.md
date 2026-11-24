@@ -83,7 +83,7 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners discover that the **heart is a muscle** and that movement makes it work — and
-**regular movement makes it stronger**. They feel and count their own **pulse** at rest and
+**regular movement makes it stronger** (S-069). They feel and count their own **pulse** at rest and
 after a short burst of movement, then connect the faster beat to the heart being exercised,
 the way practice builds a skill. This is the first of two lessons on how movement benefits
 the body.
@@ -132,7 +132,7 @@ and healthy. Do not push any learner beyond comfort. See `docs/facilitation.md` 
    of your fist. It pumps blood — carrying oxygen and fuel — to your whole body, all day, every
    day. The wavy line
    is a **pulse** — the rhythm of the heart's beats. When you move, the line gets taller and
-   faster: the heart works harder. Do that **regularly**, and the heart grows **stronger and
+   faster: the heart works harder (S-098). Do that **regularly**, and the heart grows **stronger and
    steadier** — exactly like practice builds a skill (remember Lesson 5).
 3. **Feel your pulse (10 min).** Find your pulse: press two fingers gently on the inside of
    your wrist, or on the side of your neck. Count the beats for 15 seconds with the timer.
@@ -169,3 +169,9 @@ then share what changed and why.
   supports heart health. The World Health Organization recommends that children and young
   people aged 5–17 do at least 60 minutes of moderate-to-vigorous physical activity daily:
   <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
+
+- On the heart as a muscle that pumps blood and beats faster during activity, written
+  for children: Nemours KidsHealth, <https://kidshealth.org/en/kids/heart.html> (S-098).
+- On regular physical activity for children and adolescents promoting healthy growth of
+  muscle and cardiovascular fitness: WHO — Physical activity fact sheet,
+  <https://www.who.int/news-room/fact-sheets/detail/physical-activity> (S-069).

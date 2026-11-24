@@ -138,7 +138,7 @@ cooperative group work.
    clap." That is the idea introduced. *Middle:* change it — tap the desk fast eight
    times, or hum a rising sound. Something **new** happens. *End:* clap the slow beat
    four times again — you have **returned** to the start. That is A (beginning), B
-   (middle), A (end) — a piece with a shape.
+   (middle), A (end) — a piece with a shape (S-189).
 3. **Choose your sounds (5 min).** With your group, pick your sound makers — voices,
    claps, taps, shakers, or a pitched instrument. Decide: what is the *idea* of your
    piece? Is it a calm morning, a busy market, a rolling river, a walk home?
@@ -176,7 +176,9 @@ the ending returns to something from the start.
 
 ## Resources
 
-- The idea of musical form (beginning, middle, end; ABA) is a standard of elementary
-  music education. For a classroom-friendly framing of composing with found sound, see
-  Smithsonian Folkways' "Tools for Teaching":
-  <https://folkways.si.edu/tools-for-teaching>
+- On musical form — a beginning that states an idea, a contrasting middle, and a return
+  — in arts education: The John F. Kennedy Center for the Performing Arts — Education,
+  <https://www.kennedy-center.org/education/> (S-189).
+- On composing with found sound and classroom instruments, with recordings and teaching
+  notes: Smithsonian Folkways — Tools for Teaching,
+  <https://folkways.si.edu/> (S-188).

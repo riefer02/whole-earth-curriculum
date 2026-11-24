@@ -123,7 +123,7 @@ safeguarding steps.
    asks clearly. "I need help — I hurt my knee," or "I feel scared." Speak in a calm,
    clear voice — or sign, point, tap a shoulder, or show a picture. Asking looks
    different for everyone, and every way of asking works.
-5. **Close (5 min).** Remember: asking for help keeps your body safe. It is always
+5. **Close (5 min).** Remember: asking for help keeps your body safe (S-060). It is always
    okay to ask.
 
 ## Differentiation
@@ -138,6 +138,10 @@ safeguarding steps.
 - **Formative (observation):** Can the learner sort a scenario and say one trusted
   grown-up to ask, with guidance?
 - **Self:** The learner names one situation where they would ask for help this week.
+
+## Resources
+
+- On children's rights to protection and to be heard: United Nations Convention on the Rights of the Child (UNICEF, child-friendly) (S-060).
 
 ## Home connection
 

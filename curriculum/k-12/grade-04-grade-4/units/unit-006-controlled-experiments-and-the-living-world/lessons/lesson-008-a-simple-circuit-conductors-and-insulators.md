@@ -102,12 +102,12 @@ open to stop the loop and close to start it.
 
 Flip a light switch and the room fills with light. What just happened? You closed a
 **circuit** — a complete loop of **wire** from the power source, through the light, and
-back again. Electricity only flows when the loop is closed; that is why a switch can turn
-the light off by breaking the loop. And have you noticed that the cord of a lamp is
+back again. Electricity only flows when the loop is closed; that is why a switch can
+turn the light off by breaking the loop. And have you noticed that the cord of a lamp is
 covered in plastic, with **metal** inside? The metal is a **conductor** — it carries
 electricity — and the plastic is an **insulator** — it stops electricity so it does not
-reach your hand. This is why a metal fork feels different from a wooden spoon: the same
-science is behind the lights, the wires, and the safe covers in your home.
+reach your hand (S-112). This is why a metal fork feels different from a wooden spoon:
+the same science is behind the lights, the wires, and the safe covers in your home.
 
 ## Materials
 
@@ -178,6 +178,5 @@ plastic around it, and say which is the conductor and which is the insulator, an
 
 ## Resources
 
-- BBC Bitesize (KS2 Science), "What are conductors and insulators?" — how a circuit works
-  and why some materials let electricity through and others stop it.
-  https://www.bbc.co.uk/bitesize/topics/zj44jxs/articles/zxv482p
+- On how a circuit works and why some materials let electricity through and others stop
+  it: BBC Bitesize (KS2) — What are conductors and insulators? (S-112).

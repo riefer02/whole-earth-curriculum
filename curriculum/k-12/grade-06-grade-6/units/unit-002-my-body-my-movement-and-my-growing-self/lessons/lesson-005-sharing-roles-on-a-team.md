@@ -101,7 +101,7 @@ minds the fire, another chops, another counts the money, another welcomes people
 tried to do it all, the work would stall; if the same person always got the easiest job, the
 team would sour. A team works when **everyone holds a role and the roles are shared fairly**.
 Whether it is a fishing crew, a dance troupe, or a study group, the same truth holds everywhere:
-each person contributes, and the roles turn so everyone learns everything.
+each person contributes, and the roles turn so everyone learns everything (S-147).
 
 ## Materials
 
@@ -169,3 +169,5 @@ does a different part today than yesterday.
   Johnson). Rotating roles so every member tries each one supports equity — no learner is fixed
   by skill or background. For classroom SEL framing of teamwork, see CASEL's relationship-skills
   competency: <https://casel.org/fundamentals-of-sel/>
+- On cooperative learning with shared roles and individual accountability: Robert E. Slavin — Cooperative Learning: Theory, Research, and Practice (S-147).
+

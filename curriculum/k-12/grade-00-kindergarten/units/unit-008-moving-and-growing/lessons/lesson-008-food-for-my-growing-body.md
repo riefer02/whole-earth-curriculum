@@ -89,7 +89,7 @@ and honor the many different foods families eat around the world.
 ## Connection
 
 Everything you do with your body — running, hopping, thinking, and growing taller —
-uses energy, and food is where that energy comes from. A bowl of rice, a piece of
+uses energy, and food is where that energy comes from (S-038). A bowl of rice, a piece of
 fruit, some beans, bread, fish, or vegetables are all foods that help a body grow.
 Different families eat different foods, and every culture has its own growing foods —
 from corn and cassava to lentils and greens. What matters is that food fuels your
@@ -150,6 +150,10 @@ unit's theme of movement and growth.
   words how food helps a growing body, and place a common food in an "everyday" or
   "sometimes" group?
 - **Artifact (portfolio):** The learner's drawing of a growing food.
+
+## Resources
+
+- On everyday foods, energy, and growth: WHO — Healthy diet fact sheet (S-038).
 
 ## Home connection
 

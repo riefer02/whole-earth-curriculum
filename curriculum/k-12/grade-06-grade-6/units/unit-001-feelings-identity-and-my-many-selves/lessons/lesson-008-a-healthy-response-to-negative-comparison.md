@@ -98,10 +98,10 @@ without putting the other person down.
 
 You see a friend's perfect drawing — or their perfect game, or their perfect photo — and
 your own hand stops. A small voice says, "I'll never be that good." That is a **negative
-comparison**, and almost everyone has it. The healthy response is *not* "I'm better than
+comparison**, and almost everyone has it (S-221). The healthy response is *not* "I'm better than
 them" (that's just another comparison) and *not* "I'll never be good" (that's giving up).
 It is turning back to your own lane: *compare your today to your yesterday*, name what is
-real, and do one small thing that grows *you*. A runner does not win by staring at the
+real, and do one small thing that grows *you* (S-222). A runner does not win by staring at the
 runner beside her; she runs her own race — on a track, a trail, or a village road.
 
 ## Materials
@@ -176,3 +176,6 @@ notice, name, reframe, act — and notice how the day changes.
   comparison. The healthy-response framing of self-compassion connects to the work of
   Kristin Neff. For classroom SEL framing, see CASEL's self-awareness competency:
   <https://casel.org/fundamentals-of-sel/>
+- On comparison with others as a normal human tendency: Leon Festinger — A Theory of Social Comparison Processes (S-221).
+- On self-compassion as a healthier response than self-criticism: Kristin Neff — Self-Compassion: An Alternative Conceptualization of a Healthy Attitude Toward Oneself (S-222).
+

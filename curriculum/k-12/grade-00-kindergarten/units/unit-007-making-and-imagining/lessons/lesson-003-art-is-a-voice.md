@@ -95,7 +95,7 @@ world use pictures, weaving, carving, and paint to share what is inside them.
 
 Have you ever seen a picture and known, right away, that it felt happy or stormy or
 calm? A drawing can speak before you say a word. All over the world, people make
-pictures, patterns, weavings, and carvings to share feelings and stories — art is a
+pictures, patterns, weavings, and carvings to share feelings and stories (S-114) — art is a
 voice that does not need words.
 
 ## Materials
@@ -143,6 +143,10 @@ guess is a real guess.
 - **Formative (observation):** Does the learner make a picture that they connect to a
   feeling, in words or by pointing?
 - **Artifact (portfolio):** The feeling picture, kept in the portfolio.
+
+## Resources
+
+- On art as a living human heritage: Metropolitan Museum of Art — Heilbrunn Timeline of Art History (S-114).
 
 ## Home connection
 

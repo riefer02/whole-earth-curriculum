@@ -100,7 +100,7 @@ revise after feedback in the next lesson.
 Messages travel in pictures everywhere you look. A symbol on a door says *welcome*; a
 mural on a wall tells a neighborhood's story; a badge on a uniform names a role. Among the
 Akan peoples of Ghana and Côte d'Ivoire, stamped cloth called **adinkra** carries a whole
-sentence in each symbol — one stamp means *unity*, another *memory*, another *wisdom*. The maker isn't decorating; they are *speaking*. Today you become that kind
+sentence in each symbol — one stamp means *unity*, another *memory*, another *wisdom* (S-084). The maker isn't decorating; they are *speaking*. Today you become that kind
 of maker: you choose what you want to say, then choose the symbol, color, and composition
 that will carry it to another person's eyes.
 
@@ -188,3 +188,5 @@ poster — and tell someone what you think it is "saying" and how it shows it.
   across cultures put meaning into images: <https://www.metmuseum.org/toah/>
 - Kirschner, Sweller & Clark (2006), "Why Minimal Guidance Does Not Work," on modeling a
   worked example before independent practice.
+- On adinkra cloth and its stamped symbols among the Akan peoples: Smithsonian National Museum of African Art — Kente cloth (S-084).
+

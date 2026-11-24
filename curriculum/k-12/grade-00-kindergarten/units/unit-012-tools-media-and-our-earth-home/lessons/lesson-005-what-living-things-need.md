@@ -89,7 +89,7 @@ the quiet thread of the lesson.
 ## Connection
 
 You are a living thing. So is a plant, a bird, a fish, a tree. Every living thing
-needs the same few gifts to live and grow: sun, water, food, and air. Without them, a
+needs the same few gifts to live and grow: sun, water, food, and air (S-033; S-032). Without them, a
 plant cannot grow and a bird cannot fly. Let's look at a living plant and see what it
 needs.
 
@@ -147,6 +147,11 @@ store of things to use up.
   needs to live?
 - **Artifact (portfolio):** The drawing of the plant with its sun, water, food, and
   air.
+
+## Resources
+
+- On what plants need to grow: BBC Bitesize (KS1) — What does a plant need to grow? (S-033).
+- On what animals need to live: BBC Bitesize (KS1) — What do animals need to survive? (S-032).
 
 ## Home connection
 

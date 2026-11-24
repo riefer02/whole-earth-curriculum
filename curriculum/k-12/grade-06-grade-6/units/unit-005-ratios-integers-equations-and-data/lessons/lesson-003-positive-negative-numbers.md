@@ -101,7 +101,7 @@ afternoon in the lowlands reads **+30°C**, thirty degrees *above* zero. The sam
 idea works for the land itself: a mountaintop is thousands of meters *above* sea level, while the
 shore of the Dead Sea is **−430 m**, hundreds of meters *below* sea level. Zero is not "nothing"
 here — it is the reference line we measure from, and positive and negative numbers tell us which side
-of it we stand on.
+of it we stand on (S-026).
 
 ## Materials
 
@@ -133,7 +133,7 @@ whole idea, so say the sign aloud every time.
 - *Intellectual:* the number line grows downward as well as upward.
 - *Global:* negative numbers were used in ancient China (red and black counting rods for
   owing and having) and given rules by Brahmagupta in India — a human discovery, not one
-  culture's property.
+  culture's property (S-290).
 - *Environment:* elevations and temperatures describe real, varied landscapes, and
   knowing them matters for farming, building, and travel (`docs/philosophy.md` §4).
 - *Critical-thinking:* the measured temperatures and elevations are evidence; that all
@@ -189,3 +189,6 @@ valley, a hot day and a cold night — and write each as a signed number.
   Sea shore near −430 m) and temperatures are factual; the historical note that negative numbers were
   used in ancient China and systematized by Brahmagupta in India (7th century CE) is documented. The
   claim that all places and peoples are worthy of study is a value (`docs/philosophy.md` §4).
+- On positive and negative numbers and the number line: John A. Van de Walle, Karen S. Karp & Jennifer M. Bay-Williams — Elementary and Middle School Mathematics: Teaching Developmentally (S-026).
+- On Brahmagupta's seventh-century rules for negative numbers: MacTutor History of Mathematics Archive — Brahmagupta (S-290).
+

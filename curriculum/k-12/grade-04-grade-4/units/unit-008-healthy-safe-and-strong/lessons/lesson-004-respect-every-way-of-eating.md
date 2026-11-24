@@ -122,9 +122,10 @@ practice the skill that makes every table a kind table: **respect**.
 
 **The facts to land.**
 1. People eat differently for five reasons — **culture**, **religion**, **health or
-   allergy**, **preference**, and **access** (what is available and affordable) — and
-   every one deserves respect.
-2. This reflects WHO and FAO accounts of dietary diversity and food security.
+   allergy**, **preference**, and **access** (what is available and affordable, S-119) —
+   and every one deserves respect.
+2. This reflects WHO and FAO accounts of dietary diversity and food security (S-119;
+   S-120).
 3. Kind words: "That looks delicious for your body," "What do you like about it?", "I'd
    love to learn about your food."
 
@@ -197,7 +198,6 @@ it means to you.
 
 ## Resources
 
-- Food and Agriculture Organization of the United Nations, "Food security" (access shapes
-  what families eat): <https://www.fao.org/hunger/en/>
-- World Health Organization, "Food safety and nutrition" (diets vary by need and
-  culture): <https://www.who.int/health-topics/nutrition>
+- On food security — access shaping what families eat: FAO — Hunger and food security
+  (S-119).
+- On diets varying by need and culture: WHO — Nutrition topic (S-120).

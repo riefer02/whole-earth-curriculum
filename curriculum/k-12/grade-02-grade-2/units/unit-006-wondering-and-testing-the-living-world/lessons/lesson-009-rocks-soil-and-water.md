@@ -88,8 +88,8 @@ The land we stand on is made of three things a learner can touch: **rock** (the 
 Earth below), **soil** (the soft layer on top where plants grow), and **water** (the
 rivers, lakes, and rain that flow through it). Learners feel and describe each, see how
 they fit together in mountains, valleys, and rivers, and connect the land to the living
-things that call it home. Where the land came from is held as a wonder with many stories,
-scientific and cultural, side by side.
+things that call it home. Where the land came from is held as a wonder with many
+stories, scientific and cultural, side by side.
 
 ## Objectives
 
@@ -99,10 +99,10 @@ scientific and cultural, side by side.
 ## Connection
 
 Look down: the ground under your feet is the **land** you live on. Kick it gently — that
-is **soil**. Under the soil, deep down, is solid **rock**. And flowing through it all, in
-rain and rivers and puddles, is **water**. Rock, soil, and water are not three separate
-things — they are the one land we stand on, and the home of every plant and creature on
-it.
+is **soil**. Under the soil, deep down, is solid **rock**. And flowing through it all,
+in rain and rivers and puddles, is **water**. Rock, soil, and water are not three
+separate things — they are the one land we stand on, and the home of every plant and
+creature on it.
 
 ## Materials
 
@@ -120,9 +120,9 @@ it.
 
 Anchor everything in **touch**: rock, soil, and water are concrete, and feeling them is
 the lesson. The gentle scientific idea to offer is that soil is made of tiny pieces of
-worn rock mixed with old, broken-down living things, and that water slowly wears rock
-down — but keep it as a wonder to explore, not a definition to memorize; the full rock
-and water cycles arrive in later grades. Hold origins with openness per
+worn rock mixed with old, broken-down living things (S-046), and that water slowly wears
+rock down — but keep it as a wonder to explore, not a definition to memorize; the full
+rock and water cycles arrive in later grades. Hold origins with openness per
 `docs/philosophy.md` §11: many peoples have stories about how the mountains, rivers, and
 land began, and geologists have a story about very long, slow change — we hold them side
 by side and rank none above the others. A light ethical and environmental thread: the
@@ -173,6 +173,5 @@ you just described the land.
 
 ## Resources
 
-- BBC Bitesize (KS2 Science), "Rocks" — how rock and soil make up the land, and how
-  soil forms from worn rock and living things.
-  https://www.bbc.co.uk/bitesize/topics/z9bbkqt
+- On rock and soil making up the land, and soil forming from worn rock and living
+  things: BBC Bitesize (KS2) — Rocks (What is soil made from?) (S-046).

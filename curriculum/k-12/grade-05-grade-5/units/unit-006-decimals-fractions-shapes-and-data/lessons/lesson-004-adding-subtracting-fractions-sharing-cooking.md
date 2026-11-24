@@ -97,7 +97,7 @@ denominators** they first rename using **equivalent fractions** (1/2 = 2/4, so 1
 You are cooking with a grown-up. The recipe calls for **1/2 cup** of rice and **1/4 cup** of
 lentils. How much grain is that altogether? Or you share a flatbread: you eat **3/4** of it
 and give **1/4** to a friend — how much did you keep? Adding and subtracting fractions is the
-math of **sharing and cooking**, done the same way in a home in Cairo, a farm kitchen in the
+math of **sharing and cooking** (S-025), done the same way in a home in Cairo, a farm kitchen in the
 Andes, or a soup kitchen serving a neighborhood.
 
 ## Materials
@@ -165,6 +165,8 @@ subtract it with another to name the total.
 
 ## Resources
 
-- Fraction addition/subtraction with equivalent-fraction renaming is standard in elementary
-  mathematics; see John A. Van de Walle, *Elementary and Middle School Mathematics* (10th ed.,
-  2019). The fairness value of sharing equally is a commitment (`docs/philosophy.md` §4).
+- On children solving sharing problems with their own strategies, and on building
+  fraction operations from those strategies with models: Carpenter, Fennema, Franke,
+  Levi & Empson — *Children's Mathematics: Cognitively Guided Instruction* (S-025).
+- On equivalent fractions and renaming to a common denominator: Van de Walle, Karp &
+  Bay-Williams — *Elementary and Middle School Mathematics* (S-026).

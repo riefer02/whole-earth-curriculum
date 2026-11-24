@@ -81,7 +81,7 @@ Learners pair up and become detectives of each other: they find two true ways th
 alike and two true ways they are different. Then they explain why *both* matter — being
 alike helps us understand each other, and being different brings gifts only that
 person can give. This spirals back to the opening unit and gathers the year's lesson
-that difference is not a ranking but a richness.
+that difference is not a ranking but a richness (S-389).
 
 ## Objectives
 
@@ -166,4 +166,5 @@ why both matter.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness): <https://casel.org/fundamentals-of-sel/>
+- On cultural diversity as a shared heritage rather than a ranking: UNESCO — Universal
+  Declaration on Cultural Diversity (S-389).

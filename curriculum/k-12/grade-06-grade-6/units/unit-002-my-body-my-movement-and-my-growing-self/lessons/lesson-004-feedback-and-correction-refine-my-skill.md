@@ -102,7 +102,7 @@ movement. When you are stepping, you cannot watch your own feet; a partner who s
 noticed your cross came in front — try crossing behind**" gives you information you could not
 get alone. Feedback names what is real, kindly, so you can **correct** it. Whether in a dance
 circle, a workshop, or a field, the people who help us grow are the ones who tell us the truth
-about one small thing at a time — and believe we can improve.
+about one small thing at a time — and believe we can improve (S-012).
 
 ## Materials
 
@@ -171,3 +171,5 @@ helps them more than a general "good job."
   feedback — a cue plus a next try — is a well-established part of motor-skill learning. For
   classroom SEL framing of giving and receiving feedback, see CASEL's relationship-skills
   competency: <https://casel.org/fundamentals-of-sel/>
+- On feedback as one of the strongest influences on learning: John Hattie — Visible Learning (S-012).
+

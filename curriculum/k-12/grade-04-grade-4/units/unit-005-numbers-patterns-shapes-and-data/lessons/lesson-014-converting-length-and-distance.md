@@ -98,11 +98,10 @@ that fits and converting when needed.
 "About how far?" needs the right-sized unit. You would not measure a journey in
 centimeters or a pencil in kilometers. Most of the world measures with meters and
 kilometers, where each unit is ten or a thousand of the next — a system built to make
-converting easy (Van de Walle, Karp & Bay-Williams, 2019). Some places also use older
-units like inches, feet, and miles; knowing how to convert *within* a system is what
-lets you move between "about this long" and "exactly this long." Whether you pace a
-field or read a road sign, converting is just counting smaller units inside bigger
-ones.
+converting easy (Van de Walle, Karp & Bay-Williams, 2019, S-026). Some places also use
+older units like inches, feet, and miles; knowing how to convert *within* a system is
+what lets you move between "about this long" and "exactly this long." Whether you pace a
+field or read a road sign, converting is just counting smaller units inside bigger ones.
 
 ## Materials
 
@@ -119,7 +118,7 @@ ones.
 
 Conversion is **counting within a system**: teach it concretely — count 100 centimeters
 in a meter, then generalize the metric ladder (10 mm = 1 cm, 100 cm = 1 m, 1,000 m = 1
-km) (Van de Walle, Karp & Bay-Williams, 2019). Model once as a **worked example**
+km) (Van de Walle, Karp & Bay-Williams, 2019, S-026). Model once as a **worked example**
 (philosophy §13), then guide practice. The metric system is the global default and is
 egalitarian in spirit — one coherent system for everyone, not a patchwork of
 region-specific units; where customary units (inches, feet, miles) are in local use,
@@ -171,6 +170,6 @@ and convert it to a smaller or bigger unit. Tell a grown-up how you counted.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson.
-  (Measurement and unit conversion within the metric system.)
+- On measurement and unit conversion within the metric system: Van de Walle, Karp &
+  Bay-Williams — Elementary and Middle School Mathematics: Teaching Developmentally
+  (S-026).

@@ -106,7 +106,7 @@ secret; you throw your arms wide to show how big the fish was; you tap a rhythm 
 table to set the mood. A performance just gathers these together on purpose: your
 **movement** shows what happens, your **voice** says or sounds the feeling, and **one more
 element** — a prop, a beat, a shadow — carries the story somewhere words and bodies alone
-cannot. Today you put all three together to tell one small story from beginning to end.
+cannot (S-260). Today you put all three together to tell one small story from beginning to end.
 
 ## Materials
 
@@ -195,3 +195,5 @@ a listener what they understood the story to be.
   <https://www.idea-org.net/>
 - Kirschner, Sweller & Clark (2006), "Why Minimal Guidance Does Not Work," on modeling
   worked examples for novice skills.
+- On devised performance combining movement, voice, and staging: IDEA — International Drama/Theatre and Education Association (S-260).
+

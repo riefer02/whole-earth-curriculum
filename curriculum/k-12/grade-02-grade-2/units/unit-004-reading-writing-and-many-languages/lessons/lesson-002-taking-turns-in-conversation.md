@@ -131,7 +131,7 @@ counts exactly the same.
 5. **Notice the topic (5 min).** When a turn wanders far from the topic, gently
    bring it back — "that reminds me, but let's stay with our topic."
 6. **Close (5 min).** A good conversation is fair: everyone gets a turn, and the
-   ideas stay connected. That is how we think together.
+   ideas stay connected (S-238). That is how we think together.
 
 ## Differentiation
 
@@ -155,5 +155,5 @@ one idea each, staying on the topic, taking turns.
 
 ## Resources
 
-- CASEL SEL Framework (relationship skills and social awareness):
-  <https://casel.org/fundamentals-of-sel/>
+- On classroom talk that builds and connects ideas turn by turn (talk moves): Michaels
+  & O'Connor — Accountable Talk / Talk Moves (S-238).

@@ -124,16 +124,16 @@ almost disappears, the same chain — teacher to learner — can bring it back.
 ## Facilitator note
 
 **Teach the four-step chain as a worked example first** (Kirschner, Sweller & Clark,
-2006): model "watch → practice → remember → teach" with a simple skill, then connect it
-to the Hōkūleʻa story. **Tell the Hōkūleʻa story accurately and with respect** (see
-Resources): the Polynesian Voyaging Society built Hōkūleʻa and, in 1976, sailed her from
-Hawaiʻi to Tahiti using traditional wayfinding; the master navigator Mau Piailug of
-Satawal taught the art to others, reviving a tradition that had nearly been lost. **This
-is a story of survival and revival, not a museum piece** — hold the navigators as living
-experts, and never suggest their knowledge was "beaten by" modern tools. Honor every
-body: describe the cards in words for a learner who cannot see them; a learner who does
-not use a speaking voice points or acts. If a learner's own family has a passed-down
-skill, celebrate it as a living knowledge tradition.
+2006, S-011): model "watch → practice → remember → teach" with a simple skill, then
+connect it to the Hōkūleʻa story. **Tell the Hōkūleʻa story accurately and with
+respect** (see Resources): the Polynesian Voyaging Society built Hōkūleʻa and, in 1976,
+sailed her from Hawaiʻi to Tahiti using traditional wayfinding; the master navigator Mau
+Piailug of Satawal taught the art to others, reviving a tradition that had nearly been
+lost. **This is a story of survival and revival, not a museum piece** — hold the
+navigators as living experts, and never suggest their knowledge was "beaten by" modern
+tools. Honor every body: describe the cards in words for a learner who cannot see them;
+a learner who does not use a speaking voice points or acts. If a learner's own family
+has a passed-down skill, celebrate it as a living knowledge tradition.
 
 ## Procedure
 
@@ -146,9 +146,9 @@ skill, celebrate it as a living knowledge tradition.
    ocean reading the stars, waves, clouds, and birds. For a time, this knowledge almost
    disappeared. Then, in 1976, the canoe **Hōkūleʻa** sailed from Hawaiʻi to Tahiti —
    about 2,500 miles of open ocean — guided not by instruments but by master navigator
-   **Mau Piailug**, who read the sky and sea. He taught apprentices to do the same, so
-   the knowledge would not be lost again. Watch → practice → remember → teach, across
-   the ocean and the years.
+   **Mau Piailug**, who read the sky and sea (S-055). He taught apprentices to do the
+   same, so the knowledge would not be lost again. Watch → practice → remember → teach,
+   across the ocean and the years.
 4. **Trace the chain (10 min).** On your chart, under each step, write or draw how
    wayfinding (or another tradition) moved through it: Mau watched and learned, he
    practiced, he remembered, and he taught the next navigators.
@@ -181,12 +181,12 @@ skill, celebrate it as a living knowledge tradition.
 
 ## Resources
 
-- Polynesian Voyaging Society (Hōkūleʻa) — the 1976 voyage from Hawaiʻi to Tahiti and
-  the practice of traditional wayfinding.
-  https://hokulea.com/
-- UNESCO — Intangible Cultural Heritage: knowledge and skills transmitted from person
-  to person across generations.
-  https://ich.unesco.org/
+- On the 1976 voyage of Hōkūleʻa from Hawaiʻi to Tahiti and the practice of traditional
+  wayfinding: Polynesian Voyaging Society (Hōkūleʻa) (S-055).
+- On knowledge and skills transmitted from person to person across generations: UNESCO —
+  Intangible Cultural Heritage (S-056).
+- On teaching a multi-step process with a worked example: Kirschner, Sweller & Clark —
+  Why Minimal Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

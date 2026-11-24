@@ -100,7 +100,7 @@ and baskets.
 
 Look around you — the weave of a cloth, the ribs of a leaf, the tiles on a floor, the
 border of a blanket or a basket. A **pattern** is the same shape, line, or color
-coming back again and again. People everywhere have repeated shapes and lines to make
+coming back again and again (S-365). People everywhere have repeated shapes and lines to make
 things beautiful: woven cloth in one part of the world, painted borders in another,
 carved shells and beads in a third. Today you will make a pattern of your own.
 
@@ -119,7 +119,7 @@ carved shells and beads in a third. Today you will make a pattern of your own.
 
 Making a repeating pattern is a **skill**, so model one aloud and on the board first —
 "triangle, triangle, circle; triangle, triangle, circle" — before learners try their own
-(Kirschner, Sweller & Clark, 2006). A pattern is a repeat, not a perfect drawing; if the
+(Kirschner, Sweller & Clark, 2006, S-011). A pattern is a repeat, not a perfect drawing; if the
 repeat stays the same, it is a pattern. A learner who is blind or has low vision makes a
 pattern by **touch and placement**: they arrange repeated objects (two stones, one leaf;
 two stones, one leaf) in a row, or press a repeated shape into clay, and a partner names
@@ -168,9 +168,10 @@ speak points to the elements and shows the repeat. Every pattern belongs.
 
 ## Resources
 
-- No external resources required; the claims in this lesson are about the learner's
-  own making and about the shared human practice of repeating pattern, which learners
-  observe directly.
+- On pattern as a principle of design, alongside line, shape, colour, texture and space:
+  The J. Paul Getty Museum — Understanding Formal Analysis (S-365).
+- On modeling a skill once before learners try it: Kirschner, Sweller & Clark (2006) — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

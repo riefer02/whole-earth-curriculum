@@ -19,7 +19,7 @@ units:
     pillar: [P3]
     start_day: 1
     end_day: 10
-    lesson_count: 1
+    lesson_count: 10
   - unit_id: U.05.002
     title: "My Feelings, My Values & My Growing Self"
     domain: [D01]

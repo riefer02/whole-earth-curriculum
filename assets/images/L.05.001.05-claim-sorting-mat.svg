@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t-l0500105 d-l0500105">
+  <title id="t-l0500105">Sorting statements into evidence, opinion, and not yet</title>
+  <desc id="d-l0500105">Three columns. Evidence, marked with a magnifier, means measured or counted, with the example "8 of 10 marks removed." Opinion, marked with a speech bubble, means a judgement or taste, with the example "the best soap in town." Not yet, marked with a question mark, means a claim with no test, with the example "lasts twice as long."</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Three Kinds of Statement</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">sort the claim before you believe it</text>
+
+  <!-- column 1: evidence -->
+  <rect x="24" y="92" width="148" height="276" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="98" y="124" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Evidence</text>
+  <circle cx="98" cy="172" r="18" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <line x1="111" y1="185" x2="124" y2="198" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
+  <text x="98" y="222" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">measured or counted</text>
+  <rect x="36" y="238" width="124" height="82" rx="8" fill="#fdfbf7" stroke="#7a9e7e" stroke-width="2"/>
+  <text x="98" y="270" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">8 of 10</text>
+  <text x="98" y="292" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">marks removed</text>
+
+  <!-- column 2: opinion -->
+  <rect x="182" y="92" width="148" height="276" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="124" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Opinion</text>
+  <path d="M240 154 h32 a8 8 0 0 1 8 8 v22 a8 8 0 0 1 -8 8 h-14 l-10 12 v-12 h-8 a8 8 0 0 1 -8 -8 v-22 a8 8 0 0 1 8 -8 z" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <text x="256" y="222" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a judgement or taste</text>
+  <rect x="194" y="238" width="124" height="82" rx="8" fill="#fdfbf7" stroke="#e0a458" stroke-width="2"/>
+  <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">the best</text>
+  <text x="256" y="292" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">soap in town</text>
+
+  <!-- column 3: not yet -->
+  <rect x="340" y="92" width="148" height="276" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="414" y="124" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Not yet</text>
+  <circle cx="414" cy="172" r="19" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="414" y="184" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">?</text>
+  <text x="414" y="222" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a claim with no test</text>
+  <rect x="352" y="238" width="124" height="82" rx="8" fill="#fdfbf7" stroke="#6b93b6" stroke-width="2"/>
+  <text x="414" y="270" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">lasts twice</text>
+  <text x="414" y="292" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">as long</text>
+
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Ask: what could I check, and who checked it?</text>
+  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">A number is not evidence until you know what it measures.</text>
+</svg>

@@ -102,7 +102,7 @@ wheelchair and wishes a table were the right height. A designer does not guess; 
 designer **asks**. When you make something for a real person and let them try it, they
 tell you what works and what does not — and your idea gets better. This is how the
 things you use every day, from a cup to a ramp, were made: someone asked, imagined,
-made, tried, and improved.
+made, tried, and improved (S-150).
 
 ## Materials
 
@@ -122,7 +122,7 @@ made, tried, and improved.
 **The facts to land.**
 1. The design cycle is a **skill**: user, need, prototype, test, change.
 2. A design that serves someone often serves many — the "curb-cut effect" — and the best
-   designers ask who is being left out.
+   designers ask who is being left out (S-369).
 3. Feedback is the heart: the user tries the prototype and says one thing to keep and
    one thing to change.
 
@@ -139,10 +139,10 @@ not completed the cycle.
 **The skill.** Walk the cycle on a real need.
 
 Walk through it as a worked example before independent work (Kirschner, Sweller & Clark,
-2006): "My user is a grandparent whose hands tire — I'll make a fatter, softer handle
-for a pencil; here is my cardboard prototype; now let's have the grandparent try it and
-tell me what to change." Help learners choose a user they can actually interview (a
-classmate, sibling, or you).
+2006, S-011): "My user is a grandparent whose hands tire — I'll make a fatter, softer
+handle for a pencil; here is my cardboard prototype; now let's have the grandparent try
+it and tell me what to change." Help learners choose a user they can actually interview
+(a classmate, sibling, or you).
 
 **Access:** a learner with limited fine motor may design by directing a partner, or
 choose a need they can prototype with large pieces.
@@ -190,5 +190,9 @@ then let them test it and tell you one thing to improve.
 
 ## Resources
 
-- UNESCO — design and education for sustainable development (a general frame):
-  <https://www.unesco.org/en/sustainable-development/education>
+- On the engineering design process — ask, imagine, plan, create, test, improve:
+  TeachEngineering — Engineering Design Process (S-150).
+- On designing for the widest range of users, so that what serves one person serves
+  many: The Center for Universal Design — The Principles of Universal Design (S-369).
+- On worked examples before independent work: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

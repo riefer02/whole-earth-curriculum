@@ -93,7 +93,7 @@ important than another's.
 Think about your morning. At home you may eat with a spoon, brush with a toothbrush,
 or open a door with a handle. Later, at school, you may cut with scissors, write with a
 crayon or chalk, or drink from a cup. Every one of those is a tool — a thing people
-made to help them do a job. Tools are not hidden away; they are right where you live
+made to help them do a job (S-061). Tools are not hidden away; they are right where you live
 and learn.
 
 ## Materials
@@ -174,3 +174,7 @@ card in the correct tray instead of saying the answer aloud.
 At home, go on a tool hunt with a grown-up in one room — the kitchen or the yard. Find
 three tools, say each one's job, and tell whether you also have one like it at school.
 Ask the grown-up which tool they use the most.
+
+## Resources
+
+- On what a tool is — anything used to help do a job: Britannica Kids — Tool (S-061).

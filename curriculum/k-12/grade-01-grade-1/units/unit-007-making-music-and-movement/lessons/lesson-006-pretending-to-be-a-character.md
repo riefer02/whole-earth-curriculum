@@ -86,7 +86,7 @@ last_updated: 2026-08-15
 ## Summary
 
 Learners become characters in a simple story, showing who they are with **voice**,
-**face**, and **body**. Pretending helps a child feel what another person feels. The
+**face**, and **body**. Pretending helps a child feel what another person feels (S-260). The
 body and voice are the costume, and every character can be played many ways.
 
 ## Objectives
@@ -189,3 +189,8 @@ pictures, and play with face, body, and movement.
 
 With someone at home, pick a person from a story or a memory and both pretend to be
 them for a minute. Ask each other how it felt.
+
+## Resources
+
+- On drama and role-play as a pedagogy for understanding other people: IDEA —
+  International Drama/Theatre and Education Association (S-260).

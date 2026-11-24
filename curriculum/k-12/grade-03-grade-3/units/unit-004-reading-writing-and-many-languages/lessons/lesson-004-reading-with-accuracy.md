@@ -92,7 +92,7 @@ When you copy a friend's phone number or read a sign to know which road to take,
 wrong mark changes everything. Accuracy means reading what is really there. A recipe,
 a medicine label, a road sign — each one works only if the reader reads it truly.
 That is why readers everywhere slow down, sound out, and check: accuracy is how
-written words keep their promise.
+written words keep their promise (S-040).
 
 ## Materials
 
@@ -113,7 +113,7 @@ written words keep their promise.
 1. Accuracy means reading the word that is **actually written**, not a guess that
    "looks close."
 2. The routine: say the sounds, blend them, check that it makes sense.
-3. The deeper rule holds in every writing system. In a sound- or syllable-based script
+3. The deeper rule holds in every writing system (S-165). In a sound- or syllable-based script
    (Hangul, Devanagari, Ethiopic, Arabic, the Latin alphabet) you read each part and
    join them. In a character-based script (such as Chinese) you recognize each whole
    character and check its meaning.
@@ -124,7 +124,7 @@ be characters or syllables.
 
 **The lenses, briefly.**
 - *Intellectual:* teach the routine as worked instruction, then guide practice,
-  before independent reading (Kirschner, Sweller & Clark, 2006).
+  before independent reading (Kirschner, Sweller & Clark, 2006, S-011).
 - *Critical-thinking:* "does it make sense?" catches the near-miss.
 - *Global:* every writing system carries its own accuracy, and each counts.
 
@@ -177,6 +177,12 @@ word against the page, asking, "Did I read what is really written?"
 
 ## Resources
 
-- National Reading Panel (2000), report on reading instruction — systematic,
-  explicit instruction in the sounds and letters of one's own writing system builds
-  accuracy. (Cited as a widely used evidence base.)
+- On explicit, systematic reading instruction and the evidence base for it: National
+  Reading Panel (2000) — Teaching Children to Read: An Evidence-Based Assessment (S-040).
+- On the world's writing systems, sound- and syllable-based scripts and character-based
+  scripts alike: Peter T. Daniels & William Bright (eds.) — The World's Writing Systems
+  (S-165).
+- On teaching a skill explicitly — model it, then guide practice — rather than leaving
+  learners to discover it: Kirschner, Sweller & Clark (2006) — Why Minimal Guidance During
+  Instruction Does Not Work (S-011).
+

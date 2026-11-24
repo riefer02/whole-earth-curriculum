@@ -143,7 +143,7 @@ honest-reasoning habit (`docs/philosophy.md` §7).
    from zero is smaller. Always look at the line.
 5. **Practice with a partner (10 min).** Shuffle your integer cards and place them on the line. Then
    write the order with < and >. Take turns: one places, one checks against the line.
-6. **Close (5 min).** Ordering integers is one rule: farther left is smaller, farther right is larger.
+6. **Close (5 min).** Ordering integers is one rule: farther left is smaller, farther right is larger (S-026).
    With negatives, that means "more negative" is smaller — trust the line, not the digit.
 
 ## Differentiation
@@ -172,3 +172,5 @@ to warmest.
   notation developed across Indian and Persian/Arabic mathematical traditions is documented history; the
   habit of reading order carefully rather than guessing is a critical-thinking value (`docs/philosophy.md`
   §7).
+- On ordering integers on the number line: John A. Van de Walle, Karen S. Karp & Jennifer M. Bay-Williams — Elementary and Middle School Mathematics: Teaching Developmentally (S-026).
+

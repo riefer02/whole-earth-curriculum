@@ -78,7 +78,7 @@ last_updated: 2026-08-16
 
 Learners practice reading fluently — smoothly, at a talking pace, and with
 expression — by re-reading a familiar text and tracking how their reading eases.
-Fluency grows through repetition, not through racing or ranking.
+Fluency grows through repetition, not through racing or ranking (S-040).
 
 ## Objectives
 
@@ -153,7 +153,5 @@ smoother the second reading feels.
 
 ## Resources
 
-- National Reading Panel (2000), report on reading fluency — re-reading and guided
-  oral reading build fluency. (Cited as a widely used evidence base.)
-- CASEL SEL Framework (self-efficacy and growth mindset):
-  <https://casel.org/fundamentals-of-sel/>
+- On guided repeated oral reading building fluency: National Reading Panel (2000) —
+  Teaching Children to Read (S-040).

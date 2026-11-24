@@ -94,7 +94,7 @@ guess (an estimate) before they count.
 has enough eggs; a child wants to know if she has more shells than her friend; a
 farmer wants to know how many seeds he planted. The answer to "how many" is not a
 feeling — it is a number you can find by counting, and the last number you say is
-the total. Counting turns "a lot" or "a little" into something everyone can agree
+the total (S-020). Counting turns "a lot" or "a little" into something everyone can agree
 on.
 
 ## Materials
@@ -167,5 +167,5 @@ count each one with a grown-up, then say which has more.
 ## Resources
 
 - Clements, D. H., & Sarama, J. (2014). *Learning and Teaching Early Math* (2nd
-  ed.). Routledge. (Cardinality — the last number named is the size of the set — as a
+  ed.). Routledge (S-020). (Cardinality — the last number named is the size of the set — as a
   foundational counting principle.)

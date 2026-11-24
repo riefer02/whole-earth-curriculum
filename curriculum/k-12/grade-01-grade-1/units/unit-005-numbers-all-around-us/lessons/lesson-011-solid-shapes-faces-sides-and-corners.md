@@ -130,7 +130,7 @@ body can study them.
    space, like a ball or a box.
 2. **Worked example — feel a cube (10 min).** Watch and help: take a block (a
    **cube**). Run your finger over its flat part — that is a **face**; a cube has six
-   faces, each one a square. Feel where two faces meet — that is a **side** (edge).
+   faces, each one a square (S-026). Feel where two faces meet — that is a **side** (edge).
    Feel where sides meet — that is a **corner**. Count them: six faces, twelve sides,
    eight corners.
 3. **Feel each solid (12 min).** Hold each shape: a ball (**sphere** — no flat faces,
@@ -168,5 +168,5 @@ a cone, and count the faces, sides, and corners of each together.
 ## Resources
 
 - Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics* (10th ed.). Pearson. (Three-dimensional shape attributes
+  Middle School Mathematics* (10th ed.). Pearson (S-026). (Three-dimensional shape attributes
   — faces, edges, and vertices.)

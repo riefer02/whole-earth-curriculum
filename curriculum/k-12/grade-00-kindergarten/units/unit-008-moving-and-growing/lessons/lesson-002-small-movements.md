@@ -91,7 +91,7 @@ Your hands do careful work all day long. You stack blocks into a tower, draw a p
 for someone you love, pinch a berry from a bush, and thread a button through its hole.
 People everywhere use their hands to make and build — stacking stones into a wall,
 threading beads onto a necklace, drawing patterns in the sand. Small movements are how
-your hands learn to be careful and strong.
+your hands learn to be careful and strong (S-069).
 
 ## Materials
 
@@ -146,6 +146,10 @@ worked" — more than the finished product.
   growing care and control, using an adapted version if needed?
 - **Artifact (portfolio):** The learner's drawing, kept as a sample of growing hand
   control.
+
+## Resources
+
+- On movement and healthy development: WHO — Physical activity fact sheet (S-069).
 
 ## Home connection
 

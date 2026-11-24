@@ -116,15 +116,16 @@ common good.
 This is the unit's fairness lesson, and it carries the deepest egalitarian weight: the
 difference between **enough for all** and **some left with none**. Teach the two ideas
 as explicit, contrasted instruction with the side-by-side poster (Kirschner, Sweller &
-Clark, 2006). Guard the moral clarity while keeping it non-shaming: "taking more than
-one's share" names a *choice*, not a *bad child* — a learner who has grabbed more is
-invited to notice the person left out and re-divide, never to be humiliated. The common
-good is not "everyone gets exactly equal piles" — it is *everyone has enough*, which may
-mean a bigger person needs more food and a smaller one less, fairly. Let learners
-discover that fairness is not always identical shares but *enough for each*. Hold the
-global lens: sharing for the common good is how communities everywhere survive — a
-shared catch, a shared harvest, a shared well. A learner who struggles with the concept
-revisits it with concrete objects; "not yet" is information, never a verdict.
+Clark, 2006, S-011). Guard the moral clarity while keeping it non-shaming: "taking more
+than one's share" names a *choice*, not a *bad child* — a learner who has grabbed more
+is invited to notice the person left out and re-divide, never to be humiliated. The
+common good is not "everyone gets exactly equal piles" — it is *everyone has enough*
+(S-388), which may mean a bigger person needs more food and a smaller one less, fairly.
+Let learners discover that fairness is not always identical shares but *enough for
+each*. Hold the global lens: sharing for the common good is how communities everywhere
+survive — a shared catch, a shared harvest, a shared well (S-416). A learner who
+struggles with the concept revisits it with concrete objects; "not yet" is information,
+never a verdict.
 
 ## Procedure
 
@@ -168,5 +169,11 @@ more than their share? Try a fair re-divide and see how it changes the table.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness and responsible decision-making):
-  <https://casel.org/fundamentals-of-sel/>
+- On competing principles of fair distribution, including equal shares versus enough for
+  each: Stanford Encyclopedia of Philosophy — Distributive Justice (S-388).
+- On communities governing shared resources by their own rules for the common good:
+  Ostrom — Governing the Commons (S-416).
+- On social awareness and responsible decision-making as core competencies: CASEL —
+  Fundamentals of Social and Emotional Learning (S-001).
+- On explicit instruction and worked examples: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

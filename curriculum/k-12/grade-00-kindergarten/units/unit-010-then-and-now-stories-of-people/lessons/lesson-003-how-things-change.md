@@ -102,7 +102,7 @@ stayed the same. People everywhere have found many good ways to do the same jobs
 
 **Hold all ways with respect:** never rank "old" as worse or "new" as better. Some
 learners' families still light rooms with candles or carry water — these are valid,
-living ways, not museum curiosities. The point is *change and sameness*, not progress or
+living ways, not museum curiosities (S-056). The point is *change and sameness*, not progress or
 superiority.
 
 ## Procedure
@@ -130,3 +130,7 @@ superiority.
   that stayed the same for an old-and-new pair?
 - **Formative (oral):** Does the learner tell a tiny then-and-now story about a tool
   or job?
+
+## Resources
+
+- On living cultural heritage and traditional craft: UNESCO — Intangible Cultural Heritage (S-056).

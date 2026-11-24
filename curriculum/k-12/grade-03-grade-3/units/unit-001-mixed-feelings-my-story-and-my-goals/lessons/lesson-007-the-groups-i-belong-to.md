@@ -91,7 +91,7 @@ membership shapes who they are.
 Right now you belong to more than one group at the same time. You are in a **family**,
 a **class**, a **neighborhood or village**, maybe a **team or club**, maybe a **faith or
 cultural community**, and you speak at least one **language** with others who speak it
-too. Being in a group means you share something with the other people in it. In a big
+too. Being in a group means you share something with the other people in it (S-232). In a big
 city apartment block, a child belongs to a family, a class, a football team, and a
 grandmother's village far away — all at once. Belonging is like a web with you in the
 middle.
@@ -151,5 +151,5 @@ Ask someone at home what groups *they* belong to, and add one new idea to your o
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness and social awareness):
-  <https://casel.org/fundamentals-of-sel/>
+- On group membership as part of who a person is: Henri Tajfel — Minimal Group Paradigm
+  and Social Identity (S-232).

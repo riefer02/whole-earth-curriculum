@@ -85,7 +85,7 @@ last_updated: 2026-08-17
 
 Learners learn that a **first guess about someone's feelings can be wrong**, and how to
 **check instead of assume**. They meet the idea that what we see on the outside may not
-match what is felt inside, practice the two-step move — **notice clues, then check with
+match what is felt inside (S-225), practice the two-step move — **notice clues, then check with
 the person** — and rehearse a checking question on everyday scenarios where looks can
 mislead.
 
@@ -99,7 +99,7 @@ mislead.
 Your friend slams a book down and you think, "She's angry at me." Then she says, "Sorry —
 I didn't sleep and my head hurts." Your first guess was wrong. Faces and actions are only
 **clues**, not proof — and people hide feelings, or have more than one at once, or show
-them differently than you would. So the kindest move is to hold your guess lightly and
+them differently than you would (S-160). So the kindest move is to hold your guess lightly and
 **check**: "I thought you might be upset — how are you really doing?"
 
 ## Materials
@@ -167,6 +167,12 @@ doing, and listen.
 
 ## Resources
 
-- Perspective-taking and reading others' feelings are core to CASEL's social-awareness
-  competency; the "check instead of assume" move is a classroom-friendly application.
-  <https://casel.org/fundamentals-of-sel/>
+- On how the emotion a person feels can come apart from the emotion they show
+  (expressive suppression): Gross (1998), *Review of General Psychology* (S-225).
+- On 'display rules' — how people learn to show feeling differently from one another:
+  Ekman & Friesen (1969), *Semiotica*, <https://doi.org/10.1515/semi.1969.1.1.49>
+  (S-160).
+- On perspective-taking and empathic concern as studied routes to understanding
+  others: Decety & Cowell (2014), *Trends in Cognitive Sciences* (S-231).
+- On social awareness in social and emotional learning: CASEL,
+  <https://casel.org/fundamentals-of-sel/> (S-001).

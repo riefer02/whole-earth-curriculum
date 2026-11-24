@@ -96,11 +96,12 @@ see — so every kind of body can join and belong.
 
 ## Connection
 
-A game is only truly fun when everyone can play. If a rule leaves someone out — a game
-only for the fastest runners, or only for people who can stand — then the rule can be
-changed, not the person. Around the world, people have invented ways to include every
-body: sitting volleyball, boccia for wheelchair players, goalball for players who cannot
-see. Welcoming every body is not just kind; it makes the game better for everyone.
+A game is only truly fun when everyone can play (S-100). If a rule leaves someone out —
+a game only for the fastest runners, or only for people who can stand — then the rule
+can be changed, not the person. Around the world, people have invented ways to include
+every body: sitting volleyball, boccia for wheelchair players, goalball for players who
+cannot see. Welcoming every body is not just kind; it makes the game better for everyone
+(S-342).
 
 ## Materials
 
@@ -157,11 +158,11 @@ sets up the next two lessons on rules and fair play.
 
 ## Resources
 
-- United Nations — Convention on the Rights of Persons with Disabilities (Article 30,
-  participation in play and sport):
-  <https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html>
-- World Health Organization — physical activity fact sheet:
-  <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
+- On the right to take part in play, recreation, and sport: UN Convention on the Rights
+  of Persons with Disabilities, Article 30 (S-100).
+- On physical education and sport as a fundamental right, with opportunities inclusive
+  and accessible to every person: UNESCO — International Charter of Physical Education,
+  Physical Activity and Sport (S-342).
 
 ## Home connection
 

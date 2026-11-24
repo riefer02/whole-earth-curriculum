@@ -102,7 +102,7 @@ spoken voice to join.
 A choir doesn't just sing the notes; it decides *how loud, how shaped, and how together*. The
 same song whispered feels secret; belted feels brave; with everyone landing exactly together
 it feels powerful, and with one voice late it feels unsure. This is true of a drum circle, a
-soccer chant, a call-and-response in a classroom, or a lullaby. Today you are the performer
+soccer chant, a call-and-response in a classroom, or a lullaby (S-188). Today you are the performer
 who *chooses* those effects — then listens back to your own sound and makes it better, the
 way musicians everywhere rehearse with their own recordings.
 
@@ -188,3 +188,5 @@ back and name one thing you would change — then do it once more.
   <https://folkways.si.edu/>
 - Kirschner, Sweller & Clark (2006), "Why Minimal Guidance Does Not Work," on modeling each
   skill before independent practice.
+- On call-and-response and ensemble music across world traditions: Smithsonian Folkways Recordings (S-188).
+

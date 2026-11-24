@@ -99,7 +99,7 @@ can catch them. In **sepak takraw**, played across
 Southeast Asia, three players pass a rattan ball over a net using feet and knees, so no one
 person can win alone. These are not "simple" games — they are living knowledge passed from one
 generation to the next, and every one of them runs on the same teamwork you use in your own
-neighborhood. Each game also grew up in a particular place — a dusty field, a courtyard, a
+neighborhood (S-287). Each game also grew up in a particular place — a dusty field, a courtyard, a
 cleared beach — so the game fits the land, and the land shapes the game.
 
 ## Materials
@@ -190,3 +190,5 @@ players helped each other. Share the three games you met today.
   and Games, <https://www.unesco.org/en/sport-and-anti-doping/traditional-sports-and-games>
   (the games here are living traditions; verify local rules with people who play them)
 - On fair-play and inclusive games: SHAPE America, <https://www.shapeamerica.org/>
+- On traditional sports and games as living cultural heritage: UNESCO — Traditional Sports and Games (TSG) (S-287).
+

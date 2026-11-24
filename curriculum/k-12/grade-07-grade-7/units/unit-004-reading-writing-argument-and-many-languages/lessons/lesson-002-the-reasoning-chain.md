@@ -91,7 +91,7 @@ evidence does not fit the claim.
 
 ## Connection
 
-A strong argument holds together like a chain. The **claim** is the first link, the
+A strong argument holds together like a chain (S-236). The **claim** is the first link, the
 **reason** the second, the **evidence** the third. Pull on a chain and it breaks at its
 weakest link — so the careful listener asks not just "what is the claim?" but "does each
 link actually connect to the next?" A neighbor's advice about which seed to plant, a
@@ -188,3 +188,5 @@ Ask someone at home to give you one reason for something they believe, then gent
   International Listening Association, <https://listen.org/>
 - On modeling before practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On the links of an argument — claim, reason, and evidence: Stephen Toulmin — The Uses of Argument (claim/data/warrant model) (S-236).
+

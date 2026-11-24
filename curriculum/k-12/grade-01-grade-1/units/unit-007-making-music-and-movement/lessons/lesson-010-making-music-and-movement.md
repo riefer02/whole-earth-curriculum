@@ -185,3 +185,10 @@ making is a voice, and every voice matters.
 
 Make a tiny gallery at home: lay out a few things you made this week and give a
 grown-up a "tour," telling the story of each one.
+
+## Resources
+
+- On drawing, music, movement, and building as making, and on presenting work with
+  care: The John F. Kennedy Center for the Performing Arts — Education (S-189).
+- On the plan–make–test–improve cycle behind the unit's builds: TeachEngineering —
+  Engineering Design Process (S-370).

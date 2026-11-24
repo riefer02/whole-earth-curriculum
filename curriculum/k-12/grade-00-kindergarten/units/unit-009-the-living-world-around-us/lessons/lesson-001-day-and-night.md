@@ -86,7 +86,7 @@ watching and wondering, not facts to memorize.
 ## Connection
 
 Look out your window in the morning, and look again at night — the sky changes from
-light to dark. Every place on Earth has light time and dark time, every single day.
+light to dark. Every place on Earth has light time and dark time, every single day (S-029).
 Day and night are the biggest change you can watch, and you can watch them again and
 again.
 
@@ -138,6 +138,10 @@ nights — but only if the question comes up; the goal is wonder, not a diagram.
 - **Formative (observation):** Can the learner point to or act out which moments are
   day and which are night?
 - **Artifact (portfolio):** The "two skies" drawing.
+
+## Resources
+
+- On day and night: BBC Bitesize (KS1) — What is day and night? (S-029).
 
 ## Home connection
 

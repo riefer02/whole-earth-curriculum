@@ -100,7 +100,7 @@ quietly behind a calm face. In one community, anger is spoken directly and clear
 day; in another, it is cooled in silence and repaired through actions later. In one place,
 gratitude is said with many warm words; in another, it is shown by quietly returning the
 favor. No one of these is the "right" way to feel or to show — they are different learned
-habits, passed down like recipes or songs. Every family, village, and city teaches its own.
+habits, passed down like recipes or songs (S-160). Every family, village, and city teaches its own.
 
 ## Materials
 
@@ -181,3 +181,5 @@ why. Notice together that other families do it differently.
   and the RULER approach, <https://www.rulerapproach.org/>
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On culturally learned display rules for emotion: Paul Ekman & Wallace V. Friesen — The Repertoire of Nonverbal Behavior (S-160).
+

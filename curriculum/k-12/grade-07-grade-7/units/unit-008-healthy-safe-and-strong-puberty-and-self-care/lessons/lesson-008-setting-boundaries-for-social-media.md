@@ -132,7 +132,7 @@ habits; keep plans private. See `docs/facilitation.md`.
 2. **Meet the boundary wheel (10 min).** Look at the wheel. A healthy plan touches four
    areas: **time** (limits on when and how long), **content** (curate what and who you
    follow), **notifications** (turn off what pulls you back), and **people** (choose who
-   you connect with). The center says it all: *my boundaries, my choice*.
+   you connect with) (S-217). The center says it all: *my boundaries, my choice*.
 3. **Write your plan (15 min).** On your page, write one boundary for each of the four
    areas — small, doable, and *yours*. Examples (choose your own): "I won't scroll after
    dinner," "I'll mute accounts that make me feel less-than," "I'll turn off non-essential
@@ -170,3 +170,5 @@ it.
   <https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health>
 - UNESCO — Media and Information Literacy:
   <https://www.unesco.org/en/media-information-literacy>
+- On curating media content and using media deliberately: UNESCO — Media and Information Literacy (MIL) (S-217).
+

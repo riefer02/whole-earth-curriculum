@@ -93,7 +93,7 @@ Your body is made to move big. You run to meet a friend, hop over a puddle, jump
 reach a branch, and gallop like a horse in a game. Children everywhere move big in
 their own games, dances, and celebrations — running races on a beach, hopping in a
 playground, jumping at a festival — and every way of moving big is worth honoring.
-Moving big helps you feel strong, warm, and happy.
+Moving big helps you feel strong, warm, and happy (S-069).
 
 ## Materials
 
@@ -152,6 +152,10 @@ now the focus is on controlling movement, not just trying it.
   control — starting, stopping, and changing speed — using an adapted version if
   needed?
 - **Self:** The learner names the movement they felt most proud of.
+
+## Resources
+
+- On movement and healthy development: WHO — Physical activity fact sheet (S-069).
 
 ## Home connection
 

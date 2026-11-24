@@ -104,7 +104,7 @@ each rainy season. All four are true, and none is the whole. The world is full o
 moments — a new road is progress to one neighbor and the loss of a quiet field to another;
 a rule feels fair to some and heavy to others. Empathy across difference is not agreeing
 with every view; it is the skill of *seeking to understand* a view unlike your own before
-you judge it.
+you judge it (S-230).
 
 ## Materials
 
@@ -182,3 +182,5 @@ you heard them value or fear — then notice whether they feel understood.
   <https://casel.org/fundamentals-of-sel/>
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On empathic concern as a motive for understanding and helping: C. Daniel Batson, Judy Fultz & Patricia A. Schoenrade — Distress and empathy: Two qualitatively distinct vicarious emotions with different motivational consequences (S-230).
+

@@ -98,7 +98,7 @@ Have you ever heard a clap from across the room, or watched a bird land without 
 it over the wind? Your eyes tell you where something is; your ears tell you what sound
 it makes. Alone, each sense only gets half the story. Together, they fill in the whole
 picture — that is how you catch a tossed ball, or know a drum is being hit even while
-you watch it.
+you watch it (S-031).
 
 ## Materials
 
@@ -178,8 +178,8 @@ the learner may pause listening or watch a friend's silent motion.
 
 ## Resources
 
-- World Health Organization — global health and wellbeing reference:
-  <https://www.who.int/>
+- On the senses and what they tell us about the world: BBC Bitesize (KS1) — What are the
+  senses? (S-031).
 
 ## Home connection
 

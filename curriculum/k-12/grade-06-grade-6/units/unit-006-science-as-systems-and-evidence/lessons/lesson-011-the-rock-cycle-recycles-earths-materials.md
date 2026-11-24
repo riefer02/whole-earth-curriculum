@@ -99,7 +99,7 @@ trace one rock's long journey around the cycle.
 The sand on a beach was once part of a mountain. The mountain, long before that, was
 once molten rock, and the grains of sand may one day be pressed into new stone and
 lifted again. Rock is not a thing that is used once and gone; it is **recycled**,
-broken down and rebuilt over times so long we cannot watch them. Today you learn the
+broken down and rebuilt over times so long we cannot watch them (S-247). Today you learn the
 cycle that makes every mountain, beach, and pebble part of one slow, endless story.
 
 ## Materials
@@ -134,7 +134,7 @@ the "how do we know" line: we cannot watch a cycle that takes millions of years,
 1. **Gather (5 min).** Hold a pebble or a grain of sand. How old is it, and where has
    it been? Write a guess: could it have once been part of a mountain?
 2. **Meet the cycle (10 min).** Look at the diagram. The **rock cycle** is a loop.
-   **Magma** (melted rock) cools into **igneous** rock. Weathering and erosion break
+   **Magma** (melted rock) cools into **igneous** rock (S-254). Weathering and erosion break
    rock into **sediment**, which presses into **sedimentary** rock. Heat and pressure
    change rock into **metamorphic** rock, which can melt back into magma — and the
    loop begins again. Point to each step and say what happens.
@@ -174,3 +174,6 @@ Tell someone the cycle that rock has been part of — and will rejoin.
   <https://education.nationalgeographic.org/resource/rock-cycle/>
 - BBC Bitesize (KS3), "The rock cycle" — igneous, sedimentary, and metamorphic rock:
   <https://www.bbc.co.uk/bitesize/topics/z3fv4wx/articles/z2xx6g8>
+- On igneous, sedimentary, and metamorphic rock and the rock cycle: BBC Bitesize (KS3) — The Earth and atmosphere: the rock cycle (S-247).
+- On the three main rock types and how they form: National Geographic Education — The Rock Cycle (S-254).
+

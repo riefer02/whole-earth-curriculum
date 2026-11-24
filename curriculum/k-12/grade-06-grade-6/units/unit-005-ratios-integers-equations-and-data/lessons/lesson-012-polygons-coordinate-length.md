@@ -133,7 +133,7 @@ the subtraction order is the error, not the geometry.
 - *Intellectual:* subtracting negative coordinates is where signed numbers and geometry
   meet.
 - *Global:* reading distance from coordinates is the map-grid skill used in surveying
-  and navigation traditions worldwide.
+  and navigation traditions worldwide (S-299).
 - *Critical-thinking:* checking a subtraction against a visual count of grid units is
   honest reasoning (`docs/philosophy.md` §7).
 
@@ -157,7 +157,7 @@ yesterday's polygon drawing and the signed numbers from earlier in the unit.
    horizontal and vertical side's length by subtracting the matching coordinates, then add the sides for
    the **perimeter**. Check each other by counting the grid.
 6. **Close (5 min).** A side's length is a difference of coordinates — x-values for left-right sides,
-   y-values for up-down sides. Subtract and take the positive amount, and you can measure a whole shape
+   y-values for up-down sides (S-026). Subtract and take the positive amount, and you can measure a whole shape
    from its points alone.
 
 ## Differentiation
@@ -187,3 +187,6 @@ subtracting its coordinates; then find its perimeter.
   distance from coordinates parallels grid-based surveying and navigation traditions worldwide is a
   historical observation; checking a calculation against a visual count is a critical-thinking habit
   (`docs/philosophy.md` §7).
+- On distance on the coordinate plane: John A. Van de Walle, Karen S. Karp & Jennifer M. Bay-Williams — Elementary and Middle School Mathematics: Teaching Developmentally (S-026).
+- On coordinate mapping in Ptolemy's Geography: Encyclopaedia Britannica — Ptolemy (S-299).
+

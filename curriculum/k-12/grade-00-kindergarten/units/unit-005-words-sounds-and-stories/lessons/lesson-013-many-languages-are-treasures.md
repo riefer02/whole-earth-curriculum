@@ -81,7 +81,7 @@ is better than another, and that every home language is a treasure. They build a
 ## Connection
 
 People all over the world greet, sing, and tell stories in thousands of different
-languages. Each language is a treasure chest of words, songs, and ways of seeing the
+languages (S-019; S-426). Each language is a treasure chest of words, songs, and ways of seeing the
 world. When we share languages, everyone gets richer — and no one has to give up
 theirs.
 
@@ -137,7 +137,8 @@ room. For the factual claim below, cite UNESCO.
 
 - UNESCO, International Mother Language Day (UNESCO reports that around 40 per cent of
   the world's people still cannot learn in a language they speak or understand; the
-  value of every learner's language): <https://www.unesco.org/en/days/mother-language>
+  value of every learner's language): <https://www.unesco.org/en/days/mother-language> (S-019)
+- On the number of living languages: Ethnologue — Languages of the World (S-426).
 
 ## Home connection
 

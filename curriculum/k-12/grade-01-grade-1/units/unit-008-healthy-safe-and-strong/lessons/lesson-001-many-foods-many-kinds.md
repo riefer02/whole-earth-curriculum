@@ -95,7 +95,7 @@ Everywhere in the world, people sit down to eat — but not the same foods. In o
 the everyday food might be rice and beans; in another, flatbread and lentils; in
 another, fish and root vegetables; in another, maize porridge and greens. The world's
 kitchens hold thousands of different foods, and each one belongs to a family, a place,
-and a story. Today you will name the many foods you know and meet some you have never
+and a story (S-118). Today you will name the many foods you know and meet some you have never
 seen.
 
 ## Materials
@@ -166,3 +166,9 @@ sorting.
 
 At your next meal, name every food on the table. Ask a grown-up the name of one food
 your family eats that other families might not.
+
+## Resources
+
+- On the variety of foods and food traditions around the world, with more than 100
+  countries adapting dietary guidance to their own culinary cultures: FAO — Food-based
+  dietary guidelines (S-118).

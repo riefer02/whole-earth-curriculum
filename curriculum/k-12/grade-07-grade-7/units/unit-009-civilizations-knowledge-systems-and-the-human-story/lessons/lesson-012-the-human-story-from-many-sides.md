@@ -156,7 +156,7 @@ looking at any card (Dunlosky et al., 2013). Then let them build their own synth
    geography? about resistance and colonization? Say or write as many as you can.
 2. **Retrieve the threads (15 min).** Work through the unit-topic cards with a
    partner. For each, recall one thing you learned — then check. Notice which ideas
-   came back easily and which needed a nudge; that is retrieval doing its work.
+   came back easily and which needed a nudge; that is retrieval doing its work (S-228).
 3. **Braid them (20 min).** On your threads-and-braid page, choose three threads that
    connect and write or draw how they braid together. Example: the *numerals* (a
    non-European achievement) traveled along *geography's* routes, carried by *people
@@ -194,3 +194,5 @@ human story you think deserves to be heard more. Ask what *they* would add.
   Science in the Public Interest*, <https://doi.org/10.1177/1529100612453266>.
 - On explicit instruction and worked examples: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On spaced retrieval strengthening long-term memory: Henry L. Roediger III & Jeffrey D. Karpicke — Test-Enhanced Learning: Taking Memory Tests Improves Long-Term Retention (S-228).
+

@@ -96,7 +96,7 @@ shows you where to sit, and invites you to join. In that moment you stop being a
 stranger and start to belong. Every culture on Earth has welcome customs: a shared meal,
 a bow, a handshake, a cup of tea, a word in your own language. Belonging is not a small
 thing — it is the ground a person stands on to learn, to help, and to be fully
-themselves.
+themselves (S-093).
 
 ## Materials
 
@@ -115,15 +115,15 @@ themselves.
 This deepens Grade 3's "compare my community with one far away" and Grade 2's "what
 makes a group feel welcoming." The two ideas to land: **welcome is something you do**
 (specific, learnable acts), and **belonging matters because it lets people learn, help,
-and be themselves** — not because it feels merely pleasant. Teach the welcome ways as
-explicit instruction and model each with a greeting (Kirschner, Sweller & Clark, 2006).
-Hold the global lens: welcome customs differ across cultures, and none is the "right"
-one — honor them side by side. Hold the egalitarian lens: a community that welcomes
-everyone is stronger for everyone; the newcomer is not a "guest to be tolerated" but a
-full member with something to give. Notice the technology lens lightly: a newcomer might
-connect online before arriving, and a kind message can be a first welcome — but a screen
-cannot replace the seat offered or the name spoken. Keep this lesson warm and concrete,
-never a lecture; the welcome circle is the heart of it.
+and be themselves** (S-235) — not because it feels merely pleasant. Teach the welcome
+ways as explicit instruction and model each with a greeting (Kirschner, Sweller & Clark,
+2006, S-011). Hold the global lens: welcome customs differ across cultures, and none is
+the "right" one — honor them side by side. Hold the egalitarian lens: a community that
+welcomes everyone is stronger for everyone; the newcomer is not a "guest to be
+tolerated" but a full member with something to give. Notice the technology lens lightly:
+a newcomer might connect online before arriving, and a kind message can be a first
+welcome — but a screen cannot replace the seat offered or the name spoken. Keep this
+lesson warm and concrete, never a lecture; the welcome circle is the heart of it.
 
 ## Procedure
 
@@ -169,5 +169,11 @@ changes the day.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness and relationship skills):
-  <https://casel.org/fundamentals-of-sel/>
+- On belonging as a basic human need, alongside food, water, and safety: Maslow — A
+  Theory of Human Motivation (S-093).
+- On inclusion as removing barriers so every learner takes part and difference is
+  treated as ordinary: UNESCO — Inclusion in Education (S-235).
+- On social awareness and relationship skills as core competencies: CASEL — Fundamentals
+  of Social and Emotional Learning (S-001).
+- On explicit instruction and worked examples: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

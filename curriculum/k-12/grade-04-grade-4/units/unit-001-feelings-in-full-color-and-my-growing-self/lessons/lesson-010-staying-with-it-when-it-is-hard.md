@@ -125,9 +125,10 @@ weaving, a child keeping a promise — all of them use the same quiet skill.
 
 **The facts to land.**
 1. Self-control is a skill, and explicit strategy instruction beats a vague "try harder"
-   (see `docs/contexts.md` on when to instruct). Teach the three strategies as a worked
-   example.
-2. Willpower is not infinite, and the evidence for "building" it like a muscle is mixed.
+   (S-001; see `docs/contexts.md` on when to instruct). Teach the three strategies as a
+   worked example.
+2. Willpower is not infinite, and the evidence for "building" it like a muscle is mixed
+   (S-097).
 3. The practical, well-supported levers are *strategies* and *changing the situation* —
    removing the distraction, planning ahead — more than sheer effort.
 
@@ -193,9 +194,8 @@ plan so they can cheer you on.
 
 ## Resources
 
-- CASEL SEL Framework (self-management competency):
-  <https://casel.org/fundamentals-of-sel/>
-- Duckworth, A. L., Gendler, T. S., & Gross, J. J. (2016). Situational strategies for
-  self-control. *Perspectives on Psychological Science, 11*(1), 35–55. (Evidence that
-  changing the situation and planning ahead support self-control; note that willpower is
-  limited and strategies matter more than effort alone.)
+- On self-management as a core competency: CASEL — Fundamentals of Social and Emotional
+  Learning (S-001).
+- On situational strategies for self-control — changing the situation and planning ahead
+  (if-then plans): Duckworth, Gendler & Gross — Situational Strategies for Self-Control
+  (S-097). Willpower is limited; strategies matter more than effort alone.

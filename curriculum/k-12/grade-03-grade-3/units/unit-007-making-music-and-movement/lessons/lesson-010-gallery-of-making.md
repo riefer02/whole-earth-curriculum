@@ -130,7 +130,7 @@ your ideas — a pattern you drew, a mood you read in a picture, a rhythm of lon
 short sounds, a story told with movement, a thing you designed and improved. Today you
 get to look at it all together, the way a family or a village shows its work at a fair
 or a festival. Making is how you share who you are — and every piece you made has a
-story worth hearing.
+story worth hearing (S-056).
 
 ## Materials
 
@@ -189,8 +189,8 @@ making is a voice, and every voice matters.
 
 ## Resources
 
-- No external resources required; this lesson gathers the learner's own work from the
-  unit.
+- On making and showing work as living cultural heritage: UNESCO — Intangible Cultural
+  Heritage (S-056).
 
 ## Home connection
 

@@ -114,10 +114,10 @@ garden, a floor, a piece of cloth, or a roof, anywhere in the world.
 
 Area begins as **covering with square units and counting**, then generalizes to **length
 × width** — the formula is a shortcut for the count, not a new idea (Van de Walle, Karp
-& Bay-Williams, 2019). Teach the shortcut as a **worked example** (philosophy §13): tile
-a 6-by-4 rectangle, count 24, then see that 6 × 4 = 24. Build on Grade 3's area work.
-**The number of tiles a learner needs to count before seeing the pattern is not a
-measure of their worth; an area is a fact about a surface, never about a person.**
+& Bay-Williams, 2019, S-026). Teach the shortcut as a **worked example** (philosophy
+§13): tile a 6-by-4 rectangle, count 24, then see that 6 × 4 = 24. Build on Grade 3's
+area work. **The number of tiles a learner needs to count before seeing the pattern is
+not a measure of their worth; an area is a fact about a surface, never about a person.**
 Measuring land by its covering squares is a human and cross-cultural practice, from
 ancient field surveying to modern tile and cloth work. Count in the home language. For
 learners who are Deaf or hard of hearing, sign the count; for learners who are blind or
@@ -165,6 +165,6 @@ your own hand-spans or steps, then tell a grown-up the area.
 
 ## Resources
 
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson. (Area as
-  covering with square units, generalizing to length × width.)
+- On area as covering with square units, generalizing to length × width: Van de Walle,
+  Karp & Bay-Williams — Elementary and Middle School Mathematics: Teaching
+  Developmentally (S-026).

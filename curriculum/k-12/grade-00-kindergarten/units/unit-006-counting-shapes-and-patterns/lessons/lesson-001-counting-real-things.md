@@ -135,7 +135,7 @@ or choose each object by eye-gaze or mouth stick and let the partner move it.
    Look at them. How many do you think there are? You do not need to know yet — you
    are about to find out.
 2. **Watch touch-and-count (10 min).** Counting means giving each thing its own
-   number. Touch one thing and say "one." Touch the next and say "two." Never skip a
+   number (S-020). Touch one thing and say "one." Touch the next and say "two." Never skip a
    thing, and never give one thing two numbers. Try it with a friend on a few things.
 3. **Count your own collection (15 min).** Now count your things slowly, touching
    each one and saying one number for it. When you finish, the last number you say is
@@ -164,7 +164,7 @@ or choose each object by eye-gaze or mouth stick and let the partner move it.
 
 - Clements, D. H., & Sarama, J. (2014). *Learning and Teaching Early Math: The
   Learning Trajectories Approach* (2nd ed.). Routledge. (One-to-one correspondence
-  as a foundational counting skill.)
+  as a foundational counting skill.) (S-020)
 
 ## Home connection
 

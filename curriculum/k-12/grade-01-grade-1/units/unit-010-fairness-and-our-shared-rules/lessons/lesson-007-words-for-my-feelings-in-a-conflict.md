@@ -96,7 +96,7 @@ When two people want the same thing, feelings can get big fast — mad, sad, sca
 or left out. **Conflict** is just a word for when two people want different things at
 the same time. It is not bad to have a conflict; what helps is using words to say
 how you feel. Everywhere in the world, people solve small conflicts by saying how
-they feel and what they need. Today you will practice saying how *you* feel.
+they feel and what they need (S-148). Today you will practice saying how *you* feel.
 
 ## Materials
 
@@ -175,3 +175,8 @@ anyone to speak or perform; a learner may pass. (Listening comes next.)
 ## Home connection
 
 At home, when a feeling gets big, try "I feel… when… I need…" with someone you trust.
+
+## Resources
+
+- On saying what happened, how you feel, and what you need as the frame for
+  conflict: Rosenberg — Nonviolent Communication (S-148).

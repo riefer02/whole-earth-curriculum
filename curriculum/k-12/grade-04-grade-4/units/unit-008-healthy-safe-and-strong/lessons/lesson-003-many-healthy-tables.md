@@ -123,7 +123,7 @@ the foods of its land, its history, and its traditions. Today you will see many 
 2. What makes a meal healthy is that it feeds the body well — a mix of grains or roots,
    vegetables or fruits, and protein — and every cuisine has its own way of doing this.
 3. All regions have healthy traditional dietary patterns, reflecting FAO and WHO
-   accounts.
+   accounts (S-118).
 
 **Don't overshoot.** Never let "healthy" become a weapon: do not shame any food a
 learner's family eats.
@@ -193,8 +193,6 @@ grown-up about a meal from their own childhood.
 
 ## Resources
 
-- Food and Agriculture Organization of the United Nations, "Healthy diets" (healthy
-  traditional dietary patterns exist in every region):
-  <https://www.fao.org/nutrition/education/food-dietary-guidelines/en/>
-- World Health Organization, "Healthy diet" (what a healthy diet includes):
-  <https://www.who.int/news-room/fact-sheets/detail/healthy-diet>
+- On healthy traditional dietary patterns in every region, adapted to local foods and
+  cultures: FAO — Food-based dietary guidelines (S-118).
+- On what a healthy diet includes: WHO — Nutrition topic (S-120).

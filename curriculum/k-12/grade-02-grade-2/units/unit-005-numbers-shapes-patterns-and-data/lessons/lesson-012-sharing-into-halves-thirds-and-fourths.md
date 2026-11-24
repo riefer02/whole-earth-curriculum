@@ -85,7 +85,7 @@ last_updated: 2026-08-16
 
 Learners fold and cut circles and rectangles into equal shares — **halves**, **thirds**,
 and **fourths** — and name each share. They discover that equal shares are the heart
-of fair sharing, and that the more people share, the smaller each share becomes.
+of fair sharing, and that the more people share, the smaller each share becomes (S-027).
 
 ## Objectives
 
@@ -166,6 +166,5 @@ and name each person's share.
 
 ## Resources
 
-- National Research Council. (2009). *Mathematics Learning in Early Childhood: Paths
-  Toward Excellence and Equity*. The National Academies Press. (Equal partitioning and
-  naming shares as the foundation of fractions.)
+- On equal partitioning and naming shares as the foundation of fractions: National
+  Research Council (2009) — Mathematics Learning in Early Childhood (S-027).

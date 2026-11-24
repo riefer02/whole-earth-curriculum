@@ -98,7 +98,7 @@ judged.
 
 Walk through any market, shop, or screen full of food and you will hear promises:
 "gives you energy," "natural," "just like homemade," "makes you strong." Some promises
-are true; some are only partly true; some are just a feeling dressed up as a fact. The
+are true; some are only partly true; some are just a feeling dressed up as a fact (S-312). The
 difference between them is not a secret — it is a question you can learn to ask: **what
 is the claim, and what is the evidence?** A claim is what someone *says*; evidence is
 what can be *checked*.
@@ -173,3 +173,5 @@ package, never about anyone's eating.
   children: <https://www.who.int/publications/i/item/9789241500210>
 - WHO — Healthy diet fact sheet:
   <https://www.who.int/news-room/fact-sheets/detail/healthy-diet>
+- On food marketing claims and the WHO's recommendations on marketing food to children: WHO — Set of recommendations on the marketing of foods and non-alcoholic beverages to children (S-312).
+

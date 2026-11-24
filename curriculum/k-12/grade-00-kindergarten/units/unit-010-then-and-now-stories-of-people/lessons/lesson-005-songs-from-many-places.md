@@ -120,7 +120,7 @@ from the culture wherever possible.
    to a picture, or draw it: a sound, a beat, a feeling. "I noticed the drum." "I
    noticed it was slow and soft."
 5. **Close (5 min).** People everywhere sing, and every song carries a place and a
-   people. Listening well is a kind of respect.
+   people (S-188). Listening well is a kind of respect.
 
 ## Differentiation
 
@@ -138,3 +138,7 @@ from the culture wherever possible.
 - **Formative (observation):** Does the learner listen and share one concrete
   noticing about a song?
 - **Formative (movement):** Can the learner keep or find a simple beat?
+
+## Resources
+
+- On world music recordings: Smithsonian Folkways Recordings (S-188).

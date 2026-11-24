@@ -117,7 +117,7 @@ heard.
 4. **Share (10 min).** Pass the turn marker. When you hold it, share your "I
    noticed..." — say it, point to a picture, draw it, or sign it. When you do not
    hold it, attend to the speaker.
-5. **Close (5 min).** Listening closely is a way of respecting someone's story. The
+5. **Close (5 min).** Listening closely is a way of respecting someone's story (S-174). The
    more we notice, the more we understand.
 
 ## Differentiation
@@ -134,3 +134,7 @@ heard.
 - **Formative (observation):** Does the learner move beyond "I liked it" to a
   concrete noticing (a sound, word, picture, or feeling)?
 - **Self-assessment:** Does the learner name which kind of thing they noticed?
+
+## Resources
+
+- On listening as an active skill: International Listening Association — Listening Skills resources (S-174).

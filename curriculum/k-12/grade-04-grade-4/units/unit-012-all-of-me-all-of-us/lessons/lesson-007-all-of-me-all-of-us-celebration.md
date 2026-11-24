@@ -122,7 +122,7 @@ and **belonging**: someone set a place, someone remembered a name, someone helpe
 smaller one reach the table. Today you gather the whole year into one place — who you
 are becoming, the tradition you carry, the goal you planned, the role you played, the
 welcome you learned, and the care you gave — and you celebrate it, together. Then you
-look ahead. You are not finished; you are only beginning Grade 5.
+look ahead. You are not finished; you are only beginning Grade 5 (S-155).
 
 ## Materials
 
@@ -222,7 +222,7 @@ the one goal and first step you have set for Grade 5.
 
 ## Resources
 
-- CASEL SEL Framework (self-awareness, social awareness, responsible decision-making):
-  <https://casel.org/fundamentals-of-sel/>
-- Erikson, E. H. (1950). *Childhood and Society* — industry and identity at this age
-  (facilitator background).
+- On identity and industry at this age, and growth as lifelong: Erikson — Childhood and
+  Society (S-155).
+- On self-awareness, social awareness, and responsible decision-making as core
+  competencies: CASEL — Fundamentals of Social and Emotional Learning (S-001).

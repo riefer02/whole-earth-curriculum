@@ -138,7 +138,7 @@ right is observable; *which* to choose is a value question for the next lesson. 
    choices branch down — **Choice A** and **Choice B**. The key: *both* are
    **right-seeming**. Each one has a good reason behind it. A **moral dilemma** is two
    right-seeming choices in conflict — not "good vs bad," but "good vs good," pulling
-   opposite ways.
+   opposite ways (S-387).
 3. **Worked example (10 min).** Build one together. *Situation:* "You promised to keep
    your friend's secret, but the secret means someone could get hurt." Choice A: keep
    the secret (right-seeming because of loyalty). Choice B: tell a trusted adult
@@ -177,3 +177,5 @@ reasons that pulled opposite ways.
   framing in CASEL, <https://casel.org/fundamentals-of-sel/>
 - On modeling a concept before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On moral dilemmas as conflicts between moral requirements: Stanford Encyclopedia of Philosophy — Deontological Ethics (S-387).
+

@@ -102,7 +102,7 @@ festival. A poem does something different: it hands you a picture made of words 
 silver coin / dropped in the well of night." Both are **fiction and poetry** — writing that
 works on the imagination, in every language and every corner of the world. Each has its own
 shape, and knowing that shape is how you read them well: in a story you follow **who, where,
-and what happens**; in a poem you listen for **the image** and the **rhythm**. Neither is
+and what happens**; in a poem you listen for **the image** and the **rhythm** (S-172). Neither is
 harder than the other; they are different tools for saying true things about being human.
 
 ## Materials
@@ -174,3 +174,5 @@ about its shape: who it is about, or one image it paints.
   Literacy" guide. The claim that no genre or language is above another is a values commitment
   (`docs/philosophy.md` §4). Read-aloud supports fluency and enjoyment; see the work on
   read-alouds in the National Reading Panel report (2000).
+- On teaching the shapes of literary genres: Nell K. Duke & P. David Pearson — Effective Practices for Developing Reading Comprehension (S-172).
+

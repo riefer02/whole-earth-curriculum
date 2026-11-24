@@ -104,7 +104,7 @@ teamwork*.
 A single voice singing a line is lovely, but many voices weaving one song is something more —
 each adds its part, and no part outranks another. That is what a **cooperative game** is: not
 one team beating another, but a group building something together that no one could make
-alone. Today you do exactly that with movement — your traveling step becomes four counts of a
+alone (S-233). Today you do exactly that with movement — your traveling step becomes four counts of a
 shared sequence, and each teammate adds one move of their own. The win is the *together*, not
 the score.
 
@@ -175,3 +175,5 @@ join you for a few steps.
   sequence also illustrates transfer and retrieval: performing the step in a new context
   strengthens the skill. For SEL framing of teamwork and cooperation, see CASEL's
   relationship-skills competency: <https://casel.org/fundamentals-of-sel/>
+- On cooperative goal structures producing better group outcomes than competitive ones: David W. Johnson, Geoffrey Maruyama, Roger Johnson, Deborah Nelson & Linda Skon — Effects of cooperative, competitive, and individualistic goal structures on achievement (S-233).
+

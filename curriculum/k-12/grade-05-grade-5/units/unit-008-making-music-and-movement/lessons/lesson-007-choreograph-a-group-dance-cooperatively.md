@@ -99,7 +99,7 @@ listening, taking turns leading, and shaping the piece together so everyone belo
 Bodies in space already make dance without a name for it: a flock of birds turns as one, a
 market crowd weaves around stalls, a game of tag scatters and regroups. A dance is that
 same thing made **on purpose** — people deciding, together, where to begin, where to
-travel, and how to finish. The secret is not fancy steps; it is **cooperation**: listening
+travel, and how to finish. The secret is not fancy steps; it is **cooperation** (S-147): listening
 to each other, so that many bodies become one piece. Today you and your group become
 choreographers.
 
@@ -171,6 +171,8 @@ beginning, middle, and end of their movement, and how they cooperate.
 
 ## Resources
 
-- The elements of choreography (levels, pathways, shapes) are standard in elementary dance
-  education; cooperative ensemble work is a core practice. For accessible framing, see the
-  Kennedy Center's arts education resources on dance: <https://www.kennedy-center.org/education/>
+- On cooperative group work in which every member has a role and the lead passes
+  around: Slavin — *Cooperative Learning: Theory, Research, and Practice* (S-147).
+- On the elements of choreography — levels, pathways, shapes — and ensemble work in
+  dance education: The John F. Kennedy Center for the Performing Arts — Education,
+  <https://www.kennedy-center.org/education/> (S-189).

@@ -131,26 +131,25 @@ occasion, belief).
 
 ## Procedure
 
-1. **Gather (5 min).** Last time you learned how artists show depth. Today you learn
-   how to look at art from another **culture** with respect. Other people's arts are
-   **living heritage** — made and used by real people today, not just long ago.
+1. **Gather (5 min).** Last time you learned how artists show depth. Today you learn how
+   to look at art from another **culture** with respect. Other people's arts are
+   **living heritage** — made and used by real people today, not just long ago (S-056).
 2. **Meet the look-closely frame (10 min).** Look at the frame graphic. It has four
    parts:
    - **Subject:** what does it show?
    - **Materials:** what is it made of?
    - **Purpose:** what is it for?
    - **One respectful question:** something you genuinely want to understand.
-3. **Look at a real artwork (15 min).** With the group or on your own, study one
-   artwork — an adinkra cloth, a kōwhaiwhai pattern, or a woven textile. Fill the first
-   three boxes from what you can *see*. Then write your one respectful question. Here
-   is the difference: "What do the symbols mean?" is a respectful question; "Why does
-   it look like that?" can sound like a judgment. Choose the kind that honors the
-   makers.
+3. **Look at a real artwork (15 min).** With the group or on your own, study one artwork
+   — an adinkra cloth, a kōwhaiwhai pattern, or a woven textile. Fill the first three
+   boxes from what you can *see*. Then write your one respectful question. Here is the
+   difference: "What do the symbols mean?" is a respectful question; "Why does it look
+   like that?" can sound like a judgment. Choose the kind that honors the makers.
 4. **Share questions (10 min).** Read your respectful question to a partner. Listen to
    theirs. Which questions would a living artist be glad to answer?
 5. **Close (5 min).** Remember: an artwork is a doorway to people. Ask to understand,
-   not to judge — and know that some things are private, and respecting that is
-   respect too.
+   not to judge — and know that some things are private, and respecting that is respect
+   too.
 
 ## Differentiation
 
@@ -176,7 +175,9 @@ write one respectful question about it.
 
 ## Resources
 
-- Smithsonian National Museum of African Art: <https://africa.si.edu/>
-- Te Papa Tongarewa (Museum of New Zealand) — Māori arts: <https://www.tepapa.govt.nz/>
-- The Metropolitan Museum of Art, Heilbrunn Timeline of Art History:
-  <https://www.metmuseum.org/toah/>
+- On art and craft as living heritage that communities practice and pass on: UNESCO —
+  Intangible Cultural Heritage (S-056).
+- On Akan adinkra cloth — stamped symbols that are proverbs — and other African art: The
+  Metropolitan Museum of Art — Heilbrunn Timeline of Art History (S-114).
+- On Māori arts, including kōwhaiwhai painted rafter patterns and kete woven from
+  harakeke: Te Papa Tongarewa — Māori arts (S-115).

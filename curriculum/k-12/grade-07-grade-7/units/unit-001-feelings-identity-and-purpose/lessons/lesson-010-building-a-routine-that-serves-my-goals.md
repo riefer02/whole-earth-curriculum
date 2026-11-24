@@ -102,7 +102,7 @@ Big things are built of small, repeated things. A house is bricks laid one by on
 rows planted one by one; a skill is practice returned to day after day. A routine is how your
 goals stop being wishes and start being *days*. Study is how you grow your mind; sleep is how
 the body repairs and the brain keeps what you learned; movement is how the whole system stays
-strong and clear. Choose a goal, then build the day that feeds it — in a city apartment or a
+strong and clear (S-050). Choose a goal, then build the day that feeds it — in a city apartment or a
 village house, the pattern is the same.
 
 ## Materials
@@ -208,3 +208,5 @@ adjust it together, not as a grade but as a living plan.
   <https://doi.org/10.1177/1529100612453266>
 - On modeling a new skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On recommended sleep for children and teens, and sleep's role in health and learning: AASM — Recommended Amount of Sleep for Pediatric Populations (S-050).
+

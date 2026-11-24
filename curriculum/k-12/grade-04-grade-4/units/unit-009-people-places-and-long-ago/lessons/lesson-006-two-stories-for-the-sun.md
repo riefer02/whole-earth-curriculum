@@ -143,12 +143,12 @@ it with honor.
    seem to rise, and where does it set? What do you notice?
 2. **Hear two stories (15 min).** Listen to both tellings:
    - **Japan — Amaterasu:** the Sun goddess grew so sad and angry at her brother's
-     misdeeds that she hid in a cave, and the world went dark. The other spirits set a
+     misdeeds that she hid in a cave (S-133), and the world went dark. The other spirits set a
      mirror outside and began to laugh and dance. Curious, she peered out, saw her own
      bright light in the mirror, and came out — so light returned to the world.
    - **Egypt — Ra:** the Sun god sailed his boat across the sky by day, and through the
      dark lands beneath the world by night, to be reborn each dawn. The rising and
-     setting of the Sun was his daily journey.
+     setting of the Sun was his daily journey (S-137).
 3. **Notice what both peoples observed (10 min).** Both peoples watched the *same real
    Sun*: it appears in the east, crosses the sky, and disappears in the west, and its
    light and warmth make life possible. Each story is one way of making meaning of what
@@ -183,12 +183,10 @@ it with honor.
 
 ## Resources
 
-- Encyclopaedia Britannica, "Amaterasu" — the Japanese Sun goddess of the Shinto
-  tradition and the story of the cave.
-  https://www.britannica.com/topic/Amaterasu
-- Encyclopaedia Britannica, "Re" — the ancient Egyptian Sun god (Ra), who sailed the sky
-  by day and the underworld by night.
-  https://www.britannica.com/topic/Re
+- On Amaterasu, the Japanese Sun goddess of the Shinto tradition, and the story of the
+  cave: Encyclopaedia Britannica — Amaterasu (S-133).
+- On Re (Ra), the ancient Egyptian Sun god who sailed the sky by day and the underworld
+  by night: Encyclopaedia Britannica — Re (S-137).
 
 ## Home connection
 

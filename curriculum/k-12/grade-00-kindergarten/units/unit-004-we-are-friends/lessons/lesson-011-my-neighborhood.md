@@ -92,7 +92,7 @@ space and help each other.
 
 Your neighborhood is a bigger community than your family or class — the streets,
 buildings, fields, and people around your home. People in a neighborhood share a place
-and do things together: buying food at a market, drawing water, gathering to talk,
+and do things together (S-164): buying food at a market, drawing water, gathering to talk,
 caring for a shared path or well. Whether your neighborhood is a city block, a
 village, or a few homes along a road, it is a place where people belong to each other.
 
@@ -145,6 +145,7 @@ villages, mountain hamlets. None is the default; all are real communities.
 
 - CASEL SEL Framework (foundational competencies):
   <https://casel.org/fundamentals-of-sel/>
+- On shared community work traditions: Communal-work (mutual-aid) traditions — harambee, gotong royong, mink'a/minga, barn-raising (S-164).
 
 ## Home connection
 

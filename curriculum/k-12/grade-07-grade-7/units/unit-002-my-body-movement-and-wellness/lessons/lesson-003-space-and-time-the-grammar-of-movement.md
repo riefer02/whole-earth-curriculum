@@ -97,7 +97,7 @@ clumped together get in each other's way; players who spread out find room to mo
 best pass is not the fastest one but the one thrown at the *right moment* — a second too
 early and it is wasted, a second too late and the opening is gone. Spacing and timing are
 not talent you are born with; they are grammar you can learn, and they work in every game on
-Earth.
+Earth (S-101).
 
 ## Materials
 
@@ -166,3 +166,5 @@ good spacing and one moment of good timing. Say why each one worked.
   <https://www.shapeamerica.org/>
 - On modeling a skill before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On movement skills, spacing, and tactics in physical education: SHAPE America — Society of Health and Physical Educators (S-101).
+

@@ -115,7 +115,7 @@ village square. Today you will move your own body to a beat of your own.
 Prepare the space and beat source, then lead the steady beat before learners build their
 own sequences. This begins the movement strand, which builds on Grade 2's movement
 sequences — now with rhythm added. Model a steady beat and a four-move sequence slowly
-before learners try (explicit modeling, then guided practice). Honor every body: rhythm
+before learners try (explicit modeling, then guided practice) (S-011). Honor every body: rhythm
 can be made by clapping, tapping, blinking, rocking, or rolling — and a sequence can be
 performed standing, seated, or with wheels. Every version counts fully. Keep it joyful,
 never a competition: there is no "best" rhythm, only a steady one. Learners who are deaf
@@ -159,8 +159,8 @@ welcome; only your body can feel the beat the way you do.
 
 ## Resources
 
-- World Health Organization — physical activity fact sheet (children need regular
-  movement for healthy growth): <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
+- On modeling a skill slowly before learners try it: Kirschner, Sweller & Clark (2006) —
+  Why Minimal Guidance During Instruction Does Not Work (S-011).
 
 ## Home connection
 

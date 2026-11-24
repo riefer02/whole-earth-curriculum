@@ -100,7 +100,7 @@ work, whatever a family eats.
 
 Have you ever felt tired and slow, then eaten something and felt ready to go again? That
 is food doing its job. Food is your body's **fuel** — like wood for a fire or petrol for a
-car, food is what your body burns for **energy** to grow, play, and learn. Today you will
+car, food is what your body burns for **energy** to grow, play, and learn (S-285). Today you will
 see how food powers every part of your day.
 
 ## Materials
@@ -121,7 +121,7 @@ see how food powers every part of your day.
 
 **The facts to land.**
 1. Food's job is **energy** — for growth, play, and learning. It provides the energy and
-   nutrients a body needs to grow and stay healthy (World Health Organization).
+   nutrients a body needs to grow and stay healthy (World Health Organization, S-038).
 2. Different families get that energy from different foods: rice, maize, wheat, millet,
    beans, roots, fish, eggs, fruits, and greens all fuel bodies well.
 3. A food everyday for one family may be rare for another; neither is wrong.
@@ -188,5 +188,7 @@ to grow, to play, or to learn.
 
 ## Resources
 
-- World Health Organization, "Healthy diet" (food and energy for a growing body):
-  <https://www.who.int/news-room/fact-sheets/detail/healthy-diet>
+- On the energy a body needs from food, and how that need differs with age, size and
+  activity: FAO/WHO/UNU — Human Energy Requirements (S-285).
+- On a healthy diet: World Health Organization — Healthy diet fact sheet (S-038).
+

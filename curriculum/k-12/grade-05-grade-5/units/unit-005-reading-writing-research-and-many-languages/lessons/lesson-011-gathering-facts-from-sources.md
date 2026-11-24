@@ -129,7 +129,7 @@ words. See `docs/contexts.md` on low-resource research.
 2. **Meet sources (10 min).** Look at the poster. A source is anywhere a fact comes from: a
    **book**, a **person** who knows, a **chart**, a **place you visited**, an **object you
    examined**. Good research uses **several** sources, not just one — because one source can be
-   wrong, and several that agree are stronger.
+   wrong, and several that agree are stronger (S-170).
 3. **Learn to note a key fact (10 min).** Look at a note card. It has two parts: the **source**
    (where the fact came from) and the **key facts** (the important bits, in short words). A key
    fact is not every word — it is the heart. Practice: from a fact your facilitator says aloud,
@@ -163,6 +163,8 @@ facts they agree on.
 
 ## Resources
 
-- Gathering and corroborating information across sources is a foundational research skill; see
-  the IES "Improving Adolescent Literacy" practice guide and Graham & Perin, "Writing Next"
-  (Carnegie Corporation, 2007). On source credibility as a habit, see `docs/philosophy.md` §7.
+- On gathering and corroborating information across several sources: IES,
+  *Improving Adolescent Literacy*, <https://ies.ed.gov/ncee/wwc/practiceguide/8>
+  (S-170).
+- On recording the source alongside each note as part of the writing process: Graham &
+  Perin — *Writing Next* (S-102).

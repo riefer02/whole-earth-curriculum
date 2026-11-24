@@ -98,8 +98,8 @@ reflection**.
 ## Connection
 
 A littered path no single person wants to clean alone. Ten people, ten minutes — done.
-**Collective action** is people working together on something that helps *everyone* — the
-**common good**. One person's small act is a drop; many drops together are a river. Today
+**Collective action** is people working together on something that helps *everyone* —
+the **common good** (S-147). One person's small act is a drop; many drops together are a river. Today
 you will plan one, do one, and think about what made it work.
 
 ## Materials
@@ -200,8 +200,7 @@ talk about what worked and what you would change.
 
 ## Resources
 
-- Cooperative learning and collective action have a strong research base (Slavin,
-  *Cooperative Learning*, 1995). The "common good" framing is a value held by this
-  curriculum, not a scientific claim.
-- On modeling planning/roles before independent practice: Kirschner, Sweller & Clark
-  (2006), <https://doi.org/10.1207/s15326985ep4102_1>
+- On cooperative structures in which each member has a role and is accountable for their
+  part: Slavin — *Cooperative Learning: Theory, Research, and Practice* (S-147).
+- On modelling the planning and roles before groups act on their own: Kirschner,
+  Sweller & Clark (2006), <https://doi.org/10.1207/s15326985ep4102_1> (S-011).

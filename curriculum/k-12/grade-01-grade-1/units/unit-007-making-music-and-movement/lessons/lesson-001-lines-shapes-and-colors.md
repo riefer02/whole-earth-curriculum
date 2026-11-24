@@ -140,7 +140,7 @@ pointing to each part. Watching and copying are full participation.
    shape, and one color in your picture, and say (or point to) what it is. If your
    lines can be felt, let a friend close their eyes and feel the shape.
 5. **Close (5 min).** Remember: every picture everywhere is made of lines, shapes,
-   and colors — and now yours is too. Everything you make belongs.
+   and colors (S-365) — and now yours is too. Everything you make belongs.
 
 ## Differentiation
 
@@ -163,3 +163,8 @@ pointing to each part. Watching and copying are full participation.
 
 At home, find a line, a shape, and a color somewhere — on a pot, a cloth, a wall, or
 outside — and show a grown-up each one. Then draw one thing you saw.
+
+## Resources
+
+- On line, shape, and color as the elements of art: The J. Paul Getty Museum —
+  Understanding Formal Analysis (S-365).

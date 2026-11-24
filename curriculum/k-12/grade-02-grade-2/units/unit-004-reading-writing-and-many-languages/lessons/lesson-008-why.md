@@ -77,7 +77,7 @@ last_updated: 2026-08-16
 
 Learners read a short text and answer **why** something happened — the question that
 asks for a reason. They learn to answer with "because" and to find the words in the
-text that show the cause.
+text that show the cause (S-040).
 
 ## Objectives
 
@@ -146,5 +146,5 @@ Ask someone at home "why" about one small thing today, and listen for their reas
 
 ## Resources
 
-- National Reading Panel (2000), reading comprehension — questioning and inferring.
-  (Cited as a widely used evidence base.)
+- On question answering and finding evidence in the text: National Reading Panel
+  (2000) — Teaching Children to Read (S-040).

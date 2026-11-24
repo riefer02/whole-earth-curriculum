@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-09-002-03-perspective desc-L-09-002-03-perspective">
+  <title id="title-L-09-002-03-perspective">Understand first, then judge</title>
+  <desc id="desc-L-09-002-03-perspective">A left panel headed "before you judge — ask" lists four questions: what they took for granted, what they feared losing, what words they used, and what they could not see. An arrow leads to a right panel headed "then judge", which holds what was done, to whom, and why. A footer reads: understanding is not excusing.</desc>
+
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Understand First, Then Judge</text>
+  <text x="256" y="76" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">four questions before any verdict</text>
+
+  <rect x="20" y="96" width="266" height="250" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <text x="153" y="126" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">before you judge — ask</text>
+  <text x="40" y="166" font-family="sans-serif" font-size="13" fill="#222222">1  what did they take for granted?</text>
+  <text x="40" y="202" font-family="sans-serif" font-size="13" fill="#222222">2  what did they fear losing?</text>
+  <text x="40" y="238" font-family="sans-serif" font-size="13" fill="#222222">3  what words did they use?</text>
+  <text x="40" y="274" font-family="sans-serif" font-size="13" fill="#222222">4  what could they not see?</text>
+  <text x="40" y="316" font-family="sans-serif" font-size="12" fill="#4f6d7a">their world, not their character</text>
+
+  <line x1="288" y1="221" x2="322" y2="221" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M314 215 L324 221 L314 227" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <rect x="330" y="96" width="162" height="250" rx="8" fill="#f7efe2" stroke="#2b3a42" stroke-width="2"/>
+  <text x="411" y="126" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">then judge</text>
+  <text x="411" y="160" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">what was done,</text>
+  <text x="411" y="180" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">to whom,</text>
+  <text x="411" y="200" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">and why</text>
+  <text x="411" y="248" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">with reasons</text>
+  <text x="411" y="268" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">someone can</text>
+  <text x="411" y="288" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">check</text>
+
+  <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">understanding is not excusing</text>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">explain the choice, then name what it did</text>
+</svg>

@@ -104,10 +104,10 @@ hands.
 ## Connection
 
 A feeling can rush in fast — a toy grabbed, a turn skipped, a tower knocked over — and
-before you know it, your hand is already moving. Pausing is the brave little stop in
-the middle: a breath, a hand held open, a moment to think. Then you can *choose* what
-happens next instead of just letting it happen. You have been building everything you
-need for this all unit long: words to name feelings, clues from your body, and calm
+before you know it, your hand is already moving. Pausing is the brave little stop in the
+middle: a breath, a hand held open, a moment to think (S-224). Then you can *choose*
+what happens next instead of just letting it happen. You have been building everything
+you need for this all unit long: words to name feelings, clues from your body, and calm
 tools to reach for. Today you put them together.
 
 ## Materials
@@ -178,5 +178,5 @@ small thing goes wrong.
 
 ## Resources
 
-- CASEL SEL Framework (self-management and responsible decision-making):
-  <https://casel.org/fundamentals-of-sel/>
+- On pausing before acting as a self-control strategy: Mischel, Shoda & Rodriguez —
+  Delay of Gratification in Children (S-224).

@@ -122,7 +122,7 @@ change so it stands?" Honor every structure; a wobbly tower is still a thinker's
 2. **Plan a little (5 min).** Before you build, say or think: what will it do? What
    will hold it up?
 3. **Build (15 min).** Stack, join, and arrange. If it falls, that is a clue — try
-   a wider base or a tighter join. Build, look, change, build again.
+   a wider base or a tighter join (S-370). Build, look, change, build again.
 4. **Test it (10 min).** Try its job: does the tower stand? Does the bridge span the
    gap? Does the boat hold a leaf?
 5. **Explain it (5 min).** Tell a friend or grown-up what you built and what it does.
@@ -142,6 +142,10 @@ change so it stands?" Honor every structure; a wobbly tower is still a thinker's
 - **Formative (observation):** Does the learner build something and say or show what
   it does?
 - **Artifact (portfolio):** A photo or drawing of the build, kept in the portfolio.
+
+## Resources
+
+- On the engineering design process: TeachEngineering — Engineering Design Process (S-370).
 
 ## Home connection
 

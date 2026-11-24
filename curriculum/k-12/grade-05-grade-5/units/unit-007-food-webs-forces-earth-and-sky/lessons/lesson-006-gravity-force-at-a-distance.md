@@ -85,9 +85,10 @@ last_updated: 2026-08-17
 ## Summary
 
 Learners describe **gravity** as a **force that acts at a distance**: Earth pulls
-every object toward its center without touching it. They predict and test how
+every object toward its center without touching it (S-180). They predict and test how
 objects fall, discover that air — not gravity — is why a leaf falls slowly, and
-explain how gravity reaches the Moon across empty space to hold it in **orbit**.
+explain how gravity reaches the Moon across empty space to hold it in **orbit**
+(S-180).
 
 ## Objectives
 
@@ -175,6 +176,6 @@ shows about gravity.
 
 ## Resources
 
-- NASA Space Place, "What is gravity?" — an age-appropriate explanation of gravity
-  as a force that pulls and acts at a distance:
-  <https://spaceplace.nasa.gov/what-is-gravity/en/>
+- On gravity as an invisible force that pulls objects toward each other and toward
+  Earth's centre, acts without touching, and keeps the Moon in orbit: NASA Space Place
+  — What Is Gravity?, <https://spaceplace.nasa.gov/what-is-gravity/en/> (S-180).

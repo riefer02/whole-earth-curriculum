@@ -100,7 +100,7 @@ table too high for a friend who uses a wheelchair. Someone is **left out** or tr
 fourth child in, write the sign in more than one language, lower the table or add a
 ramp. People everywhere do this — a village widens a path, a class adds a seat, a
 family teaches a game to the youngest. Today you will practice noticing and then
-making it more fair.
+making it more fair (S-092, S-235).
 
 ## Materials
 
@@ -185,8 +185,7 @@ fair?
 
 ## Resources
 
-- UNICEF, "Inclusive education" (removing barriers so every child can take part):
-  <https://www.unicef.org/education/inclusive-education>
-- The "notice, then change" move is the everyday form of what adults call equity; see
-  the equality-vs-equity discussion in the United Nations materials on children's
-  rights.
+- On removing barriers so every child can take part: UNICEF — Inclusive education (S-092).
+- On inclusion in education as a commitment, following the Salamanca Statement: UNESCO —
+  Inclusion in Education (S-235).
+

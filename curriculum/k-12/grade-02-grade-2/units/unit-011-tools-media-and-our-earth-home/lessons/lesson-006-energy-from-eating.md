@@ -82,7 +82,7 @@ last_updated: 2026-08-16
 ## Summary
 
 Learners discover that every living thing needs **energy**, and that **animals get their
-energy from eating plants or other animals**. They follow a simple food chain — the **sun**
+energy from eating plants or other animals** (S-064). They follow a simple food chain — the **sun**
 gives the grass its start, the **rabbit** gets energy from eating the grass, and the
 **fox** gets energy from eating the rabbit — and draw it with arrows showing which way the
 energy moves.
@@ -185,11 +185,11 @@ learn best by moving.
 
 ## Home connection
 
-At home, name one food you ate today and trace it back: did it come from a plant, or from
-an animal that ate a plant? Tell a grown-up the chain of energy that ended on your plate.
+At home, name one food you ate today and trace it back: did it come from a plant, or
+from an animal that ate a plant? Tell a grown-up the chain of energy that ended on your
+plate.
 
 ## Resources
 
-- BBC Bitesize (KS1 Science), "What is a food chain?" — animals get energy from the food
-  they eat, and a food chain shows how energy moves from plants to animals.
-  https://www.bbc.co.uk/bitesize/topics/zx882hv/articles/zwxwkty
+- On how a food chain shows energy moving from plants to animals: BBC Bitesize (KS1) —
+  What is a food chain? (S-064).

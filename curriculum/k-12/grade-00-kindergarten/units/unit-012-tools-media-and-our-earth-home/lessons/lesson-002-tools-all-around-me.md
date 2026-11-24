@@ -116,7 +116,7 @@ whatever they are.
    chair, a door handle, a broom. For each, say the tool and its job: "A chair helps
    us sit and rest."
 3. **Tools far away (15 min).** Look at the picture cards. People in every place use
-   tools: a pot in a kitchen, a hoe in a field, a basket at a market, a bicycle on a
+   tools (S-056): a pot in a kitchen, a hoe in a field, a basket at a market, a bicycle on a
    road. Sort the cards by place. Which place would you like to visit?
 4. **Draw a tool in its place (10 min).** Draw one tool and the place it lives.
 5. **Close (5 min).** Every place has its own tools, and every tool helps someone do a
@@ -134,6 +134,10 @@ whatever they are.
 - **Formative (observation):** Can the learner point to or hold a tool in their space
   and say what it helps people do?
 - **Artifact (portfolio):** The "tool in its place" drawing.
+
+## Resources
+
+- On living cultural heritage and traditional craft: UNESCO — Intangible Cultural Heritage (S-056).
 
 ## Home connection
 

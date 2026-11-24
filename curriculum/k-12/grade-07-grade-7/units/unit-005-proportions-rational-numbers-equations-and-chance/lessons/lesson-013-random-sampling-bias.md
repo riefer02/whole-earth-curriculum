@@ -95,7 +95,7 @@ recognize **bias** in data-collection methods and state how to sample fairly.
 
 Suppose you want to know what share of a village's people like a new idea, but you can't ask
 everyone. You ask a **sample** — a smaller group — and use it to guess about the whole
-**population**. If you pick the sample *at random*, it tends to look like the whole. But if you
+**population**. If you pick the sample *at random*, it tends to look like the whole (S-301). But if you
 only ask the people standing near the market at noon, you have **bias**: your sample leaves out
 the farmers in the fields and the elders at home, and your conclusion is wrong. Sampling fairly is
 how medicines are tested, harvests are estimated, and public decisions are made — and noticing
@@ -177,3 +177,5 @@ out.
   are representative (and that larger random samples are more reliable) is a statistical result;
   the claim that fair sampling is an ethical obligation is a value (`docs/philosophy.md` §4), and
   the habit of asking "who was left out?" is critical thinking (`docs/philosophy.md` §7).
+- On samples, populations, and using a sample to estimate a whole: Encyclopaedia Britannica — Probability and statistics (S-301).
+

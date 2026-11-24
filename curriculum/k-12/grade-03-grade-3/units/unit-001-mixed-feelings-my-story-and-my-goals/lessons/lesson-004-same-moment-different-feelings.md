@@ -98,7 +98,7 @@ The farmer whose crops were thirsty feels **relieved**. The little one who loves
 splash feels **delighted**. Same rain, three feelings. Or think of a long trip: one
 person is **excited** to see a new place, another is **sad** to leave home, another is
 **nervous** about the unfamiliar road. The moment is shared, but the feeling is each
-person's own — because each person brings a different life to the same moment.
+person's own — because each person brings a different life to the same moment (S-001).
 
 ## Materials
 
@@ -135,7 +135,7 @@ egalitarian moment: every feeling gets to be heard, not just the loudest one.
 3. **Explain the "why" (15 min).** Take a scenario card: one situation, three people.
    For each person, name the feeling and then **explain why**: "They feel ___ because
    ___." Try another card. The thinking question is: *why might this person feel this
-   way?*
+   way?* (S-231)
 4. **Pair-share (10 min).** Think of a real shared moment — a rainstorm, a rule change, a
    shared treat, a move. Tell a partner how *you* felt, then guess how someone *else*
    might have felt and why. Listen without saying "you're wrong."
@@ -163,5 +163,8 @@ you felt — then wonder together why it differed.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On social awareness and taking another person's point of view: CASEL — Fundamentals of
+  Social and Emotional Learning (S-001).
+- On perspective-taking as an inference about another person's inner life, not direct
+  knowledge of it: Jean Decety & Jason M. Cowell (2014) — The Complex Relation Between
+  Morality and Empathy (S-231).

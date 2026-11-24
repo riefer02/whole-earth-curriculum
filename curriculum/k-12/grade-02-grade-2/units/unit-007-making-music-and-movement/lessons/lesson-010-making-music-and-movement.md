@@ -146,8 +146,8 @@ that every learner shares and every learner is heard. Let learners share in what
 form suits them: talk, point, sing, move, or show. Sharing is a choice, never a duty — a
 learner may pass, and watching and clapping for others is full participation. Never
 single out a shy learner to share alone. Honor every culture's arts as living heritage,
-and every learner's work as belonging. Close by naming the unit's big idea together:
-making is a voice, and every voice matters.
+and every learner's work as belonging (S-056). Close by naming the unit's big idea
+together: making is a voice, and every voice matters.
 
 ## Procedure
 
@@ -188,3 +188,8 @@ making is a voice, and every voice matters.
 
 Make a tiny gallery at home: lay out a few things you made this unit and give a
 grown-up a "tour," telling the story of each one.
+
+## Resources
+
+- On every culture's arts as living heritage: UNESCO — Intangible Cultural Heritage
+  (S-056).

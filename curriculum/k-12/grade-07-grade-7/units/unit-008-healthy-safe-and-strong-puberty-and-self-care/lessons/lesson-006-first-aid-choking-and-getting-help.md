@@ -134,7 +134,7 @@ the region. Frame getting help as skill and courage, never as weakness. See
    bleeding and for burns? Today: choking — and the skill of calling for help.
 2. **Recognize the sign (10 min).** Look at the diagram. A person who is choking cannot
    breathe, talk, or cough, and often clutches their throat — the **universal sign**. If
-   you see it, act: **call for emergency help and get an adult now.**
+   you see it, act: **call for emergency help and get an adult now.** (S-313)
 3. **Assist if trained (10 min).** **Back blows** (firm hits between the shoulder blades)
    and **abdominal thrusts** can clear the airway — but they are skills to learn from a
    certified instructor, not to improvise. Say the steps in order, and remember: calling
@@ -170,3 +170,5 @@ and practice the three things to say. Being ready is a gift to the people around
 - IFRC Global First Aid Reference Centre — evidence-based first-aid guidance:
   <https://www.globalfirstaidcentre.org/>
 - WHO — Adolescent health: <https://www.who.int/health-topics/adolescent-health>
+- On the choking response and calling for emergency help: IFRC Global First Aid Reference Centre (GFARC) (S-313).
+

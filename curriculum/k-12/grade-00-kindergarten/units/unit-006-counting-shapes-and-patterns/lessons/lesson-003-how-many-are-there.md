@@ -121,7 +121,7 @@ play, never like a test.
 1. **Gather (5 min).** Look at your collections. Some look big, some look small. You
    cannot always tell how many just by looking — you have to count.
 2. **Count and name (15 min).** Pick one collection. Count it, touching each thing
-   and saying one number for it. The **last number you say is how many**. Say it
+   and saying one number for it. The **last number you say is how many** (S-020). Say it
    clearly: "There are seven." Do this for each collection.
 3. **Count again to check (10 min).** Count the same collection a second time. Does
    the last number match? Counting twice and getting the same answer is how you know
@@ -150,7 +150,7 @@ play, never like a test.
 
 - Clements, D. H., & Sarama, J. (2014). *Learning and Teaching Early Math: The
   Learning Trajectories Approach* (2nd ed.). Routledge. (Cardinality — the last
-  counting word names the quantity.)
+  counting word names the quantity.) (S-020)
 
 ## Home connection
 

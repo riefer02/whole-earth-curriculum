@@ -124,9 +124,9 @@ signals from Lessons 1–3 and adds the third: warmth.
 
 ## Procedure
 
-1. **Gather (5 min).** You have read two signals: heartbeat and breathing. Today you read
-   the third: your **warmth**. Feel your cheeks and your hands with your own fingers.
-   Are they warm or cool?
+1. **Gather (5 min).** You have read two signals: heartbeat and breathing. Today you
+   read the third: your **warmth**. Feel your cheeks and your hands with your own
+   fingers. Are they warm or cool?
 2. **Feel at rest (10 min).** Sit very still and quiet. Feel your cheeks, your hands,
    your arms. Write or say how warm you feel. This is your body at rest.
 3. **Move (10 min).** Stand and move hard for about two minutes — march, jump, or pump
@@ -136,7 +136,7 @@ signals from Lessons 1–3 and adds the third: warmth.
 5. **Ask why (10 min).** Your muscles were working, and working muscles make **heat** —
    like hands rubbing together, or an engine running. That heat spreads through your
    body and warms you. When you rest, the muscles slow, and your body cools down. When
-   you are very warm, you may **sweat**; as the sweat dries, it cools your skin.
+   you are very warm, you may **sweat**; as the sweat dries, it cools your skin (S-098).
 6. **Close (5 min).** Say it together: "when I work, my body warms; when I rest, it
    cools." Now you have read all three signals — heartbeat, breathing, and warmth.
 
@@ -154,10 +154,8 @@ signals from Lessons 1–3 and adds the third: warmth.
 
 ## Resources
 
-- Nemours KidsHealth — why bodies sweat (child-friendly):
-  <https://kidshealth.org/en/kids/sweat.html>
-- World Health Organization — physical activity fact sheet:
-  <https://www.who.int/news-room/fact-sheets/detail/physical-activity>
+- On working muscles making heat and sweat cooling the skin as it evaporates: Nemours
+  KidsHealth — heart, lungs, sweat, and muscles (S-098).
 
 ## Home connection
 

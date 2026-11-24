@@ -84,9 +84,9 @@ last_updated: 2026-08-17
 
 ## Summary
 
-Learners meet great achievements from **non-European civilizations** — **Great Zimbabwe's**
-stone city, the **Library of Timbuktu**, **Benin's** brass plaques, the **Maya's** star
-records, **Machu Picchu**, and the **Baghdad House of Wisdom** — and describe one using a
+Learners meet great achievements from **non-European civilizations** (S-199) —
+**Great Zimbabwe's** stone city, the **Library of Timbuktu** (S-201), **Benin's** brass plaques, the **Maya's** star
+records (S-204), **Machu Picchu** (S-200), and the **Baghdad House of Wisdom** — and describe one using a
 **what–how–shows** frame. They see that building, art, and learning are made by many
 peoples, each showing what its society valued and could do.
 
@@ -176,14 +176,13 @@ shows about them — and add it to your gallery.
 
 ## Resources
 
-- Great Zimbabwe, a stone city of the 11th–15th centuries CE built without mortar and the
-  center of a trading kingdom, is a UNESCO World Heritage site
-  (<https://whc.unesco.org/en/list/364/>). Timbuktu's manuscripts and the city's role as a
-  center of learning are documented by UNESCO (Memory of the World,
-  <https://www.unesco.org/en/memory-world>). The Benin bronzes, brass plaques cast with the
-  lost-wax method, are held and studied at the British Museum and are the subject of ongoing
-  returns to Nigeria. Maya astronomy and the calendar are documented by the Smithsonian
-  Institution and the Maya themselves. Machu Picchu is a UNESCO World Heritage site
-  (<https://whc.unesco.org/en/list/274/>). The Baghdad House of Wisdom (Bayt al-Hikma) is
-  documented in the history of science. Dates and details are as scholars currently understand
-  them and may be revised.
+- On Great Zimbabwe as a stone city of the eleventh to fifteenth centuries, built without
+  mortar, at the centre of a trading kingdom: UNESCO World Heritage Centre — Great
+  Zimbabwe National Monument, <https://whc.unesco.org/en/list/364/> (S-199).
+- On Timbuktu's manuscripts and its role as a centre of learning: UNESCO — Memory of the
+  World (Timbuktu manuscripts), <https://www.unesco.org/en/memory-world> (S-201).
+- On Machu Picchu as an Andean stone city built with tightly fitted stones: UNESCO World
+  Heritage Centre — Historic Sanctuary of Machu Picchu,
+  <https://whc.unesco.org/en/list/274/> (S-200).
+- On Maya astronomy and calendar records: Smithsonian Institution — Maya astronomy,
+  <https://www.si.edu/> (S-204).

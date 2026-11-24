@@ -134,7 +134,7 @@ unfairness from their own life.
 5. **Hear the repair (5 min).** Finish the story: someone does help, and the
    character is included and cared for. How does that feel now?
 6. **Close (5 min).** Noticing unfairness, kindly, is the first step. Standing up and
-   helping is the next — and anyone can do it.
+   helping is the next — and anyone can do it (S-231).
 
 ## Differentiation
 
@@ -163,3 +163,9 @@ unfairness from their own life.
 With a grown-up, think of a story you both know where someone was treated unfairly.
 What happened, and what could someone do to help? (Only share a real-life one if you
 want to.)
+
+## Resources
+
+- On noticing another person's perspective as a well-studied route to caring and
+  prosocial behavior: Decety & Cowell — Empathy, Perspective-Taking, and Morality
+  (S-231).

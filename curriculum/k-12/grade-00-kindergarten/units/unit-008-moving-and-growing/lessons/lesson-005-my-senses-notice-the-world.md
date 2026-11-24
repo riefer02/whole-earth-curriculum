@@ -87,7 +87,7 @@ sensing, and explore safe objects to discover what each sense tells them.
 
 ## Connection
 
-Your senses are always on, telling you about the world. Your eyes see a bird fly
+Your senses are always on, telling you about the world (S-031). Your eyes see a bird fly
 overhead, your ears hear a pot bubbling in the kitchen, your nose smells bread baking,
 your tongue tastes a sweet fruit, and your hands feel the warmth of the sun on your
 skin. Every person's senses work a little differently — some people hear less and feel
@@ -144,6 +144,10 @@ safe, adult-approved food.
 - **Formative (observation):** Can the learner name the senses and point to the body
   part used for each?
 - **Artifact (portfolio):** The learner's drawing of a sense at work.
+
+## Resources
+
+- On the five senses: BBC Bitesize (KS1) — What are the senses? (S-031).
 
 ## Home connection
 

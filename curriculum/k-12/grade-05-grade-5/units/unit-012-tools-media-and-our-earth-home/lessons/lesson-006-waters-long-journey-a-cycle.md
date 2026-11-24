@@ -87,7 +87,8 @@ last_updated: 2026-08-17
 Learners trace **water** through its **cycle** — ocean to evaporation to clouds to rain to
 rivers, ground, plants, animals, and people, and back. They learn the one rule every arrow
 follows (the direction water actually travels) and **why** the cycle turns: the **Sun's heat
-pushes water up**, **gravity pulls it down**, and **water is reused, not made new**. They build
+pushes water up**, **gravity pulls it down**, and **water is reused, not made new**
+(S-212; S-213). They build
 a labeled cycle diagram and connect it to the water in their own lives.
 
 ## Objectives
@@ -168,8 +169,9 @@ someone where that water was before and where it will go next.
 
 ## Resources
 
-- The water cycle — evaporation, condensation, precipitation, and collection, driven by the
-  Sun's energy and gravity — is documented by the U.S. Geological Survey (USGS, "The Water
-  Cycle") and NASA Earth science, and is standard elementary science worldwide. The framing
-  that water is reused rather than created new follows the conservation-of-matter idea taught
-  in this grade band (`docs/development.md`).
+- On the water cycle — evaporation, condensation, precipitation and collection — driven
+  by the Sun's energy and gravity: USGS — Water Science School, The Water Cycle,
+  <https://www.usgs.gov/special-topics/water-science-school/science/fundamentals-water-cycle>
+  (S-212).
+- On the same cycle documented by NASA Earth science: NASA — GPM Precipitation
+  Education, The Water Cycle, <https://gpm.nasa.gov/education/water-cycle> (S-213).

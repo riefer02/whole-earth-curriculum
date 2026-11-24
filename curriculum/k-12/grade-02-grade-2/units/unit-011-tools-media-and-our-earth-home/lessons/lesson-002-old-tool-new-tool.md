@@ -85,7 +85,7 @@ last_updated: 2026-08-16
 
 Learners compare an old tool and a new tool that do the **same job** and name what
 **changed**. A mortar and pestle and an electric grinder both grind grain; a needle and a
-sewing machine both join cloth; a water jug and a hand pump both move water. They notice
+sewing machine both join cloth; a water jug and a hand pump both move water (S-062). They notice
 that the new tool is often faster or more powerful, and often needs **electricity** — and
 that the old tool still works where there is no power. New is not better; it is just
 different.
@@ -98,10 +98,10 @@ different.
 ## Connection
 
 How did your family make food this morning — by hand, or with a machine? In many homes a
-person grinds grain by hand with a stone mortar and pestle; in others an electric grinder
-does it. Both do the same job. The difference is what changed: the machine is faster, but
-it needs electricity, and the hand tool works anywhere. That is what it means to compare
-an old tool and a new tool.
+person grinds grain by hand with a stone mortar and pestle; in others an electric
+grinder does it. Both do the same job. The difference is what changed: the machine is
+faster, but it needs electricity, and the hand tool works anywhere. That is what it
+means to compare an old tool and a new tool.
 
 ## Materials
 
@@ -184,12 +184,11 @@ Non-speaking: point to old or new, and to a picture for "faster" or "needs elect
 
 ## Home connection
 
-At home, find one job your family does with a tool. Ask a grown-up: how did people do this
-job long ago, before the new tool? Tell them what changed and which way your family uses.
+At home, find one job your family does with a tool. Ask a grown-up: how did people do
+this job long ago, before the new tool? Tell them what changed and which way your family
+uses.
 
 ## Resources
 
-- Encyclopaedia Britannica, "Sewing Machine" — the sewing machine was patented in the
-  1800s (Howe, 1846) and let people sew much faster than by hand, supporting the
-  old-vs-new comparison.
-  https://www.britannica.com/technology/sewing-machine
+- On the sewing machine and how it mechanized joining cloth: Encyclopaedia Britannica
+  — Sewing Machine (S-062).

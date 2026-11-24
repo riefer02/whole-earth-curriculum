@@ -82,7 +82,7 @@ last_updated: 2026-08-15
 
 Learners practice suggesting a way to make things right after a small hurt — return
 what was taken, fix what was broken, ask what would help — and learn that repair,
-not punishment, heals the hurt so everyone can be well again.
+not punishment, heals the hurt so everyone can be well again (S-161).
 
 ## Objectives
 
@@ -183,5 +183,7 @@ sorry that matters, and check everyone is okay.
 
 ## Resources
 
-- International Institute for Restorative Practices (repairing harm rather than only
-  punishing): <https://www.iirp.edu/>
+- On repair rather than punishment as the response to harm: Zehr — Changing Lenses
+  (restorative justice) (S-161).
+- On restorative practices in schools and communities: International Institute for
+  Restorative Practices (S-022).

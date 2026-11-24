@@ -90,7 +90,7 @@ describe a few real things, learning that observing is how science begins.
 Every day, without thinking about it, you use your body to know the world: your eyes
 see the color of a mango, your ears hear the rain, your nose smells warm bread, your
 tongue tastes a fruit, your skin feels the sun. These are your **five senses** — and
-they are the very first tools of a scientist, wherever you live.
+they are the very first tools of a scientist, wherever you live (S-031).
 
 ## Materials
 
@@ -159,7 +159,5 @@ you heard. That is your ears doing science.
 
 ## Resources
 
-- BBC Bitesize (KS1 Science), "What are the senses?" — the five main senses (hearing,
-  sight, smell, taste, and touch) and how each one helps us learn about the world
-  around us.
-  https://www.bbc.co.uk/bitesize/topics/z6882hv/articles/zsbntrd
+- On the five senses and how they help us learn about the world: BBC Bitesize (KS1
+  Science), "What are the senses?" (S-031).

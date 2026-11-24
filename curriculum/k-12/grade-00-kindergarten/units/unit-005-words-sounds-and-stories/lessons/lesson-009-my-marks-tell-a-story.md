@@ -85,7 +85,7 @@ feelings.
 
 Long before you could write letters or characters, you could make marks — lines, dots,
 swirls. A mark can stand for an idea, a feeling, or a whole story. The marks you make
-are already writing, because they carry meaning from you to someone else.
+are already writing, because they carry meaning from you to someone else (S-165).
 
 ## Materials
 
@@ -134,6 +134,10 @@ what they "should" mean.
 - **Formative (observation):** Can the learner make a mark and explain its meaning?
 - **Artifact (portfolio):** The learner's three marks, kept with a dictated caption of
   what each means.
+
+## Resources
+
+- On the world's writing systems: Daniels & Bright (eds.) — The World's Writing Systems (S-165).
 
 ## Home connection
 

@@ -122,12 +122,12 @@ other, and the mystery number is what makes both sides equal.
 **The facts to land.**
 1. This is the first formal **variable**: a letter standing for an unknown.
 2. Both sides of an equation are equal, and the unknown is what makes them so (Van de
-   Walle, Karp & Bay-Williams, 2019). Model *n* + 3 = 7, find *n* = 4, then check by
-   substitution.
+   Walle, Karp & Bay-Williams, 2019, S-026). Model *n* + 3 = 7, find *n* = 4, then check
+   by substitution.
 3. This builds on Grade 3's missing-number problems (Carpenter, Fennema, Franke, Levi &
-   Empson, 2015).
+   Empson, 2015, S-025).
 4. The idea of an unknown, and of balancing quantities, is found across mathematical
-   traditions; the letters are one convention among many (Ifrah, 2000).
+   traditions; the letters are one convention among many (Ifrah, 2000, S-023).
 
 **Don't overshoot.** A letter is a tool for a job, not a scary symbol, and the pace at
 which a learner meets variables is not a measure of their worth.
@@ -188,11 +188,10 @@ in.
 
 ## Resources
 
-- Carpenter, T. P., Fennema, E., Franke, M. L., Levi, L., & Empson, S. B. (2015).
-  *Children's Mathematics: Cognitively Guided Instruction* (2nd ed.). Heinemann.
-  (Missing-number problems as the base for equations with unknowns.)
-- Van de Walle, J. A., Karp, K. S., & Bay-Williams, J. M. (2019). *Elementary and
-  Middle School Mathematics: Teaching Developmentally* (10th ed.). Pearson.
-  (The balance model and variables in early algebra.)
-- Ifrah, G. (2000). *The Universal History of Numbers*. John Wiley & Sons. (Symbols
-  for unknowns as one convention among many.)
+- On missing-number problems as the base for equations with unknowns: Carpenter,
+  Fennema, Franke, Levi & Empson — Children's Mathematics: Cognitively Guided
+  Instruction (S-025).
+- On the balance model and variables in early algebra: Van de Walle, Karp & Bay-Williams
+  — Elementary and Middle School Mathematics: Teaching Developmentally (S-026).
+- On symbols for unknowns as one convention among many: Ifrah — The Universal History of
+  Numbers (S-023).

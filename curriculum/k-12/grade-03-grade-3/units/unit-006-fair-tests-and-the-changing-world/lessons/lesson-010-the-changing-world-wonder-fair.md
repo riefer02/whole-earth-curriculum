@@ -125,7 +125,7 @@ is always, slowly, changing. **Water** carries a river's curve a little deeper e
 year; **wind** piles sand into dunes; **ice** freezes in a crack and pries the rock
 apart. These forces have been shaping the land for longer than anyone can count. And
 that is the whole unit in one idea: the world changes — and you now know how to watch
-it, test it, and find out.
+it, test it, and find out (S-079).
 
 ## Materials
 
@@ -207,7 +207,6 @@ Wonder together — and keep watching the changing world around you.
 
 ## Resources
 
-- BBC Bitesize (Scotland, 2nd level), "Coastlines: erosion" — how the sea wears away
-  the land over time (erosion), one way the changing world reshapes the landscape; and
-  the unit's other topics for families to revisit together.
-  https://www.bbc.co.uk/bitesize/articles/z7rwdp3
+- On erosion — how water wears away rock, soil and land over time: BBC Bitesize (Scotland,
+  2nd level) — Coastlines: erosion (S-079).
+

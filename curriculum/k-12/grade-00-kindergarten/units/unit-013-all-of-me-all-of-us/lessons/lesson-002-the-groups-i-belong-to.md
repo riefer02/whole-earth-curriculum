@@ -85,7 +85,7 @@ themselves inside each one. They notice that every person is part of more than o
 
 ## Connection
 
-You are one person, and you also belong to many groups — your family, your class, and
+You are one person, and you also belong to many groups (S-508) — your family, your class, and
 your community. Everywhere you go, you are part of more than just yourself. Today you
 name the groups that make you part of an "us."
 
@@ -137,6 +137,10 @@ better than another. Let each child name the groups that are true for them.
   and point to a person in it?
 - **Artifact (portfolio):** The "me in my groups" picture, kept in the learner's
   portfolio.
+
+## Resources
+
+- On personhood through community: Ubuntu — Southern African philosophy of personhood ('a person is a person through other persons') (S-508).
 
 ## Home connection
 

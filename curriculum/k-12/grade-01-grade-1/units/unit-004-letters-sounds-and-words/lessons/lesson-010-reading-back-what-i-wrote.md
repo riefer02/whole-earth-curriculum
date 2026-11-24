@@ -71,7 +71,7 @@ last_updated: 2026-08-15
 
 Learners write a simple word or two, then read them back, checking that the marks
 say what they meant. Reading back closes the loop between writing and reading and
-builds confidence that their marks carry meaning.
+builds confidence that their marks carry meaning (S-172).
 
 ## Objectives
 
@@ -137,3 +137,9 @@ reading their own writing, and it counts equally.
 
 Write a word, leave it somewhere a family member will find it, and read it to them
 when they do.
+
+## Resources
+
+- On monitoring whether what one has written or read makes sense, as a comprehension
+  strategy: Duke & Pearson — Effective Practices for Developing Reading Comprehension
+  (S-172).

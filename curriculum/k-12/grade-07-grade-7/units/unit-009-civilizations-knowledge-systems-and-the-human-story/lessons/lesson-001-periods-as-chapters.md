@@ -95,7 +95,7 @@ Think about a book you love, or a TV season, or your own life so far. A story th
 never paused would be impossible to hold in your head. So we cut it into chapters —
 "the part before I moved," "the year we got the dog," "this year, now." Historians do
 the same thing with the whole human story: they cut one endless line into chapters so
-they can hold it, compare it, and talk about it. The trick is remembering that *we*
+they can hold it, compare it, and talk about it (S-314). The trick is remembering that *we*
 draw the lines.
 
 ## Materials
@@ -175,3 +175,5 @@ why.
   documented and treated here as a global-egalitarian caution, not a ranking.
 - On explicit instruction for novice content: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On periodization as a convention historians choose rather than a fact of nature: Encyclopaedia Britannica — Historiography (periodization) (S-314).
+

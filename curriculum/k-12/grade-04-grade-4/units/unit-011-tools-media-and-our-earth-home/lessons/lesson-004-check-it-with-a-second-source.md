@@ -98,12 +98,12 @@ conclusion that says what to believe and why.
 
 ## Connection
 
-Someone tells you something surprising — "an octopus has three hearts!" or "it always rains
-more in the afternoon." How do you know whether to believe it? You don't have to decide on one
-voice. You **check**: find a **second source** — another book, another person, another page — and
-**compare** them. If both say the same thing, you can believe it more; if they **disagree**, you
-look closer. This is what careful people everywhere do, from a market seller checking a price to
-a scientist checking a result.
+Someone tells you something surprising — "an octopus has three hearts!" or "it always
+rains more in the afternoon." How do you know whether to believe it? You don't have to
+decide on one voice. You **check**: find a **second source** — another book, another
+person, another page — and **compare** them. If both say the same thing, you can believe
+it more; if they **disagree**, you look closer (S-151). This is what careful people
+everywhere do, from a market seller checking a price to a scientist checking a result.
 
 ## Materials
 
@@ -129,7 +129,7 @@ a scientist checking a result.
    conclude.
 2. Two sources that agree make us *more* confident, not less trusting.
 3. Oral knowledge — a grandparent's account — is a real source, and can be checked
-   against a book just as a book can be checked against another book.
+   against a book just as a book can be checked against another book (S-263).
 4. If two sources disagree, "I am not sure yet — I need a third source" is a fine,
    honest answer.
 
@@ -146,7 +146,7 @@ is the subject, not the person.
 how sure you are.
 
 Teach it with a worked example first, then guided practice (Kirschner, Sweller & Clark,
-2006).
+2006, S-011).
 
 **Access:** read sources aloud for a learner who is blind or has low vision; a learner
 who does not speak points to "agree" or "disagree"; acting out "one voice versus two
@@ -198,9 +198,11 @@ conclude.
 
 ## Resources
 
-- Common Sense Education, "News & Media Literacy" — checking claims against more than one source
-  and comparing them before believing.
-  https://www.commonsense.org/education/digital-citizenship/topic/news-and-media-literacy
-- National Association for Media Literacy Education (NAMLE), "Key Questions" — asking where a
-  claim comes from and whether it can be checked.
-  https://namle.org/resources/key-questions/
+- On checking claims against more than one source and comparing them before believing:
+  Common Sense Education — News & Media Literacy (S-063).
+- On asking where a claim comes from and whether it can be checked: NAMLE — Key
+  Questions to Ask When Analyzing Media Messages (S-151).
+- On primary and secondary sources, and how one account is checked against another: U.S.
+  National Archives — Primary and Secondary Sources (S-263).
+- On worked examples and guided practice: Kirschner, Sweller & Clark — Why Minimal
+  Guidance During Instruction Does Not Work (S-011).

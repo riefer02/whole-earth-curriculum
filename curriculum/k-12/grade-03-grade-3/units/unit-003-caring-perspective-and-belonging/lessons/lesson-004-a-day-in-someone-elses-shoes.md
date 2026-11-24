@@ -98,7 +98,7 @@ uses a wheelchair, it may be too high to reach. To a new student who does not ye
 the language, the teacher's words are a blur. To a grandparent, the floor may feel far
 down and the noise very loud. It is the *same room*, but it is a different room to each
 person in it. Imagining another person's day in a place you know well is how you learn
-to make that place kinder for everyone.
+to make that place kinder for everyone (S-092).
 
 ## Materials
 
@@ -124,7 +124,7 @@ empathy into the power to make a place fairer. Invite many kinds of people acros
 cards, including older people, people who are Deaf or hard of hearing, people who use
 mobility aids, and people new to a language — and welcome learners to add their own.
 Read the procedure aloud; model one full "day" first, then let learners try (Kirschner,
-Sweller & Clark, 2006).
+Sweller & Clark, 2006, S-011).
 
 ## Procedure
 
@@ -165,5 +165,8 @@ there.
 
 ## Resources
 
-- CASEL SEL Framework (social awareness competency):
-  <https://casel.org/fundamentals-of-sel/>
+- On the same classroom holding different barriers for different children, and on removing
+  them so every child can take part: UNICEF — Inclusive education (S-092).
+- On modeling a skill before learners try it: Kirschner, Sweller & Clark (2006) — Why
+  Minimal Guidance During Instruction Does Not Work (S-011).
+

@@ -87,7 +87,7 @@ doing nothing; it is how we hold the game open for everyone.
 
 Waiting is the quiet part of every game — the moment before your turn, the pause while
 someone else goes. It is not nothing; it is the part that keeps the game fair for
-everyone. When you wait and then pass the thing along, you keep the play going for the
+everyone (S-001). When you wait and then pass the thing along, you keep the play going for the
 whole circle.
 
 ## Materials
@@ -137,7 +137,7 @@ turns and sharing.
 ## Resources
 
 - CASEL SEL Framework (foundational competencies):
-  <https://casel.org/fundamentals-of-sel/>
+  <https://casel.org/fundamentals-of-sel/> (S-001)
 
 ## Home connection
 

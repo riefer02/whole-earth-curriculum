@@ -104,7 +104,7 @@ How did your family get water today — from a tap, a well, a pump, or a river? 
 almost everyone carried water by hand in a jug or a bucket. The job is the same — getting
 water — but the tool changed the way it is done: a tap and pipes bring water right to the
 house, so the job is faster and easier. That is what it means to compare a job then and
-now.
+now (S-062).
 
 ## Materials
 
@@ -191,7 +191,6 @@ traveling — and how it is done now. Tell them what changed and which way your 
 
 ## Resources
 
-- Encyclopaedia Britannica, "Sewing Machine" — the sewing machine (patented in the 1800s)
-  let people sew much faster than by hand, a real example of a tool changing the way a job
-  was done.
-  https://www.britannica.com/technology/sewing-machine
+- On the sewing machine as a worked example of a tool changing how fast and how easily a
+  job is done: Encyclopaedia Britannica — Sewing Machine (S-062).
+

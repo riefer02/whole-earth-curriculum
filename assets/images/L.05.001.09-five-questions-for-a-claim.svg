@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="t-l0500109 d-l0500109">
+  <title id="t-l0500109">Five questions for any claim</title>
+  <desc id="d-l0500109">A claim card reads "AquaTowel absorbs twice as much." An arrow leads to five numbered questions: who says it, what exactly is claimed, what evidence is shown, was the test fair and repeated, and what is left out. A note at the bottom says a verdict needs a reason.</desc>
+  <rect width="512" height="512" fill="#fdfbf7"/>
+
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Five Questions for Any Claim</text>
+  <text x="256" y="64" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">ask them in order</text>
+
+  <!-- claim card -->
+  <rect x="106" y="76" width="300" height="52" rx="10" fill="#ffffff" stroke="#e0a458" stroke-width="3"/>
+  <text x="256" y="96" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the claim</text>
+  <text x="256" y="117" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">AquaTowel absorbs twice as much</text>
+  <line x1="256" y1="128" x2="256" y2="146" stroke="#4f6d7a" stroke-width="2"/>
+  <polygon points="256,152 250,140 262,140" fill="#4f6d7a"/>
+
+  <!-- question rows -->
+  <rect x="70" y="156" width="372" height="48" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="94" cy="180" r="13" fill="#4f6d7a"/>
+  <text x="94" y="185" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#ffffff">1</text>
+  <text x="118" y="185" font-family="sans-serif" font-size="13" fill="#222222">Who says it?</text>
+
+  <rect x="70" y="212" width="372" height="48" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="94" cy="236" r="13" fill="#4f6d7a"/>
+  <text x="94" y="241" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#ffffff">2</text>
+  <text x="118" y="241" font-family="sans-serif" font-size="13" fill="#222222">What exactly is claimed?</text>
+
+  <rect x="70" y="268" width="372" height="48" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="94" cy="292" r="13" fill="#4f6d7a"/>
+  <text x="94" y="297" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#ffffff">3</text>
+  <text x="118" y="297" font-family="sans-serif" font-size="13" fill="#222222">What evidence is shown?</text>
+
+  <rect x="70" y="324" width="372" height="48" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="94" cy="348" r="13" fill="#4f6d7a"/>
+  <text x="94" y="353" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#ffffff">4</text>
+  <text x="118" y="353" font-family="sans-serif" font-size="13" fill="#222222">Was the test fair — and repeated?</text>
+
+  <rect x="70" y="380" width="372" height="48" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="94" cy="404" r="13" fill="#7a9e7e"/>
+  <text x="94" y="409" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#ffffff">5</text>
+  <text x="118" y="409" font-family="sans-serif" font-size="13" fill="#222222">What is left out?</text>
+
+  <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">A verdict needs a reason, not a feeling.</text>
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">supported · not supported · not yet</text>
+</svg>

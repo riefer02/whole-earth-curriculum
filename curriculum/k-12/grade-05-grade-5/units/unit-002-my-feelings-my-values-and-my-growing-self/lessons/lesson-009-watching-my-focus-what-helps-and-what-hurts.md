@@ -134,7 +134,7 @@ from their own experience. See `docs/contexts.md` on self-paced, low-tech struct
 2. **Meet helps and hurts (10 min).** Look at the chart. Two columns: **what helps my
    focus** (a quiet spot, a clear plan, a glass of water, a short break) and **what hurts
    it** (noise, hunger, a ringing phone, tiredness, a wandering worry). Some of these you
-   can change; some you can only notice and work around. Naming them is the first step.
+   can change; some you can only notice and work around (S-097). Naming them is the first step.
 3. **Try a task and watch (20 min).** Begin the short task. Every few minutes, at the
    signal, pause and ask yourself: *Where is my attention right now? What helped it stay?
    What pulled it away?* Jot one word on your focus-monitor page. Then return to the
@@ -170,3 +170,7 @@ someone.
 - Attention monitoring and metacognition are well-studied in learning science; for a
   classroom-friendly summary, see CASEL's self-management competency:
   <https://casel.org/fundamentals-of-sel/>
+
+- On changing the situation itself (not only one's willpower) to make a hard task
+  easier to stay with: Duckworth, Gendler & Gross (2016), *Perspectives on Psychological
+  Science*, <https://doi.org/10.1177/1745691615623247> (S-097).

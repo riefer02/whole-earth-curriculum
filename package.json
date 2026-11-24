@@ -14,6 +14,7 @@
     "audit:ci": "node tools/audit/hygiene.mjs --strict",
     "audit:reflow": "node tools/audit/reflow-notes.mjs",
     "lint:sources": "node tools/citation-lint/lint.mjs",
+    "sources:find": "node tools/audit/find-source.mjs",
     "sources:index": "node tools/report/source-usage.mjs",
     "test:citation-lint": "node --test tools/citation-lint/*.test.mjs",
     "test:support-form": "node --test infra/support-form/src/*.test.mjs",
