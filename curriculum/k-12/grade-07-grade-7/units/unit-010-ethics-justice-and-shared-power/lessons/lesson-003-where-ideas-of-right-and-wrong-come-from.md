@@ -111,21 +111,34 @@ polite while doing opposite things. Before you can reason *with* someone, it hel
 
 ## Facilitator note
 
-The ideas to land: **(1) what a person thinks is right is shaped by their background
-(how and where they grew up), their culture (the shared ways of a people), and their
-position (their role — parent or child, owner or worker, host or guest, powerful or
-powerless); (2) this shaping is not a flaw — it is simply true of everyone, including
-us; (3) understanding a view is not the same as agreeing with it.** Hold the difference
-between "understand" and "agree" carefully: learners may understand why someone holds a
-view and still disagree with it, and that is legitimate. The ethics lens: we reason
-about values more honestly when we know where they come from. The egalitarian lens:
-position matters — people with more power and people with less often see "fair"
-differently, and neither view is automatically right. The global lens: use examples from
-many places, and invite learners' own practices without ranking any tradition above
-another (see philosophy §11 — no one culture is the default). The critical-thinking
-lens: ask "where does that idea come from?" about every view, including our own. Do not
-require any learner to disclose personal or family information; the web may be completed
-with invented or general examples.
+**Tone.** Curious, not relativist. Everyone has a position, and understanding is not
+agreeing.
+
+**The facts to land.**
+
+1. What a person thinks is right is shaped by their **background** (how and where they
+   grew up), their **culture** (the shared ways of a people), and their **position**
+   (their role — parent or child, owner or worker, host or guest, powerful or
+   powerless).
+2. This shaping is **not a flaw**: it is true of everyone, including us.
+3. **Understanding a view is not the same as agreeing with it.** Learners may understand
+   why someone holds a view and still disagree, and that is legitimate.
+
+**Don't overshoot.** Do not slide into "everyone is right" or "nobody can judge." The
+shaping explains a view; it does not settle it.
+
+**The lenses, briefly.**
+
+- *Ethics:* we reason about values more honestly when we know where they came from.
+- *Egalitarianism:* people with more power and people with less often see "fair"
+  differently, and neither view is automatically right.
+- *Global:* use examples from many places, invite learners' own practices, and rank no
+  tradition above another (`docs/philosophy.md` §11).
+- *Critical-thinking:* ask "where does that idea come from?" of every view, including
+  our own.
+
+**The skill.** Complete the web of where an idea comes from. No learner must disclose
+personal or family information; invented or general examples are fine.
 
 ## Procedure
 

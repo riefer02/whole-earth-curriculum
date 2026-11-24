@@ -114,20 +114,32 @@ work (they always have); it is who benefits, who is left holding the cost, and w
 
 ## Facilitator note
 
-The idea to land: **automation rearranges work — it raises productivity and can free
-people from drudgery, but it can also displace and deskill workers, and the gains and
-losses fall on different people; the decisive question is who holds the power to
-decide.** Keep the facts hedged: automation's net effect on employment is debated and
-varies by sector and place, not a single verdict. The **technology** lens is the spine —
-this is what technology does to work. The **egalitarian** lens: the gains (profit,
-cheaper goods) often accrue to owners, while the losses (jobs, skills, wages) fall on
-workers, and the digital divide shapes who can adapt (S-281). The **global** lens:
-automation lands differently in a rice field, a garment factory, and an office — there
-is no single story. The **ethics** lens: deciding how work changes is a moral choice,
-not just an efficiency calculation. The **environment** lens: automation can use more
-energy and materials, or less — weigh both. Distinguish evidence (what changed) from
-values (whether the change is fair) (philosophy §5). Preview: next lesson we build a
-method for weighing an emerging technology's promises and risks.
+**Tone.** Sober: no doom, no boosterism — follow the gains and the losses.
+
+**The facts to land.**
+
+1. Automation rearranges work: it raises productivity and can free people from drudgery,
+   and it can displace and deskill workers. The decisive question is who holds the power
+   to decide.
+2. Its net effect on employment is debated and varies by sector and place: there is no
+   single verdict.
+3. Gains (profit, cheaper goods) often accrue to owners, while losses (jobs, skills,
+   wages) fall on workers, and the digital divide shapes who can adapt (S-281).
+
+**Don't overshoot.** No single story: automation lands differently in a rice field, a
+garment factory, and an office.
+
+**The lenses, briefly.**
+
+- *Technology:* the spine — this is what technology does to work.
+- *Egalitarianism:* who gains and who loses, named separately.
+- *Global:* the same machine means different things in different economies.
+- *Ethics:* how work changes is a moral choice, not only an efficiency calculation.
+- *Environment:* automation can use more energy and materials, or less — weigh both.
+
+**The skill.** Model once, then release (S-011): weigh one automation for owners,
+workers, and the Earth, keeping evidence (what changed) apart from values (whether it is
+fair).
 
 ## Procedure
 

@@ -111,20 +111,37 @@ elder to help. Today you will describe a conflict and name a peaceful way.
 
 ## Facilitator note
 
-This lesson separates **conflict** (a disagreement, which is normal and healthy) from
-**violence** (hurting, which is not needed to solve it). Keep conflicts small, everyday,
-and blame-free — no one is "bad" for wanting the same swing; the question is only *how*
-we solve it. Offer three peaceful ways and let learners choose: **talk it through**
-(both sides say what they need), **take turns** (share the thing or the time), and **get
-help** (ask a trusted grown-up or peer to help both be heard). Getting help is strength,
-not weakness — people everywhere turn to an elder, a neighbor, or a friend. A learner
-who does not speak aloud describes the conflict by pointing to a card and shows the
-peaceful way by pointing, signing, or acting; a learner who is deaf or hard of hearing
-follows each conflict through the cards and sign; a learner who is blind or low-vision
-hears the conflict described and names the peaceful way aloud; a learner with a motor
-difference can direct a partner to move the puppets. Never ask a learner to confess a
-real, private conflict; invented or acted conflicts are welcome, and a learner may
-always pass.
+**Tone.** Calm. Conflict is normal; violence is not needed.
+
+**The facts to land.**
+
+1. **Conflict** is a disagreement — normal and healthy. **Violence** is hurting, never
+   needed to solve anything.
+2. Keep conflicts small, everyday, and blame-free: no one is "bad" for wanting the same
+   swing; the question is *how* we solve it.
+3. Three peaceful ways: **talk it through** (both sides say what they need), **take
+   turns** (share the thing or the time), **get help** (ask a trusted grown-up or peer).
+4. **Getting help is strength, not weakness** — people everywhere turn to an elder, a
+   neighbour, or a friend.
+
+**Don't overshoot.** Never ask a learner to confess a private conflict; invented ones
+are welcome, and a learner may pass.
+
+**The lenses, briefly.**
+
+- *Ethics:* both sides are heard, not just the louder one.
+- *Egalitarianism:* pointing or signing solves it as fully as speaking.
+- *Social-emotional:* name the need before the solution.
+- *Community:* help is available in the group.
+- *Global:* elders, neighbours, and friends are turned to everywhere.
+- *Critical-thinking:* choose a way and predict if it works.
+
+**The skill.** Name the conflict, then choose a peaceful way and try it.
+
+**Access.** Non-speaking: describe the conflict by pointing to a card, and show the
+peaceful way by pointing, signing, or acting. Deaf or hard of hearing: follow each
+conflict through the cards and sign. Blind or low-vision: hear the conflict described
+and name the way aloud. Motor difference: direct a partner to move the puppets.
 
 ## Procedure
 

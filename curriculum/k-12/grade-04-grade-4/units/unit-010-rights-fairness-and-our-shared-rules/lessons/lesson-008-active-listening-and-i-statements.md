@@ -121,20 +121,37 @@ disagreement fairly.
 
 ## Facilitator note
 
-This is a **skill** lesson, so teach it with a worked example and guided practice
-(Kirschner, Sweller & Clark, 2006): model the exchange with puppets once, then have
-learners rehearse in pairs before any independent use. Name the two moves clearly: **"I"
-statement** (I feel ___ when ___ because ___; I need ___.) and **active listening**
-(face the speaker, hear them, reflect back "I hear that you feel ___"). Emphasize that
-"I" statements name *feelings and needs*, not blame — they are not a magic script, and
-sometimes the first try is clumsy; practice makes them real. Use only invented, gentle
-disagreements; never have learners role-play a real, live conflict in the class (that
-could embarrass someone). A learner who does not speak aloud fills the frame by pointing
-to feeling-word cards or signing; a learner who is deaf or hard of hearing follows the
-frames through sign and the cards; a learner who is blind or low-vision hears the frames
-read and practices aloud; a learner with a motor difference can direct a partner or use
-a communication aid. A learner may always pass. The goal is a learner who can, in their
-own way, say "I feel ___" and then listen — the two halves of a fair talk.
+**Tone.** Warm and rehearsing — clumsy first tries are part of it.
+
+**The facts to land.**
+1. **"I" statement:** I feel ___ when ___ because ___; I need ___.
+2. **Active listening:** face the speaker, hear them, reflect back — "I hear that you
+   feel ___."
+3. "I" statements name *feelings and needs*, not blame; they are not a magic script, and
+   practice makes them real.
+
+**Don't overshoot.** Do not present the script as a guaranteed fix. The first try is
+often clumsy, and that is expected.
+
+**The lenses, briefly.**
+- *Ethics:* the statement names a need, not a fault.
+- *Egalitarianism:* both halves of the talk belong to both people.
+- *Social-emotional:* invented disagreements keep it safe.
+- *Community:* the pair practices together.
+- *Critical-thinking:* which half did you just do?
+
+**The skill.** Say an I-statement, then listen and reflect back.
+
+This is a **skill** lesson: model the exchange with puppets, then rehearse in pairs
+before independent use (Kirschner, Sweller & Clark, 2006).
+
+**Safety floor.** use only invented, gentle disagreements; never have learners role-play a
+real, live conflict in the class.
+
+**Access:** a learner who does not speak fills the frame by pointing to feeling-word
+cards; a learner who is deaf or hard of hearing follows the frames through sign and the
+cards; a learner who is blind or has low vision hears the frames read and practices
+aloud; a learner with a motor difference directs a partner or uses a communication aid.
 
 ## Procedure
 

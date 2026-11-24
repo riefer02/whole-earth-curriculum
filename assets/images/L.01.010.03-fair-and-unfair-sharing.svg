@@ -34,7 +34,7 @@
   <circle cx="66" cy="272" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="80" cy="270" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="88" cy="260" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="66" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">5 crackers</text>
+  <text x="60" y="296" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">5 crackers</text>
 
   <!-- child B (right, light skin, empty, sad) -->
   <circle cx="128" cy="150" r="11" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
@@ -47,7 +47,7 @@
   <line x1="133" y1="192" x2="135" y2="214" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
   <!-- empty plate -->
   <ellipse cx="128" cy="266" rx="16" ry="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="128" y="296" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">0 crackers</text>
+  <text x="132" y="296" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">0 crackers</text>
 
   <text x="95" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">someone left out</text>
 
@@ -69,7 +69,7 @@
   <circle cx="212" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="228" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="244" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="222" y="296" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">3 crackers</text>
+  <text x="219" y="296" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">3 crackers</text>
 
   <!-- child B (right, light skin, standing) -->
   <circle cx="288" cy="150" r="11" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
@@ -84,7 +84,7 @@
   <circle cx="272" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="288" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="304" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="296" y="296" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">3 crackers</text>
+  <text x="297" y="296" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">3 crackers</text>
 
   <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">everyone gets the same</text>
 
@@ -108,7 +108,8 @@
   <circle cx="382" cy="264" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="376" cy="276" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="390" cy="274" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="366" y="296" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">very hungry: 4</text>
+  <text x="378" y="290" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">very hungry</text>
+  <text x="378" y="306" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">4 crackers</text>
 
   <!-- child B (right, not hungry, light skin) -->
   <circle cx="442" cy="150" r="11" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
@@ -122,11 +123,12 @@
   <!-- 2 crackers -->
   <circle cx="432" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="448" cy="268" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="450" y="296" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">not hungry: 2</text>
+  <text x="452" y="290" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">not hungry</text>
+  <text x="452" y="306" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">2 crackers</text>
 
   <text x="417" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42">each gets what they need</text>
 
-  <text x="256" y="403.8" text-anchor="middle" font-family="sans-serif" font-size="16.1" fill="#4f6d7a">Is fair the same amount for everyone, or what each person</text>
-  <text x="256" y="425.9" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">needs — or both?</text>
-  <text x="256" y="442" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#4f6d7a">A question to keep wondering about &#183; no one is left out</text>
+  <text x="256" y="404" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Is fair the same amount for everyone, or what each person</text>
+  <text x="256" y="424" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">needs — or both?</text>
+  <text x="256" y="454" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">A question to keep wondering about — no one is left out.</text>
 </svg>

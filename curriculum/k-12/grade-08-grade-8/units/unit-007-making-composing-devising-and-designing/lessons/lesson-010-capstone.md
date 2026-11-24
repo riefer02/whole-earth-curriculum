@@ -126,26 +126,31 @@ medium. Today you build that one picture of your own craft.
 
 ## Facilitator note
 
-It is the **closing capstone and synthesis**. The goal: **each learner recalls all eight
-goals and connects them into one web around *make, compose, devise, design* — plus
-*critique with evidence*.** The eight goals are: (1) create a series on one theme and
-reflect on its change; (2) critique an artwork with evidence, separating observation
-from judgment; (3) compose in a chosen style and reflect on the choices; (4) critique a
-musical work with evidence about elements, context, and effect; (5) devise a piece on
-one theme and reflect on its change through rehearsal; (6) critique a performance with
-evidence about movement, expression, context, and purpose; (7) design and make a working
-prototype and revise it through testing; (8) critique a design with evidence about
-function, materials, fairness, and footprint. This is a **retrieval and spacing**
-moment — having learners recall rather than re-read is what makes the learning durable
-(S-039). Keep assessment **mastery, not ranking**: a learner who cannot yet recall a
-goal simply revisits that lesson's artifact and tries again — "not yet" is information,
-never a verdict. The four lenses, together: the **critical-thinking** lens asks what
-evidence supports each claim; the **ethics** lens asks what is right and who is
-affected; the **egalitarian** lens asks who benefits and who is left out; the **global**
-lens asks how this looks in other cultures and traditions — always honoring living
-traditions with respectful questions (S-056); the **environment** lens asks what the
-made thing costs the Earth. Celebrate the collective: each learner's map is a thread in
-one class web.
+**Tone.** Celebratory and unhurried — a web, not a scoreboard.
+
+**The facts to land.**
+
+1. Each learner recalls all eight goals and connects them into one web: make, compose,
+   devise, design — plus *critique with evidence*.
+2. The eight: a series on one theme; an artwork critique; a composition in a chosen
+   style; a music critique; a devised piece; a performance critique; a working
+   prototype; a design critique.
+3. Recall, not re-reading, is what makes the learning durable (S-039).
+
+**Don't overshoot.** A learner who cannot yet recall a goal revisits that lesson's
+artifact and tries again — "not yet" is information, never a verdict.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* what evidence supports each claim?
+- *Ethics:* what is right, and who is affected?
+- *Egalitarianism:* who benefits, and who is left out?
+- *Global:* how does this look in other cultures and traditions — honoring living
+  traditions with respectful questions (S-056)?
+- *Environment:* what does the made thing cost the Earth?
+
+**The skill.** Build the map aloud; check each thread against its source, then celebrate
+the collective — each learner's map is a thread in one class web.
 
 ## Procedure
 

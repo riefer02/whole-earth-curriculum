@@ -107,23 +107,34 @@ in different directions. You will learn to tell them apart and to use them on a 
 
 ## Facilitator note
 
-It opens strand 2. The three ideas are **distinct and real**, so teach them explicitly
-with a worked example before independent application (S-011): **equal treatment**
-(everyone the same — a core of formal equality), **need** (those in greater need get
-more — the distributive idea), and **restitution** (those who were harmed are made whole
-again — the repair idea; S-161, S-022) — an idea with deep roots in Indigenous
-peacemaking circles and Ubuntu, not only in Western theory. These map onto long-standing
-debates in the theory of justice (S-388). Hold them as *ideas to compare*, not a menu
-where one is "correct" (philosophy §11). The egalitarianism lens is central: ask *who is
-left out by each idea* — equal treatment can ignore unequal need; need can ignore past
-harm; restitution alone may not feed anyone tomorrow. The ethics lens: choosing is
-itself a moral act, and the standard is a *reasoned choice*, not a "right" answer. The
-critical-thinking lens: the same word "fair" hides three different ideas — learning to
-name them is the skill. When learners disagree, that is the point: have them name
-*which* idea of justice they are using, and the disagreement often becomes clearer.
-Distinguish description from value: the three ideas describe *ways* of being just; the
-learner's choice among them is a value judgment to be defended, not graded (philosophy
-§5).
+**Tone.** Open and exact — "fair" is three ideas, not one.
+
+**The facts to land.**
+
+1. **Equal treatment:** everyone the same — the core of formal equality.
+2. **Need:** those in greater need get more — the distributive idea.
+3. **Restitution:** those harmed are made whole — the repair idea (S-161, S-022), with
+   deep roots in Indigenous peacemaking circles and Ubuntu, not only Western theory. The
+   three map onto long-standing debates in the theory of justice (S-388).
+
+**Don't overshoot.** Do not present them as a menu with one "correct" answer; hold them
+as ideas to compare (`philosophy` §11).
+
+**The lenses, briefly.**
+
+- *Ethics:* choosing is itself a moral act; the standard is a reasoned choice, not a
+  "right" answer.
+- *Egalitarianism:* ask who is left out by each idea — equal treatment can ignore unequal
+  need; need can ignore past harm; restitution alone may not feed anyone tomorrow.
+- *Critical-thinking:* the same word "fair" hides three different ideas; naming them is
+  the skill.
+
+**The skill.** Teach the three explicitly with a worked example (S-011), then have
+learners name *which* idea of justice they are using when they disagree — the
+disagreement often becomes clearer.
+
+**Evidence and values.** The three ideas describe ways of being just; the learner's
+choice among them is a value judgment to defend, not to grade (`philosophy` §5).
 
 ## Procedure
 

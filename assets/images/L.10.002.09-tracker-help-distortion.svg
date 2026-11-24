@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24.1" font-weight="bold" fill="#2b3a42">Tech in My Pocket: Help or Distortion?</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Tech in My Pocket: Help or Distortion?</text>
 
   <!-- Watch -->
   <g transform="translate(76,150)">
@@ -20,9 +20,9 @@
   <!-- Help side (left labels) -->
   <text x="60" y="360" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#7a9e7e">helps</text>
   <g font-family="sans-serif" font-size="14" fill="#222222">
-    <text x="60" y="384" text-anchor="middle">steps</text>
-    <text x="60" y="404" text-anchor="middle">activity</text>
-    <text x="60" y="424" text-anchor="middle">rest</text>
+    <text fill="#222222" font-size="14" x="60" y="384" text-anchor="middle">steps</text>
+    <text fill="#222222" font-size="14" x="60" y="404" text-anchor="middle">activity</text>
+    <text fill="#222222" font-size="14" x="60" y="424" text-anchor="middle">rest</text>
   </g>
 
   <!-- Phone screen -->
@@ -38,9 +38,9 @@
   <!-- Distortion side (right labels) -->
   <text x="376" y="388" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#8a5a1a">distorts</text>
   <g font-family="sans-serif" font-size="14" fill="#222222">
-    <text x="376" y="412" text-anchor="middle">streaks</text>
-    <text x="376" y="432" text-anchor="middle">comparisons</text>
-    <text x="376" y="452" text-anchor="middle">"not enough"</text>
+    <text fill="#222222" font-size="14" x="376" y="412" text-anchor="middle">streaks</text>
+    <text fill="#222222" font-size="14" x="376" y="432" text-anchor="middle">comparisons</text>
+    <text fill="#222222" font-size="14" x="376" y="452" text-anchor="middle">"not enough"</text>
   </g>
 
   <!-- Scale beam between them -->

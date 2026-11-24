@@ -117,36 +117,40 @@ question is the same — and it is a question of respect, not disrespect, to ask
 
 ## Facilitator note
 
-The idea to land: **we can honor a tradition and still weigh its evidence honestly — the
-two are not enemies.** The evidence ladder is the core skill: an **anecdote** (one
-person's story) is weak evidence; a **correlation** (two things travel together) is
-suggestive but proves no cause; a **randomized controlled trial** (people assigned to
-practice or control) is strong; a **systematic review** (many trials pooled and
-assessed) is the strongest. For mind-body practices, the honest summary is *mixed and
-maturing*: there is evidence that breath control can help the body return to calm
-(S-340), that physical activity improves mood and reduces symptoms of depression and
-anxiety through real mechanisms (S-408), and that the stress response itself is
-physiological (S-338) — while many specific claims (about particular teas, "detoxes," or
-a single practice curing illness) rest on far weaker ground. Hold this with **humility
-and respect**: "weak evidence" describes the *claim*, never the *people* who hold it,
-and a tradition may carry value (community, meaning, rest) that a trial does not measure
-(philosophy §5, §11).
+**Tone.** Honest and unhurried: weigh claims without contempt.
 
-The **ethics** lens: asking for evidence is a form of care, not contempt — but it must
-never be used to sneer at another culture's wisdom; distinguish "what the evidence
-supports" from "what is worthy of respect" (they are different questions). The
-**global** lens: scientific methods are themselves one cultural tradition, now shared
-across the world — not a superior one, but a useful tool we can all wield. The
-**egalitarian** lens: everyone deserves the same honest standard, whether the claim
-comes from a clinic or a market stall. The **technology & environment** lens: the feeds,
-search engines, and social platforms that spread claims reward what grabs attention, not
-always what is true — so the evidence ladder matters more, not less, in a connected
-world — and the "wellness" products many claims sell also carry environmental costs
-worth asking about. The **critical-thinking** lens: watch for the **placebo effect**
-(feeling better because you expect to) and for the leap from "anecdote" to "proof." The
-**social-emotional** lens: weighing a practice someone loves can feel personal; keep the
-tone respectful and let learners choose their example. Preview: this same evidence skill
-returns in Lesson 10 for diets.
+**The facts to land.**
+
+1. We can honour a tradition and still weigh its evidence honestly; the two are not
+   enemies.
+2. The ladder: an **anecdote** is weak, a **correlation** suggests but proves no cause,
+   a **randomised controlled trial** is strong, a **systematic review** strongest.
+3. The summary is *mixed and maturing*: breath control helps the body settle (S-340);
+   activity eases depression and anxiety symptoms through real mechanisms (S-408); the
+   stress response is physiological (S-338). Tea, "detox", and one-cure claims rest on
+   much weaker ground.
+
+**Don't overshoot.** "Weak evidence" describes the *claim*, never the people who hold
+it; a tradition may carry value no trial measures (philosophy §5, §11).
+
+**The lenses, briefly.**
+
+- *Intellectual:* the ladder is the skill; place each claim on a rung and say why.
+- *Critical-thinking:* watch for the **placebo effect** and the leap from anecdote to
+  proof.
+- *Ethics:* asking for evidence is care, not contempt; never sneer at another
+  culture's wisdom.
+- *Global:* scientific method is one cultural tradition, now shared — useful, not
+  superior.
+- *Egalitarianism:* everyone deserves the same honest standard, from clinic or market
+  stall.
+- *Social-emotional:* weighing a practice someone loves can feel personal; let
+  learners choose the example.
+- **Technology & environment:** feeds reward what grabs attention, and "wellness"
+  products carry environmental costs.
+
+**The skill.** Model once, then release (S-011): place two claims on the ladder and say
+what would move one up; Lesson 10 reuses it.
 
 ## Procedure
 

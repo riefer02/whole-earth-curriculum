@@ -115,30 +115,38 @@ compare, and what we do with the feeling afterward.
 
 ## Facilitator note
 
-The ideas to land: **(1) social comparison is a normal, universal human tendency, not a
-personal defect; (2) online feeds are curated and edited, so they skew comparison —
-typically toward "upward" comparison with polished versions of others; (3) the healthy
-move is not to stop feeling but to notice the comparison and choose a response.** The
-first comes from Festinger's social-comparison theory (S-221); the second from the body
-of research on media, technology, and adolescent development (S-226) and from WHO's
-balanced account of social media's effects on adolescent mental health (S-311). Hold the
-causal claims with care: the evidence says curated content *can* distort self-image and
-that comparison *can* shape mood — not that screens simply "cause" illness (S-226,
-S-311). This is a *balanced, non-alarmist* treatment (philosophy §11, §12).
+**Tone.** Warm and non-alarmist. Nearly everyone in the room uses these platforms daily;
+the target is **discernment**, not abstinence and not shame.
 
-Model the skill once, then let learners practice (S-011). The **technology** lens is the
-heart: name the mechanism — feeds rank and reward polished, high-engagement content
-(S-481), and filter bubbles show a narrow slice of others' lives (S-482). The
-**egalitarian** lens: whose lives are shown as "successful" in a feed is not neutral;
-the same platform can lift some images and hide others. The **ethics** lens: honesty
-about the gap between a person's feed and their real life is a kindness — to oneself and
-to others, who are also showing only their highlights. The **global** lens: the pressure
-to curate a perfect life is not the same everywhere; different cultures value different
-kinds of "showing," and no single idea of success is universal. The **social-emotional**
-lens: this topic can touch real sore spots — invite, never force; learners choose what
-to share, and "pass" is always allowed. The **critical-thinking** lens: this is practice
-in distinguishing the *image* from the *evidence* — a feed is a chosen story, not a
-measurement.
+**The facts to land.**
+
+1. Social comparison is a normal human tendency, not a personal defect (S-221).
+2. Feeds are curated and edited, so they skew comparison toward polished, "upward"
+   versions of other people's lives (S-226, S-311).
+3. The healthy move is not to stop feeling but to notice the comparison and choose a
+   response.
+
+**Don't overshoot.** The evidence says curated content *can* distort self-image and
+comparison *can* shape mood — not that screens simply cause illness (S-226, S-311;
+philosophy §11, §12).
+
+**The lenses, briefly.**
+
+- *Technology:* feeds rank and reward polished, high-engagement content (S-481), and
+  filter bubbles show a narrow slice of others' lives (S-482).
+- *Egalitarianism:* whose lives appear "successful" in a feed is not neutral; the same
+  platform lifts some images and hides others.
+- *Ethics:* honesty about the gap between a feed and a real life is a kindness to
+  oneself and to others who show only highlights.
+- *Global:* the pressure to curate differs across cultures; no single idea of success
+  is universal.
+- *Social-emotional:* this touches sore spots — invite, never force; "pass" is always
+  allowed.
+- *Critical-thinking:* practise telling the *image* from the *evidence*; a feed is a
+  chosen story, not a measurement.
+
+**The skill.** Model once, then release (S-011): take one post that stings, name the
+comparison, and say what the feed cannot show you.
 
 ## Procedure
 

@@ -54,7 +54,7 @@ context_variants:
     note: Discuss second-hand smoke in shared outdoor spaces and how to step away politely from smoke
 assets:
   - path: assets/images/L.08.008.06-tobacco-effects.svg
-    alt: A body outline with labeled spots showing nicotine reaches the brain and can cause addiction, and tobacco smoke harms the lungs, heart, and blood vessels
+    alt: "A figure in soft silhouette inside the frame. A leader from the brain reads “nicotine reaches it in about 10 seconds — that is how addiction begins”. A leader from the chest reads “lungs — smoke damages the airways”. A leader from the heart reads “heart and vessels — strained and narrowed by nicotine”. A band at the bottom says second-hand smoke harms the people nearby, too, and most teens do not smoke."
     kind: image
     source: original
 duration_minutes: 50
@@ -113,36 +113,39 @@ yourself with clear eyes.
 
 ## Facilitator note
 
-It opens the unit's substance strand, and the tone is everything: **factual, calm, and
-non-shaming — never moralizing, never fear, and never insulting people who use
-tobacco.** The facts to land: **(1) nicotine reaches the brain in seconds and is highly
-addictive (S-374); (2) tobacco smoke harms the lungs, heart, and blood vessels, and is a
-leading preventable cause of death worldwide (S-374); (3) second-hand smoke harms the
-people around the smoker, too (S-374); (4) the developing adolescent brain is especially
-sensitive to nicotine, so delaying use is protective.** The critical-thinking lens is
-central: connect to Grade 7's marketing literacy — the tobacco and vaping industries
-have a long history of designing products and ads to make use look glamorous and
-universal; learners already know how to tell claims from evidence. The WHO tobacco page
-documents this directly (tobacco advertising, promotion and sponsorship "increases and
-sustains tobacco use by effectively recruiting new tobacco users" — S-374); S-312 is the
-Grade-7 food-marketing-literacy frame that taught the tell-claims-from-evidence skill
-itself. Deliver the **norms correction** that prevention science supports: *in most
-places, the large majority of teenagers do not smoke or vape* — "everyone does it" is a
-myth, and saying so is itself protective (S-374; frame as a general, hedged truth). The
-egalitarian lens: tobacco companies have historically marketed hardest to particular
-groups and to lower-income countries; the burden of tobacco falls unequally, which is a
-justice matter. The global lens: tobacco's harms are global, and many countries now
-restrict tobacco advertising and raise the age of sale — and this lesson honors
-Indigenous and ceremonial uses of tobacco as distinct from commercial smoking, without
-ranking them. The technology & environment lens: tobacco is also a story of tools and
-land — new devices such as vapes are a technology engineered to deliver nicotine
-quickly, and growing tobacco and discarding its waste leave a footprint on the
-environment — so the choice is never only personal. The ethics lens: a safe, informed
-choice protects our own body and the people who breathe the air around us. Teach
-**refusal as a skill** (worked examples: "No thanks, I don't smoke"; "I'm good — my
-lungs are for running"; walk away; suggest something else), and always point to a
-trusted adult for help. A learner who has already tried tobacco is never shamed — they
-are met with facts and support.
+**Tone.** Factual, calm, and non-shaming — never moralizing, never fear, never insulting
+people who use tobacco.
+
+**The facts to land.**
+
+1. Nicotine reaches the brain in seconds and is highly addictive (S-374).
+2. Tobacco smoke harms lungs, heart, and blood vessels; it is a leading preventable
+   cause of death, and second-hand smoke harms people nearby (S-374).
+3. The developing adolescent brain is especially sensitive to nicotine; delaying use is
+   protective.
+4. In most places, the large majority of teenagers do not smoke or vape — "everyone does
+   it" is a myth (S-374).
+
+**Don't overshoot.** A learner who has tried tobacco is met with facts and support,
+never shame; one experiment is not destiny.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* read the industry claim — advertising "increases and sustains
+  tobacco use by effectively recruiting new tobacco users" (S-374); S-312 is Grade 7's
+  marketing-literacy frame.
+- *Egalitarianism:* companies marketed hardest to particular groups and lower-income
+  countries; the burden falls unequally.
+- *Global:* harms are global; many countries restrict ads and raise the sale age;
+  Indigenous ceremonial uses are distinct from commercial smoking, honored without
+  ranking.
+- *Technology & environment:* vapes deliver nicotine fast by design, and tobacco growing
+  and waste leave a footprint.
+- *Ethics:* a safe choice protects our body and the people who breathe near us.
+- *Physical:* nicotine acts on brain, lungs, heart, and vessels.
+
+**The skill.** Teach refusal as a skill: "No thanks, I don't smoke"; "my lungs are for
+running"; walk away; suggest something else. Point to a trusted adult for help.
 
 ## Procedure
 

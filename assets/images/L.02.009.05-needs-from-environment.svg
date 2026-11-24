@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="42.2" text-anchor="middle" font-family="sans-serif" font-size="18.4" font-weight="bold" fill="#2b3a42">What People Need From the Environment</text>
+  <text x="256" y="42.2" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">What People Need From the Environment</text>
   <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Four needs everyone shares &#183; many ways to meet them</text>
 
   <!-- card frames -->
@@ -50,5 +50,5 @@
   <path d="M452 330 L462 342 L440 342 Z" fill="#4f6d7a"/>
 
   <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">The need is the same &#183; the way is shaped by place</text>
-  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="15.8" fill="#4f6d7a">A river, a well, the rain &#183; a farm, the sea, a market</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A river, a well, the rain &#183; a farm, the sea, a market</text>
 </svg>

@@ -117,18 +117,34 @@ an old tool and a new tool.
 
 ## Facilitator note
 
-Hold the unit's stance carefully: teach technology with **neither worship nor fear**. A
-new tool is not "better" simply because it is new — it is often faster or more powerful,
-and it often needs electricity that not everyone has. An old tool is not "worse" simply
-because it is old — it works anywhere, never runs out of power, and people still use it
-every day. Both are real tools made by people to solve a problem (retrieval: link back
-to Lesson 1). Use examples from many places so no one home is the default: a hand water
-pump in a village, a mortar and pestle in a kitchen, a sewing machine in a workshop.
-Distinguish evidence from values: "the machine is faster" is a fact; "the machine is
-better" is a value judgment — and at this age we hold them apart gently. Honor every
-body: a learner who is blind or has low vision can feel the old tool and hear the new
-one described; a non-speaking learner can point to old or new and to a picture for
-"faster" or "needs electricity."
+**Tone.** Even-handed. Teach technology with **neither worship nor fear**.
+
+**The facts to land.**
+
+1. A new tool is not "better" because it is new: it is often faster or more powerful,
+   and it often needs electricity that not everyone has.
+2. An old tool is not "worse" because it is old: it works anywhere, never runs out of
+   power, and people still use it every day.
+3. Both are real tools made by people to solve a problem (retrieval: Lesson 1).
+4. **Distinguish evidence from values**: "the machine is faster" is a fact; "the machine
+   is better" is a value judgment.
+
+**Don't overshoot.** Use examples from many places so no home is the default — a hand
+water pump in a village, a mortar and pestle in a kitchen, a sewing machine in a
+workshop — and never let "new" stand in for "best."
+
+**The lenses, briefly.**
+
+- *Technology:* tool and problem, old or new.
+- *Global:* every place has its own tools; none is the baseline.
+- *Egalitarianism:* a tool that needs no electricity is not a lesser tool.
+- *Critical-thinking:* hold the fact and the value apart.
+
+**The skill.** Compare an old and a new tool, then say which claim is fact and which is
+value.
+
+**Access.** Blind or low-vision: feel the old tool and hear the new one described.
+Non-speaking: point to old or new, and to a picture for "faster" or "needs electricity."
 
 ## Procedure
 

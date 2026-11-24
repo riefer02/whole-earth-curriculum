@@ -35,5 +35,5 @@
   <path d="M312 366 Q312 362 320 362 Q328 362 328 366 L328 372 L312 372 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
   <circle cx="316" cy="384" r="9" fill="none" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="334" cy="384" r="9" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14.8" fill="#222222">Design chooses who can move. Different choices widen the door.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#222222">Design chooses who can move. Different choices widen the door.</text>
 </svg>

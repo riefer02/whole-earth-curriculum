@@ -85,6 +85,6 @@
   <text x="324" y="446" font-family="sans-serif" font-size="12" fill="#4f6d7a">beat 4</text>
 
   <line x1="40" y1="470" x2="472" y2="470" stroke="#d8d3ca" stroke-width="2"/>
-  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="14.8" fill="#2b3a42">same beat grid, plus a pitch ladder — a melody anyone can read</text>
-  <text x="256" y="526" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#4f6d7a">people around the world notate music in many ways — this is one shared way</text>
+  <text x="256" y="498" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42">same beat grid, plus a pitch ladder — a melody anyone can read</text>
+  <text x="256" y="526" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">people around the world notate music in many ways — this is one shared way</text>
 </svg>

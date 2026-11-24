@@ -6,24 +6,24 @@
     <!-- four nodes -->
     <g>
       <rect x="70" y="70" width="150" height="96" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
-      <text x="145" y="100" font-size="17">choose a goal</text>
-      <text x="145" y="124" font-size="13">(what do I</text>
-      <text x="145" y="142" font-size="13">want to learn?)</text>
+      <text fill="#222222" text-anchor="middle" x="145" y="100" font-size="17">choose a goal</text>
+      <text fill="#222222" text-anchor="middle" x="145" y="124" font-size="13">(what do I</text>
+      <text fill="#222222" text-anchor="middle" x="145" y="142" font-size="13">want to learn?)</text>
     </g>
     <g>
       <rect x="292" y="70" width="150" height="96" rx="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="3"/>
-      <text x="367" y="100" font-size="17">find resources</text>
-      <text x="367" y="126" font-size="12">(people, places, tools)</text>
+      <text fill="#222222" text-anchor="middle" x="367" y="100" font-size="17">find resources</text>
+      <text fill="#222222" text-anchor="middle" x="367" y="126" font-size="12">(people, places, tools)</text>
     </g>
     <g>
       <rect x="292" y="300" width="150" height="72" rx="14" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
-      <text x="367" y="330" font-size="17">check progress</text>
-      <text x="367" y="356" font-size="14.2">(how will I know?)</text>
+      <text fill="#222222" text-anchor="middle" x="367" y="330" font-size="17">check progress</text>
+      <text fill="#222222" text-anchor="middle" x="367" y="356" font-size="14">(how will I know?)</text>
     </g>
     <g>
       <rect x="70" y="300" width="150" height="72" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="3"/>
-      <text x="145" y="330" font-size="17">adjust &amp; go on</text>
-      <text x="145" y="356" font-size="13">(what will I change?)</text>
+      <text fill="#222222" text-anchor="middle" x="145" y="330" font-size="17">adjust &amp; go on</text>
+      <text fill="#222222" text-anchor="middle" x="145" y="356" font-size="13">(what will I change?)</text>
     </g>
   </g>
   <!-- arrows -->

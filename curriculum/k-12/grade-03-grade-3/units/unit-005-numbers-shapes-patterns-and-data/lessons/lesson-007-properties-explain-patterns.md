@@ -118,18 +118,33 @@ trick into understanding.
 
 ## Facilitator note
 
-It deepens yesterday's pattern work by adding the **properties of operations** as
-*explanations* — the new skill is connecting a pattern to the property that causes it.
-Teach with **worked examples** (philosophy §13): build 3 × 4, turn it to 4 × 3
-(commutative); build 7 × 6, split it into 5 × 6 and 2 × 6 (distributive); group (2 + 3)
-+ 4 and 2 + (3 + 4) (associative). The goal is the *why*, not the vocabulary — children
-can say "turn it" and "split it" and still be doing real mathematics (Van de Walle et
-al., 2019). **Understanding a property is not a race; a child who can show it with
-objects but not name it has understood it.** These properties are human discoveries
-shared across traditions; no single people owns them. Count in the home language. For
-learners who are Deaf or hard of hearing, show the turn and split with signs and arrays;
-for learners who are blind or low-vision, turn and split tactile arrays in the hands.
-Learners with limited movement direct a partner. Mastery arrives at its own pace.
+**Tone.** Reasoning-forward — the *why* matters more than the word.
+
+**The facts to land.**
+1. A property explains why a pattern holds: **commutative** (3 × 4 turns to 4 × 3),
+   **distributive** (7 × 6 splits into 5 × 6 and 2 × 6), **associative** ((2 + 3) + 4
+   groups as 2 + (3 + 4)).
+2. Children can say "turn it" and "split it" and still be doing real mathematics (Van de
+   Walle et al., 2019).
+3. These properties are human discoveries shared across traditions; no people owns them.
+
+**Don't overshoot.** The goal is the why, not the vocabulary. A learner who shows the
+turn but cannot name it has understood it.
+
+**The lenses, briefly.**
+- *Intellectual:* build 3 × 4 and turn it; build 7 × 6 and split it; group (2 + 3) +
+  4 and 2 + (3 + 4) — each shown first (philosophy §13).
+- *Critical-thinking:* every claim gets shown with an array, not asserted.
+- *Egalitarianism:* understanding a property is not a race; some need to hold and
+  turn the objects many times.
+- *Technology:* an array app can display the turn; let the hands do it first.
+
+**The skill.** Show the turn or the split with objects, then say why the total did not
+change.
+
+**Access:** show the turn and split with signs and arrays; turn and split tactile arrays
+in the hands; a learner with limited movement directs a partner. Mastery arrives at its
+own pace.
 
 ## Procedure
 

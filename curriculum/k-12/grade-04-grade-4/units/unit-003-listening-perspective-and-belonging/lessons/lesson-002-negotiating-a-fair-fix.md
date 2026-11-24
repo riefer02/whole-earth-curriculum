@@ -113,18 +113,34 @@ adult stepping in.
 
 ## Facilitator note
 
-This builds directly on Grade 3's "I" statements and on Lesson 1's active listening —
-so begin by having learners *recall* those, then add the new piece: turning needs into
-**options** and choosing one *both* can live with. Teach the five steps as explicit,
-worked instruction (Kirschner, Sweller & Clark, 2006), and model one full negotiation
-aloud. Protect the core idea: **fair does not mean both sides give up everything; it
-means both sides get something they need, and nobody is left out.** Watch for the
-learner who "wins" by making the other give up — name that as *not yet fair* and invite
-another option, never as a verdict on the learner. Honor every way of contributing —
-sign, gesture, picture card, written word — all count as a full voice at the table. This
-is the egalitarian heart of the unit: negotiation is how power is shared fairly between
-people. A learner who cannot yet do all five steps alone may still carry two or three;
-that is progress, and the adult (or a peer) supplies only the missing piece.
+**Tone.** Even-handed and practical — both sides get something, and nobody is left out.
+
+**The facts to land.**
+1. A fair fix is not both sides giving up everything: it is both sides getting something
+   they need, and nobody being left out.
+2. The new piece is turning needs into **options**, then choosing one both can live
+   with.
+3. The five steps are a skill to teach explicitly, as worked instruction (Kirschner,
+   Sweller & Clark, 2006).
+
+**Don't overshoot.** A learner who "wins" by making the other give up has not settled it
+— name that as *not yet fair* and invite another option, never as a verdict on the
+learner.
+
+**The lenses, briefly.**
+- *Social-emotional:* begin by recalling Grade 3's "I" statements and Lesson 1's
+  active listening.
+- *Ethics:* the agreement has to be liveable for the other person.
+- *Egalitarianism:* negotiation is how power is shared fairly; sign, gesture, picture
+  card, and written word all count as a full voice at the table.
+- *Community:* the fix belongs to both people, not to the adult.
+
+**The skill.** Say the need, offer two options, and choose one both can live with.
+
+Model one full negotiation aloud.
+
+**Differentiation:** a learner who cannot yet do all five steps may carry two or three;
+the adult or a peer supplies only the missing piece.
 
 ## Procedure
 

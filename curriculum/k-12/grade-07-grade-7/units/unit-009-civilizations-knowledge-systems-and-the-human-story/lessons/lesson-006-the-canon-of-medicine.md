@@ -115,25 +115,38 @@ achievement we meet today.
 
 ## Facilitator note
 
-The ideas to land: **(1) in the Islamic world, hospitals called bimaristans offered
-care, teaching, and pharmacy — advanced for their time; (2) Ibn Sina (Avicenna,
-980–1037, Persian, working in the Islamic world) wrote the Canon of Medicine (al-Qanun
-fi al-Tibb, c. 1025 CE), a five-volume encyclopedia; (3) it was used as a standard
-medical text for centuries, in the Islamic world and in European universities alike; (4)
-its world effect: organized care, the medical encyclopedia, and the link between
-learning and healing.** These are documented facts (see Encyclopaedia Britannica,
-"Avicenna" and "The Canon of Medicine"). Also worth naming: al-Razi (Rhazes)
-distinguished smallpox from measles — a landmark of careful observation. Model the
-journey sequence explicitly, then let learners compare (Kirschner, Sweller & Clark,
-2006). The technology lens: hospitals and medical encyclopedias are technologies of
-care — made things that changed how humans heal and teach. The global lens: this is a
-Persian-Islamic achievement built on a wider chain — it drew on earlier Greek and Indian
-medicine, and later shaped European medicine — a story of exchange, not one people's
-triumph. The egalitarian lens: naming Ibn Sina's full context (Persian, Muslim, in a
-multi-faith world of scholars) restores credit that older Eurocentric tellings often
-buried under a single Latinized name. The ethics lens: the bimaristan's idea — that the
-sick deserve a place and skilled care — is a value we can honor while noticing that not
-everyone everywhere has such care even today; that gap is a fairness question for us.
+**Tone.** Matter-of-fact. A great library of care, not a footnote.
+
+**The facts to land.**
+
+1. In the Islamic world, hospitals called **bimaristans** offered care, teaching, and
+   pharmacy — advanced for their time.
+2. **Ibn Sina** (Avicenna, 980–1037, Persian, working in the Islamic world) wrote the
+   **Canon of Medicine** (*al-Qanun fi al-Tibb*, c. 1025 CE), a five-volume
+   encyclopedia.
+3. It served as a **standard medical text for centuries**, in the Islamic world and in
+   European universities alike.
+4. Its world effect: organized care, the medical encyclopedia, and the link between
+   learning and healing. **al-Razi** (Rhazes) also distinguished smallpox from measles —
+   a landmark of careful observation.
+
+**Don't overshoot.** Do not let the Latinized name "Avicenna" stand alone; the fuller
+context — Persian, Muslim, in a multi-faith world of scholars — restores credit older
+Eurocentric tellings buried.
+
+**The lenses, briefly.**
+
+- *Technology:* hospitals and medical encyclopedias are technologies of care.
+- *Global:* a Persian-Islamic achievement built on Greek and Indian medicine and later
+  shaping European medicine — exchange, not one people's triumph.
+- *Egalitarianism:* crediting the whole chain is a small act of fairness.
+- *Ethics:* the bimaristan's idea — the sick deserve a place and skilled care — is a
+  value we can honor while noticing that not everyone has such care today; that gap is a
+  fairness question for us.
+
+**The skill.** Model the journey sequence explicitly, then let learners compare
+(Kirschner, Sweller & Clark, 2006). See Encyclopaedia Britannica, "Avicenna" and "The
+Canon of Medicine."
 
 ## Procedure
 

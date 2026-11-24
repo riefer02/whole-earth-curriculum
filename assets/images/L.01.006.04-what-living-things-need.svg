@@ -9,12 +9,21 @@
   <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">What Living Things Need</text>
 
   <!-- Central plant -->
-  <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" fill="none">
-    <line x1="256" y1="252" x2="256" y2="180"/>
-    <path d="M256 224 Q238 216 234 198"/>
-    <path d="M256 208 Q274 200 278 182"/>
+  <g stroke="#2b3a42" stroke-width="2" stroke-linejoin="round">
+    <path d="M256 252 L256 168" stroke="#7a9e7e" stroke-width="5" stroke-linecap="round" fill="none"/>
+    <path d="M256 230 Q230 226 222 204 Q248 202 256 224 Z" fill="#7a9e7e"/>
+    <path d="M256 206 Q282 202 290 180 Q264 178 256 200 Z" fill="#7a9e7e"/>
+    <g fill="#e0a458">
+      <circle cx="256" cy="144" r="9"/>
+      <circle cx="268" cy="152" r="9"/>
+      <circle cx="264" cy="166" r="9"/>
+      <circle cx="248" cy="166" r="9"/>
+      <circle cx="244" cy="152" r="9"/>
+    </g>
+    <circle cx="256" cy="156" r="8" fill="#f7e6cc"/>
+    <circle cx="253" cy="156" r="1.6" fill="#2b3a42" stroke="none"/>
+    <circle cx="259" cy="156" r="1.6" fill="#2b3a42" stroke="none"/>
   </g>
-  <circle cx="256" cy="176" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <path d="M232 252 Q256 268 280 252" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   <!-- roots -->
   <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round" fill="none">
@@ -58,5 +67,5 @@
   </g>
 
   <!-- Footer -->
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">Food, water, air, and shelter — for every living thing, everywhere.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Food, water, air, and shelter — for every living thing, everywhere.</text>
 </svg>

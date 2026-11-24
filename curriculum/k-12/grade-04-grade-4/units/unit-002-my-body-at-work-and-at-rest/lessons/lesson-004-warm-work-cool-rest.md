@@ -54,7 +54,7 @@ context_variants:
     note: Learners ready to extend measure air temperature before and after moving and describe what a thermometer does and does not measure
 assets:
   - path: assets/images/L.04.002.04-warm-work-cool-rest.svg
-    alt: Two child figures side by side. The left figure sits still and is labeled "rest — cooler," with soft shading. The right figure runs and is labeled "work — warmer," with warm shading and small sweat-drop marks, showing the body warms with activity
+    alt: "Two children — one sitting cross-legged on a cool tint labelled “rest — cooler”, one running with three sweat drops on a warm tint labelled “work — warmer”. Caption — working muscles make heat."
     kind: image
     source: original
 duration_minutes: 50

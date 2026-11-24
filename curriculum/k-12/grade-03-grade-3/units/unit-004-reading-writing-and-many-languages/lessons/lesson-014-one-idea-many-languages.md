@@ -109,19 +109,34 @@ in many beautiful ways, none above another.
 
 ## Facilitator note
 
-Comparing languages is an act of noticing, not ranking: guide learners to hear and see
-that each language says the same idea in its own way, and that every version is equally
-good (UNESCO's mother-language value holds that every language is a bearer of dignity).
-Keep it script-agnostic — the idea may be written in any script, spoken, or signed; a
-sign language version stands exactly as high as any spoken one. Model the compare: "this
-one sounds like…, this one looks like…, yet both mean the same thing." Invite every
-learner's home language into the chart, each entry equal in size, none above another.
-This is an egalitarian and ethical moment: no language is "better" or "more correct,"
-and no accent is wrong. A learner who is Deaf or hard of hearing contributes and
-compares in sign. Where a recording or a translation tool is used, notice what the tool
-does — it can bring many voices into the room — and what it cannot do: it cannot carry
-the warmth of the person who lives that language. A tool shows the words; the people in
-the circle carry the living voice. A tool is a helper, never a replacement.
+**Tone.** Delighted and even-handed — the room holds many versions of one idea, and
+every version gets the same airtime.
+
+**The facts to land.**
+1. Every language says the same idea in its own way, and every version is equally good —
+   UNESCO's mother-language value holds that every language is a bearer of dignity.
+2. No language is "better" or "more correct," and no accent is wrong.
+3. A sign language version stands exactly as high as any spoken one.
+
+**Don't overshoot.** Do not let "the same idea" flatten the differences, or let one
+language quietly become the reference the others are measured against. Each chart entry
+stays equal in size, none above another.
+
+**The lenses, briefly.**
+- *Global:* invite every home language in; keep it script-agnostic — written, spoken,
+  or signed.
+- *Egalitarianism:* comparing languages is noticing, never ranking.
+- *Ethics:* no speaker is ranked by their language; the chart shows it.
+- *Critical-thinking:* model the compare — "this one sounds like…, this one looks
+  like…, yet both mean the same thing."
+- *Technology:* a recording or translation tool brings many voices into the room, but
+  cannot carry the warmth of the person who lives that language. A tool shows words;
+  people carry the living voice.
+
+**The skill.** Say one idea two ways, then say what stayed the same.
+
+**Access:** a learner who is Deaf or hard of hearing contributes and compares in sign,
+and that entry stands as high as any spoken one.
 
 ## Procedure
 

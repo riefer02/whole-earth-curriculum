@@ -124,27 +124,36 @@ while everything else about the delivery adapts.
 
 ## Facilitator note
 
-The idea to land, held as **description**: public speech is a *craft* — word choice,
-tone, and delivery are analyzed and practiced — and one ancient tradition named three
-appeals (ethos, pathos, logos) as the means of persuasion (Aristotle, S-346). Hold that
-tradition as **one among many**: other cultures have their own arts of public speaking,
-and no single one is the default. The lesson's three commitments — clarity, care,
-integrity — are **values**, not facts; the craft of register-shifting is a describable
-skill.
+**Tone.** Practical and unpretentious: a craft to practise, not a gift to possess.
 
-The **ethics** lens: integrity is the line between *adapting* a message and *distorting*
-it; care asks who is affected by what we say. The **egalitarianism** lens: public speech
-is not reserved for the fluent or the formally educated — clarity is a form of respect
-for every listener, including those for whom the language is not their first. The
-**global** lens: what counts as respectful or persuasive delivery differs across
-cultures (eye contact, volume, directness), so no single style is the default. The
-**technology** lens: a microphone, a recording, a livestream all *amplify* — they carry
-one voice to many, and they change how care and integrity must be exercised because the
-audience can no longer be seen. The **environment** lens: use an environmental
-announcement as one purpose (a warning, a stewardship appeal) so speech is practiced on
-questions where clarity can matter for safety and for the living world. The
-**critical-thinking** lens: ask of any speaker, "what is being said clearly, and what is
-being smoothed over?" Preview: Lesson 4 turns from speaking to reading across registers.
+**The facts to land.**
+
+1. Public speech is a craft — word choice, tone, and delivery are analysed and practised
+   — and one ancient tradition named three appeals (ethos, pathos, logos) as the means
+   of persuasion (Aristotle, S-346).
+2. Hold that tradition as one among many; other cultures have their own arts of public
+   speaking, and no single one is the default.
+3. Clarity, care, and integrity are **values**, not facts; register-shifting is a
+   describable skill.
+
+**Don't overshoot.** Do not let the Greek triad stand as the definition of good speech.
+
+**The lenses, briefly.**
+
+- *Ethics:* integrity is the line between *adapting* a message and *distorting* it.
+- *Egalitarianism:* public speech is not reserved for the fluent; clarity respects every
+  listener, including those for whom the language is not their first.
+- *Global:* eye contact, volume, and directness carry different weight in different
+  cultures.
+- *Technology:* a microphone, a recording, a livestream amplify one voice to many —
+  and the audience can no longer be seen.
+- *Environment:* use an environmental announcement — a warning, a stewardship appeal —
+  so clarity is practised where it matters for safety.
+- *Critical-thinking:* ask what is being said clearly, and what is being smoothed
+  over.
+
+**The skill.** Model once, then release (S-011): rewrite one paragraph for two audiences
+without changing a single fact. Lesson 4 turns to reading across registers.
 
 ## Procedure
 

@@ -117,30 +117,37 @@ hold the account honestly, as evidence rather than as a story you must simply ac
 
 ## Facilitator note
 
-The idea to land: **the scientific account of life has two parts with different status —
-diversity by evolution and common ancestry is strongly evidenced; the first origin of
-life from non-living chemistry is an open research question — and we name both
-honestly.** Teach the evidence explicitly, then let learners sort settled from open
-(S-011). Be precise about scope: Darwin's *On the Origin of Species* is about the origin
-of *diversity*, not the origin of the first life (S-303); the first origin remains
-unresolved, with hypotheses such as an RNA world and with life's building blocks found
-in meteorites (S-499). Origins are held as evidence-grounded accounts among many — never
-as dogma (philosophy §11).
+**Tone.** Clear-eyed: two parts of one account, with different status, said plainly.
 
-The **ethics** lens: honesty about what is open and what is settled is an ethical
-discipline — overclaiming certainty about the first origin, or denying the
-well-evidenced diversity account, are both failures of the same honesty. The
-**egalitarianism** lens: the evidence is public — anyone can examine a fossil, a finch
-beak, or a genome; it does not require a title to be weighed (S-305, S-304). The
-**global** lens: the evidence was gathered worldwide — the Galápagos finches, English
-moths, and rocks of every continent — and the account is offered alongside, not above,
-the many cultural accounts people hold (S-303, S-308). The **technology** lens: DNA
-sequencing and radiometric dating are the instruments that made common ancestry and deep
-time checkable in ways earlier centuries could not (S-308). The **environment** lens:
-the account is environmental at its root — organisms are shaped by their surroundings,
-which is why a changing climate reshapes the tree of life (S-303). Preview: Lesson 8
-places this account beside cultural and spiritual accounts and works out how they
-relate.
+**The facts to land.**
+
+1. Diversity by evolution and common ancestry is strongly evidenced; the first origin of
+   life from non-living chemistry is an open research question.
+2. Darwin's *On the Origin of Species* is about the origin of *diversity*, not the first
+   life (S-303); the first origin remains unresolved, with hypotheses such as an RNA
+   world and life's building blocks found in meteorites (S-499).
+3. The evidence is public and worldwide — Galápagos finches, English moths, rocks of
+   every continent (S-303, S-308); DNA sequencing and radiometric dating made common
+   ancestry and deep time checkable (S-308), and anyone can weigh a fossil, a beak, or a
+   genome without a title (S-305, S-304).
+
+**Don't overshoot.** Origins are held as evidence-grounded accounts among many, never as
+dogma (philosophy §11); overclaiming certainty and denying the evidence are the same
+failure.
+
+**The lenses, briefly.**
+
+- *Ethics:* honesty about what is open and what is settled is a discipline, not a
+  courtesy.
+- *Egalitarianism:* the evidence is public and needs no credentials to weigh.
+- *Global:* the account is offered alongside cultural accounts, not above them.
+- *Technology:* sequencing and dating are the instruments that made the claim
+  checkable.
+- *Environment:* organisms are shaped by their surroundings, which is why a changing
+  climate reshapes the tree of life (S-303).
+
+**The skill.** Teach the evidence explicitly, then release (S-011): sort the claims into
+settled, evidenced, and open. Lesson 8 sets this account beside spiritual ones.
 
 ## Procedure
 

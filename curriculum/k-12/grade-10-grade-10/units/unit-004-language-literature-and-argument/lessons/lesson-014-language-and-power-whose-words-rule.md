@@ -122,34 +122,38 @@ and care.
 
 ## Facilitator note
 
-The idea to land: **language carries power — in law, medicine, and school, the language
-that is official, technical, or "standard" is one group's language, and everyone else
-must translate themselves into it; so language is a gate that includes some and excludes
-others, and noticing it is the first step toward language justice.** This is analysis
-*plus* values: the factual claim is that official and technical language privileges
-certain speakers; the value is that every language deserves to be a language of power
-and care. The curriculum holds multilingualism as wealth and home language first
-(S-019): globally, about 40 per cent of people do not have access to education in a
-language they speak or understand (S-019). Writers from colonized contexts have named
-this directly — Ngũgĩ wa Thiong'o argues that being made to write in the colonizer's
-language distanced him from his home world (S-424), and Gloria Anzaldúa describes living
-between languages and the demand to "tame" one's tongue (S-425) — present these as
-*lived arguments* to reflect on, not verdicts to adopt. Languages shape habitual thought
-in moderate, well-supported ways (the Sapir–Whorf tradition, held in its moderate form,
-S-168), which is *why* whose language is used matters.
+**Tone.** Plainly political, in the analytical sense: name the gate, then look for the
+key.
 
-Model the skill once, then let learners practice (worked example → guided practice →
-independent work; S-011). The **egalitarian** lens is the spine: ask of every setting
-*who is at home here and who is made a stranger?* The **ethics** lens: using jargon to
-keep people out is a quiet harm; making communication accessible is a quiet good. The
-**global** lens: official-language policies differ worldwide, and multilingual states,
-Indigenous language revitalization, and everyday code-switching all show there is no
-single "right" arrangement — describe many, rank none. The **technology** lens: machine
-translation and voice tools can *lower* the gate — but they are uneven, often favoring
-dominant languages, and can reproduce exclusion (S-281). The **critical-thinking** lens:
-distinguish the factual claim (this language is privileged here) from the value (that is
-unjust, and here is what would be fairer). Preview: Lesson 15 closes the unit with
-politeness and address — the everyday face of the same question.
+**The facts to land.**
+
+1. In law, medicine, and school, the "standard" language is one group's language, and
+   everyone else must translate themselves into it.
+2. About 40 per cent of people worldwide lack access to education in a language they
+   understand; the curriculum holds multilingualism as wealth, home language first
+   (S-019).
+3. Ngũgĩ wa Thiong'o argues that writing in the coloniser's language distanced him from
+   his home world (S-424); Anzaldúa describes living between languages and the demand to
+   "tame" one's tongue (S-425) — lived arguments, not verdicts to adopt.
+4. Languages shape habitual thought in moderate, well-supported ways (moderate
+   Sapir–Whorf, S-168) — which is why whose language is used matters.
+
+**Don't overshoot.** Keep the factual claim (this language is privileged) distinct from
+the value (that is unjust).
+
+**The lenses, briefly.**
+
+- *Egalitarianism:* the spine — who is at home here, and who is made a stranger?
+- *Ethics:* jargon that keeps people out is a quiet harm; accessible communication a
+  quiet good.
+- *Global:* official-language policies, Indigenous revitalisation, and code-switching
+  show no single right arrangement — describe many, rank none.
+- *Technology:* machine translation can lower the gate, but it is uneven and favours
+  dominant languages (S-281).
+- *Critical-thinking:* separate the fact from the value, every time.
+
+**The skill.** Model once, then release (S-011): name one gate in a document you know,
+and one way to open it.
 
 ## Procedure
 

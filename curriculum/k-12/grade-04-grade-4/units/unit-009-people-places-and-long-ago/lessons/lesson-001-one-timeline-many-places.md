@@ -126,19 +126,34 @@ many — that people count and record time.
 
 ## Facilitator note
 
-**Sequencing by date is a foundational skill, so teach it with a worked example first**
-(Kirschner, Sweller & Clark, 2006): model placing two cards, saying the date and
-checking "2560 BCE is further back than 2500 BCE, so the pyramid goes before the city."
-Then guide the rest before learners work independently. **Teach BCE/CE simply and
-honestly:** "CE means Common Era — the years most of the world now counts forward from;
-BCE means Before Common Era, the years before that point." **This is one calendar among
-many** — different peoples mark years in their own ways (Islamic, Hebrew, Chinese, and
-many others), and a timeline using BCE/CE is a shared tool, not the only truth about
-time. This is a **global story, never one people's triumph**: the events are chosen from
-Africa, South Asia, and the Americas so no single region is the "main" story. Honor
-every body: describe each card in words for a learner who cannot see it; a learner who
-does not use a speaking voice points or places the card. Dates are approximate
-("about") — that honesty is part of doing history well.
+**Tone.** Clear and even — a shared tool, not the only truth.
+
+**The facts to land.**
+1. **CE** means Common Era, the years most of the world now counts forward from; **BCE**
+   means Before Common Era, the years before that point.
+2. This is **one calendar among many** — Islamic, Hebrew, Chinese, and other peoples
+   mark years in their own ways; a BCE/CE timeline is a shared tool.
+3. The events are chosen from Africa, South Asia, and the Americas so no single region
+   is the "main" story.
+4. Dates are approximate ("about"), and that honesty is part of doing history well.
+
+**Don't overshoot.** Do not let a tidy timeline become one people's triumph, and do not
+treat a shared calendar as a claim about whose time is real.
+
+**The lenses, briefly.**
+- *Global:* one story, many places, told side by side.
+- *Intellectual:* sequencing by date is foundational, so model it first (Kirschner,
+  Sweller & Clark, 2006).
+- *Critical-thinking:* how do you know this comes first?
+- *Egalitarianism:* no region's dates set the standard.
+
+**The skill.** Place two cards, say the date, and check which is further back.
+
+Model it: "2560 BCE is further back than 2500 BCE, so the pyramid goes before the city."
+Then guide the rest before learners work independently.
+
+**Access:** describe each card for a learner who cannot see it; a learner who does not
+use a speaking voice points or places the card.
 
 ## Procedure
 

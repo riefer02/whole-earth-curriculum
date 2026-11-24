@@ -122,19 +122,34 @@ stand, cloth fit, and patterns repeat. Classifying is how you read a shape's fam
 
 ## Facilitator note
 
-Classification is the **analysis of attributes**: teach it by asking "how many pairs of
-parallel sides? how many right angles? how many equal sides?" (Van de Walle, Karp &
-Bay-Williams, 2019). Model the quadrilateral family as a **worked example** (philosophy
-§13): a parallelogram has two pairs of parallel sides; a rectangle is a parallelogram
-with four right angles; a square is a rectangle with four equal sides and a rhombus with
-four right angles. The key insight is **hierarchical classification** — one shape can
-belong to more than one group. **How quickly a learner names a category is not a measure
-of their worth; a shape's features are facts, never a judgment about a person.**
-Shape-sorting is a human and cross-cultural practice, from quilts and mosaics to roofs
-and maps (Zaslavsky, 1999). Use the home language's shape words; all are correct. For
-learners who are Deaf or hard of hearing, sign each feature; for learners who are blind
-or have low vision, feel shapes' sides and corners and sort by touch. Learners with
-limited movement direct a partner to sort. Mastery arrives at its own pace.
+**Tone.** Analytical and unhurried — the question does the teaching.
+
+**The facts to land.**
+1. Classification is the **analysis of attributes**: how many pairs of parallel sides,
+   how many right angles, how many equal sides (Van de Walle, Karp & Bay-Williams,
+   2019).
+2. The quadrilateral family: a parallelogram has two pairs of parallel sides; a
+   rectangle is a parallelogram with four right angles; a square is a rectangle with
+   four equal sides and a rhombus with four right angles.
+3. One shape can belong to more than one group — **hierarchical classification**.
+4. Shape-sorting is a cross-cultural practice, from quilts and mosaics to roofs and maps
+   (Zaslavsky, 1999).
+
+**Don't overshoot.** How quickly a learner names a category is not a measure of their
+worth; a shape's features are facts, never a judgment about a person.
+
+**The lenses, briefly.**
+- *Intellectual:* the quadrilateral family is the worked example (philosophy §13).
+- *Egalitarianism:* pace is not worth.
+- *Global:* sorting appears in every building tradition; use the home language's
+  shape words.
+- *Critical-thinking:* test the name against the attributes, not the look.
+
+**The skill.** Test a shape against two names and say which attributes make both true.
+
+**Access:** a learner who is Deaf or hard of hearing signs each feature; a learner who
+is blind or has low vision feels sides and corners and sorts by touch; a learner with
+limited movement directs a partner to sort.
 
 ## Procedure
 

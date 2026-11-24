@@ -118,32 +118,36 @@ kind, and exactly what to do if something feels wrong.
 
 ## Facilitator note
 
-**Empower, never frighten.** Teach the rules simply and positively:
+**Tone.** Empowering — the learner is the boss of their words.
 
-- **Keep private information private.** Private information is what could let a stranger
-  find or pretend to be you: your **full name**, **home address**, **school's name**,
-  **password**, and your **photo** (decide with your grown-up). Things like a favorite
-  color or game are usually okay to share. A **password** is a secret word that guards
-  your accounts — never share it with anyone but a trusted grown-up.
-- **Be kind online.** Treat people online as kindly as you would face to face. If someone
-  is unkind, do not answer back with cruelty; tell a trusted adult.
-- **Stop and tell.** If anything online feels wrong, scary, or confusing — a stranger
-  asking private questions, an unkind message, a request to meet — **stop**, **close it**,
-  and **tell a trusted adult**. Never meet an online stranger alone, and never keep a
-  secret that makes you feel bad.
+**The facts to land.**
+1. **Keep private:** your full name, home address, school's name, password, and photo
+   (decide with a grown-up). A favorite color or game is usually okay.
+2. **A password guards your accounts** — share it only with a trusted grown-up.
+3. **Be kind online**, as face to face. If someone is unkind, do not answer with
+   cruelty; tell a trusted adult.
+4. **Stop and tell:** if anything feels wrong or confusing — a stranger asking private
+   questions, an unkind message, a request to meet — stop, close it, tell a trusted
+   adult. Never meet an online stranger alone, and never keep a secret that makes you
+   feel bad.
+5. Follows widely used online-safety education (UNICEF and child-safety organizations).
 
-Frame all of this as *power*, not danger: the learner is the boss of their information
-and their words. Do not share frightening stories of online harm; if a learner asks,
-answer briefly and calmly and return to the rules. Honor that many learners have no
-device at home — the rules apply to any screen, at home, school, or a friend's. If a
-learner discloses that someone has asked them for private information or to meet, follow
-your local safeguarding procedure calmly and immediately. A learner who is blind or has
-low vision sorts by hearing each item and saying "private" or "okay"; a learner who does
-not use a speaking voice points or signs; a learner who is deaf or hard of hearing
-follows the cards and demonstration from the front, since every rule is shown, not only
-told. This guidance reflects widely used online-safety education for children (keep
-personal information private, be kind, and tell a trusted adult), as promoted by UNICEF
-and child-safety organizations. This lesson completes D03.S4.04.02 and closes the unit.
+**Don't overshoot.** Do not share frightening stories of harm.
+
+**The lenses, briefly.**
+- *Technology:* the rules apply to any screen.
+- *Ethics:* kindness does not stop at the screen.
+- *Social-emotional:* telling is strength.
+- *Egalitarianism:* many have no device at home; the rules still apply.
+
+**The skill.** Sort one item as "private" or "okay".
+
+**Safety floor.** if a learner discloses a request for private information or to meet, follow
+your local safeguarding procedure immediately.
+
+**Access:** a learner who is blind or has low vision sorts by hearing; a learner who
+does not speak points or signs; a learner who is deaf or hard of hearing follows the
+cards. Completes D03.S4.04.02; closes the unit.
 
 ## Procedure
 

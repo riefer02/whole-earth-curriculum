@@ -71,6 +71,6 @@
   <path d="M304 204 L312 192 L320 204 Z" fill="#4f6d7a"/>
   <text x="312" y="182" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">grow</text>
 
-  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#4f6d7a">Food is fuel — energy to run, play, learn, and grow.</text>
-  <text x="256" y="502" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">Every family's foods help it grow — every way of eating is worthy.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Food is fuel — energy to run, play, learn, and grow.</text>
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Every family's foods help it grow — every way of eating is worthy.</text>
 </svg>

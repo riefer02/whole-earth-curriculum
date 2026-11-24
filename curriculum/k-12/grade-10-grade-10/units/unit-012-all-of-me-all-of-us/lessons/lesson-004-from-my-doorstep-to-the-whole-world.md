@@ -112,29 +112,35 @@ place in it.
 
 ## Facilitator note
 
-The idea to land: **communities are nested — local, regional, national, global — and
-they connect in both directions, so a learner stands inside them, not beneath them.**
-"Nested communities, from family to the global community of all life" is the Grade-12
-summit of this strand; here we build its foundation. A nation is, in Benedict Anderson's
-now-classic phrase, an "imagined community" — its members will never meet most of their
-fellow-members, yet the image of their communion lives in their minds (S-415). Held as
-description, not insult: "imagined" does not mean unreal.
+**Tone.** Expansive and level: the world is not above the street, it is around it.
 
-The **global/anthropological** lens is central: no community form is the default, and
-none ranks above another — some lives are organized around a village, some around a
-diaspora, some around a chosen family; the nested model is one map, not the only one.
-The **egalitarian** lens: the chain is not a ladder with the world "above" the street;
-power and resources move unevenly along it, and noticing who is connected and who is
-left out is part of reading it honestly. The **ethics** lens: seeing the chain means
-seeing that my choices ripple outward — a purchase, a vote, a kindness. The
-**environment/technology** lens: the clearest living example of the chain is the Earth
-itself — weather, water, and species cross every human border, and the technologies that
-move food, goods, and messages are the threads that tie the circles together.
-Distinguish evidence from values: "communities connect from local to global" is
-descriptive; "every point in the web has dignity and a place to act" is a value.
+**The facts to land.**
 
-Model tracing one object once (worked example, S-011), then let learners trace their
-own.
+1. Communities are nested — local, regional, national, global — and connect in both
+   directions, so a learner stands inside them, not beneath them.
+2. A nation is an "imagined community": members never meet most fellow-members, yet the
+   image of their communion lives in their minds (Anderson, S-415). "Imagined" does not
+   mean unreal.
+3. No community form is the default: some lives organise around a village, some around a
+   diaspora, some around a chosen family, and the nested model is one map, not the only
+   one. This is the foundation for the Grade-12 summit of the strand.
+
+**Don't overshoot.** Do not let the chain become a ladder with the world "above" the
+street.
+
+**The lenses, briefly.**
+
+- *Community:* the spine — the rings are made of relationship, not distance.
+- *Global:* no form ranks above another.
+- *Egalitarianism:* power and resources move unevenly; notice who is connected and who is
+  left out.
+- *Ethics:* my choices ripple outward — a purchase, a vote, a kindness.
+- *Environment:* weather, water, and species cross every human border, and the
+  technologies that move food, goods, and messages are the threads.
+
+**The skill.** Model tracing one object once, then release (S-011). Keep the descriptive
+claim (communities connect from local to global) apart from the value (every point in
+the web has dignity and a place to act).
 
 ## Procedure
 

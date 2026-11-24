@@ -118,19 +118,33 @@ a fair share.
 
 ## Facilitator note
 
-It introduces **division** as two real actions — **sharing** (split a whole into a known
-number of groups) and **grouping** (split into groups of a known size) — the two
-meanings children meet in the world (Carpenter et al., 2015). Teach with a **worked
-example** (philosophy §13): deal twelve objects into three groups one at a time, count
-four in each, and write 12 ÷ 3 = 4 before learners try their own. Connect back to
-multiplication from the previous lesson: 3 × 4 = 12 and 12 ÷ 3 = 4 are the same fact
-seen two ways. **Fairness is the heart of it: an "unfair share" is not division — the
-shares must be equal, and no person is worth more than another.** Speed is never a
-measure of smartness; some children deal one at a time, some skip-count, and all are
-valid. Count in the home language. For learners who are Deaf or hard of hearing, deal
-with sign and tap each share; for learners who are blind or low-vision, move objects
-into cups so the hands feel each share grow equal. Learners with limited movement direct
-a partner to deal. Mastery arrives at its own pace.
+**Tone.** Even-handed and practical — both meanings are real, and both count.
+
+**The facts to land.**
+1. Division has two everyday meanings: **sharing** (a whole split into a known number of
+   groups) and **grouping** (split into groups of a known size) (Carpenter et al.,
+   2015).
+2. Division and multiplication are one fact seen two ways: 3 × 4 = 12 and 12 ÷ 3 = 4.
+3. An "unfair share" is not division — the shares must be equal.
+
+**Don't overshoot.** Do not let one meaning become the definition. Children meet both in
+the world, and a learner who names the other has read the story correctly.
+
+**The lenses, briefly.**
+- *Intellectual:* deal twelve objects into three groups one at a time, count four in
+  each, write 12 ÷ 3 = 4 — worked example first (philosophy §13).
+- *Ethics:* equal shares are a fairness commitment, not a trick of the notation.
+- *Egalitarianism:* no person is worth more than another; speed is never a measure of
+  smartness.
+- *Social-emotional:* dealing one at a time is a patient, valid strategy — name it as
+  one.
+
+**The skill.** Decide whether the story is sharing or grouping, deal it out, then check
+the shares are equal.
+
+**Access:** deal with sign and tap each share; move objects into cups so the hands feel
+each share grow equal; a learner with limited movement directs a partner. Mastery
+arrives at its own pace.
 
 ## Procedure
 

@@ -132,7 +132,7 @@ carry a group's weather across borders — a storm of feeling on one continent c
 in a room on another within an hour; and the living environment has its own shared
 states (a drought, a flood) that shape a community's emotional weather.
 
-**Emotional safety first.** This unit touches identity, values, and purpose, which are
+**Emotional safety.** This unit touches identity, values, and purpose, which are
 vulnerable. From this first day, make the ground rules explicit and non-negotiable: (1)
 no one is ever required to share a private feeling or story — "pass" is a complete
 answer; (2) we observe and name *climates* and *groups*, never to single out or shame a

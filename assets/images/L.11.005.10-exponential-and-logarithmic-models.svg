@@ -33,5 +33,5 @@
   <text x="384" y="336" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">t = log 2 / log(1 + r)</text>
   <text x="384" y="358" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">rule of 70: doubling &#8776; 70 / rate</text>
 
-  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#2b3a42" font-weight="bold">Take the log, then divide &#8212; and check by substituting back.</text>
+  <text x="256" y="400" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Take the log, then divide &#8212; and check by substituting back.</text>
 </svg>

@@ -118,20 +118,32 @@ in markets, kitchens, and journeys everywhere.
 
 ## Facilitator note
 
-It builds on Grade 2's comparing of two-digit numbers and adds **rounding** — the new
-skill is deciding which ten or hundred a number is nearer to. Teach with a **worked
-example** (philosophy §13): put 347 on the line, count the steps to 340 and to 350, and
-see that 350 is nearer; do the same for the nearest hundred. The picture is the point:
-rounding is "nearest mark," not a memorized "five or more goes up." Comparing uses the
-same line. **A number being "more" is a fact about quantities, never a worth about a
-person; no one's speed at rounding measures their smartness.** The midpoint (five) rule
-is one convention used in many school systems; the underlying idea — nearer to this mark
-than that one — is universal. Count in the home language; number words differ and all
-are correct. For learners who are Deaf or hard of hearing, mark "nearer" with hand signs
-and arrows; for learners who are blind or low-vision, use a tactile string line with
-knots at tens and hundreds so the hands can feel which mark is closer. Learners with
-limited movement direct a partner to walk the line. Mastery arrives at its own pace for
-each child.
+**Tone.** Calm and visual — the number line does the explaining, not a rhyme.
+
+**The facts to land.**
+1. Rounding means choosing the **nearest mark**: which ten or hundred a number sits
+   closest to.
+2. The midpoint rule ("five or more goes up") is one convention used in many school
+   systems; the underlying idea — nearer this mark than that one — is universal.
+3. Comparing uses the same line: the number further right is the greater.
+
+**Don't overshoot.** The picture is the point. If a learner recites "five or more goes
+up" but cannot point to the nearer mark, the lesson has not landed.
+
+**The lenses, briefly.**
+- *Intellectual:* put 347 on the line, count the steps to 340 and to 350, then do the
+  nearest hundred — a worked example, then guided practice (philosophy §13).
+- *Egalitarianism:* a number being "more" is a fact about quantities, never a worth
+  about a person; no one's speed at rounding measures their smartness.
+- *Critical-thinking:* ask "nearer to which mark?", not "what is the rule?"
+- *Global:* count in the home language; number words differ and all are correct.
+
+**The skill.** Place the number, walk to both marks, say which is nearer — then do the
+same to compare two numbers.
+
+**Access:** mark "nearer" with hand signs and arrows; use a tactile string line with
+knots at tens and hundreds; a learner with limited movement directs a partner. Mastery
+arrives at its own pace.
 
 ## Procedure
 

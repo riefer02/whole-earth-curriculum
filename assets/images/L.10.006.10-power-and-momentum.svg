@@ -7,15 +7,15 @@
   <!-- Power panel -->
   <text x="130" y="66" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a" font-weight="bold">Power: how fast work happens</text>
   <g font-family="sans-serif" font-size="13" fill="#222222">
-    <text x="50" y="96">Same work, 200 J:</text>
-    <text x="50" y="122">&#8226; done in 2 s &#8594; 100 W</text>
-    <text x="50" y="146">&#8226; done in 10 s &#8594; 20 W</text>
+    <text fill="#222222" font-size="13" x="50" y="96">Same work, 200 J:</text>
+    <text fill="#222222" font-size="13" x="50" y="122">&#8226; done in 2 s &#8594; 100 W</text>
+    <text fill="#222222" font-size="13" x="50" y="146">&#8226; done in 10 s &#8594; 20 W</text>
   </g>
   <text x="130" y="184" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">P = W &#247; t</text>
   <text x="130" y="206" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">watts = joules &#247; seconds</text>
 
   <!-- Momentum panel -->
-  <text x="386" y="66" text-anchor="middle" font-family="sans-serif" font-size="13.4" fill="#4f6d7a" font-weight="bold">Momentum: conserved in collisions</text>
+  <text x="386" y="66" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a" font-weight="bold">Momentum: conserved in collisions</text>
   <text x="300" y="100" font-family="sans-serif" font-size="13" fill="#222222">Before:</text>
   <rect x="300" y="112" width="50" height="40" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="325" y="136" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">2 kg</text>
@@ -28,7 +28,7 @@
   <rect x="410" y="188" width="46" height="38" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="386" y="238" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">total before = total after</text>
 
-  <text x="256" y="280" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#2b3a42" font-weight="bold">p = m &#215; v &#160;&#160;(momentum = mass &#215; velocity)</text>
+  <text x="256" y="280" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">p = m &#215; v   (momentum = mass &#215; velocity)</text>
 
   <text x="256" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Airbags and crumple zones stretch a crash out over time,</text>
   <text x="256" y="362" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">so the same change in momentum produces a smaller force.</text>

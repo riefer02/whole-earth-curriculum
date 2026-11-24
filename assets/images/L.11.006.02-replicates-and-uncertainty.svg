@@ -37,15 +37,15 @@
   <text x="256" y="342" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">Five trials of the same measurement</text>
   <g font-family="sans-serif" font-size="13" fill="#222222">
     <rect x="60" y="360" width="52" height="34" fill="#6b93b6" fill-opacity="0.2" stroke="#2b3a42" stroke-width="2" rx="4"/>
-    <text x="86" y="381" text-anchor="middle">51</text>
+    <text fill="#222222" font-size="13" x="86" y="381" text-anchor="middle">51</text>
     <rect x="128" y="360" width="52" height="34" fill="#6b93b6" fill-opacity="0.2" stroke="#2b3a42" stroke-width="2" rx="4"/>
-    <text x="154" y="381" text-anchor="middle">52</text>
+    <text fill="#222222" font-size="13" x="154" y="381" text-anchor="middle">52</text>
     <rect x="196" y="360" width="52" height="34" fill="#6b93b6" fill-opacity="0.2" stroke="#2b3a42" stroke-width="2" rx="4"/>
-    <text x="222" y="381" text-anchor="middle">53</text>
+    <text fill="#222222" font-size="13" x="222" y="381" text-anchor="middle">53</text>
     <rect x="264" y="360" width="52" height="34" fill="#6b93b6" fill-opacity="0.2" stroke="#2b3a42" stroke-width="2" rx="4"/>
-    <text x="290" y="381" text-anchor="middle">52</text>
+    <text fill="#222222" font-size="13" x="290" y="381" text-anchor="middle">52</text>
     <rect x="332" y="360" width="52" height="34" fill="#6b93b6" fill-opacity="0.2" stroke="#2b3a42" stroke-width="2" rx="4"/>
-    <text x="358" y="381" text-anchor="middle">52</text>
+    <text fill="#222222" font-size="13" x="358" y="381" text-anchor="middle">52</text>
   </g>
   <rect x="396" y="360" width="56" height="34" fill="#e0a458" fill-opacity="0.3" stroke="#2b3a42" stroke-width="2" rx="4"/>
   <text x="424" y="381" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222" font-weight="bold">mean 52</text>

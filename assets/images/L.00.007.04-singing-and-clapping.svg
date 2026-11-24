@@ -11,21 +11,15 @@
   <g>
     <!-- left hand (light) -->
     <path d="M182 200 L182 150 Q182 128 200 128 L212 128 Q230 128 230 150 L230 200 Q230 220 206 220 Q182 220 182 200 Z" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
-    <line x1="196" y1="130" x2="196" y2="146" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <line x1="206" y1="130" x2="206" y2="146" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M196 130 L196 146" stroke="#2b3a42" stroke-width="2" stroke-linecap="round" fill="none"/>
+    <path d="M206 130 L206 146" stroke="#2b3a42" stroke-width="2" stroke-linecap="round" fill="none"/>
     <!-- right hand (deep) -->
     <path d="M282 200 L282 150 Q282 128 300 128 L312 128 Q330 128 330 150 L330 200 Q330 220 306 220 Q282 220 282 200 Z" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
-    <line x1="306" y1="130" x2="306" y2="146" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <line x1="316" y1="130" x2="316" y2="146" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M306 130 L306 146" stroke="#2b3a42" stroke-width="2" stroke-linecap="round" fill="none"/>
+    <path d="M316 130 L316 146" stroke="#2b3a42" stroke-width="2" stroke-linecap="round" fill="none"/>
     <!-- motion lines -->
-    <g stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round">
-      <line x1="256" y1="150" x2="256" y2="138"/>
-      <line x1="242" y1="160" x2="232" y2="154"/>
-      <line x1="270" y1="160" x2="280" y2="154"/>
-      <line x1="238" y1="185" x2="228" y2="185"/>
-      <line x1="274" y1="185" x2="284" y2="185"/>
-      <line x1="256" y1="218" x2="256" y2="230"/>
-    </g>
+    <path d="M256 150 L256 138 M242 160 L232 154 M270 160 L280 154 M238 185 L228 185 M274 185 L284 185 M256 218 L256 230"
+          fill="none" stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round"/>
   </g>
 
   <!-- Beat markers: clap, clap, pat -->
@@ -61,12 +55,13 @@
     <!-- vibration arcs -->
     <g stroke="#4f6d7a" stroke-width="2.5" stroke-linecap="round" fill="none">
       <path d="M120 392 Q116 398 120 404"/>
-      <path d="M232 392 Q236 398 232 404"/>
       <path d="M112 404 Q108 410 112 416"/>
-      <path d="M240 404 Q244 410 240 416"/>
+      <path d="M120 416 Q116 422 120 428"/>
     </g>
-    <text x="176" y="492" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">feel the beat</text>
+    <line x1="206" y1="430" x2="250" y2="424" stroke="#4f6d7a" stroke-width="1.6"/>
+    <text x="256" y="430" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">feel the beat</text>
+    <text x="256" y="448" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">the drum shakes</text>
   </g>
 
-  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Your hands and voice are an instrument you always carry.</text>
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Your hands and voice are an instrument you always carry.</text>
 </svg>

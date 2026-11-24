@@ -115,27 +115,37 @@ who learns, speaks, and stands with others.
 
 ## Facilitator note
 
-The idea to land: **freedom and dignity have been won in some places and are still
-denied in others, so the struggle is unfinished — and "unfinished" means there is room
-for me, not that the work is hopeless.** Teach the frame explicitly (S-011). This
-closing lesson must land on agency and hope, never nihilism: every example of a won
-freedom is paired with a still-fought one *and* a concrete action, so the learner leaves
-with a next step, not a weight. Center the voices of those who struggled — the lesson is
-about *joining*, not about speaking for.
+**Tone.** Steady and hopeful: unfinished means there is room, not that the work is
+hopeless.
 
-The **ethics** lens: responsibility is specific, not diffuse — it asks what *I* can do,
-here, with and for others, not that I save the world alone. The **egalitarianism** lens:
-freedom and dignity are not one people's inheritance — the Universal Declaration of
-Human Rights states them as belonging to everyone, without distinction (S-149), and the
-measure of a society is whether the most excluded enjoy them too. The **global** lens:
-the struggle is worldwide and ongoing — decolonization, civil rights, labor, and land
-struggles crossed continents and continue now (S-276, S-146); no region finished it, and
-none is exempt. The **technology** lens: the same tools that surveil and suppress also
-connect, witness, and organize — whose hands hold the tool decides which way it cuts.
-The **environment** lens: dignity includes the right to a livable home — clean water,
-land, a stable climate — so the struggle for freedom and the care of the Earth are one
-struggle (S-463). Close the unit: the human story is long, many-voiced, and unfinished —
-and it now includes you.
+**The facts to land.**
+
+1. Freedom and dignity have been won in some places and are still denied in others, so
+   the struggle is unfinished.
+2. The Universal Declaration of Human Rights states them as belonging to everyone,
+   without distinction (S-149).
+3. Every example of a won freedom is paired with a still-fought one *and* a concrete
+   action, so each learner leaves with a next step rather than a weight.
+
+**Don't overshoot.** No nihilism, and no saviour complex: the lesson is about joining,
+not speaking for others.
+
+**The lenses, briefly.**
+
+- *Ethics:* responsibility is specific, not diffuse — what *I* can do, here, with
+  others.
+- *Egalitarianism:* the measure of a society is whether the most excluded enjoy these
+  rights too.
+- *Global:* decolonisation, civil rights, labour, and land struggles crossed
+  continents and continue now (S-276, S-146); no region finished it.
+- *Technology:* the tools that surveil and suppress also connect, witness, and
+  organise — whose hands hold the tool decides which way it cuts.
+- *Environment:* dignity includes a right to a livable home — clean water, land, a
+  stable climate — so freedom and Earth care are one struggle (S-463).
+
+**The skill.** Teach the frame explicitly (S-011), then release: name one unfinished
+struggle and one next step. Close by saying it plainly — the story is unfinished, and it
+now includes you.
 
 ## Procedure
 

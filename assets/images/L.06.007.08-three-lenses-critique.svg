@@ -78,6 +78,6 @@
     </marker>
   </defs>
 
-  <text x="256" y="510" text-anchor="middle" font-family="sans-serif" font-size="12.1" fill="#2b3a42">a good critique names what works, who is left out, and the cost to the Earth</text>
+  <text x="256" y="510" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">a good critique names what works, who is left out, and the cost to the Earth</text>
   <text x="256" y="538" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">and it always ends in a better idea</text>
 </svg>

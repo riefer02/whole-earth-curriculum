@@ -134,7 +134,7 @@ not as the final word. UNESCO's intangible cultural heritage framing treats such
 practices as knowledge passed person-to-person within communities (S-056), and UNESCO
 also recognizes traditional sports and games as living heritage (S-287).
 
-**Safety.** If learners try any stance or gesture, keep it gentle, optional, and
+**Safety floor.** If learners try any stance or gesture, keep it gentle, optional, and
 non-competitive; no one is demonstrating mastery or being corrected in front of the
 group. Many practices require a teacher — emphasize that this lesson is an
 *introduction*, not instruction.

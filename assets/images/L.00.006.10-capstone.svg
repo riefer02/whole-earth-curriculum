@@ -5,7 +5,7 @@
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Counting, Shapes &amp; Patterns</text>
-  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#4f6d7a">Four math jobs, one collection — welcome to the math museum.</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Four math jobs, one collection — welcome to the math museum.</text>
 
   <!-- Count -->
   <rect x="36" y="104" width="208" height="150" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

@@ -5,7 +5,7 @@
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Solving a One-Step Equation</text>
-  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">what you do to one side, you do to the other — the scale stays balanced</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">what you do to one side, you do to the other — the scale stays balanced</text>
 
   <!-- balance beam -->
   <g>

@@ -118,21 +118,32 @@ questions just get deeper.
 
 ## Facilitator note
 
-Its job is **retrieval and framing, not new content.** The rule to land, in the
-learner's own words: **an evidence-based explanation links data to a claim and states
-its limits and uncertainties (S1.09.01), and a source is judged for reliability, bias,
-and conflicts of interest (S1.09.02).** Use a worked example first (S-011): recall a
-claim from Unit 1 and ask what data backed it and what limit it admitted. The
-critical-thinking lens is the spine: the discipline is the same whether the object is a
-forest, an atom, or the age of the cosmos. The ethics lens: stating limits is honesty —
-pretending certainty where there is none is a small falsehood, and in science that
-falsehood has consequences. The egalitarian lens: asking "who funded this, and who
-benefits?" is how we keep knowledge from being captured by the powerful. The global
-lens: this discipline is not one nation's invention — careful observation, measurement,
-and honest reporting belong to every people; astronomy, medicine, and natural history
-grew in many places at once. Keep origins explicitly open: we will meet accounts of
-beginnings as *models with evidence, never creed* (philosophy §11). Cite the
-source-evaluation practice from Unit 1; no new factual claim needs a new citation here.
+**Tone.** Brisk and framing — **retrieval, not new content**.
+
+**The facts to land.**
+
+1. **An evidence-based explanation links data to a claim and states its limits and
+uncertainties** (S1.09.01).
+2. **A source is judged for reliability, bias, and conflicts of interest** (S1.09.02).
+
+**Worked example.** Recall a claim from Unit 1 and ask, in the learner's own words, what
+data backed it and what limit it admitted (S-011).
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* the same discipline applies whether the object is a forest, an
+atom, or the age of the cosmos.
+- *Ethics:* stating limits is honesty — pretending certainty where there is none is a
+small falsehood with consequences in science.
+- *Egalitarianism:* asking "who funded this, and who benefits?" keeps knowledge from
+being captured by the powerful.
+- *Global:* careful observation, measurement, and honest reporting belong to every
+people; astronomy, medicine, and natural history grew in many places at once.
+
+**The skill.** Read one claim for its evidence and its admitted limits, aloud.
+
+**Origins.** Keep them explicitly open: beginnings will be met as *models with evidence,
+never creed* (philosophy §11). No new factual claim needs a new citation here.
 
 ## Procedure
 

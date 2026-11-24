@@ -112,26 +112,36 @@ to bow.
 
 ## Facilitator note
 
-Its job is **epistemic honesty, not persuasion.** The idea to land: **a scientific
-account (the Big Bang, deep time, evolution) is a model built from evidence and held
-with stated limits — it answers "how"; cultural and spiritual origin stories carry
-meaning, belonging, and purpose — they answer "why" and "who we are"; the curriculum
-holds them side by side and lets learners weigh them with growing critical skill, never
-ranking one above another or imposing either as dogma (philosophy §11).** Use a worked
-example first (S-011): take one scientific model and one story, and show how each
-answers a different question. The ethics lens: the curriculum does not mock, dismiss, or
-force any account; treating every learner's tradition with dignity is the non-negotiable
-ground of this lesson. The egalitarian lens: no people's story is "primitive" and no
-people's science is "theirs alone" — both science and story exist in every culture, and
-the idea that some peoples have "real" knowledge and others have "myths" is a colonial
-habit we explicitly refuse. The global lens: creation stories and astronomical
-traditions come from every continent — the Dreaming of Aboriginal Australian peoples,
-the Popol Vuh of the Maya, the stories of the Yoruba, the Vedic and Abrahamic
-traditions, and many more — each worthy of respectful study. The critical-thinking lens:
-hold the distinction between a *model with evidence* (testable, revisable) and a *story
-of meaning* (guiding, not falsifiable) — and note that this distinction is a tool for
-thinking, not a weapon for ranking. This lesson cites no new factual source; it draws on
-S-002 and S-308 from Lesson 8.
+**Tone.** Reverent and even — nobody's account is on trial here.
+
+**The facts to land.**
+
+1. **A scientific account — the Big Bang, deep time, evolution — is a model built from
+evidence and held with stated limits:** it answers "how."
+2. **Cultural and spiritual origin stories carry meaning, belonging, and purpose:** they
+answer "why" and "who we are."
+3. **The lesson holds them side by side,** weighs them with growing critical skill, and
+ranks none (philosophy §11).
+
+**Worked example.** Take one scientific model and one story, and show how each answers a
+different question (S-011).
+
+**The lenses, briefly.**
+
+- *Ethics:* do not mock, dismiss, or force any account; treating every learner's
+tradition with dignity is the non-negotiable ground.
+- *Egalitarianism:* no people's story is "primitive" and no people's science is "theirs
+alone" — the idea that some peoples have "real" knowledge and others have "myths" is a
+colonial habit this lesson refuses.
+- *Global:* creation stories and astronomical traditions come from every continent —
+the Dreaming of Aboriginal Australian peoples, the Popol Vuh of the Maya, the stories of
+the Yoruba, the Vedic and Abrahamic traditions, and many more.
+- *Critical-thinking:* the distinction between a *model with evidence* (testable,
+revisable) and a *story of meaning* (guiding, not falsifiable) is a tool for thinking,
+not a weapon for ranking.
+
+**The skill.** Ask of each account: what question does this answer, and how would it be
+checked? Draws on S-002 and S-308; no new factual source.
 
 ## Procedure
 

@@ -121,28 +121,35 @@ listener tomorrow, but to become a slightly better one by next week.
 
 ## Facilitator note
 
-The idea to land: **listening is a learnable habit, and honest self-observation is the
-engine of growth — not shame, but "not yet."** Keep the audit private and judgment-free;
-a learner who cannot yet name a habit is not failing, they are at the start of the
-spiral.
+**Tone.** Gentle and non-judging: "not yet" is the engine here, never shame.
 
-The **ethics** lens: listening well is a form of respect — it treats the other's inner
-world as worth attending to. The **egalitarianism** lens: who gets truly listened to,
-and who gets talked over or ignored, is uneven — by status, gender, age, and ability;
-better listening is a quiet leveller. The **global** lens: cultures signal listening
-differently — eye contact, silence, a nod, a repeated phrase, a sign, a written note —
-so "good listening" is not one posture or one sense; it is attending in the way the
-speaker can receive, in the mode that reaches them. The **technology** lens: the device
-is the modern rival of attention — notifications and the pull to check split attention
-in ways face-to-face conversation never had to fight (Suler, S-343; WHO notes adolescent
-digital habits shape wellbeing, S-311). The **environment** lens: deep listening is also
-a way of attending to the living world — noticing a bird's alarm call, a stream's
-change, a season's shift — the same skill of attention turned outward. Preview: Lesson 5
-moves from intimate listening to empathy in ethical reasoning.
+**The facts to land.**
 
-**Safeguarding:** the audit is private and not collected; learners share only what they
-choose, and the when-then commitment may be about any relationship, including with
+1. Listening is a learnable habit, and honest self-observation is what grows it.
+2. A learner who cannot yet name a habit is at the start of the spiral, not failing.
+3. The audit stays private and judgment-free.
+
+**Don't overshoot.** Do not collect the audit or turn it into a confession; the moment
+it is graded, the honesty goes.
+
+**The lenses, briefly.**
+
+- *Ethics:* listening treats another's inner world as worth attending to.
+- *Egalitarianism:* who gets listened to, and who is talked over, is uneven by status,
+  gender, age, and ability.
+- *Global:* eye contact, silence, a nod, a repeated phrase, a sign — good listening is
+  not one posture or one sense.
+- *Technology:* notifications split attention in ways face-to-face talk never had to
+  fight (Suler, S-343; WHO notes digital habits shape wellbeing, S-311).
+- *Environment:* noticing a bird's alarm call, a stream's change — the same attention
+  turned outward.
+
+**Safeguarding.** The audit is private and not collected; learners share only what they
+choose, and the when-then commitment may concern any relationship, including with
 themselves or the living world.
+
+**The skill.** Model one honest observation, then release (S-011): name one habit and
+one when-then plan.
 
 ## Procedure
 

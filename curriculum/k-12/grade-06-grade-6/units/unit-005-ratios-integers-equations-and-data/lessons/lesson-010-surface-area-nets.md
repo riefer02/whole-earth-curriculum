@@ -115,20 +115,31 @@ a market stall folding boxes in Cairo to a cooper measuring staves for a barrel.
 
 ## Facilitator note
 
-The ideas to land: (1) a **net** is a three-dimensional shape unfolded into flat
-**faces**; (2) **surface area** is the total area of all the faces — for a rectangular
-prism, the six faces come in three matching pairs; and (3) the formula **2(lw) + 2(lh) +
-2(wh)** is just fast counting of those six faces. Model a worked example first, then
-guide a second before independent work (Kirschner, Sweller & Clark, 2006). Two common
-slips: counting a face twice or missing one (the top and bottom are easy to forget), and
-confusing surface area (the *outside*) with volume (the *inside*). Retrieval: ask
-learners to recall yesterday's area and volume — surface area is area applied to each
-face of a solid. The environment lens is live here (`docs/philosophy.md` §4): knowing
-surface area matters for not wasting paint, cloth, or wrapping — measuring honestly
-saves materials, which is a care for the Earth as well as for the pocket. Note the
-global point: nets and unfolding are used in packaging and craft traditions worldwide —
-from paper lanterns in East Asia to folded baskets in many cultures — geometry in the
-hands of makers.
+**Tone.** Hands-on. Unfold something real before naming the formula.
+
+**The facts to land.**
+
+1. A **net** is a three-dimensional shape unfolded into flat **faces**.
+2. **Surface area** is the total area of all faces — for a rectangular prism, six faces
+   in three matching pairs.
+3. The formula **2(lw) + 2(lh) + 2(wh)** is fast counting of those six faces.
+
+**Don't overshoot.** Do not accept a total that counts a face twice or misses one. The
+top and bottom are the ones learners forget.
+
+**The lenses, briefly.**
+
+- *Intellectual:* surface area is area applied to each face; volume is the inside.
+- *Global:* nets and unfolding appear in packaging and craft traditions worldwide, from
+  paper lanterns in East Asia to folded baskets in many cultures.
+- *Environment:* knowing surface area means not wasting paint, cloth, or wrapping —
+  measuring honestly saves materials, which is care for the Earth as well as the pocket
+  (`docs/philosophy.md` §4).
+- *Critical-thinking:* check the net against the solid before trusting the arithmetic.
+
+**The skill.** Model a worked example, guide a second, then independent work (Kirschner,
+Sweller & Clark, 2006). Retrieval: yesterday's area and volume — surface area is area
+applied to each face of a solid.
 
 ## Procedure
 

@@ -74,7 +74,7 @@
   <path d="M 322 356 Q 362 348 402 356 L 402 382 Q 362 396 322 382 Z" fill="none" stroke="#2b3a42" stroke-width="3"/>
 
   <!-- Labels right -->
-  <text x="420" y="176" font-family="system-ui, sans-serif" font-size="13.3" fill="#4f6d7a">vas deferens</text>
+  <text x="420" y="176" font-family="system-ui, sans-serif" font-size="13" fill="#4f6d7a">vas deferens</text>
   <line x1="414" y1="180" x2="396" y2="208" stroke="#4f6d7a" stroke-width="2"/>
   <text x="420" y="196" font-family="system-ui, sans-serif" font-size="12" fill="#4f6d7a">(sperm's path)</text>
   <text x="420" y="230" font-family="system-ui, sans-serif" font-size="15" fill="#4f6d7a">prostate</text>
@@ -88,5 +88,5 @@
   <text x="420" y="398" font-family="system-ui, sans-serif" font-size="13" fill="#4f6d7a">scrotum</text>
 
   <!-- Footer -->
-  <text x="256" y="504" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12.7" fill="#4f6d7a">Bodies vary widely — these are simplified drawings, not a "normal" body.</text>
+  <text x="256" y="504" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12.5" fill="#4f6d7a">Bodies vary widely — these are simplified drawings, not a "normal" body.</text>
 </svg>

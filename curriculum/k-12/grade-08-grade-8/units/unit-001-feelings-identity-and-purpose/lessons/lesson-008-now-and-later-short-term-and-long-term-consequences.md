@@ -108,24 +108,37 @@ today, often reaches for the near thing. Today you learn to hear both ripples.
 
 ## Facilitator note
 
-The idea to land: **a consequence can land in the short term or the long term, and the
-two often pull in opposite directions.** The tendency to favor a smaller "now" over a
-larger "later" is called *present bias* or *delay discounting*; the fast, emotional mind
-reaches for the near thing while the slower mind can hold the far one (Kahneman's System
-1/System 2, S-337). Teach the sort as a worked example (Kirschner, Sweller & Clark 2006,
-S-011) before independent work. The *ethics* lens: the long term is often where the
-*other person's* cost hides — the friend's trust, the shared resource — so weighing
-"later" is partly an act of care for others. The *egalitarian* lens: not everyone can
-afford to think far ahead — when today is scarce, the "now" is not greed, it is
-survival; judge the *weighing*, never the person. The *global* lens: the now/later split
-looks different everywhere — a family saving for a season, a community managing water —
-but the *skill* of seeing both ripples is universal. The *environment* lens: many of our
-deepest problems — a forest cut faster than it regrows, a fish taken before it can
-spawn — are exactly this: a loud now and a quiet, far later. The *critical-thinking*
-lens: neither "always choose later" nor "always choose now" is right; the skill is
-*seeing* both, which is the first step to weighing them well. Distinguish evidence from
-values: present bias is a documented pattern of human judgment (S-337); that we *ought*
-to weigh both fairly is a value this curriculum holds — name it as one.
+**Tone.** Honest and non-judgemental — the pull of "now" is human, not shameful.
+
+**The facts to land.**
+
+1. A consequence can land short-term or long-term, and the two often pull against each
+   other.
+2. Favouring a smaller "now" over a larger "later" is *present bias*, or *delay
+   discounting* (Kahneman's System 1/System 2, S-337).
+3. Seeing both ripples is the first step to weighing them.
+
+**Don't overshoot.** Do not teach "always choose later" — sometimes the near need is the
+right one.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* naming both timelines eases the tug between them.
+- *Ethics:* the long term is often where the other person's cost hides — a friend's
+  trust, a shared resource.
+- *Egalitarianism:* not everyone can afford to think far ahead; when today is scarce, the
+  "now" is survival, not greed. Judge the weighing, never the person.
+- *Global:* the split looks different everywhere — a family saving for a season, a
+  community managing water — but seeing both ripples is a shared skill.
+- *Environment:* a forest cut faster than it regrows, a fish taken before it spawns: a
+  loud now, a quiet far later.
+- *Critical-thinking:* neither pole is right; the skill is *seeing* both.
+
+**The skill.** Model the sort once (Kirschner, Sweller & Clark 2006, S-011), then
+independent work.
+
+**Evidence and values.** Present bias is a documented pattern of human judgment (S-337);
+that we *ought* to weigh both fairly is a value this curriculum holds — name it as one.
 
 ## Procedure
 

@@ -109,18 +109,36 @@ many different foods that help our bodies. Today you will sort foods into four g
 
 ## Facilitator note
 
-**Hold the line on no food shaming.** The four groups are *one way* to sort, not the
-only right one — different schools and cultures sort foods differently, and some
-families add a milk-foods group or group foods by where they come from. Honor all of it.
-Let learners sort by their own family's real foods, and celebrate differences. Do not
-rank any group or any food, and never tie food to a child's size or appetite. A food may
-feel at home in more than one group (beans are proteins, and some also think of them as
-a grain-like food) — that is fine; sorting is a tool, not a test. A learner who is blind
-or has low vision sorts by touch (real foods or textured cards); a learner who does not
-use a speaking voice sorts by pointing. A learner who is deaf or hard of hearing sorts
-by pointing to the labeled baskets and watching the demonstration from the front, since
-sorting here is shown with cards and baskets, not only told. This lesson extends
-Kindergarten's everyday/sometimes sorting (U.00.002, U.00.008) into naming food groups.
+**Tone.** Matter-of-fact and warm. **Hold the line on no food shaming** — no comment on
+anyone's food, size, or appetite.
+
+**The facts to land.**
+
+1. The four groups are *one way* to sort, not the only right one: different schools and
+   cultures sort foods differently, and some families add a milk-foods group or group
+   foods by where they come from.
+2. Let learners sort their own family's real foods, and celebrate the differences.
+3. A food may belong in more than one group (beans are proteins, and some also think of
+   them as grain-like). Sorting is a tool, not a test.
+4. This extends Kindergarten's everyday/sometimes sorting (U.00.002, U.00.008) into
+   naming food groups.
+
+**Don't overshoot.** Do not rank any group or any food, and never tie food to a child's
+size or appetite.
+
+**The lenses, briefly.**
+
+- *Global:* food groupings vary by culture and school; none is the standard.
+- *Egalitarianism:* every family's table is a real table.
+- *Ethics:* naming food is not judging the eater.
+- *Physical:* the groups describe what foods do for the body.
+
+**The skill.** Sort real foods, say the rule you used, then hear someone else's rule.
+
+**Access.** Blind or low-vision: sort by touch, using real foods or textured cards.
+Non-speaking: sort by pointing. Deaf or hard of hearing: point to the labeled baskets
+and watch the demonstration from the front — sorting here is shown with cards and
+baskets, not only told.
 
 ## Procedure
 

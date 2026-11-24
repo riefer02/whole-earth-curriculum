@@ -114,20 +114,32 @@ for a house in Lagos, a terrace farm in the Andes, or a canal in the Netherlands
 
 ## Facilitator note
 
-The ideas to land: (1) a **horizontal** side's endpoints share the same y-value, so its
-length is the difference of the x-values (subtract, larger minus smaller); (2) a
-**vertical** side's endpoints share the same x-value, so its length is the difference of
-the y-values; and (3) length is always positive — distance has no direction, so we take
-the larger coordinate minus the smaller (or the absolute value of the difference). Model
-a worked example first, then guide a second before independent work (Kirschner, Sweller
-& Clark, 2006). The classic slip is subtracting in the wrong order and getting a
-negative length — fix it by always saying "distance is positive." Retrieval: ask
-learners to recall yesterday's polygon drawing and the signed numbers from earlier —
-subtracting negative coordinates is where both skills meet. The critical-thinking lens:
-checking a subtraction against a visual count of the grid is honest reasoning
-(`docs/philosophy.md` §7). Note the global point: reading distance from coordinates is
-the same idea as reading a map's grid, used in surveying and navigation traditions
-worldwide.
+**Tone.** Plain and visual. The grid is the check.
+
+**The facts to land.**
+
+1. A **horizontal** side's endpoints share a y-value, so its length is the difference of
+   the x-values (larger minus smaller).
+2. A **vertical** side's endpoints share an x-value, so its length is the difference of
+   the y-values.
+3. **Length is always positive** — distance has no direction — so take the larger
+   coordinate minus the smaller, or the absolute value of the difference.
+
+**Don't overshoot.** Do not let a negative answer pass as a length. When one appears,
+the subtraction order is the error, not the geometry.
+
+**The lenses, briefly.**
+
+- *Intellectual:* subtracting negative coordinates is where signed numbers and geometry
+  meet.
+- *Global:* reading distance from coordinates is the map-grid skill used in surveying
+  and navigation traditions worldwide.
+- *Critical-thinking:* checking a subtraction against a visual count of grid units is
+  honest reasoning (`docs/philosophy.md` §7).
+
+**The skill.** Model a worked example, guide a second, then independent work (Kirschner,
+Sweller & Clark, 2006). Say "distance is positive" aloud each time. Retrieval:
+yesterday's polygon drawing and the signed numbers from earlier in the unit.
 
 ## Procedure
 

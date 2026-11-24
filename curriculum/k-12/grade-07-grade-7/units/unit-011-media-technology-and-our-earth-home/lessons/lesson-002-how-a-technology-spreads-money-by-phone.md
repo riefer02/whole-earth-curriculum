@@ -111,20 +111,34 @@ starting place, a journey, and a trail of changes. Today you learn to trace that
 
 ## Facilitator note
 
-The ideas to land: **(1) a technology does not appear everywhere at once; it begins
-somewhere and spreads as people adopt and adapt it; (2) to trace a spread you ask four
-questions — where did it begin, how did it travel, who adopted it, and what changed for
-them; (3) adoption is not passive — each society adapts a technology to its own life.**
-Model the mobile-money journey once, step by step (worked example — Kirschner, Sweller &
-Clark 2006, S-011), then let learners trace paper. The global lens: the example is
-deliberately non-Western (Kenya) — a reminder that innovation is human-wide, not one
-region's property. The egalitarian lens: ask who got the technology and who was left
-out; mobile money reached people banks had skipped. The technology lens: the change is
-the point — a tool that spreads changes how people trade, save, and trust. The ethics
-lens: spread can bring good and harm; notice both. Facts to hold accurately: M-Pesa
-launched in Kenya in 2007 and grew where bank branches were scarce (S-210, S-211); paper
-was invented in China (traditionally credited to Cai Lun, c. 105 CE) and spread westward
-(S-317). Present these as documented history, not value claims.
+**Tone.** Curious. A technology is a journey, not an event.
+
+**The facts to land.**
+
+1. A technology **does not appear everywhere at once**: it begins somewhere and spreads
+   as people adopt and adapt it.
+2. To trace a spread, ask four questions: **where did it begin, how did it travel, who
+   adopted it, and what changed for them?**
+3. **Adoption is not passive** — each society adapts a technology to its own life.
+4. **M-Pesa** launched in Kenya in 2007 and grew where bank branches were scarce (S-210,
+   S-211); **paper** was invented in China (traditionally credited to Cai Lun, c. 105
+   CE) and spread westward (S-317).
+
+**Don't overshoot.** Do not tell this as one region inventing and others receiving.
+Every adopting society changed the tool.
+
+**The lenses, briefly.**
+
+- *Ethics:* spread can bring good and harm; notice both.
+- *Egalitarianism:* ask who got the technology and who was left out; mobile money
+  reached people banks had skipped.
+- *Global:* the example is deliberately non-Western (Kenya) — innovation is human-wide.
+- *Technology:* the change is the point; a tool that spreads changes how people trade,
+  save, and trust.
+- *Critical-thinking:* present documented history as history, not as a value claim.
+
+**The skill.** Model the mobile-money journey once, step by step (worked example —
+Kirschner, Sweller & Clark, 2006, S-011), then let learners trace paper.
 
 ## Procedure
 

@@ -115,36 +115,42 @@ their own way. Today you walk through this gallery and choose one voice to study
 
 ## Facilitator note
 
-The idea to land: **the same three tools — structure, style, argument — are wielded
-differently in every language and tradition, and reading across cultures is how a mature
-reader learns that no one way of writing is the "normal" one.** The six texts (with
-faithful, brief translations) are: **Du Fu** (杜甫, Tang China, 8th c.) — a poem of war
-and home, whose structure moves from what the eye sees to what the heart fears (S-418);
-**Rumi** (Jalāl al-Dīn Rūmī, Persia, 13th c.) — a short lyric of longing whose style is
-ecstatic address and whose argument is that the heart's longing points beyond itself
-(S-419); **Pablo Neruda** (Chile, 20th c.) — an "ode to an everyday thing," whose
-structure elevates a humble object and whose argument is that the small and ordinary are
-worthy of praise (S-420); **Rabindranath Tagore** (Bengal, 20th c.) — a lyric from
-*Gitanjali* ("song-offerings"), whose style is prayer-like and whose argument is that
-the divine and the everyday touch (S-421); **Joy Harjo** (Mvskoke [Creek] Nation,
-contemporary) — "Remember," whose structure is a litany of anaphora ("Remember…") and
-whose argument is that memory links a person to sky, earth, ancestors, and language
-(S-422); and a **Sundiata** passage (Mali, oral epic kept by griots) whose structure is
-episodic praise and whose argument is that a people's history lives by being spoken and
-remembered (S-269). Keep each text short and faithful; treat translation honestly — a
-translated poem is a re-creation, and something is always gained and lost (note this; do
-not rank the original above the translation). The global lens is the heart of the
-lesson: these are *living traditions*, honored with respectful questions, never
-specimens (philosophy §4, D04 rationale). The critical-thinking lens: the three-column
-tool works on all six precisely *because* structure, style, and argument are
-near-universal — but their forms are not. The ethics lens: honoring a text from another
-culture means not flattening it into a "single story" (Lesson 4). The egalitarian lens:
-a world-literature gallery that includes only one continent is not a gallery — it is a
-mirror; this set deliberately spans five continents and both oral and written
-traditions. The technology & environment lens: writing, print, and recording are how
-these traditions reach us today, while the Sundiata epic reminds us that story lived in
-memory and voice long before writing — and several of these poems carry their own land,
-seasons, and weather in their lines.
+**Tone.** Gallery-like — admire craft, never rank cultures.
+
+**The facts to land.**
+
+1. **Structure, style, and argument are wielded differently in every language and
+tradition.** No way of writing is the "normal" one.
+2. **Six texts, faithfully translated:**
+
+- **Du Fu** (Tang China, 8th c.): war and home — sight gives way to fear (S-418).
+- **Rumi** (Persia, 13th c.): ecstatic address; longing points beyond itself (S-419).
+- **Neruda** (Chile, 20th c.): an ode that praises a humble object (S-420).
+- **Tagore** (Bengal, 20th c.): a prayer-like *Gitanjali* lyric; the divine and everyday
+touch (S-421).
+- **Harjo** (Mvskoke Nation): "Remember" — anaphora linking memory to sky, earth,
+ancestors, language (S-422).
+- **Sundiata** (Mali, oral epic): episodic praise; history lives by being spoken
+(S-269).
+
+3. **A translated poem is a re-creation** — something gained, something lost. Never rank
+the original above it.
+
+**The lenses, briefly.**
+
+- *Global:* these are *living traditions*, honoured with questions, never specimens
+(philosophy §4, D04 rationale).
+- *Critical-thinking:* the tool works on all six because the three are near-universal
+— their forms are not.
+- *Ethics:* honouring another culture's text means not flattening it into a "single
+story" (Lesson 4).
+- *Egalitarianism:* a gallery of one continent is a mirror; this set spans five
+continents, oral and written.
+- *Technology:* writing, print, and recording are how these traditions reach us.
+- *Environment:* story lived in memory and voice long before writing; these poems
+carry their own land, seasons, weather.
+
+**The skill.** Read one text with the three-column tool aloud, as a group.
 
 ## Procedure
 

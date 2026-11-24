@@ -114,20 +114,31 @@ the amounts differ. So you find the price for *one* kilogram. The first is $12 �
 
 ## Facilitator note
 
-The ideas to land: (1) a **rate** compares two different units (money per kilogram,
-kilometres per hour); (2) a **unit rate** is the amount for *one*, found by dividing;
-and (3) unit rates let you compare fairly when totals differ. Because division for unit
-rates is a foundational skill, use explicit instruction and worked examples first
-(Kirschner, Sweller & Clark, 2006): model 3 kg for $12 aloud, then guide 5 kg for $18
-before independent work. Watch for the slip of dividing the wrong way (writing "kg per
-dollar" when the question asks dollars per kg). Retrieval: ask learners to recall ratios
-and "for every" thinking from Grade 6 — a unit rate is a ratio where the second number
-is 1. The egalitarian lens (`docs/philosophy.md` §4): comparing unit prices is a tool of
-fair dealing — it lets a person with little money find the honest cheapest offer and
-resist being overcharged. The global lens: unit-rate reckoning appears in the ancient
-Egyptian *Rhind Mathematical Papyrus* (c. 1650 BCE), whose problems divide grain,
-loaves, and labour into "per one" amounts — "how much for one" is a human universal, not
-one culture's invention.
+**Tone.** Practical. This is the arithmetic of not being overcharged.
+
+**The facts to land.**
+
+1. A **rate** compares two different units — money per kilogram, kilometres per hour.
+2. A **unit rate** is the amount for *one*, found by dividing.
+3. Unit rates let you **compare fairly** when the totals differ.
+
+**Don't overshoot.** Do not treat a bigger total as a better deal, or a smaller total as
+cheaper. Compare per one, not per basket.
+
+**The lenses, briefly.**
+
+- *Intellectual:* a unit rate is a ratio with 1 as the second number.
+- *Egalitarianism:* unit prices are a tool of fair dealing — a person with little money
+  can find the honest cheapest offer and resist being overcharged (`docs/philosophy.md`
+  §4).
+- *Global:* the Egyptian *Rhind Mathematical Papyrus* (c. 1650 BCE) divides grain,
+  loaves, and labour into "per one" amounts — "how much for one" is a human universal.
+- *Critical-thinking:* check which way round the division goes, in words.
+
+**The skill.** This is foundational: model 3 kg for $12 aloud, guide 5 kg for $18, then
+independent work (Kirschner, Sweller & Clark, 2006). The slip to watch is dividing the
+wrong way, writing "kg per dollar" when the question asks dollars per kg. Retrieval:
+Grade 6 ratios and "for every" thinking.
 
 ## Procedure
 

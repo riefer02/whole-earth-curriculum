@@ -112,18 +112,34 @@ of your own and name its first step.
 
 ## Facilitator note
 
-It spirals up from Grade 2's "choose a calm tool on my own," now into **choosing a
-direction and its first move**. The commitments: **a goal is the learner's own, not the
-adult's**, and **the first step is small enough to actually take** — a goal too big or
-too adult-chosen fails the lesson. Coach learners from "I want to be the best" toward
-something concrete and near (read one new book; learn to tie one knot; practice ten kind
-greetings; hold a pencil the new way for one week). Honor every goal as equal in worth —
-a goal about kindness is as real as a goal about reading. Some learners live with
-scarcity or instability; keep goals free of things that cost money. For a learner who is
-blind or has low vision, describe the staircase aloud and build it tactually; the goal
-and step live in words, not pictures. For a learner who does not use a speaking voice,
-accept drawing, pointing, signing, or a partner voicing. The first step is the lesson:
-naming it is the power.
+**Tone.** Encouraging and concrete — small and near beats big and vague.
+
+**The facts to land.**
+1. A goal is the learner's own, not the adult's.
+2. The first step is small enough to actually take; a goal too big or too adult-chosen
+   fails the lesson.
+3. Some learners live with scarcity or instability, so goals stay free of things that
+   cost money.
+
+**Don't overshoot.** "I want to be the best" is not yet a goal. Coach it toward
+something concrete and near: read one new book, learn to tie one knot, practice ten kind
+greetings, hold a pencil the new way for a week.
+
+**The lenses, briefly.**
+- *Social-emotional:* the goal is chosen, not assigned.
+- *Ethics:* every goal is equal in worth; kindness is as real as reading.
+- *Egalitarianism:* no goal costs money.
+- *Critical-thinking:* what is the very first move?
+
+**The skill.** Name the goal, then name a first step you could take today.
+
+This spirals up from Grade 2's "choose a calm tool on my own." The first step is the
+lesson: naming it is the power.
+
+**Access:** for a learner who is blind or has low vision, describe the staircase aloud
+and build it tactually — the goal and step live in words, not pictures; for a learner
+who does not use a speaking voice, accept drawing, pointing, signing, or a partner
+voicing.
 
 ## Procedure
 

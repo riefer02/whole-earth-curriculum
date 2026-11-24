@@ -24,7 +24,7 @@
   </g>
 
   <!-- Label -->
-  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="18.7" fill="#2b3a42">The words around a word are clues to its meaning.</text>
+  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="19" fill="#2b3a42">The words around a word are clues to its meaning.</text>
 
   <!-- Guessed meaning -->
   <rect x="96" y="356" width="320" height="64" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>

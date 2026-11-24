@@ -117,22 +117,34 @@ foods to their origins.
 
 ## Facilitator note
 
-**Every food has an origin in the living world, and no origin is better than another.**
-The four mats are *one* way to sort, not the only right one — a mango comes from a plant
-and can be grown in a garden or on a farm, and a hen's egg comes from an animal and can
-be raised on a farm or in a yard. Celebrate the wide, global range of foods: rice,
-maize, millet, wheat, beans, lentils, roots, fruits, fish, eggs, milk, and honey all
-feed the world. Honor that food reaches families in more ways than planted farms and
-gardens — many people gather wild fruits, greens, and honey, fish rivers, lakes, and
-seas, or herd animals that move with the seasons, and these ways of living are as real
-and worthy as farming. Avoid ranking any food as more or less important. A learner who
-is blind or has low vision sorts real or textured foods by touch; a learner who does not
-use a speaking voice points or signs; a learner who is deaf or hard of hearing follows
-the mats and demonstration from the front, since every idea is shown, not only told.
-This lesson opens the unit's D03.S3.03.02 "where food comes from" path and leads into
-the farm-to-table journey. The framing that foods originate from plants, animals, farms,
-and gardens reflects the FAO's account of food coming from plants and animals raised by
-people.
+**Tone.** Wide-open and curious — every origin is real, and none is the default.
+
+**The facts to land.**
+1. Every food has an origin in the living world: it comes from a plant or an animal
+   raised by people (FAO).
+2. Food reaches families in more ways than farms and gardens: people gather wild fruits,
+   greens, and honey, fish rivers, lakes, and seas, and herd animals that move with the
+   seasons.
+3. Rice, maize, millet, wheat, beans, lentils, roots, fruits, fish, eggs, milk, and
+   honey all feed the world.
+
+**Don't overshoot.** The four mats are *one* way to sort, not the only right one. A
+mango comes from a plant, grown in a garden or on a farm; a hen's egg comes from an
+animal, raised on a farm or in a yard.
+
+**The lenses, briefly.**
+- *Global:* the range of foods and of ways to get them is the content.
+- *Environment:* food comes from land, water, and animals.
+- *Egalitarianism:* gathering, fishing, herding, and farming are equally worthy.
+- *Physical:* handle the real foods and sort them by hand.
+
+**The skill.** Say where a food came from, and accept more than one true answer.
+
+Traces D03.S3.03.02; leads into farm-to-table.
+
+**Access:** a learner who is blind or has low vision sorts real foods by touch; a
+learner who does not use a speaking voice points or signs; a learner who is deaf or hard
+of hearing follows the mats shown from the front.
 
 ## Procedure
 

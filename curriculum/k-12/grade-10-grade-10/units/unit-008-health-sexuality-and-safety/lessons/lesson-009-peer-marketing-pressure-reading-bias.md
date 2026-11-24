@@ -111,32 +111,41 @@ rather than on someone else's purpose.
 
 ## Facilitator note
 
-**Land the three motives** (using NAMLE, S-151, and WHO's marketing framing, S-312):
-**to help** (a clinic, a health authority, a professional — motive: your wellbeing),
-**to belong** (a peer or social group — motive: connection, fitting in, sometimes shared
-pressure), and **to sell** (a company, a sponsored influencer — motive: profit). Teach
-learners to ask **"what does this person gain if I believe them?"** A marketer gains
-money; a friend gains your company or agreement; an expert gains nothing from your
-choice — which is a clue to trust, though even experts can be wrong, so verify anyway.
-Show how **sponsored content and influencer posts** blur "help" and "sell" on purpose,
-which is why disclosure labels and the five questions matter.
+**Tone.** Warm about belonging, cool about being sold to: wanting to fit in is human.
 
-**Sensitive-topic guidance:** peer-pressure examples may touch on sex and bodies; keep
-them non-graphic and use fictional scenarios. Explicitly normalize resisting pressure —
-saying no, waiting, or checking facts — as strength, never weakness. Learners may **opt
-out**. If a message or disclosure suggests coercion or unsafe circumstances, respond
-privately and follow your safeguarding procedure to a **trusted adult or health
-service**.
+**The facts to land.**
 
-The **ethics** lens: persuading with facts is honest; persuading with manufactured fear
-or false "everyone does it" is not. The **egalitarian** lens: marketing
-disproportionately targets the young, the uncertain, and the under-served — reading bias
-is a shield for those with the least to spare. The **global** lens: the same product is
-sold with different emotional appeals in different cultures, but the motive — sell — is
-the same. The **technology** lens: algorithms place marketing beside genuine help so
-they look identical, which is precisely why motive-reading is a survival skill online.
-The **social-emotional** lens: wanting to belong is human and good — the skill is
-noticing when that want is being used.
+1. Three motives (NAMLE, S-151; WHO's marketing framing, S-312): **to help** (a clinic
+   or professional — your wellbeing), **to belong** (a peer or group — connection,
+   fitting in, sometimes pressure), **to sell** (a company or sponsored influencer —
+   profit).
+2. Ask **"what does this person gain if I believe them?"** A marketer gains money, a
+   friend gains your company, an expert gains nothing — a clue, not a proof, so verify
+   anyway.
+3. Sponsored content blurs "help" and "sell" on purpose; hence disclosure labels.
+
+**Don't overshoot.** Not suspicion of friends; peers can be right.
+
+**The lenses, briefly.**
+
+- *Ethics:* persuading with facts is honest; manufactured fear or "everyone does it"
+  is not.
+- *Egalitarianism:* marketing targets the young and the uncertain; reading bias shields
+  those with least to spare.
+- *Global:* the same product carries different appeals in different cultures; the
+  motive stays.
+- *Technology:* algorithms place marketing beside genuine help so the two look
+  identical.
+- *Social-emotional:* wanting to belong is good; the skill is noticing when it is
+  used.
+
+**Safeguarding.** Peer-pressure examples may touch sex and bodies: keep them non-graphic
+and fictional, and normalize resisting pressure — saying no, waiting, checking facts —
+as strength. Learners may opt out. If a message suggests coercion, respond privately and
+follow safeguarding.
+
+**The skill.** Model once, then release (S-011): sort three messages by motive and say
+what each sender wants.
 
 ## Procedure
 

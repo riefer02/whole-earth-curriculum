@@ -113,26 +113,39 @@ missing, and why — is the first step toward sharing more fairly. Today you lea
 
 ## Facilitator note
 
-The ideas to land: **(1) power is the ability to influence who gets what, and resources
-are the things a community shares — space, time, information, money, and voice; (2) to
-see who is left out, ask four questions: who decides, who receives, who is not at the
-table, and why; (3) the "why" is usually structural — where someone is born, how work
-and pay and access are arranged — not a measure of anyone's worth.** Widely documented
-data show poverty and inequality are driven largely by structural, place-based factors
-rather than individual merit (World Bank, S-234; UNDP, S-283); hold the value commitment
-separately — "no person's worth is measured by their resources" is a value, not a
-statistic. Model the map once (S-011). **Keep it concrete and non-shaming: analyze
-systems, not classmates; use invented or public examples, never call out an individual
-learner's family.** The ethics lens: fairness asks whether the sharing is just, not just
-whether it is orderly. The egalitarian lens: the whole point is to notice the people the
-arrangement forgets — the quieter, the poorer, the newcomer, the one whose needs are
-invisible. The global & anthropological lens: different communities share differently —
-a commons, a council, a market, a state — and each has its own pattern of who is left
-out; compare without ranking. The technology & environment lens: technology can widen or
-narrow the gap (who can pay for data, who can reach the well or the clinic) — ask how
-tools change access here. The critical-thinking lens: separate *individual* actions from
-*structural* causes — one person's choice is not the same as a system that sorts who
-gets what.
+**Tone.** Concrete and non-shaming — analyze systems, not classmates.
+
+**The facts to land.**
+
+1. Power is the ability to influence who gets what; resources are what a community
+   shares — space, time, information, money, voice.
+2. Four questions reveal who is left out: who decides, who receives, who is not at the
+   table, and why.
+3. The "why" is usually structural — where someone is born, how work, pay, and access
+   are arranged — not a measure of anyone's worth.
+
+**Don't overshoot.** Do not turn structural analysis into blame of individuals, or imply
+effort never matters.
+
+**The lenses, briefly.**
+
+- *Ethics:* fairness asks whether the sharing is just, not only whether it is orderly.
+- *Egalitarianism:* notice who the arrangement forgets — the quieter, the poorer, the
+  newcomer.
+- *Global:* communities share differently — commons, council, market, state — each with
+  its own pattern of exclusion; compare without ranking.
+- *Technology & environment:* tools widen or narrow access — who can pay for data, reach
+  the well or clinic.
+- *Community:* resources are held and moved among people.
+- *Critical-thinking:* separate *individual* actions from *structural* causes.
+
+**The skill.** Model the map once (S-011). Poverty and inequality are driven largely by
+structural, place-based factors, not individual merit (World Bank, S-234; UNDP, S-283).
+
+**Evidence and values.** "No person's worth is measured by their resources" is a value,
+not a statistic.
+
+**Safety floor.** Use invented or public examples, never a learner's family.
 
 ## Procedure
 

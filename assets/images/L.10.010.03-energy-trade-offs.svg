@@ -4,9 +4,9 @@
   <rect width="512" height="512" fill="#fdfbf7"/>
   <g font-family="sans-serif" text-anchor="middle">
     <g font-size="16" fill="#2b3a42" font-weight="bold">
-      <text x="86" y="40">dam</text>
-      <text x="256" y="40">wind farm</text>
-      <text x="430" y="40">forest</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="16" x="86" y="40">dam</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="16" x="256" y="40">wind farm</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="16" x="430" y="40">forest</text>
     </g>
     <!-- dam -->
     <g stroke="#2b3a42" stroke-width="2" fill="none">
@@ -34,16 +34,16 @@
     </g>
     <line x1="30" y1="196" x2="482" y2="196" stroke="#2b3a42" stroke-width="2"/>
     <g font-size="12" fill="#2b3a42">
-      <text x="40" y="216" font-weight="bold">benefits</text>
-      <text x="86" y="236">electricity, water</text>
-      <text x="256" y="236">clean power</text>
-      <text x="430" y="236">carbon stored, soil held</text>
-      <text x="40" y="266" font-weight="bold">harms</text>
-      <text x="86" y="286">valley flooded,</text>
-      <text x="86" y="302">people moved</text>
-      <text x="256" y="286">bird paths, land used</text>
-      <text x="430" y="286">no electricity produced</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="40" y="216" font-weight="bold">benefits</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="86" y="236">electricity, water</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="256" y="236">clean power</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="430" y="236">carbon stored, soil held</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="40" y="266" font-weight="bold">harms</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="86" y="286">valley flooded,</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="86" y="302">people moved</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="256" y="286">bird paths, land used</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="430" y="286">no electricity produced</text>
     </g>
-    <text x="256" y="330" font-size="12" fill="#222222">every option has a cost; the skill is seeing it clearly</text>
+    <text text-anchor="middle" x="256" y="330" font-size="12" fill="#222222">every option has a cost; the skill is seeing it clearly</text>
   </g>
 </svg>

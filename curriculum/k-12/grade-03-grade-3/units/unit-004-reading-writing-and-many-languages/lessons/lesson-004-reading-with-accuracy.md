@@ -107,21 +107,33 @@ written words keep their promise.
 
 ## Facilitator note
 
-Accuracy means reading the word that is actually written, not a guess that "looks
-close." Teach the three-step routine explicitly — say the sounds, blend, check it makes
-sense — as worked instruction, then guide practice before independent reading
-(Kirschner, Sweller & Clark, 2006). The routine is script-agnostic: the deeper rule —
-read what is really written, then check that it makes sense — holds in every writing
-system, though the exact step looks different in each. In a sound- or syllable-based
-script (Hangul, Devanagari, Ethiopic, Arabic, or the Latin alphabet), you read each part
-and put the parts together. In a character-based script (such as Chinese), you recognize
-each whole character and check its meaning. Never assume the Latin alphabet; a learner's
-"letters" may be characters, syllables, or marks of another kind. A learner who is Deaf
-or hard of hearing reads accurately in sign or fingerspelling; accuracy of the word is
-what counts. A learner who is blind or has low vision reads accurately in braille, in
-large print, or by listening to the text read aloud and echoing it — braille is a
-writing system too, and accuracy is the goal in it just the same. Celebrate each
-learner's accuracy against their own yesterday, never against a peer.
+**Tone.** Brisk and exact — accuracy is a routine you follow, not a talent you have.
+
+**The facts to land.**
+1. Accuracy means reading the word that is **actually written**, not a guess that
+   "looks close."
+2. The routine: say the sounds, blend them, check that it makes sense.
+3. The deeper rule holds in every writing system. In a sound- or syllable-based script
+   (Hangul, Devanagari, Ethiopic, Arabic, the Latin alphabet) you read each part and
+   join them. In a character-based script (such as Chinese) you recognize each whole
+   character and check its meaning.
+
+**Don't overshoot.** The steps look different in each script, so never let them harden
+into the only method, and never assume the Latin alphabet — a learner's "letters" may
+be characters or syllables.
+
+**The lenses, briefly.**
+- *Intellectual:* teach the routine as worked instruction, then guide practice,
+  before independent reading (Kirschner, Sweller & Clark, 2006).
+- *Critical-thinking:* "does it make sense?" catches the near-miss.
+- *Global:* every writing system carries its own accuracy, and each counts.
+
+**The skill.** Stop at a word that looks close, run the routine yourself, and fix it.
+
+**Access:** a learner who is Deaf or hard of hearing reads accurately in sign or
+fingerspelling; a learner who is blind or has low vision reads accurately in braille,
+in large print, or by listening and echoing — braille is a writing system too.
+Celebrate accuracy against the learner's own yesterday, never a peer's.
 
 ## Procedure
 

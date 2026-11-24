@@ -116,19 +116,36 @@ story.
 
 ## Facilitator note
 
-Choose a story whose characters are kind and recognizable, and tell it as a story to
-play with — never co-opting sacred or ceremonial roles. Use a neutral **turn marker** (a
-stone or cloth knot) rather than any single culture's ceremonial object. Never push a
-shy learner to perform; watching and copying is full participation, and a learner may
-join a group of actors instead of acting alone. A learner who uses a wheelchair or moves
-with support plays the whole character from where they are — a "walk" becomes a lean, a
-nod, or a hand gesture, and the face and voice carry the character fully. A learner who
-does not speak shows the character with face and body, or signs the character's key
-action. A learner who is blind or has low vision receives the story by ear and plays the
-character fully with voice and body — seeing is not needed to become the character. A
-learner who is Deaf or hard of hearing receives the story through sign, gesture, or
-pictures and plays the character with face, body, and movement. Celebrate every
-character; there is no correct way to play one.
+**Tone.** Playful and inviting. Everyone is cast; nobody auditions.
+
+**The facts to land.**
+
+1. Choose a story whose characters are kind and recognizable, and tell it as a story to
+   play with.
+2. The character is carried by face, voice, and body, not by a particular kind of
+   moving.
+3. A neutral **turn marker** (a stone or cloth knot) keeps turns fair, rather than any
+   single culture's ceremonial object.
+
+**Don't overshoot.** Never co-opt sacred or ceremonial roles, and never push a shy
+learner to perform — watching and copying is full participation, and a learner may join
+a group of actors instead of acting alone.
+
+**The lenses, briefly.**
+
+- *Ethics:* playing a character never means mocking a person.
+- *Social-emotional:* the character's feeling is the thing to find.
+- *Community:* the scene works because everyone takes a part.
+- *Global:* stories come from everywhere; every character is celebrated.
+
+**The skill.** Step into a character, then show what they feel and want.
+
+**Access.** Wheelchair or moves with support: play the whole character from where you
+are — a "walk" becomes a lean, a nod, or a hand gesture, and face and voice carry the
+character fully. Non-speaking: show the character with face and body, or sign the key
+action. Blind or low-vision: take the story by ear and play with voice and body — seeing
+is not needed. Deaf or hard of hearing: take the story through sign, gesture, or
+pictures, and play with face, body, and movement.
 
 ## Procedure
 

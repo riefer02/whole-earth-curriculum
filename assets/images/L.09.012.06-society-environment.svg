@@ -3,7 +3,7 @@
   <desc id="desc-L-09-012-06-society-environment">A circular loop with two arrows. One arrow labeled people shape the land shows people terracing, canal-building, and farming. The other arrow labeled the land shapes people shows drought, flood, and rich soil affecting people. The cycle is labeled adaptation and decline.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
-  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="21.8" font-weight="bold" fill="#2b3a42">Society &amp; Environment Shape Each Other</text>
+  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Society &amp; Environment Shape Each Other</text>
 
   <!-- center label -->
   <text x="256" y="268" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">over deep time:</text>

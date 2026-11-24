@@ -111,20 +111,34 @@ to a whole world. Today you trace your own thread and see how far it reaches.
 
 ## Facilitator note
 
-Its commitment: **every family shape and every culture is honored, and no tradition is
-"better" or "more real" than another.** A learner's family may be parents, one parent,
-grandparents, extended kin, guardians, foster or group care, a chosen circle, or a
-blended family — and "tradition" may be anything *kept and passed on*, from a holiday to
-a weekly meal to a way of remembering someone who has died. Handle adoption, loss, and
-mobility gently: a child who has moved or lost someone may hold a tradition that feels
-far away or painful — invite, never demand, and let "the tradition I carry in my heart"
-be a full answer. Some learners may have no family tradition they can name; a *cultural*
-tradition (a language, a greeting, a food of a place) is equally valid. Model the
-abstraction aloud: "a tradition connects me to a larger community when other people,
-beyond my own home, share or honor it." For a learner who is blind or has low vision,
-describe the two circles aloud and trace the threads in words or on a raised line. For a
-non-speaking learner, accept a drawing, an object, signing, or a partner voicing. The
-goal is connection and belonging, not disclosure.
+**Tone.** Warm and unhurried — every family and culture is honored.
+
+**The facts to land.**
+1. No tradition is "better" or "more real" than another.
+2. A family may be parents, one parent, grandparents, extended kin, guardians, foster or
+   group care, a chosen circle, or a blended family.
+3. Tradition may be anything kept and passed on — a holiday, a weekly meal, a way of
+   remembering someone who has died; a cultural tradition is equally valid.
+4. A tradition connects me to a larger community when other people, beyond my own home,
+   share or honor it.
+
+**Don't overshoot.** Handle adoption, loss, and mobility gently: invite, never demand.
+
+**The lenses, briefly.**
+- *Social-emotional:* belonging, not disclosure, is the goal.
+- *Global:* traditions from many places.
+- *Ethics:* a pass is a full answer.
+- *Community:* a tradition is held with others.
+
+**The skill.** Say one tradition you carry, and one person or group who shares it.
+
+**Safety floor.** a child who has moved or lost someone may hold a tradition that feels far
+away or painful; "the tradition I carry in my heart" is a full answer, and so is naming
+a cultural tradition instead of a family one.
+
+**Access:** for a learner who is blind or has low vision, describe the two circles aloud
+and trace the threads in words or on a raised line; for a learner who does not speak,
+accept a drawing, an object, signing, or a partner voicing.
 
 ## Procedure
 

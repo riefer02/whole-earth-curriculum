@@ -30,13 +30,13 @@
   <!-- Cues kept -->
   <g font-family="sans-serif" font-size="13" fill="#222222">
     <rect x="52" y="194" width="174" height="26" rx="8" fill="#eaf2ea"/>
-    <text x="139" y="212" text-anchor="middle">tone of voice</text>
+    <text fill="#222222" font-size="13" x="139" y="212" text-anchor="middle">tone of voice</text>
     <rect x="52" y="226" width="174" height="26" rx="8" fill="#eaf2ea"/>
-    <text x="139" y="244" text-anchor="middle">face and body</text>
+    <text fill="#222222" font-size="13" x="139" y="244" text-anchor="middle">face and body</text>
     <rect x="52" y="258" width="174" height="26" rx="8" fill="#eaf2ea"/>
-    <text x="139" y="276" text-anchor="middle">instant reply &amp; repair</text>
+    <text fill="#222222" font-size="13" x="139" y="276" text-anchor="middle">instant reply &amp; repair</text>
     <rect x="52" y="290" width="174" height="26" rx="8" fill="#eaf2ea"/>
-    <text x="139" y="308" text-anchor="middle">shared moment</text>
+    <text fill="#222222" font-size="13" x="139" y="308" text-anchor="middle">shared moment</text>
   </g>
 
   <!-- Right panel: screens -->
@@ -59,21 +59,21 @@
   <!-- Cues dropped (crossed) -->
   <g font-family="sans-serif" font-size="13" fill="#8a6d4a">
     <rect x="286" y="216" width="174" height="26" rx="8" fill="#f6ead8"/>
-    <text x="373" y="234" text-anchor="middle">tone of voice &#10007;</text>
+    <text fill="#8a6d4a" font-size="13" x="373" y="234" text-anchor="middle">tone of voice &#10007;</text>
     <rect x="286" y="248" width="174" height="26" rx="8" fill="#f6ead8"/>
-    <text x="373" y="266" text-anchor="middle">face and body &#10007;</text>
+    <text fill="#8a6d4a" font-size="13" x="373" y="266" text-anchor="middle">face and body &#10007;</text>
   </g>
 
   <!-- Cues added -->
   <g font-family="sans-serif" font-size="13" fill="#3a5a6a">
     <rect x="286" y="282" width="174" height="26" rx="8" fill="#dce9f0"/>
-    <text x="373" y="300" text-anchor="middle">+ reach across distance</text>
+    <text fill="#3a5a6a" font-size="13" x="373" y="300" text-anchor="middle">+ reach across distance</text>
     <rect x="286" y="314" width="174" height="26" rx="8" fill="#dce9f0"/>
-    <text x="373" y="332" text-anchor="middle">+ a lasting record</text>
+    <text fill="#3a5a6a" font-size="13" x="373" y="332" text-anchor="middle">+ a lasting record</text>
     <rect x="286" y="346" width="174" height="26" rx="8" fill="#dce9f0"/>
-    <text x="373" y="364" text-anchor="middle">+ an audience I can&#8217;t see</text>
+    <text fill="#3a5a6a" font-size="13" x="373" y="364" text-anchor="middle">+ an audience I can&#8217;t see</text>
   </g>
 
-  <text x="256" y="478.1" text-anchor="middle" font-family="sans-serif" font-size="13.1" fill="#4f6d7a">A screen keeps some signals and drops others — so checking is a skill,</text>
+  <text x="256" y="478.1" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">A screen keeps some signals and drops others — so checking is a skill,</text>
   <text x="256" y="496.3" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">not a failure.</text>
 </svg>

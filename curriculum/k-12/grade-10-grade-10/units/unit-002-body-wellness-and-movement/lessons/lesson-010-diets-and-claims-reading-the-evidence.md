@@ -118,34 +118,36 @@ you learn to judge the *claim* — and to refuse, firmly and kindly, to judge th
 
 ## Facilitator note
 
-The idea to land: **a nutrition claim is weighed against evidence — and the weighing is
-always done without shaming any body, at any size, in any way of eating.** The evidence
-baseline is the WHO healthy-diet fact sheet: health is supported by *variety* across
-food groups, and by limiting free sugars, salt/sodium, and saturated fat — not by any
-single magic food or by banning a whole category (S-038). Energy and nutrient needs
-**differ among bodies** by age, sex, size, and activity, and rise during the adolescent
-growth spurt (S-285) — which is *why* one-size-fits-all diet rules mislead. Marketing
-aimed at children and teens for foods high in fat, salt, and sugar is something the WHO
-explicitly recommends *limiting* (S-312) — a signal that much of what learners see is
-persuasion, not evidence.
+**Tone.** Brisk and careful: weigh the claim, never the body.
 
-Hold the **no-shame line** as a values commitment, distinct from the facts (philosophy
-§5): a learner's body and their family's way of eating are honored, always. The
-**ethics** lens: judging food claims is legitimate; judging bodies is not — and pushing
-a restrictive diet onto a growing body can itself cause harm, so "evidence-based" also
-means "does not harm." The **egalitarian** lens: what a person can eat is shaped by
-budget, access, culture, and food security (S-409); a "healthy" claim that assumes
-wealth and choice is a narrow claim. The **global** lens: every culture has its own
-healthy foods and ways of eating, and none is "correct" — the WHO's variety principle
-shows up in dishes around the world (S-038). The **technology & environment** lens: diet
-claims travel fastest through feeds, ads, and influencers whose incentives are
-engagement and profit, not health — and every food behind a claim also carries an
-environmental footprint, which Lesson 11 will trace. The **critical-thinking** lens: run
-each claim through the four questions — *what does it promise? what evidence backs it?
-who benefits? what does it leave out?* The **social-emotional** lens: diet talk can
-sting, especially for a body still growing; keep it gentle, and never let the discussion
-slide into commenting on anyone's body. Preview: Lesson 11 turns from the *body* to the
-*planet* — the environmental footprint of food.
+**The facts to land.**
+
+1. Health is supported by *variety* across food groups and by limiting free sugars,
+   salt/sodium, and saturated fat — not by a magic food or a banned category (S-038).
+2. Energy and nutrient needs differ by age, sex, size, and activity, and rise during the
+   growth spurt (S-285) — which is why one-size diet rules mislead.
+3. The WHO recommends limiting marketing to children of foods high in fat, salt, and
+   sugar (S-312): much of what learners see is persuasion, not evidence.
+
+**Don't overshoot.** Judging food claims is legitimate; judging bodies is not. Pushing a
+restrictive diet onto a growing body can itself cause harm, so "evidence-based" also
+means "does not harm" (philosophy §5).
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* four questions — what does it promise, what backs it, who
+  benefits, what does it leave out?
+- *Intellectual:* read the study, not the headline.
+- *Ethics:* "healthy" has to include not harming the person eating.
+- *Egalitarianism:* budget, access, culture, and food security shape what a person can
+  eat (S-409); a claim that assumes wealth is a narrow claim.
+- *Global:* every culture has healthy foods and ways of eating; variety shows up in
+  dishes worldwide (S-038).
+- *Social-emotional:* diet talk can sting; never let the discussion comment on
+  anyone's body.
+
+**The skill.** Model once, then release (S-011): run one diet claim through the four
+questions. Next lesson turns from the body to the planet.
 
 ## Procedure
 

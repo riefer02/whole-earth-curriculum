@@ -117,29 +117,37 @@ labeling — it is *seeing* more clearly what you feel.
 
 ## Facilitator note
 
-The ideas to land: **(1) emotion words vary across languages and cultures, and a
-culture's words shape what its members can easily notice and name; (2) precise emotion
-words ("emotional granularity") are associated with finer-grained experience and better
-regulation.** The first is a well-documented linguistic and anthropological fact; the
-second comes from the constructed-emotion literature, which holds that richer emotion
-vocabulary is associated with more differentiated experience and better regulation
-(S-401), and from the labeling tradition (S-015). Hold both as *descriptions*, not laws:
-a person with few emotion words still feels deeply, and **no language is "richer" or
-"better" than another — each opens some doors and, like all languages, leaves others to
-be opened by words or gestures** (philosophy §4, §11).
+**Tone.** Curious and generous: a learner who speaks a minority language should leave
+with more status, not less.
 
-Model the skill once, then let learners practice (S-011). The **global** lens is the
-heart of this lesson: treat every home language as a bearer of dignity and wealth, and
-never rank one language's feeling words above another's (S-019 frames multilingualism
-this way). The **egalitarian** lens: a learner whose home language is not the school's
-majority language is not "behind" — they carry a whole vocabulary of feeling others may
-not have. The **ethics** lens: naming another culture's untranslatable word is an act of
-respect — pronounce it with care, credit its speakers, and never turn a living word into
-a specimen. The **technology & environment** lens: translation apps and feeds flatten
-feeling into a small set of emoji and "react" options, which can shrink the very
-granularity this lesson is building; notice both the gift and the flattening. The
-**social-emotional** lens: feelings about language and belonging can run deep — invite,
-never force, and let learners offer words only if they wish.
+**The facts to land.**
+
+1. Emotion words vary across languages, and a culture's words shape what members can
+   easily notice and name.
+2. Precise emotion words — "emotional granularity" — track finer-grained experience and
+   better regulation (S-401, S-015).
+3. A person with few emotion words still feels deeply.
+
+**Don't overshoot.** No language is "richer" or "better"; each opens some doors and
+leaves others to be opened by words or gestures (philosophy §4, §11).
+
+**The lenses, briefly.**
+
+- *Global:* every home language is a bearer of dignity and wealth, and none is ranked
+  above another (S-019).
+- *Egalitarianism:* a learner whose home language is not the school's is not "behind";
+  they carry a vocabulary of feeling others may lack.
+- *Ethics:* naming another culture's untranslatable word is respect: pronounce it with
+  care, credit its speakers, never make it a specimen.
+- **Technology & environment:** translation apps and feeds flatten feeling into a few
+  emoji and react options; name the gift and the flattening.
+- *Social-emotional:* feelings about language and belonging run deep — invite, never
+  force; learners offer words only if they wish.
+- *Critical-thinking:* one word is not evidence about a culture; the granularity
+  finding is an association, not a law.
+
+**The skill.** Model once, then release (S-011): choose a feeling word from your own
+language, teach it to a partner, and test what English cannot say.
 
 ## Procedure
 

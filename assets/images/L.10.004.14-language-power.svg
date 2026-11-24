@@ -51,7 +51,7 @@
 
   <rect x="80" y="404" width="352" height="56" rx="12" fill="#dce9f0"/>
   <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Fact: some languages are privileged here.</text>
-  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#3a5a6a">Value: every language deserves to be a language of power and care.</text>
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#3a5a6a">Value: every language deserves to be a language of power and care.</text>
 
   <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Naming it is the first step toward language justice.</text>
 </svg>

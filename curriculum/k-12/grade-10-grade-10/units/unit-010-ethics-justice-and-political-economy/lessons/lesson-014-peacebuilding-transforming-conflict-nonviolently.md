@@ -115,25 +115,38 @@ of peacebuilding.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"), and closes the unit. The idea to land: **peace is
-built, not merely kept — through nonviolent resistance, dialogue and mediation, and truth and
-reconciliation — and different settings call for different strategies, which we weigh rather than
-rank.** Keep the history accurate and hedged: the 1930 Salt March was a nonviolent act of civil
-disobedience led by Gandhi against the British salt monopoly, part of India's independence movement
-(S-390); South Africa's Truth and Reconciliation Commission (main hearings 1996–1998) invited public
-testimony about past abuses and, in defined cases, offered amnesty for full disclosure, alongside
-reparations — a real, contested attempt to trade some punishment for truth and repair (S-392).
-Present both as attempts with real strengths and limits, not as perfect models. Draw on Galtung's
-distinction: peace is more than the absence of war — "positive peace" includes fairness, so
-peacebuilding also means reducing the structural violence of inequality and exclusion (S-462). The
-**community** lens is the spine: peace is made among people, in relationship. The **egalitarian**
-lens: a peace that protects the powerful and silences the harmed is not peace. The **global** lens:
-nonviolence, truth-telling, and reconciliation take different forms in every tradition — satyagraha,
-hózhó, ubuntu, and others — none is the default (S-205, S-161, S-465). The **ethics** lens: the means
-should match the end — a strategy that wins by humiliating others has already lost something. Close
-the unit by returning to its opening: all of this has been *weighing* — benefits and harms, for people
-and the planet — and questions held as questions, not answered as dogma (philosophy §11). Distinguish
-evidence from values throughout (philosophy §5).
+**Tone.** Measured: the unit gathering its threads, not a finale with flags.
+
+**The facts to land.**
+
+1. Peace is built, not merely kept — through nonviolent resistance, dialogue and
+   mediation, and truth and reconciliation — and different settings call for different
+   strategies, which we weigh rather than rank.
+2. The 1930 Salt March was nonviolent civil disobedience led by Gandhi against the
+   British salt monopoly, part of India's independence movement (S-390).
+3. South Africa's Truth and Reconciliation Commission (main hearings 1996–1998) invited
+   public testimony about past abuses and, in defined cases, offered amnesty for full
+   disclosure alongside reparations — a contested trade of some punishment for truth and
+   repair (S-392).
+4. Galtung: peace is more than the absence of war; "positive peace" includes fairness,
+   so peacebuilding also means reducing the structural violence of inequality and
+   exclusion (S-462).
+
+**Don't overshoot.** Both cases are attempts with real strengths and limits, not perfect
+models.
+
+**The lenses, briefly.**
+
+- *Community:* the spine — peace is made among people, in relationship.
+- *Egalitarianism:* a peace that protects the powerful and silences the harmed is not
+  peace.
+- *Global:* satyagraha, hózhó, ubuntu and others take different forms; none is the
+  default (S-205, S-161, S-465).
+- *Ethics:* the means should match the end; a strategy that wins by humiliating others
+  has already lost something.
+
+**The skill.** Model once, then release (S-011): weigh two strategies for one setting.
+Close by naming the through-line: all of it was weighing, questions held as questions (philosophy §11).
 
 ## Procedure
 

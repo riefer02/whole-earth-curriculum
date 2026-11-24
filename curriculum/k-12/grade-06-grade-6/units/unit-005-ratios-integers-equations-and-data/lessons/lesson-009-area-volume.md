@@ -114,20 +114,33 @@ courtyard in Marrakesh to a rice field in the Mekong delta.
 
 ## Facilitator note
 
-The ideas to land: (1) **area** counts how many **square units** cover a flat shape —
-for a rectangle, **length × width**; (2) **volume** counts how many **cubic units** fill
-a solid — for a rectangular prism, **length × width × height**; and (3) the formula is
-just fast counting: area counts one layer, volume counts the layers stacked. Model a
-worked example first, then guide a second before independent work (Kirschner, Sweller &
-Clark, 2006). Two common slips: confusing square units with cubic units (the dimension
-of the answer must match the question), and multiplying only two of the three numbers
-for volume. Retrieval: ask learners to recall perimeter and area from earlier grades —
-perimeter is the fence (edge), area is the field (surface), and now volume is the box
-(inside). The critical-thinking lens: always ask "what does this number measure —
-length, surface, or space?" so the unit and the story match (`docs/philosophy.md` §7).
-Note the global point: area and volume formulas were worked out in ancient Egypt and
-Mesopotamia (for fields and granaries), in China, and in India — measuring cover and
-fill is a human universal, not one culture's invention.
+**Tone.** Concrete. These formulas are fast counting, not spells.
+
+**The facts to land.**
+
+1. **Area** counts square units covering a flat shape — for a rectangle, length × width.
+2. **Volume** counts cubic units filling a solid — for a rectangular prism, length ×
+   width × height.
+3. The formula is fast counting: area counts one layer; volume stacks the layers.
+
+**Don't overshoot.** Do not let a number stand without its unit. Square units and cubic
+units answer different questions, and the dimension of the answer must match the
+question.
+
+**The lenses, briefly.**
+
+- *Intellectual:* perimeter is the fence, area the field, volume the space inside the
+  box.
+- *Global:* area and volume formulas were worked out in ancient Egypt and Mesopotamia
+  (fields and granaries), in China, and in India — measuring cover and fill is a human
+  universal, not one culture's invention.
+- *Critical-thinking:* always ask "what does this number measure — length, surface, or
+  space?" so the unit and the story match (`docs/philosophy.md` §7).
+
+**The skill.** Model a worked example, guide a second, then independent work (Kirschner,
+Sweller & Clark, 2006). Watch two slips: confusing square with cubic units, and
+multiplying only two of the three numbers for volume. Retrieval: perimeter and area from
+earlier grades.
 
 ## Procedure
 

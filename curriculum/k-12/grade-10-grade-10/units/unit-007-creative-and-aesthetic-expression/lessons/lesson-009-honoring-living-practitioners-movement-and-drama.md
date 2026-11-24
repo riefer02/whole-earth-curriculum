@@ -117,40 +117,34 @@ Today you learn to be the guest who asks.
 
 ## Facilitator note
 
-The idea to land: **the same four questions govern movement and drama, with one more
-layer — some forms are sacred, ceremonial, or owned by a specific community, and for
-those, respect may mean *not* performing them at all.** Capoeira is an Afro-Brazilian
-art of movement and song that developed among enslaved Africans in Brazil and carries
-strength and identity (S-325). Haka is a family of Māori posture dances — not one single
-"war dance" — each with its own words, meaning, and iwi (tribe), performed on real
-occasions (S-447). Tinikling is a Philippine folk dance in which dancers step between
-bamboo poles imitating the tikling bird (S-116). Each is *alive* — owned, taught, and
-performed by people now.
+**Tone.** Direct and careful: here, respect can mean *not* performing at all.
 
-Keep it concrete and never flatten a tradition. The distinction is about power and
-consent: learning a form from its practitioners, on their invitation, honoring its
-context, and crediting them is engagement; performing a sacred or ceremonial form
-without invitation or understanding, mocking or simplifying it, or profiting while the
-community earns nothing is appropriation. UNESCO's living-heritage frame (S-056) and the
-Universal Declaration on Cultural Diversity (S-389) support treating these forms as held
-by communities, not free material.
+**The facts to land.**
 
-The **ethics** lens is the spine. The **egalitarian** lens: the question "who is
-allowed, who is invited, who profits" is a question of power — respect corrects an
-imbalance. The **global** lens: forms are *people's*, alive now, not costumes from a
-"world culture" bin. The **technology** lens: video made any dance one click from any
-stage, so permission and credit are *more* urgent, not less. The **environment** lens: a
-form often grows from its place — the bamboo poles of tinikling, the roda (circle) of
-capoeira — and stripping the place strips the meaning. Preview: Lesson 10 turns to
-making — designing for a community need.
+1. The four questions govern movement too, with one more layer: some forms are sacred or
+   owned, and for those respect may mean declining.
+2. Capoeira is an Afro-Brazilian art of movement and song from enslaved Africans in
+   Brazil (S-325); haka is a family of Māori posture dances — not one "war dance" — each
+   with its own words, meaning, and iwi, performed on real occasions (S-447); tinikling
+   is a Philippine folk dance between bamboo poles, imitating the tikling bird (S-116).
+3. Engagement learns on invitation, honours context, and credits. Appropriation performs
+   a sacred form uninvited, mocks or simplifies it, or profits while the community earns
+   nothing (S-056, S-389).
 
-**Four scenarios** (adapt to your place; keep specific and respectful): 1. A dancer
-learns a form from its own teacher, by invitation, learns its meaning, and credits the
-community in the program. 2. A performer copies a ceremonial dance from a video,
-performs it as entertainment, and never asks or credits anyone. 3. A theater group
-invites a practitioner to teach and co-direct, and shares the ticket money. 4. A film
-uses a people's sacred gesture as a joke, flattening a living tradition into a punch
-line.
+**Don't overshoot.** Never flatten these into costumes from a "world culture" bin.
+
+**The lenses, briefly.**
+
+- *Ethics:* the spine — what is owed, and what is not mine to perform?
+- *Egalitarianism:* who is allowed, who is invited, who profits — a question of power.
+- *Global:* forms are people's, alive now.
+- *Technology:* video makes any dance one click from any stage.
+- *Environment:* a form grows from its place — bamboo poles, the roda.
+- *Community:* the iwi or community holds the right to say no.
+
+**The skill.** Cards: invitation-and-credit / copy a ceremonial dance as entertainment /
+invite a practitioner to co-direct and share the takings / a sacred gesture as a punch
+line. Model once, then release (S-011).
 
 ## Procedure
 

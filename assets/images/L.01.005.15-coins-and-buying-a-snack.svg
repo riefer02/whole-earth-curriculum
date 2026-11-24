@@ -5,7 +5,7 @@
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Coins and Buying a Snack</text>
-  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#4f6d7a">A coin is an agreed value &#8212; money is one system among many.</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">A coin is an agreed value &#8212; money is one system among many.</text>
 
   <!-- Three coins -->
   <circle cx="96" cy="150" r="30" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
@@ -59,6 +59,6 @@
   <rect x="366" y="426" width="12" height="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="378" y="452" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">salt</text>
 
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">Long ago people traded goods, shells, cacao, and salt &#8212; money is one way among many.</text>
-  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Having more coins is a fact, not a worth.</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Long ago people traded shells, cacao, and salt.</text>
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Having more coins is a fact, not a worth.</text>
 </svg>

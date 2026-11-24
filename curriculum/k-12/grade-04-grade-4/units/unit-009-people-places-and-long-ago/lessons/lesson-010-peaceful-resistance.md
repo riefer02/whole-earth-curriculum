@@ -127,20 +127,35 @@ to win dignity. Their choice still teaches us today.
 
 ## Facilitator note
 
-**This is the unit's closing lesson — tell all three stories with respect and accuracy,
-never as one people's triumph over another, but as three peoples' choice for dignity.**
-Teach the three with a worked example first (Kirschner, Sweller & Clark, 2006): tell
-Parihaka fully, then guide the Salt March and the Defiance Campaign. **Why peaceful?**
-Each people chose it for both moral and practical reasons — a belief in non-harming
-(Gandhi's *ahimsa*; Parihaka's commitment to peace), and because nonviolence wins
-supporters and avoids hurting others. **Hold the tension honestly but
-age-appropriately:** these were real struggles against real unfairness; do not soften
-the injustice, but do not dump adult despair — always connect to the people's courage
-and agency, and to the hope of fairness. Distinguish fact from value: *what happened* is
-history; *that peaceful resistance is good* is a value many people share. Honor every
-body: tell the stories in words for a learner who cannot see the cards; a learner who
-does not use a speaking voice acts or draws. If a learner's own people have a story of
-peaceful resistance, welcome it with honor.
+**Tone.** Respectful and steady — courage, not despair.
+
+**The facts to land.**
+1. Three stories, told with respect and accuracy: Parihaka, the Salt March, and the
+   Defiance Campaign — three peoples' choice for dignity, never one people's triumph
+   over another.
+2. Why peaceful? Each people chose it for moral and practical reasons — a belief in
+   non-harming (Gandhi's *ahimsa*; Parihaka's commitment to peace), and because
+   nonviolence wins supporters and avoids hurting others.
+3. *What happened* is history; *that peaceful resistance is good* is a value many people
+   share.
+
+**Don't overshoot.** Do not soften the injustice, and do not dump adult despair —
+connect to the people's courage and agency, and to the hope of fairness.
+
+**The lenses, briefly.**
+- *Ethics:* fact and value are named separately.
+- *Egalitarianism:* three peoples, equal in dignity.
+- *Global:* the choice appears in many places.
+- *Community:* each struggle was made by many people together.
+
+**The skill.** Retell one story in order, then name what the people chose and why.
+
+Tell Parihaka fully as the worked example, then guide the other two (Kirschner, Sweller
+& Clark, 2006).
+
+**Access:** tell the stories in words for a learner who cannot see the cards; a learner
+who does not use a speaking voice acts or draws. If a learner's own people have a story
+of peaceful resistance, welcome it with honor.
 
 ## Procedure
 

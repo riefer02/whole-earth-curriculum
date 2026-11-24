@@ -112,20 +112,38 @@ doing it all by yourself.
 
 ## Facilitator note
 
-Model the steps slowly, then **step back** — Grade 1 is about growing independence.
-Watch each learner and gently support, but let them do the washing. **Honor every
-context:** where water is scarce, teach the "wet, turn off (or put the jug down),
-lather, rinse" method that saves water, and note that ash can work when there is no
-soap. Where a learner cannot use their hands, a caregiver or older peer can help wash
-them — the goal is clean hands, not doing it alone. **Care is never a test** — celebrate
-effort, not perfection. A learner who does not use a speaking voice points or acts out
-the steps; a learner who is blind or has low vision is guided through each motion
-hand-over-hand. A learner who is deaf or hard of hearing follows the steps by watching
-the demonstration from the front and using picture step cards or hand-over-hand
-modeling, since every step is shown, not only told. The health facts here are from the
-World Health Organization: clean hands with soap remove germs that cause sickness. This
-lesson extends Kindergarten's "Washing Hands, Washing Me" (U.00.002) into independent
-practice.
+**Tone.** Brisk and encouraging. Model the steps slowly, then **step back**: Grade 1 is
+about growing independence.
+
+**The facts to land.**
+
+1. Clean hands with soap remove the germs that cause sickness (World Health
+   Organization).
+2. The steps: wet, lather, scrub, rinse, dry.
+3. Where water is scarce, use **wet, turn off (or put the jug down), lather, rinse** —
+   the same clean hands, less water.
+4. Ash can work when there is no soap.
+
+**Don't overshoot.** Care is never a test. Celebrate effort, not perfection, and let the
+learner do the washing.
+
+**The lenses, briefly.**
+
+- *Ethics:* the point is clean hands, not doing it alone.
+- *Egalitarianism:* where a learner cannot use their hands, a caregiver or older peer
+  may help wash them.
+- *Global:* water and soap are not equally available everywhere; teach the method that
+  fits the place.
+- *Environment:* turning the water off while lathering uses less of it.
+
+**The skill.** Wash your own hands, and turn the water off while you lather.
+
+**Access.** Non-speaking: point to or act out the steps. Blind or low-vision: be guided
+through each motion hand-over-hand. Deaf or hard of hearing: watch the demonstration
+from the front and use picture step cards — every step is shown, not only told.
+
+**Safety floor.** Watch each learner and support gently; this extends Kindergarten's "Washing
+Hands, Washing Me" (U.00.002) into independent practice.
 
 ## Procedure
 

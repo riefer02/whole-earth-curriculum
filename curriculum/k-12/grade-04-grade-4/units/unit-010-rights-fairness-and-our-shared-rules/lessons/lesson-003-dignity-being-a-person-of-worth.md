@@ -120,21 +120,33 @@ what dignity means and name a moment it was honored or denied.
 
 ## Facilitator note
 
-This lesson teaches **dignity** — the worth every person has, simply by being a person.
-Hold it with care and **never as shame**: the "denied" examples are *invented and
-gentle* (ignored, talked over, left standing), and the point is the *act*, never the
-*person*. No learner is ever asked to confess a time they denied someone's dignity, and
-no learner is ever labeled as having denied it. Frame both panels as things that happen
-in the world, and hold "what does each way of treating someone do to their worth?" as a
-question. Emphasize that dignity cannot be *taken* — it can only be *denied* — so the
-learning ends in agency and hope: we can choose to honor it. A learner who does not
-speak aloud points to the honored panel or signs; a learner who is deaf or hard of
-hearing follows the strip through sign and caption; a learner who is blind or low-vision
-hears both panels described and names which honors and which denies worth, and why; a
-learner with a motor difference can direct a partner to act the scene. A learner may
-always pass. The aim is that every learner can say, in their own way, "dignity means
-being treated as a person of worth — here is a moment it was honored, and here is one it
-was denied."
+**Tone.** Careful and never shaming — the point is the act, never the person.
+
+**The facts to land.**
+1. Dignity is the worth every person has, simply by being a person.
+2. Dignity cannot be *taken*; it can only be *denied* — so the learning ends in agency
+   and hope, because we can choose to honor it.
+3. The "denied" examples are invented and gentle — ignored, talked over, left standing.
+
+**Don't overshoot.** No learner is asked to confess a time they denied someone's
+dignity, and no learner is labelled as having denied it.
+
+**The lenses, briefly.**
+- *Ethics:* hold "what does each way of treating someone do to their worth?" as a
+  question.
+- *Egalitarianism:* worth is equal and depends on nothing.
+- *Social-emotional:* invented panels keep real feelings safe.
+- *Global:* dignity is named in many traditions.
+- *Community:* honoring dignity is something a group practices.
+- *Critical-thinking:* distinguish the act from the person.
+
+**The skill.** Say, in your own words: dignity means being treated as a person of worth
+— here is a moment it was honored, and one where it was denied.
+
+**Access:** a learner who does not speak points to the honored panel; a learner who is
+deaf or hard of hearing follows the strip through sign and caption; a learner who is
+blind or has low vision hears both panels described; a learner with a motor difference
+directs a partner. A learner may always pass.
 
 ## Procedure
 

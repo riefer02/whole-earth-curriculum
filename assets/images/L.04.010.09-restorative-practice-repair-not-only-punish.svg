@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="20.4" font-weight="bold" fill="#2b3a42">Restorative Practice: Repair, Not Only Punish</text>
+  <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Restorative Practice: Repair, Not Only Punish</text>
 
   <!-- three step boxes in a ring -->
   <rect x="24" y="64" width="140" height="86" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

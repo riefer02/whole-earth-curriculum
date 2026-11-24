@@ -132,7 +132,7 @@ and grief now travel on screens at speed and scale (a frightening rumor, a share
 of loss), and the living world carries its own griefs — a burned forest, a vanished
 species, a flooded home — that communities mourn together.
 
-**Emotional safety is non-negotiable here.** Fear and grief are heavy. Keep examples
+**Emotional safety.** Fear and grief are heavy. Keep examples
 general and avoid graphic detail; do not require anyone to share personal loss. Offer
 opt-outs and a moment of quiet. Always pair the heavy with the possible: reading a
 climate is a skill, and holding grief in common is something humans have always done —

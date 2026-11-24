@@ -125,18 +125,33 @@ strength.
 
 ## Facilitator note
 
-The ideas to land: **(1) mathematics is four habits that grow together — number,
-relationship, shape, and data; (2) Grade 7 already built the foundation (rational
-numbers, y = kx, circles and π, scale drawings, sampling, probability); (3) Grade 8
-extends each one — numbers beyond the rational and scientific notation, functions and
-linear equations and systems, transformations and the Pythagorean theorem, and scatter
-plots with lines of fit.** This is a **recall-and-preview**, not a test — celebrate what
-learners can already name, never rank them. The global lens: mathematics has grown in
-many lands (numerals from India through the Arab world, π approximated in Egypt, China,
-and Greece — S-023, S-291); hold those traditions side by side (philosophy §11). The
-egalitarian lens: mathematics is sense-making open to everyone, not a gate (S-009,
-S-008). The technology lens: tools (calculator, graphing tool) speed the work but do not
-replace the sense-making. Keep the map: learners will return to it at the capstone.
+**Tone.** Warm and unhurried — this is recall, not a test.
+
+**The facts to land.**
+
+1. Mathematics is four habits that grow together: number, relationship, shape, and data.
+2. Grade 7 built the foundation — rational numbers, y = kx, circles and π, scale
+   drawings, sampling, probability.
+3. Grade 8 extends each one: numbers beyond the rational and scientific notation;
+   functions, linear equations, and systems; transformations and the Pythagorean
+   theorem; scatter plots with lines of fit.
+
+**Don't overshoot.** Celebrate what learners can already name; never rank them or
+present the preview as content to master today.
+
+**The lenses, briefly.**
+
+- *Intellectual:* the four habits are one mathematical way of thinking.
+- *Egalitarianism:* mathematics is sense-making open to everyone, not a gate (S-009,
+  S-008).
+- *Global:* mathematics grew in many lands — numerals from India through the Arab world,
+  π approximated in Egypt, China, and Greece (S-023, S-291); hold them side by side
+  (`philosophy` §11).
+- *Technology:* calculators and graphing tools speed the work but do not replace the
+  sense-making.
+- *Critical-thinking:* naming what you know is the first step to extending it.
+
+**The skill.** Keep the map; learners return to it at the capstone.
 
 ## Procedure
 

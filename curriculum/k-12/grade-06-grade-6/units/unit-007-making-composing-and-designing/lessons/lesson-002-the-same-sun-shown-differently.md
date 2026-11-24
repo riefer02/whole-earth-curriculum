@@ -121,17 +121,33 @@ those choices is how we meet another time and place with respect and wonder.
 
 ## Facilitator note
 
-The idea to land is **non-ranking comparison with a reason**: we look closely at what
-each image is *made of* and *shows*, connect those observations to a place, time,
-material, or belief, and offer a *reason* for the difference — never to call one "more
-advanced." These are **living and significant images**; the Egyptian winged disk and the
-Japanese rising-sun motif are meaningful to people today, and the Inca Inti belongs to
-Andean communities — present them with reverence, not as curiosities. Note for
-sensitivity: the Japanese rising-sun *motif* predates and is distinct from the modern
-flag's contested uses; keep the lesson on the artwork, not the flag. If a learner (or
-their family) belongs to a tradition shown here, invite them to be the authority on its
-meaning and never correct them about their own culture. See `docs/facilitation.md` on
-honoring living traditions and `docs/contexts.md` on cultural power dynamics.
+**Tone.** Reverent and unhurried. These are living images, not specimens.
+
+**The facts to land.**
+
+1. Compare **without ranking**: look closely at what each image is *made of* and
+   *shows*, connect it to a place, time, material, or belief, and give a *reason* for
+   the difference.
+2. The Egyptian winged disk, the Japanese rising-sun motif, and the Inca Inti, which
+   belongs to Andean communities, are **meaningful to people today** — present them with
+   reverence, never as curiosities.
+3. If a learner or their family belongs to a tradition shown, **they are the authority**
+   on its meaning; never correct them about their own culture.
+
+**Don't overshoot.** Do not call one image "more advanced." The Japanese rising-sun
+*motif* predates, and is distinct from, the modern flag's contested uses — keep the
+lesson on the artwork, not the flag.
+
+**The lenses, briefly.**
+
+- *Global:* motifs travel and mean different things in different places.
+- *Egalitarianism:* every tradition's image gets the same close attention.
+- *Critical-thinking:* a comparison needs a reason, not a verdict.
+- *Ethics:* depicting a living tradition carries a duty of care.
+
+**The skill.** Make one comparison that names a reason, and ask a question rather than
+pronounce. See `docs/facilitation.md` on honoring living traditions and
+`docs/contexts.md` on cultural power dynamics.
 
 ## Procedure
 

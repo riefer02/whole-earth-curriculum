@@ -111,22 +111,34 @@ the idea comes from.
 
 ## Facilitator note
 
-The ideas to land: **(1) a human right is a claim that belongs to every person simply
-because they are human — it does not have to be earned and cannot be taken away in
-principle; (2) rights rest on equal dignity: every person is born with worth; (3) the
-Universal Declaration of Human Rights was adopted by the United Nations in 1948 after a
-devastating war, as a shared promise to the world; (4) a right is a "should" — saying
-everyone *has* a right is not the same as saying everyone already *enjoys* it.**
-Distinguish "should" (value/aspiration) from "is" (fact) explicitly and repeatedly —
-this is the unit's evidence-vs-values spine. The ethics lens: rights are a moral
-standard we hold ourselves and others to. The egalitarian lens: rights are *universal* —
-they do not depend on wealth, birthplace, or power. The global lens: the UDHR was
-written by people from many countries (and has been translated into hundreds of
-languages), and it is one shared agreement among many traditions, not the invention of
-one region. The critical-thinking lens: the Declaration is a document humans wrote —
-question it, but also know what it says. Cite the UDHR (S-149) and the Convention on the
-Rights of the Child (S-060). Do not quiz learners on memorizing article numbers; the
-goal is the concept of universality and dignity.
+**Tone.** Steady and principled. A right is a "should," never a description of what is.
+
+**The facts to land.**
+
+1. A **human right** is a claim belonging to every person simply because they are human
+   — it does not have to be earned and cannot be taken away in principle.
+2. Rights rest on **equal dignity**: every person is born with worth.
+3. The **Universal Declaration of Human Rights** was adopted by the United Nations in
+   1948, after a devastating war, as a shared promise to the world. People from many
+   countries wrote it, and it has been translated into hundreds of languages.
+4. A right is a "should": saying everyone *has* a right is not saying everyone already
+   *enjoys* it.
+
+**Don't overshoot.** Do not imply rights enforce themselves. The gap between "should"
+and "is" is the lesson, and it needs saying again and again.
+
+**The lenses, briefly.**
+
+- *Ethics:* rights are a moral standard we hold ourselves and others to.
+- *Egalitarianism:* rights are universal — they do not depend on wealth, birthplace, or
+  power.
+- *Global:* one shared agreement among many traditions, not the invention of one region.
+- *Critical-thinking:* the Declaration is a document humans wrote — question it, and
+  know what it says.
+
+**The skill.** Sort claims: a right (what should be) versus a fact (whether it is
+honored). Do not quiz article numbers; the goal is universality and dignity. Cite the
+UDHR (S-149) and the Convention on the Rights of the Child (S-060).
 
 ## Procedure
 

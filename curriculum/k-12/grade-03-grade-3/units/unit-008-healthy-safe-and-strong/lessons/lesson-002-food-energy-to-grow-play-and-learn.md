@@ -117,19 +117,34 @@ see how food powers every part of your day.
 
 ## Facilitator note
 
-**No food moralizing, no "good" or "bad" foods, and no talk of body size or weight.**
-Food's job is to give energy, and different families get that energy from different
-foods — rice, maize, wheat, millet, beans, roots, fish, eggs, fruits, and greens all
-fuel bodies well. A food that is everyday for one family may be rare for another, and
-neither is wrong. This lesson retrieves Grade 2's food groups (U.02.008) and deepens it
-with the *why*: energy for growth, play, and learning. A learner who does not use a
-speaking voice points, signs, or acts out the energy a food gives; a learner who is
-blind or has low vision feels real or textured foods and names the energy each gives; a
-learner who is deaf or hard of hearing follows the cards and demonstrations from the
-front, since every idea is shown, not only told. Some learners may not have enough food
-at home — frame food as energy every body deserves, and respond with care if a learner
-shares something hard. The health facts are from the World Health Organization: food
-provides the energy and nutrients the body needs to grow and stay healthy.
+**Tone.** Cheerful and neutral — no food is a moral test.
+
+**The facts to land.**
+1. Food's job is **energy** — for growth, play, and learning. It provides the energy and
+   nutrients a body needs to grow and stay healthy (World Health Organization).
+2. Different families get that energy from different foods: rice, maize, wheat, millet,
+   beans, roots, fish, eggs, fruits, and greens all fuel bodies well.
+3. A food everyday for one family may be rare for another; neither is wrong.
+
+**Don't overshoot.** No "good" or "bad" foods, and no talk of body size or weight — that
+framing costs the lesson its credibility with families.
+
+**The lenses, briefly.**
+- *Physical:* energy is felt after play and after lunch.
+- *Ethics:* no family's table is the standard.
+- *Egalitarianism:* no portion story becomes a worth story.
+- *Global:* the range of foods above is the content.
+
+**The skill.** Say what a food gives your body, and where it came from.
+
+Spiral: U.02.008, plus the *why*.
+
+**Safety floor.** some learners may not have enough food at home. Frame food as energy every
+body deserves, and respond with care if a learner shares something hard.
+
+**Access:** a learner who does not use a speaking voice points or signs the energy a
+food gives; a learner who is blind or has low vision feels real or textured foods; a
+learner who is deaf or hard of hearing follows the cards shown from the front.
 
 ## Procedure
 

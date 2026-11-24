@@ -122,24 +122,36 @@ than managing waste.
 
 ## Facilitator note
 
-Grade 2 followed what happens to a piece of litter; Grade 3 named resources that run out
-versus come back and ways to use less; Grade 4 puts it together: explain **where trash
-goes** and name the **reduce–reuse–recycle order**. Teach the order explicitly and give
-the reasoning — reduce is best *first* because making less waste avoids the problem,
-reuse second because it keeps an item's value, recycle last because it still costs
-energy and water (the "waste hierarchy," U.S. EPA). Model the trash path and the ranking
-once, then guide practice before independent work (Kirschner, Sweller & Clark, 2006).
-**Keep it stewardship-framed, never doom or guilt**: the message is "we can do this, and
-many people already do," not "you are ruining the Earth." **Honor no-wealth and global
-contexts**: reduce, reuse, and recycle are *universal* practices — mending clothes,
-carrying a reusable bag, saving containers, feeding scraps to animals, passing things
-on — not something that requires buying "eco" products; many of the world's most careful
-stewards are people with the least. Name that some places have no curbside recycling at
-all, and that is not a failing of the people there. Frame the "recycle last" idea
-without shaming places that lack systems. Honor every body: describe the sequence aloud
-for a learner who is blind or has low vision; a non-speaking learner points to the three
-R's and ranks them; acting out the three R's works for learners who learn best by
-moving.
+**Tone.** Hopeful and practical — stewardship, never doom or guilt.
+
+**The facts to land.**
+1. Explain **where trash goes**, then name the order: **reduce, reuse, recycle**.
+2. Reduce is best *first* because making less waste avoids the problem; reuse second
+   because it keeps an item's value; recycle last because it still costs energy and
+   water (the "waste hierarchy," U.S. EPA).
+3. Reduce, reuse, and recycle are *universal* practices — mending clothes, carrying a
+   reusable bag, saving containers, feeding scraps to animals, passing things on — not
+   products to buy.
+
+**Don't overshoot.** The message is "we can do this, and many people already do," not
+"you are ruining the Earth." Many of the world's most careful stewards are people with
+the least.
+
+**The lenses, briefly.**
+- *Environment:* the order follows the cost of each choice.
+- *Ethics:* stewardship is care, not blame.
+- *Global:* some places have no curbside recycling, and that is not a failing of the
+  people there.
+- *Egalitarianism:* caring needs no money.
+
+**The skill.** Rank the three R's for one item, and say why reduce comes first.
+
+Model the trash path and the ranking once, then guide practice before independent work
+(Kirschner, Sweller & Clark, 2006).
+
+**Access:** describe the sequence aloud for a learner who is blind or has low vision; a
+learner who does not speak points to the three R's and ranks them; acting out the three
+R's works for movers.
 
 ## Procedure
 

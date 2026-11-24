@@ -55,7 +55,7 @@ context_variants:
     note: Draw a body outline on the ground and step to the spot where a named feeling lives, saying the feeling aloud
 assets:
   - path: assets/images/L.05.003.01-mind-and-body-connection.svg
-    alt: A diagram showing a thought bubble reading "I have a big test tomorrow" beside a worried face, with an arrow pointing to a simple body outline whose stomach is shaded and labeled "tight stomach." A caption reads "A worry in the mind can show up as a feeling in the body." Labels and arrows, not color alone, carry the meaning.
+    alt: "A thought bubble reading “I have a big test tomorrow” with an arrow to a child's body; the stomach is shaded and a leader line names it “tight stomach — a feeling in the body”."
     kind: image
     source: original
 duration_minutes: 45

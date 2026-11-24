@@ -101,6 +101,6 @@
     <path d="M331 417 Q336 420 341 417" fill="none" stroke="#2b3a42" stroke-width="1.6" stroke-linecap="round"/>
   </g>
 
-  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="15.8" fill="#4f6d7a">You do not need to be big or strong to notice and be kind.</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">You do not need to be big or strong to notice and be kind.</text>
   <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#4f6d7a">Noticing and helping are two parts of one brave act</text>
 </svg>

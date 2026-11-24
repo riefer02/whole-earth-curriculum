@@ -114,24 +114,39 @@ traveled the world.
 
 ## Facilitator note
 
-The ideas to land: **(1) zero has two jobs — a placeholder (keeping 305 apart from 35)
-and a number in its own right; (2) the decimal place-value system with zero and the ten
-glyphs 0–9 was developed in India; Brahmagupta (7th century CE) wrote rules for
-calculating with zero and negatives; (3) the system reached the wider world through
-Arabic-speaking scholars (hence "Hindu-Arabic numerals"), with al-Khwarizmi's book on
-Indian calculation (c. 820 CE) and Fibonacci's Liber Abaci (1202) among the carriers;
-(4) its world effect is enormous — modern arithmetic, algebra, science, money, and
-computing all rest on it.** These facts are documented (see Ifrah, *The Universal
-History of Numbers*, S-023; and Encyclopaedia Britannica, "zero"). Model the place-value
-worked example explicitly, then let learners build numbers (Kirschner, Sweller & Clark,
-2006). The technology lens: a numeral system is a technology — a tool that changed what
-humans could compute and know. The global lens: this is a South Asian achievement that
-moved through many peoples (Persian, Arabic, and later European scholars) — a genuinely
-global chain of credit, not one nation's triumph. The egalitarian lens: for centuries a
-mostly European story-line called these "Arabic numerals" without naming India; naming
-the full chain of credit is a small act of fairness. The critical-thinking lens: the
-"obvious" numbers we use daily are not obvious at all — they are a specific, invented,
-and traveled idea, which we can question and trace.
+**Tone.** Matter-of-fact. Zero is an invention, and a strange one.
+
+**The facts to land.**
+
+1. **Zero has two jobs** — a placeholder (keeping 305 apart from 35) and a number in its
+   own right.
+2. The decimal place-value system with zero and the ten glyphs 0–9 was **developed in
+   India**; Brahmagupta (7th century CE) wrote rules for calculating with zero and
+   negatives.
+3. It reached the wider world through **Arabic-speaking scholars** (hence "Hindu-Arabic
+   numerals"): al-Khwarizmi's book on Indian calculation (c. 820 CE) and Fibonacci's
+   *Liber Abaci* (1202) were among the carriers.
+4. Its world effect is enormous — modern arithmetic, algebra, science, money, and
+   computing all rest on it.
+
+**Don't overshoot.** Do not call the system "Arabic" and stop there, or treat our digits
+as obvious. The chain of credit runs through South Asia, Persia, the Arabic-speaking
+world, and Europe.
+
+**The lenses, briefly.**
+
+- *Technology:* a numeral system is a tool that changed what humans could compute and
+  know.
+- *Global:* a South Asian achievement that moved through many peoples — a genuinely
+  global chain of credit.
+- *Egalitarianism:* naming the full chain is a small act of fairness, after centuries of
+  a mostly European story-line.
+- *Critical-thinking:* the "obvious" numbers we use are a specific, invented, traveled
+  idea we can trace and question.
+
+**The skill.** Model the place-value worked example explicitly, then let learners build
+numbers (Kirschner, Sweller & Clark, 2006). See Ifrah, *The Universal History of
+Numbers* (S-023), and Encyclopaedia Britannica, "zero."
 
 ## Procedure
 

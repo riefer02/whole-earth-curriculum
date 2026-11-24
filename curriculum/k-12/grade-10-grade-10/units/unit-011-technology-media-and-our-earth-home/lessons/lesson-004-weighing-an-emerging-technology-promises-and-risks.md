@@ -115,21 +115,32 @@ and decide with your eyes open. That weighing, not a verdict, is the skill.
 
 ## Facilitator note
 
-The idea to land: **a technology is judged by weighing its promises and risks for
-humanity and the environment — not by worshipping it or fearing it — and the weighing
-must ask *for whom* and *at what cost to the Earth*.** This is the unit's central stance
-(neither worship nor fear). The **technology** and **environment** lenses are the twin
-pans of the scale. The **egalitarian** lens: promises and risks are distributed
-unevenly — who gains access and who bears harm is a question of justice (S-281). The
-**global** lens: an emerging technology lands differently where infrastructure, law, and
-wealth differ. The **ethics** lens: whether a risk is acceptable is a value judgment,
-not a measurement. Ground the examples in sources: generative AI's real capabilities and
-limits (machine translation as a concrete case, S-350; synthetic media and deepfakes,
-S-393), and genetic tools' real foundations in heredity and crop genetic resources
-(S-177, S-178). Model the discipline of hedging — say "may," "can," "some evidence
-suggests," not certainty. Distinguish evidence from values (philosophy §5). Preview:
-next lesson we turn to the media strand — how to check a claim in the flood of
-information these very tools produce.
+**Tone.** Deliberately unexcited: neither worship nor fear, just the scales.
+
+**The facts to land.**
+
+1. A technology is judged by weighing its promises and risks for humanity and the
+   environment, asking *for whom* and *at what cost to the Earth*.
+2. Ground the examples: generative AI's real capabilities and limits, with machine
+   translation as a concrete case (S-350) and synthetic media and deepfakes as a
+   concrete risk (S-393); genetic tools rest on real foundations in heredity and crop
+   genetic resources (S-177, S-178).
+3. Promises and risks are distributed unevenly — who gains access and who bears harm is
+   a question of justice (S-281) — and a technology lands differently where
+   infrastructure, law, and wealth differ.
+
+**Don't overshoot.** Hedge the language — "may", "can", "some evidence suggests" — and
+remember that whether a risk is acceptable is a value judgment, not a measurement.
+
+**The lenses, briefly.**
+
+- **Technology and environment:** the twin pans of the scale.
+- *Egalitarianism:* access and harm are not shared out evenly.
+- *Global:* infrastructure, law, and wealth change what a tool does.
+- *Ethics:* acceptability is weighed, not measured (philosophy §5).
+
+**The skill.** Model once, then release (S-011): two columns, one defensible verdict,
+every claim hedged. Next lesson turns to checking claims in the media flood.
 
 ## Procedure
 

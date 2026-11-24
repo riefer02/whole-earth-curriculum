@@ -114,23 +114,37 @@ feed.
 
 ## Facilitator note
 
-The idea to land: **media ownership can be concentrated — many outlets, few owners — and
-that concentration shapes what is reported and left out, because owners set priorities
-and resources; plurality of independent voices is what protects a public's right to
-know.** Keep the analysis structural, not conspiratorial: owners influence through
-staffing, budgets, and editorial direction, not usually by direct command. The
-**egalitarian** lens: whose stories get told and whose are dropped tracks power — the
-voices that own the megaphone are heard; the rest are not (S-442, S-417). The **global**
-lens: media systems differ — public-service broadcasting, community radio, and
-press-freedom arrangements vary widely, and none is the human default (S-217). The
-**technology** lens: digital platforms have become the new gatekeepers, and their
-ownership and algorithms shape the feed (S-481, S-482). The **ethics** lens: journalism
-has a duty to inform fairly, and ownership that narrows that duty is an ethical problem.
-The **environment** lens: media ownership also shapes *which* stories are told —
-including environmental stories that threaten powerful interests. Distinguish evidence
-(who owns what) from values (what a fair media system should look like) (philosophy §5).
-Preview: next lesson analyzes what gets reported and what gets left out, as a portfolio
-artifact.
+**Tone.** Structural, not conspiratorial: follow the money and the org chart, not the
+villain.
+
+**The facts to land.**
+
+1. Media ownership can be concentrated — many outlets, few owners — and that shapes what
+   is reported and left out, because owners set priorities and resources; a plurality of
+   independent voices is what protects the public's right to know.
+2. Owners influence through staffing, budgets, and editorial direction, not usually by
+   direct command.
+3. Media systems differ: public-service broadcasting, community radio, and press-freedom
+   arrangements vary widely, and none is the human default (S-217).
+
+**Don't overshoot.** Do not imply a secret order behind the news; concentration is
+documented and structural, and it is enough.
+
+**The lenses, briefly.**
+
+- *Egalitarianism:* whose stories get told tracks power; those who own the megaphone are
+  heard (S-442, S-417).
+- *Global:* systems differ, and none is the model.
+- *Technology:* platforms are the new gatekeepers, and their ownership and algorithms
+  shape the feed (S-481, S-482).
+- *Ethics:* journalism has a duty to inform fairly; ownership that narrows it is an
+  ethical problem.
+- *Environment:* ownership shapes which environmental stories are told, especially
+  those that threaten powerful interests.
+
+**The skill.** Model once, then release (S-011): trace one outlet to its owners. Keep
+evidence (who owns what) apart from values (what a fair system should look like)
+(philosophy §5).
 
 ## Procedure
 

@@ -114,36 +114,39 @@ care, what fits their lives.
 
 ## Facilitator note
 
-**Land the accurate method facts** (from WHO, S-453): methods fall into **barrier**
-(external and internal condoms), **hormonal** (pills, injections, patches, vaginal
-rings), **long-acting** (implants, intrauterine devices/IUDs, and permanent methods like
-sterilization), and **emergency contraception** (used soon after unprotected sex, not
-for routine use). The one fact to make unforgettable: **condoms are the only method that
-also protects against sexually transmitted infections, including HIV** — so "dual
-protection" (condom plus another method) is how couples get both pregnancy prevention
-and infection protection. Condoms are effective at preventing pregnancy **if used
-correctly**; effectiveness depends on correct and consistent use. For relationships
-where pregnancy is not a possibility (for example, two people who cannot conceive
-together), condoms and testing still matter for infection prevention — the skills apply
-to every kind of intimacy, and no kind of couple is assumed or ranked.
+**Tone.** Clinical and unembarrassed: a chart to read, not a recommendation to make.
 
-**Sensitive-topic guidance:** teach methods factually, not as a recommendation to be or
-not be sexually active — the decision to be active or abstinent is the learner's own,
-and both are treated with respect. Do not distribute or demonstrate physical
-contraceptives unless your setting and local law permit it; the chart is enough.
-Learners may **opt out** of discussion. If a learner discloses pregnancy risk or unsafe
-circumstances, respond privately and follow your safeguarding procedure to a **trusted
-adult or health service**.
+**The facts to land.**
 
-The **ethics** lens: honest information lets people decide with care rather than by
-accident. The **egalitarian** lens: access to contraception is unequal — WHO notes
-barriers including age, income, and misinformation — and that unequal access is a
-justice issue, not a personal failing. The **global** lens: availability, cost, and law
-differ enormously across countries and communities — some provide contraception free
-through public health services, while in others cost, distance, or legal limits put it
-out of reach (a difference in *access*, never in people's worth). The **technology**
-lens: contraception is a technology, old and new (from barrier methods to long-acting
-devices), and its *access* — not just its existence — shapes health.
+1. The methods (WHO, S-453): **barrier** (external and internal condoms), **hormonal**
+   (pills, injections, patches, rings), **long-acting** (implants, IUDs, sterilization),
+   and **emergency contraception** (soon after unprotected sex, never routine).
+2. **Condoms are the only method that also protects against STIs, including HIV**, so
+   "dual protection" — condom plus another method — is how to get both.
+3. Effectiveness depends on correct, consistent use. Where pregnancy is impossible,
+   condoms and testing still matter for infection; no couple is assumed or ranked.
+
+**Don't overshoot.** Teach factually, never as advice to be or not be active; that
+decision is the learner's.
+
+**The lenses, briefly.**
+
+- *Ethics:* honest information lets people decide with care rather than by accident.
+- *Egalitarianism:* access is unequal — WHO notes age, income, and misinformation
+  barriers — a justice issue, not a failing.
+- *Global:* availability, cost, and law differ — free in one place, out of reach in
+  another: access, never worth.
+- *Technology:* contraception is a technology, old and new; its *access* shapes
+  health.
+- *Critical-thinking:* existence is not availability; check local facts.
+
+**Safeguarding.** Do not distribute or demonstrate contraceptives unless setting and
+local law permit; the chart is enough. Learners may opt out. If a learner discloses
+pregnancy risk or unsafe circumstances, respond privately and follow safeguarding to a
+trusted adult or health service.
+
+**The skill.** Model the chart, then release (S-011): sort the methods by what each
+prevents.
 
 ## Procedure
 

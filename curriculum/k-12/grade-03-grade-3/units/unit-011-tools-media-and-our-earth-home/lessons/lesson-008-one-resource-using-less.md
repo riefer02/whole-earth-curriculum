@@ -116,20 +116,35 @@ first step to caring for it.
 
 ## Facilitator note
 
-This is the Grade 3 upgrade of Grade 2's "name one way to save water or energy": now
-learners also name **where the resource comes from**. The three-part frame — *name the
-resource, where it comes from, one way to use less* — is a foundational skill, so model
-it once and guide practice before learners work independently (Kirschner, Sweller &
-Clark, 2006). Keep the tone gentle and empowering: this is agency, not guilt. A learner
-uses less *because they understand* the resource, not because they are told to obey. Use
-examples with no wealth assumption and no blame: a village well and a city tap both
-trace back to rain; a family with little water already saves carefully, and the lesson
-honors that. Distinguish evidence from values: "water comes from rain, rivers, and
-wells" is a fact; "we should turn off the tap" is a value of care — we name both. Honor
-every body: describe each card and let a learner who is blind or has low vision feel a
-cup of water or a leaf and name where it comes from; a non-speaking learner points to
-the source and to the "use less" action; acting out turning off a tap or a light works
-for learners who learn best by moving.
+**Tone.** Gentle and empowering — this is agency, not guilt.
+
+**The facts to land.**
+1. The three-part frame: name the resource, say where it comes from, name one way to use
+   less.
+2. Water comes from rain, rivers, and wells; a village well and a city tap both trace
+   back to rain.
+3. This is the Grade 3 upgrade of Grade 2's "name one way to save water or energy."
+4. "Water comes from rain, rivers, and wells" is a fact; "we should turn off the tap" is
+   a value of care — name both.
+
+**Don't overshoot.** A learner uses less *because they understand* the resource, not
+because they are told to obey. A family with little water already saves carefully;
+honor that.
+
+**The lenses, briefly.**
+- *Environment:* every resource has a source.
+- *Ethics:* care is a value, named as one.
+- *Global:* the same source story in many places.
+- *Egalitarianism:* no wealth assumption, no blame.
+
+**The skill.** Say the resource, its source, and one way to use less.
+
+The frame is foundational, so model it once and guide practice before learners work
+independently (Kirschner, Sweller & Clark, 2006).
+
+**Access:** describe each card and let a learner who is blind or has low vision feel a
+cup of water or a leaf; a learner who does not speak points to the source and to "use
+less"; acting out turning off a tap works for learners who learn by moving.
 
 ## Procedure
 

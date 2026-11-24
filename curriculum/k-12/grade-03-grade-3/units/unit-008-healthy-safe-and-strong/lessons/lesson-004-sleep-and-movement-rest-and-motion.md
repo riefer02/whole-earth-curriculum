@@ -117,20 +117,33 @@ Today you will feel both in your own body.
 
 ## Facilitator note
 
-**No body or pace is judged.** Every body moves and rests in its own way, and some
-bodies move with wheels, aids, or help — all movement counts. Do not turn movement into
-a contest or tie it to body size; the goal is the felt sense of moving and resting.
-Sleep needs vary, too — most children aged 6–12 need about 9–12 hours a night (American
-Academy of Sleep Medicine), but families and bodies differ, and rest is never a rule to
-be shamed over. A learner who uses a wheelchair or has motor differences moves in their
-own way — celebrate it; a learner who does not use a speaking voice points or acts out
-rest and motion; a learner who is blind or has low vision feels the heartbeat after
-moving and the body slowing at rest; a learner who is deaf or hard of hearing follows
-the cards and the demonstration, and can feel the fast-then-slow heartbeat by touching
-their chest. This lesson finishes the four needs and sets up the unit's later
-food-origins and safety lessons. Health facts: the World Health Organization recommends
-regular physical activity for children's health, and the American Academy of Sleep
-Medicine recommends about 9–12 hours of sleep for children aged 6–12.
+**Tone.** Easy and accepting — no body and no pace is on trial.
+
+**The facts to land.**
+1. Every body moves and rests in its own way; some bodies move with wheels, aids, or
+   help, and **all movement counts**.
+2. Sleep needs vary; most children aged 6–12 need about 9–12 hours a night (American
+   Academy of Sleep Medicine), but families and bodies differ.
+3. Regular physical activity supports children's health (World Health Organization).
+
+**Don't overshoot.** Do not make movement a contest, tie it to body size, or turn a
+sleep number into a rule to be shamed over. The goal is the felt sense of moving and
+resting.
+
+**The lenses, briefly.**
+- *Physical:* the heartbeat after moving, and the body slowing at rest.
+- *Social-emotional:* rest is a need, not laziness.
+- *Ethics:* a body that needs help to move is not failing.
+- *Egalitarianism:* no pace, no body, is ranked.
+
+**The skill.** Move, then rest, then describe what changed.
+
+Finishes the four needs and sets up food origins and safety.
+
+**Access:** a learner who uses a wheelchair moves their own way — celebrate it. A
+learner who does not use a speaking voice points or acts out rest and motion. A learner
+who is blind or has low vision feels the heartbeat after moving. A learner who is deaf
+or hard of hearing can feel the fast-then-slow heartbeat by touching their chest.
 
 ## Procedure
 

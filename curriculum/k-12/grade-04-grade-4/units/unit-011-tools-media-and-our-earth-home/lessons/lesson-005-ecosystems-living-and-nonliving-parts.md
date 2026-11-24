@@ -119,20 +119,33 @@ this, made of living and nonliving parts woven together.
 
 ## Facilitator note
 
-Grade 3 built a food chain of plants and animals; Grade 4 widens to the whole
-**ecosystem** — living *and nonliving* parts that depend on each other. The key new idea
-is that nonliving parts (sun, water, soil, rock, air) are not just scenery; they are
-*parts of the system* that living things depend on, and living things change them in
-return (worms enrich soil, plants shade and cool, roots hold soil). Model the concept
-with the worked diagram, then guide sorting before learners draw their own (Kirschner,
-Sweller & Clark, 2006). Keep it **concrete and global**: offer ecosystems from many
-biomes — a pond, a desert, a mangrove, a forest floor, a field — so no single place is
-the default, and note that people are part of ecosystems too, depending on them and
-caring for them. A light ethical thread returns throughout the unit: because every part
-depends on every other, caring for one part cares for the whole (this grows in Lessons
-6–8). Honor every body: describe the cards and diagram in words for a learner who is
-blind or has low vision; a non-speaking learner sorts the cards and points the
-dependence arrows; acting out an ecosystem works for learners who learn best by moving.
+**Tone.** Connected and concrete — nonliving parts are not scenery.
+
+**The facts to land.**
+1. An **ecosystem** has living *and nonliving* parts that depend on each other; sun,
+   water, soil, rock, and air are parts of the system.
+2. Living things change the nonliving parts in return — worms enrich soil, plants shade
+   and cool, roots hold soil.
+3. Ecosystems come from many biomes — a pond, a desert, a mangrove, a forest floor, a
+   field — and people are part of ecosystems too.
+
+**Don't overshoot.** Do not let the living parts carry the whole story; the nonliving
+parts are the lesson's new idea.
+
+**The lenses, briefly.**
+- *Environment:* every part depends on every other.
+- *Intellectual:* sorting living from nonliving is the skill.
+- *Global:* many biomes, so none is the default.
+- *Ethics:* caring for one part cares for the whole (grows in Lessons 6–8).
+
+**The skill.** Sort the parts, then draw one arrow of dependence and explain it.
+
+Model with the worked diagram, then guide sorting before learners draw their own
+(Kirschner, Sweller & Clark, 2006).
+
+**Access:** describe the cards and diagram for a learner who is blind or has low vision;
+a learner who does not speak sorts the cards and points the arrows; acting out an
+ecosystem works for movers.
 
 ## Procedure
 

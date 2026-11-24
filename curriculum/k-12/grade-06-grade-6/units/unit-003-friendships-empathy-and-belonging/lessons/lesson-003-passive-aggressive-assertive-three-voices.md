@@ -117,22 +117,36 @@ share space — a schoolroom, a market stall, a shared kitchen.
 
 ## Facilitator note
 
-The idea to land is that **assertion is the voice that holds both people's dignity** —
-it states the need without trampling others (aggression) or erasing yourself
-(passivity). Model each voice with tone and body, not just words; the body carries the
-meaning and many learners read it faster than text. Be careful not to mock the passive
-or aggressive voices or the people who use them — everyone uses all three sometimes, and
-each voice is a *choice*, not a *character*. A note for global classrooms: the
-three-voices model comes from a Western, individually-spoken tradition, and what counts
-as *respectful* differs across cultures. In many cultures — across East Asia, much of
-Africa, Indigenous communities, and elsewhere — indirect speech, quietness, deference to
-elders, and saving face are the respectful ways to keep a relationship, and they are not
-"passivity." Teach the three voices as a way to notice whether each person's needs get
-honored *within* a relationship, never as a ranking of any culture's way of speaking as
-better or worse. This is a foundational skill, so use explicit instruction with worked
-examples before independent sorting (Kirschner, Sweller & Clark, 2006). The egalitarian
-lens: assertion treats the other person as an equal whose needs count; aggression and
-passivity both fail that test. See `docs/facilitation.md`.
+**Tone.** Calm and non-mocking. Everyone uses all three voices; the room must feel safe
+to try one badly.
+
+**The facts to land.**
+
+1. **Assertion is the voice that holds both people's dignity** — it states the need
+   without trampling others (aggression) or erasing yourself (passivity).
+2. **Each voice is a choice, not a character.** Do not mock the passive or aggressive
+   voice, or the people who use them.
+3. **Respect is cultural.** Across East Asia, much of Africa, Indigenous communities,
+   and elsewhere, indirect speech, quietness, deference to elders, and saving face keep
+   a relationship and are not "passivity."
+4. **Model each voice with tone and body**, not just words; many learners read the body
+   faster than the text. This is foundational, so instruct explicitly with worked
+   examples before independent sorting (Kirschner, Sweller & Clark, 2006).
+
+**Don't overshoot.** Never rank one culture's way of speaking as better, or present
+assertion as the "correct" personality.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* noticing your own default voice is self-awareness, not blame.
+- *Ethics:* every voice has a cost, borne by someone in the room.
+- *Egalitarianism:* assertion treats the other person as an equal whose needs count;
+  aggression and passivity both fail that test.
+- *Community:* the test is whether both people's needs get honored in the relationship.
+
+**The skill.** Notice which voice you used, and try one assertive sentence. Keep
+role-play fictional and let anyone pass; do not re-enact a real, live conflict. See
+`docs/facilitation.md`.
 
 ## Procedure
 

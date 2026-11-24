@@ -116,21 +116,31 @@ carried you.
 
 ## Facilitator note
 
-The skill to land: **a performance critique names what the body did — movement (levels,
-speed, space, timing), expression (face, force, feeling), context (where, when, what
-tradition), and purpose (what it means to say) — and separates observation from
-judgment, with judgment citing evidence.** This is a *skill*, so **model the critique
-once on a first performance, then let learners practice in pairs** (explicit instruction
-carries novice skills — S-011). The critical-thinking lens: "separate what you saw from
-what you felt about it" is the evidence habit applied to the moving body. The ethics
-lens: critique describes the work, never the performer — and never a performer's body,
-identity, or ability — and it can disagree without disrespect. The egalitarian lens:
-every body and every ability is honored — a performance can be large or small, seated or
-standing, and stillness is movement too; no learner's evidence-based judgment is
-"better." The global lens: the same four lenses help you watch across traditions, but
-*context matters* — a gesture or a dance means something inside its own tradition, so
-honor that context rather than ranking it by one tradition's rules (S-056). Keep the
-tone generative: critique deepens watching, it does not shut it down.
+**Tone.** Generous and exact — watch closely, speak kindly.
+
+**The facts to land.**
+
+1. A performance critique names what the body did: movement (levels, speed, space,
+   timing), expression (face, force, feeling), context (where, when, tradition), and
+   purpose.
+2. It separates observation from judgment, and judgment cites evidence.
+3. Every body and ability is honored: a performance can be large or small, seated or
+   standing, and stillness is movement too.
+
+**Don't overshoot.** Never critique a performer's body, identity, or ability — only the
+work.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* separate what you saw from what you felt about it.
+- *Ethics:* critique can disagree without disrespect; a classmate performs only by
+  choice.
+- *Egalitarianism:* no learner's evidence-based judgment is "better."
+- *Global:* a gesture or dance means something inside its own tradition; honor that
+  context rather than ranking it by one tradition's rules (S-056).
+
+**The skill.** Model the critique once on a first performance, then learners practise in
+pairs (explicit instruction carries novice skills — S-011).
 
 ## Procedure
 

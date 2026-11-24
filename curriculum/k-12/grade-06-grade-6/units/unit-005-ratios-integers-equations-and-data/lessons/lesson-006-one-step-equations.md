@@ -111,21 +111,30 @@ cooks, builders, and scientists reason backward from a result to its cause, all 
 
 ## Facilitator note
 
-The ideas to land: (1) an **equation** says two things are equal — like a balanced
-scale; (2) to **solve**, use the **inverse operation** (subtract to undo adding, divide
-to undo multiplying) *on both sides* so the equation stays true; and (3) always
-**check** by substituting the answer back. Because solving equations is a foundational
-skill, use explicit instruction and worked examples before independent work (Kirschner,
-Sweller & Clark, 2006): model x + 3 = 8 step by step, then guide 5x = 20 together. Two
-common slips: doing the operation to only one side, and picking the wrong inverse
-(adding when you should subtract). Retrieval: ask learners to recall expressions from
-last lesson (4t + 3) — an equation is two expressions with an equals sign between them,
-and solving finds the value that makes them equal. The balance image is not a gimmick;
-it is the *definition* of equality. Note the global and historical point: the word
-"algebra" comes from *al-jabr* in the title of al-Khwarizmi's 9th-century book, and the
-method of balancing both sides is a human achievement shared across cultures. The
-critical-thinking lens: checking your answer rather than trusting a guess is honest
-reasoning (`docs/philosophy.md` §7).
+**Tone.** Steady and stepwise. The balance is the idea, not a decoration.
+
+**The facts to land.**
+
+1. An **equation** says two things are equal — a balanced scale.
+2. To **solve**, apply the **inverse operation** (subtract to undo adding, divide to
+   undo multiplying) *on both sides*, so the balance stays true.
+3. Always **check** by substituting the answer back.
+
+**Don't overshoot.** Do not let a number cross the equals sign without an operation
+performed on both sides; that is a trick, not a method.
+
+**The lenses, briefly.**
+
+- *Intellectual:* equality is the definition the whole method rests on.
+- *Global:* "algebra" comes from *al-jabr* in the title of al-Khwarizmi's 9th-century
+  book; balancing both sides is a human achievement shared across cultures.
+- *Critical-thinking:* checking your answer instead of trusting a guess is honest
+  reasoning (`docs/philosophy.md` §7).
+
+**The skill.** This is foundational, so model x + 3 = 8 step by step, guide 5x = 20
+together, then release learners to work alone (Kirschner, Sweller & Clark, 2006). Watch
+two slips: operating on one side only, and choosing the wrong inverse. Retrieval: 4t + 3
+from last lesson — an equation is two expressions with an equals sign between them.
 
 ## Procedure
 

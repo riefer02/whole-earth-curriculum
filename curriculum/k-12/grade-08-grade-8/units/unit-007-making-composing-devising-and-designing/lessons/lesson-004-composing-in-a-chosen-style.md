@@ -115,26 +115,34 @@ language that a whole community has been speaking for a long time — and adding
 
 ## Facilitator note
 
-The skill to land: **composing in a style means choosing from that style's ingredients —
-(1) scale or mode (which notes the melody may draw from), (2) rhythm (the pattern of
-beats and rests), (3) texture and timbre (what the voices or instruments sound like),
-and (4) form (a beginning, middle, and end) — and then reflecting on those choices.**
-This is a *skill*, so **model a short example first** (compose a four-phrase melody
-together, naming each choice), then let learners compose independently (explicit
-instruction carries novice skills — S-011). The global lens is central and must be
-handled with care: different traditions use different scales and conventions — Indian
-classical music is built on the **raga**, a melodic framework with a specific scale,
-notes, and mood (S-366), and Arab, Turkish, and Persian music is built on the **maqam**,
-a modal system with characteristic intervals (S-367). Teach these as *living traditions
-to honor with respectful questions*, never as specimens to imitate carelessly — a
-learner should not pretend to "do a raga" without understanding; they may *choose to
-explore a tradition they know or have been welcomed into* (S-056). The egalitarian lens:
-composition needs only voice and body — no instrument is required. The ethics lens:
-borrowing from a living tradition carries responsibility; name the tradition, ask before
-taking, and give credit (a preview of Grade 10's appreciation-vs-appropriation work).
-The intellectual lens: the choices reflection — *why this scale, this rhythm, this
-form* — is where the learning lives. Keep assessment mastery-based: a piece that is not
-finished is "not yet," never a failure.
+**Tone.** Curious and responsible — style is borrowed with care.
+
+**The facts to land.**
+
+1. Composing in a style means choosing from its ingredients: scale or mode, rhythm,
+   texture and timbre, and form — then reflecting on those choices.
+2. Different traditions use different ingredients: Indian classical music is built on
+   the *raga*, a melodic framework with scale, notes, and mood (S-366); Arab, Turkish,
+   and Persian music on the *maqam*, a modal system with characteristic intervals
+   (S-367).
+3. The reflection — *why this scale, this rhythm, this form* — is where the learning
+   lives.
+
+**Don't overshoot.** A learner should not pretend to "do a raga" without understanding;
+choose to explore a tradition they know or have been welcomed into (S-056).
+
+**The lenses, briefly.**
+
+- *Intellectual:* every choice has a musical reason you can name.
+- *Global:* raga and maqam are living traditions, to honor with respectful questions,
+  not specimens to copy carelessly.
+- *Ethics:* borrowing carries responsibility — name the tradition, ask before taking,
+  give credit (a preview of Grade 10's appreciation-vs-appropriation work).
+- *Egalitarianism:* composition needs only voice and body; no instrument is required.
+
+**The skill.** Model a short example first — compose a four-phrase melody together,
+naming each choice — then learners compose independently (S-011). An unfinished piece is
+"not yet," never a failure.
 
 ## Procedure
 

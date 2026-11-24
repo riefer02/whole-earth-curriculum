@@ -118,20 +118,34 @@ will carry out your plan and finish as a team.
 
 ## Facilitator note
 
-This is the **doing** half of the shared-project standard. Keep the emphasis on the
-*team process*, not the product: praise the check-in ("you noticed they were stuck and
-helped") as much as the finished work. Rotate among groups and model the check-in
-question aloud ("are you stuck? can I help?") so it becomes the group's habit. Watch for
-the quiet or slower worker and make sure they are neither left out nor silently
-overloaded — a checker role helps. The reflection is the assessment: it asks *what each
-person did* (so no one's contribution is invisible) and *how the group listened*. Never
-rank projects against one another; every finished project is a win for its team. A
-learner who does not speak aloud reflects by pointing to a picture or a task on the
-plan; a learner who is deaf or hard of hearing reflects through sign and the sheet; a
-learner who is blind or low-vision reflects aloud while the sheet is read back; a
-learner with a motor difference can describe their contribution while a partner scribes.
-A learner may always pass or reflect privately. The aim is a team that can say, in its
-own way, "we did it together — every person contributed, and we listened to each other."
+**Tone.** Encouraging — praise the process as much as the product.
+
+**The facts to land.**
+1. The check-in is the habit: "are you stuck? can I help?"
+2. Watch for the quiet or slower worker and make sure they are neither left out nor
+   silently overloaded — a checker role helps.
+3. The reflection is the assessment: it asks *what each person did*, so no contribution
+   is invisible, and *how the group listened*.
+
+**Don't overshoot.** Never rank projects against one another; every finished project is
+a win for its team.
+
+**The lenses, briefly.**
+- *Ethics:* every contribution is named.
+- *Egalitarianism:* the quiet worker is counted.
+- *Community:* the team, not the star.
+- *Social-emotional:* a learner may pass or reflect privately.
+- *Critical-thinking:* what would we change next time?
+
+**The skill.** Check in with a teammate, then say what you did and how the group
+listened.
+
+Rotate among groups and model the check-in aloud so it becomes the group's habit.
+
+**Access:** a learner who does not speak reflects by pointing to a picture or a task; a
+learner who is deaf or hard of hearing reflects through sign and the sheet; a learner
+who is blind or has low vision reflects aloud while the sheet is read back; a learner
+with a motor difference describes their contribution while a partner scribes.
 
 ## Procedure
 

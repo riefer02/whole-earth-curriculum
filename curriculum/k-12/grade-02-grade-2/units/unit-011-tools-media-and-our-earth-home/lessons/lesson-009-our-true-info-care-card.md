@@ -121,20 +121,37 @@ asks for nothing.
 
 ## Facilitator note
 
-This is a **making and sharing** day, not a test. The heart of it is that a message can
-*care*: it can tell a true fact, name its source, and ask for nothing in return.
-Retrieval: learners recall Lesson 3 (source + one question), Lesson 4 (true information
-vs selling), and Lessons 7–8 (saving water and energy, litter's right place). Keep the
-media stance warm — making a truthful message is the joyful opposite of fear. Honor all
-facts equally: a fact from a grandmother's spoken word is as real a source as one from a
-book or a screen. Distinguish evidence from values gently: the fact ("turning off the
-tap saves water") is evidence; wanting to share it is a value of care — both are
-welcome. No wealth assumption: a card on any scrap of paper, or a fact told aloud and
-acted out, counts just as much as a printed card. Honor every body: a non-speaking
-learner can draw and point while a partner writes, or record the fact in sign; a learner
-who is blind or has low vision can say the fact aloud and have a partner scribe it, and
-feel the card's shape; a learner with motor differences can direct a partner's hands to
-write. Peer check: partners check each other's card for "true information, not selling."
+**Tone.** Warm and celebratory. This is a **making and sharing day**, not a test.
+
+**The facts to land.**
+
+1. A message can *care*: it tells a true fact, names its source, and asks for nothing in
+   return.
+2. Retrieval: Lesson 3 (source and one question), Lesson 4 (information versus selling),
+   Lessons 7–8 (water, energy, litter).
+3. A fact from a grandmother's spoken word is as real a source as one from a book or a
+   screen.
+4. **Distinguish evidence from values**: "turning off the tap saves water" is evidence;
+   wanting to share it is a value of care. Both are welcome.
+
+**Don't overshoot.** Keep the media stance warm — a truthful message is the joyful
+opposite of fear. No wealth assumption: a card on any scrap of paper, or a fact told
+aloud, counts as much as a printed card.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* a source is claimed, not implied.
+- *Environment:* the fact is worth passing on because it matters.
+- *Technology:* a card is media, made with care.
+- *Ethics:* a caring message gives and asks nothing.
+- *Egalitarianism:* speaking, drawing, signing, and scribing all make the card.
+
+**The skill.** Write or tell one true fact, name its source, then peer-check a partner's
+card.
+
+**Access.** Non-speaking: draw and point while a partner writes, or record the fact in
+sign. Blind or low-vision: say the fact aloud and have a partner scribe it, then feel
+the card. Motor difference: direct a partner's hands to write.
 
 ## Procedure
 

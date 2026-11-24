@@ -136,33 +136,36 @@ a year ahead becomes a road you can actually walk.
 
 ## Facilitator note
 
-This lesson is written to the learner ("you"), and it carries two objectives in one arc: a
-**goal** (the "north star") and the **communities** a person stands with on the way. The
-goal side rests on a real finding: *specific, challenging goals with feedback* improve
-performance more than vague "do your best" intentions (Locke & Latham; S-223) — translate
-"challenging" for age 14–15 as "meaningful and reachable," with milestones that give the
-feedback. Purpose itself is found more by *trying and reflecting* than by sudden certainty,
-and only a minority of young people report a clear sense of purpose — so "I am still
-exploring" is a normal, healthy place to be (Damon; S-400). The community side draws on a
-rich record: mutual aid — cooperation and reciprocity given freely out of belonging — is a
-widespread human practice (Kropotkin; S-163), with named traditions across cultures:
-*harambee* ("all pull together") in Kenya, *gotong royong* ("joint bearing of burdens") in
-Indonesia, the *mink'a/minga* communal work of the Andes, and North American barn raisings
-(S-164). Chosen families — the people we choose as kin — and mutual-aid networks are real,
-honored forms of community, not substitutes for a "real" family (S-345 distinguishes mutual
-aid from charity: in mutual aid, people give *and* decide together as equals).
+**Tone.** Encouraging — purpose is found by trying, not certainty.
 
-Model the goal path once, then let learners build their own (S-011). The **global** lens is
-the heart: treat every community form as a living tradition to understand, never a specimen
-to rank — and remind learners to verify local details with community members rather than
-freezing any tradition into a stereotype (S-164). The **egalitarian** lens: chosen families
-and mutual-aid networks are often how people with fewer resources *create* the care no
-institution provides — that is strength, not deficit. The **ethics** lens: ask *who decides*
-in a community — the difference between mutual aid and charity is who holds the power
-(S-345). The **technology & environment** lens: online communities and mutual-aid funds can
-extend belonging across distance — and a goal may also be ecological (stewarding a shared
-garden or waterway) — but ask who is included and who is left out. Hold all of this as
-description and invitation, never as a single required life-path (philosophy §11).
+**The facts to land.**
+
+1. **Specific, challenging goals with feedback** beat vague "do your best" intentions
+(Locke & Latham, S-223); for 14–15, "challenging" means reachable, with milestones.
+2. **Purpose is found by trying and reflecting,** not sudden certainty; only a minority
+of young people report a clear purpose, so "still exploring" is healthy (Damon, S-400).
+3. **Mutual aid** — cooperation and reciprocity out of belonging — is widespread
+(Kropotkin, S-163): *harambee* in Kenya, *gotong royong* in Indonesia, the *mink'a* of
+the Andes, and barn raisings in North America (S-164).
+4. **Chosen families and mutual-aid networks are real communities,** not substitutes;
+mutual aid differs from charity because people give *and* decide together (S-345).
+
+**The lenses, briefly.**
+
+- *Global:* living traditions, never specimens — verify local details, never freeze a
+stereotype (S-164).
+- *Egalitarianism:* chosen families are often how people with fewer resources *create*
+the care no institution provides.
+- *Ethics:* ask *who decides* — the difference between mutual aid and charity is who
+holds the power (S-345).
+- *Technology:* online communities extend belonging, but ask who is included.
+- *Environment:* a goal may be ecological — stewarding a shared garden or waterway.
+- *Community:* the people you stand with are part of the plan, not an audience.
+- *Social-emotional:* "still exploring" is a healthy answer, not a gap to close.
+- *Critical-thinking:* test a goal for milestones before committing.
+
+**The skill.** Model the goal path once, then learners build their own (S-011) —
+description, not one required life-path (philosophy §11).
 
 ## Procedure
 

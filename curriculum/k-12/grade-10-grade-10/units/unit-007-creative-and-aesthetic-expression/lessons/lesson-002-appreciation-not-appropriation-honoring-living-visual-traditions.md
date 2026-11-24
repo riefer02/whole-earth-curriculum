@@ -122,44 +122,36 @@ it, credit it, and share it is.
 
 ## Facilitator note
 
-The idea to land: **appreciation and appropriation differ in permission, context,
-credit, and benefit — not in whether you admire something.** Appreciation means learning
-*from* the living people who make the art — asking when something is owned or sacred,
-understanding what it means, naming the makers, and sharing benefit (paying, supporting,
-or amplifying them). Appropriation takes *without* those things: copying a form while
-stripping its meaning, wearing sacred or ceremonial designs as fashion, or profiting
-while the community who created it earns nothing. Because the difference is about power
-and consent, it is not a neat two-column rule but a set of respectful questions.
+**Tone.** Direct: this is about permission and power, and admiration alone settles
+nothing.
 
-Keep this concrete and specific, never a cartoon of any culture. Ground examples in
-real, living traditions and their documented meanings: Akan kente and adinkra cloth of
-Ghana and Côte d'Ivoire, whose named patterns and colors encode proverbs and values and
-are worn at important occasions (S-084); Māori kōwhaiwhai painted rafter patterns,
-whakairo carving, and the koru (unfurling fern) spiral, tied to whakapapa — belonging
-through ancestry (S-115); and Mexico's Day of the Dead, an Indigenous festivity that
-commemorates the return of deceased loved ones and fuses pre-Hispanic rites with
-Catholic feasts — not a costume theme (S-448). The UNESCO Universal Declaration on
-Cultural Diversity (S-389) and the living-heritage frame (S-056) support treating arts
-as practices communities own and pass on, not free material.
+**The facts to land.**
 
-The **ethics** lens is the spine: what is right when we borrow? The **egalitarian**
-lens: appropriation usually flows *uphill* — from the less powerful to the more
-powerful — so credit and shared benefit matter. The **global** lens: traditions are
-*people's*, not "the world's"; they live in communities who still make them. The
-**technology** lens: copying and remixing are one click away now, which makes permission
-and credit *more*, not less, important. The **environment** lens: a tradition often
-carries knowledge of materials and place (plant dyes, local fibers) that mass copying
-erases. Preview: Lesson 3 asks learners to write the artist's explanation that names
-influences honestly — the skill they are building here.
+1. Appreciation and appropriation differ in permission, context, credit, and benefit —
+   not in admiration.
+2. Appreciation learns *from* living makers: ask when a form is owned or sacred,
+   understand its meaning, name the makers, share the benefit. Appropriation strips the
+   meaning, wears sacred designs as fashion, and profits while makers earn nothing.
+3. Examples, specific and living: Akan kente and adinkra (Ghana, Côte d'Ivoire), whose
+   named patterns encode proverbs (S-084); Māori kōwhaiwhai, whakairo, and the koru,
+   tied to whakapapa (S-115); Mexico's Day of the Dead, an Indigenous festivity fusing
+   pre-Hispanic and Catholic practice, not a costume (S-448). UNESCO's Cultural
+   Diversity Declaration (S-389) and living-heritage frame (S-056) treat arts as
+   practices communities own and pass on.
 
-**Four scenarios to use** (adapt to your place; keep them specific and respectful):
-1. A designer visits a weaving community, learns the patterns' meanings from the
-   weavers, pays them, and credits them on the label. 2. A brand prints a sacred
-   ceremonial design on T-shirts without asking and sells them without credit or
-   payment. 3. A student paints a motif inspired by another culture, names the culture
-   and the artist they learned from, and says "I am a beginner borrowing with
-   permission." 4. A shop sells "tribal-style" stickers made by no one from that
-   culture, flattening many distinct peoples into one stereotype.
+**Don't overshoot.** Never a cartoon of any culture, and never a two-column rule.
+
+**The lenses, briefly.**
+
+- *Ethics:* the spine — what is right when we borrow?
+- *Egalitarianism:* appropriation flows uphill; credit and benefit correct it.
+- *Global:* traditions are *people's*, alive now, not "the world's".
+- *Technology:* copying is one click away, so permission is more urgent.
+- *Environment:* plant dyes and local fibres vanish when a form is mass-copied.
+- *Community:* the makers' community, not the market, decides what may be shared.
+
+**The skill.** Model the sort once, then release (S-011) on four cards:
+learn-pay-credit; copy a sacred design, no credit; a named beginner borrowing with permission; "tribal-style" goods flattening many peoples.
 
 ## Procedure
 

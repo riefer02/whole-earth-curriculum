@@ -119,28 +119,36 @@ made. Today you write that public, honest explanation for your own work.
 
 ## Facilitator note
 
-The idea to land: **a body of work plus an honest explanation is what turns "I drew some
-things" into a personal style with a traceable history.** The artist's explanation has
-four moves — the recurring idea, the change across the work, the influences (named and
-credited), and how any living tradition was honored. The fourth move is the ethics check
-from Lesson 2, made routine: an artist *says* where their forms came from.
+**Tone.** Plain and practical: honesty reads better than sophistication here.
 
-The **ethics** lens: honest credit is a habit, not a penalty — it is how a community of
-makers stays fair. The **egalitarian** lens: anyone can have a style and an explanation;
-the statement needs no expensive materials, only honest looking at your own work. The
-**global** lens: real artist statements across cultures name lineage and place — the
-makers they learned from — rather than claiming to have invented everything alone; kente
-and adinkra carry meaning *because* their makers name what each pattern means (S-084),
-and Māori arts tie form to whakapapa, belonging through ancestry (S-115). The
-**technology** lens: a digital record lets learners see their whole series at once,
-which is exactly what makes the through-line visible. The **environment** lens: a body
-of work made from reused materials is a statement of care too. Preview: Lesson 4 moves
-to sound — composing an idea in music.
+**The facts to land.**
 
-Model the four moves once (worked example → guided practice → independent writing;
-S-011). Keep this low-stakes: the statement is a draft the learner can revisit all unit.
-Assessment is about whether the four moves are *present and honest*, never about ranking
-the art.
+1. A body of work plus an honest explanation turns "I drew some things" into a style
+   with a traceable history.
+2. The explanation has four moves: the recurring idea, the change across the work, the
+   influences (named and credited), and how any living tradition was honoured.
+3. The fourth move is Lesson 2's ethics check made routine: an artist *says* where the
+   forms came from. Named lineage is the norm — kente and adinkra carry meaning because
+   makers name each pattern (S-084), and Māori arts tie form to whakapapa (S-115).
+
+**Don't overshoot.** Do not ask for a statement that performs sophistication, and do not
+accept "inspired by Africa" as a credit.
+
+**The lenses, briefly.**
+
+- *Ethics:* honest credit is a habit, not a penalty; it keeps a community of makers
+  fair.
+- *Egalitarianism:* anyone can have a style and an explanation; it needs no expensive
+  materials, only honest looking.
+- *Global:* real statements name lineage and place rather than claiming invention.
+- *Technology:* a digital record shows the whole series at once, making the
+  through-line visible.
+- *Environment:* work made from reused materials is a statement of care too.
+- *Critical-thinking:* ask which influence is named and which is quietly borrowed.
+
+**The skill.** Model the four moves once, then release (S-011). Keep it low-stakes: a
+draft to revisit all unit, assessed on whether the moves are *present and honest*, never
+on ranking the art.
 
 ## Procedure
 

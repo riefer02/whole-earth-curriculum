@@ -112,19 +112,33 @@ three, so you can choose the right form for the job, in your own words, in your 
 
 ## Facilitator note
 
-The ideas to land: **(1) three forms do three jobs — narrative tells what happened
-(beginning, middle, end), argument makes a case (claim, reasons, close), informational
-explains (topic, facts, organization); (2) organization is the form's skeleton, and
-voice is the writer's own sound; (3) form is a choice, and the learner is the chooser.**
-Model the one-topic-three-forms set once (worked example, S-011). The ethics lens:
-choosing the right form for the audience is a matter of honesty — a report should not
-pretend to be a story, an argument should not hide its claim. The egalitarian lens:
-every learner has a voice worth hearing; writing in one's home language is welcome, and
-voice is not the same as "correctness." The global lens: forms vary across cultures — a
-story, a case, and a report look different in different traditions — and all are
-legitimate. The social-emotional lens: voice is the self in the writing; encourage
-learners to sound like themselves. Keep the topic low-stakes and real so voice can come
-through without fear.
+**Tone.** Encouraging — the learner is the chooser.
+
+**The facts to land.**
+
+1. Three forms do three jobs: narrative tells what happened (beginning, middle, end);
+   argument makes a case (claim, reasons, close); informational explains (topic, facts,
+   organization).
+2. Organization is the form's skeleton; voice is the writer's own sound.
+3. Form is a choice, and the learner is the chooser.
+
+**Don't overshoot.** Do not equate voice with correctness, or mark one form as the
+"real" kind of writing.
+
+**The lenses, briefly.**
+
+- *Ethics:* choosing the form for the audience is honesty — a report should not pretend
+  to be a story.
+- *Egalitarianism:* every learner has a voice worth hearing; writing in one's home language
+  is welcome.
+- *Global:* forms vary across cultures — a story, a case, a report look different in
+  different traditions, and all are legitimate.
+- *Social-emotional:* voice is the self in the writing; encourage learners to sound like
+  themselves.
+- *Critical-thinking:* matching form to purpose is a reasoned choice, not a rule obeyed.
+
+**The skill.** Model the one-topic-three-forms set once (worked example, S-011). Keep
+the topic low-stakes and real so voice comes through without fear.
 
 ## Procedure
 

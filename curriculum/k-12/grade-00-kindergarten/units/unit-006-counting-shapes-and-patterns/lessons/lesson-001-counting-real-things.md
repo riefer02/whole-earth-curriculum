@@ -102,20 +102,32 @@ Today you will practice your own way of counting the real things in front of you
 
 ## Facilitator note
 
-The single most important idea here is **one-to-one correspondence** — one number for
-one object — which is a well-documented first step in early counting (Clements & Sarama,
-2014). Model it slowly: touch an object, say "one"; touch the next, say "two." Resist
-the urge to rush or to correct a learner who is still practicing; accuracy grows with
-time and many gentle tries. Counting is a skill everyone builds at their own pace, and
-**no one's speed is a measure of their smartness**. Always count in the language the
-learner understands best — the home language is welcome and just as "real" as any other
-way of counting. Learners who are blind or low-vision can count by touch (moving each
-object into a cup) or by sound (tapping, clicking); learners who are deaf or hard of
-hearing can count in sign, with each signed number matched to one object. All of these
-are genuine counting. Learners with limited hand or body movement count by voice or sign
-alone: a partner touches and moves each object while the learner names each number, or
-the learner chooses each object with eye-gaze or a mouth stick and the partner moves and
-counts it — the math is in matching number to thing, not in the moving.
+**Tone.** Slow and warm. You are modelling a habit, not testing a skill.
+
+**The facts to land.**
+1. **One-to-one correspondence** — one number for one object — is a well-documented
+   first step in early counting (Clements & Sarama, 2014).
+2. Say each number once, in order, matched to one object: touch it, say "one"; touch
+   the next, say "two."
+3. Accuracy grows with many gentle tries, at the learner's own pace.
+
+**Don't overshoot.** Don't correct a learner mid-count or rush the sequence — that turns
+counting into a performance.
+
+**The lenses, briefly.**
+- *Ethics:* no one's speed is a measure of their smartness.
+- *Egalitarianism:* count in the language the learner knows best; the home language is
+  as real as any other way of counting.
+- *Global:* counting words differ between languages; the one-number-one-object idea
+  does not.
+- *Intellectual:* the thinking is the matching, not the reciting.
+
+**The skill.** Touch one object, say one number; touch the next, say the next number.
+
+**Access.** Blind or low-vision: count by touch, moving each object into a cup, or by
+sound — tapping, clicking. Deaf or hard of hearing: count in sign, one sign per object.
+Limited hand or body movement: say or sign each number while a partner moves and counts,
+or choose each object by eye-gaze or mouth stick and let the partner move it.
 
 ## Procedure
 

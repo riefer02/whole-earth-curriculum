@@ -118,27 +118,35 @@ what you decide and why.
 
 ## Facilitator note
 
-The idea to land: **design is a process — find a need, research it, imagine, prototype,
-test — and documentation is not paperwork but the thing that makes a decision defensible
-and shareable.** A "community need" can be tiny (a shaded seat, a better path, a
-container that keeps food dry) — small is fine; real is what matters. The design log is
-the through-line that will let learners later defend their choices on sustainability and
-fairness (Lesson 11) and judge responsible versus harmful design (Lesson 12).
+**Tone.** Practical and unhurried: small and real beats ambitious and vague.
 
-The **ethics** lens: good design begins with serving people, not impressing a judge —
-the need is the moral center. The **egalitarian** lens: ask *who* is served and *who is
-left out* from the very first idea; a design that helps only the most able-bodied or the
-richest has already failed a fairness test. The **global** lens: needs differ by place
-and climate — a shade structure matters differently in a hot dry town than in a cold wet
-one — so design is always local before it is general. The **technology** lens: tools
-(digital or fabrication) can extend what a designer can make — but they never replace
-the noticing. The **environment** lens: from the first sketch, ask what the thing is
-made of and where it goes when it breaks (deepened in Lesson 11). The **community** lens
-is the spine: design is done *with* and *for* a community, never to it.
+**The facts to land.**
 
-Model one worked example (worked example → guided practice → independent design; S-011).
-Keep prototypes low-fidelity — the point is the thinking and the record, not a finished
-object.
+1. Design is a process — find a need, research it, imagine, prototype, test — and
+   documentation is not paperwork but what makes a decision defensible and shareable.
+2. A community need can be tiny: a shaded seat, a better path, a container that keeps
+   food dry. Small is fine; real is what matters.
+3. The design log is the through-line that lets learners defend their choices on
+   sustainability and fairness (Lesson 11) and judge responsible versus harmful design
+   (Lesson 12).
+
+**Don't overshoot.** Do not let "community need" swell into a charity project; a small
+real need, and a rough prototype, is the target.
+
+**The lenses, briefly.**
+
+- *Ethics:* good design serves people, not a judge.
+- *Egalitarianism:* ask who is served and who is left out from the very first idea.
+- *Global:* needs differ by place and climate — shade matters differently in a hot dry
+  town than in a cold wet one.
+- *Technology:* tools extend what you can make; they never replace noticing.
+- *Environment:* from the first sketch, ask what it is made of and where it goes when
+  it breaks.
+- *Community:* the spine — design is done *with* and *for* a community, never to it.
+
+**The skill.** Model one worked example, then release (S-011): log the need, one
+decision, one test, and one change. Keep prototypes low-fidelity — the thinking and the
+record are the point.
 
 ## Procedure
 

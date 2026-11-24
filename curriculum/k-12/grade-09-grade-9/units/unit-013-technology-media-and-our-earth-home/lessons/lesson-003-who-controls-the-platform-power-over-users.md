@@ -111,19 +111,30 @@ where the power sits.
 
 ## Facilitator note
 
-The idea to land: **whoever controls a platform holds three levers — the rules (terms of
-service and moderation), the ranking (the algorithm), and the data (what is collected
-and how it is used) — and those levers add up to power over users: what they see, what
-they may post, and what is known about them.** This is an *analysis* of how power works,
-not a verdict that all platforms are bad. The **technology** lens: control is built into
-the software and the business model. The **egalitarian** lens: ask who holds power and
-who has none — users rarely set the rules they live under. The **ethics** lens: is power
-this concentrated fair, and what would make it accountable? The **critical-thinking**
-lens: "who controls this?" is a question to ask of every tool, not only screens.
-Contrast at least one **community-run or cooperatively owned** platform with a
-for-profit one so learners see that ownership is a choice, not a law of nature (S-281).
-Keep the treatment balanced — platforms also give real value (connection, voice,
-knowledge) — and hold questions open (philosophy §11).
+**Tone.** Analytical — power described, not denounced.
+
+**The facts to land.**
+
+1. **Whoever controls a platform holds three levers:** the rules (terms of service and
+moderation), the ranking (the algorithm), and the data (what is collected and how it is
+used).
+2. **Those levers add up to power over users:** what they see, what they may post, and
+what is known about them.
+3. **This is an analysis of how power works, not a verdict that all platforms are bad.**
+
+**The lenses, briefly.**
+
+- *Technology:* control is built into the software and the business model.
+- *Egalitarianism:* users rarely set the rules they live under.
+- *Ethics:* is power this concentrated fair, and what would make it accountable?
+- *Critical-thinking:* "who controls this?" is a question for every tool, not only
+screens.
+
+**The skill.** Contrast one **community-run or cooperatively owned** platform with a
+for-profit one, so learners see that ownership is a choice, not a law of nature (S-281).
+
+**Hold it open.** Platforms also give real value — connection, voice, knowledge
+(philosophy §11).
 
 ## Procedure
 

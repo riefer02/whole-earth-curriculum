@@ -119,18 +119,35 @@ every body around you.
 
 ## Facilitator note
 
-The ideas to land: **(1) the four quadrants are one thing — sensing, unwinding, moving,
-and playing all meet in how we care for a body; (2) the four lenses (ethics,
-egalitarianism, global, technology & environment) are how we check those choices; (3) a
-plan is a promise to yourself, and it must fit your own body — no body is the wrong
-body.** This is a **summative** moment, but mastery is personal, not ranked — celebrate
-growth, never compare learners or bodies. The ethics lens: "what is right in how I treat
-my body and others'?" The egalitarian lens: "does my way of moving and playing welcome
-every body, or leave some out?" The global lens: "which practices from many cultures do
-I draw on, and do I honor them?" The technology & environment lens: "do my screens and
-my places help or hurt my body, and what will I choose?" Assess by what each learner can
-now *explain and choose*, not by a score. Keep hope and agency central — the unit ends
-on what each learner can do.
+**Tone.** Celebratory and grounded — the end of a unit, not the end of the work.
+
+**The facts to land.**
+
+1. The four quadrants are one thing: sensing, unwinding, moving, and playing all meet in
+   how we care for a body.
+2. A plan is a promise to yourself, and it must fit your own body — no body is the wrong
+   body.
+3. This is a summative moment, but mastery is personal, not ranked.
+
+**Don't overshoot.** Do not turn the capstone into a competition or a single score.
+
+**The lenses, briefly.**
+
+- *Ethics:* what is right in how I treat my body and others'?
+- *Egalitarianism:* does my way of moving and playing welcome every body, or leave some
+  out?
+- *Global:* which practices from many cultures do I draw on, and do I honour them?
+- *Technology & environment:* do my screens and my places help or hurt my body, and what
+  will I choose?
+- *Social-emotional:* the plan names what steadies you.
+- *Physical:* the plan covers sensing, unwinding, moving, and play.
+- *Critical-thinking:* a plan you can check against your week is stronger than a wish.
+
+**The skill.** Assess by what each learner can now *explain and choose*, not by a score.
+Have them check their plan against the four lenses above.
+
+**Close.** Celebrate growth, never compare learners or bodies; end on what each learner
+can do.
 
 ## Procedure
 

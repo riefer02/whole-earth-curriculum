@@ -18,7 +18,7 @@
   <text x="137" y="222" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">I noticed your</text>
   <text x="137" y="242" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">elbow dropped —</text>
   <text x="137" y="262" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222">try keeping it up.</text>
-  <text x="137" y="310" text-anchor="middle" font-family="sans-serif" font-size="14.2" fill="#4f6d7a">specific • kind • about the action</text>
+  <text x="137" y="310" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">specific • kind • about the action</text>
 
   <!-- Right: hurtful -->
   <rect x="264" y="80" width="222" height="250" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

@@ -112,22 +112,34 @@ idea and question it honestly.**
 
 ## Facilitator note
 
-Its goals: **(1) teach the human-rights idea accurately — the UDHR (1948) grounds rights
-in inherent dignity (Article 1), and is a *declaration* adopted by states, not a claim
-that every person already enjoys these rights; (2) show that the idea has been *extended
-and amended*, not merely accepted — the African Charter on Human and Peoples' Rights
-(the "Banjul Charter," 1981) adds duties and peoples'/collective rights, and other
-regional and Indigenous traditions do similar work; (3) hold the critique openly —
-critics argue human-rights documents reflect some traditions more than others
-(individualism over community, rights over duties), and this critique deserves a fair
-hearing, not dismissal or endorsement (philosophy §11).** The ethics lens: affirming
-dignity and hearing its critics are both ethical acts. The egalitarian lens: ask whose
-voice wrote the documents and whose was added later — and who still lacks the rights on
-paper. The global lens: present the UDHR, the African Charter, and the critique side by
-side, none as the default. Distinguish evidence from values: *that* these documents
-exist and differ is a fact (cite them); *that* human rights are good, or that one
-document is better, is a value claim learners weigh and defend. This is a portfolio
-artifact — keep the evaluation.
+**Tone.** Even-handed — affirming and questioning in the same breath.
+
+**The facts to land.**
+
+1. **The UDHR (1948) grounds rights in inherent dignity** (Article 1); it is a
+*declaration* adopted by states, not a claim that every person already enjoys these
+rights.
+2. **The idea has been extended and amended,** not merely accepted — the African Charter
+on Human and Peoples' Rights (the "Banjul Charter", 1981) adds duties and peoples' and
+collective rights, and other regional and Indigenous traditions do similar work.
+3. **The critique deserves a fair hearing:** critics argue human-rights documents
+reflect some traditions more than others — individualism over community, rights over
+duties — and it earns neither dismissal nor automatic endorsement (philosophy §11).
+
+**The lenses, briefly.**
+
+- *Ethics:* affirming dignity and hearing its critics are both ethical acts.
+- *Egalitarianism:* ask whose voice wrote the documents, whose was added later, and who
+still lacks the rights on paper.
+- *Global:* present the UDHR, the African Charter, and the critique side by side, none
+as the default.
+- *Critical-thinking:* a declaration is a promise, not a description.
+
+**The skill.** Compare two documents clause by clause, and say what each adds.
+
+**Evidence and values.** *That* these documents exist and differ is a fact (cite them);
+*that* human rights are good, or that one document is better, is a value claim learners
+weigh and defend. Keep the evaluation.
 
 ## Procedure
 

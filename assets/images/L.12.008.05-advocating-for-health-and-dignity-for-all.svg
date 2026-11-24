@@ -16,10 +16,10 @@
 
   <!-- lever labels -->
   <g font-family="sans-serif" font-size="14" fill="#4f6d7a">
-    <text x="86" y="348">policy</text>
-    <text x="86" y="366">cooperatives</text>
-    <text x="86" y="384">school meals</text>
-    <text x="86" y="402">community gardens</text>
+    <text fill="#4f6d7a" font-size="14" x="86" y="348">policy</text>
+    <text fill="#4f6d7a" font-size="14" x="86" y="366">cooperatives</text>
+    <text fill="#4f6d7a" font-size="14" x="86" y="384">school meals</text>
+    <text fill="#4f6d7a" font-size="14" x="86" y="402">community gardens</text>
   </g>
   <line x1="126" y1="322" x2="186" y2="286" stroke="#4f6d7a" stroke-width="2"/>
 
@@ -28,5 +28,5 @@
   <path d="M 250 126 L 256 116 L 262 126" stroke="#7a9e7e" stroke-width="3" fill="none"/>
 
   <text x="256" y="440" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Individual and collective wellbeing are one.</text>
-  <text x="256" y="464" text-anchor="middle" font-family="sans-serif" font-size="13.1" fill="#4f6d7a">Name a change, show who it helps and what it costs, take a first step.</text>
+  <text x="256" y="464" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Name a change, show who it helps and what it costs, take a first step.</text>
 </svg>

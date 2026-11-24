@@ -112,25 +112,35 @@ that works every time. Today you learn all three and how to choose.
 
 ## Facilitator note
 
-The skill to land: **solve a quadratic by (1) factoring — set equal to zero, factor, and
-use the zero-product property (if a product is zero, at least one factor is zero); (2)
-square roots — isolate the squared term and take the square root of both sides,
-remembering both ± signs; (3) the quadratic formula — x = [−b ± √(b²−4ac)] / (2a), which
-works for any ax² + bx + c = 0.** Use a **worked example first, then guided practice**
-(S-011). Model three: x² + 5x + 6 = 0 (factors to (x+2)(x+3) = 0, so x = −2 or −3); x² −
-9 = 0 (square root: x = ±3); and 2x² + 3x − 2 = 0 (formula gives x = ½ or −2). The
-critical-thinking lens: the methods are one idea seen three ways — the square-root
-method and the formula both come from completing the square. The global lens: completing
-the square was solved geometrically by Babylonian scribes on clay tablets and by
-al-Khwarizmi, whose name for the move survives in our word *algebra* (S-429, S-431). The
-egalitarian lens: three methods mean three entry points — no learner is locked out
-because one path does not click; choose the tool that fits you. The ethics lens:
-checking every root by substitution is intellectual honesty — the method hands you
-candidates, and only the check makes them knowledge (philosophy §5). The technology
-lens: a calculator or spreadsheet can run the quadratic formula in an instant, but
-choosing the method and verifying the answer is the human's judgment — the tool does the
-arithmetic, not the thinking. Check every root by substitution; that is what turns a
-formula into knowledge.
+**Tone.** Assured — three roads, one destination.
+
+**The facts to land.**
+
+1. **Factoring:** set equal to zero, factor, and use the zero-product property (if a
+product is zero, at least one factor is zero).
+2. **Square roots:** isolate the squared term and take the square root of both sides,
+remembering both ± signs.
+3. **The quadratic formula:** x = [−b ± √(b²−4ac)] / (2a), which works for any ax² + bx
++ c = 0.
+4. **Three worked examples:** x² + 5x + 6 = 0 factors to (x+2)(x+3) = 0, so x = −2 or
+−3; x² − 9 = 0 gives x = ±3; 2x² + 3x − 2 = 0 gives x = ½ or −2.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* the methods are one idea seen three ways — the square-root
+method and the formula both come from completing the square.
+- *Global:* completing the square was solved geometrically by Babylonian scribes on
+clay tablets and by al-Khwarizmi, whose name for the move survives in *algebra* (S-429,
+S-431).
+- *Egalitarianism:* three entry points mean no learner is locked out because one path
+does not click.
+- *Ethics:* checking every root by substitution is intellectual honesty — the method
+hands you candidates; only the check makes them knowledge (philosophy §5).
+- *Technology:* a calculator runs the formula instantly, but choosing the method and
+verifying the answer is the human's judgment.
+
+**The skill.** **Worked example first, then guided practice** (S-011), with every root
+checked by substitution.
 
 ## Procedure
 

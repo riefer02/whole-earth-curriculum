@@ -110,19 +110,35 @@ down together.
 
 ## Facilitator note
 
-This lesson is about **every person**, not "most people" — the heart of egalitarianism
-is that needs are universal. Keep it concrete for age ~6: a kind word, being listened
-to, space for one's body, a name said kindly, no one hurting you, a turn to speak. If
-you use a passing object so each person is heard, call it a **turn marker** — a small
-cloth, stone, or ball. People everywhere in the world find ways to make sure one voice
-is heard at a time; a passing object is one simple, respectful way to do that. The
-marker is a reminder to listen while someone else speaks, not a decoration. The marker
-also serves accessibility: a learner who does not speak aloud holds the marker and
-points, signs, or gestures their idea; a learner who is blind or low-vision feels the
-marker pass into their hands and names their need aloud; a learner with a motor
-difference can have a partner place the marker for them while they show their idea.
-Every voice matters — not just the loudest or fastest. A learner may always pass. This
-is not a test of right answers; every need offered is a real contribution.
+**Tone.** Steady and inclusive, for age six. This is about **every person**, not "most
+people."
+
+**The facts to land.**
+
+1. Everyone needs the same things: a kind word, being listened to, space for one's body,
+   a name said kindly, no one hurting you, a turn to speak.
+2. If you use a passing object, call it a **turn marker** — a small cloth, stone, or
+   ball. People everywhere find ways to make sure one voice is heard at a time.
+3. The marker is a reminder to listen while someone else speaks, not a decoration.
+
+**Don't overshoot.** This is not a test of right answers; every need offered is real.
+Every voice matters — not just the loudest or fastest.
+
+**The lenses, briefly.**
+
+- *Ethics:* a need named is never a demand to be refused.
+- *Egalitarianism:* needs are universal, and so is the right to name them.
+- *Social-emotional:* safety is a feeling in the body, not only a rule.
+- *Community:* the group's listening is what makes the space safe.
+- *Global:* every culture has ways of taking turns; the marker is one respectful way.
+
+**The skill.** Name one thing you need in order to feel safe, then listen while others
+name theirs.
+
+**Access.** Non-speaking: hold the marker and point, sign, or gesture your idea. Blind
+or low-vision: feel the marker pass into your hands, then name your need aloud. Motor
+difference: a partner places the marker while you show your idea. A learner may always
+pass.
 
 ## Procedure
 

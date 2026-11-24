@@ -113,23 +113,32 @@ sharper user of the made world — and a fairer maker of it.
 
 ## Facilitator note
 
-The skill to land: **a design critique answers four questions with evidence — (1)
-function (does it work?), (2) materials (what is it made of, and what happens to it
-later?), (3) fairness (who can use it, and who is left out?), and (4) footprint (what
-does it cost the Earth across its whole life — materials, making, use, disposal?) — and
-separates observation from judgment, with judgment citing evidence.** This is a *skill*,
-so **model the critique once on one object, then let learners practice in pairs**
-(explicit instruction carries novice skills — S-011). The critical-thinking lens: "good
-design is judged on all four, not one" is the evidence habit applied to made things. The
-egalitarian lens is central: *fairness* asks who is left out — a design that only some
-people can use is a fairness problem, and universal design is the frame for building
-access in from the start (S-369). The environment lens: *footprint* asks about the whole
-life cycle — materials, making, use, and disposal — not just one moment (S-371). The
-technology lens: a machine or tool is a design made real, and every design choice has
-consequences for people and the planet. The ethics lens: a critique describes the object
-and its consequences, never the designer, and it weighs trade-offs honestly rather than
-pretending any design is perfect. Keep the tone generative: critique helps us choose and
-make better, fairer, kinder things.
+**Tone.** Curious and honest — weigh trade-offs, don't hunt for perfection.
+
+**The facts to land.**
+
+1. Four questions, each answered with evidence: **function** (does it work?),
+   **materials** (what is it made of, and what happens to it later?), **fairness** (who
+   can use it, and who is left out?), and **footprint** (what it costs the Earth across
+   its whole life).
+2. "Good design is judged on all four, not one."
+3. Fairness is central: a design only some people can use is a fairness problem —
+   universal design builds access in from the start (S-369).
+
+**Don't overshoot.** No design is perfect; weigh trade-offs honestly instead of
+pretending otherwise.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* the evidence habit applied to made things.
+- *Egalitarianism:* ask who is left out, and change the design, not the person.
+- *Environment:* footprint covers materials, making, use, and disposal — the whole life
+  cycle, not one moment (S-371).
+- *Technology:* a tool is a design made real, with consequences for people and planet.
+- *Ethics:* critique describes the object and its consequences, never the designer.
+
+**The skill.** Model the critique once on one object, then learners practise in pairs
+(explicit instruction carries novice skills — S-011).
 
 ## Procedure
 

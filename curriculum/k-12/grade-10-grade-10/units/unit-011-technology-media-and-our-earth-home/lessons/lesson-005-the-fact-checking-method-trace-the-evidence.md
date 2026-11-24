@@ -117,23 +117,34 @@ believe.
 
 ## Facilitator note
 
-The idea to land: **a fact-checking method is a habit, not a talent — Stop, Investigate
-the source, Find better coverage, Trace to the original — and it works by leaving the
-claim to see what others say (lateral reading) and by finding where it first came
-from.** This is an explicit-skill lesson: model the method with a worked example, then
-guided practice, then independent work (S-011). The **critical-thinking** lens is the
-spine. The **technology** lens: the flood of information — and the AI that now generates
-it — is exactly why the method matters (S-393). The **egalitarian** lens: everyone
-deserves the tool to tell a source apart from a rumor, not just professionals; media
-literacy is a shared good (S-217). The **global** lens: checking practices and what
-counts as a trustworthy source differ across cultures and media systems — no one
-tradition is the default. The **ethics** lens: sharing an unchecked claim can harm real
-people, so checking is a duty, not a chore. The **environment** lens: false claims about
-the environment — a broken dam, a fire, a drought, a polluted river — spread fast and
-can drive real harm or delay real care, so checking them is care for the Earth too. Note
-the method's roots in verification guides (S-394) and historical sourcing (S-316), and
-hold questions open (philosophy §11). Preview: next lesson we separate fact from
-interpretation on a real claim.
+**Tone.** Brisk and hands-on: a habit to drill, not a virtue to admire.
+
+**The facts to land.**
+
+1. The method has four moves — **Stop**, **Investigate the source**, **Find better
+   coverage**, **Trace to the original** — and it works by lateral reading: leaving the
+   claim to see what others say, and where it first came from.
+2. Its roots are verification guides (S-394) and historical sourcing (S-316).
+3. The flood of information, and the AI that now generates it, is exactly why the method
+   matters (S-393).
+
+**Don't overshoot.** Fact-checking is not a talent only professionals have, and being
+fooled once is not a character defect.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* the spine — leave the page before judging the page.
+- *Technology:* generated media raises the stakes on every move.
+- *Egalitarianism:* everyone deserves this tool; media literacy is a shared good (S-217).
+- *Global:* what counts as a trustworthy source differs across media systems; none is
+  the default.
+- *Ethics:* sharing an unchecked claim can harm real people, so checking is a duty.
+- *Environment:* false claims about a dam, a fire, a drought, or a river travel fast
+  and delay real care.
+
+**The skill.** Model the method on a worked example, then guided practice, then
+independent work (S-011), holding questions open (philosophy §11). Next lesson separates
+fact from interpretation.
 
 ## Procedure
 

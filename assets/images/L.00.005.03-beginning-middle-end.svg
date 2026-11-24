@@ -41,5 +41,5 @@
   <path d="M420 196 Q412 206 404 210" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
   <text x="427" y="264" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">last</text>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="14.8" fill="#4f6d7a">First, next, last — the order helps your listeners follow you.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">First, next, last — the order helps your listeners follow you.</text>
 </svg>

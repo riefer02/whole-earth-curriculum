@@ -115,20 +115,36 @@ that is okay too — care is never a test.
 
 ## Facilitator note
 
-**No poverty judgment, ever.** Some learners have few clothes or need help dressing;
-some fasteners are hard for many hands. Celebrate effort, never compare outfits or
-resources, and never imply there is a "right" way to dress. Some clothing fastens with
-buttons, zips, and snaps; much of the world's clothing wraps, ties, or uses sashes and
-drawstrings instead — all are honored here. Honor motor differences: adaptive fasteners,
-Velcro, and help from a caregiver or peer are all fine — the goal is caring for the
-body, not doing it perfectly or alone. Weather and dress vary greatly around the world,
-and cultural dress is honored; there is no single "right" outfit for a season. A learner
-who is blind or has low vision practices fasteners by touch; a learner with a motor
-difference works on the fastener that fits their next step. A learner who is deaf or
-hard of hearing follows the demonstrations from the front, where the weather, clothing,
-and routine picture cards carry each step visually. **Care is never a test.** This
-lesson completes the S4.01.01 self-care trio (wash, brush, dress) and previews the
-unit's body-autonomy lessons that follow.
+**Tone.** Patient and matter-of-fact. **No poverty judgment, ever.**
+
+**The facts to land.**
+
+1. Some clothing fastens with buttons, zips, and snaps; much of the world's clothing
+   wraps, ties, or uses sashes and drawstrings. All are honoured here.
+2. Weather and dress vary greatly around the world, and cultural dress is honoured —
+   there is no single "right" outfit for a season.
+3. Some learners have few clothes or need help dressing, and some fasteners are hard for
+   many hands.
+4. This completes the S4.01.01 self-care trio (wash, brush, dress) and previews the
+   unit's body-autonomy lessons that follow.
+
+**Don't overshoot.** Never compare outfits or resources, and never imply a "right" way
+to dress. Celebrate effort, not the result.
+
+**The lenses, briefly.**
+
+- *Ethics:* care is never a test.
+- *Egalitarianism:* adaptive fasteners, Velcro, and help from a caregiver or peer are
+  all fine — the goal is caring for the body, not doing it perfectly or alone.
+- *Global:* the world dresses in many ways; none is the standard.
+- *Physical:* the skill is the fastener that fits this learner's next step.
+
+**The skill.** Choose a fastener you can practise, and do one step more yourself.
+
+**Access.** Blind or low-vision: practise fasteners by touch. Motor difference: work on
+the fastener that fits your next step. Deaf or hard of hearing: watch the demonstrations
+from the front — the weather, clothing, and routine picture cards carry each step
+visually.
 
 ## Procedure
 

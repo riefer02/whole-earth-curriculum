@@ -114,19 +114,37 @@ place and every time have made tools for exactly this reason.
 
 ## Facilitator note
 
-The heart of it is the *comparison*, so let every learner actually try both ways and say
-the difference in their own words. Keep it hands-on and concrete: carrying, scooping,
-and sweeping are real tasks a six-year-old knows. Do not use water for the
-demonstration — in places where water is scarce, wasting even a little sends the wrong
-message and can be a real hardship; dry beans, pebbles, or seeds work perfectly.
-Reinforce the unit's commitment: a basket, a gourd, or a folded cloth is just as much a
-tool as anything new, and an older tool is not "less." For a learner with motor
-differences, the choosing and the saying are the task — they may direct a partner's
-hands and describe the difference; adapt the tool too (a wide, light cup, a handled
-basket). A learner who is blind or has low vision can feel how many dry things fit in
-cupped hands versus in the carrier, and describe the difference by weight and fullness.
-A non-speaking learner can point to the fuller carrier and to a picture for "easier" or
-"faster."
+**Tone.** Hands-on and curious. The lesson is the **comparison**, not the answer.
+
+**The facts to land.**
+
+1. Let every learner actually try both ways — hands versus a carrier — and say the
+   difference in their own words.
+2. Use real tasks a six-year-old knows: carrying, scooping, sweeping.
+3. **Do not use water** for the demonstration. Where water is scarce, wasting even a
+   little sends the wrong message and can be a real hardship; dry beans, pebbles, or
+   seeds work perfectly.
+4. A basket, a gourd, or a folded cloth is just as much a tool as anything new — an
+   older tool is not "less."
+
+**Don't overshoot.** Don't supply the word "easier" before the learner has felt and
+described the difference themselves.
+
+**The lenses, briefly.**
+
+- *Technology:* a tool is anything that changes what the work takes.
+- *Critical-thinking:* the claim is the learner's own comparison.
+- *Egalitarianism:* choosing and saying count as doing the work.
+- *Global:* people everywhere carry and scoop with the materials at hand; none is
+  backward.
+
+**The skill.** Do the same job two ways, then say which took less and why.
+
+**Access.** Motor difference: direct a partner's hands and describe the difference —
+adapt the tool too (a wide, light cup, a handled basket). Blind or low-vision: feel how
+many dry things fit in cupped hands versus in the carrier, and describe the difference
+by weight and fullness. Non-speaking: point to the fuller carrier and to a picture for
+"easier" or "faster."
 
 ## Procedure
 

@@ -113,35 +113,38 @@ and see that knowledge itself comes in more than one form.
 
 ## Facilitator note
 
-The idea to land: **two knowledge traditions can be compared with respect — each offers
-something real, and they may agree on some things and differ on others, without one
-being "better."** The two traditions: **(1) Polynesian wayfinding** — navigating the
-vast Pacific without instruments by reading the **stars**, the **ocean swells**,
-**clouds**, and **birds**, and holding routes in memory, passed master-to-apprentice
-through **oral tradition**. The 1976 voyage of Hōkūleʻa from Hawaiʻi to Tahiti,
-navigated without instruments by the master navigator Mau Piailug, showed this living
-knowledge to the wider world (S-055). **(2) Indian Ocean astronomical navigation** —
-sailors from Arabia, Persia, India, and the Swahili coast sailed the monsoon seas using
-instruments such as the **astrolabe** and the **kamal**, along with astronomical tables
-and written sailing guides (S-379, S-207). Where they **agree**: both read the sky and
-the sea as reliable sources of information, and both are precise, living knowledge
-systems — not guesses. Where they **differ**: *how knowledge is held and passed* (oral,
-embodied, integrated reading of the whole environment, versus written instruments and
-tables), and *the environment each was built for* (the open Pacific, where a single
-voyage might cross thousands of kilometres of ocean, versus a monsoon basin with coasts,
-ports, and a reversing seasonal wind). What **each offers**: wayfinding offers a deep,
-whole-body reading of the environment and a living oral tradition of memory and trust;
-astronomical navigation offers portable instruments and records that can be copied,
-taught, and shared across a network of ports. The **ethics** lens: comparing traditions
-honestly means not ranking them — each is a complete, sophisticated system in its own
-context. The **egalitarian** lens: Western textbooks once called wayfinding "primitive"
-and instrument navigation "advanced" — a false hierarchy; both are sophisticated
-knowledge, and the people who held each deserve credit (S-055, S-379). The **global**
-lens: these are two of the world's great traditions of knowing — and many more exist,
-from Aboriginal Australian star-and-season knowledge to Andean and Arctic traditions.
-The **critical-thinking** lens: notice that "how do you know?" is a question every
-tradition answers in its own way. Keep it honest: hold both as living traditions to
-honor with respectful questions, never as specimens (philosophy §11).
+**Tone.** Respectful and exact — comparison is not a contest.
+
+**The facts to land.**
+
+1. **Polynesian wayfinding** navigated the Pacific without instruments, reading stars,
+   ocean swells, clouds, and birds, holding routes in memory and passing them
+   master-to-apprentice through oral tradition. In 1976 Hōkūleʻa sailed Hawaiʻi to
+   Tahiti without instruments, navigated by Mau Piailug, showing this knowledge to the
+   world (S-055).
+2. **Indian Ocean astronomical navigation**: sailors from Arabia, Persia, India, and the
+   Swahili coast used the monsoon, the astrolabe and kamal, astronomical tables, and
+   written sailing guides (S-379, S-207).
+3. They **agree** that sky and sea are precise sources of knowledge. They **differ** in
+   how knowledge is held (oral, embodied, whole-environment reading versus written
+   instruments and tables) and in environment (the open Pacific versus a monsoon basin
+   of coasts, ports, and reversing winds).
+
+**Don't overshoot.** Do not repeat the old hierarchy that called wayfinding "primitive"
+and instrument navigation "advanced" — both are sophisticated, and their holders deserve
+credit (S-055, S-379).
+
+**The lenses, briefly.**
+
+- *Global:* two of the world's great traditions of knowing; many more exist, from
+  Aboriginal Australian star knowledge to Andean and Arctic traditions.
+- *Ethics:* comparing honestly means not ranking — each is complete in its own context.
+- *Egalitarianism:* honor the holders, and name the hierarchy for what it was.
+- *Critical-thinking:* "how do you know?" is a question every tradition answers its own
+  way.
+
+**The skill.** Compare on three axes — what is read, how it is held, and what
+environment it was built for — then say what each offers.
 
 ## Procedure
 

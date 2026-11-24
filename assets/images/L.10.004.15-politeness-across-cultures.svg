@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="20.4" font-weight="bold" fill="#2b3a42">Respect Looks Different — Intention Is Shared</text>
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">Respect Looks Different — Intention Is Shared</text>
 
   <!-- Grid -->
   <rect x="28" y="58" width="330" height="220" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
@@ -43,15 +43,15 @@
   <text x="429" y="84" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Ask,</text>
   <text x="429" y="102" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">don't assume</text>
   <g font-family="sans-serif" font-size="12" fill="#3a5a3a">
-    <text x="390" y="128">How is</text>
-    <text x="390" y="146">respect shown</text>
-    <text x="390" y="164">here?</text>
-    <text x="390" y="190">How should I</text>
-    <text x="390" y="208">address you?</text>
-    <text x="390" y="234">What should</text>
-    <text x="390" y="252">I ask?</text>
+    <text fill="#3a5a3a" font-size="12" x="390" y="128">How is</text>
+    <text fill="#3a5a3a" font-size="12" x="390" y="146">respect shown</text>
+    <text fill="#3a5a3a" font-size="12" x="390" y="164">here?</text>
+    <text fill="#3a5a3a" font-size="12" x="390" y="190">How should I</text>
+    <text fill="#3a5a3a" font-size="12" x="390" y="208">address you?</text>
+    <text fill="#3a5a3a" font-size="12" x="390" y="234">What should</text>
+    <text fill="#3a5a3a" font-size="12" x="390" y="252">I ask?</text>
   </g>
 
-  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">Watch, ask, and adapt — so your respect lands the way you meant it.</text>
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Watch, ask, and adapt — so your respect lands the way you meant it.</text>
   <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Respect is an intention made visible in the other person's own idiom.</text>
 </svg>

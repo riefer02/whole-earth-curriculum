@@ -111,21 +111,36 @@ for your idea.
 
 ## Facilitator note
 
-This lesson teaches **making decisions together**, not obeying a teacher's rule. Rules
-here are questions about how we live well together, not commands to obey — invite
-learners to wonder what the class needs, then propose a rule and a reason. If you use a
-passing object so each person is heard, call it a **turn marker** — a small cloth,
-stone, or ball. People everywhere find ways to make sure one voice is heard at a time; a
-passing object is one simple, respectful way to do that. The marker reminds everyone to
-listen while one person speaks — it is not a decoration. Every voice matters — not just
-the loudest or fastest; invite quieter voices and show that a good idea can come from
-anyone. A learner who does not speak aloud proposes their rule by pointing to a picture,
-signing, or having a peer voice it; a learner who is blind or low-vision names their
-rule and reason aloud and hears the choices read back; a learner with a motor difference
-shows their choice by directing a partner or using eye gaze, and their idea is recorded.
-Choice can be shown many ways — a raised hand, a token, a step into a circle, a nod.
-Never require anyone to speak in front of the group; a learner may always pass. The goal
-is a rule the class *chose together* with reasons, not a rule handed down.
+**Tone.** Genuine curiosity. A decision made together, not compliance.
+
+**The facts to land.**
+
+1. Rules here are questions about living well together, not commands.
+2. A rule needs a **reason**: what does the class need, and how does this meet it?
+3. If you use a passing object, call it a **turn marker** — a small cloth, stone, or
+   ball. People everywhere find ways to hear one voice at a time; it is a reminder to
+   listen.
+4. Choice can be shown many ways — a raised hand, a token, a step into a circle, a nod.
+
+**Don't overshoot.** Invite quieter voices: a good idea can come from anyone. But never
+require anyone to speak; a learner may always pass. The goal is a rule the class chose
+together with reasons, not one handed down.
+
+**The lenses, briefly.**
+
+- *Ethics:* the rule binds you too.
+- *Egalitarianism:* every way of proposing and choosing counts.
+- *Social-emotional:* the reason names a need.
+- *Community:* the class makes it and lives by it.
+- *Global:* turn-taking customs differ; none is the model.
+- *Critical-thinking:* a rule without a reason is not yet a rule.
+
+**The skill.** Propose a rule, give a reason, then choose together.
+
+**Access.** Non-speaking: propose by pointing to a picture or signing, or have a peer
+voice it. Blind or low-vision: name the rule and reason aloud; hear the choices read
+back. Motor difference: show your choice by directing a partner or eye gaze; your idea
+is recorded.
 
 ## Procedure
 

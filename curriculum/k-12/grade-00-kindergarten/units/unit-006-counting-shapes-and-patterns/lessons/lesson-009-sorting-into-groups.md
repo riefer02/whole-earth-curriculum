@@ -104,20 +104,32 @@ which group has more. Sorting is a way of caring for the things around you.
 
 ## Facilitator note
 
-The key skill is classification by one attribute and a simple comparison (which group
-has more). Let learners choose their own feature to sort by — color, size, or kind are
-all fine — and ask them to say the rule ("all the red ones here, all the blue ones
-there"). Comparing "more" is best done by matching one-to-one in two lines, or by
-counting each group; both are valid, and neither should be rushed. A central value
-point: **"more" is a fact, not a worth.** A smaller group is not "worse," and a bigger
-group is not "better" — we say "which has more" without ranking, so sorting stays a tool
-of care, not competition. Sorting is a human activity everywhere (seeds, laundry, market
-goods), so draw on many examples and honor each. Learners who are blind or low-vision
-can sort by touch (smooth vs. rough, big vs. small by feel); learners who are deaf or
-hard of hearing can sign the rule and count in sign. Learners with limited movement sort
-by voice or sign — directing a partner ("red here, blue there") or choosing each object
-with eye-gaze or a mouth stick while a partner moves it. Every learner's pace is
-honored.
+**Tone.** Matter-of-fact and warm. "More" is a number, never a verdict.
+
+**The facts to land.**
+1. **Sorting** means grouping by one attribute; the learner names the rule — "all the
+   red ones here."
+2. To compare groups, match them one-to-one in two lines, or count each group. Both are
+   valid.
+3. **"More" is a fact, not a worth.** A smaller group is not worse; a bigger one is not
+   better.
+
+**Don't overshoot.** Don't supply the rule yourself or rush the comparison. Let the
+learner choose the feature — colour, size, or kind are all fine.
+
+**The lenses, briefly.**
+- *Ethics:* sorting stays a tool of care, not competition.
+- *Egalitarianism:* grouping never ranks the things, or the people, in them.
+- *Global:* sorting is a human activity everywhere — seeds, laundry, market goods.
+- *Critical-thinking:* the learner's own rule is a claim; saying it aloud tests it.
+
+**The skill.** Choose a feature, sort by it, say the rule, then compare which group has
+more.
+
+**Access.** Blind or low-vision: sort by touch — smooth versus rough, big versus small.
+Deaf or hard of hearing: sign the rule and count in sign. Limited movement: direct a
+partner by voice or sign ("red here, blue there"), or choose each object by eye-gaze or
+mouth stick while a partner moves it.
 
 ## Procedure
 

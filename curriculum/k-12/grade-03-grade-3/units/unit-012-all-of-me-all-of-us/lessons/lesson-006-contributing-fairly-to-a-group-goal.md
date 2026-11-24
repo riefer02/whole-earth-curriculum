@@ -116,19 +116,35 @@ communities work this way. Today your class tries it.
 
 ## Facilitator note
 
-It spirals up from Grade 2's "many hands, one big job" (a job no one could do alone)
-into **fairness *within* the job** — the harder, more mature idea. Two commitments carry
-it: **every part is real and needed** (the person who clears the path is as needed as
-the one who plants), and **a fair share is sized to the person, not identical for
-all** — fairness is not "everyone does exactly the same," but "everyone gives a real,
-reachable part and no one is drained or left out." A learner who uses a wheelchair or
-has limited strength can direct, count, fetch, steady, or cheer — all real parts; name
-them as such. Watch for the two unfair patterns and name them kindly if they appear: one
-child grabbing all the work, or one child fading out of it. The check afterward is where
-the learning lands: *was the work shared fairly, and would we change anything?* For a
-learner who is blind or has low vision, give a hands-on part with a partner describing
-the shared goal. For a learner who does not use a speaking voice, accept pointing,
-signing, or a pictured plan.
+**Tone.** Practical and generous — fairness is sized to the person.
+
+**The facts to land.**
+1. Every part is real and needed: the person who clears the path is as needed as the one
+   who plants.
+2. A fair share is sized to the person, not identical for all — everyone gives a real,
+   reachable part, and no one is drained or left out.
+3. Watch for two unfair patterns and name them kindly: one child grabbing all the work,
+   or one child fading out of it.
+
+**Don't overshoot.** Fairness is not "everyone does exactly the same." A learner who
+uses a wheelchair or has limited strength can direct, count, fetch, steady, or cheer —
+all real parts; name them as such.
+
+**The lenses, briefly.**
+- *Social-emotional:* no one is drained or left out.
+- *Ethics:* each part is owed its name.
+- *Egalitarianism:* a reachable part for every person.
+- *Community:* the job belongs to the group.
+- *Global:* group work takes many forms in many places.
+
+**The skill.** Ask afterward: "was the work shared fairly, and would we change
+anything?"
+
+This spirals up from Grade 2's "many hands, one big job" into fairness *within* the job.
+
+**Access:** for a learner who is blind or has low vision, give a hands-on part with a
+partner describing the shared goal; for a learner who does not use a speaking voice,
+accept pointing, signing, or a pictured plan.
 
 ## Procedure
 

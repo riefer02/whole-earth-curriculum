@@ -121,19 +121,34 @@ suits the dryness.
 
 ## Facilitator note
 
-Learners met a habitat earlier this year in another unit; this lesson **deepens** the
-idea by asking *why each living thing suits its home* — the first gentle step toward how
-living things fit their places. Keep it **concrete before abstract**: begin with the
-learner's own home, then widen to the homes of other living things. Model one habitat
-aloud — "this pond has water and mud; the reed grows in the wet mud, and the frog's wet
-skin suits the water" — then let learners try. Use habitats from many biomes (pond,
-desert, forest, seashore, savanna) so no single landscape or climate is the default, and
-learners in Lagos, Lima, or Lahore can find a home that looks like the one they know. A
-light ethical thread: a habitat is not ours to spoil — caring for a home means caring
-for its living things (this returns in Lessons 7–8). Honor every body: describe each
-card in words for a learner who is blind or has low vision; a non-speaking learner
-points to the plant and the animal and to a picture for "water" or "dry" to show why
-each suits.
+**Tone.** Concrete before abstract: begin with the learner's own home, then widen.
+
+**The facts to land.**
+
+1. A **habitat** is a living thing's home, and each living thing suits its own.
+2. Model one aloud: "this pond has water and mud; the reed grows in the wet mud, and the
+   frog's wet skin suits the water." Then let learners try.
+3. Use habitats from many biomes — pond, desert, forest, seashore, savanna — so no
+   single landscape or climate is the default.
+4. A habitat is not ours to spoil: caring for a home means caring for its living things
+   (this returns in Lessons 7–8).
+
+**Don't overshoot.** Don't ask *how* living things came to fit — this lesson only asks
+*why each one suits where it lives*.
+
+**The lenses, briefly.**
+
+- *Environment:* water, mud, sand, and shade are what a home is made of.
+- *Global:* learners in Lagos, Lima, or Lahore can find a home that looks like one they
+  know.
+- *Intellectual:* the reasoning is "this body suits this place."
+- *Ethics:* care for a place is care for its living things.
+
+**The skill.** Look at a living thing, then say why its home suits it.
+
+**Access.** Blind or low-vision: hear each card described in words. Non-speaking: point
+to the plant and the animal, and to a picture for "water" or "dry," to show why each
+suits.
 
 ## Procedure
 

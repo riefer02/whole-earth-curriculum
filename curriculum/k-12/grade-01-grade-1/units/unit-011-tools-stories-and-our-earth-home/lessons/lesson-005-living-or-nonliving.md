@@ -113,19 +113,33 @@ those. Today you will learn to notice the difference.
 
 ## Facilitator note
 
-Keep it gentle and concrete: the three clues are *grows and changes*, *needs food or
-water*, and *breathes air*. A plant is living even though it does not walk or speak — it
-grows toward the sun, needs water, and takes in air. Water, sunlight, and air are
-nonliving, but living things need them. Do not raise the topic of death in this lesson;
-the focus is noticing what is alive and treating it with care. If a learner brings a
-living thing to observe (a bug, a leaf), it is a guest, not a toy — we watch without
-harming and we never hurt a living thing just to look at it. If a learner asks whether a
-seed or an egg is living, honor the wonder: it can grow and change, and that is a clue
-it is living — but we can wonder together and do not need to settle it today. For a
-learner who is blind or has low vision, sort by touch, sound, and smell — a leaf is soft
-and smells green, a rock is hard and still — and a partner names each thing as it is
-felt. A non-speaking learner can place each card in the correct tray or point to show
-the answer.
+**Tone.** Gentle and concrete. Notice, don't test.
+
+**The facts to land.**
+
+1. The three clues: **it grows and changes, it needs food or water, it breathes air.**
+2. A plant is living even though it does not walk or speak — it grows toward the sun,
+   needs water, and takes in air.
+3. Water, sunlight, and air are nonliving, but living things need them.
+
+**Don't overshoot.** Do not raise the topic of death in this lesson. If a learner asks
+whether a seed or an egg is living, honour the wonder — it can grow and change, a clue
+it is living — and leave it open; we do not need to settle it today.
+
+**The lenses, briefly.**
+
+- *Environment:* living things share the same water and air.
+- *Critical-thinking:* three clues, then a decision the learner can defend.
+- *Ethics:* a living thing brought in is a **guest, not a toy** — we watch without
+  harming, and we never hurt a living thing just to look at it.
+- *Global:* the living world differs by place; the clues hold everywhere.
+
+**The skill.** Use the three clues to decide whether something is living, then say which
+clue you used.
+
+**Access.** Blind or low-vision: sort by touch, sound, and smell — a leaf is soft and
+smells green, a rock is hard and still — with a partner naming each thing as it is felt.
+Non-speaking: place each card in the correct tray, or point to show the answer.
 
 ## Procedure
 

@@ -127,7 +127,7 @@ measuring yourself against a single standard. The **technology & environment** l
 notice how screens and environments have shaped your emotional life (what a feed does to
 your mood, what a quiet place does to your body) — those are part of your story too.
 
-**Emotional safety is the whole point.** This is private, vulnerable work. Never require
+**Emotional safety.** This is private, vulnerable work. Never require
 sharing; "pass" is complete. Frame the reflection as *celebration plus curiosity*, never
 as a score. Remind learners that a growth area is not a defect — it is a direction.
 

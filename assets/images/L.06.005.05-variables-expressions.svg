@@ -5,7 +5,7 @@
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="34" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Variables and Expressions</text>
-  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">a variable is a letter that stands for a number you do not know yet</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">a variable is a letter that stands for a number you do not know yet</text>
 
   <!-- cups -->
   <g>
@@ -38,5 +38,5 @@
   <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">t = 5 → 4 × 5 + 3</text>
   <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222">= 20 + 3 = 23 coins</text>
 
-  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">substitute the number for the variable, then do the operations in order</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">substitute the number for the variable, then do the operations in order</text>
 </svg>

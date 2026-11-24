@@ -10,41 +10,49 @@
 
   <!-- Spokes -->
   <g stroke="#4f6d7a" stroke-width="3" stroke-linecap="round">
-    <line x1="256" y1="230" x2="110" y2="130"/>
-    <line x1="256" y1="230" x2="402" y2="130"/>
+    <line x1="256" y1="230" x2="110" y2="136"/>
+    <line x1="256" y1="230" x2="402" y2="136"/>
     <line x1="256" y1="230" x2="90" y2="330"/>
     <line x1="256" y1="230" x2="422" y2="330"/>
-    <line x1="256" y1="230" x2="150" y2="440"/>
-    <line x1="256" y1="230" x2="362" y2="440"/>
+    <line x1="256" y1="230" x2="150" y2="430"/>
+    <line x1="256" y1="230" x2="362" y2="430"/>
   </g>
 
-  <!-- Empty group circles -->
+  <!-- Empty group circles, for the learner to fill in -->
   <g fill="#ffffff" stroke="#2b3a42" stroke-width="2">
-    <circle cx="110" cy="130" r="44"/>
-    <circle cx="402" cy="130" r="44"/>
+    <circle cx="110" cy="136" r="44"/>
+    <circle cx="402" cy="136" r="44"/>
     <circle cx="90" cy="330" r="44"/>
     <circle cx="422" cy="330" r="44"/>
-    <circle cx="150" cy="440" r="44"/>
-    <circle cx="362" cy="440" r="44"/>
+    <circle cx="150" cy="430" r="44"/>
+    <circle cx="362" cy="430" r="44"/>
   </g>
 
-  <!-- Center figure -->
-  <circle cx="256" cy="214" r="30" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="247" cy="208" r="2.6" fill="#2b3a42"/>
-  <circle cx="265" cy="208" r="2.6" fill="#2b3a42"/>
-  <path d="M246 220 Q256 230 266 220" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <path d="M256 244 L256 272" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
-  <path d="M256 272 L236 292" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
-  <path d="M256 272 L276 292" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
-  <text x="256" y="320" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">me</text>
+  <!-- Center figure: one soft silhouette, limbs with weight -->
+  <g fill="#c99567" stroke="none">
+    <circle cx="256" cy="208" r="26"/>
+    <rect x="249" y="230" width="14" height="14" rx="6"/>
+    <rect x="226" y="240" width="60" height="62" rx="26"/>
+    <path d="M234 254 l-14 44" stroke="#c99567" stroke-width="16" stroke-linecap="round"/>
+    <path d="M278 254 l14 44" stroke="#c99567" stroke-width="16" stroke-linecap="round"/>
+    <path d="M242 296 l-4 26" stroke="#c99567" stroke-width="20" stroke-linecap="round"/>
+    <path d="M270 296 l4 26" stroke="#c99567" stroke-width="20" stroke-linecap="round"/>
+  </g>
+  <ellipse cx="234" cy="326" rx="12" ry="6" fill="#c99567"/>
+  <ellipse cx="278" cy="326" rx="12" ry="6" fill="#c99567"/>
+  <circle cx="256" cy="208" r="26" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="247" cy="202" r="2.6" fill="#2b3a42"/>
+  <circle cx="265" cy="202" r="2.6" fill="#2b3a42"/>
+  <path d="M246 216 Q256 226 266 216" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <text x="256" y="360" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">me</text>
 
-  <!-- Idea labels -->
+  <!-- Idea labels: each sits directly under its own circle -->
   <g fill="#4f6d7a" font-family="sans-serif" font-size="13" text-anchor="middle">
-    <text x="110" y="84">family</text>
-    <text x="402" y="84">class</text>
-    <text x="52" y="390">community</text>
-    <text x="460" y="390">a club or team</text>
-    <text x="150" y="500">a faith or culture</text>
-    <text x="362" y="500">a language</text>
+    <text x="110" y="78" font-size="13" text-anchor="middle">family</text>
+    <text x="402" y="78" font-size="13" text-anchor="middle">class</text>
+    <text x="90" y="390" font-size="13" text-anchor="middle">community</text>
+    <text x="422" y="390" font-size="13" text-anchor="middle">a club or team</text>
+    <text x="150" y="498" font-size="13" text-anchor="middle">a faith or culture</text>
+    <text x="362" y="498" font-size="13" text-anchor="middle">a language</text>
   </g>
 </svg>

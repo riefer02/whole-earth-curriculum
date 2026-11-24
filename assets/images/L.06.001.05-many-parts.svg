@@ -26,27 +26,27 @@
   <text x="256" y="270" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">me</text>
 
   <!-- bubbles -->
-  <g font-family="sans-serif" font-size="15" text-anchor="middle">
+  <g font-family="sans-serif">
     <rect x="30" y="100" width="128" height="58" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="94" y="135" fill="#2b3a42" font-weight="bold">my family</text>
+    <text text-anchor="middle" font-size="15" x="94" y="135" fill="#2b3a42" font-weight="bold">my family</text>
 
     <rect x="322" y="100" width="128" height="58" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="386" y="135" fill="#2b3a42" font-weight="bold">my culture</text>
+    <text text-anchor="middle" font-size="15" x="386" y="135" fill="#2b3a42" font-weight="bold">my culture</text>
 
     <rect x="16" y="272" width="128" height="58" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="80" y="307" fill="#2b3a42" font-weight="bold">my language</text>
+    <text text-anchor="middle" font-size="15" x="80" y="307" fill="#2b3a42" font-weight="bold">my language</text>
 
     <rect x="368" y="272" width="128" height="58" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="432" y="307" fill="#2b3a42" font-weight="bold">my interests</text>
+    <text text-anchor="middle" font-size="15" x="432" y="307" fill="#2b3a42" font-weight="bold">my interests</text>
 
     <rect x="30" y="392" width="128" height="58" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="94" y="427" fill="#2b3a42" font-weight="bold">my beliefs</text>
+    <text text-anchor="middle" font-size="15" x="94" y="427" fill="#2b3a42" font-weight="bold">my beliefs</text>
 
     <rect x="322" y="392" width="128" height="58" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="386" y="427" fill="#2b3a42" font-weight="bold">my place</text>
+    <text text-anchor="middle" font-size="15" x="386" y="427" fill="#2b3a42" font-weight="bold">my place</text>
 
     <rect x="192" y="452" width="128" height="44" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="256" y="479" fill="#2b3a42" font-weight="bold">my friendships</text>
+    <text text-anchor="middle" font-size="15" x="256" y="479" fill="#2b3a42" font-weight="bold">my friendships</text>
   </g>
 
   <text x="256" y="508" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Many parts, one whole me — no two maps are alike.</text>

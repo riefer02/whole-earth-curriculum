@@ -50,5 +50,5 @@
   <text x="256" y="402" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">more force → more acceleration</text>
   <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">more mass → less acceleration</text>
 
-  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">a force is a push or a pull; acceleration is how quickly motion changes</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">a force is a push or a pull; acceleration is how quickly motion changes</text>
 </svg>

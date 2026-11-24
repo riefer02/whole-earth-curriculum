@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26.2" font-weight="bold" fill="#2b3a42">A Day in Another Child&#8217;s Life</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">A Day in Another Child&#8217;s Life</text>
   <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Food &#183; home &#183; work &#183; play &#183; the parts are alike, the ways are many</text>
 
   <!-- card frames -->

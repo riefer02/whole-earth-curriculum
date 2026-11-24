@@ -72,5 +72,5 @@
 
   <!-- ===== Bottom banner ===== -->
   <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#2b3a42">draw + sing + move + build = making</text>
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="13.3" fill="#4f6d7a">Every piece has a story — making is a voice, and every voice matters.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Every piece has a story — making is a voice, and every voice matters.</text>
 </svg>

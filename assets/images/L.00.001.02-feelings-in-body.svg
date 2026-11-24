@@ -1,80 +1,79 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-00-001-02-feelings-in-body desc-L-00-001-02-feelings-in-body">
   <title id="title-L-00-001-02-feelings-in-body">Feelings in our bodies: a body map with five feeling spots</title>
-  <desc id="desc-L-00-001-02-feelings-in-body">A simple child body outline with five labeled feeling spots marked by different shapes: a warm heart on the chest (happy), a diamond on the shoulder (sad), a circle on the cheek (angry, shown warm-toned for "hot cheeks"), a triangle on the tummy (scared), and a square on the hand (calm). The body is drawn in a neutral tone, not a skin tone, so any learner can see it as their own body. A legend on the right repeats each shape with its feeling word and body spot. The shapes and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
+  <desc id="desc-L-00-001-02-feelings-in-body">A calm, soft-outlined child figure with five labeled feeling spots, each joined to its words by a thin leader line. A heart on the chest is labeled happy, warm chest. A diamond on the shoulder is labeled sad, heavy shoulders. A round spot on the cheek is labeled angry, hot cheeks. A triangle on the tummy is labeled scared, wobbly tummy. A square on the hand is labeled calm, still hands. The body is drawn in a neutral tone, not a skin tone, so any learner can see it as their own body. Shape, words, and leader lines — not color — carry the meaning, so it prints clearly in grayscale.</desc>
 
-  <!-- Paper background -->
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <!-- Header -->
-  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Feelings in Our Bodies</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Feelings in Our Bodies</text>
+  <text x="256" y="68" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Each feeling shows up somewhere in the body.</text>
 
-  <!-- ===== Body outline ===== -->
-  <!-- Legs (pants) -->
-  <line x1="164" y1="330" x2="158" y2="416" stroke="#2b3a42" stroke-width="16" stroke-linecap="round"/>
-  <line x1="164" y1="330" x2="158" y2="416" stroke="#4f6d7a" stroke-width="12" stroke-linecap="round"/>
-  <line x1="196" y1="330" x2="202" y2="416" stroke="#2b3a42" stroke-width="16" stroke-linecap="round"/>
-  <line x1="196" y1="330" x2="202" y2="416" stroke="#4f6d7a" stroke-width="12" stroke-linecap="round"/>
-  <!-- Feet (shoes) -->
-  <ellipse cx="156" cy="428" rx="13" ry="7" fill="#2b3a42"/>
-  <ellipse cx="204" cy="428" rx="13" ry="7" fill="#2b3a42"/>
+  <!-- leader lines, drawn under the figure so they meet the body edge cleanly -->
+  <g stroke="#4f6d7a" stroke-width="1.6" fill="none">
+    <line x1="236" y1="162" x2="148" y2="158"/>
+    <line x1="300" y1="210" x2="346" y2="208"/>
+    <line x1="256" y1="262" x2="142" y2="262"/>
+    <line x1="256" y1="318" x2="146" y2="336"/>
+    <line x1="324" y1="313" x2="358" y2="308"/>
+  </g>
 
-  <!-- Arms (skin) -->
-  <line x1="148" y1="244" x2="110" y2="300" stroke="#2b3a42" stroke-width="15" stroke-linecap="round"/>
-  <line x1="148" y1="244" x2="110" y2="300" stroke="#d6d1c7" stroke-width="11" stroke-linecap="round"/>
-  <line x1="212" y1="244" x2="250" y2="300" stroke="#2b3a42" stroke-width="15" stroke-linecap="round"/>
-  <line x1="212" y1="244" x2="250" y2="300" stroke="#d6d1c7" stroke-width="11" stroke-linecap="round"/>
-  <!-- Hands -->
-  <circle cx="108" cy="304" r="9" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="252" cy="304" r="9" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2"/>
+  <!-- figure: one soft silhouette, limbs with weight -->
+  <g fill="#d9e3e9">
+    <!-- legs -->
+    <path d="M234 328 L230 418" stroke="#d9e3e9" stroke-width="27" stroke-linecap="round" fill="none"/>
+    <path d="M278 328 L282 418" stroke="#d9e3e9" stroke-width="27" stroke-linecap="round" fill="none"/>
+    <!-- feet -->
+    <ellipse cx="226" cy="424" rx="16" ry="8"/>
+    <ellipse cx="286" cy="424" rx="16" ry="8"/>
+    <!-- arms -->
+    <path d="M212 218 L198 308" stroke="#d9e3e9" stroke-width="21" stroke-linecap="round" fill="none"/>
+    <path d="M300 218 L314 308" stroke="#d9e3e9" stroke-width="21" stroke-linecap="round" fill="none"/>
+    <!-- hands -->
+    <circle cx="197" cy="313" r="10"/>
+    <circle cx="315" cy="313" r="10"/>
+    <!-- torso with weight -->
+    <path d="M256 196 C 224 196 208 210 208 236 L208 300 C208 322 220 332 240 332 L272 332 C292 332 304 322 304 300 L304 236 C304 210 288 196 256 196 Z"/>
+    <!-- neck -->
+    <rect x="248" y="178" width="16" height="24" rx="6"/>
+    <!-- head -->
+    <circle cx="256" cy="146" r="36"/>
+  </g>
 
-  <!-- Torso (shirt) -->
-  <rect x="142" y="222" width="76" height="112" rx="18" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <!-- hair and face -->
+  <path d="M220 146 A36 36 0 0 1 292 146 C 292 132 280 118 256 118 C 232 118 220 132 220 146 Z" fill="#2b3a42"/>
+  <circle cx="243" cy="152" r="3.6" fill="#2b3a42"/>
+  <circle cx="269" cy="152" r="3.6" fill="#2b3a42"/>
+  <path d="M246 166 Q256 173 266 166" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
 
-  <!-- Neck -->
-  <rect x="172" y="206" width="16" height="18" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2"/>
-
-  <!-- Head -->
-  <circle cx="180" cy="176" r="34" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M146 172 A34 34 0 0 1 214 172 Z" fill="#2b3a42"/>
-  <circle cx="168" cy="180" r="3" fill="#2b3a42"/>
-  <circle cx="192" cy="180" r="3" fill="#2b3a42"/>
-  <path d="M170 194 Q180 200 190 194" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-
-  <!-- ===== Feeling spots on the body ===== -->
+  <!-- five feeling spots, drawn over the body -->
   <!-- happy: warm chest (heart) -->
-  <path d="M180 259 C176 252 169 252 169 258 C169 263 180 272 180 272 C180 272 191 263 191 258 C191 252 184 252 180 259 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <path transform="translate(256 260)" d="M0 -4 C-5 -12 -14 -11 -14 -4 C-14 4 0 14 0 14 C0 14 14 4 14 -4 C14 -11 5 -12 0 -4 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
   <!-- sad: heavy shoulders (diamond) -->
-  <path d="M150 230 L157 238 L150 246 L143 238 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <!-- angry: hot cheeks (circle) -->
-  <circle cx="158" cy="184" r="7" fill="#c96f5f" stroke="#2b3a42" stroke-width="2"/>
+  <path transform="translate(300 210)" d="M0 -10 L10 0 L0 10 L-10 0 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <!-- angry: hot cheeks (round spot) -->
+  <circle cx="236" cy="162" r="7.5" fill="#c96f5f" stroke="#2b3a42" stroke-width="2"/>
   <!-- scared: wobbly tummy (triangle) -->
-  <path d="M180 289 L188 305 L172 305 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <path transform="translate(256 318)" d="M0 -11 L11 9 L-11 9 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
   <!-- calm: still hands (square) -->
-  <rect x="247" y="299" width="14" height="14" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="306" y="304" width="18" height="18" rx="2" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
 
-  <!-- ===== Legend ===== -->
-  <!-- happy -->
-  <path d="M322 166 C317 158 309 158 309 165 C309 171 322 182 322 182 C322 182 335 171 335 165 C335 158 327 158 322 166 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="344" y="165" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">happy</text>
-  <text x="344" y="184" font-family="sans-serif" font-size="15" fill="#4f6d7a">warm chest</text>
+  <!-- labels: left side -->
+  <g font-family="sans-serif" text-anchor="end">
+    <text x="144" y="158" font-size="14" font-weight="bold" fill="#222222">angry</text>
+    <text x="144" y="174" font-size="12.5" fill="#4f6d7a">hot cheeks</text>
 
-  <!-- sad -->
-  <path d="M322 215 L330 224 L322 233 L314 224 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <text x="344" y="231" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">sad</text>
-  <text x="344" y="250" font-family="sans-serif" font-size="15" fill="#4f6d7a">heavy shoulders</text>
+    <text x="138" y="256" font-size="14" font-weight="bold" fill="#222222">happy</text>
+    <text x="138" y="272" font-size="12.5" fill="#4f6d7a">warm chest</text>
 
-  <!-- angry -->
-  <circle cx="322" cy="290" r="9" fill="#c96f5f" stroke="#2b3a42" stroke-width="2"/>
-  <text x="344" y="297" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">angry</text>
-  <text x="344" y="316" font-family="sans-serif" font-size="15" fill="#4f6d7a">hot cheeks</text>
+    <text x="140" y="332" font-size="14" font-weight="bold" fill="#222222">scared</text>
+    <text x="140" y="348" font-size="12.5" fill="#4f6d7a">wobbly tummy</text>
+  </g>
 
-  <!-- scared -->
-  <path d="M322 347 L331 365 L313 365 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <text x="344" y="363" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">scared</text>
-  <text x="344" y="382" font-family="sans-serif" font-size="15" fill="#4f6d7a">wobbly tummy</text>
+  <!-- labels: right side -->
+  <g font-family="sans-serif">
+    <text x="352" y="205" font-size="14" font-weight="bold" fill="#222222">sad</text>
+    <text x="352" y="221" font-size="12.5" fill="#4f6d7a">heavy shoulders</text>
 
-  <!-- calm -->
-  <rect x="313" y="413" width="18" height="18" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
-  <text x="344" y="429" font-family="sans-serif" font-size="20" font-weight="bold" fill="#222222">calm</text>
-  <text x="344" y="448" font-family="sans-serif" font-size="15" fill="#4f6d7a">still hands</text>
+    <text x="364" y="305" font-size="14" font-weight="bold" fill="#222222">calm</text>
+    <text x="364" y="321" font-size="12.5" fill="#4f6d7a">still hands</text>
+  </g>
 </svg>

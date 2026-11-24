@@ -120,29 +120,36 @@ chain that reaches the whole Earth — and to plan it that way.
 
 ## Facilitator note
 
-The idea to land: **local action and global solidarity are one chain, not two separate
-things — and collective responsibility means planning the link, not just the act.** The
-cases are documented: the Green Belt Movement began locally and planted over thirty
-million trees across Africa (S-059); environmental burdens fall unevenly — the field's
-founding finding (Bullard, S-484); climate is a planetary commons harmed by many local
-acts at once (IPCC, S-005). Hold "we should act" as a value, distinct from these facts
-about how the world is connected.
+**Tone.** Hopeful and modest: one link is enough, and no one is asked to fix the world.
 
-The **ethics** lens: responsibility does not stop at the edge of my street — the chain
-is the ethical fact, and ignoring the far end of it is a choice. The **egalitarianism**
-lens: who causes harm and who bears it are often different people, in different places —
-the environmental-justice fact (Bullard, S-484) — so solidarity must cross the gap. The
-**global** lens: this is the global lens in action — one chain from a Nairobi backyard
-to a continent (S-059), from a North Carolina community to a worldwide movement
-(Bullard, S-484). The **environment** lens: the Earth is the largest commons, and every
-local act is a vote in how it is kept or spent (IPCC, S-005; Ostrom, S-416). The
-**technology** lens: digital networks are what let a local act *find* its global kin — a
-neighborhood group can join a movement on three continents in an afternoon (Britannica,
-S-481) — the tool that shortens the chain, for better and for worse. Preview: Lesson 14
-gathers the whole unit into the ethic you will carry forward.
+**The facts to land.**
 
-**Safeguarding:** the action is small, real, and optional; no one is asked to take on
-danger or to fix the world alone — one link is enough.
+1. Local action and global solidarity are one chain, not two things — collective
+   responsibility means planning the link, not just the act.
+2. The Green Belt Movement began locally and planted over thirty million trees across
+   Africa (S-059); environmental burdens fall unevenly (Bullard, S-484); climate is a
+   planetary commons harmed by many local acts at once (IPCC, S-005).
+3. Ostrom's commons research shows shared resources can be governed well by the people
+   who use them (S-416).
+
+**Don't overshoot.** Do not demand heroism; taking on danger is not the assignment.
+
+**The lenses, briefly.**
+
+- *Ethics:* responsibility does not stop at the edge of my street.
+- *Egalitarianism:* who causes harm and who bears it are often different people in
+  different places (Bullard, S-484).
+- *Global:* one chain runs from a Nairobi backyard to a continent, and from a North
+  Carolina community to a worldwide movement (S-059, S-484).
+- *Environment:* the Earth is the largest commons; every local act is a vote in how it
+  is kept or spent (S-005, S-416).
+- *Technology:* digital networks let a local act find its global kin in an afternoon
+  (Britannica, S-481), for better and for worse.
+
+**Safeguarding.** The action is small, real, and optional; one link is enough.
+
+**The skill.** Model one chain, then release (S-011): name your local act and the far
+end it reaches. Lesson 14 gathers the unit.
 
 ## Procedure
 

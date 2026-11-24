@@ -8,18 +8,18 @@
   <rect x="30" y="90" width="170" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="115" y="120" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Scientific model</text>
   <g font-family="sans-serif" font-size="13" fill="#222222">
-    <text x="115" y="150" text-anchor="middle">answers &#8220;how?&#8221;</text>
-    <text x="115" y="174" text-anchor="middle">grounded in evidence</text>
-    <text x="115" y="198" text-anchor="middle">testable, revisable</text>
+    <text fill="#222222" font-size="13" x="115" y="150" text-anchor="middle">answers &#8220;how?&#8221;</text>
+    <text fill="#222222" font-size="13" x="115" y="174" text-anchor="middle">grounded in evidence</text>
+    <text fill="#222222" font-size="13" x="115" y="198" text-anchor="middle">testable, revisable</text>
   </g>
 
   <!-- Cultural / spiritual -->
   <rect x="312" y="90" width="170" height="150" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="397" y="120" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Cultural &#038; spiritual</text>
+  <text x="397" y="120" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">Cultural &amp; spiritual</text>
   <g font-family="sans-serif" font-size="13" fill="#222222">
-    <text x="397" y="150" text-anchor="middle" font-size="12">answers &#8220;what does it mean?&#8221;</text>
-    <text x="397" y="174" text-anchor="middle">grounded in tradition</text>
-    <text x="397" y="198" text-anchor="middle">gives meaning, belonging</text>
+    <text fill="#222222" x="397" y="150" text-anchor="middle" font-size="12">answers &#8220;what does it mean?&#8221;</text>
+    <text fill="#222222" font-size="13" x="397" y="174" text-anchor="middle">grounded in tradition</text>
+    <text fill="#222222" font-size="13" x="397" y="198" text-anchor="middle">gives meaning, belonging</text>
   </g>
 
   <!-- Arrows to shared circle -->
@@ -32,5 +32,5 @@
   <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">come from?</text>
   <text x="256" y="406" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">held side by side</text>
 
-  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="12.4" fill="#222222">Different answers to different questions &#8212; no ranking, only respect.</text>
+  <text x="256" y="488" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">Different answers to different questions &#8212; no ranking, only respect.</text>
 </svg>

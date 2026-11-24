@@ -119,29 +119,36 @@ people *as they understand themselves* — and it is a skill for life.
 
 ## Facilitator note
 
-The idea to land: **"from within" is a posture — seek the community's own history,
-values, and voices, and treat outside labels as guesses to check, not facts.** The
-anchor is the distinction between studying *at* a distance and studying *with and from*
-a community's own accounts (its members' words, art, institutions, and histories). This
-is a value and a method, not a scientific claim: the **egalitarian** commitment is that
-a community is the authority on itself, and that respectful study centers first-person
-voices rather than repeating stereotypes (which research shows can narrow how we see
-whole groups of people — S-226). Present this as a *skill and a commitment*, and be
-honest that no outsider ever fully "gets inside" another person's world — the goal is
-humility, not mastery.
+**Tone.** Humble and curious: no outsider ever fully gets inside another person's world,
+and the goal is humility, not mastery.
 
-Model the contrast once, then let learners practice (worked example → guided practice →
-independent work; S-011). The **global** lens is the spine: this is how we meet other
-peoples and times without flattening them. The **critical-thinking** lens: ask *who made
-this account, and for whom?* — an outside report and an inside account answer different
-questions. The **ethics** lens: respectful study asks permission, gives credit, and does
-not extract a story to use it; studying *from within* means the community's dignity
-stays intact. The **egalitarian** lens: whose version of a community gets repeated is a
-question of power — centering inside voices is a small act of fairness. The
-**social-emotional** lens: empathy across difference can stir discomfort and humility;
-invite, never force, and let learners share only what they choose. Preview: Lesson 6
-turns the posture into a plan — studying one community's history and values in its own
-words.
+**The facts to land.**
+
+1. "From within" is a posture: seek the community's own history, values, and voices, and
+   treat outside labels as guesses to check.
+2. The distinction is between studying *at* a distance and studying *with and from* a
+   community's own accounts — its members' words, art, institutions, and histories.
+3. Repeated narrow images can flatten how whole groups of people are seen (S-226), so
+   first-person voices are the correction.
+
+**Don't overshoot.** A visit, an article, or one interview does not make an insider; do
+not claim the community's authority for it.
+
+**The lenses, briefly.**
+
+- *Global:* the spine — this is how we meet other peoples and times without flattening
+  them.
+- *Critical-thinking:* who made this account, and for whom? Outside and inside
+  accounts answer different questions.
+- *Ethics:* ask permission, give credit, and never extract a story to use it.
+- *Egalitarianism:* a community is the authority on itself, and whose version gets
+  repeated is a question of power.
+- *Social-emotional:* empathy across difference can stir discomfort and humility —
+  invite, never force.
+
+**The skill.** Model the contrast once, then release (S-011): set an outside report
+beside an inside account and name what each one answers. Lesson 6 turns the posture into
+a plan.
 
 ## Procedure
 

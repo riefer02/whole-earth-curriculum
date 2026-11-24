@@ -129,24 +129,36 @@ that practice forward and celebrate all of it.
 
 ## Facilitator note
 
-The idea to land: **mutual aid is helping among equals — everyone gives and receives —
-and carrying it forward with honest motives (care, duty, recognition) is how "all of me"
-meets "all of us"; the year ends in celebration of each whole person, the caring
-community, and the living Earth, not in ranking.** This deepens Unit 3, Lesson 10 (which
-planned a mutual-aid action) by pointing it into Grade 8 and joining it to the unit's
-identity work. Present mutual-aid traditions with respect as living practices, never as
-curiosities or a ranking (harambee, gotong royong, mink'a/minga, barn raising — S-164;
-the term's canonical source is Kropotkin, S-163). Honor the egalitarian lens: mutual aid
-is solidarity among equals, not charity from above. Keep motives non-judged — all three
-are human and common, and naming them honestly is the skill (inquiry over creed). The
-ethics lens asks what is right toward others; the global lens holds many peoples' ways
-of helping side by side; the technology lens asks how tools and messages can help or
-hinder mutual aid; the environment lens grounds the action in care for the land people
-share. The action must be small, safe, and genuinely doable, with every learner offered
-a real part. Model the planner once as a worked example (Kirschner, Sweller & Clark,
-2006, S-011). This is a **summative** moment, but mastery is personal, never ranked —
-celebrate growth, never compare learners. Assess by what each learner can now *explain,
-choose, and do*, not by a score.
+**Tone.** Celebratory and honest. Summative, but growth is personal and no learner is
+ranked.
+
+**The facts to land.**
+
+1. **Mutual aid is helping among equals** — everyone gives and receives.
+2. Carrying it forward with **honest motives** — care, duty, recognition — is how "all
+   of me" meets "all of us."
+3. The year ends in **celebration** of each whole person, the caring community, and the
+   living Earth. It deepens Unit 3, Lesson 10, pointing that work into Grade 8.
+
+**Don't overshoot.** Do not present mutual aid as charity from above, or a motive as a
+moral failure. All three motives are human and common; naming them honestly is the
+skill.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* reflection here is warm, not an audit.
+- *Ethics:* what is right toward others, and who is helped.
+- *Egalitarianism:* solidarity among equals, not charity from above.
+- *Global:* many peoples' ways of helping, side by side — harambee, gotong royong,
+  mink'a/minga, barn raising (S-164); the term's canonical source is Kropotkin (S-163).
+- *Community:* the action is real and shared.
+- *Technology:* tools and messages can help or hinder it.
+- *Environment:* ground the action in care for land people share.
+- *Critical-thinking:* notice which motive is speaking, without judging it.
+
+**The skill.** Model the planner once (Kirschner, Sweller & Clark, 2006, S-011). The
+action must be small, safe, and genuinely doable, with every learner offered a real
+part. Assess what each learner can now *explain, choose, and do* — never a score.
 
 ## Procedure
 

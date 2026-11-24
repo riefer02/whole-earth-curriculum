@@ -110,22 +110,33 @@ common ways people everywhere judge right and wrong.
 
 ## Facilitator note
 
-Its goals: **(1) introduce the consequences lens honestly — it is one family of
-traditions (consequentialism; its best-known form, utilitarianism, is associated with
-Jeremy Bentham and John Stuart Mill, and consequentialist reasoning appears early in
-Chinese Mohism, in Buddhist ethics, and in other traditions (S-466; S-467)), not the
-"correct" answer; (2) model once, then guide: work one dilemma together step by step
-(identify the act; trace who is helped, harmed, and affected far away or in the future;
-then weigh the overall result), before learners try a second on their own (Kirschner,
-Sweller & Clark 2006, S-011); (3) name the lens's limits — it can miss duties and the
-kind of person one becomes, and "the greatest good for the greatest number" can overlook
-the few, which is why the egalitarian lens matters.** The ethics lens: results matter,
-and so do the people they fall on. The egalitarian lens: always ask *who* is helped and
-*who* is left out — including those with the least voice. The global lens: the same
-reasoning runs through many traditions, but what counts as a good result is itself
-argued about across cultures. The environment lens: consequences reach non-human life
-and future generations too. Keep this lens as *one* way of seeing, not the whole truth —
-more lenses arrive in the next two lessons (philosophy §11).
+**Tone.** Fair-minded — this is one lens, not the correct answer.
+
+**The facts to land.**
+
+1. **The consequences lens is one family of traditions** — consequentialism, whose
+best-known form, utilitarianism, is associated with Jeremy Bentham and John Stuart Mill;
+consequentialist reasoning also appears early in Chinese Mohism, in Buddhist ethics, and
+elsewhere (S-466, S-467).
+2. **Model once, then guide:** identify the act; trace who is helped, harmed, and
+affected far away or in the future; weigh the overall result (S-011).
+3. **Its limits:** it can miss duties and the kind of person one becomes, and "the
+greatest good for the greatest number" can overlook the few.
+
+**The lenses, briefly.**
+
+- *Ethics:* results matter, and so do the people they fall on.
+- *Egalitarianism:* ask *who* is helped and *who* is left out — including those with the
+least voice.
+- *Global:* the same reasoning runs through many traditions, but what counts as a good
+result is itself argued about across cultures.
+- *Environment:* consequences reach non-human life and future generations too.
+- *Critical-thinking:* a total can hide a minority.
+
+**The skill.** Work one dilemma step by step together, then learners try a second alone
+(Kirschner, Sweller & Clark 2006, S-011).
+
+**Hold it open.** More lenses arrive in the next two lessons (philosophy §11).
 
 ## Procedure
 

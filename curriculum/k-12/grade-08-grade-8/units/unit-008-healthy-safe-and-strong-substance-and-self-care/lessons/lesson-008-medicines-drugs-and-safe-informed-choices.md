@@ -113,35 +113,36 @@ for help.
 
 ## Facilitator note
 
-It completes the substance strand with the most important distinction a young teen can
-hold: **a medicine used as directed is help; misuse is harm.** The facts to land: **(1)
-a medicine is a substance that prevents or treats illness when taken by the right
-person, at the right dose, at the right time, as a trusted adult or clinician directs;
-(2) drugs that affect the mind (psychoactive substances) change brain signaling — many
-flood the brain's reward system with a chemical called dopamine, which is why repeated
-use can lead to dependence and addiction (S-376, S-377); (3) addiction is a treatable
-health condition, not a moral failing — and help exists (S-377); (4) the hard rules that
-keep a person safe: never take medicine that isn't yours, never take more than the dose,
-never mix with alcohol or other drugs, and never use an unknown pill or plant (S-376).**
-The critical-thinking lens: read the label — who it is for, the dose, the warnings —
-before anything goes in your body. The egalitarian lens: access to safe, real medicine
-is deeply unequal around the world, and the drug trade preys on that inequality — a
-justice matter. The global lens: humans in every culture have used plant medicines and
-remedies, and modern medicine is one more chapter in that long story; the rule
-everywhere is to know what you are taking and who it is for. The technology &
-environment lens: modern medicine is a technology — a triumph of human care — and it
-carries a footprint too; disposing of medicine carelessly can put it into shared water,
-and the drug trade damages both land and people, so a safe, informed choice keeps the
-body and the shared world well. The ethics lens: a safe choice protects our own body and
-the people who care about us. Keep it **non-shaming and harm-reduction-informed**: do
-not rank or judge people who use drugs; instead, teach the skills — read the label,
-refuse a shared pill, ask a trusted adult, and know the emergency floor (if someone is
-unresponsive or in trouble after using a substance, call for adult or medical help and
-stay with them). **Do not name specific street drugs or describe methods of use** — at
-this age that detail is unnecessary and can be counterproductive. A learner who has a
-family member using drugs is met with compassion, never blame; addiction is an illness,
-and the family member deserves care too. Close by pointing firmly to help: a trusted
-adult, a school counselor, a doctor, or a local helpline.
+**Tone.** Factual and calm — addiction is illness, not a verdict.
+
+**The facts to land.**
+
+1. A medicine helps the right person, at the right dose and time, as a clinician directs
+   — never take medicine that isn't yours, exceed the dose, mix with alcohol or other
+   drugs, or use an unknown pill or plant (S-376).
+2. Mind-affecting drugs change brain signalling; many flood the reward system with
+   dopamine, and repeated use can lead to addiction (S-376, S-377).
+3. Addiction is a treatable health condition, not a moral failing, and help exists
+   (S-377).
+
+**Don't overshoot.** Do not name street drugs or methods, or judge people who use drugs.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* read the label: who it is for, the dose, warnings.
+- *Egalitarianism:* safe medicine is unequally available; the drug trade preys on the gap.
+- *Global:* plant medicines are ancient; modern medicine is one chapter — know what you
+  take and who it is for.
+- *Technology & environment:* medicine leaves a footprint: careless disposal reaches
+  shared water; the drug trade harms land.
+- *Ethics:* a safe choice protects your body and those who care for you.
+- *Physical:* dose, timing, and person make medicine help, not harm.
+
+**The skill.** Refuse a shared pill, ask a trusted adult; know the emergency floor.
+
+**Safety floor.** If someone is unresponsive or in trouble after a substance, get adult or
+medical help and stay with them. A learner with a family member using drugs meets
+compassion, never blame; point to a trusted adult, counsellor, doctor, or helpline.
 
 ## Procedure
 

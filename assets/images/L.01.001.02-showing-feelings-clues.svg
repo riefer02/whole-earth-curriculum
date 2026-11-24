@@ -20,8 +20,8 @@
     <circle cx="105" cy="214" r="5" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="77" cy="214" r="2" fill="#2b3a42"/>
     <circle cx="105" cy="214" r="2" fill="#2b3a42"/>
-    <path d="M72 198 Q77 193 82 198" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M100 198 Q105 193 110 198" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <line x1="72" y1="197" x2="82" y2="194" stroke="#2b3a42" stroke-width="2.4" stroke-linecap="round"/>
+    <line x1="100" y1="194" x2="110" y2="197" stroke="#2b3a42" stroke-width="2.4" stroke-linecap="round"/>
     <path d="M75 244 Q91 260 107 244" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <text x="91" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a smile, wide eyes,</text>
     <text x="91" y="320" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">raised eyebrows</text>
@@ -32,18 +32,25 @@
   <g>
     <rect x="181" y="112" width="150" height="300" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
     <text x="256" y="146" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#4f6d7a">body</text>
-    <circle cx="256" cy="210" r="26" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M243 203 A26 26 0 0 1 269 203 Z" fill="#2b3a42"/>
-    <circle cx="248" cy="208" r="2.6" fill="#2b3a42"/>
-    <circle cx="264" cy="208" r="2.6" fill="#2b3a42"/>
-    <path d="M248 220 Q256 225 264 220" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <rect x="238" y="238" width="36" height="56" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <line x1="224" y1="244" x2="204" y2="218" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
-    <line x1="288" y1="244" x2="308" y2="218" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
-    <line x1="246" y1="294" x2="244" y2="330" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
-    <line x1="266" y1="294" x2="268" y2="330" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
-    <path d="M240 342 L244 350 L252 342" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-    <path d="M272 342 L276 350 L284 342" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="256" cy="204" r="26" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M230 202 A26 26 0 0 1 282 202 L282 192 A26 26 0 0 0 230 192 Z" fill="#2b3a42"/>
+    <circle cx="248" cy="204" r="2.6" fill="#2b3a42"/>
+    <circle cx="264" cy="204" r="2.6" fill="#2b3a42"/>
+    <path d="M248 216 Q256 221 264 216" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- arms up, with weight -->
+    <path d="M238 242 L214 216" stroke="#7a9e7e" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <path d="M274 242 L298 216" stroke="#7a9e7e" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <circle cx="211" cy="213" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="1.6"/>
+    <circle cx="301" cy="213" r="7" fill="#c99567" stroke="#2b3a42" stroke-width="1.6"/>
+    <!-- torso with weight -->
+    <path d="M256 234 C 241 234 234 242 234 252 L234 286 C234 298 240 302 250 302 L262 302 C272 302 278 298 278 286 L278 252 C278 242 271 234 256 234 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <!-- legs and feet -->
+    <path d="M248 300 L246 332" stroke="#2b3a42" stroke-width="13" stroke-linecap="round" fill="none"/>
+    <path d="M264 300 L266 332" stroke="#2b3a42" stroke-width="13" stroke-linecap="round" fill="none"/>
+    <ellipse cx="244" cy="337" rx="9" ry="5" fill="#2b3a42"/>
+    <ellipse cx="268" cy="337" rx="9" ry="5" fill="#2b3a42"/>
+    <path d="M238 348 L242 356 L250 348" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M274 348 L278 356 L286 348" fill="none" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="256" y="374" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">tall, arms up,</text>
     <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#7a9e7e">I see it in the body.</text>
   </g>
@@ -63,7 +70,7 @@
     <text x="421" y="180" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#2b3a42">Yay!</text>
     <text x="421" y="300" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">loud, fast,</text>
     <text x="421" y="320" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">a happy sound</text>
-    <text x="421" y="392" text-anchor="middle" font-family="sans-serif" font-size="13.8" font-weight="bold" fill="#8a5a1a">I hear it in the voice.</text>
+    <text x="421" y="392" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#8a5a1a">I hear it in the voice.</text>
   </g>
 
   <!-- Bottom note -->

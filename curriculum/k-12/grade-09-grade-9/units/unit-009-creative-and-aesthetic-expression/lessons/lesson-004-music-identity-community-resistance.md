@@ -115,19 +115,34 @@ people needed to survive and to resist. Today you listen to how that works.
 
 ## Facilitator note
 
-This lesson is about respectful listening, not ranking. The **worked example** models the analysis on
-one song before learners analyze the others (S-011). Two well-documented examples carry the
-**global** lens: **reggae** "originated within a cultural space that was home to marginalized groups"
-in western Kingston and is recognized as "a voice for all" on questions of "injustice, resistance,
-love and humanity" (UNESCO, S-450; also Britannica, S-445); **nueva canción** is the Latin American
-movement that fused folk forms with protest and social change during the 1960s–80s, when musicians
-faced censorship and violence for singing (Britannica, S-449). Both are living traditions — people
-still make them today — so speak of them as *present*, not past. The **ethics** lens: resistance
-music often emerges from real harm (apartheid, dictatorship, slavery, colonial rule); name the harm
-honestly but keep hope and agency attached. The **egalitarian** lens: ask *whose* song gets recorded,
-celebrated, and remembered, and whose is forgotten. The **community** lens: call-and-response and
-group singing are *participatory* — the community is not the audience; it is the instrument. If a
-learner brings a tradition of their own, honor it first and let them teach it.
+**Tone.** Listening first — respectful attention, never ranking.
+
+**The facts to land.**
+
+1. **Reggae** "originated within a cultural space that was home to marginalized groups"
+in western Kingston and is recognised as "a voice for all" on "injustice, resistance,
+love and humanity" (UNESCO, S-450; Britannica, S-445).
+2. **Nueva canción** is the Latin American movement that fused folk forms with protest
+and social change through the 1960s–80s, when musicians faced censorship and violence
+for singing (Britannica, S-449).
+3. **Both are living traditions** — people still make them today, so speak of them as
+*present*, not past.
+
+**The lenses, briefly.**
+
+- *Ethics:* resistance music often emerges from real harm — apartheid, dictatorship,
+slavery, colonial rule; name the harm honestly, with hope and agency attached.
+- *Egalitarianism:* ask *whose* song gets recorded, celebrated, and remembered, and whose
+is forgotten.
+- *Community:* call-and-response and group singing are *participatory* — the community
+is not the audience; it is the instrument.
+- *Global:* one song, analysed closely, opens the others.
+
+**The skill.** **Worked example** models the analysis on one song before learners
+analyse the rest (S-011).
+
+**Care.** If a learner brings a tradition of their own, honour it first and let them
+teach it.
 
 ## Procedure
 

@@ -115,19 +115,33 @@ and each one leaves its mark. Today you name yours.
 
 ## Facilitator note
 
-It spirals up from Grade 2's "alike and different" and the "welcoming circle," now into
-**the groups that make one whole self**. Two commitments carry it: **every group shape
-is honored** (a learner's family may be parents, one parent, grandparents, kin,
-guardians, foster or group care, or a trusted adult; a "team" may be a play group, a
-faith community, a club, or none at all), and **no group outranks another** — a
-neighborhood shapes a child as truly as a language does. Invite learners to share their
-home-words for a group or place; names carry belonging. Some learners live between
-places or have moved; honor that a learner can belong to a place they no longer live and
-a place they live now. For a learner who is blind or has low vision, name and feel the
-rings — count them aloud, and let the learner say each group by voice rather than by
-sight. For a learner who does not use a speaking voice, accept drawing, pointing,
-signing, or a partner voicing. The goal is that every learner can say, in their own way:
-*I belong to these groups, and each one shapes me.*
+**Tone.** Warm and unhurried — every shape of family and group is ordinary here.
+
+**The facts to land.**
+1. A learner's family may be parents, one parent, grandparents, kin, guardians, foster
+   or group care, or a trusted adult; a "team" may be a play group, a faith community, a
+   club, or none at all.
+2. No group outranks another — a neighborhood shapes a child as truly as a language
+   does.
+3. A learner can belong to a place they no longer live and a place they live now.
+
+**Don't overshoot.** Do not assume one family shape, and do not treat "no group" as a
+gap.
+
+**The lenses, briefly.**
+- *Social-emotional:* belonging is named, not measured.
+- *Ethics:* a learner's people are described by the learner.
+- *Egalitarianism:* no group is worth more than another.
+- *Global:* invite home-words for a group or place; names carry belonging.
+- *Community:* a group shapes a self.
+
+**The skill.** Say "I belong to these groups, and each one shapes me."
+
+This spirals up from Grade 2's "alike and different" and the welcoming circle.
+
+**Access:** for a learner who is blind or has low vision, name and feel the rings —
+count them aloud, and let the learner say each group by voice; for a learner who does
+not use a speaking voice, accept drawing, pointing, signing, or a partner voicing.
 
 ## Procedure
 

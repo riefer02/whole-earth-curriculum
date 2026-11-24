@@ -5,7 +5,7 @@
   <rect width="512" height="512" fill="#fdfbf7"/>
 
   <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Caring Each Day</text>
-  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="14.5" fill="#4f6d7a">Steady care — not one grand gesture — keeps a living thing well</text>
+  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Steady care — not one grand gesture — keeps a living thing well</text>
 
   <!-- windowsill and plant -->
   <rect x="20" y="150" width="240" height="10" rx="3" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
@@ -24,29 +24,36 @@
   <circle cx="135" cy="196" r="1.7" fill="#2b3a42"/>
   <circle cx="145" cy="196" r="1.7" fill="#2b3a42"/>
   <path d="M135 202 Q140 207 145 202" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-  <rect x="130" y="210" width="20" height="34" rx="9" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <line x1="134" y1="244" x2="132" y2="268" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
-  <line x1="146" y1="244" x2="148" y2="268" stroke="#2b3a42" stroke-width="6" stroke-linecap="round"/>
-  <!-- arm reaching to pour -->
-  <line x1="130" y1="220" x2="104" y2="172" stroke="#2b3a42" stroke-width="5" stroke-linecap="round"/>
+  <!-- legs and feet, with weight -->
+  <path d="M134 248 L132 278" stroke="#2b3a42" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <path d="M146 248 L148 278" stroke="#2b3a42" stroke-width="12" stroke-linecap="round" fill="none"/>
+  <ellipse cx="129" cy="283" rx="8" ry="4.5" fill="#2b3a42"/>
+  <ellipse cx="151" cy="283" rx="8" ry="4.5" fill="#2b3a42"/>
+  <!-- arms reaching to pour -->
+  <path d="M128 222 L104 180" stroke="#f5d6b6" stroke-width="9" stroke-linecap="round" fill="none"/>
+  <path d="M152 222 L158 246" stroke="#f5d6b6" stroke-width="9" stroke-linecap="round" fill="none"/>
+  <circle cx="101" cy="176" r="5.5" fill="#f5d6b6" stroke="#2b3a42" stroke-width="1.6"/>
+  <circle cx="159" cy="250" r="5.5" fill="#f5d6b6" stroke="#2b3a42" stroke-width="1.6"/>
+  <!-- torso with weight -->
+  <path d="M140 212 C 131 212 126 218 126 226 L126 240 C126 248 130 251 136 251 L144 251 C150 251 154 248 154 240 L154 226 C154 218 149 212 140 212 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
   <!-- cup pouring -->
   <path d="M92 162 L108 162 L104 176 L96 176 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-  <line x1="96" y1="180" x2="96" y2="188" stroke="#6b93b6" stroke-width="2" stroke-linecap="round"/>
+  <path d="M96 180 L96 188" stroke="#6b93b6" stroke-width="2" stroke-linecap="round" fill="none"/>
 
   <!-- wild bird with dish of water -->
   <circle cx="420" cy="200" r="11" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="425" cy="197" r="1.8" fill="#2b3a42"/>
   <path d="M428 198 L437 201 L428 204 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-  <line x1="410" y1="200" x2="400" y2="206" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
-  <line x1="410" y1="204" x2="400" y2="212" stroke="#e0a458" stroke-width="2" stroke-linecap="round"/>
-  <line x1="418" y1="211" x2="418" y2="220" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+  <path d="M410 200 L400 206" stroke="#e0a458" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M410 204 L400 212" stroke="#e0a458" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M418 211 L418 220" stroke="#2b3a42" stroke-width="2" stroke-linecap="round" fill="none"/>
   <!-- water dish -->
   <ellipse cx="440" cy="228" rx="20" ry="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
   <text x="440" y="252" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">a wild bird counts too</text>
 
   <!-- daily needs -->
   <text x="256" y="308" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">What it needs each day</text>
-  <text x="256" y="332" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">water each day &#160;&#183;&#160; food each day &#160;&#183;&#160; a clean safe place each day</text>
+  <text x="256" y="332" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">water each day · food each day · a clean safe place each day</text>
 
   <!-- daily care plan -->
   <circle cx="160" cy="386" r="30" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -59,8 +66,8 @@
   <text x="352" y="382" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">day 3</text>
   <text x="352" y="394" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">clean</text>
   <text x="352" y="408" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">place</text>
-  <line x1="190" y1="386" x2="226" y2="386" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
-  <line x1="286" y1="386" x2="322" y2="386" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M190 386 L226 386" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <path d="M286 386 L322 386" stroke="#4f6d7a" stroke-width="3" stroke-linecap="round" fill="none"/>
 
   <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A windowsill plant, a wild bird, or a street tree all count.</text>
   <text x="256" y="474" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">When you care, you are a helper in a living thing's life.</text>

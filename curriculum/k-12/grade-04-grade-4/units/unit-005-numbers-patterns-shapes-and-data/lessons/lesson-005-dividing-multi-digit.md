@@ -118,19 +118,31 @@ leftover is part of the story.
 
 ## Facilitator note
 
-Division is the inverse of multiplication, and it is best learned as **sharing and
-grouping with real objects** before the written algorithm (Carpenter, Fennema, Franke,
-Levi & Empson, 2015; Van de Walle, Karp & Bay-Williams, 2019). Teach the **remainder**
-as a worked example (philosophy §13): share 125 into 4 groups, see 31 in each with 1
-left, and write 125 ÷ 4 = 31 R 1; then check 31 × 4 + 1 = 125. The check is the feedback
-loop that turns a guess into a proof. **The number of steps a learner needs is not a
-measure of their worth, and a quotient is a fact about quantities, never about a
-person.** Fair sharing is a human and cross-cultural value; how a remainder is handled
-(left over, divided further, saved) differs by context, and none is "wrong." Count in
-the home language. For learners who are Deaf or hard of hearing, sign each group and the
-leftover; for learners who are blind or have low vision, share tactile objects into cups
-by feel. Learners with limited movement direct a partner to share. Mastery arrives at
-its own pace.
+**Tone.** Patient and concrete — share with objects before the algorithm.
+
+**The facts to land.**
+1. Division is the inverse of multiplication, best learned as **sharing and grouping
+   with real objects** before the written algorithm (Carpenter, Fennema, Franke, Levi &
+   Empson, 2015; Van de Walle, Karp & Bay-Williams, 2019).
+2. A **remainder** is what is left when the groups are full: sharing 125 into 4 groups
+   gives 31 in each with 1 left, so 125 ÷ 4 = 31 R 1.
+3. The check — 31 × 4 + 1 = 125 — is the feedback loop that turns a guess into a proof.
+
+**Don't overshoot.** The number of steps a learner needs is not a measure of their
+worth. How a remainder is handled (left over, divided further, saved) differs by
+context, and none is "wrong."
+
+**The lenses, briefly.**
+- *Intellectual:* worked example on the remainder (philosophy §13).
+- *Egalitarianism:* a quotient is a fact about quantities, never about a person.
+- *Global:* fair sharing is a human and cross-cultural value.
+- *Critical-thinking:* check by multiplying back.
+
+**The skill.** Share it out, name the remainder, then check by multiplying back.
+
+**Access:** a learner who is Deaf or hard of hearing signs each group and the leftover;
+a learner who is blind or has low vision shares tactile objects into cups by feel; a
+learner with limited movement directs a partner to share.
 
 ## Procedure
 

@@ -15,7 +15,6 @@
   <g>
     <rect x="16" y="150" width="228" height="310" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
     <text x="130" y="184" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">balloon breath</text>
-    <path d="M170 320 Q170 234 170 256" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-linecap="round"/>
     <ellipse cx="170" cy="320" rx="58" ry="66" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
     <path d="M158 378 Q170 388 182 378" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <text x="130" y="410" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">breathe in — grow big</text>
@@ -30,25 +29,21 @@
   <g>
     <rect x="268" y="150" width="228" height="310" rx="14" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.35"/>
     <text x="382" y="184" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2b3a42">count to five</text>
-    <!-- hand -->
-    <path d="M382 300 L382 366" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
-    <path d="M382 300 L340 318" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
-    <path d="M382 300 L362 314" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
-    <path d="M382 300 L402 314" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
-    <path d="M382 300 L424 318" stroke="#2b3a42" stroke-width="4" stroke-linecap="round"/>
-    <circle cx="340" cy="318" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="362" cy="314" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="402" cy="314" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="424" cy="318" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="382" cy="366" r="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="340" y="310" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">1</text>
-    <text x="362" y="306" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">2</text>
-    <text x="402" y="306" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">3</text>
-    <text x="424" y="310" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">4</text>
-    <text x="382" y="358" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">5</text>
-    <text x="382" y="388" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">one, two, three, four, five</text>
-    <text x="382" y="412" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">slow and steady</text>
+    <!-- hand, five fingers up -->
+    <rect x="352" y="262" width="14" height="54" rx="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="370" y="250" width="14" height="66" rx="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="388" y="254" width="14" height="62" rx="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="406" y="268" width="14" height="48" rx="7" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <rect x="326" y="318" width="34" height="15" rx="7" fill="#c99567" stroke="#2b3a42" stroke-width="2" transform="rotate(38 343 325)"/>
+    <path d="M346 322 Q346 306 360 306 L404 306 Q420 306 420 322 L420 356 Q420 380 396 380 L370 380 Q346 380 346 356 Z" fill="#c99567" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="359" y="252" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">1</text>
+    <text x="377" y="240" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">2</text>
+    <text x="395" y="244" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">3</text>
+    <text x="413" y="258" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">4</text>
+    <text x="312" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">5</text>
+    <text x="382" y="410" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">one, two, three, four, five</text>
+    <text x="382" y="432" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">slow and steady</text>
   </g>
 
-  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#4f6d7a">These are two of many calm tools. I can choose the one that helps me today.</text>
+  <text x="256" y="500" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">These are two of many calm tools. I can choose the one that helps me today.</text>
 </svg>

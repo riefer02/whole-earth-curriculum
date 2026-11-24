@@ -119,28 +119,33 @@ skill that keeps small harms from becoming large ones.
 
 ## Facilitator note
 
-The idea to land: **de-escalation is the first move, but some conflicts are too big to
-solve alone — and seeking mediation is a mature, skilled choice, not a failure.** The
-"too big" signs to teach are concrete: **safety** (someone could be hurt), **power
-imbalance** (one side cannot speak freely), **repeated harm** (it keeps happening), and
-**stuck pattern** (the same fight loops with no resolution). Mediation is a structured
-process: a **neutral** third party lets each side speak and be restated, then helps them
-find a fair solution both accept (S-022, S-148). The restorative frame adds: the goal is
-to repair harm and restore relationship, not only to punish (S-022, S-161).
+**Tone.** Reassuring: seeking mediation is a mature, skilled choice, never a failure.
 
-Model the process once, then let learners practice (worked example → guided practice →
-independent work; S-011). The **social-emotional** lens is the spine: naming "this is
-too big for me" requires honest self-awareness, and the topic can touch real hurt —
-invite, never force, and let learners share only what they choose. The **ethics** lens:
-seeking mediation is an ethical act — it protects the more vulnerable side and refuses
-to let harm go unaddressed. The **egalitarian** lens is essential: when power is
-unequal, "just talk it out" can itself be unfair, because the less powerful person
-cannot speak freely — that is precisely when a neutral third party matters most. The
-**critical-thinking** lens: learn to read the *signs* — not every disagreement is too
-big, and not every "too big" is obvious at first. The **global** lens: every culture has
-its own forms of third-party peacemaking — elders, councils, restorative circles — and
-mediation is one widely shared form among many. Preview: with conflict skills in hand,
-the unit turns to empathy — first across cultures (Lessons 5–6).
+**The facts to land.**
+
+1. De-escalation is the first move, but some conflicts are too big to solve alone.
+2. The "too big" signs: **safety** (someone could be hurt), **power imbalance** (one
+   side cannot speak freely), **repeated harm**, and a **stuck pattern** that loops.
+3. Mediation is structured: a **neutral** third party lets each side speak and be
+   restated, then helps them find a fair solution both accept (S-022, S-148); the
+   restorative frame aims to repair harm, not only to punish (S-022, S-161).
+
+**Don't overshoot.** Not every disagreement is too big, and not every "too big" is
+obvious at first — the signs are read, not assumed.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* naming "this is too big for me" takes honest self-awareness;
+  invite, never force.
+- *Ethics:* it protects the more vulnerable side and refuses to let harm go
+  unaddressed.
+- *Egalitarianism:* when power is unequal, "just talk it out" can be unfair — precisely
+  when a neutral party matters most.
+- *Critical-thinking:* read the signs; the stuck pattern is often the loudest.
+- *Global:* elders, councils, and restorative circles are older cousins of mediation.
+
+**The skill.** Model the process once, then release (S-011): sort three scenarios by
+whether they are too big, and name who to ask.
 
 ## Procedure
 

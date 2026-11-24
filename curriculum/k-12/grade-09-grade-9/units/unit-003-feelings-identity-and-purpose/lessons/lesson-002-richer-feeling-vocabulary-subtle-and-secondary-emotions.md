@@ -114,26 +114,40 @@ can see yourself, and the more choice you have about what to do next.
 
 ## Facilitator note
 
-It is the **first skill lesson** of the unit, so the method is **explicit instruction
-with worked examples, then guided practice** (S-011), not free-form discovery. Model
-each category yourself first, then have learners sort and generate words with a partner
-before working alone. The key distinctions to teach: **(1) basic emotions** are broad,
-early-developing states — joy, sadness, fear, anger (and, in some models, trust,
-disgust, anticipation, surprise; Plutchik, S-402); **(2) subtle emotions** are
-finer-grained and often more socially complex — envy, gratitude, nostalgia, awe,
-resentment, tenderness, longing; **(3) secondary emotions** are *feelings about
-feelings* — shame about jealousy, guilt about anger, pride in courage, relief after
-worry. The core claim to carry: having a richer feeling vocabulary — **emotional
-granularity** — lets a person name their experience more precisely and is associated
-with better emotion regulation (Barrett, S-401). This is a **description of how emotions
-work, offered as one well-supported scientific account**, not a creed, and not a
-therapy; keep it that way (philosophy §5, §11). The **global** lens: languages differ in
-which feelings have names — a feeling word in one language may have no exact translation
-in another, which is a reminder that our vocabularies shape (without fully deciding)
-what we notice. The **critical-thinking** lens: no single "wheel" of emotions is settled
-fact; wheels are models, and learners should feel free to build their own. Never rank
-feelings as "good" or "bad" — name them neutrally and honor them all (egalitarian
-spirit: every self is a whole in the making, never a label).
+**Tone.** Warm and curious — the unit's **first skill lesson**: teach it as a method,
+not a mood.
+
+**The facts to land.**
+
+1. **Basic emotions** are broad, early-developing states — joy, sadness, fear, anger
+(and, in some models, trust, disgust, anticipation, surprise; Plutchik, S-402).
+2. **Subtle emotions** are finer-grained and often more socially complex — envy,
+gratitude, nostalgia, awe, resentment, tenderness, longing.
+3. **Secondary emotions** are *feelings about feelings* — shame about jealousy, guilt
+about anger, pride in courage, relief after worry.
+4. **Emotional granularity** — a richer feeling vocabulary — lets a person name
+experience more precisely and is associated with better emotion regulation (Barrett,
+S-401).
+
+**Don't overshoot.** Present this as **one well-supported scientific account** of how
+emotions work — not a creed, and not a therapy (philosophy §5, §11).
+
+**The lenses, briefly.**
+
+- *Global:* languages differ in which feelings have names; a word in one language may
+have no exact translation in another, so vocabularies shape — without fully deciding —
+what we notice.
+- *Critical-thinking:* no single "wheel" of emotions is settled fact; wheels are
+models, and learners should feel free to build their own.
+- *Social-emotional:* naming a feeling precisely is what makes it usable, not only
+known.
+
+**Care.** Never rank feelings as "good" or "bad" — name them neutrally and honour them
+all; every self is whole in the making, never a label.
+
+**The skill.** Explicit instruction with worked examples, then guided practice (S-011):
+model each category yourself, then let learners sort and generate words with a partner
+before working alone.
 
 ## Procedure
 

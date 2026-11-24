@@ -111,23 +111,32 @@ becomes evidence.
 
 ## Facilitator note
 
-The skill to land: **a controlled experiment has (1) a testable question and a
-hypothesis — a prediction you can check; (2) an independent variable — the one thing
-*you* change; (3) a dependent variable — what you *measure* to see the effect; (4)
-control variables — everything else you keep the same; (5) a control group or
-condition — the unchanged comparison; and (6) repeated trials — running it more than
-once so one odd result cannot mislead you.** This is a *skill*, so use a **worked
-example first, then guided practice** (explicit instruction carries skills for novices —
-S-011). Model the sugar-and-water example fully on the board, then have learners design
-their own on a new question before any independent work. The critical-thinking lens: the
-fair test is exactly the tool that turns "pattern" into "cause" (S-306). The ethics
-lens: a clear design protects against fooling ourselves — honesty about variables is
-honesty about evidence. The egalitarian lens: the same design works with a lab kit or
-with two cups and a watch, so no learner is locked out by equipment. The global lens:
-"working scientifically" is practiced worldwide, and its basics — change one thing, keep
-the rest the same — are the same in every language (S-242). Emphasize that a hypothesis
-is a testable prediction, not a guess to defend; a result that surprises you is still
-useful evidence.
+**Tone.** Practical and exact — a fair test, not a performance.
+
+**The facts to land.**
+
+1. Start with a testable question and a hypothesis — a prediction you can check, not a
+   guess to defend.
+2. The independent variable is the one thing *you* change; the dependent variable is
+   what you *measure*; control variables stay the same.
+3. A control group is the unchanged comparison, and repeated trials stop one odd result
+   misleading you.
+
+**Don't overshoot.** A surprising result is still useful evidence; do not treat the
+hypothesis as a position to win.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* the fair test turns "pattern" into "cause" (S-306).
+- *Ethics:* a clear design protects against fooling ourselves — honesty about variables
+  is honesty about evidence.
+- *Egalitarianism:* the same design works with a lab kit or with two cups and a watch.
+- *Global:* "working scientifically" is practised worldwide; change one thing and keep
+  the rest the same, in every language (S-242).
+
+**The skill.** Worked example first, then guided practice (S-011): model sugar-and-water
+fully on the board, then have learners design their own on a new question before any
+independent work.
 
 ## Procedure
 

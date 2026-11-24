@@ -114,19 +114,35 @@ who carries. Today you will practice telling *same* from *fair*.
 
 ## Facilitator note
 
-This lesson holds two ideas open, side by side, as a question: **equality** — same for
-everyone — and **equity** — what each one needs. The lesson does *not* teach that
-sameness is wrong; it teaches that sameness is not the *whole* of fairness. Keep the
-examples gentle and real: reaching a shelf, seeing over a wall, reading a sign, drinking
-from a fountain. Never single out or shame a learner for a need — frame needs as
-ordinary and universal (everyone has needs; some are just easier to see). Include
-ability naturally: a ramp and a step stool are just two ways people get where they need
-to go, not a "special" case. A learner who does not speak aloud shows which support
-matches which person by pointing or placing blocks; a learner who is blind or low-vision
-feels the different heights of the blocks and hears the scene described; a learner with
-a motor difference can direct a partner to place the supports. The goal is the learner's
-own explanation — "the same box is not fair because they have different needs" — not a
-memorized phrase. A learner may always pass.
+**Tone.** Two ideas held open side by side, as a question.
+
+**The facts to land.**
+
+1. **Equality** means the same for everyone; **equity** means what each one needs.
+2. Sameness is not wrong — it is just not the *whole* of fairness.
+3. Keep the examples gentle and real: reaching a shelf, seeing over a wall, reading a
+   sign, drinking from a fountain.
+4. Ability belongs here naturally: a ramp and a step stool are two ways people get where
+   they need to go, not a "special" case.
+
+**Don't overshoot.** Never single out or shame a learner for a need. Needs are ordinary
+and universal — everyone has them; some are just easier to see.
+
+**The lenses, briefly.**
+
+- *Ethics:* fairness asks what a person needs, not only what everyone gets.
+- *Egalitarianism:* the need is honoured, not the difference.
+- *Social-emotional:* noticing a need is care, not pity.
+- *Global:* the same shelf, wall, or fountain is built differently in different places.
+- *Critical-thinking:* the learner's own explanation is the goal, not a memorised
+  phrase.
+
+**The skill.** Match a support to a need, then say why the match is fair.
+
+**Access.** Non-speaking: show which support matches which person by pointing or placing
+blocks. Blind or low-vision: feel the different heights of the blocks and hear the scene
+described. Motor difference: direct a partner to place the supports. A learner may
+always pass.
 
 ## Procedure
 

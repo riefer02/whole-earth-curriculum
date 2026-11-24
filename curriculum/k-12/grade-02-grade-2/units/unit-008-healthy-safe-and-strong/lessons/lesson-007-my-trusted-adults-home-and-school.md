@@ -115,28 +115,38 @@ you will name yours.
 
 ## Facilitator note
 
-**Read this note fully before teaching.**
+**Tone.** Warm and reassuring. **Read this note fully before teaching.** Asking for help
+is strength; telling is never wrong.
 
-- Keep the tone warm and reassuring. Asking for help is a strength, never a weakness, and
-  telling is never wrong.
-- Help each learner name trusted adults who are realistically available to them. If a
-  learner names no one at home, gently guide them toward a teacher, nurse, school helper,
-  or neighbor — without pressure and without implying anything about their family.
-- A trusted adult is someone the learner feels safe with; the learner chooses. Adults
-  vary across families and cultures — caregivers, grandparents, aunts, uncles, neighbors,
-  teachers, nurses, coaches, and religious or community helpers can all be trusted adults.
-- Honor every way of naming and asking: speaking, signing, pointing, drawing, or tapping a
-  shoulder all work. A learner who is deaf or hard of hearing practices in their sign
-  language and points to the picture cards; face the learner for every demonstration. A
-  learner who is blind or has low vision names trusted adults aloud and traces the help
-  hand in the air or by feel, naming one trusted adult per finger.
-- **If a child discloses abuse or an unsafe situation:** stay calm; believe them; thank
-  them for telling you; do **not** promise secrecy; do not press for details or ask
-  leading questions; tell your designated safeguarding lead and follow your local
-  child-protection procedure immediately.
-- The help hand is a unit portfolio artifact; keep learners' drawings. This lesson builds
-  on Grade 1's "Trusted Adults and Asking for Help" (U.01.008) and leads into the unit's
-  capstone on asking for help in different situations.
+**The facts to land.**
+
+1. A **trusted adult** is someone the learner feels safe with; the learner chooses.
+2. Adults vary across families — caregivers, grandparents, aunts, uncles, neighbours,
+   teachers, coaches, community helpers.
+3. If a learner names no one at home, gently guide them toward a teacher, nurse, school
+   helper, or neighbour — without pressure or comment on their family.
+4. Keep the help hand drawings: a portfolio artifact. Builds on U.01.008; leads to the
+   capstone.
+
+**Don't overshoot.** Do not press a learner or comment on their home.
+
+**The lenses, briefly.**
+
+- *Ethics:* the learner's own choice is respected.
+- *Egalitarianism:* speaking, signing, pointing, drawing, or a tap all work.
+- *Community:* help is in the school as well as the home.
+- *Social-emotional:* naming a safe person is a skill.
+
+**The skill.** Name your trusted adults, then practise asking for help.
+
+**Access.** Deaf or hard of hearing: practise in your sign language, point to the
+picture cards, and face the learner for every demonstration. Blind or low-vision: name
+trusted adults aloud, trace the help hand in the air or by feel, one adult per finger.
+
+**Safety floor.** If a child discloses abuse or an unsafe situation: stay calm, believe
+them, thank them for telling. Do **not** promise secrecy, and do not press for details
+or ask leading questions. Tell your designated safeguarding lead and follow local
+child-protection procedure immediately.
 
 ## Procedure
 

@@ -104,20 +104,31 @@ Today you will be the one who makes the pattern and keeps it alive.
 
 ## Facilitator note
 
-Building and extending a simple repeating pattern (like AB or AAB) is the target skill
-here; keep the patterns simple and let learners work with two, and then three, elements
-at their own pace. The magic question is always "what comes next?" — asked with
-curiosity, never as a trick. Learners will make "mistakes" (two reds in a row, a skipped
-element); ask them to read their pattern aloud ("red-blue-red-blue...") and let the
-rhythm reveal the fix — do not rush to correct. Sound and movement patterns are fully
-equal to object patterns and are a gift for learners who learn best with their bodies
-and ears. Learners who are blind or low-vision can build patterns by feel
-(smooth-bumpy-smooth) and by sound; learners who are deaf or hard of hearing can build
-visual patterns and feel a drumbeat through a surface. Learners with limited hand or
-body movement build patterns by voice or sign — saying the sequence aloud while a
-partner lays each piece, or choosing each next piece with eye-gaze or a mouth stick.
-Every learner's pace is honored, and no one's pattern is "better" — a correct pattern
-made slowly is just as true as a fast one.
+**Tone.** Curious and unhurried. "What comes next?" is an invitation, never a trap.
+
+**The facts to land.**
+1. A repeating pattern has a **unit** — the little piece that repeats, like AB or AAB.
+2. Extending it means placing the next element of the unit.
+3. Start with two elements, then three, at the learner's own pace.
+
+**Don't overshoot.** A "mistake" — two reds in a row, a skipped element — is
+information. Ask the learner to read the pattern aloud ("red-blue-red-blue…") and let
+the rhythm show the fix; don't rush to correct.
+
+**The lenses, briefly.**
+- *Ethics:* a correct pattern made slowly is as true as a fast one.
+- *Egalitarianism:* no one's pattern is "better"; every learner's pace is honoured.
+- *Global:* the same repeat structures live in weaving, beadwork, music, and dance
+  across the world.
+- *Intellectual:* the skill is finding the unit, not copying a model.
+
+**The skill.** Read the pattern aloud, find the repeat, and place what comes next.
+
+**Access.** Sound and movement patterns are fully equal to object patterns, and a
+gift to learners who learn with bodies and ears. Blind or low-vision: build by feel
+(smooth-bumpy-smooth) and by sound. Deaf or hard of hearing: build visual patterns and
+feel a drumbeat through a surface. Limited movement: say the sequence aloud or in sign
+while a partner lays each piece, or choose each next piece by eye-gaze or mouth stick.
 
 ## Procedure
 

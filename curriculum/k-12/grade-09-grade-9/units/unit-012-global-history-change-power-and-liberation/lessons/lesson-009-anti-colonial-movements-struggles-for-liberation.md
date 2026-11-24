@@ -114,29 +114,42 @@ their different moments. Today we meet five of them.
 
 ## Facilitator note
 
-The idea to land: **anti-colonial movements shared one goal — self-rule and dignity —
-but chose different strategies for their different moments: armed struggle, nonviolence
-and civil disobedience, boycott, and organized mass protest.** Five documented cases:
-**(1) the Haitian Revolution (1791–1804)** — enslaved people rose against French
-colonial rule and built the first nation founded by formerly enslaved people, with
-Toussaint Louverture a central leader (S-384); **(2) the Aba Women's War (1929)** —
-thousands of Igbo and Ibibio women in southeastern Nigeria organized against colonial
-taxation and the warrant-chief system (S-209); **(3) India's Salt March (1930)** —
-Mahatma Gandhi and followers walked some 240 miles to the sea and peacefully made salt,
-breaking an unjust British monopoly, as civil disobedience within the independence
-movement (S-390); **(4) Algeria's war of independence (1954–1962)** — the FLN fought an
-armed struggle against French rule after 132 years (S-478); **(5) Ghana's independence
-(1957)** — Kwame Nkrumah's Convention People's Party used boycotts, strikes, and
-nonviolent "Positive Action," and Ghana became the first sub-Saharan African colony to
-win independence (S-276). Note the spread across continents and centuries — the Haitian
-Revolution in the Caribbean, the Aba Women's War and Ghana in West Africa, the Salt
-March in South Asia, Algeria in North Africa. The **egalitarian** lens: center ordinary
-people's collective action, not only famous leaders. The **ethics** lens: weigh
-strategies honestly — nonviolence and armed struggle each have costs and contexts; the
-curriculum does not rank peoples' choices. The **global** lens: this was one connected
-wave, not separate stories. The **critical-thinking** lens: ask *why* a people chose the
-tool they chose — context, not temperament, usually decides. Keep questions open
-(philosophy §11).
+**Tone.** Admiring of ordinary courage — context, not temperament.
+
+**The facts to land.**
+
+1. **Anti-colonial movements shared one goal — self-rule and dignity — but chose
+strategies for their moments:** armed struggle, nonviolence and civil disobedience,
+boycott, and organised mass protest.
+2. **Five documented cases:**
+
+- **The Haitian Revolution (1791–1804)** — enslaved people rose against French rule and
+built the first nation founded by formerly enslaved people, with Toussaint Louverture a
+central leader (S-384).
+- **The Aba Women's War (1929)** — thousands of Igbo and Ibibio women organised against
+colonial taxation and the warrant-chief system (S-209).
+- **India's Salt March (1930)** — Gandhi and followers walked about 240 miles to make
+salt, breaking an unjust British monopoly (S-390).
+- **Algeria's war of independence (1954–1962)** — the FLN fought French rule after 132
+years (S-478).
+- **Ghana's independence (1957)** — Nkrumah's Convention People's Party used boycotts,
+strikes, and nonviolent "Positive Action"; Ghana became the first sub-Saharan African
+colony to win independence (S-276).
+
+3. **The spread:** the Caribbean, West Africa, South Asia, and North Africa, across more
+than a century.
+
+**The lenses, briefly.**
+
+- *Egalitarianism:* centre ordinary people's collective action, not only famous leaders.
+- *Ethics:* weigh strategies honestly — nonviolence and armed struggle each have costs
+and contexts; the curriculum does not rank peoples' choices.
+- *Global:* this was one connected wave, not separate stories.
+- *Critical-thinking:* ask *why* a people chose the tool they chose — context usually
+decides.
+
+**The skill.** Match each case's strategy to its conditions, and say what else was
+possible. Keep questions open (philosophy §11).
 
 ## Procedure
 

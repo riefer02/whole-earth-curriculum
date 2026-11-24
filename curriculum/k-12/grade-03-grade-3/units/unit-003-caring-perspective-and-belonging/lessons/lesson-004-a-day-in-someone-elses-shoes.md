@@ -55,7 +55,7 @@ context_variants:
     note: Group by comfort with describing; every group imagines the same place, and each chooses a "someone else" to describe
 assets:
   - path: assets/images/L.03.003.04-a-day-in-someone-elses-shoes.svg
-    alt: One classroom shown twice. The left view is from a standing child's height — a shelf with a ball on top, a door, and a window. The right view is the same room from a child in a wheelchair at a lower height — the ball on the shelf now out of reach, the door handle high, and a step in the way. Beneath reads "the same place feels different to different people." The words and shapes carry the meaning, not color, so it prints clearly in grayscale.
+    alt: "One room drawn twice. Standing view — ball within reach on a shelf, door handle at hand height. Wheelchair view — the same ball above “out of reach”, a “high handle”, and a step in the way."
     kind: image
     source: original
 duration_minutes: 45

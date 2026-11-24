@@ -55,7 +55,7 @@ context_variants:
     note: Learners ready to extend redesign a familiar game with two new rules so more kinds of bodies can join
 assets:
   - path: assets/images/L.04.002.07-welcome-every-body.svg
-    alt: A circle of diverse children playing a passing game together. One child is in a wheelchair, one wears a hearing aid, and one is seated on the ground, all reaching toward a ball at the center, showing a game everyone can join
+    alt: "Six children in a ring around a ball, every one reaching toward it — one in a wheelchair, one wearing a hearing aid, one sitting cross-legged, one sitting on the ground, and five different skin tones. Caption — when a game leaves someone out, we change the game."
     kind: image
     source: original
 duration_minutes: 50

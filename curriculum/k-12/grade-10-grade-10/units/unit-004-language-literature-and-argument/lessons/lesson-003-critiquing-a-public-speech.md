@@ -121,28 +121,35 @@ box, at a market, and in front of any screen.
 
 ## Facilitator note
 
-The idea to land: **a critique is a *fair reading* that names what a speech claims, what
-evidence it offers, which appeal it leans on, and what it asks — then weighs strengths
-and gaps without mocking the speaker.** A reasoned argument is a claim backed by
-evidence, open to checking (S-236); a critique asks whether the evidence actually
-supports the claim and whether a counter-point is fairly handled. Wangari Maathai's 2004
-Nobel Peace Prize lecture is a strong worked example: it makes real claims (the Green
-Belt Movement planted over thirty million trees; started in 1977; spread to other
-African countries) that can be checked (S-059), and it also reaches the audience's
-feeling about land, dignity, and future. It lets learners see a speaker use *both*
-appeals well — which is the honest, non-cynical conclusion this lesson should reach.
+**Tone.** Fair-minded and unhurried: a critique is a close reading, not a takedown.
 
-Model the first two rows, then let learners work (worked example → guided practice →
-independent work; S-011). The **critical-thinking** lens is the spine: hold the speech
-to the question "does the evidence support the claim?" The **ethics** lens: critique the
-*argument*, never the *person*; the goal is truth and fairness, not humiliation. The
-**egalitarian** lens: critique is a power — it treats every speaker, however powerful,
-as accountable to reason; and it belongs to everyone, not just experts. The **global**
-lens: choose speeches from many traditions, and let learners critique a speaker from
-their own community or language — the skill transfers across every art of speaking. The
-**technology** lens: the same scaffold reads a viral video, a campaign ad, or a
-politician's clip — media are speeches too. Preview: Lesson 4 shifts from *reading* a
-speaker to *being* one, beginning with register.
+**The facts to land.**
+
+1. A critique names what a speech claims, what evidence it offers, which appeal it leans
+   on, and what it asks — then weighs strengths and gaps without mocking the speaker.
+2. Reasoned argument means a claim backed by evidence and open to checking (S-236); the
+   critique asks whether the evidence supports the claim, and whether a counter-point is
+   fairly handled.
+3. Wangari Maathai's 2004 Nobel lecture makes checkable claims (the Green Belt Movement
+   planted over thirty million trees from 1977 and spread across Africa) (S-059) and
+   reaches feeling about land, dignity, and the future: both appeals, used well.
+
+**Don't overshoot.** Do not let critique become flaw-hunting; the honest conclusion is
+that a speaker can use both appeals well.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* the spine — does the evidence actually support this claim?
+- *Ethics:* critique the argument, never the person; the goal is truth and fairness.
+- *Egalitarianism:* critique makes every speaker, however powerful, accountable to
+  reason, and it belongs to everyone, not just experts.
+- *Global:* choose speeches from many traditions, including a speaker from the
+  learner's own community or language.
+- *Technology:* the same scaffold reads a viral video, a campaign ad, a politician's
+  clip.
+
+**The skill.** Model the first two rows of the scaffold, then release (S-011): fill the
+grid for one speech. Lesson 4 moves from reading a speaker to being one.
 
 ## Procedure
 

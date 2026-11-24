@@ -113,25 +113,35 @@ new words. The tool is real, but so is the skill of checking. Today you learn to
 
 ## Facilitator note
 
-The idea to land: **a deepfake is a machine-made piece of synthetic media — a face or
-voice swapped or cloned so a person appears to say or do what they never did — and it is
-evaluated, not feared, by checking.** Keep the definition simple and true (S-393):
-*synthetic media* includes face-swaps, voice clones, and full video puppets. The
-checking skill (S-393, S-394): **(1) look —** unnatural edges where face meets neck, odd
-blinking, strange lighting or shadows, blurry or glitching mouth; **(2) trace —** who
-posted it, and where did it first appear?; **(3) verify —** find the original and check
-it against independent reporting (lateral reading: leave the video and check the world
-around it). The **ethics** lens: a deepfake of a real person can harm them and mislead
-others, so making and sharing one carries responsibility. The **egalitarian** lens:
-deepfakes can be aimed at silencing or shaming people — especially women and public
-figures — and believing a fake can harm the very people it shows. The **global** lens:
-the same tools and tricks spread across every language and country, so the checking
-habit is a global one. The **technology** lens is this lesson's core: the tool itself is
-neither good nor evil — like every technology, it helps or harms depending on how it is
-used and governed (philosophy §4). Reassure learners: no one is expected to be a perfect
-human detector — the goal is the *habit* of tracing and checking, and the comfort of
-saying "I'm not sure yet." Keep the examples age-appropriate and non-graphic (philosophy
-§3); no learner should be asked to watch disturbing content.
+**Tone.** Reassuring and precise — evaluate, don't fear.
+
+**The facts to land.**
+
+1. A deepfake is machine-made synthetic media: a face or voice swapped or cloned so a
+   person appears to say or do what they never did (S-393).
+2. Three checks (S-393, S-394): **look** — unnatural edges where face meets neck, odd
+   blinking, strange lighting, a blurry or glitching mouth; **trace** — who posted it,
+   and where did it first appear?; **verify** — find the original and check independent
+   reporting (lateral reading: leave the video and check the world around it).
+3. No one is expected to be a perfect human detector — the goal is the habit of tracing
+   and checking, and the comfort of saying "I'm not sure yet."
+
+**Don't overshoot.** Do not suggest learners can always spot a fake by eye, or that
+every strange video is malicious.
+
+**The lenses, briefly.**
+
+- *Ethics:* a deepfake of a real person can harm them and mislead others; making and
+  sharing one carries responsibility.
+- *Egalitarianism:* deepfakes can silence or shame people — especially women and public
+  figures — and believing a fake harms the very people it shows.
+- *Global:* the same tools and tricks spread across every language and country.
+- *Technology:* the tool is neither good nor evil; it helps or harms by use and
+  governance (`philosophy` §4).
+- *Critical-thinking:* when unsure, suspend belief rather than share.
+
+**The skill.** Keep examples age-appropriate and non-graphic (`philosophy` §3); do not
+ask learners to watch disturbing content.
 
 ## Procedure
 

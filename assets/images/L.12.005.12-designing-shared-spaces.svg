@@ -33,7 +33,7 @@
 
   <!-- slope label -->
   <rect x="250" y="90" width="222" height="56" fill="#ffffff" stroke="#2b3a42" stroke-width="2" rx="6"/>
-  <text x="361" y="114" text-anchor="middle" font-family="sans-serif" font-size="12.1" fill="#222222">slope = rise &#247; run = 1 &#247; 12 = 1:12</text>
+  <text x="361" y="114" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">slope = rise &#247; run = 1 &#247; 12 = 1:12</text>
   <text x="361" y="136" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">gentle = usable by everyone</text>
 
   <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Access and sustainability are geometry &#8212; not afterthoughts (S-483, S-395).</text>

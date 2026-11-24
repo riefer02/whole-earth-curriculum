@@ -109,20 +109,35 @@ what we do about a mistake is not the same as what we do about a trick.
 
 ## Facilitator note
 
-The ideas to land: **(1) misinformation is false information shared by mistake — the
-sharer believes it; disinformation is false information spread on purpose — the spreader
-knows it is false and means to deceive; (2) the difference is intent, which we often
-must infer from context rather than read off the message; (3) our response should match
-the intent — correct a mistake kindly, resist and expose a trick.** Model the first
-example once (worked example, S-011). The critical-thinking lens: this is the unit's
-"hold claims open" habit applied to falsehood itself. The ethics lens: spreading a known
-falsehood to deceive is a wrong against other people's ability to choose — but an honest
-mistake deserves correction, not blame. The egalitarian lens: disinformation often
-targets people with less access to good sources; teaching everyone to see intent
-protects the most exposed. The technology lens: digital sharing makes both kinds travel
-farther and faster, so the habit of asking "mistake or purpose?" is now a basic life
-skill. Frame the two terms accurately and consistently (S-217; S-063) and keep examples
-low-stakes and non-frightening.
+**Tone.** Clear and unalarmed. Most falsehoods are mistakes, not plots.
+
+**The facts to land.**
+
+1. **Misinformation** is false information shared by mistake — the sharer believes it.
+   **Disinformation** is false information spread on purpose — the spreader knows it is
+   false and means to deceive.
+2. **The difference is intent**, which we often must infer from context rather than read
+   off the message.
+3. **Our response should match the intent**: correct a mistake kindly; resist and expose
+   a trick.
+
+**Don't overshoot.** Do not call every error a lie, or every liar a stranger. Assume
+mistake first, and say what would change your mind.
+
+**The lenses, briefly.**
+
+- *Ethics:* spreading a known falsehood to deceive is a wrong against other people's
+  ability to choose — but an honest mistake deserves correction, not blame.
+- *Egalitarianism:* disinformation often targets people with less access to good
+  sources; teaching everyone to see intent protects the most exposed.
+- *Global:* the two categories appear in every language and every media system.
+- *Technology:* digital sharing makes both travel farther and faster, so "mistake or
+  purpose?" is now a basic life skill.
+- *Critical-thinking:* infer intent from context, and say how confident you are.
+
+**The skill.** Model the first example once (worked example, S-011), then sort examples
+by the intent behind the falsehood. Frame the two terms accurately and consistently
+(S-217; S-063) and keep examples low-stakes and non-frightening.
 
 ## Procedure
 

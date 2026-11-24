@@ -122,21 +122,35 @@ a scientist checking a result.
 
 ## Facilitator note
 
-Grade 3 learned that messages have purposes and audiences; Grade 4 learns the core
-fact-checking habit: **check a claim against a second source and compare**. Teach this
-as an explicit skill with a worked example first, then guided practice (Kirschner,
-Sweller & Clark, 2006): model "read the claim → read Source 1 → read Source 2 → do they
-agree? → conclude" once, then do a second claim together. Keep the stance calm and
-empowering, not fearful: checking is not distrust of people; it is care for the truth,
-and two sources that agree make us *more* confident, not less trusting. Use claims from
-many places and lives — about animals, weather, plants, food — so no single culture's
-knowledge is the default, and honor that oral knowledge (a grandparent's account) is a
-real source that can be checked against a book just as a book can be checked against
-another book. Be honest about uncertainty: if two sources disagree, the conclusion may
-be "I am not sure yet — I need a third source," and that is a fine, honest answer. Honor
-every body: read sources aloud for a learner who is blind or has low vision; a
-non-speaking learner points to "agree" or "disagree" and to the conclusion; acting out
-"one voice vs. two voices" works for learners who learn best by moving.
+**Tone.** Calm and empowering — checking is care for the truth, not distrust of people.
+
+**The facts to land.**
+1. The habit: read the claim → read Source 1 → read Source 2 → do they agree? →
+   conclude.
+2. Two sources that agree make us *more* confident, not less trusting.
+3. Oral knowledge — a grandparent's account — is a real source, and can be checked
+   against a book just as a book can be checked against another book.
+4. If two sources disagree, "I am not sure yet — I need a third source" is a fine,
+   honest answer.
+
+**Don't overshoot.** Do not let a fact-check become a hunt for who was wrong; the claim
+is the subject, not the person.
+
+**The lenses, briefly.**
+- *Critical-thinking:* compare, then conclude, then state the confidence.
+- *Technology:* a second source can be a book, a person, or a screen.
+- *Global:* claims from many lives; no single culture's knowledge is the default.
+- *Ethics:* honesty about uncertainty is part of the method.
+
+**The skill.** Check one claim against a second source and say what you now think, and
+how sure you are.
+
+Teach it with a worked example first, then guided practice (Kirschner, Sweller & Clark,
+2006).
+
+**Access:** read sources aloud for a learner who is blind or has low vision; a learner
+who does not speak points to "agree" or "disagree"; acting out "one voice versus two
+voices" works for movers.
 
 ## Procedure
 

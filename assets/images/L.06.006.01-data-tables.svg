@@ -54,6 +54,6 @@
     <text x="165" y="216" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">II</text>
   </g>
 
-  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="16.7" font-weight="bold" fill="#222222">a table lines up every observation under a clear header</text>
+  <text x="256" y="452" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">a table lines up every observation under a clear header</text>
   <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">so the pattern is easy to read</text>
 </svg>

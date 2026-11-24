@@ -30,7 +30,7 @@
   <g stroke="#4f6d7a" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
     <path d="M110 360 L140 360 L152 320 L164 388 L176 340 L188 360 L206 360 L220 340 L234 380 L248 344 L262 360 L300 360 L314 312 L330 396 L346 336 L360 360 L402 360"/>
   </g>
-  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">pulse at rest (slow and steady) → pulse during movement (fast and tall)</text>
+  <text x="256" y="426" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">pulse at rest (slow and steady) → pulse during movement (fast and tall)</text>
 
   <text x="256" y="471.4" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">Movement makes the heart pump; regular</text>
   <text x="256" y="498.8" text-anchor="middle" font-family="sans-serif" font-size="21" fill="#2b3a42">movement makes it stronger.</text>

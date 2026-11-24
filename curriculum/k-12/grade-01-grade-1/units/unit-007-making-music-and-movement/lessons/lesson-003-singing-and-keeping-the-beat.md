@@ -112,16 +112,32 @@ steady.
 
 ## Facilitator note
 
-Singing and keeping a beat are **skills**, so teach them with explicit modeling and
-guided practice before independent trying (Kirschner, Sweller & Clark, 2006): you sing
-one short line, they echo; you clap one slow beat, they join. Keep the beat slow and
-visible. There is no "correct" voice — closeness to the beat grows with practice, and
-"not yet" is never "wrong." For a learner who is Deaf or hard of hearing, make the beat
-**visible and felt**: clap and pat where everyone can see, and invite them to feel the
-beat as **vibration** by resting a hand on a drum, a tabletop, or the floor while others
-tap — sound is vibration the body can feel. A learner who does not sing keeps the beat
-by clapping, tapping, or swaying, which is full participation. Never push a shy learner
-to sing alone; singing together is enough.
+**Tone.** Playful and unhurried. You are one voice in the room, not the standard.
+
+**The facts to land.**
+
+1. Singing and keeping a beat are **skills**, so model explicitly and practise guided
+   before independent trying (Kirschner, Sweller & Clark, 2006).
+2. The pattern is echo: you sing one short line, they sing it back; you clap one slow
+   beat, they join.
+3. Keep the beat slow and visible.
+
+**Don't overshoot.** There is no "correct" voice. Closeness to the beat grows with
+practice, and "not yet" is never "wrong."
+
+**The lenses, briefly.**
+
+- *Egalitarianism:* joining in is the achievement; nobody auditions.
+- *Global:* every culture sings and keeps a beat; no tradition sets the standard.
+- *Physical:* sound is vibration the body can feel.
+- *Community:* singing together is enough — never push a shy learner to sing alone.
+
+**The skill.** Listen, then echo the line or the beat back.
+
+**Access.** Deaf or hard of hearing: make the beat **visible and felt** — clap and pat
+where everyone can see, and rest a hand on a drum, tabletop, or floor while others tap.
+A learner who does not sing keeps the beat by clapping, tapping, or swaying, which is
+full participation.
 
 ## Procedure
 

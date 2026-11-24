@@ -133,7 +133,7 @@ of care reaches past themselves. The **technology & environment** lens: invite o
 reflection on how screens and the living world showed up in this unit's work — as tools,
 as pressures, as things owed care.
 
-**Emotional safety above all.** This is a celebration, not a test. No learner is ranked,
+**Emotional safety.** This is a celebration, not a test. No learner is ranked,
 and no project is judged by size. "Not yet" is spoken with pride. Any learner may pass
 on sharing. End on warmth and looking-forward, not on a verdict.
 

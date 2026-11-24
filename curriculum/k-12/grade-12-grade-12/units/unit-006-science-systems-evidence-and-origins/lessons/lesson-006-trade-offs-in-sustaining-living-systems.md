@@ -113,28 +113,35 @@ seeing it clearly and asking who pays for it.
 
 ## Facilitator note
 
-The idea to land: **sustaining a living system is a weighing of trade-offs — who gains,
-who loses, over what time, and whether the change is reversible — and honest weighing
-names all four rather than hiding any.** Teach the matrix explicitly, then let learners
-run it (S-011). Keep two things distinct: *factual* claims (fire suppression changed
-forests; Indigenous cultural burning sustains them, S-320, S-321) are cited; *value*
-claims (which trade-off is worth accepting) are argued openly and never disguised as
-science.
+**Tone.** Sober and exact: a matrix, not a moral.
 
-The **ethics** lens: a trade-off hidden is a cost imposed without consent — naming who
-loses is the ethical minimum of any decision about shared living systems. The
-**egalitarianism** lens: the matrix's first question, "who gains, who loses?", is the
-egalitarian question — and it often reveals that the same people gain while the same
-people lose, generation after generation (S-483). The **global** lens: stewardship
-traditions differ and overlap — many Indigenous fire practices sustain landscapes rather
-than merely suppressing fire, a practice documented in Australia and beyond (S-320,
-S-321); the Convention on Biological Diversity frames sustaining biodiversity as a
-shared global responsibility (S-279). The **technology** lens: technology can widen or
-narrow a trade-off — a better tool may need less land, but its materials have their own
-costs (S-397). The **environment** lens: reversibility is the deepest environmental
-question — a forest cut may regrow in decades; a species lost does not come back, which
-is why extinction weighs differently from a temporary cost (S-437). Preview: Lesson 7
-turns from managing systems to the accounts we give of how life began.
+**The facts to land.**
+
+1. Sustaining a living system is a weighing of trade-offs — who gains, who loses, over
+   what time, and whether the change is reversible — and honest weighing names all four.
+2. Fire suppression changed forests; Indigenous cultural burning sustains them (S-320,
+   S-321).
+3. Which trade-off is worth accepting is a *value* claim, argued openly and never
+   disguised as science.
+
+**Don't overshoot.** The matrix organises the argument; it does not produce the answer.
+
+**The lenses, briefly.**
+
+- *Ethics:* a hidden trade-off is a cost imposed without consent.
+- *Egalitarianism:* the same people often gain while the same people lose, generation
+  after generation (S-483).
+- *Global:* many Indigenous fire practices sustain landscapes rather than merely
+  suppressing fire (S-320, S-321), and the Convention on Biological Diversity frames
+  biodiversity as a shared global responsibility (S-279).
+- *Technology:* a better tool may need less land, but its materials carry their own
+  costs (S-397).
+- *Environment:* reversibility cuts deepest — a forest may regrow in decades, a
+  species does not return, so extinction weighs differently from a temporary cost
+  (S-437).
+
+**The skill.** Teach the matrix explicitly, then release (S-011): run one real trade-off
+through all four questions. Lesson 7 turns to accounts of how life began.
 
 ## Procedure
 

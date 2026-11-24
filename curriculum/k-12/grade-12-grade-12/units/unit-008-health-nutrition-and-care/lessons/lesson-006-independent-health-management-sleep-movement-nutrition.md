@@ -117,26 +117,34 @@ science to guide you.
 
 ## Facilitator note
 
-The idea to land: **independent health management means tending sleep, movement, and
-nutrition yourself — guided by evidence-based ranges, adapted by self-observation, and
-free of rigid rules or any judgment of a body.** Teach one filled-in pillar as a worked
-example, then let learners complete their own (S-011). Lead with dignity: a learner with
-a disability, an illness, an eating-disorder history, or a life that makes "8 hours"
-impossible must never be graded on the targets. Ranges describe tendencies, not
-verdicts; the goal is *tending*, not *scoring*.
+**Tone.** Warm and undogmatic: tending, never scoring.
 
-The **ethics** lens: we treat a person's body and habits with the respect we owe a
-person — describing, not prescribing shame. The **egalitarianism** lens: the same ranges
-serve every body, but every body meets them differently — a person who uses a wheelchair
-moves differently, a person with insomnia sleeps differently — and none is worth less.
-The **global** lens: sleep, movement, and eating look different across cultures and
-climates — a midday rest in one place, a dawn run in another, a shared late meal
-elsewhere — and all can be healthy. The **technology** lens: trackers and apps can help
-you *notice* patterns, but they can also turn health into a scoreboard that feeds
-anxiety; use them as a mirror, never as a judge. The **environment** lens: where you
-live shapes how you can move and sleep — a walkable neighborhood, a safe green space, a
-quiet room — and the plan must fit the place. Preview: Lesson 7 adds mental health and
-medical care; Lesson 8 weaves all five into one lifelong plan.
+**The facts to land.**
+
+1. Independent health management means tending sleep, movement, and nutrition yourself —
+   guided by evidence-based ranges, adapted by self-observation, free of rigid rules.
+2. Ranges describe tendencies, not verdicts; the goal is tending, not scoring.
+3. Where you live shapes how you can move and sleep — a walkable neighbourhood, a safe
+   green space, a quiet room — so the plan must fit the place.
+
+**Don't overshoot.** Never grade a body on the targets: a learner with a disability, an
+illness, an eating-disorder history, or a life that makes "8 hours" impossible must not
+be measured against them.
+
+**The lenses, briefly.**
+
+- *Ethics:* describe a person's habits; never prescribe shame.
+- *Egalitarianism:* the same ranges serve every body, and every body meets them
+  differently; none is worth less.
+- *Global:* a midday rest, a dawn run, a shared late meal — all can be healthy.
+- *Technology:* trackers help you notice patterns, or turn health into a scoreboard;
+  use them as a mirror, never a judge.
+- *Environment:* the plan has to fit the neighbourhood, the weather, and the room you
+  sleep in.
+
+**The skill.** Teach one filled-in pillar as a worked example, then release (S-011):
+complete three pillars yourself, with one adaptation. Lessons 7–8 add mind and care,
+then weave all five.
 
 ## Procedure
 

@@ -77,6 +77,10 @@ function walk(dir, match) {
 const rel = (p) => path.relative(ROOT, p);
 const words = (s) => s.split(/\s+/).filter(Boolean).length;
 
+const LENSES = ['ethics', 'egalitarianism', 'global', 'technology', 'environment',
+  'social-emotional', 'physical', 'intellectual', 'community', 'professional',
+  'critical-thinking'];
+
 function noteOf(file) {
   const body = fs.readFileSync(file, 'utf8').replace(/^---[\s\S]*?\n---\n/, '');
   const start = body.search(/^## Facilitator note\s*$/m);
@@ -92,6 +96,21 @@ function auditLesson(file) {
   const note = noteOf(file);
   if (!note) return;
   const name = rel(file);
+  const raw = fs.readFileSync(file, 'utf8');
+
+  // A restructured note promises one bullet per declared lens. If a lens was
+  // dropped in the rewrite, the lesson no longer visibly carries it.
+  const declared = LENSES.filter((l) => new RegExp(`^\\s+-\\s+${l}\\s*$`, 'm').test(raw));
+  const bulleted = [...note.matchAll(/^- \*([^*\n]+?):\*/gm)]
+    .map((m) => m[1].toLowerCase().replace(/\s+/g, '-'));
+  if (bulleted.length) {
+    const missing = declared.filter(
+      (l) => !bulleted.some((b) => b.includes(l) || b.includes(l.replace('-', ' '))));
+    if (missing.length) {
+      flag('lesson-note', name, 'lens-not-in-note',
+        `declared but not in the note: ${missing.join(', ')}`, 'look');
+    }
+  }
   const count = words(note);
 
   if (count < 35) {
@@ -133,7 +152,12 @@ function auditLesson(file) {
 
 // --- assets ----------------------------------------------------------------
 
-const hexes = (s) => (s.match(/#[0-9a-fA-F]{3,8}\b/g) || []).map((h) => h.toLowerCase());
+const hexes = (s) =>
+  (s
+    .replace(/&#?[a-z0-9]+;/gi, ' ')      // &#160; is not the colour #160
+    .replace(/url\([^)]*\)/g, ' ')       // url(#gradient)
+    .replace(/\bid="[^"]*"/g, ' ')        // id="af1…" is not a hex colour
+    .match(/#[0-9a-fA-F]{6}\b/g) || []).map((h) => h.toLowerCase());
 
 function saturationOf(hex) {
   let h = hex.slice(1);
@@ -150,6 +174,81 @@ function saturationOf(hex) {
 // Calibrated against renders: sans-serif averages ~0.47em across mixed-case
 // prose. Measuring too generously flags healthy files.
 const estWidth = (str, size) => str.length * size * 0.47;
+
+// SVG is read as a stream of tags rather than with a DOM, so a `translate()` on a
+// <g> or a font-size inherited from a parent has to be carried by hand. Getting
+// this wrong makes the tool lie in both directions: it "found" off-canvas labels
+// that were really at x=0 inside a translate, and "missed" small type measured as
+// the inherited 16px default.
+const VOID = new Set(['br', 'img', 'hr', 'input', 'meta', 'link']);
+const ATTR = (attrs, k) => {
+  const m = attrs.match(new RegExp(`\\b${k}="([^"]*)"`));
+  return m ? m[1] : null;
+};
+const NUM = (attrs, k, dflt = 0) => {
+  const v = ATTR(attrs, k);
+  return v === null ? dflt : Number.parseFloat(v);
+};
+
+function translateOf(attrs) {
+  const t = ATTR(attrs, 'transform');
+  if (!t) return { dx: 0, dy: 0, skewed: false };
+  const m = t.match(/translate\(\s*(-?[\d.]+)(?:[,\s]+(-?[\d.]+))?\s*\)/);
+  const skewed = /(scale|rotate|matrix|skew)/.test(t);
+  return { dx: m ? Number(m[1]) : 0, dy: m && m[2] ? Number(m[2]) : 0, skewed };
+}
+
+/** Walk the document once, yielding measured text runs and circles in canvas space. */
+function measure(src) {
+  const texts = [];
+  const circles = [];
+  const stack = [{ dx: 0, dy: 0, skewed: false, size: 16, anchor: 'start' }];
+  const tagRe = /<(\/?)([a-zA-Z][\w:-]*)([^>]*?)(\/?)>/g;
+  let m;
+  while ((m = tagRe.exec(src))) {
+    const closing = m[1] === '/';
+    const name = m[2].toLowerCase();
+    const attrs = m[3] || '';
+    const selfClosing = m[4] === '/' || VOID.has(name);
+
+    if (closing) {
+      if (stack.length > 1) stack.pop();
+      continue;
+    }
+    const parent = stack[stack.length - 1];
+    const t = translateOf(attrs);
+    const frame = {
+      dx: parent.dx + t.dx,
+      dy: parent.dy + t.dy,
+      skewed: parent.skewed || t.skewed,
+      size: ATTR(attrs, 'font-size') ? Number.parseFloat(ATTR(attrs, 'font-size')) : parent.size,
+      anchor: ATTR(attrs, 'text-anchor') || parent.anchor,
+    };
+    if (!selfClosing) stack.push(frame);
+
+    if (name === 'text') {
+      const body = src.slice(m.index + m[0].length);
+      const content = (body.match(/^[^<]*/) || [''])[0].replace(/&#?\w+;/g, 'x');
+      if (content.trim()) {
+        texts.push({
+          content,
+          size: frame.size,
+          x: NUM(attrs, 'x') + frame.dx,
+          y: NUM(attrs, 'y') + frame.dy,
+          anchor: frame.anchor,
+          skewed: frame.skewed,
+        });
+      }
+    } else if (name === 'circle') {
+      circles.push({
+        r: NUM(attrs, 'r'),
+        cx: NUM(attrs, 'cx') + frame.dx,
+        cy: NUM(attrs, 'cy') + frame.dy,
+      });
+    }
+  }
+  return { texts, circles };
+}
 
 function auditSvg(file) {
   const src = fs.readFileSync(file, 'utf8');
@@ -172,32 +271,42 @@ function auditSvg(file) {
       `${garish.join(' ')} — above ${MAX_SATURATION} saturation`, 'look');
   }
 
-  for (const m of src.matchAll(/<text\b([^>]*)>([^<]*)/g)) {
-    const attrs = m[1];
-    const content = m[2].replace(/&#?[a-z0-9]+;/gi, "x");
-    if (!content.trim()) continue;
-    const size = Number((attrs.match(/font-size="([\d.]+)"/) || [])[1] || 16);
-    const x = Number((attrs.match(/\bx="(-?[\d.]+)"/) || [])[1] || 0);
-    const anchor = (attrs.match(/text-anchor="(\w+)"/) || [])[1] || 'start';
-    const w = estWidth(content, size);
-    const left = anchor === 'middle' ? x - w / 2 : anchor === 'end' ? x - w : x;
+  const { texts, circles } = measure(src);
+  const smallType = [];
+
+  for (const t of texts) {
+    // A scale or rotation means the number on the page is not the number I can
+    // reason about. Say so rather than guess.
+    if (t.skewed) {
+      flag('asset', name, 'text-in-transformed-group',
+        `"${t.content.slice(0, 30)}" sits inside a scale/rotate — check it by eye`, 'look');
+      continue;
+    }
+    const w = estWidth(t.content, t.size);
+    const left = t.anchor === 'middle' ? t.x - w / 2 : t.anchor === 'end' ? t.x - w : t.x;
     const right = left + w;
     if (right > vw - 2 || left < 2) {
       flag('asset', name, 'text-off-canvas',
-        `"${content.slice(0, 38)}" ends at ${Math.round(right)}px of ${vw}`, 'must-fix');
+        `"${t.content.slice(0, 38)}" ends at ${Math.round(right)}px of ${vw}`, 'must-fix');
     }
-    if (size !== Math.round(size * 2) / 2) {
+    if (t.size !== Math.round(t.size * 2) / 2) {
       flag('asset', name, 'auto-fitted-type',
-        `font-size ${size} is a hand-shrunk fit — use 12/13/14/15`, 'look');
+        `font-size ${t.size} is a hand-shrunk fit — use 12/13/14/15`, 'look');
+    } else if (t.size < 12) {
+      smallType.push(t.size);
     }
+  }
+  if (smallType.length) {
+    flag('asset', name, 'type-below-floor',
+      `${smallType.length} text run(s) under the 12px print floor (smallest ${Math.min(...smallType)})`,
+      'look');
   }
 
   // Callout markers with no leader line: the label points at nothing.
   // Faces and icons also use small circles, so this is a candidate, not a verdict.
   const lines = [...src.matchAll(/<line\b([^>]*?)\/?>/g)].map((m) => {
     const a = m[1];
-    const num = (k) => Number((a.match(new RegExp(`\\b${k}="(-?[\\d.]+)"`)) || [])[1] || 0);
-    return { x1: num('x1'), y1: num('y1'), x2: num('x2'), y2: num('y2') };
+    return { x1: NUM(a, 'x1'), y1: NUM(a, 'y1'), x2: NUM(a, 'x2'), y2: NUM(a, 'y2') };
   });
   const hasLeaderNear = (px, py) =>
     lines.some(({ x1, y1, x2, y2 }) => {
@@ -205,28 +314,23 @@ function auditSvg(file) {
       const t = Math.max(0, Math.min(1, ((px - x1) * (x2 - x1) + (py - y1) * (y2 - y1)) / d2));
       return Math.hypot(px - (x1 + t * (x2 - x1)), py - (y1 + t * (y2 - y1))) < 30;
     });
-  const markers = [...src.matchAll(/<circle\b([^>]*?)\/?>/g)]
-    .map((m) => {
-      const a = m[1];
-      return {
-        r: Number((a.match(/\br="([\d.]+)"/) || [])[1] || 0),
-        cx: Number((a.match(/\bcx="(-?[\d.]+)"/) || [])[1] || 0),
-        cy: Number((a.match(/\bcy="(-?[\d.]+)"/) || [])[1] || 0),
-      };
-    })
-    .filter((c) => c.r > 2.5 && c.r <= 8);
+  const markers = circles.filter((c) => c.r > 2.5 && c.r <= 8);
 
   // Only worth reporting when the whole drawing has *no* connector anywhere:
   // that is the "labels float free" diagram, not a face or an icon grid.
-  if (markers.length >= 2 && lines.length === 0) {
+  // Cap the count: a diagram has a handful of callout markers. Ten small circles
+  // means pupils, seeds, produce or icons — an illustration, not a callout chart.
+  if (markers.length >= 2 && markers.length <= 5 && lines.length === 0) {
     flag('asset', name, 'labels-float-free',
       `${markers.length} marker dots, zero leader lines — labels point at nothing`, 'look');
   }
 
-  // The copy-pasted figure: circle head + straight-line limbs.
-  if (/<line\b[^>]*stroke-linecap="round"/.test(src) &&
-      (src.match(/<line\b[^>]*stroke-linecap="round"/g) || []).length >= 4 &&
-      /<circle\b[^>]*r="3[0-9]"/.test(src)) {
+  // The copy-pasted figure: circle head + straight-line limbs, and no real path
+  // work anywhere. A silhouette built from thick round-capped strokes is a path
+  // drawing that happens to use <line>, so it must not be caught here.
+  const roundLines = (src.match(/<line\b[^>]*stroke-linecap="round"/g) || []).length;
+  const paths = (src.match(/<path\b/g) || []).length;
+  if (roundLines >= 4 && paths < 2 && /<circle\b[^>]*r="3[0-9]"/.test(src)) {
     flag('asset', name, 'stick-figure-template',
       'limbs are bare lines — rebuild as a silhouette', 'must-fix');
   }

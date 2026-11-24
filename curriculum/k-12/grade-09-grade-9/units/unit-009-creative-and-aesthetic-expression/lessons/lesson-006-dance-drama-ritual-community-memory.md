@@ -113,19 +113,34 @@ spoken word to hold their history and their belonging. Today you look at how thr
 
 ## Facilitator note
 
-This lesson is about respect, not spectacle. The **worked example** models the analysis on one
-tradition before learners analyze the others (S-011). The **global** and **community** lenses carry
-it. The Māori **haka** is a living tradition of posture and chant that expresses identity, strength,
-welcome, and remembrance — explained authoritatively by Te Ara, the Encyclopedia of New Zealand
-(S-447). Mexico's **Day of the Dead** ("Indigenous festivity dedicated to the dead," inscribed by
-UNESCO in 2008) commemorates the temporary return of deceased loved ones, linking the living to
-ancestors and the maize harvest — a fusion of Indigenous and Catholic traditions (S-448). The West
-African **griot** (also *jeli*/*jali*) is a troubadour-historian who carries genealogies and histories
-in an oral tradition across generations (S-446). Speak of all three in the *present tense* — these
-are living peoples. The **ethics** lens: rituals can also be sites of belonging *and* exclusion (who
-is allowed to perform, who is remembered); name this honestly. The **environment** lens: many rituals
-are tied to seasons, harvests, and land — memory and place are one. If a learner brings a tradition
-of their own, honor it first and let them teach it.
+**Tone.** Respect, not spectacle.
+
+**The facts to land.**
+
+1. **The Māori haka** is a living tradition of posture and chant expressing identity,
+strength, welcome, and remembrance (Te Ara, the Encyclopedia of New Zealand, S-447).
+2. **Mexico's Day of the Dead** — an "Indigenous festivity dedicated to the dead",
+inscribed by UNESCO in 2008 — commemorates the temporary return of deceased loved ones,
+linking the living to ancestors and the maize harvest, in a fusion of Indigenous and
+Catholic traditions (S-448).
+3. **The West African griot** (also *jeli*/*jali*) is a troubadour-historian who carries
+genealogies and histories in an oral tradition across generations (S-446).
+4. **Speak of all three in the present tense** — these are living peoples.
+
+**The lenses, briefly.**
+
+- *Global:* one tradition, analysed closely, opens the others.
+- *Community:* memory is held by a group, not just by individuals.
+- *Ethics:* rituals can be sites of belonging *and* exclusion — who is allowed to
+perform, who is remembered; name this honestly.
+- *Environment:* many rituals are tied to seasons, harvests, and land — memory and
+place are one.
+
+**The skill.** **Worked example** models the analysis on one tradition before learners
+analyse the others (S-011).
+
+**Care.** If a learner brings a tradition of their own, honour it first and let them
+teach it.
 
 ## Procedure
 

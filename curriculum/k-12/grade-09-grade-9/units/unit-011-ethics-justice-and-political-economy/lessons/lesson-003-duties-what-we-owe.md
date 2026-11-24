@@ -110,22 +110,34 @@ people everywhere have reasoned about right and wrong.
 
 ## Facilitator note
 
-Its goals: **(1) introduce the duties lens honestly — its modern form is deontology,
-most associated with Immanuel Kant (the idea of a universal rule and treating persons as
-ends, never merely as means), but duty-based reasoning appears in many traditions,
-including Confucian role ethics, Hindu and Buddhist accounts of dharma, and Indigenous
-traditions that ground duty in relationship, role, and reciprocity (S-468; S-469;
-S-427); (2) model once, then guide: work the *same* dilemma as Lesson 2 but ask the duty
-question — what do I owe, no matter what the result? — and test it with "would I want
-everyone to act this way?"; (3) name the lens's limits — duty can seem rigid when
-consequences are severe, and it can conflict with care for specific people.** The ethics
-lens: some things are owed regardless of outcome. The egalitarian lens: a universal rule
-protects everyone equally — that is its power, and we must check that it does not ignore
-real inequality. The global lens: duty is grounded differently across traditions — in
-law, in kinship, in faith, in reciprocity — and none is the default. Keep the lens as
-*one* way of seeing; virtues arrive next (philosophy §11). Distinguish evidence from
-values: that people feel bound by duty is a fact; that a particular duty is binding is a
-value claim we argue about.
+**Tone.** Serious but not rigid — duty is a question, not a rulebook.
+
+**The facts to land.**
+
+1. **The duties lens in its modern form is deontology,** most associated with Immanuel
+Kant — a universal rule, and persons treated as ends, never merely as means.
+2. **Duty-based reasoning appears in many traditions:** Confucian role ethics, Hindu and
+Buddhist accounts of dharma, and Indigenous traditions grounding duty in relationship,
+role, and reciprocity (S-468, S-469, S-427).
+3. **Model once, then guide:** take the *same* dilemma as Lesson 2 and ask the duty
+question — what do I owe, no matter the result? — testing it with "would I want everyone
+to act this way?"
+4. **Its limits:** duty can seem rigid when consequences are severe, and it can conflict
+with care for specific people.
+
+**The lenses, briefly.**
+
+- *Ethics:* some things are owed regardless of outcome.
+- *Egalitarianism:* a universal rule protects everyone equally — that is its power, and
+we must check it does not ignore real inequality.
+- *Global:* duty is grounded differently across traditions — in law, kinship, faith,
+reciprocity — and none is the default.
+- *Critical-thinking:* a universal test exposes special pleading.
+
+**The skill.** Run the same case through a second lens, and compare what each one saw.
+
+**Evidence and values.** That people feel bound by duty is a fact; that a particular
+duty is binding is a value claim we argue about. Virtues arrive next (philosophy §11).
 
 ## Procedure
 

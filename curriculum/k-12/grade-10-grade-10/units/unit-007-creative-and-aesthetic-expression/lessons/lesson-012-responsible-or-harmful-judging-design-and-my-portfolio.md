@@ -117,29 +117,39 @@ you made this unit.
 
 ## Facilitator note
 
-The idea to land: **responsible design is judged by consequences, not appearance — four
-questions: who does it help, who does it harm, what does it cost the Earth, and could it
-be done better.** The same evidence base from Lesson 11 applies: e-waste toxicity
-(S-397), cobalt supply-chain abuses (S-398), the circular-economy alternative (S-452),
-universal design (S-369), and the Brundtland definition of sustainability (S-395). A
-judgment that names *evidence* is the difference between an opinion and a defended
-conclusion — the unit's capstone in critical thinking.
+**Tone.** Celebratory and exact: a defended conclusion, honestly presented, is the
+finish line.
 
-Then the lesson turns inward: the portfolio is the unit's real product, and the closing
-reflection lets each learner see their own arc across all four strands — a body of
-visual work and an artist's explanation, a composed-and-recorded piece, a
-devised-and-performed piece, and a documented design — each one carrying the
-appreciation-not-appropriation and responsible-not-harmful distinctions they practiced.
+**The facts to land.**
 
-The **ethics** lens: judging design is an ethical act — naming harm is the first step to
-preventing it. The **egalitarian** lens: always ask who is helped and who is left out;
-that question is the fairness test. The **global** lens: consequences cross borders —
-the harm and the benefit are distributed unevenly across the world. The **technology**
-lens: technology can serve or harm, and the designer (and the judge) decides which. The
-**environment** lens is the spine: the Earth's cost is real and measurable, and it is
-always on the sheet. The **community** lens: the portfolio sharing is a community act —
-each learner's work seen and honored by peers who want them to succeed. This is a
-summative close, kept low-stakes and celebratory (mastery, not ranking).
+1. Responsible design is judged by consequences, not appearance — four questions: who
+   does it help, who does it harm, what does it cost the Earth, and could it be done
+   better.
+2. The evidence base is Lesson 11's: e-waste toxicity (S-397), cobalt abuses (S-398),
+   the circular-economy alternative (S-452), universal design (S-369), Brundtland
+   (S-395).
+3. A judgment that names evidence is the difference between an opinion and a defended
+   conclusion — the unit's capstone in critical thinking.
+4. Then inward: the portfolio is the real product — visual work with an artist's
+   explanation, a composed piece, a devised-and-performed piece, a documented design —
+   each carrying the appreciation-not-appropriation and responsible-not-harmful
+   distinctions.
+
+**Don't overshoot.** Do not grade the portfolio or rank the work; this is a summative
+close, kept low-stakes and celebratory.
+
+**The lenses, briefly.**
+
+- *Ethics:* naming harm is the first step to preventing it.
+- *Egalitarianism:* who is helped, who is left out — the fairness test.
+- *Global:* harm and benefit are distributed unevenly across the world.
+- *Technology:* it can serve or harm; the designer, and the judge, decide.
+- *Environment:* the spine — the Earth's cost is measurable and always on the sheet.
+- *Community:* sharing the portfolio is a community act, seen by peers who want it to
+  succeed.
+
+**The skill.** Model once, then release (S-011): judge one design on the four questions,
+then present a portfolio piece.
 
 ## Procedure
 

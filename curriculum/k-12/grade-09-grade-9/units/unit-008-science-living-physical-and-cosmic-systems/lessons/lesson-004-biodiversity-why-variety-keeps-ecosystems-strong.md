@@ -111,27 +111,37 @@ outside this market: our food, water, medicine, and air all come from it.
 
 ## Facilitator note
 
-The idea to land: **biodiversity is the variety of living things — within a species,
-between species, and across ecosystems; it matters because (1) a diverse ecosystem is
-resilient — many species perform similar roles, so if one is lost, others hold the
-system up; and (2) human well-being depends on it directly — food, clean water,
-medicine, pollination, and a stable climate all come from living variety.** Use a worked
-example first (S-011): the diverse-versus-monoculture contrast — in a field of one crop,
-a single disease can wipe out everything, while a mixed system keeps producing. The
-environment lens: biodiversity loss is a shared, documented concern — the authoritative
-international assessment (IPBES) reports that many species are declining and that this
-is driven by land and sea use change, overexploitation, climate change, pollution, and
-invasive species (S-437). The egalitarian lens: the people who depend most directly on
-wild biodiversity — small farmers, fishers, and Indigenous communities — are often the
-least responsible for its loss and the first to suffer it, so protecting biodiversity is
-inseparable from fairness (S-437; also FAO on biodiversity for food and agriculture,
-S-178). The ethics lens: variety is not only useful — there is a case, held by many
-peoples, that other species deserve care for their own sake, not only for what they give
-us; hold this as a value, distinct from the ecological facts. The global lens:
-biodiversity is distributed unevenly across the Earth — tropical forests and coral reefs
-hold outsized shares — so its stewardship is a worldwide, not a local, task (S-220,
-S-218). Cite IPBES (S-437), CBD (S-279), FAO (S-220), and WWF (S-218); keep numbers
-hedged.
+**Tone.** Appreciative — variety is the subject, not a slogan.
+
+**The facts to land.**
+
+1. **Biodiversity is the variety of living things** — within a species, between species,
+and across ecosystems.
+2. **It makes ecosystems resilient:** many species perform similar roles, so if one is
+lost, others hold the system up.
+3. **Human well-being depends on it** — food, clean water, medicine, pollination, and a
+stable climate all come from living variety.
+4. **The loss is documented:** IPBES reports many species declining, driven by land and
+sea use change, overexploitation, climate change, pollution, and invasive species
+(S-437).
+
+**Worked example.** Diverse field versus monoculture: in one crop, a single disease can
+wipe out everything; a mixed system keeps producing (S-011).
+
+**The lenses, briefly.**
+
+- *Egalitarianism:* small farmers, fishers, and Indigenous communities depend most
+directly on wild biodiversity, are least responsible for its loss, and suffer first — so
+protection is inseparable from fairness (S-437; FAO on biodiversity for food and
+agriculture, S-178).
+- *Ethics:* many peoples hold that other species deserve care for their own sake, not
+only for what they give us — hold that as a value, distinct from the facts.
+- *Global:* biodiversity sits unevenly — tropical forests and coral reefs hold
+outsized shares — so stewardship is worldwide (CBD, S-279; WWF, S-220, S-218).
+- *Environment:* protect the variety, and the system keeps its options.
+
+**The skill.** Compare one diverse and one simplified system, and say what each can
+survive.
 
 ## Procedure
 

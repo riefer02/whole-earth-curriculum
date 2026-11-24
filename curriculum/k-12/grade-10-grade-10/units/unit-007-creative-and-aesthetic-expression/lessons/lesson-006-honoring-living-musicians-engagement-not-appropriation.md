@@ -115,41 +115,37 @@ as a free library of sounds.
 
 ## Facilitator note
 
-The idea to land: **the same four questions from visual art govern music — did they ask?
-learn the context? credit? share benefit? — because music, too, is a living tradition
-made by living people.** Reggae originated among marginalized groups in western
-Kingston, Jamaica, and became "a voice for all" on injustice, resistance, love, and
-humanity (S-450; S-445). African American spirituals are religious folk songs born of
-enslavement that carry a people's history (S-385). West African griots are hereditary
-oral historians and musicians who *keep* a community's memory — their music is not
-decoration but archive (S-446). Because music travels and is sampled in one click,
-credit and permission are *more* urgent, not less.
+**Tone.** Direct: enthusiasm is not permission.
 
-Keep it concrete and never flatten a tradition into a stereotype. The ethical
-distinction is about power and consent: learning a tradition from its practitioners,
-crediting composers and performers, paying royalties where due, and amplifying the
-community's own voices is engagement; sampling or performing without permission or
-credit, claiming others' forms as your own "discovery," or profiting while the makers
-earn nothing is appropriation. UNESCO's living-heritage frame (S-056) and the Universal
-Declaration on Cultural Diversity (S-389) support treating music as owned and passed on
-by communities.
+**The facts to land.**
 
-The **ethics** lens is the spine. The **egalitarian** lens: musical appropriation almost
-always flows from the less powerful to the more powerful — credit and shared benefit are
-how the balance is corrected. The **global** lens: traditions are *people's*, alive now,
-not "world music" free for the taking. The **technology** lens: sampling and streaming
-made reuse effortless, so the *ethical* work (permission, credit, royalty) is the part a
-machine cannot do. The **environment** lens: honoring a tradition includes honoring the
-places and materials it grew from, not extracting the sound and discarding the rest.
-Preview: Lesson 7 turns to the body — devising a movement piece.
+1. The four questions hold for music too — ask, learn the context, credit, share benefit
+   — because music is a living tradition made by living people.
+2. Reggae originated among marginalized groups in western Kingston, Jamaica, and became
+   "a voice for all" on injustice (S-450, S-445); spirituals are religious folk songs
+   born of enslavement carrying a people's history (S-385); West African griots are
+   hereditary oral historians whose music is archive, not decoration (S-446).
+3. Engagement is learning from practitioners, crediting composers and performers, paying
+   royalties, and amplifying the community; appropriation is sampling without credit,
+   claiming a form as your own "discovery", or profiting while the makers earn nothing
+   (S-056, S-389).
 
-**Four scenarios** (adapt to your place; keep specific and respectful): 1. A musician
-studies with a community's players, learns the meaning of the form, credits them, and
-shares the earnings. 2. A producer samples a traditional recording without permission,
-lists no composer, and keeps the profit. 3. A choir learns a spiritual from recordings
-and from a living singer of that tradition, and names the tradition in the program.
-4. A brand uses a people's ceremonial song in an advertisement without asking or
-paying, turning a sacred sound into a jingle.
+**Don't overshoot.** Never flatten a tradition into "world music"; each of these is
+specific and alive.
+
+**The lenses, briefly.**
+
+- *Ethics:* the spine — what is owed to the people who made this?
+- *Egalitarianism:* appropriation flows from the less powerful to the more; credit
+  corrects it.
+- *Global:* traditions are people's, alive now, not free material.
+- *Technology:* sampling made reuse effortless, so permission and royalty are the part
+  a machine cannot do.
+- *Environment:* honouring a tradition includes the places it grew from.
+- *Community:* the community decides what may be sampled, and who profits.
+
+**The skill.** Cards: study-credit-share / sample with no credit / a choir naming its
+source / a sacred song turned into a jingle. Model once, then release (S-011).
 
 ## Procedure
 

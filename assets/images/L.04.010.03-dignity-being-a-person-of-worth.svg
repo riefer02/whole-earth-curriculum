@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="21.3" font-weight="bold" fill="#2b3a42">Dignity: Being Treated as a Person of Worth</text>
+  <text x="256" y="38" text-anchor="middle" font-family="sans-serif" font-size="21" font-weight="bold" fill="#2b3a42">Dignity: Being Treated as a Person of Worth</text>
 
   <!-- ===== left panel: honored ===== -->
   <rect x="16" y="60" width="234" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>

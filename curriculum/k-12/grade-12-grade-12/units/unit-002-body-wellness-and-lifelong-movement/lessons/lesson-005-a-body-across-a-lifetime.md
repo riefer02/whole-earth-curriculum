@@ -114,26 +114,35 @@ adaptation and dignity.
 
 ## Facilitator note
 
-The idea to land, held as **description plus an explicit value**: the body changes
-across life — capacities shift and can be supported at every age (WHO's
-functional-capacity-across-the-lifespan framing, S-341) — *and* the judgment that every
-stage carries dignity is a **value we choose**, not a fact to prove. Keep the two
-distinct: "bodies change" is evidence; "aging is not decline" is partly evidence (some
-capacities hold or grow) and partly a values commitment against ageism. No single
-"ideal" body at any age; every stage is a whole stage, not a failed younger stage.
+**Tone.** Honest about the mix: some of this is evidence, some is a value we choose.
 
-The **ethics** lens: how we treat aging bodies is a test of how we treat people. The
-**egalitarianism** lens: some bodies change early, some late, some through illness or
-injury — the arc looks different for everyone, and no arc is "lesser." The **global**
-lens: cultures honor elders and aging in sharply different ways — some center elders,
-some push them to the edge — and the lesson holds many ways side by side without
-ranking. The **critical-thinking** lens: "decline" is a claim to check, not a word to
-accept — ask *which* capacity, *when*, and *what supports it*. The **technology &
-environment** lens: a body changing across life meets a built world that either supports
-it — a rail, a bench, a ramp, a lift — or abandons it, and assistive and medical
-technology extend what an aging body can do; the difference between a hard old age and a
-full one is often design, not biology. Preview: Lesson 6 turns from the changing body to
-the dignity that stays constant.
+**The facts to land.**
+
+1. The body changes across life; capacities shift and can be supported at every age
+   (WHO's functional-capacity-across-the-lifespan framing, S-341).
+2. "Bodies change" is evidence; "aging is not decline" is partly evidence — some
+   capacities hold or grow — and partly a values commitment against ageism.
+3. There is no single "ideal" body at any age; every stage is a whole stage, not a
+   failed younger one.
+
+**Don't overshoot.** Do not present the values commitment as a proven fact; saying which
+is which is the honesty the lesson needs.
+
+**The lenses, briefly.**
+
+- *Ethics:* how we treat aging bodies is a test of how we treat people.
+- *Egalitarianism:* some bodies change early, some late, some through illness or injury;
+  no arc is "lesser".
+- *Global:* cultures centre their elders or push them to the edge; hold the ways side
+  by side.
+- *Critical-thinking:* "decline" is a claim to check — which capacity, when, and what
+  supports it?
+- **Technology & environment:** a rail, a bench, a ramp, a lift either supports a
+  changing body or abandons it; assistive technology extends what a body can do, so a
+  hard old age or a full one is often design, not biology.
+
+**The skill.** Model once, then release (S-011): map one capacity across the ages and
+name one support that would help. Lesson 6 turns to the dignity that stays constant.
 
 ## Procedure
 

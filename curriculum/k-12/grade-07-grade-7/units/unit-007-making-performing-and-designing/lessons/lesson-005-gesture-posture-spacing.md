@@ -122,19 +122,33 @@ it on purpose — and to remember that not every body reads it the same way.
 
 ## Facilitator note
 
-The idea to land is that **the body is a language, and like any language its meanings
-are learned, not universal** — a learner should be able to name a gesture, a posture,
-and a spacing choice and the meaning each carries, and to note that the same cue can
-mean different things to different people. Model the five poses and the spacing strip
-(explicit instruction for a novice skill — Kirschner, Sweller & Clark, 2006). Hold two
-careful distinctions: (1) **sign languages are complete languages** with their own
-grammar, not "just gestures," and are the first language of millions of people — never
-reduce them to pantomime; (2) **gesture meanings differ across cultures** — a thumbs-up
-or a head-shake is not the same everywhere, and eye contact, personal space, and bowing
-all vary — so keep the stance "we ask, we don't assume" (global/anthropological lens).
-Performance here is open to every body: meaning can be shown from a seated position,
-with one hand, or with the eyes, and no learner must stand, leap, or move in a way their
-body does not do.
+**Tone.** Playful and precise. The body speaks; the dictionary is local.
+
+**The facts to land.**
+
+1. **The body is a language**, and its meanings are learned, not universal: open palms
+   welcome, crossed arms close off, a lean forward shows interest, nearness reads as
+   intimate and distance as formal.
+2. **Sign languages are complete languages** with their own grammar, and the first
+   language of millions of people — never reduce them to pantomime.
+3. **Gesture meanings differ across cultures**: a thumbs-up or a head-shake is not the
+   same everywhere, and eye contact, personal space, and bowing all vary.
+
+**Don't overshoot.** Do not teach a "correct" body language. The stance is "we ask, we
+don't assume."
+
+**The lenses, briefly.**
+
+- *Global:* the same cue can mean opposite things in two places.
+- *Critical-thinking:* read the whole body and the situation, not one gesture.
+- *Social-emotional:* noticing your own posture is information, not a verdict.
+- *Ethics:* don't mock how another person's body moves or stands.
+
+**The skill.** Model the five poses and the spacing strip (explicit instruction for a
+novice skill — Kirschner, Sweller & Clark, 2006), then have learners name a gesture, a
+posture, and a spacing choice and the meaning each carries. Performance is open to every
+body: meaning can be shown seated, with one hand, or with the eyes, and no learner must
+stand, leap, or move in a way their body does not do.
 
 ## Procedure
 

@@ -109,20 +109,33 @@ writing system.
 
 ## Facilitator note
 
-Editing is a taught skill: model it explicitly with a worked example — fix a misspelled
-word, add a missing period, add a capital — then guide practice (Kirschner, Sweller &
-Clark, 2006). Keep editing distinct from revising: revising makes meaning clearer;
-editing makes the marks correct. The punctuation marks to teach at this level are the
-period, question mark, and exclamation mark, plus a capital to start a sentence — in
-whatever writing system the learner uses, since some scripts have no capitals and
-different end marks. Script-agnostic: honor the learner's own system's conventions. A
-learner who is Deaf or hard of hearing edits in writing or sign the same way. A learner
-who is blind or has low vision edits by dictation, on a braille writer, or by listening
-to the text read back and naming the fixes. Never make editing a hunt for "wrongness" to
-shame; it is care for the reader, and it is celebrated. Where a spelling check is used,
-notice what it does — it catches some slips and saves time — and what it cannot do: it
-does not always know which word you meant, so the writer's own eyes and care finish the
-job. A tool is a helper, never a judge.
+**Tone.** Calm and matter-of-fact — editing is care for the reader, not a hunt for
+wrongness.
+
+**The facts to land.**
+1. Editing is a taught skill: model it with a worked example — fix a misspelled word,
+   add a missing period, add a capital — then guide practice (Kirschner, Sweller &
+   Clark, 2006).
+2. Revising makes the meaning clearer; editing makes the marks correct.
+3. At this level the marks are the period, question mark, and exclamation mark, plus a
+   capital to start a sentence — in whatever writing system the learner uses.
+
+**Don't overshoot.** Do not treat the Latin alphabet's marks as the standard: some
+scripts have no capitals and different end marks. Honor the learner's own conventions.
+
+**The lenses, briefly.**
+- *Intellectual:* one pass for meaning, a separate pass for marks.
+- *Critical-thinking:* the writer decides which word was meant.
+- *Technology:* a spelling check catches some slips and saves time, but it does not
+  always know which word you meant; the writer's own eyes finish the job. A tool is a
+  helper, never a judge.
+
+**The skill.** Read your own writing once for meaning, then once only for marks — and
+fix what you find.
+
+**Access:** a learner who is Deaf or hard of hearing edits in writing or sign the same
+way. A learner who is blind or has low vision edits by dictation, on a braille writer,
+or by listening to the text read back and naming the fixes.
 
 ## Procedure
 

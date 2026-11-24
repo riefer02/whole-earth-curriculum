@@ -116,21 +116,37 @@ Stevin helped popularize them in Europe in 1585, but the idea is a shared human 
 
 ## Facilitator note
 
-The ideas to land: (1) **add/subtract** fractions by first making a **common
-denominator**, then adding the numerators; (2) **multiply** fractions by multiplying
-across (numerators × numerators, denominators × denominators), which is "a fraction of a
-fraction"; (3) **divide** by a fraction by **multiplying by its reciprocal** ("how many
-of these fit in that"); and (4) decimal operations follow whole-number rules plus
-**place value**. Because these are foundational skills, use explicit instruction, worked
-examples, and guided practice before independent work (Kirschner, Sweller & Clark,
-2006). Watch for the slips of adding denominators when adding fractions, and of
-forgetting to flip the divisor when dividing. Retrieval: ask learners to recall ratios
-and unit rates — a unit rate like (2/3) ÷ (1/4) is fraction division in disguise. The
-global lens: decimal place-value notation developed in India (by the 7th century CE) and
-was transmitted through the Arab world to Europe; Simon Stevin's *De Thiende* (1585)
-argued for decimal fractions in commerce — the ideas are shared human achievements. The
-egalitarian lens (`docs/philosophy.md` §4): these operations are tools everyone can own;
-there is no "math person" — only people who have or haven't yet been shown the steps.
+**Tone.** Patient and concrete. Every rule should be seen on a model before it is
+stated.
+
+**The facts to land.**
+
+1. **Add or subtract** fractions by making a **common denominator**, then combining the
+   numerators.
+2. **Multiply** across — numerators by numerators, denominators by denominators — which
+   is "a fraction of a fraction."
+3. **Divide** by a fraction by **multiplying by its reciprocal** ("how many of these fit
+   in that").
+4. Decimal operations follow whole-number rules plus **place value**.
+
+**Don't overshoot.** Do not offer the rule as something to memorize; if a learner cannot
+show it on a model, the rule will not stick.
+
+**The lenses, briefly.**
+
+- *Intellectual:* each operation has one picture behind it.
+- *Egalitarianism:* these are tools everyone can own; there is no "math person," only
+  people who have or have not yet been shown the steps (`docs/philosophy.md` §4).
+- *Global:* decimal place-value notation developed in India by the 7th century CE and
+  traveled through the Arab world to Europe; Simon Stevin's *De Thiende* (1585) argued
+  for decimal fractions in commerce — shared human achievements.
+- *Critical-thinking:* explain each step in words; a step you cannot explain is a step
+  you cannot check.
+
+**The skill.** Foundational: instruct explicitly, model worked examples, guide practice,
+then release (Kirschner, Sweller & Clark, 2006). Slips to watch: adding denominators,
+and forgetting to flip the divisor. Retrieval: a unit rate like (2/3) ÷ (1/4) is
+fraction division in disguise.
 
 ## Procedure
 

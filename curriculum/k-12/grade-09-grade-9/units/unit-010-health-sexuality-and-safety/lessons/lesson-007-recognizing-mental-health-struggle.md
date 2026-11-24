@@ -117,35 +117,38 @@ struggle can be met with help early, the way a sprain is, and never with shame.
 
 ## Facilitator note
 
-The concept to land: **mental health is something everyone has, it moves along a
-spectrum, and a struggle shows up as a *pattern of change* — lasting low mood, lost
-interest in things once enjoyed, big changes in sleep or eating, withdrawal from people,
-irritability, trouble concentrating, and hopelessness — that lasts about two weeks or
-more and gets in the way of daily life.** This is knowledge plus a compassionate skill,
-so use explicit instruction for the signs (worked example) and discussion for the
-vignettes (S-011). Teach the practical test plainly and repeatedly: **it is not any
-single feeling that matters; it is a *pattern* — several signs, lasting, and
-interfering.** Make the anti-stigma point the spine of the lesson: **struggling is not
-weakness and not a character flaw; mental-health conditions are real and treatable, and
-naming a struggle is the first step to getting help** (WHO adolescent mental health,
-S-311). The egalitarian lens: **struggle does not discriminate — it touches every
-gender, every background, every culture — and no one deserves less care because of who
-they are; yet stigma and unequal access mean some people suffer in silence longer, which
-is an injustice to name.** The global lens: cultures understand and express mental
-distress differently — some name it in the body, some in the spirit, some in the mind —
-and all are real ways of experiencing it; what is universal is that support helps. The
-ethics lens: how we respond to a friend who is struggling — with care, not gossip, not
-judgment — is a moral choice. The technology lens: digital life cuts both ways — social
-media and endless screens can deepen a struggle (comparison, disrupted sleep, withdrawal
-into a device), while the same technology — helplines, text and chat lines, teletherapy,
-support apps — can widen the path to help; the skill is to notice the effect and choose
-what supports you. Hold the room with care: **use the vignettes, never a learner's own
-story, for public discussion; let any learner pass; and if a learner or vignette touches
-on self-harm or suicide, handle it directly and safely — thank them for their honesty,
-do not leave them alone with it, and connect them to a trusted adult or service now**
-(see the next lesson's help-seeking paths; WHO, S-311). Do not teach methods, do not
-sensationalize, and always pair the hard truth with agency: **help exists, and asking is
-a strength.**
+**Tone.** Warm and steady — struggle named without drama.
+
+**The facts to land.**
+
+1. **Mental health is something everyone has, and it moves along a spectrum.**
+2. **A struggle is a *pattern of change*:** lasting low mood, lost interest, changed
+sleep or eating, withdrawal, irritability, poor concentration, hopelessness — two weeks
+or more, interfering with daily life.
+3. **It is not any single feeling that matters; it is the pattern.**
+
+**The lenses, briefly.**
+
+- *Social-emotional:* struggle is not weakness; these conditions are real and
+treatable, and naming them is the first step to help (WHO, S-311).
+- *Egalitarianism:* it touches every gender and culture, yet stigma and unequal access
+leave some suffering longer in silence.
+- *Global:* cultures express distress in body, spirit, or mind; all are real, and
+support helps everywhere.
+- *Ethics:* respond with care, not gossip, not judgement.
+- *Technology:* screens deepen comparison and lost sleep; helplines and teletherapy
+widen help.
+- *Critical-thinking:* a pattern, not a mood, is the signal.
+
+**The skill.** Explicit instruction for the signs (worked example) and discussion for
+the vignettes (S-011).
+
+**Safety floor.** **Use the vignettes, never a learner's own story, in public
+discussion; let any learner pass. If a learner or vignette touches on self-harm or
+suicide, handle it directly and safely — thank them for their honesty, do not leave them
+alone with it, and connect them to a trusted adult or service now** (see the next
+lesson; WHO, S-311). Do not teach methods or sensationalise; pair hard truth with
+agency: **help exists, and asking is strength.**
 
 ## Procedure
 

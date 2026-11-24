@@ -109,25 +109,35 @@ learn four keys that turn an ordinary kitchen into a safe one — clean, separat
 
 ## Facilitator note
 
-The facts to land: **(1) unsafe food can carry germs (bacteria, viruses, parasites) that
-cause foodborne illness — and unsafe food is a global problem that affects everyone,
-rich and poor, in every country (S-372); (2) the four keys are clean (wash hands,
-surfaces, and produce), separate (keep raw meat/poultry/seafood/eggs away from
-ready-to-eat food to stop cross-contamination), cook (cook food thoroughly to a safe
-internal temperature), and chill (keep perishable food cold and refrigerate leftovers
-promptly) — a common simplification of the WHO's five keys to safer food, which add "use
-safe water and raw materials" (S-373); (3) most foodborne illness is preventable through
-these habits (S-372).** This is a *skill*, so model each key once (a worked example —
-wash hands for ~20 seconds, use a separate board for raw meat, check that food is cooked
-through, put leftovers away) before the sort (explicit instruction carries novice
-skills — S-011). The egalitarian lens: safe food is a right, and not everyone has clean
-water, refrigeration, or a safe kitchen — a fair world works to change that, and the
-low-tech variants below honor it. The global lens: every cuisine on Earth has its own
-food-safety wisdom (drying, fermenting, salting, quick cooking), and no single tradition
-owns safety. The ethics lens: keeping food safe is a way of caring for the people we
-cook for. The environment lens: chilling and cooking use energy; using what is fresh and
-local can mean safer food with a smaller footprint. Keep it factual and calm — this is
-about germs, not fear; every body can learn to handle food safely.
+**Tone.** Factual and calm — this is about germs, not fear.
+
+**The facts to land.**
+
+1. Unsafe food can carry germs — bacteria, viruses, parasites — that cause foodborne
+   illness, a global problem affecting rich and poor in every country (S-372).
+2. The four keys: **clean** (hands, surfaces, produce), **separate** (keep raw meat,
+   poultry, seafood, and eggs away from ready-to-eat food), **cook** (thoroughly, to a
+   safe internal temperature), and **chill** (keep perishables cold; refrigerate
+   leftovers promptly) — a simplification of the WHO's five keys, which add "use safe
+   water and raw materials" (S-373).
+3. Most foodborne illness is preventable through these habits (S-372).
+
+**Don't overshoot.** Do not imply that any kitchen or cuisine is dirty; every tradition
+has its own safety wisdom (drying, fermenting, salting, quick cooking).
+
+**The lenses, briefly.**
+
+- *Egalitarianism:* safe food is a right, and not everyone has clean water, refrigeration,
+  or a safe kitchen — a fair world works to change that.
+- *Global:* no single tradition owns food safety; the low-tech variants honor this.
+- *Ethics:* keeping food safe is how we care for the people we cook for.
+- *Environment:* chilling and cooking use energy; fresh, local food can mean safer food
+  with a smaller footprint.
+- *Physical:* the habits are the skill, learnable by every body.
+
+**The skill.** Model each key once — wash hands for about 20 seconds, use a separate
+board for raw meat, check food is cooked through, put leftovers away — then run the sort
+(explicit instruction carries novice skills, S-011).
 
 ## Procedure
 

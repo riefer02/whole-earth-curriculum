@@ -115,20 +115,35 @@ one matters, so you can care for the body that carries you through every day.
 
 ## Facilitator note
 
-**The four needs are equals.** Do not rank them, and do not turn any of them into a rule
-about amounts, schedules, or body size. Food, water, sleep, and movement each matter,
-and different bodies need different amounts at different times — that range is normal
-and is never a measure of a person's worth. This lesson retrieves Grade 2's
-balanced-meal and water work (U.02.008) and opens the spiral for this unit's deeper
-looks at food, water, sleep, movement, and safety. A learner who does not use a speaking
-voice acts out or points to each need; a learner who is blind or has low vision feels a
-cup, a blanket, and their own moving body to anchor each need; a learner who is deaf or
-hard of hearing follows the picture cards and demonstrations from the front, since every
-idea is shown, not only told. Some learners may not have steady access to food, water,
-or safe sleep at home — frame needs as what every body deserves, without making any
-learner feel singled out, and respond with care if a learner shares something hard. The
-health facts are from the World Health Organization: health is supported by adequate
-food, safe water, sleep, and regular physical activity.
+**Tone.** Calm and matter-of-fact — four needs, no ranking.
+
+**The facts to land.**
+1. Food, water, sleep, and movement are **equals**: each matters, none outranks another.
+2. Different bodies need different amounts at different times; that range is normal, and
+   never a measure of a person's worth.
+3. Health is supported by adequate food, safe water, sleep, and regular physical
+   activity (World Health Organization).
+
+**Don't overshoot.** Do not turn a need into a rule about amounts, schedules, or body
+size.
+
+**The lenses, briefly.**
+- *Physical:* the needs are felt in the body, then named.
+- *Ethics:* every body deserves these four, whatever a family can provide.
+- *Egalitarianism:* a need met or unmet says nothing about worth.
+- *Global:* different foods, water sources, sleeping arrangements; all count.
+
+**The skill.** Name a need, and say how your body signals it.
+
+Spiral: retrieves Grade 2's meal and water work (U.02.008).
+
+**Safety floor.** some learners may lack steady food, water, or safe sleep. Frame needs as
+what every body deserves, never as what is missing, and respond with care if a learner
+shares something hard.
+
+**Access:** a learner who does not use a speaking voice points or acts each need; a
+learner who is blind or has low vision feels a cup, a blanket, and a moving body; a
+learner who is deaf or hard of hearing follows the cards shown from the front.
 
 ## Procedure
 

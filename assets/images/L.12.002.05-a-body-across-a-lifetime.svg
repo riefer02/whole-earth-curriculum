@@ -29,5 +29,5 @@
   <!-- wheelchair user note -->
   <text x="256" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.5" fill="#222222">A body may also use a wheelchair, a cane, a hearing aid at any age —</text>
   <text x="256" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">those are tools, not losses.</text>
-  <text x="256" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="13.9" fill="#222222">Each stage trades one thing for another. None is the "right" body.</text>
+  <text x="256" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">Each stage trades one thing for another. None is the "right" body.</text>
 </svg>

@@ -110,23 +110,35 @@ work together** to make you, you.
 
 ## Facilitator note
 
-The ideas to land: **(1) DNA is a long molecule in nearly every cell, organized into
-units called genes; you inherit your DNA from your parents — half from each; (2) a gene
-carries instructions for a trait; "expression" means the instructions are carried out —
-and not every gene is expressed in every cell; (3) the environment interacts with genes,
-so most traits are the product of both.** Use the trait sort as a worked example first
-(height: genes set a range, nutrition and health affect where a person lands in it —
-S-177). The egalitarian lens is central and non-negotiable: **genetic determinism is
-false.** Genes shape, they do not decree; no trait makes one person "better" than
-another, and skin tone is a continuous trait shaped by many genes and by sun exposure —
-the idea that it sorts people into fixed "races" is a social story, not a genetic one
-(S-177). The ethics lens: because environment matters, a fair world is one where every
-child gets the nutrition, safety, and care that let their genes do their best. The
-global lens: the same DNA molecule and the same rules of inheritance operate in every
-living thing on Earth, from a rice plant in Asia to a whale in the ocean. The
-critical-thinking lens: "nature versus nurture" is a false choice — for most traits, it
-is nature *and* nurture. Keep claims precise and cite the heredity source (S-177); hold
-origins open — this is evidence, not creed (philosophy §11).
+**Tone.** Precise and humane — genes shape, they do not decree.
+
+**The facts to land.**
+
+1. DNA is a long molecule in nearly every cell, organised into units called genes; you
+   inherit half from each parent.
+2. A gene carries instructions for a trait; "expression" means the instructions are
+   carried out, and not every gene is expressed in every cell.
+3. The environment interacts with genes, so most traits are both.
+
+**Don't overshoot.** Genetic determinism is false: no trait makes one person "better,"
+and skin tone — continuous, shaped by many genes and sun exposure — does not sort people
+into fixed "races" (S-177).
+
+**The lenses, briefly.**
+
+- *Egalitarianism:* the "races" story is social, not genetic — central and non-negotiable
+  (S-177).
+- *Ethics:* because environment matters, a fair world gives every child the nutrition,
+  safety, and care that let their genes do their best.
+- *Global:* the same DNA and rules of inheritance operate in every living thing, from a
+  rice plant to a whale.
+- *Critical-thinking:* "nature versus nurture" is a false choice — for most traits it is
+  nature *and* nurture.
+
+**The skill.** Model the trait sort first: height has a genetic range, and nutrition and
+health place a person within it (S-177).
+
+**Openness.** Keep claims precise; this is evidence, not creed (`philosophy` §11).
 
 ## Procedure
 

@@ -111,23 +111,32 @@ thing. It is a question you ask with your hands.
 
 ## Facilitator note
 
-The skill to land: **the design cycle — (1) ask (what problem, for whom?), (2) imagine
-(many possible ideas), (3) plan (choose one, list steps), (4) create (build a working
-prototype), (5) test (try it, get feedback), (6) improve (revise, then test again) — and
-a prototype is a first working version made to be revised.** This is the same
-engineering design process used by makers and engineers worldwide (S-370). This is a
-*skill*, so **model the cycle once on a tiny example** (build a quick paper
-water-carrier or a stand for a book, test it, change one thing), then let learners work
-their own cycle (explicit instruction carries novice skills — S-011). The
-critical-thinking lens: testing is how a maker finds out what actually works, rather
-than guessing. The egalitarian lens: design must ask *who is left out* — a prototype
-that one person can use but another cannot is not finished; build with accessibility in
-mind (this extends Grade 7's work, and the universal-design principles are the frame —
-S-369). The environment lens: choose materials that can be reused or that come from what
-is at hand, and ask what the thing costs the Earth (S-371). The technology lens: a tool
-or machine is just a design made real — and every design is a set of choices with
-consequences. Keep assessment mastery-based: a prototype that fails a test is
-*information*, not a verdict — revise and try again.
+**Tone.** Practical and resilient — a failed test is a step, not a verdict.
+
+**The facts to land.**
+
+1. The design cycle: ask (what problem, for whom?), imagine, plan, create a working
+   prototype, test, improve — then test again (the engineering design process used
+   worldwide, S-370).
+2. A prototype is a first working version made to be revised.
+3. Testing is how a maker finds out what actually works, rather than guessing.
+
+**Don't overshoot.** Do not present the cycle as a single straight pass; a prototype
+that fails a test is *information*.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* test, observe, revise — evidence over guesswork.
+- *Egalitarianism:* design must ask who is left out; a prototype one person can use but
+  another cannot is not finished — build with accessibility in mind (universal-design
+  principles, S-369).
+- *Environment:* choose materials that can be reused or come from what is at hand, and
+  ask what the thing costs the Earth (S-371).
+- *Technology:* a machine is a design made real, and every design is a set of choices
+  with consequences.
+
+**The skill.** Model the cycle once on a tiny example — a quick paper water-carrier or a
+book stand, tested and changed one thing — then learners work their own cycle (S-011).
 
 ## Procedure
 

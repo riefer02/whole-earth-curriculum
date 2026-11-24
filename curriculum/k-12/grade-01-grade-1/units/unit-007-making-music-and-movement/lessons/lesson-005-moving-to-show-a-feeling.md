@@ -111,17 +111,35 @@ show a feeling on purpose, to music or a story.
 
 ## Facilitator note
 
-Name the feelings clearly and move along with the learners — your body is a model, not a
-rule. There is no correct way to show a feeling; each learner's movement is their own
-and every movement belongs. Never single out a learner to perform alone. A learner who
-uses a wheelchair or moves with support shows the feeling from where they are — a
-"tired" body can be a heavy head and slow hands; a "happy" body can be a bright face and
-open arms. A learner who is blind or has low vision follows a spoken prompt ("let your
-arms get heavy and slow") or holds a partner's elbow to feel the movement. A learner who
-is Deaf or hard of hearing follows your modeled movement and a visible beat — tap a drum
-or the floor so the feeling's rhythm can be felt, and name feelings with sign or a
-gesture. A learner who does not speak shows the feeling with the body itself and "tells"
-how it felt by pointing or gesturing. Watching and copying is full participation.
+**Tone.** Warm and moving. Your body is a model, not a rule.
+
+**The facts to land.**
+
+1. Name the feeling clearly, then move it — a feeling lives in the body.
+2. There is no correct way to show a feeling; each learner's movement is their own, and
+   every movement belongs.
+3. **Watching and copying is full participation.**
+
+**Don't overshoot.** Never single out a learner to perform alone, and never correct a
+movement as "not the feeling."
+
+**The lenses, briefly.**
+
+- *Social-emotional:* naming the feeling comes before showing it.
+- *Physical:* heavy, slow, light, and quick are the vocabulary.
+- *Egalitarianism:* a learner who uses a wheelchair or moves with support shows the
+  feeling from where they are — a "tired" body can be a heavy head and slow hands; a
+  "happy" body a bright face and open arms.
+- *Global:* feeling words and gestures differ between languages; the body's version is
+  welcome too.
+
+**The skill.** Hear a feeling named, then show it in your own body.
+
+**Access.** Blind or low-vision: follow a spoken prompt ("let your arms get heavy and
+slow") or hold a partner's elbow to feel the movement. Deaf or hard of hearing: follow
+the modelled movement and a visible beat — tap a drum or the floor so the rhythm can be
+felt — and name feelings with sign or gesture. Non-speaking: show the feeling with the
+body, then "tell" how it felt by pointing or gesturing.
 
 ## Procedure
 

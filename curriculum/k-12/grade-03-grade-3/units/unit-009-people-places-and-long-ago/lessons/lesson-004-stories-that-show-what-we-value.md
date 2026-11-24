@@ -122,20 +122,35 @@ elder to child. Looking closely at a treasure — and naming what it says its pe
 
 ## Facilitator note
 
-**Honor every treasure as living, not "folk art" or "ancient."** Kente is woven today;
-Aboriginal artists paint today; songs are sung today. Never call any of it "simple" or
-"primitive" — each is deep, careful knowledge passed from one generation to the next.
-**The skill is reading meaning:** the lesson's job is to move from "this is pretty" to
-"this shows what a people care about" — a pattern that means wisdom, a story that
-teaches caring for the land, a song that keeps memory alive. Model one full example
-first (Kirschner, Sweller & Clark, 2006): "Kente's patterns are not random; each one has
-a name and a meaning, like wisdom or unity. So kente shows that its people value wisdom
-and togetherness." Then guide the second treasure. **Use accurate names and hedges**
-(see Resources): say "the Akan peoples of Ghana," "Aboriginal peoples of Australia," and
-note that there are many Aboriginal nations, each with its own stories and art. Honor
-every body: describe the cards in words for a learner who cannot see them; a learner who
-does not use a speaking voice points or acts the value. A learner may also name a
-treasure from their own culture — every culture's treasures belong in this lesson.
+**Tone.** Reverent and matter-of-fact — living knowledge, not "folk art."
+
+**The facts to land.**
+1. Kente is woven today; Aboriginal artists paint today; songs are sung today. None is
+   "simple" or "primitive" — each is deep knowledge passed down generations.
+2. A treasure shows what a people care about: a pattern that means wisdom, a story that
+   teaches caring for the land, a song that keeps memory alive.
+3. Say "the Akan peoples of Ghana" and "Aboriginal peoples of Australia" — many
+   Aboriginal nations, each with its own stories and art (see Resources).
+
+**Don't overshoot.** Do not let "this is pretty" pass for reading meaning, and do not
+let "ancient" freeze a living practice in the past.
+
+**The lenses, briefly.**
+- *Global:* many peoples, each named accurately.
+- *Egalitarianism:* no people's treasure is the standard.
+- *Ethics:* accurate names are part of respect.
+- *Community:* a community holds and renews it.
+
+**The skill.** Move from "this is pretty" to "this shows what a people care about," in
+one sentence.
+
+Model one example first (Kirschner, Sweller & Clark, 2006): "kente's patterns are not
+random; each has a name and a meaning, like wisdom or unity. So kente shows its people
+value wisdom and togetherness." Then guide the second treasure.
+
+**Access:** describe the cards for a learner who cannot see them; a learner who does not
+use a speaking voice points or acts the value. A learner may name a treasure from their
+own culture.
 
 ## Procedure
 

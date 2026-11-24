@@ -124,25 +124,34 @@ the Earth — all at once, in one life. Today you build that single picture.
 
 ## Facilitator note
 
-It is the **closing capstone and synthesis**. The goal: **each learner recalls all eight
-goals and connects them into one web around media, technology, and our Earth home.** The
-eight goals are: (1) weigh a technology's benefits and harms for different people; (2)
-explain design trade-offs among cost, safety, access, and the environment; (3) analyze
-how a photo, video, or story can be framed or edited to change meaning, and how to check
-it; (4) evaluate a possible deepfake and describe a way to check; (5) explain how an
-ecosystem responds to disturbance and recovers — resilience; (6) compare two biomes and
-explain adaptation; (7) define sustainability and apply it to one resource; (8) analyze
-a community's stewardship practice and what makes it work. This is a **retrieval and
-spacing** moment — having learners recall rather than re-read is what makes the learning
-durable (S-039). Keep assessment **mastery, not ranking**: a learner who cannot yet
-recall a goal simply revisits that lesson's artifact and tries again — "not yet" is
-information, never a verdict. The four lenses, together, for the final time: the
-**technology & environment** lens asks what tools and media do to humanity and the
-Earth; the **ethics** lens asks what is right and who is affected; the **egalitarian**
-lens asks who benefits and who is left out; the **global** lens asks how this looks in
-other places and times. Hold values open as values and evidence as evidence (philosophy
-§5, §11). Celebrate the collective: each learner's map is a thread in one class web, and
-together they are the unit's answer.
+**Tone.** Celebratory — a web, not a scoreboard.
+
+**The facts to land.**
+
+1. Each learner recalls all eight goals and connects them into one web: media,
+   technology, and our Earth home.
+2. The eight: weigh a technology's benefits and harms; explain design trade-offs among
+   cost, safety, access, and environment; analyse how framing or editing changes
+   meaning, and how to check; evaluate a possible deepfake; explain ecosystem
+   disturbance and recovery; compare two biomes and adaptation; define sustainability
+   and apply it; analyse a community's stewardship practice and what makes it work.
+3. Recall, not re-reading, is what makes the learning durable (S-039).
+
+**Don't overshoot.** A learner who cannot yet recall a goal revisits that lesson's
+artifact and tries again — "not yet" is information, never a verdict.
+
+**The lenses, briefly.**
+
+- *Technology & environment:* what do tools and media do to humanity and the Earth?
+- *Ethics:* what is right, and who is affected?
+- *Egalitarianism:* who benefits, and who is left out?
+- *Global:* how does this look in other places and times?
+- *Critical-thinking:* values stay values and evidence stays evidence (`philosophy` §5,
+  §11).
+
+**The skill.** Build the map aloud and check each thread against its source.
+
+**Close.** Celebrate the collective: each learner's map is a thread in one class web.
 
 ## Procedure
 

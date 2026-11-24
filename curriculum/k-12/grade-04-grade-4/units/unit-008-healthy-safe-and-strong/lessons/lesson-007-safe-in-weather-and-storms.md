@@ -113,22 +113,36 @@ scared. Today you will learn those rules.
 
 ## Facilitator note
 
-**Teach readiness, not fear.** Storm rules: in a storm, **go inside** and stay **away
-from windows**; for lightning, the saying is "**when thunder roars, go indoors**"; and
-**stay out of flood water**, which can be deeper and dirtier than it looks. Heat rules:
-**drink water** and **rest in the shade** when it is very hot. Cold rules: **layer up**
-(wear layers of clothes) and **stay dry** when it is very cold. Adapt to the learner's
-own climate — some places face monsoons and floods, others heat and dust, others snow
-and ice, and a learner should learn the rules for the weather they actually meet, while
-still hearing that weather differs worldwide. Never make the lesson frightening; frame
-storms as things people have safely weathered in every land for all of human history. A
-learner who uses a wheelchair learns the nearest accessible shelter and the heat rule of
-drinking water and resting; a learner who is blind or has low vision learns each rule by
-hearing and by being guided to the shelter; a learner who is deaf or hard of hearing
-follows the cards and demonstration from the front, since every rule is shown, not only
-told. The storm, heat, and cold rules follow widely used weather-safety guidance from
-public-health and meteorological organizations. This lesson completes D03.S4.04.01 and
-leads into the unit's online-safety capstone.
+**Tone.** Steady and prepared — readiness, not fear.
+
+**The facts to land.**
+1. In a storm, **go inside** and stay **away from windows**; for lightning, "**when
+   thunder roars, go indoors**."
+2. **Stay out of flood water** — it can be deeper and dirtier than it looks.
+3. Heat: **drink water** and **rest in the shade**. Cold: **layer up** and **stay dry**.
+4. These rules follow widely used weather-safety guidance from public-health and
+   meteorological organizations.
+
+**Don't overshoot.** Storms are things people have safely weathered in every land for
+all of human history; never make the lesson frightening.
+
+**The lenses, briefly.**
+- *Environment:* the weather in front of you sets the rule.
+- *Physical:* shade, water, layers, and a dry body are the practice.
+- *Intellectual:* know which rule fits which weather.
+- *Community:* a household plan keeps everyone counted.
+
+**The skill.** Match the weather to its rule, and say the rule aloud.
+
+Adapt to the learner's own climate — some places face monsoons and floods, others heat
+and dust, others snow and ice — while still noting that weather differs worldwide.
+
+**Access:** a learner who uses a wheelchair learns the nearest accessible shelter and
+the heat rule; a learner who is blind or has low vision learns each rule by hearing and
+by being guided to the shelter; a learner who is deaf or hard of hearing follows the
+cards from the front, since every rule is shown.
+
+Completes D03.S4.04.01 and leads into the online-safety capstone.
 
 ## Procedure
 

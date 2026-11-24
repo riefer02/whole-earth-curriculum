@@ -114,19 +114,32 @@ are comfortable with it — in a city, on a farm, or anywhere people carry cards
 
 ## Facilitator note
 
-The idea to land: **ordinary life leaves a trail of data — content and metadata — that
-others can collect, often without clear consent, and that trail is the raw material of
-surveillance and automation we study this unit.** Keep the facts hedged and non-panicky:
-data collection genuinely powers useful things (maps, weather, messaging), *and* it
-genuinely enables watching. The **technology** lens is the spine — data is the substrate
-of the digital systems we meet all unit. The **egalitarian** lens: who is collected from
-most and who is left out is uneven, and the digital divide means some people's data is
-over-collected while others are excluded from benefits (S-281). The **global** lens:
-laws and norms about what may be collected differ widely by country and culture — none
-is the default (S-281). The **environment** lens: the servers that store our trail use
-energy and water, so data is never weightless — previewing a thread we return to.
-Distinguish evidence (what is collected) from values (what *should* be collected)
-(philosophy §5). Preview: next lesson asks who holds power when the data flows to a few.
+**Tone.** Matter-of-fact: no panic, no shrug — just look at the trail.
+
+**The facts to land.**
+
+1. Ordinary life leaves a trail of data — content and metadata — that others can
+   collect, often without clear consent, and that trail is the raw material of the
+   surveillance and automation this unit studies.
+2. Data collection genuinely powers useful things (maps, weather, messaging) *and*
+   genuinely enables watching. Hold both.
+3. The digital divide means some people's data is over-collected while others are
+   excluded from the benefits, and laws and norms differ widely by country (S-281).
+
+**Don't overshoot.** "Data is collected, therefore you are powerless" is not the claim,
+and it teaches helplessness instead of discernment.
+
+**The lenses, briefly.**
+
+- *Technology:* the spine — data is the substrate of every system this unit meets.
+- *Egalitarianism:* who is collected from most, and who is left out.
+- *Global:* legal and cultural norms differ; none is the default.
+- *Environment:* servers use energy and water; data is never weightless.
+- *Ethics:* keep what is collected (evidence) apart from what *should* be (values)
+  (philosophy §5).
+
+**The skill.** Model once, then release (S-011): map one day's trail and mark who could
+hold each piece. Next lesson asks who holds power when the trail flows to a few.
 
 ## Procedure
 

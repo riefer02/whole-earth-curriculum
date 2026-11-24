@@ -121,29 +121,36 @@ is yourself.
 
 ## Facilitator note
 
-The idea to land: **escalation is a climb we can read — and de-escalation is a set of
-teachable moves: regulate yourself first, lower your voice, slow the pace, listen, name
-the feeling without blame, and find one point of agreement.** The skill is well
-grounded: self-regulation and the "I-statement" habit (saying how *I* feel rather than
-blaming) are core conflict-resolution practices (S-148, S-001), and restorative practice
-frames conflict as something to listen through and repair rather than win (S-022). The
-physiology note is honest and hedged: a heated conflict raises arousal — heart and
-breath quicken — and calming the body first (a slow exhale) makes the calm voice
-possible; this is descriptive science, not a verdict.
+**Tone.** Steady and on the learner's side: de-escalation is strength with a cool head,
+not surrender.
 
-Model the ramp once, then let learners practice (worked example → guided practice →
-independent work; S-011). The **social-emotional** lens is the spine: de-escalation
-begins with noticing *your own* body and feelings, and this topic can touch real hurts —
-invite, never force, and let learners share only what they choose. The **ethics** lens:
-de-escalation is not "letting someone walk over you" — it is refusing to add fuel while
-still being honest about your own needs. The **egalitarian** lens: the moves work the
-same for everyone, but the stakes are not equal — people who are routinely dismissed or
-punished more harshly may feel *less* safe to cool a conflict down, and that is a
-justice fact, not a personal failing. The **critical-thinking** lens: name your own
-pattern — what is your fuel, and what is your water? The **global** lens: every culture
-has its own ways of keeping peace and saving face; these moves are one toolkit among
-many, held with respect. Preview: Lesson 4 asks when a conflict is *too big* to cool
-alone — and who to ask.
+**The facts to land.**
+
+1. Escalation is a climb you can read; de-escalation is a set of teachable moves —
+   regulate yourself first, lower your voice, slow down, listen, name the feeling
+   without blame, find one point of agreement.
+2. Self-regulation and the "I-statement" habit are core conflict-resolution practice
+   (S-148, S-001), and restorative practice treats conflict as something to repair
+   rather than win (S-022).
+3. A heated conflict raises arousal — heart and breath quicken — and a slow exhale makes
+   a calm voice possible.
+
+**Don't overshoot.** De-escalation is not letting someone walk over you; it is refusing
+to add fuel while staying honest about your own needs.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* the spine — it begins with noticing your own body; real hurts
+  may surface, so invite, never force.
+- *Ethics:* cooling the room is not agreeing; honesty and self-respect stay.
+- *Egalitarianism:* the moves work for everyone, but people routinely dismissed or
+  punished more harshly may feel less safe cooling things down — a justice fact.
+- *Critical-thinking:* name your own pattern — what is your fuel, what is your water?
+- *Global:* every culture keeps peace and saves face in its own way; this is one
+  toolkit among many.
+
+**The skill.** Model the ramp once, then release (S-011): with a partner, catch the rise
+and drop your voice. Lesson 4 asks when a conflict is too big to cool alone.
 
 ## Procedure
 

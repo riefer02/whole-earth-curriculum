@@ -111,28 +111,36 @@ Today you look at one story from the past and one from our own time, and see the
 
 ## Facilitator note
 
-The idea to land: **environmental change (drought, flood, a shifting climate) can be a
-push factor — a reason people move — and people also adapt, changing how they live
-rather than only leaving.** The two cases: **(1) the past — the Ancestral Pueblo.**
-Chaco Canyon, in present-day New Mexico, was a thriving regional center of the Ancestral
-Pueblo people from about 850 to 1250 CE (S-382). Sustained drought in the late 1200s —
-recorded in tree rings — contributed to people leaving Chaco and nearby centers,
-migrating to new pueblos along the Rio Grande and elsewhere, where their descendants
-live today (S-382). **(2) today.** Around the world, people are moving — within and
-across borders — because of **sea-level rise** (low-lying islands and coasts),
-**drought**, and **flood**, as the climate changes; the International Organization for
-Migration documents environment and climate as real drivers of migration (S-383, S-086).
-People adapt too: moving to higher ground, changing crops, building differently, and
-planning together. The **environment** lens: environmental change has shaped human
-history for millennia — it is not new, but today's change is fast and, for many, made
-worse by human activity (S-005). The **ethics** lens: people who move because of
-environmental change are not "the problem" — they are people adapting with courage; how
-we welcome them is a moral question. The **egalitarian** lens: those who contributed
-least to climate change are often hit first and hardest — a matter of justice, not only
-of weather (S-005). The **global** lens: this happens everywhere — small island nations,
-dry Sahel lands, river deltas — and it always has. Keep it honest: migration is rarely
-caused by the environment *alone*; economy, safety, and family mix in, and we
-distinguish evidence from values (philosophy §5).
+**Tone.** Steady and humane — people adapt with courage.
+
+**The facts to land.**
+
+1. **Past — the Ancestral Pueblo.** Chaco Canyon, in present-day New Mexico, was a
+   thriving regional centre from about 850 to 1250 CE; sustained drought in the late
+   1200s, recorded in tree rings, contributed to people leaving Chaco and nearby centres
+   for new pueblos along the Rio Grande and elsewhere, where their descendants live
+   today (S-382).
+2. **Today.** People move within and across borders because of sea-level rise, drought,
+   and flood; the International Organization for Migration documents environment and
+   climate as real drivers of migration (S-383, S-086).
+3. People also adapt in place: higher ground, different crops, different building,
+   shared planning.
+
+**Don't overshoot.** Migration is rarely caused by the environment *alone*; economy,
+safety, and family mix in.
+
+**The lenses, briefly.**
+
+- *Environment:* environmental change has shaped human history for millennia — not new,
+  but today's change is fast and, for many, made worse by human activity (S-005).
+- *Ethics:* people who move because of environmental change are not "the problem" — how
+  we welcome them is a moral question.
+- *Egalitarianism:* those who contributed least to climate change are often hit first and
+  hardest — a matter of justice, not only weather (S-005).
+- *Global:* it happens everywhere — small island nations, dry Sahel lands, river deltas.
+
+**The skill.** Separate evidence from values: what the records show, then what we owe
+one another (`philosophy` §5).
 
 ## Procedure
 

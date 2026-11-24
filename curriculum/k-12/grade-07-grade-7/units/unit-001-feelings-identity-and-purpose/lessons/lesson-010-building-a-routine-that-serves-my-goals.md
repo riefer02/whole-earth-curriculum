@@ -120,23 +120,37 @@ village house, the pattern is the same.
 
 ## Facilitator note
 
-The ideas to land: **(1) a routine is how a goal becomes days — it is built, not wished;
-(2) it rests on three evidence-backed blocks — study (with breaks, spaced and
-retrieved), sleep (about 8–10 hours for teens, 9–12 for younger children — AASM), and
-daily movement (WHO) — plus rest and meals; and (3) it must be *followed and adjusted*,
-not just written.** Use if-then planning for the hard moments (Duckworth, Gendler &
-Gross, 2016) and keep amounts flexible — every family, shift, and body differs, and a
-routine that cannot bend will break. The *egalitarianism* lens is explicit: a learner
-with chores, care duties, or long travel has different hours than one without, so teach
-the routine as "within your real day," never as a middle-class default schedule. The
-*environment* lens: sleep and movement are tied to daylight and season, and many
-people's days follow the sun and the land, not a clock. Model one routine as a worked
-example (Kirschner, Sweller & Clark, 2006). This lesson also closes the unit, so build
-in a brief **retrieval practice** pass across all four strands (spacing/retrieval
-strengthen memory — Dunlosky et al., 2013). Distinguish **evidence from values**: that
-sleep, movement, and spaced study support health and learning is documented; that every
-learner's goals deserve equal honor is a value this curriculum holds — name it as one.
-See `docs/facilitation.md` and `docs/art-style.md`.
+**Tone.** Practical and respectful. A routine is built within a real life, never imposed
+on one.
+
+**The facts to land.**
+
+1. **A routine is how a goal becomes days** — it is built, not wished.
+2. It rests on three evidence-backed blocks: **study** (with breaks, spaced and
+   retrieved), **sleep** (about 8–10 hours for teens, 9–12 for younger children — AASM),
+   and **daily movement** (WHO), plus rest and meals.
+3. It must be **followed and adjusted**, not just written; if-then planning helps at the
+   hard moments (Duckworth, Gendler & Gross, 2016).
+
+**Don't overshoot.** Do not hand out one timetable as the right one. Keep amounts
+flexible — families, shifts, and bodies differ, and a routine that cannot bend will
+break.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* a routine should serve the learner, not judge them.
+- *Ethics:* rest is owed, not earned.
+- *Egalitarianism:* chores, care duties, or long travel change the hours — teach "within
+  your real day," never a middle-class default.
+- *Global:* routines differ across communities; the clock is not the only organizer.
+- *Environment:* sleep and movement are tied to daylight and season, and many people's
+  days follow the sun and the land.
+- *Critical-thinking:* check a routine against evidence and your own week.
+
+**The skill.** Model one routine (Kirschner, Sweller & Clark, 2006). The lesson closes
+the unit, so build in a brief retrieval pass across all four strands (spacing and
+retrieval strengthen memory — Dunlosky et al., 2013). See `docs/facilitation.md` and
+`docs/art-style.md`.
 
 ## Procedure
 

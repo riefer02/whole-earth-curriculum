@@ -3,58 +3,58 @@
   <desc id="desc-L-10-009-01-many-ways-to-count-the-years">Three labeled rings compare a solar year (about 365 days, marked by the Sun), a lunar year (about 354 days, marked by twelve Moons), and a lunisolar year (twelve Moons plus an added month so Sun and Moon stay together). Simple icons, grayscale-printable.</desc>
   <rect width="512" height="512" fill="#fdfbf7"/>
   <!-- Ring 1: Solar -->
-  <g transform="translate(96,128)">
-    <circle cx="0" cy="0" r="84" fill="none" stroke="#6b93b6" stroke-width="3"/>
+  <g transform="translate(96,120)">
+    <circle cx="0" cy="0" r="78" fill="none" stroke="#6b93b6" stroke-width="3"/>
     <circle cx="0" cy="0" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
-      <line x1="0" y1="-9" x2="0" y2="-84"/>
-      <line x1="0" y1="-9" x2="59" y2="-59"/>
-      <line x1="0" y1="-9" x2="-59" y2="-59"/>
+      <line x1="0" y1="-9" x2="0" y2="-78"/>
+      <line x1="0" y1="-9" x2="55" y2="-55"/>
+      <line x1="0" y1="-9" x2="-55" y2="-55"/>
     </g>
-    <text x="0" y="106" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222" font-weight="bold">SOLAR</text>
-    <text x="0" y="126" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Sun · ~365¼ days</text>
   </g>
+  <text x="96" y="222" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">SOLAR</text>
+  <text x="96" y="242" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Sun · ~365¼ days</text>
   <!-- Ring 2: Lunar -->
-  <g transform="translate(256,128)">
-    <circle cx="0" cy="0" r="84" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+  <g transform="translate(256,120)">
+    <circle cx="0" cy="0" r="78" fill="none" stroke="#7a9e7e" stroke-width="3"/>
     <circle cx="0" cy="0" r="9" fill="none" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M 0 -84 A 84 84 0 0 1 0 84 A 70 70 0 0 0 0 -84 Z" fill="#7a9e7e" opacity="0.25" stroke="none"/>
+    <path d="M 0 -78 A 78 78 0 0 1 0 78 A 65 65 0 0 0 0 -78 Z" fill="#7a9e7e" opacity="0.25" stroke="none"/>
     <g fill="#2b3a42">
-      <circle cx="42" cy="-72" r="4"/>
-      <circle cx="-42" cy="-72" r="4"/>
-      <circle cx="72" cy="-30" r="4"/>
-      <circle cx="-72" cy="-30" r="4"/>
-      <circle cx="60" cy="50" r="4"/>
-      <circle cx="-60" cy="50" r="4"/>
-      <circle cx="0" cy="-78" r="4"/>
+      <circle cx="39" cy="-67" r="4"/>
+      <circle cx="-39" cy="-67" r="4"/>
+      <circle cx="67" cy="-28" r="4"/>
+      <circle cx="-67" cy="-28" r="4"/>
+      <circle cx="56" cy="46" r="4"/>
+      <circle cx="-56" cy="46" r="4"/>
+      <circle cx="0" cy="-72" r="4"/>
     </g>
-    <text x="0" y="106" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222" font-weight="bold">LUNAR</text>
-    <text x="0" y="126" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">12 Moons · ~354 days</text>
   </g>
+  <text x="256" y="222" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">LUNAR</text>
+  <text x="256" y="242" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">12 Moons · ~354 days</text>
   <!-- Ring 3: Lunisolar -->
-  <g transform="translate(416,128)">
-    <circle cx="0" cy="0" r="84" fill="none" stroke="#e0a458" stroke-width="3"/>
+  <g transform="translate(416,120)">
+    <circle cx="0" cy="0" r="78" fill="none" stroke="#e0a458" stroke-width="3"/>
     <circle cx="0" cy="0" r="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="0" cy="0" r="46" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
+    <circle cx="0" cy="0" r="44" fill="none" stroke="#4f6d7a" stroke-width="2" stroke-dasharray="6 5"/>
     <g stroke="#2b3a42" stroke-width="2" stroke-linecap="round">
-      <line x1="0" y1="-9" x2="0" y2="-84"/>
-      <line x1="0" y1="-9" x2="65" y2="-52"/>
+      <line x1="0" y1="-9" x2="0" y2="-78"/>
+      <line x1="0" y1="-9" x2="60" y2="-48"/>
     </g>
-    <circle cx="0" cy="-46" r="5" fill="#2b3a42"/>
-    <text x="0" y="106" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#222222" font-weight="bold">LUNISOLAR</text>
-    <text x="0" y="126" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Sun + Moon · added month</text>
+    <circle cx="0" cy="-44" r="5" fill="#2b3a42"/>
   </g>
+  <text x="416" y="222" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222" font-weight="bold">LUNISOLAR</text>
+  <text x="416" y="242" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Sun + Moon · added month</text>
   <!-- Bottom caption -->
-  <rect x="56" y="268" width="400" height="210" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222" font-weight="bold">A calendar is a choice</text>
-  <text x="256" y="324" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Every people matches two rhythms —</text>
-  <text x="256" y="344" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">the Sun's year and the Moon's month —</text>
-  <text x="256" y="364" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">plus its own seasons and events. The "year one"</text>
-  <text x="256" y="384" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">and the names are chosen by people, not fixed by nature.</text>
+  <rect x="48" y="272" width="416" height="212" rx="12" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="302" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#222222" font-weight="bold">A calendar is a choice</text>
+  <text x="256" y="330" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Every people matches two rhythms —</text>
+  <text x="256" y="350" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">the Sun's year and the Moon's month —</text>
+  <text x="256" y="370" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">plus its own seasons and events. The "year one"</text>
+  <text x="256" y="390" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">and the names are chosen by people, not fixed by nature.</text>
   <g stroke="#4f6d7a" stroke-width="2" stroke-linecap="round">
-    <line x1="96" y1="404" x2="416" y2="404"/>
+    <line x1="88" y1="408" x2="424" y2="408"/>
   </g>
-  <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">Gregorian · Hijri · Chinese · Maya Long Count</text>
-  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">seasonal calendars — each watches the Sun, the Moon, both, or the land</text>
-  <text x="256" y="464" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#4f6d7a">— none is "the" natural one.</text>
+  <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Gregorian · Hijri · Chinese · Maya Long Count</text>
+  <text x="256" y="450" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">and seasonal calendars — each watches the Sun,</text>
+  <text x="256" y="468" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the Moon, both, or the land. None is "the" natural one.</text>
 </svg>

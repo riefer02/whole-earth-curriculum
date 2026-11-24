@@ -118,20 +118,31 @@ this idea to plan how much they need, even before it had a written symbol.
 
 ## Facilitator note
 
-It is the learner's first formal **multiplication** — the new skill is reading an
-**array** (rows and columns) and writing the multiplication sentence. Teach with a
-**worked example** (philosophy §13): build three groups of four, line them into three
-rows of four, count by fours, and write 3 × 4 = 12 before learners try their own.
-Children make sense of multiplication through these informal strategies long before
-memorizing facts (Carpenter et al., 2015). Keep objects first, symbols last. **No one's
-speed at counting groups measures their smartness; some children see the total by
-skip-counting, some by counting every object, and all are valid paths.** The word
-"times" and the symbol × are one convention among many — the idea of equal groups is
-what matters, and peoples have counted in groups of two, five, ten, and more (Zaslavsky,
-1999). Count in the home language. For learners who are Deaf or hard of hearing, count
-with sign or taps; for learners who are blind or low-vision, make groups in cups the
-hands can feel. Learners with limited movement direct a partner to move the objects.
-Mastery arrives at its own pace.
+**Tone.** Playful and hands-first — groups get built before they get written.
+
+**The facts to land.**
+1. Multiplication counts **equal groups**: three groups of four is 3 × 4.
+2. An **array** — rows and columns — shows the same equal groups a second way.
+3. Children make sense of multiplication through informal strategies long before
+   memorising facts (Carpenter et al., 2015).
+
+**Don't overshoot.** The word "times" and the × sign are one convention among many;
+the idea of equal groups is what matters, and peoples have counted in groups of two,
+five, ten, and more (Zaslavsky, 1999).
+
+**The lenses, briefly.**
+- *Intellectual:* build three groups of four, line them into three rows of four,
+  count by fours, write 3 × 4 = 12 — worked example, then guided practice (philosophy
+  §13).
+- *Egalitarianism:* some children see the total by skip-counting, some by counting
+  every object; all are valid paths, and speed is never smartness.
+- *Physical:* objects first, symbols last.
+- *Global:* count in the home language.
+
+**The skill.** Build it, arrange it, count it, then write the multiplication sentence.
+
+**Access:** count with sign or taps; make groups in cups the hands can feel; a learner
+with limited movement directs a partner. Mastery arrives at its own pace.
 
 ## Procedure
 

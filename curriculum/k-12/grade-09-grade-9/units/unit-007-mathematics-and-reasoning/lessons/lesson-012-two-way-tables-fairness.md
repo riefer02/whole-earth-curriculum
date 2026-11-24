@@ -114,26 +114,36 @@ an illusion — and how we ask, honestly, who gets what outcome.
 
 ## Facilitator note
 
-The skill to land: **a two-way table organizes counts by two categories; joint
-frequencies are the cell counts, marginal frequencies are the row and column totals, and
-a conditional relative frequency divides a cell by its row (or column) total to reveal
-the rate *within* a subgroup.** Use a **worked example first** (S-011): a table of an
-outcome by two groups, computing joint, marginal, and conditional relative frequencies
-and reading each in a sentence. The critical-thinking lens: an overall rate can hide
-different rates inside subgroups — the core of Simpson's paradox — so compute
-conditional frequencies before concluding. The ethics and egalitarian lenses: fairness
-questions live in conditional rates (does group A succeed at the same rate as group B
-*given the same starting point*?), and data has been used for justice — W. E. B. Du Bois
-hand-drew charts for the 1900 Paris Exposition showing the real condition of Black
-Americans against claims of inferiority, and Florence Nightingale used her statistical
-charts to argue for hospital reform (S-432, S-433). The global lens: cross-tabulating
-categories is the same honest act in every census and every study worldwide. The
-technology & environment lens: a spreadsheet computes conditional frequencies instantly,
-but the human must decide what the table reveals and what further evidence is still
-needed; and two-way tables are exactly how people track who has safe drinking water,
-care, or access — the same honest cross-tabulation maps both fairness and the
-environment. Emphasize: association is not causation — a table shows a relationship, not
-a cause; saying which requires more evidence.
+**Tone.** Fair-minded and exact — rates inside groups, not just the headline.
+
+**The facts to land.**
+
+1. **A two-way table organizes counts by two categories.** Joint frequencies are cell
+counts; marginal frequencies are row and column totals.
+2. **A conditional relative frequency divides a cell by its row (or column) total** to
+reveal the rate *within* a subgroup.
+3. **Worked example:** a table of an outcome by two groups — compute joint, marginal,
+and conditional relative frequencies and read each in a sentence.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* an overall rate can hide different rates inside subgroups — the
+core of Simpson's paradox — so compute conditional frequencies before concluding.
+- *Egalitarianism:* fairness lives in conditional rates — does group A succeed at the
+same rate as group B *given the same starting point*?
+- *Ethics:* data has been used for justice — W. E. B. Du Bois hand-drew charts for the
+1900 Paris Exposition showing the real condition of Black Americans against claims of
+inferiority, and Florence Nightingale used her charts to argue for hospital reform
+(S-432, S-433).
+- *Global:* cross-tabulating categories is the same honest act in every census and
+study.
+- *Technology:* a spreadsheet computes conditional frequencies instantly; the human
+decides what the table reveals.
+- *Environment:* two-way tables are how people track who has safe drinking water,
+care, or access.
+
+**The skill.** **Worked example first** (S-011). Association is not causation — a table
+shows a relationship, not a cause.
 
 ## Procedure
 

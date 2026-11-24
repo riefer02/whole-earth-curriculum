@@ -118,18 +118,33 @@ stall, in a comment section, or anywhere people talk.
 
 ## Facilitator note
 
-The idea to land is a precise, three-way distinction: a **fact** is a claim about how
-things are that *evidence can check* (true or false); a **belief** is a claim a person
-*holds* but cannot fully check right now (it might be true or false, but we cannot
-settle it with what we have); a **value** is a claim about what *ought* to be (it is
-neither true nor false in the factual sense — it is about what matters). Teach the sort
-as a worked example before independent practice (Kirschner, Sweller & Clark, 2006). Do
-**not** rank beliefs or values against each other — the point is to *tell the kinds
-apart*, not to say which is better. Distinguish **evidence from values**
-(`docs/philosophy.md` §5): a fact is settled by evidence; a belief is held when evidence
-is not yet enough; a value is a "should," not a "is." Keep the question open: this
-lesson teaches *classification*, not a verdict on anyone's beliefs or values. See
-`docs/facilitation.md`.
+**Tone.** Curious, not corrective. The sort is the lesson; no one's beliefs are on
+trial.
+
+**The facts to land.**
+
+1. A **fact** is a claim about how things are that *evidence can check* — true or false.
+2. A **belief** is a claim a person *holds* but cannot fully check right now; it may be
+   true or false, and we cannot settle it with what we have.
+3. A **value** is a claim about what *ought* to be — not true or false in the factual
+   sense, but about what matters.
+
+**Don't overshoot.** Do not let the sort become a verdict on anyone's beliefs or values,
+and never rank them. The point is to tell the kinds apart.
+
+**The lenses, briefly.**
+
+- *Ethics:* a value can be argued for, but not proven the way a fact can.
+- *Critical-thinking:* separating evidence from values (`docs/philosophy.md` §5) — a
+  fact is settled by evidence, a belief is held while evidence is short, a value is a
+  "should," not an "is."
+- *Egalitarianism:* every learner's values can be stated without being graded.
+- *Global:* communities hold different beliefs and values, and the distinction lets us
+  compare them without ranking them.
+
+**The skill.** Sort a claim as fact, belief, or value, and give your reason. Teach the
+sort as a worked example before independent practice (Kirschner, Sweller & Clark, 2006).
+Keep the big questions open; see `docs/facilitation.md`.
 
 ## Procedure
 

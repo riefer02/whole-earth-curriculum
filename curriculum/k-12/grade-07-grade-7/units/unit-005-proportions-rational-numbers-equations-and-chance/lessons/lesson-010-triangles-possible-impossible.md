@@ -115,21 +115,33 @@ China. Shape has conditions, and knowing them tells you what can and cannot be b
 
 ## Facilitator note
 
-The ideas to land: (1) three lengths form a triangle only when **the two shorter sides
-add to more than the longest** (the **triangle inequality**); (2) if the sum equals the
-longest, the sides lie flat — no triangle; if it is less, they cannot reach — no
-triangle; and (3) this condition lets a learner predict *before* building. Because
-constructing and classifying is a foundational skill, use explicit instruction and
-worked examples first, then hands-on building, then the rule in words (Kirschner,
-Sweller & Clark, 2006). Watch for the slip of testing only one pair of sides instead of
-the two-shortest-vs-longest test. Retrieval: ask learners to recall shapes and their
-attributes from Grade 6 — a triangle is the rigid three-sided shape. The global lens:
-the 3-4-5 right-triangle rope trick appears across ancient Egypt, India, and China, and
-the triangle's rigidity is used in bridges and roofs worldwide — geometry is a shared
-human tool. The egalitarian lens (`docs/philosophy.md` §4): a simple sum test lets
-anyone, with nothing but sticks, decide what can be built — the rule belongs to
-everyone. The critical-thinking lens (`docs/philosophy.md` §7): predicting *before*
-building, then checking, is honest reasoning.
+**Tone.** Hands-on and predictive. Build, then state the rule.
+
+**The facts to land.**
+
+1. Three lengths form a triangle only when **the two shorter sides add to more than the
+   longest** — the **triangle inequality**.
+2. If the sum **equals** the longest, the sides lie flat — no triangle; if it is
+   **less**, they cannot reach — no triangle.
+3. The condition lets you **predict before building**.
+
+**Don't overshoot.** Do not present the rule as a definition to recite; a learner who
+has seen the flat case knows why it is true.
+
+**The lenses, briefly.**
+
+- *Intellectual:* a triangle is the rigid three-sided shape.
+- *Egalitarianism:* a simple sum test, with nothing but sticks, decides what can be
+  built — the rule belongs to everyone (`docs/philosophy.md` §4).
+- *Global:* the 3-4-5 rope trick appears in ancient Egypt, India, and China, and the
+  triangle's rigidity holds up bridges and roofs worldwide.
+- *Critical-thinking:* predicting before building, then checking, is honest reasoning
+  (`docs/philosophy.md` §7).
+
+**The skill.** Foundational: instruct explicitly with worked examples, then build
+hands-on, then state the rule in words (Kirschner, Sweller & Clark, 2006). Retrieval:
+shapes and their attributes from Grade 6. The slip to watch is testing only one pair of
+sides instead of two-shortest against longest.
 
 ## Procedure
 

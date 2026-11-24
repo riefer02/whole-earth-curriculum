@@ -123,30 +123,36 @@ not someone who knows four facts; it is someone who lives them, day after day.
 
 ## Facilitator note
 
-It is the **closing capstone and synthesis**, with one forward-looking piece: the
-**self-care tracker**. Two jobs: **(1) set up a one-week tracker for the four pillars —
-sleep, hygiene, movement, connection — that the learner will mark each day and reflect
-on after the week; (2) synthesize the unit's four goals into one web around healthy,
-safe, and strong.** The four goals are: (1) plan and prepare a simple balanced meal
-safely — clean, separate, cook, chill; (2) explain how eating patterns, not only what we
-eat, affect health, digestion, and wellbeing; (3) explain how tobacco, alcohol, and
-drugs affect the body and brain and make safe, informed choices; (4) build and track a
-self-care routine of sleep, hygiene, movement, and connection. The tracker is about
-**habits and feelings, never weight or appearance** — keep it safe and non-shaming; a
-missed day is information, not a failure. This is a **retrieval and spacing** moment —
-having learners recall rather than re-read is what makes the learning durable (S-039).
-Keep assessment **mastery, not ranking**: a learner who cannot yet recall a goal
-revisits that lesson's artifact and tries again — "not yet" is information, never a
-verdict. The lenses, together: the **critical-thinking** lens asks what evidence
-supports each claim; the **ethics** lens asks what is right and who is affected; the
-**egalitarian** lens asks who benefits and who is left out; the **global** lens asks how
-this looks in other places and cultures; the **technology & environment** lens asks how
-tools and the Earth are touched by each goal; the **social-emotional** lens asks how
-each goal makes a person *feel*. Celebrate the collective: each learner's map is a
-thread in one class web, and each learner's routine is a quiet act of care. Note for
-continuity: the tracker runs *after* this lesson — the learner returns to it over the
-week and reflects (with a trusted adult or on their own); this is the unit's self-care
-strand made real.
+**Tone.** Celebratory and steady — a web and a quiet habit, not a scoreboard.
+
+**The facts to land.**
+
+1. Two jobs: set up a one-week tracker for the four pillars — sleep, hygiene, movement,
+   connection — and synthesize the four unit goals into one web.
+2. The four goals: plan and prepare a simple balanced meal safely; explain how eating
+   patterns affect health; explain tobacco, alcohol, and drugs and make safe choices;
+   build and track a self-care routine.
+3. Recall, not re-reading, is what makes the learning durable (S-039).
+
+**Don't overshoot.** The tracker is about habits and feelings, never weight or
+appearance; a missed day is information, not a failure.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* what evidence supports each claim?
+- *Ethics:* what is right, and who is affected?
+- *Egalitarianism:* who benefits, and who is left out?
+- *Global:* how does this look in other places and cultures?
+- *Technology & environment:* how do tools and the Earth touch each goal?
+- *Social-emotional:* how does each goal make a person *feel*?
+- *Physical:* the four pillars are the body's everyday care.
+
+**The skill.** A learner who cannot yet recall a goal revisits that lesson's artifact
+and tries again — "not yet" is information, never a verdict.
+
+**Close.** Celebrate the collective: each learner's map is a thread in one class web.
+The tracker runs after this lesson; the learner reflects over the week, with a trusted
+adult or on their own.
 
 ## Procedure
 

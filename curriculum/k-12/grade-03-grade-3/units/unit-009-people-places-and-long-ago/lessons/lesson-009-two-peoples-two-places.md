@@ -123,19 +123,36 @@ told with respect.
 
 ## Facilitator note
 
-**This is a retrieval-and-integration lesson and a portfolio artifact — practice, not a
-test.** Learners are recalling two skills they already practiced (comparing two peoples'
-needs; explaining how the land shaped settlement) and combining them — spaced retrieval
-across the unit (Dunlosky et al., 2013). Model one full column first (Kirschner, Sweller
-& Clark, 2006): fill the "Arctic people" column and say the "shaped by" sentence aloud —
-"The frozen sea and the cold shaped it: people fish and wear warm parkas and build snug
-homes." Then guide the desert column. **Honor both peoples, and never rank:** each place
-asks something of its people, and each people answers with deep knowledge. A learner may
-choose a different pair of peoples or places if that is more meaningful to them — the
-structure matters, not the specific example. Honor every body: a learner who is blind or
-has low vision lays objects in two rows by touch and says or signs the comparison; a
-learner who does not use a speaking voice draws or points. The artifact is evidence of
-growth, never a ranking.
+**Tone.** Warm and low-stakes — this is practice, not a test.
+
+**The facts to land.**
+1. Retrieval and integration: learners recall comparing two peoples' needs, and how land
+   shaped settlement, then combine them — spaced retrieval across the unit (Dunlosky et
+   al., 2013).
+2. Each place asks something of its people, and each people answers with deep knowledge
+   — never rank them.
+3. The frozen sea and the cold shaped Arctic ways: people fish, wear warm parkas, and
+   build snug homes.
+
+**Don't overshoot.** Do not let the artifact become a ranking, or a way of finding out
+who remembered most.
+
+**The lenses, briefly.**
+- *Global:* two places, compared, never ordered.
+- *Egalitarianism:* no place or people is the standard.
+- *Environment:* land and water shape how people live.
+- *Critical-thinking:* the "shaped by" sentence is the reasoning said aloud.
+
+**The skill.** Fill one column, then say the "shaped by" sentence.
+
+Model one column first (Kirschner, Sweller & Clark, 2006): fill the Arctic column and
+say "the frozen sea and the cold shaped it: people fish and build snug homes." Then
+guide the desert column. A learner may choose a different pair — the structure matters,
+not the example.
+
+**Access:** a learner who is blind or has low vision lays objects in two rows by touch
+and says or signs the comparison; a learner who does not use a speaking voice draws or
+points. The artifact is evidence of growth, never a ranking.
 
 ## Procedure
 

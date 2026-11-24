@@ -123,22 +123,35 @@ way. Today you will practice the whole path, step by step.
 
 ## Facilitator note
 
-This lesson teaches **self-regulation + conflict talk** as one skill, not two. The order
-matters and is the point: the body must calm before the words can land, so Step 1 is
-always *stop and breathe* — never "just calm down" as a scolding, but a real, practiced
-breath (slow in through the nose, slower out through the mouth). Breathing is one way,
-not the only way: any slow calm that works counts — pressing feet to the floor, holding
-the calm anchor, or counting slowly — so a learner with breathing, sensory, or
-trauma-related difficulty never has to force a breath. Model the full five steps as a
-worked example, then let learners rehearse in pairs with a small, invented, blame-free
-conflict. The "I feel… I need…" words carry the blame-free move from Grade 2 forward —
-no one is "bad"; each side names a feeling and a need, and the pair finds a solve that
-works for both. A learner who does not speak aloud points to each step on the strip or
-signs; a learner who is deaf or hard of hearing follows the steps through sign and the
-strip; a learner who is blind or low-vision hears each step described and names what
-comes next; a learner with a motor difference can direct a partner or hold the calm
-anchor. A learner may always pass. The aim is that every learner can say, in their own
-way, "I can calm down and talk it through."
+**Tone.** Steady and practiced — calm is a skill.
+
+**The facts to land.**
+1. Self-regulation and conflict talk are one skill: the body calms before words can
+   land, so step 1 is always *stop and breathe*.
+2. Breathing is one way, not the only way — feet on the floor, the calm anchor, or
+   counting slowly all count.
+3. "I feel… I need…" carries Grade 2's blame-free move forward: no one is "bad"; each
+   side names a need, and the pair finds a solve for both.
+
+**Don't overshoot.** Never make a learner force a breath — breathing, sensory, or
+trauma-related difficulty needs another route — and "just calm down" is a scolding.
+
+**The lenses, briefly.**
+- *Ethics:* both sides name a need, both are heard.
+- *Egalitarianism:* no one is the villain of the script.
+- *Social-emotional:* the breath is real and rehearsed.
+- *Community:* the solve belongs to the pair.
+- *Global:* slow calm is practiced in many traditions.
+- *Critical-thinking:* which step comes next.
+
+**The skill.** Stop, breathe, say "I feel… I need…", then find a solve for both.
+
+Model the five steps, then rehearse in pairs with an invented conflict.
+
+**Access:** a learner who does not speak aloud points to each step; a learner who is
+deaf or hard of hearing follows the steps through sign and the strip; a learner who is
+blind or has low vision hears each step; a learner with a motor difference holds the
+anchor.
 
 ## Procedure
 

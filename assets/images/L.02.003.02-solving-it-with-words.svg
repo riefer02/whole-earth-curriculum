@@ -48,7 +48,7 @@
     <rect x="16" y="240" width="112" height="150" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <circle cx="72" cy="268" r="14" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <text x="72" y="273" text-anchor="middle" font-size="15" font-weight="bold" fill="#222222">1</text>
-    <text x="72" y="302" text-anchor="middle" font-size="13.7" font-weight="bold" fill="#2b3a42">Stop &amp; breathe</text>
+    <text x="72" y="302" text-anchor="middle" font-size="14" font-weight="bold" fill="#2b3a42">Stop &amp; breathe</text>
     <path d="M72 320 Q60 316 58 330 Q56 342 72 346" fill="none" stroke="#2b3a42" stroke-width="2"/>
     <text x="72" y="372" text-anchor="middle" font-size="12" fill="#4f6d7a">Hand on belly,</text>
     <text x="72" y="386" text-anchor="middle" font-size="12" fill="#4f6d7a">in and out</text>

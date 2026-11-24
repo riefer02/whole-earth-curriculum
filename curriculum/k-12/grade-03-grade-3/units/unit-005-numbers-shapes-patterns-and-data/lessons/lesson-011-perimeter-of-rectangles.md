@@ -115,19 +115,32 @@ edged for as long as they have grown and built.
 
 ## Facilitator note
 
-It introduces **perimeter** and the crucial distinction **perimeter vs. area** — the new
-skill is measuring around and adding the side lengths. Teach with a **worked example**
-(philosophy §13): lay string around a 7-by-3 rectangle, measure 20 units, then add 7 + 3
-+ 7 + 3 = 20. Emphasize the contrast: the string traces the *edge* (perimeter), while
-the tiles from yesterday covered the *inside* (area). Confusing the two is common and
-normal, so return to the fence-and-field picture often (Van de Walle et al., 2019). **No
-one's speed at measuring measures their smartness; walking the edge and adding the sides
-are both valid.** The words "perimeter" and "area" come to us from the Greek and Latin
-words for "around" and "open ground" — real measuring needs, not school inventions.
-Count in the home language. For learners who are Deaf or hard of hearing, trace the edge
-with signs and count steps; for learners who are blind or low-vision, run a finger along
-string around the shape and feel the whole way around. Learners with limited movement
-direct a partner to walk or trace. Mastery arrives at its own pace.
+**Tone.** Clear about the contrast — edge against inside, again and again.
+
+**The facts to land.**
+1. **Perimeter** is the distance around the edge; **area** is the space inside.
+2. For a rectangle, add the side lengths: 7 + 3 + 7 + 3 = 20.
+3. The words come from Greek and Latin for "around" and "open ground" — real measuring
+   needs, not school inventions.
+
+**Don't overshoot.** Confusing the two is common and normal. Return to the
+fence-and-field picture often, and do not treat the mix-up as carelessness (Van de
+Walle et al., 2019).
+
+**The lenses, briefly.**
+- *Intellectual:* lay string around a 7-by-3 rectangle, measure 20 units, then add
+  7 + 3 + 7 + 3 (philosophy §13).
+- *Physical:* walking the edge with a finger or a string is the definition made
+  real.
+- *Environment:* measure a real boundary — a table, a mat, a paving slab.
+- *Global:* people have fenced and bounded land in every place; the need is shared.
+
+**The skill.** Trace the edge, add the sides, then say what is *inside* that the
+perimeter does not count.
+
+**Access:** trace the edge with signs and count the steps; run a finger along string
+around the shape; a learner with limited movement directs a partner. Mastery arrives
+at its own pace.
 
 ## Procedure
 

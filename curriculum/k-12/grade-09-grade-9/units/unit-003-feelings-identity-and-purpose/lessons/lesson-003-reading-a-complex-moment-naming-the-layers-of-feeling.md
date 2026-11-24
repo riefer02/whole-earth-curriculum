@@ -112,24 +112,36 @@ time — and reading a moment is the first step toward choosing, not just reacti
 
 ## Facilitator note
 
-It is a **guided-practice lesson** building on Lesson 2's vocabulary (S-011). Model one
-case card fully — naming all four layers aloud — before learners work in pairs; then
-have them practice two cards together and one independently. The four-layer frame is:
-**event** (what a camera would record, without interpretation), **thought** (the story
-the person tells about what it means), **subtle feeling** (the fine-grained emotion —
-envy, hurt, tenderness, relief), **secondary feeling** (the feeling about the feeling —
-shame, pride, guilt). This frame is adapted descriptively from the event-thought-feeling
-/ ABC account (S-332); it is a **self-awareness tool, not a diagnosis or therapy**, and
-the facilitator should say so. Keep the room safe: scenarios are invented and
-low-stakes; no learner is ever required to reveal anything personal, and names are never
-used for real people. The **social-emotional** lens: naming a moment precisely is the
-ground of emotional maturity and of caring well for others (S-001). The **ethics** lens:
-the same event can be read more than one way, so we hold our reading of another person's
-feelings as a guess, offered with humility, never as a verdict on them. The **global**
-lens: which feelings are named, shown, or hidden in a moment differs across cultures —
-invite learners to notice that without ranking any way as better. Mastery, not ranking:
-a learner who can name only two layers today names all four tomorrow; "not yet" is a
-map, not a grade (S-007).
+**Tone.** Steady and matter-of-fact — a **guided-practice** lesson on top of Lesson 2's
+vocabulary (S-011).
+
+**The facts to land.**
+
+1. **Event** — what a camera would record, without interpretation.
+2. **Thought** — the story the person tells about what it means.
+3. **Subtle feeling** — the fine-grained emotion: envy, hurt, tenderness, relief.
+4. **Secondary feeling** — the feeling about the feeling: shame, pride, guilt.
+
+The frame is adapted descriptively from the event-thought-feeling / ABC account (S-332).
+
+**Don't overshoot.** Call it a **self-awareness tool, not a diagnosis or therapy** — and
+say so aloud.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* naming a moment precisely is the ground of emotional maturity
+and of caring well for others (S-001).
+- *Ethics:* the same event can be read more than one way, so hold your reading of
+another person's feelings as a guess offered with humility, never as a verdict on them.
+- *Global:* which feelings are named, shown, or hidden in a moment differs across
+cultures — invite learners to notice that without ranking any way as better.
+
+**The skill.** Model one case card fully, naming all four layers aloud; then pairs
+practise two cards together and one independently.
+
+**Safety floor.** Scenarios are invented and low-stakes. No learner is ever required to
+reveal anything personal, and names are never used for real people. A learner who names
+only two layers today names all four tomorrow — "not yet" is a map, not a grade (S-007).
 
 ## Procedure
 

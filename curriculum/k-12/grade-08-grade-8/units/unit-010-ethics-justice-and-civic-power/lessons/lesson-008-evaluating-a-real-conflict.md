@@ -108,23 +108,34 @@ trace where each one leads, and defend a choice with reasons.
 
 ## Facilitator note
 
-It opens strand 4. The three response families are **talk/listen/repair** (restorative —
-S-022, S-161), **avoidance** (peace but no repair), and **escalation** (force that
-deepens harm). Teach them as *options to weigh*, not as a moral ladder with one
-obviously right rung (philosophy §11): sometimes walking away keeps people safe in the
-moment even though it leaves harm unaddressed, and sometimes force is what people resort
-to when no one will listen — the lesson's job is to *trace the outcomes honestly*, then
-let the learner choose and defend. The social-emotional lens: feelings — anger, fear,
-hurt — are part of conflict, and naming them before choosing is part of good judgment
-(S-001). The community lens: conflicts live in real places and relationships, not in the
-abstract. The egalitarianism lens: ask *whose voice is heard and whose is not* in each
-response — restorative practice only works if the less powerful are genuinely heard. The
-ethics lens: the standard is a *reasoned choice*, not a "correct" answer; the deeper aim
-is that harm is named and repaired, not that someone "wins." Keep the topic safe: use a
-case, not a real conflict among the learners themselves, and remind them that naming a
-response is not the same as acting on it (facilitation.md "holding difficult topics
-safely"). Distinguish description from value: *what each response does* is a fact to
-trace; *which is most just* is the learner's judgment to defend (philosophy §5).
+**Tone.** Steady and fair — trace outcomes, don't grade answers.
+
+**The facts to land.**
+
+1. Three response families: **talk/listen/repair** (restorative — S-022, S-161),
+   **avoidance** (peace but no repair), and **escalation** (force that deepens harm).
+2. Sometimes walking away keeps people safe even though harm goes unaddressed; sometimes
+   force is what people resort to when no one will listen. Trace the outcomes honestly.
+3. Feelings — anger, fear, hurt — are part of conflict; naming them before choosing is
+   part of good judgment (S-001).
+
+**Don't overshoot.** Do not present the three as a moral ladder with one obviously right
+rung (`philosophy` §11).
+
+**The lenses, briefly.**
+
+- *Ethics:* the standard is a reasoned choice; the deeper aim is that harm is named and
+  repaired, not that someone "wins."
+- *Social-emotional:* naming the feeling lowers its heat.
+- *Community:* conflicts live in real places and relationships, not in the abstract.
+- *Egalitarianism:* ask whose voice is heard and whose is not — restorative practice only
+  works if the less powerful are genuinely heard.
+
+**The skill.** Use a case, not a real conflict among the learners, and remind them that
+naming a response is not the same as acting on it (`facilitation.md`).
+
+**Evidence and values.** *What each response does* is a fact to trace; *which is most
+just* is the learner's judgment to defend (`philosophy` §5).
 
 ## Procedure
 

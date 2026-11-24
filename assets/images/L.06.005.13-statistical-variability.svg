@@ -4,49 +4,49 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="33.6" text-anchor="middle" font-family="sans-serif" font-size="18.3" font-weight="bold" fill="#2b3a42">Statistical Variability: Center, Spread, and Shape</text>
-  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="13.3" fill="#4f6d7a">data varies — we describe it by its center, its spread, and its shape</text>
+  <text x="256" y="33.6" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Statistical Variability: Center, Spread, and Shape</text>
+  <text x="256" y="58" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">data varies — we describe it by its center, its spread, and its shape</text>
 
-  <g transform="translate(40, 90)">
+  <g>
     <!-- axis -->
-    <line x1="0" y1="0" x2="0" y2="230" stroke="#2b3a42" stroke-width="3"/>
-    <line x1="0" y1="230" x2="440" y2="230" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="40" y1="90" x2="40" y2="320" stroke="#2b3a42" stroke-width="3"/>
+    <line x1="40" y1="320" x2="480" y2="320" stroke="#2b3a42" stroke-width="3"/>
 
     <!-- values -->
-    <text x="0" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">0</text>
-    <text x="60" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">1</text>
-    <text x="120" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">2</text>
-    <text x="180" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">3</text>
-    <text x="240" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">4</text>
-    <text x="300" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">5</text>
-    <text x="360" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">6</text>
-    <text x="420" y="252" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">7</text>
-    <text x="220" y="282" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">rainfall (mm per day)</text>
+    <text x="40" y="342" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">0</text>
+    <text x="100" y="342" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">1</text>
+    <text x="160" y="342" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">2</text>
+    <text x="220" y="342" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">3</text>
+    <text x="280" y="342" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">4</text>
+    <text x="340" y="342" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">5</text>
+    <text x="400" y="342" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">6</text>
+    <text x="460" y="342" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">7</text>
+    <text x="260" y="372" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">rainfall (mm per day)</text>
 
     <!-- dots -->
     <g fill="#2b3a42">
-      <circle cx="0" cy="220" r="6"/>
-      <circle cx="60" cy="220" r="6"/><circle cx="60" cy="204" r="6"/>
-      <circle cx="120" cy="220" r="6"/><circle cx="120" cy="204" r="6"/><circle cx="120" cy="188" r="6"/>
-      <circle cx="180" cy="220" r="6"/><circle cx="180" cy="204" r="6"/><circle cx="180" cy="188" r="6"/><circle cx="180" cy="172" r="6"/>
-      <circle cx="240" cy="220" r="6"/><circle cx="240" cy="204" r="6"/><circle cx="240" cy="188" r="6"/>
-      <circle cx="300" cy="220" r="6"/><circle cx="300" cy="204" r="6"/>
-      <circle cx="360" cy="220" r="6"/>
+      <circle cx="40" cy="310" r="6"/>
+      <circle cx="100" cy="310" r="6"/><circle cx="100" cy="294" r="6"/>
+      <circle cx="160" cy="310" r="6"/><circle cx="160" cy="294" r="6"/><circle cx="160" cy="278" r="6"/>
+      <circle cx="220" cy="310" r="6"/><circle cx="220" cy="294" r="6"/><circle cx="220" cy="278" r="6"/><circle cx="220" cy="262" r="6"/>
+      <circle cx="280" cy="310" r="6"/><circle cx="280" cy="294" r="6"/><circle cx="280" cy="278" r="6"/>
+      <circle cx="340" cy="310" r="6"/><circle cx="340" cy="294" r="6"/>
+      <circle cx="400" cy="310" r="6"/>
     </g>
 
     <!-- center -->
-    <line x1="180" y1="164" x2="180" y2="228" stroke="#e0a458" stroke-width="3" stroke-dasharray="6 4"/>
-    <text x="180" y="156" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#8a5a1a">center ≈ 3</text>
+    <line x1="220" y1="254" x2="220" y2="318" stroke="#e0a458" stroke-width="3" stroke-dasharray="6 4"/>
+    <text x="220" y="246" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#8a5a1a">center ≈ 3</text>
 
     <!-- spread -->
-    <path d="M0 150 L0 140 L360 140 L360 150" fill="none" stroke="#7a9e7e" stroke-width="3"/>
-    <line x1="0" y1="140" x2="0" y2="120" stroke="#7a9e7e" stroke-width="2"/>
-    <line x1="360" y1="140" x2="360" y2="120" stroke="#7a9e7e" stroke-width="2"/>
-    <text x="180" y="112" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#436b47">spread (range): 0 to 6</text>
+    <path d="M 40 240 L 40 230 L 400 230 L 400 240" fill="none" stroke="#7a9e7e" stroke-width="3"/>
+    <line x1="40" y1="230" x2="40" y2="210" stroke="#7a9e7e" stroke-width="2"/>
+    <line x1="400" y1="230" x2="400" y2="210" stroke="#7a9e7e" stroke-width="2"/>
+    <text x="220" y="202" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#436b47">spread (range): 0 to 6</text>
   </g>
 
   <text x="256" y="392" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">shape: one peak, roughly symmetric</text>
-  <text x="256" y="414.8" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">center: where the data piles up · spread: how far it stretches · shape:</text>
+  <text x="256" y="414.8" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">center: where the data piles up · spread: how far it stretches · shape:</text>
   <text x="256" y="434.2" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">how it looks</text>
   <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">different places get very different rainfall — that difference is variability</text>
 </svg>

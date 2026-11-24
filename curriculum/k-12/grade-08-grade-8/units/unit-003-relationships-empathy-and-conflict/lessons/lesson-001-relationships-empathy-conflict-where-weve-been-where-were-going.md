@@ -133,19 +133,33 @@ belong, and how we care — alone and together.
 
 ## Facilitator note
 
-The ideas to land: **(1) this unit has four strands — Meaning in Communication, Empathy
-& Perspective, Belonging & Power, and Care & Mutual Aid — and they all meet in one aim,
-"living well together"; (2) we are building on Grade 7, not starting over; (3) wondering
-is the engine — learners begin by asking, not by being told.** Retrieval practice here
-is deliberate (spaced recall of last year's ideas — see Dunlosky et al. 2013, S-039); do
-not skip it. The ethics lens: living well together is a question of what is right toward
-others. The egalitarian lens: ask early "who is included and who is left out" — it will
-return every lesson. The global & anthropological lens: people everywhere have their own
-ways of communicating, belonging, and caring; keep the frame broad, never one region's
-default. The technology & environment lens: the screen now sits inside our
-relationships — it changes how meaning travels, and we will examine that honestly. The
-social-emotional and community lenses (D02's own) run underneath all four strands. Hold
-every wonder as valid; the goal is the asking, not the answer.
+**Tone.** Curious and welcoming — wondering is the engine.
+
+**The facts to land.**
+
+1. The unit has four strands — Meaning in Communication, Empathy & Perspective,
+   Belonging & Power, Care & Mutual Aid — meeting in one aim: living well together.
+2. We build on Grade 7, not start over.
+3. Learners begin by asking, not by being told; every wonder is valid.
+
+**Don't overshoot.** Do not teach the strands as separate subjects, or the preview as
+content to master today.
+
+**The lenses, briefly.**
+
+- *Ethics:* living well together is a question of what is right toward others.
+- *Egalitarianism:* ask early "who is included and who is left out" — it returns every
+  lesson.
+- *Global:* people everywhere have their own ways of communicating, belonging, and
+  caring; keep the frame broad, never one region's default.
+- *Technology & environment:* the screen now sits inside our relationships, changing how
+  meaning travels.
+- *Social-emotional:* relationships run on feeling as much as on words.
+- *Community:* care is practised among people, not alone.
+- *Critical-thinking:* the goal is the asking, not the answer.
+
+**The skill.** Spaced recall of last year's ideas from memory (Dunlosky et al. 2013,
+S-039); do not skip it.
 
 ## Procedure
 

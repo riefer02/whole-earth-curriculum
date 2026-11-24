@@ -54,7 +54,7 @@ context_variants:
     note: Older learners count for younger ones and compare, then younger learners tap the beat while older ones count
 assets:
   - path: assets/images/L.04.002.01-my-bodys-quiet-engine.svg
-    alt: A heart with slow, even beat dots underneath labeled "rest," beside two small circles showing a wrist and a neck with a finger marking where to feel a pulse
+    alt: "A heart joined by a dashed line to a beat track of five slow, even ticks, labelled “at rest”; below, two badges show a finger finding a pulse at the wrist and at the neck."
     kind: image
     source: original
 duration_minutes: 45

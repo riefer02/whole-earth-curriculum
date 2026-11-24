@@ -121,20 +121,36 @@ and agree on what comes next.
 
 ## Facilitator note
 
-The idea to land is that **repair is a three-step skill — an accountable apology, real
-listening, and an agreed next step — and it restores a relationship rather than only
-ending the conflict**. Use invented, safe disagreements (a forgotten promise, a borrowed
-item, an overheard remark), never a real classmate's conflict, and never require a
-learner to confess anything. Hold the global/anthropological lens honestly: present
-restorative practices, Diné peacemaking, and related traditions side by side as living
-knowledge, never as curiosities or a ranking; the "what happened / who was harmed / how
-do we make it right" questions are a modern restorative frame (Zehr; IIRP), and Diné
-hózhó is a real principle of balance — teach both with respect and invite learners to
-name repair practices from their own cultures. Model the full conversation once as a
-worked example before pairs practice (Kirschner, Sweller & Clark, 2006). Note that an
-apology is not the same as being forgiven — the other person chooses; our job is the
-honest offer and the changed next step. See `docs/facilitation.md` and
-`docs/art-style.md`.
+**Tone.** Steady. Repair is a skill, not a verdict on anyone's character.
+
+**The facts to land.**
+
+1. **Repair is three steps** — an accountable apology, real listening, and an agreed
+   next step — and it restores a relationship rather than only ending the conflict.
+2. **An apology is not the same as being forgiven.** The other person chooses; our job
+   is the honest offer and the changed next step.
+3. Use **invented, safe disagreements** (a forgotten promise, a borrowed item, an
+   overheard remark). Never use a real classmate's conflict, and never require a learner
+   to confess anything.
+4. Restorative practices, Diné peacemaking, and related traditions are living knowledge,
+   never curiosities. The "what happened / who was harmed / how do we make it right"
+   sequence is a modern restorative frame (Zehr; IIRP); Diné hózhó is a real principle
+   of balance.
+
+**Don't overshoot.** Do not stage a repair for a real hurt, or imply that apology buys
+forgiveness.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* naming the hurt is what lets it be worked with.
+- *Ethics:* accountability means naming what I did, not explaining it away.
+- *Egalitarianism:* both people get to speak, and neither is owed compliance.
+- *Global:* invite learners to name repair practices from their own cultures.
+- *Community:* repair happens among people who must live together after.
+
+**The skill.** Practice the first real sentence of each step. Model the full
+conversation once as a worked example before pairs practice (Kirschner, Sweller & Clark,
+2006). See `docs/facilitation.md` and `docs/art-style.md`.
 
 ## Procedure
 

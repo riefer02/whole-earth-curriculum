@@ -116,18 +116,36 @@ with a partner, leading and following in turn.
 
 ## Facilitator note
 
-Keep the scene simple and everyday, and never co-opt sacred or ceremonial roles from any
-culture. Use a neutral **turn marker** (a stone or cloth knot) so no single culture's
-object carries the turn. Model leading and following once — you move, a learner
-mirrors — before pairs try (Kirschner, Sweller & Clark, 2006). Emphasize that following
-is active, not passive: a good follower watches, listens, and matches. Never push a shy
-learner to perform; watching and mirroring is full participation. A learner who uses a
-wheelchair or moves with support leads and follows from where they are — a raised hand,
-a nod, a lean, and their partner mirrors it. A learner who does not speak leads with
-movement and face, and follows the same way. A learner who is blind or has low vision
-leads with voice and touch (a partner mirrors the sound or holds a hand to feel the
-move). A learner who is Deaf or hard of hearing leads and follows through visible
-movement and gesture. Celebrate both roles equally — there is no "better" part.
+**Tone.** Playful and steady. Both roles are the lesson.
+
+**The facts to land.**
+
+1. Model once — you move, a learner mirrors — before pairs try (Kirschner, Sweller &
+   Clark, 2006).
+2. **Following is active, not passive**: a good follower watches, listens, and matches.
+3. Keep the scene simple and everyday, and never co-opt sacred or ceremonial roles from
+   any culture.
+4. Use a neutral **turn marker** (a stone or cloth knot) so no single culture's object
+   carries the turn.
+
+**Don't overshoot.** Never push a shy learner to perform; watching and mirroring is full
+participation. **There is no "better" part** — leading and following are celebrated
+equally.
+
+**The lenses, briefly.**
+
+- *Ethics:* the follower's choice is respected, not overridden.
+- *Social-emotional:* leading means noticing your partner, not commanding them.
+- *Community:* the pair works because both roles are taken.
+- *Egalitarianism:* every body leads and follows in its own way.
+
+**The skill.** Lead one simple move, then follow your partner's.
+
+**Access.** Wheelchair or moves with support: lead and follow from where you are — a
+raised hand, a nod, a lean — and your partner mirrors it. Non-speaking: lead with
+movement and face, and follow the same way. Blind or low-vision: lead with voice and
+touch — a partner mirrors the sound or holds a hand to feel the move. Deaf or hard of
+hearing: lead and follow through visible movement and gesture.
 
 ## Procedure
 

@@ -114,23 +114,37 @@ destroying it.
 
 ## Facilitator note
 
-The idea to land: **ecosystem services are the benefits people receive from living
-systems — provisioning (food, water), regulating (climate, flood, disease), supporting
-(soil, nutrient cycling), and cultural (meaning, recreation) — and they are provided for
-free by biodiversity, so losing biodiversity loses the services.** The **environment**
-lens is the spine. The **egalitarian** lens: the people who depend most directly on
-these services — smallholder farmers, fishers, foragers — are often the least able to
-pay for a replacement, so their loss is a justice question (S-437). The **global** lens:
-every place has its own services (a mangrove nursery, a mountain watershed, a desert's
-shade), and no single ecosystem is the default. The **ethics** lens: treating free
-services as worthless is a moral error — they have value beyond price. The
-**technology** lens: machines can substitute for *some* services (a water-treatment
-plant for a wetland) but often at great cost and never for all — the natural version is
-often irreplaceable. Anchor the science: pollination as the transfer of pollen that
-makes seeds (S-330); soil as the living surface that supports growth (S-259); clean
-water through the water cycle and filtration (S-212). Distinguish evidence (what
-services exist) from values (what they are worth) (philosophy §5). Preview: next lesson
-asks how biodiversity underpins all of these.
+**Tone.** Concrete and unsentimental: this is unpaid work, and the bill arrives when it
+stops.
+
+**The facts to land.**
+
+1. Ecosystem services are the benefits people receive from living systems — provisioning
+   (food, water), regulating (climate, flood, disease), supporting (soil, nutrient
+   cycling), and cultural (meaning, recreation) — provided free by biodiversity, so
+   losing biodiversity loses the services.
+2. The science: pollination is the transfer of pollen that makes seeds (S-330); soil is
+   the living surface that supports growth (S-259); clean water arrives through the
+   water cycle and filtration (S-212).
+3. Those who depend most directly — smallholder farmers, fishers, foragers — are often
+   least able to pay for a replacement, so their loss is a justice question (S-437).
+
+**Don't overshoot.** Machines can substitute for *some* services at great cost, never
+for all; the natural version is often irreplaceable.
+
+**The lenses, briefly.**
+
+- *Environment:* the spine — count what nature does before it is gone.
+- *Egalitarianism:* the people closest to the service are usually furthest from a
+  substitute.
+- *Global:* a mangrove nursery, a mountain watershed, a desert's shade — no ecosystem
+  is the default.
+- *Ethics:* treating free services as worthless is a moral error, not just an
+  accounting one.
+- *Technology:* substitution is partial, costly, and sometimes impossible.
+
+**The skill.** Model once, then release (S-011): name four services from one place you
+know and say who would pay to replace them. Next lesson asks what underpins them all.
 
 ## Procedure
 

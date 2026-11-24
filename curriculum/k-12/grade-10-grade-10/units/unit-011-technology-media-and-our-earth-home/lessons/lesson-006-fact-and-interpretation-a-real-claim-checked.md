@@ -114,23 +114,36 @@ notice when someone is smuggling a conclusion inside a fact.
 
 ## Facilitator note
 
-The idea to land: **a claim often bundles a checkable fact with an interpretation — a
-meaning given to that fact — and the skill is to separate them, verify the fact, and say
-plainly where the interpretation begins.** This extends Lesson 5 from "is it true?" to
-"which part is true, and which part is a reading of the truth?" The
-**critical-thinking** lens is the spine. The **ethics** lens: honest communication names
-its interpretations instead of hiding them inside facts (S-442). The **egalitarian**
-lens: the habit of separating fact from interpretation protects ordinary people from
-being led; it is a democratic skill, not an elite one. The **global** lens: different
-media traditions blend fact and commentary differently — recognizing the blend, not
-imposing one style, is the aim. The **technology** lens: algorithmically boosted feeds
-reward strong interpretation over careful fact, which is why the split matters (S-482).
-The **environment** lens: environmental claims — a drought, a harvest, a river's
-health — are where fact and interpretation most often tangle, so the split is a form of
-care for the Earth too. Use real, hedged language and distinguish evidence from values
-(philosophy §5). Model "the evidence shows X; whether that is good or bad is a
-judgment." Preview: next lesson asks who owns the media that deliver these claims, and
-how that shapes what we even see.
+**Tone.** Precise and uncynical: facts exist, and most claims carry one.
+
+**The facts to land.**
+
+1. A claim often bundles a checkable fact with an interpretation — a meaning given to
+   that fact. The skill is to separate them, verify the fact, and say plainly where the
+   reading begins.
+2. That moves the work on from "is it true?" to "which part is true, and which part is a
+   reading of the truth?"
+3. Honest communication names its interpretations instead of hiding them inside facts
+   (S-442).
+
+**Don't overshoot.** Do not let the split slide into "it is all interpretation"; that is
+the opposite error and just as lazy.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* the spine — mark the fact, then mark the frame around it.
+- *Ethics:* naming your reading is a form of honesty.
+- *Egalitarianism:* this habit protects ordinary people from being led — a democratic
+  skill, not an elite one.
+- *Global:* media traditions blend fact and commentary differently; recognise the
+  blend rather than imposing one style.
+- *Technology:* feeds reward strong interpretation over careful fact (S-482).
+- *Environment:* a drought, a harvest, a river's health — where fact and
+  interpretation most often tangle.
+
+**The skill.** Model the sentence — "the evidence shows X; whether that is good is a
+judgment" — then release (S-011). Keep evidence apart from values (philosophy §5). Next
+lesson asks who owns the media.
 
 ## Procedure
 

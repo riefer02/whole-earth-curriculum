@@ -51,5 +51,5 @@
 
   <rect x="24" y="408" width="464" height="80" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="438" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">As paper moved, it changed: new materials, new mills,</text>
-  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#222222">and printing spread along with it — each people made it their own.</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">and printing spread along with it — each people made it their own.</text>
 </svg>

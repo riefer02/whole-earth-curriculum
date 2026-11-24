@@ -122,20 +122,36 @@ it matters.
 
 ## Facilitator note
 
-This lesson teaches the **need/want distinction** as the ground of fair sharing. Keep it
-concrete and universal: a need is something a person must have to live, grow, and take
-part; a want is something nice but not needed. Do not shame any want — wants are human
-and fine; the point is only *order* of fairness (needs before extras). This is an
-egalitarian, global claim: every person everywhere has the same basic needs, and a group
-is fair when it meets everyone's needs before some people's wants. Hold it as a question
-("which of these would life be harder without?"), and welcome learners who notice that
-not every child's needs are met — that noticing is the beginning of caring, connected to
-agency and hope ("we can help make it true"). A learner who does not speak aloud places
-a card in a circle or points; a learner who is deaf or hard of hearing follows each card
-through sign and picture; a learner who is blind or low-vision hears each card described
-and names "need" or "want" aloud; a learner with a motor difference can direct a partner
-to place the card. A learner may always pass. The goal is the learner's own
-explanation — "food is a need because without it…" — not a memorized list.
+**Tone.** Plain and unshaming — a want is human and fine.
+
+**The facts to land.**
+1. A **need** is something a person must have to live, grow, and take part; a **want**
+   is something nice but not needed.
+2. Every person everywhere has the same basic needs, and a group is fair when it meets
+   everyone's needs before some people's wants.
+3. This is an egalitarian, global claim: needs come before extras, in every place.
+
+**Don't overshoot.** Do not shame a want, and do not let "needs first" become a rule
+about who deserves less.
+
+**The lenses, briefly.**
+- *Ethics:* the order is a fairness decision.
+- *Egalitarianism:* everyone's needs before anyone's extras.
+- *Social-emotional:* a learner may always pass.
+- *Global:* same needs, met differently everywhere.
+- *Environment:* some needs come from land and water.
+- *Critical-thinking:* ask "which of these would life be harder without?"
+
+**The skill.** Say "food is a need because without it…" — the reason, not a memorised
+list.
+
+Welcome learners who notice that some children's needs are unmet; that noticing begins
+caring, and it connects to what we can do ("we can help make it true").
+
+**Access:** a learner who does not speak aloud places a card or points; a learner who is
+deaf or hard of hearing follows each card through sign and picture; a learner who is
+blind or has low vision hears each card described; a learner with a motor difference
+directs a partner.
 
 ## Procedure
 

@@ -4,7 +4,7 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24.8" font-weight="bold" fill="#2b3a42">Scaled Graphs (1 symbol = 2 children)</text>
+  <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Scaled Graphs (1 symbol = 2 children)</text>
 
   <!-- Picture graph -->
   <text x="130" y="72" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#4f6d7a">Picture graph</text>

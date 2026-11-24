@@ -109,19 +109,36 @@ matters.
 
 ## Facilitator note
 
-This lesson introduces **children's rights** gently and universally. Ground the idea in
-the United Nations Convention on the Rights of the Child, which says every child has the
-right to things like play, learning, safety, rest, and being heard — but keep it
-concrete for age 7–8: a right is something every child should be able to do or have.
-Emphasize that rights belong to *every* child everywhere — this is an egalitarian,
-global claim, not one nation's rule. Hold it as a *should* (a shared hope and agreement)
-rather than a claim that every child already has these things honored; learners may
-notice that not every child gets to play or learn, and that noticing is welcome — it is
-the beginning of caring. Do not frighten; connect any gap to agency and hope ("we can
-help make it true"). A learner who does not speak aloud points to a rights card or
-signs; a learner who is deaf or hard of hearing follows the rights through the cards and
-sign; a learner who is blind or low-vision hears each right described and names it
-aloud; a learner with a motor difference can direct a partner to act out the right. A
+**Tone.** Warm and hopeful. Introduce **children's rights** gently.
+
+**The facts to land.**
+
+1. The United Nations Convention on the Rights of the Child says every child has the
+   right to play, learning, safety, rest, and being heard.
+2. Keep it concrete for age 7–8: a right is something every child should be able to do
+   or have.
+3. Rights belong to *every* child everywhere — an egalitarian, global claim, not one
+   nation's rule.
+4. Hold it as a *should*, a shared hope and agreement, not a claim that every child
+   already has these things honoured.
+
+**Don't overshoot.** Learners may notice that not every child gets to play or learn.
+That noticing is welcome — the beginning of caring, not a reason to frighten. Connect
+any gap to agency: "we can help make it true."
+
+**The lenses, briefly.**
+
+- *Ethics:* a right is owed to a child, not earned by one.
+- *Egalitarianism:* the same rights belong to every child, everywhere.
+- *Global:* the agreement is worldwide; no country is the model.
+- *Social-emotional:* noticing an unfair gap is care.
+- *Critical-thinking:* "should" and "is" both matter.
+
+**The skill.** Name one right, then say how it reaches every child.
+
+**Access.** Non-speaking: point to a rights card or sign. Deaf or hard of hearing:
+follow the rights through the cards and sign. Blind or low-vision: hear each right
+described and name it aloud. Motor difference: direct a partner to act out the right. A
 learner may always pass.
 
 ## Procedure

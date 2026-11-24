@@ -45,7 +45,7 @@
   <text x="256" y="316" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#2b3a42">bracket, then refine</text>
   <text x="40" y="346" font-family="sans-serif" font-size="15" fill="#222222">√10 is between 3 and 4, because 9 &lt; 10 &lt; 16.</text>
   <text x="40" y="372" font-family="sans-serif" font-size="15" fill="#222222">√2 is between 1 and 2, because 1 &lt; 2 &lt; 4.</text>
-  <text x="40" y="408" font-family="sans-serif" font-size="12.7" fill="#4f6d7a">refine √2: 1.4² = 1.96 (a little low) · 1.5² = 2.25 (a little high)</text>
+  <text x="40" y="408" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">refine √2: 1.4² = 1.96 (a little low) · 1.5² = 2.25 (a little high)</text>
   <text x="40" y="432" font-family="sans-serif" font-size="14" fill="#4f6d7a">so √2 ≈ 1.4 — closer to 1.4 than to 1.5</text>
-  <text x="40" y="464" font-family="sans-serif" font-size="13.7" fill="#4f6d7a">locate it between the perfect squares, then refine by squaring</text>
+  <text x="40" y="464" font-family="sans-serif" font-size="14" fill="#4f6d7a">locate it between the perfect squares, then refine by squaring</text>
 </svg>

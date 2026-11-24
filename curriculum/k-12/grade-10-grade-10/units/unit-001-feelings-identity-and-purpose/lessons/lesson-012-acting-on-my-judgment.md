@@ -125,30 +125,37 @@ is the proof — to yourself — that you have been writing your own story all a
 
 ## Facilitator note
 
-The idea to land: **judgment is only real when it becomes action — and the unit closes
-by acting (taking a step, checking progress, seeking help on purpose) and by gathering
-the evidence into a portfolio.** This is the unit's **summative** moment: a portfolio
-that shows growth through the learner's own explanations and artifacts, not a score
-(philosophy §8; the scope's "no high-stakes tests" commitment). The science-of-learning
-through-line: spaced retrieval — gathering and re-reading one's own work across the
-unit — deepens learning (S-039).
+**Tone.** Warm and celebratory at the close: pride is the right note, and growth — not
+perfection — is the measure.
 
-Model the action-log entry once, then let learners practice (S-011). The
-**intellectual** lens: this is metacognition closed into a loop — plan, act, check,
-adjust — now performed, not just described. The **ethics** lens: acting on judgment
-includes honesty in the check — reporting what really happened, not what you wished. The
-**egalitarian** lens: a portfolio of your *own* work is the great equalizer — it
-measures growth, not rank, and every learner's gathered work is worthy of celebration.
-The **global** lens: gathering one's own work as evidence of learning is a practice with
-cousins everywhere — the apprentice's finished piece, the healer's recorded cases, the
-storyteller's remembered stories — all ways humans have long kept the proof of their
-becoming. The **technology & environment** lens: a portfolio can live on paper or on
-screen; choose the medium that serves *your* keeping and sharing, and notice that what
-we preserve — and what we let go — is itself a judgment. The **social-emotional** lens:
-this is a moment of pride and sometimes of uncertainty ("is this enough?"). The answer
-is yes: growth, not perfection, is the measure, and every artifact here is evidence of a
-person authoring their own life. Celebrate each learner, not by ranking, but by honoring
-the work.
+**The facts to land.**
+
+1. Judgment becomes real in action: take a step, check progress, seek help on purpose.
+2. Gather the evidence into a portfolio — the unit's **summative** moment, showing
+   growth through the learner's own explanations, not a score (philosophy §8; no
+   high-stakes tests).
+3. Spaced retrieval — gathering and re-reading one's own work across the unit — deepens
+   learning (S-039).
+
+**Don't overshoot.** Don't grade the portfolio or rank the artifacts; every learner's
+gathered work is worthy of celebration.
+
+**The lenses, briefly.**
+
+- *Intellectual:* the metacognitive loop — plan, act, check, adjust — performed, not
+  just described.
+- *Ethics:* honesty in the check; report what really happened, not what you wished.
+- *Egalitarianism:* a portfolio of your own work measures growth, not rank — the great
+  equaliser.
+- *Global:* keeping proof of one's becoming has cousins everywhere — the apprentice's
+  finished piece, the healer's recorded cases, the storyteller's remembered stories.
+- **Technology & environment:** paper or screen both serve; what we preserve, and what
+  we let go, is itself a judgment.
+- *Social-emotional:* pride, and sometimes "is this enough?" — yes; growth is the
+  measure.
+
+**The skill.** Model the action-log entry once, then release (S-011): one step, one
+check, one artifact kept.
 
 ## Procedure
 

@@ -120,20 +120,33 @@ whether a medicine actually works.
 
 ## Facilitator note
 
-The idea to land is precise: **correlation (two things move together) is not causation
-(one makes the other happen), because a third variable may cause both.** Because this is
-a foundational reasoning skill, use explicit instruction and a worked example first
-(Kirschner, Sweller & Clark, 2006): model the ice-cream-and-drowning example aloud, then
-guide one more before independent sorting. Watch for the common slip of assuming "they
-happen together, so one must cause the other." The distinction between correlation and
-causation is a foundational principle of statistics and scientific reasoning, taught
-across the world's science curricula; the "spurious correlation" idea (a shared third
-cause) is its heart. The ethical and egalitarian lenses (`docs/philosophy.md` §4):
-confusing correlation with causation is how people get blamed unfairly — a neighborhood
-blamed for a trend it did not cause, a group blamed for an outcome driven by poverty or
-history. Questioning the pattern is a tool of fairness. The global lens: the ice-cream
-example works because hot weather is universal, but adapt it — in some places it is
-mango season, monsoon, or a festival, not ice cream, that marks the "third variable."
+**Tone.** Curious and unhurried. The question is not "is it true?" but "what else could
+be going on?"
+
+**The facts to land.**
+
+1. **Correlation** means two things move together; **causation** means one makes the
+   other happen.
+2. Correlation is not causation, **because a third variable may cause both**.
+3. The habit: name the pattern, then ask where a third cause could be hiding.
+
+**Don't overshoot.** Do not conclude "so nothing is ever caused by anything." The point
+is that a pattern is a clue, not a verdict.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* a shared third cause ("spurious correlation") is the heart of
+  this.
+- *Ethics:* confusing the two gets people blamed unfairly — a neighbourhood blamed for a
+  trend it did not cause.
+- *Egalitarianism:* a group blamed for an outcome driven by poverty or history
+  (`docs/philosophy.md` §4). Questioning the pattern is a tool of fairness.
+- *Global:* adapt the example to where you teach — mango season, monsoon, or a festival
+  may mark the hidden variable, not ice cream.
+
+**The skill.** Foundational: instruct explicitly and model the ice-cream-and-drowning
+example aloud, then guide one more before independent sorting (Kirschner, Sweller &
+Clark, 2006). The slip to watch is "they happen together, so one must cause the other."
 
 ## Procedure
 

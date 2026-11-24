@@ -61,5 +61,5 @@
   <line x1="352" y1="413" x2="260" y2="413" stroke="#4f6d7a" stroke-width="2"/>
   <line x1="196" y1="413" x2="184" y2="413" stroke="#4f6d7a" stroke-width="2"/>
 
-  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="13.1" fill="#222222">Fair groups decide with many voices — unfair decisions can be changed.</text>
+  <text x="256" y="478" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">Fair groups decide with many voices — unfair decisions can be changed.</text>
 </svg>

@@ -121,21 +121,34 @@ tasks fairly, with every voice heard.
 
 ## Facilitator note
 
-This lesson teaches **fair task division and listening** — the planning half of the
-shared-project standard. Model the move first as a worked example: name a project, list
-its tasks, and show how to offer tasks and hear each person ("What would you like to do?
-What can you do well?") before writing a name by each task. The core fairness test is
-**listening**: every person is asked, every voice counts, and the load is shared — not
-the quickest or loudest person deciding. Keep projects small and blame-free; the goal is
-the *process*, not a perfect product. Emphasize that fair does not mean "everyone does
-exactly the same amount" — it means each person contributes in a way that fits them, and
-no one is left out or overloaded. A learner who does not speak aloud points to a task or
-passes the stone to signal their turn is done; a learner who is deaf or hard of hearing
-follows the plan through the sheet and sign; a learner who is blind or low-vision hears
-the task list read and chooses aloud; a learner with a motor difference can be the
-scribe's director or the checker. A learner may always pass or take a small, quiet task.
-The aim is a group that can say, in its own way, "we planned this together, every voice
-was heard, and the tasks are fairly shared."
+**Tone.** Practical and inclusive — the process is the lesson.
+
+**The facts to land.**
+1. Fair task division begins with asking: every person is asked, every voice counts, and
+   the load is shared — the quickest or loudest person does not decide.
+2. The move: name a project, list its tasks, offer tasks and hear each person — "What
+   would you like to do? What can you do well?" — then write a name by each task.
+3. Fair does not mean "everyone does exactly the same amount": each person contributes
+   in a way that fits them, and no one is left out or overloaded.
+
+**Don't overshoot.** Keep projects small and blame-free; a perfect product is not the
+goal.
+
+**The lenses, briefly.**
+- *Ethics:* asking comes before assigning.
+- *Egalitarianism:* every voice counts, not every loud voice.
+- *Community:* the plan belongs to the group.
+- *Social-emotional:* a learner may pass or take a small, quiet task.
+- *Critical-thinking:* is the load shared?
+
+**The skill.** Ask each person, then write the plan together.
+
+Model the move first as a worked example.
+
+**Access:** a learner who does not speak points to a task or passes the stone to end
+their turn; a learner who is deaf or hard of hearing follows the sheet and sign; a
+learner who is blind or has low vision hears the task list read and chooses aloud; a
+learner with a motor difference can be the scribe's director or the checker.
 
 ## Procedure
 

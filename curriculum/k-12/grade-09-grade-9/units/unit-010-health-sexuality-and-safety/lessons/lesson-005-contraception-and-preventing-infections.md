@@ -116,34 +116,39 @@ decisions about your own body are yours, and informed.
 
 ## Facilitator note
 
-The concept to land: **the main approaches to contraception are barrier methods (like
-condoms), hormonal methods (pill, patch, ring, injection, implant), the IUD, and
-emergency contraception — and condoms are the only method that also helps protect
-against many sexually transmitted infections (STIs), which is why "dual protection"
-(condoms plus another method) is the standard advice for anyone wanting both pregnancy
-prevention and infection protection.** This is foundational knowledge, so use explicit
-instruction with the worked example of the comparison chart (S-011). Accurate,
-appropriately hedged facts to teach: condoms (external and internal) are barriers that
-also reduce the risk of many STIs; hormonal methods prevent ovulation and are highly
-effective for pregnancy but do **not** protect against infections; the IUD (copper or
-hormonal) is a long-acting, very effective method; emergency contraception can reduce
-the chance of pregnancy after unprotected sex but is for emergencies, not routine use;
-**STIs** are infections caused by bacteria, viruses, or parasites that can pass during
-sex — some are curable with medicine (like chlamydia, gonorrhea, and syphilis), some are
-manageable with treatment (like HIV), and many can be present **without symptoms**,
-which is why **testing** matters and why **vaccines** (for HPV and hepatitis B) are part
-of prevention (WHO family planning, S-453; WHO STIs, S-454). The ethics lens: accurate
-information is what makes a person's consent and choices truly free — withholding or
-distorting it is a form of harm. The egalitarian lens: **contraception and infection
-prevention are for everyone, every gender and orientation; there is no shame in using
-them and no hierarchy among people who do or do not.** The global lens: access to
-contraception is deeply unequal around the world — many people cannot get the methods
-others take for granted — and widening that access is a matter of health and justice
-(WHO, S-453). The technology lens: methods are a technology of care, developed by
-science and now unevenly distributed — a fact worth noticing, not a reason to distrust
-them. Teach factually and without fear; a learner may always pass; and never pressure
-anyone to share personal choices. Distinguish the facts (what methods do) from the
-values (that everyone deserves access and no one deserves shame).
+**Tone.** Factual and unembarrassed — information, not judgement.
+
+**The facts to land.**
+
+1. **Barrier methods (condoms, external and internal)** also reduce the risk of many
+STIs.
+2. **Hormonal methods (pill, patch, ring, injection, implant)** prevent ovulation, work
+well for pregnancy, and give no STI protection.
+3. **The IUD** (copper or hormonal) is long-acting and very effective.
+4. **Emergency contraception** reduces the chance of pregnancy after unprotected sex —
+for emergencies, not routine.
+5. **STIs** — bacteria, viruses, or parasites passed during sex: some curable
+(chlamydia, gonorrhea, syphilis), some manageable (HIV), many **symptomless**, so
+**testing** matters and **vaccines** (HPV, hepatitis B) prevent some (S-453, S-454).
+
+**Don't overshoot.** "Dual protection" — condoms plus another method — is the standard
+advice for anyone wanting both pregnancy and infection protection.
+
+**The lenses, briefly.**
+
+- *Ethics:* accurate information makes consent and choices truly free; withholding or
+distorting it is harm.
+- *Egalitarianism:* contraception and infection prevention are for every gender and
+orientation; no shame in using them, no hierarchy among those who do or do not.
+- *Global:* access is deeply unequal — many cannot get the methods others take for
+granted — and widening it is health and justice (WHO, S-453).
+- *Technology:* methods are a technology of care, unevenly distributed — a fact to
+notice, not a reason to distrust them.
+- *Critical-thinking:* separate the facts (what methods do) from the values (that
+everyone deserves access, and no one deserves shame).
+
+**The skill.** Explicit instruction with the comparison-chart worked example (S-011). A
+learner may always pass; never pressure anyone to share personal choices.
 
 ## Procedure
 

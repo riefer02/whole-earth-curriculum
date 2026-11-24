@@ -111,27 +111,38 @@ ones yourself.
 
 ## Facilitator note
 
-The skill to land: **prove and apply the key theorems — vertical angles are equal; when
-a transversal crosses parallel lines, alternate interior angles are equal; the three
-angles of a triangle sum to 180°; and (by a diagonal and congruent triangles) opposite
-sides of a parallelogram are equal.** Use a **worked example first, then guided
-practice** (S-011): model a two-column proof that alternate interior angles are equal
-(using vertical angles and corresponding angles), then the triangle-sum theorem (using a
-line drawn parallel to one side). The critical-thinking lens: a theorem is not "what the
-book says" — it is a conclusion that follows from reasons, and anyone can check each
-step. The global lens: the angle-sum fact was known across traditions — Euclid's
-*Elements* organized such proofs in the Greek world, while Indian *Sulba Sutra* texts,
-the Chinese *Nine Chapters on the Mathematical Art*, and Egyptian builders used the same
-geometry in altar-building and land surveying (S-429, S-434). The egalitarian lens: a
-proof is a shared, checkable argument that belongs to no one's authority — "believe me"
-is replaced by "check this step." The ethics lens: a theorem is true because it is
-proved, not because a person or a book says so — proof is how a claim earns our trust,
-and honesty means checking each step rather than accepting it (philosophy §5). The
-technology & environment lens: bridges, roofs, and towers are built on these proved
-facts — a truss or a frame holds because the theorems hold, and a structure that fails
-is a reminder of why proof matters for real lives and safe buildings. Emphasize the
-two-column format as scaffolding, not a cage; a proof can also be written as a clear
-paragraph.
+**Tone.** Steady — every claim earns its place by a reason.
+
+**The facts to land.**
+
+1. **Vertical angles are equal;** when a transversal crosses parallel lines, **alternate
+interior angles are equal**.
+2. **The three angles of a triangle sum to 180°.**
+3. **A diagonal splits a parallelogram into congruent triangles,** so opposite sides are
+equal.
+4. **Worked proof:** two-column proof that alternate interior angles are equal (using
+vertical and corresponding angles), then the triangle-sum theorem (using a line drawn
+parallel to one side).
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* a theorem is not "what the book says" — it is a conclusion that
+follows from reasons anyone can check.
+- *Global:* the angle-sum fact was known across traditions — Euclid's *Elements*
+organized such proofs in the Greek world, while Indian *Sulba Sutra* texts, the Chinese
+*Nine Chapters on the Mathematical Art*, and Egyptian builders used the same geometry in
+altars and land surveying (S-429, S-434).
+- *Egalitarianism:* a proof belongs to no one's authority — "believe me" is replaced by
+"check this step."
+- *Ethics:* a theorem is true because it is proved, not because a person or book says
+so (philosophy §5).
+- *Technology:* bridges, roofs, and towers are built on these proved facts — a truss
+holds because the theorems hold.
+- *Environment:* a structure that fails is a reminder of why proof matters for real
+lives and safe buildings.
+
+**The skill.** **Worked example first, then guided practice** (S-011). Two columns are
+scaffolding, not a cage — a proof can also be a clear paragraph.
 
 ## Procedure
 

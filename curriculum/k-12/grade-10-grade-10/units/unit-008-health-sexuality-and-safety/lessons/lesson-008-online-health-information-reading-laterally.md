@@ -109,30 +109,35 @@ reading** — is how fact-checkers separate signal from noise.
 
 ## Facilitator note
 
-**Land the four moves** (lateral reading; the verification habit documented by First
-Draft, S-394, and framed for learners by Common Sense, S-063): **(1) Stop** — pause
-before believing or sharing; **(2) Investigate the source** — open a new tab and find
-out who is actually behind the page (not what the page says about itself); **(3) Find
-better coverage** — see whether trustworthy sources report the same thing; **(4) Trace
-claims** — click through to the original study or quote rather than trusting the
-summary. A memory aid calls these **SIFT** (Stop, Investigate, Find, Trace). **Red
-flags:** miracle cures, fear and urgency, no author or date, anonymous sources, "doctors
-hate this," a page that is really an ad (sponsored content), and claims that only one
-site makes.
+**Tone.** Brisk: protection through skill, not fear of the internet.
 
-**Sensitive-topic guidance:** some health misinformation targets sexual health and
-bodies; keep examples non-graphic, treat claims as material to *verify* (never to try),
-and let learners **opt out**. If a claim raises a real concern, respond privately and
-follow your safeguarding procedure to a **trusted adult or health service**. The point
-is protection through skill, not fear of the internet.
+**The facts to land.**
 
-The **ethics** lens: sharing only what you have checked is a form of honesty to everyone
-who trusts your feed. The **egalitarian** lens: misinformation spreads fastest where
-trust in institutions is lowest — checking is a skill that protects the most vulnerable
-first. The **global** lens: the same false health claim can be translated and re-posted
-across countries; the moves work in any language. The **technology** lens:
-recommendation feeds rank by engagement, not accuracy, so a compelling falsehood can
-out-travel a dull truth — exactly why *we* must be the filter.
+1. Four moves (First Draft, S-394; framed for learners by Common Sense, S-063):
+   **Stop**; **Investigate the source** in a new tab, asking who is behind the page
+   rather than what it says about itself; **Find better coverage**; **Trace claims** to
+   the original study or quote. The aid is **SIFT**.
+2. **Red flags:** miracle cures, fear and urgency, no author or date, anonymous sources,
+   "doctors hate this", a page that is really an ad, and claims only one site makes.
+3. The moves work in any language.
+
+**The lenses, briefly.**
+
+- *Ethics:* sharing only what you checked is honesty to everyone who trusts your feed.
+- *Egalitarianism:* misinformation spreads fastest where trust in institutions is lowest;
+  checking protects the most vulnerable first.
+- *Global:* the same false claim is translated and reposted across countries.
+- *Technology:* feeds rank by engagement, not accuracy, so a compelling falsehood
+  out-travels a dull truth — we must be the filter.
+- *Critical-thinking:* the spine — leave the page before judging the page.
+
+**Safeguarding.** Some misinformation targets sexual health and bodies: keep examples
+non-graphic, treat claims only as material to verify, and let learners opt out. If a
+claim raises a real concern, respond privately and follow safeguarding to a trusted
+adult or health service.
+
+**The skill.** Model once, then release (S-011): SIFT one real health claim out loud,
+naming each move.
 
 ## Procedure
 

@@ -118,20 +118,35 @@ dinosaurs, ice ages, and life far older than any human.
 
 ## Facilitator note
 
-The ideas to land: **(1) in undisturbed rock, deeper layers are older (superposition);
-(2) fossils in those layers tell us what lived then; (3) ice cores record past air, year
-by year; and (4) all together they reveal deep time — an Earth about 4.6 billion years
-old.** Use explicit instruction with the layer-stack worked example first, then hands-on
-building (Kirschner, Sweller & Clark, 2006). The superposition principle, the fossil
-record, and ice-core science (e.g., the Vostok and Greenland cores) are established
-geology, summarized by the USGS and IPCC. Critically, hold origins as the Overview
-directs: these are **models with evidence**, held as inquiry *alongside* other ways of
-knowing, never as creed (`docs/philosophy.md` §11). Different peoples hold different
-stories of how the world and life began; this lesson teaches how scientists read
-*evidence*, not what anyone *must* believe. The global lens: every culture has looked at
-fossils (found shells on mountaintops, bones in the earth) and wondered; science gives
-one rigorous way to read them. The environment lens: deep time gives perspective on how
-slowly — and how fast — Earth can change, which matters for how we care for it now.
+**Tone.** Awed and careful. These are models with evidence, held as inquiry.
+
+**The facts to land.**
+
+1. In undisturbed rock, **deeper layers are older** (superposition).
+2. **Fossils** in those layers tell us what lived then.
+3. **Ice cores** record past air, year by year.
+4. Together they reveal **deep time** — an Earth about 4.6 billion years old.
+
+**Don't overshoot.** Do not present the dates as a creed, or as a scoreboard against
+other stories. The superposition principle, the fossil record, and ice-core science
+(Vostok, Greenland) are established geology, summarized by the USGS and IPCC.
+
+**The lenses, briefly.**
+
+- *Intellectual:* three independent kinds of evidence, read the same way.
+- *Ethics:* teaching how scientists read evidence is not telling anyone what to believe;
+  honesty about what the evidence shows is the ethical line.
+- *Global:* every culture has looked at fossils — shells on mountaintops, bones in the
+  earth — and wondered; science is one rigorous way to read them.
+- *Environment:* deep time gives perspective on how slowly, and how fast, Earth can
+  change — which matters for how we care for it now.
+
+Different peoples hold different stories of how the world and life began. Hold origins
+as the Overview directs: models with evidence, alongside other ways of knowing, never as
+creed (`docs/philosophy.md` §11).
+
+**The skill.** Instruct explicitly with the layer-stack worked example, then build and
+order hands-on (Kirschner, Sweller & Clark, 2006).
 
 ## Procedure
 

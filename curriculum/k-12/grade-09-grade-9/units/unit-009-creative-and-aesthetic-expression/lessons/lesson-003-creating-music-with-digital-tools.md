@@ -115,17 +115,29 @@ one-person band and hear how the tool changes what music can be.
 
 ## Facilitator note
 
-The goal is one short piece (30–60 seconds) plus a reflection, not virtuosity. Keep tools free so no
-learner is left out (the **egalitarian** lens): BandLab runs in a browser and Audacity is a free,
-open-source recorder/editor (S-443, S-444). The **worked example** matters here — building a track is
-a new skill, so model the exact steps (choose loop → add melody → add track → add effect) before
-independent work (S-011). The **technology** lens is the heart: ask *what did the tool let you do that
-a live body could not* (loop forever, undo, quantize to a perfect grid, stretch a note) *and what did
-it take away* (breath, the wobble of a real hand, the room's echo). The **ethics** lens: if learners
-borrow a loop or sample, credit its creator and respect its license — sampling with credit is a
-tradition; sampling without credit is taking. The **global** lens: invite learners to begin from any
-rhythm or scale they know — a djembe pattern, a salsa clave, a hip-hop break — as a respectful
-starting point, not a costume.
+**Tone.** Playful and unpressured — one short piece, not virtuosity.
+
+**The facts to land.**
+
+1. **The goal is a piece of 30–60 seconds plus a reflection.**
+2. **Keep tools free so no learner is left out:** BandLab runs in a browser, and
+Audacity is a free, open-source recorder and editor (S-443, S-444).
+3. **Worked model of the steps:** choose loop → add melody → add track → add effect
+(S-011).
+
+**The lenses, briefly.**
+
+- *Technology:* ask *what the tool let you do that a live body could not* — loop
+forever, undo, quantize to a perfect grid, stretch a note — *and what it took away*:
+breath, the wobble of a real hand, the room's echo.
+- *Ethics:* if learners borrow a loop or sample, credit its creator and respect its
+licence — sampling with credit is a tradition; sampling without credit is taking.
+- *Global:* begin from any rhythm or scale they know — a djembe pattern, a salsa
+clave, a hip-hop break — as a respectful starting point, not a costume.
+- *Egalitarianism:* free tools mean nobody watches from the doorway.
+
+**The skill.** **Worked example first** (S-011): model the exact steps before
+independent work.
 
 ## Procedure
 

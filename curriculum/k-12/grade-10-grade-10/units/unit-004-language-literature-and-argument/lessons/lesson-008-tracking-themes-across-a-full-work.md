@@ -122,31 +122,36 @@ is the same: notice what returns, and watch it change.
 
 ## Facilitator note
 
-The idea to land: **a theme is a recurring idea that a long work returns to and
-develops; tracking it means logging each recurrence and noting how it grows — so the
-reader ends with evidence, not a vague feeling.** This is the unit's sustained reading
-thread (Lessons 8–10): the learner carries one work the whole way. The work is *chosen,
-not imposed* — a novel, memoir, long essay, epic, or book-length informational text
-available in the learner's context and home language. Global range is essential: works
-such as Chinua Achebe's *Things Fall Apart*, Marjane Satrapi's *Persepolis*, a Sundiata
-epic retelling, Nnedi Okorafor's fiction, a collection of Rumi or a contemporary poet, a
-long-form essay or scientific argument — the point is a *full, complex work*, not one
-canon. Multilingual learners may read in their home language first (S-019); that is
-wealth, not a shortcut.
+**Tone.** Patient and companionable: the teacher is reading alongside, not testing
+recall.
 
-Model the skill once, then let learners practice (worked example → guided practice →
-independent work; S-011). Reading fluency and comprehension grow with the volume of
-sustained reading and with question-driven tracking; the journal is the *evidence* of
-that growth (S-040). The **intellectual** lens is the spine: the theme log is a small,
-honest act of scholarship — notice, record, compare. The **global** lens: the works
-learners choose should span many traditions, and learners may bring the epics and
-stories of their own heritage. The **ethics** lens: themes are often moral questions —
-what a work asks about loyalty, justice, or care — and tracking them is how a reader
-thinks *with* a book rather than just about it. The **egalitarian** lens: every learner
-reads a work at their own level in their own language, and no reader is "behind" for
-needing audio, translation, or a shorter work. The **social-emotional** lens: long works
-can stir real feeling — make room for it, and for the learner who needs to step back.
-Preview: Lesson 9 tracks a second thread — *argument* — through the same work.
+**The facts to land.**
+
+1. A theme is a recurring idea that a long work returns to and develops; tracking it
+   means logging each recurrence and noting how it grows, so the reader ends with
+   evidence rather than a vague feeling.
+2. This is the unit's sustained reading thread (Lessons 8–10); the work is *chosen, not
+   imposed* — a novel, memoir, long essay, epic, or book-length informational text in
+   the learner's context and home language. Achebe, Satrapi, a Sundiata retelling, Rumi,
+   a scientific argument: range matters, not a canon.
+3. Fluency and comprehension grow with the volume of sustained, question-driven reading;
+   the journal is its evidence (S-040). Multilingual learners may read in their home
+   language first (S-019): wealth, not a shortcut.
+
+**Don't overshoot.** One list of "good books" is not the point; a full work chosen by
+the learner is.
+
+**The lenses, briefly.**
+
+- *Intellectual:* the theme log is small, honest scholarship: notice, record, compare.
+- *Global:* works should span traditions, and learners may bring the epics of their
+  own heritage.
+- *Ethics:* themes are moral questions, and tracking them is thinking *with* a book.
+- *Egalitarianism:* no reader is "behind" for needing audio, translation, or a shorter
+  work.
+- *Social-emotional:* long works stir real feeling — make room, and room to step back.
+
+**The skill.** Model once, then release (S-011): log three recurrences of one theme and how it changed. Lesson 9 tracks a second thread, argument.
 
 ## Procedure
 

@@ -27,14 +27,14 @@
     <circle cx="256" cy="112" r="31"/>
     <rect x="248" y="138" width="16" height="22" rx="6"/>
     <rect x="214" y="156" width="84" height="176" rx="34"/>
-    <line x1="219" y1="178" x2="203" y2="304" stroke="#d9e3e9" stroke-width="21"
-          stroke-linecap="round"/>
-    <line x1="293" y1="178" x2="309" y2="304" stroke="#d9e3e9" stroke-width="21"
-          stroke-linecap="round"/>
-    <line x1="234" y1="326" x2="228" y2="420" stroke="#d9e3e9" stroke-width="28"
-          stroke-linecap="round"/>
-    <line x1="278" y1="326" x2="284" y2="420" stroke="#d9e3e9" stroke-width="28"
-          stroke-linecap="round"/>
+    <path d="M 219 178 L 203 304" stroke="#d9e3e9" stroke-width="21"
+          stroke-linecap="round" fill="none"/>
+    <path d="M 293 178 L 309 304" stroke="#d9e3e9" stroke-width="21"
+          stroke-linecap="round" fill="none"/>
+    <path d="M 234 326 L 228 420" stroke="#d9e3e9" stroke-width="28"
+          stroke-linecap="round" fill="none"/>
+    <path d="M 278 326 L 284 420" stroke="#d9e3e9" stroke-width="28"
+          stroke-linecap="round" fill="none"/>
     <ellipse cx="224" cy="426" rx="15" ry="7"/>
     <ellipse cx="288" cy="426" rx="15" ry="7"/>
   </g>

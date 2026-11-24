@@ -113,26 +113,39 @@ part in what you feel.
 
 ## Facilitator note
 
-It shifts from *naming* a feeling to *analyzing its causes* — the second
-emotional-literacy goal (D01.S1.09.02). The core ideas to teach: **(1) social
-context** — the same event evokes different feelings in different settings (a mistake
-among friends versus among strangers); **(2) group belonging** — people are deeply
-sensitive to being inside or outside a group, and this shapes emotion strongly (Tajfel's
-minimal-group work showed how readily people favor their in-group; S-232); **(3) display
-rules** — cultures and groups differ in which feelings are shown, hidden, or valued
-(Ekman & Friesen's account of nonverbal display; S-160). Hold these as **descriptive
-observations, not as "you are a slave to your group."** The critical point for agency:
-noticing the pull of context is what lets a person choose a response instead of being
-carried by it — a feeling can be real *and* partly situational at the same time. The
-**global** lens is central here: invite learners to compare, without ranking, how
-different cultures and groups shape emotional life — which feelings are welcomed in a
-funeral, a celebration, a classroom, a market. The **egalitarian** lens: belonging is
-not equally available to everyone — some people are excluded from groups by prejudice or
-circumstance, and that exclusion is itself a source of feeling that society, not the
-individual, created. Be careful and kind: no learner should be asked to confess feelings
-of exclusion; keep examples invented or optional. Never claim a learner's feeling is
-"not real" because it is shaped by context — the lesson is that context *adds* to
-feeling, not that feeling is fake.
+**Tone.** Analytical but gentle — the lesson shifts from *naming* a feeling to
+*analyzing its causes* (D01.S1.09.02).
+
+**The facts to land.**
+
+1. **Social context** — the same event evokes different feelings in different settings
+(a mistake among friends versus among strangers).
+2. **Group belonging** — people are deeply sensitive to being inside or outside a group,
+and this shapes emotion strongly; Tajfel's minimal-group work showed how readily people
+favour their in-group (S-232).
+3. **Display rules** — cultures and groups differ in which feelings are shown, hidden,
+or valued (Ekman & Friesen's account of nonverbal display; S-160).
+
+**Don't overshoot.** These are **descriptive observations, not "you are a slave to your
+group."** A feeling can be real *and* partly situational at once; context *adds* to
+feeling, it does not make it fake.
+
+**The lenses, briefly.**
+
+- *Global:* compare, without ranking, how different cultures and groups shape
+emotional life — which feelings are welcomed at a funeral, a celebration, a classroom, a
+market.
+- *Social-emotional:* the same event lands differently among friends than among
+strangers — naming that difference is the skill.
+- *Egalitarianism:* belonging is not equally available to everyone; some people are
+excluded by prejudice or circumstance, and that exclusion is a source of feeling society
+created, not the individual.
+
+**The skill.** Noticing the pull of context is what lets a person choose a response
+instead of being carried by it.
+
+**Safety floor.** No learner should be asked to confess feelings of exclusion; keep
+examples invented or optional.
 
 ## Procedure
 

@@ -118,20 +118,35 @@ a cook does, choosing foods from several different groups.
 
 ## Facilitator note
 
-**Model first, then release.** Show one complete worked example step by step — "I choose
-rice for grains, greens and a mango for vegetables and fruit, beans for protein, and
-water to drink" — then build one together, and only then let learners build their own.
-This is explicit instruction for a new skill, the way the evidence says novices learn
-best (Kirschner, Sweller & Clark, 2006). **No food shaming, ever:** a balanced meal can
-look many ways, and "several groups" is a gentle aim, never a rule that ranks any meal
-or family. Do not comment on how much a learner eats or tie food to body size. Honor
-vegetarian and other ways of eating — beans, lentils, and eggs are proteins, so a meal
-needs no meat to be balanced. A learner who is blind or has low vision builds with real
-foods by touch; a learner who does not use a speaking voice builds by pointing. A
-learner who is deaf or hard of hearing follows the worked example from the front, where
-every choice is shown on the plate, not only told. The health facts are from the World
-Health Organization: eating a variety of foods from several groups each day helps bodies
-grow and stay well.
+**Tone.** Do it with them first. **No food shaming, ever.**
+
+**The facts to land.**
+
+1. **Model first, then release**: show one complete plate step by step — "rice for
+   grains, greens and mango for vegetables and fruit, beans for protein, water to drink"
+   — build one together, then let learners build their own. That is explicit instruction
+   for a new skill (Kirschner, Sweller & Clark, 2006).
+2. "Several groups" is a gentle aim, never a rule that ranks any meal or family.
+3. Honor vegetarian and other ways of eating: beans, lentils, and eggs are proteins, so
+   a meal needs no meat to be balanced.
+4. A variety of foods from several groups each day helps bodies grow and stay well
+   (World Health Organization).
+
+**Don't overshoot.** Do not comment on how much a learner eats, or tie food to body
+size.
+
+**The lenses, briefly.**
+
+- *Physical:* the groups describe what a body needs, not what it should weigh.
+- *Ethics:* naming food is not judging the eater.
+- *Egalitarianism:* a learner who builds by pointing has built the meal.
+- *Global:* every tradition builds a balanced plate from its own foods.
+
+**The skill.** Name the groups on your plate, then add what is missing.
+
+**Access.** Blind or low-vision: build with real foods by touch. Non-speaking: build by
+pointing. Deaf or hard of hearing: follow the worked example from the front, where every
+choice is shown on the plate, not only told.
 
 ## Procedure
 

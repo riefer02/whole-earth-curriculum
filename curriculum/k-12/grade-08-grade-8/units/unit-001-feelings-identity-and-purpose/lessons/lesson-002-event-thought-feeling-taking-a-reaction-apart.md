@@ -113,21 +113,34 @@ tell them apart. Today you learn to slow the storm down and name each part.
 
 ## Facilitator note
 
-The idea to land: **a strong reaction has three parts — event, thought, feeling — and
-the thought is the hinge between the event and the feeling.** This is a *skill* for
-novices, so teach it with explicit instruction: model the frame once, out loud and step
-by step (a worked example — Kirschner, Sweller & Clark 2006, S-011), then guided
-practice before independent work. The frame draws on the ABC model of
-cognitive-behavioral approaches (activating event, beliefs, consequences — see S-332),
-used here descriptively, not therapeutically. The *ethics* lens: separating parts lets a
-learner see that a reaction is not a single fact — it is partly a *story*, and stories
-can be checked before they hurt someone. The *egalitarian* lens: no learner's feeling is
-judged "too much" or "wrong"; the point is clarity, not ranking. The *global* lens: the
-same event (spilled water, a silence, a raised voice) is read through different thoughts
-in different families and cultures, so the *same* event really can mean different things
-to different people. The *critical-thinking* lens: the frame is a tool for questioning
-one's own first take, not for insisting on one "right" thought. Keep learners on small,
-safe reactions; never require disclosure of painful material.
+**Tone.** Calm and curious — you are teaching a tool, not diagnosing anyone.
+
+**The facts to land.**
+
+1. A strong reaction has three parts: **event, thought, feeling**.
+2. The thought is the hinge between the event and the feeling.
+3. The frame is descriptive: it borrows the ABC model (activating event, beliefs,
+   consequences — S-332) but is not therapy.
+
+**Don't overshoot.** Do not imply every thought is distorted, or that naming the parts
+makes a feeling disappear.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* the frame puts distance between a feeling and an action.
+- *Ethics:* a reaction is partly a *story*; checking the story can stop it hurting
+  someone.
+- *Egalitarianism:* no feeling is "too much" or "wrong"; the aim is clarity, not ranking.
+- *Global:* the same event — spilled water, a silence, a raised voice — is read through
+  different thoughts in different families and cultures.
+- *Critical-thinking:* the frame questions your own first take; it does not insist on
+  one "right" thought.
+
+**The skill.** Model the frame once, out loud and step by step (worked example —
+Kirschner, Sweller & Clark 2006, S-011), then guide practice before independent work.
+
+**Safety floor.** Keep examples small and safe; never require disclosure of painful
+material.
 
 ## Procedure
 

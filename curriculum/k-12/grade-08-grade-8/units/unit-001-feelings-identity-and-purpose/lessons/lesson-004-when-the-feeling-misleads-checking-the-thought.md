@@ -113,23 +113,39 @@ Today you learn to check the story before you believe it.
 
 ## Facilitator note
 
-The idea to land: **emotion can distort judgment, and the remedy is to check the thought
-behind the feeling.** Emotion shapes judgment in both directions — it informs and it
-biases (Lerner et al. 2015, S-333); fast, emotionally charged first reactions can be
-vivid and wrong, which is why a slower check matters (Kahneman's System 1/System 2
-distinction, S-337). Teach the check as a worked example (Kirschner, Sweller & Clark
-2006, S-011) before independent practice. The *ethics* lens: an unchecked thought can
-hurt other people — I accuse a friend of something she never did. The *egalitarian*
-lens: no learner's thought error is a character flaw; distortion is a normal human
-habit, and everyone gets to practice catching it. The *global* lens: what a silence or a
-glance "means" differs by culture, so the check question — *is this thought true and
-fair here?* — protects us from misreading people across difference. The *technology*
-lens: feeds, likes, and edited images are built to trigger exactly these distortions —
-comparison and catastrophizing — so the check is a shield against a designed pressure,
-not only against our own minds. The *critical-thinking* lens: checking a thought is
-questioning one's own first take — the same habit we apply to any claim. Keep examples
-small and safe; never require disclosure of painful material, and hold that a learner is
-never judged for a thought.
+**Tone.** Matter-of-fact and forgiving — distortion is a normal habit, not a flaw.
+
+**The facts to land.**
+
+1. Emotion shapes judgment both ways: it informs and it biases (Lerner et al. 2015,
+   S-333).
+2. Fast, emotionally charged first reactions can be vivid and wrong, which is why a
+   slower check matters (Kahneman's System 1/System 2, S-337).
+3. The remedy is to check the thought behind the feeling: *is this thought true and fair
+   here?*
+
+**Don't overshoot.** Do not teach that feelings are untrustworthy, or that every
+reaction is a distortion.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* the check is a pause between feeling and action.
+- *Ethics:* an unchecked thought can hurt someone — I accuse a friend of something she
+  never did.
+- *Egalitarianism:* a thought error is not a character flaw; everyone gets to practise
+  catching it.
+- *Global:* what a silence or a glance "means" differs by culture, so the check protects
+  us from misreading people across difference.
+- *Technology:* feeds, likes, and edited images are built to trigger comparison and
+  catastrophizing — the check is a shield against a designed pressure.
+- *Critical-thinking:* checking a thought is questioning your own first take, the same
+  habit you apply to any claim.
+
+**The skill.** Model the check once (Kirschner, Sweller & Clark 2006, S-011), then
+independent practice on small, safe examples.
+
+**Safety floor.** Never require disclosure of painful material, and never judge a
+learner for a thought.
 
 ## Procedure
 

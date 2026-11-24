@@ -117,20 +117,38 @@ you will plan one, do one, and think about what made it work.
 
 ## Facilitator note
 
-The skill to land is the **plan-do-reflect cycle applied to a real, small, doable
-collective action for the common good**. Keep the action genuinely small and completable
-within the session or one short follow-up window — the reflection matters as much as the
-deed. This is a *skill* (planning, dividing roles, following through), so model one
-worked plan briefly before teams plan their own (Kirschner, Sweller & Clark, 2006). The
-**common good** framing is a value of this curriculum (that acting for everyone's
-benefit is worth doing) — name it as a value, not a fact. Make reflection honest and
-non-judging: *what worked* and *what we would change* are information, never blame.
-Carry the **technology & environment lens** honestly: people organize and communicate to
-act together in different ways — face to face, on a shared board, or through digital
-tools — and each way shapes who can take part and how far the action reaches; the shared
-environment is itself part of the common good (a tidied space, watered plants, a cleared
-path). Name tools as helpers of people, never replacements for them. See
-`docs/facilitation.md`.
+**Tone.** Practical and generous — a small deed, honestly reflected on.
+
+**The facts to land.**
+1. The skill is the **plan-do-reflect cycle** on a small, doable collective action for
+   the common good.
+2. Keep the action completable within the session or one short follow-up; the reflection
+   matters as much as the deed.
+3. Acting for everyone's benefit is worth doing — that is a value of this curriculum,
+   named as a value, not a fact.
+4. People organize and communicate to act together in different ways — face to face, on
+   a shared board, or through digital tools — and each way shapes who can take part and
+   how far the action reaches.
+
+**Don't overshoot.** Do not turn the reflection into a verdict: *what worked* and *what
+we would change* are information, never blame. Name tools as helpers of people, never
+replacements.
+
+**The lenses, briefly.**
+- *Ethics:* the common good is a value, and we say so.
+- *Egalitarianism:* every role counts, and every way of joining in counts.
+- *Community:* the action belongs to the team.
+- *Social-emotional:* reflection is honest, never blaming.
+- *Technology:* the medium shapes who takes part.
+- *Environment:* the shared place is part of the common good (a tidied space, watered
+  plants, a cleared path).
+
+**The skill.** Plan, divide roles, act, then reflect honestly.
+
+This is a *skill*, so model one worked plan briefly before teams plan their own
+(Kirschner, Sweller & Clark, 2006).
+
+See `docs/facilitation.md`.
 
 ## Procedure
 

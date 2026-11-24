@@ -118,29 +118,35 @@ human shapes, alive on every continent under many names.
 
 ## Facilitator note
 
-The idea to land: **mutual aid is people meeting one another's needs together as
-equals — sharing both the giving and the deciding — which is what separates it from
-charity, where the giver keeps the power.** Dean Spade's *Mutual Aid* (S-345) makes this
-distinction precisely, and it is a *descriptive* distinction: saying they differ is not
-saying "charity is bad." The term "mutual aid" was popularized by Peter Kropotkin's 1902
-*Mutual Aid: A Factor of Evolution*, a collection of accounts of cooperation and
-reciprocity across human and animal societies (S-163). Named traditions of communal work
-span the world: harambee (Swahili, "all pull together," East Africa), gotong royong
-(Indonesia), mink'a/minga (the Andes), and barn raising (North America), among many
-others (S-164) — present each as one named tradition in one place, never as "all people
-there do this," and invite learners to verify local details with their own community.
+**Tone.** Plain and unsentimental about power: the difference is who decides.
 
-The **egalitarian** lens is central: who keeps the power, and who is treated as a full
-equal, is the difference between the two forms. The **ethics** lens: dignity matters as
-much as the roof. The **global/anthropological** lens: these traditions are not ranked
-against one another and not a Western export — they are living practices on every
-continent. The **technology** lens: modern mutual-aid networks often run on group
-messages and shared documents — technology can coordinate solidarity across distance, or
-it can be used to surveil and sort the "deserving" from the "undeserving." Distinguish
-evidence from values: "mutual aid traditions are widespread and documented" is
-descriptive; "sharing the deciding is a fairer way to help" is a value learners weigh.
+**The facts to land.**
 
-Model the contrast once (worked example, S-011), then let learners examine examples.
+1. Mutual aid is people meeting one another's needs together as equals — sharing both
+   the giving and the deciding — which is what separates it from charity, where the
+   giver keeps the power (S-345).
+2. The distinction is *descriptive*: saying they differ is not saying charity is bad.
+3. The term was popularised by Peter Kropotkin's 1902 *Mutual Aid: A Factor of
+   Evolution* (S-163).
+4. Named traditions span the world: harambee (Swahili, "all pull together", East
+   Africa), gotong royong (Indonesia), mink'a/minga (the Andes), barn raising (North
+   America) (S-164). Present each as one named tradition in one place, never as "all
+   people there do this", and invite learners to verify local details.
+
+**Don't overshoot.** Not a Western export, and not a universal custom either.
+
+**The lenses, briefly.**
+
+- *Community:* needs are met in relationship, by the people who share them.
+- *Egalitarianism:* who keeps the power, and who is treated as a full equal.
+- *Ethics:* dignity matters as much as the roof.
+- *Global:* living practices on every continent, held side by side, never ranked.
+- *Technology:* group messages and shared documents can coordinate solidarity across
+  distance, or sort the "deserving" from the "undeserving".
+
+**The skill.** Model the contrast once, then release (S-011): sort examples into charity
+and mutual aid, and say who decides. Keep "these traditions are widespread and
+documented" (evidence) apart from "sharing the deciding is fairer" (value).
 
 ## Procedure
 

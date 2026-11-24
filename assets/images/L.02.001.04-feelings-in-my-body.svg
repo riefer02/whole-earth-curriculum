@@ -1,75 +1,68 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-02-001-04-feelings-in-my-body desc-L-02-001-04-feelings-in-my-body">
   <title id="title-L-02-001-04-feelings-in-my-body">Where feelings live in my body</title>
-  <desc id="desc-L-02-001-04-feelings-in-my-body">A body map showing a simple child body outline with five labeled feeling spots marked by shapes. Tense shoulders (a diamond, for mad and frustrated), a fast heartbeat on the chest (a star, for scared and excited), hot cheeks (a circle, for mad), a heavy chest (a heart, for sad and disappointed), and a wobbly tummy (a triangle, for nervous). A legend on the right repeats each shape with its body spot and the feelings that live there. The body is drawn in a neutral tone, not a skin tone, so any learner can see it as their own body. Shapes and words, not color, carry the meaning so it prints clearly in grayscale.</desc>
+  <desc id="desc-L-02-001-04-feelings-in-my-body">A body map showing a calm, soft-outlined child figure with five labeled feeling spots, each joined to its words by a thin leader line. Diamonds on the shoulders are labeled tense shoulders, mad, frustrated. A star on the chest is labeled fast heartbeat, scared, excited. Round spots on the cheeks are labeled hot cheeks, mad. A heart low on the chest is labeled heavy chest, sad, disappointed. A triangle on the tummy is labeled wobbly tummy, nervous. The body is drawn in a neutral tone, not a skin tone, so any learner can see it as their own body. Shape, words, and leader lines, not color, carry the meaning so it prints clearly in grayscale.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="42" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Where Feelings Live in My Body</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Where Feelings Live in My Body</text>
 
-  <!-- ===== Body outline ===== -->
-  <!-- legs -->
-  <line x1="150" y1="318" x2="142" y2="402" stroke="#2b3a42" stroke-width="15" stroke-linecap="round"/>
-  <line x1="150" y1="318" x2="142" y2="402" stroke="#4f6d7a" stroke-width="11" stroke-linecap="round"/>
-  <line x1="182" y1="318" x2="190" y2="402" stroke="#2b3a42" stroke-width="15" stroke-linecap="round"/>
-  <line x1="182" y1="318" x2="190" y2="402" stroke="#4f6d7a" stroke-width="11" stroke-linecap="round"/>
-  <ellipse cx="140" cy="412" rx="12" ry="6" fill="#2b3a42"/>
-  <ellipse cx="192" cy="412" rx="12" ry="6" fill="#2b3a42"/>
+  <!-- leader lines: under the figure, and over it where they must reach a chest spot -->
+  <g stroke="#4f6d7a" stroke-width="1.6" fill="none">
+    <line x1="232" y1="170" x2="152" y2="160"/>
+    <line x1="256" y1="240" x2="152" y2="236"/>
+    <line x1="256" y1="322" x2="152" y2="320"/>
+    <line x1="298" y1="206" x2="348" y2="202"/>
+    <line x1="256" y1="282" x2="348" y2="276"/>
+  </g>
 
-  <!-- arms -->
-  <line x1="134" y1="230" x2="96" y2="288" stroke="#2b3a42" stroke-width="14" stroke-linecap="round"/>
-  <line x1="134" y1="230" x2="96" y2="288" stroke="#d6d1c7" stroke-width="10" stroke-linecap="round"/>
-  <line x1="198" y1="230" x2="236" y2="288" stroke="#2b3a42" stroke-width="14" stroke-linecap="round"/>
-  <line x1="198" y1="230" x2="236" y2="288" stroke="#d6d1c7" stroke-width="10" stroke-linecap="round"/>
-  <circle cx="94" cy="292" r="8" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="238" cy="292" r="8" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2"/>
+  <!-- figure: one soft silhouette, limbs with weight -->
+  <g fill="#d9e3e9">
+    <path d="M234 334 L230 420" stroke="#d9e3e9" stroke-width="26" stroke-linecap="round" fill="none"/>
+    <path d="M278 334 L282 420" stroke="#d9e3e9" stroke-width="26" stroke-linecap="round" fill="none"/>
+    <ellipse cx="226" cy="426" rx="16" ry="8"/>
+    <ellipse cx="286" cy="426" rx="16" ry="8"/>
+    <path d="M212 216 L198 308" stroke="#d9e3e9" stroke-width="20" stroke-linecap="round" fill="none"/>
+    <path d="M300 216 L314 308" stroke="#d9e3e9" stroke-width="20" stroke-linecap="round" fill="none"/>
+    <circle cx="197" cy="313" r="9.5"/>
+    <circle cx="315" cy="313" r="9.5"/>
+    <path d="M256 196 C 224 196 208 210 208 236 L208 308 C208 330 220 340 240 340 L272 340 C292 340 304 330 304 308 L304 236 C304 210 288 196 256 196 Z"/>
+    <rect x="249" y="180" width="14" height="22" rx="5"/>
+    <circle cx="256" cy="148" r="36"/>
+  </g>
+  <path d="M220 148 A36 36 0 0 1 292 148 C292 134 280 120 256 120 C232 120 220 134 220 148 Z" fill="#2b3a42"/>
+  <circle cx="244" cy="154" r="3.6" fill="#2b3a42"/>
+  <circle cx="268" cy="154" r="3.6" fill="#2b3a42"/>
+  <path d="M246 168 Q256 175 266 168" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
 
-  <!-- torso -->
-  <rect x="128" y="208" width="76" height="114" rx="18" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <!-- feeling spots -->
+  <path transform="translate(214 208)" d="M0 -10 L10 0 L0 10 L-10 0 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path transform="translate(298 208)" d="M0 -10 L10 0 L0 10 L-10 0 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path transform="translate(256 240)" d="M0 -11 L4 -3 L12 -2 L6 4 L8 12 L0 8 L-8 12 L-6 4 L-12 -2 L-4 -3 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.6" stroke-linejoin="round"/>
+  <circle cx="232" cy="170" r="7" fill="#c96f5f" stroke="#2b3a42" stroke-width="2"/>
+  <circle cx="280" cy="170" r="7" fill="#c96f5f" stroke="#2b3a42" stroke-width="2"/>
+  <path transform="translate(256 280)" d="M0 -3 C-5 -11 -14 -10 -14 -3 C-14 5 0 15 0 15 C0 15 14 5 14 -3 C14 -10 5 -11 0 -3 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path transform="translate(256 322)" d="M0 -11 L11 9 L-11 9 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
 
-  <!-- neck -->
-  <rect x="158" y="192" width="16" height="18" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2"/>
+  <!-- labels: left -->
+  <g font-family="sans-serif" text-anchor="end">
+    <text x="146" y="152" font-size="14" font-weight="bold" fill="#222222">hot cheeks</text>
+    <text x="146" y="168" font-size="12.5" fill="#4f6d7a">mad</text>
 
-  <!-- head -->
-  <circle cx="166" cy="162" r="33" fill="#d6d1c7" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M133 158 A33 33 0 0 1 199 158 Z" fill="#2b3a42"/>
-  <circle cx="154" cy="166" r="3" fill="#2b3a42"/>
-  <circle cx="178" cy="166" r="3" fill="#2b3a42"/>
-  <path d="M156 180 Q166 186 176 180" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="146" y="232" font-size="14" font-weight="bold" fill="#222222">fast heartbeat</text>
+    <text x="146" y="248" font-size="12.5" fill="#4f6d7a">scared, excited</text>
 
-  <!-- ===== Feeling spots ===== -->
-  <!-- tense shoulders: diamond (mad, frustrated) -->
-  <path d="M136 212 L142 219 L136 226 L130 219 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M196 212 L202 219 L196 226 L190 219 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <!-- fast heartbeat: star (scared, excited) -->
-  <path d="M166 250 L169 259 L178 260 L170 266 L173 275 L166 270 L159 275 L162 266 L154 260 L163 259 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.6"/>
-  <!-- hot cheeks: circle (mad) -->
-  <circle cx="146" cy="172" r="6" fill="#c96f5f" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="186" cy="172" r="6" fill="#c96f5f" stroke="#2b3a42" stroke-width="2"/>
-  <!-- heavy chest: heart (sad, disappointed) -->
-  <path d="M166 274 C162 268 155 268 155 273 C155 278 166 286 166 286 C166 286 177 278 177 273 C177 268 170 268 166 274 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <!-- wobbly tummy: triangle (nervous) -->
-  <path d="M166 292 L173 306 L159 306 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
+    <text x="146" y="316" font-size="14" font-weight="bold" fill="#222222">wobbly tummy</text>
+    <text x="146" y="332" font-size="12.5" fill="#4f6d7a">nervous</text>
+  </g>
 
-  <!-- ===== Legend ===== -->
-  <path d="M312 96 L320 104 L312 112 L304 104 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <text x="332" y="102" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">tense shoulders</text>
-  <text x="332" y="120" font-family="sans-serif" font-size="13" fill="#4f6d7a">mad, frustrated</text>
+  <!-- labels: right -->
+  <g font-family="sans-serif">
+    <text x="352" y="198" font-size="14" font-weight="bold" fill="#222222">tense shoulders</text>
+    <text x="352" y="214" font-size="12.5" fill="#4f6d7a">mad, frustrated</text>
 
-  <path d="M312 150 L315 159 L323 160 L317 166 L319 174 L312 170 L305 174 L307 166 L301 160 L309 159 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.6"/>
-  <text x="332" y="156" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">fast heartbeat</text>
-  <text x="332" y="174" font-family="sans-serif" font-size="13" fill="#4f6d7a">scared, excited</text>
+    <text x="352" y="272" font-size="14" font-weight="bold" fill="#222222">heavy chest</text>
+    <text x="352" y="288" font-size="12.5" fill="#4f6d7a">sad, disappointed</text>
+  </g>
 
-  <circle cx="312" cy="204" r="8" fill="#c96f5f" stroke="#2b3a42" stroke-width="2"/>
-  <text x="332" y="210" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">hot cheeks</text>
-  <text x="332" y="228" font-family="sans-serif" font-size="13" fill="#4f6d7a">mad</text>
-
-  <path d="M312 258 C307 251 299 251 299 257 C299 263 312 273 312 273 C312 273 325 263 325 257 C325 251 317 251 312 258 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <text x="332" y="264" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">heavy chest</text>
-  <text x="332" y="282" font-family="sans-serif" font-size="13" fill="#4f6d7a">sad, disappointed</text>
-
-  <path d="M312 312 L320 326 L304 326 Z" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
-  <text x="332" y="318" font-family="sans-serif" font-size="17" font-weight="bold" fill="#222222">wobbly tummy</text>
-  <text x="332" y="336" font-family="sans-serif" font-size="13" fill="#4f6d7a">nervous</text>
-
-  <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every body talks in its own way — where do you feel it?</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">Every body talks in its own way — where do you feel it?</text>
 </svg>

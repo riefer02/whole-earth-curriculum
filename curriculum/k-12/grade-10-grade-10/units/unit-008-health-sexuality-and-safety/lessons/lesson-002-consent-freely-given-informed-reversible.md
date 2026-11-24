@@ -111,34 +111,37 @@ becomes physical: a yes you can trust, given and received with care.
 
 ## Facilitator note
 
-**Land the five conditions:** consent is **freely given** (no pressure, no threat, no
-guilt), **informed** (everyone knows what they are agreeing to), **reversible** (a yes
-can become a no at any moment), **specific** (yes to one thing is not yes to
-everything), and **enthusiastic** (a genuine yes, not a resigned one). A widely used
-memory aid spells them **FRIES** (freely given, reversible, informed, enthusiastic,
-specific) — the underlying principles (freely given, informed, reversible) are the
-international framing in UNESCO's guidance on sexuality education (S-412);
-"enthusiastic" and "specific" are the additions of a popular mnemonic (Planned
-Parenthood). Silence, freezing, or "sure, I guess" under pressure is **not** consent.
-These conditions hold in every kind of relationship — between people of any gender, and
-whether a relationship is same-sex or different-sex; consent is never tied to one kind
-of couple.
+**Tone.** Plain and calm: this is a standard, not a warning.
 
-**Sensitive-topic guidance:** learners may **opt out of sharing** — use role-play
-scenarios that are fictional and mostly non-sexual; no learner should ever be asked to
-describe their own experiences. If a learner's question suggests coercion, abuse, or
-being unsafe, do not promise secrecy; follow your safeguarding procedure and refer to a
-**trusted adult or local service**.
+**The facts to land.**
 
-The **ethics** lens: respecting another person's autonomy is the right thing to do, in
-every relationship. The **egalitarian** lens: consent protects everyone equally
-regardless of gender, and pressure can be exerted by anyone on anyone — in every kind of
-relationship, including same-sex relationships and families of every form; no
-relationship type is ranked above another. The **global** lens: cultures express
-agreement and refusal differently, but the principle that a person decides over their
-own body is a shared human-rights commitment. The **social-emotional** lens: reading
-another person's yes or no is an emotional skill — tone, hesitation, and body language
-all carry meaning.
+1. Consent is **freely given** (no pressure, threat, or guilt), **informed** (everyone
+   knows what they are agreeing to), **reversible** (a yes can become a no at any
+   moment), **specific** (yes to one thing is not yes to everything), and
+   **enthusiastic** (a genuine yes, not a resigned one).
+2. **FRIES** is the memory aid: freely given, informed, and reversible is the
+   international framing in UNESCO's sexuality-education guidance (S-412);
+   "enthusiastic" and "specific" come from a popular mnemonic (Planned Parenthood).
+3. Silence, freezing, or "sure, I guess" under pressure is **not** consent — in any
+   relationship, any gender, same-sex or different-sex.
+
+**The lenses, briefly.**
+
+- *Ethics:* respecting another person's autonomy is right in every relationship.
+- *Egalitarianism:* pressure can come from anyone; no relationship type ranks above
+  another.
+- *Global:* cultures express agreement and refusal differently, but a person decides
+  over their own body — a shared human-rights commitment.
+- *Social-emotional:* reading a yes or no is a skill — tone, hesitation, body
+  language.
+- *Critical-thinking:* a mnemonic is not the measure; the conditions are.
+
+**Safeguarding.** Learners may opt out of sharing; scenarios are fictional and mostly
+non-sexual, and nobody describes their own experience. If a question suggests coercion,
+abuse, or being unsafe, do not promise secrecy — follow your safeguarding procedure and
+refer to a trusted adult or local service.
+
+**The skill.** Model once, then release (S-011): practise asking, hearing a no, and withdrawing a yes.
 
 ## Procedure
 

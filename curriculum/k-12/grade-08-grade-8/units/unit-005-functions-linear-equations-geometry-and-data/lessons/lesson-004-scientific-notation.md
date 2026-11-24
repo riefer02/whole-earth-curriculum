@@ -111,21 +111,34 @@ so a navigator, a biologist, or a climate scientist can compare them at a glance
 
 ## Facilitator note
 
-The ideas to land: **(1) a positive exponent counts how many times 10 multiplies (10³ =
-1000); a negative exponent counts how many places past the decimal (10⁻² = 0.01); (2)
-scientific notation writes a number as N × 10ᵏ with 1 ≤ N < 10, so the exponent carries
-the size; (3) to compare, look at the exponent first — a larger exponent means a larger
-number.** Because scientific notation is a foundational skill, use explicit instruction,
-worked examples, and guided practice before independent work (Kirschner, Sweller &
-Clark, 2006). Watch for the slips of writing 150 000 000 as 150 × 10⁶ (the coefficient
-must be between 1 and 10) and of treating a negative exponent as a negative number (10⁻⁵
-is positive, just small). The environment lens: scientific notation is how we honestly
-hold Earth-scale numbers — a molecule, a cell, a forest, a planet's carbon — without
-drowning in zeros. The technology lens: calculators and computers use scientific
-notation to store huge and tiny numbers; the notation *is* a tool. The egalitarian lens:
-anyone can compress a giant number with one clean rule — the power is in the method, not
-in any person. The global lens: writing very large and very small quantities is a shared
-human need, from astronomy in many cultures to modern microscopy (S-047, S-356).
+**Tone.** Practical and exact — the notation buys clarity, not mystery.
+
+**The facts to land.**
+
+1. A positive exponent counts how many times 10 multiplies (10³ = 1000); a negative
+   exponent counts places past the decimal (10⁻² = 0.01).
+2. Scientific notation writes a number as N × 10ᵏ with 1 ≤ N < 10, so the exponent
+   carries the size.
+3. To compare, look at the exponent first — a larger exponent means a larger number.
+
+**Don't overshoot.** Two slips to catch: 150 000 000 is not 150 × 10⁶ (the coefficient
+must be between 1 and 10), and 10⁻⁵ is not a negative number.
+
+**The lenses, briefly.**
+
+- *Intellectual:* one rule compresses any scale.
+- *Egalitarianism:* the power is in the method, not in any person.
+- *Global:* writing very large and very small quantities is a shared human need, from
+  astronomy in many cultures to modern microscopy (S-047, S-356).
+- *Technology:* calculators and computers store huge and tiny numbers this way — the
+  notation *is* a tool.
+- *Environment:* scientific notation lets us hold Earth-scale numbers — a molecule, a
+  cell, a forest, a planet's carbon — honestly.
+- *Critical-thinking:* the exponent is the first check on any very large claim.
+
+**The skill.** Scientific notation is foundational: use explicit instruction, worked
+examples, and guided practice before independent work (Kirschner, Sweller & Clark,
+2006).
 
 ## Procedure
 

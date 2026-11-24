@@ -25,9 +25,9 @@
 
   <!-- class (top-right) -->
   <circle cx="362" cy="150" r="56" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-opacity="0.4"/>
-  <rect x="346" y="128" width="30" height="24" rx="3" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <line x1="361" y1="128" x2="361" y2="152" stroke="#2b3a42" stroke-width="1.6"/>
-  <line x1="352" y1="136" x2="370" y2="136" stroke="#fdfbf7" stroke-width="1.6"/>
+  <path d="M344 132 Q353 128 361 132 L361 154 Q353 150 344 154 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M378 132 Q369 128 361 132 L361 154 Q369 150 378 154 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M350 137 L357 137 M350 143 L357 143 M365 137 L372 137 M365 143 L372 143" stroke="#fdfbf7" stroke-width="1.6" stroke-linecap="round" fill="none"/>
   <text x="362" y="172" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">class</text>
 
   <!-- neighborhood (left) -->
@@ -58,10 +58,10 @@
 
   <!-- center: me -->
   <circle cx="256" cy="250" r="46" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
-  <circle cx="256" cy="244" r="11" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
-  <path d="M245 244 A11 11 0 0 1 267 244 L267 236 A11 11 0 0 0 245 236 Z" fill="#2b3a42"/>
-  <rect x="246" y="255" width="20" height="22" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="226" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">me</text>
+  <circle cx="256" cy="250" r="11" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
+  <path d="M245 250 A11 11 0 0 1 267 250 L267 242 A11 11 0 0 0 245 242 Z" fill="#2b3a42"/>
+  <rect x="246" y="261" width="20" height="20" rx="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="256" y="230" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#222222">me</text>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="12.9" fill="#4f6d7a">No community is better than another — each is a real home of belonging.</text>
+  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">No community is better than another — each is a real home of belonging.</text>
 </svg>

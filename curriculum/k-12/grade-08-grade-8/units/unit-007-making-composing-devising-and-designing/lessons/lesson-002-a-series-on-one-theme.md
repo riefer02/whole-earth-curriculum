@@ -113,23 +113,32 @@ this on purpose.
 
 ## Facilitator note
 
-The skill to land: **a series is several works on one theme in which the *change* is the
-point — the learner plans three or four works, makes them, and then reflects in writing
-on what changed (line? color? scale? feeling?) and why.** This is a *making* skill, so
-model the pattern first, then let learners work independently (explicit instruction
-carries novice skills — S-011): show a quick three-frame example of one simple subject
-(a tree, a cup, a face) getting bolder across three tries, then invite learners to
-choose their own theme. The global lens: series are a worldwide practice — Jacob
-Lawrence's 60-panel _Migration Series_ (1940–41) told the story of the Great Migration
-of African Americans from the rural South to the urban North (S-363), and the Japanese
-printmaker Katsushika Hokusai made _Thirty-six Views of Mount Fuji_ (c. 1830–32), a
-series on one mountain seen many ways (S-364). Name these as *examples to honor with
-questions*, not specimens. The egalitarian lens: a series needs only paper and a
-mark-making tool; no expensive supplies are required. The intellectual lens:
-reflection — noticing *what changed and why* — is where the learning lives. The ethics
-lens: there is no single "right" way for the series to change; each learner's change is
-their own, and all are valid. Keep assessment mastery-based: a series that is not
-finished is "not yet," never a failure.
+**Tone.** Encouraging — the change is the work.
+
+**The facts to land.**
+
+1. A series is several works on one theme where the *change* is the point: plan three or
+   four, make them, then reflect in writing on what changed (line, color, scale,
+   feeling) and why.
+2. Series are a worldwide practice: Jacob Lawrence's 60-panel *Migration Series*
+   (1940–41) told the Great Migration story (S-363); Hokusai's *Thirty-six Views of
+   Mount Fuji* (c. 1830–32) saw one mountain many ways (S-364). Honor them with
+   questions, not as specimens.
+3. Reflection — noticing what changed and why — is where the learning lives.
+
+**Don't overshoot.** There is no single "right" way for the series to change; each
+learner's change is their own.
+
+**The lenses, briefly.**
+
+- *Intellectual:* the written reflection turns making into knowing.
+- *Global:* forms differ, and the making is everywhere (S-363, S-364).
+- *Egalitarianism:* a series needs only paper and a mark-making tool.
+- *Ethics:* all changes are valid; a series that is not finished is "not yet."
+
+**The skill.** Model the pattern first (S-011): show a quick three-frame example of one
+subject — a tree, a cup, a face — getting bolder across three tries, then invite
+learners to choose their own theme and work independently.
 
 ## Procedure
 

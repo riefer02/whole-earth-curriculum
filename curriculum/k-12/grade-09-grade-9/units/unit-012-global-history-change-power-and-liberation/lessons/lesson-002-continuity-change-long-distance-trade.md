@@ -113,24 +113,36 @@ and centuries.
 
 ## Facilitator note
 
-The idea to land: **a continuity-and-change analysis names two things at once — what
-*stayed the same* over time (the goods and ideas that kept moving; the fact that trade
-connected strangers across faiths and lands) and what *changed* (the routes shifted, new
-goods joined old ones, and new tools of travel spread the network).** The three
-networks: **(1) the Silk Roads** — overland routes linking East Asia and the
-Mediterranean, carrying silk, spices, paper, and ideas such as Buddhism (S-323); **(2)
-the Indian Ocean** — monsoon-driven sailing in dhows linking East Africa, Arabia, India,
-and Southeast Asia, carrying gold, cloth, rice, and religions, and famously reached by
-Zheng He's Ming fleets, 1405–1433 (S-323, S-265, S-207); **(3) the trans-Saharan** —
-camel caravans trading gold for salt across the desert, feeding cities like Timbuktu
-(S-470). This is a *skill* lesson, so use explicit instruction and a worked example
-first (Kirschner, Sweller & Clark 2006, S-011): model a two-column analysis on one
-network, then guided practice on the other two, then independent work. The **global**
-lens: trade is a shared human practice on every continent. The **technology** lens: the
-tools of travel — ships, saddles, compasses, caravanserai rest-stops — changed how far
-and fast trade could reach. The **egalitarian** lens: ask who profited and who did the
-dangerous carrying. Keep questions open (philosophy §11): the lesson offers evidence,
-not a single "winner" story.
+**Tone.** Comparative — two columns, then a judgment.
+
+**The facts to land.**
+
+1. **A continuity-and-change analysis names two things at once:** what *stayed the same*
+(goods and ideas kept moving; trade connected strangers across faiths and lands) and
+what *changed* (routes shifted, new goods joined old, new tools spread the network).
+2. **Three networks:**
+
+- **The Silk Roads** — overland routes linking East Asia and the Mediterranean, carrying
+silk, spices, paper, and ideas such as Buddhism (S-323).
+- **The Indian Ocean** — monsoon-driven dhows linking East Africa, Arabia, India, and
+Southeast Asia with gold, cloth, rice, and religions; Zheng He's Ming fleets reached it,
+1405–1433 (S-323, S-265, S-207).
+- **The trans-Saharan** — camel caravans trading gold for salt across the desert,
+feeding cities like Timbuktu (S-470).
+
+**The lenses, briefly.**
+
+- *Global:* trade is a shared human practice on every continent.
+- *Technology:* ships, saddles, compasses, and caravanserai rest-stops changed how far
+and fast trade could reach.
+- *Egalitarianism:* ask who profited and who did the dangerous carrying.
+- *Critical-thinking:* continuity and change can be true at once.
+
+**The skill.** Explicit instruction and a worked example first: model the two-column
+analysis on one network, then guided practice on the other two, then independent work
+(Kirschner, Sweller & Clark 2006, S-011).
+
+**Hold it open.** Offer evidence, not a single "winner" story (philosophy §11).
 
 ## Procedure
 

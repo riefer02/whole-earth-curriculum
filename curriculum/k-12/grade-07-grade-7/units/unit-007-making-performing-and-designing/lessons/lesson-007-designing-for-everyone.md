@@ -121,18 +121,34 @@ before finishing, *who might be blocked here — and how do I let them in?*
 
 ## Facilitator note
 
-The idea to land is that **accessibility is design for the widest range of bodies and
-minds, and barriers are found by testing, not by guessing** — a learner should be able
-to name at least one barrier, one fix, and one way to test the fix. Model the doorway
-worked example fully (explicit instruction for a novice skill — Kirschner, Sweller &
-Clark, 2006). Keep the egalitarian lens central: the question is never "what's wrong
-with this person" but "what did the design assume, and who did it leave out." Draw on
-the full range of disability — mobility, vision, hearing, cognition, language, height,
-strength, and more — and note that most people will be disabled at some point in a life,
-temporarily or permanently, so this is designing for *all of us* (the social model of
-disability, held as a frame). Digital examples (captions, alt text, screen-reader
-support) tie to the technology lens; WCAG names four principles — perceivable, operable,
-understandable, robust — that learners can apply to any design.
+**Tone.** Practical and curious. A barrier is a design choice, not a person's problem.
+
+**The facts to land.**
+
+1. **Accessibility is design for the widest range of bodies and minds**, and barriers
+   are found by testing, not by guessing.
+2. Every learner should be able to name **one barrier, one fix, and one way to test the
+   fix**.
+3. The full range of disability is in scope: mobility, vision, hearing, cognition,
+   language, height, strength, and more. Most people will be disabled at some point,
+   temporarily or permanently, so this is designing for *all of us* (the social model of
+   disability, held as a frame).
+4. **WCAG** names four principles — perceivable, operable, understandable, robust — that
+   apply to any design.
+
+**Don't overshoot.** Do not turn this into charity for "those people." The question is
+never "what's wrong with this person."
+
+**The lenses, briefly.**
+
+- *Egalitarianism:* ask "what did the design assume, and who did it leave out?"
+- *Ethics:* a fix that helps one group usually widens the door for many.
+- *Technology:* captions, alt text, and screen-reader support are design, not extras.
+- *Community:* test the redesign with the people it is meant to include.
+
+**The skill.** Model the stairs-only doorway versus the ramp and wide door fully
+(explicit instruction for a novice skill — Kirschner, Sweller & Clark, 2006), then
+choose one real thing to redesign and test it for barriers.
 
 ## Procedure
 

@@ -114,18 +114,35 @@ it means to grow your feelings: more names, more knowing.
 
 ## Facilitator note
 
-It is a **spiral-back**: it revisits the opening unit's feelings rather than introducing
-them fresh. The deepest commitment here is that **a feeling is never wrong** — only a
-guess about someone else's feeling can miss. Honor every feeling a learner names, even
-one outside the list, and wonder together about it. Feeling words live differently in
-every language and culture: invite a learner to share a feeling word from their home
-language, even one English has no single word for — every language carries feelings in
-its own way. For a learner who is blind or has low vision, name the body-sense of each
-feeling aloud (proud = warm and tall; lonely = heavy and quiet; excited = buzzy and
-bright) so the feeling can be *felt* rather than seen. A learner who does not use a
-speaking voice shows the feeling with their face or body and a partner names it. A
-learner who is Deaf or hard of hearing shows and reads feelings through the face, body,
-and sign — no spoken voice is needed to name or read a feeling.
+**Tone.** Warm and unhurried. This is a **spiral-back**: it revisits the opening unit's
+feelings rather than introducing them fresh.
+
+**The facts to land.**
+
+1. **A feeling is never wrong.** Only a guess about someone else's feeling can miss.
+2. Honour every feeling a learner names, even one outside the list, and wonder together
+   about it.
+3. Feeling words live differently in every language and culture.
+
+**Don't overshoot.** Don't correct a feeling or supply the "right" one; the list is a
+doorway, not a boundary.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* the body tells the feeling before the words do.
+- *Egalitarianism:* a feeling shown on a face or in a sign is named just as surely as a
+  spoken one.
+- *Global:* invite a feeling word from a learner's home language, even one English has
+  no single word for — every language carries feelings in its own way.
+
+**The skill.** Name a feeling you have grown into, and say where you feel it in your
+body.
+
+**Access.** Blind or low-vision: name the body-sense of each feeling aloud (proud = warm
+and tall; lonely = heavy and quiet; excited = buzzy and bright) so the feeling can be
+felt rather than seen. Non-speaking: show the feeling with your face or body, and a
+partner names it. Deaf or hard of hearing: show and read feelings through face, body,
+and sign — no spoken voice is needed.
 
 ## Procedure
 

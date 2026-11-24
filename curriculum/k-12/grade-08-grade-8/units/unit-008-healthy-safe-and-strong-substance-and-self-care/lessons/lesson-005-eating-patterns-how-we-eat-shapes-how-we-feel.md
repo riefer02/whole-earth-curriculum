@@ -115,27 +115,35 @@ part of nourishment too. Today you learn to notice the pattern behind the plate.
 
 ## Facilitator note
 
-The idea to land: **eating patterns matter as much as food choice. Regular meals steady
-energy and support digestion; listening to hunger and fullness helps us eat the right
-amount for our own body; eating with others supports connection and wellbeing; eating
-while very distracted can lead us to miss fullness signals.** These are gentle,
-evidence-aligned, wellbeing claims (S-038, S-261), *not* weight claims — and the lesson
-must never drift into dieting, restriction, or judgment of any body. Grade 7 already
-established that restricting food harms a growing body and that energy needs differ
-between bodies; build on that. The **global/anthropological lens is central**: eating
-patterns differ wonderfully across cultures — communal shared meals, several small
-meals, two larger meals, family meals at a set hour, seasonal and religious fasting
-(such as Ramadan), and grazing — and each is honored as a way of living, never ranked
-(S-118). Hold fasting traditions respectfully: they are meaningful practices, not
-"skipping meals." The egalitarian lens: regular, varied meals are a matter of access,
-not virtue — a learner who is hungry because food is scarce is never to be shamed;
-hunger is a justice issue (S-120). The social-emotional lens: eating with others is one
-of the oldest human ways of belonging. The ethics lens: how we eat affects our own body
-and can be an act of care for ourselves. The technology & environment lens: how we eat
-is shaped by tools and places too — a phone in hand while eating can blunt fullness
-signals, and where food comes from and what is wasted touches the Earth — so the pattern
-is never only personal. Keep it concrete and warm; the *connection* is the meal, the
-*concept* is the pattern.
+**Tone.** Gentle and concrete — the *connection* is the meal, the *concept* is the
+pattern.
+
+**The facts to land.**
+
+1. Eating patterns matter as much as food choice: regular meals steady energy and
+   support digestion; hunger and fullness tell us the amount right for our body; eating
+   with others supports connection; heavy distraction can blunt fullness signals.
+2. These are wellbeing claims, not weight claims (S-038, S-261). Grade 7 established
+   that restricting food harms a growing body and that energy needs differ.
+3. Eating patterns differ across cultures — communal meals, several small meals, two
+   larger meals, set family hours, seasonal and religious fasting such as Ramadan,
+   grazing — each honored, never ranked (S-118).
+
+**Don't overshoot.** Never drift into dieting, restriction, or judgment of any body;
+fasting traditions are meaningful practice, not "skipping meals."
+
+**The lenses, briefly.**
+
+- *Egalitarianism:* regular, varied meals are access, not virtue; hunger is a justice issue
+  (S-120).
+- *Global:* see fact 3 — patterns are ways of living, not rungs on a ladder.
+- *Social-emotional:* eating with others is one of the oldest human ways of belonging.
+- *Ethics:* how we eat can be an act of care for ourselves.
+- *Technology & environment:* a phone in hand can blunt fullness, and where food comes
+  from and what is wasted touch the Earth.
+- *Physical:* regular patterns steady energy and digestion.
+
+**The skill.** Build the pattern from the learner's own day, not from a model diet.
 
 ## Procedure
 

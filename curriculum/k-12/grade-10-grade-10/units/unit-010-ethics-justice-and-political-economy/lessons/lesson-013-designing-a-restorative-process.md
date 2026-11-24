@@ -112,23 +112,33 @@ punishment. Today you design such a process for a real harm.
 
 ## Facilitator note
 
-The idea to land: **a restorative process is designed, not improvised — it decides who
-should be heard, how responsibility is taken, and how repair is made, around the three
-questions: what happened, who was harmed, how do we make it right (S-022).** Teach the
-design with a worked example, then guided practice (S-011). Honor the roots: restorative
-justice draws on long-standing Indigenous practices — peacemaking circles, the Diné
-(Navajo) idea of hózhó (balance and harmony), and similar traditions — not only on
-modern frameworks (S-161). The **community** lens is the spine: harm is repaired *in*
-relationship, not outside it. The **egalitarian** lens: the person harmed must have a
-real voice and real power in the process — a process designed by the powerful alone is
-not restorative. The **social-emotional** lens: this lesson touches real hurt; keep the
-case study age-appropriate and non-graphic, let learners choose the intensity they
-engage with, and always connect difficulty to agency (the process itself is the agency).
-The **ethics** lens: responsibility is taken, not forced — an apology that is coerced is
-not a real apology. Distinguish what a restorative process *does* (evidence from
-practice) from whether it is the right response (a values question) (philosophy §5).
-Preview: next and last, we analyze peacebuilding — preventing and transforming conflict
-nonviolently.
+**Tone.** Careful and warm: real hurt is in the room, and the process is the way
+through.
+
+**The facts to land.**
+
+1. A restorative process is designed, not improvised: it decides who should be heard,
+   how responsibility is taken, and how repair is made — around three questions: what
+   happened, who was harmed, how do we make it right (S-022).
+2. Its roots run deep: peacemaking circles, the Diné (Navajo) idea of hózhó — balance
+   and harmony — and similar traditions, not only modern frameworks (S-161).
+3. Responsibility is taken, not forced: a coerced apology is not a real apology.
+
+**Don't overshoot.** A process designed by the powerful alone is not restorative,
+whatever it is called.
+
+**The lenses, briefly.**
+
+- *Community:* the spine — harm is repaired *in* relationship, not outside it.
+- *Egalitarianism:* the person harmed needs real voice and real power in the process.
+- *Social-emotional:* keep the case age-appropriate and non-graphic, let learners
+  choose their intensity, and end on agency — the process itself is the agency.
+- *Ethics:* separate what a restorative process *does* (evidence from practice) from
+  whether it is the right response (values) (philosophy §5).
+
+**The skill.** Teach the design with a worked example, then guided practice (S-011):
+three questions, three decisions, one written process. Next lesson analyses
+peacebuilding.
 
 ## Procedure
 

@@ -108,23 +108,33 @@ find yourself in the story.
 
 ## Facilitator note
 
-The ideas to land: **(1) stars are born in nebulae — clouds of gas and dust that
-collapse under gravity; (2) a star shines by fusion — crushing hydrogen into helium in
-its core and releasing energy (our Sun is doing this now); (3) when a Sun-like star ages
-it swells into a red giant; the most massive stars end in a supernova — an explosion
-that forges the heavier elements (carbon, oxygen, iron, and more) and scatters them into
-space; (4) new stars and planets form from those remains — which is why the elements of
-Earth and of our bodies came from stars; (5) our Sun is one of more than 100 billion
-stars in the Milky Way, a spiral galaxy, which is one of many billions of galaxies.**
-Use the NASA star-lifecycle and galaxy sources (S-361, S-362). The global lens: people
-in every culture have looked at the same stars and told stories about them — the science
-account is *one* way of knowing, held alongside the others, never above them (philosophy
-§11). The critical-thinking lens: we cannot watch one star live and die, so the life
-cycle is a **model built from evidence** — we see stars at every stage across the sky,
-like a forest with seedlings and old trees at once. The ethics lens: the story of
-star-stuff is a story of shared origin — every person, everywhere, is made of the same
-cosmic material; no one is more or less "of the universe" than anyone else. Never look
-directly at the Sun (S-047). Tell the story as wonder and evidence, not creed.
+**Tone.** Wondrous and exact — we are made of this.
+
+**The facts to land.**
+
+1. Stars are born in nebulae — clouds of gas and dust collapsing under gravity.
+2. A star shines by fusion, crushing hydrogen into helium; our Sun is doing this now. A
+   Sun-like star swells into a red giant; the most massive end in a supernova, forging
+   heavier elements — carbon, oxygen, iron — and scattering them.
+3. New stars and planets form from those remains, which is why Earth and our bodies are
+   made of star-forged elements. Our Sun is one of more than 100 billion stars in the
+   Milky Way, one of many billions of galaxies (S-361, S-362).
+
+**Don't overshoot.** We cannot watch one star live and die: the life cycle is a model
+built from evidence — stars at every stage across the sky, like seedlings and old trees
+at once.
+
+**The lenses, briefly.**
+
+- *Global:* people everywhere have looked at the same stars and told stories; the
+  science account is one way of knowing, held alongside the others, never above them
+  (`philosophy` §11).
+- *Ethics:* star-stuff is shared origin — no one is more or less "of the universe."
+- *Critical-thinking:* the model is evidence, not a watched event.
+
+**The skill.** Tell the story as wonder and evidence, not creed.
+
+**Safety floor.** Never look directly at the Sun (S-047).
 
 ## Procedure
 

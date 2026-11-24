@@ -10,7 +10,7 @@
   <!-- Ladder rungs -->
   <g font-family="sans-serif" text-anchor="middle">
     <rect x="70" y="96" width="372" height="46" rx="8" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-    <text x="256" y="126" font-size="13.1" fill="#fdfbf7">1 kilometer (km) = 1,000 meters (m)</text>
+    <text x="256" y="126" font-size="13" fill="#fdfbf7">1 kilometer (km) = 1,000 meters (m)</text>
 
     <rect x="70" y="150" width="372" height="46" rx="8" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
     <text x="256" y="180" font-size="13.5" fill="#fdfbf7">1 meter (m) = 100 centimeters (cm)</text>

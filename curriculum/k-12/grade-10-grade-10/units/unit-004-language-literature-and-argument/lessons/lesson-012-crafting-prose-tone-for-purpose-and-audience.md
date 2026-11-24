@@ -118,26 +118,35 @@ message: a letter that comforts, a call that moves, an argument that persuades.
 
 ## Facilitator note
 
-The idea to land: **tone is the emotional register of a piece, chosen to serve a purpose
-and an audience; it is carried by word choice and rhythm, and it must hold steady or it
-loses the reader.** Tone and register (Lesson 4, S-237) are cousins: register is
-formality, tone is feeling. A deliberate writer plans both. The writing-craft evidence
-is explicit: adolescents write better when taught to plan for audience and purpose and
-to revise with models, not when left to intuition (S-102).
+**Tone.** Design-minded: tone is a choice made for a reader, not a mood the writer is
+stuck with.
 
-Model the skill once, then let learners practice (worked example → guided practice →
-independent work; S-011). The **intellectual** lens is the spine: the tone-for-purpose
-plan is a small act of design — name the goal, then choose the words that meet it. The
-**ethics** lens: tone can be used to calm or to inflame, to clarify or to mislead — the
-same facts, two tones, two effects; choosing tone is a moral choice as much as a craft
-one. The **egalitarian** lens: a reader's home language and dialect shape which tones
-feel warm or cold; there is no universal "professional" tone, and a learner's own way of
-putting things is not a defect to edit away. The **global** lens: cultures differ in
-what tone fits a given moment — what is polite in one may be cold in another — so tone
-is read *in context*, never as a fixed rule. The **social-emotional** lens: writing in a
-tone that does not come naturally (firm when you are shy, warm when you are formal) is a
-real stretch; normalize it and let learners name the feeling. Preview: Lesson 13 widens
-the canvas — composing not just words, but image, sound, and design.
+**The facts to land.**
+
+1. Tone is the emotional register of a piece, chosen for a purpose and an audience,
+   carried by word choice and rhythm — and it must hold steady or it loses the reader.
+2. Tone and register (Lesson 4, S-237) are cousins: register is formality, tone is
+   feeling, and a deliberate writer plans both.
+3. Writing improves when learners plan for audience and purpose and revise with models
+   (S-102).
+
+**Don't overshoot.** There is no universal "professional" tone, and the lesson should
+not flatten a learner's natural voice in the name of polish.
+
+**The lenses, briefly.**
+
+- *Intellectual:* the tone-for-purpose plan is small design work — name the goal,
+  choose the words that meet it.
+- *Ethics:* the same facts in two tones have two effects; choosing tone is a moral
+  choice as much as a craft one.
+- *Egalitarianism:* a reader's language and dialect shape which tones feel warm or cold;
+  a learner's own way of putting things is not a defect.
+- *Global:* what is polite in one culture may be cold in another — read tone in
+  context.
+- *Social-emotional:* writing in a tone that does not come naturally is a stretch;
+  name the feeling and normalise it.
+
+**The skill.** Model once, then release (S-011): rewrite one paragraph in two tones and say which serves the purpose. Lesson 13 widens to image, sound, and design.
 
 ## Procedure
 

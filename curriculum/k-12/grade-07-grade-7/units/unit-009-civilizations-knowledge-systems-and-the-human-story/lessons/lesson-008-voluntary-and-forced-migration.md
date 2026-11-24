@@ -114,24 +114,38 @@ side, with care.
 
 ## Facilitator note
 
-The ideas to land: **(1) migration is the movement of people from one place to another;
-(2) voluntary migration is chosen — push factors (few jobs, hardship, danger at home)
-and pull factors (work, family, freedom, safety elsewhere); (3) forced migration is not
-chosen — people are taken or driven out, as in the transatlantic slave trade, in which
-at least 12 million Africans were forcibly transported across the Atlantic (a topic
-studied in full in Grade 8); (4) effects fall on the people who move (loss, separation,
-but also, in voluntary cases, opportunity) and on the places involved (both the places
-left and the places entered change).** These are documented facts (the transatlantic
-figure is standard in the Trans-Atlantic Slave Trade Database, slavevoyages.org; see
-also Encyclopaedia Britannica). Teach this with care: name feelings before facts, keep
-detail non-graphic, and always connect to dignity and survival, not despair (`docs/
-facilitation.md`). The ethics lens: the difference between choice and coercion is a
-moral line — respecting it is why we treat the two kinds of movement differently. The
-egalitarian lens: forced migration is an injustice, not a "migration like any other";
-calling it by its right name honors the people who endured it. The global lens: both
-kinds of movement have happened across all continents and in all eras; no region is the
-default. The critical-thinking lens: question stories that say people "moved willingly"
-when records show they were taken — the word "migration" can hide coercion.
+**Tone.** Grave. Name feelings before facts, keep detail non-graphic, end in dignity,
+never despair.
+
+**The facts to land.**
+
+1. **Migration** is the movement of people from one place to another.
+2. **Voluntary migration is chosen**: push factors (few jobs, hardship, danger at home)
+   and pull factors (work, family, freedom, safety elsewhere).
+3. **Forced migration is not chosen**: people are taken or driven out — as in the
+   transatlantic slave trade, in which at least 12 million Africans were forcibly
+   transported across the Atlantic (studied in full in Grade 8).
+4. **Effects fall on the people who move** — loss and separation, and in voluntary cases
+   opportunity — and on both the places left and the places entered.
+
+**Don't overshoot.** Do not let the word "migration" blur coercion into choice. Where
+records show people were taken, saying they "moved" hides a crime.
+
+**The lenses, briefly.**
+
+- *Ethics:* choice and coercion is a moral line, which is why the two are held
+  differently.
+- *Egalitarianism:* forced migration is an injustice, not "migration like any other";
+  calling it by name honors the people who endured it.
+- *Global:* both kinds have happened on every continent and in every era; no region is
+  the default.
+- *Critical-thinking:* question stories that say people "moved willingly" when records
+  show they were taken.
+
+**The skill.** Sort one case as chosen or coerced, and give the evidence for your call.
+
+Documented in the Trans-Atlantic Slave Trade Database (slavevoyages.org); see also
+Encyclopaedia Britannica and `docs/facilitation.md`.
 
 ## Procedure
 

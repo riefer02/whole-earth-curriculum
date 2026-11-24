@@ -117,29 +117,36 @@ plan that lasts is planted the same way — chosen for your soil, your season, y
 
 ## Facilitator note
 
-The idea to land: **a movement plan that lasts is built on enjoyment, small starts,
-rest, and honest check-ins — and it belongs to the learner.** The plan operationalizes
-the training principles from Lesson 7 (progressive effort and recovery) and the
-balanced-routine picture from Lesson 3 (aerobic plus muscle-strengthening; S-341). It is
-also framed by the UNESCO charter's commitment that movement is a **fundamental right
-for all**, inclusive of every ability (S-342): the plan is not a ladder for the
-already-fit but a welcome for every body, in adapted, seated, or everyday forms.
+**Tone.** Warm and permissive: the plan belongs to the learner, and a missed day is
+information, not failure.
 
-Model once, then let learners build (S-011). The **ethics** lens: a plan is a tool of
-care, never a contract to punish oneself for missing; missing a day is information, not
-failure. The **egalitarian** lens: plans must fit real constraints — money, time, safe
-space, ability, family duties — so the lesson insists on *sustainability over heroics*,
-and treats free, everyday movement (walking, carrying, gardening, play, chores, dance)
-as every bit as valid as a gym. The **global** lens: movement traditions and settings
-differ everywhere — a plan might center a dance, a walk to a field, a swim, a game, or a
-seated practice; no one form is "the" way. The **critical-thinking** lens: a plan that
-asks for too much too soon is a plan designed to fail; learners are taught to *design
-against* their own enthusiasm. The **social-emotional** lens: enjoyment is the glue —
-the plan that feels good is the one that survives; invite learners to choose what they
-love. The **technology & environment** lens: the environment shapes the plan (safe
-paths, green space, weather), and Lesson 9 will ask how apps and trackers fit — for now,
-the plan stands on its own. Preview: this plan returns as a portfolio artifact and in
-the unit's final reflection.
+**The facts to land.**
+
+1. A plan that lasts rests on enjoyment, small starts, rest, and honest check-ins.
+2. It puts Lesson 7's progressive effort and recovery to work, inside the balanced
+   routine of aerobic plus muscle-strengthening activity (S-341).
+3. The UNESCO charter treats movement as a **fundamental right for all**, inclusive of
+   every ability (S-342): a welcome for every body, in adapted, seated, or everyday
+   forms.
+
+**Don't overshoot.** A plan that asks too much too soon is a plan designed to fail;
+choose sustainability over heroics.
+
+**The lenses, briefly.**
+
+- *Physical:* the plan is training principles written into your own week.
+- *Social-emotional:* enjoyment is the glue; invite learners to choose what they love.
+- *Ethics:* a tool of care, never a contract to punish a missed day.
+- *Egalitarianism:* fit real constraints — money, time, safe space, ability, family
+  duties; walking, chores, and dance count as much as a gym.
+- *Global:* a plan might centre a dance, a walk to a field, a swim, a game, or a
+  seated practice; no form is "the" way.
+- *Critical-thinking:* design against your own enthusiasm.
+- **Technology & environment:** safe paths, green space, and weather shape the plan;
+  apps come next lesson.
+
+**The skill.** Model once, then release (S-011): write one week you can actually keep.
+The plan returns as a portfolio artifact and in the unit's final reflection.
 
 ## Procedure
 

@@ -126,21 +126,34 @@ do, and see where the story is taking us.
 
 ## Facilitator note
 
-It is the unit's **opening and retrieval pass**, so the goals are modest: **(1) recall
-the Grade-7 ideas that this unit builds on; (2) preview the unit's four strands — change
-and continuity, knowledge traditions, migration and trade, power and resistance — and
-its eight goals; (3) plant the organizing idea: history is a global story told from many
-perspectives.** Do not try to teach the eight goals today; just name and locate them.
-The **critical-thinking** lens: weighing competing explanations and checking sources is
-the habit we carry forward (S-011). The **global** lens: this unit moves across many
-regions — Mesoamerica, the Pacific, the Indian Ocean, East and West Africa, the Andes,
-the Americas — because the human story is one story in many places. The **ethics** lens:
-we hold hard topics (slavery, colonization) with honesty and care, never as spectacle,
-and we name the dignity of the people in the story (philosophy §5, facilitation "Holding
-difficult topics safely"). The **egalitarian** lens: we ask, at every turn, who
-benefits, who is left out, and whose voice is heard. Keep big questions open: origins
-and meaning are held as questions, never answered as creed (philosophy §11). Spacing
-note (S-039): this recall pass is what makes the unit's ideas stick later.
+**Tone.** Curious and steady — an opening pass, not a test.
+
+**The facts to land.**
+
+1. Recall the Grade 7 ideas this unit builds on.
+2. Preview four strands — change and continuity, knowledge traditions, migration and
+   trade, power and resistance — and the eight goals.
+3. Plant the organising idea: history is a global story told from many perspectives.
+
+**Don't overshoot.** Do not try to teach the eight goals today; name and locate them.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* weighing competing explanations and checking sources is the habit
+  we carry forward (S-011).
+- *Global:* the unit moves across Mesoamerica, the Pacific, the Indian Ocean, East and
+  West Africa, the Andes, and the Americas — one human story in many places.
+- *Ethics:* hold hard topics (slavery, colonization) with honesty and care, never as
+  spectacle, and name the dignity of the people in the story (`philosophy` §5;
+  `facilitation.md`, "Holding difficult topics safely").
+- *Egalitarianism:* at every turn, ask who benefits, who is left out, and whose voice is
+  heard.
+
+**The skill.** Spacing: this recall pass is what makes the unit's ideas stick later
+(S-039).
+
+**Openness.** Keep big questions open: origins and meaning are held as questions, never
+answered as creed (`philosophy` §11).
 
 ## Procedure
 

@@ -121,15 +121,34 @@ than another.
 
 ## Facilitator note
 
-The idea to land is that **identity has many connected parts, and every shape of family,
-culture, language, and belief is whole and worthy**. This is the unit's deepest "honor
-every family" moment: be explicit that families come in many shapes — two parents, one
-parent, grandparents, adoptive or foster parents, siblings, chosen family, blended
-families — and that all belong; model adoption, moving, and multilingualism as ordinary,
-not "special cases." **Beliefs are personal and optional to share** — invite learners to
-include beliefs (values, faith, worldview) only if they choose, and never rank any
-belief system. The gallery walk should celebrate *difference*, never compare maps as
-better or worse. See `docs/facilitation.md` and `docs/art-style.md`.
+**Tone.** Warm and matter-of-fact. Difference is ordinary here, not exotic.
+
+**The facts to land.**
+
+1. **Identity has many connected parts**, and every shape of family, culture, language,
+   and belief is whole and worthy.
+2. **Families come in many shapes** — two parents, one parent, grandparents, adoptive or
+   foster parents, siblings, chosen family, blended families — and all belong.
+3. **Adoption, moving, and multilingualism are ordinary**, not "special cases."
+4. **Beliefs are personal and optional to share.** Invite them only if learners choose,
+   and never rank any belief system.
+
+**Don't overshoot.** Do not treat a family's shape as a story to be explained or a
+hardship to be pitied.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* naming your own parts is self-knowledge, not confession.
+- *Egalitarianism:* every map in the room counts equally; none is the default.
+- *Global:* cultures and languages vary, and each is whole on its own terms.
+- *Community:* the class is a small community practising belonging.
+
+**The skill.** Add a belief only if you choose to, and describe a classmate's map by its
+parts, with a reason — never a rank. The gallery walk celebrates difference; it does not
+compare maps as better or worse.
+
+See `docs/facilitation.md` and `docs/art-style.md` on honoring families and depicting
+them.
 
 ## Procedure
 

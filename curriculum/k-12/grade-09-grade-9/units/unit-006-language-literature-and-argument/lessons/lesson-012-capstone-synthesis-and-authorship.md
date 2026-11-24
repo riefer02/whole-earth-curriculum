@@ -62,7 +62,7 @@ context_variants:
     note: Build the web outdoors, and for each goal find or point to something real nearby — a conversation, a sign, a story — that it explains
 assets:
   - path: assets/images/L.09.006.12-capstone-web.svg
-    alt: A web diagram with synthesis and authorship at the center and eight spokes — synthesize spoken sources, lead a discussion, structure style and argument, world literature, synthesize across texts, research argument, real audiences, and languages and identity — each labeled with a short reminder
+    alt: "A centre ellipse with spokes out to eight nodes, each title joined to the centre — synthesize sources, lead fair discussion, structure and style, world literature, synthesize texts, research argument, compose for readers, languages and identity."
     kind: image
     source: original
 duration_minutes: 55
@@ -124,27 +124,38 @@ web, in your own hands.
 
 ## Facilitator note
 
-It is the **closing capstone and synthesis**. The goal: **each learner recalls all eight
-goals and connects them into one web around synthesis and authorship.** The eight goals
-are: (1) synthesize multiple spoken sources into one account; (2) lead a discussion that
-welcomes every voice and manages disagreement fairly; (3) analyze how structure, style,
-and argument work together; (4) read and analyze texts from world literatures across
-cultures; (5) synthesize across multiple texts into a supported position; (6) write a
-research-supported argument that integrates and cites sources and weighs conflicting
-evidence; (7) compose for real audiences and purposes; (8) explain how languages are
-part of identity and describe language loss and revitalization, and why protecting
-languages matters for humanity and the environment. This is a **retrieval and spacing**
-moment — having learners recall rather than re-read is what makes the learning durable
-(S-039). Keep assessment **mastery, not ranking**: a learner who cannot yet recall a
-goal revisits that lesson's artifact and tries again — "not yet" is information, never a
-verdict (philosophy §8). The four lenses, together: the **critical-thinking** lens asks
-what evidence supports each position; the **ethics** lens asks what is right and who is
-affected; the **egalitarian** lens asks who benefits and who is left out — in a
-discussion, in a source, in a language; the **global** lens asks how this looks in other
-places, times, and languages; the **environment** lens asks what language loss costs the
-living Earth. Celebrate the collective: each learner's web is a thread in one class
-tapestry of voices. This lesson also gathers the portfolio — the unit's artifacts are
-the evidence of the learner's authorship (facilitation.md).
+**Tone.** Celebratory — gather the year's work, do not test it.
+
+**The facts to land.**
+
+1. **Each learner recalls all eight goals and connects them into one web** around
+synthesis and authorship.
+2. **The eight goals:** (1) synthesize spoken sources into one account; (2) lead a
+discussion welcoming every voice and handling disagreement fairly; (3) analyze how
+structure, style, and argument work together; (4) analyze world literature across
+cultures. And (5) synthesize across texts into a supported position; (6) write a
+research-supported argument that cites sources and weighs conflicting evidence; (7)
+compose for real audiences and purposes; (8) explain how languages carry identity, and
+describe loss and revitalization — and why protecting languages matters for humanity and
+the environment.
+3. **Retrieval, not re-reading,** is what makes the learning durable (S-039).
+4. **Mastery, not ranking:** a learner who cannot yet recall a goal revisits that
+lesson's artifact and tries again — "not yet" is information, never a verdict
+(philosophy §8).
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* what evidence supports each position?
+- *Ethics:* what is right, and who is affected?
+- *Egalitarianism:* who benefits and who is left out — in a discussion, a source, a
+language?
+- *Global:* how does this look in other places, times, and languages?
+- *Environment:* what does language loss cost the living Earth?
+
+**The skill.** Build the web aloud: name each goal, point to the artifact that shows it.
+
+**Gathering.** Each web is a thread in one class tapestry of voices; gather the
+portfolio, the artifacts that evidence the learner's authorship (facilitation.md).
 
 ## Procedure
 

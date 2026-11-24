@@ -115,22 +115,34 @@ is who watches whom, and what that does to freedom.
 
 ## Facilitator note
 
-The idea to land: **surveillance is an asymmetry of visibility — the many are watched by
-the few — and that asymmetry redistributes power: it can protect (the many can hold the
-few accountable) or control (the few can chill the many into self-censorship).** Hold
-both directions honestly; surveillance is not one thing. The **ethics** lens: watching
-can be a duty of care or a tool of domination, so we must ask *for what and by whom*.
-The **egalitarian** lens: surveillance rarely falls evenly — the powerful are often the
-watchers and the marginalized the watched, and the digital divide means some are
-over-exposed while others are invisible (S-281). The **global** lens: states and
-communities differ sharply in how they watch and why — some watch for public health,
-some for protest control; no one arrangement is the human default. The **technology**
-lens: cheap sensors and storage made mass surveillance possible where it was once
-impossible. The **environment** lens: surveillance infrastructure — cameras, servers,
-networks — carries material and energy costs. Power here is the capacity to shape what
-others can do (S-275). Distinguish evidence (who is watched) from values (who *should*
-be). Hold questions open (philosophy §11). Preview: next lesson turns to automation —
-when machines act on that data, who gains and who loses.
+**Tone.** Watchful and fair: surveillance is not one thing, so hold both directions.
+
+**The facts to land.**
+
+1. Surveillance is an asymmetry of visibility — the many watched by the few — and it
+   redistributes power: it can protect, when the many hold the few accountable, or
+   control, when the few chill the many into self-censorship.
+2. It rarely falls evenly: the powerful are often the watchers and the marginalized the
+   watched, while the digital divide leaves some over-exposed and others invisible
+   (S-281).
+3. Power here is the capacity to shape what others can do (S-275).
+
+**Don't overshoot.** Do not collapse surveillance into a single villain; which direction
+it runs is the analysis.
+
+**The lenses, briefly.**
+
+- *Ethics:* watching can be care or domination — always ask, for what and by whom.
+- *Egalitarianism:* the watch is unevenly distributed.
+- *Global:* states watch for public health, for protest control, and much else; no
+  arrangement is the human default.
+- *Technology:* cheap sensors and storage made mass surveillance possible where it
+  once was not.
+- *Environment:* cameras, servers, and networks carry material and energy costs.
+
+**The skill.** Model once, then release (S-011): sort three cases by who watches, for
+what, and who can refuse. Keep questions open (philosophy §11). Next lesson turns to
+automation.
 
 ## Procedure
 

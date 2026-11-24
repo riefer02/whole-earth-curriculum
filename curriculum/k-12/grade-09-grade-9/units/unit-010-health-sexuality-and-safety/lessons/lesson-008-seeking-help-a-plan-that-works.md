@@ -116,33 +116,39 @@ already done.
 
 ## Facilitator note
 
-The concept to land: **seeking help is a concrete, learnable skill with a plan — name
-two trusted adults, name one service you could reach, practice what you would say, and
-know the urgent step — and it is a strength, never a weakness.** This is a skills
-lesson, so use explicit instruction (the worked-example plan) and role-play for the
-asking (S-011). Teach the plan's parts plainly: **(1) two trusted adults** you could
-actually tell; **(2) one service** — a school counselor, a health worker, a helpline, a
-crisis line — that you could reach; **(3) the words** — a practiced first sentence like
-"I've been feeling really low for a while and I think I need help"; **(4) the urgent
-step** — **if someone is in immediate danger of harming themselves, do not keep it
-secret: tell a trusted adult now, stay with them, and contact emergency services or a
-crisis line.** Be direct and safe about the urgent step without being graphic: name that
-it exists, that it is not a secret to keep, and that trained help is the response (WHO
-adolescent mental health, S-311). Teach supporting a friend: **listen, do not judge,
-encourage professional help, do not promise to keep danger secret, and take care of
-yourself too — you cannot be the only support.** The ethics lens: when a friend tells
-you they are struggling, your loyalty is to their safety, not to keeping a dangerous
-secret. The egalitarian lens: **help is for everyone; no one has to earn it, and a
-person's worth is never the question — access is the question, and unequal access is an
-injustice to work against.** The global lens: support takes many forms worldwide —
-family, elders, faith communities, peer groups, clinics, helplines — and all of them
-count. The technology lens: helplines, crisis text and chat lines, and teletherapy mean
-help can now reach a person far from any clinic or counselor — technology as a bridge to
-support, never a replacement for a trusted human being. Hold the room with care:
-**sharing a plan's contents is optional and private; a learner may write names or
-initials or keep the plan to themselves; and if a learner discloses real risk, follow
-your safeguarding path immediately and warmly** (WHO, S-051; S-311). End on hope and
-agency: **no one should face struggle alone, and reaching out is how that changes.**
+**Tone.** Bracing and kind — a plan, and hope at the end.
+
+**The facts to land.**
+
+1. **Two trusted adults** you could tell.
+2. **One service** — school counsellor, health worker, helpline, crisis line.
+3. **The words** — a practised first sentence: "I've been feeling really low and I think
+I need help."
+4. **The urgent step:** **if someone is in immediate danger of harming themselves, never
+keep it secret — tell a trusted adult now, stay with them, and contact emergency
+services or a crisis line.**
+
+**The lenses, briefly.**
+
+- *Social-emotional:* seeking help is a learnable skill, a strength and never weakness
+(WHO, S-311).
+- *Ethics:* loyalty to a struggling friend is loyalty to their safety, not a secret.
+- *Egalitarianism:* **help is for everyone; no one earns it, and a person's worth is
+never the question — access is, and unequal access is an injustice to work against.**
+- *Global:* support takes many forms — family, elders, faith, peers, clinics,
+helplines.
+- *Community:* listen without judgement, encourage professional help, never promise
+secrecy about danger, and care for yourself too.
+- *Technology:* helplines, chat lines, and teletherapy reach people far from a clinic
+— a bridge, not a replacement.
+
+**The skill.** Explicit instruction (the worked-example plan) and role-play for the
+asking (S-011).
+
+**Safety floor.** **Sharing the plan is optional and private; a learner may write
+initials or keep it to themselves. If a learner discloses real risk, follow your
+safeguarding path immediately and warmly** (WHO, S-051; S-311). No one should face
+struggle alone; reaching out is how that changes.
 
 ## Procedure
 

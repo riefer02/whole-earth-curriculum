@@ -115,18 +115,33 @@ meadow, forest, and sea.
 
 ## Facilitator note
 
-Keep it **concrete and gentle**: energy is what lets a body move, grow, and live, and
-eating is how animals take it in. The standard asks only that learners say animals get
-energy from eating plants or other animals and give one example — do not push toward the
-full detail of how plants make food (that comes in Grade 3). Use a food chain as a
-*story* of energy moving, not a scary story of eating: say "the fox gets energy from the
-rabbit," not gory detail. Offer chains from many biomes — grass → rabbit → fox; sea
-plants → fish → shark; grass → zebra → lion — so no single place is the default. A light
-ethical thread: every living thing takes energy to live, and all of it belongs to one
-connected living world (this returns in Lessons 7–8 and the capstone). Honor every body:
-describe each card in words for a learner who is blind or has low vision; a non-speaking
-learner places the cards in order and points to the arrow to show the direction energy
-moves; acting out each part works for learners who learn best by moving.
+**Tone.** Concrete and gentle. Energy is what lets a body move, grow, and live.
+
+**The facts to land.**
+
+1. Animals get energy by eating plants or other animals — say that, and give one
+   example.
+2. A food chain is a **story of energy moving**: "the fox gets energy from the rabbit,"
+   not gory detail.
+3. Offer chains from many biomes — grass → rabbit → fox; sea plants → fish → shark;
+   grass → zebra → lion — so no single place is the default.
+4. Every living thing takes energy to live, and all of it belongs to one connected
+   living world (this returns in Lessons 7–8 and the capstone).
+
+**Don't overshoot.** Do not push toward how plants make food; that comes in Grade 3.
+
+**The lenses, briefly.**
+
+- *Environment:* energy moves from sun-fed plants outward.
+- *Intellectual:* the arrow shows direction, not importance.
+- *Global:* every biome runs its own chain.
+- *Ethics:* taking energy to live is shared by every creature, people included.
+
+**The skill.** Order a chain and say which way the energy moves.
+
+**Access.** Blind or low-vision: hear each card described in words. Non-speaking: place
+the cards in order and point to the arrow. Acting out each part works for learners who
+learn best by moving.
 
 ## Procedure
 

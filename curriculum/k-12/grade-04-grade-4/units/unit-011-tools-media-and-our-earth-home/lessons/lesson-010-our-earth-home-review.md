@@ -150,19 +150,35 @@ skills — they are one way of being a person on this one, shared Earth home.
 
 ## Facilitator note
 
-It is the unit's **culminating review** — retrieval practice and connection, not new
-content. The science of learning says recalling and organizing is what makes learning
-last (retrieval practice; spacing); this lesson does that deliberately. Guide the
-four-corner sort, then let learners recall one idea per corner and write a **"my steward
-plan"** — one real, doable action — so the unit ends in agency, not a test. Keep it
-**hope-full and global**: the steward plan should cost nothing and work anywhere (pick
-up litter safely, plant or water a seed, carry a reusable bag, mend something, check a
-claim before sharing it, tell others kindly). Emphasize that these habits are practiced
-by people everywhere, with or without wealth — stewardship is not a product to buy.
-Honor every body: a learner who is blind or has low vision recalls ideas by voice; a
-non-speaking learner points to artifacts and corners; standing in four spots works for
-learners who learn best by moving; a learner who struggles with recall is invited to
-pick up their own artifact as a memory cue rather than answer from memory alone.
+**Tone.** Brisk and celebratory — retrieval, not a test.
+
+**The facts to land.**
+1. This is **retrieval and connection**, not new content; recalling and organizing is
+   what makes learning last (retrieval practice; spacing).
+2. Guide the four-corner sort, then let learners recall one idea per corner and write a
+   **"my steward plan"** — one real, doable action.
+3. The plan should cost nothing and work anywhere: pick up litter safely, plant or water
+   a seed, carry a reusable bag, mend something, check a claim before sharing it, tell
+   others kindly.
+
+**Don't overshoot.** Stewardship is not a product to buy, and this is not a test of
+recall.
+
+**The lenses, briefly.**
+- *Technology:* check before you share.
+- *Environment:* one plan, one place.
+- *Critical-thinking:* recall, sort, connect.
+- *Ethics:* care, not performance.
+- *Community:* the class's plans sit side by side.
+- *Global:* these habits are practiced everywhere, with or without wealth.
+
+**The skill.** Write one steward action you can do this week, and say where you will do
+it.
+
+**Access:** a learner who is blind or has low vision recalls ideas by voice; a learner
+who does not speak points to artifacts and corners; standing in four spots works for
+movers; a learner who struggles with recall may pick up their own artifact as a cue
+rather than answer from memory.
 
 ## Procedure
 

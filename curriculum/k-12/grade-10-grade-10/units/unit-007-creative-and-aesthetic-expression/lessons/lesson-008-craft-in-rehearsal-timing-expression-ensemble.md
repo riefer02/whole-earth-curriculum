@@ -118,29 +118,37 @@ that loop, then meets an audience.
 
 ## Facilitator note
 
-The idea to land: **craft is a loop — rehearse, watch (or record), note what wavered,
-revise one thing, repeat — and feedback works only when it is specific and about the
-work, not the person.** Timing (are the pauses and speeds deliberate?), expression (do
-face and body carry the concept?), and ensemble (do the parts fit with others?) are the
-three observable targets. The loop mirrors the assessment philosophy: observe what the
-learner *does* and say back one concrete thing, never rank (S-011; S-189).
+**Tone.** Brisk and collaborative: one specific note, one change, then again.
 
-The **ethics** lens: honest feedback is a gift — specific, kind, and about the work —
-and receiving it is how a maker grows without losing their own voice. The
-**egalitarian** lens: feedback is not a judge's verdict but a peer's help; everyone
-gives and receives, and a "not yet" is a next step, never a ranking. The **global**
-lens: rehearsal traditions differ across cultures, but everywhere the watch-and-revise
-loop is how craft is passed down — from the tinikling dancers who step between bamboo
-poles in the Philippines (S-116) to the capoeira circle of Brazil (S-325), mastery is
-made in repeated, watched practice. The **technology** lens: a camera lets a performer
-see what a mirror cannot — the piece from the audience's eyes. The **environment** lens:
-rehearsing outdoors teaches the performer to work *with* place and weather, not against
-it. The **community** lens: a showing for an audience who wants the performer to succeed
-is the natural home of a performance.
+**The facts to land.**
 
-Keep the showing low-stakes and cooperative (assessment.md: performance for an audience
-who wants the learner to succeed). Preview: Lesson 9 turns to the ethics of engaging
-with *other* people's movement and drama traditions.
+1. Craft is a loop — rehearse, watch or record, note what wavered, revise one thing,
+   repeat.
+2. Three observable targets: timing (are pauses and speeds deliberate?), expression (do
+   face and body carry the concept?), ensemble (do the parts fit with others?).
+3. Feedback works only when it is specific and about the work, not the person — observe
+   what the learner *does* and say back one concrete thing, never rank (S-011, S-189).
+
+**Don't overshoot.** Do not let the loop become perfectionism; one revision at a time,
+and "not yet" is a next step rather than a verdict.
+
+**The lenses, briefly.**
+
+- *Ethics:* honest feedback is a gift — specific, kind, and about the work.
+- *Egalitarianism:* feedback is a peer's help, not a judge's verdict; everyone gives and
+  receives.
+- *Global:* from tinikling dancers stepping between bamboo poles in the Philippines
+  (S-116) to the capoeira circle in Brazil (S-325), craft is passed on by watched
+  repetition.
+- *Technology:* a camera shows what a mirror cannot — the piece from the audience's
+  eyes.
+- *Environment:* rehearsing outdoors teaches working *with* place and weather.
+- *Community:* the natural home of a performance is an audience who wants it to
+  succeed.
+
+**The skill.** Model the loop once, then release (S-011): record, name one thing that
+wavered, revise it, record again. Keep the showing low-stakes and cooperative
+(assessment.md). Lesson 9 turns to other people's movement traditions.
 
 ## Procedure
 

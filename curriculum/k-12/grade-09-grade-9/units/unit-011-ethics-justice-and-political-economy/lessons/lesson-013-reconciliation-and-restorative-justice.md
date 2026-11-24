@@ -114,24 +114,40 @@ dismiss it.
 
 ## Facilitator note
 
-Its goals: **(1) teach restorative justice accurately — it centers the three questions
-(what happened; who was harmed and what do they need; who is responsible, and how is the
-harm repaired and the relationship restored), and its modern frame traces to Howard Zehr
-and the International Institute for Restorative Practices, with older roots in
-Indigenous peacemaking (e.g., Diné *hózhó* and peacemaking circles); (2) hold both
-sides — its possibilities (truth, repair, restored relationship, accountability without
-mere vengeance) and its limits (some harms may be too great; it can fail if power is
-unequal or if the responsible person refuses; it is not a substitute for justice where
-impunity would result); (3) avoid dogma — present restorative justice as *one*
-defensible response, compared with others, never as the only right answer (philosophy
-§11).** The ethics lens: repair is a moral achievement, not a formula. The egalitarian
-lens: ask whether the process shares power or reproduces the original inequality. The
-global lens: reconciliation looks different across cultures — truth commissions,
-peacemaking circles, community courts — none is the default. The community lens: serious
-harm breaks relationships, and repair must include the community. Distinguish evidence
-from values: *that* restorative practices exist and are documented is a fact (cite
-sources); *that* they are preferable in a given case is a value learners argue. This is
-a portfolio artifact — keep the evaluation.
+**Tone.** Careful and hopeful — repair, not spectacle.
+
+**The facts to land.**
+
+1. **Restorative justice centres three questions:** what happened; who was harmed and
+what do they need; who is responsible, and how is the harm repaired and the relationship
+restored.
+2. **Its modern frame traces to Howard Zehr and the International Institute for
+Restorative Practices,** with older roots in Indigenous peacemaking — Diné *hózhó*,
+peacemaking circles.
+3. **Its possibilities:** truth, repair, restored relationship, accountability without
+mere vengeance. **Its limits:** some harms may be too great; it can fail when power is
+unequal or the responsible person refuses; it is no substitute for justice where
+impunity would result.
+
+**The lenses, briefly.**
+
+- *Ethics:* repair is a moral achievement, not a formula.
+- *Egalitarianism:* ask whether the process shares power or reproduces the original
+inequality.
+- *Global:* reconciliation looks different across cultures — truth commissions,
+peacemaking circles, community courts — none the default.
+- *Community:* serious harm breaks relationships, and repair must include the
+community.
+- *Critical-thinking:* name what the process can and cannot deliver.
+
+**The skill.** Evaluate one case against both the promises and the limits.
+
+**Don't overshoot.** Restorative justice is *one* defensible response, compared with
+others, never the only right answer (philosophy §11).
+
+**Evidence and values.** *That* these practices exist and are documented is a fact (cite
+sources); *that* they are preferable in a given case is a value learners argue. Keep the
+evaluation.
 
 ## Procedure
 

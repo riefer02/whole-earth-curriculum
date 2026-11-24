@@ -122,30 +122,36 @@ the way you meant it to.
 
 ## Facilitator note
 
-The idea to land: **politeness and address are cultural norms — how we greet, title, and
-show respect differs across cultures and languages, often inside the grammar
-(honorifics, polite forms); the skill is to watch, ask, and adapt, never to rank one
-culture's way above another.** Register and formality (S-237) are the shared machinery
-here: every language and culture draws the close-to-formal line, but *where* and *how*
-differ. Honorific systems — titles, polite verb endings, kinship forms of address — mark
-respect inside grammar in many languages; a learner who knows one such system has
-something to teach the room. Hold the value plainly: no culture's politeness is the
-"correct" one, and respect is an intention made visible in the other person's idiom.
+**Tone.** Warm and unembarrassed: getting a norm wrong is how anyone learns a new one.
 
-Model the skill once, then let learners practice (worked example → guided practice →
-independent work; S-011). The **global** lens is the spine: the room itself is a
-multicultural setting — let learners teach their own culture's forms and learn one
-another's. The **ethics** lens: adapting politeness is honoring the other person; the
-"respectful check" (ask, don't assume) is the honest guard against stereotyping a whole
-culture from one example. The **egalitarian** lens: no accent, dialect, or politeness
-norm is "less polite" — difference is not deficit, and a learner who does not yet know a
-norm is not failing, they are learning. The **social-emotional** lens: getting a norm
-wrong can feel mortifying — normalize the wobble, and teach repair ("I did not know —
-thank you for showing me"). The **critical-thinking** lens: ask *what* a form of address
-is doing (respect? distance? warmth? hierarchy?) before imitating it, so adaptation is
-thoughtful, not mimicry. This is the unit's closing lesson: the rhetorical critique, the
-public voice, the careful reading, the crafted prose, the accessible design, and the
-analysis of power all land here, in how one person speaks to another.
+**The facts to land.**
+
+1. Politeness and address are cultural norms: how we greet, title, and show respect
+   differs across cultures and languages, often inside the grammar.
+2. Register and formality (S-237) are the shared machinery — every language draws the
+   close-to-formal line, but *where* and *how* differ; honorifics mark respect inside
+   grammar, and a learner who knows one system can teach the room.
+3. No culture's politeness is the "correct" one; respect is an intention made visible in
+   the other person's idiom.
+
+**Don't overshoot.** Do not stereotype a culture from one example; ask, don't assume.
+
+**The lenses, briefly.**
+
+- *Global:* the spine — the room itself is the multicultural setting, so learners
+  teach their own forms and learn one another's.
+- *Ethics:* adapting politeness honours the other person; the respectful check guards
+  against stereotyping.
+- *Egalitarianism:* no accent, dialect, or politeness norm is "less polite"; not yet
+  knowing a norm is learning, not failing.
+- *Social-emotional:* a wrong norm can feel mortifying — normalise the wobble and
+  teach the repair: "I did not know — thank you for showing me."
+- *Critical-thinking:* ask what a form of address is doing — respect, distance,
+  warmth, hierarchy — before imitating it.
+
+**The skill.** Model once, then release (S-011): learn one form of address from a
+classmate and use it correctly. This closes the unit: every thread lands in how one
+person speaks to another.
 
 ## Procedure
 

@@ -118,27 +118,38 @@ but only if we look.
 
 ## Facilitator note
 
-The idea to land: **an algorithm can be correct yet unfair; bias can enter through the
-input, through the rule itself, or through a proxy that stands in for a protected
-attribute — and we can see all three by tracing the same rule on different inputs.**
-Teach the trace explicitly (S-011), then let learners argue about fairness — that
-argument *is* the learning, so hold it open rather than closing it with one verdict.
-Keep the descriptive question (does the output differ by group?) apart from the value
-question (is that difference acceptable?), per philosophy §5.
+**Tone.** Analytical and open: the argument about fairness is the learning, not a
+verdict to deliver.
 
-The **ethics** lens: a rule that is correct but harmful still carries moral weight;
-naming that is the whole point of the lesson. The **egalitarianism** lens: fairness is
-judged by who is left out — a rule is not fair just because its author intended it to
-be; check the outputs, not the intentions. The **global** lens: the same mechanism
-appears everywhere algorithms gate scarce things — credit, housing, jobs, migration,
-school places — across many legal and cultural contexts, none of which is the default.
-The **technology** lens: recommendation and ranking systems shape what we see and get;
-personalization can wrap a person in a "filter bubble" of what confirms their existing
-views (S-482, S-481). The **environment** lens: allocation algorithms decide who gets
-water, land, or disaster relief, so a biased rule can mean real ecological and bodily
-harm to one group (S-483). The **critical-thinking** lens: distinguishing input bias, a
-biased rule, and a biased proxy is careful analysis, not slogan. Preview: Lesson 9 turns
-to coordinates and vectors.
+**The facts to land.**
+
+1. An algorithm can be correct yet unfair; bias enters through the input, the rule
+   itself, or a proxy standing in for a protected attribute — and tracing one rule on
+   different inputs shows all three.
+2. Keep the descriptive question (does the output differ by group?) apart from the value
+   question (is that difference acceptable?) (philosophy §5).
+3. The same mechanism gates scarce things everywhere — credit, housing, jobs, migration,
+   school places.
+
+**Don't overshoot.** Do not close the fairness argument with a single answer; learners
+should leave able to argue it, not recite it.
+
+**The lenses, briefly.**
+
+- *Ethics:* a rule that is correct but harmful still carries moral weight.
+- *Egalitarianism:* fairness is judged by who is left out — check the outputs, not the
+  intentions.
+- *Global:* the mechanism appears across legal and cultural contexts; none is the
+  default.
+- *Technology:* ranking shapes what we see, and personalisation can wrap a person in a
+  filter bubble (S-482, S-481).
+- *Environment:* allocation rules decide who gets water, land, or disaster relief, so
+  bias can mean real harm to one group (S-483).
+- *Critical-thinking:* input bias, biased rule, biased proxy — careful analysis, not
+  slogan.
+
+**The skill.** Model the trace explicitly, then release (S-011): run one rule on two
+inputs and say where the unfairness enters. Lesson 9 turns to coordinates and vectors.
 
 ## Procedure
 

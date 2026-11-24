@@ -119,26 +119,35 @@ one plan — yours, for life, and yours to revise.
 
 ## Facilitator note
 
-The idea to land: **independent health management is not five separate rules but one
-integrated, revisable plan — and revisiting it is part of the plan, not a failure of
-it.** Model one spoke's keep/adjust as a worked example, then let learners assemble
-their own wheel, retrieving the unit's earlier work (S-011, S-039). Celebrate the plan
-as a living thing: a learner who revises is succeeding, not slipping. Never grade a
-body, a number, or a habit; grade the *integration* — that all five areas are present
-and thoughtfully connected.
+**Tone.** Celebratory and steady: a plan that gets revised is a plan that is working.
 
-The **ethics** lens: a plan you make for your own life is a promise to yourself — make
-it one you can keep and one that treats you with kindness rather than punishment. The
-**egalitarianism** lens: every body, every ability, every budget can hold a lifelong
-plan — the plan adapts to the person, never the person to some fixed ideal. The
-**global** lens: a lifelong plan looks different in every culture and climate — a plan
-that works in one place may not in another, and that variety is health, not failure. The
-**technology** lens: tools can *log* your plan, but the plan is yours — a tool should
-serve it, not run it, and no tracker knows your life better than you do. The
-**environment** lens: your environment — housing, air, green space, safety — shapes what
-plan is even possible, so the plan must include tending the *conditions* of health, not
-only the habits. Preview: Lessons 9 and 10 turn outward, to caring for others and
-emergency response.
+**The facts to land.**
+
+1. Independent health management is not five separate rules but one integrated,
+   revisable plan — and revisiting it is part of the plan, not a failure of it.
+2. Grade the *integration*: all five areas present and thoughtfully connected, never a
+   body, a number, or a habit.
+3. A plan that works in one culture and climate may not work in another, and that
+   variety is health, not failure.
+
+**Don't overshoot.** Do not let revising read as slipping; the learner who adjusts is
+succeeding.
+
+**The lenses, briefly.**
+
+- *Ethics:* a plan for your own life is a promise to yourself — make it one you can
+  keep, and one that treats you kindly.
+- *Egalitarianism:* every body, every ability, every budget can hold a lifelong plan; the
+  plan adapts to the person.
+- *Global:* plans look different in every culture and climate.
+- *Technology:* tools log the plan, but the plan is yours; no tracker knows your life
+  better than you do.
+- *Environment:* housing, air, green space, and safety shape what plan is even
+  possible, so the plan also tends the conditions of health.
+
+**The skill.** Model one spoke's keep/adjust as a worked example, then release (S-011,
+S-039): assemble the wheel and mark one thing to revisit. Lessons 9–10 turn to caring
+for others.
 
 ## Procedure
 

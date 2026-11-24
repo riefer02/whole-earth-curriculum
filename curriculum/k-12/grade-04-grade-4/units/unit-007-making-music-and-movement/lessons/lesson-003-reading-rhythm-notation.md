@@ -53,10 +53,7 @@ context_variants:
     note: Clap the rhythm or tap it with sticks on a log or the ground; draw the symbols in the dirt with a stick
 assets:
   - path: assets/images/L.04.007.03-reading-rhythm-notation.svg
-    alt: >-
-      Two rows of rhythm symbols: four quarter notes labeled ta, and a row with two
-      beamed eighth notes labeled ti-ti, a quarter note labeled ta, and a quarter rest
-      labeled rest.
+    alt: "Four quarter notes each labelled “ta”; then two beamed eighth notes labelled “ti-ti”, a quarter note “ta”, and a squiggle rest labelled “rest”."
     kind: image
     source: original
 duration_minutes: 45
@@ -111,14 +108,38 @@ can read it and play the very same thing. Today you learn to read that language.
 
 ## Facilitator note
 
-Reading notation is a **skill**, so teach it with a worked example and guided practice
-before independent work (Kirschner, Sweller & Clark, 2006): model "ta ta ta ta," then
-"ti-ti ta rest," clapping each bar while pointing to the symbols, and have the group
-echo. Keep the beat steady by tapping a foot or using a drum. A learner who is deaf or
-hard of hearing can feel the beat through a drum on the floor or a partner's tap on
-their hand, and can show a rest as "no movement." A learner with limited hand use can
-nod, blink, or tap a finger. The goal is that the *symbols* match the *sounds* —
+**Tone.** Playful and steady. The goal is that the *symbols* match the *sounds* —
 correctness, not speed.
+
+**The facts to land.**
+
+1. A **quarter note** is one beat ("ta"); two beamed **eighth notes** are one beat split
+   in two ("ti-ti"); a **quarter rest** is one silent beat.
+2. Reading notation is a **skill**: model it with a worked example, then guided practice,
+   before independent work (Kirschner, Sweller & Clark, 2006).
+3. Notation is a code others can read — write four beats, and a partner plays back exactly
+   what you wrote.
+
+**Don't overshoot.** Do not fix a rhythm by speeding it up; slow and steady beats fast and
+ragged. A rest is a beat, not a mistake.
+
+**The lenses, briefly.**
+
+- *Intellectual:* decoding symbols into sound is the same act as reading a word.
+- *Physical:* the beat lives in the body — a foot tap, a clap, a drum you can feel.
+- *Community:* notation is shared — one drummer writes it, another plays it.
+- *Global:* every tradition has its own way of holding rhythm — notation, drum syllables, or
+  teaching by ear. Honor all, rank none.
+
+**The skill.** Model "ta ta ta ta," then "ti-ti ta rest," clapping each bar and pointing at
+the symbols; the group echoes.
+
+**Access.** A deaf or hard-of-hearing learner can feel the beat through a drum on the floor
+or a partner's tap, and can show a rest as "no movement." Limited hand use: nod, blink, tap
+a finger.
+
+**Safety floor.** Keep volume comfortable; drums close to an ear can hurt.
+
 
 ## Procedure
 

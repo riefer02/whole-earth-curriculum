@@ -7,7 +7,7 @@
 
   <!-- Header -->
   <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">What Living Things Need</text>
-  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="14.1" fill="#4f6d7a">Sun, water, food, and air — every living thing needs these gifts.</text>
+  <text x="256" y="72" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Sun, water, food, and air — every living thing needs these gifts.</text>
 
   <!-- ===== Central plant ===== -->
   <g>
@@ -75,5 +75,5 @@
   </g>
 
   <!-- Footer -->
-  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">The Earth is the home that gives all living things what they need.</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The Earth is the home that gives all living things what they need.</text>
 </svg>

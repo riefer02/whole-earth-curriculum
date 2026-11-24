@@ -112,23 +112,33 @@ benefit against harm, near against far — is exactly what ethical reasoning abo
 
 ## Facilitator note
 
-The idea to land: **a technology is never all benefit or all harm; weighing it means
-naming benefits and harms for the people near it and the people far away, across its
-whole life — then judging which trade-off you can defend.** Teach the weighing skill
-with a worked example first, then guided practice, then independent work — novices learn
-a procedure this way (S-011). Keep the facts accurate and hedged: cobalt and other
-minerals in phones are *sometimes* mined in conditions that harm and exploit workers,
-including children (S-398); discarded phones become e-waste, which when improperly
-dumped or recycled can release hazardous substances, with children and pregnant women
-especially vulnerable (S-397). At the same time, mobile connectivity is real and widely
-valued — it is how hundreds of millions of people bank, learn, and stay connected
-(S-281, S-211). Hold both true at once; do not collapse into a verdict that a phone is
-simply evil or simply wonderful. The **egalitarian** lens: always ask who bears each
-harm and who keeps each benefit — the distance between them is the point. The **global**
-lens: the people harmed by a phone's birth and death live on other continents; the
-question of fairness crosses borders. Distinguish evidence (the documented harms) from
-values (how much each harm should weigh). Preview: next lesson we weigh an environment,
-not a device.
+**Tone.** Even-handed: hold both true at once, and refuse the easy verdict.
+
+**The facts to land.**
+
+1. A technology is never all benefit or all harm; weighing it means naming benefits and
+   harms for the people near it and far away, across its whole life, then defending the
+   trade-off you can.
+2. Cobalt and other minerals in phones are *sometimes* mined in conditions that harm and
+   exploit workers, including children (S-398); discarded phones become e-waste, which
+   when dumped or informally recycled can release hazardous substances, with children
+   and pregnant women especially vulnerable (S-397).
+3. Mobile connectivity is real and valued: it is how hundreds of millions bank, learn,
+   and stay connected (S-281, S-211).
+
+**Don't overshoot.** Do not collapse into "a phone is evil" or "a phone is wonderful".
+
+**The lenses, briefly.**
+
+- *Ethics:* keep the documented harms (evidence) apart from how much each should weigh
+  (values).
+- *Egalitarianism:* always ask who bears each harm and who keeps each benefit; the
+  distance between them is the point.
+- *Global:* the people harmed by a phone's birth and death live on other continents.
+- *Technology:* a device is a chain of design decisions, not one object.
+
+**The skill.** Teach the weighing with a worked example, then guided practice, then
+independent work (S-011). Next lesson weighs an environment, not a device.
 
 ## Procedure
 

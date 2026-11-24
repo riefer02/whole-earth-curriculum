@@ -110,22 +110,32 @@ Today you choose to be someone who makes room.
 
 ## Facilitator note
 
-The goal: **each learner analyzes who is included and who is left out, and plans one
-concrete, doable act to strengthen belonging this week.** The act must be small enough
-to actually happen — a saved seat, a learned name, an invitation — not a grand scheme.
-The **critical-thinking** lens: noticing that circles form almost by habit is the first
-step to widening them; in-groups and out-groups can arise from nothing more than a
-shared label (S-232). The **egalitarian** lens: the question is never only "are we
-friendly?" but "who is always left out, and why?" — belonging is shaped by how a
-person's identity is received, and inclusive settings treat difference as ordinary
-rather than deficient (S-235). The **ethics** lens: welcoming the stranger is treated
-across cultures as a core duty, not a nicety. The **global** lens: what "welcome" looks
-like differs — a shared meal, a spoken greeting, a place made at the fire — but the
-underlying act of making room recurs everywhere. The **technology** lens: online spaces
-can include (a group that welcomes a newcomer in a shared language) or exclude (a chat
-that ignores or mocks). Keep this safe: no one is required to confess a moment of being
-excluded; use the case cards as the shared examples. Celebrate collective action — many
-small welcomes add up to one wider circle (S-233).
+**Tone.** Hopeful and practical — many small welcomes make one wider circle.
+
+**The facts to land.**
+
+1. Analyze who is included and who is left out.
+2. Plan one concrete, doable act to strengthen belonging this week — a saved seat, a
+   learned name, an invitation — not a grand scheme.
+3. In-groups and out-groups can arise from nothing more than a shared label (S-232);
+   belonging is shaped by how identity is received, and inclusive settings treat
+   difference as ordinary, not deficient (S-235).
+
+**Don't overshoot.** Do not promise that one welcome fixes a whole circle, or turn a
+classmate into a project.
+
+**The lenses, briefly.**
+
+- *Community:* many small welcomes add up to one wider circle (S-233).
+- *Social-emotional:* being outside is painful; hold that gently.
+- *Ethics:* welcoming the stranger is a core duty across cultures, not a nicety.
+- *Egalitarianism:* ask not only "are we friendly?" but "who is always left out, and why?"
+- *Global:* what "welcome" looks like differs — a shared meal, a spoken greeting, a
+  place at the fire — but making room recurs everywhere.
+- *Technology:* online spaces can include a newcomer or quietly exclude them.
+
+**The skill.** Use the case cards, not learners' own painful memories; no one is
+required to confess a time they were excluded. Assess by what the learner *does*.
 
 ## Procedure
 

@@ -11,38 +11,38 @@
 
   <g font-family="sans-serif" font-size="13">
     <!-- Restoration -->
-    <text x="44" y="110" fill="#2b3a42" font-weight="bold">Restoration</text>
-    <text x="172" y="110" fill="#222222">replant, clean, reintroduce</text>
+    <text font-size="13" x="44" y="110" fill="#2b3a42" font-weight="bold">Restoration</text>
+    <text font-size="13" x="172" y="110" fill="#222222">replant, clean, reintroduce</text>
     <text x="342" y="110" fill="#4f6d7a" font-size="11">works / slow / costly</text>
     <line x1="40" y1="122" x2="484" y2="122" stroke="#e0a458" stroke-width="1.5"/>
 
     <!-- Protected area -->
-    <text x="44" y="150" fill="#2b3a42" font-weight="bold">Protected area</text>
-    <text x="172" y="150" fill="#222222">set land aside</text>
+    <text font-size="13" x="44" y="150" fill="#2b3a42" font-weight="bold">Protected area</text>
+    <text font-size="13" x="172" y="150" fill="#222222">set land aside</text>
     <text x="342" y="150" fill="#4f6d7a" font-size="11">saves habitat / may exclude</text>
     <line x1="40" y1="162" x2="484" y2="162" stroke="#e0a458" stroke-width="1.5"/>
 
     <!-- Regulation -->
-    <text x="44" y="190" fill="#2b3a42" font-weight="bold">Regulation</text>
-    <text x="172" y="190" fill="#222222">limits on pollution, harvest</text>
+    <text font-size="13" x="44" y="190" fill="#2b3a42" font-weight="bold">Regulation</text>
+    <text font-size="13" x="172" y="190" fill="#222222">limits on pollution, harvest</text>
     <text x="342" y="190" fill="#4f6d7a" font-size="11">broad / needs enforcement</text>
     <line x1="40" y1="202" x2="484" y2="202" stroke="#e0a458" stroke-width="1.5"/>
 
     <!-- Biosecurity -->
-    <text x="44" y="230" fill="#2b3a42" font-weight="bold">Biosecurity</text>
-    <text x="172" y="230" fill="#222222">keep invaders out</text>
+    <text font-size="13" x="44" y="230" fill="#2b3a42" font-weight="bold">Biosecurity</text>
+    <text font-size="13" x="172" y="230" fill="#222222">keep invaders out</text>
     <text x="342" y="230" fill="#4f6d7a" font-size="11">prevents / costly to run</text>
   </g>
 
   <!-- Rubric -->
   <text x="256" y="290" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">The four questions</text>
   <g font-family="sans-serif" font-size="14" fill="#222222">
-    <text x="100" y="322">1. Is it effective?</text>
-    <text x="100" y="348">2. Is it fair?</text>
-    <text x="100" y="374">3. Is it affordable?</text>
-    <text x="100" y="400">4. Does it cause side effects?</text>
+    <text fill="#222222" font-size="14" x="100" y="322">1. Is it effective?</text>
+    <text fill="#222222" font-size="14" x="100" y="348">2. Is it fair?</text>
+    <text fill="#222222" font-size="14" x="100" y="374">3. Is it affordable?</text>
+    <text fill="#222222" font-size="14" x="100" y="400">4. Does it cause side effects?</text>
   </g>
-  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="12.1" fill="#4f6d7a">&#8220;Works for whom?&#8221; matters as much as &#8220;does it work?&#8221;</text>
+  <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">&#8220;Works for whom?&#8221; matters as much as &#8220;does it work?&#8221;</text>
 
   <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Every response is a trade-off &#8212; and can work when chosen with local people.</text>
 </svg>

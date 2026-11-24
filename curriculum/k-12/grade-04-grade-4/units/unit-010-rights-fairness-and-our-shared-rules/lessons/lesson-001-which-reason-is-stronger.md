@@ -124,23 +124,32 @@ honestly, which is stronger — and why.
 
 ## Facilitator note
 
-This lesson teaches **judging the strength of a reason**, the unit's first
-moral-reasoning skill. Model the move first as a worked example: name the two reasons,
-then think aloud — "I ask *because of what?* — this reason helps someone who is counting
-on me, so it is stronger." Then do guided practice before independent work. Keep choices
-small, everyday, and blame-free; there is no single correct answer, and a learner may
-decide either way as long as they can defend it with a "because." A reason's strength is
-not about who says it, and no learner's reason is "better" than another's — we compare
-reasons, never people. The **balance-scale** is a picture, not a rule: sometimes the
-reason that helps a person outweighs the reason that is only about wanting something,
-and that is worth wondering about — but there are honest disagreements, and that is the
-point. Hold "what is the strongest reason?" as a question, never a command. A learner
-who does not speak aloud places a stone on the heavier pan or points to a card; a
-learner who is deaf or hard of hearing follows each reason through the chart and sign; a
-learner who is blind or low-vision hears each reason described and states their
-"because" aloud; a learner with a motor difference can direct a partner to place their
-stone. A learner may always pass. The goal is the learner's own honest judgment — "this
-reason is stronger because..." — not a memorized answer.
+**Tone.** Even-handed and curious — an honest judgment, not a correct one.
+
+**The facts to land.**
+1. Judge a reason by asking *because of what?* — a reason that helps someone counting on
+   me is stronger than one only about wanting something.
+2. There is no single correct answer; a learner may decide either way as long as they
+   defend it with a "because."
+3. The **balance-scale** is a picture, not a rule: honest disagreements are the point.
+
+**Don't overshoot.** A reason's strength is not about who says it. We compare reasons,
+never people.
+
+**The lenses, briefly.**
+- *Ethics:* reasons answer to the people they affect.
+- *Egalitarianism:* no learner's reason is "better" than another's.
+- *Social-emotional:* a learner may always pass.
+- *Global:* choices from many kinds of household.
+- *Critical-thinking:* model the move first, then guided practice.
+
+**The skill.** Say "this reason is stronger because…", then accept that another learner
+may weigh it differently.
+
+**Access:** a learner who does not speak aloud places a stone on the heavier pan or
+points to a card; a learner who is Deaf or hard of hearing follows each reason through
+the chart and sign; a learner who is blind or has low vision hears each reason described
+and states the "because" aloud; a learner with a motor difference directs a partner.
 
 ## Procedure
 

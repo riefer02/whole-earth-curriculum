@@ -101,20 +101,31 @@ matters, and so does what everyone else thinks.
 
 ## Facilitator note
 
-This is *real* decision-making, not a simulation — carry out the choice the group makes.
-Every voice matters equally: no one's idea is worth more because of age, status, or
-volume. Guide but do not impose; if a quiet child has not spoken, make gentle space
-without forcing. Across cultures, groups decide in many ways — talking it through,
-raising hands, stepping to a corner — and none is "the" right way. The talking object
-echoes talking circles used by many Indigenous peoples around the world, where an object
-passes from speaker to speaker so each voice is heard — we use it with respect, not as
-decoration. Keep the decision small enough to finish and honor today. "Voice" means
-*however a learner shows their choice* — spoken words, sign, a nod, a gesture, pointing
-to or tapping a choice card, eye-gaze, or a communication board. A learner who does not
-speak aloud still shares a choice; a grown-up or peer can voice it. A learner who cannot
-hold or pass the talking object, raise a hand, or step to a corner can point, nod, or
-eye-gaze to their choice, and a partner can move or pass for them. Never force anyone to
-speak aloud or to move — pointing and signing are full participation.
+**Tone.** Plain and unhurried. This is a real decision, not a game.
+
+**The facts to land.**
+1. This is **real** decision-making: the group carries out the choice it makes today.
+2. Every voice weighs the same — no idea is worth more for age, status, or volume.
+3. The talking object passes speaker to speaker so each voice is heard. It echoes the
+   talking circles of many Indigenous peoples, used with respect, not as decoration.
+4. Groups decide in many ways — talking it through, raising hands, stepping to a corner;
+   none is "the" right way.
+
+**Don't overshoot.** Don't impose the outcome, and don't force a quiet child to speak.
+Guide without pushing; make gentle space and leave it open.
+
+**The lenses, briefly.**
+- *Ethics:* a decision made by the group binds the group, including you.
+- *Egalitarianism:* the decision must be small enough to finish and honour today.
+- *Community:* everyone affected has a voice in it.
+- *Global:* decision customs differ; none is the model.
+
+**The skill.** Offer an idea, hear others, then show your choice however you can.
+
+**Access.** A learner who does not speak aloud still shares a choice — an adult or peer
+can voice it. A learner who cannot pass the object, raise a hand, or step to a corner
+can point, nod, or eye-gaze; a partner can move or pass for them. Never require anyone
+to speak aloud or to move: pointing and signing are full participation.
 
 ## Procedure
 

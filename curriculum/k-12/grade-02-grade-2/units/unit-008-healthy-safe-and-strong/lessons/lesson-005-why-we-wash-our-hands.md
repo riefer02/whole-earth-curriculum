@@ -111,19 +111,34 @@ already know how to do.
 
 ## Facilitator note
 
-Grade 1 taught the *how*; Grade 2 adds the *why*, so this is explanation building on a
-known skill — use explicit instruction and a worked example of the reason ("soap lifts
-germs off the skin, and water carries them away"), then let learners explain it back in
-their own words. **Honor every context:** where water is scarce, teach the "wet, lather,
-rinse" method that saves water, and note that ash can work when there is no soap. Where
-a learner cannot wash their own hands, a caregiver or older peer can help — the goal is
-clean hands, not doing it alone. **Care is never a test.** A learner who does not use a
-speaking voice points or signs; a learner who is blind or has low vision is guided
-hand-over-hand and explains the reason aloud. A learner who is deaf or hard of hearing
-follows the demonstration and picture step cards from the front, since every step is
-shown, not only told. The health facts are from the World Health Organization: washing
-hands with soap removes germs and is one of the most effective ways to prevent the
-spread of sickness. This lesson starts the D03.S4.02.01 "why" trio (wash, brush, rest).
+**Tone.** Explanatory. Grade 1 taught the *how*; Grade 2 adds the *why*.
+
+**The facts to land.**
+
+1. **Soap lifts germs off the skin, and water carries them away.** Model that worked
+   example, then let learners say the reason back in their own words.
+2. Washing hands with soap is one of the most effective ways to prevent the spread of
+   sickness (World Health Organization).
+3. Where water is scarce, **wet, lather, rinse** saves water; ash can work when there is
+   no soap.
+4. This starts the D03.S4.02.01 "why" trio: wash, brush, rest.
+
+**Don't overshoot.** Care is never a test. Where a learner cannot wash their own hands,
+a caregiver or older peer helps — the goal is clean hands, not doing it alone.
+
+**The lenses, briefly.**
+
+- *Physical:* the mechanism is lifting and rinsing, not scrubbing harder.
+- *Ethics:* clean hands protect other people, not just the washer.
+- *Egalitarianism:* helping hands count the same as doing it alone.
+- *Global:* soap and running water are not everywhere; the method adapts.
+
+**The skill.** Say why soap and water work, then wash your hands.
+
+**Access.** Non-speaking: point to or sign the steps. Blind or low-vision: be guided
+hand-over-hand, then explain the reason aloud. Deaf or hard of hearing: follow the
+demonstration and picture step cards from the front — every step is shown, not only
+told.
 
 ## Procedure
 

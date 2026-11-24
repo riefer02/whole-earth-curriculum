@@ -4,79 +4,77 @@
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="46" text-anchor="middle" font-family="sans-serif" font-size="27" font-weight="bold" fill="#2b3a42">Art Is a Voice</text>
-  <text x="256" y="70" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#4f6d7a">A picture can say a feeling without a single word.</text>
+  <text x="256" y="44" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="bold" fill="#2b3a42">Art Is a Voice</text>
+  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">A picture can say a feeling without a single word.</text>
 
-  <!-- Paper with sun -->
-  <rect x="216" y="120" width="196" height="180" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
+  <!-- the picture on the wall -->
+  <rect x="200" y="100" width="196" height="168" rx="8" fill="#fdfbf7" stroke="#2b3a42" stroke-width="2"/>
   <g>
-    <circle cx="314" cy="196" r="34" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+    <circle cx="298" cy="178" r="34" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <g stroke="#e0a458" stroke-width="3" stroke-linecap="round">
-      <line x1="314" y1="154" x2="314" y2="146"/>
-      <line x1="314" y1="238" x2="314" y2="246"/>
-      <line x1="272" y1="196" x2="264" y2="196"/>
-      <line x1="356" y1="196" x2="364" y2="196"/>
-      <line x1="285" y1="167" x2="279" y2="161"/>
-      <line x1="343" y1="225" x2="349" y2="231"/>
-      <line x1="343" y1="167" x2="349" y2="161"/>
-      <line x1="285" y1="225" x2="279" y2="231"/>
+      <path d="M298 136 L298 128 M298 220 L298 228 M256 178 L248 178 M340 178 L348 178 M268 148 L262 142 M328 208 L334 214 M328 148 L334 142 M268 208 L262 214"/>
     </g>
-    <circle cx="302" cy="190" r="2.6" fill="#2b3a42"/>
-    <circle cx="326" cy="190" r="2.6" fill="#2b3a42"/>
-    <path d="M304 204 Q314 212 324 204" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <text x="314" y="276" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">my picture</text>
+    <circle cx="287" cy="172" r="2.6" fill="#2b3a42"/>
+    <circle cx="309" cy="172" r="2.6" fill="#2b3a42"/>
+    <path d="M289 186 Q298 194 307 186" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <text x="298" y="252" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">my picture</text>
   </g>
 
-  <!-- Child 1 (drawing, medium skin) -->
+  <!-- child 1: drawing, medium brown skin -->
   <g>
-    <circle cx="138" cy="256" r="17" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M121 252 Q138 234 155 252" fill="#2b3a42"/>
-    <circle cx="131" cy="254" r="2.6" fill="#2b3a42"/>
-    <circle cx="145" cy="254" r="2.6" fill="#2b3a42"/>
-    <path d="M132 262 Q138 268 144 262" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <rect x="120" y="278" width="36" height="54" rx="14" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-    <!-- right arm reaching to draw -->
-    <path d="M154 292 Q184 286 204 270" fill="none" stroke="#c99567" stroke-width="7" stroke-linecap="round"/>
-    <line x1="204" y1="270" x2="204" y2="270" stroke="#c99567" stroke-width="7" stroke-linecap="round"/>
-    <!-- left arm at side -->
-    <path d="M122 294 Q110 300 112 312" fill="none" stroke="#c99567" stroke-width="7" stroke-linecap="round"/>
-    <!-- legs -->
-    <line x1="130" y1="332" x2="128" y2="368" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
-    <line x1="146" y1="332" x2="148" y2="368" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
-    <text x="138" y="392" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">drawing</text>
+    <path d="M112 320 L110 396" stroke="#2b3a42" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <path d="M128 320 L130 396" stroke="#2b3a42" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <ellipse cx="107" cy="402" rx="10" ry="5.5" fill="#2b3a42"/>
+    <ellipse cx="133" cy="402" rx="10" ry="5.5" fill="#2b3a42"/>
+    <path d="M104 278 L96 316" stroke="#c99567" stroke-width="10" stroke-linecap="round" fill="none"/>
+    <path d="M137 276 L194 272" stroke="#c99567" stroke-width="10" stroke-linecap="round" fill="none"/>
+    <circle cx="94" cy="320" r="6" fill="#c99567" stroke="#2b3a42" stroke-width="1.6"/>
+    <circle cx="198" cy="271" r="6" fill="#c99567" stroke="#2b3a42" stroke-width="1.6"/>
+    <path d="M120 260 C 108 260 100 268 100 282 L100 312 C100 324 106 328 116 328 L124 328 C134 328 140 324 140 312 L140 282 C140 268 132 260 120 260 Z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="114" y="244" width="12" height="18" fill="#c99567"/>
+    <circle cx="120" cy="238" r="20" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M100 238 A20 20 0 0 1 140 238 Q120 222 100 238 Z" fill="#2b3a42"/>
+    <circle cx="113" cy="240" r="2.4" fill="#2b3a42"/>
+    <circle cx="127" cy="240" r="2.4" fill="#2b3a42"/>
+    <path d="M114 248 Q120 253 126 248" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   </g>
+  <text x="120" y="440" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">drawing</text>
 
-  <!-- Child 1 speech bubble: happy -->
+  <!-- child 1 speech bubble: happy -->
   <g>
-    <rect x="40" y="150" width="132" height="64" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M150 214 L132 232 L124 214" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-    <path d="M76 172 Q82 164 90 172 Q98 180 82 186 Q66 180 76 172 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.5"/>
-    <text x="126" y="188" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#222222">happy</text>
+    <rect x="24" y="150" width="124" height="54" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M100 204 L112 226 L120 202" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M44 176 C40 169 31 170 31 177 C31 184 44 193 44 193 C44 193 57 184 57 177 C57 170 48 169 44 176 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="1.6" stroke-linejoin="round"/>
+    <text x="98" y="192" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">happy</text>
   </g>
 
-  <!-- Child 2 (guessing, deep skin) -->
+  <!-- child 2: guessing, deep brown skin -->
   <g>
-    <circle cx="452" cy="316" r="17" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M436 296 Q452 280 468 296 Q468 288 452 284 Q436 288 436 296 Z" fill="#4f6d7a"/>
-    <circle cx="445" cy="314" r="2.6" fill="#2b3a42"/>
-    <circle cx="459" cy="314" r="2.6" fill="#2b3a42"/>
-    <path d="M445 323 Q452 328 459 323" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <rect x="434" y="338" width="36" height="50" rx="14" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-    <!-- pointing arm -->
-    <path d="M434 350 Q408 344 396 330" fill="none" stroke="#8f5f3d" stroke-width="7" stroke-linecap="round"/>
-    <!-- legs -->
-    <line x1="444" y1="388" x2="442" y2="424" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
-    <line x1="460" y1="388" x2="462" y2="424" stroke="#2b3a42" stroke-width="7" stroke-linecap="round"/>
-    <text x="452" y="448" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">guessing</text>
+    <path d="M446 350 L444 396" stroke="#2b3a42" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <path d="M462 350 L464 396" stroke="#2b3a42" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <ellipse cx="441" cy="402" rx="10" ry="5.5" fill="#2b3a42"/>
+    <ellipse cx="467" cy="402" rx="10" ry="5.5" fill="#2b3a42"/>
+    <path d="M474 308 L482 344" stroke="#8f5f3d" stroke-width="10" stroke-linecap="round" fill="none"/>
+    <path d="M438 302 L406 274" stroke="#8f5f3d" stroke-width="10" stroke-linecap="round" fill="none"/>
+    <circle cx="484" cy="348" r="6" fill="#8f5f3d" stroke="#2b3a42" stroke-width="1.6"/>
+    <circle cx="402" cy="271" r="6" fill="#8f5f3d" stroke="#2b3a42" stroke-width="1.6"/>
+    <path d="M454 290 C 442 290 434 298 434 312 L434 344 C434 354 440 358 450 358 L458 358 C468 358 474 354 474 344 L474 312 C474 298 466 290 454 290 Z" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="448" y="274" width="12" height="18" fill="#8f5f3d"/>
+    <circle cx="454" cy="268" r="19" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M435 268 A19 19 0 0 1 473 268 Q454 252 435 268 Z" fill="#4f6d7a"/>
+    <circle cx="447" cy="270" r="2.4" fill="#2b3a42"/>
+    <circle cx="461" cy="270" r="2.4" fill="#2b3a42"/>
+    <path d="M447 278 Q454 283 461 278" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   </g>
+  <text x="454" y="440" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">guessing</text>
 
-  <!-- Child 2 speech bubble: question -->
+  <!-- child 2 speech bubble: what does it say? -->
   <g>
-    <rect x="380" y="240" width="112" height="54" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <path d="M396 294 L384 312 L408 294" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
-    <text x="436" y="272" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">What does</text>
-    <text x="436" y="288" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#222222">it say?</text>
+    <rect x="400" y="188" width="108" height="58" rx="16" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <path d="M436 246 L448 264 L454 242" fill="#ffffff" stroke="#2b3a42" stroke-width="2" stroke-linejoin="round"/>
+    <text x="454" y="212" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">What does</text>
+    <text x="454" y="232" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">it say?</text>
   </g>
 
-  <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="15.3" fill="#4f6d7a">You said something today — and no one needed to hear a word.</text>
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">You said something today — and no one needed to hear a word.</text>
 </svg>

@@ -110,32 +110,35 @@ step at a time. This is a skill you will use for the rest of your life.
 
 ## Facilitator note
 
-It is the **performance lesson** for D03.S3.08.01: the learner actually prepares a meal.
-The skill to land: **safe preparation is a sequence — wash hands; wash produce; keep raw
-and ready-to-eat food separate (different boards/plates); cook food thoroughly if heat
-is used; chill leftovers promptly; serve clean.** Emphasize **knife safety and adult
-supervision for anything sharp or hot** — a young teen must never cook with heat or
-sharp tools unattended, and **allergies are non-negotiable**: check with the person
-eating, and never share a dish with a known allergen (S-372, S-373). This is a *skill*,
-so **model one full sequence once** (for example, assemble a fruit-and-vegetable salad:
-wash hands → wash produce → clean board → cut → serve), then let learners do theirs
-(explicit instruction + worked example carry novice skills — S-011). Choose a **no-cook
-or low-cook recipe** so the lesson works with limited resources; the low-tech path uses
-whatever foods are at hand. The egalitarian lens: not every learner has a kitchen, so
-frame this as a skill that belongs to everyone, adaptable to any table — and never let
-it become a display of who has more. The community lens: cooking for others is care, and
-sharing the food is the point. The ethics lens: safe handling is how we protect the
-people we feed. The environment lens: wash with just the water you need, use what is
-fresh and local, and avoid waste. The global lens: every cuisine on Earth has its own
-safe ways of preparing food — fermenting, steaming, pounding, raw preparations — and no
-single kitchen style owns safety; the four keys work in any kitchen, with any tradition.
-Assess by observing the *habits* (washing, separating, checking), not the tastiness of
-the food. If a learner cannot prepare food in this setting, they can still demonstrate
-the sequence with props or describe it step by step — the learning is the habits, not
-the dish. For learners with limited hand or arm movement, adapt the workspace and
-tools — a seated workspace, a non-slip mat or bowl stabilizer, and one-handed or
-no-knife tasks (tearing leaves, mixing, assembling) — or let the learner direct each
-step while a partner performs it.
+**Tone.** Calm and watchful — habits before dishes.
+
+**The facts to land.**
+
+1. Safe preparation is a sequence: wash hands and produce; keep raw and ready-to-eat
+   food separate; cook thoroughly if using heat; chill leftovers; serve clean.
+2. **Knife safety and adult supervision** for anything sharp or hot — a young teen never
+   cooks unattended. **Allergies are non-negotiable**: check with the person eating;
+   never share a dish with a known allergen (S-372, S-373).
+3. Choose a no-cook or low-cook recipe so it works with limited resources; the low-tech
+   path uses whatever foods are at hand.
+
+**Don't overshoot.** This is not a cooking contest; assess the habits, not the taste.
+
+**The lenses, briefly.**
+
+- *Egalitarianism:* not every learner has a kitchen; never a display of who has more.
+- *Community:* cooking for others is care; sharing the food is the point.
+- *Ethics:* safe handling protects the people we feed.
+- *Environment:* wash with just the water you need, use fresh and local, avoid waste.
+- *Global:* every cuisine has safe ways of preparing food — fermenting, steaming,
+  pounding, raw — and no kitchen style owns safety.
+- *Physical:* the sequence is body learning, adaptable to any hands.
+
+**The skill.** Model one full sequence (fruit-and-vegetable salad: wash hands → wash
+produce → clean board → cut → serve), then learners do theirs (S-011). If a learner
+cannot prepare food, they demonstrate with props or describe each step; adapt the
+workspace and tools — seated, non-slip mat, one-handed or no-knife tasks — or direct a
+partner.
 
 ## Procedure
 

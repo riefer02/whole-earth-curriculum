@@ -16,20 +16,20 @@
   <!-- Foundation blocks -->
   <g font-family="sans-serif" font-size="13" text-anchor="middle" fill="#222222">
     <rect x="40" y="398" width="96" height="52" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="88" y="419">reliability</text>
-    <text x="88" y="437" font-size="11" fill="#4f6d7a">do what I say</text>
+    <text fill="#222222" text-anchor="middle" font-size="13" x="88" y="419">reliability</text>
+    <text text-anchor="middle" x="88" y="437" font-size="11" fill="#4f6d7a">do what I say</text>
 
     <rect x="148" y="398" width="96" height="52" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="196" y="419">honesty</text>
-    <text x="196" y="437" font-size="11" fill="#4f6d7a">tell the truth</text>
+    <text fill="#222222" text-anchor="middle" font-size="13" x="196" y="419">honesty</text>
+    <text text-anchor="middle" x="196" y="437" font-size="11" fill="#4f6d7a">tell the truth</text>
 
     <rect x="256" y="398" width="96" height="52" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-    <text x="304" y="419">care</text>
-    <text x="304" y="437" font-size="11" fill="#4f6d7a">want their good</text>
+    <text fill="#222222" text-anchor="middle" font-size="13" x="304" y="419">care</text>
+    <text text-anchor="middle" x="304" y="437" font-size="11" fill="#4f6d7a">want their good</text>
 
     <rect x="364" y="398" width="108" height="52" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-    <text x="418" y="419">repair</text>
-    <text x="418" y="437" font-size="11" fill="#222222">when I break it</text>
+    <text fill="#222222" text-anchor="middle" font-size="13" x="418" y="419">repair</text>
+    <text text-anchor="middle" x="418" y="437" font-size="11" fill="#222222">when I break it</text>
   </g>
 
   <!-- Figure offering support -->
@@ -38,7 +38,7 @@
     <path d="M96 313 v22 M82 321 c0 11 6 19 14 19 s14 -8 14 -19"/>
     <path d="M96 335 v14 M88 349 l-6 10 M104 349 l6 10"/>
   </g>
-  <text x="64" y="282" text-anchor="middle" font-family="sans-serif" font-size="11.7" fill="#4f6d7a">support offered</text>
+  <text x="64" y="282" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">support offered</text>
 
   <text x="256" y="481.1" text-anchor="middle" font-family="sans-serif" font-size="15.0" fill="#2b3a42">Trust is not found — it is built, block by block, and rebuilt</text>
   <text x="256" y="503.2" text-anchor="middle" font-family="sans-serif" font-size="17" fill="#2b3a42">when it breaks.</text>

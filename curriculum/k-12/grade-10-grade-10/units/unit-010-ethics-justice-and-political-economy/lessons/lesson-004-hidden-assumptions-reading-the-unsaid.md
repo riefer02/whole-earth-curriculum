@@ -113,20 +113,32 @@ advertisement, a speech, a news report, or your own reasoning.
 
 ## Facilitator note
 
-The idea to land: **an argument's visible part is small; its hidden assumptions and bias
-are the part below the water — find them, test them, and the argument is no longer
-invisible.** Teach the skill with a worked example, then guided practice (S-011). Frame
-critique as *care*, not attack: we read an argument closely to understand it better, and
-to notice who is left out. The **critical-thinking** lens is the spine: ask "what must
-be true for this to be true, and is it?" The **egalitarian** lens: bias often hides in
-the question of who is assumed to matter — "everyone" can silently mean "people like the
-speaker." The **global** lens: arguments are shaped by where they are made; an
-assumption that is obvious in one place is strange in another, and that difference is
-information, not a mistake. Keep questions open (philosophy §11) and distinguish
-evidence from values (philosophy §5): finding an assumption is a claim about *what the
-argument says*; judging whether that assumption is fair is a question of values.
-Preview: next lesson we rebuild the argument with the assumptions brought into the
-light.
+**Tone.** Curious, not prosecutorial: close reading is a form of respect.
+
+**The facts to land.**
+
+1. An argument's visible part is small; its hidden assumptions and bias are the part
+   below the water — find them, test them, and the argument stops being invisible.
+2. The test is one question: what must be true for this to be true, and is it?
+3. Finding an assumption is a claim about what the argument says (evidence); judging
+   whether that assumption is fair is a question of values (philosophy §5).
+
+**Don't overshoot.** Frame critique as care, not attack; we read closely to understand
+an argument better and to notice who is left out (philosophy §11).
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* the spine — the unstated premise is where arguments usually
+  fail.
+- *Egalitarianism:* bias hides in who is assumed to matter; "everyone" can silently mean
+  "people like the speaker".
+- *Global:* arguments are shaped by where they are made; an assumption obvious in one
+  place is strange in another, and that difference is information.
+- *Ethics:* naming an assumption is not accusing anyone of lying.
+
+**The skill.** Teach with a worked example, then guided practice (S-011): underline the
+claim, write the premise it needs, and mark whether it holds. Next lesson rebuilds the
+argument with the assumptions in the light.
 
 ## Procedure
 

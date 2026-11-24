@@ -117,20 +117,31 @@ of it we stand on.
 
 ## Facilitator note
 
-The ideas to land: (1) **positive** numbers are above the reference point and
-**negative** numbers are below it; (2) the reference point (0°C, sea level) is a chosen
-starting line, not "nothing"; and (3) the *sign* (＋ or −) carries the meaning of "above
-or below." Model one example aloud, then guide a second before independent work
-(Kirschner, Sweller & Clark, 2006). Watch for the slip of treating "−10" as "ten"
-without its sign — the sign is the whole point. Retrieval: ask learners to recall the
-number line and whole numbers from earlier grades; today the line grows downward too.
-The environment lens is live here (`docs/philosophy.md` §4): elevations and temperatures
-describe real, varied landscapes, and knowing them matters for farming, building, and
-travel. Note the global and historical point: negative numbers were used in ancient
-China (red and black counting rods for owing and having) and were given rules by
-Brahmagupta in India — the idea of "below zero" is a human discovery, not one culture's
-property. Distinguish evidence (the measured temperatures and elevations are facts) from
-values (that all places and peoples are worthy of study).
+**Tone.** Plain and concrete. Zero is a starting line, not a moral judgement.
+
+**The facts to land.**
+
+1. **Positive** numbers sit above a reference point; **negative** numbers sit below it.
+2. The reference point — 0 °C, sea level — is a chosen starting line, not "nothing."
+3. The **sign** (+ or −) carries the meaning "above or below."
+
+**Don't overshoot.** Do not let "−10" be read as "ten." Losing the sign is losing the
+whole idea, so say the sign aloud every time.
+
+**The lenses, briefly.**
+
+- *Intellectual:* the number line grows downward as well as upward.
+- *Global:* negative numbers were used in ancient China (red and black counting rods for
+  owing and having) and given rules by Brahmagupta in India — a human discovery, not one
+  culture's property.
+- *Environment:* elevations and temperatures describe real, varied landscapes, and
+  knowing them matters for farming, building, and travel (`docs/philosophy.md` §4).
+- *Critical-thinking:* the measured temperatures and elevations are evidence; that all
+  places and peoples are worthy of study is a value.
+
+**The skill.** Model one example aloud, guide a second together, then work alone
+(Kirschner, Sweller & Clark, 2006). Ask learners to recall the number line and whole
+numbers from earlier grades.
 
 ## Procedure
 

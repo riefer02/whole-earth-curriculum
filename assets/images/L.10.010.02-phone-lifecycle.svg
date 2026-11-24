@@ -5,10 +5,10 @@
   <g font-family="sans-serif" text-anchor="middle">
     <!-- stage titles -->
     <g font-size="16" fill="#2b3a42" font-weight="bold">
-      <text x="76" y="46">minerals</text>
-      <text x="180" y="46">factory</text>
-      <text x="290" y="46">use</text>
-      <text x="410" y="46">dispose</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="16" x="76" y="46">minerals</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="16" x="180" y="46">factory</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="16" x="290" y="46">use</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="16" x="410" y="46">dispose</text>
     </g>
     <!-- arrow -->
     <g stroke="#4f6d7a" stroke-width="2" fill="none">
@@ -44,20 +44,20 @@
     <line x1="30" y1="196" x2="482" y2="196" stroke="#2b3a42" stroke-width="2"/>
     <!-- benefit labels -->
     <g font-size="12" fill="#2b3a42">
-      <text x="38" y="218" font-weight="bold">benefits</text>
-      <text x="76" y="238">jobs, materials</text>
-      <text x="180" y="238">work, wages</text>
-      <text x="290" y="238">connect, learn, pay</text>
-      <text x="410" y="238">materials recovered</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="38" y="218" font-weight="bold">benefits</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="76" y="238">jobs, materials</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="180" y="238">work, wages</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="290" y="238">connect, learn, pay</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="410" y="238">materials recovered</text>
     </g>
     <g font-size="12" fill="#2b3a42">
-      <text x="38" y="268" font-weight="bold">harms</text>
-      <text x="76" y="288">mining hurts people</text>
-      <text x="180" y="288">long hours, risk</text>
-      <text x="290" y="288">energy, attention</text>
-      <text x="410" y="288">toxic e-waste</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="38" y="268" font-weight="bold">harms</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="76" y="288">mining hurts people</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="180" y="288">long hours, risk</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="290" y="288">energy, attention</text>
+      <text fill="#2b3a42" text-anchor="middle" font-size="12" x="410" y="288">toxic e-waste</text>
     </g>
-    <text x="256" y="330" font-size="12" fill="#222222">who gains, and who loses, at each stage</text>
-    <text x="256" y="360" font-size="12" fill="#4f6d7a">the distance between benefit and harm is the question</text>
+    <text text-anchor="middle" x="256" y="330" font-size="12" fill="#222222">who gains, and who loses, at each stage</text>
+    <text text-anchor="middle" x="256" y="360" font-size="12" fill="#4f6d7a">the distance between benefit and harm is the question</text>
   </g>
 </svg>

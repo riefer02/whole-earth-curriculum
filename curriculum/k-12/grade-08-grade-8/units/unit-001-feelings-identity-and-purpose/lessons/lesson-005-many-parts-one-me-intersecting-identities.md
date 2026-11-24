@@ -112,27 +112,39 @@ whose parts lean on and change each other. Today you map the parts that meet in 
 
 ## Facilitator note
 
-The idea to land: **identity is made of many intersecting parts — culture, gender,
-ability, language, and more — that meet in one whole self, and no single part is the
-whole story.** The concept of *intersectionality* — that overlapping identities shape a
-person's experience together, not separately — is named and sharpened in Kimberlé
-Crenshaw's work (S-334), used here descriptively and age-appropriately. The recognition
-itself — that a person is many parts at once, never a single label — is far older and
-appears across many cultures, so it is no single tradition's property; Crenshaw's term
-names it for careful social and legal analysis. Teach the self-map as a worked example
-(Kirschner, Sweller & Clark 2006, S-011) before independent work. The *ethics* lens:
-seeing a whole person, not a label, is how we avoid reducing someone to a single trait —
-a matter of respect and fairness. The *egalitarian* lens: no identity is above another;
-the lesson deliberately names ability and language alongside culture and gender so every
-learner's parts count. The *global* lens: which identity feels largest changes by
-place — a language that is dominant at home may be minor at school, and a person may be
-read differently in different countries; identity is shaped by where we stand. The
-*technology* lens: platforms sort us into categories and boxes that can flatten a whole
-person into one label; the self-map is a reminder of the fuller self behind the profile.
-The *critical-thinking* lens: hold the self-map as a living picture, not a fixed
-answer — it will keep changing. Be sensitive: let learners share only what they choose,
-never require disclosure of identity or ability, and frame every identity as equal in
-worth.
+**Tone.** Careful and unhurried — let learners share only what they choose.
+
+**The facts to land.**
+
+1. Identity is made of many intersecting parts — culture, gender, ability, language, and
+   more — meeting in one whole self.
+2. No single part is the whole story: overlapping identities shape experience together,
+   not separately (intersectionality, Kimberlé Crenshaw, S-334).
+3. The recognition is far older than the term and appears across many cultures, so it
+   belongs to no single tradition; Crenshaw's word names it for careful social and legal
+   analysis.
+
+**Don't overshoot.** Do not turn the self-map into a list of labels, or imply one
+identity explains a person.
+
+**The lenses, briefly.**
+
+- *Social-emotional:* naming your parts can make a whole self easier to see.
+- *Ethics:* seeing a whole person, not a label, is how we avoid reducing someone to a
+  single trait.
+- *Egalitarianism:* no identity is above another; ability and language are named alongside
+  culture and gender so every learner's parts count.
+- *Global:* which identity feels largest changes by place — a home language may be minor
+  at school, and a person may be read differently in different countries.
+- *Technology:* platforms sort us into categories that can flatten a whole person into
+  one label.
+- *Critical-thinking:* hold the map as a living picture, not a fixed answer.
+
+**The skill.** Model the self-map once (Kirschner, Sweller & Clark 2006, S-011), then
+independent work.
+
+**Safety floor.** Never require disclosure of identity or ability; frame every identity
+as equal in worth.
 
 ## Procedure
 

@@ -119,20 +119,31 @@ learn who is related to whom.
 
 ## Facilitator note
 
-It deepens sorting by showing that categories **nest** — the new skill is seeing that a
-shape can belong to several categories at once because each name marks a shared
-property. Teach with a **worked example** (philosophy §13): build a square, ask "is it a
-rectangle? (four right angles — yes) is it a rhombus? (four equal sides — yes)," and
-conclude **a square is both**. The key move is *hierarchical* classification, which
-children grow into slowly — do not rush it (Van de Walle et al., 2019). **A shape
-wearing many names is not "wrong"; it is precise. And no learner's speed at naming
-shapes measures their smartness — some see the nesting quickly, some need to hold and
-turn each shape, and both are mathematical.** Quadrilaterals appear in tiling and design
-across many cultures. Count in the home language. For learners who are Deaf or hard of
-hearing, sign each property and point to sides and corners; for learners who are blind
-or low-vision, feel the sides and corners of each shape and fold a paper square to test
-equal sides. Learners with limited movement direct a partner. Mastery arrives at its own
-pace.
+**Tone.** Slow and delighted — nesting is a big idea, and it can wait.
+
+**The facts to land.**
+1. Categories **nest**: a square is a rectangle (four right angles) and a rhombus (four
+   equal sides) at once.
+2. A shape wearing many names is not "wrong"; it is precise.
+3. Quadrilaterals appear in tiling and design across many cultures.
+
+**Don't overshoot.** Hierarchical classification is a step children grow into slowly —
+do not rush it (Van de Walle et al., 2019), and do not let a quick namer set the pace
+for the room.
+
+**The lenses, briefly.**
+- *Intellectual:* build a square, then ask "is it a rectangle?" and "is it a
+  rhombus?", testing each property (philosophy §13).
+- *Critical-thinking:* a name is a test, and the test can be shown.
+- *Egalitarianism:* some see the nesting quickly, some need to hold and turn each
+  shape; both are mathematical.
+- *Global:* tiling and pattern travel across cultures; quadrilaterals are everywhere.
+
+**The skill.** Test one shape against two names and say why both fit.
+
+**Access:** sign each property and point to sides and corners; feel the sides and fold a
+paper square to test equal sides; a learner with limited movement directs a partner.
+Mastery arrives at its own pace.
 
 ## Procedure
 

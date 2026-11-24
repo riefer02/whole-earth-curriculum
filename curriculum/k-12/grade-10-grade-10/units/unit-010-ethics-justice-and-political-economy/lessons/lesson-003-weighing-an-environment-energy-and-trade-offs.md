@@ -113,22 +113,35 @@ decide which ones you can defend.
 
 ## Facilitator note
 
-The idea to land: **an environment or energy choice is never cost-free; weighing it
-means naming benefits and harms for people *and* for other living systems, then
-defending a judgment.** Reuse the four steps from Lesson 2 (name the benefit; name the
-harm; say who gains and who loses; judge), so the skill is spaced and reinforced, not
-re-taught from scratch (S-039). Keep the science honest and hedged: burning fossil fuels
-releases greenhouse gases that warm the climate (S-005); dams provide power and water
-but can displace communities and change rivers; wind and solar avoid most operating
-emissions but use land and materials. Present these as documented effects, not
-verdicts — and note that people disagree about how to weigh them, which is a question of
-values, not of fact (philosophy §5). The **egalitarian** lens: the people who bear a
-project's harms (a flooded valley, a felled forest, a polluting plant) are often not the
-same people who receive its benefits — name that gap. The **global** lens: energy
-choices are made in one place but their effects travel (a coal plant warms a climate
-everywhere). The **environment** lens is the spine: the "stakeholders" include rivers,
-forests, birds, and the climate itself. Preview: next we turn from weighing to
-critiquing — reading an argument for what it leaves unsaid.
+**Tone.** Frank about trade-offs: every option costs something, and saying so is the
+lesson.
+
+**The facts to land.**
+
+1. An environment or energy choice is never cost-free; weighing it means naming benefits
+   and harms for people *and* for other living systems, then defending a judgment.
+2. Reuse Lesson 2's four steps — name the benefit, name the harm, say who gains and who
+   loses, judge — so the skill is spaced and reinforced (S-039).
+3. Burning fossil fuels releases greenhouse gases that warm the climate (S-005); dams
+   give power and water but can displace communities and change rivers; wind and solar
+   avoid most operating emissions but use land and materials. These are documented
+   effects, not verdicts, and how to weigh them is a question of values (philosophy §5).
+
+**Don't overshoot.** No option is cost-free, and none is simply bad; presenting either
+destroys trust in the method.
+
+**The lenses, briefly.**
+
+- *Environment:* the spine — the "stakeholders" include rivers, forests, birds, and
+  the climate itself.
+- *Egalitarianism:* those who bear a project's harms — a flooded valley, a felled forest
+  — are often not those who receive its benefits.
+- *Global:* choices are made in one place and their effects travel.
+- *Ethics:* a judgment you can defend names the values it weighs.
+
+**The skill.** Run the four steps again, spaced rather than re-taught (S-039): one
+energy option, four lines, one defensible verdict. Next lesson turns from weighing to
+critiquing.
 
 ## Procedure
 

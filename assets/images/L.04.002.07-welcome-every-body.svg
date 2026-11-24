@@ -1,71 +1,108 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title-L-04-002-07-welcome-every-body desc-L-04-002-07-welcome-every-body">
   <title id="title-L-04-002-07-welcome-every-body">Welcome every body</title>
-  <desc id="desc-L-04-002-07-welcome-every-body">A circle of six diverse children playing a passing game together around a soft ball at the center. One child is in a wheelchair, one wears a hearing aid, one is seated on the ground, and skin tones vary. All reach toward the ball, showing a game everyone can join.</desc>
+  <desc id="desc-L-04-002-07-welcome-every-body">A circle of six diverse children playing a passing game together around a soft ball at the centre. One child is in a wheelchair, one wears a hearing aid, one sits cross-legged on the ground, one sits on the grass, and skin tones vary. All reach toward the ball, showing a game everyone can join.</desc>
 
   <rect width="512" height="512" fill="#fdfbf7"/>
 
-  <text x="256" y="50" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="bold" fill="#2b3a42">Welcome Every Body</text>
+  <text x="256" y="50" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="bold" fill="#2b3a42">Welcome Every Body</text>
 
-  <!-- Ball at center -->
-  <circle cx="256" cy="240" r="34" fill="#e0a458" stroke="#2b3a42" stroke-width="3"/>
-  <path d="M234 218 Q256 206 278 218 M234 262 Q256 274 278 262" stroke="#2b3a42" stroke-width="2" fill="none"/>
+  <!-- Ball at centre -->
+  <circle cx="256" cy="244" r="32" fill="#e0a458" stroke="#2b3a42" stroke-width="2.5"/>
 
-  <!-- Child 1 top: seated, reaches down -->
-  <g>
-    <circle cx="256" cy="118" r="24" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="247" cy="112" r="3" fill="#2b3a42"/><circle cx="265" cy="112" r="3" fill="#2b3a42"/>
-    <path d="M250 126 Q256 132 262 126" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M256 142 L256 170 M256 156 L240 180" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
-    <path d="M256 170 L232 190" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- child 1, top: sitting cross-legged, reaching down toward the ball -->
+  <g fill="#f5d6b6" stroke="none">
+    <circle cx="256" cy="122" r="16"/>
+    <rect x="250" y="135" width="12" height="10" rx="5"/>
+    <rect x="234" y="142" width="44" height="46" rx="20"/>
+    <path d="M240 154 l-12 30" stroke="#f5d6b6" stroke-width="11" stroke-linecap="round"/>
+    <path d="M272 154 l12 30" stroke="#f5d6b6" stroke-width="11" stroke-linecap="round"/>
+    <path d="M234 186 q22 14 44 0" stroke="#f5d6b6" stroke-width="16" stroke-linecap="round"/>
   </g>
+  <circle cx="256" cy="122" r="16" fill="#f5d6b6" stroke="#2b3a42" stroke-width="1.8"/>
+  <circle cx="250" cy="119" r="2.2" fill="#2b3a42"/><circle cx="262" cy="119" r="2.2" fill="#2b3a42"/>
+  <path d="M251 130 q5 4 10 0" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
 
-  <!-- Child 2 top-right: standing -->
-  <g>
-    <circle cx="344" cy="150" r="24" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="336" cy="144" r="3" fill="#2b3a42"/><circle cx="352" cy="144" r="3" fill="#2b3a42"/>
-    <path d="M338 158 Q344 164 350 158" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M344 174 L344 210 M344 186 L326 210" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
-    <path d="M344 210 L330 230" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- child 2, upper right: standing, arms open -->
+  <g fill="#c99567" stroke="none">
+    <circle cx="350" cy="150" r="16"/>
+    <rect x="344" y="163" width="12" height="10" rx="5"/>
+    <rect x="328" y="170" width="44" height="46" rx="20"/>
+    <path d="M334 182 l-14 24" stroke="#c99567" stroke-width="11" stroke-linecap="round"/>
+    <path d="M366 182 l2 30" stroke="#c99567" stroke-width="11" stroke-linecap="round"/>
+    <path d="M340 212 l-4 24" stroke="#c99567" stroke-width="12" stroke-linecap="round"/>
+    <path d="M360 212 l4 24" stroke="#c99567" stroke-width="12" stroke-linecap="round"/>
   </g>
+  <ellipse cx="336" cy="238" rx="9" ry="5" fill="#c99567"/>
+  <ellipse cx="364" cy="238" rx="9" ry="5" fill="#c99567"/>
+  <circle cx="350" cy="150" r="16" fill="#c99567" stroke="#2b3a42" stroke-width="1.8"/>
+  <circle cx="344" cy="147" r="2.2" fill="#2b3a42"/><circle cx="356" cy="147" r="2.2" fill="#2b3a42"/>
+  <path d="M345 158 q5 4 10 0" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
 
-  <!-- Child 3 right: wheelchair -->
-  <g>
-    <circle cx="392" cy="248" r="24" fill="#8f5f3d" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="384" cy="242" r="3" fill="#2b3a42"/><circle cx="400" cy="242" r="3" fill="#2b3a42"/>
-    <path d="M386 256 Q392 262 398 256" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M392 272 L392 296 M392 282 L378 300" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
-    <rect x="368" y="296" width="48" height="10" rx="4" fill="#4f6d7a" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="378" cy="332" r="17" fill="none" stroke="#2b3a42" stroke-width="4"/>
-    <circle cx="406" cy="332" r="17" fill="none" stroke="#2b3a42" stroke-width="4"/>
+  <!-- child 3, right: in a wheelchair, leaning toward the ball -->
+  <rect x="414" y="266" width="10" height="48" rx="5" fill="#4f6d7a" stroke="#2b3a42" stroke-width="1.6"/>
+  <g fill="#8f5f3d" stroke="none">
+    <circle cx="400" cy="252" r="16"/>
+    <rect x="394" y="265" width="12" height="10" rx="5"/>
+    <rect x="378" y="270" width="42" height="40" rx="18"/>
+    <path d="M382 282 l-14 16" stroke="#8f5f3d" stroke-width="11" stroke-linecap="round"/>
+    <path d="M388 302 l-16 8" stroke="#8f5f3d" stroke-width="13" stroke-linecap="round"/>
+    <path d="M372 310 l-2 18" stroke="#8f5f3d" stroke-width="11" stroke-linecap="round"/>
   </g>
+  <ellipse cx="369" cy="331" rx="8" ry="5" fill="#8f5f3d"/>
+  <circle cx="400" cy="252" r="16" fill="#8f5f3d" stroke="#2b3a42" stroke-width="1.8"/>
+  <circle cx="394" cy="249" r="2.2" fill="#2b3a42"/><circle cx="406" cy="249" r="2.2" fill="#2b3a42"/>
+  <path d="M395 260 q5 4 10 0" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
+  <rect x="368" y="312" width="58" height="9" rx="4" fill="#4f6d7a" stroke="#2b3a42" stroke-width="1.8"/>
+  <circle cx="388" cy="337" r="15" fill="none" stroke="#2b3a42" stroke-width="3"/>
+  <circle cx="414" cy="337" r="15" fill="none" stroke="#2b3a42" stroke-width="3"/>
 
-  <!-- Child 4 bottom-right: seated on ground -->
-  <g>
-    <circle cx="300" cy="360" r="24" fill="#ab7a4e" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="292" cy="354" r="3" fill="#2b3a42"/><circle cx="308" cy="354" r="3" fill="#2b3a42"/>
-    <path d="M294 368 Q300 374 306 368" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M300 384 L300 400 M300 392 L286 408" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
-    <path d="M300 400 L288 418" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- child 4, lower right: sitting on the ground -->
+  <g fill="#ab7a4e" stroke="none">
+    <circle cx="304" cy="358" r="16"/>
+    <rect x="298" y="371" width="12" height="10" rx="5"/>
+    <rect x="282" y="378" width="44" height="42" rx="18"/>
+    <path d="M288 390 l-14 12" stroke="#ab7a4e" stroke-width="11" stroke-linecap="round"/>
+    <path d="M320 390 l-8 22" stroke="#ab7a4e" stroke-width="11" stroke-linecap="round"/>
+    <path d="M286 416 q18 8 36 0" stroke="#ab7a4e" stroke-width="15" stroke-linecap="round"/>
   </g>
+  <circle cx="304" cy="358" r="16" fill="#ab7a4e" stroke="#2b3a42" stroke-width="1.8"/>
+  <circle cx="298" cy="355" r="2.2" fill="#2b3a42"/><circle cx="310" cy="355" r="2.2" fill="#2b3a42"/>
+  <path d="M299 366 q5 4 10 0" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
 
-  <!-- Child 5 bottom-left: hearing aid -->
-  <g>
-    <circle cx="196" cy="356" r="24" fill="#e6bb92" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="188" cy="350" r="3" fill="#2b3a42"/><circle cx="204" cy="350" r="3" fill="#2b3a42"/>
-    <path d="M190 364 Q196 370 202 364" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M212 352 A 7 7 0 0 1 222 352" fill="none" stroke="#e0a458" stroke-width="4.5" stroke-linecap="round"/>
-    <path d="M196 380 L196 400 M196 388 L184 404" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- child 5, lower left: standing with a hearing aid -->
+  <g fill="#e6bb92" stroke="none">
+    <circle cx="196" cy="352" r="16"/>
+    <rect x="190" y="365" width="12" height="10" rx="5"/>
+    <rect x="174" y="372" width="44" height="44" rx="19"/>
+    <path d="M180 384 l-6 28" stroke="#e6bb92" stroke-width="11" stroke-linecap="round"/>
+    <path d="M214 384 l12 26" stroke="#e6bb92" stroke-width="11" stroke-linecap="round"/>
+    <path d="M186 414 l-3 22" stroke="#e6bb92" stroke-width="12" stroke-linecap="round"/>
+    <path d="M206 414 l3 22" stroke="#e6bb92" stroke-width="12" stroke-linecap="round"/>
   </g>
+  <ellipse cx="183" cy="438" rx="9" ry="5" fill="#e6bb92"/>
+  <ellipse cx="209" cy="438" rx="9" ry="5" fill="#e6bb92"/>
+  <circle cx="196" cy="352" r="16" fill="#e6bb92" stroke="#2b3a42" stroke-width="1.8"/>
+  <path d="M211 349 A6 6 0 0 1 218 350" fill="none" stroke="#e0a458" stroke-width="3.6" stroke-linecap="round"/>
+  <circle cx="218" cy="351" r="2.4" fill="#e0a458"/>
+  <circle cx="190" cy="349" r="2.2" fill="#2b3a42"/><circle cx="202" cy="349" r="2.2" fill="#2b3a42"/>
+  <path d="M191 360 q5 4 10 0" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
 
-  <!-- Child 6 left: standing -->
-  <g>
-    <circle cx="128" cy="252" r="24" fill="#8a5a34" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="120" cy="246" r="3" fill="#2b3a42"/><circle cx="136" cy="246" r="3" fill="#2b3a42"/>
-    <path d="M122 260 Q128 266 134 260" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M128 276 L128 310 M128 288 L114 306" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
-    <path d="M128 310 L116 328" stroke="#2b3a42" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- child 6, left: standing, arm out toward the ball -->
+  <g fill="#8a5a34" stroke="none">
+    <circle cx="122" cy="252" r="16"/>
+    <rect x="116" y="265" width="12" height="10" rx="5"/>
+    <rect x="100" y="272" width="44" height="46" rx="20"/>
+    <path d="M106 284 l-10 28" stroke="#8a5a34" stroke-width="11" stroke-linecap="round"/>
+    <path d="M138 284 l16 26" stroke="#8a5a34" stroke-width="11" stroke-linecap="round"/>
+    <path d="M112 314 l-4 24" stroke="#8a5a34" stroke-width="12" stroke-linecap="round"/>
+    <path d="M132 314 l4 24" stroke="#8a5a34" stroke-width="12" stroke-linecap="round"/>
   </g>
+  <ellipse cx="108" cy="340" rx="9" ry="5" fill="#8a5a34"/>
+  <ellipse cx="136" cy="340" rx="9" ry="5" fill="#8a5a34"/>
+  <circle cx="122" cy="252" r="16" fill="#8a5a34" stroke="#2b3a42" stroke-width="1.8"/>
+  <circle cx="116" cy="249" r="2.2" fill="#2b3a42"/><circle cx="128" cy="249" r="2.2" fill="#2b3a42"/>
+  <path d="M117 260 q5 4 10 0" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
 
-  <text x="256" y="465.3" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">when a game leaves someone out, we change</text>
-  <text x="256" y="493.9" text-anchor="middle" font-family="sans-serif" font-size="22" fill="#222222">the game</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">when a game leaves someone out, we change</text>
+  <text x="256" y="494" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">the game</text>
 </svg>

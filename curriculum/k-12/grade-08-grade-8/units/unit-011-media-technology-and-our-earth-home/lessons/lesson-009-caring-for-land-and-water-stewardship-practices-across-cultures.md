@@ -114,30 +114,37 @@ you study how people care for the Earth, and what makes that care work.
 
 ## Facilitator note
 
-The idea to land: **across cultures, communities hold living practices for caring for
-land and water, and what makes them work is deep local knowledge, care passed across
-generations, and a view of land and water as beings owed care — not only resources to
-extract.** The worked examples (all real, all cited): **Indigenous cultural burning** in
-Australia — small, cool, seasonally-timed fires that reduce fuel and encourage new
-growth, rooted in Aboriginal and Torres Strait Islander knowledge (S-320, S-321).
-**Andean terracing** — stone terraces that slow water, hold soil, and create farmable
-land on steep slopes, maintained by communities over centuries. **Māori
-kaitiakitanga** — the practice of *guardianship* of rivers, forests, and coasts, holding
-people as relatives of the natural world, not its owners (S-202). The **environment**
-lens is this lesson's core: these practices are tested, effective care — they work
-because they match the place. The **global & anthropological** lens is central too: this
-is not one culture's story but a worldwide pattern — every region holds its own
-stewardship traditions, and we honor each as a living practice, never as a museum
-specimen (philosophy §4). The **egalitarian** lens: Indigenous and local peoples have
-often been pushed off their land, and recognizing their stewardship is a matter of
-justice, not charity. The **ethics** lens: treating land and water as beings owed care
-is one answer to "what is right here" — and it differs from treating them only as
-resources, a difference learners should weigh, not be told to adopt (philosophy §11).
-The **technology** lens: these practices are technologies too — tools and knowledge for
-living — that often cost the Earth less than the industrial ones this unit has weighed.
-Hold the examples with respect and accuracy; where a practice is a living tradition of a
-specific people, name that people and cite the source, and invite learners to bring
-their own communities' practices forward.
+**Tone.** Reverent and specific — living practice, never museum specimen.
+
+**The facts to land.**
+
+1. Across cultures, communities hold living practices for caring for land and water.
+   What makes them work: deep local knowledge, care across generations, and a view of
+   land and water as beings owed care, not only resources.
+2. Three cited examples. **Indigenous cultural burning** in Australia — small, cool,
+   seasonally timed fires that reduce fuel and encourage new growth, rooted in
+   Aboriginal and Torres Strait Islander knowledge (S-320, S-321). **Andean terracing**
+   — stone terraces that slow water, hold soil, and make steep slopes farmable. **Māori
+   kaitiakitanga** — guardianship of rivers, forests, and coasts, holding people as
+   relatives of the natural world, not owners (S-202).
+3. These work because they match the place.
+
+**Don't overshoot.** Do not flatten these into one "Indigenous wisdom" or treat them as
+museum specimens; name each people and cite the source (`philosophy` §4).
+
+**The lenses, briefly.**
+
+- *Environment:* tested care that matches the place — this lesson's core.
+- *Global:* every region holds its own stewardship traditions, honored as living.
+- *Egalitarianism:* Indigenous and local peoples have often been pushed off their land;
+  recognition is justice, not charity.
+- *Ethics:* land and water as beings owed care is one answer to "what is right here" —
+  weigh it, don't impose it (`philosophy` §11).
+- *Technology:* these are technologies too — knowledge for living that costs the Earth
+  less.
+- *Community:* the knowledge lives in the people who practise it.
+
+**The skill.** Invite learners to bring their communities' practices forward as gifts.
 
 ## Procedure
 

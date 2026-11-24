@@ -125,21 +125,36 @@ one.
 
 ## Facilitator note
 
-Keep the message gentle and true: a simple machine is a **wonderful thing people make**,
-but it is neither magic nor anything to fear. It does not create strength out of
-nothing — it **changes how force is used** so a job feels easier (a lever changes where
-you push; a wheel changes sliding into rolling; a ramp spreads the lift over a longer,
-gentler path). This is a foundational idea, so **model each machine, then guide
-practice** before learners work independently (Kirschner, Sweller & Clark, 2006). Honor
-every tool and every people equally: a lever, a wheel, and a ramp are used by people
-everywhere, and none is "more modern" or "better" than another — a hand cart in one
-market and a lorry ramp in another solve the same kind of problem. Honor every body: a
-learner who is blind or has low vision can feel each machine (the ruler tipping on a
-pencil, the wheel rolling, the book's slope) and name the job it makes easier by feel; a
-non-speaking learner points to the machine and to the job; acting out lifting, rolling,
-and sliding works for learners who learn best by moving. Supervise all handling. Note
-for later: we are not ranking machines — the wheel is not "better" than the lever; each
-is the right tool for its own job.
+**Tone.** Warm and matter-of-fact — a machine is a wonderful thing people make.
+
+**The facts to land.**
+1. A simple machine does not create strength out of nothing; it **changes how force is
+   used** so a job feels easier. A lever changes where you push, a wheel turns sliding
+   into rolling, a ramp spreads the lift over a longer, gentler path.
+2. People everywhere use levers, wheels, and ramps, and none is "more modern" — a hand
+   cart in one market and a lorry ramp in another solve the same kind of problem.
+3. These are tools, not magic.
+
+**Don't overshoot.** Do not rank machines. The wheel is not "better" than the lever;
+each is right for its own job.
+
+**The lenses, briefly.**
+- *Technology:* a tool is made by people, for a job.
+- *Egalitarianism:* every tool and every people counts equally.
+- *Global:* the same three machines appear in every market.
+- *Critical-thinking:* name the job each one makes easier.
+
+**The skill.** Use the machine, then say which job it made easier and why.
+
+Model each machine, then guide practice before learners work independently (Kirschner,
+Sweller & Clark, 2006).
+
+**Safety floor.** supervise all handling.
+
+**Access:** a learner who is blind or has low vision feels each machine — the ruler
+tipping on a pencil, the wheel rolling; a learner who does not speak points to the
+machine and the job; acting out lifting, rolling, and sliding works for learners who
+learn by moving.
 
 ## Procedure
 

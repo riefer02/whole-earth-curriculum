@@ -125,19 +125,33 @@ tens and hundreds.
 
 ## Facilitator note
 
-These three systems have **different bases** — 60 for time, 1,000 for liters, 100 for
-money — so teach each with its own concrete anchor (a minute of tapping, a liter of
-pours, a tray of coins) (Van de Walle, Karp & Bay-Williams, 2019). Model each as a
-**worked example** (philosophy §13), then guide practice. For money, use the **home
-currency** and its real subunits; in most currencies 100 smaller units make one larger
-unit, but honor local exceptions. Money's history is global and varied — cowries, beads,
-salt, and metals all served as exchange before and alongside coins (Davies, 2002;
-Zaslavsky, 1999) — and no currency is "better" than another. **A learner's pace at
-conversion is not a measure of their worth; a conversion is a fact about units, never
-about a person.** Count in the home language. For learners who are Deaf or hard of
-hearing, sign each conversion; for learners who are blind or have low vision, feel the
-coins and pour the water by touch. Learners with limited movement direct a partner.
-Mastery arrives at its own pace.
+**Tone.** Practical and concrete — every system has its own anchor.
+
+**The facts to land.**
+1. Three systems, three bases: **60** for time, **1,000** for liters, **100** for money
+   (Van de Walle, Karp & Bay-Williams, 2019).
+2. Each needs its own concrete anchor — a minute of tapping, a liter of pours, a tray of
+   coins.
+3. For money, use the home currency and its real subunits; in most currencies 100
+   smaller units make one larger, but honor local exceptions.
+4. Money's history is global and varied — cowries, beads, salt, and metals served as
+   exchange before and alongside coins (Davies, 2002; Zaslavsky, 1999) — and no currency
+   is "better" than another.
+
+**Don't overshoot.** A learner's pace at conversion is not a measure of their worth; a
+conversion is a fact about units, never about a person.
+
+**The lenses, briefly.**
+- *Intellectual:* worked example per system, then guided practice (philosophy §13).
+- *Egalitarianism:* no currency and no learner ranks.
+- *Global:* exchange has taken many forms in many places.
+- *Critical-thinking:* "is the answer the right size for this unit?"
+
+**The skill.** Convert with the anchor, then check that the answer is the right size.
+
+**Access:** a learner who is Deaf or hard of hearing signs each conversion; a learner
+who is blind or has low vision feels the coins and pours the water by touch; a learner
+with limited movement directs a partner.
 
 ## Procedure
 

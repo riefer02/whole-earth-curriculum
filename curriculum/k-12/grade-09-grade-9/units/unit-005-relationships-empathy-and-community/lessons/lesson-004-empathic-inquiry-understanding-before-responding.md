@@ -106,20 +106,31 @@ good friends everywhere: understand first, respond second. Today you learn the l
 
 ## Facilitator note
 
-The skill to land: **empathic inquiry is a four-step loop — (1) observe: notice the
-person's face, voice, body, and situation; (2) ask: an open question that invites them
-to say more ("what's that been like for you?"); (3) reflect: name the feeling and the
-need you hear ("you sound frustrated because you wanted this to go differently"); (4)
-check: confirm you got it right ("is that close?"), and loop back if not.** This is a
-*skill*; use a worked example first, then guided practice (S-011). The ethics lens:
-understanding someone is not endorsing them — and it is the honest starting point before
-any judgment or advice. The egalitarian lens: whose feelings get listened to, and whose
-get talked over, is often about power; empathic inquiry is a way of making room for
-quieter voices. The global lens: deep listening is honored in traditions across
-cultures — from the talking circle to the mediator's questions — though its forms
-differ. The technology lens: in text there is no face or voice to observe, so the "ask"
-and "check" steps matter even more, and a kind check can prevent a misread. Emphasize
-that reflecting is a guess offered humbly, not a verdict.
+**Tone.** Curious and unhurried — understanding before responding.
+
+**The facts to land.**
+
+1. **Observe** — notice the person's face, voice, body, and situation.
+2. **Ask** — an open question that invites them to say more ("what's that been like for
+you?").
+3. **Reflect** — name the feeling and the need you hear ("you sound frustrated because
+you wanted this to go differently").
+4. **Check** — confirm you got it right ("is that close?"), and loop back if not.
+
+**The lenses, briefly.**
+
+- *Ethics:* understanding someone is not endorsing them, and it is the honest starting
+point before any judgment or advice.
+- *Egalitarianism:* whose feelings get listened to, and whose get talked over, is often
+about power; empathic inquiry makes room for quieter voices.
+- *Global:* deep listening is honoured in traditions across cultures — from the
+talking circle to the mediator's questions — though its forms differ.
+- *Technology:* in text there is no face or voice to observe, so "ask" and "check"
+matter even more, and a kind check can prevent a misread.
+- *Social-emotional:* reflecting is a guess offered humbly, not a verdict.
+
+**The skill.** **Worked example first, then guided practice** (S-011): run the four-step
+loop on one invented case.
 
 ## Procedure
 

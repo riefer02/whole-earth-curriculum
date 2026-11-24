@@ -114,26 +114,32 @@ trust, what to buy, and what to make.
 
 ## Facilitator note
 
-The skill to land: **a critique separates *observation* from *judgment* and requires
-judgment to cite evidence.** Use the four-step frame — **describe** (name the elements
-you actually see: line, shape, color, value, texture, space), **analyze** (say how those
-elements are arranged and relate), **interpret** (say what the work seems to mean or be
-for — its context and purpose), **evaluate** (say whether and why it works, citing the
-evidence you gathered). The elements of art and principles of design are *one*
-tradition's vocabulary for the first two steps (S-365) — other traditions describe their
-arts in their own words — but naming what is there before judging is a move shared
-across cultures. This is a *skill*, so **model the frame once on a projected artwork,
-then let learners practice in pairs** (explicit instruction carries novice skills —
-S-011). The critical-thinking lens: "cite the evidence" is the whole point — a judgment
-without evidence is just a preference. The ethics lens: critique is honest and kind; it
-describes the work, never the maker, and it can disagree respectfully — and when a
-classmate's work is the subject, it is critiqued only with their consent, saying what is
-true and kind. The egalitarian lens: every learner's judgment is valid *if* it is
-supported; no learner's taste is "better." The global lens: critique works the same way
-across cultures — name what is there, honor its context, then judge. When critiquing the
-art of another culture, ask respectful questions about its purpose rather than ranking
-it by one tradition's rules (S-056). Keep the tone generative: critique builds, it does
-not tear down.
+**Tone.** Generative and precise — critique builds, it does not tear down.
+
+**The facts to land.**
+
+1. The four-step frame: **describe** (line, shape, color, value, texture, space),
+   **analyze** (how they are arranged), **interpret** (what it means or is for), and
+   **evaluate** (whether and why it works, citing evidence).
+2. The elements of art and principles of design are *one* tradition's vocabulary for the
+   first two steps (S-365); naming what is there before judging is a move shared across
+   cultures.
+3. A judgment without evidence is just a preference.
+
+**Don't overshoot.** Do not let critique become a hunt for faults, or treat one
+Tradition's vocabulary as the only way to describe a work.
+
+**The lenses, briefly.**
+
+- *Critical-thinking:* "cite the evidence" is the whole point.
+- *Ethics:* critique describes the work, never the maker; a classmate's work is
+  critiqued only with consent, saying what is true and kind.
+- *Egalitarianism:* every learner's evidence-based judgment is valid; no taste is "better."
+- *Global:* when critiquing another culture's art, ask respectful questions about its
+  purpose rather than ranking it by one tradition's rules (S-056).
+
+**The skill.** Model the frame once on a projected artwork, then learners practise in
+pairs (explicit instruction carries novice skills — S-011).
 
 ## Procedure
 

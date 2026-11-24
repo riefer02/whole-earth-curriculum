@@ -115,20 +115,34 @@ real decision together, fairly.
 
 ## Facilitator note
 
-This lesson teaches **deciding together**, not obeying a decision handed down. Offer two
-fair ways and let learners practice both: **talk it through** (everyone's idea and
-reason is heard before choosing) and **take a vote** (everyone shows a choice and the
-group counts; the choice most people picked wins, but the group also listens to the ones
-who did not win). Neither way is a dogma — a good group often does both. Use a passing
-object as a **turn marker** so one voice is heard at a time; it is a reminder to listen,
-not a decoration. Every voice matters — not just the loudest or fastest; invite quieter
-voices, and show that a good idea can come from anyone. A learner who does not speak
-aloud shows their choice with a token, a raised hand, a step into a circle, or by
-pointing; a learner who is deaf or hard of hearing follows the choices through the chart
-and sign; a learner who is blind or low-vision hears the choices read back and shows a
-choice by voice or touch; a learner with a motor difference shows their choice by
-directing a partner or by eye gaze, and their choice is counted. A learner may always
-pass. The goal is a decision the group *made together* — and can say how it was made.
+**Tone.** Genuine and even-handed. Decide together, don't hand down.
+
+**The facts to land.**
+
+1. Practice two fair ways: **talk it through** (everyone's idea and reason is heard
+   before choosing) and **take a vote** (everyone shows a choice; the group counts).
+2. With a vote, most picks win, but the group also listens to those who did not.
+3. Neither is a dogma; a good group often does both.
+4. Use a passing object as a **turn marker** — a reminder to listen.
+
+**Don't overshoot.** Every voice matters, not just the loudest. Invite quieter voices; a
+good idea can come from anyone — and a learner may always pass.
+
+**The lenses, briefly.**
+
+- *Ethics:* the losers of a vote are still heard.
+- *Egalitarianism:* a token, a raised hand, a step, a point — every way counts.
+- *Community:* the decision belongs to the group that made it.
+- *Social-emotional:* saying a reason aloud makes choosing fairer.
+- *Global:* groups decide differently; no method is the standard.
+- *Critical-thinking:* the group can say *how* it decided.
+
+**The skill.** Give a reason, show your choice, then say how the group decided.
+
+**Access.** Non-speaking: show your choice with a token, a raised hand, a step, or by
+pointing. Deaf or hard of hearing: follow the choices through the chart and sign. Blind
+or low-vision: hear the choices read back, then choose by voice or touch. Motor
+difference: direct a partner or use eye gaze; your choice is counted.
 
 ## Procedure
 

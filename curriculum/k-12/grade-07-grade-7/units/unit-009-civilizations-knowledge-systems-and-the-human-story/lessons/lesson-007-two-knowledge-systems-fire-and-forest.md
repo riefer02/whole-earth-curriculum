@@ -113,25 +113,36 @@ forest side by side — not to pick a winner, but to see what each one sees.
 
 ## Facilitator note
 
-The ideas to land: **(1) a knowledge system is a whole way of knowing and caring — how a
-people observes, remembers, and acts; (2) Aboriginal Australian cultural burning uses
-low, carefully timed "cool" fires to renew the land, protect habitat, and reduce fuel
-for dangerous fires — a practice developed over tens of thousands of years and still
-practiced today; (3) formal fire science measures and models fire behavior — fuel,
-weather, spread — and tests predictions; (4) the two are held side by side, never
-ranked: each is real, rigorous in its own way, and they can inform each other.** These
-are documented facts (see CSIRO and Indigenous fire organizations such as the Firesticks
-Alliance, which describe cultural burning's long history and its benefits for land
-health and fire risk). Model the two-column worked example first, then let learners sort
-(Kirschner, Sweller & Clark, 2006). The environment lens: this is about caring for
-living systems — a relationship to land, not just facts about it. The global lens:
-cultural burning is one Indigenous practice among many around the world (Māori
-kaitiakitanga, and others); formal science is also one tradition among many, not the
-default. The egalitarian lens: ranking "science" above Indigenous knowledge is itself a
-legacy of colonial power; holding them equal is a small act of repair. The ethics lens:
-how we treat knowledge we did not grow up with is an ethical choice — respect, credit,
-and partnership over dismissal. Caution: avoid the trap of presenting Indigenous
-knowledge as only "ancient" or only about the past; it is living and current.
+**Tone.** Respectful and precise. Two rigorous systems, neither ranked.
+
+**The facts to land.**
+
+1. A **knowledge system** is a whole way of knowing and caring — how a people observes,
+   remembers, and acts.
+2. **Aboriginal Australian cultural burning** uses low, carefully timed "cool" fires to
+   renew the land, protect habitat, and reduce fuel for dangerous fires — developed over
+   tens of thousands of years and still practiced today.
+3. **Formal fire science** measures and models fire behavior — fuel, weather, spread —
+   and tests predictions.
+4. **Hold the two side by side**: each is real and rigorous in its own way, and they can
+   inform each other.
+
+**Don't overshoot.** Do not present Indigenous knowledge as only "ancient" or only about
+the past; it is living and current. Do not rank either system above the other.
+
+**The lenses, briefly.**
+
+- *Environment:* this is a relationship to land, not just facts about it.
+- *Global:* cultural burning is one Indigenous practice among many (Māori kaitiakitanga,
+  and others); formal science is also one tradition among many, not the default.
+- *Egalitarianism:* ranking "science" above Indigenous knowledge is a legacy of colonial
+  power; holding them equal is a small act of repair.
+- *Ethics:* how we treat knowledge we did not grow up with is an ethical choice —
+  respect, credit, and partnership over dismissal.
+
+**The skill.** Model the two-column worked example first, then let learners sort
+(Kirschner, Sweller & Clark, 2006). Documented in CSIRO and Indigenous fire
+organizations such as the Firesticks Alliance.
 
 ## Procedure
 

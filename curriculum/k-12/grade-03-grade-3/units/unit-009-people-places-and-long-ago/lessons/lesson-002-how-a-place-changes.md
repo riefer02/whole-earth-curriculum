@@ -120,19 +120,33 @@ the **cause** is the second. That is how the story of any place is told.
 
 ## Facilitator note
 
-**Cause-and-effect is a new and harder skill, so model it step-by-step before
-independent work** (Kirschner, Sweller & Clark, 2006): hold up the three river cards,
-and think aloud — "Long ago, a quiet crossing. Then, a bridge was built. Now, a busy
-port. The **cause** of the change was the bridge: it let more people and goods cross, so
-the place grew." Then guide the same move for the market or school before learners
-choose their own. **Keep causes real, gentle, and non-judgmental:** do not say the old
-way was worse. A quiet crossing, a few stalls, or a one-room school are not "backward" —
-they are earlier chapters of the same story, and many places still live in those
-chapters today. Many great cities and markets grew at river crossings and ports (see
-Resources); use this as a true, global pattern, not a story of one region. Honor every
-body: describe the cards in words for a learner who cannot see them; a learner who does
-not use a speaking voice points or acts the three times and the cause. A learner's own
-place may be the best example of all — invite, never require, its telling.
+**Tone.** Curious and non-judgmental — a change is a chapter, not a verdict.
+
+**The facts to land.**
+1. Places change for reasons: a bridge lets more people and goods cross, so a quiet
+   crossing becomes a busy port.
+2. Many great cities and markets grew at river crossings and ports — a true global
+   pattern, not the story of one region (see Resources).
+3. Cause and effect is new and harder work for this age.
+
+**Don't overshoot.** Do not say the old way was worse. A quiet crossing or a one-room
+school is not "backward" — it is an earlier chapter, and many places still live there.
+
+**The lenses, briefly.**
+- *Global:* the pattern is drawn from many regions.
+- *Egalitarianism:* no place is behind; each is at its own point.
+- *Environment:* water and land shape what a place can become.
+- *Critical-thinking:* model the reasoning aloud first (Kirschner, Sweller & Clark,
+  2006): "a quiet crossing, then a bridge, then a busy port — the **cause** was the
+  bridge."
+
+**The skill.** Name a change, then name the cause and the evidence for it.
+
+Guide the same move for the market or school before learners choose their own; a
+learner's own place may be the best example — invite it, never require it.
+
+**Access:** describe the cards in words for a learner who cannot see them; a learner who
+does not use a speaking voice points or acts the three times and the cause.
 
 ## Procedure
 

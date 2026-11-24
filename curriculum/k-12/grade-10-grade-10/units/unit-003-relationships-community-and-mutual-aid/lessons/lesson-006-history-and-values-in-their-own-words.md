@@ -117,29 +117,37 @@ others feel, but by listening to what they actually say.
 
 ## Facilitator note
 
-The idea to land: **the study itself is simple and repeatable — gather the community's
-own history, values, art and stories, and institutions from first-person sources, with
-consent and credit, and check your own assumptions as you go.** This is a method and a
-value, not a scientific claim: the **egalitarian** commitment is that a community is the
-authority on itself, and respectful study centers its own voices rather than repeating
-stereotypes (S-226 documents how repeated narrow images can flatten how whole groups are
-seen). The **ethics** of representation are real and teachable: ask permission before
-recording or quoting, give credit, and do not turn someone's story into a trophy — study
-*with*, not *on*. Be honest that "from within" is always approximate: even the most
-careful outsider stays partly outside, so the posture is humility, not ownership.
+**Tone.** Careful and matter-of-fact: consent and credit are non-negotiable, and "from
+within" is always approximate.
 
-Model one spoke once, then let learners work (worked example → guided practice →
-independent work; S-011). The **global** lens is the spine: this is the discipline of
-meeting other peoples and times without flattening them. The **critical-thinking** lens:
-ask of every source *who made it and for whom*, and check where your own assumption has
-been filling a gap the community never said. The **egalitarian** lens: whose version of
-a community gets repeated is a question of power — citing inside voices is a small act
-of fairness. The **social-emotional** lens: sitting with another community's history can
-stir discomfort, admiration, and humility; invite, never force, and let learners share
-only what they choose. Note for the facilitator: if a learner's chosen community is
-Indigenous or otherwise marginalized, be especially careful to steer them to the
-community's own sources and to treat consent and attribution as non-negotiable. Preview:
-with empathy in hand, Lessons 7–8 ask what digital platforms do to empathy itself.
+**The facts to land.**
+
+1. The method is repeatable: gather a community's own history, values, art, stories, and
+   institutions from first-person sources, with consent and credit.
+2. A community is the authority on itself, and repeated narrow images can flatten how
+   whole groups are seen (S-226) — so its own voices are the correction.
+3. Study *with*, not *on*: even the most careful outsider stays partly outside, so the
+   posture is humility, not ownership.
+
+**Don't overshoot.** One source never stands for a whole people, and a story is not a
+trophy.
+
+**The lenses, briefly.**
+
+- *Global:* the spine — meeting other peoples and times without flattening them.
+- *Critical-thinking:* ask of every source who made it and for whom, and check where
+  your assumption filled a gap.
+- *Ethics:* permission before recording or quoting, credit given, and no extraction.
+- *Egalitarianism:* citing inside voices is a small act of fairness.
+- *Social-emotional:* another community's history can stir discomfort, admiration, and
+  humility — invite, never force.
+
+**Facilitator care.** If a learner's chosen community is Indigenous or otherwise
+marginalised, steer them to that community's own sources, and treat consent and
+attribution as non-negotiable.
+
+**The skill.** Model one spoke once, then release (S-011): gather one first-person
+source and log its consent and credit. Lessons 7–8 turn to what platforms do to empathy.
 
 ## Procedure
 

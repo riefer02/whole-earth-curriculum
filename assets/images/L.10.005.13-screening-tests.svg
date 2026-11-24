@@ -20,18 +20,18 @@
     <rect x="250" y="130" width="90" height="40" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
     <rect x="340" y="130" width="90" height="40" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
 
-    <text x="100" y="75">&#160;</text>
-    <text x="205" y="75">Test +</text>
-    <text x="295" y="75">Test &#8722;</text>
-    <text x="385" y="75">Total</text>
-    <text x="100" y="115">Sick</text>
-    <text x="205" y="115">&#8776; 10</text>
-    <text x="295" y="115">&#8776; 0</text>
-    <text x="385" y="115">10</text>
-    <text x="100" y="155">Well</text>
-    <text x="205" y="155">&#8776; 100</text>
-    <text x="295" y="155">&#8776; 9,890</text>
-    <text x="385" y="155">9,990</text>
+    <text fill="#222222" text-anchor="middle" font-size="14" x="100" y="75"> </text>
+    <text fill="#222222" text-anchor="middle" font-size="14" x="205" y="75">Test +</text>
+    <text fill="#222222" text-anchor="middle" font-size="14" x="295" y="75">Test &#8722;</text>
+    <text fill="#222222" text-anchor="middle" font-size="14" x="385" y="75">Total</text>
+    <text fill="#222222" text-anchor="middle" font-size="14" x="100" y="115">Sick</text>
+    <text fill="#222222" text-anchor="middle" font-size="14" x="205" y="115">&#8776; 10</text>
+    <text fill="#222222" text-anchor="middle" font-size="14" x="295" y="115">&#8776; 0</text>
+    <text fill="#222222" text-anchor="middle" font-size="14" x="385" y="115">10</text>
+    <text fill="#222222" text-anchor="middle" font-size="14" x="100" y="155">Well</text>
+    <text fill="#222222" text-anchor="middle" font-size="14" x="205" y="155">&#8776; 100</text>
+    <text fill="#222222" text-anchor="middle" font-size="14" x="295" y="155">&#8776; 9,890</text>
+    <text fill="#222222" text-anchor="middle" font-size="14" x="385" y="155">9,990</text>
   </g>
   <text x="205" y="192" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#a06030" font-weight="bold">true +</text>
   <text x="295" y="192" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#a06030" font-weight="bold">false &#8722;</text>
@@ -39,10 +39,10 @@
 
   <!-- Computation -->
   <text x="256" y="230" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42" font-weight="bold">P(disease | positive) = 10 / (10 + 100) &#8776; 9%</text>
-  <text x="256" y="259.7" text-anchor="middle" font-family="sans-serif" font-size="12.1" fill="#4f6d7a">Even with a positive result, the person is probably fine &#8212; because the</text>
+  <text x="256" y="259.7" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Even with a positive result, the person is probably fine &#8212; because the</text>
   <text x="256" y="277.9" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">disease is rare.</text>
 
-  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">P(A|B) = P(A and B) / P(B) &#160;&#160;|&#160;&#160; independent if P(A|B) = P(A)</text>
+  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">P(A|B) = P(A and B) / P(B)   |   independent if P(A|B) = P(A)</text>
 
   <text x="256" y="486" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">The base rate (how common the disease is) matters as much as the test's accuracy.</text>
 </svg>

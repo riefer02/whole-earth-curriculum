@@ -114,19 +114,33 @@ in proportion. A scale is the bridge between a picture and the real thing.
 
 ## Facilitator note
 
-The ideas to land: (1) a **scale drawing** uses a fixed **scale** (a ratio like 1 cm : 2
-m) so every drawing length corresponds to a real length by multiplying; (2) to find an
-**actual length**, multiply the drawing length by the scale factor; (3) to **reproduce**
-at a given scale factor, multiply *every* length by that factor. Because scale
-conversion is a foundational skill, use explicit instruction, worked examples, and
-guided practice before independent work (Kirschner, Sweller & Clark, 2006). Watch for
-the slips of confusing "1 cm = 2 m" with "2 cm = 1 m" and of scaling only some lengths
-when reproducing. Retrieval: ask learners to recall the constant of proportionality
-(Lessons 3 and 8) — the scale is a constant of proportionality between drawing and real
-lengths. The global lens: maps and plans to scale are a shared human achievement —
-Ptolemy's coordinates and al-Idrisi's 12th-century world map are documented examples.
-The egalitarian lens (`docs/philosophy.md` §4): a scale lets anyone read a map or plan
-and check a measurement — navigation and building are open to all, not experts alone.
+**Tone.** Practical. A scale is a promise about sizes.
+
+**The facts to land.**
+
+1. A **scale drawing** uses a fixed **scale** — a ratio such as 1 cm : 2 m — so every
+   drawing length corresponds to a real length.
+2. To find an **actual length**, multiply the drawing length by the scale factor.
+3. To **reproduce** at a given scale factor, multiply *every* length by that factor.
+
+**Don't overshoot.** Do not read the scale backwards: 1 cm : 2 m does not mean 2 cm : 1
+m. Say it aloud each time ("one centimetre stands for two metres").
+
+**The lenses, briefly.**
+
+- *Intellectual:* the scale is a constant of proportionality between drawing and
+  reality.
+- *Egalitarianism:* a scale lets anyone read a map or plan and check a measurement —
+  navigation and building are open to all, not experts alone (`docs/philosophy.md` §4).
+- *Global:* maps and plans to scale are a shared achievement — Ptolemy's coordinates and
+  al-Idrisi's 12th-century world map are documented examples.
+- *Critical-thinking:* check a converted length against something you know — a door, a
+  step, a room.
+
+**The skill.** Foundational: instruct explicitly, model worked examples, guide practice,
+then release (Kirschner, Sweller & Clark, 2006). Retrieval: the constant of
+proportionality from Lessons 3 and 8. Two slips: inverting the scale, and scaling only
+some lengths when reproducing.
 
 ## Procedure
 

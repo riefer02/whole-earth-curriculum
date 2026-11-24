@@ -122,29 +122,38 @@ Language justice names that: public life should be legible to the people it serv
 
 ## Facilitator note
 
-The idea to land, held carefully: the *facts* — about 40% of people lack education in a
-language they speak (UNESCO, S-019), and there are roughly 7,000 living languages, many
-endangered (Ethnologue, S-426) — are documented and verifiable. The *value* — that
-public life should be legible to every person in their language, and that exclusion by
-language is unjust — is a commitment, not a fact, and should be taught as such. The
-lesson asks learners to argue *for* a value using *facts*, which is exactly the
-evidence-versus-values distinction the curriculum holds throughout.
+**Tone.** Firm about the value, exact about the evidence, and clear which is which.
 
-The **ethics** lens: whose language is used in law, medicine, and school is a question
-of power, and advocacy asks "who is being left out, and what should be done?" The
-**egalitarianism** lens: language justice treats multilingualism as the normal human
-condition, and monolingual public services as the problem to fix, not the other way
-around. The **global** lens: language exclusion happens everywhere, and the fixes differ
-by place — a multilingual sign, an interpreter, a plain-language rewrite — none is the
-default. The **technology** lens: translation tools help but are uneven across languages
-and cannot carry nuance, so they are a *partial* fix, not a substitute for human
-translation and interpretation (machine translation's limits are documented — S-350).
-The **environment** lens: the highest-stakes public communication is often
-environmental — disaster warnings, water-quality notices, evacuation orders — so
-language justice is an *environmental* justice issue too. The **critical-thinking**
-lens: the audit asks "who can read this, and who cannot?" — a factual question that
-precedes any moral claim. Preview: Lesson 13 practices *bridging* across languages;
-Lesson 14 assembles the capstone.
+**The facts to land.**
+
+1. Documented facts: about 40 per cent of people lack education in a language they speak
+   (UNESCO, S-019), and there are roughly 7,000 living languages, many endangered
+   (Ethnologue, S-426).
+2. The value — that public life should be legible to every person in their language, and
+   that exclusion by language is unjust — is a commitment, not a finding.
+3. The lesson asks learners to argue *for* a value using *facts*, which is the
+   evidence-versus-values distinction practised.
+
+**Don't overshoot.** Do not present the "should" as something the data proves; the facts
+are documented, the obligation is argued.
+
+**The lenses, briefly.**
+
+- *Ethics:* whose language is used in law, medicine, and school is a question of
+  power.
+- *Egalitarianism:* multilingualism is the normal human condition; monolingual public
+  service is the problem to fix.
+- *Global:* the fixes differ by place — a multilingual sign, an interpreter, a
+  plain-language rewrite.
+- *Technology:* translation tools help, but they are uneven across languages and
+  cannot carry nuance (S-350) — a partial fix, not a substitute for human translation.
+- *Environment:* disaster warnings, water-quality notices, evacuation orders: language
+  justice is environmental justice too.
+- *Critical-thinking:* "who can read this, and who cannot?" is a factual question that
+  precedes any moral claim.
+
+**The skill.** Model one audit, then release (S-011): audit a real public notice and
+propose one fix. Lessons 13–14 practise bridging, then the capstone.
 
 ## Procedure
 

@@ -36,11 +36,11 @@
   <!-- Chain of effects -->
   <text x="256" y="256" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#2b3a42" font-weight="bold">Each sets off a chain of effects</text>
   <g font-family="sans-serif" font-size="13" fill="#222222">
-    <text x="60" y="288">&#8226; species decline &#8594; food web thins</text>
-    <text x="60" y="312">&#8226; soil erodes; harvests and water change</text>
-    <text x="60" y="336">&#8226; the people closest to the land feel it first</text>
+    <text fill="#222222" font-size="13" x="60" y="288">&#8226; species decline &#8594; food web thins</text>
+    <text fill="#222222" font-size="13" x="60" y="312">&#8226; soil erodes; harvests and water change</text>
+    <text fill="#222222" font-size="13" x="60" y="336">&#8226; the people closest to the land feel it first</text>
   </g>
 
-  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="13.9" fill="#4f6d7a">The three drivers are leading causes of biodiversity loss (S-437).</text>
-  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="12.2" fill="#222222">Who feels the effect first is a fairness question, not just an ecology one.</text>
+  <text x="256" y="396" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">The three drivers are leading causes of biodiversity loss (S-437).</text>
+  <text x="256" y="482" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Who feels the effect first is a fairness question, not just an ecology one.</text>
 </svg>

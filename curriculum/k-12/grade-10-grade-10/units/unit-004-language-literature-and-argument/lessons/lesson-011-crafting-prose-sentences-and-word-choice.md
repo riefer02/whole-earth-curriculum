@@ -118,27 +118,35 @@ the same question stands: *what should this sentence do, and how can I make it d
 
 ## Facilitator note
 
-The idea to land: **style is choice, not talent — sentence length creates rhythm and
-emphasis (short sentences land hard; long ones carry and build), and word choice
-controls precision and connotation (what a word means, and what it makes a reader
-feel).** This is the unit's writing-craft thread (Lessons 11–12). Effective adolescent
-writing is taught with explicit strategies — models, sentence-level practice, and
-revision — not left to intuition (S-102; the writing process and explicit strategy
-instruction are the evidence-backed core). A worked example of revision is the key move:
-show a flat sentence become a crafted one, and name *why* each change works.
+**Tone.** Practical and unromantic: style is a set of choices anyone can learn to make.
 
-Model the skill once, then let learners practice (worked example → guided practice →
-independent work; S-011). The **intellectual** lens is the spine: revision is where
-thinking happens — each change is a decision with a reason. The **critical-thinking**
-lens: ask of every sentence "what is it doing, and is that what I want?" The **ethics**
-lens: precise, honest words serve truth; inflated or evasive words can be used to
-deceive — craft carries responsibility. The **egalitarian** lens: every learner's
-home-language way of putting things is a resource, not an error — style may vary across
-languages and dialects, and none is "broken." The **global** lens: sentence craft and
-word-choice art exist in every written and oral tradition — from a Bashō haiku's
-compression (S-351) to a griot's performance — and learners may draw on any of them.
-Preview: Lesson 12 turns from the sentence to *tone* — matching word and sentence to
-purpose and audience.
+**The facts to land.**
+
+1. Style is choice, not talent: sentence length creates rhythm and emphasis (short
+   sentences land hard, long ones build), and word choice controls precision and
+   connotation.
+2. Adolescent writing improves with explicit strategies — models, sentence-level
+   practice, revision — not with intuition alone (S-102).
+3. The key move is a worked example of revision: a flat sentence becoming a crafted one,
+   with every change named.
+
+**Don't overshoot.** Do not call good writing a gift, and do not treat dialect features
+as errors to be edited out.
+
+**The lenses, briefly.**
+
+- *Intellectual:* revision is where thinking happens; each change is a decision with a
+  reason.
+- *Critical-thinking:* ask of every sentence what it is doing, and whether that is
+  what you want.
+- *Ethics:* precise, honest words serve truth; inflated or evasive words can deceive.
+- *Egalitarianism:* a learner's home-language way of putting things is a resource; no
+  dialect is "broken".
+- *Global:* compression in a Bashō haiku (S-351), a griot's performance — draw on any
+  tradition.
+
+**The skill.** Model once, then release (S-011): revise one sentence three ways and say
+what each version does. Lesson 12 turns from the sentence to tone.
 
 ## Procedure
 

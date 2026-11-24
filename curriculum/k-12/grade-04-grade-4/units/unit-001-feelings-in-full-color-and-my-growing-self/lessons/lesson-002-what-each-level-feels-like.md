@@ -58,7 +58,7 @@ context_variants:
     note: Use a quiet spot outside for the body scan; describe how the wind, sun, or ground feels as a warm-up to noticing inner signals
 assets:
   - path: assets/images/L.04.001.02-body-signals.svg
-    alt: Three simple person outlines side by side, each labeled with a feeling strength. The "a little" figure shows a small flutter near the stomach. The "some" figure shows warmth and a faster heartbeat at the chest. The "a lot" figure shows heat, tight shoulders, and shaking hands. A caption reads "My body tells me how strong my feeling is."
+    alt: "Three people one above another, each labelled by a leader line. “A little” — a small flutter on the stomach, labelled “flutter in the tummy”. “Some” (wearing a hearing aid) — a heart at the chest with motion lines, labelled “heart beats faster, skin warms”. “A lot” — jitter marks at the shoulders and hands, labelled “hot and tight, shaky all over”. Caption — my body tells me how strong a feeling is."
     kind: image
     source: original
 duration_minutes: 45

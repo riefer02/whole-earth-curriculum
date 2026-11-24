@@ -112,21 +112,36 @@ independent is the same skill, done with care.
 
 ## Facilitator note
 
-This is a **skill lesson**, so use explicit instruction: **model the four steps once on
-a worked example, then guide practice, then independent practice** (S-011). The four
-steps: **(1) state the claim exactly; (2) trace it to its source — who posted it, where
-did it first appear, what is the original evidence; (3) check it against independent
-reporting — separate outlets or a fact-checker that did not come from the same source;
-(4) decide with evidence — does the claim hold, or is it distorted, out of context, or
-false?** This is "lateral reading" — leaving the claim to check *other* sources rather
-than only reading the claim's own page (S-394). The **technology** lens: viral spread is
-engineered by the same ranking we studied in Lesson 2. The **ethics** lens: passing on a
-false claim does real harm; checking before sharing is a duty to others. The **global**
-lens: the same claim may be reported differently in different countries and languages —
-compare. The **critical-thinking** lens: separate *what the evidence shows* from *what
-the headline says* — evidence and interpretation are different things (philosophy §5).
-Prepare claim cards that are neutral, age-appropriate, and genuinely checkable; avoid
-partisan or traumatic content (facilitation.md).
+**Tone.** Curious and sceptical — follow the claim, not the crowd.
+
+**The facts to land.**
+
+1. **State the claim exactly.**
+2. **Trace it to its source** — who posted it, where it first appeared, what the
+original evidence is.
+3. **Check it against independent reporting** — separate outlets, or a fact-checker that
+did not come from the same source.
+4. **Decide with evidence** — does the claim hold, or is it distorted, out of context,
+or false?
+
+This is "lateral reading": leaving the claim to check *other* sources, rather than only
+reading the claim's own page (S-394).
+
+**The lenses, briefly.**
+
+- *Technology:* viral spread is engineered by the same ranking studied in Lesson 2.
+- *Ethics:* passing on a false claim does real harm; checking before sharing is a duty
+to others.
+- *Global:* the same claim may be reported differently in different countries and
+languages — compare.
+- *Critical-thinking:* separate *what the evidence shows* from *what the headline
+says* (philosophy §5).
+
+**The skill.** Explicit instruction: model the four steps once, then guide practice,
+then independent practice (S-011).
+
+**Preparation.** Claim cards must be neutral, age-appropriate, and genuinely checkable;
+avoid partisan or traumatic content (facilitation.md).
 
 ## Procedure
 

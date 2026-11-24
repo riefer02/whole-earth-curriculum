@@ -120,20 +120,33 @@ walking together, peacefully, to the sea to make their own salt.
 
 ## Facilitator note
 
-**Tell the story gently and hopefully.** The Salt March is real and well-documented (see
-Resources), and its shape is right for this age: notice an unfair rule, gather, walk
-peacefully, act, and change it — without fighting. **Keep it nonviolent and
-blame-free:** do not dwell on punishment or suffering; the lesson's power is in ordinary
-people, working together, and the hope of change. **The "steps" are the learning:**
-notice → work together → act peacefully → change it. Model the steps once (Kirschner,
-Sweller & Clark, 2006), then let learners retell them. Distinguish evidence from values:
-*that* the march happened and the rule was unfair is fact (see Resources); *that*
-changing unfairness together and peacefully is good is a value we hold together. Offer
-Wangari Maathai (Grade 2 retrieval) and the Montgomery bus boycott as other examples of
-the same shape, so learners see this pattern across many peoples. **No child is ever the
-problem, and no one must share a personal unfairness.** Honor every body: a learner who
-cannot see the cards hears the story told clearly; a learner who does not use a speaking
-voice acts or points.
+**Tone.** Gentle and hopeful — ordinary people, working together, without fighting.
+
+**The facts to land.**
+1. The Salt March is real and well documented (see Resources), and its shape is right
+   for this age: notice an unfair rule, gather, walk peacefully, act, and change it.
+2. *That* the march happened and the rule was unfair is fact (see Resources); *that*
+   changing unfairness together and peacefully is good is a value we hold together.
+3. The same shape appears across many peoples — Wangari Maathai (a Grade 2 retrieval)
+   and the Montgomery bus boycott are others.
+
+**Don't overshoot.** Do not dwell on punishment or suffering; nothing in this story is
+improved by frightening the room.
+
+**The lenses, briefly.**
+- *Ethics:* the steps are the lesson: notice, work together, act peacefully, change
+  it.
+- *Egalitarianism:* no child is ever the problem, and no one must share a personal
+  unfairness.
+- *Global:* the pattern repeats across peoples, so no single story owns it.
+- *Community:* change came from many people acting together.
+
+**The skill.** Retell the four steps in order, then apply them to one small unfairness.
+
+Model the steps once (Kirschner, Sweller & Clark, 2006), then let learners retell them.
+
+**Access:** a learner who cannot see the cards hears the story told clearly; a learner
+who does not use a speaking voice acts or points.
 
 ## Procedure
 

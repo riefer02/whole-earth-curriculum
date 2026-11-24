@@ -26,11 +26,11 @@
   </defs>
 
   <g font-family="sans-serif" font-size="15" fill="#2b3a42" text-anchor="middle">
-    <text x="70" y="180">farm</text><text x="70" y="200">grow</text>
-    <text x="166" y="180">transport</text><text x="166" y="200">move</text>
-    <text x="262" y="180">market</text><text x="262" y="200">sell</text>
-    <text x="358" y="180">plate</text><text x="358" y="200">eat</text>
-    <text x="449" y="180">waste</text><text x="449" y="200">lose</text>
+    <text fill="#2b3a42" text-anchor="middle" font-size="15" x="70" y="180">farm</text><text fill="#2b3a42" text-anchor="middle" font-size="15" x="70" y="200">grow</text>
+    <text fill="#2b3a42" text-anchor="middle" font-size="15" x="166" y="180">transport</text><text fill="#2b3a42" text-anchor="middle" font-size="15" x="166" y="200">move</text>
+    <text fill="#2b3a42" text-anchor="middle" font-size="15" x="262" y="180">market</text><text fill="#2b3a42" text-anchor="middle" font-size="15" x="262" y="200">sell</text>
+    <text fill="#2b3a42" text-anchor="middle" font-size="15" x="358" y="180">plate</text><text fill="#2b3a42" text-anchor="middle" font-size="15" x="358" y="200">eat</text>
+    <text fill="#2b3a42" text-anchor="middle" font-size="15" x="449" y="180">waste</text><text fill="#2b3a42" text-anchor="middle" font-size="15" x="449" y="200">lose</text>
   </g>
 
   <!-- policy levers -->
@@ -41,10 +41,10 @@
     <rect x="348" y="280" width="96" height="60" rx="8"/>
   </g>
   <g font-family="sans-serif" font-size="13" fill="#2b3a42" text-anchor="middle">
-    <text x="75" y="304">subsidies &amp;</text><text x="75" y="322">land rules</text>
-    <text x="178" y="298" font-size="12">food</text><text x="178" y="314" font-size="12">labeling &amp;</text><text x="178" y="330" font-size="12">marketing</text>
-    <text x="286" y="304">school &amp;</text><text x="286" y="322">public meals</text>
-    <text x="396" y="304">zoning &amp;</text><text x="396" y="322">food access</text>
+    <text fill="#2b3a42" text-anchor="middle" font-size="13" x="75" y="304">subsidies &amp;</text><text fill="#2b3a42" text-anchor="middle" font-size="13" x="75" y="322">land rules</text>
+    <text fill="#2b3a42" text-anchor="middle" x="178" y="298" font-size="12">food</text><text fill="#2b3a42" text-anchor="middle" x="178" y="314" font-size="12">labeling &amp;</text><text fill="#2b3a42" text-anchor="middle" x="178" y="330" font-size="12">marketing</text>
+    <text fill="#2b3a42" text-anchor="middle" font-size="13" x="286" y="304">school &amp;</text><text fill="#2b3a42" text-anchor="middle" font-size="13" x="286" y="322">public meals</text>
+    <text fill="#2b3a42" text-anchor="middle" font-size="13" x="396" y="304">zoning &amp;</text><text fill="#2b3a42" text-anchor="middle" font-size="13" x="396" y="322">food access</text>
   </g>
   <g stroke="#4f6d7a" stroke-width="2" stroke-dasharray="4 4">
     <line x1="75" y1="278" x2="70" y2="224"/>
@@ -53,5 +53,5 @@
     <line x1="396" y1="278" x2="358" y2="224"/>
   </g>
 
-  <text x="256" y="388" font-family="sans-serif" font-size="16.4" fill="#2b3a42" text-anchor="middle">Public choices shape what is easy and affordable to eat.</text>
+  <text x="256" y="388" font-family="sans-serif" font-size="15" fill="#2b3a42" text-anchor="middle">Public choices shape what is easy and affordable to eat.</text>
 </svg>

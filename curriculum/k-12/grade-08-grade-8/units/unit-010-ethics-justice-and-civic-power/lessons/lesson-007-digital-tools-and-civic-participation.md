@@ -115,23 +115,33 @@ when you act with others*.
 
 ## Facilitator note
 
-It delivers the second strand-3 goal, and it carries the **technology lens** explicitly
-(philosophy §4). Teach the change as a *trade-off* to weigh, not a hero/villain story:
-digital tools give **reach** (many people, cheaply), **speed** (instantly), and
-**coordination** (many hands organized at once) — and they also enable
-**misinformation** (false stories spread as fast as true ones), **surveillance** (the
-tools that connect can also be watched), and **harassment** (a loud crowd can drown or
-threaten a single voice). The egalitarianism lens: ask *who can use the tools and who
-cannot* — a digital divide means the same tools widen some voices and silence others.
-The critical-thinking lens: the skill here is the same source-checking habit from media
-literacy (S-063) — *check before you share*. The ethics lens: organizing online is a
-moral act; the organizer's duty includes protecting the people they organize with. The
-global lens: the Arab Spring is one well-documented case among many — do not present it
-as the only story, and note that digital organizing happens (and is blocked) on every
-continent (S-391). Keep the tone measured: these are real risks, but the lesson ends
-with **safeguards** so learners leave with agency, not fear (facilitation.md). The
-standard is a *reasoned judgment*, not a verdict that online organizing is always worth
-it or never worth it.
+**Tone.** Measured — real risks, and real safeguards.
+
+**The facts to land.**
+
+1. Digital tools give **reach** (many people, cheaply), **speed** (instantly), and
+   **coordination** (many hands organized at once).
+2. They also enable **misinformation** (false stories spread as fast as true ones),
+   **surveillance** (the tools that connect can also be watched), and **harassment** (a
+   loud crowd can drown or threaten a single voice).
+3. The lesson's skill is the source-checking habit from media literacy (S-063): *check
+   before you share*.
+
+**Don't overshoot.** Do not turn this into a hero/villain story; the standard is a
+reasoned judgment, not a verdict that online organizing is always or never worth it.
+
+**The lenses, briefly.**
+
+- *Technology:* the change is a trade-off to weigh (`philosophy` §4).
+- *Egalitarianism:* ask who can use the tools and who cannot — a digital divide widens some
+  voices and silences others.
+- *Ethics:* organizing online is a moral act; the organizer's duty includes protecting
+  the people they organize with.
+- *Critical-thinking:* verify a claim before passing it on.
+
+**The skill.** The Arab Spring is one well-documented case among many — not the only
+story; digital organizing happens, and is blocked, on every continent (S-391). End with
+**safeguards** so learners leave with agency, not fear (`facilitation.md`).
 
 ## Procedure
 

@@ -111,22 +111,37 @@ play, and to learn.
 
 ## Facilitator note
 
-**Hold the line on no food shaming.** Keep the focus on what foods *do* — give energy —
-never on amounts, weight, or appetite, and never comment on what or how much a learner
-eats. Speak of food as fuel that all living things need, and honor the many ways people
-get it — farming, fishing, gathering, buying, growing in pots. Some children have little
-food at home; keep the tone warm and matter-of-fact. It is basic biology that the body
-breaks food down and turns it into energy for moving, thinking, and growing — a fact,
-not a value. The value we add is that every body and every family's food is honored. The
-"foods that give me energy" chart is a unit portfolio artifact; keep learners'
-additions. **Every body and every way of moving is honored.** A learner who does not use
-a speaking voice points, signs, or draws their foods and energy jobs; a learner who is
-deaf or hard of hearing follows the demonstration from the front, where the picture
-cards and acted-out grow-play-learn motions carry the meaning visually. A learner who is
-blind or has low vision feels the seed or plant, names the three energy jobs aloud, and
-can model their energy-food in clay or choose a real food to hold instead of drawing.
-This lesson extends Kindergarten's "Foods That Help Me Grow" (U.00.002) and "Food for My
-Growing Body" (U.00.008).
+**Tone.** Warm and matter-of-fact. **Hold the line on no food shaming** — no comment on
+what or how much a learner eats.
+
+**The facts to land.**
+
+1. Food is fuel: the body breaks it down into energy for moving, thinking, and growing.
+   That is basic biology — a fact, not a value.
+2. All living things need food; people get it many ways — farming, fishing, gathering,
+   buying, growing in pots.
+3. Never speak of amounts, weight, or appetite; some children have little food at home.
+4. The "foods that give me energy" chart is a unit portfolio artifact — keep learners'
+   additions. Extends Kindergarten's "Foods That Help Me Grow" (U.00.002) and "Food for
+   My Growing Body" (U.00.008).
+
+**Don't overshoot.** The value we add: every body, every way of moving, and every
+family's food is honoured.
+
+**The lenses, briefly.**
+
+- *Physical:* energy for moving, thinking, and growing.
+- *Global:* every way of getting food is real.
+- *Ethics:* food is never a measure of a child.
+- *Environment:* food comes from land, water, and work.
+
+**The skill.** Name a food, then say which energy job it does for you.
+
+**Access.** Non-speaking: point, sign, or draw your foods and energy jobs. Deaf or hard
+of hearing: follow the demonstration from the front — the picture cards and acted-out
+grow-play-learn motions carry the meaning visually. Blind or low-vision: feel the seed
+or plant, name the three energy jobs aloud, and model your energy food in clay or hold a
+real food.
 
 ## Procedure
 
