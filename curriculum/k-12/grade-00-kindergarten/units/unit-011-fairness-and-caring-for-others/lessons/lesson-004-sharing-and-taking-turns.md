@@ -129,7 +129,8 @@ spoken, signed, pointed to, or shown with a gesture — no one is required to sp
 3. **Same or need? (10 min).** Think together: a big child and a small child both
    want to see out the window. The small child needs a stool; the big child does not.
    Is giving the stool to the small child fair? Yes — fair can mean *what each needs*,
-   not *the same amount*.
+   not *the same amount*. Treating people the same and treating people by what they
+   need are both serious answers to what fairness is (S-388).
 4. **Draw it (10 min).** Draw one picture of sharing the same way, or one picture of
    sharing by what each person needs. Tell a partner which kind of fair your picture
    shows.
@@ -154,3 +155,10 @@ spoken, signed, pointed to, or shown with a gesture — no one is required to sp
 
 At home, share something one of two ways — the same amount, or by what each person
 needs — and tell a grown-up which way you chose and why it was fair.
+
+## Resources
+
+- On the competing answers to what fairness means — the same for everyone, or what each
+  person needs: Stanford Encyclopedia of Philosophy — Distributive Justice (S-388).
+- On sharing, taking turns and caring for others: CASEL — Fundamentals of Social and
+  Emotional Learning (S-001).

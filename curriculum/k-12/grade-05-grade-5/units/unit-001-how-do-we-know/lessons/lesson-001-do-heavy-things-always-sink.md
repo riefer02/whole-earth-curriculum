@@ -124,7 +124,8 @@ get separated. Do not rush the naming; let them wrestle with it.
    "I predict …" for each object before you touch the water.
 2. **Test the objects (15 min).** One by one, predict, then place each object in the
    water, and record only what you *see* (floats / sinks). Which predictions were
-   wrong?
+   wrong? Changing one thing at a time and recording what actually happened is what
+   makes a test fair (S-070).
 3. **The clay surprise (10 min).** Roll one clay lump into a ball and lower it in —
    it sinks. Now flatten the other lump and shape it into a boat. Predict again, then
    place it. What happened? The clay did not change its mass — but its *shape* changed
@@ -132,9 +133,12 @@ get separated. Do not rush the naming; let them wrestle with it.
 4. **Evidence, inference, opinion (15 min).** Sort each statement into one of three
    piles: *evidence* (I saw it — "the boat floated"), *inference* (I reason it — "it
    floats because the boat pushes more water aside"), *opinion* (I think it — "clay
-   is a better boat material"). Which pile is which, and how do you know?
+   is a better boat material"). Which pile is which, and how do you know? The habit
+   of separating what was observed from what was inferred is the core of working
+   scientifically (S-242).
 5. **Close (5 min).** Science is this loop: question, predict, test, observe, explain
-   — and then question again. Your best explanation is always open to new evidence.
+   — and then question again. Your best explanation is always open to new evidence
+   (S-250).
 
 ## Differentiation
 
@@ -151,7 +155,12 @@ get separated. Do not rush the naming; let them wrestle with it.
 
 ## Resources
 
-- Archimedes' principle, explained for children (an age-appropriate source):
+- On what makes a test fair: BBC Bitesize — What is a fair test? (S-070).
+- On observation, data and inference in working scientifically: BBC Bitesize — Working
+  scientifically (S-242).
+- On science as an open, revising process: Understanding Science — How science works
+  (S-250).
+- On Archimedes' principle, for further reading (not a citation):
   <https://www.britannica.com/science/Archimedes-principle>
 
 ## Home connection

@@ -132,13 +132,16 @@ climate content, keep the focus on tools and agency; see `docs/facilitation.md`.
    over the same period." Then write one thing the data does *not* show on its own.
 3. **State the limits (10 min).** What is uncertain here? Why does a graph of
    temperature not automatically tell you the *cause*? What else would you need to
-   connect the two trends?
+   connect the two trends? The published assessments state their own uncertainty
+   ranges rather than a single number (S-005).
 4. **Judge the sources (15 min).** For each article, answer three questions: *Who made
    it? How do they know? What do they stand to gain or lose?* Which article would you
-   trust more, and why?
+   trust more, and why? Asking who is speaking and what is omitted is how media
+   literacy teaches us to read a claim (S-151).
 5. **Close (5 min).** Science earns trust by showing its evidence and its limits. A
-   claim without evidence is an assertion; a claim without limits is a red flag. Bring
-   these two habits to everything you read.
+   claim without evidence is an assertion; a claim without limits is a red flag. Peer
+   review is one of the filters that makes that possible, and it is a filter, not a
+   guarantee (S-489). Bring these two habits to everything you read.
 
 ## Differentiation
 
@@ -154,10 +157,14 @@ climate content, keep the focus on tools and agency; see `docs/facilitation.md`.
 
 ## Resources
 
-- IPCC — *Climate Change 2023: Synthesis Report* (authoritative summary):
-  <https://www.ipcc.ch/report/ar6/syr/>
-- NASA — Climate change evidence:
-  <https://science.nasa.gov/climate-change/evidence/>
+- On the state of the climate evidence, with its uncertainty ranges: IPCC — Climate
+  Change 2023: Synthesis Report (S-005), <https://www.ipcc.ch/report/ar6/syr/>.
+- On readings of the evidence from a national science agency: NASA — Climate change
+  evidence, <https://science.nasa.gov/climate-change/evidence/>.
+- On judging a source: NAMLE — Key Questions to Ask When Analyzing Media Messages
+  (S-151).
+- On peer review as a filter, not a guarantee: Understanding Science — Scrutinizing
+  science (S-489).
 
 ## Home connection
 

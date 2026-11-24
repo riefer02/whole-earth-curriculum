@@ -124,6 +124,9 @@ a personal connection to a case, let them share only if they choose.
 
 1. **Meet the three cases (10 min).** Read or hear each case. For each, note two
    things: what is being remembered, and how the society has chosen to remember it.
+   South Africa's Truth and Reconciliation Commission — testimony in exchange for
+   amnesty, with reparations recommended — is one worked example of a society choosing
+   a form for memory (S-392).
 2. **Three lenses (15 min).** For one case, ask it in three ways — write one sentence
    for each:
    - **Consequences:** what happens if we remember this way? if we forget?
@@ -132,7 +135,8 @@ a personal connection to a case, let them share only if they choose.
      just, compassionate?
 3. **Historical perspective (10 min).** Before judging, try to understand: how did
    people at the time see their world? What did they believe, fear, and value?
-   Understanding is not excusing — name the difference in your own words.
+   Understanding is not excusing — name the difference in your own words. Reading a
+   source for who made it, when, and why is the historian's basic move (S-316).
 4. **Hold two views (15 min).** Write the strongest argument you can for remembering
    *one* way, and the strongest argument for a *different* way. Which tension can't be
    resolved easily, and why?
@@ -154,10 +158,13 @@ a personal connection to a case, let them share only if they choose.
 
 ## Resources
 
-- South Africa's Truth and Reconciliation Commission (historical overview):
-  <https://www.britannica.com/event/Truth-and-Reconciliation-Commission-South-Africa>
-- UNESCO — *Teaching about the Holocaust and genocide* (pedagogical guidance for
-  facilitators): <https://www.unesco.org/en/holocaust-genocide-education>
+- On South Africa's Truth and Reconciliation Commission: Encyclopaedia Britannica —
+  Truth and Reconciliation Commission, South Africa (S-392).
+- On teaching painful history without graphic imagery and without simple answers:
+  United States Holocaust Memorial Museum — Guidelines for Teaching about the
+  Holocaust (S-495).
+- On reading a source and asking who made it, when, and why: Stanford History
+  Education Group — historical thinking (S-316).
 
 ## Home connection
 
