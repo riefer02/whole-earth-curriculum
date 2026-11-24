@@ -130,7 +130,7 @@ a calling, a role in family, a craft — varies across cultures; none is the def
 the "higher" path. The **critical-thinking** lens: the four tests are a check that
 separates a borrowed goal from an authored one.
 
-**Safety floor.** no learner is required to commit publicly or to reveal a feared self
+**Safety floor.** No learner is required to commit publicly or to reveal a feared self
 rooted in trauma. Feared selves may stay private; the map's feared path can be drawn
 lightly or left as "one I'd rather not name."
 

@@ -132,7 +132,7 @@ calling, a family role, a craft — varies across cultures; the plan's *form* is
 universal, its *content* is the learner's own. The **critical-thinking** lens: the
 accountability check is a way to verify one's own claim against what actually happens.
 
-**Safety floor.** goals are the learner's own and may be modest or private. No one is
+**Safety floor.** Goals are the learner's own and may be modest or private. No one is
 required to share a goal that touches family precarity, health, or safety. A learner may
 plan a *short-term* goal if a life goal feels too exposed.
 

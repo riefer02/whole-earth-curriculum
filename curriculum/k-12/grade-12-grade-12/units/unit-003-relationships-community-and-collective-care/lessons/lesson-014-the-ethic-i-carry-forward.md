@@ -140,7 +140,7 @@ the one that will tempt it — the carried ethic includes a decision about techn
 **environment** lens: the ethic includes the more-than-human world, because a thriving
 world is not only a human one (Kimmerer, S-427).
 
-**Safety floor.** the carried ethic is shared only in the part the learner chooses;
+**Safety floor.** The carried ethic is shared only in the part the learner chooses;
 there is no single correct ethic, only honesty, and the invitation to keep revising it
 for life.
 

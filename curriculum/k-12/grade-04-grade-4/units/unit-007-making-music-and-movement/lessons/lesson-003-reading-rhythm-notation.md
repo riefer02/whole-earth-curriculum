@@ -140,6 +140,7 @@ blink, tap a finger.
 
 **Safety floor.** Keep volume comfortable; drums close to an ear can hurt.
 
+
 ## Procedure
 
 1. **Gather (5 min).** You already keep a steady beat. Today you learn to *write* a

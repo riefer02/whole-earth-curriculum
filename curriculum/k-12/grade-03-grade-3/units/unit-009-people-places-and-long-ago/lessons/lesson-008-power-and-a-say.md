@@ -126,19 +126,22 @@ them in, is how groups become fair.
 
 **Tone.** Matter-of-fact and generous — power is shared, not bossing.
 
-**The facts to land.** 1. "Power in a group" means *the ability to help decide*; "a say"
-means *a voice that is heard*. 2. Power is meant to be shared, and a fair group makes
-room for every voice — a values commitment, not a factual claim. 3. The United Nations
-Convention on the Rights of the Child says children have the right to say what they
-think and to be listened to (see Resources).
+**The facts to land.**
+1. "Power in a group" means *the ability to help decide*; "a say" means *a voice that is
+   heard*.
+2. Power is meant to be shared, and a fair group makes room for every voice — a values
+   commitment, not a factual claim.
+3. The United Nations Convention on the Rights of the Child says children have the right
+   to say what they think and to be listened to (see Resources).
 
 **Don't overshoot.** Do not let this become a hunt for a culprit: the unfairness is in
 the arrangement, never in a child.
 
-**The lenses, briefly.** - *Ethics:* fairness is a commitment we hold. -
-*Egalitarianism:* every voice belongs in the deciding, including the quietest. -
-*Social-emotional:* being left out is noticed with care, not put on display. -
-*Community:* the same noticing begins the wider study.
+**The lenses, briefly.**
+- *Ethics:* fairness is a commitment we hold.
+- *Egalitarianism:* every voice belongs in the deciding, including the quietest.
+- *Social-emotional:* being left out is noticed with care, not put on display.
+- *Community:* the same noticing begins the wider study.
 
 **The skill.** Name who has a say in a real classroom decision, and invite in whoever is
 left out.
@@ -146,7 +149,7 @@ left out.
 Use a real decision — what game to play, where to sit, how to share — and end with the
 fix.
 
-**Safety floor.** never require a learner to share a real experience of being left out;
+**Safety floor.** Never require a learner to share a real experience of being left out;
 the given cards and circle are enough.
 
 **Access:** a learner who does not use a speaking voice points or signs; a learner who

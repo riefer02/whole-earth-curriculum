@@ -115,22 +115,26 @@ practice those rules.
 
 **Tone.** Calm and practical — never frighten.
 
-**The facts to land.** 1. Road: **stop, look left-right-left**, cross at a crosswalk or
-corner with an adult or when clear, **walk, don't run**, and **wear a helmet** when
-cycling. 2. Water: **swim only with an adult or lifeguard**, never alone. If someone is
-in trouble, **reach or throw** a stick, rope, or float and **call an adult** — never go
-in, because the person could pull a child under. 3. Both follow widely used guidance,
-promoted by the World Health Organization and water-safety organizations.
+**The facts to land.**
+1. Road: **stop, look left-right-left**, cross at a crosswalk or corner with an adult or
+   when clear, **walk, don't run**, and **wear a helmet** when cycling.
+2. Water: **swim only with an adult or lifeguard**, never alone. If someone is in
+   trouble, **reach or throw** a stick, rope, or float and **call an adult** — never go
+   in, because the person could pull a child under.
+3. Both follow widely used guidance, promoted by the World Health Organization and
+   water-safety organizations.
 
 **Don't overshoot.** A rescue story is not a plan: reach, throw, and call.
 
-**The lenses, briefly.** - *Physical:* the look order and the throw. - *Community:*
-whoever calls does the work. - *Ethics:* staying out protects two lives. -
-*Intellectual:* the rule changes with place.
+**The lenses, briefly.**
+- *Physical:* the look order and the throw.
+- *Community:* whoever calls does the work.
+- *Ethics:* staying out protects two lives.
+- *Intellectual:* the rule changes with place.
 
 **The skill.** Say the look order, then practice reach-or-throw.
 
-**Safety floor.** roads and water differ worldwide — city streets, rivers, seas, wells —
+**Safety floor.** Roads and water differ worldwide — city streets, rivers, seas, wells —
 so adapt "where to cross" and "where to swim" to the learner's own place. Where cars
 drive on the **left** (much of Asia, Africa, and the United Kingdom), reverse the order:
 stop, look **right-left-right**, and look again toward the nearest oncoming traffic.

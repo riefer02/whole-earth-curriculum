@@ -133,7 +133,7 @@ neither is the default. The **critical-thinking** lens: testing whether somethin
 *truly* constant across contexts is a check on self-description, not a performance of
 consistency.
 
-**Safety floor.** nothing here requires disclosure of trauma, family secrets, or
+**Safety floor.** Nothing here requires disclosure of trauma, family secrets, or
 marginalized identities. If a learner's "contexts" include real danger or precarity,
 allow them to write about any contexts they choose, or none, and honor silence.
 

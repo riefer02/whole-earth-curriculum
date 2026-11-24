@@ -140,7 +140,7 @@ want to talk about food.
 **The skill.** Say one kind sentence about a food that is not yours, then ask one
 question.
 
-**Safety floor.** never ask learners to disclose their own hunger or scarcity, and never
+**Safety floor.** Never ask learners to disclose their own hunger or scarcity, and never
 single anyone out. A child whose family has little food, or whose meals differ from the
 class "norm," must never be made to feel less. If a child shares something hard, respond
 with quiet care and follow your local safeguarding practice.

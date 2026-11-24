@@ -145,7 +145,7 @@ inner world we are shown, and feeds can narrow empathy into an echo of people li
 one wear the other's clothes. Preview: Lesson 6 turns to deliberately taking many views
 of one problem.
 
-**Safety floor.** problems are described factually and gently, no graphic detail; a
+**Safety floor.** Problems are described factually and gently, no graphic detail; a
 learner with a lived connection to a problem speaks only if they choose, and is honored,
 not turned into a case study.
 

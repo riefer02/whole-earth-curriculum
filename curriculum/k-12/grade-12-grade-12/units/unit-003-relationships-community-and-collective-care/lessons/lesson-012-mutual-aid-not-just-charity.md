@@ -139,7 +139,7 @@ the tool (Britannica, S-481). The **critical-thinking** lens: ask *who decides* 
 act of helping — that single question separates the two columns. Preview: Lesson 13
 scales the ethic from local action to global solidarity.
 
-**Safety floor.** no learner is asked to perform or receive charity in the room; the
+**Safety floor.** No learner is asked to perform or receive charity in the room; the
 design is a plan, not a demand to give resources now.
 
 ## Procedure

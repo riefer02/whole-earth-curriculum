@@ -140,7 +140,7 @@ S-281; Britannica, S-481). The **critical-thinking** lens: ask *who drew this li
 when, and for what purpose* before you accept it as natural. Preview: Lesson 10 turns
 the weighing into a decision about solidarity and the common good.
 
-**Safety floor.** cases are about groups, never a learner's identity; no one is asked to
+**Safety floor.** Cases are about groups, never a learner's identity; no one is asked to
 defend exclusion of a group they or their loved ones belong to.
 
 ## Procedure

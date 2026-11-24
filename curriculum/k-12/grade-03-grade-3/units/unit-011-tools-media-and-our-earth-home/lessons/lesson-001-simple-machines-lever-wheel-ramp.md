@@ -149,7 +149,7 @@ each is right for its own job.
 Model each machine, then guide practice before learners work independently (Kirschner,
 Sweller & Clark, 2006).
 
-**Safety floor.** supervise all handling.
+**Safety floor.** Supervise all handling.
 
 **Access:** a learner who is blind or has low vision feels each machine — the ruler
 tipping on a pencil, the wheel rolling; a learner who does not speak points to the

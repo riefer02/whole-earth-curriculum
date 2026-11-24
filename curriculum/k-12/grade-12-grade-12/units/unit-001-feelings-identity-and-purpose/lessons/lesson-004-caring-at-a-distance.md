@@ -136,7 +136,7 @@ one river valley, a drought in another, a strike in one city, all real and all
 different. The **critical-thinking** lens: verify what you are told about a distant
 crisis before your feeling commits you to a response.
 
-**Safety floor.** describe situations factually and gently; no graphic or gratuitous
+**Safety floor.** Describe situations factually and gently; no graphic or gratuitous
 detail; always connect to agency (something the learner can do). If a learner has a
 lived connection to a crisis, let them speak only if they choose, and hold it as honored
 experience, not a case study.

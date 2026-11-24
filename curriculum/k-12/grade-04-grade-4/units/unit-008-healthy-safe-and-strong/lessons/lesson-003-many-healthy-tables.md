@@ -118,23 +118,25 @@ the foods of its land, its history, and its traditions. Today you will see many 
 
 **Tone.** Warm and wide — there is no single correct healthy meal.
 
-**The facts to land.** 1. No culture's food is better than another's, and no single meal
-is the correct one. 2. What makes a meal healthy is that it feeds the body well — a mix
-of grains or roots, vegetables or fruits, and protein — and every cuisine has its own
-way of doing this. 3. All regions have healthy traditional dietary patterns, reflecting
-FAO and WHO accounts.
+**The facts to land.**
+1. No culture's food is better than another's, and no single meal is the correct one.
+2. What makes a meal healthy is that it feeds the body well — a mix of grains or roots,
+   vegetables or fruits, and protein — and every cuisine has its own way of doing this.
+3. All regions have healthy traditional dietary patterns, reflecting FAO and WHO
+   accounts.
 
 **Don't overshoot.** Never let "healthy" become a weapon: do not shame any food a
 learner's family eats.
 
-**The lenses, briefly.** - *Global:* every cuisine has a healthy way. -
-*Egalitarianism:* no table is the standard another is measured against. - *Community:*
-families grow, gather, fish, herd, or buy; all are worthy. - *Ethics:* access, not
-worth, explains a thinner plate.
+**The lenses, briefly.**
+- *Global:* every cuisine has a healthy way.
+- *Egalitarianism:* no table is the standard another is measured against.
+- *Community:* families grow, gather, fish, herd, or buy; all are worthy.
+- *Ethics:* access, not worth, explains a thinner plate.
 
 **The skill.** Name one healthy meal you know, and say what makes it feed a body well.
 
-**Safety floor.** scarcity is real. A family may not always have a full "balanced"
+**Safety floor.** Scarcity is real. A family may not always have a full "balanced"
 plate, and that is a question of access, never of worth.
 
 **Access:** a learner who is blind or has low vision hears each meal described; a

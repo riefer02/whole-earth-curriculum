@@ -141,7 +141,7 @@ throwaway culture throws away broken things and broken ties alike; the value of
 that sustains relationships (and it echoes the circular-economy ideal of repairing
 rather than discarding). Preview: Lesson 4 turns to the listener we each want to become.
 
-**Safety floor.** all scenarios are fictional. No learner is asked to narrate a real
+**Safety floor.** All scenarios are fictional. No learner is asked to narrate a real
 private harm; they may always use a character.
 
 ## Procedure

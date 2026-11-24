@@ -124,20 +124,24 @@ human story of moving, from long ago to today.
 
 **Tone.** Dignified and ordinary — never a misfortune to pity.
 
-**The facts to land.** 1. Moving is one of the oldest, most ordinary things people do —
-for family, work, safety, or the environment (see Resources). 2. Keep the safety example
-gentle: "the place became unsafe — a flood, a fire — so the family moved." Do not dwell
-on detail. 3. *That* people move for these reasons is a cross-cultural fact (see
-Resources); *that* moving deserves respect is a value we hold.
+**The facts to land.**
+1. Moving is one of the oldest, most ordinary things people do — for family, work,
+   safety, or the environment (see Resources).
+2. Keep the safety example gentle: "the place became unsafe — a flood, a fire — so the
+   family moved." Do not dwell on detail.
+3. *That* people move for these reasons is a cross-cultural fact (see Resources); *that*
+   moving deserves respect is a value we hold.
 
 **Don't overshoot.** Do not frame moving as loss or lack, and do not let one dramatic
 story stand in for the ordinary reasons.
 
-**The lenses, briefly.** - *Global:* the reasons travel across peoples (see Resources).
-- *Egalitarianism:* a family that moved has not failed. - *Social-emotional:* many
-learners have moved; name it as normal. - *Environment:* a family moves when the land
-stops providing — drought, flood, or a river that changed course. - *Community:* a move
-is usually a family decision.
+**The lenses, briefly.**
+- *Global:* the reasons travel across peoples (see Resources).
+- *Egalitarianism:* a family that moved has not failed.
+- *Social-emotional:* many learners have moved; name it as normal.
+- *Environment:* a family moves when the land stops providing — drought, flood, or a
+  river that changed course.
+- *Community:* a move is usually a family decision.
 
 **The skill.** Name a reason a family moved, and say which of the four it is.
 

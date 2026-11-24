@@ -119,23 +119,25 @@ better. Choosing is not about being "good" or "bad"; it is about picking what he
 
 **Tone.** Gentle — this is about a label, not a person.
 
-**The facts to land.** 1. The comparison has an order: read the serving size of both,
-compare fiber, compare sugar, compare salt, then decide. 2. For many bodies, **more
-fiber and less added sugar and salt** is a helpful direction. 3. No single food is
-"bad"; a treat now and then is a normal part of life, and different bodies, budgets, and
-lives make different choices.
+**The facts to land.**
+1. The comparison has an order: read the serving size of both, compare fiber, compare
+   sugar, compare salt, then decide.
+2. For many bodies, **more fiber and less added sugar and salt** is a helpful direction.
+3. No single food is "bad"; a treat now and then is a normal part of life, and different
+   bodies, budgets, and lives make different choices.
 
 **Don't overshoot.** Do not rank a learner, a family, or a body by what they eat.
 
-**The lenses, briefly.** - *Physical:* the comparison is about what the food provides. -
-*Critical-thinking:* model the steps before independent work. - *Egalitarianism:*
-different budgets and lives, all worthy of respect. - *Ethics:* a fed child is a win,
-whatever the label says.
+**The lenses, briefly.**
+- *Physical:* the comparison is about what the food provides.
+- *Critical-thinking:* model the steps before independent work.
+- *Egalitarianism:* different budgets and lives, all worthy of respect.
+- *Ethics:* a fed child is a win, whatever the label says.
 
 **The skill.** Compare two labels in the same order, then say which is healthier for
 you, and why.
 
-**Safety floor.** honor food scarcity. A family that eats what is available and
+**Safety floor.** Honor food scarcity. A family that eats what is available and
 affordable is not making a "wrong" choice — access is not preference, and every fed
 child is a win.
 

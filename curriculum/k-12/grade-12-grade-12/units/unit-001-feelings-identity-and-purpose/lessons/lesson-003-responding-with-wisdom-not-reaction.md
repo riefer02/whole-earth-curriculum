@@ -135,7 +135,7 @@ culture (display rules) — the loop is a tool, not one culture's script for "ca
 The **critical-thinking** lens: the *reframe* step is a check on the accuracy of my own
 interpretation, not a trick to feel good.
 
-**Safety floor.** slips are everyday, one-step-removed moments. Do not require any
+**Safety floor.** Slips are everyday, one-step-removed moments. Do not require any
 learner to disclose their own conflicts. If a learner brings up real distress, honor it
 and redirect to support, not to the exercise.
 

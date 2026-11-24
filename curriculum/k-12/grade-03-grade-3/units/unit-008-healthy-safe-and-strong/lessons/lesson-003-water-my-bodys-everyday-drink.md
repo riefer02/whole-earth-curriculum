@@ -139,7 +139,7 @@ for being thirsty or for having little water at home.
 
 Spiral: deepens U.02.008 into the unit's "why water matters" look.
 
-**Safety floor.** a learner who cannot drink on their own is helped without comment.
+**Safety floor.** A learner who cannot drink on their own is helped without comment.
 
 **Access:** a learner who does not use a speaking voice signs or points "drink"; a
 learner who is blind or has low vision feels the cup and the water's coolness; a learner

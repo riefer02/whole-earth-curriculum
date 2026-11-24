@@ -120,25 +120,29 @@ kind, and exactly what to do if something feels wrong.
 
 **Tone.** Empowering — the learner is the boss of their words.
 
-**The facts to land.** 1. **Keep private:** your full name, home address, school's name,
-password, and photo (decide with a grown-up). A favorite color or game is usually okay.
-2. **A password guards your accounts** — share it only with a trusted grown-up. 3. **Be
-kind online**, as face to face. If someone is unkind, do not answer with cruelty; tell a
-trusted adult. 4. **Stop and tell:** if anything feels wrong or confusing — a stranger
-asking private questions, an unkind message, a request to meet — stop, close it, tell a
-trusted adult. Never meet an online stranger alone, and never keep a secret that makes
-you feel bad. 5. Follows widely used online-safety education (UNICEF and child-safety
-organizations).
+**The facts to land.**
+1. **Keep private:** your full name, home address, school's name, password, and photo
+   (decide with a grown-up). A favorite color or game is usually okay.
+2. **A password guards your accounts** — share it only with a trusted grown-up.
+3. **Be kind online**, as face to face. If someone is unkind, do not answer with
+   cruelty; tell a trusted adult.
+4. **Stop and tell:** if anything feels wrong or confusing — a stranger asking private
+   questions, an unkind message, a request to meet — stop, close it, tell a trusted
+   adult. Never meet an online stranger alone, and never keep a secret that makes you
+   feel bad.
+5. Follows widely used online-safety education (UNICEF and child-safety organizations).
 
 **Don't overshoot.** Do not share frightening stories of harm.
 
-**The lenses, briefly.** - *Technology:* the rules apply to any screen. - *Ethics:*
-kindness does not stop at the screen. - *Social-emotional:* telling is strength. -
-*Egalitarianism:* many have no device at home; the rules still apply.
+**The lenses, briefly.**
+- *Technology:* the rules apply to any screen.
+- *Ethics:* kindness does not stop at the screen.
+- *Social-emotional:* telling is strength.
+- *Egalitarianism:* many have no device at home; the rules still apply.
 
 **The skill.** Sort one item as "private" or "okay".
 
-**Safety floor.** if a learner discloses a request for private information or to meet,
+**Safety floor.** If a learner discloses a request for private information or to meet,
 follow your local safeguarding procedure immediately.
 
 **Access:** a learner who is blind or has low vision sorts by hearing; a learner who

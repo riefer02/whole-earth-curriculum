@@ -133,7 +133,7 @@ none is the default, and learners may adapt the form. The **critical-thinking** 
 the peer-check's three questions are a check for specificity, consistency, and
 authenticity — exactly the habits the unit trains.
 
-**Safety floor.** the statement may include anything a learner *chooses* to include;
+**Safety floor.** The statement may include anything a learner *chooses* to include;
 nothing is required about trauma, family, or marginalized identity. A learner may write
 it privately or share one line only. The artifact belongs to the learner.
 

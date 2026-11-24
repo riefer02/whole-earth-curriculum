@@ -136,7 +136,7 @@ megacity inheritance are both real and neither is the default. The **critical-th
 lens: the map is a check that separates "I was given this" from "I chose this" — the
 core move of authorship.
 
-**Safety floor.** learners name forces they choose; no one is required to disclose
+**Safety floor.** Learners name forces they choose; no one is required to disclose
 marginalized identities, migration history, or family rupture. Honor refusal and
 silence.
 

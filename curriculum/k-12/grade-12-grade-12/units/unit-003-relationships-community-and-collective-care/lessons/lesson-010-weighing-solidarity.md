@@ -142,7 +142,7 @@ clean air, stable climate, shared water — where one place's gain is everyone's
 purest case of the weighing. Preview: Lesson 11 turns the weighing into a personal ethic
 of care.
 
-**Safety floor.** dilemmas are structural (water, borders, resources), never about a
+**Safety floor.** Dilemmas are structural (water, borders, resources), never about a
 learner's identity; no one is asked to argue against their people's survival.
 
 ## Procedure

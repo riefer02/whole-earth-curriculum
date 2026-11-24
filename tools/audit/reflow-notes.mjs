@@ -2,13 +2,25 @@
 /**
  * Re-wrap facilitator notes to the repository's 88-column convention.
  *
- * docs/schema.md asks for prose wrapped at ~88 characters. Notes rewritten in a
- * hurry drift past it — usually by a few characters, occasionally by a lot. This
- * only moves whitespace: no word changes, no punctuation changes, no newlines
- * added or removed between blocks.
+ * docs/schema.md asks for prose wrapped at ~88 characters. Notes written in a hurry
+ * drift past it, usually by a few characters. This moves whitespace only.
  *
- * Bullets are wrapped against their own indent so the hanging indent survives.
- * A dash never starts a line.
+ * The subtlety is segmentation. A block like
+ *
+ *     **The facts to land.**
+ *     1. Moving is one of the oldest things people do —
+ *        for family, work, or safety.
+ *
+ * is a label line followed by a list, not one paragraph. Joining its lines turns a
+ * readable note into a run-on sentence — which is exactly the defect this file is
+ * meant to be fixing. So:
+ *
+ *   - a bullet owns the continuation lines under it, and is wrapped with a hanging
+ *     indent;
+ *   - a plain paragraph is joined and wrapped;
+ *   - a label line stays on its own line, and never absorbs the list under it.
+ *
+ * Blank lines are never added, removed, or moved.
  *
  *   node tools/audit/reflow-notes.mjs --dry
  *   node tools/audit/reflow-notes.mjs
@@ -20,6 +32,7 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '..');
 const DRY = process.argv.includes('--dry');
 const WRAP = 88;
+const MARKER = /^(\s*(?:[-*]|\d+\.)\s+)/;
 
 function walk(dir, match) {
   const out = [];
@@ -43,22 +56,62 @@ function tokens(text) {
     }, []);
 }
 
-function wrap(text, indent = '', firstPrefix = '') {
+function wrap(text, firstPrefix = '', contIndent = '') {
   const words = tokens(text);
   if (!words.length) return [];
   const lines = [];
   let line = `${firstPrefix}${words[0]}`;
-  const width = (value) => value.length;
   for (const word of words.slice(1)) {
-    if (width(line) + 1 + word.length > WRAP) {
+    if (line.length + 1 + word.length > WRAP) {
       lines.push(line);
-      line = `${indent}${word}`;
+      line = `${contIndent}${word}`;
     } else {
       line += ` ${word}`;
     }
   }
   lines.push(line);
   return lines;
+}
+
+/** Rewrite one note's lines, preserving its blank-line skeleton exactly. */
+function reflowNoteLines(noteLines) {
+  const out = [];
+  let i = 0;
+  while (i < noteLines.length) {
+    const line = noteLines[i];
+    if (!line.trim()) {
+      out.push(line);
+      i += 1;
+      continue;
+    }
+
+    const marker = MARKER.exec(line);
+    if (marker) {
+      // A bullet owns the lines indented under it.
+      const parts = [line.slice(marker[0].length)];
+      i += 1;
+      while (i < noteLines.length && noteLines[i].trim() && !MARKER.test(noteLines[i])) {
+        parts.push(noteLines[i].trim());
+        i += 1;
+      }
+      out.push(...wrap(parts.join(' '), marker[0], ' '.repeat(marker[0].length)));
+      continue;
+    }
+
+    // A plain paragraph: consecutive non-blank, non-marker lines.
+    const parts = [];
+    while (i < noteLines.length && noteLines[i].trim() && !MARKER.test(noteLines[i])) {
+      parts.push(noteLines[i].trim());
+      i += 1;
+    }
+    // A lone bold label keeps its own line; it is a heading, not prose.
+    if (parts.length === 1 && /^\*\*[^*]+\*\*$/.test(parts[0])) {
+      out.push(parts[0]);
+    } else {
+      out.push(...wrap(parts.join(' ')));
+    }
+  }
+  return out;
 }
 
 let filesChanged = 0;
@@ -76,62 +129,14 @@ for (const file of walk(path.join(ROOT, 'curriculum', 'k-12'), (n) => /^lesson-.
   const noteLines = lines.slice(start + 1, end);
   if (!noteLines.some((line) => line.length > WRAP)) continue;
 
-  const out = [];
-  let block = [];
+  const body = reflowNoteLines(noteLines);
+  const rebuilt = [...lines.slice(0, start + 1), ...body, ...lines.slice(end)].join('\n');
+  if (rebuilt === src) continue;
 
-  const flush = () => {
-    if (!block.length) return;
-    const isList = block.every((line) => /^\s*([-*]|\d+\.)\s/.test(line) || /^\s{2,}\S/.test(line));
-    if (isList) {
-      // Wrap each bullet independently, keeping its marker and hanging indent.
-      let current = null;
-      const bullets = [];
-      for (const line of block) {
-        if (/^\s*([-*]|\d+\.)\s/.test(line)) {
-          if (current) bullets.push(current);
-          current = [line];
-        } else if (current) {
-          current.push(line);
-        }
-      }
-      if (current) bullets.push(current);
-      for (const linesOfBullet of bullets) {
-        const marker = linesOfBullet[0].match(/^(\s*(?:[-*]|\d+\.)\s+)/)[1];
-        // The marker lives only in the prefix, never in the text being wrapped.
-        const text = linesOfBullet
-          .map((l) => l.trim())
-          .join(' ')
-          .replace(/^(?:[-*]|\d+\.)\s+/, '');
-        out.push(...wrap(text, ' '.repeat(marker.length), marker));
-      }
-    } else {
-      const text = block.map((l) => l.trim()).join(' ');
-      out.push(...wrap(text));
-    }
-    block = [];
-  };
-
-  for (const line of noteLines) {
-    if (!line.trim()) {
-      flush();
-      out.push('');
-    } else {
-      block.push(line);
-    }
-  }
-  flush();
-
-  while (out.length && !out[0].trim()) out.shift();
-  while (out.length && !out[out.length - 1].trim()) out.pop();
-
+  filesChanged += 1;
   linesBefore += noteLines.length;
-  linesAfter += out.length;
-  const next = [...lines.slice(0, start + 1), '', ...out, '', ...lines.slice(end)];
-  const rebuilt = next.join('\n');
-  if (rebuilt !== src) {
-    filesChanged += 1;
-    if (!DRY) fs.writeFileSync(file, rebuilt);
-  }
+  linesAfter += body.length;
+  if (!DRY) fs.writeFileSync(file, rebuilt);
 }
 
 console.log(
