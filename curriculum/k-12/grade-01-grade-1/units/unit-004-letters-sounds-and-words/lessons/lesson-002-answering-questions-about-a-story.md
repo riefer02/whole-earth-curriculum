@@ -115,7 +115,9 @@ answer as fully as a spoken one.
    talk yet — just listen.
 3. **Learn the three questions (5 min).** Meet three questions that fit almost any
    story: **Who** was there? **What** happened? **Where** did it happen? Hold up
-   one, two, or three fingers to match each.
+   one, two, or three fingers to match each. Answering questions about a text it has
+   just heard is one of the comprehension strategies with the strongest evidence base
+   (S-040).
 4. **Answer together (15 min).** Hear the story again. Now answer each question
    aloud. First try a short answer — "a bird." Then try it as a full sentence —
    "A bird was thirsty." Say both ways and hear the difference.
@@ -144,3 +146,8 @@ answer as fully as a spoken one.
 
 Retell one story you know to someone at home, then ask them a "what happened"
 question and listen to their answer.
+
+## Resources
+
+- On question answering as an evidence-based comprehension strategy: National Reading
+  Panel — Teaching Children to Read (S-040).

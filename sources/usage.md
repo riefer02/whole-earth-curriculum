@@ -10,7 +10,7 @@ To locate a lesson file for a source, run `rg -l "S-NNN" curriculum/k-12`.
 - Registered sources: 509
 - Sources cited by lessons: 507
 - Lessons scanned: 1693
-- Source-to-lesson links: 4484
+- Source-to-lesson links: 4485
 - Registered sources not cited by a lesson: 2
 
 ## Sources
@@ -56,7 +56,7 @@ To locate a lesson file for a source, run `rg -l "S-NNN" curriculum/k-12`.
 | [S-037](#s-037) | BBC Bitesize (KS2) — Moving on different surfaces | D06 | yes | 1 |
 | [S-038](#s-038) | WHO — Healthy diet fact sheet | D03 | yes | 25 |
 | [S-039](#s-039) | Dunlosky, Rawson, Marsh, Nathan & Willingham (2013) — Improving Students' Learning With Effective Learning Techniques | — | yes | 143 |
-| [S-040](#s-040) | National Reading Panel (2000) — Teaching Children to Read: An Evidence-Based Assessment | D04 | yes | 28 |
+| [S-040](#s-040) | National Reading Panel (2000) — Teaching Children to Read: An Evidence-Based Assessment | D04 | yes | 29 |
 | [S-041](#s-041) | BBC Bitesize (KS1) — Working scientifically | D06 | yes | 8 |
 | [S-042](#s-042) | BBC Bitesize (KS1) — Everyday materials | D06 | yes | 2 |
 | [S-043](#s-043) | BBC Bitesize (KS1) — What is the life cycle of a plant? | D06 | yes | 2 |
@@ -870,11 +870,11 @@ Cited by 143 lessons:
 
 ### S-040
 
-Cited by 28 lessons:
+Cited by 29 lessons:
 
-- `L.00.005.06`, `L.01.004.05`, `L.01.004.06`, `L.01.004.07`, `L.01.004.15`, `L.02.004.04`, `L.02.004.05`, `L.02.004.06`, `L.02.004.08`, `L.02.004.09`, `L.03.004.02`, `L.03.004.04`
-- `L.03.004.05`, `L.03.004.06`, `L.03.004.07`, `L.03.004.08`, `L.04.004.01`, `L.04.004.02`, `L.04.004.04`, `L.04.004.05`, `L.04.004.06`, `L.04.004.07`, `L.04.004.08`, `L.09.006.07`
-- `L.10.004.08`, `L.10.004.09`, `L.10.004.10`, `L.12.004.04`
+- `L.00.005.06`, `L.01.004.02`, `L.01.004.05`, `L.01.004.06`, `L.01.004.07`, `L.01.004.15`, `L.02.004.04`, `L.02.004.05`, `L.02.004.06`, `L.02.004.08`, `L.02.004.09`, `L.03.004.02`
+- `L.03.004.04`, `L.03.004.05`, `L.03.004.06`, `L.03.004.07`, `L.03.004.08`, `L.04.004.01`, `L.04.004.02`, `L.04.004.04`, `L.04.004.05`, `L.04.004.06`, `L.04.004.07`, `L.04.004.08`
+- `L.09.006.07`, `L.10.004.08`, `L.10.004.09`, `L.10.004.10`, `L.12.004.04`
 
 ### S-041
 
