@@ -187,3 +187,4 @@ feeling a character is moving through. Bring one new feeling word you found.
   (S-001).
 - On explicit instruction and worked examples: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- Bloom (1984) — The 2 Sigma Problem (S-007).

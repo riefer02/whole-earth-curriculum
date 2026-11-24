@@ -131,8 +131,8 @@ whatever it is called.
 
 - *Community:* the spine — harm is repaired *in* relationship, not outside it.
 - *Egalitarianism:* the person harmed needs real voice and real power in the process.
-- *Social-emotional:* keep the case age-appropriate and non-graphic, let learners
-  choose their intensity, and end on agency — the process itself is the agency.
+- *Social-emotional:* keep the case age-appropriate and non-graphic, let learners choose
+  their intensity, and end on agency — the process itself is the agency.
 - *Ethics:* separate what a restorative process *does* (evidence from practice) from
   whether it is the right response (values) (philosophy §5).
 

@@ -143,8 +143,8 @@ that a speaker can use both appeals well.
 - *Ethics:* critique the argument, never the person; the goal is truth and fairness.
 - *Egalitarianism:* critique makes every speaker, however powerful, accountable to
   reason, and it belongs to everyone, not just experts.
-- *Global:* choose speeches from many traditions, including a speaker from the
-  learner's own community or language.
+- *Global:* choose speeches from many traditions, including a speaker from the learner's
+  own community or language.
 - *Technology:* the same scaffold reads a viral video, a campaign ad, a politician's
   clip.
 

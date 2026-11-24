@@ -136,8 +136,8 @@ it runs is the analysis.
 - *Egalitarianism:* the watch is unevenly distributed.
 - *Global:* states watch for public health, for protest control, and much else; no
   arrangement is the human default.
-- *Technology:* cheap sensors and storage made mass surveillance possible where it
-  once was not.
+- *Technology:* cheap sensors and storage made mass surveillance possible where it once
+  was not.
 - *Environment:* cameras, servers, and networks carry material and energy costs.
 
 **The skill.** Model once, then release (S-011): sort three cases by who watches, for
@@ -193,3 +193,4 @@ one, ask: does this watching protect us or shape us — and how would we know?
 - On uneven digital benefits, surveillance, and the digital divide: World Bank, *World Development Report
   2016: Digital Dividends*, <https://www.worldbank.org/en/publication/wdr2016> (S-281).
 - On power as the capacity to shape what others can do: Steven Lukes, *Power: A Radical View* (S-275).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

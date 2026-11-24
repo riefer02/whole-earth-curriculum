@@ -121,29 +121,37 @@ hands. Designing a collective action is just giving that old practice a plan.
 
 ## Facilitator note
 
-The idea to land: **a collective action for a fairer common life is designed, not
-improvised — a goal, allies, concrete steps, a clear-eyed look at the likely effects on
-people and place, and a way to know if it helped. People have always built the common
-good by acting together (mutual-aid traditions and cooperatives), and the learner's
-small action joins that old, worldwide pattern.** Keep the action real and small enough
-to actually do; the learning is in the doing and the honest look at effects, not in the
-scale. Emphasize cooperation over competition (S-147, S-233): success is collective.
+**Tone.** Practical and cooperative: a small action done together, then looked at
+honestly.
 
-The **ethics** lens: acting for the common good is the strand's central moral move —
-from judging what is fair to *making* something fairer, and then checking honestly
-whether it worked. The **egalitarianism** lens: mutual aid is not charity — it is people
-meeting needs *together*, as equals, sharing both the giving and the deciding (S-345);
-the lesson designs actions that build power together rather than handing it down. The
-**global** lens: the mutual-aid traditions named — harambee, gotong royong, mink'a,
-barn-raising — are real and worldwide (S-164), and cooperatives span the globe as shared
-ownership (S-486, S-487); the learner's action is one local instance of a human
-universal. The **technology** lens: tools (a shared document, a group chat) can
-coordinate an action across distance, but they can also exclude people who are not
-online — design must ask who is left out of the tool. The **environment** lens: the most
-tangible common goods are often environmental — a clean common space, a shared water
-supply, a green corner — where acting collectively for fairness and for the Earth are
-the same act (S-416). Preview: Lesson 11 reflects on the learner's own role in public
-life.
+**The facts to land.**
+
+1. A collective action is designed, not improvised: a goal, allies, concrete steps, a
+   clear-eyed look at the likely effects on people and place, and a way to know whether
+   it helped.
+2. People have always built the common good by acting together — mutual-aid traditions
+   and cooperatives — and the learner's small action joins that old, worldwide pattern.
+3. Success is collective; emphasise cooperation over competition (S-147, S-233).
+
+**Don't overshoot.** Keep the action small enough to actually do; the learning is in the
+doing and the honest look at effects, not in the scale.
+
+**The lenses, briefly.**
+
+- *Ethics:* the move from judging what is fair to making something fairer, then checking
+  whether it worked.
+- *Egalitarianism:* mutual aid is not charity — people meeting needs together as equals,
+  sharing the giving and the deciding (S-345).
+- *Global:* harambee, gotong royong, mink'a, barn-raising (S-164), and cooperatives as
+  shared ownership across the globe (S-486, S-487).
+- *Technology:* tools coordinate across distance and exclude anyone not online — design
+  must ask who the tool leaves out.
+- *Environment:* the most tangible common goods are often environmental — a clean common
+  space, a shared water supply, a green corner (S-416).
+- *Community:* the action is built with neighbours, not for them.
+
+**The skill.** Model once, then release (S-011): goal, allies, steps, likely effect, one
+way to know. Lesson 11 reflects on the learner's own role.
 
 ## Procedure
 
@@ -201,3 +209,4 @@ week, and write two lines afterward: what you did, and how you could tell whethe
 - On mutual aid vs. charity: Spade — Mutual Aid (S-345). On cooperation over competition: Slavin —
   Cooperative Learning (S-147); Johnson & Johnson — social interdependence (S-233). On governing a
   commons: Ostrom — Governing the Commons (S-416).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

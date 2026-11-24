@@ -194,3 +194,5 @@ worse.
 - On human alteration of global cycles, including nitrogen: IPCC (S-005).
 - On worked examples and guided practice for tracing: Kirschner, Sweller & Clark
   (2006) (S-011).
+- USGS — Water Science School (The Water Cycle) (S-212).
+- NASA — GPM Precipitation Education (The Water Cycle) (S-213).

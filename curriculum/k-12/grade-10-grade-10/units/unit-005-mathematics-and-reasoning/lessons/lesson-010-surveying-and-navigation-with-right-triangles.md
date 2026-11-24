@@ -193,3 +193,4 @@ check with its shadow. Show someone both answers.
   (S-289).
 - On worked examples and guided practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- Shulba Sutras — ancient Indian geometry (S-434).

@@ -181,3 +181,5 @@ say to the capstone lesson.
 - On cooperative goal structures: Johnson & Johnson (1981) (S-233).
 - On explicit instruction and worked examples for skills: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- Kropotkin (1902) — Mutual Aid: A Factor of Evolution (S-163).
+- Communal-work (mutual-aid) traditions — harambee, gotong royong, mink'a/minga, barn-raising (S-164).

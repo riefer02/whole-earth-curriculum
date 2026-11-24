@@ -139,8 +139,7 @@ lesson, and fudging it is the failure.
 - *Global:* cobalt in the Democratic Republic of the Congo is documented by Amnesty
   International as harmful while the benefit accrues elsewhere (S-398); Semmelweis's
   evidence was resisted partly because it humiliated the powerful (S-357).
-- *Technology:* a device in your hand has a geography and a supply chain (S-398,
-  S-281).
+- *Technology:* a device in your hand has a geography and a supply chain (S-398, S-281).
 - *Environment:* polluting sites and their harms are not distributed evenly (S-483,
   S-484).
 

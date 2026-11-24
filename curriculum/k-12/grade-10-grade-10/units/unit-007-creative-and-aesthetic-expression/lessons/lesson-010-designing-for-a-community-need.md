@@ -140,8 +140,8 @@ real need, and a rough prototype, is the target.
 - *Global:* needs differ by place and climate — shade matters differently in a hot dry
   town than in a cold wet one.
 - *Technology:* tools extend what you can make; they never replace noticing.
-- *Environment:* from the first sketch, ask what it is made of and where it goes when
-  it breaks.
+- *Environment:* from the first sketch, ask what it is made of and where it goes when it
+  breaks.
 - *Community:* the spine — design is done *with* and *for* a community, never to it.
 
 **The skill.** Model one worked example, then release (S-011): log the need, one

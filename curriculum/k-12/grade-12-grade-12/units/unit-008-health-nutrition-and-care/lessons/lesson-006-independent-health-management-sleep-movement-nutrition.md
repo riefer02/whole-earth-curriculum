@@ -137,8 +137,8 @@ be measured against them.
 - *Egalitarianism:* the same ranges serve every body, and every body meets them
   differently; none is worth less.
 - *Global:* a midday rest, a dawn run, a shared late meal — all can be healthy.
-- *Technology:* trackers help you notice patterns, or turn health into a scoreboard;
-  use them as a mirror, never a judge.
+- *Technology:* trackers help you notice patterns, or turn health into a scoreboard; use
+  them as a mirror, never a judge.
 - *Environment:* the plan has to fit the neighbourhood, the weather, and the room you
   sleep in.
 

@@ -128,7 +128,7 @@ value set is theirs to articulate, never to be corrected toward any single canon
 **critical-thinking** lens: the honest naming of a gap is a check on self-flattery —
 exactly the kind of check this unit trains.
 
-**Safeguarding:** scenarios are one step removed and chosen to avoid demanding
+**Safety floor.** scenarios are one step removed and chosen to avoid demanding
 disclosure of trauma or family distress. If a learner names a real gap that is genuinely
 risky (e.g., safety, abuse), do not treat it as a classroom exercise — redirect to
 appropriate support.

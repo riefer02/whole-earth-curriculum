@@ -124,9 +124,9 @@ chosen scale, a returning phrase — not only virtuosity.
 
 The **ethics** lens: a musical voice is a responsibility — when a body of work borrows
 from a tradition, the maker must credit it and its living keepers. The
-**egalitarianism** lens: a body of music can be made with nothing but the voice and
-body — clapped, hummed, tapped — so no instrument and no money is a barrier. The
-**global** lens: the raga of Indian classical music is a melodic framework with a scale,
+**egalitarianism** lens: a body of music can be made with nothing but the voice and body
+— clapped, hummed, tapped — so no instrument and no money is a barrier. The **global**
+lens: the raga of Indian classical music is a melodic framework with a scale,
 characteristic phrases, and an associated mood and time, from which performers have
 generated countless pieces across centuries — a living tradition, honored with
 respectful questions, never imitated carelessly (S-366). The **technology** lens:

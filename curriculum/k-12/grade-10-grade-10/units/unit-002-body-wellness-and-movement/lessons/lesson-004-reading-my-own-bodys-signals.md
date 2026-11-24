@@ -134,15 +134,14 @@ has still done the work.
 
 - *Physical:* log what the body did, not only what you felt.
 - *Social-emotional:* noticing mood can bring up feeling — invite, never force.
-- *Intellectual:* model the reasoning aloud: "those were also my most stressed days,
-  so I can't say sleep alone did it."
+- *Intellectual:* model the reasoning aloud: "those were also my most stressed days, so
+  I can't say sleep alone did it."
 - *Critical-thinking:* ask what else changed at the same time.
 - *Ethics:* self-observation is for care, never for self-punishment or a grade.
 - *Egalitarianism:* what you can observe is bounded by work, caregiving, housing, and
   safety — a context, not a character flaw.
-- *Global:* people have tracked body rhythms by season, moon, and labour for
-  millennia.
-- **Technology & environment:** apps and wearables can help, or turn observation into
+- *Global:* people have tracked body rhythms by season, moon, and labour for millennia.
+- *Technology and environment:* apps and wearables can help, or turn observation into
   self-surveillance (Lesson 9).
 
 **The skill.** Model once, then release (S-011): keep a three-day log, then state one
@@ -199,3 +198,4 @@ your mood — and which one matters most for you?* Compare their pattern with yo
   <https://doi.org/10.1177/1529100612453266> (S-039).
 - On the three forces this lesson pulls together: stress (S-338), sleep (S-050), and
   movement-and-mind (S-408) — see Lessons 1–3.
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

@@ -27,7 +27,7 @@
   <text x="393" y="272" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">Earth</text>
 
   <!-- thread boxes -->
-  <g font-family="sans-serif" font-size="11" fill="#222222">
+  <g font-family="sans-serif" font-size="12" fill="#222222">
     <rect x="24" y="312" width="104" height="46" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="76" y="332" text-anchor="middle">tools change</text>
     <text x="76" y="348" text-anchor="middle">our days</text>

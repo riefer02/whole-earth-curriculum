@@ -126,11 +126,10 @@ watching it happen.
 **The facts to land.**
 
 1. **A personal narrative is coherent when past, present, and future are held together
-by a thread of meaning,** not just listed as events.
-2. **Narrative identity** (McAdams) is that internalised, evolving story, linking past,
-present, and imagined future to give a life unity and purpose (S-404).
-3. **Possible selves** are the selves a person hopes, and fears, to become (Markus &
-Nurius, S-399).
+by a thread of meaning,** not just listed as events. 2. **Narrative identity** (McAdams)
+is that internalised, evolving story, linking past, present, and imagined future to give
+a life unity and purpose (S-404). 3. **Possible selves** are the selves a person hopes,
+and fears, to become (Markus & Nurius, S-399).
 
 **Don't overshoot.** Both are *descriptive theories*, not rules: a story may be
 fragmented, uncertain, or multiple, and **"I don't know yet" is a complete answer.** Do
@@ -138,18 +137,18 @@ not rank stories (philosophy §8, §11).
 
 **The lenses, briefly.**
 
-- *Ethics:* a truthful narrative includes the hard chapters without turning a life
-into a verdict — agency, not blame.
+- *Ethics:* a truthful narrative includes the hard chapters without turning a life into
+a verdict — agency, not blame.
 - *Global:* cultures tell life stories in different shapes — linear, cyclical, carried
 in song, genealogy, or land; S-404 is one framework, not the universal arc.
 - *Egalitarianism:* every story is worth telling; no life is more "interesting" than
 another.
-- **Technology and environment:** platforms invite a polished, edited life, and places
-are part of the story — the medium should serve the truth, not replace it.
+- *Technology:* platforms invite a polished, edited life — the medium should serve the
+truth, not replace it.
+- *Environment:* the places we live are part of the story too.
 - *Social-emotional:* recalling the past can raise real feeling — invite, never force,
 and let learners choose what to share (facilitation.md).
-- *Critical-thinking:* a thread of meaning is a claim the learner makes, and can
-revise.
+- *Critical-thinking:* a thread of meaning is a claim the learner makes, and can revise.
 
 **The skill.** Model it once, then guided practice, then independent work (S-011).
 

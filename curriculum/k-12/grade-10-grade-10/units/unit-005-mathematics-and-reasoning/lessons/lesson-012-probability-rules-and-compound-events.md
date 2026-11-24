@@ -123,9 +123,9 @@ events, P(A and B) = P(A) × P(B)), and two-way tables and tree diagrams lay out
 events so the count is honest.** Teach the rules with worked examples (S-011), then let
 learners compute and simulate.
 
-The **global** lens: reasoning about chance has a long, human history. Dice are
-ancient — found in Egypt, India, and Mesopotamia, used across many cultures (S-300); and
-the careful *study* of chance began with questions from games in 17th-century Europe,
+The **global** lens: reasoning about chance has a long, human history. Dice are ancient
+— found in Egypt, India, and Mesopotamia, used across many cultures (S-300); and the
+careful *study* of chance began with questions from games in 17th-century Europe,
 answered in the correspondence of Pascal and Fermat (S-301). Hold that as *one* starting
 point among the many peoples who gambled, divided, and predicted before and since. The
 **intellectual** lens: the rules are counting, done carefully — the subtraction in the

@@ -22,22 +22,22 @@
   <!-- Top: history -->
   <rect x="166" y="70" width="180" height="40" rx="10" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="2"/>
   <text x="256" y="88" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2c4a2c">its history</text>
-  <text x="256" y="104" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#3a5a3a">how members tell their own past</text>
+  <text x="256" y="104" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a">how members tell their own past</text>
 
   <!-- Bottom: values -->
   <rect x="156" y="402" width="200" height="40" rx="10" fill="#eaf2ea" stroke="#7a9e7e" stroke-width="2"/>
   <text x="256" y="420" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2c4a2c">its values</text>
-  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#3a5a3a">what the community says matters</text>
+  <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#3a5a3a">what the community says matters</text>
 
   <!-- Left: art and stories -->
   <rect x="16" y="236" width="156" height="40" rx="10" fill="#f6ead8" stroke="#e0a458" stroke-width="2"/>
   <text x="94" y="254" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#5a3d1e">its art &amp; stories</text>
-  <text x="94" y="270" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#8a6d4a">songs, tales, images it makes</text>
+  <text x="94" y="270" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">songs, tales, images</text>
 
   <!-- Right: institutions -->
   <rect x="340" y="236" width="156" height="40" rx="10" fill="#f6ead8" stroke="#e0a458" stroke-width="2"/>
   <text x="418" y="254" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#5a3d1e">its institutions</text>
-  <text x="418" y="270" text-anchor="middle" font-family="sans-serif" font-size="10.5" fill="#8a6d4a">groups and practices it keeps</text>
+  <text x="418" y="270" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#8a6d4a">groups and practices</text>
 
   <!-- Corner note -->
   <rect x="358" y="48" width="134" height="26" rx="8" fill="#fdfbf7" stroke="#e0a458" stroke-width="1.5"/>

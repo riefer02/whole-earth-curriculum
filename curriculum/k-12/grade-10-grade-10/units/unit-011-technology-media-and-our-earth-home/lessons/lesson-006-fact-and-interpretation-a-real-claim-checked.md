@@ -135,11 +135,11 @@ the opposite error and just as lazy.
 - *Ethics:* naming your reading is a form of honesty.
 - *Egalitarianism:* this habit protects ordinary people from being led — a democratic
   skill, not an elite one.
-- *Global:* media traditions blend fact and commentary differently; recognise the
-  blend rather than imposing one style.
+- *Global:* media traditions blend fact and commentary differently; recognise the blend
+  rather than imposing one style.
 - *Technology:* feeds reward strong interpretation over careful fact (S-482).
-- *Environment:* a drought, a harvest, a river's health — where fact and
-  interpretation most often tangle.
+- *Environment:* a drought, a harvest, a river's health — where fact and interpretation
+  most often tangle.
 
 **The skill.** Model the sentence — "the evidence shows X; whether that is good is a
 judgment" — then release (S-011). Keep evidence apart from values (philosophy §5). Next
@@ -194,3 +194,4 @@ checkable facts, and which are a meaning placed on them?
   Bubble* (2011) (S-482).
 - On the verification method applied in Lesson 5: First Draft, "Verifying Online Information,"
   <https://web.archive.org/web/2019/https://firstdraftnews.org/latest/verifying-online-information-the-absolute-essentials/> (S-394).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

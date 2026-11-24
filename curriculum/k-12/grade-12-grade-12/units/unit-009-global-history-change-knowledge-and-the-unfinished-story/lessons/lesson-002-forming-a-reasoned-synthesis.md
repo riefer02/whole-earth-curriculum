@@ -187,3 +187,6 @@ still cannot settle. Read it to someone and ask whether it was fair to both tell
 - On claim–data–warrant as the shape of a reasoned argument: Toulmin, *The Uses of Argument*
   (S-236).
 - On historical thinking (sourcing and corroboration): Stanford History Education Group (S-316).
+- Chimamanda Ngozi Adichie — The Danger of a Single Story (TED, 2009) (S-417).
+- Our World in Data — Urbanization (S-089).
+- Our World in Data — Light at Night (S-052).

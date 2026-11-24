@@ -139,10 +139,9 @@ contested, and crossed.
 **The lenses, briefly.**
 
 - *Global:* the spine — trace one thread across all four scales and see the whole.
-- *Community:* what holds each ring together: place, language and institutions,
-  planet.
-- *Egalitarianism:* the chain that delivers a cheap shirt can underpay its maker, and the
-  border that unites a nation can split a family.
+- *Community:* what holds each ring together: place, language and institutions, planet.
+- *Egalitarianism:* the chain that delivers a cheap shirt can underpay its maker, and
+  the border that unites a nation can split a family.
 - *Ethics:* once you see the net, ask what you owe the people at the other end.
 - *Environment:* water, soil, and climate ignore national borders.
 - *Critical-thinking:* notice where the map simplifies.

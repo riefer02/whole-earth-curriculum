@@ -144,11 +144,11 @@ that these forms exist and work.
 - *Egalitarianism:* the spine — no one above, no one left out; ask who decides.
 - *Ethics:* charity can save lives but keeps the receiver dependent; mutual aid builds
   dignity and power.
-- *Global:* these forms appear across cultures and times, each shaped by place — side
-  by side, never ranked.
+- *Global:* these forms appear across cultures and times, each shaped by place — side by
+  side, never ranked.
 - *Community:* ask what each form builds: dependency, solidarity, or ownership.
-- *Critical-thinking:* not every group calling itself a co-op shares power fairly;
-  check who decides and who benefits.
+- *Critical-thinking:* not every group calling itself a co-op shares power fairly; check
+  who decides and who benefits.
 
 **The skill.** Model each panel once, then release (S-011): sort examples into charity,
 mutual aid, and cooperative ownership, and say who decides in each. This closes the unit

@@ -113,18 +113,17 @@ already shape their lives.** Teach with a worked example of one intergenerationa
 decision; hold the "how much do we owe them" question open (it is a live ethical debate,
 not a settled answer).
 
-The **ethics** lens: whether and how much we owe people who do not exist yet is a
-central question of intergenerational ethics, and learners reason about it rather than
-being told. The **egalitarian** lens: future people cannot vote, lobby, or speak — they
-are the ultimate voiceless party, so fairness asks us to speak for them; and the
-*burdens* of today's choices (climate, pollution) fall unevenly on the young and the
-yet-unborn, who contributed least (IPCC, S-005). The **global** lens: many cultures hold
-the unborn and the ancestors in mind when deciding — stewardship and legacy are
-widespread ideas, not one region's. The **environment** lens: the climate and living
-world are the clearest "letters to the future" — what we emit and protect now is read by
-people in 2100. The **technology** lens: some technologies (a dam, a data archive, a
-long-lived material) commit the future for decades or centuries; their makers rarely
-meet their inheritors.
+The **ethics** lens: how much we owe people who do not exist yet is a central question
+of intergenerational ethics, and learners reason about it rather than being told. The
+**egalitarian** lens: future people cannot vote, lobby, or speak — they are the ultimate
+voiceless party, so fairness asks us to speak for them; and the *burdens* of today's
+choices (climate, pollution) fall unevenly on the young and the yet-unborn, who
+contributed least (IPCC, S-005). The **global** lens: many cultures hold the unborn and
+the ancestors in mind when deciding — stewardship and legacy are widespread ideas, not
+one region's. The **environment** lens: the climate and living world are the clearest
+"letters to the future" — what we emit and protect now is read by people in 2100. The
+**technology** lens: some technologies (a dam, a data archive, a long-lived material)
+commit the future for decades or centuries; their makers rarely meet their inheritors.
 
 **Emotional safety.** The future can feel heavy or abstract. Keep it grounded and
 hopeful: focus on what a learner *can* hand forward, not on despair. No one is told what

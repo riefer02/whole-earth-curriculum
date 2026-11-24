@@ -8,7 +8,7 @@
   <!-- Panel 1: igloo -->
   <rect x="20" y="66" width="112" height="366" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="76" y="90" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">igloo</text>
-  <text x="76" y="106" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">Arctic cold</text>
+  <text x="76" y="106" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Arctic cold</text>
   <!-- snow dome -->
   <path d="M36 240 Q76 150 116 240 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <g stroke="#2b3a42" stroke-width="1.2" fill="none">
@@ -17,14 +17,14 @@
     <path d="M56 200 L58 240 M76 184 L76 240 M96 200 L94 240"/>
   </g>
   <rect x="62" y="240" width="28" height="20" fill="#2b3a42"/>
-  <text x="76" y="288" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">snow blocks — dome</text>
-  <text x="76" y="304" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">sheds wind, packed</text>
-  <text x="76" y="320" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">snow holds warmth</text>
+  <text x="76" y="288" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">snow-block dome</text>
+  <text x="76" y="304" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">sheds the wind,</text>
+  <text x="76" y="320" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">holds warmth in</text>
 
   <!-- Panel 2: yurt -->
   <rect x="144" y="66" width="112" height="366" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="200" y="90" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">yurt (ger)</text>
-  <text x="200" y="106" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">open steppe</text>
+  <text x="200" y="106" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">open steppe</text>
   <!-- round tent -->
   <path d="M156 260 L150 190 Q200 168 250 190 L244 260 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <path d="M158 226 Q200 208 242 226" fill="none" stroke="#2b3a42" stroke-width="1.5"/>
@@ -35,14 +35,14 @@
     <line x1="238" y1="236" x2="238" y2="258"/>
   </g>
   <path d="M150 190 L200 178 L250 190" fill="none" stroke="#2b3a42" stroke-width="2"/>
-  <text x="200" y="288" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">felt from sheep wool,</text>
-  <text x="200" y="304" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">on a wooden lattice,</text>
-  <text x="200" y="320" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">portable for herders</text>
+  <text x="200" y="288" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">felt over a wood</text>
+  <text x="200" y="304" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">lattice frame,</text>
+  <text x="200" y="320" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">portable home</text>
 
   <!-- Panel 3: stilt house -->
   <rect x="268" y="66" width="112" height="366" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="324" y="90" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">stilt house</text>
-  <text x="324" y="106" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">floodplain</text>
+  <text x="324" y="106" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">floodplain</text>
   <!-- water -->
   <path d="M268 268 Q286 262 304 268 Q322 274 340 268 Q358 262 380 268 L380 286 L268 286 Z" fill="#ffffff" stroke="#2b3a42" stroke-width="1.5"/>
   <!-- house on stilts -->
@@ -55,14 +55,14 @@
     <line x1="340" y1="234" x2="340" y2="268"/>
     <rect x="318" y="206" width="14" height="28" fill="#ffffff"/>
   </g>
-  <text x="324" y="314" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">wood on stilts —</text>
-  <text x="324" y="330" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">lifted above</text>
-  <text x="324" y="346" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">the flood</text>
+  <text x="324" y="314" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">wood on stilts —</text>
+  <text x="324" y="330" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">lifted above</text>
+  <text x="324" y="346" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">the flood</text>
 
   <!-- Panel 4: adobe -->
   <rect x="392" y="66" width="112" height="366" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="448" y="90" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">adobe house</text>
-  <text x="448" y="106" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">dry heat</text>
+  <text x="448" y="106" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">dry heat</text>
   <!-- thick walled flat-roof house -->
   <g stroke="#2b3a42" stroke-width="2" fill="none">
     <rect x="408" y="196" width="80" height="64" fill="#ffffff"/>
@@ -79,9 +79,9 @@
     <line x1="446" y1="140" x2="438" y2="140"/>
     <line x1="486" y1="140" x2="494" y2="140"/>
   </g>
-  <text x="448" y="314" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">thick mud-brick</text>
-  <text x="448" y="330" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">walls — cool inside</text>
-  <text x="448" y="346" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">the heat</text>
+  <text x="448" y="314" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">thick mud-brick</text>
+  <text x="448" y="330" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">walls: cool</text>
+  <text x="448" y="346" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">inside the heat</text>
 
   <text x="256" y="452.8" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">same need — shelter · different climate and resources · different</text>
   <text x="256" y="473.6" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#2b3a42">design</text>

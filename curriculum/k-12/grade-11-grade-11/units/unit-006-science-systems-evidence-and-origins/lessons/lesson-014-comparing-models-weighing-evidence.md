@@ -122,9 +122,9 @@ the same respect, and the same honesty about what each is.
 The ideas to land: **cosmological models are compared by evidence and falsifiability;
 the Big Bang beat the steady-state model — a universe with no beginning or end, proposed
 by Bondi, Gold, and Hoyle (S-497) — because the cosmic microwave background was observed
-(S-002), and a universe with no hot, dense beginning could not account for it, so the
-steady-state model was set aside (S-497); and cultural origin accounts answer questions
-of meaning and relationship, which scientific models do not attempt, so the two are held
+(S-002). A universe with no hot, dense beginning could not account for it, so the
+steady-state model was set aside (S-497). Cultural origin accounts answer questions of
+meaning and relationship, which scientific models do not attempt, so the two are held
 side by side, not ranked against each other (philosophy §11).** Present the cultural
 account as a living tradition of a named people, never as a specimen or a "failed"
 science. Teach the comparison with a worked example (S-011).

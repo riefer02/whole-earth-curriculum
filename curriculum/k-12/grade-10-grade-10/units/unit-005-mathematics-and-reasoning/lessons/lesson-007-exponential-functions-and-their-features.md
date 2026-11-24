@@ -115,8 +115,8 @@ the rate tells you which curve you are on and where it is headed.
 
 ## Facilitator note
 
-The idea to land: **the exponential function y = a·bˣ grows by a fixed factor each
-step — its features are the initial value a (the y-intercept), the base b (the growth or
+The idea to land: **the exponential function y = a·bˣ grows by a fixed factor each step
+— its features are the initial value a (the y-intercept), the base b (the growth or
 decay factor), the rate r = b − 1, and a horizontal asymptote — and the base, not the
 starting value, decides how fast it runs.** Teach with worked examples and guided
 practice (S-011), and let the linear-vs-exponential contrast do the motivating.

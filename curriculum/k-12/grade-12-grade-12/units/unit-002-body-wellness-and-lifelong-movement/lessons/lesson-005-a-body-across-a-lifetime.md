@@ -133,11 +133,11 @@ is which is the honesty the lesson needs.
 - *Ethics:* how we treat aging bodies is a test of how we treat people.
 - *Egalitarianism:* some bodies change early, some late, some through illness or injury;
   no arc is "lesser".
-- *Global:* cultures centre their elders or push them to the edge; hold the ways side
-  by side.
+- *Global:* cultures centre their elders or push them to the edge; hold the ways side by
+  side.
 - *Critical-thinking:* "decline" is a claim to check — which capacity, when, and what
   supports it?
-- **Technology & environment:** a rail, a bench, a ramp, a lift either supports a
+- *Technology and environment:* a rail, a bench, a ramp, a lift either supports a
   changing body or abandons it; assistive technology extends what a body can do, so a
   hard old age or a full one is often design, not biology.
 

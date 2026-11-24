@@ -132,8 +132,8 @@ revisable, and other accounts are not thereby refuted.
 
 **The lenses, briefly.**
 
-- *Ethics:* holding a model as revisable forbids using any account of origins to rank
-  or coerce people (S-018, S-497).
+- *Ethics:* holding a model as revisable forbids using any account of origins to rank or
+  coerce people (S-018, S-497).
 - *Egalitarianism:* the evidence is public light and public rock; no account needs a
   title to be examined.
 - *Global:* origin stories belong to every people — Māori (S-202), Haudenosaunee
@@ -142,8 +142,7 @@ revisable, and other accounts are not thereby refuted.
   (S-497).
 - *Technology:* telescopes and radiometric dating made the questions checkable; the
   microwave background was found with a radio antenna (S-002, S-308).
-- *Environment:* plate tectonics and deep time are the Earth's own story (S-186,
-  S-111).
+- *Environment:* plate tectonics and deep time are the Earth's own story (S-186, S-111).
 
 **The skill.** Teach the weigh explicitly, then release (S-011): put one model and one
 piece of evidence on the scales and say what moved you. Lesson 14 asks for your own
@@ -214,3 +213,4 @@ evidence in that light helped scientists choose among models of where it all cam
 - On other ways of knowing about origins, held with dignity: Te Ara — Ranginui and
   Papatūānuku (S-202); Smithsonian NMAI — Haudenosaunee creation (S-203); Encyclopaedia
   Britannica — Olorun (S-500), Viracocha (S-501), Rigveda (S-502), Allah (S-503).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

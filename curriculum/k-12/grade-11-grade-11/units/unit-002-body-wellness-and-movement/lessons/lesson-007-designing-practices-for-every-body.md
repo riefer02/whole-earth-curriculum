@@ -111,31 +111,31 @@ withheld.
 
 ## Facilitator note
 
-This is a **design-and-production** lesson, and it is the summative for the strand.
-Give learners the seven **Principles of Universal Design** as a concrete checklist —
-Equitable Use, Flexibility in Use, Simple and Intuitive Use, Perceptible Information,
-Tolerance for Error, Low Physical Effort, and Size and Space for Approach and Use
-(S-369) — then let them design. **Model one adaptation first** (worked example): take
-the 4-4-6-2 breath and show it standing, seated in a chair, and while wheeling, and
-note that the "hold" step is optional for anyone who finds it uncomfortable.
+This is a **design-and-production** lesson — the strand summative. Give learners the
+seven **Principles of Universal Design** as a checklist — Equitable Use, Flexibility in
+Use, Simple and Intuitive Use, Perceptible Information, Tolerance for Error, Low
+Physical Effort, and Size and Space for Approach and Use (S-369) — then let them design.
+**Model one adaptation first** (worked example): show the 4-4-6-2 breath standing,
+seated in a chair, and while wheeling, and note the "hold" step is optional for anyone
+who finds it uncomfortable.
 
-**No able-bodied default.** The chart deliberately shows no single "normal" body; the
-seated and wheeling versions are not "special cases" but equal ways of doing the same
-practice. Encourage learners to design for *low energy* (a lying-down version), *pain
-or fatigue* (shorter, gentler), and *sensory difference* (a visual or tactile anchor
-instead of an auditory one).
+**No able-bodied default.** The chart shows no "normal" body; seated and wheeling
+versions are not "special cases" but equal ways of doing the same practice. Encourage
+learners to design for *low energy* (a lying-down version), *pain or fatigue* (shorter,
+gentler), and *sensory difference* (a visual or tactile anchor instead of an auditory
+one).
 
 **Dignity and agency.** Let learners choose which practice to adapt and how many
-versions to produce. Never grade a design by "how hard" the practice is; grade it by
-how well it widens access. Avoid language that ranks bodies ("even someone in a
-wheelchair can do it" is patronizing; "this version works while wheeling" is neutral).
+versions to produce. Never grade a design by "how hard" the practice is; grade it by how
+well it widens access. Avoid language that ranks bodies ("even someone in a wheelchair
+can do it" is patronizing; "this version works while wheeling" is neutral).
 
 The **ethics** lens: designing for the widest range is a form of respect. The
 **egalitarian** lens: who is included by default, and who has to ask for a "special"
-version? The **global** lens: adapted and seated practices exist in movement
-traditions worldwide — inclusivity is not new. The **technology** lens: consider
-whether a device (app, audio, video, screen reader) widens access or depends on
-resources not everyone has.
+version? The **global** lens: adapted and seated practices exist in movement traditions
+worldwide — inclusivity is not new. The **technology** lens: consider whether a device
+(app, audio, video, screen reader) widens access or depends on resources not everyone
+has.
 
 ## Procedure
 

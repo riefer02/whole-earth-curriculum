@@ -219,3 +219,4 @@ choose one small first step to take.
   mink'a/minga, barn raising), <https://en.wikipedia.org/wiki/Communal_work> (S-164).
 - On purpose developing through trying and reflecting, not sudden certainty: Damon (2008),
   *The Path to Purpose* (S-400).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

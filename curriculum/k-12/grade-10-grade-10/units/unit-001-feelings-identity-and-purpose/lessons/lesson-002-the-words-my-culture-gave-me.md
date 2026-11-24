@@ -139,12 +139,12 @@ leaves others to be opened by words or gestures (philosophy §4, §11).
   they carry a vocabulary of feeling others may lack.
 - *Ethics:* naming another culture's untranslatable word is respect: pronounce it with
   care, credit its speakers, never make it a specimen.
-- **Technology & environment:** translation apps and feeds flatten feeling into a few
+- *Technology and environment:* translation apps and feeds flatten feeling into a few
   emoji and react options; name the gift and the flattening.
 - *Social-emotional:* feelings about language and belonging run deep — invite, never
   force; learners offer words only if they wish.
-- *Critical-thinking:* one word is not evidence about a culture; the granularity
-  finding is an association, not a law.
+- *Critical-thinking:* one word is not evidence about a culture; the granularity finding
+  is an association, not a law.
 
 **The skill.** Model once, then release (S-011): choose a feeling word from your own
 language, teach it to a partner, and test what English cannot say.

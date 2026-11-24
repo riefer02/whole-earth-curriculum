@@ -141,8 +141,7 @@ failure.
   courtesy.
 - *Egalitarianism:* the evidence is public and needs no credentials to weigh.
 - *Global:* the account is offered alongside cultural accounts, not above them.
-- *Technology:* sequencing and dating are the instruments that made the claim
-  checkable.
+- *Technology:* sequencing and dating are the instruments that made the claim checkable.
 - *Environment:* organisms are shaped by their surroundings, which is why a changing
   climate reshapes the tree of life (S-303).
 

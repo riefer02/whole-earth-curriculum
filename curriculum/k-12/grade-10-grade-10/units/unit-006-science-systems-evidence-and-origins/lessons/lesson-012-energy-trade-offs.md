@@ -124,10 +124,10 @@ poisons someone else's air or home is a moral choice, not just an efficiency one
 breathing indoor smoke from cooking fires, communities downwind of plants, and the
 hundreds of millions still without electricity — while the benefits often flow to
 others; that mismatch is the heart of **environmental justice** (S-483). The **global**
-lens: no single source fits every place; a fair energy future is a *mix* chosen
-locally — sun where it shines, wind where it blows, rivers where they run — not one
-answer imposed everywhere. Preview: Lesson 13 turns from energy to the cosmos — the Big
-Bang model and its evidence.
+lens: no single source fits every place; a fair energy future is a *mix* chosen locally
+— sun where it shines, wind where it blows, rivers where they run — not one answer
+imposed everywhere. Preview: Lesson 13 turns from energy to the cosmos — the Big Bang
+model and its evidence.
 
 ## Procedure
 
@@ -180,3 +180,5 @@ biggest benefit and one biggest cost. Weigh them together.
   <https://www.who.int/news-room/fact-sheets/detail/household-air-pollution-and-health> (S-219).
 - On renewable and nonrenewable sources: EIA Energy Kids,
   <https://www.eia.gov/kids/energy-sources/renewable/> (S-095).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).
+- U.S. Environmental Protection Agency — Environmental Justice (S-483).

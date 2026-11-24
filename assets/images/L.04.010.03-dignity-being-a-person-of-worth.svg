@@ -37,11 +37,11 @@
 
   <!-- greeting speech bubble -->
   <rect x="36" y="220" width="150" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="111" y="242" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">"Hello, Amara —</text>
-  <text x="111" y="258" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">come sit with us."</text>
+  <text x="111" y="242" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">"Hello, Amara —</text>
+  <text x="111" y="258" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">come sit with us."</text>
 
-  <text x="133" y="298" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">greeted by name</text>
-  <text x="133" y="314" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">listened to · given a seat</text>
+  <text x="133" y="298" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">greeted by name</text>
+  <text x="133" y="314" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">listened to · given a seat</text>
 
   <!-- ===== right panel: denied ===== -->
   <rect x="262" y="60" width="234" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -70,16 +70,16 @@
 
   <!-- "no room" bubble -->
   <rect x="296" y="220" width="170" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="381" y="242" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">"You can stand there."</text>
-  <text x="381" y="258" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">(talking over them)</text>
+  <text x="381" y="242" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">"You can stand there."</text>
+  <text x="381" y="258" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">(talking over them)</text>
 
-  <text x="379" y="298" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">ignored · talked over</text>
-  <text x="379" y="314" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">left standing outside</text>
+  <text x="379" y="298" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">ignored · talked over</text>
+  <text x="379" y="314" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">left standing outside</text>
 
   <!-- banner -->
   <rect x="46" y="388" width="420" height="66" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="412" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Dignity is being treated as a person of worth.</text>
   <text x="256" y="434" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">Every person is born with it. It cannot be taken — only denied.</text>
 
-  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">Labels, bodies turned toward or away, and seat vs. standing carry the meaning.</text>
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">Labels, bodies turned toward or away, and seat vs. standing carry the meaning.</text>
 </svg>

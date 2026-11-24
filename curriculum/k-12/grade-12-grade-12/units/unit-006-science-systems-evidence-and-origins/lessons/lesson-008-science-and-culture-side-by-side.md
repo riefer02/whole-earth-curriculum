@@ -130,8 +130,7 @@ checked.
 
 **The lenses, briefly.**
 
-- *Ethics:* ranking one people's account above another's has been used to justify
-  harm.
+- *Ethics:* ranking one people's account above another's has been used to justify harm.
 - *Egalitarianism:* every account carries dignity — Māori Ranginui and Papatūānuku
   (S-202); Haudenosaunee Sky Woman (S-203); Yoruba Olorun and the orisha (S-500); Inca
   Viracocha from Lake Titicaca (S-501); the Rig Veda's Hymn of Creation, wondering
@@ -139,8 +138,7 @@ checked.
   (S-503).
 - *Global:* "two-eyed seeing" — Mi'kmaq Elder Albert Marshall's teaching, carried into
   science by Kimmerer (S-427), documented through living heritage (S-056).
-- *Technology:* instruments answer "how" with unmatched power and are silent on
-  meaning.
+- *Technology:* instruments answer "how" with unmatched power and are silent on meaning.
 - *Environment:* many accounts carry ecological knowledge refined over generations —
   when to burn, when to plant (S-320, S-321, S-427).
 

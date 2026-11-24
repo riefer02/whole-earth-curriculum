@@ -182,3 +182,4 @@ it felt to read.
   &amp; Media Literacy,"
   <https://www.commonsense.org/education/digital-citizenship/topic/news-and-media-literacy>
   (S-063).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

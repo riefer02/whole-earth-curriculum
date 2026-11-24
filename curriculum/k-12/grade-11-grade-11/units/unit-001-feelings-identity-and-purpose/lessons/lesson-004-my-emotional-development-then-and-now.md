@@ -109,9 +109,8 @@ author of your own inner life.
 ## Facilitator note
 
 The idea to land: **emotional development is real, ongoing, and nameable — a learner can
-name a strength and a growth area without judgment, because "not yet" is information,
-never a verdict.** Model the reflection with a worked example of your own (S-011), then
-release learners to write privately.
+name a strength and a growth area without judgment.** Model the reflection with a worked
+example of your own (S-011), then release learners to write privately.
 
 The **social-emotional** lens is the core: this is self-awareness applied over time
 (CASEL, S-001), using the precise-labeling skill from RULER (S-015) and the idea that a
@@ -127,9 +126,9 @@ measuring yourself against a single standard. The **technology & environment** l
 notice how screens and environments have shaped your emotional life (what a feed does to
 your mood, what a quiet place does to your body) — those are part of your story too.
 
-**Emotional safety.** This is private, vulnerable work. Never require
-sharing; "pass" is complete. Frame the reflection as *celebration plus curiosity*, never
-as a score. Remind learners that a growth area is not a defect — it is a direction.
+**Emotional safety.** This is private, vulnerable work. Never require sharing; "pass" is
+complete. Frame the reflection as *celebration plus curiosity*, never as a score. Remind
+learners that a growth area is not a defect — it is a direction.
 
 ## Procedure
 

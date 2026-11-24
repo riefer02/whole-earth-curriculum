@@ -194,3 +194,4 @@ warm from the Sun. Write one line naming where you found each.
   (S-302).
 - On electromagnetism: BBC Bitesize (KS3) — Electromagnetism (S-360); on the Sun and stellar
   fusion: NASA Space Place — All About the Sun (S-047); NASA — Star Lifecycle (S-361).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

@@ -136,14 +136,14 @@ small acts" is not "you should trust the people around you".
 
 - *Ethics:* what we owe someone who trusts us, and what we owe when we break it.
 - *Egalitarianism:* respect keeps trust from curdling into control or dependence.
-- *Global:* a promise kept may be signalled by a word, a gift, a shared meal, or
-  showing up; none is the default.
+- *Global:* a promise kept may be signalled by a word, a gift, a shared meal, or showing
+  up; none is the default.
 - *Technology:* a delayed reply, a read receipt, and a toneless message all read
   differently online (Suler, S-343).
 - *Environment:* a tended garden, a clean river — reliability with the living world,
   whose breakage we feel as betrayal.
 
-**Safeguarding.** No learner names or discloses a real, private relationship; examples
+**Safety floor.** No learner names or discloses a real, private relationship; examples
 are fictional or from story, and writing about "a character" is always allowed.
 
 **The skill.** Model once, then release (S-011): map one fictional trust, one crack, one

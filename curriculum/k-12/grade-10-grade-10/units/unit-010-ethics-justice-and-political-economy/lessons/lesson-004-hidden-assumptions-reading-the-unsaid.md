@@ -128,8 +128,7 @@ an argument better and to notice who is left out (philosophy §11).
 
 **The lenses, briefly.**
 
-- *Critical-thinking:* the spine — the unstated premise is where arguments usually
-  fail.
+- *Critical-thinking:* the spine — the unstated premise is where arguments usually fail.
 - *Egalitarianism:* bias hides in who is assumed to matter; "everyone" can silently mean
   "people like the speaker".
 - *Global:* arguments are shaped by where they are made; an assumption obvious in one

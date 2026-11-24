@@ -132,13 +132,14 @@ Knowing the facts — and getting care — is ordinary self-care, like any other
 - *Critical-thinking:* rumour about STIs is checkable; a clinic is the source, not a
   feed.
 
-**Safeguarding.** Say plainly that an STI is common, treatable, and never a mark on
+**Safety floor.** Say plainly that an STI is common, treatable, and never a mark on
 worth — the opposite of the shame many cultures attach. Learners may opt out. If a
 learner discloses a possible infection or unsafe circumstances, respond privately,
 without alarm, and follow safeguarding to a trusted adult or health service offering
 confidential testing and care.
 
-**The skill.** Model once, then release (S-011): say the three-step sentence aloud in a fictional case.
+**The skill.** Model once, then release (S-011): say the three-step sentence aloud in a
+fictional case.
 
 ## Procedure
 
@@ -188,3 +189,4 @@ wonder box. No home conversation is required.
 - WHO — Family planning/contraception methods (condom-and-STI protection):
   <https://www.who.int/news-room/fact-sheets/detail/family-planning-contraception>
   (S-453).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

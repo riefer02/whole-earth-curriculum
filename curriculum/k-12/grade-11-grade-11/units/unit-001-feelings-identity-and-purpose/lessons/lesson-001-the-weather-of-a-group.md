@@ -114,31 +114,28 @@ the first step to understanding it, and later, to shaping it.
 
 ## Facilitator note
 
-The idea to land: **an emotional climate is a shared feeling bigger than any one person,
-and it can be read — named with evidence — before it is judged or changed.** Teach
-*reading* as a skill with a worked example (S-011), then let learners observe a real
-group.
+The idea to land: **an emotional climate is a shared feeling larger than any one person;
+it can be read — named with evidence — before it is judged or changed.** Model *reading*
+once (S-011), then let learners observe a real group.
 
-The **social-emotional** lens is the ground here: reading a climate draws on the
-emotional literacy learners built in earlier grades (CASEL self- and social awareness,
-S-001; RULER's label-emotions-with-precision skill, S-015). The **ethics** lens: how we
-*name* a group's feeling can honor or flatten it — "they're all panicking" is very
-different from "there is fear here, and it comes from a real threat." The
+The **social-emotional** lens is the ground: reading a climate draws on earlier
+emotional literacy (CASEL self- and social awareness, S-001; RULER's precise labeling,
+S-015). The **ethics** lens: how we *name* a group's feeling can honor or flatten it —
+"they're all panicking" differs from "there is fear here, and it has a cause." The
 **egalitarian** lens: a climate is felt unevenly — the same news lifts some and wounds
-others, and who feels hope or fear is not distributed equally. The **global** lens:
-climates span nations (the mood of a country after a victory or a loss), so "reading the
-room" scales up to reading the world. The **technology & environment** lens: screens now
-carry a group's weather across borders — a storm of feeling on one continent can be felt
-in a room on another within an hour; and the living environment has its own shared
-states (a drought, a flood) that shape a community's emotional weather.
+others. The **global** lens: climates span nations (a country's mood after a victory or
+loss), so "reading the room" scales to reading the world. The **technology &
+environment** lens: screens carry a group's weather across borders — one continent's
+storm is felt in a room on another within the hour; and the living world has shared
+states too (a drought, a flood).
 
-**Emotional safety.** This unit touches identity, values, and purpose, which are
-vulnerable. From this first day, make the ground rules explicit and non-negotiable: (1)
-no one is ever required to share a private feeling or story — "pass" is a complete
-answer; (2) we observe and name *climates* and *groups*, never to single out or shame a
-person; (3) there are no wrong feelings, only feelings; (4) "not yet" is information,
-never a verdict. Hold collective emotion as a *question to explore*, not a fact to
-accept (philosophy §11). If a learner steps away or stays silent, honor that.
+**Emotional safety.** This unit touches vulnerable ground: identity, values, purpose.
+From day one, make the ground rules non-negotiable: (1) no one is required to share a
+private feeling or story — "pass" is a complete answer; (2) we name *climates* and
+*groups*, never a person to single out or shame; (3) there are no wrong feelings, only
+feelings; (4) "not yet" is information, never a verdict. Hold collective emotion as a
+*question*, not a fact (philosophy §11). If a learner steps away or stays silent, honor
+that.
 
 ## Procedure
 

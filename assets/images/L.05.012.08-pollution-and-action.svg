@@ -30,7 +30,7 @@
 
   <line x1="418" y1="118" x2="438" y2="118" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8-L-05-012-08-pollution-and-action)"/>
   <rect x="440" y="80" width="52" height="76" rx="10" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <text x="466" y="112" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">ocean</text>
+  <text x="466" y="112" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">ocean</text>
 
   <line x1="466" y1="156" x2="466" y2="180" stroke="#2b3a42" stroke-width="2" marker-end="url(#arr8-L-05-012-08-pollution-and-action)"/>
   <rect x="116" y="182" width="280" height="76" rx="10" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
@@ -45,15 +45,15 @@
 
   <rect x="24" y="340" width="105" height="80" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   <text x="76" y="372" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">REFUSE</text>
-  <text x="76" y="392" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">single-use plastic</text>
+  <text x="76" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">single-use plastic</text>
 
   <rect x="139" y="340" width="105" height="80" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   <text x="191" y="372" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">REUSE</text>
-  <text x="191" y="392" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">bags and bottles</text>
+  <text x="191" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">bags and bottles</text>
 
   <rect x="254" y="340" width="105" height="80" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   <text x="306" y="372" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">RECYCLE</text>
-  <text x="306" y="392" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">what you can</text>
+  <text x="306" y="392" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">what you can</text>
 
   <rect x="369" y="340" width="119" height="80" rx="10" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
   <text x="428" y="368" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">JOIN</text>

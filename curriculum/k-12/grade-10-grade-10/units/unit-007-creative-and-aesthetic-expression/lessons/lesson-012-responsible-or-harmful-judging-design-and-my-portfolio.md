@@ -148,8 +148,8 @@ close, kept low-stakes and celebratory.
 - *Community:* sharing the portfolio is a community act, seen by peers who want it to
   succeed.
 
-**The skill.** Model once, then release (S-011): judge one design on the four questions,
-then present a portfolio piece.
+- *Critical-thinking:* run the four questions as a test, not a slogan. **The skill.**
+  Model once, then release (S-011): judge one design, then present a portfolio piece.
 
 ## Procedure
 

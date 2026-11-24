@@ -130,18 +130,17 @@ across the unit is the evidence-backed way to make the learning last (Dunlosky, 
 this lesson is that technique enacted, not just described. The capstone is a *promise*,
 not a grade; a learner's ethic is theirs to carry, not yours to judge.
 
-The **ethics** lens: the capstone is the learner's own statement of what they hold
-right — the unit's ethical strand completed. The **egalitarianism** lens: the
-stress-test — "does this ethic serve someone unlike me, and the living world?" — is the
-egalitarian check, kept to the end. The **global** lens: the ethic travels — it is one
-person's, but it was built from harambee and mink'a, from tree-hugging and
-tree-planting, from rivers on every continent. The **technology** lens: name the tool
-that will serve the ethic and the one that will tempt it — the carried ethic includes a
-decision about technology. The **environment** lens: the ethic includes the
-more-than-human world, because a thriving world is not only a human one (Kimmerer,
-S-427).
+The **ethics** lens: the capstone is the learner's own statement of what they hold right
+— the unit's ethical strand completed. The **egalitarianism** lens: the stress-test —
+"does this ethic serve someone unlike me, and the living world?" — is the egalitarian
+check, kept to the end. The **global** lens: the ethic travels — it is one person's, but
+it was built from harambee and mink'a, from tree-hugging and tree-planting, from rivers
+on every continent. The **technology** lens: name the tool that will serve the ethic and
+the one that will tempt it — the carried ethic includes a decision about technology. The
+**environment** lens: the ethic includes the more-than-human world, because a thriving
+world is not only a human one (Kimmerer, S-427).
 
-**Safeguarding:** the carried ethic is shared only in the part the learner chooses;
+**Safety floor.** the carried ethic is shared only in the part the learner chooses;
 there is no single correct ethic, only honesty, and the invitation to keep revising it
 for life.
 

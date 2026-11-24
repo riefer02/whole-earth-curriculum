@@ -145,12 +145,11 @@ while everything else about the delivery adapts.
   listener, including those for whom the language is not their first.
 - *Global:* eye contact, volume, and directness carry different weight in different
   cultures.
-- *Technology:* a microphone, a recording, a livestream amplify one voice to many —
-  and the audience can no longer be seen.
+- *Technology:* a microphone, a recording, a livestream amplify one voice to many — and
+  the audience can no longer be seen.
 - *Environment:* use an environmental announcement — a warning, a stewardship appeal —
   so clarity is practised where it matters for safety.
-- *Critical-thinking:* ask what is being said clearly, and what is being smoothed
-  over.
+- *Critical-thinking:* ask what is being said clearly, and what is being smoothed over.
 
 **The skill.** Model once, then release (S-011): rewrite one paragraph for two audiences
 without changing a single fact. Lesson 4 turns to reading across registers.

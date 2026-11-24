@@ -191,3 +191,4 @@ to cross.
   Old Mali* (S-269).
 - On modeling + guided practice before independent work: Kirschner, Sweller & Clark
   (2006), <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- Encyclopaedia Britannica — Rumi (13th-century Persian poet) (S-352).

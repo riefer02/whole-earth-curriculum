@@ -136,11 +136,10 @@ decision is the learner's.
   barriers — a justice issue, not a failing.
 - *Global:* availability, cost, and law differ — free in one place, out of reach in
   another: access, never worth.
-- *Technology:* contraception is a technology, old and new; its *access* shapes
-  health.
+- *Technology:* contraception is a technology, old and new; its *access* shapes health.
 - *Critical-thinking:* existence is not availability; check local facts.
 
-**Safeguarding.** Do not distribute or demonstrate contraceptives unless setting and
+**Safety floor.** Do not distribute or demonstrate contraceptives unless setting and
 local law permit; the chart is enough. Learners may opt out. If a learner discloses
 pregnancy risk or unsafe circumstances, respond privately and follow safeguarding to a
 trusted adult or health service.
@@ -199,3 +198,4 @@ question for your wonder box. No home conversation is required.
 - WHO — Sexually transmitted infections (fact sheet) for the condom-and-STI link:
   <https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)>
   (S-454).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

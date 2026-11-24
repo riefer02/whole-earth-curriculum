@@ -199,3 +199,5 @@ required to discuss the events themselves outside class.)
 - On teaching about genocide with care: US Holocaust Memorial Museum, "Guidelines
   for Teaching about the Holocaust" (S-495); on why we name individuals, not
   numbers: Paul Slovic, "If I Look at the Mass I Will Never Act" (S-414).
+- Encyclopaedia Britannica — Rwanda genocide of 1994 (S-494).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

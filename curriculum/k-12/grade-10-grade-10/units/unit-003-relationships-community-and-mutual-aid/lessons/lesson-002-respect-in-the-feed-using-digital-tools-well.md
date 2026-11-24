@@ -136,14 +136,14 @@ acts with care, not a learner who is afraid to post.
   consent.
 - *Egalitarianism:* not a lecture aimed at some learners; everyone posts, everyone is
   posted about, and everyone's boundaries count.
-- *Technology:* read the defaults — public, persistent, invisible audiences — and
-  change one where respect requires it.
+- *Technology:* read the defaults — public, persistent, invisible audiences — and change
+  one where respect requires it.
 - *Social-emotional:* this touches real hurt, shame, and being left out; invite, never
   force.
 - *Critical-thinking:* "is it true?" means checking before sharing; rumours and edited
   images travel fast (S-063).
-- *Global:* norms of respect differ by culture and platform; the gates are a start,
-  not a law.
+- *Global:* norms of respect differ by culture and platform; the gates are a start, not
+  a law.
 
 **The skill.** Model the flow once, then release (S-011): run one real post through
 pause, truth, kindness, permission. Lesson 3 moves to conflict.

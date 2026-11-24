@@ -118,29 +118,35 @@ like any craft, is practiced — and practice needs a plan.
 
 ## Facilitator note
 
-The idea to land: **a responsibility becomes real when it becomes an action — name the
-responsibility, choose one specific, doable action, list allies and resources, name the
-honest limits, and set a check-back date. Agency grows when it is shared, and a
-commitment with named limits is stronger than a vague promise.** This is the strand's
-"how I will act" move, and it pairs the *value* (what I owe) with *agency* (what I can
-actually do). Do not grade learners on the size of their action; a small, real, kept
-commitment is worth more than a grand, abandoned one.
+**Tone.** Practical and modest: a small kept promise beats a grand abandoned one.
 
-The **ethics** lens: a responsibility without an action is a good intention, and ethics
-is about what we *do* — the move from "I ought" to "I will" is where the strand's
-reasoning becomes practice. The **egalitarianism** lens: agency is not equal — a learner
-with money, time, and safety can do more than one without, so the lesson never ranks
-actions by size; it asks only that the action be *real* and the limits be *named*
-honestly (S-460). The **global** lens: acting for fairness looks different everywhere —
-a mutual-aid tradition like *harambee*, *gotong royong*, or *mink'a* is one way humans
-have always turned shared responsibility into shared work (S-164); a learner's action
-can be local and still join an old, worldwide pattern. The **technology** lens: an
-action can use tools — a shared document, a group chat, a petition — but the tool is not
-the action; the lesson keeps the *doing* first and the technology in service of it. The
-**environment** lens: many of the most doable actions of fairness are also acts of care
-for a shared place — cleaning a common space, sharing water, protecting a green corner —
-where justice and stewardship meet. Preview: Lesson 9 scales up — researching an issue,
-building coalitions, and listening.
+**The facts to land.**
+
+1. A responsibility becomes real when it becomes an action: name it, choose one specific
+   doable action, list allies and resources, name the honest limits, set a check-back
+   date.
+2. Agency grows when it is shared, and a commitment with named limits is stronger than a
+   vague promise.
+3. Do not grade learners on the size of the action.
+
+**Don't overshoot.** Do not let the plan inflate into heroism; a learner who names a
+limit is doing the work properly.
+
+**The lenses, briefly.**
+
+- *Ethics:* a responsibility without an action is a good intention, and ethics is about
+  what we do.
+- *Egalitarianism:* agency is not equal — money, time, and safety change what is
+  possible — so actions are never ranked by size, only by whether they are real (S-460).
+- *Global:* harambee, gotong royong, mink'a: humans have always turned shared
+  responsibility into shared work (S-164), and a local action can join that old pattern.
+- *Technology:* a shared document, a group chat, a petition are tools, not the action.
+- *Environment:* many doable acts of fairness are also care for a shared place — a
+  common room, water, a green corner.
+- *Community:* agency grows when it is shared.
+
+**The skill.** Model one plan, then release (S-011): responsibility, action, allies,
+limit, check-back date. Lesson 9 scales up to research and coalitions.
 
 ## Procedure
 
@@ -196,3 +202,5 @@ on that day. Accountability is a gift, not a test.
   as Freedom (S-460).
 - On mutual-aid traditions as a worldwide pattern: Communal-work traditions — harambee, gotong
   royong, mink'a (S-164). On solidarity vs. charity: Spade — Mutual Aid (S-345).
+- On modelling before practice: Kirschner, Sweller & Clark — Why Minimal Guidance Does Not
+  Work (S-011).

@@ -183,3 +183,4 @@ lifetime?* Trace one change back to a human cause together.
   "Ecosystem," <https://education.nationalgeographic.org/resource/ecosystem/> (S-152).
 - On plastic pollution: UNEP, Plastic Pollution,
   <https://www.unep.org/plastic-pollution> (S-216).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

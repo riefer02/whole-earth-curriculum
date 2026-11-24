@@ -57,8 +57,8 @@
   <path d="M165 418 Q170 414 175 418" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   <rect x="160" y="424" width="20" height="28" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
 
-  <text x="128" y="318" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">the tower is still broken</text>
-  <text x="128" y="334" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">and the hurt is still there</text>
+  <text x="128" y="318" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">the tower is still broken</text>
+  <text x="128" y="334" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">and the hurt is still there</text>
 
   <!-- ===== right: repair ===== -->
   <rect x="276" y="252" width="216" height="216" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -85,9 +85,9 @@
   <path d="M433 367 Q438 372 443 367" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
   <rect x="428" y="374" width="20" height="28" rx="9" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
 
-  <text x="384" y="418" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#4f6d7a">listen · take responsibility</text>
-  <text x="384" y="434" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#4f6d7a">· make it right</text>
-  <text x="384" y="452" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#222222">the harm is fixed; both feel better</text>
+  <text x="384" y="418" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">listen · take responsibility</text>
+  <text x="384" y="434" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">· make it right</text>
+  <text x="384" y="452" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#222222">the harm is fixed; both feel better</text>
 
   <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#4f6d7a">Punishment alone stops. Repair heals.</text>
 </svg>

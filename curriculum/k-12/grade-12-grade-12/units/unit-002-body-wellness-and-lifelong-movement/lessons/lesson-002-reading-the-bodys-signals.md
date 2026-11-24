@@ -120,18 +120,18 @@ ranked by it, and some bodies and neurotypes signal differently or more quietly 
 is difference, not deficit. Never let this become "your body is wrong or too vague"; the
 point is a *tool the learner owns*, not a test they pass.
 
-The **ethics** lens: accurate self-reading lets us act on what is real rather than on a
-blurry alarm, which protects both ourselves and others. The **egalitarianism** lens:
-access to a rich feeling vocabulary is not evenly distributed — some languages and
-cultures name body states far more finely than others, and no vocabulary is "better" as
-a person. The **global** lens: different traditions locate feelings in different parts
-of the body (the heart, the gut, the chest, the liver), so no single body map is
-universal. The **critical-thinking** lens: a sensation is data; an interpretation is a
-guess — we learn to keep the two apart and check the guess. The **technology** lens:
-wearables and health apps give a coarse, external read — heart rate, steps, sleep — but
-they cannot do the precise inner reading, so a device is a helper to check against,
-never a replacement for the sensor you already are. Preview: Lesson 3 turns to the
-stress wave and the return to calm.
+The **ethics** lens: accurate self-reading lets us act on what is real than on a blurry
+alarm, which protects both ourselves and others. The **egalitarianism** lens: access to
+a rich feeling vocabulary is not evenly distributed — some languages and cultures name
+body states far more finely than others, and no vocabulary is "better" as a person. The
+**global** lens: different traditions locate feelings in different parts of the body
+(the heart, the gut, the chest, the liver), so no single body map is universal. The
+**critical-thinking** lens: a sensation is data; an interpretation is a guess — we learn
+to keep the two apart and check the guess. The **technology** lens: wearables and health
+apps give a coarse, external read — heart rate, steps, sleep — but they cannot do the
+precise inner reading, so a device is a helper to check against, never a replacement for
+the sensor you already are. Preview: Lesson 3 turns to the stress wave and the return to
+calm.
 
 ## Procedure
 

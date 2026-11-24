@@ -8,20 +8,20 @@
   <!-- claim -->
   <rect x="24" y="80" width="120" height="70" rx="6" fill="none" stroke="#2b3a42" stroke-width="3"/>
   <text x="84" y="112" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">claim</text>
-  <text x="84" y="132" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">what should</text>
-  <text x="84" y="145" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">happen</text>
+  <text x="84" y="132" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">what should</text>
+  <text x="84" y="145" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">happen</text>
 
   <!-- reason+evidence -->
   <rect x="168" y="80" width="130" height="70" rx="6" fill="none" stroke="#6b93b6" stroke-width="3"/>
   <text x="233" y="112" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">reason + evidence</text>
-  <text x="233" y="132" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">why, and what</text>
-  <text x="233" y="145" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">supports it</text>
+  <text x="233" y="132" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">why, and what</text>
+  <text x="233" y="145" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">supports it</text>
 
   <!-- benefits/harms -->
   <rect x="322" y="80" width="130" height="70" rx="6" fill="none" stroke="#e0a458" stroke-width="3"/>
   <text x="387" y="112" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42" font-weight="bold">who benefits /</text>
   <text x="387" y="130" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42" font-weight="bold">who is harmed</text>
-  <text x="387" y="147" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">the honest ledger</text>
+  <text x="387" y="147" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the honest ledger</text>
 
   <!-- arrows row 1 -->
   <line x1="144" y1="115" x2="168" y2="115" stroke="#4f6d7a" stroke-width="4"/>
@@ -30,14 +30,14 @@
   <!-- counterargument -->
   <rect x="92" y="200" width="130" height="70" rx="6" fill="none" stroke="#7a9e7e" stroke-width="3"/>
   <text x="157" y="232" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#2b3a42" font-weight="bold">counterargument</text>
-  <text x="157" y="252" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">the strongest</text>
-  <text x="157" y="265" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">objection</text>
+  <text x="157" y="252" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">the strongest</text>
+  <text x="157" y="265" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">objection</text>
 
   <!-- response -->
   <rect x="268" y="200" width="130" height="70" rx="6" fill="none" stroke="#7a9e7e" stroke-width="3"/>
   <text x="333" y="232" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42" font-weight="bold">my response</text>
-  <text x="333" y="252" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">answering it</text>
-  <text x="333" y="265" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">honestly</text>
+  <text x="333" y="252" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">answering it</text>
+  <text x="333" y="265" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">honestly</text>
 
   <!-- arrow down -->
   <line x1="222" y1="235" x2="268" y2="235" stroke="#4f6d7a" stroke-width="4"/>

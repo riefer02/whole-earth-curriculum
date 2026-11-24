@@ -183,3 +183,4 @@ wood, gas). Trace that source back through the chain together.
   "Electromagnetism," <https://www.bbc.co.uk/bitesize/topics/zx3fkqt> (S-360).
 - On forms of energy and conservation: EIA Energy Kids, "Forms of Energy" and "Laws of
   Energy," <https://www.eia.gov/kids/energy-sources/> (S-255, S-256).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

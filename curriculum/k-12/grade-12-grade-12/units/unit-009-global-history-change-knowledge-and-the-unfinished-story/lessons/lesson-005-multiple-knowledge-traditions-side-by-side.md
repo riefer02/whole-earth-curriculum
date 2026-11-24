@@ -135,9 +135,9 @@ through living-heritage frameworks (S-056), never a specimen. The **technology**
 scientific instruments answer "how" with unmatched power, but they are silent on "what
 it means" and "how we should live with it" — questions other traditions take up (S-427).
 The **environment** lens: Indigenous ecological knowledge — when to burn, when to plant,
-how to read a landscape — complements scientific ecology rather than contradicting it
-(S-320, S-321, S-427). Preview: Lesson 6 asks learners to articulate the *relationship*
-between traditions explicitly and non-dogmatically.
+how to read a landscape — complements scientific ecology than contradicting it (S-320,
+S-321, S-427). Preview: Lesson 6 asks learners to articulate the *relationship* between
+traditions explicitly and non-dogmatically.
 
 ## Procedure
 

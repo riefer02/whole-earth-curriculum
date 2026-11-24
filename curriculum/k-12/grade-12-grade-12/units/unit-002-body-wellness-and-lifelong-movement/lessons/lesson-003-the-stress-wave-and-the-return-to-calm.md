@@ -132,12 +132,11 @@ return to calm is a skill, not a measure of character.
 
 **The lenses, briefly.**
 
-- *Ethics:* calm lets us act on choice rather than alarm, which is kinder to those
-  around us.
-- *Egalitarianism:* who gets to *rest* is uneven; some live under constant stress through
-  no fault, and the fix is partly social.
-- *Global:* calm-returning practices appear in many traditions and languages; no
-  single method is the default.
+- *Ethics:* calm lets us act on choice than alarm, which is kinder to those around us.
+- *Egalitarianism:* who gets to *rest* is uneven; some live under constant stress
+  through no fault, and the fix is partly social.
+- *Global:* calm-returning practices appear in many traditions and languages; no single
+  method is the default.
 - *Critical-thinking:* not every racing heart means danger, and not every calm means
   safety — read signals in context.
 - *Technology:* screens, feeds, and alerts keep the wave on — the body braced for

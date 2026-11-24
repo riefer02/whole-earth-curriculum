@@ -33,8 +33,8 @@
     <text x="172" y="406" font-family="sans-serif" font-size="15" fill="#4f6d7a" font-weight="bold">-430 m: the Dead Sea, below sea level</text>
 
     <!-- up arrow -->
-    <text x="60" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#436b47" transform="rotate(-90 60 150)">ABOVE</text>
-    <text x="60" y="390" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a" transform="rotate(-90 60 390)">BELOW</text>
+    <text x="60" y="150" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#436b47">ABOVE</text>
+    <text x="60" y="390" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#4f6d7a">BELOW</text>
   </g>
 
   <text x="256" y="486.4" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#222222">positive = above zero or sea level · negative = below zero or sea level</text>

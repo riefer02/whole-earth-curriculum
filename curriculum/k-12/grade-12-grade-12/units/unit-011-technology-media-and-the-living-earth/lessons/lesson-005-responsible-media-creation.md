@@ -116,26 +116,35 @@ are helping build the shared picture of the world, so the picture should be true
 
 ## Facilitator note
 
-The idea to land: **responsible media creation means three tests — accurate, fair,
-honest about sources — guided by five questions: who created it, what techniques attract
-attention, what is omitted, who benefits, and for what purpose.** Model checking a
-message against the tests, then let learners draft their own (S-011). Frame this as
-craft and ethics, not censorship: the goal is truthfulness, not self-silencing.
+**Tone.** Craft-focused: this is skill and honesty, not censorship.
 
-The **ethics** lens: the creator's ethics is honesty — saying only what is true, showing
-the other side fairly, and telling readers where the information came from, so they can
-check it for themselves. The **egalitarianism** lens: fairness means not flattening
-anyone into a caricature — a message that shows only one story of a person or a place
-risks the "single story" that narrows how they are seen (S-417). The **global** lens:
-responsible creation is a global skill — UNESCO's media and information literacy frames
-the right and duty to create and share information critically and ethically across
-cultures (S-217). The **technology** lens: the tools that let anyone publish also let a
-message spread far and fast, which raises the stakes of the three tests rather than
-lowering them (S-481). The **environment** lens: media is how people learn about the
-living Earth — an accurate, fair message about a river or a forest can move people to
-care, while a false one can do real harm to the place and the people who depend on it
-(S-004). Preview: Lesson 6 turns the three tests into careful practice — verifying
-facts, representing others fairly, and attributing sources precisely.
+**The facts to land.**
+
+1. Responsible creation means three tests — accurate, fair, honest about sources —
+   guided by five questions: who created it, what techniques attract attention, what is
+   omitted, who benefits, and for what purpose.
+2. Fairness means not flattening anyone into a caricature; showing only one story risks
+   the "single story" that narrows how a people is seen (S-417).
+3. UNESCO frames the right and duty to create and share information critically and
+   ethically across cultures (S-217).
+
+**Don't overshoot.** Do not turn responsibility into self-silencing; the goal is
+truthfulness, not silence.
+
+**The lenses, briefly.**
+
+- *Ethics:* say only what is true, show the other side fairly, and tell readers where it
+  came from so they can check.
+- *Egalitarianism:* a message that shows one story of a person or place narrows them.
+- *Global:* media literacy is a cross-cultural right and duty, not one country's
+  etiquette (S-217).
+- *Technology:* anyone can publish, which raises the stakes of the three tests (S-481).
+- *Environment:* an accurate message about a river or a forest moves people to care; a
+  false one does real harm to the place and the people who depend on it (S-004).
+
+**The skill.** Model checking one message against the tests, then release (S-011):
+draft, test, revise. Lesson 6 practises verification, fair representation, and
+attribution.
 
 ## Procedure
 
@@ -190,3 +199,5 @@ Note one change they suggest.
   literacy for learners: Common Sense Education (S-063).
 - On the danger of a single story: Adichie (S-417); on worked examples: Kirschner, Sweller &
   Clark (2006) (S-011).
+- Encyclopaedia Britannica — Social media (S-481).
+- UNESCO — Education for Sustainable Development (S-004).

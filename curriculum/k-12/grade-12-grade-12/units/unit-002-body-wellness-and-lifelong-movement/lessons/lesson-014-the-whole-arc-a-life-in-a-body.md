@@ -132,12 +132,12 @@ through. Today you gather the pieces and see that they were always one thing.
 **The lenses, briefly.**
 
 - *Ethics:* all four threads are care — for oneself, for others, for the shared world.
-- *Egalitarianism:* every body is a whole body, every stage a whole stage — a commitment,
-  not a slogan.
+- *Egalitarianism:* every body is a whole body, every stage a whole stage — a
+  commitment, not a slogan.
 - *Global:* the framework is built to travel — a city, a farm, a coast, a mountain.
-- *Critical-thinking:* the integration sentence is a claim about your own life, to
-  test and revise as it unfolds.
-- **Technology & environment:** the arc is carried among devices, buildings, and
+- *Critical-thinking:* the integration sentence is a claim about your own life, to test
+  and revise as it unfolds.
+- *Technology and environment:* the arc is carried among devices, buildings, and
   climates that help or hinder, so part of the task is making that world easier for
   every body.
 

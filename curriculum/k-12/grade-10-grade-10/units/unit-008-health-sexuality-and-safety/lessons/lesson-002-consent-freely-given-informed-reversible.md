@@ -132,16 +132,16 @@ becomes physical: a yes you can trust, given and received with care.
   another.
 - *Global:* cultures express agreement and refusal differently, but a person decides
   over their own body — a shared human-rights commitment.
-- *Social-emotional:* reading a yes or no is a skill — tone, hesitation, body
-  language.
+- *Social-emotional:* reading a yes or no is a skill — tone, hesitation, body language.
 - *Critical-thinking:* a mnemonic is not the measure; the conditions are.
 
-**Safeguarding.** Learners may opt out of sharing; scenarios are fictional and mostly
+**Safety floor.** Learners may opt out of sharing; scenarios are fictional and mostly
 non-sexual, and nobody describes their own experience. If a question suggests coercion,
 abuse, or being unsafe, do not promise secrecy — follow your safeguarding procedure and
 refer to a trusted adult or local service.
 
-**The skill.** Model once, then release (S-011): practise asking, hearing a no, and withdrawing a yes.
+**The skill.** Model once, then release (S-011): practise asking, hearing a no, and
+withdrawing a yes.
 
 ## Procedure
 
@@ -194,3 +194,4 @@ home.
 - United Nations Convention on the Rights of the Child (protection and the right to
   be heard): <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
   (S-060).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

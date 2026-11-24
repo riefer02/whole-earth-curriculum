@@ -122,32 +122,37 @@ something. Hope is not pretending; hope is seeing a real seed and watering it.
 
 ## Facilitator note
 
-The idea to land: **contributing to peace and repair in a divided world means holding
-honesty (what is broken and hard to repair) together with hope (what is real to build
-on) — never despair, and never empty optimism. The learner names a concrete
-contribution, locally and globally, and the unit's artifacts are gathered as a record of
-a person who can disagree, repair, and build — with inquiry, not creed, as their
-guide.** Hold the case accurately and with care (S-392); present it as one real,
-contested attempt, not a perfect model. Do not prescribe what any learner's contribution
-must be; the skill is that it is honest *and* hopeful at once.
+**Tone.** Steady and hopeful: hope is a discipline here, not a mood.
 
-The **ethics** lens: honesty about harm is itself a moral commitment — reconciliation
-begins with the truth of what happened, and the TRC's trade of punishment for disclosure
-is a real ethical choice with real strengths and limits (S-392), held as a question, not
-a verdict. The **egalitarianism** lens: peace that papers over the imbalance between the
-powerful and the harmed is not peace — repair must center the people who were harmed,
-and a contribution that ignores power is only a wish. The **global** lens:
-reconciliation and repair are attempted worldwide — the TRC is one documented case, and
-humanitarian neutrality (the Red Cross and Red Crescent movement) is another real,
-global form of serving people in conflict regardless of side (S-329, S-392); neither is
-a universal template, and both are held as examples to learn from. The **technology**
-lens: in a connected world, both harm and repair now travel instantly — a lie can go
-global in seconds, and so can a truth or a gesture of repair — so a contribution must
-consider the tools it uses and who they reach (S-481, S-482). The **environment** lens:
-peace with one another is incomplete without peace with the living world — repairing a
-divided Earth is part of repairing a divided humanity, and a hopeful contribution can be
-as small and real as tending one place. Close: gather the unit's artifacts into the
-capstone journal.
+**The facts to land.**
+
+1. Contributing to peace and repair means holding honesty — what is broken — together
+   with hope — what is real to build on: never despair, never empty optimism.
+2. The learner names a concrete contribution, local and global; the unit's artifacts
+   record a person who can disagree, repair, and build.
+3. The Truth and Reconciliation Commission is one real, contested attempt, not a perfect
+   model (S-392); humanitarian neutrality — the Red Cross and Red Crescent — is another
+   global form of serving people in conflict regardless of side (S-329).
+
+**Don't overshoot.** Do not prescribe the contribution; the skill is that it is honest
+*and* hopeful.
+
+**The lenses, briefly.**
+
+- *Ethics:* reconciliation begins with truth; the TRC's trade of punishment for
+  disclosure is a real choice with real limits (S-392).
+- *Egalitarianism:* a peace that papers over the imbalance between powerful and harmed
+  is not peace; repair must centre the harmed.
+- *Global:* the TRC and humanitarian neutrality are two documented forms, and neither is
+  the model (S-329, S-392).
+- *Technology:* what is published and archived shapes which repair survives.
+- *Environment:* repair includes the shared place: a damaged river is part of what peace
+  restores.
+- *Social-emotional:* end on one concrete contribution, so nobody leaves carrying the
+  world.
+
+**The skill.** Model once, then release (S-011): one local and one global contribution,
+each with an honest limit.
 
 ## Procedure
 
@@ -212,3 +217,4 @@ second.
 - On peace, justice, and strong institutions as a shared goal: UN — SDG 16 (S-463). On the roots
   of conflict and the meaning of peace: Galtung — Violence, Peace, and Peace Research (S-462). On
   restorative justice: Zehr — Changing Lenses (S-161).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

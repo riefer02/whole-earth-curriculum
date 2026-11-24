@@ -122,21 +122,20 @@ strengthens the circle — a small act, planned carefully, is enough to begin.
 
 The idea to land: **belonging is not a given — it is built, and it has edges; a
 contribution is a planned action that draws people in, and naming who is on the edge is
-the honest first step.** The descriptive research: even arbitrary group assignment
-triggers in-group favoritism, so "who is in and who is out" runs deeper than intention
-(Tajfel's minimal-group work, S-232); and a community's boundaries are often imagined
-and built rather than natural (Anderson, S-415, on the nation as an "imagined
-community" — held as description, not insult). The inclusion ideal — that settings
-should treat difference as ordinary rather than deficient and remove barriers so every
-person is valued — is a value we hold (UNESCO, S-158; used as a value frame, not a
-factual claim).
+the first step.** The descriptive research: even arbitrary group assignment triggers
+in-group favoritism, so "who is in and who is out" runs deeper than intention (Tajfel's
+minimal-group work, S-232); and a community's boundaries are often imagined and built
+rather than natural (Anderson, S-415, on the nation as an "imagined community" — held as
+description, not insult). The inclusion ideal — settings treat difference as ordinary
+rather than deficient, removing barriers so every person is valued — is a value we hold
+(UNESCO, S-158; a value frame, not a factual claim).
 
 The **egalitarian** lens is central: notice whose belonging is limited by *structure* —
-a stair where there could be a ramp, a language only some speak, a cost some cannot
-meet — not by effort. The **ethics** lens: a contribution is a promise to act, and it
-should be kept small and doable. The **global/anthropological** lens: communities take
-many shapes — village, diaspora, chosen family, movement — and no shape is the default
-or the best; the circle is one map, not the only one. The **critical-thinking** lens:
+a stair where there could be a ramp, a language only some speak, a cost some cannot meet
+— not by effort. The **ethics** lens: a contribution is a promise to act, and it should
+be kept small and doable. The **global/anthropological** lens: communities take many
+shapes — village, diaspora, chosen family, movement — and no shape is the default or the
+best; the circle is one map, not the only one. The **critical-thinking** lens:
 distinguishing a real edge (who is actually left out) from a comfortable guess (who we
 assume is fine) is careful description, not opinion. Model one worked example (S-011),
 then let learners plan. Hold the tone hopeful — a small, specific contribution is enough

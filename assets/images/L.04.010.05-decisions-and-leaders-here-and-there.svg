@@ -22,7 +22,7 @@
   <line x1="142" y1="136" x2="178" y2="148" stroke="#4f6d7a" stroke-width="2"/>
 
   <!-- show of hands -->
-  <text x="120" y="250" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">...or a show of hands</text>
+  <text x="120" y="250" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">...or a show of hands</text>
   <circle cx="96" cy="286" r="11" fill="#e8c39e" stroke="#2b3a42" stroke-width="2"/>
   <line x1="96" y1="278" x2="96" y2="262" stroke="#2b3a42" stroke-width="2"/>
   <circle cx="134" cy="286" r="11" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
@@ -31,8 +31,8 @@
   <line x1="172" y1="278" x2="172" y2="262" stroke="#2b3a42" stroke-width="2"/>
 
   <text x="133" y="330" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">we talk, and sometimes vote</text>
-  <text x="133" y="352" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">(your own way may differ —</text>
-  <text x="133" y="368" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">write or draw it here)</text>
+  <text x="133" y="352" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">(your own way may differ —</text>
+  <text x="133" y="368" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">write or draw it here)</text>
 
   <!-- ===== right column: one other place ===== -->
   <rect x="262" y="56" width="234" height="330" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
@@ -51,17 +51,18 @@
 
   <!-- clan mother figure -->
   <circle cx="256" cy="196" r="11" fill="#e8c39e" stroke="#2b3a42" stroke-width="2"/>
-  <text x="330" y="300" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">leaders chosen by</text>
-  <text x="330" y="316" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">clan mothers</text>
+  <text x="330" y="300" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">leaders chosen by</text>
+  <text x="330" y="316" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">clan mothers</text>
 
-  <text x="379" y="252" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="bold" fill="#2b3a42">talk until all agree</text>
+  <text x="379" y="252" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="bold" fill="#2b3a42">talk until all agree</text>
   <text x="379" y="330" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">decisions by consensus</text>
-  <text x="379" y="352" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">under the Great Law of Peace</text>
+  <text x="379" y="352" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">under the Great Law of Peace</text>
 
   <!-- bottom note -->
-  <rect x="46" y="404" width="420" height="58" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+  <rect x="46" y="404" width="420" height="68" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="428" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Many places, many fair ways.</text>
-  <text x="256" y="448" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">No single way is the only right one — the test is whether every voice counts.</text>
+  <text x="256" y="446" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">No single way is the only right one —</text>
+  <text x="256" y="462" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">the test is whether every voice counts.</text>
 
-  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="11" font-style="italic" fill="#4f6d7a">Labels and captions, not color, carry the meaning.</text>
+  <text x="256" y="490" text-anchor="middle" font-family="sans-serif" font-size="12" font-style="italic" fill="#4f6d7a">Labels and captions, not color, carry the meaning.</text>
 </svg>

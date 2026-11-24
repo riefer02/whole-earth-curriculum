@@ -193,3 +193,4 @@ What did you notice that you had not before?
   NAMLE, "Key Questions," <https://namle.org/resources/key-questions/> (S-151).
 - On the digital divide: World Bank, World Development Report 2016,
   <https://www.worldbank.org/en/publication/wdr2016> (S-281).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

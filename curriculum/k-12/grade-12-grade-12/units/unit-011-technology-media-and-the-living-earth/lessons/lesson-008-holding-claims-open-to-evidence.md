@@ -193,3 +193,6 @@ what would change their mind. Notice how the question lands. Write one sentence 
 - On bias in science: Understanding Science — what is science? (S-250); on spurious
   correlation: Vigen — Spurious Correlations (S-307); on worked examples: Kirschner, Sweller &
   Clark (2006) (S-011).
+- Center for News Literacy (Stony Brook University) (S-278).
+- Encyclopaedia Britannica — Social media (S-481).
+- Intergovernmental Panel on Climate Change (S-005).

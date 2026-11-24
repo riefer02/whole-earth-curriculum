@@ -144,14 +144,15 @@ the learner is.
 **The lenses, briefly.**
 
 - *Intellectual:* the theme log is small, honest scholarship: notice, record, compare.
-- *Global:* works should span traditions, and learners may bring the epics of their
-  own heritage.
+- *Global:* works should span traditions, and learners may bring the epics of their own
+  heritage.
 - *Ethics:* themes are moral questions, and tracking them is thinking *with* a book.
 - *Egalitarianism:* no reader is "behind" for needing audio, translation, or a shorter
   work.
 - *Social-emotional:* long works stir real feeling — make room, and room to step back.
 
-**The skill.** Model once, then release (S-011): log three recurrences of one theme and how it changed. Lesson 9 tracks a second thread, argument.
+**The skill.** Model once, then release (S-011): log three recurrences of one theme and
+how it changed. Lesson 9 tracks a second thread, argument.
 
 ## Procedure
 

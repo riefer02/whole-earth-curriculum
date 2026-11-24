@@ -46,7 +46,7 @@
     <text x="226" y="235" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">6</text>
     <text x="226" y="160" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">9</text>
     <text x="365" y="424" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">buckets (x)</text>
-    <text x="192" y="230" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6" transform="rotate(-90 192 230)">liters (y)</text>
+    <text x="210" y="230" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6" transform="rotate(-90 210 230)">liters (y)</text>
 
     <line x1="290" y1="305" x2="440" y2="80" stroke="#e0a458" stroke-width="3" stroke-dasharray="7 5"/>
     <circle cx="290" cy="305" r="9" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>

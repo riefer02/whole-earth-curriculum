@@ -122,7 +122,7 @@ what makes a fair and effective response possible.
 The ideas to land: **greenhouse gases trap heat near the surface, and human burning of
 fossil fuels has strengthened this effect (S-438); the resulting climate change is
 coupled to ecology and to human society — it shifts what grows, where water is, and
-where people can live (S-005); the burden is distributed unjustly — those who emitted
+where people can live (S-005). The burden is distributed unjustly — those who emitted
 least are often most exposed; and the responses are mitigation (cutting emissions),
 adaptation (adjusting to changes), and restoration (repairing ecosystems), which must be
 weighed for justice, not only effectiveness.** Always connect difficulty to agency

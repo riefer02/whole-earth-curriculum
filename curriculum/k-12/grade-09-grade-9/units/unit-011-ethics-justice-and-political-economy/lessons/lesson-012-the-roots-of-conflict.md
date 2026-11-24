@@ -186,3 +186,4 @@ around, or fear, or unfairness — and what finally helped? Bring one sentence n
   Report," <https://wir2022.wid.world/> (S-464).
 - On peace, justice, and strong institutions as a shared goal: United Nations, Sustainable
   Development Goal 16, <https://sdgs.un.org/goals/goal16> (S-463).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

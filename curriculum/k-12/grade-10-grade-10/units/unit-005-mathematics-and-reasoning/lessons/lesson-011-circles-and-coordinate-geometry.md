@@ -136,8 +136,8 @@ geographer al-Idrisi made a celebrated world map with places located by position
 longer story (S-240). The **intellectual** lens: a proof explains *why* the inscribed
 angle is always half — not just that it looks so. The **critical-thinking** lens: test
 each theorem by measurement, and ask whether the measurement is a proof or an example.
-The **egalitarian** lens: these are tools for fair building, mapping, and dividing
-land — shared knowledge for everyone.
+The **egalitarian** lens: these are tools for fair building, mapping, and dividing land
+— shared knowledge for everyone.
 
 ## Procedure
 
@@ -197,3 +197,4 @@ it a right angle? Explain why to someone.
   <https://www.britannica.com/biography/Muhammad-al-Idrisi> (S-298).
 - On worked examples and guided practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- MacTutor History of Mathematics Archive (University of St Andrews) (S-240).

@@ -110,33 +110,30 @@ a game is not just points. Each is a way a people says: *we are here, together.*
 
 ## Facilitator note
 
-This lesson completes the strand's **comparison** and adds its emotional heart:
-**belonging**. Teach the game as *data*, not just fun: run a circle or passing game
-once with rules that quietly exclude some bodies (for example, "stand to pass"), then
-run it again with rules that include everyone (seated and standing, larger/slower
-ball, no "out"). Debrief honestly about who could and could not join, and why. This
-makes the abstract idea of inclusion physical and memorable.
+This lesson completes the strand's **comparison** and its emotional heart:
+**belonging**. Teach the game as *data*, not just fun: run a passing game once with
+rules that quietly exclude some bodies ("stand to pass"), then again with rules that
+include everyone (seated and standing, larger/slower ball, no "out"). Debrief who could
+and could not join, and why — inclusion becomes physical and memorable.
 
 **Dance traditions.** Name a few respectfully as living heritage: tinikling (a
 Philippine folk dance stepping between bamboo poles; S-116), Bharatanatyam (South
 India), capoeira (an Afro-Brazilian art of movement, song, and resistance born among
-enslaved Africans; S-325, and UNESCO-inscribed in 2014 per S-056), haka (Māori),
-and countless regional dances. **Sport traditions.** Name traditional games as living
-heritage — kabaddi and kho-kho (South Asia), sepak takraw (Southeast Asia), and
-others (UNESCO TSG; S-287) — alongside globally played sports. In every case,
-emphasize: these are *living traditions practiced by real communities*, not museum
-pieces.
+enslaved Africans; S-325, UNESCO-inscribed 2014 per S-056), haka (Māori), and countless
+regional dances. **Sport traditions.** Name traditional games as living heritage —
+kabaddi and kho-kho (South Asia), sepak takraw (Southeast Asia), and others (UNESCO TSG;
+S-287) — alongside globally played sports. Emphasize: these are *living traditions
+practiced by real communities*, not museum pieces.
 
-**Fair play.** UNESCO's International Charter holds that sport and physical activity
-are a fundamental right and that opportunities must be inclusive of every person
-regardless of ability (S-342). Tie this to the game: fair play means *everyone can
-play*.
+**Fair play.** UNESCO's International Charter holds sport and physical activity a
+fundamental right, inclusive of every person regardless of ability (S-342). Tie this to
+the game: fair play means *everyone can play*.
 
-The **ethics** lens: a game that excludes some bodies is not fair, however exciting.
-The **egalitarian** lens: who gets to dance, to play, to belong — and who is left on
-the edge? The **global** lens: dance and sport are human universals expressed in a
-thousand local forms. The **technology** lens: broadcast sport and viral dance videos
-spread traditions globally — sometimes amplifying, sometimes flattening their meaning.
+The **ethics** lens: a game that excludes some bodies is not fair, however exciting. The
+**egalitarian** lens: who gets to dance, to play, to belong — and who is left on the
+edge? The **global** lens: dance and sport are human universals expressed in a thousand
+local forms. The **technology** lens: broadcast sport and viral dance videos spread
+traditions globally — sometimes amplifying, sometimes flattening their meaning.
 
 ## Procedure
 
@@ -188,3 +185,4 @@ what you saw people *share*.
   <https://www.britannica.com/sports/capoeira> (S-325).
 - NCCA Philippines — tinikling (Philippine folk dance):
   <https://ncca.gov.ph/> (S-116).
+- UNESCO — Intangible Cultural Heritage (S-056).

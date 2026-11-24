@@ -151,7 +151,8 @@ nothing.
 - *Community:* the makers' community, not the market, decides what may be shared.
 
 **The skill.** Model the sort once, then release (S-011) on four cards:
-learn-pay-credit; copy a sacred design, no credit; a named beginner borrowing with permission; "tribal-style" goods flattening many peoples.
+learn-pay-credit; copy a sacred design, no credit; a named beginner borrowing with
+permission; "tribal-style" goods flattening many peoples.
 
 ## Procedure
 

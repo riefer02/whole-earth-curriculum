@@ -132,8 +132,8 @@ street.
 
 - *Community:* the spine — the rings are made of relationship, not distance.
 - *Global:* no form ranks above another.
-- *Egalitarianism:* power and resources move unevenly; notice who is connected and who is
-  left out.
+- *Egalitarianism:* power and resources move unevenly; notice who is connected and who
+  is left out.
 - *Ethics:* my choices ripple outward — a purchase, a vote, a kindness.
 - *Environment:* weather, water, and species cross every human border, and the
   technologies that move food, goods, and messages are the threads.

@@ -119,28 +119,35 @@ to *own* what we believe instead of merely carrying it.
 
 ## Facilitator note
 
-The idea to land: **values are formed by many influences — family, community, culture,
-faith, schooling, peers, media, experience — and coming to own one's values means
-noticing which were inherited, which were borrowed, and which are being chosen; the
-question of what one values is held open, not settled as a creed.** This is a
-reflection, not a confession and not a verdict. Protect privacy: learners may share as
-much or as little as they choose, and there is no "right" set of roots. Do not judge any
-learner's values or their sources; the skill is self-awareness, not agreement.
+**Tone.** Reflective and unjudging: a map to draw, not a confession to make.
 
-The **ethics** lens: reflecting on one's own values is itself an ethical act — the
-difference between values that are *examined* and values that are merely *carried*. The
-**egalitarianism** lens: ask *whose values get treated as the default and whose are
-dismissed* — a learner whose family's values are honored in public has a different
-starting point than one whose are mocked; the classroom must make room for every
-learner's roots without ranking them. The **global** lens: values differ across
-cultures, and that diversity is a shared human good (S-389); the lesson models that no
-single culture's values are the measuring stick. The **technology** lens: media and
-screens are now among the loudest teachers of values, and often the least examined —
-naming "media" as one root invites learners to ask what a feed is quietly teaching them
-(S-481, S-482). The **environment** lens: for many people, values are inseparable from a
-place — land, water, seasons — and the love of a place is a real root, one the map
-should make room for. Preview: Lesson 4 asks how these values will be *tested* in the
-world.
+**The facts to land.**
+
+1. Values are formed by many influences — family, community, culture, faith, schooling,
+   peers, media, experience — and owning them means noticing which were inherited,
+   borrowed, or chosen.
+2. This is a reflection, not a confession and not a verdict; there is no "right" set of
+   roots.
+3. Do not judge any learner's values or their sources; the skill is self-awareness, not
+   agreement.
+
+**Don't overshoot.** Never treat a family's values as a problem to be outgrown.
+
+**The lenses, briefly.**
+
+- *Ethics:* the difference between values that are examined and values merely carried.
+- *Egalitarianism:* ask whose values are treated as the default and whose are dismissed;
+  the classroom must hold every learner's roots without ranking them.
+- *Global:* values differ across cultures, and that diversity is a shared human good
+  (S-389).
+- *Technology:* media are among the loudest teachers of values and the least examined —
+  invite learners to ask what a feed is quietly teaching them (S-481, S-482).
+- *Environment:* for many people values are inseparable from a place — land, water,
+  seasons — and the love of a place is a real root.
+- *Social-emotional:* learners share as much or as little as they choose.
+
+**The skill.** Model one map, then release (S-011): three roots, one still forming.
+Lesson 4 asks how these values will be tested.
 
 ## Procedure
 
@@ -196,3 +203,5 @@ changed?" Write their answer and your own in your journal — two lines each.
 - On cultural diversity as a shared good: UNESCO — Universal Declaration on Cultural Diversity
   (S-389). On media as a teacher of values: Britannica — Social media (S-481); Pariser — The
   Filter Bubble (S-482).
+- On modelling before practice: Kirschner, Sweller & Clark — Why Minimal Guidance Does Not
+  Work (S-011).

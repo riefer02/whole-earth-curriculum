@@ -134,14 +134,15 @@ to solve, not a verdict.
 
 - *Ethics:* asking is fairness to oneself and the task; pretending you don't need it
   wastes time.
-- *Egalitarianism:* not everyone was taught that asking is safe; make it honoured here,
-  and build a **community** network, since some learners have fewer people to ask.
+- *Egalitarianism:* not everyone was taught that asking is safe; build a **community**
+  network, since some learners have fewer people to ask.
 - *Global:* cultures differ in how asking is valued — humility or weakness, neither the
   truth; read the room, still ask.
-- **Technology & environment:** a help channel can be a person, a library, a mentor, a
-  hotline, or a trusted source; not every answer is trustworthy.
 - *Social-emotional:* asking feels vulnerable and practice lowers the fear; watch for
   learners quietly drowning — the invitation is part of the lesson.
+
+- *Technology:* a help channel can be a person, a library, a mentor, or a hotline.
+- *Critical-thinking:* tell a real limit from a preference before you ask.
 
 **The skill.** Model once, then release (S-011): name your limit, pick one person, ask
 in one clear sentence.

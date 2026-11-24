@@ -140,14 +140,14 @@ to add fuel while staying honest about your own needs.
 
 **The lenses, briefly.**
 
-- *Social-emotional:* the spine — it begins with noticing your own body; real hurts
-  may surface, so invite, never force.
+- *Social-emotional:* the spine — it begins with noticing your own body; real hurts may
+  surface, so invite, never force.
 - *Ethics:* cooling the room is not agreeing; honesty and self-respect stay.
 - *Egalitarianism:* the moves work for everyone, but people routinely dismissed or
   punished more harshly may feel less safe cooling things down — a justice fact.
 - *Critical-thinking:* name your own pattern — what is your fuel, what is your water?
-- *Global:* every culture keeps peace and saves face in its own way; this is one
-  toolkit among many.
+- *Global:* every culture keeps peace and saves face in its own way; this is one toolkit
+  among many.
 
 **The skill.** Model the ramp once, then release (S-011): with a partner, catch the rise
 and drop your voice. Lesson 4 asks when a conflict is too big to cool alone.

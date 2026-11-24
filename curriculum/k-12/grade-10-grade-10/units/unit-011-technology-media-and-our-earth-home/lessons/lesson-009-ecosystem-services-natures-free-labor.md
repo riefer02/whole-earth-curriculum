@@ -137,10 +137,10 @@ for all; the natural version is often irreplaceable.
 - *Environment:* the spine — count what nature does before it is gone.
 - *Egalitarianism:* the people closest to the service are usually furthest from a
   substitute.
-- *Global:* a mangrove nursery, a mountain watershed, a desert's shade — no ecosystem
-  is the default.
-- *Ethics:* treating free services as worthless is a moral error, not just an
-  accounting one.
+- *Global:* a mangrove nursery, a mountain watershed, a desert's shade — no ecosystem is
+  the default.
+- *Ethics:* treating free services as worthless is a moral error, not just an accounting
+  one.
 - *Technology:* substitution is partial, costly, and sometimes impossible.
 
 **The skill.** Model once, then release (S-011): name four services from one place you
@@ -196,3 +196,4 @@ shade, food, clean water, a pollinator. Ask: what would you do if it stopped?
 - On soil as a living surface: FAO Soils Portal, key definitions, <https://www.fao.org/soils-portal/about/all-definitions/en/> (S-259).
 - On the water cycle and clean water: USGS, Water Science School, "The Water Cycle,"
   <https://www.usgs.gov/special-topics/water-science-school/science/fundamentals-water-cycle> (S-212).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

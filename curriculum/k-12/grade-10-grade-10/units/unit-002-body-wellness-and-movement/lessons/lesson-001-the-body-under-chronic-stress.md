@@ -140,8 +140,8 @@ these practices settle the body — they do not cure it.
 - *Physical:* teach the two branches by feeling them, then practise the exhale.
 - *Social-emotional:* this can touch real hardship — invite, never force, and let
   learners choose what to share.
-- *Ethics:* understanding and agency, never blame; a learner under chronic stress is
-  not "doing it wrong".
+- *Ethics:* understanding and agency, never blame; a learner under chronic stress is not
+  "doing it wrong".
 - *Egalitarianism:* poverty, displacement, discrimination, and unsafe conditions impose
   chronic stress on whole communities — a justice question, not only a habit.
 - *Global:* every culture has words for distress and ways of settling the body; the

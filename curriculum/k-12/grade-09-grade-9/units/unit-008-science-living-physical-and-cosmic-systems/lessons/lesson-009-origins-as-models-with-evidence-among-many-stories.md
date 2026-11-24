@@ -185,3 +185,4 @@ answers. Then share the scientific model — and notice how both can be true in 
   <https://pubs.usgs.gov/gip/geotime/age.html> (S-308).
 - On inquiry over creed (the governing commitment): [`docs/philosophy.md`](../../../../../docs/philosophy.md)
   §11.
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

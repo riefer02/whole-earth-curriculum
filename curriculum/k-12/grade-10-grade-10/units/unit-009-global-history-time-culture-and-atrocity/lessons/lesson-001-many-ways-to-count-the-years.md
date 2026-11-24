@@ -202,3 +202,4 @@ points in the year, and say why.
 - On the Maya calendar and its cycles: Encyclopaedia Britannica, "Maya,"
   <https://www.britannica.com/topic/Maya-people> (S-378), and the Smithsonian's
   overview of Maya astronomy (S-204).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

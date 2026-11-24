@@ -139,7 +139,7 @@ within them, not pretending they are absent.
   coast.
 - *Critical-thinking:* a "universal" solution is a claim to test against lives unlike
   your own.
-- **Technology & environment:** a ramp and a screen reader are the same idea in two
+- *Technology and environment:* a ramp and a screen reader are the same idea in two
   materials.
 
 **The skill.** Teach the four-part proposal scaffold explicitly (Kirschner, Sweller &

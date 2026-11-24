@@ -20,7 +20,11 @@ age-inappropriate.
    (marker dots with no leader lines); text running off the SVG canvas; a stick-figure
    body. These are usability defects, not style preferences — a learner cannot read a
    diagram whose labels point at nothing.
-Return a concise verdict as your final message — the word `passed` or `blocked`, then
+6. Check the two things neither tool proves on its own: that every `S-nnn` cited in the
+   body also appears in `## Resources` (`npm run lint:sources`), and that each note
+   carries one bullet per declared `cross_cutting_lenses` entry (`npm run audit` reports
+   these as `lens-not-in-note`). A lens dropped during an edit is a silent regression.
+7. Return a concise verdict as your final message — the word `passed` or `blocked`, then
    one specific note naming what you verified and one concrete observation (which
    IDs/fields you checked, an example objective or heading). Boilerplate like "passes
    checks" is a skip, not a review. Do NOT run `loop:review` yourself — the orchestrator

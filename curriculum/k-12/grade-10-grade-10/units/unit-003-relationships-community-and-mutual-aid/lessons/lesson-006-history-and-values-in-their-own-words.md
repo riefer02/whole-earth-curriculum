@@ -142,7 +142,7 @@ trophy.
 - *Social-emotional:* another community's history can stir discomfort, admiration, and
   humility — invite, never force.
 
-**Facilitator care.** If a learner's chosen community is Indigenous or otherwise
+**Safety floor.** If a learner's chosen community is Indigenous or otherwise
 marginalised, steer them to that community's own sources, and treat consent and
 attribution as non-negotiable.
 

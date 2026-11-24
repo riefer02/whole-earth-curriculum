@@ -115,7 +115,7 @@ power to decide*.
 
 ## Facilitator note
 
-**Tone.** Grave and clear: name the feeling before the facts, and never end on despair.
+**Tone.** Grave: name the feeling before the facts, and never end on despair.
 
 **The facts to land.**
 
@@ -139,13 +139,12 @@ horror — connect it to the agency of those who endured and resisted.
 - *Egalitarianism:* the map is not "explorers discovering"; peoples knew these routes
   before any empire claimed them.
 - *Global:* one human story, told across every continent.
-- *Technology:* the astrolabe, the sail, the rail line, and the jet changed how far
-  and fast people moved — and who could afford it (S-379).
+- *Technology:* the astrolabe, the sail, the rail line, and the jet changed how far and
+  fast people moved — and who could afford it (S-379).
 - *Environment:* drought, flood, and climate shift have always pushed people (S-383).
 
 **The skill.** Teach the tracing explicitly (S-011), then release: map one movement and
-mark where choice ends and force begins. Lesson 10 synthesises how movement shaped the
-story.
+mark where choice ends and force begins.
 
 ## Procedure
 
@@ -206,3 +205,4 @@ or forced. Write those three answers, and one sentence on what the move set in m
 - On the transatlantic slave trade: SlaveVoyages (S-322); UNESCO, Routes of Enslaved Peoples
   (S-274).
 - On modern displacement: UNHCR Global Trends (S-493); IOM climate action (S-383).
+- Encyclopaedia Britannica — Astrolabe (instrument) (S-379).

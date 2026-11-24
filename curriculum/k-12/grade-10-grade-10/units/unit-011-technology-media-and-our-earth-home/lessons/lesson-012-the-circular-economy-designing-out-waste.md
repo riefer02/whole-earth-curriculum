@@ -133,9 +133,9 @@ reuse, and shared tools have long been ordinary in many cultures.
 **The lenses, briefly.**
 
 - *Environment:* the spine — materials either return or they leak.
-- *Technology:* how a thing is made decides whether its materials can come back
-  (S-452).
-- *Egalitarianism:* a linear economy exports harm to those with least power to refuse it.
+- *Technology:* how a thing is made decides whether its materials can come back (S-452).
+- *Egalitarianism:* a linear economy exports harm to those with least power to refuse
+  it.
 - *Global:* circularity is old practice in many places, not a new invention.
 - *Ethics:* treating the Earth as endless supply and endless bin is a moral choice.
 
@@ -197,3 +197,4 @@ reused, or returned to a loop — and what would have to be different for that t
   <https://www.unep.org/resources/publication/food-waste-index-report-2024> (S-410).
 - On plastic pollution and the move to a circular economy: UNEP, Plastic Pollution,
   <https://www.unep.org/plastic-pollution> (S-216).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

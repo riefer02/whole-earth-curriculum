@@ -143,7 +143,7 @@ is shared, never loaded onto one plate — say this out loud.
   dramatically, raising some and lowering others.
 - *Environment:* waste wastes the water, land, and energy that made the food (S-410).
 
-**Safeguarding.** A learner who is poor, food-insecure, or whose family's food is not
+**Safety floor.** A learner who is poor, food-insecure, or whose family's food is not
 "green" must never be made to feel at fault; name that rule before the exercise.
 
 **The skill.** Teach the trace-the-meal example explicitly, then release (S-011): trace

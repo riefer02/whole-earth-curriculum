@@ -140,10 +140,12 @@ explicit-instruction side of a skill (S-011): model the plan, guide, then releas
   one song — worth is not measured in scale.
 - *Global:* self-paced learning guides are used across the world (S-008), not one
   culture's luxury.
-- **Technology & environment:** digital tools are powerful resources *and* distractions;
-  name the one you will manage.
-- *Social-emotional:* goals stir hope and self-doubt; keep it small enough to start,
-  and honour "not sure yet".
+- *Social-emotional:* goals stir hope and self-doubt; keep it small enough to start, and
+  honour "not sure yet".
+
+- *Technology:* digital tools are resources *and* distractions; name the one you will
+  manage.
+- *Critical-thinking:* a goal you cannot check is a wish, not a plan.
 
 **The skill.** Model a complete worked example, then release (S-011): write one goal,
 one resource, one way to check.
@@ -201,3 +203,4 @@ a week — a human "milestone" on your loop.
   <https://doi.org/10.1177/1529100612453266> (S-039).
 - On modeling + guided practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- Mitra — Hole in the Wall / Self-Organized Learning Environments (SOLE) (S-013).

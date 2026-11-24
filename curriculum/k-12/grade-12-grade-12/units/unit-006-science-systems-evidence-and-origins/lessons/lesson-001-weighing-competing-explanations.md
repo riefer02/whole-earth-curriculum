@@ -117,10 +117,10 @@ That is weighing, and it is a move every person, in every place, can make.
 
 ## Facilitator note
 
-The idea to land: **competing explanations are weighed by the same three public
-criteria — evidence, coherence, and falsifiability — not by who said them or how they
-feel.** Teach the worked example explicitly, then let learners run the weigh on a fresh
-case (S-011). Keep two things distinct: a *factual* question (which explanation fits the
+The idea to land: **competing explanations are weighed by the same three public criteria
+— evidence, coherence, and falsifiability — not by who said them or how they feel.**
+Teach the worked example explicitly, then let learners run the weigh on a fresh case
+(S-011). Keep two things distinct: a *factual* question (which explanation fits the
 evidence better?) and a *value* question (which outcome would we prefer?) — because the
 strongest explanation can be one we wish were not true.
 

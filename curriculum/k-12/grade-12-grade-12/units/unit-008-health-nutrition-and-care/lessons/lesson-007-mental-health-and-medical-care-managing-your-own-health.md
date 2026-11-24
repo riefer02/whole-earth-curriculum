@@ -124,7 +124,7 @@ disclose anything.
 
 **The facts to land.**
 
-1. Managing your own health includes your mind: noticing when you need support, knowing
+1. Managing your health includes your mind: noticing when you need support, knowing
    where to turn, advocating for yourself — and asking for help is a strength.
 2. Mental-health care is not equally available: cost, stigma, and location gate it.
 3. Digital media can lift (connection, learning) and weigh down (comparison, disrupted
@@ -138,17 +138,17 @@ help as the ordinary response.
 
 - *Ethics:* a mind deserves the same care and respect as a body; a person in distress
   deserves belief, not judgment.
-- *Egalitarianism:* recognising the unequal access is part of advocating for yourself and
-  others.
-- *Global:* cultures speak of mental health differently, and the WHO frames
-  adolescence as a formative time for building wellbeing habits (S-311).
+- *Egalitarianism:* recognising the unequal access is part of advocating for yourself
+  and others.
+- *Global:* cultures speak of mental health differently, and the WHO frames adolescence
+  as a formative time for building wellbeing habits (S-311).
 - *Technology:* the same screen that connects can compare and disrupt sleep.
 - *Environment:* a safe, quiet, green place is itself a support for mental health.
 
-**Body image.** Worth is never measured in size or shape; appreciation means what a body
-*does*, not how it *looks* (S-407, S-411).
+**Emotional safety.** Worth is never measured in size or shape; appreciation means what
+a body *does*, not how it *looks* (S-407, S-411).
 
-**Safeguarding.** If a learner shows signs of distress, follow your local safeguarding
+**Safety floor.** If a learner shows signs of distress, follow your local safeguarding
 path quietly and promptly (S-051).
 
 **The skill.** Teach one filled-in side as a worked example, then release (S-011): your

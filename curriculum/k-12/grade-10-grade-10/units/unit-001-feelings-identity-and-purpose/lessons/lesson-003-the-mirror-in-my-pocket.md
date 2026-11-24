@@ -138,8 +138,8 @@ philosophy §11, §12).
   platform lifts some images and hides others.
 - *Ethics:* honesty about the gap between a feed and a real life is a kindness to
   oneself and to others who show only highlights.
-- *Global:* the pressure to curate differs across cultures; no single idea of success
-  is universal.
+- *Global:* the pressure to curate differs across cultures; no single idea of success is
+  universal.
 - *Social-emotional:* this touches sore spots — invite, never force; "pass" is always
   allowed.
 - *Critical-thinking:* practise telling the *image* from the *evidence*; a feed is a

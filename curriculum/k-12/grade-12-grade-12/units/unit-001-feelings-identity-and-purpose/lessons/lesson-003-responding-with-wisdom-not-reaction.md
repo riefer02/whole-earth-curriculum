@@ -126,16 +126,16 @@ cost (Gross, S-225). The appraisal idea — that a thought or interpretation sha
 feeling an event produces — is a well-established account, offered descriptively (Beck,
 S-159), *not as therapy and not as a command to feel differently.*
 
-The **ethics** lens: a response that carries insight and care is partly an ethical
-claim — about what the other person is owed even when I am upset. The **egalitarianism**
-lens: who is *expected* to stay composed and who is allowed to be "passionate" is not
-even across people; regulation is a skill everyone deserves to learn, never a demand
-placed only on some. The **global** lens: how much feeling may be shown, and to whom,
-varies by culture (display rules) — the loop is a tool, not one culture's script for
-"calmness." The **critical-thinking** lens: the *reframe* step is a check on the
-accuracy of my own interpretation, not a trick to feel good.
+The **ethics** lens: a response that carries insight and care is partly an ethical claim
+— about what the other person is owed even when I am upset. The **egalitarianism** lens:
+who is *expected* to stay composed and who is allowed to be "passionate" is not even
+across people; regulation is a skill everyone deserves to learn, never a demand placed
+only on some. The **global** lens: how much feeling may be shown, and to whom, varies by
+culture (display rules) — the loop is a tool, not one culture's script for "calmness."
+The **critical-thinking** lens: the *reframe* step is a check on the accuracy of my own
+interpretation, not a trick to feel good.
 
-**Safeguarding:** slips are everyday, one-step-removed moments. Do not require any
+**Safety floor.** slips are everyday, one-step-removed moments. Do not require any
 learner to disclose their own conflicts. If a learner brings up real distress, honor it
 and redirect to support, not to the exercise.
 

@@ -122,7 +122,7 @@ The ideas to land: **a technology's true cost is its life-cycle cost — the ene
 materials spent in extracting raw materials, manufacturing, using, and disposing of it;
 embodied energy is the energy already invested before use; renewable inputs (sun, wind,
 water) replenish, while nonrenewable inputs (fossil fuels, mined minerals) run down
-(S-095); and the disposal stage is a real, growing burden — e-waste is the world's
+(S-095). The disposal stage is a real, growing burden — e-waste is the world's
 fastest-growing waste stream and carries health and environmental harms concentrated on
 poorer communities (S-397).** Teach the four stages with a worked example (S-011), and
 hold the *trade-off* honestly: no technology is cost-free; the question is which costs,

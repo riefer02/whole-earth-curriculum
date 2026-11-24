@@ -149,10 +149,12 @@ gathered work is worthy of celebration.
   equaliser.
 - *Global:* keeping proof of one's becoming has cousins everywhere — the apprentice's
   finished piece, the healer's recorded cases, the storyteller's remembered stories.
-- **Technology & environment:** paper or screen both serve; what we preserve, and what
-  we let go, is itself a judgment.
 - *Social-emotional:* pride, and sometimes "is this enough?" — yes; growth is the
   measure.
+
+- *Technology:* a portfolio can live on paper or on screen; what we keep is itself a
+  judgment.
+- *Critical-thinking:* the check reports what happened, not what you hoped.
 
 **The skill.** Model the action-log entry once, then release (S-011): one step, one
 check, one artifact kept.

@@ -139,8 +139,8 @@ heart; the point is **awareness and choice**, not guilt (philosophy §8, §11).
   much feeling is shown, and none sets the right amount.
 - *Egalitarianism:* whose suffering is shown, and whose is left out, shapes whom we feel
   with — ask it aloud.
-- *Ethics:* feeling with someone carries a small obligation — listen, respond, act
-  when you can.
+- *Ethics:* feeling with someone carries a small obligation — listen, respond, act when
+  you can.
 - *Social-emotional:* real pain may surface, including your own — invite, never force;
   watch for learners carrying heavy stories.
 - *Critical-thinking:* an appeal is designed to move you; ask who chose it and what it
@@ -203,3 +203,4 @@ one way you will keep your empathy awake online, and ask what they do.
   <https://www.commonsensemedia.org/research> (S-226).
 - On modeling + guided practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- Pariser (2011) — The Filter Bubble: What the Internet Is Hiding from You (S-482).

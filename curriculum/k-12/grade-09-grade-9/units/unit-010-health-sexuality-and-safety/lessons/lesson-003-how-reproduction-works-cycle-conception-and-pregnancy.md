@@ -125,27 +125,26 @@ life, and sort accurate information from myth.
 **The facts to land.**
 
 1. **The cycle** is a normal rhythm in bodies with a uterus: about **28 days** on
-average, **21–35** common, more variation normal.
-2. **Ovulation** usually happens mid-cycle; the **lining thickens** for a possible
-pregnancy, then sheds as **menstruation** if none occurs.
-3. **Conception:** if **sperm** meets the egg in the fallopian tube, **fertilization**
-can occur; the fertilized egg can **implant** and grow — a **pregnancy** of about **40
-weeks**.
-4. **Timing:** sperm survive several days, an egg about a day — why timing matters for
-conceiving or avoiding pregnancy (WHO, S-261; UNESCO CSE, S-412).
+average, **21–35** common, more variation normal. 2. **Ovulation** usually happens
+mid-cycle; the **lining thickens** for a possible pregnancy, then sheds as
+**menstruation** if none occurs. 3. **Conception:** if **sperm** meets the egg in the
+fallopian tube, **fertilization** can occur; the fertilized egg can **implant** and grow
+— a **pregnancy** of about **40 weeks**. 4. **Timing:** sperm survive several days, an
+egg about a day — why timing matters for conceiving or avoiding pregnancy (WHO, S-261;
+UNESCO CSE, S-412).
 
 **The lenses, briefly.**
 
 - *Egalitarianism:* the cycle is normal and healthy, not a curse; some have none, and
 some people cannot become pregnant — biology, not failing.
 - *Ethics:* accurate knowledge lets a person make their own informed choices; no one
-else's shame or silence should decide for them.
+else's shame or silence should decide.
 - *Global:* cultures have made sense of menstruation many ways — celebrating, quiet,
-rules — all met with curiosity; the biology is the same.
+rules — all met with curiosity; the biology is one.
 - *Technology:* ultrasound and assisted reproduction changed what people can know and
 choose; access is uneven — a justice question.
-- **Intellectual and critical-thinking:** a feedback system, not a list of days — and
-"normal" is a range.
+- *Intellectual:* the cycle is a feedback system, not a list of days.
+- *Critical-thinking:* "normal" is a range.
 
 **The skill.** Explicit instruction: model the cycle wheel and conception sequence once
 (S-011).

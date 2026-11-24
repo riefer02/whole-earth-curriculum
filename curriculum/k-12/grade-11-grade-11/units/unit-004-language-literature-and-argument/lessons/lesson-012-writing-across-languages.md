@@ -120,15 +120,15 @@ The idea to land: **adapting one's own writing across languages is an act of aut
 not a test — the learner translates a passage or composes in a second language, then
 reflects on gain and loss, holding multilingualism as wealth.** Not every learner will
 be fluent in a second language; the standard says "where possible" — a learner with one
-language translates *into a register they know less* or *describes* what would change,
-and that is genuine adaptation too. Never rank learners by how many languages they have
-(egalitarian lens). Home language first: the original is written in the learner's
-strongest language before any crossing (philosophy; unit overview).
+language translates *into a register they know less* or *describes* what would change;
+that is genuine adaptation too. Never rank learners by how many languages they have
+(egalitarian lens). Home language first: write the original in the learner's strongest
+language before any crossing (philosophy; unit overview).
 
-Model once, then let learners cross (worked example → guided practice → independent
-work; S-011). The **global** lens: self-translation is a living practice worldwide —
-writers who publish in more than one language (Ngũgĩ translating himself between Gikuyu
-and English, S-424) and communities that carry stories across tongues every day. The
+Model once, then let learners cross (worked example → guided practice → independent;
+S-011). The **global** lens: self-translation is a living practice worldwide — writers
+who publish in more than one language (Ngũgĩ translating himself between Gikuyu and
+English, S-424), and communities carrying stories across tongues daily. The
 **egalitarian** lens: a "second language" is not worth less than a first, and an accent
 or an imperfect rendering is not a failure. The **intellectual** lens: the crossing is a
 *lens* — seeing your own sentence in another grammar shows you what it assumed. The

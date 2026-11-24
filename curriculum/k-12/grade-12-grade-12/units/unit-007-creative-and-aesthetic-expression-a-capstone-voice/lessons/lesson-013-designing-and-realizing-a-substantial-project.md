@@ -201,3 +201,4 @@ well or where it fails.
   Universal Design (S-369).
 - On community fabrication labs: Fab Foundation (S-451); on circular design: Ellen MacArthur
   Foundation (S-452).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

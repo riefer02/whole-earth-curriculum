@@ -192,3 +192,4 @@ something new? Compare with the miasma-to-germs story.
 - On hand hygiene as current practice: WHO hand-hygiene guidance (S-016).
 - On explicit instruction and worked examples: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- Bradford Hill (1965) — The Environment and Disease: Association or Causation? (S-306).

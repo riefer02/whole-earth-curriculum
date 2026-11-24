@@ -146,11 +146,11 @@ community, full stop" — the design and the divides decide.
 - *Community:* ask what holds it together and what sustains it over time.
 - *Egalitarianism:* the digital divide, platform power, and harassment gate people out;
   that is justice, not a personal shortfall.
-- *Ethics:* a welcoming room is shaped to be fair; an exclusive one shapes people to
-  be cruel.
+- *Ethics:* a welcoming room is shaped to be fair; an exclusive one shapes people to be
+  cruel.
 - *Critical-thinking:* who is missing from this room, and why?
-- *Social-emotional:* being welcomed or shut out can shape a whole year — invite,
-  never force.
+- *Social-emotional:* being welcomed or shut out can shape a whole year — invite, never
+  force.
 - *Global:* the same tools build different rooms in different places.
 
 **The skill.** Model one example once, then release (S-011): map one online room's rules

@@ -138,10 +138,10 @@ is real but contested (S-226, S-481). Say feeds *can* amplify mood, not that a p
   rituals for carrying and releasing it (this sets up D01.S1.11).
 - *Egalitarianism:* when a mood sweeps a group, quieter people are steamrolled; noticing
   contagion is noticing whom it silences.
-- *Ethics:* spreading a feeling is an act with consequences; before amplifying a
-  panic, ask whether it is true and whether it helps.
-- *Social-emotional:* some learners have been caught in real pile-ons — hold it
-  gently, let "pass" stand.
+- *Ethics:* spreading a feeling is an act with consequences; before amplifying a panic,
+  ask whether it is true and whether it helps.
+- *Social-emotional:* some learners have been caught in real pile-ons — hold it gently,
+  let "pass" stand.
 - *Critical-thinking:* virality is not evidence; a mood repeated many times is still a
   claim to check.
 

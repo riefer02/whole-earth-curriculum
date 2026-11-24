@@ -17,19 +17,19 @@
   <g font-family="sans-serif" font-size="13" text-anchor="middle" fill="#222222">
     <rect x="40" y="398" width="96" height="52" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text fill="#222222" text-anchor="middle" font-size="13" x="88" y="419">reliability</text>
-    <text text-anchor="middle" x="88" y="437" font-size="11" fill="#4f6d7a">do what I say</text>
+    <text text-anchor="middle" x="88" y="437" font-size="12" fill="#4f6d7a">do what I say</text>
 
     <rect x="148" y="398" width="96" height="52" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text fill="#222222" text-anchor="middle" font-size="13" x="196" y="419">honesty</text>
-    <text text-anchor="middle" x="196" y="437" font-size="11" fill="#4f6d7a">tell the truth</text>
+    <text text-anchor="middle" x="196" y="437" font-size="12" fill="#4f6d7a">tell the truth</text>
 
     <rect x="256" y="398" width="96" height="52" rx="6" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text fill="#222222" text-anchor="middle" font-size="13" x="304" y="419">care</text>
-    <text text-anchor="middle" x="304" y="437" font-size="11" fill="#4f6d7a">want their good</text>
+    <text text-anchor="middle" x="304" y="437" font-size="12" fill="#4f6d7a">want their good</text>
 
     <rect x="364" y="398" width="108" height="52" rx="6" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
     <text fill="#222222" text-anchor="middle" font-size="13" x="418" y="419">repair</text>
-    <text text-anchor="middle" x="418" y="437" font-size="11" fill="#222222">when I break it</text>
+    <text text-anchor="middle" x="418" y="437" font-size="12" fill="#222222">when I break it</text>
   </g>
 
   <!-- Figure offering support -->

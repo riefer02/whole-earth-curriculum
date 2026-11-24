@@ -24,7 +24,7 @@
     <circle cx="46.5" cy="197" r="2.3" fill="#2b3a42"/>
     <circle cx="61.5" cy="197" r="2.3" fill="#2b3a42"/>
     <path d="M48 207 Q54 212 60 207" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
-    <text x="54" y="444" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">woven cloth</text>
+    <text x="54" y="444" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">woven cloth</text>
   </g>
 
   <!-- ================= figure 2: a drum ================= -->
@@ -44,7 +44,7 @@
     <circle cx="145.5" cy="198" r="2.3" fill="#2b3a42"/>
     <circle cx="160.5" cy="198" r="2.3" fill="#2b3a42"/>
     <path d="M147 208 Q153 213 159 208" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
-    <text x="153" y="444" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">a drum</text>
+    <text x="153" y="444" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">a drum</text>
   </g>
 
   <!-- ================= figure 3: a scroll ================= -->
@@ -66,7 +66,7 @@
     <circle cx="248.5" cy="197" r="2.3" fill="#2b3a42"/>
     <circle cx="263.5" cy="197" r="2.3" fill="#2b3a42"/>
     <path d="M250 207 Q256 212 262 207" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
-    <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">a scroll</text>
+    <text x="256" y="444" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">a scroll</text>
   </g>
 
   <!-- ================= figure 4: the harvest ================= -->
@@ -93,7 +93,7 @@
     <path d="M353 207 Q359 212 365 207" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
     <path d="M337 184 Q359 158 381 184 Z" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
     <ellipse cx="359" cy="184" rx="37" ry="8" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-    <text x="359" y="444" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">the harvest</text>
+    <text x="359" y="444" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">the harvest</text>
   </g>
 
   <!-- ================= figure 5: a device ================= -->
@@ -112,7 +112,7 @@
     <circle cx="448.5" cy="197" r="2.3" fill="#2b3a42"/>
     <circle cx="463.5" cy="197" r="2.3" fill="#2b3a42"/>
     <path d="M450 207 Q456 212 462 207" fill="none" stroke="#2b3a42" stroke-width="1.8" stroke-linecap="round"/>
-    <text x="456" y="444" text-anchor="middle" font-family="sans-serif" font-size="11.5" fill="#222222">a device</text>
+    <text x="456" y="444" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#222222">a device</text>
   </g>
 
   <!-- closing message -->

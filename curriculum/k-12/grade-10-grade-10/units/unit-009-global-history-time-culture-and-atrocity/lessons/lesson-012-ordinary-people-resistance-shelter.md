@@ -121,10 +121,10 @@ choice at a time.
    honoured in Rwanda's remembrance (S-494).
 3. Remembrance and justice exist to honour that agency.
 
-**Emotional safety.** Re-state each rule: learners may step out, pass,
-or write privately at any time; name the trusted adult or support line; open and close
-with a slow breath. Tell cases in brief, dignified summary focused on the *choice* and
-its cost, never on violence, and no graphic images. This lesson *is* the agency-and-hope
+**Emotional safety.** Re-state each rule: learners may step out, pass, or write
+privately at any time; name the trusted adult or support line; open and close with a
+slow breath. Tell cases in brief, dignified summary focused on the *choice* and its
+cost, never on violence, and no graphic images. This lesson *is* the agency-and-hope
 turn (S-495).
 
 **The lenses, briefly.**
@@ -134,8 +134,8 @@ turn (S-495).
 - *Egalitarianism:* rescuers came from every background; dignity and courage are not the
   property of any rank.
 - *Global:* ordinary people sheltered and resisted in many places and eras.
-- *Critical-thinking:* ask why some chose courage and others did not — not to judge,
-  but to understand how choices are made under pressure.
+- *Critical-thinking:* ask why some chose courage and others did not — not to judge, but
+  to understand how choices are made under pressure.
 
 **The skill.** Model one case, then release (S-011). Lesson 13 turns to rebuilding and
 what justice requires.
@@ -186,3 +186,5 @@ themselves outside class.)
   to the Holocaust" (S-490); on remembrance across cases, United Nations (S-491).
 - On teaching with dignity: US Holocaust Memorial Museum, "Guidelines for Teaching
   about the Holocaust" (S-495).
+- Encyclopaedia Britannica — Rwanda genocide of 1994 (S-494).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

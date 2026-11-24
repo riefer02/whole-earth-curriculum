@@ -136,8 +136,8 @@ can support different value judgments.
 
 **The lenses, briefly.**
 
-- *Ethics:* a chart that exaggerates a small effect is a lie of presentation, made
-  axis by axis.
+- *Ethics:* a chart that exaggerates a small effect is a lie of presentation, made axis
+  by axis.
 - *Egalitarianism:* ask who benefits when a number misleads — often those with least
   power to check it.
 - *Global:* Du Bois and Nightingale show the honest tradition has deep roots.

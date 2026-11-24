@@ -118,8 +118,8 @@ were forced.
 **The facts to land.**
 
 1. Everyone is inside the movement of people and ideas — through family, language, food,
-   and what we carry — and noticing it is the first step to a considered relationship
-   with migration.
+   and what we carry — and noticing this is the first step to a considered relationship
+   to migration.
 2. Migration is ordinary (a word, a dish, a move), *and* some movement is forced;
    distinguish chosen from forced with care (S-086).
 3. A migrant is not a category of *other* people: anyone can be one, and nearly everyone
@@ -131,7 +131,7 @@ lesson.
 **The lenses, briefly.**
 
 - *Ethics:* asking "chosen or forced?" about one's own history is honesty — remembering
-  accurately rather than comfortably.
+  accurately than comfortably.
 - *Egalitarianism:* the word is descriptive, never a lesser status.
 - *Global:* borrowed words are everywhere — "tea/chai" marks two ancient trade routes
   (S-169); our languages are already world maps.
@@ -140,7 +140,7 @@ lesson.
 - *Environment:* some movement is toward safety from a changing climate (S-383), and
   what a person carries can include care for the place they came from.
 
-**Safeguarding.** Offer writing about a community rather than a family, and never
+**Safety floor.** Offer the option of writing about a community than a family, and never
 require anyone to share a painful story.
 
 **The skill.** Teach the sheet explicitly (S-011), then release: fill it for yourself or

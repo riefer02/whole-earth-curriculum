@@ -192,3 +192,4 @@ goal, and who were the allies?
   <https://www.britannica.com/event/Salt-March> (S-390).
 - On cooperative structures helping groups thrive: Johnson & Johnson (1981), social
   interdependence theory (S-233).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

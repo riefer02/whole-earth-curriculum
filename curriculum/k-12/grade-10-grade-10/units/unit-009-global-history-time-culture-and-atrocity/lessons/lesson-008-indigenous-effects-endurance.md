@@ -182,3 +182,5 @@ practice.
 - On Indigenous continuity and knowledge: Inuit Circumpolar Council (S-058); Robin
   Wall Kimmerer, *Braiding Sweetgrass* (S-427); and the Maya codices and their
   revival (S-474).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).
+- Smithsonian National Museum of the American Indian — Haudenosaunee creation (S-203).

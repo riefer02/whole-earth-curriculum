@@ -138,13 +138,12 @@ is not one right answer.
   on equal footing (S-202, S-203).
 - *Global:* origins have been held by every people, and the scientific account stands
   beside, not above (S-002, S-427).
-- *Technology:* our knowledge of origins is mediated by instruments — telescopes,
-  dating methods, sequencers — so the position says what evidence supports, not what I
-  believe.
-- *Environment:* awe at the cosmos is incomplete without care for the planet it
-  produced (S-361, S-437).
+- *Technology:* our knowledge of origins is mediated by instruments — telescopes, dating
+  methods, sequencers — so the position says what evidence supports, not what I believe.
+- *Environment:* awe at the cosmos is incomplete without care for the planet it produced
+  (S-361, S-437).
 
-**Safeguarding.** Sharing is optional; use written or anonymous sharing where speaking
+**Safety floor.** Sharing is optional; use written or anonymous sharing where speaking
 up is not safe for some learners (contexts, cultural power dynamics).
 
 **The skill.** Model the four-part frame, then release (S-011): compose your own
@@ -212,3 +211,4 @@ where you agree.
   (S-427).
 - On the open first-origin question: NASA Astrobiology (S-499); on our place in the cosmos:
   NASA — Star Lifecycle (S-361); on caring for the living world: IPBES (S-437).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

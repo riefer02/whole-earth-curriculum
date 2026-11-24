@@ -136,7 +136,7 @@ is no one's universal. The **technology** lens: this is the technology lens made
 personal — the effect of the machine on the human. The **critical-thinking** lens: the
 filter frame is a media-literacy check: *what is shown, what is hidden, who benefits?*
 
-**Safeguarding:** no learner is required to reveal their actual screen time, accounts,
+**Safety floor.** no learner is required to reveal their actual screen time, accounts,
 or body image. Keep analysis on the scenarios and the mechanism, not on learners'
 private feeds.
 

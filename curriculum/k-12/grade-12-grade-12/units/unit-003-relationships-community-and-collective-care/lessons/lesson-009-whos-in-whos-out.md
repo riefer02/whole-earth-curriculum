@@ -121,9 +121,9 @@ line — and who pays it — is the first step toward drawing it more fairly.
 
 ## Facilitator note
 
-The idea to land: **belonging has a line, often drawn by habit rather than malice, and
-maturity means seeing the line and weighing loyalty against obligation to those outside
-it.** The minimal-group finding is real and well replicated (Tajfel, S-232); hold it as
+The idea to land: **belonging has a line, often drawn by habit than malice, and maturity
+means seeing the line and weighing loyalty against obligation to those outside it.** The
+minimal-group finding is real and well replicated (Tajfel, S-232); hold it as
 description of how minds work, not as a claim that groups are bad or that belonging is
 wrong. Belonging is a human good; the question is *whose* belonging is paid for by
 *whose* exclusion.
@@ -140,7 +140,7 @@ S-281; Britannica, S-481). The **critical-thinking** lens: ask *who drew this li
 when, and for what purpose* before you accept it as natural. Preview: Lesson 10 turns
 the weighing into a decision about solidarity and the common good.
 
-**Safeguarding:** cases are about groups, never a learner's identity; no one is asked to
+**Safety floor.** cases are about groups, never a learner's identity; no one is asked to
 defend exclusion of a group they or their loved ones belong to.
 
 ## Procedure

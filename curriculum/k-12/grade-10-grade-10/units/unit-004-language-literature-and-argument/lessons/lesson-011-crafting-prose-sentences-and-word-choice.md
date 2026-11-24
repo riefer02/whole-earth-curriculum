@@ -137,8 +137,8 @@ as errors to be edited out.
 
 - *Intellectual:* revision is where thinking happens; each change is a decision with a
   reason.
-- *Critical-thinking:* ask of every sentence what it is doing, and whether that is
-  what you want.
+- *Critical-thinking:* ask of every sentence what it is doing, and whether that is what
+  you want.
 - *Ethics:* precise, honest words serve truth; inflated or evasive words can deceive.
 - *Egalitarianism:* a learner's home-language way of putting things is a resource; no
   dialect is "broken".

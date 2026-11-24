@@ -138,16 +138,16 @@ the way you meant it to.
 
 **The lenses, briefly.**
 
-- *Global:* the spine — the room itself is the multicultural setting, so learners
-  teach their own forms and learn one another's.
+- *Global:* the spine — the room itself is the multicultural setting, so learners teach
+  their own forms and learn one another's.
 - *Ethics:* adapting politeness honours the other person; the respectful check guards
   against stereotyping.
 - *Egalitarianism:* no accent, dialect, or politeness norm is "less polite"; not yet
   knowing a norm is learning, not failing.
-- *Social-emotional:* a wrong norm can feel mortifying — normalise the wobble and
-  teach the repair: "I did not know — thank you for showing me."
-- *Critical-thinking:* ask what a form of address is doing — respect, distance,
-  warmth, hierarchy — before imitating it.
+- *Social-emotional:* a wrong norm can feel mortifying — normalise the wobble and teach
+  the repair: "I did not know — thank you for showing me."
+- *Critical-thinking:* ask what a form of address is doing — respect, distance, warmth,
+  hierarchy — before imitating it.
 
 **The skill.** Model once, then release (S-011): learn one form of address from a
 classmate and use it correctly. This closes the unit: every thread lands in how one

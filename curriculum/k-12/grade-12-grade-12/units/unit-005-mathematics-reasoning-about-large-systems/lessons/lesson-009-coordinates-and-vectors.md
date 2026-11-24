@@ -186,3 +186,4 @@ on where you ended up.
 
 - On worked examples and guided practice: Kirschner, Sweller & Clark (2006) (S-011).
 - On coordinates and grids across traditions: MacTutor History of Mathematics (S-240).
+- Intergovernmental Panel on Climate Change (S-005).

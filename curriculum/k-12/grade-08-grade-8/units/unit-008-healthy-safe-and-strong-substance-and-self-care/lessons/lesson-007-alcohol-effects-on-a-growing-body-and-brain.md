@@ -117,34 +117,31 @@ cultures where alcohol is present. A learner who has tried it gets facts, not sh
 **The facts to land.**
 
 1. Alcohol is a **depressant**: it slows the central nervous system, so judgment,
-   coordination, reaction time, and memory slow with it (S-375).
+   coordination, reaction time, and memory do too (S-375).
 2. A young body is **more affected** — smaller, brain still under construction — so early
    drinking risks greater later harm and **delay is protective** (S-375).
-3. **Heavy, repeated use** harms the liver and other organs; impairment takes away the
-   ability to judge danger (S-375).
+3. **Heavy, repeated use** harms the liver and other organs; impairment removes the ability
+   to judge danger (S-375).
 
 **Don't overshoot.** One drink is not inevitably harmful, a sip not a catastrophe; the
 anchors are the developing brain and the legal age — a safety law, not a maturity test.
 
 **The lenses, briefly.**
 
-- *Physical:* these are bodily effects, not moral ones — the same drink does more to a
-  smaller body and a developing brain.
-- *Critical thinking, with technology:* Grade 7's marketing literacy: alcohol ads sell
-  glamour and belonging through screens learners read critically.
-- *Egalitarianism:* harms fall unequally, on poorer communities and on those marketed
-  hardest.
-- *Global:* cultures hold alcohol from total avoidance to moderation. Honor all, rank none.
-- *Environment:* growing and making it uses land and water; the choice touches more than
-  the drinker.
+- *Physical:* these are bodily effects, not moral ones.
+- *Critical-thinking, with technology:* Grade 7's marketing literacy — ads sell glamour and
+  belonging through screens learners read critically.
+- *Egalitarianism:* harms fall unequally, on poorer communities and those marketed hardest.
+- *Global:* cultures hold alcohol from avoidance to moderation; honor all, rank none.
+- *Environment:* growing it uses land and water; the choice touches more than the drinker.
 - *Ethics:* a safe choice protects our body and the people near us; driving impaired
   endangers others.
 
-**The skill.** Decision-making, not a rule: notice the situation → name the risk → choose a
-safe response → know who to call.
+**The skill.** Decision-making, not a rule: notice → name the risk → choose a safe
+response → know who to call.
 
-**Safety floor.** If someone drinks too much and becomes unresponsive, that is an emergency:
-get help at once, never leave an impaired person alone.
+**Safety floor.** If someone drinks too much and will not wake, that is an emergency: get
+help, and never leave them alone.
 
 ## Procedure
 

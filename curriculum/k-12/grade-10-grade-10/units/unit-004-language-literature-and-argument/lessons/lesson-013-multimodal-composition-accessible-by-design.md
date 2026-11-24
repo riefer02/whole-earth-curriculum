@@ -146,11 +146,9 @@ still be beautiful.
   silently chosen its audience. Keep a paper path open, since the digital divide decides
   who can reach the tool at all (S-281).
 - *Ethics:* building for everyone is a moral commitment and also better craft.
-- *Global:* right-to-left scripts, tone languages, and sign languages make
-  "accessible" context-dependent, and multilingual learners can extend a piece into two
-  languages.
-- *Critical-thinking:* test your own piece, and let a partner meet it without one
-  sense.
+- *Global:* right-to-left scripts, tone languages, and sign languages make "accessible"
+  context-dependent, and multilingual learners can extend a piece into two languages.
+- *Critical-thinking:* test your own piece, and let a partner meet it without one sense.
 
 **The skill.** Model once, then release (S-011): run the five-point checklist on your
 own draft. Lesson 14 turns from composing to power.

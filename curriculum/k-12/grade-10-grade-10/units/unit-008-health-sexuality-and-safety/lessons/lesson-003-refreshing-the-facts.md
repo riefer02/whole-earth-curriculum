@@ -138,7 +138,7 @@ correct it without ridicule.
 - *Critical-thinking:* check every claim about bodies against a source.
 - *Physical:* name the anatomy correctly; the correct terms are the normal ones.
 
-**Safeguarding.** No learner is asked to share anything personal. If a question suggests
+**Safety floor.** No learner is asked to share anything personal. If a question suggests
 a learner is pregnant or unsafe, respond privately and with care — do not announce it,
 do not shame, and follow your safeguarding procedure to connect them with a trusted
 adult or health service.
@@ -196,3 +196,4 @@ for your wonder box. No home conversation is required.
 - WHO — Adolescent pregnancy (fact sheet) for the fact that accurate information
   reduces unintended pregnancy: <https://www.who.int/news-room/fact-sheets/detail/adolescent-pregnancy>
   (S-455).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

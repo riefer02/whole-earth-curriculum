@@ -132,6 +132,8 @@ into fixed "races" (S-177).
   safety, and care that let their genes do their best.
 - *Global:* the same DNA and rules of inheritance operate in every living thing, from a
   rice plant to a whale.
+- *Environment:* the environment is not scenery — nutrition and health decide where in a
+  genetic range a person lands (S-177).
 - *Critical-thinking:* "nature versus nurture" is a false choice — for most traits it is
   nature *and* nurture.
 

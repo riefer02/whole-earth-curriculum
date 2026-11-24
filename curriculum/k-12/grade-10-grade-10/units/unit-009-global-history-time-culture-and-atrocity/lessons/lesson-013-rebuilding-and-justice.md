@@ -108,10 +108,10 @@ remember. Justice is not one act but these four things held together.
 
 ## Facilitator note
 
-The idea to land: **after atrocity, communities rebuild through four interlocking
-paths — truth, accountability, repair, and remembrance — and justice is not a single
-verdict but the holding of these together, each with its own reach and its own limits.**
-Model the four paths with a worked example before learners weigh them (S-011).
+The idea to land: **after atrocity, communities rebuild through four interlocking paths
+— truth, accountability, repair, and remembrance — and justice is not a single verdict
+but the holding of these together, each with its own reach and its own limits.** Model
+the four paths with a worked example before learners weigh them (S-011).
 
 **Emotional safety (non-negotiable):** (1) **Warning and opt-out:** re-state that
 learners may step out, pass, or write privately at any time. (2) **Referral:** name the
@@ -184,3 +184,4 @@ discuss the events themselves outside class.)
   Practices (S-022).
 - On remembrance: United States Holocaust Memorial Museum, "Introduction to the
   Holocaust" (S-490); on teaching with dignity, its "Guidelines" (S-495).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

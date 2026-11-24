@@ -141,8 +141,8 @@ accept "inspired by Africa" as a credit.
 - *Egalitarianism:* anyone can have a style and an explanation; it needs no expensive
   materials, only honest looking.
 - *Global:* real statements name lineage and place rather than claiming invention.
-- *Technology:* a digital record shows the whole series at once, making the
-  through-line visible.
+- *Technology:* a digital record shows the whole series at once, making the through-line
+  visible.
 - *Environment:* work made from reused materials is a statement of care too.
 - *Critical-thinking:* ask which influence is named and which is quietly borrowed.
 

@@ -120,8 +120,8 @@ we come from. A full account must say both what movement *gave* the world and wh
 **The facts to land.**
 
 1. Migration shaped the human story by spreading crops, animals, technologies,
-   languages, and ideas — and by carrying dignity and trauma through forced movement; a
-   full synthesis holds both.
+   languages, and ideas — and by carrying both dignity and trauma through forced
+   movement. A full synthesis holds the spread and the loss together.
 2. Neither "migration is only a gift of exchange" nor "migration is only a wound": the
    same movement that spread a crop also carried enslaved people (S-322, S-274).
 3. The Columbian Exchange told from the coloniser's side misses what it did to the
@@ -143,8 +143,8 @@ loss stays in the account.
   for good and ill (S-273).
 
 **The skill.** Teach the frame explicitly (S-011), then release: one claim about
-migration, two pieces of evidence, one named loss. Lesson 11 turns to your own place in
-the movement.
+migration, two pieces of evidence, one named loss. Lesson 11 turns to your place in the
+movement.
 
 ## Procedure
 

@@ -35,6 +35,14 @@ Author `lesson-*.md` files for your assigned unit. Each lesson is one day
 4. Embed the cross-cutting lenses; cite sources for factual claims.
 5. Validate and submit for review: `npm run loop:submit -- <item-id>`.
 
+## Sources must be visible
+
+Every `S-nnn` you cite anywhere in the body — including inside the facilitator note —
+must also appear in that lesson's `## Resources`, with enough of the title to be
+identifiable. `npm run lint:sources` reports the gap as "claim-area citation(s) are
+absent from their lesson's `## Resources` section". A citation the reader cannot trace
+is not a citation.
+
 ## Facilitator note (the usability budget)
 
 A teacher reads this *while* the room is moving. **250 words maximum**, in labelled

@@ -146,7 +146,7 @@ chain that reaches the whole Earth — and to plan it that way.
 - *Technology:* digital networks let a local act find its global kin in an afternoon
   (Britannica, S-481), for better and for worse.
 
-**Safeguarding.** The action is small, real, and optional; one link is enough.
+**Safety floor.** The action is small, real, and optional; one link is enough.
 
 **The skill.** Model one chain, then release (S-011): name your local act and the far
 end it reaches. Lesson 14 gathers the unit.

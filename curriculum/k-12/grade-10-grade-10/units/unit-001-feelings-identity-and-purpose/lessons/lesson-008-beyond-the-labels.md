@@ -137,12 +137,11 @@ about a learner; the worth-versus-approval distinction is a value commitment (ph
   harmfully — say so without ranking learners.
 - *Ethics:* we receive and give labels; words can build or confine, so we bear a small
   responsibility.
-- *Global:* the same trait praised in one place may be belittled in another, which
-  shows how little a label says about worth.
-- **Technology & environment:** feeds sort people into categories and show narrow images
+- *Global:* the same trait praised in one place may be belittled in another, which shows
+  how little a label says about worth.
+- *Technology and environment:* feeds sort people into categories and show narrow images
   of "who someone like me is" (Lesson 3).
-- *Social-emotional:* this touches real wounds — invite, never force; let "pass"
-  stand.
+- *Social-emotional:* this touches real wounds — invite, never force; let "pass" stand.
 - *Critical-thinking:* a label is a claim, not a measurement; ask who benefits from it
   sticking.
 

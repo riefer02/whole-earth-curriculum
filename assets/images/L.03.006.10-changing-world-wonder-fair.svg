@@ -13,7 +13,7 @@
   <g font-size="15" fill="#222222" text-anchor="middle">
     <rect x="36" y="80" width="120" height="60" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
     <text x="96" y="108">fair test</text>
-    <text x="96" y="128">change one thing</text>
+    <text x="96" y="128" font-size="13">change one thing</text>
 
     <rect x="176" y="80" width="120" height="60" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
     <text x="236" y="108">data</text>
@@ -25,7 +25,7 @@
 
     <rect x="36" y="160" width="120" height="60" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
     <text x="96" y="188">plant parts</text>
-    <text x="96" y="208" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">roots, stem, leaves</text>
+    <text x="96" y="208" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">roots, stem, leaves</text>
 
     <rect x="316" y="160" width="120" height="60" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
     <text x="376" y="188">states of matter</text>
@@ -33,7 +33,7 @@
 
     <rect x="36" y="306" width="120" height="60" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
     <text x="96" y="334">forces</text>
-    <text x="96" y="354">push, pull, friction</text>
+    <text x="96" y="354" font-size="12">push, pull, friction</text>
 
     <rect x="316" y="306" width="120" height="60" rx="10" fill="#fdfbf7" stroke="#2b3a42" stroke-width="3"/>
     <text x="376" y="334">day and night</text>

@@ -121,7 +121,7 @@ next step is partly ours), not dread. Name feelings before facts where the prese
 heavy, and always connect difficulty to agency (facilitation, holding difficult topics
 safely).
 
-The **ethics** lens: imagining futures is a moral act — some futures are more just than
+The **ethics** lens: imagining futures is a moral act — some futures are more than
 others, and we can ask *which futures are worth wanting.* The **egalitarianism** lens:
 "possible selves" are not a privilege of the rich — people everywhere imagine and work
 toward futures (S-399); the point is that agency belongs to everyone, even when it is

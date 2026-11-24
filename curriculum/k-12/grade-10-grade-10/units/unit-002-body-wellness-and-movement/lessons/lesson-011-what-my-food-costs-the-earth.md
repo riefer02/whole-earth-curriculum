@@ -142,9 +142,9 @@ comparative, not absolute.
   land offers; no diet is more moral by geography.
 - *Ethics:* weigh footprints of *food*, not worth of *people*; those with most choice
   carry most responsibility.
-- *Egalitarianism:* hunger affects roughly 1 in 11 people, and food insecurity constrains
-  millions of choices (S-409) — a systems question, not a lecture to the person with
-  fewest choices.
+- *Egalitarianism:* hunger affects roughly 1 in 11 people, and food insecurity
+  constrains millions of choices (S-409) — a systems question, not a lecture to the
+  person with fewest choices.
 - *Technology:* tools, cold chains, and apps shape the footprint at every step.
 - *Critical-thinking:* variation by method and place is the point; distrust the tidy
   rule.
@@ -213,3 +213,4 @@ change together.
   Index Report 2024" (S-410).
 - On hunger and food security (roughly 1 in 11 people): FAO, "The State of Food Security
   and Nutrition in the World" (S-409).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

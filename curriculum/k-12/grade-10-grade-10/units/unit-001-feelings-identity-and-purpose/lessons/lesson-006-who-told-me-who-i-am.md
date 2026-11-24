@@ -136,9 +136,9 @@ the research (philosophy §4, §11).
   achievement; no set is the right one (next lesson compares them).
 - *Egalitarianism:* some identity messages lift and some limit, and that is not
   distributed fairly; ask aloud whose messages are narrowing.
-- *Ethics:* we are both shaped by and responsible for the messages we pass on; words
-  can build a person or confine them.
-- **Technology & environment:** feeds are among the loudest voices telling us who we are
+- *Ethics:* we are both shaped by and responsible for the messages we pass on; words can
+  build a person or confine them.
+- *Technology and environment:* feeds are among the loudest voices telling us who we are
   (Lesson 3's warped mirror), and the places we grow up are voices too.
 - *Social-emotional:* this can stir strong feeling about family or belonging — invite,
   never force; learners choose what to share.

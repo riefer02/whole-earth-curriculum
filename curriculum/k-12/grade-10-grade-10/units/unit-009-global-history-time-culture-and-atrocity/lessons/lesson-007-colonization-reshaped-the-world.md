@@ -185,3 +185,4 @@ Together, find one border or place name and trace where it came from.
   Columbian Exchange* (S-273).
 - On the transatlantic slave trade: UNESCO, Routes of Enslaved Peoples (S-274), and
   the SlaveVoyages database (S-322).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

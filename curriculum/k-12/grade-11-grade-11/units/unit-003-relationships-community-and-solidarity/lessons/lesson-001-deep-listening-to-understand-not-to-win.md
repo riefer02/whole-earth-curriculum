@@ -116,13 +116,12 @@ disclosure of real conflicts).
 
 The **ethics** lens: how we treat someone who disagrees with us is a moral choice, and
 listening well is one way we honor another person's dignity. The **egalitarian** lens:
-deep listening levels the field — it gives the quieter or less powerful voice the same
-hearing as the loud one, and it refuses to let a disagreement turn one person into the
-loser and the other into the victor. The **global** lens: careful, reflective listening
-is practiced across cultures and traditions — from talking circles to council-style
-decision-making — and is a skill, not the property of any one region. The
-**social-emotional** lens: pausing before answering is self-regulation in action, and
-"reflect back" is perspective-taking made audible.
+deep listening levels the field — the quieter or less powerful voice gets the same
+hearing as the loud one, and a disagreement need not make a loser and a victor. The
+**global** lens: careful, reflective listening is practiced across cultures and
+traditions — from talking circles to council-style decision-making — and is a skill, not
+the property of any one region. The **social-emotional** lens: pausing before answering
+is self-regulation in action, and "reflect back" is perspective-taking made audible.
 
 **Emotional safety.** Learners may have painful real conflicts. Use only invented,
 low-stakes practice disagreements (what to eat, which game, who should go first). No one

@@ -139,10 +139,10 @@ choose sustainability over heroics.
 - *Ethics:* a tool of care, never a contract to punish a missed day.
 - *Egalitarianism:* fit real constraints — money, time, safe space, ability, family
   duties; walking, chores, and dance count as much as a gym.
-- *Global:* a plan might centre a dance, a walk to a field, a swim, a game, or a
-  seated practice; no form is "the" way.
+- *Global:* a plan might centre a dance, a walk to a field, a swim, a game, or a seated
+  practice; no form is "the" way.
 - *Critical-thinking:* design against your own enthusiasm.
-- **Technology & environment:** safe paths, green space, and weather shape the plan;
+- *Technology and environment:* safe paths, green space, and weather shape the plan;
   apps come next lesson.
 
 **The skill.** Model once, then release (S-011): write one week you can actually keep.

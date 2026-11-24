@@ -114,36 +114,31 @@ history, a lineage, and a community of people who keep it alive.
 
 ## Facilitator note
 
-This lesson and the next form the strand's **cross-cultural comparison**. Teach
-traditions **as living cultures, not specimens**. That means: name where each comes
-from; name the real people and communities who practice it; and be honest that when a
-tradition travels, questions of respect and appropriation arise — practicing a
-tradition is different from reducing it to a fitness fad while erasing its origins.
-Hold this as a *question*, not a lecture: how do we honor a practice's roots while
-welcoming everyone who wishes to learn?
+These two are the strand's **comparison**. Teach traditions **as living cultures, not
+specimens**: name where each comes from and the communities who practice it, and be
+honest that when a tradition travels, respect and appropriation arise — practicing it
+differs from a fad erasing its origins. Hold this as a *question*: how do we honor a
+practice's roots while welcoming all who wish to learn?
 
-**Accuracy (hedged).** Yoga is a South Asian system of postures, breath (prāṇāyāma),
-and meditation with roots well over two thousand years old, now practiced worldwide.
-Qigong and tai chi are Chinese movement-and-breath arts developed over centuries,
-often practiced for health and longevity. Martial arts are a worldwide family of
-disciplined movement traditions — kalaripayattu in India, karate and judo in
-Okinawa/Japan, kung fu in China, capoeira in Brazil, wrestling traditions across
-continents — each with its own philosophy. These are widely documented general
-descriptions; treat them as starting points for learners' own respectful research,
-not as the final word. UNESCO's intangible cultural heritage framing treats such
-practices as knowledge passed person-to-person within communities (S-056), and UNESCO
-also recognizes traditional sports and games as living heritage (S-287).
+**Accuracy.** Yoga is a South Asian system of postures, breath (prāṇāyāma), and
+meditation, over two thousand years old. Qigong and tai chi are Chinese
+movement-and-breath arts, centuries old, practiced for health and longevity. Martial
+arts are worldwide — kalaripayattu in India, karate and judo in Japan, kung fu in China,
+capoeira in Brazil, wrestling across continents — each with a philosophy. All are
+documented general descriptions — starting points, not the final word. UNESCO's
+intangible-heritage framing treats such practices as knowledge passed person-to-person
+within communities (S-056), and names traditional sports and games living heritage
+(S-287).
 
-**Safety floor.** If learners try any stance or gesture, keep it gentle, optional, and
-non-competitive; no one is demonstrating mastery or being corrected in front of the
-group. Many practices require a teacher — emphasize that this lesson is an
-*introduction*, not instruction.
+**Safety floor.** If learners try any stance, keep it gentle, optional, and
+non-competitive; no one demonstrates mastery or is corrected in front of the group. Many
+practices require a teacher — this lesson is an *introduction*, not instruction.
 
 The **ethics** lens: respect for origins is part of the practice itself. The
 **egalitarian** lens: traditions are not ranked — none is "the best exercise." The
-**global** lens: the same human need for movement flowers differently in every
-culture. The **technology** lens: apps and videos now teach these traditions, raising
-the question of whether a screen can transmit a lineage — and who profits.
+**global** lens: the same human need for movement flowers differently in every culture.
+The **technology** lens: apps and videos teach these traditions, raising whether a
+screen can transmit a lineage — and who profits.
 
 ## Procedure
 

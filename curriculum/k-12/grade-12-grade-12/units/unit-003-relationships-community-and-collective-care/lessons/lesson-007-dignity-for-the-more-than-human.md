@@ -148,7 +148,7 @@ without use.
 - *Technology:* machines clear a forest in a day; mapping and monitoring let distant
   people defend a river.
 
-**Safeguarding.** The action is small, local, and optional to share; no one is graded on
+**Safety floor.** The action is small, local, and optional to share; no one is graded on
 grandiosity, and a learner without outdoor access can choose a potted plant, a pet, a
 street tree, or a remembered place.
 

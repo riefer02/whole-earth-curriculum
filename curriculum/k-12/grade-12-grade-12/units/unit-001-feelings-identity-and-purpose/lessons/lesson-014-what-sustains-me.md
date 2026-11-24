@@ -131,7 +131,7 @@ lives; no anchor is the "correct" one. The **critical-thinking** lens: the closi
 retrieval is a check on what actually *stuck* across the unit, not a performance of
 completion.
 
-**Safeguarding:** anchors are the learner's own and may be private; no one is required
+**Safety floor.** anchors are the learner's own and may be private; no one is required
 to name a trauma, a loss, or a family in crisis. "I don't have this one yet" is a
 complete and honored answer for any anchor.
 

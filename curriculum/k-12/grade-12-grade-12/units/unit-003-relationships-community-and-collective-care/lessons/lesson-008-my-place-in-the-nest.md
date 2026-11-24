@@ -134,18 +134,18 @@ yourself, because you cannot act well in a community you cannot see.
 
 **The lenses, briefly.**
 
-- *Ethics:* each ring carries a different "we", and the outermost quietly obliges me
-  to all life.
+- *Ethics:* each ring carries a different "we", and the outermost quietly obliges me to
+  all life.
 - *Egalitarianism:* belonging is uneven — some are pushed to the margins of rings, some
   told they do not belong at all.
-- *Global:* in one place "region" is a valley, in another a language group, in another
-  a diaspora.
+- *Global:* in one place "region" is a valley, in another a language group, in another a
+  diaspora.
 - *Technology:* online communities cut across the rings — a group on three continents
   who feel "we" (Britannica, S-481).
-- *Environment:* the outermost ring is soil, water, atmosphere, and every species —
-  the one all the others depend on.
+- *Environment:* the outermost ring is soil, water, atmosphere, and every species — the
+  one all the others depend on.
 
-**Safeguarding.** Learners name their rings at whatever depth they choose; no one is
+**Safety floor.** Learners name their rings at whatever depth they choose; no one is
 required to claim a family, a nation, or any identity.
 
 **The skill.** Model one map, then release (S-011): draw your own rings and mark one

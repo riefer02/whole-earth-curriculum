@@ -137,8 +137,7 @@ obvious at first — the signs are read, not assumed.
 
 - *Social-emotional:* naming "this is too big for me" takes honest self-awareness;
   invite, never force.
-- *Ethics:* it protects the more vulnerable side and refuses to let harm go
-  unaddressed.
+- *Ethics:* it protects the more vulnerable side and refuses to let harm go unaddressed.
 - *Egalitarianism:* when power is unequal, "just talk it out" can be unfair — precisely
   when a neutral party matters most.
 - *Critical-thinking:* read the signs; the stuck pattern is often the loudest.

@@ -134,7 +134,7 @@ inputs differently — and that is data, not a mistake. The **critical-thinking*
 the dissent step is a check on premature certainty; the revision step is a check on
 stubbornness.
 
-**Safeguarding:** use the provided case or an equivalent kept one step removed. Do not
+**Safety floor.** use the provided case or an equivalent kept one step removed. Do not
 require disclosure of personal trauma. If learners grow heated, that is the material —
 name it and return to the frame rather than adjudicating their private disputes.
 

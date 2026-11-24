@@ -143,8 +143,8 @@ differences away.
 - *Global:* one shift, many tellings.
 - *Technology:* the road, the rail line, the phone appear as progress in some accounts
   and as loss in others — both are real readings of the same machine.
-- *Environment:* "the land stayed the same" and "the river changed" can both be true
-  at different scales of time; weigh the scale, not just the words.
+- *Environment:* "the land stayed the same" and "the river changed" can both be true at
+  different scales of time; weigh the scale, not just the words.
 
 **The skill.** Teach the weighing explicitly (S-011), then release: run one pair through
 the four questions. Lesson 2 turns a weighing into a reasoned synthesis.

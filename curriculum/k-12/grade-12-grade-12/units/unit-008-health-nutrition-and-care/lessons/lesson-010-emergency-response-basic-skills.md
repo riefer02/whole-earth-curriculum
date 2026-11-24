@@ -138,8 +138,8 @@ the safe parts and the calling.
 
 - *Ethics:* act to help and do no further harm — which is exactly why we learn our
   limits.
-- *Egalitarianism:* first aid belongs to everyone; the nearest person, of any background,
-  begins help.
+- *Egalitarianism:* first aid belongs to everyone; the nearest person, of any
+  background, begins help.
 - *Global:* numbers and services differ worldwide; the moves are the same.
 - *Technology:* a phone summons help in seconds and guides an untrained responder, but
   cannot replace the person who checks and cares.

@@ -22,24 +22,24 @@
   <!-- out of africa -->
   <path d="M180 180 Q230 140 300 140" fill="none" stroke="#6b93b6" stroke-width="4"/>
   <polygon points="300,140 288,134 288,146" fill="#6b93b6"/>
-  <text x="240" y="122" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">out of Africa (~300,000 yrs)</text>
+  <text x="240" y="122" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">out of Africa (~300,000 yrs)</text>
 
   <!-- silk roads -->
   <path d="M260 180 Q340 190 360 230" fill="none" stroke="#e0a458" stroke-width="4" stroke-dasharray="9 5"/>
   <polygon points="360,230 348,224 352,238" fill="#e0a458"/>
-  <text x="330" y="178" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">Silk Roads and Indian Ocean</text>
+  <text x="330" y="178" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">Silk Roads and Indian Ocean</text>
 
   <!-- transatlantic -->
   <path d="M130 280 Q200 250 200 210" fill="none" stroke="#2b3a42" stroke-width="4"/>
   <polygon points="200,210 190,214 196,224" fill="#2b3a42"/>
-  <text x="110" y="272" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">transatlantic slave trade</text>
-  <text x="110" y="286" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">(forced)</text>
+  <text x="110" y="272" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">transatlantic slave trade</text>
+  <text x="110" y="286" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(forced)</text>
 
   <!-- modern displacement -->
   <path d="M300 260 Q380 280 400 340" fill="none" stroke="#7a9e7e" stroke-width="4" stroke-dasharray="4 6"/>
   <polygon points="400,340 388,336 392,350" fill="#7a9e7e"/>
-  <text x="380" y="288" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#2b3a42">modern displacement</text>
-  <text x="380" y="302" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">(chosen and forced)</text>
+  <text x="380" y="288" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#2b3a42">modern displacement</text>
+  <text x="380" y="302" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">(chosen and forced)</text>
 
   <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">For each: who moved, why — and who held the power to decide?</text>
   <text x="256" y="456" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#4f6d7a">Movement is the human story, not an interruption of it.</text>

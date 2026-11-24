@@ -144,15 +144,16 @@ claim, one evidence, and a fitting register.
   speaking.
 - *Global:* formal oratory, call-and-response, story — draw on your own tradition's
   strengths.
-- *Ethics:* with an audience comes responsibility — say what is true, own your
-  sources, and do not use the platform to harm.
+- *Ethics:* with an audience comes responsibility — say what is true, own your sources,
+  and do not use the platform to harm.
 - *Critical-thinking:* one claim, one piece of evidence, so confidence rests on
   substance.
 
-**Access.** Keep stakes low: a partner before the whole room, and a recording
-where that is safer. Delivery may be oral, signed, or through a communication device.
+**Access.** Keep stakes low: a partner before the whole room, and a recording where that
+is safer. Delivery may be oral, signed, or through a communication device.
 
-**The skill.** Model once, then release (S-011): one minute, one claim, to a partner, then a small group. Lesson 6 turns to reading media for bias.
+**The skill.** Model once, then release (S-011): one minute, one claim, to a partner,
+then a small group. Lesson 6 turns to reading media for bias.
 
 ## Procedure
 

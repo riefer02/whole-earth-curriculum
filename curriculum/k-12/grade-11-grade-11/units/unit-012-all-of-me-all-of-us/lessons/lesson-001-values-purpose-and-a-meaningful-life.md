@@ -120,25 +120,28 @@ your own words, as they stand today.
 ## Facilitator note
 
 The idea to land, warmly and without pressure: **values, purpose, and meaning are three
-arms of one compass that the learner holds — developing, revisable, and theirs to
-steer.** Identity is a developing story, not a finished fact (Erikson, S-155); the
-selves a person imagines becoming — "possible selves" — are the bridge between the
-present and future motivation (Markus & Nurius, S-399); and a sense of purpose grows by
-trying, reflecting, and being supported, not by sudden certainty — roughly one in five
-young people reports a clear sense of purpose, and that is ordinary, not a failure
-(Damon, S-400). Hold all three as *description*, and the line "you are allowed not to
-know yet" as a *value* we protect.
+arms of one compass the learner holds — developing, revisable, and theirs to steer.**
+Identity is a developing story, not a finished fact (Erikson, S-155). The selves a
+person imagines becoming — "possible selves" — bridge the present and future motivation
+(Markus & Nurius, S-399). A sense of purpose grows by trying, reflecting, and being
+supported, not by sudden certainty: roughly one in five young people reports a clear
+sense of purpose, and that is ordinary, not a failure (Damon, S-400). Hold all three as
+*description*, and the line "you are allowed not to know yet" as a *value* we protect.
 
-Hold the four lenses visibly. **Ethics:** naming what you hold good is the first step of
-acting on it — values become ethics when they meet real choices. **Egalitarianism:** no
-one's purpose outranks another's; a purpose may be quiet or loud, near or far, and a
-meaningful life can look like care for a family or a movement, a craft or a calling.
-**Global/anthropological:** what counts as a meaningful life differs across cultures — a
-life of service, of craft, of kinship, of study, of prayer, of tending land — and no one
-culture's answer is the default. **Critical-thinking:** distinguishing a value you have
-*chosen and tested* from one you have merely *inherited* is an act of careful, honest
-thought. Model once (S-011), then let learners draft. Keep the tone celebratory; this is
-the heart of the capstone.
+**The lenses.**
+
+- *Ethics:* naming what you hold good is the first step of acting on it; values become
+  ethics when they meet real choices.
+- *Egalitarianism:* no one's purpose outranks another's — quiet or loud, near or far, a
+  family or a movement, a craft or a calling.
+- *Global:* what counts as a meaningful life differs across cultures — service, craft,
+  kinship, study, prayer, tending land — and no one culture's answer is the default.
+- *Critical-thinking:* distinguishing a value you have *chosen and tested* from one
+  merely *inherited* is careful, honest thought.
+- *Social-emotional:* not knowing yet is a position, not a deficit.
+
+Model once (S-011), then let learners draft. Keep the tone celebratory; this is the
+heart of the capstone.
 
 ## Procedure
 

@@ -136,7 +136,7 @@ relationship, some center duty, some center consequences), and none is the defau
 **critical-thinking** lens: the triangle is a *check* on judgment, not a calculator — it
 forces you to name your inputs before you announce a verdict.
 
-**Safeguarding:** use the provided dilemmas or equivalents that stay one step removed
+**Safety floor.** use the provided dilemmas or equivalents that stay one step removed
 from learners' private pain. Do not require any learner to disclose their own trauma or
 history. If a learner volunteers deeply personal material, hold it gently and redirect
 to the dilemma, not the disclosure.

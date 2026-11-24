@@ -139,8 +139,8 @@ specific and alive.
 - *Egalitarianism:* appropriation flows from the less powerful to the more; credit
   corrects it.
 - *Global:* traditions are people's, alive now, not free material.
-- *Technology:* sampling made reuse effortless, so permission and royalty are the part
-  a machine cannot do.
+- *Technology:* sampling made reuse effortless, so permission and royalty are the part a
+  machine cannot do.
 - *Environment:* honouring a tradition includes the places it grew from.
 - *Community:* the community decides what may be sampled, and who profits.
 

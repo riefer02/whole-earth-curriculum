@@ -135,18 +135,18 @@ not flatten a learner's natural voice in the name of polish.
 
 **The lenses, briefly.**
 
-- *Intellectual:* the tone-for-purpose plan is small design work — name the goal,
-  choose the words that meet it.
+- *Intellectual:* the tone-for-purpose plan is small design work — name the goal, choose
+  the words that meet it.
 - *Ethics:* the same facts in two tones have two effects; choosing tone is a moral
   choice as much as a craft one.
 - *Egalitarianism:* a reader's language and dialect shape which tones feel warm or cold;
   a learner's own way of putting things is not a defect.
-- *Global:* what is polite in one culture may be cold in another — read tone in
-  context.
-- *Social-emotional:* writing in a tone that does not come naturally is a stretch;
-  name the feeling and normalise it.
+- *Global:* what is polite in one culture may be cold in another — read tone in context.
+- *Social-emotional:* writing in a tone that does not come naturally is a stretch; name
+  the feeling and normalise it.
 
-**The skill.** Model once, then release (S-011): rewrite one paragraph in two tones and say which serves the purpose. Lesson 13 widens to image, sound, and design.
+**The skill.** Model once, then release (S-011): rewrite one paragraph in two tones and
+say which serves the purpose. Lesson 13 widens to image, sound, and design.
 
 ## Procedure
 

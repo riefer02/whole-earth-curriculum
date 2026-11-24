@@ -196,3 +196,4 @@ about as you grew? Bring the story (no names needed) to the next lesson.
   <https://doi.org/10.1177/1529100612453266> (S-039).
 - On explicit instruction and worked examples: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- CASEL — Fundamentals of Social and Emotional Learning (S-001).

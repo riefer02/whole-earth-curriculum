@@ -146,7 +146,8 @@ models.
   has already lost something.
 
 **The skill.** Model once, then release (S-011): weigh two strategies for one setting.
-Close by naming the through-line: all of it was weighing, questions held as questions (philosophy §11).
+Close by naming the through-line: all of it was weighing, questions held as questions
+(philosophy §11).
 
 ## Procedure
 
@@ -204,3 +205,6 @@ talking, or facing the truth? Compare with the three strategies.
 - On positive and negative peace: Galtung (1969), "Violence, Peace, and Peace Research" (S-462).
 - On a shared commitment to peace and justice: UN Sustainable Development Goal 16,
   <https://sdgs.un.org/goals/goal16> (S-463).
+- Zehr — Changing Lenses (restorative justice) (S-161).
+- African Charter on Human and Peoples' Rights (Banjul Charter) (S-465).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

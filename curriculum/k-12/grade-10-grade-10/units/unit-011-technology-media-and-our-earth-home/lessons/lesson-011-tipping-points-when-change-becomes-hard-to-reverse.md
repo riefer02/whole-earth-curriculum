@@ -194,3 +194,4 @@ garden. Where is its crest, and how would you know you were near it?
   <https://oceanservice.noaa.gov/facts/coral_bleach.html> (S-215).
 - On the complexity of a real ecosystem's response (hedged): Ripple & Beschta (2012), trophic cascades in
   Yellowstone (S-310).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

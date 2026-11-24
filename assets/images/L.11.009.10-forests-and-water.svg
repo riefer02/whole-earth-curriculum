@@ -28,7 +28,7 @@
   </g>
   <text x="372" y="204" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">dry, cracked ground</text>
   <path d="M430 270 q12 -2 14 -16 q2 -14 -12 -16 l2 16 q-14 -2 -16 12 q-2 14 12 16 z" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <text x="436" y="316" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">water jar</text>
+  <text x="436" y="316" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">water jar</text>
 
   <text x="256" y="430" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#222222">Clearing the forest changes the water — and the people downstream.</text>
 </svg>

@@ -180,3 +180,5 @@ and one thing the neighborhood could do together — and why both matter.
 - Nobel Prize — Wangari Maathai (Green Belt Movement): <https://www.nobelprize.org/prizes/peace/2004/maathai/facts/> (S-059).
 - On explicit instruction and worked examples: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- CSIRO — Indigenous Cultural Burning education resources (S-320).
+- Firesticks Alliance (now Living Knowledge Network) — Indigenous fire and cultural burning (S-321).

@@ -131,10 +131,10 @@ as real as any workout. The **global** lens: the same four blocks appear in coun
 forms worldwide, so no single form is the default. The **critical-thinking** lens: a
 claim about "the best exercise" is a claim to check against the four blocks and the
 person's own body. The **technology & environment** lens: the four blocks were once
-built invisibly by the physical work of daily environments — farming, carrying,
-climbing — and labor-saving technology has quietly removed much of that incidental
-movement, so most people must now add the blocks back on purpose. Preview: Lesson 10
-turns the blocks into your own plan.
+built invisibly by the physical work of daily environments — farming, carrying, climbing
+— and labor-saving technology has quietly removed much of that incidental movement, so
+most people must now add the blocks back on purpose. Preview: Lesson 10 turns the blocks
+into your own plan.
 
 ## Procedure
 

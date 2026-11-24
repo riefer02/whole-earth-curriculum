@@ -140,14 +140,14 @@ precisely because plain structure serves expert readers too.
   this, and what they need.
 - *Egalitarianism:* plain language lets a neighbour, a non-specialist, and a
   second-language reader stand on the same ground as an expert.
-- *Global:* what counts as "clear" differs across languages; precision is
-  renegotiated, not imported.
-- *Technology:* structured headings, captions, and readable type make the tool itself
-  a site of care.
+- *Global:* what counts as "clear" differs across languages; precision is renegotiated,
+  not imported.
+- *Technology:* structured headings, captions, and readable type make the tool itself a
+  site of care.
 - *Environment:* measurements, risks, and predictions are exactly where precision
   matters most.
-- *Critical-thinking:* run a two-part test on every sentence — is it accurate, and is
-  it fair?
+- *Critical-thinking:* run a two-part test on every sentence — is it accurate, and is it
+  fair?
 
 **The skill.** Model once, then release (S-011): rewrite one jargon sentence for two
 readers. Lesson 12 turns to language justice.

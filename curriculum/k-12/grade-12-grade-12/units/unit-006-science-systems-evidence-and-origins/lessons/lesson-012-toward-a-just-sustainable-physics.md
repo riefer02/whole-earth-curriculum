@@ -134,10 +134,10 @@ same people paying the cost has not been just, however it is painted (S-483).
 - *Ethics:* the proposal is ethics made operational — the constraint, the change, the
   measure.
 - *Egalitarianism:* the test is who is newly included.
-- *Global:* countries that emitted least often bear the worst costs (S-006, S-005),
-  and the circular economy is a worldwide movement (S-452).
-- *Technology:* efficiency, renewables, and circular design reduce the trade-off
-  rather than choosing a side (S-095, S-452).
+- *Global:* countries that emitted least often bear the worst costs (S-006, S-005), and
+  the circular economy is a worldwide movement (S-452).
+- *Technology:* efficiency, renewables, and circular design reduce the trade-off rather
+  than choosing a side (S-095, S-452).
 - *Environment:* waste heat and waste material are thermodynamics, not sloppiness, so
   design must work with them (S-256, S-397).
 

@@ -24,11 +24,11 @@
 
   <!-- speech bubble left -->
   <path d="M96 210 Q84 206 84 196 Q84 186 98 186 L150 186 Q164 186 164 196 Q164 206 150 206 L124 206 L118 216 L122 206 Z" fill="#eef4ee" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="124" y="199" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">I speak</text>
+  <text x="124" y="199" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">I speak</text>
 
   <!-- speech bubble right -->
   <path d="M362 210 Q348 206 348 196 Q348 186 362 186 L414 186 Q428 186 428 196 Q428 206 414 206 L388 206 L382 216 L386 206 Z" fill="#eef4ee" stroke="#2b3a42" stroke-width="1.5"/>
-  <text x="388" y="199" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#222222">I speak</text>
+  <text x="388" y="199" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#222222">I speak</text>
 
   <!-- three steps across the bottom -->
   <!-- step 1 -->

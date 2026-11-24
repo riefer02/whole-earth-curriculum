@@ -133,8 +133,8 @@ lesson in coldness.
 
 - *Critical-thinking:* mark feeling-words and checkable claims in one text, then ask
   which is carrying the weight.
-- *Ethics:* fear stirred to sell a lie is manipulation; hope stirred toward fairness
-  is not; judge by what is asked, and for whom.
+- *Ethics:* fear stirred to sell a lie is manipulation; hope stirred toward fairness is
+  not; judge by what is asked, and for whom.
 - *Egalitarianism:* people with less power are often spoken *at* with feeling and denied
   the reasons; demanding reasons is demanding to be treated as an equal.
 - *Technology:* feeds optimise for feeling — outrage and awe travel farther (S-481).

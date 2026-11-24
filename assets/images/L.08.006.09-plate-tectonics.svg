@@ -12,8 +12,8 @@
     <path d="M34 150 L60 150 L74 122 L104 150 L134 150 L174 150" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
     <path d="M52 166 L52 150" stroke="#e0a458" stroke-width="3" marker-end="url(#pl-L-08-006-09-plate-tectonics)"/>
     <path d="M122 166 L122 150" stroke="#e0a458" stroke-width="3" marker-end="url(#pr-L-08-006-09-plate-tectonics)"/>
-    <text x="104" y="196" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">mid-ocean ridge,</text>
-    <text x="104" y="212" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">new crust forms</text>
+    <text x="104" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">mid-ocean ridge,</text>
+    <text x="104" y="212" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">new crust forms</text>
   </g>
 
   <!-- convergent -->
@@ -23,8 +23,8 @@
     <path d="M186 150 L224 150 L240 116 L256 128 L272 150 L326 150" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
     <path d="M232 166 L246 132" stroke="#e0a458" stroke-width="3" marker-end="url(#pl-L-08-006-09-plate-tectonics)"/>
     <path d="M288 166 L268 138" stroke="#e0a458" stroke-width="3" marker-end="url(#pr-L-08-006-09-plate-tectonics)"/>
-    <text x="256" y="196" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">mountains rise;</text>
-    <text x="256" y="212" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">trench + volcanoes</text>
+    <text x="256" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">mountains rise;</text>
+    <text x="256" y="212" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">trench + volcanoes</text>
   </g>
 
   <!-- transform -->
@@ -35,8 +35,8 @@
     <path d="M408 150 L408 180" stroke="#2b3a42" stroke-width="2" stroke-dasharray="5 4"/>
     <path d="M372 150 L372 182" stroke="#e0a458" stroke-width="3" marker-end="url(#pu-L-08-006-09-plate-tectonics)"/>
     <path d="M444 150 L444 118" stroke="#e0a458" stroke-width="3" marker-end="url(#pd-L-08-006-09-plate-tectonics)"/>
-    <text x="408" y="196" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">fault; earthquakes</text>
-    <text x="408" y="212" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">where plates grind</text>
+    <text x="408" y="196" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">fault; earthquakes</text>
+    <text x="408" y="212" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">where plates grind</text>
   </g>
 
   <defs>

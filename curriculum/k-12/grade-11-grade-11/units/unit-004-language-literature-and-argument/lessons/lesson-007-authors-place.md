@@ -116,16 +116,15 @@ that every author, including you, writes from somewhere.
 ## Facilitator note
 
 The idea to land: **a text is written by a situated person — their time, place,
-language, and relation to power shape the text, and a careful reader asks who wrote
-this, from where, in what language, and for whom.** Two canonical examples carry this:
-Ngũgĩ wa Thiong'o, who argued that being made to write in the colonizer's language
-distanced him from his home world and chose to write in Gikuyu (S-424); and Gloria
-Anzaldúa, who lived and wrote *between* languages — Chicano Spanish, English, and more —
-insisting her languages are her identity, not a deficit (S-425). Present both as *their
-lived arguments*, held as testimony to be weighed, never as a single verdict all
-learners must adopt (inquiry over creed, philosophy §11). A learner who writes
-comfortably in one language is not "wrong"; they are invited to *notice* their own
-position, whatever it is.
+language, and relation to power shape it — so the careful reader asks who wrote this,
+from where, in what language, and for whom.** Two canonical examples: Ngũgĩ wa Thiong'o,
+who argued that writing in the colonizer's language distanced him from his home world,
+and chose to write in Gikuyu (S-424); and Gloria Anzaldúa, who wrote *between* languages
+— Chicano Spanish, English, and more — insisting her languages are her identity, not a
+deficit (S-425). Present both as *their lived arguments*, testimony to be weighed, never
+a verdict all learners must adopt (inquiry over creed, philosophy §11). A learner who
+writes comfortably in one language is not "wrong"; they are invited to *notice* their
+own position.
 
 Model the four questions once, then let learners apply them (worked example → guided
 practice → independent work; S-011). The **global** lens: choose authors from beyond one

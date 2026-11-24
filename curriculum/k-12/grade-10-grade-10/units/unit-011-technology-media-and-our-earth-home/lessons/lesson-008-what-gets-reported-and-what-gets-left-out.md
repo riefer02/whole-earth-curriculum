@@ -139,8 +139,8 @@ exist.
   across them widens the frame.
 - *Technology:* the feed amplifies the most engaging frame, not the most complete one
   (S-482).
-- *Environment:* a drought framed as "weather" omits the long human causes; notice
-  what the frame hides.
+- *Environment:* a drought framed as "weather" omits the long human causes; notice what
+  the frame hides.
 
 **The skill.** Model once, then release (S-011): frame one story two ways and say what
 each version hides. Use the event example with care and keep claims hedged. Next we
@@ -190,3 +190,4 @@ would you look to fill the gap?
   (2011) (S-482).
 - On the danger of a single story and whose experience is centered: Chimamanda Ngozi Adichie, "The
   Danger of a Single Story," <https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story> (S-417).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

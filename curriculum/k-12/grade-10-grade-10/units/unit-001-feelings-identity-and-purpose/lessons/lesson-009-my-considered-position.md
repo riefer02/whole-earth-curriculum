@@ -141,9 +141,11 @@ position may be told as a story, a list, a song, or a vow.
   another.
 - *Global:* the shape of a self is drawn differently across cultures (Lesson 7); all
   forms are valid.
-- **Technology & environment:** a position built to be read back and revised resists the
-  feed's demand for an instant, fixed, performable self.
 - *Social-emotional:* this is deeply personal — share only what you choose.
+
+- *Technology:* a position built to be read back and revised resists the feed’s instant,
+  fixed self.
+- *Critical-thinking:* ask which pillar rests on evidence and which on hope.
 
 **The skill.** Model a complete worked example, then release (S-011): gather values,
 story, and choices into one writable, revisable position. It is the unit's **summative**

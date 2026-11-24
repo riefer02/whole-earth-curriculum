@@ -139,9 +139,8 @@ caregiving, crowded housing, light, and noise shape real sleep.
 - *Social-emotional:* sleep and mood are tightly linked; hold this gently.
 - *Egalitarianism:* shift work, caregiving, and poor housing cut into sleep unevenly — a
   fairness question, not only a habit.
-- *Global:* one long night, a midday rest, shared rooms — no pattern is more
-  "correct".
-- **Technology & environment:** screens, light, and the always-on feed are among the
+- *Global:* one long night, a midday rest, shared rooms — no pattern is more "correct".
+- *Technology and environment:* screens, light, and the always-on feed are among the
   loudest thieves of sleep.
 - *Critical-thinking:* a population benchmark is not a measurement of any one learner.
 

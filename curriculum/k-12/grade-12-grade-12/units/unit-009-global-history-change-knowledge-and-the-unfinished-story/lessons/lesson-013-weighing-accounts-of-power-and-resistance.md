@@ -116,40 +116,39 @@ a judgment that is reasoned — not a cheer, not a shrug.
 
 ## Facilitator note
 
-**Tone.** Fair and unhurried: two accounts, one act, and a judgment the learner must
-earn.
+**Tone.** Fair: two accounts, one act, and a judgment the learner must earn.
 
 **The facts to land.**
 
 1. In a contested event, the account of those holding power and the account of those
    resisting describe the same act from different places; weighing asks who holds power,
-   who resists and why, who benefits and who is harmed — then forms a reasoned judgment
-   naming what stays unsettled.
+   who resists and why, who benefits and who is harmed in each telling — then forms a
+   reasoned judgment that names what stays unsettled.
 2. The Salt March, 1930: Gandhi led a march to the sea to make salt in defiance of a
-   British colonial salt tax (S-087, S-205). The colonial account saw lawlessness; the
-   marchers saw a refusal of an unjust order.
-3. Power is not only force — it is the ability to set the agenda and shape what counts
-   as "lawful" (S-275).
+   British colonial salt tax, an act of nonviolent resistance (S-087, S-205). The
+   colonial account saw lawlessness; the marchers' account saw a refusal of an unjust
+   order.
+3. Power is not only force; it is the ability to set the agenda and shape what counts as
+   "lawful" (S-275).
 
-**Don't overshoot.** Do not assert one verdict; the learner weighs and judges, and may
-judge firmly.
+**Don't overshoot.** Do not assert one verdict; the learner weighs, and may judge
+firmly.
 
 **The lenses, briefly.**
 
-- *Ethics:* a judgment can be firm *and* admit what it cannot settle; firmness without
-  humility is dogma.
-- *Egalitarianism:* because power shapes what counts as lawful, the account of the
-  powerful can sound neutral while serving power.
+- *Ethics:* a judgment can be firm *and* admit what it cannot settle; certainty is
+  dogma.
+- *Egalitarianism:* because power shapes what counts as lawful, the powerful can sound
+  neutral while serving power.
 - *Global:* the Defiance Campaign, the Montgomery bus boycott, the Aba Women's War
-  (S-146, S-324, S-209) — each weighed in its own terms, never flattened into one
-  template.
+  (S-146, S-324, S-209) — each weighed in its own terms.
 - *Technology:* whose account gets printed, broadcast, or archived shapes whose telling
   survives.
-- *Environment:* many resistances also defend land and water — Chipko held trees against
-  felling (S-328); the sea's salt was a resource a distant power taxed.
+- *Environment:* many resistances defend land and water — Chipko held trees (S-328); the
+  sea's salt was taxed by a distant power.
 
 **The skill.** Teach the weighing explicitly (S-011), then release: two accounts, four
-questions, one judgment. Lesson 14 turns judgment into role.
+questions, one judgment.
 
 ## Procedure
 

@@ -129,10 +129,9 @@ can *reveal* but not *settle*. The **egalitarian** lens: who can absorb a loss c
 what "fair risk" means; a 1% chance of ruin is trivial to the wealthy and devastating to
 the poor — so equal odds are not always equal fairness. The **global** lens: the
 mathematical study of expected value grew from questions about dividing stakes in
-interrupted games of chance, worked out by Pascal and Fermat in the 17th century
-(S-301) — one chapter in a worldwide history of deciding under uncertainty. Close by
-assembling the unit portfolio and doing a spaced, interleaved recall of all four strands
-(S-039).
+interrupted games of chance, worked out by Pascal and Fermat in the 17th century (S-301)
+— one chapter in a worldwide history of deciding under uncertainty. Close by assembling
+the unit portfolio and doing a spaced, interleaved recall of all four strands (S-039).
 
 ## Procedure
 

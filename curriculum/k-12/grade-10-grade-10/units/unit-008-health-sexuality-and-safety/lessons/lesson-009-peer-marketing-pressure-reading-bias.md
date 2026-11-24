@@ -128,18 +128,17 @@ rather than on someone else's purpose.
 
 **The lenses, briefly.**
 
-- *Ethics:* persuading with facts is honest; manufactured fear or "everyone does it"
-  is not.
+- *Ethics:* persuading with facts is honest; manufactured fear or "everyone does it" is
+  not.
 - *Egalitarianism:* marketing targets the young and the uncertain; reading bias shields
   those with least to spare.
-- *Global:* the same product carries different appeals in different cultures; the
-  motive stays.
+- *Global:* the same product carries different appeals in different cultures; the motive
+  stays.
 - *Technology:* algorithms place marketing beside genuine help so the two look
   identical.
-- *Social-emotional:* wanting to belong is good; the skill is noticing when it is
-  used.
+- *Social-emotional:* wanting to belong is good; the skill is noticing when it is used.
 
-**Safeguarding.** Peer-pressure examples may touch sex and bodies: keep them non-graphic
+**Safety floor.** Peer-pressure examples may touch sex and bodies: keep them non-graphic
 and fictional, and normalize resisting pressure — saying no, waiting, checking facts —
 as strength. Learners may opt out. If a message suggests coercion, respond privately and
 follow safeguarding.
@@ -193,3 +192,4 @@ required.
 - WHO — Set of recommendations on the marketing of foods and non-alcoholic beverages
   to children (marketing aimed at the young): <https://www.who.int/publications/i/item/9789241500210>
   (S-312).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

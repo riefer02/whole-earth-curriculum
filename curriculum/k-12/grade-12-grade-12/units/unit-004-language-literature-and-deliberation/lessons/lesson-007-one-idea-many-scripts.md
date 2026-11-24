@@ -146,14 +146,14 @@ measure.
 
 **The lenses, briefly.**
 
-- *Ethics:* calling a variety a "dialect" or a "broken" version is a value claim
-  dressed as a fact.
+- *Ethics:* calling a variety a "dialect" or a "broken" version is a value claim dressed
+  as a fact.
 - *Egalitarianism:* whose word for "tea" is treated as the real one is power, not
   linguistics.
 - *Global:* the tea/chai map is world trade in miniature — caravans and sea routes.
 - *Technology:* Unicode and machine translation shape how languages now meet.
-- *Environment:* *Camellia sinensis* is one plant, domesticated in one region, spread
-  by trade until its name marks two hemispheres.
+- *Environment:* *Camellia sinensis* is one plant, domesticated in one region, spread by
+  trade until its name marks two hemispheres.
 - *Critical-thinking:* shared ancestor, or borrowed word?
 
 **The skill.** Model one word set, then release (S-011): trace one word's route and

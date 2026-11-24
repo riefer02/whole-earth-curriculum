@@ -130,25 +130,24 @@ that loop, then meets an audience.
    what the learner *does* and say back one concrete thing, never rank (S-011, S-189).
 
 **Don't overshoot.** Do not let the loop become perfectionism; one revision at a time,
-and "not yet" is a next step rather than a verdict.
+and "not yet" is a next step than a verdict.
 
 **The lenses, briefly.**
 
 - *Ethics:* honest feedback is a gift — specific, kind, and about the work.
 - *Egalitarianism:* feedback is a peer's help, not a judge's verdict; everyone gives and
   receives.
-- *Global:* from tinikling dancers stepping between bamboo poles in the Philippines
-  (S-116) to the capoeira circle in Brazil (S-325), craft is passed on by watched
-  repetition.
+- *Global:* from tinikling in the Philippines (S-116) to the capoeira circle in Brazil
+  (S-325), craft is passed on by watched repetition.
 - *Technology:* a camera shows what a mirror cannot — the piece from the audience's
   eyes.
 - *Environment:* rehearsing outdoors teaches working *with* place and weather.
-- *Community:* the natural home of a performance is an audience who wants it to
-  succeed.
+- *Community:* the natural home of a performance is an audience who wants it to succeed.
 
-**The skill.** Model the loop once, then release (S-011): record, name one thing that
-wavered, revise it, record again. Keep the showing low-stakes and cooperative
-(assessment.md). Lesson 9 turns to other people's movement traditions.
+- *Physical:* the body is the instrument — breath, stance, and stamina are part of the
+  craft. **The skill.** Model the loop once, then release (S-011): record, name one
+  thing that wavered, revise, record again. Keep the showing low-stakes and cooperative
+  (assessment.md). Lesson 9 turns to movement traditions.
 
 ## Procedure
 

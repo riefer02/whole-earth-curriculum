@@ -192,3 +192,4 @@ language. Share both versions with someone and laugh — then say what the real 
 - Translation always gains and loses: Everett, _Language: The Cultural Tool_ (S-167).
 - Plurilingual competence as the skill tools assist: Council of Europe, CEFR Companion Volume
   (S-237).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

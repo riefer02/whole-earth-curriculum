@@ -144,7 +144,7 @@ adult's choice has stopped caring and started controlling.
 - *Environment:* a safe, accessible place is itself a form of care, and many people's
   need for care is shaped by where they must live.
 
-**Safeguarding.** Always point to the adult or professional path; never leave a learner
+**Safety floor.** Always point to the adult or professional path; never leave a learner
 feeling they must carry a heavy secret alone (S-051).
 
 **The skill.** Teach one ring as a worked example, then release (S-011): build your

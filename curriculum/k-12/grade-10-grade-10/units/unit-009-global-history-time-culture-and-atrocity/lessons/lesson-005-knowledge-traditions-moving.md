@@ -194,3 +194,4 @@ it.
   the Peacock* (S-272), and Georges Ifrah, *The Universal History of Numbers* (S-023).
 - On Timbuktu's manuscript tradition: UNESCO World Heritage Centre, "Timbuktu"
   (S-268), and UNESCO Memory of the World (S-201).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

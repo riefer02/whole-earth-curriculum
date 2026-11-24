@@ -128,10 +128,10 @@ of the dead and the harmed. The **egalitarian** lens: memorials and justice exis
 because every person's life counts equally. The **global** lens: remembrance takes many
 forms across peoples — days of remembrance, museums, and testimony exist for cases
 across continents, and the duty to remember is not one people's alone (S-491, S-494).
-The **critical-thinking** lens: different forms of remembrance serve different
-purposes — testimony preserves a voice, a museum teaches, a court seeks accountability —
-and none replaces the others. Preview: Lesson 12 turns to the ordinary people who
-resisted and sheltered others.
+The **critical-thinking** lens: different forms of remembrance serve different purposes
+— testimony preserves a voice, a museum teaches, a court seeks accountability — and none
+replaces the others. Preview: Lesson 12 turns to the ordinary people who resisted and
+sheltered others.
 
 ## Procedure
 
@@ -183,3 +183,5 @@ the events themselves outside class.)
 - On teaching with dignity: US Holocaust Memorial Museum, "Guidelines for Teaching
   about the Holocaust" (S-495); on naming individuals, not numbers: Paul Slovic,
   "If I Look at the Mass I Will Never Act" (S-414).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).
+- Encyclopaedia Britannica — Rwanda genocide of 1994 (S-494).

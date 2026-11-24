@@ -129,10 +129,10 @@ learner's values or conclusion (inquiry over creed).
 
 **Sensitive-topic guidance:** learners complete the capstone **privately** and share
 **only by choice**. Use fictional scenarios and pre-selected (or self-found, with
-personal info removed) claims; no learner discloses their own experience. Normalize
-delay and abstinence as complete, valid options. If any work or question suggests a
-learner is unsafe or at risk, respond privately and follow your safeguarding procedure
-to a **trusted adult or health service**. Celebrate mastery of the *skill*, never any
+personal info removed) claims; no learner discloses their experience. Normalize delay
+and abstinence as complete, valid options. If any work or question suggests a learner is
+unsafe or at risk, respond privately and follow your safeguarding procedure to a
+**trusted adult or health service**. Celebrate mastery of the *skill*, never any
 particular choice.
 
 The **ethics** lens: the capstone is the unit's evidence that a learner can reason with

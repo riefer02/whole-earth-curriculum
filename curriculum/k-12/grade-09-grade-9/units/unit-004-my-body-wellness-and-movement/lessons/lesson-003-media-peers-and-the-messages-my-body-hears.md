@@ -203,3 +203,5 @@ questions on it in one or two sentences and bring your notes to the next lesson.
   not positive body image?" *Body Image* (S-407).
 - On media and tech impact on young people: Common Sense Media Research Program (S-226).
 - On explicit instruction and worked examples: Kirschner, Sweller & Clark (2006) (S-011).
+- Common Sense Education — News & Media Literacy (S-063).
+- Barrett — How Emotions Are Made: The Secret Life of the Brain (S-401).

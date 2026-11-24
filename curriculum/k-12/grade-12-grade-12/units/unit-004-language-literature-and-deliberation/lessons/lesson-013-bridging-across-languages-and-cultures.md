@@ -147,8 +147,8 @@ language conform.
   one.
 - *Technology:* tools give the gist, flatten tone and idiom, and serve low-resource
   languages poorly (S-350).
-- *Environment:* languages carry knowledge of plants, weather, seasons, and places;
-  when a language is lost, that knowledge can go with it (Kimmerer, S-427).
+- *Environment:* languages carry knowledge of plants, weather, seasons, and places; when
+  a language is lost, that knowledge can go with it (Kimmerer, S-427).
 - *Critical-thinking:* what did the tool get right, and what did it flatten?
 
 **The skill.** Model once, then release (S-011): interpret one short message both ways,

@@ -55,7 +55,7 @@ context_variants:
     note: Learners who read and write easily write the feeling words; others draw a face in each spot or point and say it aloud
 assets:
   - path: assets/images/L.02.002.04-my-bodys-feeling-map.svg
-    alt: A body outline with blank boxes beside the cheeks, chest, tummy, hands, shoulders, and legs, connected by leader lines, for a learner to write or draw the feeling that lives in each place
+    alt: "A body map of a child figure with six prompt boxes beside it, each joined to a place on the body by a leader line — cheeks, hot or warm; shoulders, heavy or light; heart, fast or calm; hands, sweaty or dry; tummy, fluttery or settled; legs, bouncy or still."
     kind: worksheet
     source: original
 duration_minutes: 45

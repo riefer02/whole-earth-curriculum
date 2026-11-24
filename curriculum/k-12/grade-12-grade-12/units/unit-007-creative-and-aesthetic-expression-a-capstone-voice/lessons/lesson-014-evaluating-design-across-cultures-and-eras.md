@@ -209,3 +209,4 @@ footprint, craft — in one sentence each, and write one improvement you would m
   Universal Design (S-369).
 - On the circular-economy frame for a design's footprint: Ellen MacArthur Foundation (S-452).
 - On honoring living craft traditions: UNESCO Intangible Cultural Heritage (S-056).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

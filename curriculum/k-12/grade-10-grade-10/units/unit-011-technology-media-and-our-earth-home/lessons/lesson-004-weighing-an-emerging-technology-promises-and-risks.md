@@ -134,7 +134,8 @@ remember that whether a risk is acceptable is a value judgment, not a measuremen
 
 **The lenses, briefly.**
 
-- **Technology and environment:** the twin pans of the scale.
+- *Technology:* the tool itself is the first pan of the scale.
+- *Environment:* the Earth’s cost is the second pan, and neither pan can be skipped.
 - *Egalitarianism:* access and harm are not shared out evenly.
 - *Global:* infrastructure, law, and wealth change what a tool does.
 - *Ethics:* acceptability is weighed, not measured (philosophy §5).
@@ -196,3 +197,4 @@ ask: for whom is each true, and who would we want deciding whether to adopt it?
   Resources for Food and Agriculture, <https://www.fao.org/cgrfa/en/> (S-178).
 - On uneven digital benefits and who bears risk: World Bank, *World Development Report 2016*,
   <https://www.worldbank.org/en/publication/wdr2016> (S-281).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

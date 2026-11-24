@@ -135,7 +135,7 @@ varies dramatically by place and circumstance — no single story of resilience 
 default. The **critical-thinking** lens: distinguishing self-made from structural is a
 careful descriptive act, not a mood.
 
-**Safeguarding:** cards are general and gentle. No learner is required to disclose real
+**Safety floor.** cards are general and gentle. No learner is required to disclose real
 hardship, discrimination, or trauma. If a learner names real structural harm, honor it
 as fact, do not minimize it, and redirect toward support and the detour that actually
 exists — never toward "try harder."

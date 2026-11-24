@@ -129,14 +129,14 @@ The **ethics** lens: to critique fairly is to describe before judging and to ask
 respectful questions rather than pronounce. The **egalitarianism** lens: the ladder
 needs no special training — only careful looking and honest wording, open to anyone. The
 **global** lens: the same four moves work on a Japanese woodblock print (S-364), a Māori
-painted rafter pattern (S-115), and an Akan adinkra cloth stamped with proverbs
-(S-084) — each met as a living tradition carried by real people now. The **technology**
-lens: digital collections and image search put works from many cultures on one screen,
-but the screen is not the work — name that you are seeing a reproduction, and that the
-living context (place, people, occasion) matters. The **environment** lens: many
-traditions make art from local materials and respond to a local landscape, so "what is
-it made of and where is it from" is part of faithful description. Preview: Lesson 4
-sharpens the final rung into a defended judgment.
+painted rafter pattern (S-115), and an Akan adinkra cloth stamped with proverbs (S-084)
+— each met as a living tradition carried by real people now. The **technology** lens:
+digital collections and image search put works from many cultures on one screen, but the
+screen is not the work — name that you are seeing a reproduction, and that the living
+context (place, people, occasion) matters. The **environment** lens: many traditions
+make art from local materials and respond to a local landscape, so "what is it made of
+and where is it from" is part of faithful description. Preview: Lesson 4 sharpens the
+final rung into a defended judgment.
 
 ## Procedure
 
@@ -202,3 +202,4 @@ the person who knows it best.
 - On Māori arts as living heritage: Te Papa Tongarewa (S-115).
 - On Akan adinkra cloth as a living tradition: Smithsonian National Museum of African Art
   (S-084); general art-history frame: The Met Heilbrunn Timeline of Art History (S-114).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

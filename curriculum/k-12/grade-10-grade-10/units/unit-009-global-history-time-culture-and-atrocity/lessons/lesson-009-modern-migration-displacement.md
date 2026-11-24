@@ -115,8 +115,8 @@ examples before independent analysis (S-011).
 
 **Emotional safety:** this lesson touches real hardship (war, displacement, climate
 loss) but without graphic detail. Give a brief warning, allow stepping out, name a
-trusted adult, and ground afterward. Keep the human consequences concrete and
-dignified — a family, a place, a choice or a forced flight — never only counts.
+trusted adult, and ground afterward. Keep the human consequences concrete and dignified
+— a family, a place, a choice or a forced flight — never only counts.
 
 The **global** lens is the spine: displacement is worldwide — UNHCR documents tens of
 millions of forcibly displaced people (refugees, asylum-seekers, and internally
@@ -179,3 +179,4 @@ weather?* Together, name the driver and whether the move was chosen or forced.
   (S-086).
 - On forced displacement today: UNHCR, *Global Trends* (S-493).
 - On climate as a driver: IOM, "Climate Action" (S-383), and the IPCC (S-005).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

@@ -123,19 +123,19 @@ build (S-011). Be honest about limits: the model is tremendously successful but
 incomplete — it does not yet include gravity or explain dark matter (S-498).
 
 The **ethics** lens: the unfinished unification — gravity outside the frame — models
-intellectual honesty: scientists say plainly what the theory does *not* yet do, rather
-than claiming completion (S-498). The **egalitarianism** lens: the claim "we are all
-made of the same few particles" is literally, materially true — every person is the same
-handful of quarks and electrons, a scientific statement of deep equality. The **global**
-lens: the Standard Model is a collaborative, international construction, assembled by
+intellectual honesty: scientists say plainly what the theory does *not* yet do, than
+claiming completion (S-498). The **egalitarianism** lens: the claim "we are all made of
+the same few particles" is literally, materially true — every person is the same handful
+of quarks and electrons, a scientific statement of deep equality. The **global** lens:
+the Standard Model is a collaborative, international construction, assembled by
 physicists from many nations at CERN and elsewhere, not one country's triumph (S-498);
 and the elements of our bodies were forged in stars across the universe (S-361). The
 **technology** lens: this "useless" knowledge is the foundation of technologies from
 medical imaging to semiconductors — particle physics made the devices that run the
 modern world (S-498). The **environment** lens: "we are made of star-stuff" — the
-carbon, oxygen, and iron in our bodies were made in stars and scattered by their
-deaths — ties our matter to the cosmos and its cycles (S-361). Preview: Lesson 11 weighs
-the technologies this physics enables.
+carbon, oxygen, and iron in our bodies were made in stars and scattered by their deaths
+— ties our matter to the cosmos and its cycles (S-361). Preview: Lesson 11 weighs the
+technologies this physics enables.
 
 ## Procedure
 
@@ -198,3 +198,4 @@ are that element's atoms made of? Write the recipe in two or three lines.
 - On the Standard Model, particle families, the Higgs, and gravity's exclusion: CERN — The
   Standard Model (S-498); OpenStax College Physics (S-435).
 - On the elements being forged in stars: NASA — Star Lifecycle (S-361).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

@@ -178,3 +178,4 @@ whose it was.
 - On language, culture, and the politics of the colonizer's tongue: Ngũgĩ wa
   Thiong'o, *Decolonising the Mind* (1986) (S-424); and on Indigenous knowledge and
   reciprocity: Robin Wall Kimmerer, *Braiding Sweetgrass* (2013) (S-427).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

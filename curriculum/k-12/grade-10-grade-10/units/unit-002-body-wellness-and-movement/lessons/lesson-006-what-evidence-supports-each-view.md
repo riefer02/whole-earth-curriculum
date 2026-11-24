@@ -138,15 +138,15 @@ it; a tradition may carry value no trial measures (philosophy §5, §11).
 - *Intellectual:* the ladder is the skill; place each claim on a rung and say why.
 - *Critical-thinking:* watch for the **placebo effect** and the leap from anecdote to
   proof.
-- *Ethics:* asking for evidence is care, not contempt; never sneer at another
-  culture's wisdom.
+- *Ethics:* asking for evidence is care, not contempt; never sneer at another culture's
+  wisdom.
 - *Global:* scientific method is one cultural tradition, now shared — useful, not
   superior.
 - *Egalitarianism:* everyone deserves the same honest standard, from clinic or market
   stall.
-- *Social-emotional:* weighing a practice someone loves can feel personal; let
-  learners choose the example.
-- **Technology & environment:** feeds reward what grabs attention, and "wellness"
+- *Social-emotional:* weighing a practice someone loves can feel personal; let learners
+  choose the example.
+- *Technology and environment:* feeds reward what grabs attention, and "wellness"
   products carry environmental costs.
 
 **The skill.** Model once, then release (S-011): place two claims on the ladder and say
@@ -209,3 +209,4 @@ that asking does not have to mean rejecting.
   *Maturitas* 106, 48–56 (S-408).
 - On the physiology of stress: American Psychological Association (S-338), see Lesson 1.
 - On distinguishing evidence from values: philosophy §5.
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

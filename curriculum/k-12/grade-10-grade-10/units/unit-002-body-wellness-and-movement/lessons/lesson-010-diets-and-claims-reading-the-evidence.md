@@ -143,8 +143,8 @@ means "does not harm" (philosophy §5).
   eat (S-409); a claim that assumes wealth is a narrow claim.
 - *Global:* every culture has healthy foods and ways of eating; variety shows up in
   dishes worldwide (S-038).
-- *Social-emotional:* diet talk can sting; never let the discussion comment on
-  anyone's body.
+- *Social-emotional:* diet talk can sting; never let the discussion comment on anyone's
+  body.
 
 **The skill.** Model once, then release (S-011): run one diet claim through the four
 questions. Next lesson turns from the body to the planet.
@@ -211,3 +211,4 @@ anyone's body.
   Image," <https://www.nationaleatingdisorders.org/body-image-0> (S-411).
 - On hunger and food security shaping what people can eat: FAO, "The State of Food
   Security and Nutrition in the World" (S-409).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

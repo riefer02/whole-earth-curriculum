@@ -119,19 +119,20 @@ costs someone must pay. Comparing them honestly is the first step toward choosin
 
 1. **How it works:** fossil fuels (coal, oil, natural gas) are ancient buried plant and
 animal matter, burned to release stored chemical energy; renewables (solar, wind, hydro,
-geothermal) capture energy that is naturally and continuously replenished.
-2. **Limits:** fossil fuels are finite (made over millions of years) and unevenly
+geothermal) capture energy that is naturally and continuously replenished. 2.
+**Limits:** fossil fuels are finite (made over millions of years) and unevenly
 distributed; renewables are "flow-limited" and often **intermittent** — the sun sets,
-the wind stops — so they need storage or backup.
-3. **Effects:** burning fossil fuels emits carbon dioxide and local pollutants that harm
-health; renewables emit far less in operation but have their own effects — land use,
-materials, mining for minerals (S-095; S-438; S-219).
+the wind stops — so they need storage or backup. 3. **Effects:** burning fossil fuels
+emits carbon dioxide and local pollutants that harm health; renewables emit far less in
+operation but have their own effects — land use, materials, mining for minerals (S-095;
+S-438; S-219).
 
 **The lenses, briefly.**
 
-- **Environment and technology:** these two carry the comparison.
-- *Egalitarianism:* who bears each source's costs — pollution and extraction usually land
-on the poorest and least powerful (a bridge to Lesson 10).
+- *Environment:* every source has an effect on land, air, and water.
+- *Technology:* every source is an engineering choice with limits.
+- *Egalitarianism:* who bears each source's costs — pollution and extraction usually
+land on the poorest and least powerful (a bridge to Lesson 10).
 - *Ethics:* choosing energy is choosing who and what to protect.
 - *Global:* energy mixes differ wildly by country; no single answer fits everyone.
 - *Critical-thinking:* state a limit for every source you praise — the mark of honest

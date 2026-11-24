@@ -137,14 +137,14 @@ are the body asking for rest.
 
 - *Physical:* recovery is part of training, not the absence of it.
 - *Intellectual:* plan load and rest as a small experiment with one variable.
-- *Ethics:* never a way to "fix" a body that is not broken; the goal is a body that
-  does what its person wants to do.
+- *Ethics:* never a way to "fix" a body that is not broken; the goal is a body that does
+  what its person wants to do.
 - *Egalitarianism:* time, safe space, equipment, and ability gate access; seated and
   adapted versions are always honoured.
 - *Critical-thinking:* "no pain, no gain" is a claim to test, not a law.
-- *Global:* every culture trains for work, dance, sport, or ceremony; the two
-  principles appear everywhere.
-- **Technology & environment:** where a body trains, and the tools it uses, shape what
+- *Global:* every culture trains for work, dance, sport, or ceremony; the two principles
+  appear everywhere.
+- *Technology and environment:* where a body trains, and the tools it uses, shape what
   progress can look like (Lesson 9).
 
 **The skill.** Model once, then release (S-011): set one small increase and one recovery

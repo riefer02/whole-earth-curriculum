@@ -125,9 +125,9 @@ denominator), then practice (S-011).
 
 The **intellectual** lens: the vertical asymptote is a division-by-zero the graph
 *approaches* but never reaches; the horizontal asymptote is the ratio's long-run
-behavior. The **critical-thinking** lens: ask what each feature means in the real
-model — a vertical asymptote may mark a physically impossible point, and the domain must
-be read back into the real situation. The **egalitarian** lens: the shared-cost model is
+behavior. The **critical-thinking** lens: ask what each feature means in the real model
+— a vertical asymptote may mark a physically impossible point, and the domain must be
+read back into the real situation. The **egalitarian** lens: the shared-cost model is
 literally about fairness — dividing a burden among more people lowers each share; ask
 who can afford to be at the table at all. The **technology** lens: ratios are everywhere
 in tools and dashboards (rates, densities, per-capita figures); read them as rational

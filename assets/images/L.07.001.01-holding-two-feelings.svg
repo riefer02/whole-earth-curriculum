@@ -12,16 +12,26 @@
   <g>
     <rect x="24" y="70" width="168" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="108" y="96" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">happy</text>
-    <!-- figure: head + smiling face -->
-    <circle cx="108" cy="172" r="34" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="98" cy="166" r="3.5" fill="#2b3a42"/>
-    <circle cx="118" cy="166" r="3.5" fill="#2b3a42"/>
-    <path d="M93 162 Q98 158 103 162" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M113 162 Q118 158 123 162" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M96 184 Q108 198 120 184" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <!-- waving arm -->
-    <path d="M142 190 Q160 178 164 160" fill="none" stroke="#2b3a42" stroke-width="3" stroke-linecap="round"/>
-    <circle cx="165" cy="157" r="5" fill="#f5d6b6" stroke="#2b3a42" stroke-width="2"/>
+    <!-- figure: one soft silhouette, waving -->
+    <g fill="#d8a97e">
+      <circle cx="140" cy="148" r="24"/>
+      <rect x="133" y="168" width="14" height="18" rx="6"/>
+      <rect x="120" y="180" width="40" height="72" rx="17"/>
+      <path d="M 124 190 Q 114 214 116 236" stroke="#d8a97e" stroke-width="13" stroke-linecap="round" fill="none"/>
+      <path d="M 156 190 L 166 204 L 170 182" stroke="#d8a97e" stroke-width="13" stroke-linecap="round"
+            stroke-linejoin="round" fill="none"/>
+      <path d="M 130 250 L 127 294" stroke="#d8a97e" stroke-width="18" stroke-linecap="round" fill="none"/>
+      <path d="M 150 250 L 153 294" stroke="#d8a97e" stroke-width="18" stroke-linecap="round" fill="none"/>
+      <ellipse cx="125" cy="299" rx="12" ry="6"/>
+      <ellipse cx="155" cy="299" rx="12" ry="6"/>
+    </g>
+    <ellipse cx="171" cy="178" rx="7" ry="9" fill="#d8a97e"/>
+    <!-- face -->
+    <circle cx="132" cy="143" r="3.2" fill="#2b3a42"/>
+    <circle cx="150" cy="143" r="3.2" fill="#2b3a42"/>
+    <path d="M126 139 Q132 135 138 139" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M144 139 Q150 135 156 139" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M129 160 Q140 173 151 160" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <!-- moving box -->
     <rect x="46" y="252" width="62" height="46" rx="4" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <path d="M46 252 L77 234 L108 252" fill="none" stroke="#2b3a42" stroke-width="2"/>
@@ -36,17 +46,29 @@
   <g>
     <rect x="320" y="70" width="168" height="300" rx="12" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="404" y="96" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="bold" fill="#4f6d7a">sad</text>
-    <!-- figure: head + sad face -->
-    <circle cx="404" cy="172" r="34" fill="#c99567" stroke="#2b3a42" stroke-width="2"/>
-    <circle cx="394" cy="166" r="3.5" fill="#2b3a42"/>
-    <circle cx="414" cy="166" r="3.5" fill="#2b3a42"/>
-    <path d="M389 162 L396 158" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M412 158 L419 162" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
-    <path d="M392 188 Q404 176 416 188" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <!-- figure: one soft silhouette, arms holding a heavy heart -->
+    <g fill="#a9734a">
+      <circle cx="404" cy="148" r="24"/>
+      <rect x="397" y="168" width="14" height="18" rx="6"/>
+      <rect x="384" y="180" width="40" height="72" rx="17"/>
+      <path d="M 388 190 Q 380 212 388 230" stroke="#a9734a" stroke-width="13" stroke-linecap="round" fill="none"/>
+      <path d="M 420 190 Q 428 212 420 230" stroke="#a9734a" stroke-width="13" stroke-linecap="round" fill="none"/>
+      <path d="M 394 250 L 391 294" stroke="#a9734a" stroke-width="18" stroke-linecap="round" fill="none"/>
+      <path d="M 414 250 L 417 294" stroke="#a9734a" stroke-width="18" stroke-linecap="round" fill="none"/>
+      <ellipse cx="389" cy="299" rx="12" ry="6"/>
+      <ellipse cx="419" cy="299" rx="12" ry="6"/>
+    </g>
+    <!-- face -->
+    <circle cx="396" cy="143" r="3.2" fill="#2b3a42"/>
+    <circle cx="414" cy="143" r="3.2" fill="#2b3a42"/>
+    <path d="M390 139 L396 136" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M412 136 L418 139" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
+    <path d="M394 166 Q404 155 414 166" fill="none" stroke="#2b3a42" stroke-width="2" stroke-linecap="round"/>
     <!-- tear -->
-    <ellipse cx="398" cy="178" rx="2.2" ry="4" fill="#6b93b6"/>
-    <!-- heavy heart -->
-    <path d="M404 268 c-16 -16 -30 -8 -30 8 c0 16 30 30 30 30 c0 0 30 -14 30 -30 c0 -16 -14 -24 -30 -8 z" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
+    <ellipse cx="399" cy="156" rx="2.2" ry="4" fill="#6b93b6"/>
+    <!-- heavy heart, held at the chest -->
+    <path d="M404 232 c-14 -14 -26 -7 -26 6 c0 14 26 26 26 26 c0 0 26 -12 26 -26 c0 -13 -12 -20 -26 -6 z"
+          fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
     <text x="404" y="320" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#222222">an ending</text>
   </g>
 

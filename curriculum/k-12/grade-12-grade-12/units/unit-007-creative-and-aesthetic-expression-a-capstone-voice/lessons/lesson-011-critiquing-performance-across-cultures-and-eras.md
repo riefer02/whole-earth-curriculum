@@ -205,3 +205,4 @@ best.
 - On the Day of the Dead festivity as a living ritual: UNESCO — Indigenous Festivity
   Dedicated to the Dead (S-448).
 - On performance and ritual as living heritage: UNESCO Intangible Cultural Heritage (S-056).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

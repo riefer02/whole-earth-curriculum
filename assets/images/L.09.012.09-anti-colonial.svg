@@ -5,65 +5,49 @@
   <rect width="512" height="512" fill="#fdfbf7"/>
   <text x="256" y="40" text-anchor="middle" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b3a42">Anti-Colonial Movements, Across Time &amp; Place</text>
 
-  <line x1="40" y1="96" x2="472" y2="96" stroke="#4f6d7a" stroke-width="3"/>
-  <text x="256" y="80" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">a long, shared struggle for self-rule</text>
+  <!-- timeline spine -->
+  <line x1="130" y1="88" x2="130" y2="424" stroke="#4f6d7a" stroke-width="3"/>
 
   <!-- Haiti -->
-  <circle cx="68" cy="96" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="68" y="66" text-anchor="middle" font-family="sans-serif" font-size="10.5" font-weight="bold" fill="#2b3a42">Haiti 1791–1804</text>
-  <rect x="24" y="120" width="88" height="140" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="68" y="142" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">enslaved people</text>
-  <text x="68" y="155" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">rose; first</text>
-  <text x="68" y="168" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">nation built</text>
-  <text x="68" y="181" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">by formerly</text>
-  <text x="68" y="194" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">enslaved</text>
-  <text x="68" y="212" text-anchor="middle" font-family="sans-serif" font-size="9.5" font-weight="bold" fill="#2b3a42">armed struggle</text>
+  <circle cx="130" cy="100" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="116" y="105" text-anchor="end" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">1791–1804</text>
+  <text x="150" y="96" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Haiti</text>
+  <text x="150" y="114" font-family="sans-serif" font-size="12" fill="#222222">enslaved people rose — the first nation</text>
+  <text x="150" y="130" font-family="sans-serif" font-size="12" fill="#222222">built by formerly enslaved people</text>
+  <text x="150" y="150" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">strategy: armed struggle</text>
 
   <!-- Aba Women's War -->
-  <circle cx="162" cy="96" r="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <text x="162" y="66" text-anchor="middle" font-family="sans-serif" font-size="10.5" font-weight="bold" fill="#2b3a42">Aba Women 1929</text>
-  <rect x="118" y="120" width="88" height="140" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="162" y="140" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">thousands of</text>
-  <text x="162" y="152" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">women</text>
-  <text x="162" y="164" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">organized</text>
-  <text x="162" y="176" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">against unfair</text>
-  <text x="162" y="188" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">colonial tax</text>
-  <text x="162" y="204" text-anchor="middle" font-family="sans-serif" font-size="9.5" font-weight="bold" fill="#2b3a42">collective</text>
-  <text x="162" y="216" text-anchor="middle" font-family="sans-serif" font-size="9.5" font-weight="bold" fill="#2b3a42">action</text>
+  <circle cx="130" cy="172" r="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="116" y="177" text-anchor="end" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">1929</text>
+  <text x="150" y="168" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Aba Women's War</text>
+  <text x="150" y="186" font-family="sans-serif" font-size="12" fill="#222222">thousands of women organized</text>
+  <text x="150" y="202" font-family="sans-serif" font-size="12" fill="#222222">against an unfair colonial tax</text>
+  <text x="150" y="222" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">strategy: collective action</text>
 
-  <!-- India Salt March -->
-  <circle cx="256" cy="96" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="66" text-anchor="middle" font-family="sans-serif" font-size="10.5" font-weight="bold" fill="#2b3a42">India 1930</text>
-  <rect x="212" y="120" width="88" height="140" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="256" y="142" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">Salt March —</text>
-  <text x="256" y="155" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">made salt</text>
-  <text x="256" y="168" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">peacefully,</text>
-  <text x="256" y="181" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">breaking an</text>
-  <text x="256" y="194" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">unjust law</text>
-  <text x="256" y="212" text-anchor="middle" font-family="sans-serif" font-size="9.5" font-weight="bold" fill="#2b3a42">nonviolence</text>
+  <!-- India -->
+  <circle cx="130" cy="244" r="7" fill="#6b93b6" stroke="#2b3a42" stroke-width="2"/>
+  <text x="116" y="249" text-anchor="end" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">1930</text>
+  <text x="150" y="240" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">India — the Salt March</text>
+  <text x="150" y="258" font-family="sans-serif" font-size="12" fill="#222222">made salt peacefully, breaking</text>
+  <text x="150" y="274" font-family="sans-serif" font-size="12" fill="#222222">an unjust law in public</text>
+  <text x="150" y="294" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">strategy: nonviolence</text>
 
   <!-- Algeria -->
-  <circle cx="350" cy="96" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
-  <text x="350" y="66" text-anchor="middle" font-family="sans-serif" font-size="10.5" font-weight="bold" fill="#2b3a42">Algeria 1954–62</text>
-  <rect x="306" y="120" width="88" height="140" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="350" y="142" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">war of</text>
-  <text x="350" y="155" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">independence</text>
-  <text x="350" y="168" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">against French</text>
-  <text x="350" y="181" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">rule after</text>
-  <text x="350" y="194" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">132 years</text>
-  <text x="350" y="212" text-anchor="middle" font-family="sans-serif" font-size="9.5" font-weight="bold" fill="#2b3a42">armed struggle</text>
+  <circle cx="130" cy="316" r="7" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
+  <text x="116" y="321" text-anchor="end" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">1954–62</text>
+  <text x="150" y="312" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Algeria</text>
+  <text x="150" y="330" font-family="sans-serif" font-size="12" fill="#222222">war of independence against</text>
+  <text x="150" y="346" font-family="sans-serif" font-size="12" fill="#222222">French rule, after 132 years</text>
+  <text x="150" y="366" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">strategy: armed struggle</text>
 
   <!-- Ghana -->
-  <circle cx="444" cy="96" r="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
-  <text x="444" y="66" text-anchor="middle" font-family="sans-serif" font-size="10.5" font-weight="bold" fill="#2b3a42">Ghana 1957</text>
-  <rect x="400" y="120" width="88" height="140" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="444" y="142" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">first African</text>
-  <text x="444" y="155" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">colony south</text>
-  <text x="444" y="168" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">of the Sahara</text>
-  <text x="444" y="181" text-anchor="middle" font-family="sans-serif" font-size="9.5" fill="#4f6d7a">to win it</text>
-  <text x="444" y="199" text-anchor="middle" font-family="sans-serif" font-size="9.5" font-weight="bold" fill="#2b3a42">boycott + vote</text>
+  <circle cx="130" cy="388" r="7" fill="#7a9e7e" stroke="#2b3a42" stroke-width="2"/>
+  <text x="116" y="393" text-anchor="end" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">1957</text>
+  <text x="150" y="384" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Ghana</text>
+  <text x="150" y="402" font-family="sans-serif" font-size="12" fill="#222222">first colony south of the Sahara</text>
+  <text x="150" y="418" font-family="sans-serif" font-size="12" fill="#222222">to win independence</text>
+  <text x="150" y="438" font-family="sans-serif" font-size="12" font-weight="bold" fill="#4f6d7a">strategy: boycott + vote</text>
 
-  <text x="256" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#2b3a42">Many strategies, one goal: self-rule and dignity</text>
-  <text x="256" y="326" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Peoples chose the tools that fit their moment — nonviolence,</text>
-  <text x="256" y="346" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">boycott, organized protest, and armed struggle</text>
+  <text x="256" y="472" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#2b3a42">Many strategies, one goal: self-rule and dignity</text>
+  <text x="256" y="492" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">Each people chose the tools that fit its moment</text>
 </svg>

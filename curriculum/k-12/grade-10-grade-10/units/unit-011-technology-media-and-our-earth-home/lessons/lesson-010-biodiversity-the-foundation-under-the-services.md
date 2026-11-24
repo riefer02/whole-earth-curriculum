@@ -191,3 +191,4 @@ does each kind do there — and what would be lost if one kind disappeared?
 - On a hedged example of a species' ripple effects (complex and contested): Ripple & Beschta (2012),
   trophic cascades in Yellowstone (S-310).
 - On the value of other beings beyond usefulness: Robin Wall Kimmerer, *Braiding Sweetgrass* (S-427).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

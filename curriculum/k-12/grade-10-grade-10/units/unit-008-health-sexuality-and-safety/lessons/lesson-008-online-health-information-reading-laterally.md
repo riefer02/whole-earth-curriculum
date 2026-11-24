@@ -124,14 +124,14 @@ reading** — is how fact-checkers separate signal from noise.
 **The lenses, briefly.**
 
 - *Ethics:* sharing only what you checked is honesty to everyone who trusts your feed.
-- *Egalitarianism:* misinformation spreads fastest where trust in institutions is lowest;
-  checking protects the most vulnerable first.
+- *Egalitarianism:* misinformation spreads fastest where trust in institutions is
+  lowest; checking protects the most vulnerable first.
 - *Global:* the same false claim is translated and reposted across countries.
 - *Technology:* feeds rank by engagement, not accuracy, so a compelling falsehood
   out-travels a dull truth — we must be the filter.
 - *Critical-thinking:* the spine — leave the page before judging the page.
 
-**Safeguarding.** Some misinformation targets sexual health and bodies: keep examples
+**Safety floor.** Some misinformation targets sexual health and bodies: keep examples
 non-graphic, treat claims only as material to verify, and let learners opt out. If a
 claim raises a real concern, respond privately and follow safeguarding to a trusted
 adult or health service.
@@ -189,3 +189,4 @@ No home conversation is required.
 - Common Sense Education — News & Media Literacy:
   <https://www.commonsense.org/education/digital-citizenship/topic/news-and-media-literacy>
   (S-063).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

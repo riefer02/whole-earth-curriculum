@@ -130,8 +130,8 @@ gets examined.
 
 **The lenses, briefly.**
 
-- *Ethics:* benefits and harms rarely land on the same people — the question is
-  whether the bargain is fair or a hidden transfer of cost (S-398).
+- *Ethics:* benefits and harms rarely land on the same people — the question is whether
+  the bargain is fair or a hidden transfer of cost (S-398).
 - *Egalitarianism:* the digital divide means the same device empowers one person and is
   unaffordable for another (S-281).
 - *Global:* supply chains are planetary — cobalt, lithium, rare earths (S-398) — and

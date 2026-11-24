@@ -146,9 +146,9 @@ return.
 
 **The skill.** Draw both arrows for one force in your own life.
 
-**Critical-thinking: evidence and values.** That societies shape people and people shape
-societies is documented; that everyone deserves a fair chance to shape their world is a
-commitment, not a measurement (philosophy §5).
+- *Critical-thinking:* name the force before judging it. **Evidence and values.** That
+societies shape people and people shape societies is documented; that everyone deserves
+a fair chance to shape their world is a commitment, not a measurement (philosophy §5).
 
 ## Procedure
 

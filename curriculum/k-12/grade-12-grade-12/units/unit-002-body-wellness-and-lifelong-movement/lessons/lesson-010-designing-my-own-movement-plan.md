@@ -137,8 +137,8 @@ looks impressive.
   run, long work hours.
 - *Global:* use the movement forms the learner's life already contains — walking,
   dancing, farming, games.
-- *Critical-thinking:* "you should exercise X minutes" is a general guide, not a law
-  for every body.
+- *Critical-thinking:* "you should exercise X minutes" is a general guide, not a law for
+  every body.
 - *Technology:* apps scaffold the four levers, but access is uneven and a plan that
   depends on a device fails when the device goes.
 

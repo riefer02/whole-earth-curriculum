@@ -197,3 +197,5 @@ as one sentence and one adjustment to your change.
   AIATSIS (S-085).
 - On the digital divide in who can participate: World Bank — Digital Dividends (S-281); on
   environmental justice: EPA (S-483).
+- Encyclopaedia Britannica — Ignaz Semmelweis (handwashing and childbed fever) (S-357).
+- Bullard (1990) — Dumping in Dixie: Race, Class, and Environmental Quality (S-484).

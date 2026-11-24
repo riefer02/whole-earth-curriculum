@@ -133,8 +133,8 @@ argument.
 
 - *Ethics:* a *values* claim (the story should honour many traditions) supported by
   *evidence* (diverse knowledge is more resilient) — model the distinction.
-- *Egalitarianism:* development as freedom — people able to live the lives they value, in
-  their own terms (S-460); suppressing a tradition takes a capability away.
+- *Egalitarianism:* development as freedom — people able to live the lives they value,
+  in their own terms (S-460); suppressing a tradition takes a capability away.
 - *Global:* everywhere, when one tradition dominates others are lost, and everywhere
   revival brings them back (S-428, S-056).
 - *Technology:* tools can centralise knowledge or pluralise it — a design choice about

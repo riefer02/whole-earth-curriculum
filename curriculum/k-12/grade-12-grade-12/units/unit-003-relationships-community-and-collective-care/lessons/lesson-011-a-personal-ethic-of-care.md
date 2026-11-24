@@ -138,17 +138,17 @@ test is that it serves others, not only oneself.
 
 **The lenses, briefly.**
 
-- *Ethics:* the capstone where the learner states, rather than only analyses, what
-  they hold right.
+- *Ethics:* the capstone where the learner states, rather than only analyses, what they
+  hold right.
 - *Egalitarianism:* an ethic that serves only people who look like me is half an ethic.
-- *Global:* Indigenous reciprocity, harambee, gotong royong, mink'a (S-164) — many
-  names for one recognition.
+- *Global:* Indigenous reciprocity, harambee, gotong royong, mink'a (S-164) — many names
+  for one recognition.
 - *Environment:* an ethic that stops at humans leaves out the world that holds us
   (Kimmerer, S-427).
 - *Technology:* name one tool you will use *for* your ethic, and one you will not let
   override it.
 
-**Safeguarding.** The ethic is personal and may be shared only in part.
+**Safety floor.** The ethic is personal and may be shared only in part.
 
 **The skill.** Model one written ethic, then release (S-011): three sentences — what I
 hold, what I will do, how I will know. Lesson 12 turns it into practice.

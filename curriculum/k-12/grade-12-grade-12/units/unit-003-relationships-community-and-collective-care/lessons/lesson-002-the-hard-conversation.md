@@ -142,7 +142,7 @@ needs extra care — or a decision to speak in person (Suler, S-343). The
 you are telling yourself about it, and you are halfway to honest talk. Preview: Lesson 3
 turns to repair after harm.
 
-**Safeguarding:** all scenarios are fictional. No learner is asked to script a real
+**Safety floor.** all scenarios are fictional. No learner is asked to script a real
 private conflict; they may always use a character.
 
 ## Procedure

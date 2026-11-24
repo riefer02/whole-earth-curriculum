@@ -190,3 +190,4 @@ self-service step). Ask who it helps and who it costs — and whether the people
 - On a concrete automation technology — machine translation's capabilities and limits for human work:
   Encyclopaedia Britannica, "Machine translation,"
   <https://www.britannica.com/technology/machine-translation> (S-350).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

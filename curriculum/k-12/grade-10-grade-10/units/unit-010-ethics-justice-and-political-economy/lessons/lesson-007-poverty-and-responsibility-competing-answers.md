@@ -198,3 +198,6 @@ community, the government, or all of us? Compare with the three traditions.
 - On fairness and the veil of ignorance: Rawls (1971), *A Theory of Justice* (S-459).
 - On justice extended across traditions: African Charter on Human and Peoples' Rights (S-465);
   Stanford Encyclopedia of Philosophy, "Confucius" (S-468).
+- Stanford Encyclopedia of Philosophy — Ethics in Indian and Tibetan Buddhism (S-467).
+- Encyclopaedia Britannica — dharma (S-469).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

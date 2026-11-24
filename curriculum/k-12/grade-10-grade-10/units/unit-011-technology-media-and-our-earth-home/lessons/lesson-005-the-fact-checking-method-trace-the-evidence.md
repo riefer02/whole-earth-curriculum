@@ -135,12 +135,13 @@ fooled once is not a character defect.
 
 - *Critical-thinking:* the spine — leave the page before judging the page.
 - *Technology:* generated media raises the stakes on every move.
-- *Egalitarianism:* everyone deserves this tool; media literacy is a shared good (S-217).
+- *Egalitarianism:* everyone deserves this tool; media literacy is a shared good
+  (S-217).
 - *Global:* what counts as a trustworthy source differs across media systems; none is
   the default.
 - *Ethics:* sharing an unchecked claim can harm real people, so checking is a duty.
-- *Environment:* false claims about a dam, a fire, a drought, or a river travel fast
-  and delay real care.
+- *Environment:* false claims about a dam, a fire, a drought, or a river travel fast and
+  delay real care.
 
 **The skill.** Model the method on a worked example, then guided practice, then
 independent work (S-011), holding questions open (philosophy §11). Next lesson separates
@@ -197,3 +198,4 @@ moves together. Which move changed your mind?
   <https://www.unesco.org/en/media-information-literacy> (S-217).
 - On AI-generated synthetic media and why checking matters more than ever: WITNESS Media Lab, "Prepare,
   Don't Panic: Synthetic Media and Deepfakes," <https://lab.witness.org/projects/synthetic-media-and-deep-fakes/> (S-393).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

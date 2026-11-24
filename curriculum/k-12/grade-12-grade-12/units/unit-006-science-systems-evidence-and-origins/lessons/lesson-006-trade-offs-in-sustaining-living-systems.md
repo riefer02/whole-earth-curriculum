@@ -136,9 +136,8 @@ seeing it clearly and asking who pays for it.
   biodiversity as a shared global responsibility (S-279).
 - *Technology:* a better tool may need less land, but its materials carry their own
   costs (S-397).
-- *Environment:* reversibility cuts deepest — a forest may regrow in decades, a
-  species does not return, so extinction weighs differently from a temporary cost
-  (S-437).
+- *Environment:* reversibility cuts deepest — a forest may regrow in decades, a species
+  does not return, so extinction weighs differently from a temporary cost (S-437).
 
 **The skill.** Teach the matrix explicitly, then release (S-011): run one real trade-off
 through all four questions. Lesson 7 turns to accounts of how life began.

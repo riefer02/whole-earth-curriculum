@@ -6,15 +6,15 @@
   <!-- Left box: consequences -->
   <rect x="24" y="120" width="124" height="140" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="86" y="148" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">consequences</text>
-  <text x="86" y="174" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">what happens</text>
-  <text x="86" y="192" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">if we remember</text>
-  <text x="86" y="210" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">this way?</text>
+  <text x="86" y="174" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">what happens</text>
+  <text x="86" y="192" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">if we remember</text>
+  <text x="86" y="210" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">this way?</text>
   <!-- Right box: duties -->
   <rect x="364" y="120" width="124" height="140" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="426" y="148" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">duties</text>
-  <text x="426" y="174" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">what do we owe</text>
-  <text x="426" y="192" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">those harmed,</text>
-  <text x="426" y="210" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">and after?</text>
+  <text x="426" y="174" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">what do we owe</text>
+  <text x="426" y="192" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">those harmed,</text>
+  <text x="426" y="210" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">and after?</text>
   <!-- Center question -->
   <ellipse cx="256" cy="220" rx="100" ry="48" fill="#ffffff" stroke="#2b3a42" stroke-width="3"/>
   <text x="256" y="214" text-anchor="middle" font-family="sans-serif" font-size="15" font-weight="bold" fill="#222222">how should</text>
@@ -24,8 +24,8 @@
   <!-- Bottom box: virtues -->
   <rect x="176" y="310" width="160" height="120" rx="8" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="338" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#2b3a42">virtues</text>
-  <text x="256" y="364" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">what kind of society</text>
-  <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">does this make us?</text>
+  <text x="256" y="364" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">what kind of society</text>
+  <text x="256" y="382" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">does this make us?</text>
   <line x1="256" y1="310" x2="256" y2="272" stroke="#4f6d7a" stroke-width="2"/>
   <text x="256" y="470" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#2b3a42">hold two views — then choose</text>
 </svg>

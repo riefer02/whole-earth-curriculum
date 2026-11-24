@@ -128,16 +128,16 @@ the benefit. These are descriptive facts; "shared ownership is a fairer way" is 
 we examine, not assert.
 
 The **egalitarian** lens is the heart of the lesson: who owns and decides determines who
-benefits. The **ethics** lens: two systems can both be legal and yet serve very
-different ends. The **global/anthropological** lens: cooperatives and shared
-resource-governance are not a Western invention — Elinor Ostrom documented communities
-across many societies governing shared resources (forests, fisheries, irrigation,
-grazing) by their own rules for the common good (S-416), and cooperative forms thrive
-across every region. The **technology** lens: platforms and apps can now coordinate
-cooperatives and shared ownership across distance — technology can serve ownership or
-concentrate it. Distinguish evidence from values: "cooperatives are widespread and
-member-owned" is descriptive; "that is a fairer shape for an economy" is a judgment
-learners are invited to weigh.
+benefits. The **ethics** lens: two systems can both be legal and yet serve different
+ends. The **global/anthropological** lens: cooperatives and shared resource-governance
+are not a Western invention — Elinor Ostrom documented communities across many societies
+governing shared resources (forests, fisheries, irrigation, grazing) by their rules for
+the common good (S-416), and cooperative forms thrive across every region. The
+**technology** lens: platforms and apps can now coordinate cooperatives and shared
+ownership across distance — technology can serve ownership or concentrate it.
+Distinguish evidence from values: "cooperatives are widespread and member-owned" is
+descriptive; "that is a fairer shape for an economy" is a judgment learners are invited
+to weigh.
 
 Model the contrast once (worked example, S-011), then let learners examine examples.
 

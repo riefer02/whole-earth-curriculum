@@ -139,8 +139,8 @@ documented and structural, and it is enough.
   shape the feed (S-481, S-482).
 - *Ethics:* journalism has a duty to inform fairly; ownership that narrows it is an
   ethical problem.
-- *Environment:* ownership shapes which environmental stories are told, especially
-  those that threaten powerful interests.
+- *Environment:* ownership shapes which environmental stories are told, especially those
+  that threaten powerful interests.
 
 **The skill.** Model once, then release (S-011): trace one outlet to its owners. Keep
 evidence (who owns what) apart from values (what a fair system should look like)
@@ -199,3 +199,4 @@ do we never see, and how would we find them?
   (2011) (S-482).
 - On the danger of a single story (whose stories get told): Chimamanda Ngozi Adichie, "The Danger of a
   Single Story," <https://www.ted.com/talks/chimamanda_ngozi_adichie_the_danger_of_a_single_story> (S-417).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

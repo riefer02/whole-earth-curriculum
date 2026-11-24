@@ -139,14 +139,13 @@ are documented, the obligation is argued.
 
 **The lenses, briefly.**
 
-- *Ethics:* whose language is used in law, medicine, and school is a question of
-  power.
+- *Ethics:* whose language is used in law, medicine, and school is a question of power.
 - *Egalitarianism:* multilingualism is the normal human condition; monolingual public
   service is the problem to fix.
 - *Global:* the fixes differ by place — a multilingual sign, an interpreter, a
   plain-language rewrite.
-- *Technology:* translation tools help, but they are uneven across languages and
-  cannot carry nuance (S-350) — a partial fix, not a substitute for human translation.
+- *Technology:* translation tools help, but they are uneven across languages and cannot
+  carry nuance (S-350) — a partial fix, not a substitute for human translation.
 - *Environment:* disaster warnings, water-quality notices, evacuation orders: language
   justice is environmental justice too.
 - *Critical-thinking:* "who can read this, and who cannot?" is a factual question that

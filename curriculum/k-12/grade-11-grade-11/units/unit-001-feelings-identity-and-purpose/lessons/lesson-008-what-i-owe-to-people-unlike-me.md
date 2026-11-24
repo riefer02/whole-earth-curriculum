@@ -111,22 +111,21 @@ one way to care — but it is not the only way, and it is not always the widest.
 ## Facilitator note
 
 The idea to land: **empathy is real but partial — strongest toward the near and the
-named — so widening care toward distant, unlike others requires reasoned compassion and
-solidarity, not only feeling.** Teach the empathy/compassion distinction with a worked
-example (S-011); hold the value question open, never as a single right answer.
+named — so widening care toward distant, unlike others takes reasoned compassion, not
+only feeling.** Teach the empathy/compassion distinction with a worked example (S-011);
+hold the value question open.
 
 The **ethics** lens: "what do I owe distant others?" is a core question of ethics, and
-the lesson invites learners to reason about it rather than be told the answer. The
-**egalitarian** lens: empathy's documented limits are themselves a form of inequality —
-feeling is not distributed fairly, so relying on feeling alone would leave distant
-others uncared-for; reasoned commitment is a more reliable equalizer. The **global**
-lens: mutual aid and solidarity are practices found across cultures and times (the
-harambee, gotong royong, minga, and barn-raising traditions documented in earlier
-units), and they show that care can be *structured* and *chosen*, not only felt. The
-**technology** lens: screens both help and hinder — they can bring a distant face close
-enough to feel for, and they can flood us until we numb (the psychic-numbing research,
-Slovic, S-414). The **environment** lens: the circle can widen past humans — to future
-generations and the living world — a widening many traditions already treat as owed, not
+learners reason about it rather than be told the answer. The **egalitarian** lens:
+empathy's documented limits are themselves an inequality — feeling is not distributed
+fairly, so feeling alone leaves distant others uncared-for; reasoned commitment is a
+more reliable equalizer. The **global** lens: mutual aid and solidarity are practices
+found across cultures and times (the harambee, gotong royong, minga, and barn-raising
+traditions documented in earlier units), and they show that care can be *structured* and
+*chosen*, not only felt. The **technology** lens: screens both help and hinder — they
+bring a distant face close enough to feel for, and flood us until we numb (psychic
+numbing, Slovic, S-414). The **environment** lens: the circle can widen past humans — to
+future generations and the living world — which many traditions treat as owed, not
 optional.
 
 **Emotional safety.** "What do I owe?" can feel like a demand for guilt or sacrifice.

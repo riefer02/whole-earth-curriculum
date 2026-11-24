@@ -132,8 +132,8 @@ verdict.
   fit crowded, low-resource lives.
 - *Global:* habits anchor to the textures of a life — a market day, a harvest, a
   commute, a call to prayer — so no single cue is universal.
-- *Critical-thinking:* "I'm not a person who exercises" is a claim about identity, not
-  a fact; test it against one small restart.
+- *Critical-thinking:* "I'm not a person who exercises" is a claim about identity, not a
+  fact; test it against one small restart.
 - *Technology:* reminders help, but anchor the loop to a real-world cue — a door, a
   tree, a time of day — so it survives a dead battery.
 

@@ -127,7 +127,7 @@ start.
 2. The *fact*: roughly 733 million people faced hunger in 2023, and about 2.33 billion
    faced moderate or severe food insecurity (S-409). The *value*: everyone deserves
    enough to eat. Both are true, and the second is what moves us to act.
-3. Advocacy listens to the people the change is *for*, rather than deciding for them.
+3. Advocacy listens to the people the change is *for*, than deciding for them.
 
 **Don't overshoot.** Statistics do not make the argument alone; numbers describe a
 situation, values are what oblige us to change it.

@@ -184,3 +184,5 @@ one reason someone else might place it differently.
   colonialism," <https://www.britannica.com/topic/colonialism> (S-326).
 - On periodization as an interpretive choice, see the unit's framing in
   `docs/philosophy.md` §5 (evidence vs. values) and §11 (inquiry over creed).
+- Encyclopaedia Britannica — Calendar / Gregorian calendar / Islamic calendar (S-315).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

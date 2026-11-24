@@ -121,10 +121,10 @@ feeling, a question.
 ## Facilitator note
 
 The idea to land: **a body of work is a series of pieces united by one coherent vision
-and rehearsed, visible skill — not just "more than one picture."** Teach the worked
-example explicitly, then let learners choose a theme and make three studies (S-011).
-Hold "vision" as something anyone can claim, not a privilege: a vision is simply *what
-you keep returning to and caring about*.
+and rehearsed, visible skill — not "more than one picture."** Teach the worked example
+explicitly, then let learners choose a theme and make three studies (S-011). Hold
+"vision" as something anyone can claim, not a privilege: a vision is *what you keep
+returning to and caring about*.
 
 The **ethics** lens: a body of work is a promise — the artist is accountable for the
 theme they take up, so choose a theme you can stand behind and represent honestly. The

@@ -133,15 +133,15 @@ core of restorative ethics. The **egalitarianism** lens: repair treats both peop
 equals with needs; it neither punishes downward nor lets harm stand unanswered. The
 **global** lens: cultures worldwide practice repair — truth-telling circles, peacemaking
 traditions, and restorative justice rooted in Indigenous practice; the frame is one
-modern form, not the only one. The **technology** lens: digital life complicates
-repair — a public apology can feel performative, an "unsent" message erases no harm, and
-a private repair is often the honest one (Suler, S-343). The **environment** lens: a
+modern form, not the only one. The **technology** lens: digital life complicates repair
+— a public apology can feel performative, an "unsent" message erases no harm, and a
+private repair is often the honest one (Suler, S-343). The **environment** lens: a
 throwaway culture throws away broken things and broken ties alike; the value of
 *mending* — a repaired bowl, a rewoven net, a restored streambank — is the same value
 that sustains relationships (and it echoes the circular-economy ideal of repairing
 rather than discarding). Preview: Lesson 4 turns to the listener we each want to become.
 
-**Safeguarding:** all scenarios are fictional. No learner is asked to narrate a real
+**Safety floor.** all scenarios are fictional. No learner is asked to narrate a real
 private harm; they may always use a character.
 
 ## Procedure

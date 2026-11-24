@@ -139,6 +139,8 @@ story stand in for the ordinary reasons.
 - *Global:* the reasons travel across peoples (see Resources).
 - *Egalitarianism:* a family that moved has not failed.
 - *Social-emotional:* many learners have moved; name it as normal.
+- *Environment:* a family moves when the land stops providing — drought, flood, or a river
+  that changed course.
 - *Community:* a move is usually a family decision.
 
 **The skill.** Name a reason a family moved, and say which of the four it is.

@@ -141,12 +141,12 @@ and checking is a skill rather than a sign of distrust.
   changes.
 - *Social-emotional:* misreads and hurtful replies are common and real — invite, never
   force.
-- *Ethics:* a screen that hides the face can make cruelty feel costless; noticing is
-  the first guard.
-- *Egalitarianism:* cost, connectivity, disability, and language shape who can reach whom
-  (S-281); one platform's norms are not universal.
-- *Global:* people weave screens into daily talk differently; no way of being online
-  is the right one.
+- *Ethics:* a screen that hides the face can make cruelty feel costless; noticing is the
+  first guard.
+- *Egalitarianism:* cost, connectivity, disability, and language shape who can reach
+  whom (S-281); one platform's norms are not universal.
+- *Global:* people weave screens into daily talk differently; no way of being online is
+  the right one.
 
 **The skill.** Model once, then release (S-011): read one message for the cues it drops,
 then check before replying. Lesson 2 turns to using the tools respectfully.

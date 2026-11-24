@@ -143,12 +143,12 @@ some researchers find the filter-bubble effect weaker than popular accounts clai
 - *Technology:* ranking is a choice made by someone, for engagement or for profit.
 - *Critical-thinking:* who is missing, and whose account am I not hearing?
 - *Ethics:* living only among the like-minded lets our judgments go untested.
-- *Egalitarianism:* whose voices get amplified and whose get crowded out is a question of
-  power.
+- *Egalitarianism:* whose voices get amplified and whose get crowded out is a question
+  of power.
 - *Social-emotional:* feeds reveal habits, which can feel exposing — invite, never
   force.
-- *Global:* the mechanism works in every language, but its effects differ with who
-  holds platform power.
+- *Global:* the mechanism works in every language, but its effects differ with who holds
+  platform power.
 
 **The skill.** Model the mechanism once, then release (S-011): audit one feed for who is
 missing, then lateral-read one claim. Lessons 9–10 turn to belonging and community.

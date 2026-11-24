@@ -121,11 +121,10 @@ The idea to land: **interpretation is carrying meaning, not words — the interp
 listens for the main idea, renders it faithfully, checks back with the speaker, and
 admits when unsure; accuracy and care, not fluency, are the standard.** Interpretation
 is a real skill of **plurilingual competence** — drawing on more than one language to
-mediate between people (S-237). A learner who is not fluent in two languages can still
-practice the protocol by interpreting between two *registers* or *ways of speaking*
-(child ↔ adult, formal ↔ informal), which is genuine bridging; the standard says "bridge
-between speakers of different languages," and register-bridging is a faithful,
-low-threshold version of it (egalitarian lens — never gate the skill behind fluency).
+mediate between people (S-237). A learner not fluent in two languages can still practice
+the protocol by interpreting between two *registers* (child ↔ adult, formal ↔ informal)
+— genuine bridging, and a faithful, low-threshold version of the standard (egalitarian
+lens — never gate the skill behind fluency).
 
 Model the four moves once, then let trios practice (worked example → guided practice →
 independent work; S-011). The **ethics** lens is the spine: the interpreter's first duty

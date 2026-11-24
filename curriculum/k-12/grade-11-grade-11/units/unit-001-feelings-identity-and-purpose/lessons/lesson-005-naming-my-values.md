@@ -110,15 +110,15 @@ where a meaningful life begins to take shape.
 
 The idea to land: **a value is a commitment about what matters and what we ought to do,
 discovered from what a person actually spends — and it is categorically different from a
-fact, which is how things are.** Teach the fact/value distinction explicitly with a
-worked example (S-011), then let learners name their own values.
+fact, which is how things are.** Teach the fact/value distinction with a worked example
+(S-011), then let learners name their own values.
 
 The **ethics** lens is the center: values are the stuff of ethics, and the lesson's key
 move is philosophical — distinguishing "is" from "ought" (the fact/value distinction), a
-distinction learners will need all year and beyond. The **egalitarian** lens: every
-learner's values are honored; no value here is ranked above another, and no learner is
-told what to value — the curriculum teaches *how* to think about values, never *what* to
-value (philosophy §11). The **global** lens: different cultures and traditions name and
+distinction learners need all year. The **egalitarian** lens: every learner's values are
+honored; no value here is ranked above another, and no learner is told what to value —
+the curriculum teaches *how* to think about values, never *what* to value
+(philosophy §11). The **global** lens: different cultures and traditions name and
 weigh values differently — honor, filial duty, freedom, care, hospitality — and none is
 a single correct list; the compass examples are only examples. The **technology &
 environment** lens: what we actually spend our attention and money on is now shaped by

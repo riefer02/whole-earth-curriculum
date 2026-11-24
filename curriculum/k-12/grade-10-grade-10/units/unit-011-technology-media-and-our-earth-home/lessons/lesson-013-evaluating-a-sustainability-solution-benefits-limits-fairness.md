@@ -197,3 +197,4 @@ and ask the three questions: what good does it do, what can't it do, and who gai
   resources, <https://www.csiro.au/en/education/Resource-Library/Indigenous-STEM-Education-Resources> (S-320).
 - On environmental justice — burdens and benefits falling unevenly: U.S. EPA, Environmental Justice (S-483);
   and Robert Bullard, *Dumping in Dixie* (1990) (S-484).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

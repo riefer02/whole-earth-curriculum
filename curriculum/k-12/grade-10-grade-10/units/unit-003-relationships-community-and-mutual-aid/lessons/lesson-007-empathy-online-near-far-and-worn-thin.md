@@ -139,8 +139,8 @@ empathy is bad or that caring less is a character flaw.
 
 **The lenses, briefly.**
 
-- *Technology:* read the feed as designed — endless scroll and autoplay are choices
-  that keep the stream coming.
+- *Technology:* read the feed as designed — endless scroll and autoplay are choices that
+  keep the stream coming.
 - *Social-emotional:* real exhaustion and grief may surface — invite, never force.
 - *Ethics:* the ethical question is how to care *sustainably*, not how to feel guilty.
 - *Egalitarianism:* whose suffering reaches us is shaped by algorithms, geography, and

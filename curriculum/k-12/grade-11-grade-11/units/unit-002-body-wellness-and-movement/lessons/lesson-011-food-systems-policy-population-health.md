@@ -113,34 +113,31 @@ meals contain. Your plate is personal, but the choices around it are political.
 
 ## Facilitator note
 
-This lesson moves from **personal nutrition to structural analysis**, and it is where
-the egalitarian lens is sharpest. Teach the food system concretely: food is grown,
-transported, sold, eaten, and wasted, and at each step a *policy lever* shapes what is
-available, affordable, and advertised. Name real levers without endorsing any single
-policy: **subsidies** (which crops are cheap to grow), **food labeling and marketing
-rules** (WHO recommends limiting marketing of foods high in fat, salt, and sugar to
-children; S-312), **school and public meal programs**, and **zoning/retail access**
-(where stores and markets can open, and where "food deserts" form).
+This lesson moves from **personal nutrition to structural analysis**. Food is grown,
+transported, sold, eaten, wasted; at each step a *policy lever* shapes what is
+available, affordable, advertised. Name real levers without endorsing a policy:
+**subsidies** (which crops are cheap to grow), **labeling and marketing rules** (WHO
+recommends limiting high-fat, salt, and sugar marketing to children; S-312), **school
+and public meal programs**, and **zoning/retail access** (where stores open, and where
+"food deserts" form).
 
-**Data, hedged and sourced.** About **733 million people faced hunger in 2023**
-(roughly 1 in 11) and about **2.33 billion faced moderate or severe food insecurity**
-(FAO SOFI; S-409). Roughly **1.05 billion tonnes of food were wasted in 2022** — about
-a fifth of the food available to consumers (UNEP; S-410). Figures shift year to year;
-treat them as honest snapshots, not eternal truths. WHO's healthy-diet guidance
-(diversity across food groups; limit free sugars, salt, and saturated fat) frames what
-"healthy food" means at the population level (S-038).
+**Data, hedged.** About **733 million people faced hunger in 2023**, and **2.33 billion
+faced moderate or severe food insecurity** (FAO SOFI; S-409). Roughly **1.05 billion
+tonnes of food were wasted in 2022** — a fifth of food available to consumers (UNEP;
+S-410). Treat these as snapshots, not eternal truths. WHO's guidance (diversity across
+food groups; limit free sugars, salt, saturated fat) frames "healthy food" at population
+level (S-038).
 
 **Values vs. facts.** That *everyone deserves enough to eat* is a value, not a fact —
-state it as such, and let learners form their own proposals. Do not shame any body,
-any family's food, or any culture's way of eating.
+say so; learners form their own proposals. Do not shame any body, any family's food, or
+any culture's way of eating.
 
-The **ethics** lens: access to healthy food is a question of right and wrong, not just
-economics. The **egalitarian** lens: who benefits from the current system, and who is
-left out? The **global** lens: food systems differ everywhere — compare a smallholder
-farm, a megacity market, a desert food-desert, a coastal fishing village. The
-**technology** lens: refrigeration, transport, and apps reshape food systems — for
-better and worse. The **environment** lens: wasted food wastes the water, land, and
-energy used to grow it (S-410).
+The **ethics** lens: access to healthy food is right and wrong, not just economics. The
+**egalitarian** lens: who benefits from this system, and who is left out? The **global**
+lens: food systems differ everywhere — a smallholder farm, a megacity market, a food
+desert, a fishing village. The **technology** lens: refrigeration, transport, and apps
+reshape food systems — for better and worse. The **environment** lens: wasted food
+wastes the water, land, and energy that grew it (S-410).
 
 ## Procedure
 

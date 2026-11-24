@@ -132,8 +132,8 @@ destroys trust in the method.
 
 **The lenses, briefly.**
 
-- *Environment:* the spine — the "stakeholders" include rivers, forests, birds, and
-  the climate itself.
+- *Environment:* the spine — the "stakeholders" include rivers, forests, birds, and the
+  climate itself.
 - *Egalitarianism:* those who bear a project's harms — a flooded valley, a felled forest
   — are often not those who receive its benefits.
 - *Global:* choices are made in one place and their effects travel.

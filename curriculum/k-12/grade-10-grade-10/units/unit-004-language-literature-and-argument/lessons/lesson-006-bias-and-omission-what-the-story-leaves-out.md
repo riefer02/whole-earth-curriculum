@@ -141,11 +141,12 @@ not suspicion of everything.
 **The lenses, briefly.**
 
 - *Critical-thinking:* ask the five questions habitually, of every item.
-- *Technology:* the feed is a designed selection — algorithms choose what is shown,
-  and concentrated ownership shapes what is reported at all (S-481, S-281).
-- *Egalitarianism:* whose voices get quoted and whose are omitted is a question of power.
-- *Ethics:* fair reporting means checking facts, naming sources, and representing
-  sides fairly — an ideal to hold, not a claim that any outlet meets it.
+- *Technology:* the feed is a designed selection — algorithms choose what is shown, and
+  concentrated ownership shapes what is reported at all (S-481, S-281).
+- *Egalitarianism:* whose voices get quoted and whose are omitted is a question of
+  power.
+- *Ethics:* fair reporting means checking facts, naming sources, and representing sides
+  fairly — an ideal to hold, not a claim that any outlet meets it.
 - *Global:* media differ across countries and languages; read across borders when you
   can.
 

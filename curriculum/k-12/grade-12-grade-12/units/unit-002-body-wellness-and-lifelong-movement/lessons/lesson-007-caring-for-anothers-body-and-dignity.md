@@ -115,12 +115,12 @@ never costs them their "yes" and "no."
 ## Facilitator note
 
 The idea to land, held as **description plus value**: caregiving can protect or erode
-dignity, and the difference is whether the cared-for person's **agency** stays in
-charge — so the core skill is ask–listen–adapt. Assistive technology (wheelchairs,
-hearing aids, prosthetics, white canes) is common and ordinary, used worldwide (WHO,
-S-099), and the right to take part in recreation and sport regardless of disability is a
-shared human commitment (CRPD Article 30, S-100). Hold the value plainly as value.
-Normalize help: needing or giving care is not a mark of lesser worth on either side.
+dignity, and the difference is whether the cared-for person's **agency** stays in charge
+— so the core skill is ask–listen–adapt. Assistive technology (wheelchairs, hearing
+aids, prosthetics, white canes) is common and ordinary, used worldwide (WHO, S-099), and
+the right to take part in recreation and sport regardless of disability is a shared
+human commitment (CRPD Article 30, S-100). Hold the value plainly as value. Normalize
+help: needing or giving care is not a mark of lesser worth on either side.
 
 The **ethics** lens: help that ignores a person's wishes is not help — it is control,
 even when kindly meant. The **egalitarianism** lens: care work falls unevenly across

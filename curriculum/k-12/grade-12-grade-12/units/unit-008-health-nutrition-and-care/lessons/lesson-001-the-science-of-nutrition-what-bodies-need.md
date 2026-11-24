@@ -134,15 +134,15 @@ Nutrition science describes; it never grades a person.
 
 The **ethics** lens: we teach nutrients, not moral verdicts — no food is "clean" or
 "sinful," and no body is a score. The **egalitarianism** lens: every body needs the same
-six categories; only the amounts differ, and amounts differ by body, activity, and
-life — never by worth. The **global** lens: there is no single "correct" diet — the
-WHO's healthy-diet guidance is built around *variety*, and over 100 countries adapt
-dietary guidance to their own food cultures (S-038, S-118). The **technology** lens:
-labels, apps, and laboratory science let us *measure* nutrients, but measuring is not
-the same as judging — a label can tell you salt content, never your value. The
-**environment** lens: what we eat is connected to land, water, and climate, a thread
-Lessons 2 and 4 pull. Preview: Lesson 2 weighs the ethics and environment of food
-choices; Lesson 3 holds food as culture.
+six categories; only the amounts differ, and amounts differ by body, activity, and life
+— never by worth. The **global** lens: there is no single "correct" diet — the WHO's
+healthy-diet guidance is built around *variety*, and over 100 countries adapt dietary
+guidance to their own food cultures (S-038, S-118). The **technology** lens: labels,
+apps, and laboratory science let us *measure* nutrients, but measuring is not the same
+as judging — a label can tell you salt content, never your value. The **environment**
+lens: what we eat is connected to land, water, and climate, a thread Lessons 2 and 4
+pull. Preview: Lesson 2 weighs the ethics and environment of food choices; Lesson 3
+holds food as culture.
 
 ## Procedure
 

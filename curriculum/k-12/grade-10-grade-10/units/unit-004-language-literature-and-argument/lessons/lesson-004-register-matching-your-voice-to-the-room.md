@@ -136,10 +136,10 @@ deficit — shifting between home language and formal language is *harder*, not 
 
 **The lenses, briefly.**
 
-- *Global:* the spine — compare how cultures mark respect, and let learners teach
-  their own forms of address.
-- *Egalitarianism:* a society's "formal" register is often its powerful one's; respecting
-  every way of speaking is a small act of justice.
+- *Global:* the spine — compare how cultures mark respect, and let learners teach their
+  own forms of address.
+- *Egalitarianism:* a society's "formal" register is often its powerful one's;
+  respecting every way of speaking is a small act of justice.
 - *Social-emotional:* anxiety about getting it right is real, especially in a second
   language — normalise the wobble.
 - *Ethics:* matching register honours the other person; misjudging it is usually

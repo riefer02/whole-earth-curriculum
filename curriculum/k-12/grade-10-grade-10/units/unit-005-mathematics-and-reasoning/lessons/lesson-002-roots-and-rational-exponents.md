@@ -142,7 +142,8 @@ by contradiction is the reason.
 - *Intellectual:* assuming √2 = a/b and showing it breaks is a reusable tool.
 - *Global:* these are shared human discoveries, not one culture's property — India,
   Mesopotamia, and Greece each contributed (S-240).
-- *Egalitarianism:* no people owns a number; the history belongs to everyone who uses it.
+- *Egalitarianism:* no people owns a number; the history belongs to everyone who uses
+  it.
 - *Critical-thinking:* separate the legend of priority from the proof that stands.
 
 **The skill.** Teach the conversion with worked examples (S-011), then release: rewrite
@@ -203,3 +204,4 @@ explain why the diagonal of a unit square is √2.
   <https://mathshistory.st-andrews.ac.uk/HistTopics/Real_numbers_1/> (S-353).
 - On worked examples for novices: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- MacTutor History of Mathematics Archive (University of St Andrews) (S-240).

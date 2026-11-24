@@ -138,17 +138,16 @@ is a complete answer, and no history ranks above another (philosophy §8, §11).
 
 **The lenses, briefly.**
 
-- *Ethics:* tracing history is for understanding, never for blaming someone; the goal
-  is agency now.
+- *Ethics:* tracing history is for understanding, never for blaming someone; the goal is
+  agency now.
 - *Global:* every culture reads emotion through its own history and words; "event →
   feeling" is one frame, not a universal law (S-401 is one account among many).
 - *Egalitarianism:* every learner's history is worth hearing; none is more interesting.
-- **Technology & environment:** feeds offer feeling as an instant react, while a real
+- *Technology and environment:* feeds offer feeling as an instant react, while a real
   feeling carries years; noticing that depth resists the pull.
 - *Social-emotional:* recall can raise real feeling — invite, never force; learners
   choose what to share (facilitation.md).
-- *Critical-thinking:* treat the theory as a candidate account; test it on one
-  feeling.
+- *Critical-thinking:* treat the theory as a candidate account; test it on one feeling.
 
 **The skill.** Model once, then release — worked example, guided practice, independent
 work (S-011): trace one feeling back to what it learned.

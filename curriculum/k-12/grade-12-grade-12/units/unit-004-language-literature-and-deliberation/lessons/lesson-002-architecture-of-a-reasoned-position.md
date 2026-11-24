@@ -126,10 +126,10 @@ The idea to land: a reasoned position has a *structure*, and that structure is t
 standard functional model of argument — claim, grounds, warrant, backing, qualifier, and
 rebuttal — named by Stephen Toulmin (S-236). Hold it as **one useful scaffold among
 many**, not the only way humans reason: other cultures and traditions have their own
-arts of reasoning and persuasion, and the scaffold serves those rather than replacing
-them. The Greek rhetorical tradition named persuasion through character (*ethos*),
-emotion (*pathos*), and argument (*logos*) (Aristotle, S-346); Toulmin's model is one
-precise way to build the *logos* half.
+arts of reasoning and persuasion, and the scaffold serves those than replacing them. The
+Greek rhetorical tradition named persuasion through character (*ethos*), emotion
+(*pathos*), and argument (*logos*) (Aristotle, S-346); Toulmin's model is one precise
+way to build the *logos* half.
 
 The **ethics** lens: a rebuttal is not a weakness to hide but a duty — answering the
 strongest objection is a form of honesty toward those who disagree. The

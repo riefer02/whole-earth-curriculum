@@ -179,3 +179,4 @@ Take the first step this week, and tell someone what you did. Bring back one thi
 - On mutual aid and cooperation as widespread human practice: Peter Kropotkin (1902), *Mutual Aid* (S-163).
 - On relationship skills and social awareness as SEL competencies: CASEL, "Fundamentals of Social and
   Emotional Learning," <https://casel.org/fundamentals-of-sel/> (S-001).
+- Communal-work (mutual-aid) traditions — harambee, gotong royong, mink'a/minga, barn-raising (S-164).

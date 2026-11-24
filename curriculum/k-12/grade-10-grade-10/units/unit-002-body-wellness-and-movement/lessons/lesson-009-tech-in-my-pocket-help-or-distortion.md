@@ -140,8 +140,8 @@ evaluate, never a verdict that "trackers are bad".
   someone, sometimes for profit.
 - *Critical-thinking:* ask what it measures, what it misses, and how accurate it is; a
   step count is not a life.
-- *Ethics:* is it nudging you toward care or toward shame? "You're behind" deserves
-  the same scrutiny as encouragement.
+- *Ethics:* is it nudging you toward care or toward shame? "You're behind" deserves the
+  same scrutiny as encouragement.
 - *Egalitarianism:* it assumes a wrist, a phone, a budget, and legs that step; 10,000
   steps is a target someone set, not a universal truth.
 - *Social-emotional:* numbers about our bodies can sting — invite, never force.
@@ -205,3 +205,4 @@ you or stress you?* Compare your two columns.
   Association, "Body Image," <https://www.nationaleatingdisorders.org/body-image-0> (S-411).
 - On reading media critically (asking where information comes from and what it is for):
   Common Sense Education, "News & Media Literacy" (S-063).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

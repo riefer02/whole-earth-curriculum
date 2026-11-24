@@ -45,7 +45,7 @@
     <text x="297" y="422" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">paper</text>
     <text x="377" y="422" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#222222">plastic</text>
 
-    <text x="30" y="325" text-anchor="start" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6" transform="rotate(-90 30 325)">drops absorbed</text>
+    <text x="90" y="142" text-anchor="start" font-family="sans-serif" font-size="15" font-weight="bold" fill="#6b93b6">drops absorbed</text>
   </g>
 
   <!-- verdict box -->

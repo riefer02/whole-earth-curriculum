@@ -118,29 +118,37 @@ revise it honestly when the world shows you something new.
 
 ## Facilitator note
 
-The idea to land: **a value is tested, not settled; the honest way to test it is to
-predict what you will do in a real situation, record what actually happens, and treat
-the gap between prediction and result as evidence to learn from — revising or confirming
-the value while holding the question open rather than closing it as a creed.** This
-mirrors the scientific habit of distinguishing evidence from belief, applied to
-character (philosophy §5). Guard against shame: a learner who does *not* live up to a
-stated value has gained data, not a failing grade; frame every gap as information.
+**Tone.** Experimental and kind: a gap between word and deed is data, not a failing
+grade.
 
-The **ethics** lens: testing a value is the move from *holding* an opinion to
-*practicing* a commitment — and practice, not declaration, is what virtue ethics says
-builds character (S-458). The **egalitarianism** lens: which values can be tested freely
-is not equal — a learner with little power may find "courage" costs more than it does
-for one with much; the lesson honors that a test is harder for some, not that some
-people are better. The **global** lens: the same value — hospitality, honesty,
-restraint — is tested in different situations in different places; a test designed in a
-city looks unlike one designed on a farm or a boat, and both are real. The
-**technology** lens: screens create new test-sites for old values — kindness in a
-comment thread, honesty about what you share, restraint with what you click (S-481,
-S-482); a value is tested where you actually live, and part of that life is digital. The
-**environment** lens: some of the clearest tests are about care for shared things —
-water, food, a shared space — where restraint and fairness become concrete, daily, and
-observable. Preview: Lesson 5 turns from the self to a contested question of justice and
-rights.
+**The facts to land.**
+
+1. A value is tested, not settled: predict what you will do in a real situation, record
+   what happens, and treat the gap as evidence to learn from.
+2. A learner who does not live up to a stated value has gained information, not a
+   verdict on who they are; frame every gap that way, out loud.
+3. This mirrors the scientific habit of separating evidence from belief, applied to
+   character (philosophy §5).
+
+**Don't overshoot.** Do not let the test become a scoreboard of integrity.
+
+**The lenses, briefly.**
+
+- *Ethics:* practice, not declaration, is what virtue ethics says builds character
+  (S-458).
+- *Egalitarianism:* which values can be tested freely is unequal; courage costs more for
+  a learner with little power — a harder test, not a lesser person.
+- *Global:* the same value is tested differently in a city, on a farm, on a boat, and
+  all are real.
+- *Technology:* screens create new test-sites — kindness in a comment thread, honesty
+  about what you share, restraint with what you click (S-481, S-482).
+- *Environment:* care for shared things — water, food, a shared space — makes restraint
+  and fairness concrete and observable.
+- *Critical-thinking:* a test that cannot fail teaches nothing; predict, then check.
+
+**The skill.** Model one prediction-and-record, then release (S-011): one value, one
+real situation, one entry. Lesson 5 turns from the self to a contested question of
+justice.
 
 ## Procedure
 
@@ -198,3 +206,5 @@ happened.
 - On emotion and decision-making under real conditions: Lerner et al. — Emotion and Decision
   Making (S-333). On digital life as a test-site: Britannica — Social media (S-481); Pariser —
   The Filter Bubble (S-482).
+- On modelling before practice: Kirschner, Sweller & Clark — Why Minimal Guidance Does Not
+  Work (S-011).

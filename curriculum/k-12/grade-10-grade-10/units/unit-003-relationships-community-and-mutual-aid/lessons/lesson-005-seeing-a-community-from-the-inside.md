@@ -138,8 +138,8 @@ not claim the community's authority for it.
 
 - *Global:* the spine — this is how we meet other peoples and times without flattening
   them.
-- *Critical-thinking:* who made this account, and for whom? Outside and inside
-  accounts answer different questions.
+- *Critical-thinking:* who made this account, and for whom? Outside and inside accounts
+  answer different questions.
 - *Ethics:* ask permission, give credit, and never extract a story to use it.
 - *Egalitarianism:* a community is the authority on itself, and whose version gets
   repeated is a question of power.

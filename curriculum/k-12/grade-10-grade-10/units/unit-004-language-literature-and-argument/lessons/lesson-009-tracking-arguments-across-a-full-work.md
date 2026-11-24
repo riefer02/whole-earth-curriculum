@@ -143,8 +143,8 @@ carried by character and scene, and a tidy "message" usually flattens it.
 
 - *Critical-thinking:* the spine — does this evidence support this claim, and is the
   counter-argument answered fairly?
-- *Intellectual:* a reader who can reconstruct the author's case has earned the right
-  to judge it.
+- *Intellectual:* a reader who can reconstruct the author's case has earned the right to
+  judge it.
 - *Ethics:* track the author's *strongest* argument, not a straw version; steelman
   first.
 - *Egalitarianism:* memoirist, essayist, novelist, and oral epic deserve the same care;

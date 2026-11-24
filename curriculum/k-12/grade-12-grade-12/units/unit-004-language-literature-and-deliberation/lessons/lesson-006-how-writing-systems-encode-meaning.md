@@ -146,15 +146,14 @@ map, not a ranking.
 
 - *Ethics:* calling a script "complicated" or "backward" is a value judgment, not a
   description.
-- *Egalitarianism:* every script is a complete system; a home script is a resource, not a
-  gap.
+- *Egalitarianism:* every script is a complete system; a home script is a resource, not
+  a gap.
 - *Global:* Arabic, Devanagari, Chinese, Greek and Cyrillic — none is the default.
 - *Technology:* the tool shaped the script — a wedge in wet clay gives cuneiform, a
   brush gives flowing strokes — and Unicode now lets scripts share one screen.
-- *Environment:* clay, papyrus, bark, bamboo, skin, paper: a script's look is partly
-  an environmental story.
-- *Critical-thinking:* does this mark stand for a sound, or for a sound plus a
-  meaning?
+- *Environment:* clay, papyrus, bark, bamboo, skin, paper: a script's look is partly an
+  environmental story.
+- *Critical-thinking:* does this mark stand for a sound, or for a sound plus a meaning?
 
 **The skill.** Model the four-type map once, then release (S-011): classify three
 scripts and name what each makes easy. Lesson 7 sets one idea across many scripts.

@@ -136,10 +136,10 @@ not speaking for others.
   others.
 - *Egalitarianism:* the measure of a society is whether the most excluded enjoy these
   rights too.
-- *Global:* decolonisation, civil rights, labour, and land struggles crossed
-  continents and continue now (S-276, S-146); no region finished it.
-- *Technology:* the tools that surveil and suppress also connect, witness, and
-  organise — whose hands hold the tool decides which way it cuts.
+- *Global:* decolonisation, civil rights, labour, and land struggles crossed continents
+  and continue now (S-276, S-146); no region finished it.
+- *Technology:* the tools that surveil and suppress also connect, witness, and organise
+  — whose hands hold the tool decides which way it cuts.
 - *Environment:* dignity includes a right to a livable home — clean water, land, a
   stable climate — so freedom and Earth care are one struggle (S-463).
 

@@ -123,7 +123,7 @@ frame produces a *reasoned* decision, not one "right" answer — the point is th
 reasoning.
 
 **Sensitive-topic guidance:** this is where personal disclosure is most likely — hold
-the line: no learner is asked to share their own experience, and any who do should be
+the line: no learner is asked to share their experience, and any who do should be
 redirected to the fictional scenarios ("let's use the cards"). Normalize **delay and
 abstinence** as complete, valid choices alongside being active; neither is ranked. If a
 learner discloses risk or unsafe circumstances, respond privately and follow your

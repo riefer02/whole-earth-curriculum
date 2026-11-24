@@ -125,21 +125,21 @@ the power — and care that shares power preserves dignity in a way a one-way gi
 cannot.** This is a real, well-documented distinction (Spade, S-345), and mutual-aid
 traditions are widespread (Kropotkin, S-163; S-164). Hold the claim "sharing power is
 better than only sharing goods" as a *value* the curriculum affirms, and hold the
-descriptive difference as *fact*. Charity is not wrong; it is simply not the same thing.
+descriptive difference as *fact*. Charity is not wrong; it is not the same thing.
 
 The **ethics** lens: does the way we help respect the dignity of the helped — and who
 gets to decide what "help" is? The **egalitarianism** lens: this is the egalitarian lens
 made practical — the question is whether the giving relationship is between equals or
 across a gap of power. The **global** lens: harambee, gotong royong, mink'a, barn
 raising — different continents, one recognition that neighbors meet needs together;
-verify local details rather than generalizing (S-164). The **technology** lens: digital
+verify local details than generalizing (S-164). The **technology** lens: digital
 networks now host mutual aid — fundraisers, skill-shares, neighborhood groups — but a
 platform can slip back into one-way giving or gatekeeping, so the power question follows
 the tool (Britannica, S-481). The **critical-thinking** lens: ask *who decides* in any
 act of helping — that single question separates the two columns. Preview: Lesson 13
 scales the ethic from local action to global solidarity.
 
-**Safeguarding:** no learner is asked to perform or receive charity in the room; the
+**Safety floor.** no learner is asked to perform or receive charity in the room; the
 design is a plan, not a demand to give resources now.
 
 ## Procedure

@@ -211,3 +211,4 @@ was doing and how your mood leaned. Bring that line to the next lesson.
   Emotions Are Made* (2017) (S-401).
 - On explicit instruction and worked examples: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- Cleveland Clinic — What Happens During Fight-or-Flight Response? (S-339).

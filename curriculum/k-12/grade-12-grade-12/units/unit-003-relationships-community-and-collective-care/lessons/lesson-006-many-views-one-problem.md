@@ -139,9 +139,9 @@ The **critical-thinking** lens: distinguish *understanding* a view from *endorsi
 and show both in your writing. Preview: Lesson 7 extends perspective-taking beyond
 humans, to the more-than-human world.
 
-**Safeguarding:** keep disagreements about the problem (water, land, jobs), never about
-a learner's identity or private life; no one is made to argue against their own safety
-or dignity.
+**Safety floor.** keep disagreements about the problem (water, land, jobs), never about
+a learner's identity or private life; no one is made to argue against their safety or
+dignity.
 
 ## Procedure
 

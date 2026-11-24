@@ -144,7 +144,7 @@ it is graded, the honesty goes.
 - *Environment:* noticing a bird's alarm call, a stream's change — the same attention
   turned outward.
 
-**Safeguarding.** The audit is private and not collected; learners share only what they
+**Safety floor.** The audit is private and not collected; learners share only what they
 choose, and the when-then commitment may concern any relationship, including with
 themselves or the living world.
 

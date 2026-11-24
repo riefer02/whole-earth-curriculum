@@ -137,13 +137,13 @@ succeeding.
 
 - *Ethics:* a plan for your own life is a promise to yourself — make it one you can
   keep, and one that treats you kindly.
-- *Egalitarianism:* every body, every ability, every budget can hold a lifelong plan; the
-  plan adapts to the person.
+- *Egalitarianism:* every body, every ability, every budget can hold a lifelong plan;
+  the plan adapts to the person.
 - *Global:* plans look different in every culture and climate.
 - *Technology:* tools log the plan, but the plan is yours; no tracker knows your life
   better than you do.
-- *Environment:* housing, air, green space, and safety shape what plan is even
-  possible, so the plan also tends the conditions of health.
+- *Environment:* housing, air, green space, and safety shape what plan is even possible,
+  so the plan also tends the conditions of health.
 
 **The skill.** Model one spoke's keep/adjust as a worked example, then release (S-011,
 S-039): assemble the wheel and mark one thing to revisit. Lessons 9–10 turn to caring

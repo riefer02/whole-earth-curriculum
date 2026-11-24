@@ -123,8 +123,8 @@ Earth — each with a step I can actually take.
    for the Earth — each with a step within reach.
 2. Climate change is already reshaping where people can live (S-383, S-005), and those
    least responsible often bear the heaviest burden (S-006).
-3. The learner is not asked to solve the climate alone, only to name the next small,
-   real thing they can do (facilitation).
+3. The learner is not asked to solve the climate alone — only to name the next small,
+   real thing they can do (facilitation: holding difficult topics safely).
 
 **Don't overshoot.** Never let responsibility curdle into guilt, and never imply that
 individual recycling substitutes for systems change.

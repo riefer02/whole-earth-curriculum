@@ -145,8 +145,7 @@ are present tense.
   harvest — whose loss would harm the land.
 
 **The skill.** Teach the four acts explicitly (S-011), then release: apply them to one
-tradition and name who decides. Lesson 8 turns honouring into a claim about a just
-story.
+tradition and name who decides. Lesson 8 turns honouring into a claim about a story.
 
 ## Procedure
 

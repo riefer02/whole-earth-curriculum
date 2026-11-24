@@ -138,12 +138,12 @@ one inherited frame, and learners should name their own community's.
 
 **The lenses, briefly.**
 
-- *Critical-thinking:* read which lever a speaker pulls, and whether it carries the
-  load or hides a missing reason.
+- *Critical-thinking:* read which lever a speaker pulls, and whether it carries the load
+  or hides a missing reason.
 - *Global:* invite learners to name the speaking arts of their own community.
 - *Ethics:* the same levers build a fair argument or a con.
-- *Egalitarianism:* whose voices may persuade publicly, and whose are kept out, is power,
-  not skill alone (S-281).
+- *Egalitarianism:* whose voices may persuade publicly, and whose are kept out, is
+  power, not skill alone (S-281).
 - *Social-emotional:* noticing a feeling being stirred in you is self-awareness —
   invite, never force, sharing.
 
@@ -207,3 +207,4 @@ and notice which lever your family values most.
   <https://www.britannica.com/art/griot> (S-446).
 - On modeling + guided practice before independent work: Kirschner, Sweller & Clark
   (2006), <https://doi.org/10.1207/s15326985ep4102_1> (S-011).
+- World Bank — World Development Report 2016: Digital Dividends (S-281).

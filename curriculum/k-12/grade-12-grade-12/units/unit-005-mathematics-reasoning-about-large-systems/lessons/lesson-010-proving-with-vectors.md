@@ -195,3 +195,4 @@ for *every* such shape.
 - On worked examples and guided practice: Kirschner, Sweller & Clark (2006) (S-011).
 - On geometric proof across traditions: MacTutor — The Indian Sulbasutras (S-292); MacTutor
   — Nine Chapters (S-289); Boyer & Merzbach, *A History of Mathematics* (S-429).
+- Intergovernmental Panel on Climate Change (S-005).

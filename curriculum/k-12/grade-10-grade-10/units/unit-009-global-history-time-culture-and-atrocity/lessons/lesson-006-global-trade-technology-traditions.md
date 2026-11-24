@@ -180,3 +180,5 @@ and what changed when it arrived here?* Write one fusion and one thing that stay
 - On crops that traveled the world: International Potato Center, "Potato"
   (S-054), and Alfred W. Crosby, *The Columbian Exchange* (S-273).
 - On living heritage and its protection: UNESCO Intangible Cultural Heritage (S-056).
+- Encyclopaedia Britannica — Silk Road / Indian Ocean trade (S-323).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

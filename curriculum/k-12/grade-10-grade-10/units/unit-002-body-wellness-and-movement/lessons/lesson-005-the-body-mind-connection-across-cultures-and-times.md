@@ -149,10 +149,11 @@ evidence next lesson.
 - *Physical:* these practices work on breath and posture, which is why they can be
   studied.
 - *Critical-thinking:* understanding a tradition is not agreeing with it.
-- **Technology & environment:** desk, screen, and stillness separate body from mind;
+- *Technology and environment:* desk, screen, and stillness separate body from mind;
   these traditions insist they belong together.
 
-**The skill.** Model a respectful question, then release (S-011): describe one practice from within, then name one thing you wonder about.
+**The skill.** Model a respectful question, then release (S-011): describe one practice
+from within, then name one thing you wonder about.
 
 ## Procedure
 
@@ -214,3 +215,4 @@ it to your map.
   Sport (2015), <https://www.unesco.org/en/sport-and-anti-doping/international-charter-sport> (S-342).
 - On holding multiple accounts side by side without ranking: philosophy §11 (inquiry
   over creed) and §4 (global lens).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

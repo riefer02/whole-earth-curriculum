@@ -127,13 +127,13 @@ hand a learner a label.
 The **ethics** lens: the "how I will act" column is an ethical claim — about what kind
 of person one intends to be. The **egalitarianism** lens: some contexts let people show
 their full self and others force parts of it into hiding; the cost of that hiding is not
-evenly distributed. The **global** lens: what "the same person" means varies by
-culture — some traditions center the individual self, others center the self-in-
-relationship; neither is the default. The **critical-thinking** lens: testing whether
-something is *truly* constant across contexts is a check on self-description, not a
-performance of consistency.
+evenly distributed. The **global** lens: what "the same person" means varies by culture
+— some traditions center the individual self, others center the self-in- relationship;
+neither is the default. The **critical-thinking** lens: testing whether something is
+*truly* constant across contexts is a check on self-description, not a performance of
+consistency.
 
-**Safeguarding:** nothing here requires disclosure of trauma, family secrets, or
+**Safety floor.** nothing here requires disclosure of trauma, family secrets, or
 marginalized identities. If a learner's "contexts" include real danger or precarity,
 allow them to write about any contexts they choose, or none, and honor silence.
 

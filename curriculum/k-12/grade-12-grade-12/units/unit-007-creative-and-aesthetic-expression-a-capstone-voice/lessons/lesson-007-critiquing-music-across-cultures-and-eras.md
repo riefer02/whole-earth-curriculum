@@ -201,3 +201,4 @@ sentence each, and one respectful question you would ask the person who knows it
   Britannica — Maqam (S-367).
 - On the spiritual: Encyclopaedia Britannica — Spiritual (S-385); on reggae: UNESCO — Reggae
   Music of Jamaica (S-450).
+- Kirschner, Sweller & Clark (2006) — Why Minimal Guidance Does Not Work (S-011).

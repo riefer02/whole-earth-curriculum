@@ -19,8 +19,8 @@
   <rect x="218" y="150" width="76" height="120" rx="6" fill="#e0a458" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="196" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Conflict</text>
   <text x="256" y="216" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">&amp; violence</text>
-  <text x="256" y="244" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">when disagreement</text>
-  <text x="256" y="260" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">turns to harm</text>
+  <text x="256" y="244" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">when a clash</text>
+  <text x="256" y="260" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">turns to harm</text>
 
   <!-- roots -->
   <path d="M256 270 C 230 300, 150 300, 120 340" fill="none" stroke="#2b3a42" stroke-width="3"/>
@@ -29,16 +29,16 @@
 
   <!-- root labels -->
   <rect x="46" y="348" width="150" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
-  <text x="121" y="370" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Inequality</text>
-  <text x="121" y="388" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">unequal share, no voice</text>
+  <text x="116" y="370" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Inequality</text>
+  <text x="116" y="388" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">unequal share, no voice</text>
 
   <rect x="181" y="348" width="150" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="256" y="370" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Fear</text>
-  <text x="256" y="388" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">threat, mistrust, rumor</text>
+  <text x="256" y="388" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">threat, mistrust, rumor</text>
 
   <rect x="316" y="348" width="150" height="52" rx="10" fill="#ffffff" stroke="#2b3a42" stroke-width="2"/>
   <text x="391" y="370" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="bold" fill="#222222">Scarcity</text>
-  <text x="391" y="388" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#4f6d7a">not enough, unfairly split</text>
+  <text x="391" y="388" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#4f6d7a">not enough, unfairly split</text>
 
   <text x="256" y="436" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Conflict has roots — so peace can be grown, too.</text>
   <text x="256" y="458" text-anchor="middle" font-family="sans-serif" font-size="12.5" fill="#4f6d7a">Address the root, not only the branch.</text>

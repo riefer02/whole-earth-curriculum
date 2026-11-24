@@ -141,9 +141,9 @@ traditions, never let anyone become a specimen or a cartoon.
   without ranking.
 - *Egalitarianism:* ask whose ways of being someone were called "normal" and whose
   "exotic", and name the imbalance.
-- *Ethics:* comparison is for understanding, not judging; respect means asking
-  questions a community would recognise as its own.
-- **Technology & environment:** media now carry identity markers worldwide, mixing and
+- *Ethics:* comparison is for understanding, not judging; respect means asking questions
+  a community would recognise as its own.
+- *Technology and environment:* media now carry identity markers worldwide, mixing and
   flattening them (Lesson 3); land and climate shape how people live.
 - *Social-emotional:* learners are mid-formation (S-403 calls exploration healthy);
   there is no deadline for becoming.
