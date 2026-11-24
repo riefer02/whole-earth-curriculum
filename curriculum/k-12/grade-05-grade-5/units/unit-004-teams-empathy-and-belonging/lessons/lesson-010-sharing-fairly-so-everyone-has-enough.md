@@ -124,13 +124,14 @@ home, a classroom, or a village sharing a harvest, that is the question we solve
 
 This is the unit **capstone**, written to the learner ("you"). The idea to land is that
 **fairness is a practice with two tools** — equal shares and need-based shares — and the
-measure is **everyone has enough**, not "everyone is identical." Model one worked example
-first (this is a skill; Kirschner, Sweller & Clark, 2006), then let teams negotiate a real
-division. Watch for the two traps: "equal at all costs" (ignoring real need) and "loudest
-gets most" (ignoring fairness). Invite the unit's skills back in: when a teammate proposes
-a share, respond with **kind feedback** (Lesson 1); when a teammate seems unhappy, **check
-instead of assume** (Lesson 6). This lesson produces the unit's **fair-division record**.
-Keep it a game of care, never a ranking. See `docs/facilitation.md`.
+measure is **everyone has enough**, not "everyone is identical." Model one worked
+example first (this is a skill; Kirschner, Sweller & Clark, 2006), then let teams
+negotiate a real division. Watch for the two traps: "equal at all costs" (ignoring real
+need) and "loudest gets most" (ignoring fairness). Invite the unit's skills back in:
+when a teammate proposes a share, respond with **kind feedback** (Lesson 1); when a
+teammate seems unhappy, **check instead of assume** (Lesson 6). This lesson produces the
+unit's **fair-division record**. Keep it a game of care, never a ranking. See
+`docs/facilitation.md`.
 
 ## Procedure
 

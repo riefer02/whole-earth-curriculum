@@ -119,25 +119,23 @@ can name.
 
 **The facts to land.**
 
-1. **A radical √a is the non-negative number whose square is a.**
-2. **Real numbers are rational and irrational together.**
-3. **Two properties simplify radicals:** the product property √(ab) = √a·√b for
-non-negative a and b, and √(a²) = a for non-negative a.
-4. **Worked example:** √50 = √(25·2) = √25·√2 = 5√2 — name each property as you use it.
+1. **A radical √a is the non-negative number whose square is a.** 2. **Real numbers are
+rational and irrational together.** 3. **Two properties simplify radicals:** the product
+property √(ab) = √a·√b for non-negative a and b, and √(a²) = a for non-negative a. 4.
+**Worked example:** √50 = √(25·2) = √25·√2 = 5√2 — name each property as you use it.
 
 **The lenses, briefly.**
 
-- *Critical-thinking:* justifying each step with a named property is the seed of
-proof.
-- *Global:* irrationals were discovered, not invented — Babylonian scribes
-approximated √2 on the clay tablet YBC 7289 (~1800 BCE) to about six decimal places, and
-the proof that √2 is no ratio of whole numbers shook Greek mathematics (S-429, S-430).
-- *Egalitarianism:* the name "irrational" once meant "unsayable"; an irrational number is
-not broken or wrong, and naming a property is a tool anyone can pick up.
-- *Ethics:* mathematics is sense-making open to all — an "is it rational?" question is
-settled by evidence (does the decimal repeat?), not authority.
-- *Technology:* a calculator shows √2 and π to many digits but never the whole
-non-repeating decimal — the display is finite, the number is not.
+- *Critical-thinking:* justifying each step with a named property is the seed of proof.
+- *Global:* irrationals were discovered, not invented — Babylonian scribes approximated
+√2 on the clay tablet YBC 7289 (~1800 BCE) to about six decimal places, and the proof
+that √2 is no ratio of whole numbers shook Greek mathematics (S-429, S-430). -
+*Egalitarianism:* the name "irrational" once meant "unsayable"; an irrational number is
+not broken or wrong, and naming a property is a tool anyone can pick up. - *Ethics:*
+mathematics is sense-making open to all — an "is it rational?" question is settled by
+evidence (does the decimal repeat?), not authority. - *Technology:* a calculator shows
+√2 and π to many digits but never the whole non-repeating decimal — the display is
+finite, the number is not.
 
 **The skill.** **Worked example first, then guided practice** (S-011): model √50 fully,
 then learners simplify their own before independent work.

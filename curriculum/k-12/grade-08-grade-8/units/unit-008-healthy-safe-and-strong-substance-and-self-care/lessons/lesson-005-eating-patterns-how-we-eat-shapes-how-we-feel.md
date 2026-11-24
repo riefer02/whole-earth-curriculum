@@ -134,8 +134,8 @@ fasting traditions are meaningful practice, not "skipping meals."
 
 **The lenses, briefly.**
 
-- *Egalitarianism:* regular, varied meals are access, not virtue; hunger is a justice issue
-  (S-120).
+- *Egalitarianism:* regular, varied meals are access, not virtue; hunger is a justice
+  issue (S-120).
 - *Global:* see fact 3 — patterns are ways of living, not rungs on a ladder.
 - *Social-emotional:* eating with others is one of the oldest human ways of belonging.
 - *Ethics:* how we eat can be an act of care for ourselves.

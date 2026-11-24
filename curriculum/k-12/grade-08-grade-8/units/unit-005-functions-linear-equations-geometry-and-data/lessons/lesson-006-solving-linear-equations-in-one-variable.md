@@ -125,8 +125,8 @@ forgetting to distribute (4(x − 2) = 4x − 8).
 **The lenses, briefly.**
 
 - *Intellectual:* every step has a reason you can name.
-- *Egalitarianism:* the same two moves solve the equation whoever holds it — mathematics is
-  a leveler, not a gate (`philosophy` §4).
+- *Egalitarianism:* the same two moves solve the equation whoever holds it — mathematics
+  is a leveler, not a gate (`philosophy` §4).
 - *Global:* "algebra" comes from al-jabr ("completion") in al-Khwarizmi's 9th-century
   treatise, where moving a term across was described as completing or balancing (S-293).
 - *Critical-thinking:* "check your answer" is the honest test of whether the solution is

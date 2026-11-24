@@ -130,8 +130,8 @@ discrimination.
 **The lenses, briefly.**
 
 - *Ethics:* caring for a stressed body is a responsibility toward oneself.
-- *Egalitarianism:* stress falls unevenly — poverty, violence, discrimination, and unsafe
-  places add stress that is no one's fault.
+- *Egalitarianism:* stress falls unevenly — poverty, violence, discrimination, and
+  unsafe places add stress that is no one's fault.
 - *Global:* every culture settles the body its own way — breath, prayer, song, water,
   rest — all honored, none ranked (`philosophy` §11).
 - *Technology & environment:* constant alerts, screens before sleep, and no safe green

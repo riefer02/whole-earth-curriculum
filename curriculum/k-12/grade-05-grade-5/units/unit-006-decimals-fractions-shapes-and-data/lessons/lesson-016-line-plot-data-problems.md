@@ -127,16 +127,17 @@ problems rarely use just one skill at a time.
 
 ## Facilitator note
 
-This is the unit **capstone**, written to the learner ("you"). The aim is to **use a line plot
-to solve problems** while **retrieving the unit's skills** (spacing and interleaving — the unit's
-spiral). Model the first data question as a worked example, then let groups work the rest
-(Kirschner, Sweller & Clark, 2006). The questions are deliberately cross-cutting: a total
-(fractions), a comparison (decimals/rounding), a conversion (units), a tank fill (volume), and a
-location note (coordinates). Watch for learners reaching for one skill when a problem needs
-another — that is the point of the capstone. This lesson produces the unit's **line-plot data
-task** for the portfolio. Keep it cooperative, never ranked (`docs/philosophy.md` §8). The
-arithmetic is evidence; the care of reading data honestly so a community plans water fairly is a
-value (`docs/philosophy.md` §4, §7).
+This is the unit **capstone**, written to the learner ("you"). The aim is to **use a
+line plot to solve problems** while **retrieving the unit's skills** (spacing and
+interleaving — the unit's spiral). Model the first data question as a worked example,
+then let groups work the rest (Kirschner, Sweller & Clark, 2006). The questions are
+deliberately cross-cutting: a total (fractions), a comparison (decimals/rounding), a
+conversion (units), a tank fill (volume), and a location note (coordinates). Watch for
+learners reaching for one skill when a problem needs another — that is the point of the
+capstone. This lesson produces the unit's **line-plot data task** for the portfolio.
+Keep it cooperative, never ranked (`docs/philosophy.md` §8). The arithmetic is evidence;
+the care of reading data honestly so a community plans water fairly is a value
+(`docs/philosophy.md` §4, §7).
 
 ## Procedure
 

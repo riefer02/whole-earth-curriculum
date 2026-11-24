@@ -126,8 +126,8 @@ right one.
 - *Social-emotional:* naming both timelines eases the tug between them.
 - *Ethics:* the long term is often where the other person's cost hides — a friend's
   trust, a shared resource.
-- *Egalitarianism:* not everyone can afford to think far ahead; when today is scarce, the
-  "now" is survival, not greed. Judge the weighing, never the person.
+- *Egalitarianism:* not everyone can afford to think far ahead; when today is scarce,
+  the "now" is survival, not greed. Judge the weighing, never the person.
 - *Global:* the split looks different everywhere — a family saving for a season, a
   community managing water — but seeing both ripples is a shared skill.
 - *Environment:* a forest cut faster than it regrows, a fish taken before it spawns: a

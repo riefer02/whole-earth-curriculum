@@ -124,8 +124,8 @@ a point that satisfies only one equation.
 **The lenses, briefly.**
 
 - *Intellectual:* two rules and one grid make agreement visible.
-- *Egalitarianism:* the method is open to everyone, not reserved for experts (`philosophy`
-  §4).
+- *Egalitarianism:* the method is open to everyone, not reserved for experts
+  (`philosophy` §4).
 - *Global:* the coordinate grid traces to Descartes (1637), while locating a place by
   two distances is far older — latitude and longitude, grid squares (S-240).
 - *Technology:* a graphing tool shows the intersection instantly, but the learner must

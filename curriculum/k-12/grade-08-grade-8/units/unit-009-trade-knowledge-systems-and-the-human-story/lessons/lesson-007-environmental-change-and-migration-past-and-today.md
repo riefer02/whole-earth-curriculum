@@ -135,8 +135,8 @@ safety, and family mix in.
   but today's change is fast and, for many, made worse by human activity (S-005).
 - *Ethics:* people who move because of environmental change are not "the problem" — how
   we welcome them is a moral question.
-- *Egalitarianism:* those who contributed least to climate change are often hit first and
-  hardest — a matter of justice, not only weather (S-005).
+- *Egalitarianism:* those who contributed least to climate change are often hit first
+  and hardest — a matter of justice, not only weather (S-005).
 - *Global:* it happens everywhere — small island nations, dry Sahel lands, river deltas.
 
 **The skill.** Separate evidence from values: what the records show, then what we owe

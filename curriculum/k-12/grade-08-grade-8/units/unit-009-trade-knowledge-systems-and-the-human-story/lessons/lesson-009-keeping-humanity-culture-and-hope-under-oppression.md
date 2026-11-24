@@ -135,8 +135,8 @@ survival was given rather than made.
 **The lenses, briefly.**
 
 - *Ethics:* honor these as living culture.
-- *Egalitarianism:* survival is a victory of the people who kept them, not of the systems
-  that tried to erase them.
+- *Egalitarianism:* survival is a victory of the people who kept them, not of the
+  systems that tried to erase them.
 - *Global:* the pattern appears across the Americas, Africa, Asia, and the Pacific under
   colonial rule.
 - *Community:* culture lives in people together — song, story, shared food, work.

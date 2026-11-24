@@ -119,8 +119,8 @@ fairer decision.
 
 **The facts to land.**
 
-1. Deliberation is arguing a position with reasons *and* listening to the opposing view
-   — not just waiting to talk.
+1. Deliberation is arguing a position with reasons *and* listening to the opposing
+   view — not just waiting to talk.
 2. The flow — state position, give reasons, paraphrase the other side, respond — keeps
    it fair.
 3. "Listening is not losing": hearing the other side is how we decide together.
@@ -131,8 +131,8 @@ or imply every question has two equal sides.
 **The lenses, briefly.**
 
 - *Ethics:* we can argue without wounding; how we disagree is right or wrong.
-- *Egalitarianism:* deliberation works only when every voice can speak — ask whose view is
-  not in the room, and why.
+- *Egalitarianism:* deliberation works only when every voice can speak — ask whose view
+  is not in the room, and why.
 - *Global:* cultures deliberate differently — taking turns with a talking object,
   seeking consensus, voting; this is one fair structure among many.
 - *Community:* this skill builds the shared decisions that hold a community together.

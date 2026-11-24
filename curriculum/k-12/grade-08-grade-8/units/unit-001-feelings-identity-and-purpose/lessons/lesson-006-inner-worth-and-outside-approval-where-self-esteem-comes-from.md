@@ -130,8 +130,8 @@ wrong.
 - *Social-emotional:* noticing which source is speaking is the skill.
 - *Ethics:* worth built on kindness and honesty also serves others; steadiness is not
   self-centred.
-- *Egalitarianism:* approval is distributed unequally — likes, praise, and marks arrive for
-  reasons unrelated to worth.
+- *Egalitarianism:* approval is distributed unequally — likes, praise, and marks arrive
+  for reasons unrelated to worth.
 - *Global:* what earns approval differs by place — marks, courage, service — so borrowed
   worth depends on where you stand. *Ubuntu* ("a person is a person through other
   persons") and the Confucian self rooted in family and community ground worth in

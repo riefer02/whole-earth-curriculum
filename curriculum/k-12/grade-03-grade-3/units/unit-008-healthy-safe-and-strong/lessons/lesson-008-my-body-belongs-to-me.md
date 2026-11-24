@@ -124,29 +124,25 @@ tell a **trusted adult**. Today you will learn your rights and practice using th
 **Tone.** Calm, matter-of-fact, empowering — never fear, never shame. **Read fully
 first.**
 
-**The facts to land.**
-1. **Safe touch** is wanted and okay: a hug you ask for, a doctor checking you *with*
-   your permission. **Unsafe touch** is touch you do not want, or private parts touched
-   for no good reason.
-2. Your body belongs to you: "no" and "stop" count.
-3. Private parts are what a swimsuit covers, plus the chest — **penis**, **vulva**,
-   **bottom (anus)**. Correct names are a recognized child-protection practice — a child
-   can tell clearly. Honor a family's own words too.
+**The facts to land.** 1. **Safe touch** is wanted and okay: a hug you ask for, a doctor
+checking you *with* your permission. **Unsafe touch** is touch you do not want, or
+private parts touched for no good reason. 2. Your body belongs to you: "no" and "stop"
+count. 3. Private parts are what a swimsuit covers, plus the chest — **penis**,
+**vulva**, **bottom (anus)**. Correct names are a recognized child-protection practice —
+a child can tell clearly. Honor a family's own words too.
 
 **Don't overshoot.** Never soften it to keep the room comfortable.
 
-**The lenses, briefly.**
-- *Ethics:* consent is the child's right.
-- *Egalitarianism:* every body may say no.
-- *Community:* a trusted adult is named.
-- *Social-emotional:* speaking up is allowed.
+**The lenses, briefly.** - *Ethics:* consent is the child's right. - *Egalitarianism:*
+every body may say no. - *Community:* a trusted adult is named. - *Social-emotional:*
+speaking up is allowed.
 
 **The skill.** Say "no" or "stop", then tell a trusted adult. Practice on a doll,
 **never on real bodies**; never act out unsafe touch. Honor every way of speaking up:
 saying, signing, pointing, writing.
 
-**Safety floor.** if a child discloses abuse — stay calm; believe them; thank them; do **not**
-promise secrecy; do not press for details or ask leading questions; tell your
+**Safety floor.** if a child discloses abuse — stay calm; believe them; thank them; do
+**not** promise secrecy; do not press for details or ask leading questions; tell your
 safeguarding lead and follow local child-protection procedure immediately.
 
 **Access:** a learner who is deaf or hard of hearing practices "no" and "stop" in sign —

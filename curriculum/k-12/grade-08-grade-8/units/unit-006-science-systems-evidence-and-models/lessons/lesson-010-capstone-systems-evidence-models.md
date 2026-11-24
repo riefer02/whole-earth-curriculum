@@ -128,9 +128,9 @@ can see how the pieces connect into one living picture of the world. Today you b
 1. Each learner recalls all eight goals and connects them into one web around systems,
    evidence, and models.
 2. The eight goals: controlled experiments; revising models (miasma → germ theory,
-   continental drift → plate tectonics); genes plus environment shaping traits; population
-   ripples;
-   atoms and reactions; fields and currents; stars forging elements; plate tectonics.
+   continental drift → plate tectonics); genes plus environment shaping traits;
+   population ripples; atoms and reactions; fields and currents; stars forging elements;
+   plate tectonics.
 3. This is retrieval and spacing — recall, not re-reading, makes learning durable
    (S-039).
 

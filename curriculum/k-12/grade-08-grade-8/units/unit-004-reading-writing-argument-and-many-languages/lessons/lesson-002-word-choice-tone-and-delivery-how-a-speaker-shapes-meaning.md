@@ -126,8 +126,8 @@ a skill that works on every message in every language you hear.
 **The lenses, briefly.**
 
 - *Ethics:* persuasion can help or harm; noticing *how* it works is how we choose.
-- *Egalitarianism:* the same words persuade some and leave others out — ask who this speaks
-  to, and who it leaves out.
+- *Egalitarianism:* the same words persuade some and leave others out — ask who this
+  speaks to, and who it leaves out.
 - *Global:* tone and delivery vary across cultures; a loud, fast delivery is respectful
   in one place and rude in another.
 - *Social-emotional:* noticing tone is also noticing feeling — ours and the speaker's.

@@ -116,11 +116,11 @@ goal." Teach the match as explicit instruction — *a role = a need + a strength
 model choosing one (Kirschner, Sweller & Clark, 2006). The core value to protect:
 **roles are chosen by the learner from their own strengths, never assigned as a
 ranking**, and no role is more important than another — the one who tidies and the one
-who reads aloud both hold the community up equally. This is egalitarianism lived: care is
-distributed, and everyone has something to give. Honor every ability: a learner who
+who reads aloud both hold the community up equally. This is egalitarianism lived: care
+is distributed, and everyone has something to give. Honor every ability: a learner who
 cannot lift carries a lighter but no less vital role; a learner who does not speak aloud
-can write, draw, or sign their role. Follow through matters — this lesson's role is meant
-to be *carried out*, so plan a role-check later in the week and record it for the
+can write, draw, or sign their role. Follow through matters — this lesson's role is
+meant to be *carried out*, so plan a role-check later in the week and record it for the
 portfolio. Read the procedure aloud.
 
 ## Procedure

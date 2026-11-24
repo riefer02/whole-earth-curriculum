@@ -117,29 +117,27 @@ one matters, so you can care for the body that carries you through every day.
 
 **Tone.** Calm and matter-of-fact — four needs, no ranking.
 
-**The facts to land.**
-1. Food, water, sleep, and movement are **equals**: each matters, none outranks another.
-2. Different bodies need different amounts at different times; that range is normal, and
-   never a measure of a person's worth.
-3. Health is supported by adequate food, safe water, sleep, and regular physical
-   activity (World Health Organization).
+**The facts to land.** 1. Food, water, sleep, and movement are **equals**: each matters,
+none outranks another. 2. Different bodies need different amounts at different times;
+that range is normal, and never a measure of a person's worth. 3. Health is supported by
+adequate food, safe water, sleep, and regular physical activity (World Health
+Organization).
 
 **Don't overshoot.** Do not turn a need into a rule about amounts, schedules, or body
 size.
 
-**The lenses, briefly.**
-- *Physical:* the needs are felt in the body, then named.
-- *Ethics:* every body deserves these four, whatever a family can provide.
-- *Egalitarianism:* a need met or unmet says nothing about worth.
-- *Global:* different foods, water sources, sleeping arrangements; all count.
+**The lenses, briefly.** - *Physical:* the needs are felt in the body, then named. -
+*Ethics:* every body deserves these four, whatever a family can provide. -
+*Egalitarianism:* a need met or unmet says nothing about worth. - *Global:* different
+foods, water sources, sleeping arrangements; all count.
 
 **The skill.** Name a need, and say how your body signals it.
 
 Spiral: retrieves Grade 2's meal and water work (U.02.008).
 
-**Safety floor.** some learners may lack steady food, water, or safe sleep. Frame needs as
-what every body deserves, never as what is missing, and respond with care if a learner
-shares something hard.
+**Safety floor.** some learners may lack steady food, water, or safe sleep. Frame needs
+as what every body deserves, never as what is missing, and respond with care if a
+learner shares something hard.
 
 **Access:** a learner who does not use a speaking voice points or acts each need; a
 learner who is blind or has low vision feels a cup, a blanket, and a moving body; a

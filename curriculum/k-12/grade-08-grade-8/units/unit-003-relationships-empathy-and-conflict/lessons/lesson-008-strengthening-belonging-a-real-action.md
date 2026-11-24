@@ -130,8 +130,8 @@ classmate into a project.
 
 - *Ethics:* including the excluded is right, and must honour their dignity, not make a
   spectacle.
-- *Egalitarianism:* the deepest actions remove a barrier — a rule, a routine, an assumption
-  — though kindness is a real start.
+- *Egalitarianism:* the deepest actions remove a barrier — a rule, a routine, an
+  assumption — though kindness is a real start.
 - *Global:* people welcome newcomers their own way — a meal, a name, a place at the
   table, a greeting in their language.
 - *Technology & environment:* belonging also happens online; the screen can include or

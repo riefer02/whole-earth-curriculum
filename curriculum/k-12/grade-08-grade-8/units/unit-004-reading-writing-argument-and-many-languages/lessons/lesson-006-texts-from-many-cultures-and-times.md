@@ -133,9 +133,10 @@ print as the only real literature.
 
 - *Global:* read widely, across the whole human family — this lesson's heart.
 - *Ethics:* read each text with the respect it asks.
-- *Egalitarianism:* oral traditions kept by memory are as much literature as printed books.
-- *Social-emotional:* these are texts of feeling — a pond, a longing, a people's memory
-  — and feeling travels across time.
+- *Egalitarianism:* oral traditions kept by memory are as much literature as printed
+  books.
+- *Social-emotional:* these are texts of feeling — a pond, a longing, a people's
+  memory — and feeling travels across time.
 - *Critical-thinking:* a text's form is a choice shaped by its time, not a natural law.
 
 **The skill.** Home language first: invite a text from the learner's own culture, in

@@ -115,8 +115,8 @@ contemplative traditions that developed mindfulness (Buddhist meditation lineage
 South and East Asia, and other contemplative practices worldwide), and the modern
 secular study of mindfulness as a psychological skill. Be honest about both. Frame
 mindfulness **as a practice that comes from real cultures and real people**, not a
-self-help invention, and avoid presenting it as a religion-free "technique" stripped
-of its roots without acknowledging where it comes from (UNESCO's intangible cultural
+self-help invention, and avoid presenting it as a religion-free "technique" stripped of
+its roots without acknowledging where it comes from (UNESCO's intangible cultural
 heritage frame, S-056; the mindfulness component of self-compassion, Neff, S-222).
 
 **Evidence is hedged.** Research suggests mindfulness may help with attention, stress,
@@ -125,16 +125,16 @@ anything and not a replacement for medical or mental-health care. State this pla
 CASEL lists self-management — which includes regulating attention and impulses — as a
 core competency (S-001).
 
-**Safety floor.** Attention practice is generally safe, but some learners may find stillness
-hard or distressing. Always offer movement or eyes-open options and never require a
-long, silent, closed-eyes sit. Learners may opt out entirely.
+**Safety floor.** Attention practice is generally safe, but some learners may find
+stillness hard or distressing. Always offer movement or eyes-open options and never
+require a long, silent, closed-eyes sit. Learners may opt out entirely.
 
 The **ethics** lens: practicing an old tradition requires respect for its origins, not
 erasure. The **egalitarian** lens: attention practice costs nothing and belongs to
-everyone, while commercial "mindfulness" products raise the question of who profits
-from an ancient shared practice. The **global** lens: this skill appears in many
-cultures under many names. The **technology** lens: apps now deliver the practice, but
-the skill predates — and does not require — the device.
+everyone, while commercial "mindfulness" products raise the question of who profits from
+an ancient shared practice. The **global** lens: this skill appears in many cultures
+under many names. The **technology** lens: apps now deliver the practice, but the skill
+predates — and does not require — the device.
 
 ## Procedure
 

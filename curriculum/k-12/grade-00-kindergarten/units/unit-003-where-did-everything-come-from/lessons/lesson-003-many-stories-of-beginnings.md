@@ -115,11 +115,12 @@ kept safe and treasured.
 
 Tell these stories with warmth and respect, as gifts from real peoples, not as
 curiosities. Every one of these stories has many versions, and storytellers in each
-place tell them a little differently; you are telling one simple version. The word
-"the Dreaming" is an English way to point to something many Aboriginal nations each
-name in their own language; it is not one people's single story. Name the people and
-place of each story without ranking any above another, and without caricature. If a learner shares their own family's story, welcome it as a treasured
-story too. Do not ask anyone to believe any of them.
+place tell them a little differently; you are telling one simple version. The word "the
+Dreaming" is an English way to point to something many Aboriginal nations each name in
+their own language; it is not one people's single story. Name the people and place of
+each story without ranking any above another, and without caricature. If a learner
+shares their own family's story, welcome it as a treasured story too. Do not ask anyone
+to believe any of them.
 
 ## Procedure
 

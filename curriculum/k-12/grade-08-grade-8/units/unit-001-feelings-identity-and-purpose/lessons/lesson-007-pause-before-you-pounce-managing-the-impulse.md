@@ -132,7 +132,8 @@ destiny.
 - *Social-emotional:* practice makes the pause faster.
 - *Ethics:* the pause protects other people — a sharp word that wounds versus a chosen
   response that respects.
-- *Egalitarianism:* no learner is "just hot-headed" — that is a verdict, not information.
+- *Egalitarianism:* no learner is "just hot-headed" — that is a verdict, not
+  information.
 - *Global:* what counts as an appropriate pause differs by culture — a long silent beat
   or a quick reply — so the tool is shared even where the style differs. Watching an
   impulse without acting is long practised in contemplative traditions across South and

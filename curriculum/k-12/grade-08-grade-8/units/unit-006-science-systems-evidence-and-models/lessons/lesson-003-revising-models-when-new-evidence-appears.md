@@ -129,8 +129,8 @@ dismissed for years.
 
 - *Ethics:* who speaks can delay what is true; science is a human, sometimes unjust,
   practice.
-- *Egalitarianism:* Snow's map showed cholera struck those who shared a pump — clean water
-  is justice, not only health.
+- *Egalitarianism:* Snow's map showed cholera struck those who shared a pump — clean
+  water is justice, not only health.
 - *Global:* cholera crossed borders, and the germ model was built from evidence in many
   places. Ibn Sina (Persia, c. 1025 CE) wrote that sickness could spread by unseen
   agents through water and soil, and variolation was practised in China, India, and

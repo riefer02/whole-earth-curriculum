@@ -117,17 +117,19 @@ learn the names for the moves, so you can decide for yourself whether to go alon
 
 ## Facilitator note
 
-This lesson builds media literacy, not cynicism. The goal is that a learner can *name* the tools of
-visual persuasion (composition, symbolism) and *ask* what they are for — not that they distrust every
-image. Use the **worked example**: analyze the first image together, out loud, with the checklist,
-before learners work in groups (S-011). The **critical-thinking** lens is the core: evidence is what
-I can point to; judgment is what I value. The **ethics** lens: persuasion and manipulation both use
-the same tools — the difference is honesty about what is being asked and who gains. The
-**egalitarian** lens: always ask *who is shown, who is missing, and why that matters* — advertising
-has a long history of leaving whole groups out or casting them in narrow roles. The **technology**
-lens: composition tools are now in everyone's pocket; the same grid a designer uses is on your phone
-camera. Keep sources honest: the Center for Media Literacy's core questions (who created this, what
-techniques attract attention, what is omitted, who benefits) frame the analysis (S-442).
+This lesson builds media literacy, not cynicism. The goal is that a learner can *name*
+the tools of visual persuasion (composition, symbolism) and *ask* what they are for —
+not that they distrust every image. Use the **worked example**: analyze the first image
+together, out loud, with the checklist, before learners work in groups (S-011). The
+**critical-thinking** lens is the core: evidence is what I can point to; judgment is
+what I value. The **ethics** lens: persuasion and manipulation both use the same tools —
+the difference is honesty about what is being asked and who gains. The **egalitarian**
+lens: always ask *who is shown, who is missing, and why that matters* — advertising has
+a long history of leaving whole groups out or casting them in narrow roles. The
+**technology** lens: composition tools are now in everyone's pocket; the same grid a
+designer uses is on your phone camera. Keep sources honest: the Center for Media
+Literacy's core questions (who created this, what techniques attract attention, what is
+omitted, who benefits) frame the analysis (S-442).
 
 ## Procedure
 

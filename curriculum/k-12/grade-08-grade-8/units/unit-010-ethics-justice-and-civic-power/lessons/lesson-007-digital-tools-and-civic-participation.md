@@ -133,8 +133,8 @@ reasoned judgment, not a verdict that online organizing is always or never worth
 **The lenses, briefly.**
 
 - *Technology:* the change is a trade-off to weigh (`philosophy` §4).
-- *Egalitarianism:* ask who can use the tools and who cannot — a digital divide widens some
-  voices and silences others.
+- *Egalitarianism:* ask who can use the tools and who cannot — a digital divide widens
+  some voices and silences others.
 - *Ethics:* organizing online is a moral act; the organizer's duty includes protecting
   the people they organize with.
 - *Critical-thinking:* verify a claim before passing it on.

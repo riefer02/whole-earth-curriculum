@@ -136,8 +136,8 @@ discredit a whole tradition.
   matters more than knowing facts (`docs/philosophy.md` §4).
 - *Egalitarianism:* advertising and misinformation often target people with the least
   access to good evidence; teaching everyone to evaluate claims evens the scales.
-- *Ethics:* weighing evidence honestly is a moral act; waving away evidence because it is
-  inconvenient is a quiet kind of lying.
+- *Ethics:* weighing evidence honestly is a moral act; waving away evidence because it
+  is inconvenient is a quiet kind of lying.
 - *Global:* a single anecdote about a herbal tea is not the same as a whole healing
   tradition. Traditional and Indigenous medicines are knowledge systems in their own
   right, held respectfully alongside scientific medicine (`docs/philosophy.md` §4, §11).

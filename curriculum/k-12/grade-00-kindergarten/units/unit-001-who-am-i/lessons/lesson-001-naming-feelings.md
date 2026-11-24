@@ -112,24 +112,27 @@ out loud, because a child who has just been told off needs to hear it.
 2. Feelings show up in the body — a fast heart, a hot face, a tight throat.
 3. A feeling can be named with words, a drawing, or a movement; all three count.
 
-**Don't overshoot.** Do not rank the feelings or imply some are good and some bad. Do not
-correct a child's label — "you're not scared, you're fine" teaches a child not to name what
-they feel. Offer another word alongside theirs.
+**Don't overshoot.** Do not rank the feelings or imply some are good and some bad. Do
+not correct a child's label — "you're not scared, you're fine" teaches a child not to
+name what they feel. Offer another word alongside theirs.
 
 **The lenses, briefly.**
 
 - *Social-emotional:* a named feeling is easier to share and easier to soothe.
-- *Ethics:* other people have feelings too, and we cannot see them from outside — so we ask.
-- *Global:* families and cultures show feeling differently — loudly, quietly, with the whole
-  body, not at all. None of these is a better way to feel.
+- *Ethics:* other people have feelings too, and we cannot see them from outside — so we
+  ask.
+- *Global:* families and cultures show feeling differently — loudly, quietly, with the
+  whole body, not at all. None of these is a better way to feel.
 
-**The skill.** Prepare the cards, mirror, and circle, then let the learner lead the naming.
+**The skill.** Prepare the cards, mirror, and circle, then let the learner lead the
+naming.
 
-**Access.** If a learner cannot see the cards, describe each face aloud and let them feel a
-face. If a learner does not speak, a point, a sign, or a drawn face is a complete answer.
+**Access.** If a learner cannot see the cards, describe each face aloud and let them
+feel a face. If a learner does not speak, a point, a sign, or a drawn face is a complete
+answer.
 
-**Safety floor.** A child naming a big, frightening feeling is telling you something. Thank
-them, stay calm, and follow your setting's safeguarding practice.
+**Safety floor.** A child naming a big, frightening feeling is telling you something.
+Thank them, stay calm, and follow your setting's safeguarding practice.
 
 ## Procedure
 

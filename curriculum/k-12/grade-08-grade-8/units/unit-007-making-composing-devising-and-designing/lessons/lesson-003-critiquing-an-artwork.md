@@ -134,7 +134,8 @@ Tradition's vocabulary as the only way to describe a work.
 - *Critical-thinking:* "cite the evidence" is the whole point.
 - *Ethics:* critique describes the work, never the maker; a classmate's work is
   critiqued only with consent, saying what is true and kind.
-- *Egalitarianism:* every learner's evidence-based judgment is valid; no taste is "better."
+- *Egalitarianism:* every learner's evidence-based judgment is valid; no taste is
+  "better."
 - *Global:* when critiquing another culture's art, ask respectful questions about its
   purpose rather than ranking it by one tradition's rules (S-056).
 

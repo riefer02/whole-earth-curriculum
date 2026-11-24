@@ -130,7 +130,8 @@ makes a feeling disappear.
 - *Social-emotional:* the frame puts distance between a feeling and an action.
 - *Ethics:* a reaction is partly a *story*; checking the story can stop it hurting
   someone.
-- *Egalitarianism:* no feeling is "too much" or "wrong"; the aim is clarity, not ranking.
+- *Egalitarianism:* no feeling is "too much" or "wrong"; the aim is clarity, not
+  ranking.
 - *Global:* the same event — spilled water, a silence, a raised voice — is read through
   different thoughts in different families and cultures.
 - *Critical-thinking:* the frame questions your own first take; it does not insist on

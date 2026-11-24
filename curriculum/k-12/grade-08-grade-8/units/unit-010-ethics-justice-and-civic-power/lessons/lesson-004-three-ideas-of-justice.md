@@ -124,8 +124,9 @@ as ideas to compare (`philosophy` §11).
 
 - *Ethics:* choosing is itself a moral act; the standard is a reasoned choice, not a
   "right" answer.
-- *Egalitarianism:* ask who is left out by each idea — equal treatment can ignore unequal
-  need; need can ignore past harm; restitution alone may not feed anyone tomorrow.
+- *Egalitarianism:* ask who is left out by each idea — equal treatment can ignore
+  unequal need; need can ignore past harm; restitution alone may not feed anyone
+  tomorrow.
 - *Critical-thinking:* the same word "fair" hides three different ideas; naming them is
   the skill.
 

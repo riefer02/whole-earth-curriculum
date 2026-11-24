@@ -114,28 +114,25 @@ side. Today you learn to open that door for someone else.
 
 **Tone.** Kind and careful — some learners are newcomers right now.
 
-**The facts to land.**
-1. Belonging is a human need, and welcoming is a skill everyone can learn and practice.
-2. Humans are social: when people are included they feel safer, learn better, and grow
-   healthier, while exclusion hurts (see the evidence in `docs/contexts.md` on
-   relationships and belonging; use the metaphor of warmth and safety, not clinical
-   terms).
-3. *Welcome as value* (we ought to include everyone) differs from *welcome as fact*
-   (communities everywhere practice it — a greeting, a shared meal, a naming).
+**The facts to land.** 1. Belonging is a human need, and welcoming is a skill everyone
+can learn and practice. 2. Humans are social: when people are included they feel safer,
+learn better, and grow healthier, while exclusion hurts (see the evidence in
+`docs/contexts.md` on relationships and belonging; use the metaphor of warmth and
+safety, not clinical terms). 3. *Welcome as value* (we ought to include everyone)
+differs from *welcome as fact* (communities everywhere practice it — a greeting, a
+shared meal, a naming).
 
 **Don't overshoot.** Welcome looks different across cultures — a bow, a handshake, a cup
 of tea, a song — and all are real welcomes. Do not let one form become the correct one.
 
-**The lenses, briefly.**
-- *Global:* many real forms of welcome.
-- *Egalitarianism:* belonging is owed to everyone.
-- *Ethics:* inviting is offered, never extracted.
-- *Community:* belonging is something we build.
+**The lenses, briefly.** - *Global:* many real forms of welcome. - *Egalitarianism:*
+belonging is owed to everyone. - *Ethics:* inviting is offered, never extracted. -
+*Community:* belonging is something we build.
 
 **The skill.** Offer one welcome in a form that suits the person receiving it.
 
-**Safety floor.** never single anyone out or demand they tell their arrival story; invite, and
-let a pass be a full answer.
+**Safety floor.** never single anyone out or demand they tell their arrival story;
+invite, and let a pass be a full answer.
 
 **Access:** for a learner who is blind or has low vision, describe the circle aloud and
 act the welcome with voice and touch; for a learner who does not speak, accept drawing,

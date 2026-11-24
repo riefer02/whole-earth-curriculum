@@ -141,8 +141,8 @@ complex and still-contested trophic cascade. The tidy version overstates it.
   a social rule.
 - *Global:* the same three relationships appear in every ecosystem on Earth.
 - *Environment:* removing one species can cascade (`docs/philosophy.md` §4).
-- *Community:* a food web is a community — the relationships hold it together, not just the
-  members.
+- *Community:* a food web is a community — the relationships hold it together, not just
+  the members.
 
 **The skill.** Instruct explicitly with the grass–rabbit–fox worked example, then build
 the string web for embodied practice (Kirschner, Sweller & Clark, 2006). Classic

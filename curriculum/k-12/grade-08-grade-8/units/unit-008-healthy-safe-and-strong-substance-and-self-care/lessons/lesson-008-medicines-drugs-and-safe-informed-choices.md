@@ -117,9 +117,9 @@ for help.
 
 **The facts to land.**
 
-1. A medicine helps the right person, at the right dose and time, as a clinician directs
-   — never take medicine that isn't yours, exceed the dose, mix with alcohol or other
-   drugs, or use an unknown pill or plant (S-376).
+1. A medicine helps the right person, at the right dose and time, as a clinician
+   directs — never take medicine that isn't yours, exceed the dose, mix with alcohol or
+   other drugs, or use an unknown pill or plant (S-376).
 2. Mind-affecting drugs change brain signalling; many flood the reward system with
    dopamine, and repeated use can lead to addiction (S-376, S-377).
 3. Addiction is a treatable health condition, not a moral failing, and help exists
@@ -130,7 +130,8 @@ for help.
 **The lenses, briefly.**
 
 - *Critical-thinking:* read the label: who it is for, the dose, warnings.
-- *Egalitarianism:* safe medicine is unequally available; the drug trade preys on the gap.
+- *Egalitarianism:* safe medicine is unequally available; the drug trade preys on the
+  gap.
 - *Global:* plant medicines are ancient; modern medicine is one chapter — know what you
   take and who it is for.
 - *Technology & environment:* medicine leaves a footprint: careless disposal reaches
@@ -140,8 +141,8 @@ for help.
 
 **The skill.** Refuse a shared pill, ask a trusted adult; know the emergency floor.
 
-**Safety floor.** If someone is unresponsive or in trouble after a substance, get adult or
-medical help and stay with them. A learner with a family member using drugs meets
+**Safety floor.** If someone is unresponsive or in trouble after a substance, get adult
+or medical help and stay with them. A learner with a family member using drugs meets
 compassion, never blame; point to a trusted adult, counsellor, doctor, or helpline.
 
 ## Procedure

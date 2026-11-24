@@ -129,7 +129,8 @@ for a test.
 **The lenses, briefly.**
 
 - *Ethics:* a metaphor can wound or heal, so we choose figures with care.
-- *Egalitarianism:* figurative language is everywhere, in every language and social class.
+- *Egalitarianism:* figurative language is everywhere, in every language and social
+  class.
 - *Global:* languages make different pictures — "raining cats and dogs," "raining
   ropes," "raining pitchers" — and none is more correct.
 - *Social-emotional:* naming tone is naming feeling, in a text and in ourselves.

@@ -137,7 +137,8 @@ changed how we trade, often for good and for strain, never equally.
   trade.
 - *Ethics:* not all trade was free — some was built on theft and slavery, faced later in
   this unit.
-- *Egalitarianism:* gains were never shared equally; ask who benefits and who is left out.
+- *Egalitarianism:* gains were never shared equally; ask who benefits and who is left
+  out.
 - *Critical-thinking:* a long view separates a real trend from one vivid event.
 
 **The skill.** Sort the evidence into change and continuity, then explain one item in

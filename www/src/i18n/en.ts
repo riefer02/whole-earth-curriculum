@@ -195,6 +195,8 @@ export interface UI {
         sources: string;
         objectives: string;
         thinUnits: string;
+        notes: string;
+        graphics: string;
         verdicts: string;
       };
       statusNote: string;
@@ -824,6 +826,8 @@ const en: UI = {
         citations: 'Lessons citing a registered source',
         sources: 'Sources in the registry',
         objectives: 'Learning goals covered by at least one lesson',
+        notes: 'Facilitator notes inside the reading budget',
+        graphics: 'Graphics that describe themselves to a screen reader',
         thinUnits: 'Units with fewer than four lessons',
         verdicts: 'Recorded workflow review verdicts',
       },

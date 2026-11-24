@@ -121,23 +121,18 @@ are part of the place, not separate from it — so every action, small as it loo
 
 **Tone.** Hopeful and unblaming — each of us has power to help.
 
-**The facts to land.**
-1. The lesson **investigates** how one action helps or harms a **local** place —
-   stewardship with agency.
-2. An action that harms the water harms the fish, the birds, and the people downstream,
-   because all parts depend on each other.
-3. Caring actions need no money — planting a seed, sweeping a path, keeping trash out of
-   a stream, watering a plant, telling others kindly — and people everywhere practice
-   these.
+**The facts to land.** 1. The lesson **investigates** how one action helps or harms a
+**local** place — stewardship with agency. 2. An action that harms the water harms the
+fish, the birds, and the people downstream, because all parts depend on each other. 3.
+Caring actions need no money — planting a seed, sweeping a path, keeping trash out of a
+stream, watering a plant, telling others kindly — and people everywhere practice these.
 
 **Don't overshoot.** The point is not to shame anyone for litter; people often lack
 bins, time, or systems. Show that many small helps add up.
 
-**The lenses, briefly.**
-- *Environment:* one action travels through a system.
-- *Ethics:* care is offered, not imposed.
-- *Community:* a shared place is kept by many hands.
-- *Egalitarianism:* no help is too small.
+**The lenses, briefly.** - *Environment:* one action travels through a system. -
+*Ethics:* care is offered, not imposed. - *Community:* a shared place is kept by many
+hands. - *Egalitarianism:* no help is too small.
 
 **The skill.** Look at a before and after, then say whether the action helped or harmed,
 and who was affected.
@@ -145,8 +140,8 @@ and who was affected.
 Model the before-and-after comparison, then guide learners to observe or recall a real
 local action before they record (Kirschner, Sweller & Clark, 2006).
 
-**Safety floor.** if trash has no bin to go to, say so plainly and without blame, and focus on
-what *is* possible.
+**Safety floor.** if trash has no bin to go to, say so plainly and without blame, and
+focus on what *is* possible.
 
 **Access:** describe the pictures for a learner who is blind or has low vision; a
 learner who does not speak points to help or harm; acting out the two actions works for

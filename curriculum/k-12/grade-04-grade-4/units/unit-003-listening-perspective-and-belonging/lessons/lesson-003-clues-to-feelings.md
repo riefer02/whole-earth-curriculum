@@ -118,8 +118,8 @@ here the new piece is *explaining the why* with a "because" that ties the feelin
 **what happened**. Teach it as explicit, worked instruction: model reading one scenario,
 naming each clue kind, then speaking the full "they might feel… because…" sentence
 (Kirschner, Sweller & Clark, 2006). Guard the honest limit: clues let us *guess*, not
-*know* — feelings belong to the person, and our first guess can be wrong. Always pair the
-guess with a check ("Did I read that right?"), which loops back to Lesson 1's active
+*know* — feelings belong to the person, and our first guess can be wrong. Always pair
+the guess with a check ("Did I read that right?"), which loops back to Lesson 1's active
 listening and Lesson 2's "check it feels fair." Honor every culture's ways of showing
 feeling — some faces are quieter, some voices louder, and no one way is the "right" one.
 Read the procedure aloud and model with voice and body.

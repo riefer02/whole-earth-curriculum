@@ -127,8 +127,8 @@ has its own safety wisdom (drying, fermenting, salting, quick cooking).
 
 **The lenses, briefly.**
 
-- *Egalitarianism:* safe food is a right, and not everyone has clean water, refrigeration,
-  or a safe kitchen — a fair world works to change that.
+- *Egalitarianism:* safe food is a right, and not everyone has clean water,
+  refrigeration, or a safe kitchen — a fair world works to change that.
 - *Global:* no single tradition owns food safety; the low-tech variants honor this.
 - *Ethics:* keeping food safe is how we care for the people we cook for.
 - *Environment:* chilling and cooking use energy; fresh, local food can mean safer food

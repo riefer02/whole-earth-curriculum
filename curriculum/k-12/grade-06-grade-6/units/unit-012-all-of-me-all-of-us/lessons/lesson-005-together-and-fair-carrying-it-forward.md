@@ -127,14 +127,15 @@ city, a village, a team, or a shared Earth.
 
 ## Facilitator note
 
-This is the unit's **closing capstone and celebration**, written to the learner ("you"). It
-**retrieves** cooperation-vs-competition and unequal-shares from Unit 3 (see L.06.003.09–10) and
-gathers the whole year into one commitment — a spiral, not a repeat. Hold the ethical core
-firmly and kindly: **unequal shares come from systems and circumstances, never from a person's
-worth**, and fairness is something people build together. Never ask learners to disclose their
-own family's resources. Keep the closing **celebratory, not ranked**: every portfolio is complete
-and worthy; the measure is growth, not comparison (`docs/philosophy.md` §8). Model one commitment
-of each kind first (Kirschner, Sweller & Clark, 2006). See `docs/facilitation.md`.
+This is the unit's **closing capstone and celebration**, written to the learner ("you").
+It **retrieves** cooperation-vs-competition and unequal-shares from Unit 3 (see
+L.06.003.09–10) and gathers the whole year into one commitment — a spiral, not a repeat.
+Hold the ethical core firmly and kindly: **unequal shares come from systems and
+circumstances, never from a person's worth**, and fairness is something people build
+together. Never ask learners to disclose their own family's resources. Keep the closing
+**celebratory, not ranked**: every portfolio is complete and worthy; the measure is
+growth, not comparison (`docs/philosophy.md` §8). Model one commitment of each kind
+first (Kirschner, Sweller & Clark, 2006). See `docs/facilitation.md`.
 
 ## Procedure
 

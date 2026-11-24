@@ -134,8 +134,8 @@ story — and can see themselves in it. Today you build that picture.
 2. The eight: competing explanations for the Maya collapse; change and continuity in
    trade; comparing wayfinding and Indian Ocean navigation; cultural blending on the
    Swahili coast; Silk Roads and Indian Ocean networks; environmental migration
-   (Ancestral Pueblo, past and present); slavery and resistance; how enslaved and colonized peoples kept
-   humanity, culture, and hope.
+   (Ancestral Pueblo, past and present); slavery and resistance; how enslaved and
+   colonized peoples kept humanity, culture, and hope.
 3. Recall, not re-reading, is what makes learning durable (S-039).
 
 **Don't overshoot.** A learner who cannot yet recall a goal revisits that lesson's

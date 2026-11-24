@@ -130,8 +130,8 @@ future. Today you learn the name for living inside that rule: **sustainability**
 **The lenses, briefly.**
 
 - *Environment:* the Earth's systems are the account we draw on.
-- *Egalitarianism:* the future is children everywhere; those least responsible for overuse
-  are often hit first (S-005).
+- *Egalitarianism:* the future is children everywhere; those least responsible for
+  overuse are often hit first (S-005).
 - *Ethics:* taking more than your share of a shared resource is unfair, now and later.
 - *Global:* a well in one village and a forest in another are the same arithmetic
   (S-004).

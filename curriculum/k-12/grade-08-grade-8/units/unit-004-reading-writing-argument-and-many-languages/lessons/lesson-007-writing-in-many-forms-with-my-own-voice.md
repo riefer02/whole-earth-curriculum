@@ -129,8 +129,8 @@ three, so you can choose the right form for the job, in your own words, in your 
 
 - *Ethics:* choosing the form for the audience is honesty — a report should not pretend
   to be a story.
-- *Egalitarianism:* every learner has a voice worth hearing; writing in one's home language
-  is welcome.
+- *Egalitarianism:* every learner has a voice worth hearing; writing in one's home
+  language is welcome.
 - *Global:* forms vary across cultures — a story, a case, a report look different in
   different traditions, and all are legitimate.
 - *Social-emotional:* voice is the self in the writing; encourage learners to sound like

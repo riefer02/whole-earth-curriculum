@@ -128,7 +128,8 @@ humans have found.
 **The lenses, briefly.**
 
 - *Intellectual:* the theorem is a claim about areas, not a chant.
-- *Egalitarianism:* a rope with 3-4-5 knots makes a true right angle for anyone, anywhere.
+- *Egalitarianism:* a rope with 3-4-5 knots makes a true right angle for anyone,
+  anywhere.
 - *Global:* the relationship was known before Pythagoras — Babylonian records (Plimpton
   322, c. 1800 BCE, S-354), India's Sulbasutras (rope rules for altars, c. 800 BCE,
   S-292), and China's gou-gu rule (S-289). The name is widely used, not a claim about

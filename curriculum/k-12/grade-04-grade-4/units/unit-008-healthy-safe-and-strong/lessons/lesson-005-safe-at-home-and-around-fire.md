@@ -117,30 +117,26 @@ rules.
 
 **Tone.** Empowering — practice it.
 
-**The facts to land.**
-1. Never touch matches, lighters, or a cooking flame without an adult.
-2. If you see smoke or fire, **tell an adult** and get out. In smoke, **crawl low**, and
-   **know two ways out** of every room.
-3. If your clothes catch fire, **stop, drop, and roll** — stop moving, drop down, cover
-   your face, roll.
-4. These follow widely taught guidance (stop-drop-roll, crawl low, two ways out),
-   recommended by fire-safety and Red Cross organizations.
+**The facts to land.** 1. Never touch matches, lighters, or a cooking flame without an
+adult. 2. If you see smoke or fire, **tell an adult** and get out. In smoke, **crawl
+low**, and **know two ways out** of every room. 3. If your clothes catch fire, **stop,
+drop, and roll** — stop moving, drop down, cover your face, roll. 4. These follow widely
+taught guidance (stop-drop-roll, crawl low, two ways out), recommended by fire-safety
+and Red Cross organizations.
 
 **Don't overshoot.** A child's job is to get out and get help, not to fight a fire.
 
-**The lenses, briefly.**
-- *Physical:* the body rehearses the motion.
-- *Ethics:* getting out protects the people who come to help.
-- *Community:* the plan belongs to the household.
-- *Intellectual:* two ways out is a plan, not a fact.
+**The lenses, briefly.** - *Physical:* the body rehearses the motion. - *Ethics:*
+getting out protects the people who come to help. - *Community:* the plan belongs to the
+household. - *Intellectual:* two ways out is a plan, not a fact.
 
 **The skill.** Practice each motion once, then say the two ways out of this room.
 
-**Safety floor.** practice in the open, **never near a real flame**. Adapt every motion. A
-learner who uses a wheelchair practices the two-ways-out plan and how to alert an adult;
-a learner with limited movement practices "drop and cover, then call"; a learner who is
-deaf or hard of hearing must know a smoke alarm they can feel or see — a strobe, or a
-trusted person. A learner who is blind or has low vision practices the route
+**Safety floor.** practice in the open, **never near a real flame**. Adapt every motion.
+A learner who uses a wheelchair practices the two-ways-out plan and how to alert an
+adult; a learner with limited movement practices "drop and cover, then call"; a learner
+who is deaf or hard of hearing must know a smoke alarm they can feel or see — a strobe,
+or a trusted person. A learner who is blind or has low vision practices the route
 hand-over-hand and says the rules aloud.
 
 D03.S4.04.01; then road and water.

@@ -139,8 +139,8 @@ revising, and a way of critiquing that uses **evidence** — what is actually th
   with respectful questions, never as specimens (S-056).
 - *Ethics:* critique is honest and kind — it names what is there and separates fact from
   taste (`philosophy` §5).
-- *Egalitarianism:* every learner can make with what is at hand — paper, voice, body, found
-  objects.
+- *Egalitarianism:* every learner can make with what is at hand — paper, voice, body,
+  found objects.
 
 **The skill.** Spacing: this recall pass is what makes the unit's ideas stick later
 (S-039).

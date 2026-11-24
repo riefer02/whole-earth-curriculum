@@ -135,8 +135,8 @@ and provisional.
 - *Environment:* adaptation is the living world's answer to its conditions.
 - *Global:* biomes repeat across continents — deserts on every landmass, rainforests
   near the equator (S-396).
-- *Egalitarianism:* human life is adapted too — desert, tundra, and rainforest peoples have
-  built knowledge fitted to those places, and no people are "behind."
+- *Egalitarianism:* human life is adapted too — desert, tundra, and rainforest peoples
+  have built knowledge fitted to those places, and no people are "behind."
 - *Ethics:* clearing a forest or damming a river changes the conditions life was fitted
   to; ask what that costs.
 - *Technology:* maps, satellites, and climate data let us compare biomes across the

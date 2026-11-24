@@ -117,13 +117,13 @@ makes a group feel welcoming." The two ideas to land: **welcome is something you
 (specific, learnable acts), and **belonging matters because it lets people learn, help,
 and be themselves** — not because it feels merely pleasant. Teach the welcome ways as
 explicit instruction and model each with a greeting (Kirschner, Sweller & Clark, 2006).
-Hold the global lens: welcome customs differ across cultures, and none is the "right" one
-— honor them side by side. Hold the egalitarian lens: a community that welcomes everyone
-is stronger for everyone; the newcomer is not a "guest to be tolerated" but a full member
-with something to give. Notice the technology lens lightly: a newcomer might connect
-online before arriving, and a kind message can be a first welcome — but a screen cannot
-replace the seat offered or the name spoken. Keep this lesson warm and concrete, never a
-lecture; the welcome circle is the heart of it.
+Hold the global lens: welcome customs differ across cultures, and none is the "right"
+one — honor them side by side. Hold the egalitarian lens: a community that welcomes
+everyone is stronger for everyone; the newcomer is not a "guest to be tolerated" but a
+full member with something to give. Notice the technology lens lightly: a newcomer might
+connect online before arriving, and a kind message can be a first welcome — but a screen
+cannot replace the seat offered or the name spoken. Keep this lesson warm and concrete,
+never a lecture; the welcome circle is the heart of it.
 
 ## Procedure
 

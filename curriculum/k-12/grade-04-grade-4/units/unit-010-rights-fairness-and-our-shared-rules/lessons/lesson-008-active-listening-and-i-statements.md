@@ -123,30 +123,26 @@ disagreement fairly.
 
 **Tone.** Warm and rehearsing — clumsy first tries are part of it.
 
-**The facts to land.**
-1. **"I" statement:** I feel ___ when ___ because ___; I need ___.
-2. **Active listening:** face the speaker, hear them, reflect back — "I hear that you
-   feel ___."
-3. "I" statements name *feelings and needs*, not blame; they are not a magic script, and
-   practice makes them real.
+**The facts to land.** 1. **"I" statement:** I feel ___ when ___ because ___; I need
+___. 2. **Active listening:** face the speaker, hear them, reflect back — "I hear that
+you feel ___." 3. "I" statements name *feelings and needs*, not blame; they are not a
+magic script, and practice makes them real.
 
 **Don't overshoot.** Do not present the script as a guaranteed fix. The first try is
 often clumsy, and that is expected.
 
-**The lenses, briefly.**
-- *Ethics:* the statement names a need, not a fault.
-- *Egalitarianism:* both halves of the talk belong to both people.
-- *Social-emotional:* invented disagreements keep it safe.
-- *Community:* the pair practices together.
-- *Critical-thinking:* which half did you just do?
+**The lenses, briefly.** - *Ethics:* the statement names a need, not a fault. -
+*Egalitarianism:* both halves of the talk belong to both people. - *Social-emotional:*
+invented disagreements keep it safe. - *Community:* the pair practices together. -
+*Critical-thinking:* which half did you just do?
 
 **The skill.** Say an I-statement, then listen and reflect back.
 
 This is a **skill** lesson: model the exchange with puppets, then rehearse in pairs
 before independent use (Kirschner, Sweller & Clark, 2006).
 
-**Safety floor.** use only invented, gentle disagreements; never have learners role-play a
-real, live conflict in the class.
+**Safety floor.** use only invented, gentle disagreements; never have learners role-play
+a real, live conflict in the class.
 
 **Access:** a learner who does not speak fills the frame by pointing to feeling-word
 cards; a learner who is deaf or hard of hearing follows the frames through sign and the

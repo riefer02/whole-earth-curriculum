@@ -43,6 +43,14 @@ resolve to real standard IDs.
 - Frontmatter is validated against JSON Schema in `schema/`. Run `npm run validate`
   after any content change; it must pass. When lesson citations or `sources/` change,
   also run `npm run sources:index` and `npm run lint:sources`.
+- `validate` proves a file is *well-formed*; `npm run audit` proves it is *usable*. Run
+  both. The audit enforces the two things that had quietly rotted across every grade:
+  a `## Facilitator note` over the word budget or written as one unbroken paragraph,
+  and a graphic whose text leaves its own canvas, whose type was shrunk below 12px to
+  fit, or whose labels point at nothing. CI runs `npm run audit:ci`, a ratchet against
+  `tools/audit/baseline.json`; it fails when the must-fix count grows. Full rules:
+  `docs/facilitation.md` § "Writing a facilitator note" and `docs/art-style.md`
+  § "Diagrams: label what you point at".
 - IDs must follow the scheme in `docs/taxonomy.md`. Never invent a new ID format.
 - Every lesson must include required body headings (`## Procedure`, `## Assessment`
   at minimum) and must visibly carry the cross-cutting lenses.
@@ -96,4 +104,6 @@ maintainer directs otherwise.
   workflow.
 - Do not introduce content that promotes hierarchy, supremacy, or enrichment of the
   few over the many.
-- Do not claim work as done before it validates.
+- Do not claim work as done before it validates and audits clean.
+- Do not add a facilitator note over budget, or a graphic whose text runs off its canvas
+  or whose labels are not joined to what they label. Render every SVG before shipping it.

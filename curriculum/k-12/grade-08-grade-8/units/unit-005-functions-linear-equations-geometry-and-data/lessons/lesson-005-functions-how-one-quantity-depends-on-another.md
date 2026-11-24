@@ -128,8 +128,8 @@ give two outputs for one input.
 **The lenses, briefly.**
 
 - *Intellectual:* the rule-table-graph trio is one idea seen three ways.
-- *Egalitarianism:* once you can read f(x), you can check any claim that "this depends on
-  that," whoever makes it (`philosophy` §4).
+- *Egalitarianism:* once you can read f(x), you can check any claim that "this depends
+  on that," whoever makes it (`philosophy` §4).
 - *Global:* describing dependence appears across traditions (the proportional "per one"
   reasoning of the Rhind Papyrus, S-288) and grows into a universal form.
 - *Technology:* a graphing tool makes the connection visible, but the understanding

@@ -43,16 +43,24 @@ do not need to edit agent state.
 
 ```bash
 npm install
-npm run validate
+npm run validate   # is the file well-formed?
+npm run audit      # is it usable?
 ```
 
-All checks must pass before a change is merged. CI enforces this automatically.
+`validate` checks the schema, required headings, IDs, asset paths and citations.
+`audit` checks the two things a reader feels but a schema cannot see: that the
+facilitator note fits a teacher's twenty seconds, and that every graphic renders
+inside its own canvas with its labels joined to what they label. Both must pass;
+CI enforces them, and fails if the audit's must-fix count grows.
+
+See [`docs/facilitation.md`](docs/facilitation.md) § "Writing a facilitator note" and
+[`docs/art-style.md`](docs/art-style.md) § "Diagrams: label what you point at".
 
 ## Submitting changes
 
 1. Create a branch.
 2. Make focused, reviewable changes.
-3. Run `npm run validate`.
+3. Run `npm run validate` and `npm run audit`.
 4. Open a pull request describing what changed and why.
 
 By contributing, you agree your contribution is licensed under the same terms as the

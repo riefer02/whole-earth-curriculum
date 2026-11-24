@@ -142,8 +142,8 @@ learner do the washing.
 through each motion hand-over-hand. Deaf or hard of hearing: watch the demonstration
 from the front and use picture step cards — every step is shown, not only told.
 
-**Safety floor.** Watch each learner and support gently; this extends Kindergarten's "Washing
-Hands, Washing Me" (U.00.002) into independent practice.
+**Safety floor.** Watch each learner and support gently; this extends Kindergarten's
+"Washing Hands, Washing Me" (U.00.002) into independent practice.
 
 ## Procedure
 

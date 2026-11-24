@@ -118,14 +118,14 @@ help, and then celebrate all the ways you keep your body healthy, safe, and stro
 - Keep the tone warm and empowering. Asking for help is a strength, and telling is never
   wrong. Never frighten learners with graphic content; stay with "tell a trusted adult."
 - Frame "keep telling" as persistence, not as "adults won't believe you": if the first
-  grown-up is busy or doesn't understand, tell another, and another, until someone listens
-  and helps.
+  grown-up is busy or doesn't understand, tell another, and another, until someone
+  listens and helps.
 - Practice every situation with the doll or a role-play partner, never with real bodies.
-  Greetings and touch differ around the world — hugs, handshakes, joined palms, bows — but
-  consent applies to all: a child may decline any touch they do not want, and "no" and
-  "stop" are always okay.
-- Honor every way of asking: speaking, signing, pointing, showing a picture, or tapping a
-  shoulder all work. A learner who is deaf or hard of hearing practices in their sign
+  Greetings and touch differ around the world — hugs, handshakes, joined palms, bows —
+  but consent applies to all: a child may decline any touch they do not want, and "no"
+  and "stop" are always okay.
+- Honor every way of asking: speaking, signing, pointing, showing a picture, or tapping
+  a shoulder all work. A learner who is deaf or hard of hearing practices in their sign
   language and points to the scenario cards; face the learner for every demonstration.
 - **If a child discloses abuse or an unsafe situation:** stay calm; believe them; thank
   them for telling you; do **not** promise secrecy; do not press for details or ask

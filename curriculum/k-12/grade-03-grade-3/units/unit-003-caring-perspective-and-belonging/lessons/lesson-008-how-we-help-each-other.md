@@ -112,9 +112,9 @@ helping one another as equals, because caring for each other is how communities 
 
 This lesson teaches **mutual aid**, the curriculum's name for care that flows between
 equals rather than down from above. The distinction matters: mutual aid is not charity —
-it is neighbors helping neighbors as part of one shared life, and the one who helps today
-is helped tomorrow. Keep it concrete and close to the learner's own world so the concept
-is real, not abstract. Invite every kind of helping and every kind of family and
+it is neighbors helping neighbors as part of one shared life, and the one who helps
+today is helped tomorrow. Keep it concrete and close to the learner's own world so the
+concept is real, not abstract. Invite every kind of helping and every kind of family and
 community shape; a single-parent home, an extended family, a chosen community, and a
 village council are all full ways of belonging. Be gentle: some learners have seen
 storms, scarcity, or hard seasons, and a helping story may touch real memory — honor it

@@ -132,8 +132,8 @@ identity explains a person.
 - *Social-emotional:* naming your parts can make a whole self easier to see.
 - *Ethics:* seeing a whole person, not a label, is how we avoid reducing someone to a
   single trait.
-- *Egalitarianism:* no identity is above another; ability and language are named alongside
-  culture and gender so every learner's parts count.
+- *Egalitarianism:* no identity is above another; ability and language are named
+  alongside culture and gender so every learner's parts count.
 - *Global:* which identity feels largest changes by place — a home language may be minor
   at school, and a person may be read differently in different countries.
 - *Technology:* platforms sort us into categories that can flatten a whole person into

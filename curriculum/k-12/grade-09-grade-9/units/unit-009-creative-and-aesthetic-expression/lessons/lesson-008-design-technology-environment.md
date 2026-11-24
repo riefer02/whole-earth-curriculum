@@ -118,18 +118,20 @@ differently.
 
 ## Facilitator note
 
-This lesson is analysis, not a morality play — the point is that every design is a **trade-off**, and
-the trade-offs look different in different places. The **environment** and **technology** lenses
-carry it: trace each object from **materials → making → use → disposal**, and ask about **embodied
-energy** (the energy spent to make it), **durability**, and **waste**. The **egalitarian** lens: who
-can afford the cheap plastic bottle versus the handmade pot, who lives near the factory and the
-landfill, and who has no choice at all — environmental harm falls unevenly (this lesson connects to
-Grade 9 environmental justice). The **ethics** lens: a designer who leaves out wheelchair users,
-children, or the poor has made a decision, not an oversight; **accessibility** is a design choice.
-Keep the **worked example** on one object, then let learners trace the other (S-011). Use the
-**circular economy** idea as a horizon: designing so a thing can be repaired, reused, or returned to
-the loop, not thrown away (S-452). Hold questions as questions — there is rarely one "right" object,
-only clearer trade-offs.
+This lesson is analysis, not a morality play — the point is that every design is a
+**trade-off**, and the trade-offs look different in different places. The
+**environment** and **technology** lenses carry it: trace each object from **materials →
+making → use → disposal**, and ask about **embodied energy** (the energy spent to make
+it), **durability**, and **waste**. The **egalitarian** lens: who can afford the cheap
+plastic bottle versus the handmade pot, who lives near the factory and the landfill, and
+who has no choice at all — environmental harm falls unevenly (this lesson connects to
+Grade 9 environmental justice). The **ethics** lens: a designer who leaves out
+wheelchair users, children, or the poor has made a decision, not an oversight;
+**accessibility** is a design choice. Keep the **worked example** on one object, then
+let learners trace the other (S-011). Use the **circular economy** idea as a horizon:
+designing so a thing can be repaired, reused, or returned to the loop, not thrown away
+(S-452). Hold questions as questions — there is rarely one "right" object, only clearer
+trade-offs.
 
 ## Procedure
 

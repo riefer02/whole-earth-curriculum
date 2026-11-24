@@ -119,17 +119,19 @@ Today you run the loop yourself and feel what the tool changes.
 
 ## Facilitator note
 
-The goal is the *loop and the reflection*, not a flawless object. If there is no machine, hand tools
-carry the whole lesson — and the reflection is even sharper ("what could a machine have done that my
-hand could not?"). The **technology** lens is the heart: name precisely what a fabrication tool
-changes — **precision**, **speed of iteration**, **replication**, and **parametric design** (change one
-number and the whole object updates). The **egalitarian** lens: who gets access to a makerspace or a
-printer, and who does not? Community fab labs exist in part to make these tools common property rather
-than a luxury (S-451). The **environment** lens: ask what the material is, where it comes from, and
-what happens to the waste and the failed versions — fabrication is not cost-free. The **ethics** lens:
-designing an object for *someone* (a user) is a responsibility — does it work, and for whom? Use a
-**worked example**: model the imagine → plan step together before independent making (S-011). Keep
-safety first with any cutting or heated tool.
+The goal is the *loop and the reflection*, not a flawless object. If there is no
+machine, hand tools carry the whole lesson — and the reflection is even sharper ("what
+could a machine have done that my hand could not?"). The **technology** lens is the
+heart: name precisely what a fabrication tool changes — **precision**, **speed of
+iteration**, **replication**, and **parametric design** (change one number and the whole
+object updates). The **egalitarian** lens: who gets access to a makerspace or a printer,
+and who does not? Community fab labs exist in part to make these tools common property
+rather than a luxury (S-451). The **environment** lens: ask what the material is, where
+it comes from, and what happens to the waste and the failed versions — fabrication is
+not cost-free. The **ethics** lens: designing an object for *someone* (a user) is a
+responsibility — does it work, and for whom? Use a **worked example**: model the imagine
+→ plan step together before independent making (S-011). Keep safety first with any
+cutting or heated tool.
 
 ## Procedure
 

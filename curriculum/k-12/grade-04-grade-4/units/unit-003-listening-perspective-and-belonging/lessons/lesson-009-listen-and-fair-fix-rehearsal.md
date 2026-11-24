@@ -121,14 +121,15 @@ This rehearsal combines and retrieves Lessons 1 and 2 — the heart of the unit'
 interpersonal work. The evidence-based move here is **spaced practice with feedback**:
 rather than teaching anything new, learners retrieve and *use* both skills together, and
 get a peer-check on whether they used them (see `docs/contexts.md` on retrieval and
-feedback). Run it as guided practice before any independent role-play (Kirschner, Sweller
-& Clark, 2006). Protect the flow: *listen first, then fix* — a fair fix that skips the
-paraphrase often misses what the other side actually needs. Watch for the learner who
-jumps straight to "winning"; invite them back to "what did you hear them need?" Honor
-every way of performing — sign, gesture, a written script, a puppet, a scribed line — all
-are full rehearsals. This is egalitarian and ethical practice: both voices get heard, and
-the fix must serve both. A learner who uses only one skill today is *not yet* at both —
-name the one they did well, then invite the second. Read the procedure aloud.
+feedback). Run it as guided practice before any independent role-play (Kirschner,
+Sweller & Clark, 2006). Protect the flow: *listen first, then fix* — a fair fix that
+skips the paraphrase often misses what the other side actually needs. Watch for the
+learner who jumps straight to "winning"; invite them back to "what did you hear them
+need?" Honor every way of performing — sign, gesture, a written script, a puppet, a
+scribed line — all are full rehearsals. This is egalitarian and ethical practice: both
+voices get heard, and the fix must serve both. A learner who uses only one skill today
+is *not yet* at both — name the one they did well, then invite the second. Read the
+procedure aloud.
 
 ## Procedure
 

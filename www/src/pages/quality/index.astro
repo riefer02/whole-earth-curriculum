@@ -4,7 +4,15 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { ui } from '../../i18n';
 import { loadSources } from '../../lib/sources';
 import { lessonsByUnit } from '../../lib/data';
-import { citationCoverage, objectiveCoverage, reviewVerdicts, tallyStatus } from '../../lib/quality';
+import {
+  citationCoverage,
+  graphicDescriptions,
+  noteBudget,
+  objectiveCoverage,
+  reviewVerdicts,
+  tallyStatus,
+  NOTE_BUDGET_WORDS,
+} from '../../lib/quality';
 
 const p = ui.pages.quality;
 
@@ -20,6 +28,8 @@ const unitStatus = tallyStatus(units);
 const citations = citationCoverage(lessons);
 const objectives = objectiveCoverage(domains, lessons);
 const verdicts = reviewVerdicts();
+const notes = noteBudget(lessons);
+const graphics = graphicDescriptions(lessons);
 
 const numbers = (value: number) => value.toLocaleString('en-US');
 const statuses = (byStatus: Record<string, number>) =>
@@ -48,6 +58,14 @@ const rows = [
   {
     label: p.rows.thinUnits,
     value: thinUnits.length ? thinUnits.map((u) => u.id).join(', ') : '\u2014',
+  },
+  {
+    label: p.rows.notes,
+    value: `${numbers(notes.within)} / ${numbers(notes.total)} (${numbers(NOTE_BUDGET_WORDS)}-word budget)`,
+  },
+  {
+    label: p.rows.graphics,
+    value: `${numbers(graphics.described)} / ${numbers(graphics.total)}`,
   },
   {
     label: p.rows.verdicts,

@@ -121,29 +121,27 @@ map.
 
 **Tone.** Plain and neutral — the label informs, never judges.
 
-**The facts to land.**
-1. Five parts: **serving size** (how much the label describes), **energy**
-   (calories/kcal), **sugar** (a kind of carbohydrate, often sweet), **salt** (sodium),
-   and **fiber** (plant food that helps digestion).
-2. These five parts follow widely used labelling, as described in World Health
-   Organization guidance on food labels.
-3. Different bodies and lives need different amounts, and a food is not a person.
+**The facts to land.** 1. Five parts: **serving size** (how much the label describes),
+**energy** (calories/kcal), **sugar** (a kind of carbohydrate, often sweet), **salt**
+(sodium), and **fiber** (plant food that helps digestion). 2. These five parts follow
+widely used labelling, as described in World Health Organization guidance on food
+labels. 3. Different bodies and lives need different amounts, and a food is not a
+person.
 
 **Don't overshoot.** Do not rank foods as "good" or "bad," and never connect a label
 number to a body's size or worth.
 
-**The lenses, briefly.**
-- *Physical:* the label describes what the body takes in.
-- *Intellectual:* read the parts in the same order every time.
-- *Egalitarianism:* no number on a packet measures a person.
-- *Global:* labels differ by country; these five parts are the common ground.
+**The lenses, briefly.** - *Physical:* the label describes what the body takes in. -
+*Intellectual:* read the parts in the same order every time. - *Egalitarianism:* no
+number on a packet measures a person. - *Global:* labels differ by country; these five
+parts are the common ground.
 
 **The skill.** Read the five parts in order, then say what the label tells you.
 
 This opens D03.S3.04.01 and leads into choosing a healthier option.
 
-**Safety floor.** not every learner has packaged food at home, and fresh, home-cooked, or
-market food often has no label. That is normal and fine.
+**Safety floor.** not every learner has packaged food at home, and fresh, home-cooked,
+or market food often has no label. That is normal and fine.
 
 **Access:** a learner who is blind or has low vision hears the parts described in order
 and feels raised shapes; a learner who does not use a speaking voice points to each

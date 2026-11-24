@@ -124,13 +124,13 @@ that lives inside every design.
 3. **Solar lamp:** clean and safe, but costs more upfront, which limits access, and it
    depends on sunlight and a battery that will one day be waste (S-095, S-371).
 
-**Don't overshoot.** Do not present solar as a simple answer or kerosene as simply "bad"
-— the trade-off is real, with access caught in the middle.
+**Don't overshoot.** Do not present solar as a simple answer or kerosene as simply
+"bad" — the trade-off is real, with access caught in the middle.
 
 **The lenses, briefly.**
 
-- *Egalitarianism:* access is the corner that asks who is left out — a lamp that costs too
-  much stays out of the hands that need it most.
+- *Egalitarianism:* access is the corner that asks who is left out — a lamp that costs
+  too much stays out of the hands that need it most.
 - *Ethics:* ignoring safety or the environment to save cost is a moral choice, not only
   a technical one.
 - *Global:* this trade-off is being made right now, from Nairobi to the Himalayas, where

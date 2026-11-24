@@ -136,8 +136,8 @@ as content to master today.
 **The lenses, briefly.**
 
 - *Ethics:* how we treat our own and others' bodies is a question of right and wrong.
-- *Egalitarianism:* ask early "who gets welcomed into movement and who gets left out" — it
-  returns in Lesson 6.
+- *Egalitarianism:* ask early "who gets welcomed into movement and who gets left out" —
+  it returns in Lesson 6.
 - *Global:* bodies, games, and ways of caring for the body differ across peoples and
   places; keep the frame broad, never one region's default.
 - *Technology & environment:* screens, devices, and the places we can safely move all

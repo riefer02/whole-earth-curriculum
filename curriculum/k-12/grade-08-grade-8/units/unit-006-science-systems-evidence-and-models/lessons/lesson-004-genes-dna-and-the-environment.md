@@ -126,8 +126,8 @@ into fixed "races" (S-177).
 
 **The lenses, briefly.**
 
-- *Egalitarianism:* the "races" story is social, not genetic — central and non-negotiable
-  (S-177).
+- *Egalitarianism:* the "races" story is social, not genetic — central and
+  non-negotiable (S-177).
 - *Ethics:* because environment matters, a fair world gives every child the nutrition,
   safety, and care that let their genes do their best.
 - *Global:* the same DNA and rules of inheritance operate in every living thing, from a

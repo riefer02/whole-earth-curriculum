@@ -129,7 +129,8 @@ classmate into a project.
 - *Community:* many small welcomes add up to one wider circle (S-233).
 - *Social-emotional:* being outside is painful; hold that gently.
 - *Ethics:* welcoming the stranger is a core duty across cultures, not a nicety.
-- *Egalitarianism:* ask not only "are we friendly?" but "who is always left out, and why?"
+- *Egalitarianism:* ask not only "are we friendly?" but "who is always left out, and
+  why?"
 - *Global:* what "welcome" looks like differs — a shared meal, a spoken greeting, a
   place at the fire — but making room recurs everywhere.
 - *Technology:* online spaces can include a newcomer or quietly exclude them.

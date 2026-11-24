@@ -127,18 +127,18 @@ can make sure more people have **enough**.
 
 ## Facilitator note
 
-This is the unit **capstone**, written to the learner ("you"). Handle it with care — this is
-the lesson where a learner could feel shamed for having less or blamed for having more, and
-neither may ever happen. The idea to land is that **unequal shares come from systems and
-circumstances, never from a person's worth** — and that **fairness is something people build
-together, not something some people deserve and others don't**. Keep the analysis at the level
-of *systems* (work and pay, land and inheritance, health and disability, war and displacement,
-unfair rules), never at the level of individual character. Never ask learners to disclose their
-own family's resources. Always connect the analysis to **agency and hope** — a concrete fair
-action — so the lesson lands as empowerment, not despair (`docs/facilitation.md`; `docs/
-development.md` 6–8 band). Model one worked example first (Kirschner, Sweller & Clark, 2006).
-The distinction "how things are vs what people deserve" is the ethical core; hold it firmly
-and kindly.
+This is the unit **capstone**, written to the learner ("you"). Handle it with care —
+this is the lesson where a learner could feel shamed for having less or blamed for
+having more, and neither may ever happen. The idea to land is that **unequal shares come
+from systems and circumstances, never from a person's worth** — and that **fairness is
+something people build together, not something some people deserve and others don't**.
+Keep the analysis at the level of *systems* (work and pay, land and inheritance, health
+and disability, war and displacement, unfair rules), never at the level of individual
+character. Never ask learners to disclose their own family's resources. Always connect
+the analysis to **agency and hope** — a concrete fair action — so the lesson lands as
+empowerment, not despair (`docs/facilitation.md`; `docs/ development.md` 6–8 band).
+Model one worked example first (Kirschner, Sweller & Clark, 2006). The distinction "how
+things are vs what people deserve" is the ethical core; hold it firmly and kindly.
 
 ## Procedure
 

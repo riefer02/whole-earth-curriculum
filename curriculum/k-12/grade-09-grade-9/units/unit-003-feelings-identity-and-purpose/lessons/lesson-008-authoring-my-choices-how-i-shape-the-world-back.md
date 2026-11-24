@@ -119,24 +119,22 @@ the arrow.
 **The facts to land.**
 
 1. **Values → choices** — what a person values and believes steers what they do: who
-they defend, how they spend time, whom they help or hurt.
-2. **Effects** — choices have consequences for the self, for others, and for the
-community.
-3. **The feedback loop** — small choices, repeated, harden into habits, and habits
-become identity: what a person does comes to be part of who they are.
+they defend, how they spend time, whom they help or hurt. 2. **Effects** — choices have
+consequences for the self, for others, and for the community. 3. **The feedback loop** —
+small choices, repeated, harden into habits, and habits become identity: what a person
+does comes to be part of who they are.
 
 **Don't overshoot.** This is about *agency*, not *blame* — a learner is the author of
 their choices but not of everything that happens to them.
 
 **The lenses, briefly.**
 
-- *Ethics:* a choice's rightness is judged by its effects on others, not only by how
-it feels, and the same choice can look different from another person's side.
-- *Egalitarianism:* agency is not equally distributed — money, safety, or prejudice limit
+- *Ethics:* a choice's rightness is judged by its effects on others, not only by how it
+feels, and the same choice can look different from another person's side. -
+*Egalitarianism:* agency is not equally distributed — money, safety, or prejudice limit
 the freedom to act on one's values — so honour effort without blaming those with fewer
-choices.
-- *Community:* a person's choices ripple through the people around them, so authorship
-is also responsibility.
+choices. - *Community:* a person's choices ripple through the people around them, so
+authorship is also responsibility.
 
 **The skill.** **Worked example, then guided practice** (S-011): trace one choice from
 value to effect to habit, then trace a learner's own invented case.

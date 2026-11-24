@@ -134,8 +134,8 @@ remember what we already know about keeping it healthy, safe, and strong — and
 - *Physical:* health is a set of daily habits, not a look.
 - *Ethics:* knowing the facts about food and substances helps us choose safely for
   ourselves and others.
-- *Egalitarianism:* access to healthy food, clean water, and care is unequal; a fair world
-  works to change that.
+- *Egalitarianism:* access to healthy food, clean water, and care is unequal; a fair
+  world works to change that.
 - *Global:* people everywhere keep well in different ways, and no way is the only way.
 - *Technology & environment:* screens and sleep, food systems and clean water, medicines
   and devices all shape a body's health.

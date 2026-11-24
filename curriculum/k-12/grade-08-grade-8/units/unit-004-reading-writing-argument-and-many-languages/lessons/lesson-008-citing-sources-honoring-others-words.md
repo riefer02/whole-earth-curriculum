@@ -130,8 +130,8 @@ perfect formatting.
 
 - *Ethics:* attribution is honesty toward the people whose thinking we build on — this
   lesson's heart.
-- *Egalitarianism:* the right to be credited belongs to everyone — a scholar in a library
-  and a grandparent in a village.
+- *Egalitarianism:* the right to be credited belongs to everyone — a scholar in a
+  library and a grandparent in a village.
 - *Global:* every culture has customs of giving credit and passing knowledge (oral
   traditions name the teller, as griots do); citing is one custom, its purpose
   universal.

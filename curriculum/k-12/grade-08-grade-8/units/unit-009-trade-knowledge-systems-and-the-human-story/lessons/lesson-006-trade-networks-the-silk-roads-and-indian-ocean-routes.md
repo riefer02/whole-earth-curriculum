@@ -139,8 +139,8 @@ requires noting that some routes later carried the slave trade.
 - *Technology:* camel caravans and oasis stops on land; the dhow and monsoon calendar at
   sea.
 - *Ethics:* exchange was mostly mutual, but not all movement was free.
-- *Egalitarianism:* the caravan guides, sailors, porters, and multilingual merchants made
-  the network, and old records often leave them unnamed — we name them.
+- *Egalitarianism:* the caravan guides, sailors, porters, and multilingual merchants
+  made the network, and old records often leave them unnamed — we name them.
 
 **The skill.** Map one route, then mark on it one good, one belief, and one technology
 that travelled (`philosophy` §11).

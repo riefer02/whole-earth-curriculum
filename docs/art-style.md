@@ -85,6 +85,16 @@ The grayscale pass is the print test: if the diagram still reads, it ships. `npm
 audit` catches the mechanical half of this (text leaving the canvas, hand-shrunk type,
 markers with no leaders, stick-figure bodies) — but it cannot see, so look.
 
+Two audit rules are advisory by design and will fire on good graphics:
+
+- **`labels-float-free`** — small circles with no leader line. Eyes, seeds, produce,
+  electrons, and legend swatches look exactly like callout markers to a regex. Check
+  the render; if the circles are part of the picture rather than pointing at it, leave
+  them.
+- **`text-in-transformed-group`** — text inside a `scale()` or `rotate()`. Rotation is
+  often the meaning (an axis title, chips slapped on at uneven angles, a label parallel
+  to its vector). Confirm it sits inside the frame at 480px and leave it.
+
 ## SVG best practices
 
 - Inline shapes only — **no external fonts or images** (they break when ported).

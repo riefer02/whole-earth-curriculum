@@ -128,8 +128,8 @@ rung (`philosophy` §11).
   repaired, not that someone "wins."
 - *Social-emotional:* naming the feeling lowers its heat.
 - *Community:* conflicts live in real places and relationships, not in the abstract.
-- *Egalitarianism:* ask whose voice is heard and whose is not — restorative practice only
-  works if the less powerful are genuinely heard.
+- *Egalitarianism:* ask whose voice is heard and whose is not — restorative practice
+  only works if the less powerful are genuinely heard.
 
 **The skill.** Use a case, not a real conflict among the learners, and remind them that
 naming a response is not the same as acting on it (`facilitation.md`).

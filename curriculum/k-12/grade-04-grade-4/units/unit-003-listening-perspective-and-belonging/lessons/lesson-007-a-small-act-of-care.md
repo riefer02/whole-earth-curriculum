@@ -116,13 +116,13 @@ This is the unit's action lesson, building on Lesson 5's "my role." Teach the pl
 explicit instruction — *what, why, steps, who, what we need* — and model filling one out
 (Kirschner, Sweller & Clark, 2006). The value to protect: **care is chosen and organized
 by the learners, not performed to be praised**, and the point is the *shared good*, not
-an individual reward. This is egalitarianism and ethics in practice: everyone contributes,
-and the benefit flows to the whole — including the natural world when the "shared space"
-is outdoors. Keep the acts safe, doable, and within reach; a heavy or risky task is
-scaled down so every learner can contribute a real step. Honor every ability: a learner
-who cannot lift plans, counts, fetches, or holds the door — all are full acts of care.
-Record the act for the portfolio and reflect on the *change*, not the praise. Read the
-procedure aloud.
+an individual reward. This is egalitarianism and ethics in practice: everyone
+contributes, and the benefit flows to the whole — including the natural world when the
+"shared space" is outdoors. Keep the acts safe, doable, and within reach; a heavy or
+risky task is scaled down so every learner can contribute a real step. Honor every
+ability: a learner who cannot lift plans, counts, fetches, or holds the door — all are
+full acts of care. Record the act for the portfolio and reflect on the *change*, not the
+praise. Read the procedure aloud.
 
 ## Procedure
 

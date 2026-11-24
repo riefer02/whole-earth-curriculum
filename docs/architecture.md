@@ -38,7 +38,7 @@ evidence lineage therefore meet at the lesson without changing either ID scheme.
 | `curriculum/k-12/` | Grade-level units and lessons. The **how**. |
 | `sources/` | Vetted references and the generated lesson-usage index. The **evidence**. |
 | `agents/` | The curriculum-building agent crew, its loop, backlog, and state. |
-| `tools/` | Validator and loop orchestrator (the only code today). |
+| `tools/` | Validator, usability audit, citation lint, and the loop orchestrator. |
 | `assets/` | Scholastic assets referenced by lessons (images, worksheets, audio, video). |
 | `.github/` | CI workflows. |
 

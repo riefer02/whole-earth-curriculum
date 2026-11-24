@@ -128,8 +128,8 @@ not let one plate become the standard for every body.
 
 **The lenses, briefly.**
 
-- *Egalitarianism:* access to a full, varied plate is unequal; food security is a matter of
-  justice (S-120).
+- *Egalitarianism:* access to a full, varied plate is unequal; food security is a matter
+  of justice (S-120).
 - *Global:* many cultures express "balanced" differently — grain plus legume (rice and
   beans, maize and beans, bread and chickpeas) makes protein complete.
 - *Ethics:* planning a meal for a family is an act of care.

@@ -109,15 +109,15 @@ resistance.
 
 ## Facilitator note
 
-The skill to land: **judge a strategy by its fit** — aim, risk, and effect together.
-The **ethics** lens: nonviolent civil disobedience accepts a cost (arrest, punishment) to
+The skill to land: **judge a strategy by its fit** — aim, risk, and effect together. The
+**ethics** lens: nonviolent civil disobedience accepts a cost (arrest, punishment) to
 expose an unjust law — a choice, not an accident. The **egalitarian** lens: the Chipko
 movement was led in large part by village women defending the forests their communities
 depended on (S-328) — a reminder that resistance has many faces, not only famous
 leaders. The **environment** lens: Chipko links the struggle for dignity to the defense
-of the land itself. The **global** lens: three continents, one shared repertoire.
-The **critical-thinking** lens: no single strategy is "best" in the abstract; learners
-argue fit for a specific struggle.
+of the land itself. The **global** lens: three continents, one shared repertoire. The
+**critical-thinking** lens: no single strategy is "best" in the abstract; learners argue
+fit for a specific struggle.
 
 ## Procedure
 
