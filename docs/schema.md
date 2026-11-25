@@ -137,6 +137,17 @@ In addition to valid frontmatter, the Markdown body must include certain heading
 The validator checks these. Content that fails frontmatter or heading checks will
 not pass CI.
 
+## Citations
+
+Every factual or pedagogical claim cites a registered source as `(S-nnn)` at the
+sentence, **and** lists it in that lesson's `## Resources` as
+`- On <what>: Author — Title (S-nnn).` The registry is `sources/sources.yaml`; search
+it with `npm run sources:find -- <term>`. `npm run lint:sources` fails when a citation
+is missing from the registry, unreviewed, or absent from that lesson's Resources — a
+citation the reader cannot trace is not a citation. Where no registered source supports
+a claim, cut the claim or leave it uncited; do not attach a source that merely gestures
+at it.
+
 Two more budgets are checked by `npm run audit` (see `npm run audit -- --all`):
 
 - **`## Facilitator note` — 250 words, in labelled blocks.** See

@@ -18,6 +18,37 @@ the curriculum stays honest (see [`docs/philosophy.md`](../docs/philosophy.md) �
 - Cite registered sources in lesson bodies and `## Resources` using their `S-NNN`
   IDs. The source linter treats missing or unreviewed references as errors.
 
+## Finding one, instead of inventing one
+
+The registry is searched, not browsed:
+
+```bash
+npm run sources:find -- retrieval
+npm run sources:find -- "hand hygiene" --limit 5
+```
+
+It prints the ID, year, title, URL and domains of every match, and exits non-zero when
+nothing matches. That non-zero exit is the useful part: "no registered source supports
+this claim" is a finding, not a reason to cite something adjacent. Either cut the claim,
+or leave it uncited and say so in the pull request.
+
+## Adding a source
+
+1. Confirm the source exists and says what you need it to say. Open the URL; do not
+   work from memory or from a citation you saw elsewhere.
+2. Add it to `sources/sources.yaml` with the next free `S-NNN`, the fields below, and
+   `reviewed: true` only if you actually verified it.
+3. In `notes`, record **what the source supports**, **which lesson uses it for what**,
+   and **when you checked it** (e.g. "Verified live 2026-11-25: the entry states …").
+   That note is what lets the next person audit the citation instead of trusting it.
+4. Wire it into the lesson twice: inline as `(S-NNN)` at the sentence it supports, and
+   in that lesson's `## Resources` as
+   `- On <what>: Author — Title (S-NNN).`
+5. `npm run sources:index && npm run lint:sources`.
+
+A citation that does not support the sentence it sits on is worse than no citation: a
+reviewer checks one, finds it misapplied, and the whole registry loses credibility.
+
 ## Evidence graph
 
 [`usage.md`](usage.md) is a generated reverse index from each registered source to

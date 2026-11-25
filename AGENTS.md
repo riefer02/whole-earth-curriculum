@@ -58,7 +58,13 @@ resolve to real standard IDs.
   written through the lenses of **ethics, egalitarianism, global/anthropological
   perspective, and the effect of technology on humanity and the environment**.
 - Avoid U.S.-centric or Eurocentric default framing; the curriculum is global.
-- Cite sources for factual/scientific claims; distinguish evidence from values.
+- Cite sources for factual/scientific claims; distinguish evidence from values. Use a
+  source already in `sources/sources.yaml` — find it with
+  `npm run sources:find -- <term>` — cite it inline as `(S-nnn)`, and list it in that
+  lesson's `## Resources`. Never invent a source, never add one to the registry without
+  verifying it yourself, and never cite a source that does not directly support the
+  sentence it sits on. Where nothing registered fits, cut the claim or leave it uncited
+  and say so.
 
 ## 4. The agent loop
 

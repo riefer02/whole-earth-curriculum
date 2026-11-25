@@ -60,6 +60,7 @@ See [`docs/architecture.md`](docs/architecture.md) and
 npm install            # installs the validator + loop tooling only
 npm run validate       # validate all curriculum/agents content against the schema
 npm run audit          # usability audit: note length, unreadable graphics
+npm run sources:find -- retrieval   # search the vetted source registry
 npm run loop:report    # see curriculum-building progress
 npm run loop:next      # see the next backlog item to work
 ```
