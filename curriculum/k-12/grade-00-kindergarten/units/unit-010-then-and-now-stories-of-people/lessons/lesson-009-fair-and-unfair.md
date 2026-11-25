@@ -73,7 +73,8 @@ last_updated: 2026-08-15
 
 Learners hear a gentle, blame-free story about someone being treated fairly or
 unfairly. They name which is which, notice how it felt, and retell the story in
-their own words.
+their own words. Fairness is not just a rule someone made: children treat harm and
+unfairness as wrong even when no rule forbids it (S-515).
 
 ## Objectives
 
@@ -134,3 +135,9 @@ understanding fairness.
   and which was unfair?
 - **Formative (oral):** Does the learner retell the story, keeping the fair and
   unfair parts clear?
+
+## Resources
+
+- On children distinguishing fairness from rules and conventions, from before age four:
+  Stanford Encyclopedia of Philosophy — The Moral/Conventional Distinction (S-515),
+  summarizing Turiel, The Development of Social Knowledge (1983).

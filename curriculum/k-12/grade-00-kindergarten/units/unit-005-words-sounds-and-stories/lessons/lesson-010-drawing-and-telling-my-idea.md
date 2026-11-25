@@ -110,7 +110,8 @@ are real authorship.
    as simple as you like. Your drawing does not have to look like anyone else's.
 3. **Tell what it means (15 min).** Show your drawing to a partner or a grown-up. Tell
    them what it means, in your own words, in whatever language feels best. If a grown-up
-   can, let them write your words beside your drawing.
+   can, let them write your words beside your drawing. A picture with words for it is
+   where writing starts: children compose long before they spell (S-510).
 4. **Read it back (5 min).** Look at your drawing and your written words together. You
    made a message! Point to the parts as someone reads your words back to you.
 5. **Close (5 min).** Remember: a drawing plus your words is a complete idea. You are
@@ -134,3 +135,10 @@ are real authorship.
 
 At home, draw a picture of something that matters to you and tell a grown-up what it
 means. Ask them to write your words down beside it, then read it back together.
+## Resources
+
+- On children composing and spelling before they read, and why their invented spellings
+  are systematic rather than mistakes: Read — Pre-school children’s knowledge of English
+  phonology (S-510).
+- On writing developing before formal instruction: Ferreiro & Teberosky — Literacy
+  Before Schooling (S-511).

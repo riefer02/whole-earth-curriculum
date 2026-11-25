@@ -4763,3 +4763,100 @@ sources:
     domains: [D01, D02, D10]
     reviewed: true
     notes: "Buen vivir (Spanish 'living well') / sumak kawsay (Kichwa/Quechua) is an Andean–Amazonian philosophy of the good life — revived and written into Ecuador's 2008 and Bolivia's 2009 constitutions — that holds a good life as living well in harmony with the community and the living Earth (Pachamama), often contrasted with 'living better' as endless accumulation. Cited in U.12.012 L02 (My Meaningful Life Goal) as a named, respectful, non-Western shape of 'a meaningful life,' held side by side with other models so no single (Western, self-actualizing) template of the good life is the default (philosophy §11). Academic reference: Eduardo Gudynas (2011), 'Buen Vivir: Today's Tomorrow,' Development 54(4): 441–447; also Alberto Acosta (2013), 'Buen Vivir: The Right to a Good Life,' in Buen Vivir and the Rights of Nature (Zed Books). Bibliographic details confirmed (orchestrator, 2026-08-25): Gudynas (2011) 'Buen Vivir: Today's Tomorrow,' Development 54(4): 441–447, is a real, widely-cited academic article; buen vivir / sumak kawsay's codification in Ecuador's 2008 and Bolivia's 2009 constitutions is standard and accurate."
+
+  - id: S-510
+    title: "Read (1971) — Pre-school children's knowledge of English phonology"
+    type: article
+    author: Charles Read
+    organization: "Harvard Educational Review, 41(1): 1–34"
+    year: 1971
+    url: https://www.harvardeducationalreview.org/content/41/1/1
+    domains: [D04]
+    reviewed: true
+    notes: "The study that first documented children's invented spelling: preschoolers who could not yet read, but knew letter names and some sounds, wrote words on their own and arrived independently at strikingly similar spelling systems (e.g. letter-name spellings, syllabic L and R, omitted preconsonantal nasals). Cited in U.00.005 L10 (Drawing and Telling My Idea) and L11 (Writing My Own Story) and in U.01.004 L12 (Writing My Own Sentence) for the claim that young children compose and spell before they read or spell conventionally, and that their invented spellings are systematic rather than random — which is why a facilitator should accept the attempt and respond to the meaning. DOI 10.17763/haer.41.1.91367v0h80051573. Verified live 2026-11-25: the Harvard Educational Review page for vol. 41 no. 1 carries the article with the abstract; the bibliographic details (Read, C., 1971, HER 41(1), 1–34) were confirmed independently by the publisher's citation record."
+
+  - id: S-511
+    title: "Ferreiro & Teberosky (1982) — Literacy Before Schooling"
+    type: book
+    author: Emilia Ferreiro, Ana Teberosky
+    organization: "Heinemann (English translation; Spanish original 1979)"
+    year: 1982
+    url: https://eric.ed.gov/?id=ED263542
+    domains: [D04]
+    reviewed: true
+    notes: "The classic longitudinal study (Buenos Aires, 1974–1976) of how preschool children construct ideas about writing before formal instruction: writing as marks, then as a fixed number of letters per word, then syllable-based hypotheses, then alphabetic correspondence. Cited in U.00.005 L10 and L11 for the claim that composition and the growth of writing begin well before conventional spelling, so early writing should be read for meaning, not corrected letter by letter. Confirmed 2026-11-25: ERIC record ED263542 describes the 1982 Heinemann edition (289 pp.) and its chapters on the evolution of writing from preschool to school-age; the English edition (Heinemann, 1982) is the standard citation for the original 1979 Spanish text."
+
+  - id: S-512
+    title: "Feder & Majnemer (2007) — Handwriting development, competency, and intervention"
+    type: article
+    author: Katya P. Feder, Annette Majnemer
+    organization: "Developmental Medicine & Child Neurology, 49(4): 312–317"
+    year: 2007
+    url: https://onlinelibrary.wiley.com/doi/10.1111/j.1469-8749.2007.00312.x
+    domains: [D03, D04]
+    reviewed: true
+    notes: "A review of what handwriting depends on: fine motor control (in-hand manipulation, bilateral integration, motor planning), visual–motor integration, proprioception, and sustained attention — and of how letter formation develops from early scribbling through copying strokes, circles, crosses and squares. Cited in U.01.002 L09 (Cutting, Threading and Buttoning) for the claim that the small-muscle skills practised in threading, cutting and fastening are the same component skills that later carry letter formation, so the practice is writing-readiness, not busywork. DOI 10.1111/j.1469-8749.2007.00312.x. Verified live 2026-11-25 (Wiley Online Library and PubMed 17376144): the abstract lists fine motor control, bilateral and visual–motor integration, motor planning, in-hand manipulation and proprioception among handwriting's component skills."
+
+  - id: S-513
+    title: "WHO Multicentre Growth Reference Study Group (2006) — Motor development milestones: windows of achievement for six gross motor milestones"
+    type: report
+    organization: "World Health Organization; Acta Paediatrica, Suppl. 450: 86–95"
+    year: 2006
+    url: https://www.who.int/tools/child-growth-standards/standards/motor-development-milestones
+    domains: [D03]
+    reviewed: true
+    notes: "WHO's windows of achievement for six gross motor milestones — sitting without support, standing with assistance, hands-and-knees crawling, walking with assistance, standing alone, walking alone — from longitudinal data on 816 children in Ghana, India, Norway, Oman and the USA. The windows are wide and overlapping (e.g. walking alone 8.2–17.6 months), which is the point: there is no single normal age. Cited in U.00.010 L02 (When I Was Little) for the claim that a child who was once small learned to sit, stand and walk, and that healthy children reach those milestones across a wide range of ages. Verified live 2026-11-25: the WHO page publishes the tables and graphs of the six windows, citing Acta Paediatrica Supplement 450 (2006), 86–95."
+
+  - id: S-514
+    title: "Juslin & Sloboda (eds.) (2010) — Handbook of Music and Emotion: Theory, Research, Applications"
+    type: book
+    author: Patrik N. Juslin, John A. Sloboda
+    organization: Oxford University Press
+    year: 2010
+    url: https://doi.org/10.1093/acprof:oso/9780199230143.001.0001
+    domains: [D07]
+    reviewed: true
+    notes: "The standard scholarly handbook on how music expresses and arouses emotion, across philosophy, musicology, psychology, neurobiology, anthropology and sociology, including the structural features (tempo, dynamics, timbre, mode) that listeners associate with emotional character and cross-cultural similarities and differences (ch. 27), and the early development of affective responses to music (ch. 23). Cited in U.00.007 L05 (How Music Feels) for the claim that music's pace and loudness shape how it feels to listen — fast and loud tending toward excitement or alertness, slow and soft toward calm or sadness — held as a tendency in listeners, not a universal law, and credited to the listener's response rather than to the music carrying a fixed meaning. DOI 10.1093/acprof:oso/9780199230143.001.0001. Verified live 2026-11-25 (Oxford Academic, DOI resolves): title, editors, publisher and 2010 date confirmed; chapter list includes 'Perspectives on music and affect in the early years' and 'Cross-cultural similarities and differences'."
+
+  - id: S-515
+    title: "Stanford Encyclopedia of Philosophy — The Moral/Conventional Distinction"
+    type: website
+    author: Julia Driver
+    organization: Stanford Encyclopedia of Philosophy
+    year: 2022
+    url: https://plato.stanford.edu/entries/moral-conventional/
+    domains: [D09]
+    reviewed: true
+    notes: "Surveys the empirical and philosophical case, originating with Turiel, that children distinguish moral matters (harm, fairness, rights — treated as universal and independent of any rule or authority) from social conventions (local and alterable). Reports that by their fourth birthday most children respond systematically differently to the two, and that fairness and equality were added to the moral domain as the evidence accumulated. Cited in U.00.010 L09 (Fair and Unfair) for the claim that even young children treat fairness as more than a rule someone made — which is why a kindergarten lesson can ask whether something is fair rather than only whether it breaks a rule. Primary work: Elliot Turiel, The Development of Social Knowledge: Morality and Convention (Cambridge University Press, 1983). Verified live 2026-11-25: the SEP entry states the definition of the moral domain ('prescriptive judgments of justice, rights and welfare'), the authority-independence and universalizability tests, and the emergence of the distinction before age four."
+
+  - id: S-516
+    title: "National Early Literacy Panel (2008) — Developing Early Literacy: Report of the National Early Literacy Panel"
+    type: report
+    organization: "National Institute for Literacy (U.S.)"
+    year: 2008
+    url: https://www.nichd.nih.gov/sites/default/files/publications/pubs/documents/NELPReport09.pdf
+    domains: [D04]
+    reviewed: true
+    notes: "A meta-analysis of roughly 300 studies identifying which early skills predict later literacy. Oral language — the ability to produce and comprehend spoken language, including vocabulary and grammar — is among the predictors, and the panel found that more complex oral-language measures (grammar, definitional vocabulary, listening comprehension) relate more strongly to later reading comprehension than simple vocabulary does. Cited in U.01.004 L03 (Speaking in Complete Sentences) for the claim that speaking in full sentences is worth practising in its own right, not merely as a step toward writing: oral language is one of the foundations later literacy is built on. Verified live 2026-11-25: the NICHD-hosted PDF of the report is available and reports the predictor variables and the oral-language analysis; the report's 2008 publication by the National Institute for Literacy is standard."
+
+  - id: S-517
+    title: "Stanford Encyclopedia of Philosophy — Metaethics (the is/ought gap and the fact–value distinction)"
+    type: website
+    author: Geoff Sayre-McCord
+    organization: Stanford Encyclopedia of Philosophy
+    year: 2007
+    url: https://plato.stanford.edu/entries/metaethics/
+    domains: [D09]
+    reviewed: true
+    notes: "The entry's section on 'Is/Ought and the Open Question Argument' states the problem the lesson teaches: no set of claims about plain matters of fact entails an evaluative claim, so every valid argument for an 'ought' either includes or presupposes at least one evaluative premise. That is the precise reason a statement can be checkably true, sincerely believed, and still not settle what ought to be done. Cited in U.06.010 L01 (Fact, Belief, or Value?) for the distinction the lesson asks learners to make between what is the case, what someone holds to be the case, and what ought to be the case — and for the rule that a value is not refuted by evidence in the way a fact is. Verified live 2026-11-25: the SEP entry is available and §4 sets out the is/ought gap as described."
+
+  - id: S-518
+    title: "Clements & Sarama (2020) — Learning and Teaching Early Math: The Learning Trajectories Approach (3rd ed.)"
+    type: book
+    author: Douglas H. Clements, Julie Sarama
+    organization: Routledge
+    year: 2020
+    url: https://doi.org/10.4324/9781003083528
+    domains: [D05]
+    reviewed: true
+    notes: "The learning-trajectories approach to early mathematics, including a Classification and Data Analysis trajectory: children move from intuitively grouping similar things (infancy), to following an adult's sorting rule, to sorting by an explicit attribute, to sorting consistently and re-sorting by a different attribute, and eventually to classifying by multiple and then hierarchical attributes. Sorting is therefore not a filler activity but the foundation of data work and of the unitizing that counting depends on. Cited in U.00.006 L09 (Sorting Into Groups) for the claim that sorting by one attribute, then another, is a real developmental step in mathematics rather than a craft task. DOI 10.4324/9781003083528. Verified live 2026-11-25 (Taylor & Francis): 3rd edition, Routledge, 2020, described as summarising research into how young children learn mathematics; the Classification and Data Analysis trajectory and its levels are published on the authors' learningtrajectories.org site with the same citation (Clements & Sarama, 2020)."

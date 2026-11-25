@@ -84,7 +84,7 @@ last_updated: 2026-08-15
 Learners practice three small hand movements — cutting along a line, threading beads
 onto a string, and buttoning — at three stations. Each job builds the careful finger
 control needed for dressing, making, and writing, with larger pieces and adapted
-versions for every hand.
+versions for every hand. These are the same small-muscle skills that letter formation later depends on (S-512).
 
 ## Objectives
 
@@ -156,3 +156,8 @@ as real choices, never as "less." Supervise scissors closely.
 
 Practice one careful hand job at home — buttoning your own shirt, threading a bead,
 or folding paper — and show someone what your hands can do.
+## Resources
+
+- On fine motor control, in-hand manipulation and visual–motor integration as the
+  component skills of handwriting: Feder & Majnemer — Handwriting development, competency,
+  and intervention (S-512).

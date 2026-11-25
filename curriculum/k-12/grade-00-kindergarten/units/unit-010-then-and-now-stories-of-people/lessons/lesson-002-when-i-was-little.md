@@ -73,7 +73,9 @@ last_updated: 2026-08-15
 ## Summary
 
 Learners tell their own "then and now" story by comparing "little me" and "now me."
-They draw both and notice one thing that changed and one that stayed the same.
+They draw both and notice one thing that changed and one that stayed the same. Learning
+to sit, stand and walk is one change nearly every healthy child makes, across a wide
+range of ages (S-513).
 
 ## Objectives
 
@@ -129,3 +131,9 @@ want to share. There is no "correct" family history.
 - **Formative (observation):** Can the learner name one thing that changed and one
   that stayed the same?
 - **Artifact (portfolio):** The two-frame "little me / now me" drawing.
+
+## Resources
+
+- On the ages at which healthy children sit, stand and walk, and how wide that range
+  is: WHO Multicentre Growth Reference Study Group — Motor development milestones
+  (S-513).

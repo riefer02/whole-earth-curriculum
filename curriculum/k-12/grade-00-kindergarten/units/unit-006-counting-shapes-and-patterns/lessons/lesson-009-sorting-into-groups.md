@@ -78,7 +78,8 @@ last_updated: 2026-08-15
 Learners sort a mixed collection into groups by **one feature** — color, size, or
 kind — and then compare the groups to tell which has **more**. They discover that
 sorting is how people everywhere organize their world, and that "more" is a fact,
-never a judgment about a group's worth.
+never a judgment about a group's worth. Sorting by one attribute, and then re-sorting
+the same objects a different way, is a real step in learning mathematics (S-518).
 
 ## Objectives
 
@@ -142,7 +143,8 @@ mouth stick while a partner moves it.
    two groups up side by side, one to one, or count each group. Which has more? Which
    has fewer? Remember: "more" just tells a fact — it does not make one group better.
 4. **Sort a new way (10 min).** Mix everything up again. Can you sort by a different
-   feature this time? Say your new rule and compare the groups again.
+   feature this time? Say your new rule and compare the groups again. Being able to
+   re-sort the same set by a new attribute is the step after sorting by one rule (S-518).
 5. **Close (5 min).** Remember: sorting is how we organize the world so we can see
    it. One feature at a time — that is all it takes.
 
@@ -164,3 +166,8 @@ mouth stick while a partner moves it.
 
 At home, sort something real with a grown-up — spoons and forks, or socks by color —
 say your sorting rule, and tell which group has more.
+
+## Resources
+
+- On sorting and classifying as a learning trajectory in early mathematics:
+  Clements & Sarama — Learning and Teaching Early Math (S-518).

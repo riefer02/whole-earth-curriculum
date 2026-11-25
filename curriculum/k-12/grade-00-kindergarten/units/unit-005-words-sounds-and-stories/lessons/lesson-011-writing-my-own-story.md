@@ -118,7 +118,8 @@ part in my own words."
    last?
 3. **Make your book (20 min).** On your pages, draw and write your story — one part
    per page. Use pictures and any marks you like. If a grown-up can, tell them your
-   words and let them write them beside your pictures.
+   words and let them write them beside your pictures. Pictures and marks that stand in
+   for words are a real stage of learning to write, not a failure to spell (S-511).
 4. **Read it aloud (10 min).** Read your book to a partner or the group, pointing to
    each page as you go. You are the author, so you know the story best.
 5. **Close (5 min).** Remember: you have a story no one else has, and now it lives on
@@ -142,3 +143,9 @@ part in my own words."
 
 At home, make a family storybook together: each person draws one page of a story you
 all invent, then read the whole book aloud.
+## Resources
+
+- On the stages children pass through in learning what writing is, before conventional
+  spelling: Ferreiro & Teberosky — Literacy Before Schooling (S-511).
+- On invented spelling as systematic: Read — Pre-school children’s knowledge of English
+  phonology (S-510).

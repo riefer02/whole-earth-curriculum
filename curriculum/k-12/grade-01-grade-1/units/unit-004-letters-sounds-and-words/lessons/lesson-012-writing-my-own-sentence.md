@@ -117,7 +117,8 @@ handwriting, is the goal.
    and a what happened. Say it a second time so it is firm in your mind.
 3. **Write it (15 min).** Write your sentence. Open with a capital letter, and
    finish with an end mark — a period, question mark, or exclamation mark. Write
-   slowly and carefully.
+   slowly and carefully. Spell each word the way you hear it: a child’s own spelling is
+   systematic and is how writing begins (S-510).
 4. **Check it (10 min).** Read your sentence back. Does it have a capital at the
    start? An end mark at the finish? A full thought in the middle? Fix anything
    missing.
@@ -144,3 +145,7 @@ handwriting, is the goal.
 ## Home connection
 
 Write one sentence about something at home and read it to your family at a meal.
+## Resources
+
+- On children’s invented spelling as a systematic stage of learning to write: Read —
+  Pre-school children’s knowledge of English phonology (S-510).

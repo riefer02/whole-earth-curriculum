@@ -76,7 +76,9 @@ last_updated: 2026-08-15
 
 Learners learn that a complete sentence has a "who" and a "what happened." They
 build sentences from simple frames, then share an idea of their own in a full
-sentence so others can understand them.
+sentence so others can understand them. Speaking in full sentences is worth practising
+in its own right: oral language is one of the foundations later reading is built on
+(S-516).
 
 ## Objectives
 
@@ -146,3 +148,8 @@ ways is still a complete sentence.
 
 Tell someone at home one complete sentence about your day, and ask them to tell you
 one back.
+
+## Resources
+
+- On oral language, including grammar, as a predictor of later literacy: National Early
+  Literacy Panel — Developing Early Literacy (S-516).

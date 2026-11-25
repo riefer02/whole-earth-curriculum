@@ -7,10 +7,10 @@ To locate a lesson file for a source, run `rg -l "S-NNN" curriculum/k-12`.
 
 ## Summary
 
-- Registered sources: 509
-- Sources cited by lessons: 507
+- Registered sources: 518
+- Sources cited by lessons: 516
 - Lessons scanned: 1693
-- Source-to-lesson links: 4485
+- Source-to-lesson links: 4497
 - Registered sources not cited by a lesson: 2
 
 ## Sources
@@ -526,6 +526,15 @@ To locate a lesson file for a source, run `rg -l "S-NNN" curriculum/k-12`.
 | [S-507](#s-507) | Stockholm Resilience Centre / Rockström et al. — Planetary Boundaries | D10 | yes | 1 |
 | [S-508](#s-508) | Ubuntu — Southern African philosophy of personhood ('a person is a person through other persons') | D01, D02 | yes | 7 |
 | [S-509](#s-509) | Buen vivir / sumak kawsay — Andean philosophy of 'living well' in harmony with community and nature | D01, D02, D10 | yes | 3 |
+| [S-510](#s-510) | Read (1971) — Pre-school children's knowledge of English phonology | D04 | yes | 3 |
+| [S-511](#s-511) | Ferreiro & Teberosky (1982) — Literacy Before Schooling | D04 | yes | 2 |
+| [S-512](#s-512) | Feder & Majnemer (2007) — Handwriting development, competency, and intervention | D03, D04 | yes | 1 |
+| [S-513](#s-513) | WHO Multicentre Growth Reference Study Group (2006) — Motor development milestones: windows of achievement for six gross motor milestones | D03 | yes | 1 |
+| [S-514](#s-514) | Juslin & Sloboda (eds.) (2010) — Handbook of Music and Emotion: Theory, Research, Applications | D07 | yes | 1 |
+| [S-515](#s-515) | Stanford Encyclopedia of Philosophy — The Moral/Conventional Distinction | D09 | yes | 1 |
+| [S-516](#s-516) | National Early Literacy Panel (2008) — Developing Early Literacy: Report of the National Early Literacy Panel | D04 | yes | 1 |
+| [S-517](#s-517) | Stanford Encyclopedia of Philosophy — Metaethics (the is/ought gap and the fact–value distinction) | D09 | yes | 1 |
+| [S-518](#s-518) | Clements & Sarama (2020) — Learning and Teaching Early Math: The Learning Trajectories Approach (3rd ed.) | D05 | yes | 1 |
 
 ## Usage details
 
@@ -3759,3 +3768,57 @@ Cited by 7 lessons:
 Cited by 3 lessons:
 
 - `L.00.004.13`, `L.00.012.07`, `L.12.012.02`
+
+### S-510
+
+Cited by 3 lessons:
+
+- `L.00.005.10`, `L.00.005.11`, `L.01.004.12`
+
+### S-511
+
+Cited by 2 lessons:
+
+- `L.00.005.10`, `L.00.005.11`
+
+### S-512
+
+Cited by 1 lesson:
+
+- `L.01.002.09`
+
+### S-513
+
+Cited by 1 lesson:
+
+- `L.00.010.02`
+
+### S-514
+
+Cited by 1 lesson:
+
+- `L.00.007.05`
+
+### S-515
+
+Cited by 1 lesson:
+
+- `L.00.010.09`
+
+### S-516
+
+Cited by 1 lesson:
+
+- `L.01.004.03`
+
+### S-517
+
+Cited by 1 lesson:
+
+- `L.06.010.01`
+
+### S-518
+
+Cited by 1 lesson:
+
+- `L.00.006.09`

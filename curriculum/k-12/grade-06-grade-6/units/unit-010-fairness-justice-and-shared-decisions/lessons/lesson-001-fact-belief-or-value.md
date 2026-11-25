@@ -85,7 +85,9 @@ last_updated: 2026-08-18
 
 Learners learn to tell the difference between a **fact** (a claim about how things are,
 that evidence can check), a **belief** (a claim a person holds but cannot fully check
-now), and a **value** (a claim about what *ought* to be). They sort a worked example,
+now), and a **value** (a claim about what *ought* to be). The line between them is not
+fussy philosophy: no set of statements about what *is* the case, on its own, entails a
+statement about what *ought* to be (S-517). They sort a worked example,
 then sort statement cards in pairs and record one fact, one belief, and one value from
 their own life.
 
@@ -198,3 +200,5 @@ tell someone how you could tell which was which.
   in CASEL, <https://casel.org/fundamentals-of-sel/>
 - On modeling a sort before independent practice: Kirschner, Sweller & Clark (2006),
   <https://doi.org/10.1207/s15326985ep4102_1>
+- On the is/ought gap and the fact–value distinction: Stanford Encyclopedia of Philosophy
+  — Metaethics (S-517).

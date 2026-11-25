@@ -86,7 +86,9 @@ last_updated: 2026-08-15
 
 Learners discover that music changes how they feel: fast and loud can feel exciting,
 slow and soft can feel calm. They make and listen to different kinds of sound and name
-the feeling each one brings, with words, a face, or a movement.
+the feeling each one brings, with words, a face, or a movement. Tempo and loudness
+shape emotional character for most listeners — a tendency, not a law, and the listener’s
+own response is the evidence here (S-514).
 
 ## Objectives
 
@@ -148,3 +150,9 @@ feel like *to you*?" and honor every answer, including a pointed face or a movem
 
 At home, make a fast sound and a slow sound and ask someone how each one feels. Do
 they feel it the same way you do?
+
+## Resources
+
+- On how tempo, dynamics and other musical features shape emotional response, and on
+  how responses differ between listeners and cultures: Juslin & Sloboda (eds.) — Handbook
+  of Music and Emotion (S-514).
